@@ -1,0 +1,16 @@
+== Prueba de conexión 2026-11-09T14:53:32Z ==
+HTTP/1.1 200 OK
+Connection: Keep-Alive
+Date: Mon, 09 Nov 2026 14:53:32 GMT
+Last-Modified: Sun, 08 Nov 2026 19:04:12 GMT
+ETag: "d7b5e1-65fc882ca6de6"
+Vary: Accept-Encoding
+Content-Type: application/atom+xml
+Set-Cookie: TS0177f194=01448a881b451474ad21c152ac3c54b002593de01e3f13db50fcf62f074de0653524f305600aefaf6486fa581a6da10621322cb94d; Path=/; Domain=.contrataciondelestado.es
+Transfer-Encoding: chunked
+
+Descargando página 1 ...
+Descargando página 2 ...
+Descargando página 3 ...
+Descargando página 4 ...
+Descargando página 5 ...
