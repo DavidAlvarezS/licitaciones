@@ -30,6 +30,7 @@ jobs:
 
       - name: Probar conexión con la plataforma
         continue-on-error: true
+        timeout-minutes: 2
         run: |
           {
             echo "== Prueba de conexión $(date -u +%FT%TZ) =="
@@ -37,10 +38,11 @@ jobs:
           } 2>&1 | tee run.log
 
       - name: Descargar y filtrar licitaciones
+        timeout-minutes: 12
         # Cambia aquí los filtros si quieres (ver opciones en el script)
         run: |
           set -o pipefail
-          python buscar_licitaciones.py --max-importe 60000 --cpv 72 --nuts ES11 --paginas 80 --salida licitaciones_filtradas.csv 2>&1 | tee -a run.log
+          python buscar_licitaciones.py --max-importe 60000 --cpv 72 --nuts ES11 --paginas 80 --max-minutos 9 --salida licitaciones_filtradas.csv 2>&1 | tee -a run.log
 
       - name: Guardar el CSV y el registro en el repositorio
         if: always()

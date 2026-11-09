@@ -11,7 +11,7 @@ Ejemplos:
   python buscar_licitaciones.py --nuts ES111 ES112 ES113 ES114   (solo provincias)
   python buscar_licitaciones.py --fichero licitaciones_202611.zip  (fichero ya descargado)
 """
-import argparse, csv, datetime as dt, io, sys, urllib.request, zipfile
+import argparse, csv, datetime as dt, io, sys, time, urllib.request, zipfile
 import xml.etree.ElementTree as ET
 
 # Feed de licitaciones publicadas en perfiles del contratante (se actualiza a diario).
@@ -99,10 +99,17 @@ def leer_atom(fuente, entradas, vistos_paginas):
     return siguiente
 
 
-def descargar(url):
+def descargar(url, espera=30, intentos=2):
+    """Descarga una URL. Espera máx. `espera` s por operación y reintenta una vez."""
     req = urllib.request.Request(url, headers={"User-Agent": "buscador-licitaciones/1.0"})
-    with urllib.request.urlopen(req, timeout=120) as r:
-        return r.read()
+    for i in range(1, intentos + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=espera) as r:
+                return r.read()
+        except Exception as e:
+            print(f"  intento {i}/{intentos} fallido: {e}", file=sys.stderr, flush=True)
+            if i == intentos:
+                raise
 
 
 def cumple(d, a):
@@ -138,6 +145,8 @@ def main():
     p.add_argument("--max-importe", type=float, default=60000, help="importe máx. sin IVA (def. 60000)")
     p.add_argument("--todas", dest="solo_publicadas", action="store_false",
                    help="incluir también cerradas/adjudicadas")
+    p.add_argument("--max-minutos", type=float, default=9,
+                   help="tiempo máx. de descarga; al llegar se guarda lo descargado (def. 9)")
     p.add_argument("--salida", default="licitaciones_filtradas.csv")
     a = p.parse_args()
 
@@ -154,11 +163,25 @@ def main():
     else:
         url, n = a.url, 0
         vistas = set()
+        limite = time.time() + a.max_minutos * 60
         while url and url not in vistas and n < a.paginas:
+            if time.time() > limite:
+                print(f"Límite de {a.max_minutos} min alcanzado: se guarda lo descargado.",
+                      file=sys.stderr, flush=True)
+                break
             vistas.add(url)
             n += 1
-            print(f"Descargando página {n} ...", file=sys.stderr)
-            url = leer_atom(descargar(url), entradas, vistas)
+            t0 = time.time()
+            print(f"Descargando página {n} ...", file=sys.stderr, flush=True)
+            try:
+                datos = descargar(url)
+            except Exception as e:
+                print(f"No se pudo descargar la página {n}: {e}. Se guarda lo descargado.",
+                      file=sys.stderr, flush=True)
+                break
+            url = leer_atom(datos, entradas, vistas)
+            print(f"  página {n}: {len(datos)//1024} KB en {time.time()-t0:.1f}s, "
+                  f"{len(entradas)} entradas acumuladas", file=sys.stderr, flush=True)
 
     print(f"Entradas leídas: {len(entradas)}", file=sys.stderr)
     sel = [d for d in entradas.values() if cumple(d, a)]
