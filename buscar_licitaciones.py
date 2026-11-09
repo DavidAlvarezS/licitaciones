@@ -210,7 +210,7 @@ def main():
     p.add_argument("--fichero", help="Atom o ZIP ya descargado (en vez de la URL)")
     p.add_argument("--paginas", type=int, default=60, help="máx. páginas a seguir del feed (def. 60)")
     p.add_argument("--cpv", nargs="*", default=["72"], help="prefijos CPV (def. 72 = servicios TI)")
-    p.add_argument("--nuts", nargs="*", default=["ES11"], help="prefijos NUTS (def. ES11 = Galicia)")
+    p.add_argument("--nuts", nargs="*", default=[], help="prefijos NUTS; vacío = toda España (ES11 = Galicia)")
     p.add_argument("--max-importe", type=float, default=60000, help="importe máx. sin IVA (def. 60000)")
     p.add_argument("--todas", dest="solo_publicadas", action="store_false",
                    help="incluir también cerradas/adjudicadas")
@@ -237,6 +237,11 @@ def main():
             leer_atom(datos, entradas)
     else:
         estado, meta = cargar_estado(a.estado)
+        firma = {"cpv": sorted(a.cpv), "nuts": sorted(a.nuts)}
+        if estado and meta.get("filtros") != firma:
+            print("Los filtros (CPV/zona) han cambiado respecto al historial: se empieza de cero.",
+                  file=sys.stderr, flush=True)
+            estado, meta = {}, {}
         ahora = dt.datetime.now(dt.timezone.utc)
         hasta_dt = ahora - dt.timedelta(days=a.hasta_dias)
         cob_prev, ult_prev = parse_dt(meta.get("cobertura_desde")), parse_dt(meta.get("ultimo_updated"))
@@ -285,7 +290,7 @@ def main():
                 for d in entradas.values():
                     if relevante(d, a) and (d["id"] not in parcial or d["actualizado"] >= parcial[d["id"]]["actualizado"]):
                         parcial[d["id"]] = d
-                guardar_estado(a.estado, parcial, meta)
+                guardar_estado(a.estado, parcial, {"filtros": firma})
         # fusionar lo nuevo con el historial
         for d in entradas.values():
             if relevante(d, a) and (d["id"] not in estado or d["actualizado"] >= estado[d["id"]]["actualizado"]):
@@ -295,7 +300,7 @@ def main():
         ult = max(x for x in (ult_prev, nuevo_max) if x) if (ult_prev or nuevo_max) else None
         meta = {"cobertura_desde": cob.isoformat() if cob else None,
                 "ultimo_updated": ult.isoformat() if ult else None,
-                "ultima_ejecucion": ahora.isoformat(), "modo": modo, "completo": terminado}
+                "ultima_ejecucion": ahora.isoformat(), "modo": modo, "completo": terminado, "filtros": firma}
         guardar_estado(a.estado, estado, meta)
         print(f"Historial guardado: {len(estado)} licitaciones. Cobertura desde {meta['cobertura_desde']}.",
               file=sys.stderr, flush=True)
