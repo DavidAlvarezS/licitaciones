@@ -13,6 +13,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: licitaciones
+  cancel-in-progress: true     # una ejecución nueva cancela la anterior si se quedó colgada
+
 jobs:
   buscar:
     runs-on: ubuntu-latest
@@ -24,20 +28,27 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Probar conexión con la plataforma
+        continue-on-error: true
+        run: |
+          {
+            echo "== Prueba de conexión $(date -u +%FT%TZ) =="
+            curl -sS -m 40 -o /dev/null -D - "https://contrataciondelestado.es/sindicacion/sindicacion_643/licitacionesPerfilesContratanteCompleto3.atom" | head -15
+          } 2>&1 | tee run.log
+
       - name: Descargar y filtrar licitaciones
         # Cambia aquí los filtros si quieres (ver opciones en el script)
-        run: python buscar_licitaciones.py --max-importe 60000 --cpv 72 --nuts ES11 --paginas 80 --salida licitaciones_filtradas.csv
+        run: |
+          set -o pipefail
+          python buscar_licitaciones.py --max-importe 60000 --cpv 72 --nuts ES11 --paginas 80 --salida licitaciones_filtradas.csv 2>&1 | tee -a run.log
 
-      - name: Guardar el CSV como artefacto
-        uses: actions/upload-artifact@v4
-        with:
-          name: licitaciones
-          path: licitaciones_filtradas.csv
-
-      - name: Guardar el CSV en el repositorio
+      - name: Guardar el CSV y el registro en el repositorio
+        if: always()
         run: |
           git config user.name  "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add licitaciones_filtradas.csv
-          git diff --cached --quiet || git commit -m "Actualizar licitaciones $(date -u +%F)"
+          git add -f run.log
+          [ -f licitaciones_filtradas.csv ] && git add licitaciones_filtradas.csv || true
+          git diff --cached --quiet || git commit -m "Actualizar licitaciones y registro $(date -u +%F)"
+          git pull --rebase origin main || true
           git push
