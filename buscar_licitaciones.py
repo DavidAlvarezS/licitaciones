@@ -11,7 +11,7 @@ Ejemplos:
   python buscar_licitaciones.py --nuts ES111 ES112 ES113 ES114   (solo provincias)
   python buscar_licitaciones.py --fichero licitaciones_202611.zip  (fichero ya descargado)
 """
-import argparse, csv, datetime as dt, io, sys, time, urllib.request, zipfile
+import argparse, collections, csv, datetime as dt, io, sys, time, urllib.request, zipfile
 import xml.etree.ElementTree as ET
 
 # Feed de licitaciones publicadas en perfiles del contratante (se actualiza a diario).
@@ -135,6 +135,32 @@ def cumple(d, a):
     return True
 
 
+def diagnostico(entradas, a):
+    """Resumen para entender cuántas licitaciones pasan cada filtro."""
+    v = list(entradas.values())
+    if not v:
+        return
+    err = sys.stderr
+    print("--- Diagnóstico ---", file=err)
+    print("Fechas 'updated': de", min(d["actualizado"] for d in v), "a", max(d["actualizado"] for d in v), file=err)
+    print("Por estado:", dict(collections.Counter(d["estado"] for d in v)), file=err)
+    con_cpv = [d for d in v if any(c.startswith(tuple(a.cpv)) for c in d["cpv"].split(",") if c)]
+    con_nuts = [d for d in v if any(n.startswith(tuple(a.nuts)) for n in d["lugar_nuts"].split(",") if n)]
+    ambos = [d for d in con_cpv if d in con_nuts]
+    print(f"Sin CPV: {sum(1 for d in v if not d['cpv'])} | Sin NUTS: {sum(1 for d in v if not d['lugar_nuts'])} "
+          f"| Sin importe: {sum(1 for d in v if not d['importe_sin_iva'])} | Sin fin de plazo: {sum(1 for d in v if not d['fin_plazo'])}", file=err)
+    print(f"CPV {a.cpv}: {len(con_cpv)} | NUTS {a.nuts}: {len(con_nuts)} | ambos: {len(ambos)}", file=err)
+    print("Ejemplos de NUTS:", collections.Counter(n for d in v for n in d["lugar_nuts"].split(",") if n).most_common(8), file=err)
+    print("Ejemplos de fin_plazo:", [d["fin_plazo"] for d in v[:4]], file=err)
+    print("Ejemplo de entrada:", {k: v[0][k] for k in ("expediente", "estado", "cpv", "lugar_nuts", "importe_sin_iva", "fin_plazo")}, file=err)
+    campos = ["expediente", "objeto", "organo", "importe_sin_iva", "cpv", "lugar", "lugar_nuts", "estado", "fin_plazo", "actualizado"]
+    with open("muestra_entradas.csv", "w", newline="", encoding="utf-8-sig") as f:
+        w = csv.DictWriter(f, fieldnames=campos, delimiter=";", extrasaction="ignore")
+        w.writeheader()
+        w.writerows((ambos or con_cpv or con_nuts or v)[:300])
+    print("Muestra guardada en muestra_entradas.csv", file=err)
+
+
 def main():
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("--url", default=URL_DEFECTO, help="URL del feed Atom")
@@ -184,6 +210,7 @@ def main():
                   f"{len(entradas)} entradas acumuladas", file=sys.stderr, flush=True)
 
     print(f"Entradas leídas: {len(entradas)}", file=sys.stderr)
+    diagnostico(entradas, a)
     sel = [d for d in entradas.values() if cumple(d, a)]
     sel.sort(key=lambda d: d["fin_plazo"] or "9999")
     campos = ["expediente", "objeto", "organo", "importe_sin_iva", "valor_estimado", "cpv", "lugar",
