@@ -47,10 +47,20 @@ jobs:
       - name: Guardar el CSV y el registro en el repositorio
         if: always()
         run: |
+          mkdir -p /tmp/salida
+          cp run.log /tmp/salida/ 2>/dev/null || true
+          cp licitaciones_filtradas.csv /tmp/salida/ 2>/dev/null || true
           git config user.name  "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add -f run.log
-          [ -f licitaciones_filtradas.csv ] && git add licitaciones_filtradas.csv || true
-          git diff --cached --quiet || git commit -m "Actualizar licitaciones y registro $(date -u +%F)"
-          git pull --rebase origin main || true
-          git push
+          for intento in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main      # evita conflictos con otras ejecuciones
+            cp /tmp/salida/run.log . 2>/dev/null || true
+            cp /tmp/salida/licitaciones_filtradas.csv . 2>/dev/null || true
+            git add -f run.log
+            [ -f licitaciones_filtradas.csv ] && git add licitaciones_filtradas.csv || true
+            git diff --cached --quiet && break
+            git commit -m "Actualizar licitaciones y registro $(date -u +%F)"
+            git push origin HEAD:main && break
+            sleep 5
+          done
