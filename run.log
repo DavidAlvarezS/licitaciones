@@ -1,51 +1,53 @@
-== Prueba de conexión 2026-11-09T15:15:02Z ==
-curl: (28) Operation timed out after 40000 milliseconds with 10059768 bytes received
+== Prueba de conexión 2026-11-09T15:29:07Z ==
 HTTP/1.1 200 OK
 Connection: Keep-Alive
-Date: Mon, 09 Nov 2026 15:15:02 GMT
+Date: Mon, 09 Nov 2026 15:29:07 GMT
 Last-Modified: Sun, 08 Nov 2026 19:04:12 GMT
 ETag: "d7b5e1-65fc882ca6de6"
 Vary: Accept-Encoding
 Content-Type: application/atom+xml
-Set-Cookie: TS0177f194=01448a881b50256dbc02be03c8dd54b351dfa39d7ec0bfb8bc5b7b326d328bf6d78ec5e16c63be053da88515c352c860b34f9cd00f; Path=/; Domain=.contrataciondelestado.es
+Set-Cookie: TS0177f194=01448a881bf45f8d4131c45508f07fe4615a327e6c53f886418b38df73f882c252f3510455d1a94716d93fd043c4f1ca88210ad2f6; Path=/; Domain=.contrataciondelestado.es
 Transfer-Encoding: chunked
 
 Descargando página 1 ...
-  página 1: 13805 KB en 36.9s, 482 entradas acumuladas
+  página 1: 13805 KB en 15.2s, 482 entradas acumuladas
 Descargando página 2 ...
-  página 2: 15007 KB en 45.5s, 978 entradas acumuladas
+  página 2: 15007 KB en 10.8s, 978 entradas acumuladas
 Descargando página 3 ...
-  página 3: 14114 KB en 50.5s, 1476 entradas acumuladas
+  página 3: 14114 KB en 45.7s, 1476 entradas acumuladas
 Descargando página 4 ...
-  página 4: 13717 KB en 44.2s, 1970 entradas acumuladas
+  página 4: 13717 KB en 52.1s, 1970 entradas acumuladas
 Descargando página 5 ...
-  página 5: 16633 KB en 23.1s, 2465 entradas acumuladas
+  página 5: 16633 KB en 56.1s, 2465 entradas acumuladas
 Descargando página 6 ...
-  página 6: 15613 KB en 41.3s, 2957 entradas acumuladas
+  página 6: 15613 KB en 52.8s, 2957 entradas acumuladas
 Descargando página 7 ...
-  página 7: 14207 KB en 36.6s, 3436 entradas acumuladas
+  página 7: 14207 KB en 45.8s, 3436 entradas acumuladas
 Descargando página 8 ...
-  página 8: 17234 KB en 43.7s, 3867 entradas acumuladas
+  página 8: 17234 KB en 47.9s, 3867 entradas acumuladas
 Descargando página 9 ...
-  página 9: 14143 KB en 33.9s, 4324 entradas acumuladas
+  página 9: 14143 KB en 42.4s, 4324 entradas acumuladas
 Descargando página 10 ...
-  página 10: 14746 KB en 18.7s, 4788 entradas acumuladas
+  página 10: 14746 KB en 45.8s, 4788 entradas acumuladas
 Descargando página 11 ...
-  página 11: 14841 KB en 35.3s, 5241 entradas acumuladas
+  página 11: 14841 KB en 33.6s, 5241 entradas acumuladas
 Descargando página 12 ...
-  página 12: 15741 KB en 26.5s, 5699 entradas acumuladas
+  página 12: 15741 KB en 30.8s, 5699 entradas acumuladas
 Descargando página 13 ...
-  página 13: 14232 KB en 26.6s, 6160 entradas acumuladas
+  página 13: 14232 KB en 24.3s, 6160 entradas acumuladas
 Descargando página 14 ...
-  página 14: 14418 KB en 19.0s, 6578 entradas acumuladas
+  página 14: 14418 KB en 35.8s, 6578 entradas acumuladas
 Descargando página 15 ...
-  página 15: 14214 KB en 19.8s, 7008 entradas acumuladas
-Descargando página 16 ...
-  página 16: 14139 KB en 12.8s, 7434 entradas acumuladas
-Descargando página 17 ...
-  página 17: 15290 KB en 15.0s, 7869 entradas acumuladas
-Descargando página 18 ...
-  página 18: 15707 KB en 14.8s, 8291 entradas acumuladas
+  página 15: 14214 KB en 28.6s, 7008 entradas acumuladas
 Límite de 9.0 min alcanzado: se guarda lo descargado.
-Entradas leídas: 8291
+Entradas leídas: 7008
+--- Diagnóstico ---
+Fechas 'updated': de 2026-11-04T13:06:48.033+01:00 a 2026-11-08T20:02:19.875+01:00
+Por estado: {'PUB': 1755, 'RES': 2228, 'ADJ': 1115, 'EV': 1879, 'PRE': 25, 'ANUL': 6}
+Sin CPV: 51 | Sin NUTS: 7 | Sin importe: 0 | Sin fin de plazo: 499
+CPV ['72']: 330 | NUTS ['ES11']: 312 | ambos: 6
+Ejemplos de NUTS: [('ES300', 1185), ('ES523', 462), ('ES618', 286), ('ES617', 264), ('ES', 232), ('ES612', 228), ('ES521', 211), ('ES120', 195)]
+Ejemplos de fin_plazo: ['2026-11-20 23:59:00', '2026-10-27 23:59:00', '2026-09-27 11:59:00', '2026-10-28 22:59:00']
+Ejemplo de entrada: {'expediente': '651/2026', 'estado': 'PUB', 'cpv': '79952000,79954000', 'lugar_nuts': 'ES704', 'importe_sin_iva': '12616.82', 'fin_plazo': '2026-11-20 23:59:00'}
+Muestra guardada en muestra_entradas.csv
 Licitaciones que cumplen los filtros: 0 -> licitaciones_filtradas.csv
