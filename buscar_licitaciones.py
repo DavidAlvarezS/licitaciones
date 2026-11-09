@@ -11,7 +11,7 @@ Ejemplos:
   python buscar_licitaciones.py --nuts ES111 ES112 ES113 ES114   (solo provincias)
   python buscar_licitaciones.py --fichero licitaciones_202611.zip  (fichero ya descargado)
 """
-import argparse, collections, csv, datetime as dt, io, sys, time, urllib.request, zipfile
+import argparse, collections, csv, datetime as dt, io, json, re, sys, time, urllib.request, zipfile
 import xml.etree.ElementTree as ET
 
 # Feed de licitaciones publicadas en perfiles del contratante (se actualiza a diario).
@@ -82,21 +82,64 @@ def procesar_entry(entry):
     return d
 
 
-def leer_atom(fuente, entradas, vistos_paginas):
-    """Lee un Atom (bytes). Devuelve la URL de la página siguiente, si hay."""
+def leer_atom(fuente, entradas, vistos_paginas=None):
+    """Lee un Atom (bytes). Mezcla en `entradas` y devuelve (URL siguiente, entradas de la página)."""
     siguiente = None
+    pagina = []
     for _, el in ET.iterparse(io.BytesIO(fuente), events=("end",)):
         t = local(el.tag)
         if t == "entry":
             d = procesar_entry(el)
             if d:
+                pagina.append(d)
                 previo = entradas.get(d["id"])
                 if previo is None or d["actualizado"] >= previo["actualizado"]:
                     entradas[d["id"]] = d
             el.clear()
         elif t == "link" and el.get("rel") == "next":
             siguiente = el.get("href")
-    return siguiente
+    return siguiente, pagina
+
+
+def parse_dt(s):
+    try:
+        d = dt.datetime.fromisoformat((s or "").replace("Z", "+00:00"))
+    except ValueError:
+        return None
+    return d if d.tzinfo else d.replace(tzinfo=dt.timezone.utc)
+
+
+def cargar_estado(ruta):
+    try:
+        with open(ruta, encoding="utf-8") as f:
+            j = json.load(f)
+        return j.get("entradas", {}), j.get("meta", {})
+    except (OSError, ValueError):
+        return {}, {}
+
+
+def guardar_estado(ruta, entradas, meta):
+    with open(ruta, "w", encoding="utf-8") as f:
+        json.dump({"meta": meta, "entradas": entradas}, f, ensure_ascii=False, separators=(",", ":"))
+
+
+def relevante(d, a):
+    if a.cpv and not any(c.startswith(tuple(a.cpv)) for c in d["cpv"].split(",") if c):
+        return False
+    if a.nuts and not any(n.startswith(tuple(a.nuts)) for n in d["lugar_nuts"].split(",") if n):
+        return False
+    return True
+
+
+CPV_DESARROLLO = ("72200", "72210", "72211", "72212", "72213", "72214", "72230", "72262", "72413", "72415", "72421")
+PALABRAS = re.compile(r"desarroll|aplicaci|\bapp\b|\bweb\b|plataforma|software|portal|sede electr|programaci|"
+                      r"sistema de informaci|a medida|digitaliza|gestor|herramienta", re.I)
+
+
+def es_desarrollo(d):
+    if any(c.startswith(CPV_DESARROLLO) for c in d["cpv"].split(",") if c):
+        return "si"
+    return "quizá" if PALABRAS.search(d["objeto"]) else "no"
 
 
 def descargar(url, espera=30, intentos=2):
@@ -173,23 +216,41 @@ def main():
                    help="incluir también cerradas/adjudicadas")
     p.add_argument("--max-minutos", type=float, default=9,
                    help="tiempo máx. de descarga; al llegar se guarda lo descargado (def. 9)")
+    p.add_argument("--estado", default="estado_licitaciones.json",
+                   help="fichero donde se acumula el historial (def. estado_licitaciones.json)")
+    p.add_argument("--hasta-dias", type=int, default=45,
+                   help="hasta cuántos días atrás recorrer el feed la primera vez (def. 45)")
     p.add_argument("--salida", default="licitaciones_filtradas.csv")
     a = p.parse_args()
 
     entradas = {}
+    estado, meta = {}, {}
+    en_web = not a.fichero
     if a.fichero:
         datos = open(a.fichero, "rb").read()
         if a.fichero.lower().endswith(".zip"):
             with zipfile.ZipFile(io.BytesIO(datos)) as z:
                 for n in z.namelist():
                     if n.lower().endswith((".atom", ".xml")):
-                        leer_atom(z.read(n), entradas, set())
+                        leer_atom(z.read(n), entradas)
         else:
-            leer_atom(datos, entradas, set())
+            leer_atom(datos, entradas)
     else:
+        estado, meta = cargar_estado(a.estado)
+        ahora = dt.datetime.now(dt.timezone.utc)
+        hasta_dt = ahora - dt.timedelta(days=a.hasta_dias)
+        cob_prev, ult_prev = parse_dt(meta.get("cobertura_desde")), parse_dt(meta.get("ultimo_updated"))
+        if cob_prev is None or ult_prev is None or cob_prev > hasta_dt:
+            objetivo, modo = hasta_dt, "completo"
+        else:
+            objetivo, modo = ult_prev - dt.timedelta(days=1), "incremental"
+        print(f"Historial previo: {len(estado)} licitaciones. Modo {modo}: se recorre el feed hasta {objetivo:%Y-%m-%d %H:%M}.",
+              file=sys.stderr, flush=True)
         url, n = a.url, 0
         vistas = set()
         limite = time.time() + a.max_minutos * 60
+        alcanzado = nuevo_max = None
+        terminado = False
         while url and url not in vistas and n < a.paginas:
             if time.time() > limite:
                 print(f"Límite de {a.max_minutos} min alcanzado: se guarda lo descargado.",
@@ -205,15 +266,52 @@ def main():
                 print(f"No se pudo descargar la página {n}: {e}. Se guarda lo descargado.",
                       file=sys.stderr, flush=True)
                 break
-            url = leer_atom(datos, entradas, vistas)
-            print(f"  página {n}: {len(datos)//1024} KB en {time.time()-t0:.1f}s, "
-                  f"{len(entradas)} entradas acumuladas", file=sys.stderr, flush=True)
+            url, pagina = leer_atom(datos, entradas)
+            fechas = [f for f in (parse_dt(d["actualizado"]) for d in pagina) if f]
+            pmin = None
+            if fechas:
+                pmin, pmax = min(fechas), max(fechas)
+                alcanzado = pmin if alcanzado is None else min(alcanzado, pmin)
+                nuevo_max = pmax if nuevo_max is None else max(nuevo_max, pmax)
+            print(f"  página {n}: {len(datos)//1024} KB en {time.time()-t0:.1f}s, {len(entradas)} entradas, "
+                  f"fecha más antigua {pmin:%Y-%m-%d %H:%M}" if pmin else f"  página {n}: sin fechas",
+                  file=sys.stderr, flush=True)
+            if pmin and pmin < objetivo:
+                terminado = True
+                print("Se alcanzó la fecha objetivo.", file=sys.stderr, flush=True)
+                break
+            if n % 15 == 0:   # guardado parcial por si se corta la ejecución
+                parcial = dict(estado)
+                for d in entradas.values():
+                    if relevante(d, a) and (d["id"] not in parcial or d["actualizado"] >= parcial[d["id"]]["actualizado"]):
+                        parcial[d["id"]] = d
+                guardar_estado(a.estado, parcial, meta)
+        # fusionar lo nuevo con el historial
+        for d in entradas.values():
+            if relevante(d, a) and (d["id"] not in estado or d["actualizado"] >= estado[d["id"]]["actualizado"]):
+                estado[d["id"]] = d
+        contiguo = bool(ult_prev and alcanzado and alcanzado <= ult_prev)
+        cob = min(cob_prev, alcanzado) if (contiguo and cob_prev) else alcanzado
+        ult = max(x for x in (ult_prev, nuevo_max) if x) if (ult_prev or nuevo_max) else None
+        meta = {"cobertura_desde": cob.isoformat() if cob else None,
+                "ultimo_updated": ult.isoformat() if ult else None,
+                "ultima_ejecucion": ahora.isoformat(), "modo": modo, "completo": terminado}
+        guardar_estado(a.estado, estado, meta)
+        print(f"Historial guardado: {len(estado)} licitaciones. Cobertura desde {meta['cobertura_desde']}.",
+              file=sys.stderr, flush=True)
 
     print(f"Entradas leídas: {len(entradas)}", file=sys.stderr)
     diagnostico(entradas, a)
-    sel = [d for d in entradas.values() if cumple(d, a)]
-    sel.sort(key=lambda d: d["fin_plazo"] or "9999")
-    campos = ["expediente", "objeto", "organo", "importe_sin_iva", "valor_estimado", "cpv", "lugar",
+    universo = dict(estado)
+    for d in entradas.values():
+        if d["id"] not in universo or d["actualizado"] >= universo[d["id"]]["actualizado"]:
+            universo[d["id"]] = d
+    sel = [d for d in universo.values() if cumple(d, a)]
+    for d in sel:
+        d["desarrollo"] = es_desarrollo(d)
+    orden = {"si": 0, "quizá": 1, "no": 2}
+    sel.sort(key=lambda d: (orden[d["desarrollo"]], d["fin_plazo"] or "9999"))
+    campos = ["desarrollo", "expediente", "objeto", "organo", "importe_sin_iva", "valor_estimado", "cpv", "lugar",
               "lugar_nuts", "tipo_contrato", "procedimiento_cod", "estado", "fin_plazo", "actualizado", "enlace"]
     with open(a.salida, "w", newline="", encoding="utf-8-sig") as f:
         w = csv.DictWriter(f, fieldnames=campos, delimiter=";", extrasaction="ignore")

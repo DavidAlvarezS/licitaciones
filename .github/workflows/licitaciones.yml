@@ -15,12 +15,12 @@ permissions:
 
 concurrency:
   group: licitaciones
-  cancel-in-progress: true     # una ejecución nueva cancela la anterior si se quedó colgada
+  cancel-in-progress: false    # no cortar una descarga larga: la nueva espera su turno
 
 jobs:
   buscar:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 210
     steps:
       - uses: actions/checkout@v4
 
@@ -34,15 +34,15 @@ jobs:
         run: |
           {
             echo "== Prueba de conexión $(date -u +%FT%TZ) =="
-            curl -sS -m 40 -o /dev/null -D - "https://contrataciondelestado.es/sindicacion/sindicacion_643/licitacionesPerfilesContratanteCompleto3.atom" | head -15
+            curl -sS -m 30 -r 0-2000 -o /dev/null -D - "https://contrataciondelestado.es/sindicacion/sindicacion_643/licitacionesPerfilesContratanteCompleto3.atom" | head -15
           } 2>&1 | tee run.log
 
       - name: Descargar y filtrar licitaciones
-        timeout-minutes: 12
+        timeout-minutes: 190
         # Cambia aquí los filtros si quieres (ver opciones en el script)
         run: |
           set -o pipefail
-          python buscar_licitaciones.py --max-importe 60000 --cpv 72 --nuts ES11 --paginas 80 --max-minutos 9 --salida licitaciones_filtradas.csv 2>&1 | tee -a run.log
+          python buscar_licitaciones.py --max-importe 60000 --cpv 72 --nuts ES11 --paginas 400 --max-minutos 170 --hasta-dias 45 --salida licitaciones_filtradas.csv 2>&1 | tee -a run.log
 
       - name: Guardar el CSV y el registro en el repositorio
         if: always()
@@ -51,6 +51,7 @@ jobs:
           cp run.log /tmp/salida/ 2>/dev/null || true
           cp licitaciones_filtradas.csv /tmp/salida/ 2>/dev/null || true
           cp muestra_entradas.csv /tmp/salida/ 2>/dev/null || true
+          cp estado_licitaciones.json /tmp/salida/ 2>/dev/null || true
           git config user.name  "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           for intento in 1 2 3; do
@@ -59,9 +60,11 @@ jobs:
             cp /tmp/salida/run.log . 2>/dev/null || true
             cp /tmp/salida/licitaciones_filtradas.csv . 2>/dev/null || true
             cp /tmp/salida/muestra_entradas.csv . 2>/dev/null || true
+            cp /tmp/salida/estado_licitaciones.json . 2>/dev/null || true
             git add -f run.log
             [ -f licitaciones_filtradas.csv ] && git add licitaciones_filtradas.csv || true
             [ -f muestra_entradas.csv ] && git add muestra_entradas.csv || true
+            [ -f estado_licitaciones.json ] && git add estado_licitaciones.json || true
             git diff --cached --quiet && break
             git commit -m "Actualizar licitaciones y registro $(date -u +%F)"
             git push origin HEAD:main && break
