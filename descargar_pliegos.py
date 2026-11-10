@@ -14,7 +14,7 @@ Ejemplos:
   python descargar_pliegos.py --solo-desarrollo      (solo filas marcadas si / quizá)
 """
 import argparse, csv, hashlib, io, json, os, re, shutil, subprocess, sys, time
-import urllib.parse, urllib.request, zipfile
+import html as html_mod, http.cookiejar, urllib.parse, urllib.request, zipfile
 import xml.etree.ElementTree as ET
 
 MAX_BYTES = 80 * 1024 * 1024      # no descargar nada de más de 80 MB
@@ -31,10 +31,28 @@ def firma_corta(texto):
     return hashlib.sha1(texto.encode("utf-8")).hexdigest()[:8]
 
 
-def descargar(uri, espera=60):
-    """Devuelve (bytes, nombre_sugerido) o lanza excepción."""
-    req = urllib.request.Request(uri, headers={"User-Agent": UA, "Accept": "*/*"})
-    with urllib.request.urlopen(req, timeout=espera) as r:
+_jar = http.cookiejar.CookieJar()
+_opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(_jar))
+
+
+def iniciar_sesion(url_inicio, espera=30):
+    """Visita una página pública del portal para obtener las cookies de sesión normales."""
+    try:
+        req = urllib.request.Request(url_inicio, headers={"User-Agent": UA})
+        with _opener.open(req, timeout=espera) as r:
+            r.read(200000)
+        print(f"Sesión iniciada, cookies: {[c.name for c in _jar]}", file=sys.stderr)
+    except Exception as e:
+        print(f"No se pudo iniciar sesión en {url_inicio}: {e}", file=sys.stderr)
+
+
+def descargar(uri, referer="", espera=60):
+    """Devuelve (bytes, nombre_sugerido, content_type, url_final) o lanza excepción."""
+    cab = {"User-Agent": UA, "Accept": "*/*"}
+    if referer:
+        cab["Referer"] = referer
+    req = urllib.request.Request(uri, headers=cab)
+    with _opener.open(req, timeout=espera) as r:
         nombre = ""
         cd = r.headers.get("Content-Disposition", "")
         m = re.search(r"filename\*?=(?:UTF-8'')?\"?([^\";]+)", cd, re.I)
@@ -43,7 +61,15 @@ def descargar(uri, espera=60):
         datos = r.read(MAX_BYTES + 1)
         if len(datos) > MAX_BYTES:
             raise ValueError("documento de más de 80 MB, se omite")
-        return datos, nombre
+        return datos, nombre, r.headers.get("Content-Type", ""), r.geturl()
+
+
+def texto_de_html(datos, largo=1500):
+    t = datos.decode("utf-8", errors="replace")
+    t = re.sub(r"(?is)<(script|style).*?</\1>", " ", t)
+    t = re.sub(r"(?s)<[^>]+>", " ", t)
+    t = html_mod.unescape(re.sub(r"\s+", " ", t)).strip()
+    return t[:largo]
 
 
 def tipo_por_contenido(datos):
@@ -129,6 +155,7 @@ def main():
     except (OSError, ValueError):
         manifest = {}
 
+    iniciar_sesion("https://contrataciondelestado.es/wps/portal/plataforma")
     limite = time.time() + a.max_minutos * 60
     n_ok = n_err = n_sin_docs = 0
     for fila in filas:
@@ -151,6 +178,8 @@ def main():
         for k, doc in enumerate(docs, 1):
             uri = doc["uri"]
             reg = manifest.get(uri, {})
+            if reg.get("estado") == "ok" and str(reg.get("archivo", "")).endswith(".html"):
+                reg = {"estado": "reintentar", "intentos": 0}   # versiones antiguas guardaban páginas HTML como ok
             if reg.get("estado") == "ok" or reg.get("intentos", 0) >= MAX_INTENTOS:
                 pass
             elif time.time() > limite:
@@ -158,8 +187,11 @@ def main():
                 reg = {"estado": "pendiente"}
             else:
                 try:
-                    datos, sugerido = descargar(uri)
+                    datos, sugerido, ctype, url_final = descargar(uri, referer=fila.get("enlace", ""))
                     ext = tipo_por_contenido(datos)
+                    if ext in (".html", ".bin") and ctype.lower().startswith("text/html"):
+                        raise ValueError(f"devuelve una página web, no un documento (tipo {ctype.split(';')[0]}, "
+                                         f"URL final {url_final[:90]}): «{texto_de_html(datos, 400)}»")
                     base = seguro(os.path.splitext(doc["nombre"] or sugerido or f"documento{k}")[0], 50)
                     archivo = f"{k:02d}_{doc['tipo']}_{base}{ext}"
                     ruta = os.path.join(dir_pdfs, carpeta, archivo)

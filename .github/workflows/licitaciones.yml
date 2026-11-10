@@ -43,7 +43,7 @@ jobs:
         # Cambia aquí los filtros si quieres (ver opciones en el script)
         run: |
           set -o pipefail
-          python buscar_licitaciones.py --max-importe 60000 --cpv 72 --paginas 400 --max-minutos 170 --hasta-dias 45 --salida licitaciones_filtradas.csv 2>&1 | tee -a run.log
+          python buscar_licitaciones.py --max-importe 60000 --cpv 72 --paginas 400 --max-minutos 170 --hasta-dias 20 --salida licitaciones_filtradas.csv 2>&1 | tee -a run.log
 
       - name: Instalar lector de PDF
         continue-on-error: true
