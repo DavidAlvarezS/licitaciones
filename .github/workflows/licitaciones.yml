@@ -9,6 +9,7 @@ on:
     paths:
       - buscar_licitaciones.py
       - descargar_pliegos.py
+      - vigilar_extra.py
       - .github/workflows/licitaciones.yml
 
 permissions:
@@ -21,7 +22,7 @@ concurrency:
 jobs:
   buscar:
     runs-on: ubuntu-latest
-    timeout-minutes: 300
+    timeout-minutes: 360
     steps:
       - uses: actions/checkout@v4
 
@@ -44,6 +45,13 @@ jobs:
         run: |
           set -o pipefail
           python buscar_licitaciones.py --max-importe 60000 --cpv 72 --paginas 400 --max-minutos 170 --hasta-dias 20 --salida licitaciones_filtradas.csv 2>&1 | tee -a run.log
+
+      - name: Contratos menores, consultas preliminares y plataformas autonómicas
+        continue-on-error: true
+        timeout-minutes: 70
+        run: |
+          set -o pipefail
+          python vigilar_extra.py --max-minutos 60 --dias 120 2>&1 | tee -a run.log
 
       - name: Instalar lector de PDF
         continue-on-error: true
@@ -74,6 +82,7 @@ jobs:
           cp licitaciones_filtradas.csv /tmp/salida/ 2>/dev/null || true
           cp muestra_entradas.csv /tmp/salida/ 2>/dev/null || true
           cp estado_licitaciones.json /tmp/salida/ 2>/dev/null || true
+          cp estado_extra.json contratos_menores_software.csv ranking_menores_galicia.csv consultas_preliminares_tic.csv licitaciones_autonomicas.csv /tmp/salida/ 2>/dev/null || true
           rm -rf /tmp/salida/pliegos; mkdir -p /tmp/salida/pliegos
           cp -r pliegos/texto pliegos/manifest.json /tmp/salida/pliegos/ 2>/dev/null || true
           git config user.name  "github-actions"
@@ -85,6 +94,9 @@ jobs:
             cp /tmp/salida/licitaciones_filtradas.csv . 2>/dev/null || true
             cp /tmp/salida/muestra_entradas.csv . 2>/dev/null || true
             cp /tmp/salida/estado_licitaciones.json . 2>/dev/null || true
+            for f in estado_extra.json contratos_menores_software.csv ranking_menores_galicia.csv consultas_preliminares_tic.csv licitaciones_autonomicas.csv; do
+              [ -f /tmp/salida/$f ] && cp /tmp/salida/$f . && git add $f
+            done
             mkdir -p pliegos && cp -r /tmp/salida/pliegos/. pliegos/ 2>/dev/null || true
             git add -f run.log
             [ -f licitaciones_filtradas.csv ] && git add licitaciones_filtradas.csv || true
