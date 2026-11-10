@@ -1,0 +1,18 @@
+pliegos/pliegos_licitaciones_ti/02_PRE_1725997T_Servicios_pagina_Web_eventos_copa_Diputa/00_info.txt
+  h_c61601beeaa68c 1-11
+"pliegos/pliegos_licitaciones_ti/02_PRE_1725997T_Servicios_pagina_Web_eventos_copa_Diputa/01_LEGAL_PCAP Pagina web.pdf"
+  h_c61601beeaa68c 1-4871
+"pliegos/pliegos_licitaciones_ti/02_PRE_1725997T_Servicios_pagina_Web_eventos_copa_Diputa/02_TECHNICAL_PPT pagina web.pdf"
+  h_c61601beeaa68c 1-2192
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "613dcb18aa31dbc7a66f04f7864245b7809e81b6",
+  "prompts": {},
+  "humans": {
+    "h_c61601beeaa68c": {
+      "author": "David <davidase@inditex.com>"
+    }
+  }
+}
