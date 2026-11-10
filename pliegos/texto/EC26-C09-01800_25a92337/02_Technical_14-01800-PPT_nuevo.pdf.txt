@@ -1,0 +1,619 @@
+
+
+--- página 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pliego de prescripciones técnicas 
+para la contratación de los 
+servicios de 
+“Auditoria del ENS y RGPD 2026” 
+Expediente EC26-C09-01800 
+ 
+Secretaría General 
+ 
+ 
+ 
+Firmado por : JOSÉ FERNANDEZ ZAPATA Cargo: RESPONSABLE DE SISTEMAS
+Organización: AUTORIDAD PORTUARIA DE VALENCIA Fecha de firma: 13/10/2026 12:35:19 CEST
+ 
+Identificador A1MY uZ5H Dk6d zH/D aSoL HdWM LRI=
+URL https://valenciaportse.gob.es/SedeElectronica
+
+--- página 2 ---
+ 
+ 
+ 
+ 
+Auditoría del ENS y RGPD 
+2 
+ 
+1 OBJETO DEL CONTRATO ................................................................ 3 
+1.1 Antecedentes ...............................................................................................  3 
+1.2 Objeto ...........................................................................................................  4 
+2 VOLUMETRÍA DE REFERENCIA ...................................................... 4 
+3 ALCANCE............................................................................................ 5 
+3.1 Lote 1: Auditoría interna del ENS y del RGPD–LOPDgdd ........................ 5 
+3.1.1 Auditoría interna del ENS ............................................................................................ 5 
+3.1.2 Auditoría interna RGPD–LOPDgdd ............................................................................. 6 
+3.2 Lote 2: Auditoría de certificación del ENS ................................................ 7 
+4 PERIODO DE EJECUCIÓN DE LA CONTRATACIÓN  ...................... 7 
+5 CONDICIONES DE LA PRESTACIÓN DEL SERVICIO  .................... 7 
+5.1 Condiciones generales ...............................................................................  7 
+5.2 Desarrollo de los trabajos...........................................................................  8 
+5.2.1 Actuaciones previas .................................................................................................... 8 
+5.2.2 Desarrollo de las auditorías ......................................................................................... 9 
+5.2.3 Informes de auditoría ................................................................................................... 9 
+5.2.4 Validación del PAC y emisión del informe final .......................................................... 9 
+5.2.5 Emisión del certificado de conformidad con el ENS ................................................  10 
+5.3 Requisitos del prestador...........................................................................  10 
+5.4 Requisitos del equipo auditor .................................................................. 10 
+6 Acuerdos de Nivel de Servicio ....................................................... 11 
+6.1 Indicadores del Servicio ...........................................................................  11 
+6.2 Nivel de Servicio ........................................................................................  12 
+6.2.1 Penalizaciones ...........................................................................................................  12 
+6.2.2 Plan de revisión y actualización de indicadores ......................................................  12 
+6.3 Modelo de relación ....................................................................................  12 
+7 OBLIGACIONES EN MATERIA DE PROTECCIÓN DE DATOS  .... 12 
+ 
+ 
+Firmado por : JOSÉ FERNANDEZ ZAPATA Cargo: RESPONSABLE DE SISTEMAS
+Organización: AUTORIDAD PORTUARIA DE VALENCIA Fecha de firma: 13/10/2026 12:35:19 CEST
+ 
+Identificador A1MY uZ5H Dk6d zH/D aSoL HdWM LRI=
+URL https://valenciaportse.gob.es/SedeElectronica
+
+--- página 3 ---
+ 
+ 
+ 
+ 
+Auditoría del ENS y RGPD 
+3 
+1 OBJETO DEL CONTRATO 
+1.1 Antecedentes 
+El Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad 
+(ENS), establece en su artículo 2.1 su aplicación a todo el sector público, en los términos definidos 
+por el artículo 2 de la Ley 40/2015, de 1 de octubre, y de acuerdo con lo previsto en el artículo 156.2 
+de la misma. 
+Por su parte, el Reglamento (UE) 2016/679, General de Protección de Datos (RGPD), aplicable 
+desde el 25 de mayo de 2018, y la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos 
+Personales y garantía de los derechos digitales (LOPDgdd), constituyen el marco jurídico nacional 
+y europeo en materia de protección de datos personales, garantizando los derechos fundamentales 
+de las personas físicas en relación con su tratamiento. 
+La Autoridad Portuaria de Valencia (APV), como organismo público español, está sujeta al 
+cumplimiento de estas normas, que constituyen el marco legal tanto de los sistemas de gestión de 
+la ciberseguridad (ENS) como de la protección de datos personales (RGP D y LOPD gdd). Estos 
+sistemas de gestión requieren una aplicación estructurada y metodológica de buenas prácticas, la 
+gestión sistemática del riesgo y la implantación de un ciclo de mejora continua. 
+En este contexto, las auditorías periódicas constituyen el mecanismo establecido para verificar la  
+correcta aplicación de los controles exigidos, detectar incumplimientos normativos, identificar áreas 
+de mejora y evaluar el nivel de madurez de los sistemas de gestión. Para garantizar su objetividad, 
+dichas auditorías deben ser realizadas por un equipo independiente y cualificado, distinto del 
+personal que ha intervenido en la implantación de los sistemas. 
+La necesidad de realizar auditorías en el contexto de la seguridad de la información y la protección 
+de datos de carácter personal deriva, además, de la aplicación de los siguientes artículos del marco 
+normativo anteriormente citado: 
+• ENS: Artículo 31. Auditoría de la seguridad. 
+1. Los sistemas de información comprendidos en el ámbito de aplicación de este real 
+decreto serán objeto de una auditoría regular ordinaria, al menos cada dos años, que 
+verifique el cumplimiento de los requerimientos del ENS. 
+• RGPD: Artículo 24 Responsabilidad del responsable del tratamiento. 
+1.Teniendo en cuenta la naturaleza, el ámbito, el contexto y los fines del tratamiento 
+así como los riesgos de diversa probabilidad y gravedad para los derechos y libertades 
+de las personas físicas, el responsable del tratamiento aplicará medidas técnicas y 
+organizativas apropiadas a fin de garantizar y poder demostrar que el tratamiento es 
+conforme con el presente Reglamento. Dichas medidas se revisarán y actualizarán 
+cuando sea necesario. 
+• RGPD: Artículo 32. Seguridad en el tratamiento. 
+1.Teniendo en cuenta el estado de la técnica, los costes de aplicación, y la naturaleza, 
+el alcance, el contexto y los fines del tratamiento, así como riesgos de probabilidad y 
+gravedad variables para los derechos y libertades de las personas físicas, el 
+responsable y el encargado del tratamiento aplicarán medidas técnicas y organizativas 
+apropiadas para garantizar un nivel de seguridad adecuado al riesgo, que en su caso 
+Firmado por : JOSÉ FERNANDEZ ZAPATA Cargo: RESPONSABLE DE SISTEMAS
+Organización: AUTORIDAD PORTUARIA DE VALENCIA Fecha de firma: 13/10/2026 12:35:19 CEST
+ 
+Identificador A1MY uZ5H Dk6d zH/D aSoL HdWM LRI=
+URL https://valenciaportse.gob.es/SedeElectronica
+
+--- página 4 ---
+ 
+ 
+ 
+ 
+Auditoría del ENS y RGPD 
+4 
+incluya, entre otros: 
+[…] 
+d) un proceso de verificación, evaluación y valoración regulares de la eficacia de 
+las medidas técnicas y organizativas para garantizar la seguridad del tratamiento. 
+Dado que la APV no dispone de plantilla suficiente ni de perfiles especializados para conformar 
+equipos internos que reúnan tales condiciones de independencia, se hace necesario contar con 
+una asistencia técnica externa que preste los servicios de auditoría en materia de ciberseguridad 
+(ENS) y de protección de datos personales (RGPD y LOPDgdd). 
+1.2 Objeto 
+El objeto del presente contrato es la prestación de los servicios de auditoría independiente de los 
+sistemas de gestión implantados en la Autoridad Portuaria de Valencia en materia de seguridad de 
+la información y protección de datos personales, de conformidad con lo establecido en el Esquema 
+Nacional de Seguridad (ENS), el Reglamento General de Protección de Datos (RGPD) y la Ley 
+Orgánica de Protección de Datos Personales y garantía de los derechos digitales (LOPDgdd). 
+El contrato tendrá una duración de un año y, con el fin de garantizar la independencia y objetividad 
+del proceso auditor, el contrato se estructura en los siguientes lotes: 
+• Lote 1: Auditoría interna del ENS y del RGPD–LOPDgdd. 
+• Lote 2: Auditoría de certificación del ENS. 
+No podrán participar en la licitación de los servicios de auditoría aquellas empresas que hayan 
+intervenido en la implantación de los sistemas de gestión objeto de revisión. Asimismo, los Lotes 1 
+y 2 serán excluyentes entre sí, de manera que un mismo adjudicatario no podrá resultar contratado 
+para la s auditorías internas y la auditoría de certificación del ENS.  En caso de que, tras la 
+clasificación de ofertas, un mismo licitador resultase propuesto para ambos lotes, la adjudicación 
+se realizará únicamente del Lote 2, adjudicándose el Lote 1 a la siguiente oferta más ventajosa que 
+cumpla los requisitos. 
+2 VOLUMETRÍA DE REFERENCIA 
+Con el fin de facilitar la adecuada planificación y ejecución de los servicios objeto de la presente 
+contratación, el licitador deberá considerar los siguientes valores de referencia relativos a la volumetría 
+de la Autoridad Portuaria de Valencia, orientados a dimensionar correctamente el servicio a prestar: 
+Empleados de la APV 500 
+Servicios de negocio identificados 35 
+Procesos asociados a la prestación de servicios 81 
+Actividades de tratamiento de datos personales 40 
+Actividades de tratamiento sometidas a EIPD 6 
+Categoría del sistema según el ENS ALTA 
+Se trata en todos los casos de valores históricos de carácter orientativo, que no necesariamente reflejan 
+tendencias puntuales. En consecuencia, el licitador deberá prever mecanismos de escalabilidad que 
+permitan responder a eventuales incrementos en estas  magnitudes, sin que ello suponga una 
+modificación del coste ofertado. 
+Firmado por : JOSÉ FERNANDEZ ZAPATA Cargo: RESPONSABLE DE SISTEMAS
+Organización: AUTORIDAD PORTUARIA DE VALENCIA Fecha de firma: 13/10/2026 12:35:19 CEST
+ 
+Identificador A1MY uZ5H Dk6d zH/D aSoL HdWM LRI=
+URL https://valenciaportse.gob.es/SedeElectronica
+
+--- página 5 ---
+ 
+ 
+ 
+ 
+Auditoría del ENS y RGPD 
+5 
+Las oficinas donde trabaja el personal encargado de los sistemas de gestión de la ciberseguridad y de 
+la protección de datos personales, así como toda la infraestructura del sistema sujeto a las auditorías 
+se encuentran ubicados en el puerto  de Valencia. No obstante, cabe señalar que la organización 
+desarrolla parte de su  actividad operativa en los puertos de Sagunto y Gandía . Esta información se 
+facilita a efectos de prever las posibles visitas o desplazamientos que pudieran resultar necesarios para 
+la adecuada realización de las auditorías. 
+3 ALCANCE 
+Según lo que antecede, el alcance de la presente contratación comprende la realización de auditorías 
+de verificación del cumplimiento normativo en materia de seguridad de la información y protección de 
+datos personales. 
+Estas auditorías podrán solicitarse y ejecutarse en cualquier momento durante el periodo de ejecución 
+de la contratación. 
+El alcance de las auditorías es el que se detalla a continuación. 
+3.1 Lote 1: Auditoría interna del ENS y del RGPD–LOPDgdd 
+3.1.1 Auditoría interna del ENS 
+La empresa adjudicataria del lote 1 deberá realizar las auditorías internas exigidas por el artículo 
+31 del Esquema Nacional de Seguridad, incluyendo las siguientes actividades: 
+• Planificación de la auditoría con los responsables de los sistemas de gestión de la APV. 
+• Reuniones de presentación, coordinación, entrevistas para la toma de datos y presentación 
+de los informes provisional y definitivo (tras revisar el Plan de Acciones Correctivas 
+presentado por la APV). 
+• Revisión de la implantación de las medidas de seguridad aplicables en los sistemas de 
+información de la APV en función de su categoría, incluyendo la r evisión de la 
+documentación del sistema de gestión auditado. 
+• Evaluación del grado de cumplimiento respecto de los requisitos establecidos en el ENS y 
+en las guías CCN-STIC de aplicación. 
+• Identificación de incumplimientos, deficiencias y áreas de mejora, proponiendo 
+recomendaciones priorizadas. 
+• Verificación de la eficacia de los controles implantados en relación con los objetivos de 
+seguridad, gestión del riesgo y mejora continua. 
+• Elaboración de un informe de auditoría interna, con conclusiones y plan de acciones de 
+mejora. 
+En el desarrollo de estas auditorías y en la elaboración de los correspondientes informes se tendrá 
+en consideración lo establecido en la versión vigente de las siguientes referencias documentales: 
+• Artículo 31 Auditoría de la seguridad del ENS. 
+Firmado por : JOSÉ FERNANDEZ ZAPATA Cargo: RESPONSABLE DE SISTEMAS
+Organización: AUTORIDAD PORTUARIA DE VALENCIA Fecha de firma: 13/10/2026 12:35:19 CEST
+ 
+Identificador A1MY uZ5H Dk6d zH/D aSoL HdWM LRI=
+URL https://valenciaportse.gob.es/SedeElectronica
+
+--- página 6 ---
+ 
+ 
+ 
+ 
+Auditoría del ENS y RGPD 
+6 
+• Anexo III Auditoría de la seguridad del ENS. 
+• G uía CCN-STIC 802 Guía de auditorías de cumplimiento. 
+• Guía CCN-STIC 808 Verificación del cumplimiento. 
+• Guía CCN-CERT IC-01-19 Criterios Generales de Auditoría y Certificación. 
+• Instrucción Técnica de Seguridad de Auditoría de la Seguridad de los Sistemas de 
+Información aprobada por la Secretaría de Estado de Función Pública en su resolución de 
+27 de marzo de 2018 y publicada en el BOE nº 81 el 3 de abril de 2018. 
+El alcance objetivo de aplicación del ENS en la APV comprende todos los sistemas de información 
+de la APV relacionados con el ejercicio de las competencias que le son atribuidas por la legislación 
+vigente y con la Misión corporativa declarada en el Plan Estratégico vigente  (el cual puede 
+consultarse a través del enlace siguiente: https://www.valenciaport.com/autoridad-portuaria/sobre-
+valencia-port/plan-estrategico/). Es decir, los sistemas de información de la APV que: 
+• Están vinculados al ejercicio de las competencias atribuidas a la APV por la legislación 
+vigente. 
+• Dan soporte a la misión corporativa definida en el Plan Estratégico vigente. 
+• Sustentan la cadena de valor de la organización. 
+• Permiten el ejercicio de derechos y el cumplimiento de deberes por parte de ciudadanos y 
+empresas. 
+• Facilitan la interacción por medios electrónicos con la Comunidad Portuaria y con otras 
+Administraciones Públicas. 
+Durante la ejecución de esta prestación se realizará una auditoría interna del ENS de forma previa 
+a la auditoría de certificación que se desarrollará como parte del lote 2. 
+3.1.2 Auditoría interna RGPD–LOPDgdd 
+La empresa adjudicataria del lote 1 también deberá realizar las auditorías internas en materia de 
+protección de datos personales conforme a los artículos 24.1 y 32.1.d del RGPD con el siguiente 
+alcance: 
+• Revisión del cumplimiento de los principios, derechos y obligaciones establecidos en la 
+normativa de protección de datos (RGPD y LOPDgdd). 
+• Verificación de la adecuación de las medidas técnicas y organizativas implementadas para 
+garantizar la seguridad del tratamiento. 
+• Evaluación de procedimientos de gestión de derechos, análisis de riesgos y registros de 
+actividades de tratamiento. 
+• Identificación de incumplimientos y propuesta de medidas de mejora. 
+• Elaboración de un informe de auditoría interna de protección de datos, con conclusiones y 
+recomendaciones. 
+Firmado por : JOSÉ FERNANDEZ ZAPATA Cargo: RESPONSABLE DE SISTEMAS
+Organización: AUTORIDAD PORTUARIA DE VALENCIA Fecha de firma: 13/10/2026 12:35:19 CEST
+ 
+Identificador A1MY uZ5H Dk6d zH/D aSoL HdWM LRI=
+URL https://valenciaportse.gob.es/SedeElectronica
+
+--- página 7 ---
+ 
+ 
+ 
+ 
+Auditoría del ENS y RGPD 
+7 
+Durante la ejecución de esta prestación se realizará una auditoría interna de protección de datos. 
+3.2 Lote 2: Auditoría de certificación del ENS 
+La empresa adjudicataria del lote 2 deberá realizar la auditoría de certificación necesaria para la 
+obtención del certificado del Esquema Nacional de Seguridad de acuerdo con la metodología del 
+Organismo de Certificación acreditado por ENAC. 
+El alcance comprenderá  las mismas actividades descritas en el apartado 3.1.1  y, además, la 
+emisión del correspondiente informe de certificación para su presentación ante el organismo 
+acreditado. 
+En el desarrollo de estas auditorías y en la elaboración de los correspondientes informes se tendrán 
+en consideración las mismas referencias documentales que se han citado en el apartado 3.1.1, así 
+como el mismo alcance. 
+Durante la ejecución de esta prestación se realizará una auditoría de certificación del ENS. 
+4 PERIODO DE EJECUCIÓN DE LA CONTRATACIÓN  
+El contrato tiene una duración prevista de UN (1) AÑO a partir de la fecha de formalización del contrato. 
+Este plazo no podrá ser prorrogado. 
+El adjudicatario deberá estar en disposición de prestar el servicio desde el momento de la formalización 
+del contrato. 
+Cuando la APV comunique al adjudicatario su deseo de realizar cada una de las auditorías previstas 
+en el objeto de esta contratación, éste deberá estar en disposición de llevarla a término y presentar su 
+informe provisional en un plazo no superior a DOS (2) meses desde la fecha en que la APV haga su 
+solicitud. 
+5 CONDICIONES DE LA PRESTACIÓN DEL SERVICIO  
+5.1 Condiciones generales 
+La empresa adjudicataria deberá cumplir, como mínimo, las siguientes condiciones: 
+• Acreditar fehacientemente el cumplimiento de los criterios de solvencia técnica y 
+económica establecidos en el Pliego de Cláusulas Administrativas Particulares (PCAP). 
+• Fundamentar su propuesta en su capacidad de auditoría de los sistemas de gestión objeto 
+de la contratación. 
+• La falsedad o inexactitud en el nivel de conocimientos técnicos del personal ofertado, 
+deducida del contraste entre lo indicado en la oferta y lo realmente demostrado durante la 
+ejecución de los trabajos, implicará la sustitución inmediata de la persona afectada y podrá 
+conllevar, en su caso, la resolución del contrato. 
+• Designar un coordinador de auditorías responsable de organizar y supervisar las 
+actividades de los auditores, así como de atender las necesidades que puedan surgir para 
+Firmado por : JOSÉ FERNANDEZ ZAPATA Cargo: RESPONSABLE DE SISTEMAS
+Organización: AUTORIDAD PORTUARIA DE VALENCIA Fecha de firma: 13/10/2026 12:35:19 CEST
+ 
+Identificador A1MY uZ5H Dk6d zH/D aSoL HdWM LRI=
+URL https://valenciaportse.gob.es/SedeElectronica
+
+--- página 8 ---
+ 
+ 
+ 
+ 
+Auditoría del ENS y RGPD 
+8 
+la adecuada realización de los trabajos. Este coordinador deberá interactuar con los 
+responsables de los sistemas de la APV a fin de planificar entrevistas, recopilar información 
+y coordinar eficazmente la auditoría. 
+• Garantizar que todo el equipo auditor posee dominio fluido del idioma español. Las 
+entrevistas se realizarán en español y la documentación a revisar estará redactada en 
+dicho idioma. La APV no asumirá labores de traducción ni facilitará entrevistas en lenguas 
+distintas al español. 
+• Firmar, antes del inicio de cualquier trabajo, un acuerdo de confidencialidad con la APV y 
+un contrato de Encargo del Tratamiento de los datos personales a los que se tenga acceso 
+durante la prestación del servicio. El modelo de ambos contratos será facilitado por la APV, 
+haciendo constar expresamente el alcance de los trabajos objeto de la contratación. 
+• Aceptar y cumplir las políticas internas de calidad y de seguridad de la información de la 
+APV. 
+• Establecer el calendario de trabajo de común acuerdo con los departamentos de la APV 
+involucrados. 
+• Los trabajos objeto del contrato se realizarán de forma presencial en las instalaciones de 
+la Autoridad Portuaria de Valencia. Únicamente podrán realizarse actuaciones no 
+presenciales cuando la APV lo autorice expresamente y de forma previa, tras valorar que 
+dicha modalidad es compatible con el alcance y garantías exigidas a las auditorías.. 
+• Aceptar que, para determinados trabajos, la APV se reserve el derecho de acompañar en 
+todo momento al personal de la empresa adjudicataria, supervisando la actividad 
+desarrollada y el tratamiento de la información. En cualquier caso, en las actividades de 
+auditoría realizadas en las instalaciones de la APV dicho acompañamiento será obligatorio, 
+a fin de garantizar el cumplimiento de las medidas de calidad, seguridad y prevención. 
+• Realizar todas las comunicaciones relativas a informes y al intercambio de información 
+sensible mediante canales cifrados, repositorios seguros, correo electrónico cifrado o 
+herramientas que la APV ponga a disposición del contratista. 
+• Eliminar, una vez finalizados los trabajos, toda la información sensible de la APV que haya 
+sido utilizada u obtenida durante la prestación del servicio. La APV se reserva el derecho 
+de utilizar o remitir los informes de auditoría a las entidades que lo requieran en el ejercicio 
+de sus competencias. 
+• Abstenerse de dar publicidad o difundir su relación contractual con la APV sin contar con 
+el consentimiento expreso de esta. 
+• Reconocer que todo el trabajo desarrollado por el equipo designado, así como la 
+documentación y evidencias generadas, será propiedad exclusiva de la APV. 
+5.2 Desarrollo de los trabajos 
+5.2.1 Actuaciones previas 
+La empresa adjudicataria deberá designar un responsable de auditoría, encargado de 
+Firmado por : JOSÉ FERNANDEZ ZAPATA Cargo: RESPONSABLE DE SISTEMAS
+Organización: AUTORIDAD PORTUARIA DE VALENCIA Fecha de firma: 13/10/2026 12:35:19 CEST
+ 
+Identificador A1MY uZ5H Dk6d zH/D aSoL HdWM LRI=
+URL https://valenciaportse.gob.es/SedeElectronica
+
+--- página 9 ---
+ 
+ 
+ 
+ 
+Auditoría del ENS y RGPD 
+9 
+coordinar las actividades del equipo auditor y de actuar como interlocutor con los responsables 
+de los sistemas de gestión de la APV objeto de auditoría. Sin perjuicio de que esta figura pueda 
+coincidir con la del Auditor Jefe, será en todo caso el coordinador e interlocutor de todas las 
+actividades previstas en el servicio. 
+El responsable remitirá el plan de auditoría a las personas de contacto designadas por la APV 
+con una antelación mínima de dos semanas, a fin de que las personas implicadas puedan ser 
+informadas y la auditoría se desarrolle de forma ágil y eficaz. 
+Junto con el plan de auditoría, la empresa adjudicataria deberá confirmar la composición del 
+equipo auditor y remitir el currículo de cada uno de sus integrantes, en el caso de aquellos no 
+contemplados en la oferta técnica original. La APV verificará que todos los profesionales 
+propuestos cumplen los requisitos establecidos en el apartado 5.4 Requisitos del equipo auditor 
+y se reserva el derecho de exigir la sustitución de aquellos que no los reúnan. 
+Las auditorías internas relativas al Real Decreto 311/2022, por el que se regula el Esquema 
+Nacional de Seguridad, deberán ser específicas, y su calendario de ejecución se establecerá 
+de común acuerdo entre los distintos departamentos de la APV implicados. 
+5.2.2 Desarrollo de las auditorías 
+Se celebrará una reunión inicial con el fin de presentar al equipo auditor a los representantes 
+de la APV, exponer el objeto y alcance de la auditoría y aprobar el plan de auditoría. 
+El número de jornadas laborables necesarias para la ejecución de las auditorías será el que 
+resulte imprescindible para revisar íntegramente los controles de las normas incluidas, 
+considerando asimismo las visitas a instalaciones que pudieran ser necesarias. 
+El horario de las sesiones presenciales de auditoría será de lunes a viernes (días laborables), 
+entre las 8:00 y las 15:00 horas. 
+El equipo auditor verificará el cumplimiento de los requisitos establecidos en la documentación 
+de referencia mediante la obtención de evidencias objetivas, derivadas tanto del análisis de 
+registros como de las visitas a las instalaciones. 
+Una vez finalizada la auditoría, se celebrará una reunión de cierre con los responsables de la 
+APV para exponer y aclarar las posibles no conformidades detectadas. 
+5.2.3 Informes de auditoría 
+Para cada auditoría realizada se emitirá un informe en formato digital, que deberá remitirse a 
+la APV en un plazo máximo de quince (15) días naturales desde la finalización de la auditoría. 
+Dicho informe deberá recoger las anomalías detectadas, clasificándolas en no conformidades 
+(mayores o menores), observaciones y oportunidades de mejora. 
+Los informes tendrán carácter provisional y deberán contener información suficiente y 
+comprensible que permita a la APV interpretar claramente los hallazgos identificados. 
+Asimismo, deberán incluir ejemplos ilustrativos y orientaciones que faciliten la def inición de 
+acciones preventivas, correctivas o de mejora, articuladas en forma de Planes de Acciones 
+Correctivas (PAC), encaminados a la subsanación de las deficiencias. 
+5.2.4 Validación del PAC y emisión del informe final 
+Se establecerá, de común acuerdo con la APV, un plazo de consultas destinado a analizar con 
+Firmado por : JOSÉ FERNANDEZ ZAPATA Cargo: RESPONSABLE DE SISTEMAS
+Organización: AUTORIDAD PORTUARIA DE VALENCIA Fecha de firma: 13/10/2026 12:35:19 CEST
+ 
+Identificador A1MY uZ5H Dk6d zH/D aSoL HdWM LRI=
+URL https://valenciaportse.gob.es/SedeElectronica
+
+--- página 10 ---
+ 
+ 
+ 
+ 
+Auditoría del ENS y RGPD 
+10 
+el equipo auditor los hallazgos recogidos en el informe provisional, así como las acciones 
+propuestas en el PAC por los responsables de los sistemas de gestión auditados. 
+Dicho plazo será, como mínimo, de un (1) mes a contar desde la recepción del informe 
+provisional. 
+Finalizado el plazo anterior, y una vez validado el PAC, el adjudicatario elaborará, en un plazo 
+máximo de quince (15) días naturales, el informe de auditoría final, que incluirá el dictamen 
+correspondiente (favorable o desfavorable) sobre la auditoría realizada. 
+5.2.5 Emisión del certificado de conformidad con el ENS 
+Una vez finalizada la auditoría de certificación del ENS correspondiente al Lote 2, y siempre 
+que el informe final de auditoría refleje un dictamen favorable, el adjudicatario, en su condición 
+de Organismo de Certificación acreditado por ENAC, procederá a emitir el Certificado de 
+Conformidad con el Esquema Nacional de Seguridad, de acuerdo con la metodología, los 
+procedimientos y los requisitos establecidos en la norma UNE‑EN ISO/IEC 17065 y en el Real 
+Decreto 311/2022. 
+5.3 Requisitos del prestador 
+Para poder concurrir a la presente contratación y participar en la prestación de los servicios objeto 
+de la misma, las empresas licitadoras deberán cumplir, además de los criterios de solvencia y 
+habilitación que se establecerán en el PCAP, los requisitos específicos que se detallan a 
+continuación en función del lote al que presenten su oferta. 
+• Lote 1 Auditoría interna ENS y RGPD-LOPDgdd: 
+o Estar en posesión de un Certificado de Conformidad con el ENS para sistemas de 
+categoría ALTA vigente durante todo el período de ejecución del contrato y con un 
+alcance que cubra los sistemas que soportan los servicios objeto de la presente 
+contratación. 
+• Lote 2: Auditoría de certificación del ENS 
+o Estar en posesión de una acreditación de la Entidad Nacional de Acreditación 
+(ENAC), vigente durante todo el período de ejecución del contrato, en el ámbito de 
+aplicación del Esquema Nacional de Seguridad conforme a la norma UNE -EN 
+ISO/IEC 17065:2012 para poder certificar el cumplimiento de los requisitos del Real 
+Decreto 311/2022. 
+5.4 Requisitos del equipo auditor 
+El equipo auditor deberá estar integrado por profesionales que garanticen en todo momento la 
+objetividad e imparcialidad del proceso de auditoría, siendo totalmente independientes de las 
+actividades auditadas o que puedan ser objeto de auditoría. 
+En ningún caso podrán formar parte del equipo aquellas personas que hayan participado, ejercido 
+responsabilidades o prestado servicios de consultoría en relación con el sistema de información 
+auditado durante, al menos, los dos años previos a la auditoría. 
+Se requerirá la designación de un Auditor Jefe, responsable de coordinar el proceso y de contar 
+con un número suficiente de auditores que aseguren la adecuada ejecución del conjunto de 
+Firmado por : JOSÉ FERNANDEZ ZAPATA Cargo: RESPONSABLE DE SISTEMAS
+Organización: AUTORIDAD PORTUARIA DE VALENCIA Fecha de firma: 13/10/2026 12:35:19 CEST
+ 
+Identificador A1MY uZ5H Dk6d zH/D aSoL HdWM LRI=
+URL https://valenciaportse.gob.es/SedeElectronica
+
+--- página 11 ---
+ 
+ 
+ 
+ 
+Auditoría del ENS y RGPD 
+11 
+auditorías previstas. El Auditor Jefe dirigirá y gestionará las actividades de auditoría, supervisará 
+todo el proceso y será responsable de la precisión de los hallazgos reflejados en el Informe de 
+Auditoría, así como de la custodia y preservación de las evidencias obtenidas. 
+El Auditor Jefe deberá cumplir, al menos, con los requisitos indicados en el PCAP  en función de 
+las auditorías incluidas en el lote para el cual se oferten sus servicios. 
+En caso de presentar una oferta que incluya varias auditorías, el licitador podrá designar un perfil 
+de Auditor Jefe distinto para cada auditoría o, alternativamente, un mismo perfil siempre que cumpla 
+íntegramente con los requisitos exigidos en todos ellos. 
+Para cada lote, el equipo auditor podrá integrarse, además del Auditor Jefe, por los miembros 
+adicionales que el licitador considere oportunos. En ningún caso la suma de los perfiles, 
+capacitación o experiencia del resto del equipo podrá suplir los requisitos exigidos específicamente 
+al Auditor Jefe. El incumplimiento de dichos requisitos será causa de exclusión del proceso de 
+licitación. 
+Con el fin de verificar que se cumplen todas las características previamente definidas, será requisito 
+indispensable la presentación y revisión de los currículos de los auditores con carácter previo al 
+inicio de las auditorías. La APV comprobará que los profesionales propuestos cumplen con los 
+requisitos establecidos en este apartado y se reserva el derecho de exigir la sustitución de aquellos 
+que no los reúnan. 
+Todos los miembros del equipo auditor deberán firmar las correspondientes cláusulas de 
+confidencialidad, incluyendo las relativas al cumplimiento de la normativa vigente en materia de 
+protección de datos de carácter personal. 
+Antes del inicio presencial de la auditoría, el equipo auditor deberá proporcionar a  la APV toda la 
+información necesaria para gestionar el acceso a las instalaciones. La APV tramitará las 
+autorizaciones de acceso del personal externo en las fechas acordadas para la realización de la 
+auditoría. 
+Con independencia de la composición del equipo auditor, la titularidad de los documentos de trabajo 
+y de las evidencias, así como las responsabilidades derivadas de la emisión del informe y de su 
+contenido, deberán quedar siempre claramente definidas y resultar inequívocas, tanto en la 
+apertura de la auditoría como en el informe final. 
+6 Acuerdos de Nivel de Servicio 
+El licitador deberá respetar los tiempos estipulados para la ejecución de las actividades y entrega de la 
+documentación asociada salvo casos debidamente justificados a criterio de la APV. 
+6.1 Indicadores del Servicio 
+La evaluación de los servicios que ofrece el contratista se basa en la definición de un conjunto de 
+indicadores que medirán de forma cuantitativa la prestación del servicio. La definición de los  
+indicadores propuestos por los licitadores será objeto de valoración conforme a lo expuesto en el 
+Pliego de Cláusulas Administrativas Particulares (PCAP). 
+La existencia de un proceso de revisión de los indicadores y los acuerdos de nivel de servicio, así 
+Firmado por : JOSÉ FERNANDEZ ZAPATA Cargo: RESPONSABLE DE SISTEMAS
+Organización: AUTORIDAD PORTUARIA DE VALENCIA Fecha de firma: 13/10/2026 12:35:19 CEST
+ 
+Identificador A1MY uZ5H Dk6d zH/D aSoL HdWM LRI=
+URL https://valenciaportse.gob.es/SedeElectronica
+
+--- página 12 ---
+ 
+ 
+ 
+ 
+Auditoría del ENS y RGPD 
+12 
+como la puesta a disposición de la APV de un mecanismo para la supervisión de sus valores serán 
+objeto de valoración de las ofertas recibidas tal y como se recoge en el PCAP. 
+6.2 Nivel de Servicio 
+Los niveles de servicio se ajustarán durante la etapa inicial del servicio. Para ello se partirá del 
+Acuerdo de Nivel de Servicio incluido en la propuesta técnica de la oferta presentada por el licitador. 
+El adjudicatario presentará, de manera mensual al responsable del servicio en APV, un informe 
+completo de cumplimiento del Acuerdo de Nivel de Servicio (SLA) cuyo formato será acordado con 
+APV. Para el seguimiento del servicio, la APV podrá establecer indicadores, informes y reuniones 
+periódicas con el objeto de poder realizar una revisión del servicio que compare los valores reales 
+frente a los  objetivos, incumplimientos, características de la carga de trabajo, métricas de 
+rendimiento del servicio, tendencias y mediciones de satisfacción de los usuarios. Cualquier cambio 
+de procedimiento o de nivel de servicio debe acordarse previamente con la APV. 
+6.2.1 Penalizaciones 
+El esquema de penalizaciones contemplará el incumplimiento de los niveles de servicio acordados 
+(SLA) y se ajustará a lo establecido en el Pliego de Cláusulas Administrativas Particulares (PCAP). 
+6.2.2 Plan de revisión y actualización de indicadores 
+Bajo petición, tanto de APV como del proveedor del servicio, se podrán revisar los acuerdos de 
+nivel de servicio a lo largo de la ejecución del contrato. Dichas revisiones en ningún caso podrán 
+suponer una merma del servicio ofertado. 
+Será en el Comité de Seguimiento del Servicio (ver apartado 6.3 Modelo de relación) dónde se 
+realizará el seguimiento del cumplimiento de los acuerdos de nivel de servicio y de los indicadores 
+medidos y dónde se formularán las peticiones de cambio de dichos acuerdos. 
+6.3 Modelo de relación 
+La APV desea establecer un sistema de comunicación y relación con el proveedor que asegure el 
+correcto seguimiento del servicio. En él se determinará la periodicidad de las reuniones, tareas y 
+responsabilidades que cada actor debe asumir para el correcto funcionamiento del servicio. 
+Los licitadores presentarán su propuesta  que será posteriormente valorada siguiendo las pautas 
+establecidas en el PCAP. 
+7 OBLIGACIONES EN MATERIA DE PROTECCIÓN DE DATOS 
+El adjudicatario deberá garantizar la privacidad y confidencialidad en el tratamiento de los datos de 
+carácter personal a los que tenga acceso durante el desarrollo del proyecto, acogiéndose al 
+cumplimiento de las normas sobre protección de datos de carácter personal definidas en APV. 
+La normativa de Protección de datos de carácter personal aplicable en APV es la siguiente: 
+• Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 
+relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos 
+personales (RGPD). 
+• Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de 
+los derechos digitales (LOPDgdd) y demás normativa complementaria. 
+Firmado por : JOSÉ FERNANDEZ ZAPATA Cargo: RESPONSABLE DE SISTEMAS
+Organización: AUTORIDAD PORTUARIA DE VALENCIA Fecha de firma: 13/10/2026 12:35:19 CEST
+ 
+Identificador A1MY uZ5H Dk6d zH/D aSoL HdWM LRI=
+URL https://valenciaportse.gob.es/SedeElectronica
+
+--- página 13 ---
+ 
+ 
+ 
+ 
+Auditoría del ENS y RGPD 
+13 
+En caso de requerir tratamiento de datos de carácter personal en calidad de encargado, se estará 
+a lo estipulado en las cláusulas que a tal efecto vienen fijadas en el Pliego de Condiciones 
+Administrativas Particulares. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+El presente documento ha sido firmado electrónicamente por el Responsable de Sistemas José 
+Fernández Zapata en la fecha que se refleja en la validación que consta en el mismo y que puede 
+ser verificada mediante el Código Seguro de Verificación (CSV) que asimismo se incluye. 
+Firmado por : JOSÉ FERNANDEZ ZAPATA Cargo: RESPONSABLE DE SISTEMAS
+Organización: AUTORIDAD PORTUARIA DE VALENCIA Fecha de firma: 13/10/2026 12:35:19 CEST
+ 
+Identificador A1MY uZ5H Dk6d zH/D aSoL HdWM LRI=
+URL https://valenciaportse.gob.es/SedeElectronica

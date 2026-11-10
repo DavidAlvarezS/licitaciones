@@ -10,6 +10,6 @@
 
 ## Documentos
 
-- [Legal] 20 3327 PCAP.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] 00 3327 PPT.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] 3327 ANEXOS PCAP.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] 20 3327 PCAP.pdf: 01_Legal_20_3327_PCAP.pdf (1520 KB)
+- [Technical] 00 3327 PPT.pdf: 02_Technical_00_3327_PPT.pdf (97 KB)
+- [Additional] 3327 ANEXOS PCAP.docx: 03_Additional_3327_ANEXOS_PCAP.docx (5162 KB)

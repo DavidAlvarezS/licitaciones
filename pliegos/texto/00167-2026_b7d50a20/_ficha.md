@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] 1808315-Pliegodeclausulasadmi-001001PCA_STD_CA.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] 1808316-PliegodePrescripcione-001001PPT_STD_CA.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] 1808315-Pliegodeclausulasadmi-001001PCA_STD_CA.pdf: 01_Legal_1808315-Pliegodeclausulasadmi-001001PCA_STD_CA.pdf (1078 KB)
+- [Technical] 1808316-PliegodePrescripcione-001001PPT_STD_CA.pdf: 02_Technical_1808316-PliegodePrescripcione-001001PPT_STD_CA.pdf (276 KB)

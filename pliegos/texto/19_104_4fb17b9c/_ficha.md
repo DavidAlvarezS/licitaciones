@@ -10,7 +10,7 @@
 
 ## Documentos
 
-- [Legal] 19-104 Pliego unico.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/wps/wcm/connect/PLACE_es/Site/area/docAccCmpnt?srv=cmpnt&): «Request Rejected The requested URL was
-- [Technical] 19-104 Nota prescripciones tecnicas.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/wps/wcm/connect/PLACE_es/Site/area/docAccCmpnt?srv=cmpnt&): «Request Rejected The requested URL was
-- [Additional] 19-104 Anexo IV.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/wps/wcm/connect/PLACE_es/Site/area/docAccCmpnt?srv=cmpnt&): «Request Rejected The requested URL was
-- [Additional] 19-104 Anexos I II y V 28-10-2026.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] 19-104 Pliego unico.pdf: 01_Legal_19-104_Pliego_unico.pdf (1114 KB)
+- [Technical] 19-104 Nota prescripciones tecnicas.pdf: 02_Technical_19-104_Nota_prescripciones_tecnicas.pdf (284 KB)
+- [Additional] 19-104 Anexo IV.pdf: 03_Additional_19-104_Anexo_IV.pdf (456 KB)
+- [Additional] 19-104 Anexos I II y V 28-10-2026.pdf: 04_Additional_19-104_Anexos_I_II_y_V_28-10-2026.pdf (1241 KB)

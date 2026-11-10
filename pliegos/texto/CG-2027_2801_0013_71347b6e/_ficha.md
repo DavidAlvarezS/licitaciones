@@ -10,7 +10,7 @@
 
 ## Documentos
 
-- [Legal] PCAP CG-2027-2801-0013.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] PPT.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] Excel precios unitarios.xlsx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] DEUC.zip: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] PCAP CG-2027-2801-0013.pdf: 01_Legal_PCAP_CG-2027-2801-0013.pdf (1842 KB)
+- [Technical] PPT.pdf: 02_Technical_PPT.pdf (594 KB)
+- [Additional] Excel precios unitarios.xlsx: 03_Additional_Excel_precios_unitarios.zip (13 KB, sin texto extraído)
+- [Additional] DEUC.zip: 04_Additional_DEUC.zip (87 KB, sin texto extraído)

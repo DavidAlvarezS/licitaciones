@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] PCA PAS 515-26 fdo.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] PPTfirmado.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] PCA PAS 515-26 fdo.pdf: 01_Legal_PCA_PAS_515-26_fdo.pdf (845 KB)
+- [Technical] PPTfirmado.pdf: 02_Technical_PPTfirmado.pdf (201 KB)

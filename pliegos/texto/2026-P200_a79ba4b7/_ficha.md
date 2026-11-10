@@ -10,6 +10,6 @@
 
 ## Documentos
 
-- [Legal] 2026-P200 PCAP.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] 2026-P200 PPT.7z: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] 2026-P200 DEUC.zip: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] 2026-P200 PCAP.pdf: 01_Legal_2026-P200_PCAP.pdf (1099 KB)
+- [Technical] 2026-P200 PPT.7z: 02_Technical_2026-P200_PPT.bin (11296 KB, sin texto extraído)
+- [Additional] 2026-P200 DEUC.zip: 03_Additional_2026-P200_DEUC.zip (82 KB, sin texto extraído)

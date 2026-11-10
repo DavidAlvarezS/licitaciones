@@ -1,0 +1,3045 @@
+
+
+--- página 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 1 de 49 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS QUE HA DE REGIR LA 
+CONTRATACIÓN MEDIANTE LICITACIÓN PÚBLICA (PROCEDIMIENTO 
+ABIERTO SIMPLIFICADO SEGÚN EL ARTÍCULO 159 LCSP) N.º 032-2026-
+0290, PARA LA CONTRATACIÓN DEL SERVICIO INTEGRAL DE 
+FORMACIÓN INMERSIVA MEDIANTE REALIDAD VIRTUAL PARA MUTUA 
+UNIVERSAL - MUGENAT. MUTUA COLABORADORA CON LA SEGURIDAD 
+SOCIAL N.º 10. 
+ 
+ 
+1. OBJETO Y ALCANCE DEL CONTRATO 
+ 
+El presente pliego tiene por objeto la contratación de los servicios de diseño, desarrollo, producción, 
+implantación, soporte y mantenimiento de una solución integral de formación inmersiva basada en 
+tecnologías de Realidad Virtual (en adelante, RV), destinada al desarrollo y evaluación de competencias 
+profesionales del personal de Mutua Universal. 
+ 
+La solución deberá contemplar el diseño, desarrollo, implantación, soporte, mantenimiento y evolución 
+de experiencias inmersivas orientadas al aprendizaje experiencial, así como el equipamiento necesario 
+para su desarrollo, permitiendo la simulación de situaciones profesionales reales en entornos seguros, 
+controlados e interactivos, alineados con la estrategia corporativa de transformación, capacitación y 
+mejora continua de Mutua Universal. 
+ 
+En el marco del presente contrato, se contempla como caso de uso inicial la experiencia inmersiva 
+aplicada al proceso de Contingencia Laboral (en adelante, CL), dirigida al personal administrativo de 
+recepción de los centros asistenciales de Mutua Universal, con el objetivo de reforzar habilidades 
+profesionales, capacidades relacionales, toma de decisiones y desempeño operativo en entornos 
+simulados. 
+Los escenarios deberán reproducir con el máximo nivel de fidelidad y realidad posible los espacios, 
+procesos y situaciones reales de Mutua Universal, pudiendo para ello utilizar grabaciones in situ, 
+digitalización de espacios o cualquier otra técnica equivalente. 
+ 
+ 
+La solución deberá diseñarse bajo criterios de reutilización, modularidad, interoperabilidad, accesibilidad, 
+sostenibilidad tecnológica y escalabilidad, permitiendo la futura incorporación de nuevos escenarios 
+formativos, perfiles profesionales y ámbitos de aplicación sin necesidad de rediseños estructurales de la 
+plataforma. 
+ 
+La solución podrá apoyarse en grabaciones reales in situ, actores profesionales, entornos virtuales 
+generados por ordenador, vídeo 360º, tecnologías de captura volumétrica, avatares digitales u otras 
+alternativas tecnológicas equivalentes, siempre que permitan alcanzar los objetivos pedagógicos, 
+funcionales y de inmersión definidos por Mutua Universal. 
+ 
+Asimismo, el adjudicatario deberá garantizar la continuidad operativa, calidad técnica, funcional y 
+pedagógica de la solución durante toda la duración contractual, así como la transferencia de 
+conocimiento necesaria para facilitar la explotación, mantenimiento y evolución futura de la solución por 
+parte de Mutua Universal. 
+ 
+ 
+El alcance de la contratación incluirá, entre otros: 
+ Diseño pedagógico y metodológico de experiencias inmersivas orientadas al entrenamiento 
+competencial 
+ Diseño funcional, UX/UI y desarrollo técnico de escenarios interactivos de Realidad Virtual.  
+ Producción de contenidos audiovisuales, entornos virtuales y recursos multimedia necesarios 
+para la ejecución de las experiencias formativas, incluyendo, cuando resulte necesario, 
+grabaciones in situ, utilización de actores, locuciones, modelado 3D, recreación de espacios y 
+cualquier otro recurso requerido para garantizar la calidad e inmersión de la experiencia. 
+
+--- página 2 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 2 de 49 
+ 
+ Suministro, configuración y puesta en marcha del equipamiento técnico y dispositivos de 
+Realidad Virtual requeridos para la correcta prestación del servicio  
+ Suministro del software y licencias necesarias de todos los equipos suministrados y todos los 
+componentes de software asociados, en condiciones de garantía total, durante toda la vigencia 
+del contrato. 
+ Integración de la solución con el ecosistema formativo corporativo de Mutua Universal y, en 
+particular, con la plataforma Moodle de la Universidad Corporativa 
+ Servicios de implantación, parametrización, configuración y acompañamiento funcional.  
+ Formación a usuarios, dinamizadores y administradores de la solución 
+ Servicios de soporte técnico y funcional, mantenimiento correctivo, preventivo y evolutivo 
+ Servicios de actualización, adaptación y evolución de contenidos, escenarios y componentes 
+tecnológicos durante la vigencia contractual 
+ Servicios de seguimiento, analítica y evaluación competencial derivados del uso de la solución 
+ 
+La solución deberá garantizar la funcionalidad, disponibilidad, escalabilidad y sostenibilidad tecnológica 
+del servicio durante toda la duración contractual. 
+ 
+ 
+ 
+2. CONTEXTO Y SITUACIÓN ACTUAL 
+ 
+Mutua Universal, en el marco de su Plan Estratégico 2025-2027 y de su proceso de transformación y 
+evolución de los modelos de capacitación corporativa, impulsa la incorporación de nuevas metodologías 
+de aprendizaje basadas en tecnologías inmersivas, orientadas a mejorar el desarrollo competencial de 
+los profesionales y la calidad de la experiencia asistencial prestada a pacientes y mutualistas. 
+En este contexto, la Entidad identifica la necesidad de disponer de una solución tecnológica de formación 
+inmersiva basada en RV, que permita complementar y evolucionar los modelos formativos tradicionales 
+mediante experiencias experienciales, interactivas y centradas en el entrenamiento práctico de 
+habilidades profesionales, relacionales y operativas en entornos simulados de alta fidelidad. 
+ 
+La iniciativa se enmarca en la estrategia corporativa de avanzar hacia modelos de aprendizaje más 
+innovadores, homogéneos y escalables, que permitan reforzar competencias clave asociadas a la 
+atención asistencial, la comunicación interpersonal, la gestión emocional y la toma de decisiones, 
+favoreciendo además la transferencia efectiva del aprendizaje al puesto de trabajo. 
+Como caso de uso inicial, la actuación se focalizará en el proceso de recepción de pacientes en primera 
+visita por CL en los centros asistenciales de Mutua Universal, al tratarse de un punto crítico del circuito 
+asistencial con un elevado componente relacional, emocional y operativo, y donde resulta especialmente 
+relevante garantizar una experiencia homogénea, empática y alineada con los estándares corporativos 
+de atención. 
+ 
+Actualmente, los procesos formativos asociados a este ámbito presentan limitaciones inherentes a los 
+modelos tradicionales de capacitación, especialmente en lo relativo a: 
+ Simulación realista de situaciones complejas 
+ Entrenamiento práctico en contextos emocionales 
+ Repetición controlada de escenarios 
+ Evaluación objetiva del desempeño competencial 
+ Trazabilidad del aprendizaje y evolución de los profesionales.  
+Por ello, Mutua Universal considera estratégico incorporar un modelo de formación inmersiva que 
+permita recrear situaciones profesionales representativas de la actividad real, facilitando un aprendizaje 
+activo, seguro y medible, orientado a la mejora continua del desempeño profesional y de la experiencia 
+del paciente. 
+ 
+ 
+3. DIVISIÓN EN LOTES 
+
+--- página 3 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 3 de 49 
+ 
+ 
+El presente contrato no se divide en lotes, dado que el objeto del servicio consiste en una solución 
+integral de formación inmersiva basada en tecnologías de RV, que combina de forma inseparable el 
+diseño, desarrollo, soporte, mantenimiento y evolución de la solución. 
+ 
+La prestación conjunta de estos elementos garantiza la coherencia funcional del servicio, la 
+interoperabilidad entre sus componentes y la continuidad operativa en todos los centros asistenciales de 
+Mutua Universal. La separación del objeto en lotes supondría riesgos significativos en la integración 
+técnica, la trazabilidad de la información, los niveles de calidad del servicio y la responsabilidad del 
+adjudicatario, comprometiendo la eficacia de la solución y la capacidad de Mutua Universal para 
+gestionar un único flujo asistencial homogéneo. 
+ 
+En consecuencia, y conforme a lo establecido en el artículo 99.3 de la Ley de Contratos del Sector 
+Público, no resulta viable fraccionar el objeto del contrato sin afectar negativamente a la calidad y 
+continuidad del servicio. 
+ 
+ 
+4. ÁMBITO GEOGRÁFICO 
+ 
+La prestación conjunta del servicio se realizará en los centros asistenciales designados de Mutua 
+Universal distribuidos por el territorio nacional. El despliegue de la solución será progresivo y coordinado 
+con los equipos internos, garantizando en todo momento la continuidad asistencial y la homogeneidad 
+del servicio entre los diferentes centros. 
+ 
+Por tanto, el servicio tendrá un alcance estatal, pudiendo ser utilizado por las distintas direcciones 
+territoriales, centros de trabajo y colectivos profesionales de Mutua Universal. 
+ 
+La aplicación del suministro solicitado abarca a toda la Entidad. Parte de la prestación del contrato 
+derivado de esta licitación se llevará a cabo de forma inmaterial, mediante intercambio de información a 
+través de medios electrónicos (páginas en Internet donde acceder/descargar claves o software…). La 
+provisión de procesos tales como la resolución de incidencias, se llevarán a cabo desde las oficinas del 
+adjudicatario mediante los canales de comunicación afines . La entrega de los materiales, recursos y 
+equipos técnicos se realizarán en las dependencias o centros de Mutua Universal .   
+ 
+El acceso a la plataforma se efectuará principalmente en modalidad telemática, a través de un entorno 
+en la nube accesible desde cualquier centro con conectividad habilitada. Este modelo permite asegurar 
+la escalabilidad técnica, la disponibilidad del servicio y la operatividad en una red asistencial distribuida. 
+ 
+Cuando resulte necesario para garantizar la correcta prestación del servicio o la sustitución de 
+equipamiento asociado, el adjudicatario deberá ofrecer atención presencial puntual en los centros donde 
+sea requerida, asegurando la continuidad del funcionamiento y la calidad del servicio. 
+Los costes de comida, desplazamientos (aparcamientos, kilometraje, etc.) o cualquier otro para dicho 
+ámbito geográfico que pudiera derivarse de la relación laboral entre el equipo de trabajo y la empresa 
+adjudicataria, serán por cuenta de esta última, sin que pueda repercutirlos a Mutua Universal. 
+ 
+Para el resto de los componentes del servicio (configuración personalizada de la plataforma, soporte 
+técnico, y formación asociada), estos se podrán realizar desde las oficinas del adjudicatario, aunque en 
+caso de necesidad para garantizar la calidad del contrato, se podrá requerir presencialidad por parte del 
+adjudicatario en algún centro. 
+ 
+En cualquier caso, dado el ámbito geográfico de actuación para el expediente, es imprescindible que los 
+potenciales adjudicatarios tengan presente todos los aspectos de Coordinación de Actividades 
+Empresariales para la Prevención de Riesgos Laborales (CAE/PRL). Ver apartado “5. COORDINACIÓN 
+ACTIVIDADES EMPRESARIALES”. 
+ 
+La gestión operativa de la solución y de los equipos asociados se realizará de forma centralizada por el 
+Departamento de Experiencia de Personas y Cultura Corporativa, que actuará como unidad responsable 
+de la custodia, mantenimiento, planificación, distribución y seguimiento de los dispositivos de realidad 
+inmersiva. 
+
+--- página 4 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 4 de 49 
+ 
+La centralización de la gestión responde a criterios de eficiencia organizativa y optimización de recursos, 
+permitiendo: 
+1) Garantizar un uso homogéneo y alineado con los objetivos corporativos del proyecto. 
+2) Optimizar la inversión realizada mediante la compartición de equipos entre diferentes territorios 
+y colectivos. 
+3) Evitar duplicidades en la adquisición, almacenamiento y mantenimiento de dispositivos. 
+4) Facilitar el control del inventario, la trazabilidad y la seguridad de los equipos. 
+5) Asegurar una correcta planificación de los préstamos y desplazamientos de los dispositivos en 
+función de las necesidades de cada centro. 
+6) Centralizar la gestión de incidencias técnicas, actualizaciones de software y mejoras funcionales. 
+7) Obtener indicadores de uso y resultados que permitan evaluar el impacto de la herramienta y 
+orientar posibles evoluciones futuras. 
+8) Garantizar una experiencia de usuario homogénea en toda la organización. 
+9) El Departamento de Experiencia de Personas y Cultura Corporativa será asimismo el interlocutor 
+principal con el proveedor para todas aquellas cuestiones relacionadas con la coordinación, 
+soporte, evolución funcional y valoración de resultados del proyecto. 
+ 
+ 
+ 
+5. COORDINACIÓN ACTIVIDADES EMPRESARIALES  
+ 
+En cumplimiento de lo establecido  en el artículo 24 de la Ley de Prevención de Riesgos Laborales y en 
+el R.D. 171/2004 que desarrolla el anterior en materia de coordinación de actividades empresariales, 
+para que los técnicos asignados por la empresa adjudicataria puedan desarrollar la actividad vinculada 
+a este contrato en los centros de trabajo de MUTUA, será necesario que, de forma previa al inicio de las 
+actividades, se haya realizado la adecuada coordinación entre adjudicatario y MUTUA con el fin de 
+cooperar en la aplicación de la normativa sobre prevención de riesgos laborales, y los técnicos del 
+adjudicatario queden acreditados para acceso a centros de la Entidad. 
+ 
+El adjudicatario deberá proporcionar una persona de contacto para el seguimiento de actividades 
+vinculadas a la gestión de las acreditaciones de sus técnicos. Este contacto deberá gestionar 
+toda la documentación de acreditaciones en la plataforma que indique Mutua Universal 
+inmediatamente a continuación de la formalización del contrato. 
+ 
+El resultado de esta gestión será que los técnicos del adjudicatario constarán como “acreditados” para 
+poder acceder a los centros de MUTUA para llevar a cabo las actividades que se derivan de este 
+contrato. Por otro lado, MUTUA no autorizará el inicio de los trabajos al personal no acreditado y 
+sin la correcta entrega de la documentación. 
+ 
+Cualquier cambio significativo en la actividad de la empresa o de los trabajadores, que pueda afectar al 
+titular de la empresa y viceversa, deberá comunicarse por escrito a MUTUA y supondrá la actualización 
+de la documentación. 
+ 
+ 
+Como ya se ha indicado, todo esto deberá tenerse en cuenta en momentos inmediatamente 
+posteriores a la formalización, para que cuando llegue el momento del inicio formal de servicio, 
+todos los técnicos implicados estén adecuadamente acreditados, sim impactar, por tanto, en los 
+plazos de implantación propuestos. 
+ 
+ 
+Cualquier retraso en el proyecto derivado de la no aplicación de esta coordinación de actividades 
+empresariales será responsabilidad del adjudicatario, pudiendo MUTUA aplicar las correspondientes 
+penalizaciones por impacto en la planificación establecida (ver apartado U  del CCC del Pliego de 
+Condiciones Particulares). 
+ 
+ 
+6. OBJETIVOS DEL PROYECTO 
+ 
+
+--- página 5 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 5 de 49 
+ 
+La presente iniciativa tiene como finalidad impulsar un modelo de formación inmersiva corporativa 
+basado en tecnologías de RV, orientado al desarrollo competencial, la mejora del desempeño profesional 
+y la evolución de la experiencia asistencial en Mutua Universal. 
+La solución deberá permitir la creación de experiencias formativas inmersivas, interactivas y reutilizables, 
+alineadas con las necesidades operativas, organizativas y pedagógicas de la Entidad, facilitando el 
+entrenamiento práctico de habilidades profesionales en entornos simulados seguros y controlados. 
+ 
+Los objetivos del proyecto se estructuran en los siguientes ámbitos: 
+ 
+6.1. Objetivos funcionales 
+ 
+La solución deberá permitir: 
+ Facilitar el entrenamiento experiencial de los profesionales mediante la simulación de 
+situaciones representativas de su actividad real 
+ Recrear entornos operativos de forma realista, segura y controlada, favoreciendo la práctica 
+repetitiva y el aprendizaje progresivo 
+ Permitir la toma de decisiones en escenarios simulados, facilitando el análisis de consecuencias 
+y el entrenamiento de respuestas ante distintas situaciones 
+ Evaluar el desempeño competencial de los usuarios mediante mecanismos de seguimiento, 
+monitorización y analítica del aprendizaje 
+ Disponer de métricas objetivas que permitan medir la evolución, participación y adquisición de 
+conocimientos y habilidades 
+ Facilitar experiencias inmersivas adaptables a distintos perfiles profesionales, escenarios y 
+necesidades formativas futuras 
+ 
+6.2. Objetivos organizativos 
+ 
+La implantación de la solución deberá contribuir a: 
+ Homogeneizar los procesos de capacitación y entrenamiento profesional en el ámbito 
+corporativo  
+ Humanización de los procesos de atención al paciente 
+ Garantizar una experiencia formativa alineada con los estándares de atención y calidad definidos 
+por Mutua Universal 
+ Disponer de una solución escalable y sostenible, que permita incorporar progresivamente 
+nuevos escenarios, colectivos profesionales y ámbitos funcionales 
+ Favorecer la reutilización y evolución de contenidos, recursos y componentes tecnológicos, 
+minimizando dependencias tecnológicas y facilitando la continuidad del modelo formativo 
+ Integrar la solución dentro del ecosistema tecnológico y formativo corporativo, asegurando su 
+compatibilidad con la Universidad Corporativa y el LMS de Mutua Universal 
+ Impulsar modelos innovadores de capacitación alineados con la estrategia de transformación 
+digital y mejora continua de la Entidad 
+ 
+6.3. Objetivos pedagógicos 
+ 
+Desde el punto de vista metodológico y formativo, la solución deberá: 
+ Promover un modelo de aprendizaje activo, experiencial y centrado en la participación del 
+usuario 
+ Favorecer la transferencia efectiva del aprendizaje al entorno profesional real y al desempeño 
+diario del puesto de trabajo 
+ Potenciar el desarrollo de habilidades comunicativas, relacionales y emocionales aplicadas al 
+contexto asistencial 
+ Mejorar la capacidad de los profesionales para gestionar situaciones complejas, entornos de 
+incertidumbre y relaciones con pacientes  
+ Reforzar la empatía, la escucha activa y la orientación al paciente como elementos clave de la 
+experiencia asistencial 
+ Facilitar procesos de evaluación continua, reflexión y mejora del desempeño profesional 
+
+--- página 6 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 6 de 49 
+ 
+ Contribuir a la mejora homogénea y sistemática de la experiencia del paciente y de la calidad 
+percibida en la atención prestada por Mutua Universa 
+ 
+ 
+7. SERVICIOS SUJETOS AL CONTRATO 
+ 
+El alcance de las prestaciones objeto de la presente contratación comprende el diseño, desarrollo, 
+implantación, configuración, soporte, mantenimiento y evolución de una solución integral de formación 
+inmersiva basada en tecnologías de Realidad Virtual (RV), orientada al desarrollo y evaluación de 
+competencias profesionales del personal de Mutua Universal. 
+La prestación incluirá todos los recursos funcionales, técnicos, metodológicos y operativos necesarios 
+para garantizar la correcta puesta en marcha, utilización, mantenimiento y evolución de la solución 
+durante toda la vigencia contractual. 
+En el siguiente apartado se dan más detalles. 
+ 
+ 
+8. CARACTERÍSTICAS DE LOS SERVICIOS SUJETOS AL CONTRATO 
+ 
+La solución deberá prestarse de manera homogénea en todos los entornos y centros donde se 
+despliegue, garantizando una experiencia de usuario coherente, una disponibilidad operativa adecuada 
+y un funcionamiento estable de la plataforma y de los dispositivos de RV, con independencia del volumen 
+de utilización o de las características del entorno formativo y asistencial. 
+Los servicios prestados en el marco del presente contrato deberán garantizar una implantación eficaz, 
+una operación estable de la solución de formación inmersiva y una adecuada adopción por parte de los 
+profesionales de Mutua Universal. 
+El adjudicatario deberá asegurar que todas las actividades asociadas al servicio se desarrollan con 
+niveles adecuados de calidad, continuidad, usabilidad y seguridad, conforme a las especificaciones 
+funcionales, pedagógicas y técnicas establecidas en el presente pliego. 
+Los servicios necesarios para la implantación, utilización, soporte y evolución de la solución de formación 
+inmersiva basada en RV serán, como mínimo, los siguientes: 
+ 
+1. Diseño pedagógico, metodológico y desarrollo de escenarios RV 
+2. Plataforma y funcionalidades asociadas 
+3. Suministro, mantenimiento y gestión del equipamiento de Realidad Virtual 
+4. Integración con el ecosistema formativo corporativo y plataforma Moodle 
+5. Formación, transferencia de conocimiento y acompañamiento al cambio  
+6. Monitorización, analítica y seguimiento del uso y desempeño formativo 
+7. Seguridad, protección de datos y requisitos de interoperabilidad tecnológica 
+8. Soporte técnico y funcional, así como mantenimiento preventivo, correctivo y evolutivo de la 
+solución 
+ 
+En los apartados siguientes se detallan las características funcionales, técnicas y operativas requeridas 
+para la prestación del servicio. 
+ 
+Para valorar la idoneidad de las soluciones presentadas por las empresas licitadoras, se espera que sus 
+propuestas respondan para CADA SERVICIO, de modo estructurado, a los siguientes aspectos: 
+ 
+ 
+8.1. Diseño pedagógico, metodológico y desarrollo escenarios RV 
+ 
+
+--- página 7 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 7 de 49 
+ 
+El adjudicatario deberá realizar el diseño pedagógico y metodológico de las experiencias inmersivas, 
+garantizando su alineación con los objetivos formativos, competenciales y organizativos definidos por 
+Mutua Universal. 
+El diseño deberá basarse en metodologías de aprendizaje experiencial, simulación y entrenamiento 
+práctico, incorporando criterios de aprendizaje activo, desarrollo competencial, evaluación continua, 
+transferencia del aprendizaje al puesto de trabajo, orientación al paciente y trato humanizado, gestión 
+emocional y relacional así como la mejora de la experiencia asistencial.  
+Asimismo, el adjudicatario deberá colaborar con los equipos funcionales y expertos de Mutua Universal 
+en la definición de escenarios formativos, narrativa interactiva y rutas de decisión y dinámicas de 
+interacción.  
+El diseño se deberá basar en el Modelo pedagógico y metodológico definido (ver Anexo 1. Modelo 
+pedagógico y metodológico). 
+El adjudicatario deberá realizar el desarrollo de las experiencias inmersivas tal y como se describe a 
+continuación:  
+8.1.1.  Escenarios formativos 
+La solución deberá incorporar escenarios inmersivos interactivos orientados a la simulación de 
+situaciones profesionales reales, reproduciendo de forma coherente y realista los entornos operativos y 
+asistenciales de Mutua Universal. 
+Como alcance inicial, la experiencia deberá contemplar escenarios vinculados al proceso de recepción 
+de pacientes en primera visita por CL, incluyendo tanto aspectos operativos como relacionales y 
+emocionales asociados a la atención al paciente ( ver Anexo 2. Flujo proceso Recepción pacientes en 
+Primera Visita por CL) 
+Los escenarios deberán permitir la interacción dinámica con el entorno, la simulación de situaciones 
+reales, la ejecución de procedimientos operativos, el entrenamiento de habilidades relacionales, la 
+gestión de incidencias y situaciones complejas, así como la evaluación del desempeño profesional 
+La experiencia deberá incorporar distintos niveles de complejidad y variabilidad, contemplando 
+escenarios estándar, situaciones alternativas, incidencias operativas, errores entrenables y contextos 
+emocionales diversos. 
+Los entornos inmersivos podrán desarrollarse mediante tecnologías 360º, modelado 3D o combinaciones 
+de ambas, siempre que se garantice la calidad visual y funcional; interacción completa; navegación fluida 
+y capacidad de adaptación de la experiencia en función de las decisiones del usuario.  
+Asimismo, la solución deberá diseñarse para permitir la incorporación futura de nuevos escenarios 
+formativos, perfiles profesionales y ámbitos funcionales. 
+8.1.2. Narrativa interactiva 
+La experiencia inmersiva deberá sustentarse en una narrativa interactiva coherente con el contexto 
+asistencial y profesional de Mutua Universal. 
+El diseño narrativo deberá favorecer la implicación del usuario y la inmersión en la experiencia, 
+integrando diálogos; interacciones; situaciones operativas; dinámicas relacionales y contextos 
+emocionales representativos de la actividad real.  
+
+--- página 8 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 8 de 49 
+ 
+La narrativa deberá orientarse a facilitar la toma de decisiones; la reflexión sobre las actuaciones 
+realizadas; el aprendizaje progresivo y la comprensión del impacto de las acciones sobre el proceso 
+asistencial y la experiencia del paciente.  
+Los escenarios deberán incorporar personajes, comportamientos y situaciones variables que permitan 
+adaptar el desarrollo de la experiencia a las decisiones y actuaciones del usuario. 
+Asimismo, la solución deberá permitir la personalización y evolución futura de contenidos narrativos, 
+diálogos y dinámicas de interacción. 
+8.1.3. Rutas de decisión y dinámica de interacción 
+La solución deberá permitir la interacción dinámica del usuario mediante mecanismos de toma de 
+decisiones que afecten al desarrollo de la simulación y a los resultados obtenidos durante la experiencia. 
+Las decisiones adoptadas por el usuario deberán generar consecuencias coherentes desde el punto de 
+vista funcional, operativo y pedagógico, permitiendo diferentes recorridos de navegación, variaciones en 
+el desarrollo del escenario, aparición de incidencias o situaciones alternativas, activación de errores 
+entrenables y modificación de resultados y métricas de evaluación.  
+La experiencia deberá contemplar rutas de decisión principales y alternativas, escenarios condicionados 
+por el comportamiento del usuario, variabilidad en las respuestas de los personajes y adaptación 
+dinámica de determinadas situaciones.  
+Los errores y desviaciones detectadas durante la experiencia deberán tener siempre un carácter 
+formativo y orientado a la mejora del desempeño profesional. 
+Asimismo, la solución deberá facilitar la repetición de escenarios o secuencias concretas, permitiendo 
+reforzar el aprendizaje y mejorar progresivamente las competencias entrenadas. 
+ 
+8.2. Plataforma y funcionalidades asociadas 
+ 
+La solución deberá permitir diferentes modalidades de utilización de las experiencias inmersivas, 
+adaptándose a distintos contextos organizativos y metodológicos. 
+Asimismo, la solución deberá garantizar compatibilidad con futuras evoluciones tecnológicas y versiones 
+de dispositivos, sistemas operativos y componentes asociados. 
+8.2.1. Atributos de la plataforma 
+Atributo Descripción 
+Escalable La solución deberá permitir la incorporación progresiva de nuevos 
+escenarios, funcionalidades, contenidos y casos de uso, así como la 
+ampliación de usuarios, dispositivos y licencias, garantizando la 
+reutilización de componentes y la evolución de la plataforma sin 
+necesidad de rediseños estructurales. 
+Modalidades de 
+funcionamiento 
+• Online: las experiencias inmersivas deberán poder ejecutarse de forma 
+autónoma desde dispositivos de Realidad Virtual conectados. 
+
+--- página 9 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 9 de 49 
+ 
+• Offline: la solución deberá permitir el funcionamiento sin conexión 
+cuando resulte necesario, sin comprometer la integridad de los datos, la 
+trazabilidad de la actividad ni los resultados de aprendizaje. 
+La sincronización posterior de datos y resultados deberá realizarse de 
+forma segura, automática y transparente para el usuario cuando se 
+restablezca la conectividad. 
+Tipos de formación La solución deberá soportar distintos modelos formativos, incluyendo: 
+• modalidad presencial 
+• modalidad guiada o autónoma 
+• modalidad remota o a distancia 
+• escenarios de formación individual o multiusuario cuando resulte 
+aplicable 
+Gestión y 
+actualización de 
+contenidos 
+La solución deberá permitir la gestión, mantenimiento y actualización 
+evolutiva de contenidos, escenarios, recursos multimedia y materiales 
+formativos, facilitando su reutilización, versionado y adaptación a nuevas 
+necesidades formativas. 
+Gestión de usuarios 
+y perfiles 
+La solución deberá permitir la gestión centralizada de usuarios, perfiles y 
+permisos, contemplando como mínimo los siguientes perfiles: 
+• Participante 
+• Dinamizador o Formador 
+• Administrador funcional y técnico 
+Una misma persona podrá tener asignados distintos perfiles y niveles de 
+acceso en función de sus responsabilidades y necesidades de uso. 
+Parametrizable La solución deberá permitir la parametrización flexible de funcionalidades, 
+contenidos, escenarios, reglas de uso, configuraciones y elementos 
+visuales, facilitando su adaptación a las necesidades operativas y 
+formativas de Mutua Universal sin requerir desarrollos complejos. 
+Monitorización y 
+explotación de 
+métricas 
+La solución deberá permitir la monitorización, recopilación y explotación 
+de métricas de uso, actividad y aprendizaje, incluyendo indicadores de 
+participación, progreso, tiempos de ejecución, resultados y trazabilidad de 
+la actividad formativa, así como la generación de informes y exportación 
+de datos cuando resulte aplicable. 
+Administración 
+centralizada de la 
+solución 
+La solución deberá permitir la gestión y configuración centralizada de la 
+plataforma desde un único punto de administración, facilitando la gestión 
+unificada de usuarios, permisos, contenidos, dispositivos, 
+configuraciones, estadísticas y funcionalidades de forma eficiente, segura 
+y controlada. 
+
+--- página 10 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 10 de 49 
+ 
+Experiencia de 
+usuario 
+La solución deberá ofrecer una experiencia inmersiva, intuitiva, 
+ergonómica y alineada con el entorno asistencial representado, 
+garantizando usabilidad, confort, engagement, facilidad de interacción y 
+coherencia visual con la identidad corporativa de Mutua Universal. 
+Accesible La solución deberá cumplir, como mínimo, con los criterios de 
+accesibilidad definidos en las WCAG 2.1 nivel AA o estándar equivalente 
+vigente durante la ejecución del contrato. Asimismo, en atención a las 
+características inmersivas de la solución, el proveedor deberá garantizar 
+la incorporación de medidas adicionales de accesibilidad y usabilidad, 
+incluyendo, entre otras, subtitulado de contenidos audiovisuales, 
+contraste adecuado de elementos visuales, instrucciones multimodales 
+(visuales y auditivas), posibilidad de pausa de la experiencia, control de 
+volumen, navegación intuitiva y minimización de efectos susceptibles de 
+generar fatiga visual, desorientación o mareo en las personas usuarias. 
+Concurrencia La plataforma deberá soportar el uso simultáneo por parte de múltiples 
+centros, usuarios y sesiones concurrentes, garantizando niveles 
+adecuados de rendimiento, estabilidad y disponibilidad de servicio. 
+Seguridad La solución deberá garantizar mecanismos adecuados de autenticación, 
+control de accesos, protección de la información y trazabilidad, alineados 
+con las políticas de seguridad y protección de datos aplicables en Mutua 
+Universal. 
+Interoperabilidad La solución deberá facilitar la integración e interoperabilidad con 
+plataformas y sistemas corporativos, incluyendo LMS, estándares 
+SCORM/xAPI y otros mecanismos de intercambio de información que 
+resulten necesarios. 
+Mantenible La solución deberá diseñarse bajo criterios de mantenibilidad y evolución 
+tecnológica, facilitando la corrección de incidencias, actualización de 
+componentes y adaptación futura de funcionalidades y contenidos. 
+Idioma La solución deberá estar disponible íntegramente en castellano, 
+incluyendo la interfaz de usuario, contenidos formativos, elementos 
+audiovisuales, documentación y materiales de soporte. 
+Se valorará positivamente la posibilidad de incorporar subtítulos y/o 
+contenidos adaptados en las lenguas cooficiales del Estado español, 
+concretamente catalán, gallego, euskera y valenciano, con el fin de 
+favorecer la accesibilidad, inclusión y adaptación territorial de las acciones 
+formativas. 
+ 
+A continuación, se detallan los tipos de formación, como mínimo deberán contemplarse los siguientes: 
+a) Modalidad presencial 
+Formación grupal o individual realizada de forma presencial, dirigida y acompañada por una persona 
+dinamizadora o formadora, permitiendo: 
+ ejecución supervisada de escenarios;  
+
+--- página 11 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 11 de 49 
+ 
+ análisis conjunto de resultados;  
+ y realización de dinámicas colaborativas y sesiones de reflexión.  
+b) Modalidad guiada o autónoma 
+Ejecución autónoma de la experiencia por parte del usuario, donde la propia solución dirija el recorrido 
+formativo, proporcionando instrucciones contextuales, navegación asistida, feedback automático y 
+seguimiento individual del progreso 
+c) Modalidad remota o a distancia 
+Uso de la solución en entornos remotos o distribuidos, permitiendo el acceso no presencial a los 
+contenidos, acompañamiento funcional remoto, seguimiento centralizado y explotación posterior de 
+métricas y resultados.  
+La solución deberá garantizar una experiencia consistente y funcional en cualquiera de las modalidades 
+definidas. 
+A nivel de usuarios, la solución deberá contemplar diferentes perfiles de usuario, garantizando una 
+gestión diferenciada de funcionalidades, accesos y capacidades de explotación de la información. 
+ 
+Como mínimo, deberán contemplarse los siguientes perfiles: 
+Nº Tipo de Usuario Principales funciones 
+1 Participante 
+ acceder a las experiencias formativas 
+ ejecutar escenarios inmersivos 
+ consultar resultados y feedback  
+ realizar recorridos formativos asignados 
+2 Dinamizador o formador 
+ seguimiento de participantes 
+ consultar métricas y resultados  
+ analizar patrones de desempeño 
+ utilizar la experiencia como herramienta de acompañamiento y 
+evaluación 
+3 Administrador funcional y técnico 
+ parametrización funcional 
+ gestión de usuarios 
+ configuración de contenidos 
+ explotación de métricas 
+ mantenimiento operativo 
+ administración general de la plataforma  
+ 
+La gestión de perfiles deberá integrarse con el ecosistema formativo corporativo y respetar los criterios 
+de seguridad y trazabilidad definidos por Mutua Universal. 
+ 
+8.3. Suministro, mantenimiento y gestión del equipamiento de Realidad 
+Virtual 
+ 
+
+--- página 12 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 12 de 49 
+ 
+La prestación deberá incluir dispositivos de Realidad Virtual autónomos, preparados para un uso 
+corporativo, intensivo y centralizado dentro del entorno de Mutua Universal. 
+Los dispositivos ofertados deberán ser compatibles con tecnologías equivalentes a Meta Quest 3S o 
+similares de gama profesional o avanzada, garantizando la ejecución autónoma de experiencias 
+inmersivas de alta calidad visual, estabilidad y fluidez de uso, ergonomía y confort y facilidad de 
+administración y mantenimiento.  
+Los dispositivos deberán disponer de capacidad de procesamiento autónoma, conectividad inalámbrica, 
+almacenamiento suficiente, sistemas de audio y seguimiento integrados y autonomía adecuada para el 
+uso previsto en entornos formativos corporativos.  
+La solución deberá contemplar mecanismos de gestión centralizada de dispositivos, despliegue y 
+actualización remota de contenidos, configuración centralizada, monitorización operativa y 
+mantenimiento y soporte técnico del parque de dispositivos.  
+Asimismo, el adjudicatario deberá garantizar la reposición o sustitución de equipos en caso de avería, 
+mantenimiento preventivo y correctivo, actualización de firmware y componentes y, compatibilidad futura 
+con nuevas versiones de hardware.  
+La arquitectura deberá diseñarse bajo un modelo de uso corporativo gestionado, descartándose 
+dependencias de dispositivos personales de los usuarios. 
+El adjudicatario gestionará la logística de distribución, sustitución y entrega del equipamiento, 
+asegurando su correcta disponibilidad en los centros donde se desarrolle la implantación y 
+mantenimiento del servicio. 
+Las empresas licitadoras deberán detallar su propuesta respecto a este equipamiento, desde el material 
+a suministrar, los servicios de mantenimiento asociadas y los niveles de servicio para reposición en 
+centros implicados en caso de avería que impacte en el servicio. 
+ 
+A nivel de volumetría, se estima una dotación inicial aproximada de 10, que deberá incluir como mínimo: 
+ 
+ dispositivos RV 
+ accesorios 
+ estaciones de carga 
+ elementos de protección o transporte 
+ configuración inicial 
+ mantenimiento 
+ reposición 
+ soporte técnico asociado.  
+Mutua Universal podrá solicitar información adicional sobre la vida útil estimada; la garantía. la 
+obsolescencia tecnológica y, las condiciones de renovación o sustitución del equipamiento.  
+ 
+La prestación incluirá el suministro, configuración, puesta en marcha y mantenimiento del equipamiento 
+técnico necesario para la ejecución de las experiencias inmersivas. 
+
+--- página 13 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 13 de 49 
+ 
+El adjudicatario deberá proporcionar dispositivos de RV autónomos, adecuados para un uso corporativo, 
+garantizando la compatibilidad con la solución ofertada, la facilidad de uso, la estabilidad operativa, la 
+calidad visual y rendimiento y, la adecuación a los requisitos funcionales definidos en el presente pliego.  
+ 
+8.4. Integración con el ecosistema formativo corporativo  
+ 
+La solución deberá integrarse plenamente con el ecosistema formativo de Mutua Universal y, 
+específicamente, con la plataforma Moodle utilizada por la Universidad Corporativa. 
+El adjudicatario deberá garantizar la compatibilidad e interoperabilidad mediante estándares reconocidos 
+del ámbito e-learning, incluyendo como mínimo: 
+ SCORM 1.2 
+ SCORM 2004 
+ y/o xAPI (Experience API) 
+La integración deberá permitir el alta y seguimiento de usuarios, el registro automático de participación, 
+el seguimiento del progreso, el registro de finalización de actividades, la trazabilidad del aprendizaje, la 
+integración de métricas de desempeño y evaluación competencial y, la explotación posterior de 
+resultados y analítica formativa.  
+La solución deberá permitir utilizar las experiencias inmersivas como actividades independientes; 
+integrarlas dentro de itinerarios formativos corporativos y mantener coherencia con la gestión de roles y 
+perfiles del LMS corporativo.  
+Asimismo, la integración deberá minimizar el impacto sobre la infraestructura existente; no requerir 
+desarrollos complejos adicionales sobre Moodle y garantizar compatibilidad con futuras actualizaciones 
+razonables de la plataforma corporativa 
+ 
+8.5. Formación, transferencia de conocimiento y acompañamiento al 
+cambio  
+ 
+El adjudicatario deberá proporcionar un modelo integral de gestión del cambio, capacitación y 
+transferencia de conocimiento orientado a garantizar la correcta adopción, utilización y sostenibilidad de 
+la solución de formación inmersiva dentro de Mutua Universal. 
+La estrategia de gestión del cambio deberá facilitar la incorporación progresiva de la solución en el 
+ecosistema formativo corporativo, minimizando barreras de adopción y favoreciendo la capacitación de 
+los distintos perfiles implicados en la utilización, dinamización, administración y explotación de la 
+plataforma y de las experiencias inmersivas. 
+La prestación deberá contemplar acciones orientadas a la capacitación funcional y técnica; 
+acompañamiento en la adopción; entrenamiento práctico; generación de autonomía operativa y 
+transferencia efectiva del conocimiento.  
+Asimismo, el adjudicatario deberá garantizar que Mutua Universal dispone de la documentación, 
+recursos y conocimientos necesarios para mantener, gestionar y evolucionar la solución una vez 
+finalizada la prestación contractual. 
+8.5.1. Formación a administradores y perfiles técnicos 
+
+--- página 14 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 14 de 49 
+ 
+El adjudicatario deberá proporcionar formación específica dirigida a los perfiles administradores y 
+responsables técnicos designados por Mutua Universal. 
+La formación deberá permitir adquirir los conocimientos necesarios para la administración funcional de 
+la plataforma, la gestión de usuarios y perfiles, la configuración y parametrización básica, la explotación 
+de métricas e informes, la gestión operativa de contenidos y escenarios, el seguimiento de actividad y 
+desempeño y la utilización de herramientas de soporte y monitorización.  
+La capacitación deberá contemplar tanto aspectos funcionales como operativos y técnicos relacionados 
+con la solución implantada. 
+La formación deberá incluir sesiones teóricas y prácticas, demostraciones funcionales, resolución de 
+casos de uso y entrenamiento sobre la operativa real de la solución.  
+8.5.2. Formación a dinamizadores y usuarios formadores 
+El adjudicatario deberá proporcionar formación específica para las personas dinamizadoras, formadoras 
+o responsables de la ejecución y acompañamiento de las experiencias inmersivas. 
+La formación deberá orientarse a garantizar la correcta utilización metodológica y pedagógica de la 
+solución, permitiendo a los dinamizadores dirigir sesiones formativas, acompañar a participantes, 
+interpretar métricas y resultados, gestionar dinámicas de grupo y utilizar la experiencia inmersiva como 
+herramienta de entrenamiento competencial.  
+La capacitación deberá incluir el uso práctico de dispositivos RV, la ejecución y control de escenarios. la 
+gestión de incidencias básicas, la explotación de resultados y feedback, así como buenas prácticas de 
+dinamización y acompañamiento formativo.  
+Asimismo, la formación deberá contemplar tanto entrenamiento práctico sobre escenarios reales como 
+simulaciones guiadas y la utilización de funcionalidades de seguimiento y evaluación.  
+8.5.3. Materiales didácticos y documentación 
+El adjudicatario deberá proporcionar toda la documentación y materiales necesarios para garantizar la 
+correcta utilización, administración y explotación de la solución. 
+Como mínimo, deberán entregarse: manuales de usuario, manuales de administración, guías rápidas de 
+utilización, documentación funcional, documentación técnica, materiales de apoyo formativo y 
+contenidos audiovisuales o tutoriales cuando resulte aplicable.  
+La documentación deberá presentarse en formato digital editable y reutilizable, estar redactada en 
+castellano, mantenerse actualizada durante la vigencia contractual y adaptarse a los distintos perfiles de 
+usuario definidos.  
+Mutua Universal podrá reutilizar internamente la documentación y materiales generados en el marco del 
+contrato. 
+8.5.4. Transferencia de conocimiento 
+El adjudicatario deberá garantizar la transferencia de conocimiento necesaria para que Mutua Universal 
+pueda mantener, gestionar y evolucionar la solución implantada con un nivel adecuado de autonomía 
+funcional y operativa. 
+
+--- página 15 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 15 de 49 
+ 
+Como mínimo, deberán transferirse conocimientos relacionados con la administración y configuración de 
+la plataforma, la operación de dispositivos y componentes tecnológicos, la gestión de contenidos y 
+escenarios, la explotación de métricas y reporting, los procedimientos de soporte y mantenimiento. 
+ 
+8.6. Monitorización, analítica y seguimiento del uso y desempeño 
+formativo 
+ 
+La solución deberá incorporar capacidades de monitorización, trazabilidad y analítica del aprendizaje 
+que permitan realizar seguimiento del uso, desempeño y evolución competencial de los usuarios. 
+La plataforma deberá registrar, como mínimo los accesos y participación, los escenarios ejecutados, las 
+decisiones tomadas, los tiempos de dedicación, los errores detectados, las competencias entrenadas, 
+los resultados obtenidos y la evolución del desempeño.  
+Asimismo, la solución deberá permitir la explotación individual y agregada de métricas, generación de 
+informes y reportes, análisis de patrones de comportamiento y desempeño, así como la evaluación del 
+impacto formativo de la experiencia.  
+Los resultados deberán poder visualizarse mediante cuadros de mando, informes o mecanismos 
+equivalentes, orientados tanto a usuarios como a perfiles formadores y administradores. 
+La solución deberá permitir la exportación o integración de la información generada con el LMS 
+corporativo y otros sistemas definidos por Mutua Universal, garantizando la trazabilidad completa de la 
+actividad formativa y el seguimiento del aprendizaje. 
+ 
+8.7. Seguridad, protección de datos y requisitos de interoperabilidad 
+tecnológica 
+ 
+Ver apartado 11. Seguridad y protección de datos. 
+ 
+ 
+8.8. Soporte técnico y funcional, así como mantenimiento preventivo, 
+correctivo y evolutivo de la solución 
+ 
+Ver apartado 15. Modelo de gestión del servicio.  
+ 
+ 
+9. REQUISITOS TÉCNICOS 
+ 
+La solución deberá sustentarse en una arquitectura tecnológica robusta, escalable, interoperable y 
+sostenible, capaz de garantizar la correcta prestación del servicio durante toda la vigencia contractual, 
+así como su evolución futura dentro del ecosistema formativo y tecnológico de Mutua Universal. 
+La arquitectura deberá prestarse bajo criterios de disponibilidad, rendimiento, seguridad; 
+Interoperabilidad, modularidad, reutilización así como la minimización de dependencias tecnológicas.  
+Asimismo, la solución deberá garantizar la continuidad operativa de las experiencias inmersivas, tanto 
+en escenarios conectados como en entornos con conectividad limitada o no permanente. 
+La solución deberá cumplir, como mínimo, los siguientes requisitos técnicos generales: 
+a) Entornos de trabajo 
+
+--- página 16 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 16 de 49 
+ 
+Deberá disponer de un entorno de pruebas o pre-producción segregado que permita validar 
+configuraciones, plantillas y cambios antes de su paso a producción.  
+b) Documentación y versionado 
+El adjudicatario entregará documentación técnica y funcional actualizada, así como notas de versión y 
+un registro de cambios para cada actualización relevante. 
+ 
+c) Rendimiento y estabilidad 
+La plataforma deberá garantizar un funcionamiento fluido, estable y consistente, evitando interrupciones, 
+degradaciones de experiencia o tiempos de respuesta incompatibles con el uso previsto. 
+Las experiencias inmersivas deberán ejecutarse con niveles adecuados de calidad visual, fluidez de 
+interacción, sincronización de eventos y estabilidad operativa.  
+d) Disponibilidad y continuidad operativa 
+La solución deberá garantizar elevados niveles de disponibilidad y continuidad del servicio, incorporando 
+mecanismos de recuperación ante errores, gestión de incidencias, actualización controlada y 
+mantenimiento sin impacto significativo sobre la operación.  
+Asimismo, deberán contemplarse mecanismos de respaldo y recuperación de información, 
+sincronización segura de datos y preservación de la trazabilidad del aprendizaje.  
+e) Persistencia y trazabilidad 
+La solución deberá garantizar la persistencia de la información y del progreso de los usuarios, 
+permitiendo la reanudación de experiencias desde puntos intermedios; conservación del histórico 
+formativo; trazabilidad de acciones y resultados y explotación posterior de métricas y evidencias de 
+aprendizaje.  
+Los datos asociados al uso de la plataforma deberán almacenarse de forma segura, íntegra y 
+consistente. 
+f) Interoperabilidad y minimización de dependencia tecnológica 
+Los componentes y formatos empleados deberán evitar dependencias tecnológicas que limiten la 
+evolución futura o la integración con sistemas corporativos. 
+Mutua Universal deberá conservar capacidad de reutilización, ampliación y explotación futura de los 
+contenidos, recursos y componentes desarrollados en el marco del contrato. 
+g) Protecciones técnicas. 
+La plataforma deberá incluir mecanismos razonables de prevención frente a usos indebidos o 
+automatismos maliciosos, sin afectar al uso legítimo por parte del personal de Mutua Universal. 
+La solución deberá garantizar elevados niveles de calidad técnica, estabilidad y fiabilidad operativa 
+durante toda la vigencia contractual. 
+La calidad técnica deberá contemplar, como mínimo la estabilidad de ejecución, la compatibilidad con 
+los dispositivos definidos, la correcta integración con los sistemas corporativos, los tiempos de carga 
+adecuados, la persistencia de sesiones y progreso y, la ausencia de errores funcionales críticos.  
+
+--- página 17 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 17 de 49 
+ 
+Asimismo, el adjudicatario deberá aplicar procedimientos de pruebas funcionales; validación técnica; 
+control de versiones; gestión de incidencias y aseguramiento de calidad antes de la puesta en producción 
+de cualquier componente o evolución.  
+ 
+9.1. Plataforma software 
+ 
+La solución deberá disponer de una plataforma software para la gestión, ejecución, monitorización y 
+explotación de las experiencias inmersivas. 
+Atendiendo a los requerimientos de la misma, la solución podrá ser en modalidad Cloud.. 
+Las empresas licitadoras deberán definir la arquitectura de la solución y especificar los componentes 
+lógicos y físicos de la misma, así como el diagrama de capas lógicas y su distribución en la 
+infraestructura, los productos software y/o hardware requeridos, sistemas operativos propuestos, 
+protocolos utilizados, necesidades de comunicación (apertura de puertos, ...) y facilitar la documentación 
+técnica de los productos ofertados. Se deberá también detallar el modelo de servicio de soporte y detallar 
+los requisitos de conexión remota para la implantación de la solución y para la fase de explotación y 
+soporte de la misma durante la vigencia del contrato. 
+ 
+La solución deberá estar dotada de los mecanismos y protocolos (tokens de seguridad y utilización de 
+protocolos de comunicaciones seguros) necesarios para su completa securización, garantizando el 
+acceso, la integridad y la confidencialidad de la información gestionada. El acceso a toda la solución 
+siempre deberá realizarse bajo el protocolo seguro HTTPS. 
+Los componentes tecnológicos que formen parte del proyecto no tendrán salida a Internet y únicamente 
+se permitirán aquellos accesos que estén debidamente identificados y Mutua Universal considere 
+seguros. Adicionalmente los quioscos digitales no estarán unidos a dominio y se encontrarán en 
+workgroup. 
+Los componentes de la solución de gestión a ejecutarse en los PCs de los usuarios deberán ejecutarse 
+en un entorno web, siendo el acceso a los servicios 100% web, y compatible con los sistemas existentes 
+en Mutua Universal, en concreto con los principales navegadores corporativos (Google Chrome, 
+Microsoft Edge). Si durante la vigencia del contrato los sistemas operativos cambian se deberán adaptar. 
+ 
+La plataforma deberá garantizar la disponibilidad y continuidad operativa; el acceso seguro y autenticado; 
+la actualización tecnológica continua; la gestión centralizada de contenidos y usuarios y la capacidad de 
+escalado funcional y técnico.  
+El adjudicatario deberá proporcionar las licencias software necesarias para la utilización, gestión y 
+explotación de la solución durante toda la vigencia contractual. 
+La solución deberá prestarse en modalidad SaaS (Software as a Service) o equivalente, garantizando la 
+disponibilidad y continuidad del servicio, el acceso seguro a la plataforma, la actualización tecnológica, 
+la escalabilidad funcional y técnica, la compatibilidad con los entornos definidos por Mutua Universal y 
+la disponibilidad de contenidos en modalidad online y offline, cuando resulte aplicable.  
+Asimismo, deberán incluirse todas las licencias, componentes y elementos necesarios para el correcto 
+funcionamiento de la solución, sin costes adicionales no previstos expresamente en la oferta adjudicada. 
+Gestión de identidades y accesos 
+La solución deberá integrarse con los sistemas corporativos de gestión de identidades de Mutua 
+Universal mediante protocolos estándar de autenticación y federación (SAML 2.0, OAuth 2.0 u OpenID 
+
+--- página 18 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 18 de 49 
+ 
+Connect). Se valorará positivamente la capacidad de aprovisionamiento y desaprovisionamiento 
+automático de usuarios y grupos mediante el estándar SCIM 2.0, facilitando la gestión centralizada de 
+identidades y reduciendo las tareas administrativas. 
+La solución deberá soportar: 
+ Single Sign-On (SSO) para permitir a los usuarios acceder a la plataforma utilizando sus 
+credenciales corporativas, evitando la gestión de contraseñas independientes.  
+ Autenticación Multifactor (MFA/2FA), integrándose con los mecanismos de autenticación 
+reforzada definidos por Mutua Universal.  
+ Gestión de roles y perfiles de acceso basada en grupos o atributos corporativos.  
+ Aprovisionamiento y desaprovisionamiento automático de usuarios y grupos mediante SCIM 2.0, 
+facilitando la sincronización automática de identidades y permisos desde el directorio 
+corporativo. 
+ 
+ 
+10. REQUISITOS UX, ACCESIBILIDAD Y CALIDAD 
+ 
+La solución deberá diseñarse garantizando una experiencia de usuario inmersiva, intuitiva, accesible y 
+alineada con los objetivos pedagógicos y funcionales definidos por Mutua Universal. 
+El adjudicatario deberá asegurar que todos los componentes funcionales, visuales, audiovisuales e 
+interactivos de la solución cumplen criterios adecuados de usabilidad; accesibilidad; calidad técnica; 
+coherencia pedagógica y experiencia de usuario.  
+Asimismo, la solución deberá contemplar mecanismos de validación y control de calidad durante todas 
+las fases del proyecto, garantizando la adecuación funcional, técnica y metodológica de las experiencias 
+inmersivas desarrolladas. 
+ 
+10.1. Experiencia de usuario (UX) inmersiva 
+ 
+La experiencia inmersiva deberá diseñarse bajo criterios de usabilidad, claridad e interacción intuitiva, 
+favoreciendo la participación activa del usuario y minimizando barreras de utilización. 
+La solución deberá proporcionar una experiencia coherente, fluida, intuitiva, inmersiva y alineada con el 
+contexto profesional y asistencial representado.  
+El diseño UX deberá contemplar la navegación sencilla y comprensible; interacción natural con el entorno 
+virtual; claridad en instrucciones y objetivos; consistencia visual y funcional y reducción de la carga 
+cognitiva innecesaria.  
+La experiencia deberá minimizar situaciones que puedan afectar negativamente al usuario durante el 
+uso de dispositivos de Realidad Virtual, contemplando medidas orientadas a confort visual, estabilidad 
+de navegación, reducción de mareo o fatiga, ergonomía de interacción y adaptación razonable a distintos 
+perfiles de usuario.  
+Asimismo, la solución deberá facilitar la inmersión y concentración del usuario; favorecer el engagement 
+y la participación y garantizar una experiencia positiva y orientada al aprendizaje.  
+La interfaz deberá permitir la incorporación de elementos de identidad visual corporativa de Mutua 
+Universal, manteniendo coherencia estética y funcional en todos los entornos y escenarios. 
+ 
+
+--- página 19 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 19 de 49 
+ 
+10.2. Accesibilidad y cumplimiento WCAG AA 
+ 
+La solución deberá diseñarse conforme a criterios de accesibilidad universal, garantizando el 
+cumplimiento, como mínimo, del nivel AA de las pautas WCAG (Web Content Accessibility Guidelines), 
+en aquellos componentes y entornos donde resulte aplicable. 
+El adjudicatario deberá garantizar que los contenidos, interfaces y elementos interactivos contemplan 
+criterios de accesibilidad orientados a facilitar la comprensión y utilización de la solución; reducir barreras 
+de acceso y favorecer la participación de distintos perfiles de usuario.  
+La solución deberá contemplar, entre otros el contraste visual adecuado, la legibilidad de textos, la 
+navegación clara y estructurada, la consistencia de interacción, la identificación comprensible de 
+acciones y estados, el subtitulado o alternativas textuales cuando resulte aplicable y la adaptación 
+razonable de elementos audiovisuales e interactivos.  
+Asimismo, la experiencia deberá diseñarse considerando buenas prácticas de accesibilidad aplicadas a 
+entornos inmersivos y de Realidad Virtual, favoreciendo la inclusión y minimizando limitaciones derivadas 
+de la interacción con dispositivos RV. 
+El adjudicatario deberá realizar las validaciones y verificaciones necesarias para garantizar el 
+cumplimiento de los requisitos de accesibilidad establecidos. 
+ 
+10.3. Calidad pedagógica 
+ 
+La solución deberá garantizar elevados estándares de calidad pedagógica y metodológica, asegurando 
+la coherencia entre los objetivos formativos, las dinámicas de interacción, los escenarios simulados, la 
+evaluación competencial y los resultados de aprendizaje esperados.  
+El diseño de las experiencias inmersivas deberá responder a necesidades formativas reales, facilitando 
+el aprendizaje experiencial, promoviendo la participación activa y favoreciendo la transferencia efectiva 
+al puesto de trabajo.  
+La calidad pedagógica deberá contemplar la adecuación metodológica; la coherencia narrativa; la 
+claridad de objetivos; la progresión del aprendizaje; el realismo de las situaciones simuladas y la y 
+orientación al desarrollo competencial.  
+Asimismo, el adjudicatario deberá garantizar la consistencia entre escenarios y contenidos, la validez de 
+las dinámicas formativas, la alineación con los procesos asistenciales y organizativos de Mutua Universal 
+y la actualización continua de contenidos y recursos cuando resulte necesario.  
+Mutua Universal podrá participar en los procesos de validación funcional y pedagógica de los escenarios 
+desarrollados durante las distintas fases del proyecto. 
+ 
+10.4. Calidad audiovisual y de los entornos inmersivos 
+ 
+Los contenidos audiovisuales y entornos inmersivos deberán garantizar un nivel de calidad visual, sonora 
+e interactiva acorde con los objetivos formativos y el nivel de inmersión requerido. 
+
+--- página 20 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 20 de 49 
+ 
+Los escenarios deberán reproducir de forma coherente y realista los contextos profesionales y 
+asistenciales definidos por Mutua Universal, favoreciendo la credibilidad y efectividad de la experiencia 
+formativa. 
+La calidad audiovisual deberá contemplar la resolución adecuada, la estabilidad visual, la coherencia 
+gráfica, la calidad de modelados y entornos, la iluminación y ambientación consistentes, la sincronización 
+audiovisual y la correcta reproducción de audio y voz.  
+Asimismo, los contenidos deberán mantener coherencia estética y narrativa, favorecer la inmersión y 
+comprensión del usuario y, evitar elementos que puedan dificultar la experiencia o generar distracciones 
+innecesarias.  
+El adjudicatario deberá garantizar que todos los contenidos audiovisuales utilizados disponen de los 
+derechos, licencias y autorizaciones necesarias para su utilización dentro del marco del contrato. 
+ 
+11. REQUISITOS PARA EL CUMPLIMIENTO EN MATERIA DE SEGURIDAD 
+DE LA INFORMACIÓN 
+ 
+A efectos aclaratorios del presente capitulo se entenderá “cadena de suministro” como aquella que está 
+formada por todos los procesos de base tecnológica, involucrados de manera directa o indirecta en la 
+entrega de un producto o prestación de un servicio. 
+ 
+El adjudicatario será plenamente responsable del cumplimiento de todas las obligaciones en materia de 
+seguridad de la información, ciberresiliencia y protección de datos, tanto por su propia actuación como 
+por la de cualquier entidad de su cadena de suministro. 
+ 
+Será también responsabilidad del adjudicatario asegurar que los miembros de su cadena de suministro 
+conozcan, acepten y apliquen las medidas de seguridad requeridas en el presente pliego, supervisando 
+su correcta ejecución, y disponiendo de mecanismos para evaluar, documentar y mitigar riesgos 
+derivados de la relación con terceros, conforme al principio de diligencia debida y continuidad operativa. 
+ 
+Para la cumplimentación de diversos apartados, el adjudicatario deberá indicar la parte de su cadena de 
+suministro cuando proceda. 
+ 
+11.1. Objeto, alcance y obligaciones generales en materia de seguridad 
+de la información 
+ 
+Este apartado ha sido redactado con base en los controles y medidas de seguridad establecidos en el 
+Real Decreto 311/2022, de 3 de mayo que regula el Esquema Nacional de Seguridad (ENS), la directiva 
+NIS2 (Directiva (UE) 2022/2555 del Parlamento Europeo), y el AI Act (Reglamento Europeo de 
+Inteligencia Artificial, Regulación 2024/1689), con el fin de asegurar el cumplimiento de las obligaciones 
+legales de Mutua Universal en materia de seguridad de la información, ciber resiliencia y usos de la 
+Inteligencia Artificial. 
+ 
+El adjudicatario deberá garantizar, durante toda la duración de la relación contractual, la protección de 
+la información a la que tenga acceso, observando en todo momento los principios de confidencialidad, 
+integridad, disponibilidad, trazabilidad y autenticidad de los datos, y aplicando controles proporcionales 
+a la sensibilidad de la información. 
+ 
+A tal efecto, se compromete a: 
+ Cumplir con las políticas de seguridad de Mutua Universal, así como con las normas y 
+estándares aplicables. 
+ Comunicar su propia política de seguridad, así como las medidas de implementación y 
+seguimiento adoptadas. 
+
+--- página 21 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 21 de 49 
+ 
+ Informar a Mutua Universal, de forma inmediata y por escrito, de cualquier riesgo real o potencial 
+en sus sistemas o redes que pueda afectar a los servicios o a la información gestionada. 
+ Garantizar que la información de Mutua Universal no se almacena, copia, intercepta, reutiliza, 
+transmite o trata de forma indebida en sus entornos tecnológicos. 
+ Implementar controles de acceso lógicos eficaces, asegurando el acceso exclusivo del personal 
+autorizado. 
+ Velar porque su personal aplique de forma estricta las medidas de seguridad en todo momento. 
+ Detallar, si así se requiere, los mecanismos y protocolos criptográficos aplicados a las 
+transmisiones de datos. 
+ 
+Asimismo, el personal del adjudicatario que requiera acceso físico a las instalaciones de Mutua Universal 
+deberá estar debidamente acreditado y registrado, portando en todo momento la identificación visible 
+proporcionada por Mutua Universal. Se establecerá un control de acceso conforme a los criterios 
+definidos en la política de seguridad de la entidad.  
+ 
+11.2. Notificaciones y Gestión de Ciberincidentes 
+ 
+A los efectos de facilitar la notificación de cualquier aspecto de ciberseguridad y posibles incidentes con 
+afectación a los datos o sistemas informáticos de Mutua Universal, se facilitan los siguientes datos de 
+contacto: 
+Equipo de ciberseguridad (en adelante, Ciberseguridad Mutua) 
+E-mail: ciberseguridad@mutuauniversal.net 
+Teléfono: 935009232 (Horario: laborables 8h – 18h) 
+Dirección: Carrer de Muntades, 11 (08820 El Prat de Llobregat, Barcelona)  
+ 
+Independientemente del medio de comunicación empleado (teléfono, presencial, etc.), el adjudicatario 
+deberá registrar cada incidente o notificación a través de correo electrónico, como vía oficial de 
+trazabilidad y registro para Mutua Universal. 
+ 
+El adjudicatario informará a Ciberseguridad Mutua, en el menor plazo de tiempo posible y con un plazo 
+máximo de 24 horas desde su identificación, de cualquier incidente de seguridad en su entorno 
+tecnológico que pudiera afectar o afecte a servicios proporcionados a Mutua Universal, al personal 
+implicado en la ejecución de servicios para Mutua Universal, o al establecimiento de conexiones desde 
+Mutua Universal de cualquier tipo con recursos publicados por el adjudicatario. 
+ 
+En el caso de detectar un incidente de seguridad durante la prestación del servicio, el adjudicatario 
+deberá notificarlo de inmediato al personal responsable del servicio designado por Mutua Universal. 
+Asimismo, habilitará un canal de comunicación y presentará un informe de situación y un plan de 
+reparación o mitigación, si procede. 
+ 
+Adicionalmente, cualquier notificación de incidente que tenga una potencial trascendencia pública irá 
+acompañada de una propuesta de plan de comunicación a seguir por Mutua Universal. 
+ 
+El proveedor colaborará en la resolución de cualquier incidente producido en el entorno de Mutua 
+Universal con los departamentos de Ciberseguridad y Tecnología de la Entidad, proporcionando todas 
+las evidencias requeridas que estén a su disposición por los servicios ejecutados dentro del contrato. 
+ 
+El proveedor notificará con una antelación razonable cualquier cambio tecnológico significativo (ya sea 
+en plataformas prestadas como servicio/SaaS o en soluciones desplegadas en las instalaciones de 
+Mutua Universal/on-premise) que pudiera afectar a los requisitos de seguridad, disponibilidad, integridad 
+o confidencialidad del servicio. Mutua Universal evaluará el impacto de dichos cambios sobre los 
+requisitos contractuales aplicables, incluidos los derivados del Esquema Nacional de Seguridad (ENS), 
+la Directiva NIS2, el Reglamento General de Protección de Datos (RGPD) y demás normativa sectorial 
+vigente. En caso de que se detecten riesgos no compatibles con dichos requisitos, ambas partes 
+colaborarán de buena fe para mitigar su impacto y garantizar el cumplimiento del contrato. Si no fuera 
+posible alcanzar dicho cumplimiento mediante medidas compensatorias razonables, el proveedor deberá 
+
+--- página 22 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 22 de 49 
+ 
+abstenerse de aplicar los cambios o, en su caso, restablecer la configuración o condiciones previas, 
+conforme a las indicaciones de Ciberseguridad Mutua. 
+ 
+Por último, el proveedor deberá notificar cualquier incidente relacionado con sistemas de Inteligencia 
+Artificial (IA) que pueda afectar a los servicios proporcionados a Mutua Universal, siguiendo los mismos 
+procedimientos y plazos establecidos para otros incidentes de seguridad. 
+ 
+11.3. Datos de contacto del responsable de seguridad de la información 
+del adjudicatario 
+ 
+Para garantizar una comunicación y coordinación efectiva en materia de ciberseguridad, el adjudicatario 
+deberá designar y proporcionar los datos de contacto de: 
+ 
+- Responsable de seguridad de la información: 
+ 
+Este responsable o POC (Punto o Persona de Contacto, según art. 13 ENS) será el 
+punto de contacto principal para todas las cuestiones relacionadas con la seguridad de 
+la información y ciberseguridad. 
+ 
+Tendrá la responsabilidad de gestionar consultas, incidencias y notificaciones que 
+puedan surgir durante la vigencia del contrato, además de colaborar estrechamente con 
+el equipo de Ciberseguridad de Mutua para asegurar el cumplimiento de las medidas de 
+seguridad establecidas. 
+ 
+- Responsable de los sistemas de Inteligencia Artificial (IA): 
+ 
+Si el objeto del contrato implica el uso o despliegue de sistemas de IA, el adjudicatario 
+designará un responsable de los sistemas de IA. 
+ 
+Este responsable se encargará específicamente de los sistemas de IA, asegurando su 
+correcto funcionamiento y cumplimiento de las normativas aplicables. Ver al respecto, y 
+específicamente, apartado “Uso de tecnología de Inteligencia Artificial” 
+ 
+Los datos de contacto deberán proporcionarse antes del inicio de la prestación del servicio mediante el 
+“Anexo ENS I” del PCP, y mantenerse actualizados durante toda la vigencia contractual. Mutua Universal 
+podrá solicitar su revisión o modificación en cualquier momento. 
+ 
+11.4. Política y Normativas de Seguridad 
+ 
+Los adjudicatarios aceptarán y se comprometerán a cumplir la Política de Seguridad de Mutua Universal 
+y sus Normativas y Procedimientos de Seguridad vigentes en el momento de la firma del contrato o 
+aquellos que se comuniquen durante su ejecución, siempre que estén relacionados con el objeto de la 
+licitación. Están disponibles en: [https://www.mutuauniversal.net/es/mu-articulo/Politicas]. El 
+adjudicatario podrá solicitar aclaraciones sobre la aplicabilidad o interpretación de estas normas en caso 
+de duda. 
+ 
+11.5. Protección del entorno físico y de las instalaciones 
+ 
+Las instalaciones del adjudicatario que manejen información de Mutua Universal deben contar con las 
+condiciones adecuadas de seguridad física: 
+ 
+ Si almacena información de Mutua Universal, deben implementar medidas de protección según 
+el Esquema Nacional de Seguridad (ENS) para evitar accesos físicos no autorizados a los 
+repositorios de información, acorde a la sensibilidad de dicha información. 
+ Deben garantizar que la información de Mutua Universal no sea accesible de forma indebida 
+desde el exterior de sus instalaciones. 
+ 
+
+--- página 23 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 23 de 49 
+ 
+11.6. Uso de tecnología de Inteligencia Artificial 
+ 
+11.6.1. Cumplimiento Normativo y Ético 
+Los proveedores y entidades que mantengan relaciones contractuales con Mutua Universal y presten 
+servicios o provean soluciones a Mutua Universal, informarán a Mutua Universal de forma previa y por 
+escrito del uso de cualquier sistema de inteligencia artificial (IA) para la ejecución de las prestaciones 
+incluidas en sus contratos y serán responsables de garantizar que dicho sistema de IA cumpla con 
+estándares de seguridad y ética. 
+ 
+El proveedor deberá asegurar que los sistemas de IA que utilicen información de Mutua Universal o se 
+incluyan en la prestación del servicio cumplen con todas las normativas y regulaciones aplicables, 
+incluyendo el Reglamento Europeo de Inteligencia Artificial (AI Act). 
+ 
+En el caso de desarrollo de modelos, el proveedor realizará una evaluación documentada del modelo 
+para garantizar su conformidad con la regulación. 
+Si se utiliza Inteligencia Artificial, el adjudicatario proporcionará a Mutua Universal la documentación 
+relativa a la evaluación de impacto sobre derechos fundamentales, en base al Reglamento de 
+Inteligencia Artificial (UE) 2024/1689 del Parlamento Europeo y del Consejo del 13 de junio de 2024. 
+11.6.2. Medidas de Seguridad 
+Además, el prestador de servicios implementará medidas de seguridad robustas para proteger los 
+sistemas de IA contra ciberataques, incluyendo la capacidad de detectar y responder a incidentes de 
+seguridad en tiempo real. 
+Se deberán aplicar técnicas para evitar la divulgación de información confidencial, especialmente si el 
+modelo de IA ha sido entrenado o ajustado con datos sensibles. 
+11.6.3. Gestión de Permisos y Funcionalidades 
+La funcionalidad y los permisos de los complementos y herramientas del modelo de IA deberán estar 
+claramente definidos y limitados para evitar usos indebidos, registrando y monitoreando la actividad de 
+estos complementos y herramientas, así como de los sistemas posteriores. 
+11.6.4. Actualización y Mantenimiento 
+El proveedor deberá mantener una política de aplicación de parches para componentes obsoletos o 
+vulnerables de los sistemas IA, asegurando que éstos estén siempre actualizados y protegidos contra 
+nuevas amenazas. 
+11.6.5. Protección de la información 
+Queda prohibido el uso de información confidencial de Mutua Universal para entrenar modelos de IA sin 
+la aprobación previa, expresa y por escrito de Mutua Universal. 
+ 
+Cualquier tratamiento de datos o información de Mutua Universal mediante IA deberá identificar 
+expresamente: (i) el tipo de datos tratados, (ii) la finalidad específica, (iii) el modelo utilizado o proveedor 
+de tecnología, y (iv) el entorno técnico donde se procesarán los datos. Este tratamiento requerirá la 
+autorización previa y expresa de Mutua Universal. 
+ 
+Si se utiliza IA mediante un motor externo y puede utilizarse por otros clientes distintos a Mutua Universal, 
+el proveedor deberá garantizar que dicho motor operará en entornos separados para evitar la 
+“contaminación” cruzada de datos y asegurar la privacidad y seguridad de la información. 
+ 
+11.7. Deficiencias o modificaciones en las condiciones contractuales o 
+del servicio 
+ 
+
+--- página 24 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 24 de 49 
+ 
+Mutua Universal se reserva el derecho a resolver el contrato, sin penalización alguna, si fruto de una 
+modificación en la solución tecnológica o por deficiencias en la ejecución del servicio solicitado, 
+considera que no se está cumpliendo con la normativa vigente, especialmente la relacionada con 
+protección de la información y la relacionada con el cumplimiento del Esquema Nacional de Seguridad 
+o la NIS2. 
+ 
+Mutua Universal se reserva el derecho a resolver el contrato de forma anticipada y sin penalización 
+alguna para la entidad contratante si, como consecuencia de una modificación técnica, incumplimiento 
+contractual o deficiencia en la ejecución del servicio, se produjera un riesgo significativo de 
+incumplimiento de las normativas vigentes en materia de protección de la información, Esquema 
+Nacional de Seguridad o directiva NIS2. 
+ 
+11.8. Gestión de excepciones 
+ 
+Cualquier excepción a los anteriores apartados no recogida en el presente documento en el momento 
+de la contratación o que ocurra en el transcurso del servicio, deberá ser comunicada a través de los 
+canales indicados en el presente documento para su correspondiente tratamiento y valoración. Se 
+deberá presentar de forma clara y concisa el objeto de la excepción, así como la modificación deseada 
+por el solicitante con su debida justificación. 
+ 
+Si se identifican diferencias entre los requerimientos establecidos en este documento y las prácticas o 
+procedimientos del adjudicatario, estas diferencias deben comunicarse a Mutua Universal. Mutua 
+Universal evaluará las diferencias propuestas a través de sus responsables de Seguridad de la 
+Información y de Tecnología, pudiendo emitir autorización expresa, condicionada o denegatoria. En 
+ausencia de dicha autorización expresa, se entenderá que la excepción no es aplicable. 
+ 
+11.9. Responsabilidad sobre la veracidad de la información 
+ 
+El adjudicatario responderá frente a Mutua Universal por cualquier daño, perjuicio, sanción o coste 
+derivado de la inexactitud, incorrección, omisión o falsedad de las declaraciones, garantías o 
+manifestaciones contenidas en el contrato, así como por el incumplimiento de las medidas de seguridad 
+declaradas. 
+ 
+11.10. Protección de los puestos de trabajo 
+ 
+11.10.1. Lugar de trabajo vacío 
+El adjudicatario deberá establecer una política de "mesas limpias" respecto a la documentación 
+perteneciente a Mutua Universal, así como cualquier otro medio físico o digital que pueda contener 
+información de Mutua Universal. Únicamente se podrá disponer del material requerido para la actividad 
+que se está realizando en cada momento. 
+ 
+El equipamiento informático y la documentación deberán quedar guardados en un espacio cerrado 
+cuando no se estén utilizando. 
+ 
+11.10.2. Requerimientos mínimos de los equipos de trabajo 
+Los equipos que contengan información de Mutua deberán disponer de:  
+ 
+ Bloqueo por inactividad. Se requerirá una nueva autenticación del usuario para reanudar la 
+actividad, con un tiempo de inactividad no superior a diez minutos. Cualquier excepción deberá 
+contar con autorización previa, documentada y expresa de Mutua Universal, que será archivada 
+en el expediente del contrato. 
+ Solución antivirus actualizada a la última versión y configurada para realizar análisis regulares 
+de los equipos, y actualizarse periódicamente 
+ Política de actualización que instale los últimos parches de seguridad en un tiempo inferior a dos 
+semanas, priorizando aquellas actualizaciones que sean críticas en un plazo inferior a tres días. 
+ Bastionado que adapte las configuraciones a las más seguras posibles para su uso previsto. 
+
+--- página 25 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 25 de 49 
+ 
+ Firewall habilitado restringiendo el tráfico entrante al equipo al mínimo necesario. 
+Si el equipo se conecta a un sistema de información de Mutua Universal, será requisito el utilizar una 
+autenticación de doble factor aceptado en las guías del CNI-CCN. 
+ 
+No se permitirá bajo ningún concepto que los equipos conserven almacenadas claves sin cifrar 
+vinculadas a acceso remoto o a la información de Mutua Universal. Se considerarán claves de acceso 
+remoto aquellas que habiliten un acceso a otros equipos de la organización, u otras de naturaleza 
+análoga, como certificados digitales o sus pines. 
+ 
+11.10.3. Transporte de los dispositivos 
+El adjudicatario garantizará que los dispositivos con información de Mutua Universal permanecen bajo 
+control y cumplen los requisitos de seguridad del ENS (mp.si.4) adecuados a la sensibilidad de la 
+información durante su traslado. 
+Se seguirá un procedimiento de transporte con registros de salida y entrada que identifiquen al 
+transportista, y un procedimiento rutinario que cuadre las salidas con las llegadas, notificando a 
+Ciberseguridad Mutua cualquier incidente. 
+El adjudicatario se compromete a proteger adecuadamente los equipos con información de Mutua 
+Universal contra accesos no autorizados en caso de pérdida o robo. 
+El adjudicatario mantendrá permanentemente actualizado un inventario de equipos con identificación de 
+la persona responsable. El adjudicatario debe mantener un registro de trazabilidad en caso de cambio 
+de responsable, indicando fecha y hora del cambio. El adjudicatario deberá proporcionar a su personal 
+un canal de comunicación ágil y seguro para notificar pérdidas o robos. Toda notificación deberá 
+comunicarse también a Mutua Universal a través de los medios definidos en el presente pliego, en un 
+plazo máximo de 24 horas desde su conocimiento. 
+ 
+11.11. Personal Autorizado y Protección de la Información 
+ 
+El adjudicatario deberá designar de forma previa a aquellos miembros de su plantilla laboral 
+responsables de la ejecución de las actividades que requieran acceso a la Información de Mutua 
+Universal (en adelante, el "Personal Autorizado”). 
+ 
+El acceso a la infraestructura de Mutua Universal quedará exclusivamente limitado al Personal 
+Autorizado. Las cuentas/credenciales de acceso se solicitarán por parte del proveedor siguiendo los 
+procedimientos y la normativa interna de Mutua Universal. Su asignación será nominal y para los 
+permisos mínimos que se soliciten y autoricen. 
+ 
+El proveedor limitará el acceso al Personal Autorizado mínimo necesario para la correcta ejecución de 
+los servicios. 
+ 
+Ante una baja, incorporación o remplazo de miembros del personal autorizado, esta situación deberá ser 
+notificada de forma inmediata a Mutua Universal para su conocimiento. 
+En caso de que el servicio contemple el uso de sistemas de Inteligencia Artificial o el acceso a datos que 
+puedan emplearse para su entrenamiento, se exigirá el mismo nivel de restricción y control que el 
+previsto para el acceso a los sistemas de información corporativos de Mutua Universal.  
+ 
+11.11.1. Acceso local 
+Si se utiliza o accede a información de Mutua Universal, el adjudicatario deberá proteger los dispositivos 
+informáticos facilitados al Personal Autorizado (PC, portátiles, smartphones, tablets, dispositivos IoT, 
+etc.) y se compromete a cumplir las siguientes condiciones mínimas de acceso:  
+ 
+ La información de errores en el control acceso debe ser la mínima imprescindible. Los diálogos 
+de la aplicación proporcionarán únicamente la información indispensable. 
+
+--- página 26 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 26 de 49 
+ 
+ El número de intentos de acceso permitidos estará limitado a tres fallos consecutivos, 
+bloqueándose temporalmente el acceso por un tiempo no inferior a 1 minuto, salvo excepciones 
+autorizadas por Mutua Universal. 
+ Los equipos y sesiones se bloquearán al cabo de un tiempo prudencial de inactividad máximo 
+de 10 minutos, requiriendo una nueva autenticación del usuario para reanudar la actividad. 
+ Se registrarán los accesos con éxito, y los fallidos. 
+ El sistema informará al usuario de sus obligaciones inmediatamente después de obtener el 
+acceso 
+ Se informará al usuario del último acceso efectuado con su identidad 
+ Los usuarios solo accederán a la información estrictamente necesaria para realizar su trabajo.  
+11.11.2. Acceso remoto 
+El adjudicatario pondrá a disposición los medios necesarios para la conexión con los Sistemas de 
+Información de Mutua Universal, estando incluidos los costes de conexión a cargo de la empresa 
+adjudicataria. 
+ 
+La conexión remota a los Sistemas de Información de Mutua Universal se realizará siguiendo las 
+normativas y los protocolos establecidos por Mutua Universal. 
+ 
+El Adjudicatario será el responsable de custodiar correctamente los certificados digitales entregados 
+para la interconexión segura de redes y de pedir su revocación una vez finalizada la prestación del 
+servicio. Asimismo, será responsable subsidiario del uso de los certificados digitales personales 
+individuales asignados al personal autorizado, incluyendo los derivados de pérdida, uso indebido o falta 
+de revocación oportuna. 
+ 
+11.11.3. Transmisión por medios electrónicos 
+La transmisión por medios electrónicos considerará los mecanismos y protocolos de encriptación de la 
+información necesarios para evitar posibles fugas de información acorde al ENS y la sensibilidad de la 
+información transmitida. 
+ 
+El adjudicatario garantizará el cumplimento de los estándares de seguridad referentes a la protección de 
+datos transmitidos (Guías del CCN-STIC, ENS y RGPD). 
+ 
+Cualquier información de Mutua Universal que por normativa o recomendaciones de seguridad requiera 
+ser cifrada en su ubicación de almacenamiento, incluyendo todos los dispositivos extraíbles del tipo CD, 
+DVD, memorias USB, u otros de naturaleza análoga, deben seguir los estándares de seguridad, custodia 
+y protección de las claves establecidas por Mutua Universal y cumpliendo la guía CCN-STIC 807, 
+Criptología de empleo en el Esquema Nacional de Seguridad, publicada por el Centro Criptológico 
+Nacional. 
+ 
+El adjudicatario deberá presentar cualquier requerimiento criptográfico relacionado con la información 
+corporativa para su validación por parte del equipo de Ciberseguridad de Mutua Universal y/o seguir los 
+estándares y normas establecidos por Mutua Universal. 
+El adjudicatario del servicio debe suministrar las herramientas necesarias para un intercambio seguro 
+de información entre ambas partes, que no requiera la instalación de aplicaciones en Mutua Universal, 
+asegurando el uso de un protocolo de cifrado robusto y de mercado. 
+En el caso de que el protocolo criptográfico utilizado se vea comprometido o declarado obsoleto por parte 
+de organismos de referencia (CCN, ENISA, NIST), el adjudicatario deberá adoptar una alternativa segura 
+sin coste adicional para Mutua Universal, en un plazo máximo de 10 días hábiles desde su notificación. 
+ 
+11.11.4. Protección del correo electrónico 
+En el caso de que el adjudicatario haga uso de su correo electrónico corporativo para gestionar 
+información de Mutua Universal, deberá proteger frente a las amenazas que le son propias:  
+ 
+
+--- página 27 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 27 de 49 
+ 
+ La información distribuida por medio de correo electrónico. Se protegerá, tanto en el cuerpo de 
+los mensajes, como en los anexos. 
+ Se protegerá la información de encaminamiento de mensajes y establecimiento de conexiones. 
+ No se permitirá la redirección a dominios de correos públicos fuera del correo corporativo de la 
+empresa adjudicataria. 
+ Se protegerá a la organización frente a problemas que se materializan a través del correo 
+electrónico, en concreto: 
+o Correo no solicitado (spam) 
+o Programas nocivos, constituidos por virus, gusanos, troyanos, espías, u otros de 
+naturaleza análoga 
+o Código malicioso ejecutable 
+ 
+El adjudicatario establecerá políticas de uso del correo electrónico que incluirá como mínimo:  
+ Uso de canales de comunicación seguros y cifrados. 
+ Limitaciones al uso como soporte de comunicaciones privadas. 
+ Realizar actividades de concienciación y formación relativas al uso del correo electrónico para 
+su personal, por ejemplo, para detectar casos de malware o phishing. 
+ 
+Si Mutua Universal considera que la información tratada por el contrato es sensible, se deberán facilitar 
+los medios de comunicación alternativos al correo electrónico que ofrezcan una protección acorde a la 
+sensibilidad de estos. 
+ 
+11.11.5. Limpieza de metadatos 
+El adjudicatario dispondrá de un procedimiento de limpieza de documentos, el cual retirará de estos toda 
+la información adicional contenida en campos ocultos, metadatos, comentarios o revisiones anteriores, 
+excepto cuando esta información sea pertinente para el receptor del documento.  
+ 
+Esta medida será especialmente relevante cuando el documento se difunda ampliamente, como cuando 
+se ofrece al público en un servidor web u otro tipo de repositorio de información. 
+ 
+ 
+11.11.6. Borrado y destrucción 
+El adjudicatario deberá seguir los estándares y normas de Mutua Universal respecto al borrado y 
+destrucción de soportes de información. Se aplicará a todo tipo de equipos susceptibles de almacenar 
+información, ya sean medios electrónicos o no electrónicos. 
+ 
+Los soportes que deban ser reutilizados para otra información o liberados a otra organización deberán 
+ser objeto de un borrado seguro de su contenido utilizando los métodos considerados seguros en las 
+guías CCN de borrado seguro de información. Se deberán destruir de forma segura los soportes en caso 
+de que la naturaleza del soporte no permita un borrado seguro o cuando así lo requiera el procedimiento 
+asociado al tipo de información contenida, haciendo uso de productos de seguridad del catálogo CPSTIC 
+o equivalentes justificando debidamente las medidas de seguridad. 
+ 
+Periódicamente y según las necesidades de recurrencia de estas actividades, se deberá informar y 
+entregar al responsable del contrato el certificado de destrucción, donde quedará especificado como 
+mínimo, el identificador de los activos, el método de borrado y/o destrucción empleada, la fecha de la 
+actividad y el destino de los activos. 
+ 
+11.11.7. Parcheo, actualizaciones y gestión de vulnerabilidades 
+Si se suministran productos o servicios digitales, la empresa adjudicataria mantendrá los productos y/o 
+servicios suministrados a Mutua Universal libres de vulnerabilidades, aplicando actualizaciones de 
+software, mitigaciones y/o parches de seguridad para las vulnerabilidades conocidas o detectadas en 
+sus productos, soluciones o servicios prestados a Mutua Universal. Estas actualizaciones se 
+suministrarán y aplicarán, salvo acuerdo expreso con Mutua Universal, en el menor plazo de tiempo 
+posible. 
+ 
+
+--- página 28 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 28 de 49 
+ 
+ 
+11.12. Registros de trazabilidad 
+En caso de que el servicio o contrato incluya la provisión, administración y/u operación de plataformas o 
+sistemas tecnológicos, se deberá disponer y mantener la trazabilidad de las acciones realizadas por los 
+usuarios y administradores, utilizando siempre usuarios nominales. 
+La plataforma tecnológica debe poder generar un registro de cualquier actividad, ya sea referente a 
+usuarios o a cambios de configuración y actividad. 
+Los registros de trazabilidad deberán incluir la actividad generada por los sistemas de IA, incluyendo 
+eventos automatizados, decisiones algorítmicas, accesos a datos y logs de entrenamiento, conforme a 
+lo establecido en el AI Act y en las directrices del ENS para trazabilidad y control de sistemas autónomos. 
+ 
+11.13. Propiedad y utilización 
+ 
+Todos los trabajos, incluidos en su caso los estudios y documentos elaborados en ejecución del contrato 
+serán propiedad de Mutua Universal, quien podrá reproducirlos, publicarlos y divulgarlos, total o 
+parcialmente por tiempo indefinido sin nueva contraprestación, sin que pueda oponerse a ello el 
+adjudicatario autor de los trabajos, cediendo igualmente todos los derechos de uso. 
+ 
+El adjudicatario no podrá hacer ningún uso o divulgación de estos, bien sea en forma total o parcial, 
+directa o extractada, sin autorización expresa de Mutua Universal. 
+Si el contrato tiene por objeto el desarrollo y la puesta a disposición de productos protegidos por un 
+derecho de propiedad intelectual o industrial, este será cedido por el contratista a Mutua Universal.  
+ 
+La empresa adjudicataria y el personal encargado de la realización de las tareas asociadas al contrato 
+guardarán secreto profesional sobre todas las informaciones, documentos y asuntos a los que tengan 
+acceso o conocimiento durante la vigencia de éste, estando obligados a no hacerlos públicos o enajenar 
+cuantos datos conozcan como consecuencia o con ocasión de su ejecución, por tiempo indefinido 
+después de la finalización del contrato. 
+ 
+El adjudicatario se compromete a mantener estricta confidencialidad y a no revelar o ceder datos, ni aún 
+para su conservación, o documentos proporcionados por Mutua Universal, a terceros, para cualquier 
+otro uso no previsto como necesario para el desempeño de la prestación objeto de este contrato, 
+especialmente los datos de carácter personal. La divulgación no autorizada de información confidencial 
+podrá ser causa de responsabilidad y sanciones. 
+ 
+Salvo acuerdo expreso en contra, el adjudicatario se compromete a entregar a Mutua Universal todo el 
+código fuente desarrollado a medida para el contrato, así como las instrucciones para su correcta 
+compilación y versionado. 
+ 
+ 
+12. PLAN DE PROYECTO E IMPLANTACIÓN 
+ 
+ 
+El adjudicatario deberá definir, ejecutar y coordinar un plan de proyecto integral que garantice el correcto 
+diseño, desarrollo, implantación, validación y evolución de la solución de formación inmersiva objeto del 
+presente contrato. 
+El proyecto deberá desarrollarse mediante una metodología iterativa, colaborativa y orientada a la co-
+creación con los equipos funcionales y técnicos de Mutua Universal, favoreciendo la validación 
+progresiva de entregables y la adaptación continua de la solución a las necesidades organizativas y 
+formativas identificadas. 
+
+--- página 29 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 29 de 49 
+ 
+El adjudicatario deberá asumir la planificación, coordinación y seguimiento de todas las actividades 
+necesarias para garantizar la adecuada ejecución del proyecto.  
+El plan de proyecto deberá contemplar, como mínimo, las siguientes fases: 
+ 
+ 
+A continuación, a título orientativo se detallan las tareas, entregables y cronograma de las distintas fases 
+del proyecto. 
+ 
+12.1. Kick off 
+ 
+El adjudicatario deberá realizar una fase inicial de Kick Off orientada a alinear el alcance, organización, 
+metodología y planificación del proyecto entre todas las partes implicadas. 
+Durante esta fase se deberá llevar a cabo, como mínimo: 
+ Reunión de lanzamiento del proyecto con los responsables funcionales, técnicos y de 
+seguimiento designados por Mutua Universal.  
+ Presentación del enfoque metodológico, organización del equipo, canales de comunicación y 
+modelo de gobernanza.  
+ Validación del alcance, objetivos, entregables, dependencias y criterios de éxito del proyecto.  
+ Identificación inicial de riesgos, restricciones, hitos críticos y necesidades de coordinación.  
+ Definición del modelo de seguimiento y reporting del proyecto.  
+Asimismo, el adjudicatario deberá elaborar y presentar un Plan de Proyecto detallado , que incluirá 
+como mínimo la planificación completa de fases, actividades y entregables, el cronograma detallado con 
+hitos y fechas previstas, la asignación de recursos y responsabilidades, las dependencias y camino 
+crítico, la planificación de validaciones y pruebas, el plan de riesgos y medidas de mitigación y, el  modelo 
+de seguimiento y control de avance.  
+El cronograma deberá mantenerse actualizado durante toda la ejecución del proyecto y adaptarse a las 
+necesidades de coordinación y priorización definidas por Mutua Universal. 
+ 
+12.2. Fase de Discovery y análisis inicial 
+ 
+
+
+--- página 30 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 30 de 49 
+ 
+El adjudicatario deberá realizar una fase inicial de análisis y descubrimiento orientada a comprender en 
+detalle el contexto organizativo, funcional y formativo de Mutua Universal, así como las necesidades 
+específicas asociadas al alcance del proyecto. 
+Esta fase deberá incluir, como mínimo las reuniones el análisis del proceso de CL, la identificación de 
+objetivos funcionales y pedagógicos, el análisis de perfiles de usuario, la identificación de puntos críticos 
+e interacciones relevantes, el análisis de necesidades formativas.  
+Asimismo, el adjudicatario deberá colaborar con los equipos designados por Mutua Universal en la 
+elaboración de los mapas de empatía, la identificación de competencias clave y la definición de 
+escenarios prioritarios.  
+Como resultado de esta fase, deberá elaborarse un documento de análisis y definición funcional que 
+sirva de base para el diseño conceptual y desarrollo de la solución. 
+Entregables 
+El adjudicatario deberá entregar, como mínimo: 
+ Mapa de empatía y análisis de interacciones  
+ Identificación de competencias y objetivos formativos 
+ Documento de requisitos funcionales y técnicos 
+Esta fase tendrá una duración prevista de 1 mes. 
+ 
+12.3. Fase de diseño conceptual y pedagógico 
+ 
+A partir de la información obtenida durante la fase de análisis, el adjudicatario deberá definir la propuesta 
+conceptual, metodológica y funcional de la experiencia inmersiva. 
+Esta fase deberá contemplar la definición de narrativa y enfoque experiencial, el diseño pedagógico y 
+metodológico, la definición de dinámicas de interacción, el diseño de rutas de decisión, la 
+conceptualización de escenarios, la definición de mecánicas de evaluación y el y diseño de la experiencia 
+de usuario.  
+Asimismo, deberán definirse mockups, storyboards, diagramas de flujo, arquitectura funcional y  
+propuesta visual y narrativa de la experiencia.  
+El adjudicatario deberá presentar los entregables correspondientes para su revisión y validación por 
+parte de Mutua Universal antes del inicio de la fase de desarrollo. 
+Entregables 
+El adjudicatario deberá entregar, como mínimo: 
+ Diseño pedagógico y metodológico 
+ Storyboards y narrativa interactiva  
+ Diseño conceptual de escenarios 
+
+--- página 31 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 31 de 49 
+ 
+ Diagramas de navegación y rutas de decisión 
+ Propuesta visual y audiovisual 
+ Modelo de evaluación y métricas 
+Esta fase tendrá una duración prevista de 1,5 meses. 
+ 
+12.4. Fase de desarrollo e implementación  
+ 
+El adjudicatario deberá llevar a cabo el desarrollo técnico, funcional y audiovisual de la solución y de los 
+escenarios inmersivos definidos. 
+La fase de desarrollo incluirá la implementación de entornos inmersivos, el desarrollo de narrativa 
+interactiva, la integración de contenidos multimedia, la configuración de rutas de decisión, la 
+parametrización de dinámicas de evaluación, la implementación de funcionalidades de analítica y 
+reporting y el desarrollo de integraciones necesarias con el ecosistema corporativo.  
+Asimismo, el adjudicatario deberá realizar la configuración de la plataforma, la preparación de entornos, 
+la parametrización de usuarios y perfiles, así como la puesta en marcha inicial de los dispositivos y 
+componentes tecnológicos asociados.  
+ 
+12.4.1. Fase de validación funcional y pedagógica 
+Antes de la puesta en producción de la solución, el adjudicatario deberá ejecutar una subfase de 
+validación orientada a verificar la adecuación técnica, funcional y pedagógica de la experiencia 
+inmersiva. 
+Esta fase deberá contemplar las pruebas funcionales, la validación de escenarios, la revisión de narrativa 
+e interacciones, la verificación de integraciones, las pruebas de rendimiento y estabilidad, la validación 
+pedagógica y la revisión de experiencia de usuario.  
+El adjudicatario deberá corregir las incidencias, desviaciones o ajustes identificados durante el proceso 
+de validación antes de la puesta en marcha definitiva. 
+El adjudicatario deberá entregar, como mínimo: 
+Entregables 
+El adjudicatario deberá entregar, como mínimo: 
+ Escenarios inmersivos desarrollados 
+ Configuración inicial de la solución 
+ Integración preliminar con LMS  
+ Configuración de dispositivos RV 
+ Manual técnico preliminar 
+
+--- página 32 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 32 de 49 
+ 
+ Configuración de analítica y reporting 
+ Informe de pruebas funcionales  
+ Informe de validación pedagógica 
+ Evidencias de integración y rendimiento 
+ Corrección de incidencias identificadas 
+ Informe de estabilidad y calidad técnica 
+ Versión candidata para piloto.  
+ 
+Esta fase tendrá la duración aproximada de 1,5 meses. 
+ 
+12.5. Fase piloto 
+ 
+La implantación inicial de la solución deberá realizarse mediante una experiencia piloto controlada, 
+orientada a validar la operatividad, usabilidad y efectividad de la solución en un entorno real de utilización. 
+La fase piloto deberá permitir validar la experiencia de usuario; analizar el desempeño técnico de la 
+solución, evaluar la adecuación pedagógica, obtener métricas y feedback, identificar oportunidades de 
+mejora y, validar la integración con el ecosistema formativo corporativo.  
+Durante esta fase, el adjudicatario deberá proporcionar acompañamiento funcional y técnico, 
+garantizando el soporte necesario para la correcta ejecución de la experiencia piloto. 
+Finalizada la fase, deberá elaborarse un informe de resultados que incluya las métricas obtenidas, las 
+incidencias identificadas, la valoración funcional y pedagógica, las mejoras implementadas y, las  
+recomendaciones para el despliegue definitivo.  
+Entregables 
+El adjudicatario deberá entregar, como mínimo: 
+ Informe de resultados del piloto 
+Esta fase tendrá la duración aproximada de 1 mes. 
+ 
+12.6. Fase de despliegue y puesta en productivo 
+ 
+Una vez superada la fase piloto y validados los resultados obtenidos, el adjudicatario deberá proceder 
+al despliegue operativo de la solución. 
+Esta fase incluirá la puesta en producción definitiva con el despliegue de contenidos y escenarios, la 
+activación de usuarios y perfiles, la configuración operativa, la integración final con sistemas 
+corporativos y la entrega de documentación técnica y funcional.  
+
+--- página 33 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 33 de 49 
+ 
+La implantación deberá realizarse minimizando el impacto sobre la operación ordinaria de Mutua 
+Universal y garantizando la continuidad del servicio. 
+Entregables 
+El adjudicatario deberá entregar, como mínimo: 
+ Solución desplegada en entorno productivo e integrada 
+ Manuales funcionales y técnicos definitivos.  
+ Formación realizada a usuarios y administradores.  
+ Documentación de explotación y soporte.  
+Esta fase tendrá la duración aproximada de 1 mes. 
+ 
+12.7. Evolución, mantenimiento y mejora continua 
+ 
+La solución deberá diseñarse y gestionarse bajo un enfoque de evolución continua, permitiendo su 
+adaptación progresiva a nuevas necesidades organizativas, formativas y tecnológicas. 
+Durante la vigencia contractual, el adjudicatario deberá disponer de un modelo de gestión evolutiva que 
+contemple el análisis y priorización de mejoras, la incorporación de nuevos escenarios, la actualización 
+de contenidos, la evolución funcional y tecnológica, la optimización de experiencia de usuario y, la 
+adaptación a cambios organizativos o normativos.  
+Entregables 
+El adjudicatario deberá entregar, según corresponda: 
+ Nuevos escenarios o funcionalidades 
+ Actualizaciones de contenidos 
+ Evoluciones técnicas 
+ Informes de seguimiento y uso.  
+ Documentación actualizada 
+ 
+ 
+13. EQUIPO DE PROYECTO 
+ 
+El adjudicatario deberá disponer de un equipo de proyecto multidisciplinar, suficientemente capacitado y 
+dimensionado, para garantizar la correcta ejecución de todas las actividades incluidas en el alcance del 
+contrato. 
+El equipo deberá contar con perfiles especializados en las distintas áreas funcionales, pedagógicas, 
+técnicas y operativas necesarias para el diseño, desarrollo, implantación, soporte y evolución de la 
+solución de formación inmersiva. 
+
+--- página 34 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 34 de 49 
+ 
+Asimismo, el adjudicatario deberá garantizar la estabilidad y continuidad del equipo asignado durante 
+toda la vigencia contractual, minimizando rotaciones y asegurando la adecuada transferencia de 
+conocimiento entre los miembros del proyecto. 
+Mutua Universal podrá solicitar, durante la ejecución del contrato, la sustitución razonada de aquellos 
+perfiles que no cumplan adecuadamente las funciones asignadas o no dispongan del nivel técnico, 
+funcional o metodológico requerido. 
+ 
+Perfil Descripción / Responsabilidades Certificaciones o acreditaciones deseables Experiencia mínima requerida 
+Director/a de 
+Proyecto 
+Responsable de la planificación, 
+coordinación, seguimiento y 
+control global del proyecto. 
+Actuará como interlocutor 
+principal con Mutua Universal, 
+coordinando hitos, riesgos, 
+entregables y evolución del 
+servicio. 
+PMP, PRINCE2, Scrum 
+Master, Agile PM, ITIL 
+o equivalentes. 
+Mínimo 5 años en 
+gestión de proyectos 
+tecnológicos, e-
+learning, 
+transformación digital 
+o soluciones 
+inmersivas. 
+Diseño 
+Pedagógico y 
+Metodológico 
+Responsable del diseño 
+pedagógico y metodológico de las 
+experiencias inmersivas, 
+definición de competencias, 
+dinámicas formativas y evaluación 
+del aprendizaje. 
+Certificaciones en 
+diseño instruccional, e-
+learning, learning 
+experience design 
+(LXD) o metodologías 
+formativas avanzadas. 
+Mínimo 3 años en 
+diseño de 
+experiencias de 
+aprendizaje, 
+simulación o 
+formación 
+experiencial. 
+Desarrollador/a 
+RV / Especialista 
+en Entornos 3D 
+Responsable del desarrollo 
+técnico de los escenarios 
+inmersivos, programación de 
+interacciones, integración de 
+contenidos y optimización de 
+experiencias RV. 
+Certificaciones o 
+formación 
+especializada en Unity, 
+Unreal Engine, 
+desarrollo RV/AR/MR o 
+entornos 3D. 
+Mínimo 3 años en 
+desarrollo de 
+soluciones de 
+Realidad Virtual o 
+entornos inmersivos 
+interactivos. 
+UX/UI 
+Responsable del diseño de 
+experiencia de usuario, 
+navegación, accesibilidad, 
+interacción y coherencia visual y 
+funcional de la solución. 
+Certificaciones UX/UI, 
+Human Centered 
+Design, Design 
+Thinking o accesibilidad 
+digital. 
+Mínimo 3 años en 
+diseño UX/UI de 
+aplicaciones digitales 
+o experiencias 
+inmersivas. 
+Arquitectura 
+Tecnológica 
+Responsable de la arquitectura 
+técnica, integración con LMS 
+corporativo, interoperabilidad 
+SCORM/xAPI y configuración 
+técnica de plataformas. 
+Certificaciones técnicas 
+relacionadas con 
+integración LMS, 
+SCORM, xAPI, Moodle 
+o arquitectura software. 
+Mínimo 3 años en 
+integración de 
+plataformas e-
+learning o soluciones 
+tecnológicas 
+corporativas. 
+
+--- página 35 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 35 de 49 
+ 
+Perfil Descripción / Responsabilidades Certificaciones o acreditaciones deseables Experiencia mínima requerida 
+Técnico/a de 
+Soporte y 
+Mantenimiento 
+Responsable del soporte 
+funcional y técnico, resolución de 
+incidencias, mantenimiento 
+correctivo y acompañamiento 
+operativo de la solución. 
+ITIL, soporte técnico TI, 
+administración de 
+plataformas o 
+certificaciones 
+equivalentes. 
+Mínimo 2 años en 
+soporte técnico o 
+mantenimiento de 
+soluciones 
+tecnológicas 
+corporativas. 
+ 
+Una misma persona podrá asumir distintos perfiles o roles dentro del proyecto, siempre que acredite la 
+capacitación, experiencia y conocimientos requeridos para cada uno de ellos. No obstante, el 
+adjudicatario deberá garantizar, como mínimo, la dedicación efectiva de un/a Director/a de Proyecto, de 
+un perfil técnico especialista en desarrollo de entornos inmersivos y/o Realidad Virtual y de un perfil 
+técnico especialista en arquitectura tecnológica, ciberseguridad y soporte / mantenimiento. 
+ 
+ 
+14. GOBIERNO Y SEGUIMIENTO DEL SERVICIO 
+ 
+Con el fin de asegurar la correcta ejecución del contrato, se establece el siguiente modelo de 
+gobernanza: 
+ 
+Interlocución y roles 
+ Responsable del contrato (Mutua Universal):  valida hitos, autoriza el inicio efectivo del 
+servicio y aprueba decisiones relevantes del proyecto. 
+ Interlocutor técnico (Adjudicatario):  punto de contacto único para la coordinación técnica y 
+operativa. 
+ Service Manager (Adjudicatario):  responsable de la prestación continua del servicio y del 
+cumplimiento de los niveles de servicio. 
+ Equipo de proyecto (ambas partes):  perfiles funcionales y técnicos necesarios para la 
+implantación, operación y mejora del servicio. 
+ 
+ 
+El adjudicatario deberá establecer un modelo de gobierno, seguimiento y control del servicio que 
+garantice la adecuada coordinación entre las partes, el cumplimiento de los objetivos definidos y la 
+correcta evolución funcional, técnica y operativa de la solución durante toda la vigencia contractual. 
+El modelo de gobierno deberá orientarse a asegurar el seguimiento continuo del proyecto y del 
+servicio; garantizar la calidad de las prestaciones; facilitar la toma de decisiones; monitorizar el 
+cumplimiento de hitos, niveles de servicio y objetivos y gestionar de forma controlada las evoluciones, 
+riesgos e incidencias asociadas a la solución.  
+Asimismo, el adjudicatario deberá disponer de mecanismos de reporting y seguimiento que permitan a 
+Mutua Universal disponer de visibilidad continua sobre el estado del servicio, uso de la solución, 
+evolución del proyecto y cumplimiento contractual. 
+ 
+14.1. Comité de seguimiento y gobierno 
+ 
+
+--- página 36 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 36 de 49 
+ 
+El adjudicatario deberá participar en un modelo de gobernanza compartido con Mutua Universal 
+mediante la constitución de un comité de seguimiento del servicio. 
+El comité tendrá como finalidad realizar seguimiento periódico del proyecto y del servicio; revisar el grado 
+de cumplimiento de objetivos; validar hitos y entregables; analizar incidencias y riesgos; priorizar 
+evoluciones y mejoras y coordinar las actuaciones necesarias para garantizar la correcta prestación del 
+servicio.  
+El comité estará integrado, como mínimo, por los responsables funcionales de Mutua Universal, los 
+responsables técnicos del adjudicatario y la dirección del proyecto. 
+Las reuniones del comité podrán celebrarse con periodicidad semanal durante fases críticas del 
+proyecto; mensual durante la fase operativa; o con la frecuencia que Mutua Universal determine en 
+función de las necesidades del servicio.  
+El adjudicatario deberá elaborar y compartir convocatorias; actas; seguimiento de acuerdos y estado de 
+actuaciones derivadas de cada sesión.  
+ 
+14.2. Indicadores de seguimiento y KPIs 
+ 
+La solución deberá permitir el seguimiento de indicadores clave de desempeño (KPIs) relacionados tanto 
+con la operación técnica como con la utilización y efectividad de la experiencia formativa. 
+El adjudicatario deberá definir y mantener un cuadro de indicadores que permita realizar seguimiento, 
+como mínimo, sobre uso y adopción de la solución; participación de usuarios; ejecución de escenarios; 
+finalización de actividades; desempeño competencial; tiempos de utilización; incidencias registradas; 
+disponibilidad del servicio y calidad de la experiencia.  
+A título orientativo, Mutua Universal podrá requerir indicadores relacionados con el número de usuarios 
+formados, la tasa de finalización, la evolución del desempeño, la utilización de escenarios, la satisfacción 
+de usuarios y la evolución de incidencias. 
+Asimismo, los indicadores deberán permitir el análisis individual y agregado; seguimiento temporal; la 
+identificación de tendencias y la evaluación de impacto de la solución.  
+ 
+14.3. Reporting y seguimiento operativo 
+ 
+El adjudicatario deberá proporcionar mecanismos de reporting periódico que permitan a Mutua Universal 
+disponer de información actualizada sobre el estado y evolución del servicio. 
+Como mínimo, deberán generarse informes relacionados con la actividad y uso de la plataforma, 
+métricas formativas e incidencias. 
+Los informes deberán presentarse con una periodicidad acordada entre las partes y, como mínimo, de 
+forma mensual durante la fase operativa del servicio. 
+Mutua Universal podrá solicitar informes adicionales o adaptaciones de los mecanismos de reporting 
+cuando resulte necesario para la gestión y seguimiento del contrato. 
+
+--- página 37 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 37 de 49 
+ 
+ 
+ 
+15. MODELO DE GESTIÓN DEL SERVICIO 
+ 
+El modelo de gestión del servicio incluye el Plan de soporte, el mantenimiento y evolución integral de la 
+solución (preventivo, correctivo y evolutivo), así como la definición del circuito de resolución de 
+incidencias. 
+ 
+Las incidencias y consultas relacionadas con el funcionamiento de la plataforma serán gestionadas 
+conforme al modelo de gestión del servicio definido en este pliego. Todas las solicitudes deberán 
+canalizarse a través del sistema de ticketing establecido, garantizando su registro, clasificación por 
+criticidad, trazabilidad y resolución dentro de los niveles de servicio acordados. 
+ 
+Se considerarán incidencias aquellas situaciones que afecten al acceso, estabilidad, rendimiento o uso 
+de la plataforma, así como a cualquier funcionalidad prevista en el contrato. Las consultas incluirán dudas 
+funcionales, solicitudes de información o peticiones de apoyo en el uso de la herramienta. 
+ 
+Mutua Universal podrá solicitar en cualquier momento información actualizada sobre el estado de las 
+incidencias abiertas, su evolución y las medidas adoptadas por el adjudicatario. La resolución de 
+incidencias y consultas deberá ajustarse a las prioridades y tiempos definidos en los niveles de servicio 
+y a los procedimientos de escalado establecidos. 
+ 
+ 
+15.1. Servicio de soporte técnico y mantenimiento 
+ 
+El adjudicatario deberá proporcionar un servicio de soporte técnico que garantice el correcto 
+funcionamiento de la plataforma durante toda la vigencia del contrato. Este soporte incluirá la atención y 
+resolución de incidencias relacionadas con el acceso a la plataforma, el funcionamiento del 
+equipamiento, la generación de reports, la exportación de datos y cualquier otra funcionalidad asociada 
+al servicio. 
+El soporte deberá contemplar el mantenimiento correctivo, mantenimiento preventivo, evolutivo, 
+actualización de componentes tecnológicos, así como la asistencia funcional y técnica a usuarios y 
+administradores. 
+ 
+El adjudicatario deberá proporcionar un servicio integral de soporte y mantenimiento orientado a 
+garantizar la continuidad operativa, estabilidad, disponibilidad y correcta evolución de la solución durante 
+toda la vigencia contractual. 
+Los servicios de soporte y mantenimiento deberán cubrir tanto los componentes software como el 
+equipamiento de Realidad Virtual, las integraciones, los contenidos inmersivos y el conjunto de 
+elementos funcionales y tecnológicos incluidos en el alcance del contrato. 
+El adjudicatario deberá disponer de un modelo organizativo y operativo que garantice la atención 
+eficiente de incidencias; la resolución de problemas; el mantenimiento preventivo y correctivo; la 
+actualización tecnológica y la evolución controlada de la solución.  
+Asimismo, deberá designarse un interlocutor técnico responsable de la coordinación del servicio con 
+Mutua Universal, así como de la gestión y seguimiento de incidencias, actuaciones de mantenimiento y 
+evoluciones funcionales. 
+ 
+El soporte se prestará principalmente en modalidad telemática, mediante los canales establecidos por 
+Mutua Universal, asegurando una atención eficaz al personal asistencial y técnico. Cuando la naturaleza 
+de la incidencia lo requiera y no sea posible su resolución a distancia, el adjudicatario deberá 
+proporcionar asistencia presencial puntual en los centros afectados, garantizando la continuidad 
+operativa del servicio. 
+ 
+
+--- página 38 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 38 de 49 
+ 
+El adjudicatario mantendrá un sistema de registro de incidencias que permita su clasificación, 
+seguimiento y resolución, accesible para Mutua Universal en todo momento. Asimismo, será responsable 
+de aplicar actualizaciones correctivas y evolutivas que garanticen la estabilidad, seguridad y mejora 
+continua de la plataforma. 
+ 
+El mantenimiento incluirá la resolución de errores, la mejora del rendimiento, la incorporación de mejoras 
+funcionales razonables y la adaptación del sistema a posibles cambios normativos o técnicos que afecten 
+a su operación. El adjudicatario deberá asegurar que la solución permanezca actualizada y operativa, 
+proporcionando versiones estables y compatibles con la infraestructura corporativa de Mutua Universal. 
+ 
+ 
+15.1.1. Soporte funcional 
+El adjudicatario deberá proporcionar soporte funcional orientado a asistir a Mutua Universal en la 
+utilización, operación y explotación de la solución. 
+El soporte funcional deberá incluir, como mínimo la resolución de consultas funcionales, el 
+acompañamiento en el uso de la plataforma, la asistencia sobre la ejecución de escenarios y dinámicas, 
+el soporte relacionado con usuarios y perfiles, el apoyo en la explotación de métricas y reporting y, la 
+asistencia sobre procesos operativos asociados a la solución.  
+El servicio deberá prestarse mediante canales de comunicación adecuados, incluyendo como mínimo el 
+correo electrónico; soporte telefónico y/o plataforma de gestión de incidencias.  
+El adjudicatario deberá garantizar la disponibilidad de personal con conocimiento funcional y operativo 
+suficiente sobre la solución implantada y el contexto de uso definido por Mutua Universal. 
+15.1.2. Soporte técnico 
+El adjudicatario deberá proporcionar soporte técnico especializado para garantizar el correcto 
+funcionamiento de todos los componentes tecnológicos incluidos en el alcance del contrato. 
+El soporte técnico deberá cubrir la plataforma software; los dispositivos de Realidad Virtual; las 
+integraciones; las licencias; la conectividad; los componentes audiovisuales y cualquier otro elemento 
+tecnológico asociado a la solución.  
+El servicio deberá incluir el diagnóstico y resolución de incidencias técnicas, la monitorización operativa, 
+el soporte remoto, la asistencia técnica especializada y la coordinación de actuaciones de mantenimiento 
+y recuperación.  
+Asimismo, el adjudicatario deberá garantizar la actualización de componentes tecnológicos, la 
+compatibilidad con nuevas versiones, la estabilidad operativa y el mantenimiento de las integraciones 
+definidas en el presente pliego.  
+En caso de incidencias críticas o averías de hardware, el adjudicatario deberá adoptar las medidas 
+necesarias para garantizar la continuidad del servicio, incluyendo la reposición o sustitución de 
+dispositivos cuando resulte necesario. 
+15.1.3. Mantenimiento correctivo 
+El adjudicatario deberá proporcionar servicios de mantenimiento correctivo destinados a la identificación, 
+análisis y resolución de errores, incidencias o anomalías detectadas en la solución. 
+El mantenimiento correctivo deberá contemplar la corrección de defectos funcionales, la resolución de 
+incidencias técnicas, la reparación de errores de ejecución, la recuperación de servicios afectados y la 
+restauración de la operativa normal de la solución.  
+
+--- página 39 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 39 de 49 
+ 
+El adjudicatario deberá garantizar la trazabilidad de incidencias, la gestión y seguimiento de actuaciones, 
+la comunicación del estado de resolución y la documentación de las actuaciones realizadas.  
+Las correcciones efectuadas deberán minimizar el impacto sobre la operación, preservar la integridad 
+de la información y, garantizar la estabilidad y compatibilidad de la solución.  
+Asimismo, el adjudicatario deberá realizar las pruebas necesarias antes de la puesta en producción de 
+cualquier corrección o actualización correctiva. 
+15.1.4. Mantenimiento evolutivo 
+La solución deberá diseñarse bajo criterios de modularidad, reutilización, interoperabilidad y 
+sostenibilidad tecnológica, permitiendo su evolución progresiva durante el tiempo. 
+El adjudicatario deberá garantizar que la solución permita incorporar nuevos escenarios formativos y 
+colectivos profesionales, facilite la adaptación de contenidos y dinámicas, minimice situaciones de 
+dependencia tecnológica (vendor lock-in), permita la reutilización futura de contenidos y componentes 
+desarrollados y, facilite la evolución funcional y tecnológica de la plataforma sin necesidad de rediseños 
+estructurales.  
+Mutua Universal podrá solicitar durante la vigencia contractual adaptaciones, evoluciones o ampliaciones 
+derivadas de nuevas necesidades organizativas, formativas, operativas o tecnológicas 
+El adjudicatario deberá disponer de un modelo de evolución continua de la solución, orientado a 
+garantizar su adaptación progresiva a nuevas necesidades organizativas, tecnológicas y formativas. 
+Asimismo, Mutua Universal podrá solicitar evoluciones derivadas de nuevas necesidades formativas, 
+cambios organizativos, evolución de procesos CL resultados obtenidos durante el uso de la solución.  
+El adjudicatario deberá disponer de un modelo de gestión evolutiva que contemple el análisis de impacto, 
+la planificación, validación funcional, pruebas y despliegue controlado de cambios.  
+Todas las evoluciones realizadas deberán garantizar la continuidad operativa, la compatibilidad 
+tecnológica, la coherencia funcional y pedagógica y la calidad de la solución.  
+ 
+15.2. Centro de Atención usuarios  
+ 
+El adjudicatario deberá disponer de un Centro de Atención al Usuario orientado a resolver incidencias y 
+consultas relacionadas con el funcionamiento de la plataforma. El modelo de atención estará basado en 
+un sistema de ticketing que garantice trazabilidad, priorización y seguimiento adecuado de las 
+solicitudes. El objetivo es asegurar que el personal de Mutua Universal recibe soporte eficaz sin interferir 
+en su actividad ni sobrecargar los canales operativos internos. 
+El adjudicatario pondrá a disposición de Mutua Universal un interlocutor técnico, en el momento de la 
+formalización del contrato, para la gestión de todos los servicios incluidos en el alcance de este contrato. 
+ 
+Canales de atención 
+ Portal de tickets: canal principal para la comunicación de incidencias y consultas, garantizando 
+su registro, clasificación y seguimiento. 
+ Correo electrónico: canal adicional para la apertura simplificada de tickets o derivación 
+automatizada al sistema de ticketing. 
+
+--- página 40 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 40 de 49 
+ 
+ Atención telefónica: disponible exclusivamente para incidencias de criticidad alta o crítica que 
+requieran una respuesta inmediata para preservar la continuidad asistencial. 
+ 
+Principios de atención 
+ Todas las solicitudes se registrarán en el sistema de ticketing con identificador único, 
+clasificación por criticidad y trazabilidad completa de las actuaciones realizadas. 
+ Se garantizará una comunicación clara sobre el estado de cada ticket, incluidas actualizaciones, 
+acciones pendientes y resolución final. 
+ El adjudicatario mantendrá criterios homogéneos de priorización, asegurando que las 
+incidencias de mayor impacto asistencial se atienden con preferencia. 
+ 
+Horario de atención 
+ Para el servicio de soporte y asistencia técnica que deberán plantear las empresas licitadoras, 
+el horario mínimo de atención telefónica que deberán plantear será de 8:00 a 18:00h de lunes a 
+jueves y de 8:00 a 15:00 horas, los viernes (en horario peninsular)  
+ Para incidencias críticas que afecten a la plataforma y al Hardware asociado, el adjudicatario 
+deberá disponer de un procedimiento específico de atención fuera del horario general. 
+ 
+Información y resolución 
+ El adjudicatario proporcionará orientaciones iniciales, resolución de dudas funcionales y soporte 
+técnico especializado cuando sea necesario. 
+ En caso de incidencias no resolubles telemáticamente, el adjudicatario deberá garantizar 
+atención presencial puntual para asegurar la continuidad del servicio. 
+ 
+Integración con la gestión del servicio 
+ Toda la actividad del Centro de Atención quedará integrada con el modelo de gestión del servicio 
+definido en este pliego, utilizando el sistema común de ticketing, criterios de criticidad y niveles 
+de servicio establecidos. 
+ 
+ 
+15.2.1. Canales, tipología y niveles de servicio 
+El adjudicatario será responsable de la operación del servicio y de su mejora continua conforme a las 
+siguientes directrices: 
+ 
+Canales y horario 
+ Canales de atención: teléfono, correo electrónico y portal de tickets. 
+ Asimismo, el horario mínimo de atención deberá contemplar cobertura en horario laboral 
+corporativo de Mutua Universal, sin perjuicio de que el adjudicatario pueda ofrecer coberturas 
+superiores dentro de su propuesta de servicio. 
+ Fuera de dicho horario, deberá existir un procedimiento específico para la atención de 
+incidencias críticas. 
+ 
+Gestión de incidencias y solicitudes 
+ Todas las incidencias y solicitudes se registrarán en una herramienta de ticketing, con número 
+de referencia y trazabilidad de actuaciones. 
+ Clasificación orientativa de criticidad:  
+o Crítica: caída general del servicio o imposibilidad de uso. 
+o Alta: impacto severo sobre un colectivo o una funcionalidad esencial. 
+o Media: impacto acotado con alternativas temporales de trabajo. 
+o Baja: consultas y mejoras no urgentes. 
+ 
+Niveles de servicio (SLA) 
+ 
+El adjudicatario deberá definir y garantizar acuerdos de nivel de servicio (SLA) adecuados a la criticidad 
+y naturaleza de la solución implantada. 
+
+--- página 41 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 41 de 49 
+ 
+Como mínimo, deberán contemplarse: tiempos de respuesta, tiempos de resolución, niveles de 
+disponibilidad, mecanismos de escalado y seguimiento de incidencias y actuaciones realizadas.  
+A título orientativo, Mutua Universal podrá exigir la atención prioritaria para incidencias críticas que 
+impidan la utilización de la solución. 
+El adjudicatario deberá proporcionar mecanismos de registro y trazabilidad de incidencias, comunicación 
+del estado de las actuaciones, reporting periódico del servicio y seguimiento del cumplimiento de los SLA 
+comprometidos.  
+Los tiempos máximos de respuesta y resolución aplicables a las incidencias comunicadas a través del 
+Centro de Atención al Usuario serán los siguientes: 
+ 
+ 
+Incidencias Tiempo máximo de respuesta Tiempo máximo de resolución 
+Crítica < 15 minutos laborales < 4 horas laborables 
+Alta < 1 hora laborable < 8 horas laborables 
+Media < 4 horas laborables < 2 días laborables 
+Baja < 8 horas laborables < 2 días laborables 
+ 
+Definiciones: 
+ Tiempo máximo de respuesta: tiempo transcurrido desde que Mutua Universal comunica la 
+incidencia al servicio de soporte hasta que el adjudicatario contacta con el interlocutor designado 
+por Mutua Universal. 
+ Tiempo máximo de resolución: tiempo transcurrido desde la notificación de la incidencia por 
+parte de Mutua Universal hasta el restablecimiento del funcionamiento correcto del servicio. 
+ Incidencia crítica: aquella que impide totalmente el uso de la solución. 
+ Incidencia alta: aquella que afecta de forma relevante a funciones principales y dificulta o impide 
+la actividad de un colectivo o servicio concreto. 
+ Incidencia media: afecta parcialmente al funcionamiento, existiendo alternativas de trabajo 
+temporales sin comprometer la actividad diaria. 
+ Incidencia baja: consultas, dudas, solicitudes de mejora o incidencias menores que no afectan 
+a la operativa. 
+ 
+ 
+Cambios, versiones y ventanas de intervención 
+ Las peticiones de cambio seguirán un proceso acordado con Mutua Universal e incluirán análisis 
+de impacto, validación y reversibilidad. 
+ Las actualizaciones de la plataforma se realizarán en ventanas de mínimo impacto asistencial, 
+comunicadas con antelación suficiente y acompañadas de notas de versión. 
+ El adjudicatario mantendrá un registro actualizado de cambios y una hoja de ruta consensuada 
+con Mutua Universal. 
+ 
+Monitorización y reporting 
+ El adjudicatario deberá disponer de mecanismos de monitorización que permitan supervisar el 
+estado operativo del servicio, incluyendo disponibilidad, errores, rendimiento y otros indicadores 
+técnicos relevantes. 
+ Podrán establecerse informes o revisiones adicionales cuando así lo requiera Mutua Universal. 
+ 
+Continuidad y recuperación 
+ El adjudicatario deberá disponer de medidas de continuidad y recuperación acordes con la 
+naturaleza del servicio. 
+ 
+Transición y cierre 
+ Al finalizar el contrato, el adjudicatario colaborará en la transición ordenada del servicio, 
+entregando documentación, configuraciones y datos necesarios para facilitar la continuidad 
+operativa y minimizar el impacto sobre Mutua Universal. 
+
+--- página 42 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 42 de 49 
+ 
+ 
+ 
+15.3. Gestión de riesgos y control de desviaciones 
+ 
+El adjudicatario deberá disponer de un modelo de gestión de riesgos orientado a identificar, analizar, 
+mitigar y realizar seguimiento de aquellos riesgos que puedan afectar al correcto desarrollo del proyecto 
+o a la prestación del servicio. 
+Asimismo, deberán establecerse mecanismos para la detección temprana de desviaciones, gestión de 
+incidencias críticas, escalado de situaciones de riesgo y, la definición de acciones correctivas y 
+preventivas.  
+ 
+ 
+15.4. Evolutivos 
+ 
+Para la evolución del servicio, se contemplará un soporte evolutivo para la incorporación de ajustes y 
+mejoras no contempladas inicialmente, articulado mediante una bolsa de horas puesta a disposición de 
+Mutua Universal. Esta bolsa estará orientada a actividades de alcance acotado que no supongan una 
+modificación sustancial del objeto del contrato ni de la arquitectura de la solución. 
+ 
+El soporte evolutivo podrá incluir, entre otras, tareas de parametrización adicional, ajustes de plantillas y 
+reglas de validación, mejoras de usabilidad, optimizaciones razonables de rendimiento, adaptación a 
+necesidades operativas identificadas durante la explotación, actualización de contenidos formativos y 
+elaboración de materiales complementarios vinculados al uso de la herramienta. 
+ 
+Las actuaciones se iniciarán previa solicitud y aprobación por parte de Mutua Universal. El adjudicatario 
+presentará para cada solicitud una propuesta de alcance, esfuerzo estimado y planificación, y su 
+ejecución quedará condicionada a la conformidad de Mutua Universal.  
+ 
+El consumo de la bolsa de horas será trazable y se reportará mensualmente, detallando tareas realizadas 
+y dedicación empleada. Las condiciones económicas, límites máximos, vigencia y criterios de facturación 
+de la bolsa de horas se regirán por lo establecido en el Pliego de Condiciones Particulares. 
+ 
+ 
+16. PRECIOS UNITARIOS BASE DE LICITACIÓN 
+ 
+ 
+La oferta económica deberá incluir todos los costes necesarios para la correcta prestación del servicio 
+objeto del contrato, considerando la totalidad de elementos funcionales, técnicos, metodológicos y 
+operativos descritos en el presente pliego. 
+El adjudicatario deberá presentar una propuesta económica clara, desglosada y suficientemente 
+detallada, identificando de forma diferenciada los distintos conceptos incluidos en la prestación. 
+Se entenderán incluidos en el precio ofertado todos aquellos costes necesarios para el diseño, 
+configuración y desarrollo de la solución, implantación, licenciamiento, suministro y mantenimiento de 
+
+--- página 43 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 43 de 49 
+ 
+hardware, soporte y mantenimiento, formación, integración, evolución, desplazamientos, gestión de 
+proyecto y cualquier otro servicio necesario para la correcta ejecución del contrato.  
+A continuación, se detalla el importe unitario máximo incluido en el alcance del contrato para las métricas 
+definidas en el contrato, así como las cantidades estimadas para cada uno de ellos.  
+El cálculo económico estimado se basa en un horizonte contractual de 1 año, según lo establecido en el 
+Pliego de Condiciones Particulares. 
+ 
+ 
+CONCEPTO / 
+MÉTRICA Alcance orientativo incluido CANTIDAD  
+IMPORTE 
+UNITARIO sin 
+IVA 
+TOTAL 
+Desarrollo 
+experiencia inmersiva 
+inicial (*) 
+Diseño pedagógico, narrativa, 
+UX/UI, desarrollo escenario 
+CL, rutas de decisión, 
+evaluación y contenidos 
+multimedia 
+1 bloque de 
+40 minutos 
+(**) 
+48.000,00 € 48.000,00 € 
+Licencias plataforma 
+software RV en 
+modalidad de 
+suscripción 
+Plataforma, gestión usuarios, 
+analítica, acceso contenidos, 
+mantenimiento y 
+actualizaciones 
+10 378,00 €  3.780,00 €  
+Hardware RV en 
+modalidad de cesión 
+(***) 
+Dispositivos Meta Quest o 
+equivalente, accesorios, 
+configuración y puesta en 
+marcha 
+10 600,00 €  6.000,00 € 
+Bolsa de horas 
+evolutiva 
+Nuevos escenarios, ajustes, 
+soporte especializado o 
+mejoras adicionales 
+ 
+20  63,00 € 1.260,00 € 
+TOTAL ESTIMADO 
+CONTRATO (12 
+meses) 
+   59.040,00 € 
+ 
+(*) se estima como máximo de minutos previstos en el alcance del servicio. Este deberá incluir todos aquellos 
+escenarios necesarios con todas las ramas de punto de decisión de la experiencia. 
+(**) incluye los costes derivados de la integración LMS Moodle, configuración de la solución, reporting, 
+mantenimiento correctivo e incidencias, así como todo lo necesario para la implementación y despliegue de la 
+solución. 
+(***) incluye: suministro de dispositivos y accesorios, configuración inicial, mantenimiento preventivo y correctivo, 
+sustitución en caso de avería, actualizaciones y soporte asociado durante toda la vigencia contractual. 
+ 
+ 
+Los importes que presenten las empresas proveedoras deberán incluir todos los costes asociados a la 
+provisión de los servicios presentados, MUTUA no permitirá ningún otro tipo de coste derivado de la 
+provisión de los servicios detallados en la tabla de costes presentada en este apartado. 
+ 
+ 
+17. FACTURACIÓN Y ALBARANES 
+ 
+Una vez formalizado el contrato y emitido el pedido por parte de Mutua Universal, el adjudicatario deberá 
+emitir la comunicación oficial de que el servicio está vigente. Con este comunicado, se podrán emitir las 
+facturas correspondientes, de acuerdo con las indicaciones que se detallan en el Pliego de Condiciones 
+Particulares (PCP). 
+ 
+La facturación se basará exclusivamente en el consumo real del servicio, de acuerdo con los precios 
+unitarios establecidos en el Pliego de Condiciones Particulares. Las facturas deberán acompañarse de 
+
+--- página 44 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 44 de 49 
+ 
+un informe de consumo que refleje con claridad las unidades efectivamente utilizadas durante el periodo 
+facturado. 
+ 
+En caso de suministros físicos incluidos en el contrato, el adjudicatario deberá aportar albaranes 
+detallados que incluyan unidades entregadas, número de serie, fecha de entrega y centro destinatario. 
+La conformidad de Mutua Universal será requisito imprescindible para la admisión de la factura 
+correspondiente. 
+ 
+La información de facturación y consumo deberá ser coherente con los mecanismos de monitorización 
+y reporting establecidos en el presente Pliego y se someterá a revisión periódica en los comités de 
+seguimiento del servicio. 
+ 
+ 
+18. INICIO DE PRESTACIÓN DEL SERVICIO 
+ 
+De acuerdo con lo establecido en el Pliego de Condiciones Particulares, el contrato tendrá una duración 
+de 12 meses desde la fecha de inicio de contrato (estimación a fecha de redacción de este pliego para 
+15 de noviembre de 2026). 
+ 
+ 
+ 
+19. INTERLOCUTOR Y SERVICIO ATENCIÓN AL CLIENTE 
+ 
+La empresa adjudicataria podrá a disposición de Mutua Universal un interlocutor técnico, en el momento 
+de la formalización del contrato, para la gestión de la entrega de todas las claves y accesos necesarios 
+para disponer de las subscripciones de productos solicitadas en esta licitación, y la formalización de la 
+activación del servicio de soporte y mantenimiento para las licencias en propiedad. 
+ 
+Se solicita por parte de la empresa adjudicataria un referente técnico con conocimientos sobre el manejo 
+y aplicabilidad de la RV así como soporte “on-line” con vía telefónica y correo electrónico que aseguren 
+la prestación del servicio y para atender a consultas de accesibilidad, utilización y manejo de la 
+plataforma portal. En caso de error o incidencia de la adjudicataria ésta pondrá los medios necesarios 
+para su subsanación y garantía del servicio, sin cargo alguno para Mutua Universal.   
+ 
+ 
+20. CONTROL Y SEGUIMIENTO DE LA TRAZABILIDAD DEL SERVICIO 
+ 
+En el caso de identificarse deficiencias en el servicio, el adjudicatario realizará todas las gestiones hasta 
+llegar a disponer de las prestaciones solicitadas en este Pliego de Prescripciones Técnicas. 
+ 
+ 
+21. REQUERIMIENTOS DE CALIDAD DEL SERVICIO Y COMPROMISOS 
+AMBIENTALES 
+ 
+El adjudicatario deberá garantizar que la prestación del servicio cumple con los estándares de calidad 
+definidos por Mutua Universal, asegurando la estabilidad técnica de la plataforma, la correcta atención a 
+los usuarios y la mejora continua del sistema durante toda la vigencia del contrato. 
+ 
+Calidad del servicio 
+ El adjudicatario garantizará el cumplimiento de los niveles de servicio (SLA)  establecidos 
+según lo definido en el apartado Modelo de Gestión del Servicio. 
+
+--- página 45 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 45 de 49 
+ 
+ El servicio deberá operar con un enfoque de mejora continua , incorporando feedback de 
+usuarios, métricas de uso e incidencias para optimizar la experiencia asistencial. 
+ Se garantizará una atención eficaz a los usuarios, resolviendo incidencias y consultas dentro de 
+los tiempos definidos y aplicando criterios homogéneos de priorización. 
+ El adjudicatario deberá mantener la solución actualizada, incorporando mejoras funcionales y 
+correcciones necesarias para su correcto funcionamiento. 
+ 
+Compromisos ambientales 
+ El adjudicatario promoverá buenas prácticas orientadas a minimizar el impacto ambiental  
+asociado a la prestación del servicio, priorizando la reducción de desplazamientos presenciales 
+innecesarios y el uso eficiente de recursos tecnológicos. 
+ En caso de suministros físicos incluidos en el contrato (p. ej., equipamiento), se garantizará que 
+cumplen con los criterios de eficiencia, reutilización y reciclabilidad aplicables. 
+ El personal asignado deberá aplicar prácticas responsables en el uso de recursos, conforme a 
+las directrices vigentes de Mutua Universal. 
+ 
+ 
+ 
+ 
+ 
+En Barcelona, a 04 de septiembre de 2026  
+Área de Innovación y Transformación 
+Jordi Calvo Figueras 
+  
+
+--- página 46 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 46 de 49 
+ 
+22. Anexos 
+ 
+22.1. Anexo 1. Modelo pedagógico y metodológico 
+ 
+La solución de formación inmersiva deberá sustentarse en un modelo pedagógico orientado al 
+aprendizaje experiencial, al desarrollo competencial y a la transferencia efectiva del aprendizaje al 
+entorno profesional real. 
+La propuesta metodológica deberá situar al usuario como elemento central del proceso formativo, 
+favoreciendo la participación activa, la toma de decisiones, la interacción con entornos simulados y la 
+reflexión sobre el impacto de sus actuaciones en el contexto asistencial y en la experiencia del paciente. 
+La utilización de tecnologías de Realidad Virtual (RV) deberá responder en todo momento a objetivos 
+pedagógicos y de mejora del desempeño profesional, evitando planteamientos meramente tecnológicos 
+o demostrativos. 
+La solución deberá alinearse con buenas prácticas de simulación formativa utilizadas en entornos 
+sanitarios, universitarios y corporativos avanzados, garantizando: 
+ rigor metodológico y pedagógico;  
+ trazabilidad del aprendizaje;  
+ evaluación objetiva del desempeño;  
+ sostenibilidad y reutilización de los recursos formativos;  
+ y orientación a la mejora continua.  
+ 
+Principios metodológicos 
+ 
+La solución deberá basarse en un enfoque metodológico fundamentado en el aprendizaje experiencial y 
+en la simulación de situaciones profesionales reales, permitiendo que el usuario aprenda mediante la 
+práctica, la interacción y la toma de decisiones en entornos seguros y controlados. 
+El modelo formativo deberá promover la participación activa del usuario; el aprendizaje basado en la 
+experiencia; la reflexión sobre las actuaciones realizadas; la repetición y mejora progresiva; y la 
+aplicación práctica de los conocimientos y habilidades adquiridas.  
+La experiencia inmersiva deberá permitir experimentar situaciones representativas de la actividad 
+profesional real; entrenar procedimientos operativos y habilidades relacionales; enfrentarse a escenarios 
+de complejidad variable; analizar consecuencias derivadas de las decisiones tomadas; y desarrollar 
+competencias transferibles al puesto de trabajo.  
+La metodología deberá incorporar mecanismos de simulación interactiva y entrenamiento competencial, 
+favoreciendo la autonomía del usuario; la capacidad de adaptación; la resolución de situaciones 
+complejas; y la mejora progresiva del desempeño profesional.  
+Asimismo, la solución deberá diseñarse bajo criterios de flexibilidad y adaptabilidad, permitiendo su 
+utilización tanto en modalidades autónomas como tutorizadas, individuales o grupales. 
+ 
+Habilidades y competencias para entrenar 
+ 
+La experiencia inmersiva deberá orientarse prioritariamente al desarrollo de competencias profesionales, 
+relacionales y emocionales aplicadas al contexto asistencial y de atención al paciente. 
+Entre las habilidades y capacidades a entrenar, se contemplarán como mínimo: 
+
+--- página 47 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 47 de 49 
+ 
+ comunicación clara y efectiva;  
+ empatía y validación emocional;  
+ escucha activa;  
+ orientación al paciente;  
+ trato humanizado;  
+ gestión emocional en situaciones de incertidumbre;  
+ gestión de situaciones difíciles o conflictivas;  
+ capacidad de adaptación;  
+ toma de decisiones;  
+ resolución de incidencias operativas;  
+ y aplicación adecuada de procedimientos corporativos.  
+ 
+La solución deberá incorporar dinámicas y escenarios que permitan entrenar comportamientos y 
+respuestas ante situaciones reales de interacción con pacientes, contemplando distintos niveles de 
+complejidad emocional y operativa. Asimismo, el diseño de la experiencia deberá considerar elementos 
+asociados a mapas de empatía; análisis de interacciones; identificación de puntos críticos del proceso; 
+y evaluación del impacto de las actuaciones del usuario sobre la experiencia asistencial.  
+ 
+Evaluación del aprendizaje y desempeño 
+ 
+La solución deberá incorporar mecanismos de evaluación continua orientados al análisis del desempeño 
+competencial del usuario durante el desarrollo de la experiencia inmersiva. 
+La evaluación deberá fundamentarse en el comportamiento y actuaciones realizadas por el usuario 
+dentro de la simulación, evitando enfoques exclusivamente teóricos. 
+La plataforma deberá permitir la realización de evaluaciones previas y posteriores a la experiencia (pre-
+test y post-test); la medición del progreso y evolución del usuario; el análisis de competencias 
+entrenadas; y la identificación de áreas de mejora y fortalezas.  
+El sistema deberá contemplar, como mínimo el: seguimiento de decisiones tomadas; análisis de 
+secuencia de acciones; detección de errores entrenables; medición de tiempos de respuesta; evaluación 
+de interacción comunicativa y relacional; y monitorización del desempeño operativo.  
+La solución deberá incorporar capacidades de analítica de aprendizaje y generación de métricas que 
+permitan realizar seguimiento individual y agregado; explotar información con fines formativos y 
+organizativos; evaluar el impacto competencial del programa y facilitar procesos de mejora continua.  
+Los resultados obtenidos deberán poder visualizarse mediante mecanismos de feedback orientados al 
+aprendizaje y, adicionalmente, integrarse o exportarse al LMS corporativo de Mutua Universal. 
+ 
+ 
+Gamificación, feedback y engagement 
+ 
+La solución podrá incorporar elementos de gamificación y dinamización orientados a incrementar la 
+participación, implicación y motivación de los usuarios durante el proceso formativo. 
+La experiencia deberá favorecer el engagement del usuario mediante: dinámicas interactivas; feedback 
+contextual e inmediato; retos progresivos; recorridos adaptativos; y sistemas de reconocimiento del 
+progreso.  
+ 
+El sistema podrá incorporar mecanismos de: 
+
+--- página 48 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 48 de 49 
+ 
+ scoring o puntuación;  
+ indicadores de desempeño;  
+ evaluación por niveles;  
+ y visualización de progreso y evolución competencial.  
+ 
+Los recorridos formativos deberán poder adaptarse en función de las decisiones tomadas por el usuario; 
+los resultados obtenidos; el nivel de desempeño y las necesidades formativas identificadas.  
+Asimismo, la solución deberá permitir la repetición de escenarios o secuencias específicas, facilitando 
+el aprendizaje progresivo, la mejora continua y la consolidación de habilidades y comportamientos 
+profesionales. 
+  
+
+--- página 49 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 49 de 49 
+ 
+22.2. Anexo 2. Proceso CL 
+ 
+Descripción del Proceso 
+Servicio de atención y recepción de pacientes en el centro asistencial que abarca desde la llegada del 
+paciente a la “puerta de entrada” hasta su pase a sala de espera para atención clínica. El servicio integra 
+validación de identidad y cobertura, alta/actualización de datos en sistemas, gestión documental, 
+consentimiento telemático y generación de evidencias de asistencia. 
+Objetivo y Alcance 
+Objetivo: Capacitar y estandarizar la correcta recepción y gestión de pacientes, asegurando eficiencia 
+operativa y cumplimiento normativo. 
+Alcance: Aplica a todo el personal administrativo de recepción y admisión del centro asistencial, desde 
+la llegada del paciente hasta su pase a sala de espera. Quedan fuera de alcance: procesos clínicos 
+asistenciales posteriores y facturación final (salvo la verificación de cobertura). 
+Roles y Responsabilidades 
+Rol Responsabilidades 
+principales 
+Sistemas / Herramientas 
+Recepcionista / Administrativo 
+de Admisión 
+Identificación del paciente, 
+verificación de cobertura en 
+sistema, alta/actualización de 
+datos en sistema, solicitud y 
+digitalización de 
+documentación, gestión de 
+consentimientos y evidencias. 
+SAP, GISS (Tesorería), 
+Sistema de Gestión 
+Documental, Herramienta de 
+Firma Digital 
+Coordinación – control -
+seguimiento 
+Supervisión del cumplimiento 
+de procedimientos, soporte en 
+incidencias, actividad.  
+SAP, Cuadros de mando 
+Paciente / Acompañante Aportar documentación 
+requerida, validar datos de 
+contacto, otorgar o denegar 
+consentimientos, 
+cumplimentar formularios. 
+Portal/Quiosco, Dispositivo de 
+firma 
+Documentos personales 
+ 
+Flujo General del Servicio 
+Recepción y primera consulta  
+Gestión documental  
+Consentimiento telemático y actualización de datos  
+Despedida y pase a sala de espera. 

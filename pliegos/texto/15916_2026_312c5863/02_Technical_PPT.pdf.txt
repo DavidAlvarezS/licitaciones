@@ -1,0 +1,887 @@
+
+
+--- página 1 ---
+Documento oficial
+ 
+P4602900E | algemesi.es | ajuntament@algemesi.net | 962019000 | Plaça Major, 3 - 46680 Algemesí | Pág. 1
+PLIEGO DE PRESCRIPCIONES TÉCNICAS
+CONTRATACIÓN DE PLATAFORMA DE GESTIÓN DE VIDEO ACTAS 
+PARA SESIONES PLENARIAS (MODO SaaS)
+Dato Descripción
+Tipo de contrato Servicios – Modalidad SaaS (Software as a Service)
+Objeto Plataforma audiovisual para la creación, gestión y publicación de 
+Video Actas de sesiones plenarias
+Documento Pliego de Prescripciones Técnicas (PPT)
+
+--- página 2 ---
+Documento oficial
+ 
+P4602900E | algemesi.es | ajuntament@algemesi.net | 962019000 | Plaça Major, 3 - 46680 Algemesí | Pág. 2
+ÍNDICE
+1. Objeto del contrato
+2. Alcance y funcionalidades requeridas
+2.1 Interfaz y accesibilidad
+2.2 Portal público
+2.3 Gestión de plenos e indexación
+2.3.1 Migración de vídeos, indexaciones y mantenimiento de enlaces
+2.4 Firma electrónica de vídeos y documentos
+3. Infraestructura y seguridad
+3.1 Seguimiento y auditoría del cumplimiento del ENS
+3.2 Responsabilidades en materia de seguridad
+4. Almacenamiento cloud independiente y custodia de archivos
+4.1 Requisitos del almacenamiento
+4.2 Traspaso del bucket al finalizar el contrato
+4.3 Conservación de URLs y enlaces permanentes
+5. Tratamiento de cabeceras en vídeos
+5.1 Definición de cabecera
+5.2 Criterio de aplicación
+5.3 Ámbito de aplicación
+6. Documentos generados por la plataforma
+7. Condiciones del servicio (SaaS)
+8. Soporte, mantenimiento y actualizaciones
+9. Criterios de adjudicación
+9.1 Desglose de subcriterios y motivación
+10. Condiciones de finalización de contrato y traspaso
+11. Formación
+12. Duración y plazos
+13. Presupuesto
+14. Facturación y forma de pago
+15. Responsables del contrato
+15.1 Comunicación y coordinación entre responsables
+
+--- página 3 ---
+Documento oficial
+ 
+P4602900E | algemesi.es | ajuntament@algemesi.net | 962019000 | Plaça Major, 3 - 46680 Algemesí | Pág. 3
+1. OBJETO DEL CONTRATO
+El presente Pliego de Prescripciones Técnicas tiene por objeto establecer las condiciones técnicas 
+que debe cumplir la plataforma audiovisual para la creación, gestión y publicación de Video Actas 
+de sesiones plenarias municipales del Ayuntamiento de Algemesí, en régimen de Software como 
+Servicio (SaaS).
+La plataforma deberá permitir gestionar, publicar y consultar los plenos municipales a través de 
+una interfaz visual responsiva, accesible desde cualquier tipo de dispositivo con conexión a 
+internet, así como facilitar el control de flujos de trabajo para la firma digital de grabaciones y la 
+generación de Video Actas con la documentación asociada.
+La empresa adjudicataria quedará obligada a cumplir íntegramente los requisitos técnicos 
+descritos en el presente pliego desde la puesta en marcha del servicio y durante toda la 
+vigencia del contrato.
+Acreditación para operar con la plataforma DIGIACTA
+Dado que el Ayuntamiento utiliza actualmente la plataforma DIGIACTA (plataforma de gestión de 
+Video Actas para sesiones plenarias), la empresa adjudicataria deberá estar debidamente 
+autorizada y acreditada para operar y gestionar los contenidos alojados en DIGIACTA. Esta 
+autorización deberá estar en vigor en el momento de la presentación de la oferta y mantenerse 
+durante toda la vigencia del contrato.
+A estos efectos, se entenderá por autorización habilitante cualquiera de las siguientes situaciones, 
+que deberán acreditarse documentalmente en el sobre de documentación técnica:
+Disponer de una autorización expresa, firmada y vigente. Dicho documento deberá 
+identificar a la empresa autorizada, el alcance de la autorización (acceso y gestión de 
+datos de la plataforma DIGIACTA), y la vigencia mínima por la duración del contrato más 
+sus posibles prórrogas.
+Acreditar la condición de distribuidor, revendedor o partner oficial de DIGIACTA. 
+Mediante certificado o carta comercial que acredite dicha relación y habilite a la empresa 
+licitadora para la implantación, configuración y gestión de la plataforma en nombre de 
+terceros.
+La no acreditación de alguna de las situaciones anteriores en el plazo establecido para la 
+presentación de ofertas constituirá causa de exclusión de la licitación, al tratarse de un requisito 
+de solvencia técnica esencial para la correcta ejecución del contrato.
+
+--- página 4 ---
+Documento oficial
+ 
+P4602900E | algemesi.es | ajuntament@algemesi.net | 962019000 | Plaça Major, 3 - 46680 Algemesí | Pág. 4
+2. ALCANCE Y FUNCIONALIDADES REQUERIDAS
+2.1 Interfaz y accesibilidad
+La plataforma deberá disponer de una interfaz web HTML5 completamente responsiva y adaptada 
+a los siguientes entornos:
+Ordenadores de escritorio y portátiles
+Tabletas (tablet)
+Teléfonos inteligentes (smartphones)
+Sistemas operativos: Windows, macOS, Android e iOS
+La interfaz deberá permitir su personalización completa con la imagen corporativa del 
+Ayuntamiento de Algemesí, incluyendo:
+Logotipos institucionales
+Tipografía corporativa
+Paleta de colores institucional
+La plataforma deberá ofrecer soporte multilingüe, como mínimo en valenciano y castellano. 
+Deberá permitir también la implementación de streaming en directo y bajo demanda de las 
+sesiones plenarias desde la propia plataforma.
+2.2 Portal público
+La parte pública de la plataforma, accesible sin autenticación, deberá incluir los siguientes 
+elementos y funcionalidades:
+Elementos y funcionalidades
+Cabecera con logos y colores corporativos del Ayuntamiento
+Buscador rápido: búsqueda de palabras en los puntos del orden del día de todos los 
+plenos. Al seleccionar un resultado, el sistema navegará automáticamente al inicio del 
+punto del orden del día correspondiente
+Buscador avanzado: búsqueda por fechas, palabras clave, y plenos
+Listado de plenos organizado por años
+Función de copia de URL para plenos completos, puntos del orden del día e intervenciones 
+individuales
+Descarga selectiva: vídeo completo, por punto del orden del día, por intervención o 
+mediante rango de tiempo definido por el usuario. Disponible en formato vídeo y audio
+Gestión de documentos públicos: convocatoria del pleno, acta firmada, extracto de 
+acuerdos, con posibilidad de descarga
+Visualización de firmas electrónicas: datos del firmante y descarga del fichero de firma 
+para validación independiente
+Panel de punto del orden del día activo, indicando el punto que se reproduce en cada 
+momento
+Panel de interviniente activo, nombre, cargo y partido político del interviniente
+Posibilidad de subtítulos activables/desactivables generados a partir de la transcripción
+Controles del reproductor: retroceso/avance, silencio, velocidad de reproducción, pantalla 
+completa
+Navegación por orden del día e intervenciones con enlace directo al momento exacto del 
+vídeo
+Posicionamiento dinámico del reproductor durante el scroll para no perder la visualización
+Compartir sesión en redes sociales
+
+--- página 5 ---
+Documento oficial
+ 
+P4602900E | algemesi.es | ajuntament@algemesi.net | 962019000 | Plaça Major, 3 - 46680 Algemesí | Pág. 5
+Selector de idioma (valenciano/castellano)
+2.3 Gestión de plenos e indexación
+La plataforma deberá disponer de un módulo de gestión de plenos que incluya:
+Importación de puntos del orden del día desde ficheros XML mediante interfaces estándar 
+de comunicación entre sistemas
+Creación del índice del vídeo por puntos del orden del día
+Creación del índice del vídeo por intervenciones
+Creación del índice por votaciones
+Revisión y minutado de las grabaciones previo a la firma electrónica
+2.3.1 Migración de vídeos, indexaciones y mantenimiento de enlaces
+El adjudicatario estará obligado a realizar la migración íntegra de todos los vídeos de sesiones 
+plenarias del Ayuntamiento de Algemesí generados desde el inicio de utilización del sistema de 
+videoactas municipal, en mayo de 2020, incluyendo la totalidad de la información asociada a cada 
+sesión.
+La migración comprenderá, como mínimo:
+Todos los archivos audiovisuales originales.
+La indexación por puntos del orden del día.
+La indexación por intervenciones.
+La información relativa a votaciones, cuando exista.
+Las marcas temporales y metadatos asociados.
+Los documentos vinculados a las videoactas, incluyendo actas, extractos de acuerdos y 
+documentación complementaria publicada.
+La migración deberá realizarse garantizando la completa conservación de la información, sin 
+pérdida de contenidos, degradación de calidad de los vídeos ni alteración de la estructura 
+funcional de las videoactas.
+Asimismo, el adjudicatario deberá garantizar que el proceso de migración no modifique los 
+enlaces (URL) ya existentes e implementados en las actas, portal de transparencia, sede 
+electrónica, página web municipal o cualquier otro sistema de información, manteniendo 
+plenamente operativos todos los enlaces permanentes ya publicados.
+En caso de que, por causas técnicas debidamente justificadas, no fuera posible mantener los 
+enlaces originales, el adjudicatario deberá implantar, sin coste adicional para el Ayuntamiento, un 
+sistema de redirección permanente que garantice que cualquier enlace previamente publicado 
+continúe dirigiendo automáticamente al contenido correspondiente, evitando enlaces rotos y 
+asegurando la continuidad del acceso público y administrativo a las videoactas.
+El adjudicatario será responsable de verificar el correcto funcionamiento de la totalidad de los 
+enlaces existentes tras la migración y de subsanar, de forma inmediata y sin coste para el 
+Ayuntamiento, cualquier incidencia que pudiera afectar a su disponibilidad o accesibilidad.
+2.4 Firma electrónica de vídeos y documentos
+La plataforma deberá permitir la firma electrónica avanzada y reconocida de vídeos y documentos 
+mediante certificados digitales admitidos por la plataforma @firma de la Administración General 
+del Estado. El formato estándar de firma de vídeos será XAdES de firma electrónica longeva.
+Deberá ser posible verificar la autenticidad de las firmas mediante herramientas independientes 
+suministradas por la Administración Pública. El acceso al módulo de firmas quedará restringido a 
+los roles de Secretaría y Alcaldía.
+
+--- página 6 ---
+Documento oficial
+ 
+P4602900E | algemesi.es | ajuntament@algemesi.net | 962019000 | Plaça Major, 3 - 46680 Algemesí | Pág. 6
+
+
+--- página 7 ---
+Documento oficial
+ 
+P4602900E | algemesi.es | ajuntament@algemesi.net | 962019000 | Plaça Major, 3 - 46680 Algemesí | Pág. 7
+3. INFRAESTRUCTURA Y SEGURIDAD
+La plataforma deberá estar alojada en infraestructura cloud de alta disponibilidad. La empresa 
+licitadora deberá acreditar el cumplimiento de los siguientes requisitos de seguridad, a adjuntar en 
+sobre A:
+Requisitos de la plataforma de cómputo
+Alojamiento en instancias de computación en la nube de alta disponibilidad (equivalente a 
+AWS EC2 o similar)
+Almacenamiento y reproducción de vídeos en servicio de almacenamiento de objetos de 
+alto rendimiento y seguridad (equivalente a AWS S3 o similar)
+Despliegue mediante tecnología de contenedores y orquestación (Kubernetes o similar) 
+para escalabilidad y distribución de carga
+Realización de copias de seguridad (backups) diarias de todos los datos y vídeos
+Estándares de seguridad exigibles en el servidor cloud
+El servicio cloud debe cumplir el Esquema Nacional de Seguridad (ENS) en su categoría 
+ALTA, conforme al Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema 
+Nacional de Seguridad, y demás normativa vigente que resulte de aplicación.
+Certificación ISO/IEC 27001 en gestión de la seguridad de la información, o equivalente 
+acreditado
+Cifrado de datos en tránsito (TLS 1.2 o superior) y en reposo
+Autenticación multifactor disponible para los roles de administración.
+Durante toda la vigencia del contrato, la empresa adjudicataria deberá garantizar que el 
+servicio SaaS se adecúa en todo momento al cumplimiento del Esquema Nacional de 
+Seguridad (ENS) y a la normativa vigente que resulte de aplicación en materia de seguridad 
+de la información en el sector público.
+Cualquier recomendación, requerimiento o solicitud de mejora en materia de seguridad que 
+sea comunicada al Ayuntamiento por el CSIRT competente, o por cualquier órgano público 
+con competencias en ciberseguridad, y que afecte al servicio objeto del contrato, deberá 
+ser analizada y aplicada por la empresa adjudicataria en el plazo máximo de 30 días 
+naturales desde su comunicación, sin coste adicional para el Ayuntamiento, salvo que se 
+establezca un plazo inferior por razón de urgencia, criticidad o riesgo para la seguridad del 
+servicio.
+3.1 Seguimiento y auditoría del cumplimiento del ENS
+La empresa adjudicataria deberá mantener durante toda la vigencia del contrato las medidas 
+técnicas, organizativas y procedimentales necesarias para garantizar el cumplimiento efectivo y 
+actualizado del Esquema Nacional de Seguridad (ENS), en la categoría que resulte exigible al 
+servicio prestado, sin perjuicio de las adaptaciones normativas o técnicas que pudieran producirse 
+durante la ejecución contractual.
+A requerimiento del Ayuntamiento, de los responsables del contrato o de los órganos competentes 
+en materia de seguridad de la información, la adjudicataria deberá aportar las evidencias 
+documentales necesarias para acreditar dicho cumplimiento, incluyendo certificaciones, 
+declaraciones de aplicabilidad, políticas de seguridad, informes de auditoría, resultados de 
+controles, planes de tratamiento de riesgos, registros de incidencias de seguridad y cualquier otra 
+documentación técnica o organizativa que resulte pertinente.
+El Ayuntamiento podrá realizar, directamente o a través de terceros autorizados, actuaciones de 
+seguimiento, revisión o auditoría sobre el cumplimiento de las obligaciones de seguridad 
+aplicables al servicio, con el alcance necesario para verificar la adecuación al ENS, la correcta 
+
+--- página 8 ---
+Documento oficial
+ 
+P4602900E | algemesi.es | ajuntament@algemesi.net | 962019000 | Plaça Major, 3 - 46680 Algemesí | Pág. 8
+aplicación de las medidas exigidas, la gestión de vulnerabilidades, la trazabilidad de accesos, la 
+disponibilidad del servicio, la protección de la información y la respuesta ante incidentes.
+Las deficiencias, incumplimientos, vulnerabilidades o recomendaciones derivadas de dichas 
+actuaciones de seguimiento o auditoría deberán ser corregidas por la adjudicataria en el plazo 
+máximo que determine el Ayuntamiento atendiendo a su criticidad y, en todo caso, en un plazo no 
+superior a 30 días naturales cuando afecten al cumplimiento del ENS o a la seguridad del servicio, 
+sin coste adicional para el Ayuntamiento.
+Los resultados de las actuaciones de seguimiento, auditoría, revisión de evidencias o 
+comprobación de medidas de seguridad deberán ser comunicados a los responsables funcional y 
+técnico del contrato cuando puedan afectar a la continuidad, disponibilidad, integridad, 
+confidencialidad, trazabilidad, conformidad o recepción del servicio.
+3.2 Responsabilidades en materia de seguridad
+La empresa adjudicataria será responsable de garantizar la seguridad integral del servicio SaaS 
+durante toda la vigencia del contrato, incluyendo la protección de la información tratada, la 
+disponibilidad de la plataforma, la integridad de los contenidos, la confidencialidad de los datos, la 
+trazabilidad de los accesos y la prevención, detección y respuesta ante incidentes de seguridad.
+La adjudicataria deberá comunicar de forma inmediata al Ayuntamiento cualquier incidente, 
+vulnerabilidad, acceso no autorizado, pérdida de disponibilidad, alteración de datos, riesgo 
+relevante o circunstancia que pueda comprometer la seguridad del servicio, aportando la 
+información necesaria para su análisis, contención, mitigación y resolución.
+Asimismo, deberá aplicar las medidas de seguridad técnicas y organizativas exigibles conforme al 
+ENS y al presente pliego, mantener registros y evidencias suficientes de su aplicación, colaborar 
+con los responsables funcional y técnico del contrato y facilitar al Ayuntamiento la información 
+necesaria para verificar el cumplimiento de las obligaciones de seguridad.
+Las actuaciones necesarias para corregir deficiencias de seguridad, aplicar recomendaciones de 
+organismos competentes, subsanar vulnerabilidades, reforzar controles o restablecer la prestación 
+segura del servicio se entenderán incluidas en el precio del contrato y no podrán suponer coste 
+adicional para el Ayuntamiento.
+
+--- página 9 ---
+Documento oficial
+ 
+P4602900E | algemesi.es | ajuntament@algemesi.net | 962019000 | Plaça Major, 3 - 46680 Algemesí | Pág. 9
+4. ALMACENAMIENTO CLOUD INDEPENDIENTE Y CUSTODIA DE 
+ARCHIVOS
+Este apartado establece una condición esencial del contrato: todos los archivos de vídeo 
+de los plenos municipales deberán almacenarse en un bucket cloud cuya titularidad 
+corresponderá al Ayuntamiento de Algemesí al término del contrato.
+4.1 Requisitos del almacenamiento
+La empresa adjudicataria deberá garantizar el almacenamiento de todos los archivos de vídeo de 
+las sesiones plenarias en un servicio de almacenamiento de objetos en la nube (bucket) que 
+cumpla los siguientes requisitos:
+El bucket deberá ser creado y configurado en una cuenta cloud independiente, claramente 
+diferenciada de la infraestructura propia de la empresa adjudicataria
+El Ayuntamiento tendrá derecho a acceder en lectura a dicho bucket en cualquier momento 
+durante la vigencia del contrato, previa solicitud
+Todos los archivos de vídeo en formato mp4 deberán conservarse íntegramente en el 
+bucket
+La empresa adjudicataria facilitará al Ayuntamiento, en el momento de la firma del 
+contrato, la documentación técnica que acredite la ubicación, estructura y acceso al bucket
+4.2 Traspaso del bucket al finalizar el contrato
+Al término del contrato, ya sea por vencimiento del plazo, resolución anticipada o cualquier otra 
+causa, la empresa adjudicataria queda obligada a:
+1. Transferir la titularidad y el control total del bucket cloud al Ayuntamiento en el plazo 
+máximo de 30 días naturales desde la extinción del contrato
+2. Proporcionar al Ayuntamiento de Algemesí todas las credenciales de acceso y la 
+configuración necesaria para gestionar el bucket de forma autónoma
+3. Garantizar que en el momento del traspaso el bucket contendrá todos los archivos de 
+vídeo íntegros generados durante la vigencia del contrato, sin excepción
+4. Entregar un inventario detallado de los archivos almacenados, con indicación de pleno, 
+fecha, nombre de archivo.
+5. No eliminar, modificar ni reubicar ningún archivo del bucket desde el momento de 
+notificación de extinción del contrato hasta la confirmación de traspaso por parte del 
+Ayuntamiento de Algemesí
+4.3 Conservación de URLs y enlaces permanentes
+Con el fin de garantizar la continuidad de acceso a la información pública y administrativa, el 
+adjudicatario deberá mantener plenamente operativos todos los enlaces permanentes (URL) 
+existentes en la actualidad relativos a videoactas municipales.
+El proceso de migración no podrá provocar la pérdida, modificación o inutilización de las URL 
+actualmente publicadas en:
+Portal de Transparencia.
+Sede Electrónica.
+Actas y expedientes electrónicos.
+Página web municipal.
+Cualquier otro sistema de información municipal.
+En caso de que, por causas técnicas debidamente justificadas, no resulte posible mantener las 
+URL originales, el adjudicatario deberá implantar, sin coste adicional para el Ayuntamiento, 
+
+--- página 10 ---
+Documento oficial
+ 
+P4602900E | algemesi.es | ajuntament@algemesi.net | 962019000 | Plaça Major, 3 - 46680 Algemesí | Pág. 10
+mecanismos de redirección permanente que garanticen el acceso automático al contenido 
+correspondiente.
+Dichas redirecciones deberán mantenerse operativas durante toda la vigencia del contrato y 
+garantizar la ausencia de enlaces rotos o contenidos inaccesibles.
+El adjudicatario será responsable de verificar el correcto funcionamiento de la totalidad de los 
+enlaces migrados y de corregir inmediatamente cualquier incidencia que pudiera afectar a su 
+disponibilidad.
+El incumplimiento de las obligaciones de traspaso del bucket será considerado infracción 
+grave y podrá dar lugar a la aplicación de las penalidades previstas en el Pliego de 
+Cláusulas Administrativas Particulares, sin perjuicio de la responsabilidad por daños y 
+perjuicios que pudiera corresponder.
+5. TRATAMIENTO DE CABECERAS EN VÍDEOS
+Con el fin de mejorar la experiencia del ciudadano y optimizar el acceso a los contenidos de las 
+sesiones plenarias, se establece la siguiente obligación respecto al tratamiento de las 
+grabaciones:
+La empresa adjudicataria queda obligada a eliminar de todos los vídeos de sesiones 
+plenarias las secuencias de cabecera, espera o preproducción que excedan de 10 
+segundos de duración, tanto de los plenos futuros como de los migrados históricamente.
+5.1 Definición de cabecera
+A los efectos del presente pliego, se entenderá por cabecera toda secuencia inicial del vídeo que 
+preceda al inicio efectivo de la sesión plenaria y que contenga elementos tales como:
+Pantallas de espera o cuenta atrás previas al inicio de la retransmisión
+Rótulos estáticos o animados de presentación
+Imágenes del salón de plenos sin actividad
+Cualquier otro contenido que no forme parte de la sesión plenaria propiamente dicha
+5.2 Criterio de aplicación
+Si la duración de la cabecera supera los 10 segundos, la empresa adjudicataria procederá a su 
+eliminación, de forma que el vídeo publicado en la plataforma comience en el instante en que da 
+inicio la sesión plenaria o, como máximo, con una antelación de 10 segundos respecto a dicho 
+inicio.
+Se permiten por tanto cabeceras de hasta 10 segundos de duración. Cabeceras de mayor 
+duración deberán ser eliminadas en su totalidad.
+5.3 Ámbito de aplicación
+Esta obligación se aplicará a todos los plenos que se incorporen a la plataforma durante la 
+vigencia del contrato
+En caso de que la edición del vídeo no sea técnicamente viable para algún archivo 
+concreto, la empresa adjudicataria deberá comunicarlo al Ayuntamiento de Algemesí y 
+proponer una solución alternativa
+
+--- página 11 ---
+Documento oficial
+ 
+P4602900E | algemesi.es | ajuntament@algemesi.net | 962019000 | Plaça Major, 3 - 46680 Algemesí | Pág. 11
+6. DOCUMENTOS GENERADOS POR LA PLATAFORMA
+La plataforma deberá generar automáticamente, como resultado del flujo de trabajo de cada 
+sesión plenaria, los siguientes documentos:
+Documento PDF con el título y fecha de la sesión, el hash del vídeo (huella digital única) y 
+el minutado de los puntos del orden del día con las URL correspondientes
+Vídeo en formato MP4
+7. CONDICIONES DEL SERVICIO (SaaS)
+El servicio se prestará en modalidad Software como Servicio (SaaS), lo que implica:
+La empresa adjudicataria será responsable del alojamiento, mantenimiento y actualización 
+de la plataforma
+El Ayuntamiento accederá a la plataforma a través de navegador web, sin necesidad de 
+instalación de software específico
+La disponibilidad mínima garantizada del servicio será del 99,5% mensual, excluidos los 
+períodos de mantenimiento programado comunicados con al menos 48 horas de 
+antelación
+El tiempo máximo de resolución de incidencias críticas (que impidan el acceso a la 
+plataforma o la celebración de un pleno) será de 4 horas desde la notificación
+El tiempo máximo de resolución de incidencias graves será de 24 horas
+El tiempo máximo de resolución de incidencias menores será de 5 días hábiles
+8. SOPORTE, MANTENIMIENTO Y ACTUALIZACIONES
+La empresa adjudicataria deberá prestar los siguientes servicios durante la vigencia del contrato:
+Soporte técnico en horario laborable, con canal de atención por correo electrónico y 
+teléfono
+Mantenimiento correctivo: resolución de errores y fallos del sistema
+Mantenimiento evolutivo: mejoras de interfaz, nuevas funcionalidades y actualizaciones 
+tecnológicas, sin coste adicional para el Ayuntamiento
+Actualizaciones de seguridad con aplicación inmediata ante vulnerabilidades críticas
+Formación inicial al personal del Ayuntamiento en el uso de la plataforma (mínimo 4 horas)
+Elaboración y entrega de manual de usuario en castellano y valenciano
+Cualquier mejora de la plataforma, ya sea interna, de interfaz o de nuevas funcionalidades, 
+se implementará sin coste adicional para el Ayuntamiento durante la vigencia del contrato.
+
+--- página 12 ---
+Documento oficial
+ 
+P4602900E | algemesi.es | ajuntament@algemesi.net | 962019000 | Plaça Major, 3 - 46680 Algemesí | Pág. 12
+9. CRITERIOS DE ADJUDICACIÓN
+Las ofertas se valorarán sobre un máximo de 100 puntos, distribuidos entre los siguientes 
+criterios de adjudicación:
+Criterio de adjudicación Tipo Puntos
+Precio ofertado Económico 75
+Calidad y completitud de las funcionalidades del portal público Técnico 12
+Garantías técnicas sobre el almacenamiento cloud independiente y el 
+traspaso del bucket al Ayuntamiento, mejoradas respecto de las 
+requeridas
+Técnico 5
+Mejoras y funcionalidades adicionales no requeridas en el pliego. 
+Transcripción y subtítulos para dos idiomas (con revisión humana)
+Técnico 8
+TOTAL 100
+Fórmula de valoración económica: la puntuación correspondiente al criterio precio ofertado se 
+calculará conforme a la siguiente fórmula: P = 75 × (Oferta más baja / Oferta valorada), donde P 
+es la puntuación económica de la oferta analizada, la oferta más baja es el menor precio anual 
+válido presentado por las licitadoras y la oferta valorada es el precio anual de la oferta que se 
+evalúa. La oferta de menor precio obtendrá 75 puntos y el resto obtendrá una puntuación 
+proporcional conforme a dicha fórmula.
+Fórmula de puntuación total: la puntuación final de cada oferta será el resultado de sumar la 
+puntuación económica y las puntuaciones técnicas obtenidas en los criterios del apartado 9.1, 
+conforme a la expresión: PT = PE + P1 + P2 + P3, siendo PE la puntuación económica, P1 la 
+puntuación por calidad y completitud del portal público, P2 la puntuación por garantías técnicas del 
+almacenamiento cloud y traspaso del bucket, y P3 la puntuación por mejoras y funcionalidades 
+adicionales. La puntuación total máxima será de 100 puntos.
+
+--- página 13 ---
+Documento oficial
+ 
+P4602900E | algemesi.es | ajuntament@algemesi.net | 962019000 | Plaça Major, 3 - 46680 Algemesí | Pág. 13
+9.1 Desglose de subcriterios y motivación
+La valoración de los criterios técnicos se realizará exclusivamente sobre las mejoras, prestaciones 
+o garantías que superen los requisitos mínimos exigidos en el presente pliego y que estén 
+suficientemente acreditadas en la documentación técnica presentada por las licitadoras. No se 
+otorgará puntuación adicional por el simple cumplimiento de obligaciones que tengan carácter 
+mínimo u obligatorio.
+A efectos de garantizar una valoración homogénea, motivada y trazable, se atenderá, la viabilidad 
+técnica de la propuesta, su impacto en la continuidad y calidad del servicio, la reducción de cargas 
+administrativas, la mejora de la accesibilidad ciudadana y el incremento de garantías sobre la 
+custodia, integridad y disponibilidad de la información municipal.
+Regla común de valoración: dentro de cada subcriterio, la puntuación se asignará de forma 
+proporcional al grado de cumplimiento acreditado. Con carácter orientativo, se aplicará la siguiente 
+escala: 0 puntos cuando la mejora no se aporte, no esté acreditada o se limite al cumplimiento 
+mínimo exigido; hasta el 50 % de la puntuación cuando la mejora sea parcial, genérica o de 
+utilidad limitada; hasta el 75 % cuando la mejora sea concreta, viable y útil para el servicio; y el 
+100 % cuando la mejora sea completa, acreditada documentalmente, verificable y aporte un valor 
+añadido claro para el Ayuntamiento.
+
+--- página 14 ---
+Documento oficial
+ 
+P4602900E | algemesi.es | ajuntament@algemesi.net | 962019000 | Plaça Major, 3 - 46680 Algemesí | Pág. 14
+Calidad y completitud de las 
+funcionalidades del portal 
+público
+Técnico 12
+Subcriterio Puntos Forma de valoración
+Mejoras sobre las 
+funcionalidades mínimas 
+del portal público: 
+búsqueda, indexación, 
+descarga y navegación
+5 0 puntos: simple cumplimiento de las funcionalidades 
+obligatorias del apartado 2.2 o ausencia de mejora 
+acreditada. Hasta 2,5 puntos: mejoras parciales sobre 
+búsqueda, indexación, descarga o navegación. Hasta 5 
+puntos: mejoras completas, verificables y superiores al 
+mínimo exigido, con impacto claro en consulta 
+ciudadana, precisión de búsqueda o reducción de 
+cargas administrativas.
+Experiencia de usuario 
+(UX/UI, fluidez, responsive)
+2 Hasta 1 punto: mejoras menores de diseño. Hasta 1,5 
+puntos: interfaz clara, responsive y fluida. Hasta 2 
+puntos: experiencia de usuario excelente, accesible, 
+coherente con la imagen municipal y optimizada para 
+distintos dispositivos.
+Funcionalidades avanzadas 
+(indexación automática, 
+navegación inteligente, 
+filtros avanzados y enlaces 
+temporales)
+2 Hasta 0,5 puntos: funcionalidad adicional simple que no 
+reproduzca requisitos mínimos. Hasta 1 punto: 
+automatización, indexación o filtros adicionales útiles y 
+operativos. Hasta 2 puntos: búsqueda avanzada 
+mejorada, navegación inteligente, filtros no obligatorios, 
+sugerencias o enlaces temporales enriquecidos, 
+siempre que superen lo exigido en el apartado 2.2.
+Accesibilidad y multidioma 
+del portal público, excluidas 
+transcripción y subtítulos
+2 Hasta 1 punto: mejoras parciales de accesibilidad o 
+navegación multilingüe del portal, adicionales al soporte 
+mínimo en valenciano y castellano. Hasta 2 puntos: 
+mejoras completas, documentadas y plenamente 
+integradas que incrementen la accesibilidad ciudadana, 
+excluyendo expresamente la transcripción y los 
+subtítulos, que se valoran solo en el criterio específico 
+de mejoras.
+Integración con imagen 
+corporativa
+1 Hasta 0,5 puntos: personalización adicional sobre la 
+cabecera, logotipos o colores exigidos como mínimo. 
+Hasta 1 punto: integración avanzada, coherente y 
+verificable de la imagen corporativa en portal, 
+reproductor, plantillas y documentos generados, 
+siempre por encima de la personalización mínima 
+obligatoria.
+Este criterio evalúa el grado en que la solución mejora lo exigido en el portal público (apartado 
+2.2): 
+Mejor usabilidad → mayor puntuación
+Mayor automatización → mayor puntuación
+Más funcionalidades → mayor puntuación
+
+--- página 15 ---
+Documento oficial
+ 
+P4602900E | algemesi.es | ajuntament@algemesi.net | 962019000 | Plaça Major, 3 - 46680 Algemesí | Pág. 15
+Garantías técnicas sobre el 
+almacenamiento cloud independiente 
+y el traspaso del bucket al 
+Ayuntamiento, mejoradas respecto de 
+las requeridas
+Técnico 5
+Subcriterio Puntos Forma de valoración
+Mejoras en la independencia, 
+trazabilidad y reversibilidad del 
+almacenamiento cloud, incluyendo 
+separación efectiva respecto de la 
+infraestructura de la contratista, 
+documentación técnica del bucket, 
+estructura de permisos y evidencias 
+de titularidad o control transferible al 
+Ayuntamiento.
+2 Hasta 1 punto: documentación o 
+trazabilidad adicional respecto del mínimo 
+exigido. Hasta 2 puntos: separación 
+efectiva, trazabilidad reforzada, permisos, 
+evidencias de control transferible y 
+reversibilidad plenamente acreditadas, 
+siempre como mejora sobre las 
+obligaciones mínimas de los apartados 4 y 
+10.
+Mejoras en el procedimiento de 
+traspaso del bucket al finalizar el 
+contrato, incluyendo reducción de 
+plazos, plan de transición 
+documentado, entrega de inventario, 
+hashes de verificación, pruebas de 
+acceso y acompañamiento técnico al 
+personal municipal.
+2 Hasta 1 punto: plan de traspaso que mejore 
+parcialmente el mínimo de los apartados 4 y 
+10. Hasta 2 puntos: plan completo, con 
+reducción del plazo máximo de 30 días, 
+inventario enriquecido, hashes, pruebas de 
+acceso, acompañamiento técnico y 
+garantías jurídicas y técnicas verificables. 
+No se puntuará la mera entrega obligatoria 
+ni el cumplimiento del plazo máximo 
+exigido.
+Garantías adicionales de integridad, 
+disponibilidad y conservación de los 
+archivos, tales como verificación 
+periódica, registro de incidencias, 
+mecanismos de recuperación, política 
+de copias o evidencias de 
+conservación durante la vigencia del 
+contrato.
+1 Hasta 0,5 puntos: garantía adicional parcial 
+sobre integridad, disponibilidad o 
+conservación. Hasta 1 punto: garantías 
+completas, documentadas y comprobables, 
+adicionales a las obligaciones mínimas de 
+conservación, recuperación, inventario y 
+traspaso previstas en el pliego.
+
+--- página 16 ---
+Documento oficial
+ 
+P4602900E | algemesi.es | ajuntament@algemesi.net | 962019000 | Plaça Major, 3 - 46680 Algemesí | Pág. 16
+Mejoras y funcionalidades 
+adicionales no requeridas en el 
+pliego. Transcripción y subtítulos 
+para dos idiomas con revisión 
+humana
+Técnico 8
+Subcriterio Puntos Forma de valoración
+Transcripción automática de las 
+sesiones plenarias en valenciano y 
+castellano, con revisión humana 
+posterior, corrección lingüística, 
+adecuación terminológica 
+institucional y entrega en formatos 
+reutilizables.
+3 Hasta 1,5 puntos: transcripción automática 
+en dos idiomas con revisión básica. Hasta 3 
+puntos: transcripción revisada 
+humanamente, precisa, reutilizable, 
+terminológicamente adecuada y útil para la 
+gestión administrativa.
+Generación de subtítulos activables 
+y sincronizados en valenciano y 
+castellano, revisados humanamente, 
+integrados en el portal público y 
+asociados temporalmente al vídeo 
+para mejorar la accesibilidad y 
+consulta ciudadana.
+2 Hasta 1 punto: subtítulos activables en dos 
+idiomas con sincronización básica. Hasta 2 
+puntos: subtítulos revisados humanamente, 
+correctamente sincronizados, accesibles, 
+integrados en el portal y de alta calidad 
+lingüística.
+Mejoras funcionales adicionales no 
+exigidas en el pliego que aporten 
+valor al servicio, tales como 
+herramientas avanzadas de 
+búsqueda, exportación, analítica de 
+uso, automatización de tareas, 
+mejoras de administración o 
+funcionalidades de accesibilidad 
+complementarias.
+2 Hasta 1 punto: mejora funcional concreta de 
+utilidad limitada, ofertada expresamente y 
+no incluida entre los requisitos mínimos ni 
+en el mantenimiento evolutivo ordinario. 
+Hasta 2 puntos: mejora concreta, viable, 
+implantable sin coste adicional desde el 
+inicio o comprometida de forma verificable 
+en la oferta, con impacto claro en búsqueda, 
+administración, accesibilidad, exportación o 
+automatización.
+Plan de implantación, 
+documentación y soporte específico 
+para las mejoras ofertadas, 
+incluyendo descripción técnica, 
+calendario de puesta en marcha, 
+responsables, formación y 
+procedimiento de validación por el 
+Ayuntamiento.
+1 Hasta 0,5 puntos: plan genérico de 
+implantación o soporte de las mejoras 
+ofertadas. Hasta 1 punto: plan completo, 
+calendarizado, con responsables, 
+documentación, formación adicional 
+vinculada exclusivamente a las mejoras 
+ofertadas y procedimiento de validación por 
+el Ayuntamiento. No se valorará la 
+formación inicial mínima exigida en el 
+apartado 8.
+
+--- página 17 ---
+Documento oficial
+ 
+P4602900E | algemesi.es | ajuntament@algemesi.net | 962019000 | Plaça Major, 3 - 46680 Algemesí | Pág. 17
+10. CONDICIONES DE FINALIZACIÓN DE CONTRATO Y TRASPASO
+Con independencia del motivo que origine la finalización del contrato, la empresa adjudicataria 
+queda obligada a garantizar una transición ordenada del servicio, que incluirá como mínimo:
+1. Notificación de la fecha prevista de baja del servicio con una antelación mínima de 60 días 
+naturales
+2. Mantenimiento del servicio en plenas condiciones de funcionamiento hasta la fecha 
+efectiva de baja
+3. Transferencia de la titularidad del bucket cloud al Ayuntamiento, conforme a lo dispuesto 
+en el apartado 4 del presente pliego
+4. Entrega de un inventario completo de todos los vídeos y documentos almacenados, con 
+sus correspondientes hashes de verificación de integridad
+La empresa adjudicataria no podrá eliminar, restringir el acceso ni reubicar ningún dato, 
+documento o archivo de vídeo desde el momento en que se comunique la finalización del 
+contrato hasta que el Ayuntamiento de Algemesí confirme por escrito la recepción 
+completa de todos los activos digitales.
+La migración íntegra de todos los plenos históricos desde mayo de 2020, junto con la 
+conservación de su indexación y accesibilidad mediante URL permanentes, tendrá la 
+consideración de obligación esencial del contrato, pudiendo su incumplimiento dar lugar a 
+la imposición de penalidades o a la resolución contractual en los términos previstos en el 
+Pliego de Cláusulas Administrativas Particulares.
+11. FORMACIÓN
+La empresa adjudicataria deberá impartir una formación inicial mínima de 4 horas al personal que 
+designe el Ayuntamiento de Algemesí, orientada al uso ordinario, configuración básica, gestión de 
+sesiones, publicación de videoactas, consulta de documentación, revisión de indexaciones, 
+gestión de usuarios y resolución de incidencias habituales de la plataforma.
+La formación deberá impartirse antes de la recepción inicial del servicio o, en todo caso, antes del 
+inicio efectivo de la primera anualidad, y se considerará incluida en el precio del contrato, sin que 
+pueda ser objeto de facturación independiente.
+La adjudicataria deberá entregar documentación de apoyo y manuales de usuario en castellano y 
+valenciano, en formato reutilizable y actualizado, incluyendo instrucciones de acceso, 
+administración básica, gestión de plenos, publicación, consulta pública, descarga de contenidos, 
+firma o validación cuando proceda, y comunicación de incidencias.
+La empresa adjudicataria deberá acreditar la realización de la formación mediante acta, 
+certificado, listado de asistentes o informe equivalente, en el que consten la fecha, duración, 
+contenidos impartidos y personal destinatario.
+Cualquier formación adicional que se oferte como mejora solo podrá ser valorada cuando sea 
+complementaria a esta formación mínima obligatoria, esté vinculada a mejoras funcionales 
+concretas ofertadas por la licitadora y se encuentre debidamente descrita, calendarizada y 
+acreditada en la documentación técnica.
+
+--- página 18 ---
+Documento oficial
+ 
+P4602900E | algemesi.es | ajuntament@algemesi.net | 962019000 | Plaça Major, 3 - 46680 Algemesí | Pág. 18
+12. DURACIÓN Y PLAZOS
+La duración inicial del contrato será de un año, con posibilidad de prórrogas anuales hasta 
+alcanzar una duración máxima de cuatro años, siempre que dichas prórrogas sean acordadas 
+expresamente por el Ayuntamiento de Algemesí conforme a lo previsto en el Pliego de Cláusulas 
+Administrativas Particulares.
+La prestación efectiva del servicio y el devengo de la primera anualidad contractual no podrán 
+iniciarse antes del 1 de enero de 2027. A partir de dicha fecha podrá comenzar el cómputo de la 
+primera anualidad, siempre que la plataforma SaaS se encuentre implantada, configurada, puesta 
+en funcionamiento y recepcionada de conformidad por el Ayuntamiento.
+La adjudicataria deberá realizar con carácter previo las tareas de implantación, configuración, 
+migración, puesta en marcha, pruebas funcionales y formación inicial que resulten necesarias para 
+que el servicio pueda estar plenamente operativo en la fecha prevista. Dichas actuaciones 
+preparatorias no generarán por sí mismas derecho de facturación ni de pago hasta que conste la 
+recepción conforme del servicio.
+En caso de que llegada la fecha de 1 de enero de 2027 la plataforma no se encuentre plenamente 
+operativa o no haya sido recepcionada de conformidad, el inicio efectivo de la prestación, el 
+cómputo de la anualidad y el derecho a facturación quedarán diferidos hasta la fecha en que se 
+produzca dicha puesta en funcionamiento y recepción conforme, sin perjuicio de las penalidades 
+que, en su caso, pudieran corresponder conforme al Pliego de Cláusulas Administrativas 
+Particulares.
+
+--- página 19 ---
+Documento oficial
+ 
+P4602900E | algemesi.es | ajuntament@algemesi.net | 962019000 | Plaça Major, 3 - 46680 Algemesí | Pág. 19
+13. PRESUPUESTO
+El presupuesto base de licitación para la prestación del servicio de plataforma de gestión 
+de videoactas en modalidad SaaS asciende a 5.900,00 € anuales, IVA no incluido.
+El contrato tendrá una duración inicial de un año, con posibilidad de prórrogas anuales hasta 
+alcanzar una duración máxima de cuatro años.
+El valor estimado del contrato, calculado para una duración máxima de cuatro años, 
+asciende a 23.600,00 € IVA excluido.
+A efectos meramente informativos, el importe anual con IVA incluido (21 %) asciende a 7.139,00 
+€, y el importe máximo para cuatro años con IVA incluido asciende a 28.556,00 €.
+Concepto Importe sin IVA Importe con IVA 
+21 %
+Presupuesto anual del servicio SaaS 5.900,00 € 7.139,00 €
+Valor estimado máximo del contrato. Duración 
+máxima de cuatro años
+23.600,00 € 28.556,00 €
+El presupuesto anual indicado corresponde a cada anualidad de servicio SaaS efectivamente 
+prestada, una vez implantada, puesta en funcionamiento y recepcionada de conformidad la 
+plataforma, sin que pueda entenderse devengado importe alguno con anterioridad al inicio efectivo 
+de la prestación conforme a lo establecido en los apartados 12 y 14 del presente pliego.
+Los trabajos de implantación, configuración, migración histórica, pruebas, puesta en marcha y 
+formación inicial se consideran incluidos en el precio anual ofertado, sin que puedan ser objeto de 
+facturación independiente, separada o anticipada.
+En dicho importe se consideran incluidos todos los costes asociados al servicio, incluyendo:
+Licencias de uso de la plataforma.
+Alojamiento en modalidad SaaS.
+Mantenimiento correctivo, evolutivo y actualizaciones.
+Soporte técnico.
+Migración completa de los plenos históricos desde mayo de 2020.
+Migración y mantenimiento de indexaciones, marcas temporales, metadatos y documentos 
+vinculados.
+Conservación de las URL existentes o implantación de redirecciones permanentes sin 
+coste adicional para el Ayuntamiento.
+Formación inicial al personal designado por el Ayuntamiento.
+En la oferta económica presentada, se deberán identificar claramente los conceptos incluidos en 
+el precio anual ofertado, sin que puedan repercutirse al Ayuntamiento costes adicionales por la 
+migración histórica, conservación de enlaces o puesta en marcha del servicio.
+
+--- página 20 ---
+Documento oficial
+ 
+P4602900E | algemesi.es | ajuntament@algemesi.net | 962019000 | Plaça Major, 3 - 46680 Algemesí | Pág. 20
+14. FACTURACIÓN Y FORMA DE PAGO
+Las facturas derivadas de la ejecución del contrato se presentarán por anualidades, conforme a la 
+efectiva prestación del servicio SaaS contratado y de acuerdo con las condiciones establecidas en 
+el presente pliego y en el Pliego de Cláusulas Administrativas Particulares.
+El pago del servicio se realizará únicamente una vez que la plataforma haya sido implantada, 
+puesta en funcionamiento y recepcionada de conformidad por el Ayuntamiento de Algemesí. En 
+ningún caso podrá emitirse factura ni realizarse pago alguno antes del 1 de enero de 2027 ni 
+antes de que conste informe favorable o conformidad expresa del responsable del contrato sobre 
+el correcto funcionamiento de la plataforma.
+La primera factura corresponderá a la primera anualidad del servicio y solo podrá emitirse a partir 
+del 1 de enero de 2027, y siempre que la plataforma se encuentre plenamente operativa y 
+recepcionada de conformidad. Las facturas correspondientes a anualidades posteriores se 
+emitirán con periodicidad anual, coincidiendo con la fecha de inicio efectivo o devengo de la 
+primera anualidad del servicio, siempre que el Ayuntamiento haya aprobado la prórroga o 
+renovación anual correspondiente, hasta alcanzar, en su caso, la duración máxima de cuatro años 
+del contrato.
+No se admitirán pagos anticipados ni facturación previa a la efectiva puesta en funcionamiento y 
+recepción conforme del servicio.
+Las facturas deberán ser originales, firmadas y selladas por la contratista cuando proceda, e 
+indicar claramente el número del expediente de contratación, la anualidad o periodo de prestación 
+al que correspondan y una descripción detallada del servicio SaaS facturado. Deberán 
+acompañarse, en su caso, del correspondiente informe de conformidad o informe descriptivo de 
+prestación del servicio, implantación, disponibilidad, soporte, mantenimiento, actualizaciones y 
+cumplimiento de los niveles de servicio exigidos.
+La contratista presentará las correspondientes facturas en el Registro Central de Facturas del 
+Ayuntamiento de Algemesí, punto general de entrada de facturas electrónicas (FACe-Punto 
+General de Entrada de Facturas Electrónicas de la Administración General del Estado).
+Si la contratista es un proveedor de los contemplados en el artículo 4 de la Ley 25/2013, de 27 de 
+diciembre, de impulso de la factura electrónica y creación del Registro Contable de Facturas en el 
+Sector Público, y ha entregado bienes o prestados servicios a este Ayuntamiento, podrán expedir 
+y remitir factura electrónica, siendo obligatorio cuando la cantidad de la misma supere el importe 
+de 3.005,06 € IVA incluido.
+Todas las facturas que se presenten en relación con el presente contrato, ya sean en formato 
+papel o electrónico, deberán indicar los siguientes datos conforme a la codificación establecida en 
+el DIR3:
+ÓRGANO GESTOR L01460291 AYUNTAMIENTO DE ALGEMESÍ
+OFICINA L01460291 AYUNTAMIENTO DE ALGEMESÍ
+UNIDAD TRAMITADORA L01460291 AYUNTAMIENTO DE ALGEMESÍ
+
+--- página 21 ---
+Documento oficial
+ 
+P4602900E | algemesi.es | ajuntament@algemesi.net | 962019000 | Plaça Major, 3 - 46680 Algemesí | Pág. 21
+
+
+--- página 22 ---
+Documento oficial
+ 
+P4602900E | algemesi.es | ajuntament@algemesi.net | 962019000 | Plaça Major, 3 - 46680 Algemesí | Pág. 22
+15. RESPONSABLES DEL CONTRATO
+A efectos de seguimiento, supervisión y conformidad de la ejecución del contrato, se designan dos 
+responsables diferenciados, sin perjuicio de las competencias que correspondan al órgano de 
+contratación y a los servicios municipales competentes.
+Responsable funcional del contrato: la secretaria general Municipal o el/la Técnico/a de 
+Administración General en quien delegue, a quien corresponderá la supervisión funcional del 
+servicio, la validación de su adecuación a las necesidades de Secretaría y la conformidad 
+funcional respecto de la correcta prestación del servicio.
+Validar la adecuación funcional de la plataforma a los procedimientos de Secretaría y a la 
+gestión de las sesiones plenarias.
+Supervisar la correcta configuración de flujos de trabajo, roles funcionales, firma 
+electrónica, publicación de actas y documentación asociada.
+Verificar que la solución permite cumplir las necesidades de elaboración, consulta, 
+custodia y publicación de videoactas.
+Informar la conformidad funcional del servicio para la recepción inicial, las prórrogas 
+anuales y, en su caso, la tramitación de las facturas correspondientes.
+Comunicar al responsable técnico y a la contratista las incidencias funcionales detectadas 
+durante la prestación del servicio.
+Responsable técnico del contrato: el jefe de Servicio de Informática y Modernización, a quien 
+corresponderá la supervisión técnica de la plataforma SaaS, la verificación de su correcta 
+implantación, disponibilidad, integración, seguridad, soporte, mantenimiento, cumplimiento de los 
+requisitos técnicos establecidos en el presente pliego y adecuación técnica a las obligaciones 
+derivadas del Esquema Nacional de Seguridad (ENS).
+Supervisar la implantación técnica, configuración, integración, disponibilidad y seguridad 
+de la plataforma SaaS.
+Verificar el cumplimiento de los requisitos técnicos establecidos en el pliego, incluyendo 
+alojamiento, copias de seguridad, rendimiento, accesibilidad, soporte, mantenimiento, 
+actualizaciones y adecuación técnica al Esquema Nacional de Seguridad (ENS), sin 
+perjuicio de las responsabilidades que correspondan a la empresa adjudicataria.
+Comprobar la correcta migración de los plenos históricos, indexaciones, metadatos, 
+documentos asociados y mantenimiento o redirección de las URL existentes.
+Revisar el cumplimiento de los niveles de servicio, tiempos de respuesta, resolución de 
+incidencias y disponibilidad mínima exigida.
+Informar la conformidad técnica necesaria para la recepción inicial del servicio, la 
+validación de anualidades, la aprobación de prórrogas y, en su caso, la tramitación de 
+facturas.
+Coordinar con la contratista las actuaciones técnicas necesarias durante la ejecución, 
+finalización y traspaso del servicio.
+15.1 Comunicación y coordinación entre responsables
+El responsable funcional y el responsable técnico deberán mantener una coordinación 
+permanente durante toda la ejecución del contrato, especialmente en las fases de implantación, 
+puesta en funcionamiento, recepción inicial, validación de anualidades, seguimiento de 
+incidencias, aprobación de prórrogas y finalización o traspaso del servicio.
+A tal efecto, ambos responsables deberán intercambiar la información necesaria para valorar 
+conjuntamente el correcto funcionamiento funcional y técnico de la plataforma, dejando 
+
+--- página 23 ---
+Documento oficial
+ 
+P4602900E | algemesi.es | ajuntament@algemesi.net | 962019000 | Plaça Major, 3 - 46680 Algemesí | Pág. 23
+constancia, cuando proceda, de las incidencias detectadas, actuaciones realizadas, 
+comprobaciones efectuadas y conformidades emitidas.
+Cuando una incidencia, mejora, recepción, prórroga o validación de factura afecte 
+simultáneamente a aspectos funcionales y técnicos, la conformidad deberá recabarse de ambos 
+responsables, sin perjuicio de que cada uno emita su criterio dentro del ámbito material de sus 
+competencias.
+Las comunicaciones relevantes con la empresa adjudicataria deberán ser conocidas por ambos 
+responsables cuando tengan incidencia en la prestación funcional del servicio, en su configuración 
+técnica, en la disponibilidad de la plataforma, en la seguridad, en la migración histórica, en el 
+cumplimiento de los niveles de servicio o en la recepción conforme de las anualidades.
+En Algemesí, a la fecha de la firma electrónica
+El jefe de Servicio de Informática y Modernización
+Ferran Ros Botella

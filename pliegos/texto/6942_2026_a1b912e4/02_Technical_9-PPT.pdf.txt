@@ -1,0 +1,402 @@
+
+
+--- página 1 ---
+Exp. N.º: 6942/2026
+Expediente Int. N.º: CON-LIC-026-2026
+Pliego de Prescripciones Técnicas
+Procedimiento: Contrato  de  servicios  por  procedimiento  abierto  
+simplificado sumario.
+Asunto:  Prestación del servicio y mantenimiento de software de gestión  
+para instalaciones deportivas.   
+Documento  firmado  por:  Jefe  del  Dpto.  de  Contratación  Pública;  
+Concejala-Delegada de Deportes.
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA EL SERVICIO Y  
+MANTENIMIENTO DE SOFTWARE DE GESTIÓN PARA  
+INSTALACIONES DEPORTIVAS  POR PROCEDIMIENTO ABIERTO 
+SIMPLIFICADO SUMARIO.
+1. Objeto del contrato
+El  contrato  tiene  por  objeto  la  prestación  de  los  servicios  de 
+mantenimiento,  soporte  técnico,  actualización,  asistencia  
+especializada y alojamiento del software de gestión utilizado en las  
+instalaciones deportivas municipales del Ayuntamiento de Barbate,  
+con  la  finalidad  de  garantizar  su  funcionamiento  continuado,  su 
+seguridad  y  su  adecuación  a  las  necesidades  del  servicio  público 
+deportivo durante toda la vigencia del contrato.
+El sistema objeto del contrato es la plataforma de gestión deportiva,  
+prestada en modalidad de servicio en la nube, con los módulos y  
+funcionalidades que se describen en el apartado 3. El contratista la  
+mantendrá en funcionamiento, la alojará, la actualizará y prestará el  
+soporte técnico y la asistencia descritos en este pliego. El derecho de  
+uso  de  la  plataforma  durante  la  vigencia  del  contrato  queda 
+comprendido en el precio del servicio. No es objeto del contrato la  
+implantación de un sistema nuevo por iniciativa del Ayuntamiento.
+2. Alcance del servicio
+El  contratista  asumirá  todas  las  actividades  necesarias  para  la 
+correcta  operación  del  software  de  gestión  deportiva  durante  la 
+vigencia. En general, comprende:
+ Mantenimiento  preventivo:  actuaciones  periódicas  
+(actualizaciones de versiones, parches de seguridad, validación  
+Cód. Validación: 7XCQMADKYXXGSNKY5SZCNLLED 
+Verificación: https://barbate.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 1 de 10 
+
+--- página 2 ---
+de  copias  de  seguridad)  para  asegurar  estabilidad  y  
+rendimiento.
+ Mantenimiento  correctivo:  resolución  de  errores,  fallos  o 
+incidencias detectados en el software.
+ Mantenimiento adaptativo/evolutivo:  incorporación de las  
+nuevas  versiones  y  funcionalidades  de  la  plataforma,  
+adaptación a los cambios normativos que afecten al servicio  
+(administrativos,  tributarios,  de  protección  de  datos  o  
+deportivos) y a la evolución de los sistemas de los que depende  
+(sistemas operativos, navegadores, dispositivos móviles y bases 
+de datos), sin coste adicional. Las ampliaciones del objeto que  
+excedan  de  lo  anterior  se  tramitarán,  en  su  caso,  como 
+modificación del contrato conforme a la cláusula vigésima del  
+Pliego de Cláusulas Administrativas Particulares (PCAP).
+ Soporte  técnico: asistencia  remota  (preferentemente)  o  
+presencial  a  usuarios  y  gestores  municipales,  mediante  un 
+servicio de atención con registro de incidencias y tiempos de  
+respuesta y resolución por prioridad, en el horario y con los  
+niveles de servicio del apartado 6.
+ Administración  de  datos: gestión  de  bases  de  datos  del 
+sistema,  realización  de  copias  de  seguridad  periódicas,  
+restauración de datos en caso de incidencia y mantenimiento  
+de la confidencialidad e integridad de la información.
+ Capacitación y formación:  formación de 4 horas por cada  
+año  de  vigencia  del  contrato,  incluida  en  el  precio,  para  el 
+personal  municipal  que  designe  la  Delegación  de  Deportes, 
+documentación  de  usuario  y  administrador  actualizada,  y 
+sesiones de actualización ante cambios de versión relevantes.  
+Las  horas  de  formación  adicionales  ofertadas  conforme  al 
+criterio e) de la cláusula décima del PCAP se añadirán a las  
+anteriores.
+ Entrega  de  informes  y  métricas:  informes  periódicos  de 
+actividad, uso de instalaciones y rendimiento del sistema.
+3. Requisitos funcionales y módulos
+El  sistema  mantendrá  operativos,  durante  toda  la  vigencia  del 
+contrato, al menos los siguientes módulos y funcionalidades. Cada  
+Cód. Validación: 7XCQMADKYXXGSNKY5SZCNLLED 
+Verificación: https://barbate.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 2 de 10 
+
+--- página 3 ---
+módulo estará documentado y sus actualizaciones se probarán antes  
+de su puesta en producción:
+• Gestión  de  usuarios  y  perfiles:  alta,  baja  y  edición  de 
+usuarios  (ciudadanos,  abonados,  personal  deportivo),  
+asignación de roles/permisos y autenticación de acceso. Incluye  
+control de perfiles administrativos y seguridad de acceso (roles  
+de gestor, monitor, ciudadano).
+• Reservas  de instalaciones: sistema  de  reserva  de  pistas, 
+salas  y  material  deportivo.  Debe  permitir  búsqueda  de  
+disponibilidad  por  calendario,  reservas  en línea  y control  de 
+plazas (incluyendo bloqueos automáticos de uso excesivo).
+• Gestión de actividades y clases:  planificación y gestión de  
+actividades  deportivas  (cursos,  eventos,  clases  dirigidas),  
+inscripción de usuarios y asignación de plazas. Debe generar  
+listados y gestionar listas de espera.
+• Control de pagos y facturación : integración con pasarela de  
+pago bancaria (TPV virtual) para abonos, cuotas de actividades  
+o multas. Gestión de recibos, generación de factura simplificada  
+para usuarios y liquidación de ingresos.
+• Informes y estadísticas: generación automática de informes  
+(actividad  económica,  número  de  usos  de  cada  instalación, 
+perfiles de usuario, cumplimiento de objetivos). Exportación de  
+datos en formatos estándar (CSV, PDF).
+• Abonados  y  control  de  accesos: gestión  de  personas  
+abonadas y socias, con tarifas por colectivo, bonos y monedero  
+virtual, y control de accesos a las instalaciones compatible con  
+los medios de identificación que utilice el Ayuntamiento.
+• Acceso ciudadano: portal web y aplicación móvil gratuita para 
+la  ciudadanía,  con  diseño  adaptado  a  dispositivos  móviles, 
+desde los que puedan consultarse disponibilidades, realizarse  
+reservas e inscripciones y efectuarse pagos.
+4. Integraciones, puesta en marcha y reversión del  
+servicio
+El sistema estará integrado con la pasarela de pago (TPV virtual) de la 
+entidad bancaria del Ayuntamiento y permitirá la exportación de los  
+Cód. Validación: 7XCQMADKYXXGSNKY5SZCNLLED 
+Verificación: https://barbate.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 3 de 10 
+
+--- página 4 ---
+datos económicos para su incorporación a la contabilidad municipal.  
+Cualquier integración adicional con sistemas municipales (plataforma  
+de  administración  electrónica,  sistema  de  identificación  Cl@ve  u 
+otros) que el Ayuntamiento solicite durante la vigencia del contrato se 
+tramitará, en su caso, como modificación del contrato conforme a la  
+cláusula vigésima del PCAP.
+Reversión del servicio.  A la finalización del contrato, cualquiera  
+que sea su causa, el contratista entregará al Ayuntamiento, en el  
+plazo máximo de quince días naturales y sin coste, una copia íntegra  
+de  todos  los  datos  del  sistema  (personas  usuarias  y  abonadas, 
+reservas,  actividades,  histórico  de  operaciones  y  contabilidad)  en 
+formato estructurado, abierto y documentado (CSV o SQL, con su  
+diccionario de datos), colaborará con el Ayuntamiento o con el nuevo  
+prestador durante el mes siguiente a la finalización del contrato y,  
+concluido ese periodo y confirmada la recepción de los datos, los  
+destruirá de forma segura conforme a la cláusula vigesimosexta del  
+PCAP, con certificación de borrado y sin perjuicio de la conservación  
+bloqueada prevista en dicha cláusula.
+Puesta en marcha y migración de datos. El Ayuntamiento facilitará al  
+contratista la información y los accesos necesarios para la prestación  
+del  servicio.  Cuando  el  sistema  ofertado  no  sea  el  que  el  
+Ayuntamiento utilice en el momento de la adjudicación, el contratista  
+realizará a su costa, antes de la fecha de inicio de la prestación fijada  
+en  el  contrato  y  sin  interrupción  del  servicio  a  la  ciudadanía,  la 
+migración  íntegra  de  los  datos  del  sistema  anterior  (personas 
+usuarias y abonadas, reservas, actividades, histórico de operaciones y 
+contabilidad),  conforme  a  un  plan  de  migración  cuya  ejecución 
+verificará la Delegación de Deportes. El Ayuntamiento facilitará la  
+exportación  de  los  datos  del  sistema  anterior  en  el  formato  
+disponible.
+5. Seguridad y protección de datos
+El  sistema  gestionará  información  personal  de  los  usuarios,  
+incluyendo datos identificativos, de contacto, médicos y de pago, por  
+lo que  deberá  garantizar el estricto  cumplimiento  del Reglamento 
+(UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril  
+de 2016 (Reglamento General de Protección de Datos, RGPD) y de la  
+Ley Orgánica  3/2018,  de  5 de  diciembre,  de  Protección  de  Datos 
+Personales  y  garantía  de  los  derechos  digitales  (LOPDGDD). El  
+contratista actuará como encargado del tratamiento de los datos por  
+cuenta del Ayuntamiento, formalizando el correspondiente contrato  
+Cód. Validación: 7XCQMADKYXXGSNKY5SZCNLLED 
+Verificación: https://barbate.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 4 de 10 
+
+--- página 5 ---
+de encargo y adoptando todas las medidas técnicas y organizativas  
+necesarias para proteger la información.
+Con  el  objetivo  de  garantizar  la  confidencialidad,  integridad  y 
+disponibilidad  de  los  datos,  la  solución  incorporará,  al  menos,  los 
+siguientes mecanismos de seguridad: el cifrado de bases de datos, la  
+autenticación multifactor, el control de accesos y la trazabilidad de  
+las  operaciones  mediante  registros  de  auditoría.  Asimismo,  el  
+contratista  realizará  copias  de  seguridad  diarias  y  mantendrá  
+procedimientos  de  recuperación  ante  desastres  que  permitan  
+restablecer el servicio en el plazo del apartado 6 (RTO), asegurando la 
+continuidad de la actividad municipal.
+Además, la plataforma deberá cumplir con los requisitos establecidos  
+por  el  Esquema  Nacional  de  Seguridad  (ENS),  garantizando  la 
+protección  de  la  información  en  aspectos  clave  como  la  
+disponibilidad,  confidencialidad,  integridad,  autenticidad  y  
+trazabilidad.  El contratista deberá acreditar su adecuación al ENS e  
+implantar las medidas de seguridad correspondientes a la categoría  
+BÁSICA del sistema, conforme  al Real Decreto 311/2022, de 3 de  
+mayo, por el que se regula el Esquema Nacional de Seguridad. La  
+acreditación se realizará mediante la Declaración de Conformidad con  
+el ENS o, en su caso, la Certificación de Conformidad previstas en el  
+artículo 38 de dicho real decreto, que el contratista aportará antes del 
+inicio  de  la  prestación  y  mantendrá  vigente  durante  toda  su 
+ejecución.
+Por último, la solución deberá ser plenamente accesible y cumplir los  
+requisitos de accesibilidad del artículo 5 del Real Decreto 1112/2018,  
+de  7  de  septiembre,  sobre  accesibilidad  de  los  sitios  web  y 
+aplicaciones para dispositivos móviles del sector público, que podrán  
+acreditarse mediante la norma EN 301 549 (que incorpora las pautas  
+WCAG 2.1 nivel AA), con la presunción de conformidad de su artículo  
+6, o equivalente, de modo que cualquier persona pueda utilizar la  
+plataforma de forma sencilla y sin barreras. Para ello, el contratista  
+aportará al Ayuntamiento el informe de revisión de la accesibilidad  
+previsto  en  el  artículo  17  de  dicho  real  decreto  y  la  información 
+necesaria para emitir y actualizar la declaración de accesibilidad de  
+su  artículo  15,  y  realizará  controles  periódicos  que  acrediten  el 
+mantenimiento de estos estándares.
+6. Disponibilidad y SLA (Niveles de Servicio)
+Cód. Validación: 7XCQMADKYXXGSNKY5SZCNLLED 
+Verificación: https://barbate.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 5 de 10 
+
+--- página 6 ---
+La prestación del servicio estará sujeta a un Acuerdo de Nivel de  
+Servicio  (SLA)  que  garantice  la  continuidad  y  calidad  del  sistema 
+mediante indicadores objetivos y medibles.
+Las incidencias se clasificarán en críticas (impiden el funcionamiento  
+de toda la plataforma o de una función esencial: reservas, pagos o  
+control de accesos), graves (afectan a una función no esencial o a un  
+número relevante de personas usuarias) y leves (las restantes). El  
+tiempo máximo de respuesta a una incidencia crítica, entendido como 
+el transcurrido entre su comunicación y el inicio de su atención por un  
+técnico, será de 4 horas dentro del horario de servicio; el licitador  
+podrá ofertar un tiempo inferior conforme al criterio b) de la cláusula  
+décima del PCAP, que será exigible durante la ejecución. El tiempo  
+máximo  de  resolución  de  una  incidencia  crítica  será  de  36  horas 
+naturales  desde  que  se  entienda  recibida  conforme  al  párrafo 
+siguiente, sin perjuicio del tiempo de restablecimiento del servicio  
+(RTO) que rige para la caída total de la plataforma; el de las graves,  
+de 3 días hábiles, y el de las leves, de 10 días hábiles.
+Horario  de  servicio:  de  lunes  a  viernes,  de  8:00  a  20:00  horas, 
+excepto  festivos  nacionales  y  autonómicos.  Las  incidencias  
+comunicadas fuera de ese horario se entenderán recibidas a las 8:00  
+horas del siguiente día hábil, salvo las que supongan la caída total de  
+la plataforma, para las que el contratista dispondrá de un canal de  
+aviso permanente (24 horas, 7 días) con inicio de la atención en un  
+plazo  máximo  de  4  horas  desde  el  aviso,  computadas  de  forma 
+continua, o en el inferior ofertado, y restablecimiento del servicio en  
+el plazo del RTO contado desde ese mismo aviso.
+Disponibilidad:  la  plataforma  estará  disponible,  como  mínimo,  el 
+99,80 % del tiempo en cómputo anual, medido sobre las 24 horas de  
+todos los días del año y excluidas las ventanas de mantenimiento  
+programado comunicadas  con al menos 48 horas de antelación  y  
+realizadas fuera del horario de servicio. El licitador podrá ofertar un  
+porcentaje superior conforme al criterio c) de la cláusula décima del  
+PCAP, que será exigible durante la ejecución. El contratista acreditará  
+la disponibilidad en el informe trimestral de seguimiento a partir de  
+los  registros  de  monitorización  de  la  plataforma,  a  los  que  el 
+Ayuntamiento tendrá acceso.
+Las  tareas  de  mantenimiento  programado  se  realizarán  
+preferentemente en franjas de baja actividad y siempre de forma  
+coordinada con el Ayuntamiento, con el objetivo de reducir al mínimo  
+cualquier interrupción del servicio. Del mismo modo, el contratista  
+deberá  implantar  una  estrategia  de  respaldo  y  recuperación  que 
+Cód. Validación: 7XCQMADKYXXGSNKY5SZCNLLED 
+Verificación: https://barbate.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 6 de 10 
+
+--- página 7 ---
+contemple copias de seguridad periódicas, con una pérdida máxima  
+de datos de 24 horas (RPO ≤ 24 h) y un tiempo de restablecimiento  
+del servicio no superior a 4 horas (RTO ≤ 4 h).
+Para garantizar la transparencia y el control del servicio, el contratista 
+facilitará al Ayuntamiento acceso seguro a la información necesaria  
+para la supervisión del sistema y emitirá  informes trimestrales  de  
+seguimiento que permitan verificar el cumplimiento de los niveles de  
+servicio  comprometidos.  El  incumplimiento  de  los  indicadores  
+establecidos dará lugar a la aplicación de las penalidades previstas en 
+el apartado 10.
+Indicadores principales del SLA:
+• Disponibilidad  mínima  del  sistema:  99,80  %  anual,  o  el 
+porcentaje superior ofertado. 
+• Tiempo máximo de respuesta a incidencias críticas: 4 horas en  
+horario de servicio, o el tiempo inferior ofertado. 
+• Tiempo máximo de resolución de incidencias críticas: 36 horas 
+naturales. 
+• Pérdida máxima de datos (RPO): 24 horas. 
+• Restablecimiento del servicio (RTO): 4 horas como máximo. 
+• Informes trimestrales de seguimiento y cumplimiento.
+Los valores de este apartado son mínimos de obligado cumplimiento.  
+Las proposiciones que oferten un tiempo de respuesta a incidencias  
+críticas superior a 4 horas o una disponibilidad inferior al 99,80 %  
+anual no se ajustarán a las prescripciones técnicas del contrato.
+7. Mantenimiento y soporte
+Obligaciones de mantenimiento y soporte:
+• Mantenimiento  preventivo:  actualizaciones  periódicas  
+(parches  de  seguridad,  nuevas  versiones  de  módulos)  para 
+asegurar estabilidad. El contratista notificará al Ayuntamiento  
+con antelación cada actualización relevante.
+• Mantenimiento correctivo: corrección de defectos y errores  
+detectados durante la operación. El contratista deberá disponer  
+de una herramienta de registro de incidencias y de escalado en  
+función de su prioridad.
+• Mantenimiento  evolutivo: incorporación  de  las  nuevas  
+versiones y funcionalidades de la plataforma y adaptación a los  
+Cód. Validación: 7XCQMADKYXXGSNKY5SZCNLLED 
+Verificación: https://barbate.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 7 de 10 
+
+--- página 8 ---
+cambios normativos y tecnológicos, conforme al apartado 2. Las 
+nuevas funcionalidades o módulos que el Ayuntamiento solicite  
+y no estén comprendidos en el objeto se tramitarán, en su caso,  
+como modificación del contrato conforme a la cláusula vigésima  
+del  PCAP,  a  los  precios  del  contrato  y  sin  nuevos  precios 
+unitarios.
+• Soporte técnico:  atención por teléfono, correo electrónico y  
+herramienta de registro de incidencias en el horario de servicio  
+del apartado 6, sin límite de consultas. El soporte ordinario está  
+incluido en el precio. Las horas adicionales de asistencia técnica  
+especializada ofertadas conforme al criterio d) de la cláusula  
+décima  del  PCAP  (parametrización,  configuración  de  nuevas 
+instalaciones  o  actividades,  informes  a  medida  y  
+acompañamiento  presencial)  se  prestarán  a  petición  de  la 
+Delegación de Deportes dentro de cada año de vigencia del  
+contrato, sin coste y sin que puedan acumularse al siguiente.
+8. Entregables y seguimiento
+El contratista entregará, como mínimo:
+• Manual de usuario y manual de administrador actualizados a la  
+versión en producción, y nota informativa de cada actualización  
+relevante con antelación a su despliegue.
+• Documentación  técnica  de  la  plataforma  (arquitectura,  
+módulos, integraciones, medidas de seguridad y procedimiento  
+de copias y recuperación), entregada al inicio del contrato y  
+actualizada tras cada cambio relevante.
+• Informe  trimestral  de  seguimiento  con  las  incidencias  
+registradas por prioridad, los tiempos de respuesta y resolución, 
+la disponibilidad del periodo, las copias de seguridad realizadas  
+y verificadas, las actualizaciones desplegadas y las horas de  
+formación y de asistencia adicional consumidas.
+• Informe anual de uso de las instalaciones y actividades a partir  
+de  los  datos  del  sistema,  en  el  formato  que  indique  la 
+Delegación de Deportes.
+• Plan de reversión conforme al apartado 4, entregado en los tres  
+primeros meses del contrato y actualizado anualmente.
+Pruebas  y  conformidad:  el  contratista  probará  cada  actualización 
+antes de su puesta en producción y la desplegará con salvaguarda de  
+Cód. Validación: 7XCQMADKYXXGSNKY5SZCNLLED 
+Verificación: https://barbate.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 8 de 10 
+
+--- página 9 ---
+la  versión  anterior,  de  modo  que  pueda  restablecerse  si  la  
+actualización provoca errores. El responsable del contrato verificará  
+con los informes anteriores el cumplimiento de las obligaciones de  
+este pliego a efectos de la conformidad de las facturas mensuales.
+9. Propiedad intelectual y derecho de uso
+El  contratista  garantiza  ser  titular  de  los  derechos  de  propiedad 
+intelectual sobre la plataforma o disponer de la licencia que le habilite 
+para  prestar  el  servicio,  y  lo  acreditará  mediante  declaración 
+responsable antes del inicio de la prestación. El derecho de uso de la  
+plataforma  por  el  Ayuntamiento,  sin  límite  de  usuarios  gestores, 
+instalaciones ni personas usuarias, queda incluido en el precio del  
+servicio durante toda la vigencia del contrato y de sus prórrogas.
+Las  parametrizaciones,  configuraciones  y  desarrollos  realizados  
+específicamente  para  el  Ayuntamiento  durante  la  ejecución  del 
+contrato podrán ser utilizados por este sin limitación; los desarrollos  
+quedan sujetos, además, al artículo 308.1 de la Ley 9/2017, de 8 de  
+noviembre,  de  Contratos  del  Sector  Público.  La  información  y  los 
+datos  contenidos  en  el  sistema  son  en  todo  caso  propiedad  del 
+Ayuntamiento.
+El contratista mantendrá indemne al Ayuntamiento frente a cualquier  
+reclamación  de  terceros  por  infracción  de  derechos  de  propiedad 
+intelectual  o  industrial  relacionada  con  la  plataforma  o  con  los 
+servicios prestados.
+10. Garantía y penalidades
+El plazo  de  garantía  del contrato,  el  régimen  de  penalidades  por 
+incumplimiento de los niveles de servicio y de las demás obligaciones  
+de este pliego y las garantías exigibles son los establecidos en el  
+Pliego de Cláusulas Administrativas Particulares (cuadro resumen y  
+cláusulas  decimoctava  y  vigesimosegunda).  A  los  efectos  de  la 
+cláusula vigesimosegunda del PCAP, el incumplimiento de los niveles  
+mínimos de servicio del apartado 6, de las obligaciones de copias de  
+seguridad y recuperación de los apartados 5 y 6 y de la reversión del  
+apartado 4 tendrá la consideración de cumplimiento defectuoso de la  
+prestación, sin perjuicio de que el incumplimiento de los compromisos  
+ofertados conforme a los criterios b) a e) de la cláusula décima del  
+PCAP constituya incumplimiento de obligación esencial conforme a  
+sus cláusulas 18.3 y 22.2.
+Cód. Validación: 7XCQMADKYXXGSNKY5SZCNLLED 
+Verificación: https://barbate.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 9 de 10 
+
+--- página 10 ---
+11. Precio del servicio
+El  precio  anual  máximo  del  servicio  es  de  1.564,16  euros,  IVA 
+excluido  (3.128,32  euros  por  los  dos  años  de  duración  inicial  del 
+contrato),  y  comprende  todas  las  prestaciones  de  este  pliego: 
+derecho  de  uso  y  alojamiento  de  la  plataforma,  mantenimiento 
+preventivo,  correctivo  y  evolutivo,  soporte  técnico,  copias  de  
+seguridad, formación incluida e informes. El precio de adjudicación se  
+abonará  por  mensualidades  vencidas  conforme  a  la  cláusula  
+decimoctava  del  PCAP,  a  razón  de  una  veinticuatroava  parte  del 
+precio de adjudicación, ajustándose los céntimos de redondeo en la  
+última mensualidad de cada año de vigencia del contrato. La oferta  
+económica se formulará como importe total, IVA excluido, por los dos  
+años  de  duración  inicial  del  contrato,  sin  que  pueda  superar  los 
+3.128,32 euros; el precio anual de adjudicación será la mitad de dicho  
+importe.
+DOCUMENTO FIRMADO ELECTRÓNICAMENTE
+Cód. Validación: 7XCQMADKYXXGSNKY5SZCNLLED 
+Verificación: https://barbate.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 10 de 10 

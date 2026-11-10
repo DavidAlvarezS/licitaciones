@@ -25,159 +25,221 @@
   "intentos": 1
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=chYctSTHTncFoPzHKDm1uWQ8E7hcxM4cVo8jYpgr6lhJupoihlfk4i945d/Zn3bmA4Hih69wBRwfqsVsgvhAr8Tn7dVZavHzPiVY6iVVHitJOVDbGCDM%2BMigrvuVS7Rv": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCA_PAS_515-26_fdo.pdf",
+  "bytes": 865501,
+  "texto": true,
+  "carpeta": "PAS_ARTS_515_26_f03602bb"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=CrjYPdtDxW/cG39FkAgdNbeo84RjdkGiBmIKzTQCj738SFMYvuTE3EiCvsAtoqklAc%2BNI30D3axMMUXQdj2cAcgNAIrLmkQU%2BGCwku66R7QC1/zDIE0Kw/PWNnLS0Z0z": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPTfirmado.pdf",
+  "bytes": 206218,
+  "texto": true,
+  "carpeta": "PAS_ARTS_515_26_f03602bb"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=FJpfFkE3AVvEoD8pBAxbiDEEPdsJocXHvz95dDyaA2y4rDNF3DpTFTfR0PMYM7qx9e5tHJcsVUByL71t2iCD/8phwaqSCHsa3kdaX3ByqhNJOVDbGCDM%2BMigrvuVS7Rv": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_2026-65_PCAP.pdf",
+  "bytes": 1007606,
+  "texto": true,
+  "carpeta": "2026-65_11ae2728"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Kxn7XWR5rgTXqYF06%2BV8ijrUWl9WZyC7Gbv%2BXotXzQn90Sby%2B%2BFv0qorcg5ZcX/WPCinlkOLyMogH6oIb6nRh3b14EKy0mzySXCmJBR7xruB0nvVKRzfe4rpHcnlPhSZ": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_2026-65_PPT.pdf",
+  "bytes": 560498,
+  "texto": true,
+  "carpeta": "2026-65_11ae2728"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=4Ao2ASnTFXS7RYzxeVXBDl9VWgpCIl5zgj068dIn%2BvhhVScN1pk76Xme3aDy2OxbtuefZJA1rGGSR7FEli91Iz6IBALdv3kPHlNiZZw2Ngl45ClyWkoJ44mKM70IFcOu": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_2026-65_ANEXO_MODELOS.docx",
+  "bytes": 734842,
+  "texto": true,
+  "carpeta": "2026-65_11ae2728"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=YDz7PhOijrSV0f7C7pE8fdXwnx6I32mSjs0oXYKeYhoYanh6bp6jaa69HW5YqJC0EL%2BouovpwhzUpTgYs8JaTDPPJNfroqx633zWOObu7Rc//q7NB2iMZvNyf0xrJmjt": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "04_Additional_2026-65_MEMORIA_JUSTIFICATIVA.pdf",
+  "bytes": 577568,
+  "texto": true,
+  "carpeta": "2026-65_11ae2728"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=tvCRBFiTUiUIrbODAeUbsDJrU7BffHmudHtS/Ne7m8lrnEkM%2BDlS3XyHeA3qchzhnRjBu8QNVOjBKTVTLgZimUu74f01CdfmlWcw/sAlOAV45ClyWkoJ44mKM70IFcOu": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_176274-PliegodeClusulasAdmini-001002PCA_STD_CA.pdf",
+  "bytes": 986972,
+  "texto": true,
+  "carpeta": "SFC_2026_059_9c2f5bc7"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=aQrwLl7fYwnUaQtREc0Y0hj8Fsmii95FHbihVGNEkDSnSPSpA7rGCLcmKRR1oGrlWM56BECikfF/%2BauzyX15zgQP0pXpLrvA5bZYNWmlUBw//q7NB2iMZvNyf0xrJmjt": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_176275-PliegodePrescripciones-001002PPT_STD_CA.pdf",
+  "bytes": 461462,
+  "texto": true,
+  "carpeta": "SFC_2026_059_9c2f5bc7"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=GoXCmJYSrLT0q3JYryhpS/eXXKBqn/O7mPe5lt6MUJrEY9G3s8u6v1Q/4b/nYMaUNO6SRH3f8ELI%2Bf2S9ek1EYdpNF75jWZN7XkTtLWIG82B0nvVKRzfe4rpHcnlPhSZ": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCA_renovacion_mantenimiento_soporte_AP-OP_Manager.pdf",
+  "bytes": 692765,
+  "texto": true,
+  "carpeta": "A33-1126_caaf4570"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=tD0hUBJhiP8eKGTk8QkQ/MOoMXezEGwpvUl4xocXVuOOH0Y8nDHJcms4ikAu2oUoBEs8Pynh7uM4dppbqDSBroStHUuHbkMzSfuI9/rr5fD3GVhXrFFqN7yFncy7YfRK": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT_renovacion_mantenimiento_soporte_AP-OP_Manager.pdf",
+  "bytes": 836620,
+  "texto": true,
+  "carpeta": "A33-1126_caaf4570"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=5trGNMvFBUDDNc06hSYkZ9P61/jFZhN6g5b3TkQ4dwVG1oVq3X3vnNsgsoPbqAHMQzu9fZdJPQOVdNvLtRUHpPZnzCuE6uljiA6BY4Dw33GB0nvVKRzfe4rpHcnlPhSZ": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_Anexos_editables.zip",
+  "bytes": 481155,
+  "texto": false,
+  "carpeta": "A33-1126_caaf4570"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=AwLMGWrAHBVFVAmiUGTdiqekLY6TNIEwQu9m%2B7QtxLXKDWu4uQxC8ovFugAMBRcDcaT%2BdeO4yxlnCLKAv6aax2q6Jb8bydjU3oA2zZci4oP6CYyL7SIrUOBFfNf52ZqA": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_8-PCAP.pdf",
+  "bytes": 981949,
+  "texto": true,
+  "carpeta": "6942_2026_a1b912e4"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=SApIXx7KdsW0Y9yOMgxw4xpPsHWCcjZ4vCL8HNz4FSduPjKIdP9w1jREE5smbe1WPf1b1QAxT2hbeG/DdTLYI5uGtsfNtNUWzXAJPZfrHli1aXEvq3KHa/AEHgtDrQw0": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_9-PPT.pdf",
+  "bytes": 401774,
+  "texto": true,
+  "carpeta": "6942_2026_a1b912e4"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=gQcGMGxKQ2xKyPghs7nOguFovULDjIk%2BKfyXnGSRdg3S%2B2VB1fVMKI/UWi%2BvTLCSFhOphXTrsjeu/yA968gspT9eZ/JPLtZB6tF8TgyZIgZ45ClyWkoJ44mKM70IFcOu": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_2026-P200_PCAP.pdf",
+  "bytes": 1125626,
+  "texto": true,
+  "carpeta": "2026-P200_a79ba4b7"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=kX/V19/Fz/bG1kAt6GFelnXzIgznY4CZGIlOx55LmsnYhHbGY%2BojTQpMZ1FmDPVv2X%2BBxmai3zBsfV8e3Kibpyf9oLfKr1PTgohsdkImfDeB0nvVKRzfe4rpHcnlPhSZ": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_2026-P200_PPT.bin",
+  "bytes": 11567799,
+  "texto": false,
+  "carpeta": "2026-P200_a79ba4b7"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Lt9UbRvue8SYt0rdP4%2BfEKbrHZ2qmxiuW7lKF5K/URB%2BxfTwoCutcZ2sAS0MRLK1s9%2BA2/mi2dJFyaUpE/gKIPZRVysHX9J114vZjpgP0Um1aXEvq3KHa/AEHgtDrQw0": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_2026-P200_DEUC.zip",
+  "bytes": 84506,
+  "texto": false,
+  "carpeta": "2026-P200_a79ba4b7"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Pf2sd4ol%2B9grRwEhXuDilRNVdnSSKvZZPUZKlJn7ObOO6WjAgM8UrRW12d0g/d/3En870lsj1bzzR3rkdamEHOaxWIrmbMGbPgfKHmqYxpA//q7NB2iMZvNyf0xrJmjt": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP.pdf",
+  "bytes": 2931282,
+  "texto": true,
+  "carpeta": "236_2026_807df78a"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=c0NKfpp6LsV9tB641aQJ1tBAHhJECinY96vJ6BnFQJVFsZh16sxgqyLbuReF8ObD2I64ZrPz6sRhknSELHtP4dVawNCnOACL8M9yaCIUrnxt/o8fNevwsujgRzaBbugn": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT.pdf",
+  "bytes": 210283,
+  "texto": true,
+  "carpeta": "236_2026_807df78a"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Ta1Lsc9RUoHf6O4qvzTnIfjgMfwKQTN/lOLqoVR1VJQarFZ3UvPDiqD9eu0bEljPw2lBc%2By8dZbfQo3H5QZAGnzNUfEcQixxq2Qt/LU1MHZJOVDbGCDM%2BMigrvuVS7Rv": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_Anexos_Sobre_1.docx",
+  "bytes": 1275679,
+  "texto": true,
+  "carpeta": "236_2026_807df78a"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=iAdQZHHRerw66EyIYB87PWd3IsoMkd0xG1a%2BtDeeEojgsxsbHfYUxOPaeLVi/V6Z%2BiCZRXM0NpPLMhV42JHgtW6e5oaykOAoE38HTSfbUq33GVhXrFFqN7yFncy7YfRK": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "04_Additional_Anexos_propuesto_adjudicatario.docx",
+  "bytes": 1271256,
+  "texto": true,
+  "carpeta": "236_2026_807df78a"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=3gL9RjUyhvEQt%2BDyycIjcL%2B2aO8jEcMW8NjVRDA7LTo/5gJBoGaxwnGYS/l2t8cXQnF%2B6ssNufoJNQde3%2BFDUpDOPDpi54ZgRYGRorOP7%2BZ45ClyWkoJ44mKM70IFcOu": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "05_Additional_Anexos_Sobre_3.docx",
+  "bytes": 1260281,
+  "texto": true,
+  "carpeta": "236_2026_807df78a"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=mlyhHThAZzZgdGksQJuauUYt%2BNiPFaj797DDctB9ZxMJsApunqpXk1DJE9b6GTnV4i22BOSznHqeIAFuBWvhCSbnoQ0sAPxw/gUYiemSJw0//q7NB2iMZvNyf0xrJmjt": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP.pdf",
+  "bytes": 1635663,
+  "texto": true,
+  "carpeta": "55027_2026_49c4f5b7"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=lIWKop0FieoGcEADg0tdLSu9Mpu9TCujGfTxmlfpYJfZN0GbEihw5ZAGRkmrDkn/k8btmH61DTauvOz0pRbn7PwudrBzsFvGmZMAXYzNID21aXEvq3KHa/AEHgtDrQw0": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT.pdf",
+  "bytes": 400349,
+  "texto": true,
+  "carpeta": "55027_2026_49c4f5b7"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=UKN6FB%2Bpg9jpnEu1O2v%2Bblr1MkCLBnCQyHYBIIQ0yPDEf8s8Ja6F8SzIgTOUqbtIId7bQ5sycgQsRDFjU0eyY7rKhldWBBiE24spi6r/LVT3GVhXrFFqN7yFncy7YfRK": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_CCC.pdf",
+  "bytes": 746218,
+  "texto": true,
+  "carpeta": "55027_2026_49c4f5b7"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=kIsU/s1YGFZG4ZLChxO4F7h16cAd01GjZCC6cn9UFTWKlImYVB6hzJbfj88OFRBv0csPVV%2BwFOwQnaBZTWw3aNlZNo8EPv%2B09zwGd/8aZKBJOVDbGCDM%2BMigrvuVS7Rv": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_1000630-PliegodeClusulasAdministr-001003PCA_OE.pdf",
+  "bytes": 664229,
+  "texto": true,
+  "carpeta": "26_031_SR_RR_ASS_AB11_8e724327"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=GDsXQcodSThc4QEZ0rwqzBYp7visVaUX3DXXtKV8b4Upp6WASJcM0z1WSZmeLyI5ch3es65cKaNCUEtMRbArLecplsx5nrMuKGbcs2aKUjVt/o8fNevwsujgRzaBbugn": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_1000083-PliegodePrescripcionesTcn-001003PPT_OE.pdf",
+  "bytes": 462879,
+  "texto": true,
+  "carpeta": "26_031_SR_RR_ASS_AB11_8e724327"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=/6wtNT569FI96iSjmXRhZSVctZa28qsfgcpfRQHj4FQGxEh4v3o4l4tqj/JIs4wWDA9RlzBe22t2%2BZ0f4wMgtVYmeyz91cccbkMjs78QMUl7QB3HKyQaFUExmUVQCerk": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP_Pagina_web.pdf",
+  "bytes": 772525,
+  "texto": true,
+  "carpeta": "1725997T_2620ead1"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=h3ernJNaaJ8e602LnWH3/3f2Qam/tU041Wh0XQYQgclXE%2BxBNjvmw6Y0pevYG4sqSiv40RvL/ro/UFNVBbQkLBnY8gb2WmujZRapEQ7uRkvDdQD9RyhUmzT4jZ2In4zL": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT_pagina_web.pdf",
+  "bytes": 437333,
+  "texto": true,
+  "carpeta": "1725997T_2620ead1"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=w4gFSMDcXsKOcuVlHOngXmW8hJrv7h1k9zJMzt0Kmn/v7Sc1xxFhbWJEolnAbUNLM0Wxy4731rP%2BJe/9eugcL4kX585l2GC17NEyhWk74x8C1/zDIE0Kw/PWNnLS0Z0z": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_2341XI_PCAPCV_BIB_2026_02.pdf",
+  "bytes": 1047280,
+  "texto": true,
+  "carpeta": "CV_BIB_2026_02_5a00f19b"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=xCLyg4/vLZqOkTj6bGY9gmgXl744ooWIY6MfG6BpqSorbZP%2BZIzuOD7w0wEQYbwV48ONv2aLcQ6iO%2BOBY6bvSrfoIWIFOJGQ1i1M0rtPS6xt/o8fNevwsujgRzaBbugn": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_2341XI_PPTCV_BIB_2026_02.pdf",
+  "bytes": 560975,
+  "texto": true,
+  "carpeta": "CV_BIB_2026_02_5a00f19b"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=49Z7Ll4tyfHDOQwd8K36ttDQVYvQbdi%2BilkfmNRkyYb%2BZYmtGuilCQnLctYXOoVq7jnZd%2BK0xxhSmNa1O3tHwYq%2BeN67rmbm6/Ylzn%2BO4IuB0nvVKRzfe4rpHcnlPhSZ": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_ANEXOS_CVBIB_2026_02.zip",
+  "bytes": 175048,
+  "texto": false,
+  "carpeta": "CV_BIB_2026_02_5a00f19b"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=BWC5/o/bnqd693JaJU5ugdgAaRZ4S2pw9o1%2B80sHTFLMeePNgwMkTAz9gHhKrn/8bzd%2BCjojMkSUagMr9BBDviH2pOrZ1nJblc2bb7IfFRbVTD3T98KC0nSgQFM0q%2B5s": {
   "estado": "error",
@@ -210,454 +272,630 @@
   "intentos": 1
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=IXaW0nbyp6O8JPZlbvXoHSY/untCl1AVVo8vb9zEl5zfjIfE/Bbgggo0m1Ms8xhyWoPdxfONHd0/6UrfQkKkhHkfUn6N93oeYriEXj0AZB/3GVhXrFFqN7yFncy7YfRK": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_A2026_006862_PCAP_Definitivo.pdf",
+  "bytes": 947866,
+  "texto": true,
+  "carpeta": "A2026_006862_3184322c"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=DlGhAvezVswNFhg9CT0EGLIR9tEc91P8PH%2BvWgWCgzxNYbnkAwcbUOW8s1LrR4qBRfYRVF7%2BlAviyxcyoQK2o%2BAuM1VE40fcMl9ol1H84m0C1/zDIE0Kw/PWNnLS0Z0z": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_Pliego_prescripciones_tecnicas_-_PPT_v004.pdf",
+  "bytes": 379244,
+  "texto": true,
+  "carpeta": "A2026_006862_3184322c"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Q6DFJeJXdIf4c4cbRnW5PY2VIe/30%2ByVy89lNiZhnHH9ouDr91Oy2Qj1pIwBUKjMvCfg57ZmvGMaXkMbP%2B44K67cPIr8FplTqZzuEC0sNiR45ClyWkoJ44mKM70IFcOu": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP.pdf",
+  "bytes": 417593,
+  "texto": true,
+  "carpeta": "202600000260_ebc25d04"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Bs6/kiIOG7QMmdJSFFhqGc3Wt6nJ1432PRPNvyt3r7dGrmiL/ppkkjqhS8CEidQssR5m2GKLb0i2z3qsPbnOQgY%2BNbDppqq/UiodT4qET%2Bq1aXEvq3KHa/AEHgtDrQw0": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_report_PLIEGO_PRESCRIPCIONES_TECNICAS.pdf",
+  "bytes": 260307,
+  "texto": true,
+  "carpeta": "202600000260_ebc25d04"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=AOGtND1pET/D7zoygPXk6oMLRMEfmKFrF1eDHV91cvj4E06oky%2BpVBKyhWDdvdtY9tskoX2Tugsuyila7edvPOTQTPYQ5S7%2BTqLyHHJMDCw//q7NB2iMZvNyf0xrJmjt": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_ANEXO1PCAPFIRM.pdf",
+  "bytes": 365468,
+  "texto": true,
+  "carpeta": "202600000260_ebc25d04"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=s1AczSi%2B4SHX8dtvsum5Q3Jgq4oL2eGeC8c4ypxWRG0ELKA5vQoJUgpGKtYj2Ery4zZkC2YxgCiAc797ovJ2YVhtxO8DdI74MO0GU/jbMLS1aXEvq3KHa/AEHgtDrQw0": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "04_Additional_DEUC_202600000260.zip",
+  "bytes": 85359,
+  "texto": false,
+  "carpeta": "202600000260_ebc25d04"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=pMObz5Kgw1At71yQatc/l3pZZwoaNABrj9If/yFIvmcpc3CkBaYZppmtxiD34bwoiyfx99nKKDCTCeaLW7qr1rOGU9BlLMdcUXV4XuNKeCfVTD3T98KC0nSgQFM0q%2B5s": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_3411088-PliegodeCondicionesPa-001012PCA_STD_CA.pdf",
+  "bytes": 1992203,
+  "texto": true,
+  "carpeta": "032-2026-0290_5ab423f6"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=YbTDMAP2Cwt1w82zJ98bjmHswfp3I3F5%2BdHJq7NG%2BDDKm%2B%2Bcs7Kzj3L6GBj6ZstCC1WBj1bntcB80WYajwO6VNGerCCfcT/p%2BpqhCUCM5aqHAj0WEJrB5sP7amrh2jBD": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_3378449--032-2026-0290PPTFormacion_inmersiva_C.pdf",
+  "bytes": 883178,
+  "texto": true,
+  "carpeta": "032-2026-0290_5ab423f6"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=dZzm2LCU%2BhyQM/IdWrHgXLN7MYO/iWiLBnmnl46fPBllk8Jj0z1BAdz2vu/kZa0V%2B0q4IuHvK9RaZ3%2B18XS4mTCoVYNG0JDYiII%2BmfXVlLmHAj0WEJrB5sP7amrh2jBD": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP_CCP_SUMINISTROS.pdf",
+  "bytes": 429928,
+  "texto": true,
+  "carpeta": "ABR_SMPL_SUMIN_2026000047_366746f8"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=9QqTPnBZ0dXsclbUZo7%2B2/MnXDKZV8k67HvJI7ydtYg8NoLUeDCcYMyUohVx/eXrSVCyGhW/ulxtX24T%2BNn6MJIQPjg6XdEBIrj4LKbjIeQC1/zDIE0Kw/PWNnLS0Z0z": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_Pliego_de_prescripciones_tecnicas_1F.pdf",
+  "bytes": 170218,
+  "texto": true,
+  "carpeta": "ABR_SMPL_SUMIN_2026000047_366746f8"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=J9u/yd16g4mGNDJAX43x0PD/SXLYhSSAR0s6%2BGyNHhdedeGd/bfZ/HNqt63VABe2ABhfSr4HZvXyQUP4gep2g%2BivqMqbS3DLAQD0vHHt3kTVTD3T98KC0nSgQFM0q%2B5s": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_Memoria_Justificativa_1F.pdf",
+  "bytes": 211784,
+  "texto": true,
+  "carpeta": "ABR_SMPL_SUMIN_2026000047_366746f8"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=30iscyo934jvCcyPdUjlNcrgEiLRzRmx/v0/86XOEkl1foayV%2BF23sIFFRrLCQVHewt31ZSR9en1/o0GC4bln1uGkS5LiUeyWgIS8W5JdlhJOVDbGCDM%2BMigrvuVS7Rv": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "04_Additional_Resolucion_aprob_pliego_y_gasto.pdf",
+  "bytes": 343076,
+  "texto": true,
+  "carpeta": "ABR_SMPL_SUMIN_2026000047_366746f8"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=psKtnRMixVHB4LOxzoJbytagJZANUPP4/BCRkKrpOwGeKCTioNEBpMOSz2/FgCqu/SFGN87WoCG1GvcIqscbixV1H/rMjoX9ksoin8x8V/SB0nvVKRzfe4rpHcnlPhSZ": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "05_Additional_Pliego_tipo_de_suministros.pdf",
+  "bytes": 1475863,
+  "texto": true,
+  "carpeta": "ABR_SMPL_SUMIN_2026000047_366746f8"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=N0NeduyZ/nhkP473HXJIYcxL3nZ8e83/gR1CH2pzWfvsOsGv4wg8ABNtEBuZavRZuc3YpBoD5HHGCxyYzVdbznTOwdAuC0Lk/0POVEU19%2BjVTD3T98KC0nSgQFM0q%2B5s": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "06_Additional_A0_Modelo_Datos_Empresa_Notificaciones.docx",
+  "bytes": 38513,
+  "texto": true,
+  "carpeta": "ABR_SMPL_SUMIN_2026000047_366746f8"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=njpMz/NmzOeBRQckJr6muOAffdIv6%2BWxaT0lEnehm4hGMm5vWyZqz2SF%2BiSw2Ikgc9s2eJAGf1Ptm6DR6AQuW8%2BzTCbi99zo/U7j7FVy1gk//q7NB2iMZvNyf0xrJmjt": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "07_Additional_Anexo_IV.docx",
+  "bytes": 152060,
+  "texto": true,
+  "carpeta": "ABR_SMPL_SUMIN_2026000047_366746f8"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=w3BvdXw/E7ybK5xx867N7OGZ9N3BpDGgHSYJY/grEd5S8r/LRkWOf3mgxBauY1yYFrlFVTIrj/UGkb%2B9iFLgWbmuTGdYAROFkuqT4qKgmyhJOVDbGCDM%2BMigrvuVS7Rv": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "08_Additional_ANEXO_I.docx",
+  "bytes": 152025,
+  "texto": true,
+  "carpeta": "ABR_SMPL_SUMIN_2026000047_366746f8"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=nEKExop703lVKSp8fdkyZQug7gvpyLPaQPGHTzx7Z3Mj1dAp7tEgakCsvlq6t34LjG3xU6GTFb/L1H3XIgrl3sgzAE3HJ9lXNGW9ZbHyatGHAj0WEJrB5sP7amrh2jBD": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "09_Additional_Anexo_II_A_y_II_B.docx",
+  "bytes": 156137,
+  "texto": true,
+  "carpeta": "ABR_SMPL_SUMIN_2026000047_366746f8"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=gnbrxHkvRuMheGylkbAURCxw8RPbspQRDDv8CdDSPxQabUTH5XS0uZWasDZ5KdaoT/Rm76gighQJYGu%2BokTZPKoiM%2B%2BlpaXZPDoN06Fh/bX3GVhXrFFqN7yFncy7YfRK": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "10_Additional_Anexo_VIII_Subcontratacion.docx",
+  "bytes": 152607,
+  "texto": true,
+  "carpeta": "ABR_SMPL_SUMIN_2026000047_366746f8"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=CozDMF4PSDg%2Bg6VcYihGvRYXwNLsKJ1VxyuYwW6s74s3Ylbt2QewWlySZfRzohvrJLNXE9J6cmG%2BMN60TDfIDe14T9imfBqDXmV8j0aN8jVJOVDbGCDM%2BMigrvuVS7Rv": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PA_9_2027_PCAP.pdf",
+  "bytes": 1379878,
+  "texto": true,
+  "carpeta": "PA_9_2027_12f8252d"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=phtqDLeL90EHApkM6p35UY22gfknzm1o8BwyMIPCdeLVlqWk2BiniMvDGecxvlqvQ9bs9qWY4wdQ9JaE0RdOAWRh8MVsml0ohDw5tUYee32Cx2e6p7hqtlp2aFupgHMr": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PA_9_2027_PPT.pdf",
+  "bytes": 268892,
+  "texto": true,
+  "carpeta": "PA_9_2027_12f8252d"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Pq/KuKa20LwA3p76pICamLMLzzwN1twa83A65YsYf/djx%2B2KIYc70mAhWpaHqmSW2n6jCb5jlXdidjgPlDg965zPsxuuIY3EugyOnpd90mgZyAJWGsSt0OzTSTyw9JAs": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_370336-PliegodeClusulasAdmini-001001PCA_STD_CA.pdf",
+  "bytes": 838250,
+  "texto": true,
+  "carpeta": "2027-S-10_3c80a1f3"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=eQi9%2BuaOBy5XgxNSEV7goeyOK5ooc6FC9UDSnTDSMImQmirnglJWiLppZ6w1%2BdPaMKQF21EejfUUhzidGZw%2BT1KUsVfnXzPhq/55uQpUWYDVTD3T98KC0nSgQFM0q%2B5s": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_370344-PliegodePrescripciones-001001PPT_STD_CA.pdf",
+  "bytes": 228648,
+  "texto": true,
+  "carpeta": "2027-S-10_3c80a1f3"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=7BdzDWwA4EBv0dTHy2gXTPZUeZxvIgV4%2Bgi5cBmSdlM4UyK6mLfBgMzLkR0x0%2BerCq8UhSMOUx%2B03uuwlnM4LzJCduLGu6HCFaUUl%2BjoWe61aXEvq3KHa/AEHgtDrQw0": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_anexos_pliegos.zip",
+  "bytes": 288087,
+  "texto": false,
+  "carpeta": "2027-S-10_3c80a1f3"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=YjFBtdqwBDUMNViL336p5JE8t1fze5Ya%2BmgiTRDLCXfLKvLiWaBSV2RsjH4RFyyqrRCTTzJvm5KiYtgLo0ClV6maRtaZFGYCDhnBYtbaMKFt/o8fNevwsujgRzaBbugn": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_05_PCAP_software_hardware_SE027_2026_mod.pdf",
+  "bytes": 574893,
+  "texto": true,
+  "carpeta": "SE027_2026_cab2e0d3"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=g82k0vq7qeTKvRRldpPvKJDUYirDr3BsPEZkxO3z9H9Ohkv6p%2B64UhahxvqoNoBL0fVPwL/enzdQ6t9e/O7Q%2Bli3oBBlacUzASQsotbh%2BzIC1/zDIE0Kw/PWNnLS0Z0z": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT_software_y_hardware_seguridad_SE027_2026.pdf",
+  "bytes": 167864,
+  "texto": true,
+  "carpeta": "SE027_2026_cab2e0d3"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=d7NgjVc0VNcf3H6TNNAAdr3Glhj3KpFqwtMY6AjCj2MqjoK45jmcluyH9TZmfbhtiBoAUqTevuBM8mf8BWHFDpekLnLTzarX2n3PD%2Ba2oLffdyQgZAdTm3EfcUAC7CJ6": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_ANEXOS_PCAP_software_y_hardware_seguridad_SE027_20.pdf",
+  "bytes": 1147498,
+  "texto": true,
+  "carpeta": "SE027_2026_cab2e0d3"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=gbDvrXeyAywq9VY3bvkQA%2BLA0fkDdsMRa5n2jmcscyAi%2BhnhRxuP9pWQpQOeDMasMK0lTg200DShDLi0V6FLVhPuOgfm6okFu3hU0XBOuQr6CYyL7SIrUOBFfNf52ZqA": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_Pliego_de_Clausulas_Administrativas_Particulares_D.pdf",
+  "bytes": 557023,
+  "texto": true,
+  "carpeta": "SERV-E-PA-60-2026_aaf6e6fa"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=QpWjEKLlg6LKtBxo4zg2LxBB8dgyzi0gcVzmXGzNDm7vEyiLCwSl1cy6m7y6fj95zYblw32I5bHSIlTdW6/IxtnuIVW0YMfgUT%2B3JyBM/rg//q7NB2iMZvNyf0xrJmjt": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT_Doble_factor_FEDER.pdf",
+  "bytes": 287878,
+  "texto": true,
+  "carpeta": "SERV-E-PA-60-2026_aaf6e6fa"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=FZJMNZcey3xG/kVX7sg3WLH8UyTu7CE4PllvgvYTyN/xADEVOCjMTL4NS4K5bumwCkz4O%2BUPbeWnC0Ftk%2BOiKH6GZxHAe/OXilc3fcDIp5/VTD3T98KC0nSgQFM0q%2B5s": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_1808315-Pliegodeclausulasadmi-001001PCA_STD_CA.pdf",
+  "bytes": 1104308,
+  "texto": true,
+  "carpeta": "00167-2026_b7d50a20"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=N/ksm9%2B5g/hA6Y4pgF9yeN2x9aXa8xbCMhzJb3n727TP9te3R5eakUhf%2Bb5nlGaofU0AJDTFu392jzBb1oovzaVw%2BE/CBHNFqzl9bcvl6VSCx2e6p7hqtlp2aFupgHMr": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_1808316-PliegodePrescripcione-001001PPT_STD_CA.pdf",
+  "bytes": 283156,
+  "texto": true,
+  "carpeta": "00167-2026_b7d50a20"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=vg%2BjVyZd5DUxb5NywS0FGeZloHme34Mt4RLYLiTPZiy02RZSyNCtVZKmiJhU0ILjp/vb1PkCKwRkV5fUek0rWOTiLRj/vooXVDdOXvY9bYSB0nvVKRzfe4rpHcnlPhSZ": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP_Aplicacion_nominas.pdf",
+  "bytes": 1057705,
+  "texto": true,
+  "carpeta": "611_2026_ee78b60a"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Xnm6Bpt25R1sKtarcKIkYosGqpkzbkgDJrQQtwyo1lr9ccMot%2BcHjxkESQHRgABFcGRxlIu%2BatIE0u0vnkJOIdT2L3yBMN6ya/1T7b/nuhLDdQD9RyhUmzT4jZ2In4zL": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT_Aplicacion_nominas.pdf",
+  "bytes": 1183697,
+  "texto": true,
+  "carpeta": "611_2026_ee78b60a"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=StzowPDm6RaLubg4xANafyyXlZgPWu6/a2RVltf7ebOg9bsLkZ9qEYWSE8demfrPgoS7Y2i9HLVYrE%2BEqQwsTiM3z1Xvd7gGvYcT7D4QHht7QB3HKyQaFUExmUVQCerk": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_SERVICIOS_PASA_PCAP_1F.pdf",
+  "bytes": 437981,
+  "texto": true,
+  "carpeta": "2026000073_AYTO_SERV_ABR_SP_SMPL_3a1a5a70"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=AP1wUx6kjxJhQdUv9wSZNyWjE48p2PVXACRRvO7LGYO%2BmbJBM3yGTDMoU5900Pt/8gHu5vVmvonjwURavj23ze8pcKdbEoWu/go77kpV4KyB0nvVKRzfe4rpHcnlPhSZ": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT_Servicios_1F.pdf",
+  "bytes": 227897,
+  "texto": true,
+  "carpeta": "2026000073_AYTO_SERV_ABR_SP_SMPL_3a1a5a70"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=phq4DMCjufyPjcrdAgI2%2BZ5BI%2BKA3UvqpZrbhLBShgIYoGXfs6CxOnembTFUoaCT8B4SUptsDeT4w5C5jNjUjzxFqWds7tAd4pDMR0jVnvUC1/zDIE0Kw/PWNnLS0Z0z": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_SERVICIOS_PASA_Anexos_2_a_5.pdf",
+  "bytes": 213856,
+  "texto": true,
+  "carpeta": "2026000073_AYTO_SERV_ABR_SP_SMPL_3a1a5a70"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=qSTgo2owZVbZ/dqdFZm%2BPkBQYaEL25mbgXvRI3VWg4WV1kuokavqRzosq2x6X8IOrvuH3qRYhVNGqPy6uziG6WZJxCBK/VbvcH5VqbapWlYZyAJWGsSt0OzTSTyw9JAs": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "04_Additional_Anexo_1_tras_informe_de_Intervencion.pdf",
+  "bytes": 358178,
+  "texto": true,
+  "carpeta": "2026000073_AYTO_SERV_ABR_SP_SMPL_3a1a5a70"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=3ZXjyXajisQB1f1OIjq9ibviE8LqC4pKPLrDVGn/7gUPC8W1Rl%2BoiZeNL29JqX53LcxhOdvNrgj2Lb1dd7lWtxPRcODR1mXkTFlNKfHtlxoZyAJWGsSt0OzTSTyw9JAs": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_CCP_DEMA_2026_045.pdf",
+  "bytes": 419553,
+  "texto": true,
+  "carpeta": "DEMA-2026-045_a6112cf7"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=%2Bql77iDsUcVfA%2Boiy8PKS/8fsAlsY%2BzGQovDthezbsDjsdb%2BcigqhbeBCsANFyTnlXcDLDp/JNvkrFz9NtvUjuyXMfLoZtgXMKcRXZMSseT3GVhXrFFqN7yFncy7YfRK": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT_DEMA_2026_045.pdf",
+  "bytes": 400206,
+  "texto": true,
+  "carpeta": "DEMA-2026-045_a6112cf7"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=zNjkq8sElEK8Hp8XCp8XAvmShRp7vKcx/g5TTwSQR2bGpTFo2bvdf/BvRzAzG0kAahpVXJqRFdmlJlT7MKsn7bSmb2z6qbBJhT6JjVUryWd45ClyWkoJ44mKM70IFcOu": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_Anexos.docx",
+  "bytes": 78586,
+  "texto": true,
+  "carpeta": "DEMA-2026-045_a6112cf7"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=f8p2J8SBg1AUCIAjve20vxxthBaPy7E7aYyK6K3QGj9tWQK/vfDe0AEhNyNamUGqY5O95itV8ku4yC%2Ba4JxQG%2BXteBSKEN%2BrUQIuInAgqd3fdyQgZAdTm3EfcUAC7CJ6": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_4363994-Pliegodeclausulasadmi-001001PCA_STD_CA.pdf",
+  "bytes": 615662,
+  "texto": true,
+  "carpeta": "606_26_0610a73b"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=XiSbF7w1BGN4Lh8nfw/ApSV%2BvuJ7BiS1okg4tik9f7DuYxDpkTTU3YYKjaEPzO5DLtb56I4b5vkBtH7w4rXWhyrUwK5POUFxEaMdCR7cw3YC1/zDIE0Kw/PWNnLS0Z0z": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_4363362-PliegodePrescripcione-001001PPT_STD_OE.pdf",
+  "bytes": 242119,
+  "texto": true,
+  "carpeta": "606_26_0610a73b"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=9dJJGAQWeLvUvt9yL1H%2BHFymOFFEZuCQOKW0fb1QYeHECQ4LKtnHCFFpDYcUlhpV9l9VBj3IHijTQUOQC6AOALcJHRY8qWHvt9iDIW1Ct9t7QB3HKyQaFUExmUVQCerk": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP_servicio_admon_electronica.pdf",
+  "bytes": 800478,
+  "texto": true,
+  "carpeta": "23_2026_efbf6e54"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Dg1QrP8VtyF76ndnASg5vRKr%2BrxdLPgRJpFMkYFAQHMBr3CfBTKsYcNXdlPf5pc2i8ssfEVOBbagIRPfq79AwTS0iE0Bf5ze9dTHJu4w8fqHAj0WEJrB5sP7amrh2jBD": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT_servicio_admon_electronica.pdf",
+  "bytes": 311218,
+  "texto": true,
+  "carpeta": "23_2026_efbf6e54"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=/UenCrt1%2BgxIeomHUgwLALvlNRSUiFjTAmslZ%2BAwJLaojh%2Ba9lVK4ROtiBCeaWdQa5Lai1wGFKoeFl9OkueiaQTmIIozz8iY39hufnJytV545ClyWkoJ44mKM70IFcOu": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP_SCAE_Exp_26-768_v2.pdf",
+  "bytes": 1095826,
+  "texto": true,
+  "carpeta": "26-768_0f94a4a9"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=UIUoH0plANh%2BRMu1KLMNcDhbV8FVwSdraoe/Te4IKJUBFLtAKtig/zEtgkVkHfaTgNkSSDl5JFT8jEzyXgcaWl%2BQUQG%2Bwr7DFGiHwal/jT73GVhXrFFqN7yFncy7YfRK": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPTP_SCAE_Exp_26-768_v2.pdf",
+  "bytes": 192274,
+  "texto": true,
+  "carpeta": "26-768_0f94a4a9"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=J5JhKDh4A95x6owCD8YUI3e9H7rHaRnq4ANpU0hc%2BayJgfqzqtowA4Id18UTDp6pZ2mnLEF1xkeyZPcrkhXmZs8tPRpYXgnGJhGFLb0i5XeB0nvVKRzfe4rpHcnlPhSZ": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_03_PLIEGO_CLAUSULAS_ADMINISTRATIVAS.pdf",
+  "bytes": 619188,
+  "texto": true,
+  "carpeta": "SUM015_2026_b84c02cc"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=4SkProNXk53BA0IkirQ7pcW6XAfuRdy0mW6w09ztMC7a6hTyJEkwbbTNoANiKyA/Rjgg35AoO%2BhmzuTenVAENVUxpg509xAMO1GzVsSuTHd45ClyWkoJ44mKM70IFcOu": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_04_PLIEGO_DE_PRESCRIPCIONES_TECNICAS.pdf",
+  "bytes": 258002,
+  "texto": true,
+  "carpeta": "SUM015_2026_b84c02cc"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=V78H0m/uFpzvK1fFWOyte5UUA5Sr1hizgC9ZrXrqTGtLIxJ%2Bck48Bksa86mpk8Bwa7CRf5s0xXwik1KCxDtNDoaRI5vrt%2BTfBYDfRv63gcpJOVDbGCDM%2BMigrvuVS7Rv": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP.pdf",
+  "bytes": 584538,
+  "texto": true,
+  "carpeta": "1923071H_142db2b1"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=iihMolmGp1UbQTLVg4QASfWVeWOoYIrPOWEnTanHafJwLrp1owU6dfqNWTGnxNJef8d4aWFaRslSUqRLgWcTBdGHzKJX%2BB3Hp88Y7ciWSW3fdyQgZAdTm3EfcUAC7CJ6": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT.pdf",
+  "bytes": 537747,
+  "texto": true,
+  "carpeta": "1923071H_142db2b1"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=ueXSlqLHrjuDQ3uIDi8v7/e3YATxK45%2BVTsFsG3nuJyMZxjaAf2zkMCDL5PU3%2BheJd6CUn7QxfFXrwMP4h2a0qlE7mEHrJezrrnR89PdY7A//q7NB2iMZvNyf0xrJmjt": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_Anexo_II.doc",
+  "bytes": 30720,
+  "texto": false,
+  "carpeta": "1923071H_142db2b1"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=j5f0/cKoxDBXCTt3eEaeZj8bMGFnPcwfBmatpobc2sQ7QWp%2B%2B26tUPoQr77cgG1RZBGVClTBCJd6rHhngvG5YqE4WVpR7izR9Kj73W1TIU1JOVDbGCDM%2BMigrvuVS7Rv": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "04_Additional_Anexo_I.doc",
+  "bytes": 81408,
+  "texto": false,
+  "carpeta": "1923071H_142db2b1"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=90VjABXAA2grl8DBrx5FMHydPCrFyhh1LuTRkUnrNUWiIQTsX800EPCNDcc/UXFgRJqD3wAie3CrF%2BANv5mLECOXSUgsDOGIKXsejvXc00x45ClyWkoJ44mKM70IFcOu": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_MR_PCAP.pdf",
+  "bytes": 858204,
+  "texto": true,
+  "carpeta": "2026_AS_ASC_0617_22111539"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=UnMFG9F6rELyGO4hgdyfFZCX3XlPKqQZ87wRySXNgHv0evEqxC%2Be5mL8X0brqIOAA8t31AmTwdA5ZJ22lADWCjQHxrFZDHAEw7o%2BwEmXe7ffdyQgZAdTm3EfcUAC7CJ6": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_MR_PPT.pdf",
+  "bytes": 314572,
+  "texto": true,
+  "carpeta": "2026_AS_ASC_0617_22111539"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=PLg3FBjgDYzuveG1CZn%2BpreRu6%2BzhZQGJfYRm63Uad4LwxkK9dpjecsy%2Bxk84OnSMm46mDX2NPJBdzHeE6ghbWN7MinkDYmve1VqGL9OsskZyAJWGsSt0OzTSTyw9JAs": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_Anexo_I_Declaracion_Responsable_SOBRE_1.pdf",
+  "bytes": 224009,
+  "texto": true,
+  "carpeta": "2026_AS_ASC_0617_22111539"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=bogzmcYGE25439jJi7qlTgIDW7XhOUda79qVpnrYGc6Z2JVc5lwP20FQNHE4uOla/N/VvTdZ6grtxv0VoKk7ovPS3CLF7/jO8MAhTBA8gFPDdQD9RyhUmzT4jZ2In4zL": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "04_Additional_Anexo_XXVII_Compromiso_constitucion_UTE_SOBRE_1.pdf",
+  "bytes": 105523,
+  "texto": true,
+  "carpeta": "2026_AS_ASC_0617_22111539"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=NNyVxpM2na%2BGfdVJfPHKney1vVNHpwHW3VoCq5t9tvhy2HmQQCmAerwUlrgMsRUkG2TAxv0UdhNE0DfADvKUdHstsz8kpU7jDON7ZL9jcU2B0nvVKRzfe4rpHcnlPhSZ": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "05_Additional_Anexo_VII_compromiso_de_oferta_economica_SOBRE_1.pdf",
+  "bytes": 94469,
+  "texto": true,
+  "carpeta": "2026_AS_ASC_0617_22111539"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=eTWX4LxBKCNggSFY/MFoxHE5J5tiLQXZMZ/APiDu5JbPCNLKAuqfQmHMpaYEoi5L7EVWr3oE4TQPYTomupftN1ve4HYYWqrcoeJLlSFST8fDdQD9RyhUmzT4jZ2In4zL": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "06_Additional_Anexo_XIX_Notificaciones_SOBRE_1.pdf",
+  "bytes": 130389,
+  "texto": true,
+  "carpeta": "2026_AS_ASC_0617_22111539"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=yQIrVu/wEwbzbffvS9gLo5GggOOUZsN5I2AiAcWss7BjK1sUmHRsRmmdL%2B%2BDvj0rMTOeuQQzV9XdunxtAwZ2BNUxSyc1b8I06vs5X%2Bga43l7QB3HKyQaFUExmUVQCerk": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_1000_PCAP.pdf",
+  "bytes": 751027,
+  "texto": true,
+  "carpeta": "6.4.1000_26_c18e18a0"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=2l/CzP2dT5HcKZVXvCIbyqnhMbODEy55kDcPBWTjBiQRfXHeLeY1E5ztU2H2FOXKXUw9nI65j/LA3UNFlC8PB9hv5S6FcQxvEp%2BZPsaRR4pJOVDbGCDM%2BMigrvuVS7Rv": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_1000_PPT.pdf",
+  "bytes": 533620,
+  "texto": true,
+  "carpeta": "6.4.1000_26_c18e18a0"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=WGglP8hnlLCE1wW48ebeDu8NLwvIFsJr6JiKmBSQEg4VGFYJce/EFCdy1dDZ4ste6y9ePXCrm6GM7EZFVhlK6/xvg47KhRJXnJidVevmHHQC1/zDIE0Kw/PWNnLS0Z0z": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_GUIA_DE_LICITACION_ELECTRONICA_2026.pdf",
+  "bytes": 7934452,
+  "texto": true,
+  "carpeta": "6.4.1000_26_c18e18a0"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=79z3wiVmopd67TJ9/Y6WxThMfUhSZhMwBhVFMB6QDPb2etAad2MxhfbsS7GeZaOGzeCkhUg3%2BQ9Bee35QGHe3wY1HNRnAvlqUIrlBLXB/tR45ClyWkoJ44mKM70IFcOu": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "04_Additional_Anexo_I_A-B_Oferta_y_Mejora.docx",
+  "bytes": 148462,
+  "texto": false,
+  "carpeta": "6.4.1000_26_c18e18a0"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=eDOIy2JqrD02xaMRLKoNsXtFrRc1WE7N/lHpX0%2BPZM5FjkXldQ5O29j4WMNLe2uKpitaKy0pS9cSpIUAvGMnGsAf5w1IgA2yrJeNJ66SL7CB0nvVKRzfe4rpHcnlPhSZ": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "05_Additional_Anexo_II_Declaracion_Responsable.docx",
+  "bytes": 155157,
+  "texto": false,
+  "carpeta": "6.4.1000_26_c18e18a0"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=I7gFX4EVFavBb74HCuACsJenBD/NyCj%2BmrQkaD0aggXfG2e0vvWl%2BHryTpnmGyTLXDD%2BLnU1rX%2BgoPwIyaHxqomBunmaBYNEtJbVCHV2WwdJOVDbGCDM%2BMigrvuVS7Rv": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP.pdf",
+  "bytes": 385863,
+  "texto": true,
+  "carpeta": "15916_2026_312c5863"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=I8voOPC1ZakYtvTLSE2thato6jWfnbZq4Vc8wlh02%2BRg9qtGrazLGUV9VIg5xGb78LUL5wDMO5rXMapOzZIIbCy7%2BZlnetA6ZLTeeknt%2BViB0nvVKRzfe4rpHcnlPhSZ": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT.pdf",
+  "bytes": 2030760,
+  "texto": true,
+  "carpeta": "15916_2026_312c5863"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=VOVhUc%2BCk/%2B/EgtLqLEZa081ceuYbwgO0dNii%2BTpOqW9/UPBLnTWwzI9dRKK7CLijFX80WiXrcZqfPYp2/XCIiUQNAjh/D9ACKYND59wHne1aXEvq3KHa/AEHgtDrQw0": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_Declaracion_responsable.zip",
+  "bytes": 122088,
+  "texto": false,
+  "carpeta": "15916_2026_312c5863"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=rBt7dWmCyGUdiVy/n0DY/tJggdv8B8mee2WNMuAxmhRBHgiCMUddrLIa8yzRRWFtSkSdUCVLsBhtZHo1TBXqgFlIK8raSGMRXGPBgjJws2i1aXEvq3KHa/AEHgtDrQw0": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "04_Additional_Proposicion_economica.zip",
+  "bytes": 128310,
+  "texto": false,
+  "carpeta": "15916_2026_312c5863"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=47%2BQpbIocUfa3yzaXcSQaMv6%2Beh9rB%2BpRfkfNcHgb1%2BbwSgkwzzBT2NeDWGkdqmFK5hrkzD4kBDQCGi41%2BCWJyj68pdNRvqsG3PTv13XKO8//q7NB2iMZvNyf0xrJmjt": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP_VISADO_2026_049.pdf",
+  "bytes": 1553259,
+  "texto": true,
+  "carpeta": "2026_049_56051ce6"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=1vbWOTheeVCYCdcSH1MEe9rrJ5FYUaRqPhDheHaLJcF0jhPj%2BskpxfXkLJN653ACpUYsxCJdhytUUn0U81%2BtnyH1hNGBVWyJPRHzBGRkLr17QB3HKyQaFUExmUVQCerk": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT_2026_049.pdf",
+  "bytes": 199841,
+  "texto": true,
+  "carpeta": "2026_049_56051ce6"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=1EFnSxFvKewA9fVY4eZ5/wXBhufXAbMWTtl9HYNpXomGnFoz4%2BcB0FYsRYktoG/Jr7yLM%2B4umvPUESIAauv2QeIzsxcgy7ixrzBMaQAGUCMC1/zDIE0Kw/PWNnLS0Z0z": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_Declaracion_responsable_y_anexos.docx",
+  "bytes": 1330487,
+  "texto": true,
+  "carpeta": "2026_049_56051ce6"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=EefrYcss8qoEcSfFd2mIemeWf0dhNM8x2AgvlezOeUE0DBRZtrwfqKkXiLL9ZPKUbmTQjKFqexbIjONt6Xqbe098Eb2V/8Ssv%2BSOjwvaAVwC1/zDIE0Kw/PWNnLS0Z0z": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "04_Additional_DEUC_2026_049.pdf",
+  "bytes": 88881,
+  "texto": true,
+  "carpeta": "2026_049_56051ce6"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=EwbpG1RTDw0te5rg3d3Vdj41gk9CKT8JuGm7Ug9zrGQ3tYmG/2fDMXmRKqX8y7tkrG6Cmz0sj5J0uLKyofbsmwS7j%2BQ3Vw/WYZqmt82UPu9JOVDbGCDM%2BMigrvuVS7Rv": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "05_Additional_DEUC_2026_049.bin",
+  "bytes": 138901,
+  "texto": false,
+  "carpeta": "2026_049_56051ce6"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=OrIsFxHojO%2Bzn299vYIbEybEpQqnEbi5NO237Z8O0LX8WBwWU8eTJXfuF7j12%2Bsg9D7u5HdnnOGxr74p1qW9CKnITrgobHEaruPkNl%2BtjGHDdQD9RyhUmzT4jZ2In4zL": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "06_Additional_DACI_2026_049.docx",
+  "bytes": 79385,
+  "texto": true,
+  "carpeta": "2026_049_56051ce6"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=0lY6dtdcBHNOVfgeef2MgTQGN%2BvmEZCqQPjxpGcf5zQSgodEaGqlFDM7ftdkCvRmmF2xiAmXUa8RBB9lbLFFCIfjb3vuQ7HhM098tV7eGMQC1/zDIE0Kw/PWNnLS0Z0z": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "07_Additional_Modelo_oferta_2026_049.docx",
+  "bytes": 64930,
+  "texto": true,
+  "carpeta": "2026_049_56051ce6"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=jADjbfciMeZkOwBdZhbyTekPRUOaGwOCt9%2Bd5KHFIphYYhghKJuK2NYF9VQF6zaDShsEXYvGaIQ41SLeyvQrP3ZVsnLu6dZjJvLJWD2FiVyCx2e6p7hqtlp2aFupgHMr": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_95-2026_PCAP.pdf",
+  "bytes": 526550,
+  "texto": true,
+  "carpeta": "95_2026_adcdb492"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=XA0Sq7OzXHTd9%2BTnMB6xguIMVnHKlM00vjVu82HYriDqTnPpR4QKh/pE4abQ3UtJBD4gVr2F%2BWUExSFL/TVtUdKjLm%2B3qUoSKh5MFk9ZV6IZyAJWGsSt0OzTSTyw9JAs": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_95-2026_PPTP.pdf",
+  "bytes": 920513,
+  "texto": true,
+  "carpeta": "95_2026_adcdb492"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=e4tRrCaA1Rh3q//XLWZJ30B0VjraAa6lPT9sqhX6jbH8XIJcm1GPMd9%2Bq9vGY2giftM6g4eoofWmppzkOo3bBt8hRElIW36u9fVqt7BEl436CYyL7SIrUOBFfNf52ZqA": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP_CP001552026.pdf",
+  "bytes": 1969071,
+  "texto": true,
+  "carpeta": "CP00155_2026_2be22d52"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=m1KM/VqfDwSrB62udcpgLZutuyWhMiFjN/yquAkxmQXdPjfrbpuo%2BtTeA92GQ6%2BsKJ%2B8mqxz0GqHFZhu7hw/WAv7KPDdnJ/AnstXJaznZMVt/o8fNevwsujgRzaBbugn": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT_CP001552026.pdf",
+  "bytes": 86425,
+  "texto": true,
+  "carpeta": "CP00155_2026_2be22d52"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=BKlhPx4otA1uOKXX/Jg5ko1rYjX9%2Blxs0nC4MehySEsfL1AZqTBn9PM5MG3SmM988ZDgLbV/PHhihLdhETM8oeuNB/LSJl2902vSOpDQqUNt/o8fNevwsujgRzaBbugn": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_ANEXOS_CP001552026.docx",
+  "bytes": 5445442,
+  "texto": true,
+  "carpeta": "CP00155_2026_2be22d52"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=IXkQu8Qs7og3ARiGokDGaX%2BoEr/i3FpDX7jhDHH6JSsJX0DD0h9/O0P2qBvBbk9L737duqKrqR6j5EcmLrCe5YV8CxQ4Xhgm1uEAY8mCWeZ7QB3HKyQaFUExmUVQCerk": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP_FIRMADO.pdf",
+  "bytes": 1875110,
+  "texto": true,
+  "carpeta": "2026_ETSAE0921_00001827E_d98fb907"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=snJOZa1VvdlZ/oZvWaohVfqfL/dKnPetixIcbX2DpzXqWpZeeierPP7nDH%2Bxy7AFPxnwq0yq8U4nc4K9FV6QDWlc4X6R5rYr2Lu4OMuEcBbfdyQgZAdTm3EfcUAC7CJ6": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT.pdf",
+  "bytes": 269216,
+  "texto": true,
+  "carpeta": "2026_ETSAE0921_00001827E_d98fb907"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=FKOgva4hDNPyfZApEHTt/ssmxGo%2BXijM8Rh90TtbZnc%2BuHI%2BLUcCnyuazBLsAH8g4LTOycNTRNe0rkoo4TitGbscv5EB/kFPURSkj2LcGyvVTD3T98KC0nSgQFM0q%2B5s": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP.zip",
+  "bytes": 1142446,
+  "texto": false,
+  "carpeta": "2026_41_cb9d5c09"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=nk4/bwKkLGDOMaGpP9//rrwMAC0V17RHgvhnv6hD5ToQB4YNafBrrDvpBGbzAsYy0DHW1LXa63FpnwZ90Pk5YhoK491oYnLhtDyRSSePNCZt/o8fNevwsujgRzaBbugn": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_01_PPT_SDA_26_2026.pdf",
+  "bytes": 207174,
+  "texto": true,
+  "carpeta": "2026_41_cb9d5c09"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=CfcKzBNNklAEJF51mntxijQPAaoHwu4g1YEUmaqEmjHcoMUScj1yV/4SbalL9wuMp8%2BxYxBOTqJhTe3tzBk3e1BLXnAw1SFRcy/tPsAKbq33GVhXrFFqN7yFncy7YfRK": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_ANEXO_VI.docx",
+  "bytes": 28489,
+  "texto": true,
+  "carpeta": "2026_41_cb9d5c09"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=e3dKINLlylk0qUE%2BWckrOiAKXwsCYlqrP8iLfnJ6orQ8mt8cSjcUex%2BUuAfwTjun5OxONreHhCY95UWeaikrKDToY%2B6VBEl7VuswIliCRc36CYyL7SIrUOBFfNf52ZqA": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "04_Additional_ANEXO_IV.docx",
+  "bytes": 23017,
+  "texto": true,
+  "carpeta": "2026_41_cb9d5c09"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=yj4JrzViehMRsLGRWWTcTcgv6MqgrGq7i83VzwDxP6ICpT8jMfXPI5Eik23mRTY5lsStZ089Me%2BM4b/oEdxJXtL5YI56Ocznw0gEiiiBMhY//q7NB2iMZvNyf0xrJmjt": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "05_Additional_ANEXO_V.docx",
+  "bytes": 29390,
+  "texto": true,
+  "carpeta": "2026_41_cb9d5c09"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=YDKMH41mGEwS556GAH8EWGjBxaxXW/nFTL5voJK5O/EoXaO2gtYQbLiHyFHzMvhyc82JUDZ/FKRV6er3CIC9mfESe1qYNCWuZspjXPeYEjBJOVDbGCDM%2BMigrvuVS7Rv": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "06_Additional_ANEXO_VII.docx",
+  "bytes": 28878,
+  "texto": true,
+  "carpeta": "2026_41_cb9d5c09"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=BbHE/SCFrtf1swQWBPYw6%2BK08SwgpAzTDNzJ2Aa3kPmq12S/AO5EQwJ9KR3zFxcGosiQziz%2BE1W16uBucNQg0Fily3XncCPl2ZtE7DhNF%2BTDdQD9RyhUmzT4jZ2In4zL": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "07_Additional_ANEXO_III.docx",
+  "bytes": 34658,
+  "texto": true,
+  "carpeta": "2026_41_cb9d5c09"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=l2wapUPHVi2i4Mg0gyXnx/utnXC%2B1S6jnsLV11xEiIZjnsF8iB5hx9B2XElZWWUwu6C67ujQyDnxtXKHKUFmBfO4KDkGJCzeeQTX%2B%2B7rd421aXEvq3KHa/AEHgtDrQw0": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "08_Additional_ANEXO_II.docx",
+  "bytes": 33737,
+  "texto": true,
+  "carpeta": "2026_41_cb9d5c09"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Wcrn%2BZIXNy/WKY7qc4xcoda/mKMfOnyvLFhMkUXaL%2BKDowj9ESeIhuRfc9vHdzNVnFBmxDqJAr5jGgwBj74l7uHy83smN89TnVqMbJPJWNbfdyQgZAdTm3EfcUAC7CJ6": {
   "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "error": "HTTP Error 500: Internal Server Error",
+  "intentos": 2
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=nxtaa/pqHWrWwhTIggFFGgVEcoAkjUXcQhH4U%2B/z6WEpViCY2LAFTxvGfyBV2DnTGFalfZ1Y1aQPNadhUT%2BcCe0I2OcmejofAvcQ2YvVIJ33GVhXrFFqN7yFncy7YfRK": {
   "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "error": "HTTP Error 500: Internal Server Error",
+  "intentos": 2
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=qA2eReJwDL6gKlOLk4vmej8waJsWYYcjFEBh5x1Q83OfH5gCzY6GtmYPmWFDhSiphD9sdYh7Us5fHv5FdWc79HSCejeYaQIDZNpCj4rRt636CYyL7SIrUOBFfNf52ZqA": {
   "estado": "error",
@@ -690,673 +928,941 @@
   "intentos": 1
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=fgI8bL0VmvfV7PGq0EnsMeGfxkhartpFyu8EVe33mxfd4nhcl7axj/o0O0KOIWFR%2BK36EHeK6Pirk50orHrkY5ZhFwV9ntMRcZqEbq8n1nj6CYyL7SIrUOBFfNf52ZqA": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP.pdf",
+  "bytes": 1901762,
+  "texto": true,
+  "carpeta": "2601CTRCO023_97ca1c7a"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=C1fIbJpju/yNsBj2yXHUm1wB7jVuOoKiVGXwhIF7HECpysNx7p1Lvz9Foom2KjztwU93RvyNYcKZHWUYcfNzDDRks0keEkcZcvpd0JtNQNOCx2e6p7hqtlp2aFupgHMr": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT.pdf",
+  "bytes": 1191247,
+  "texto": false,
+  "carpeta": "2601CTRCO023_97ca1c7a"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=lf3vZsiuv5l/opzFRdzyEnVK84AgAcuG8PasjCJUdIXKg2MaHJnPmDV2PXogyomJxZBCvVv4JoGc1EzKLogLKveQukgCm0HkokJdKdBwQYi1aXEvq3KHa/AEHgtDrQw0": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP_firmado.pdf",
+  "bytes": 732238,
+  "texto": true,
+  "carpeta": "1868348D_f8186283"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=DtAOQfuwggxZRg3TV6/KfmHH4yeUwxYqsF6MGeIGpSUtqKAeFJbkKSlHGQtSyEei9PaU05hpOHovu7T2N7Tq040iQRxcY/5US/O/GcdNPdnfdyQgZAdTm3EfcUAC7CJ6": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT_firmado.pdf",
+  "bytes": 650275,
+  "texto": true,
+  "carpeta": "1868348D_f8186283"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=MVPZehdkOo8UcO%2BiQ5PMfGJlH3OhG03psBAoLEG50BzgujEbFSKRNmcZRbEVgplTmatOXaEAQSmcnPUBuEj7JyBjFQ/wWV5lhjtHRQreTQzVTD3T98KC0nSgQFM0q%2B5s": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP_EC_26-13.pdf",
+  "bytes": 1139549,
+  "texto": true,
+  "carpeta": "EC_26-13_e8923e4a"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=mx49h%2BJ8LNtqrtkG3WNa4M2zgmGd38KyOG7oS8eYzFeKn%2BBm9CVIqSDSrNkMD9Jnhgo3jrdIoTj7fYBlaJExUE3nu%2BxZ/ALarU%2BBXsDPzzOHAj0WEJrB5sP7amrh2jBD": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT_EC_26-13.pdf",
+  "bytes": 904146,
+  "texto": true,
+  "carpeta": "EC_26-13_e8923e4a"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=qSTgo2owZVbZ/dqdFZm%2BPrMSHisdPatSUTG6EDMFE%2BZKEObjW%2BhOKdBV%2B2z11sZxLxQnOlheo/mi2LPOYSEJb/GdRypNhSLy8iQTAVL6DaX3GVhXrFFqN7yFncy7YfRK": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP.pdf",
+  "bytes": 2088895,
+  "texto": true,
+  "carpeta": "2026_8681_6c84f8ed"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=aDLPOkL8c/pCyvm441Q/6fNWtYsSn%2B7qfbT%2BHJZG9A33TD8X6K/D1A6CoG7EhTV4y81BetZZFy4nkMp%2BZQkiYf9yev/7oC3k%2BU0cjNIPSZyB0nvVKRzfe4rpHcnlPhSZ": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT.pdf",
+  "bytes": 977781,
+  "texto": true,
+  "carpeta": "2026_8681_6c84f8ed"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=6wt7Qk80iJWpGySgRvVZcMZCOH09H/3JSOskcl5Oqz01redwaMLbtzugjd29oVFSUqRlvtJD2s9lzUQAInO25xCoWkIuiA7Ow3KeerjrPDh7QB3HKyQaFUExmUVQCerk": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_Pliego_de_Clausulas_Administrativas.pdf",
+  "bytes": 560051,
+  "texto": true,
+  "carpeta": "INFANTES2026_3863_N_91_2026_c4d6df42"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=/A6SY%2BY9LI/RvhxDhLTz6Mdkd3%2BIWPh3GBfe554pZVOsrejC4JZMvL0O6WuKXY4HLZ09UIPaFg6pFkU3VNk4Cgt6ABpaXjanQLo8Eont2SZt/o8fNevwsujgRzaBbugn": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_Pliego_de_Prescripciones_Tecnicas.pdf",
+  "bytes": 473239,
+  "texto": true,
+  "carpeta": "INFANTES2026_3863_N_91_2026_c4d6df42"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=ugyHVU%2BOn62i0uWhf0AFGPHekEuXUla3QO1BrZZoP2FjE1198o711fOK/x34CQzNH2P/buk8UPbCMzUEiKi%2B9Sk7%2BWsV6HvSdlIwcgeIRqI//q7NB2iMZvNyf0xrJmjt": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_Informe_de_necesidad.pdf",
+  "bytes": 152383,
+  "texto": true,
+  "carpeta": "INFANTES2026_3863_N_91_2026_c4d6df42"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=3y3LA6sCaW8pU%2BukJNq47iTexW15zz1xm0mtxjbVE7HwfiBFd6CVoKJXu123EdQ0Eohk0TJhU6JHAeQOjDBWTUtP1GO7cZNGqGyrRaa7o6qHAj0WEJrB5sP7amrh2jBD": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "04_Additional_Informe_SecretarIa_General.pdf",
+  "bytes": 259254,
+  "texto": true,
+  "carpeta": "INFANTES2026_3863_N_91_2026_c4d6df42"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=0lY6dtdcBHNOVfgeef2MgU%2B4HNZr5bZtMLp4pAw2V1KS9IFQ4QNjuovQkSgEfYELQ1cZ%2BCuCUjeKG/HleF8XHYAYq4pWhhTAoZxSmuMyOpf3GVhXrFFqN7yFncy7YfRK": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "05_Additional_Informe_de_fiscalizaciOn_RC_A.pdf",
+  "bytes": 215804,
+  "texto": true,
+  "carpeta": "INFANTES2026_3863_N_91_2026_c4d6df42"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=nn/aXGQaJJERcoQi/K3gJEk85d%2BWp%2BvTvlfo/6gX9Lj0hWqARP3LhCCbOBfsHOfXledepL7qG2EksS9zcLl2mB3ytLkM29zo68DcoMaAscG1aXEvq3KHa/AEHgtDrQw0": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_3377573-PliegodeCondicionesPa-001002PCA_STD_CA.pdf",
+  "bytes": 856347,
+  "texto": true,
+  "carpeta": "033-2026-0319_0d0a2c09"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=FJrx5DwqHe4baKFKy5twpcZoKF5sbUd5Mn%2BF0f8LN8NyEVhohd2OlPC8EZ3UDVaHbGtnT2BA%2BCsE9wRDD/kRYYW%2BQ7eBlDEfGwePZEYUEYW1aXEvq3KHa/AEHgtDrQw0": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_3377593--033-2026-0319PPTServiciosMicosoft_DPG.pdf",
+  "bytes": 601417,
+  "texto": true,
+  "carpeta": "033-2026-0319_0d0a2c09"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=fblrT303pyzBSER9Mer7HjJkx%2BhPQNRckwdblXdno%2BwjgwltSA0x10OYMPcJxis%2BfcyeVPDzwTE%2B/e88ox9h34X7kVko214UIi0mg8Nkd%2BHDdQD9RyhUmzT4jZ2In4zL": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP_RenovacionElectronicaRed_CA-112-26.pdf",
+  "bytes": 1555480,
+  "texto": true,
+  "carpeta": "1322_2026_033073e7"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=fIQ5b5kLGEOS4S/sSF5fayAX3NWhV7I6hjw0uB4%2BLp2/%2BgKxT9RgHIesW4PFdcCbA29BeOhmPNkFXXC0H5IgNwFRFIXHjHLwEiAwOETydQ145ClyWkoJ44mKM70IFcOu": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_RelacionDeUnidades_CA-112-26.pdf",
+  "bytes": 474834,
+  "texto": true,
+  "carpeta": "1322_2026_033073e7"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=S66w0IGm1Q873%2BXgoqHm8QIKoLKTumXBvtvgOu2lI0adxxKshW09zo0Q6r69jm0rfab35K5JDFFHJU266mDhgCCnWLQhj%2BdDBkMtsBpfMbtJOVDbGCDM%2BMigrvuVS7Rv": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_Pliego_Administrativo.pdf",
+  "bytes": 1717289,
+  "texto": true,
+  "carpeta": "2026_43_S020201_a8d05491"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=L172MfiDXPwhsKYm%2B/jXZbraEkStLf1UI%2BsOgRZoOnmhI%2BN597pMWWjOp4idmh1cbJTKcO4BkjpgVm%2B3gU6Mwa/yo9et9CUxTq6pn5hyq8ffdyQgZAdTm3EfcUAC7CJ6": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_Pliego_Tecnico.pdf",
+  "bytes": 226708,
+  "texto": true,
+  "carpeta": "2026_43_S020201_a8d05491"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=BAjhYRaafIGxm%2B6HKml7hrgiIox%2B77Qw2KPh8vPWupofhWtYwUSzmwHKpmjONodt24DoO16C%2BQWF4I4OndwOf5suw5ZJCSKUpVmJsPE%2B%2BiV45ClyWkoJ44mKM70IFcOu": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_370055-PCAP2027-A-05-001001PCA_STD_CA.pdf",
+  "bytes": 859927,
+  "texto": true,
+  "carpeta": "2027-A-05_61df27d4"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=oW7zBclNAAznuBOmHfQMNk/l3fsjL5srq%2B1Hx0swBUIuYIjuQKZ9yInepM0ZwLsbu5VPSwIzdYwvzKuEi/GkI14DzDKjm/1U8swJr3JoxaV45ClyWkoJ44mKM70IFcOu": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_370054-PliegodePrescripciones-001001PPT_STD_CA.pdf",
+  "bytes": 4938271,
+  "texto": true,
+  "carpeta": "2027-A-05_61df27d4"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=%2B/qWyENGqYsBhtCCtpVdNoy6pLFScPUhHev2aAXCHqQoRPNcyWG%2BvolIkZXQl4r1AE4vYew1OsiJHUsKNZWXKkey9OPvTO3iGwxP4uujQgKB0nvVKRzfe4rpHcnlPhSZ": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_JUZGADOS_2027-A-05.pdf",
+  "bytes": 100643,
+  "texto": true,
+  "carpeta": "2027-A-05_61df27d4"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=y96985Yx8vuxPRvW5Q9vhjJM4pLtGnE6NrdpkEka0%2B8JPj0KWs6J4b0dJFUMasxsSjDTBXsJGDs9wILfTBtqCbsgDXnsyPiupCQYTIIv76QZyAJWGsSt0OzTSTyw9JAs": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "04_Additional_DEUC_2027-A-05.pdf",
+  "bytes": 82592,
+  "texto": true,
+  "carpeta": "2027-A-05_61df27d4"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=p676djtCwEvHO2QMOCd2YV9VaI44zBtbI7mgr1MmIUtc%2BAxhz3UhoaLOcgVDlPpQypC0oLPduoP4LlhB6hnZrQ06MZhSjWVUzwdjjVbMRwMZyAJWGsSt0OzTSTyw9JAs": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "05_Additional_DEUC_2027-A-05.bin",
+  "bytes": 133635,
+  "texto": false,
+  "carpeta": "2027-A-05_61df27d4"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=npGLXibGXSm0gKEj7%2BupwRv/yExoh7zXEVyi9LpEQZIOxXz4H%2Bj5cwuCFojThux0vSZkcJ1zYZZp7ZcmBXJZAphfVruGlKNstYBPiFU/HxJ7QB3HKyQaFUExmUVQCerk": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "06_Additional_Oposicion_acceso_TGSSl_2027-A-05.pdf",
+  "bytes": 82009,
+  "texto": true,
+  "carpeta": "2027-A-05_61df27d4"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=dvtecU79xOUWSx6XR6WWAaeQadhQ27vRJm/XrtbsLMOFuRQ0Q1T1WsDok1aDD8jxWjgSBxHF8ttxiIZ4kSp9p8ju5d8h1%2B1i9CXJPfnTzNKB0nvVKRzfe4rpHcnlPhSZ": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_20_3327_PCAP.pdf",
+  "bytes": 1556964,
+  "texto": true,
+  "carpeta": "2026_AR42U_00003327E_30c8b11c"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=gp2niIn0l9Dx4WvnhxEbfu80/S8ggXdtEAEF04BjRhaVGOUf6gHIZNHbStoz32qRrBluFdOvaUVjLYMCp5kKgsYQyOemuch0dAkKOXRC1MLfdyQgZAdTm3EfcUAC7CJ6": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_00_3327_PPT.pdf",
+  "bytes": 100136,
+  "texto": true,
+  "carpeta": "2026_AR42U_00003327E_30c8b11c"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=%2BB3YDJXBVDYSkebzZuXtQJ7FFAw8THXYrFzbp%2B4vscwWOmcJIrMXR9QZvrmyIC1JHubTbRqZkDIeZHqAbDTtjzHePFMixuKTS2/2q/8Oj5DDdQD9RyhUmzT4jZ2In4zL": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_3327_ANEXOS_PCAP.docx",
+  "bytes": 5286094,
+  "texto": true,
+  "carpeta": "2026_AR42U_00003327E_30c8b11c"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=fF0Mom%2B7UFIYJkMwQrZqJl1GxmCbTU4BJGijyIAvsuAJwbn9uK/YC9nr4bYLyzSNkbjjWbJFIxuTvUlFq0wQRrbjIn86Azgrn84RpNpKflbVTD3T98KC0nSgQFM0q%2B5s": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP_CG-2027-2801-0013.pdf",
+  "bytes": 1886213,
+  "texto": true,
+  "carpeta": "CG-2027_2801_0013_71347b6e"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=qSzraTZE/vQ1v8oi/pXeuHPU662P6xva5Kag5wySVcbLsF0PqIsmrJ7lHByoW9LXGC5gu91w0lr2NJpjF5xjJSeYP%2B7jeEehd5AKTSKcQAuB0nvVKRzfe4rpHcnlPhSZ": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT.pdf",
+  "bytes": 609153,
+  "texto": true,
+  "carpeta": "CG-2027_2801_0013_71347b6e"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=cwhQ4mFLq2FKXZIw9fPMOgLxG4E4Sgur6k/j4Vy1X/a1oeESvC5h2lUUvwk/K6fHhkQrOKdg00uxy8LZ55lQxwd6DgPV79L%2BLb060Qv9S%2BcZyAJWGsSt0OzTSTyw9JAs": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_Excel_precios_unitarios.zip",
+  "bytes": 13691,
+  "texto": false,
+  "carpeta": "CG-2027_2801_0013_71347b6e"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=GtTMJFr7WI2mEX9kdhaOVU8utHEqz7EwuNpUA3zQajekM9KOlfIAGI9TlomUjF4shE197O7DBid5X13cn4/qQepEKv0aZNtZ55QjWVmFGJqB0nvVKRzfe4rpHcnlPhSZ": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "04_Additional_DEUC.zip",
+  "bytes": 89630,
+  "texto": false,
+  "carpeta": "CG-2027_2801_0013_71347b6e"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=x7POPICFj/X4vznpsYYcynngTvsy/JwUq1ilAFtipuhZzNVDdLajK4g4pctbo1ZciPCir2Tx2Rz9x8gktY4YgKiugGPkJnnGjBp3oRjUKrzDdQD9RyhUmzT4jZ2In4zL": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP_MantenimientoVirtualizacion_CA-113-26.pdf",
+  "bytes": 1578999,
+  "texto": true,
+  "carpeta": "1324_2026_0b293fa2"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=aMvaPiOF1IWloU6UxKjRn5SIlZVY1pmf0i0hqtZs0o9RDvY4BZAqxYx8h9J4hlzXJDR1tXuAtaJa57qJdjmdQo0dVyWfjbFAjRopWLllD/oC1/zDIE0Kw/PWNnLS0Z0z": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_RelacionDeUnidades_CA-113-26.pdf",
+  "bytes": 345979,
+  "texto": true,
+  "carpeta": "1324_2026_0b293fa2"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=O6/cL0ia02Eqj0lfKz9KNSliVkTprfE1q9hzvdLZGmrTZKg/IBSMWvwi0/8%2BM7eSGJhy4VZin2BmAqWOxR0bM6EVKDqtg5VwUBYW2fS5dsMC1/zDIE0Kw/PWNnLS0Z0z": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_SERVICIOS_PASA_PCAP_1F.pdf",
+  "bytes": 443779,
+  "texto": true,
+  "carpeta": "2026000191_AYTO_SERV_ABR_SP_SMPL_6d92cdd0"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=OwzKR1DvIUqy%2B1lYKYiVfExxnEPN/6/BjjDpxOcMh4COKge4iPxmEt2f0KjKVT%2B6QhF84QvSMbrCAJGod0uAaf6fWEEra/%2B7QaL3hGm8sEoC1/zDIE0Kw/PWNnLS0Z0z": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT_Servicios_1F.pdf",
+  "bytes": 231173,
+  "texto": true,
+  "carpeta": "2026000191_AYTO_SERV_ABR_SP_SMPL_6d92cdd0"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Qsur79Po/Sqx/agaJybM4ttrL/9nHRk8jc4GY6tyiNGhxilA4w9EoswvwdRGeAkKlERkDAG6cKynMdrYvjIzJMk98pLnM0AjLzbYPfJKdXO1aXEvq3KHa/AEHgtDrQw0": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_SERVICIOS_Anexo_1_1F_modif.pdf",
+  "bytes": 390126,
+  "texto": true,
+  "carpeta": "2026000191_AYTO_SERV_ABR_SP_SMPL_6d92cdd0"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=iihMolmGp1UbQTLVg4QASfAQQwKhTuzrPrPLgMAJKU9IOdNwpEf8Zn2g3mMALK3uKLRKelx/RIUiyeTQFXAQmtN%2BP0aP9qbIz%2BY2/uvFyjL6CYyL7SIrUOBFfNf52ZqA": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "04_Additional_Anexo_2_a_5_modif.pdf",
+  "bytes": 301455,
+  "texto": true,
+  "carpeta": "2026000191_AYTO_SERV_ABR_SP_SMPL_6d92cdd0"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=1JNPi5gbZ6xxK/LDHEBZuNvKMBI7vzbETrqUSfTbtwfZ9xm70D/vpMnA/PtVMCavdTlGDDoZdUz/Hc0sXeH5eUWmMtaTv8n9QxadJM0C4ESB0nvVKRzfe4rpHcnlPhSZ": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_15-01800-PCAP_nuevo.pdf",
+  "bytes": 1323059,
+  "texto": true,
+  "carpeta": "EC26-C09-01800_25a92337"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=pVOmeh9KB09K25zPTuo0vsRbONNAFjbVwGKi%2BUezvIp6hKqmNwibsZD2gk3U51XhhvrT%2BxdUYkSlLkPmYu2mpBhDmRDXlXBP3e9gHAjG5VB7QB3HKyQaFUExmUVQCerk": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_14-01800-PPT_nuevo.pdf",
+  "bytes": 198136,
+  "texto": true,
+  "carpeta": "EC26-C09-01800_25a92337"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=U%2BYCYySiNpFmaYIzSIs87ZZ7zJa5B0l7qbfYkYzvDPMFqd3d/mvFD0IjfsWgp4et8/534doqKZ6z6JU4DBXslrnNiccHCFtGbXMO0pdJGnzfdyQgZAdTm3EfcUAC7CJ6": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP_Renovac_Lic_PAM_y_mantenim_26-725.pdf",
+  "bytes": 1026373,
+  "texto": true,
+  "carpeta": "26-725_be1466a0"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=jKZdUemOrKMrV3sQypNASPn1VWK2qIHx8QwDMR/wh1FDJ/epZ4PEdN4Pa6rb6FOcMzG5aJOGA3B/A87JjS7J3lQBetjgL7xQThJuNak51Iz3GVhXrFFqN7yFncy7YfRK": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPTP_Renovacion_Licencias_PAM_2026_2028.pdf",
+  "bytes": 269210,
+  "texto": true,
+  "carpeta": "26-725_be1466a0"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=SCZwEV46Fz/UnXU5sOxGvPmJTE7pmXtywW8ht%2BcC%2BLIVeuyP4Nb251AfzInF2kGKz4NXd8nt8EscaiVWKrMCAmDdk6enAEX%2BikX2QvcpDisC1/zDIE0Kw/PWNnLS0Z0z": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PLIEGO_CLAUSULAS_ADTVAS_PARTICULARES.pdf",
+  "bytes": 685948,
+  "texto": true,
+  "carpeta": "1181_2026_0b878eda"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=1rpIfopOJtjbWecj9QM/19m03oXB3BK0Zi8Dxmtf4F9G5sgT%2Bzc60JZKQ/tbfdcA6XAq7EFVXbq2AgjzW%2BrS6lj4xIUEDhlEDViw9b1/YM/fdyQgZAdTm3EfcUAC7CJ6": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_Pliego_condiciones_tecnicas_de_contrato_del_Centro.pdf",
+  "bytes": 350654,
+  "texto": true,
+  "carpeta": "1181_2026_0b878eda"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=VLBgntD2Dk2NNvabKSDEIXn6ondLwwW/ptoL98Xd6PulChRitJE8DMJK2CT2wsq6BGzVFKWAlpIxTN1T77D43GhuDShLPduDQdf1fBrlLh/DdQD9RyhUmzT4jZ2In4zL": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_ANEXO_IA.docx",
+  "bytes": 73838,
+  "texto": true,
+  "carpeta": "1181_2026_0b878eda"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=HaO4WTEohaaoUxUC2IhVpxToD9CrdZ/D%2BKPGEaNSERqOaFUlSKnxG41C7xqrtxVDG6D48QqS/gR44O85/chrtu/j5jFQUJuPIG3KMDGIynyCx2e6p7hqtlp2aFupgHMr": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "04_Additional_ANEXO_II.docx",
+  "bytes": 76335,
+  "texto": true,
+  "carpeta": "1181_2026_0b878eda"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=IcgbQOfZYIAn/R4hAObk8aJoiHDxyl3ibgKti2NUY/8os5iLWqo/DaOl9qqBpsuAFDAAxSp847ZZ/vXEqQno81xv6krDoBPmlAoMql20DMzDdQD9RyhUmzT4jZ2In4zL": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "05_Additional_ANEXO_IB.docx",
+  "bytes": 39086,
+  "texto": true,
+  "carpeta": "1181_2026_0b878eda"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=tdVEjGO9ZX5azg0inUeo/qHgk6bhnuoU7rSvTqsMMuY4MK9nFmAVVuhB6XfJEo6dT2ty0QycYOPgfR4AkfTladc3IhK3gvCtpFojXPL669cZyAJWGsSt0OzTSTyw9JAs": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "06_Additional_ANEXO_III.docx",
+  "bytes": 70936,
+  "texto": true,
+  "carpeta": "1181_2026_0b878eda"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=AqVpUCb3fvU2V%2BdnGbdklnLF/TrWQBjbyZIiAB7cwD%2BJquFZcDrm/qmUUvRnDyOfbjHqHOFowADORVCU6Gcr61Hb32PCWlkUoVYdc3g6lQRJOVDbGCDM%2BMigrvuVS7Rv": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_20261030_PCAP_Proteccion_datos.pdf",
+  "bytes": 1368433,
+  "texto": true,
+  "carpeta": "202600004_2d082429"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=20IcI2wqgNX8iwGoaN/p/4IT/rz8pg00E3sf7FUAs6L0nxH6MPelcKwj7vdBQFC7Toj7WusTszQhik0udDjNjxBceN5AUs5R0aNv8cMzw6KCx2e6p7hqtlp2aFupgHMr": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_20261030_PPTP_Proteccion_de_datos.pdf",
+  "bytes": 684611,
+  "texto": true,
+  "carpeta": "202600004_2d082429"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=mQzXtjsYdCq1V7yh4/vma6mux/g1Rdg3Hxv5UTe3MSiqVsHT0ETMH6WXwLtcaFROqzvyyFBBy%2B5dBIrLKI/tD/1Memg1BWGCM58FVkwjSl76CYyL7SIrUOBFfNf52ZqA": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_1577940-PliegodeClusulasAdmin-001002PCA_STD_OE.pdf",
+  "bytes": 533019,
+  "texto": true,
+  "carpeta": "UGR_2026_0099_be8285a1"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=kebtHPrDWTMpwS%2BsoV9k6HkKWuTOxxMJGgEtaD6TM27De1vQ909ksitM/RWJw7mY7gL4y/pSSP35u6i0SKGQdhQ82ZW80xOceCuEe7YYbQq1aXEvq3KHa/AEHgtDrQw0": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_1575398-PliegodePrescripcione-001001PPT_STD_CA.pdf",
+  "bytes": 450097,
+  "texto": true,
+  "carpeta": "UGR_2026_0099_be8285a1"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=JDTew4DVW1IJrS%2BEzTF7xv9Ft8qfjpy9pD10JKg6vO2VBkUGhRzYJG4v705DHPbFekCyT8OOcxK9eaLuyrzJZtFcjpJAV2C4An4Kob5Mo9LVTD3T98KC0nSgQFM0q%2B5s": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP_Servicios_de_Soporte_funcional_Nomina_NEDAES_.pdf",
+  "bytes": 420129,
+  "texto": true,
+  "carpeta": "020026C00051_46a8893b"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=igsNCm2RRQYUqYcMR7nhFo%2BU%2Bk7EyFGeUYnJm7M3aYuB%2Bp%2Bd6/VJfnMie87nk5OCmRUaQ0UB%2Bi3f7VjDT2IIQTOgUyHB7uV7dGTa5Fke24L3GVhXrFFqN7yFncy7YfRK": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT_Servicios_de_soporte_fucional_NEDAES_fdo.pdf",
+  "bytes": 254842,
+  "texto": true,
+  "carpeta": "020026C00051_46a8893b"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=%2BikSnVVJRPyQb/E%2BhfbRdbLYPT4woI37VG1z/r8k3OMYcM//h75nvpD9TszSD7kWlRMti3iSnG0VAOLjUy4pqYO3aCQJ8q7vJp8yLEWt57vDdQD9RyhUmzT4jZ2In4zL": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_4_PCAP_202620177.pdf",
+  "bytes": 899583,
+  "texto": true,
+  "carpeta": "202620177_10_2026_da5591e3"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=VrSQfXCGN1wWfW7nNAyeQe28PJkJCOLrdHrZR1WXCHDKRZCZdonwTHgS7FXOegyVFrgWFN0KYOMQ2ktkMKrPD0Ox4J0JYPonFRwR16VSyKu1aXEvq3KHa/AEHgtDrQw0": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_5_PPT.pdf",
+  "bytes": 497571,
+  "texto": true,
+  "carpeta": "202620177_10_2026_da5591e3"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=TiQGBnoIuUmshJFkQHA4EXM3wvvKjy/74BQ288Q7deEL4GqN0o9KVO7K7wgvKhVwhUQFzkqzoBUiVRfo9bDdprPgAdvXHvgoIUhO9DYETFiB0nvVKRzfe4rpHcnlPhSZ": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_6_ANEXO_I_CRC_202620177.pdf",
+  "bytes": 1545032,
+  "texto": true,
+  "carpeta": "202620177_10_2026_da5591e3"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=dHHlbTrOOVDd%2B01jFTiEdmYPT/Hr70ig7NjhwwyTLUH5%2BzehJlI7rTD4bsmr7d/e%2BxtDs/5GzFlCGwLZ4fRDBe6%2Ba/J0giGQec8rTvaoju6Cx2e6p7hqtlp2aFupgHMr": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "04_Additional_ANEXO_IV.doc",
+  "bytes": 464384,
+  "texto": false,
+  "carpeta": "202620177_10_2026_da5591e3"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=XBnODeFTW7x/WgUKXSZ/E3wJXICWhHQosrQkqCOZ7heqljABb0sk9nN3FEoQjTK%2ByokIyKDvv6oXjEyqOLhUkLWl3B04zXsJJkYS7I%2Bdys/6CYyL7SIrUOBFfNf52ZqA": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "05_Additional_ANEXO_IIBIS.doc",
+  "bytes": 460288,
+  "texto": false,
+  "carpeta": "202620177_10_2026_da5591e3"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=0lY6dtdcBHNOVfgeef2MgUrkjoYGKWJ2IqQfQEh1Qy3OuiGjzZFafGHkrGhG4/l0E4b/PX3otgkLa5AnrEtoNG5J/BQePUlGKAwZcyvO%2B6qCx2e6p7hqtlp2aFupgHMr": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "06_Additional_ANEXO_III.doc",
+  "bytes": 725504,
+  "texto": false,
+  "carpeta": "202620177_10_2026_da5591e3"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=1iu7EsYuQUAnlNB6t9KFJbDDIP84P2Znlci1GcMDv2ve1nVyVVFjm1Nw3SbZbYtoT7XUOScEz/Pd2xWV4ospOQ68cgQ%2BN6vEacVGdfsVPnyB0nvVKRzfe4rpHcnlPhSZ": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "07_Additional_ANEXO_VII.doc",
+  "bytes": 241152,
+  "texto": false,
+  "carpeta": "202620177_10_2026_da5591e3"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=ZVIjFahL41bYL41g078/ey8BF5UhkSBKgLCpGSBymrTUnTh23WnRHFWipbvHcwzaffxP/GyZgIJ6VgyJADbNavFXm/5EzCX4GoYpDBELNfT6CYyL7SIrUOBFfNf52ZqA": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "08_Additional_ANEXO_II.doc",
+  "bytes": 465920,
+  "texto": false,
+  "carpeta": "202620177_10_2026_da5591e3"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=YeiBP%2BFLnNiyLcllftlNlhW%2BVHEnkofVirDvE2O7UDONAeXXcuw9bYVSIxl1wcp9dxkyPS7A1EoQHVY8BOhSsuxAAnCWGbaoogYXzm8yHl0C1/zDIE0Kw/PWNnLS0Z0z": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "09_Additional_ANEXO_V.doc",
+  "bytes": 466432,
+  "texto": false,
+  "carpeta": "202620177_10_2026_da5591e3"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=%2BlBXjX3JWjrdhQErB0DrcHWe/7v/Mya2jGxYxMu94YW%2B20bILhSKBQ4s%2BxtZZNRlU7gQuwuNzczyhMW4JC036YXkKMa0/IufTir8hxejm8g//q7NB2iMZvNyf0xrJmjt": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "10_Additional_ANEXO_VI.doc",
+  "bytes": 240128,
+  "texto": false,
+  "carpeta": "202620177_10_2026_da5591e3"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=hXokwArjgnLJBZ0sRhk2A01sak/hPEpibzJ0KVlGul2gFsz9VDiowqAwCRAGozzABUOpwfU7LQ7ZiYWJk2DnqyUasDHbn1LCdevZcOd0ep9t/o8fNevwsujgRzaBbugn": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP.pdf",
+  "bytes": 1524649,
+  "texto": true,
+  "carpeta": "SUM_63_2026-ASS_67465939"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=HfOL2PcH4GbDimqQz2n4hwioFR2z4jap9WfdFgaJ1KZOV1dVO5mSE0AQ4H6T8MN8Gns7q4TkI6jyptVs3HWWKYEEhlLU5BLv53p8grueQ1b6CYyL7SIrUOBFfNf52ZqA": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT.pdf",
+  "bytes": 163643,
+  "texto": true,
+  "carpeta": "SUM_63_2026-ASS_67465939"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=8lm9oiOUozxGtBIjCFvPqgxfaQZry3p4VTyLQPe5rISFexNh%2BseId/IhX%2BviSw4025KjgEKkofOuGigYKDuzt2OvsZf9MPkDPakHYzeZqzN45ClyWkoJ44mKM70IFcOu": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_MOD_PROP_EC.doc",
+  "bytes": 77824,
+  "texto": false,
+  "carpeta": "SUM_63_2026-ASS_67465939"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=IfB1SOrXD88pCwd34gFiGW9Rh9NTmOe2EfYCX0r/1DQpBvsXa72ZRupTm0r/GXJs1geDBqE7%2BguVzWXyjNBqyGLMdOVB0jrmpbxZJ%2BZ9FSyCx2e6p7hqtlp2aFupgHMr": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "04_Additional_DEC_RESP_REQ_PREV.doc",
+  "bytes": 71168,
+  "texto": false,
+  "carpeta": "SUM_63_2026-ASS_67465939"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=AYDl4TiMGJXCBTxOmv4x4XmaK0QZSRErpneebT5WfEJJq5Hx446e0Tc4yc5MtQjW0fUEFrU0KmZRYIXSzm6D0lXTMPh9LmZotBCoP9zHTu0//q7NB2iMZvNyf0xrJmjt": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "05_Additional_DOCS_EDITABLES.doc",
+  "bytes": 134144,
+  "texto": false,
+  "carpeta": "SUM_63_2026-ASS_67465939"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=%2Bt0G6DxT8ZDT3MAMUkQ3NyajI0wZw/XVha6TombREk0sXHmkMmK9dn8lQORAA/v9SQuBh3dFiGVxpRSPYY%2BS7jdnQpYPM9hrVs%2BSj%2BkNVrDDdQD9RyhUmzT4jZ2In4zL": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_Pliego_administrativo.pdf",
+  "bytes": 2698246,
+  "texto": true,
+  "carpeta": "2026063652_ec04bfcd"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=sJ5QMzIo5FwInLtoWHkhJO2RgiFL/rUsXljc2phr8O0iWtyBw5El7ATvTjJoFgbJFnVCdnjAfORZwGZ82%2BLiHeJznGp2vrlP3msTtFHR6H945ClyWkoJ44mKM70IFcOu": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_Pliego_tecnico.pdf",
+  "bytes": 334084,
+  "texto": true,
+  "carpeta": "2026063652_ec04bfcd"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=w4gFSMDcXsKOcuVlHOngXt9LdukDiAvtjB4Ha9oAT1Bbs/rRxPgqBmIBPn6ZcvlxbBH0w47bZNQVceu/zsQA14jd5wxaVz8X6ERkmCWJDUDfdyQgZAdTm3EfcUAC7CJ6": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PLIEGO_ADMINISTRATIVO.pdf",
+  "bytes": 716135,
+  "texto": true,
+  "carpeta": "CON_2026_248_1fbc4084"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=U8wtj/g3eiCv7iXpb7CdN6YiAEvLZebb%2BdysGTqnkmZfAvKe0Oq99mfkNhBJzbPAeps7mUjFQh1LCWzsRFoTtXgpqWIbR/7r%2B4OBIdyg8ecC1/zDIE0Kw/PWNnLS0Z0z": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PLIEGO_TECNICO.pdf",
+  "bytes": 254713,
+  "texto": true,
+  "carpeta": "CON_2026_248_1fbc4084"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=c/sALy8qqjQ6gk0QrdMTvTV4QOjdjDsYLPp%2By7WmPKkcvnP4qLPAtGUOlPfxZ33s167Uh%2BJEzaAZunJIZ99G9gB6oKeJaUuLIrnWs6mA6HTDdQD9RyhUmzT4jZ2In4zL": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_Anexo_II_Instrucciones_DEUC.zip",
+  "bytes": 22443,
+  "texto": false,
+  "carpeta": "CON_2026_248_1fbc4084"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=mPhxj%2Be55eG6bB822jfnwI2qcrZTL/jO02LSoKPSKXNdlj8PE4OZhUO%2Bl4zrBggwEsPqPZk7%2B9MDg8phIKsb%2BeKy/nBTVGkSptuLCpe91zTfdyQgZAdTm3EfcUAC7CJ6": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "04_Additional_Anexo_III_Compromiso_adscripcion_medios.zip",
+  "bytes": 16855,
+  "texto": false,
+  "carpeta": "CON_2026_248_1fbc4084"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=TbJjiuAc9DzauPlXcqiXPDOugk0F63Smf5wLIKJTKZiUSmtTxEfSsqsh2ZjMageJ/Rst6ZzqpIHpcddGFn5vtfR3U5FgrORsTjiaCqHaPH2Cx2e6p7hqtlp2aFupgHMr": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "05_Additional_Anexo_V_Formalizacion.zip",
+  "bytes": 13611,
+  "texto": false,
+  "carpeta": "CON_2026_248_1fbc4084"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=2L9k8f/lvJPgynW89J3a/8MRi7SPVWhbLJutfy3KBlrUwsIsGBhnQ8iz2pJrDyWhF3G5Z0YXRdheatTubtG56T9huw/Gaf70TpFjrtsZUIXfdyQgZAdTm3EfcUAC7CJ6": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "06_Additional_Anexo_IV_Oferta.zip",
+  "bytes": 19385,
+  "texto": false,
+  "carpeta": "CON_2026_248_1fbc4084"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Ur326eLT6UJW1GJ2FVXR7jbV3096FANKfTXDGgaptZ71yiDZG4YBH9LDmg6M9aUc6vE26jP5r/iiis4xpnPHe6afOCr55Bw56tNT3ZFU0fYC1/zDIE0Kw/PWNnLS0Z0z": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "07_Additional_Anexo_I_Declaracion_Responsable.zip",
+  "bytes": 26538,
+  "texto": false,
+  "carpeta": "CON_2026_248_1fbc4084"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=18sY/iD9HJ5rqGdkYsn89rTReyxsLKRqXVG1005S5Pwvna%2B8RcU0B4gvttg2Okho3kEyJT66QUo4pssU20BR8pk9aMFPJ4Y1zcDU6efVin8ZyAJWGsSt0OzTSTyw9JAs": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_2026_028_SE_PASA__PCCP_fdo.pdf",
+  "bytes": 789177,
+  "texto": true,
+  "carpeta": "2026_028_SE_PASA_76ceb028"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=jo4iYcwIuB%2B/BkqwZ1oZvqwDoQMjtefHqqAIHXiaNpKU6FUvfTs8SIRaZUpD12p/h8ALz2L2EeNExcLPFMMemOLgmTUz7B0KZ5Q2YGF7QlQC1/zDIE0Kw/PWNnLS0Z0z": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_2026_028_SE_PASA__PPT_fdo.pdf",
+  "bytes": 212215,
+  "texto": true,
+  "carpeta": "2026_028_SE_PASA_76ceb028"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=v9F7vGH2nxGMU5kiRETTNSVJgLG/cmS/q1oGfR/Xl/Ab16j9dgXzgHanUHra2hpdUHkTQ8nt0RHxpKEbda3emX44ngONcRBgo/0ufg5wsgGB0nvVKRzfe4rpHcnlPhSZ": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_Solicitud_Doc_Tecnica-2026_028_SE_PASA.pdf",
+  "bytes": 40343,
+  "texto": true,
+  "carpeta": "2026_028_SE_PASA_76ceb028"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=p/QurbgodOVXI/bjgY8mUEOTK%2BG8P0U%2BuOfQVT/yhxBBNTcQlSjtj63qBTfMBR9ljeVJLcohgtbpa3eBJQ638Zj9pxZnH8waiZFVGa4zE9xt/o8fNevwsujgRzaBbugn": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "04_Additional_Anexo_I-_2026_028_SE_PASA.pdf",
+  "bytes": 184447,
+  "texto": true,
+  "carpeta": "2026_028_SE_PASA_76ceb028"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=4TRkIoob/FeQ3bPbSguLqfcdTX7sM2hNgadBJm587lgfJvlnCt8d7wuVDoZVv7avmhKFt3HijQZxUZrcW1DR8EFYpNPTdLQzK6tiwkzXMAv3GVhXrFFqN7yFncy7YfRK": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "05_Additional_Anexo_II-_2026_028_SE_PASA.pdf",
+  "bytes": 146403,
+  "texto": true,
+  "carpeta": "2026_028_SE_PASA_76ceb028"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=k8wWhPvgBFpbIjmA7NU45U9VJ3T%2BenYNLfhgYyMCaTCtGaK6hmyiWKM12JQAIwwWMM50Kqi91%2B0HqR63muijOXjx2y4togno544MQc7i5iTVTD3T98KC0nSgQFM0q%2B5s": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_100-2026_PCAP.pdf",
+  "bytes": 550313,
+  "texto": true,
+  "carpeta": "100_2026_b5beca73"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=e2gJJ/YNsCUvWxaIFu9Rpwx%2B2IuzeArUGSAIPiKYCHylXuYqV2oxnqKg1p9D6B5PFCNtSr%2Bk1t8/PtKH0uTHF/2pcdxEuWDP89/h2y3kjx5JOVDbGCDM%2BMigrvuVS7Rv": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_100-2026_PPTP.pdf",
+  "bytes": 1143920,
+  "texto": true,
+  "carpeta": "100_2026_b5beca73"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=kRWzoev%2BqgDvhvc4t0S0NY%2B4nAFBhx8K%2BsufVWEYm9zPrxgxLuKDrvBu%2B8rO/9NXdTvul1Ku3XM3Or0mwyHDf2ka3sK3GnBkMljPvemgPlL3GVhXrFFqN7yFncy7YfRK": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCA.pdf",
+  "bytes": 649652,
+  "texto": true,
+  "carpeta": "506_2026_6c91235e"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=2BjEZ9LiuoB1ktrdm58eoRRjZWkopaDauouACOKJezYdiAMa1JCIaARc0ioVS0fGPFBooGJbsdDZq7A7tVRQiyGg0680VWoeUSGE/U/MUpCHAj0WEJrB5sP7amrh2jBD": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT.pdf",
+  "bytes": 290456,
+  "texto": true,
+  "carpeta": "506_2026_6c91235e"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=ruVmm%2B4b0jeIJkHRpbruPQikEEa%2BmoSeM72JEPyn7PWCD0OAq3oiRdNRO4R34bQgAGUSonhEJIS4mvbOAC6TEX0lqcp9siU6IY1DtTTB8lbVTD3T98KC0nSgQFM0q%2B5s": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_ANEXO_2.doc",
+  "bytes": 111616,
+  "texto": false,
+  "carpeta": "506_2026_6c91235e"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=lf3vZsiuv5l/opzFRdzyEoPPBfxBOYQVxXSFjz5MFGInDHI3za/hDUyS8XQS4PLKCaJ9SF7ktxf2fdgWhZRoOcOpjTVEG6xRzpmBDmewXTu1aXEvq3KHa/AEHgtDrQw0": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "04_Additional_ANEXO_3.doc",
+  "bytes": 115712,
+  "texto": false,
+  "carpeta": "506_2026_6c91235e"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=MQC%2Bpq8yWGAf6FdRGAwuU9TM1L68WP3%2BKXpGDJFj8FmCcHJf8S82ZbBgyZII4ojdB4i7qcVUIz8fhC7RnCHLcY7rJFsOfFKzn0F9x7cLGoEC1/zDIE0Kw/PWNnLS0Z0z": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "05_Additional_ANEXO_1.doc",
+  "bytes": 116736,
+  "texto": false,
+  "carpeta": "506_2026_6c91235e"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=6oyHwfNedpezjiiejThZNMDgZxRhLIDnWYMntbRQms5j4NK1ULIUfxWvwJ1uLeXbxTgQJ/jWqw8lV573vwyCFFcqOPZUNEoE4htgQ8lVsZy1aXEvq3KHa/AEHgtDrQw0": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "06_Additional_ANEXO_4.zip",
+  "bytes": 143049,
+  "texto": false,
+  "carpeta": "506_2026_6c91235e"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=cYyf1Pqv625SNDWGL3HyO1vsOe%2BNLjHkhxxRmHI57cYj/RpVV8ybR9bMHmCnS5tvoG2uk906hQZK1ML5D3qbN0aYzFIQC38lFINFIknHurOB0nvVKRzfe4rpHcnlPhSZ": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_Pliego_de_clausulas_administrativas.pdf",
+  "bytes": 268453,
+  "texto": true,
+  "carpeta": "ABR-SERV-2026000024_6b319f6e"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=cYXIXXYYUUrH45/N1hF7hdvl6m41hFti0hgwbuLLJgIIWbn15lTqXmczDIuJUkps9DbFhg83p5/lUkghpgISDG1hSouWG4nc7%2BZzw2wKL06HAj0WEJrB5sP7amrh2jBD": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_Pliego_de_prescripciones_tecnicas.pdf",
+  "bytes": 145960,
+  "texto": true,
+  "carpeta": "ABR-SERV-2026000024_6b319f6e"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=KqdVeoilEmM%2B4vM6li8pUWe0a2BH0Ny5Z8k9W5kMjAG7KVsew49qUcgHVLBFNtfwZZIJvJD0SOZHTVS/V7jefvusQwRjNTSPnMETq%2BbJmPAZyAJWGsSt0OzTSTyw9JAs": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP_suministro_Office_365.pdf",
+  "bytes": 912659,
+  "texto": true,
+  "carpeta": "2026_3517_Suministro_OFFICE_365_a64cc039"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=BUhG5eIk9Ko8sxsLL7bVU61Jly%2B3a6C2%2BDNU34MK2uVQHMN7TDF1nZGtiLaVgVm7xxCkunAJjYrdyd8Pwj4ZfCshiEx4ZuEZG/Ylw2tjjc9t/o8fNevwsujgRzaBbugn": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_Pliego_tecnico_servicio_Office_365.pdf",
+  "bytes": 244334,
+  "texto": true,
+  "carpeta": "2026_3517_Suministro_OFFICE_365_a64cc039"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=KN8WBNWTdjxQ7gNE/K3ARA0dB7QTcRGnm80eYPAPVzFNtbyogLiiaJHVzi4lI9jGN0XRPAT2wPMB8XMSo5bHsPcLuIin4VOcY%2BlSh927UwR7QB3HKyQaFUExmUVQCerk": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_Expte_2582-26_PCAP.pdf",
+  "bytes": 1243096,
+  "texto": true,
+  "carpeta": "2582_2026_dcf51763"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=WgZ7Fa0wWg7vYAhlMA%2BtuNhAneEvBbAf%2BBFEFm9K7chOYzuUoP/gu0CJla%2BQCS722FJuZWTSmjd%2BuY99K2MMob%2BEqUV6JUdyZlfHwMKQ9O7DdQD9RyhUmzT4jZ2In4zL": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_Expte_2582-26_PPT.pdf",
+  "bytes": 4594488,
+  "texto": true,
+  "carpeta": "2582_2026_dcf51763"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=LMv/Msrt0BS/Nc0X9wZ%2B9cGdiasTIdurVKPTmO1ChX43u5t6SVegeR/7KAGCoBp7ESvsATJCCZazJNoQwB1vXPCGKUziUQmR6Q39K8muUMKB0nvVKRzfe4rpHcnlPhSZ": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_51264-2026_PCAP.pdf",
+  "bytes": 300214,
+  "texto": true,
+  "carpeta": "51264_2026_d4d7a500"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=q8/nNRFPeyxh/rTsRc%2BbcB0fsqygY4q458lMibUAtmAzs59ZjouGI0zFUJggr82S/bqYbsHFbzj97yCJ2xU9idJZsGPiLP89hDF%2BkkZyBBBt/o8fNevwsujgRzaBbugn": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_51264-2026_PPT.pdf",
+  "bytes": 443011,
+  "texto": true,
+  "carpeta": "51264_2026_d4d7a500"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Do/wPESu7wVQYZ1uJ1dE5yaVMUZrTGMpLp55QxIb2fG3AzHxWfk5q4IXxxIrkquTvgG/2ueMkDG1Up65rmEv7UVrIbIpsMXi8EK9H/U86AiHAj0WEJrB5sP7amrh2jBD": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_ANEXO_I_-_MODELO_DE_PROPOSICION.docx",
+  "bytes": 66444,
+  "texto": true,
+  "carpeta": "51264_2026_d4d7a500"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=mXy1q4Uo/XWi5tg%2BgVHhHPZjX%2Bx2Za2ISDY2WRNcx/EswU3QuR4r5FziPPQgmb9l%2BvHd%2BqIgjz/x3kxDy1Gq4ohotN86y0S5QNajNz%2BXfFeCx2e6p7hqtlp2aFupgHMr": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "04_Additional_ANEXO_IV_-_DECLARACION_RESPONSABLE_DEL_CONTRATISTA.docx",
+  "bytes": 67841,
+  "texto": true,
+  "carpeta": "51264_2026_d4d7a500"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=EhE5ADtB2FJnSR1YLT%2BBg79oKjSAbVw0EDsb4iTN4DTPssZL15QkkOjXrxw0rMynSTPAmwUVhncKYatKx/cC69bvBTExkxQ33frq2IQfN77VTD3T98KC0nSgQFM0q%2B5s": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_8___PCAP_SERVICIOS_DE_ACCESO_A_INTERNET_MEDIANTE_C.pdf",
+  "bytes": 1220030,
+  "texto": true,
+  "carpeta": "2532_2026_1ec81162"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=RlQj7VO262M5gZwxCpCzVq2uTNlycw4iwkFTW%2BLaz0p4LffRBGgsRX1Oq1/GWRgxVGs7QlX30zCYUOqLmzuJN2wCvFMwMbe7zNekd%2BNyMh2Cx2e6p7hqtlp2aFupgHMr": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_6___PPTP_Servicio_Acceso_Internet.pdf",
+  "bytes": 761346,
+  "texto": true,
+  "carpeta": "2532_2026_1ec81162"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=I8fN756Y%2BZN6qaQefnjx1HHJGispOKU0k2PsX8KGBxC1YGreyfCkvjsfQ2AxsQxtpd7VoKs26QPw4FM/dX%2BldxGxLZQhhzgxayxZz%2B3FaL21aXEvq3KHa/AEHgtDrQw0": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP.pdf",
+  "bytes": 692224,
+  "texto": true,
+  "carpeta": "CP-SERV._02_2026_f485039b"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=xbOT3kTqUw3JO9CSYVwIEQCpEX8Nx7M3x1WrEgmdPVAJQEavbGv/A0hm%2Bc/ab4scS80wAciNu6EWXse48duppBVBr6j274yrk6ni/Bt78eE//q7NB2iMZvNyf0xrJmjt": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT.pdf",
+  "bytes": 593630,
+  "texto": true,
+  "carpeta": "CP-SERV._02_2026_f485039b"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=YipJNl%2BbzF70900ZthhBraU0lPZCt1EjGhqLRRoD9d8fPeo/zXb9ohyShavSYDvNZTFk581yJYNhoRGT6dp7h0TgCtyWrEZWgodtV6EsO%2Bu1aXEvq3KHa/AEHgtDrQw0": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP.pdf",
+  "bytes": 642776,
+  "texto": true,
+  "carpeta": "994_2026_33f24536"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Wvi00fliMjQfj9maTIel3Ngyk83VaaIhdMPFn7Z1bbjfY8uozrm8ydg2%2BCcU8FZHkzUWv/FwS2mSLEnIq1wtx6/vQsq59V6bJnsG/m4X2YVJOVDbGCDM%2BMigrvuVS7Rv": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT.pdf",
+  "bytes": 253016,
+  "texto": true,
+  "carpeta": "994_2026_33f24536"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=T4jtBSe1qJdCrFLHoqLoCzwWETssPLE0nGDmYJOUqDK1qsKqfGNiuWbMAMjsxWZjCFzlyaW4O5czecMqL7kPpLLX84TUBKRun48v5eXxHTT6CYyL7SIrUOBFfNf52ZqA": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP_csv.pdf",
+  "bytes": 903506,
+  "texto": true,
+  "carpeta": "10744H_2026_f5b2234f"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=qp8L%2BG4RXR0uebn9vNhziCOJ/Q8diDLQwW%2B/KI69uP9Scy8m07AdGqPx29aMJpoS3Sz1/Dovo1VTZiRSnMK27c1X610By0ZbYv/VZHgDH7p45ClyWkoJ44mKM70IFcOu": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT_Equipament_seguretat.pdf",
+  "bytes": 187283,
+  "texto": true,
+  "carpeta": "10744H_2026_f5b2234f"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=6ikLvTCDx4IquTOU0EvSvzZn9MPVNZWSv6oaipv3O1UI9h30E/6frHxKef/Vefw2IkNNTu0mXkNIsrAtCEQ4PxfH1UMTEK65G6Kmua0rT7bVTD3T98KC0nSgQFM0q%2B5s": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCA-ENS.pdf",
+  "bytes": 851481,
+  "texto": true,
+  "carpeta": "2026_00064289L_42c547eb"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=%2Bo1DuLpHRsqJAYSeZVs1njg6fIjNww26%2BaSpZcmsqFmnqcsZZv75gOnjxBIb7E%2B7i42kWRkknhw8EAcsWuyozVH/KuQk/InTXxQADKbYLtLfdyQgZAdTm3EfcUAC7CJ6": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT-ENS.pdf",
+  "bytes": 134868,
+  "texto": true,
+  "carpeta": "2026_00064289L_42c547eb"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=GcQGv10t9hqheTbPdLUg4YoPrqJ1%2BV7vGG4o23f1KTe6CJPX76rv5Bhie4M0l%2BbJtAyhfoKxFMXiR3IoFJUG0OVqKiYKBFM%2BwnIuWWaeHLSHAj0WEJrB5sP7amrh2jBD": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_ANEXOS_PCA-ENS.pdf",
+  "bytes": 661106,
+  "texto": true,
+  "carpeta": "2026_00064289L_42c547eb"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=MoWc5NvfZZ0NhSeRoO1N4J0ypWEXyuPEYbfuguYaIywusM2eJlCA6ca73p/To7A3elYoOGIcy2XYd85yIG5jDs9/Un1zkTSgJ2kg7E%2BTg8vVTD3T98KC0nSgQFM0q%2B5s": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP_1140.pdf",
+  "bytes": 557648,
+  "texto": true,
+  "carpeta": "AS_2026_0000001140_b59f29ac"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=lyGdG7WPhDcrQahE9Jfq6wocw%2BjxsnCkduG3Puv0p0%2B4tQcUa0VIcYaC7ms2NzZL5NTClEScxgaXZLuzhK0crCWzzQD7jCI4nWXod1QkkSrVTD3T98KC0nSgQFM0q%2B5s": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT_1140.pdf",
+  "bytes": 293989,
+  "texto": true,
+  "carpeta": "AS_2026_0000001140_b59f29ac"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=f1D%2BXbIKffrSUXf2MKF9LePGjaEBE%2BWWK9ADcLMagd4AzhVqQORIBJbEYPCI6Lhrne/VgEmfERA6FLC%2BmZZ84uP8kxtAhlVorw1GCRiK2B7VTD3T98KC0nSgQFM0q%2B5s": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_ANEXO_IV_1140.pdf",
+  "bytes": 154133,
+  "texto": true,
+  "carpeta": "AS_2026_0000001140_b59f29ac"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=7788PlxsZmx%2BAEpv6fYO%2Bp4j8srxUGWnj55w8CA78UqL0gwQ1r9eLCs3/YyZL6ejqHKZEv2yljAoN1pPAhvYt1kVUYDgpEgdaGSxUUipe8NJOVDbGCDM%2BMigrvuVS7Rv": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "04_Additional_ANEXO_III_1140.pdf",
+  "bytes": 153657,
+  "texto": true,
+  "carpeta": "AS_2026_0000001140_b59f29ac"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=0YHAcmfAYeRc%2B1IcojA/iec0eHFz6HAZx3Z9yQAZWJJrkEgiWL8ZzuQg2Vx4LZDZvBofxwxxF3HpZtBfc1xy8vQFHNT1q1yvWJXhidKJy8VJOVDbGCDM%2BMigrvuVS7Rv": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "05_Additional_ANEXO_II_1140.pdf",
+  "bytes": 152897,
+  "texto": true,
+  "carpeta": "AS_2026_0000001140_b59f29ac"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Pqb/X1x//oB/hhTHB7UVS5uYNnt7DrqlT62Wkil9mwtCCx3Zu8c/01Um9kOEWayREWhVjniDpgh0MBu3SM1//kspavowu4%2Bmrwn5wPOShL4ZyAJWGsSt0OzTSTyw9JAs": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "06_Additional_ANEXO_I_1140.pdf",
+  "bytes": 181422,
+  "texto": true,
+  "carpeta": "AS_2026_0000001140_b59f29ac"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=lP%2BAgZBdbdwvXYmIf6YMUWJY9OTd1hMcsCYH4gcgQnuOnIHLWQipphbCUBy7rB%2BA3auczQWON4EA5B4TaqM%2B9vfkCu7QeYfhWAYfqasnheaB0nvVKRzfe4rpHcnlPhSZ": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_FB_24_2026_PCA.pdf",
+  "bytes": 805369,
+  "texto": true,
+  "carpeta": "FB_24_2026_43f4dcee"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=EASDRDeESEfuZ0saLmsc/W6yxXZoJNF1rAAYsn8aG6YbPcphBNcyqXb4oeOQb4oFOLsgChqj3GPH/YkCGyt7BbnwfVPxNpuc6NGq2C4sg7h7QB3HKyQaFUExmUVQCerk": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_FB_24_2026_PPT.pdf",
+  "bytes": 535858,
+  "texto": true,
+  "carpeta": "FB_24_2026_43f4dcee"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=jIJ3sRONTEb7ahT5ofDEBoko53ZPosOr4OJPWYw8Cl8V1%2B4Hdv7Av/lYHs9c1yalYXftPGl5BxHk0NCuASFEd03T5c7cfFRDy63UX7f%2BQHP3GVhXrFFqN7yFncy7YfRK": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_3666__26_5-PCAP_Contrato_de_Servicios_Abierto.pdf",
+  "bytes": 478622,
+  "texto": true,
+  "carpeta": "3666_2026_7846fd08"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=43uicL5ER3ZiXZiTUJscLlH1pcxMkbBOs/z7JT0cVMbL5Ukhxurw5DGMTgTsjx8cpP5jKo4Pxp34oVa80dvqaxUbgMLIciLIL6ZMZ1k1EMbfdyQgZAdTm3EfcUAC7CJ6": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_3666__26-4_PPT.pdf",
+  "bytes": 232030,
+  "texto": true,
+  "carpeta": "3666_2026_7846fd08"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=tbJjOW/ByNphNYvJ6AqlfZ3bfR78SMoXnTBOlLLVa4gb1EFdlG2DQRcWsmEbm9wn7tVpTF3%2B3rQBcopI2Ze9EXoT2LOGm1lSFzdJCLi9WfMC1/zDIE0Kw/PWNnLS0Z0z": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_Annex_I.doc",
+  "bytes": 44544,
+  "texto": false,
+  "carpeta": "3666_2026_7846fd08"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=e3dKINLlylk0qUE%2BWckrOtIbtRfEoFDUVupU7oGgby7yiEnrYf3Jrd/viy3Hger9B1Fb4e/2J/1tvtNkhLoKSy5wCftyMeGeZD%2BKrjP7TN3fdyQgZAdTm3EfcUAC7CJ6": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "04_Additional_Annex_III.doc",
+  "bytes": 41472,
+  "texto": false,
+  "carpeta": "3666_2026_7846fd08"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=JyePtMJGLATvWdvNG%2Bczdx/ua5IJIJT7a5/qLWyR8wheBBOJkL3RIU0C8/Wea/ZCCbuGqu%2BHCZvW1eARIJc/S8Rk6Rm7TSIyufVX5f8bfkcZyAJWGsSt0OzTSTyw9JAs": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "05_Additional_Annex_II.doc",
+  "bytes": 62464,
+  "texto": false,
+  "carpeta": "3666_2026_7846fd08"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Naxoly26VBEvCsoNoo/n1fCbuowduNOdy0Q7OAngG9DKtNli2KxuAscrkOFz5jqmhf7wkYLhZdVHMhUT73lkm3ZvtDZFJffd3tFLEt9TsBaB0nvVKRzfe4rpHcnlPhSZ": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "06_Additional_Annex_IV.doc",
+  "bytes": 44032,
+  "texto": false,
+  "carpeta": "3666_2026_7846fd08"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=u0iSu/9Wo9GIscCDz8LrxRetLDENp5wF9ecqoO3ToT8gVLZZRGVqtAr7d5eqHOnE2qnOnF7w2EQ3r6%2BReognmXVP7WEmLCunMSGKtqIQVept/o8fNevwsujgRzaBbugn": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP.pdf",
+  "bytes": 464359,
+  "texto": true,
+  "carpeta": "2026_2053_02f50b6c"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=kfriCfvF4sqZGWA76YthBSNrUezZ9VgPAj2r9JsLnXceCUFaiWIfnIHiVAmcbnr27vOksBebsbeat3tSUr18QGSUaBWTr/SnvGupR/Um/UVJOVDbGCDM%2BMigrvuVS7Rv": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT.pdf",
+  "bytes": 470839,
+  "texto": true,
+  "carpeta": "2026_2053_02f50b6c"
  },
  "https://contrataciondelestado.es/wps/wcm/connect/PLACE_es/Site/area/docAccCmpnt?srv=cmpnt&cmpntname=GetDocumentsById&source=library&DocumentIdParam=dd6eb4f4-2df3-4a2d-aa21-30599a95a1ed": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/wps/wcm/connect/PLACE_es/Site/area/docAccCmpnt?srv=cmpnt&): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_19-104_Pliego_unico.pdf",
+  "bytes": 1140764,
+  "texto": true,
+  "carpeta": "19_104_4fb17b9c"
  },
  "https://contrataciondelestado.es/wps/wcm/connect/PLACE_es/Site/area/docAccCmpnt?srv=cmpnt&cmpntname=GetDocumentsById&source=library&DocumentIdParam=0af5037b-89e1-437f-9f20-a37373a468dc": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/wps/wcm/connect/PLACE_es/Site/area/docAccCmpnt?srv=cmpnt&): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_19-104_Nota_prescripciones_tecnicas.pdf",
+  "bytes": 291737,
+  "texto": true,
+  "carpeta": "19_104_4fb17b9c"
  },
  "https://contrataciondelestado.es/wps/wcm/connect/PLACE_es/Site/area/docAccCmpnt?srv=cmpnt&cmpntname=GetDocumentsById&source=library&DocumentIdParam=da0f44b6-9bf6-4ed8-a6c0-a09205037782": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/wps/wcm/connect/PLACE_es/Site/area/docAccCmpnt?srv=cmpnt&): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "03_Additional_19-104_Anexo_IV.pdf",
+  "bytes": 467361,
+  "texto": true,
+  "carpeta": "19_104_4fb17b9c"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Z5vv4YzyFjNHHEWJL6Dls%2BPG9nHtoRzdf/%2BUDP%2BpvZW17X9LCiekenmyLdNs5TaCM1CY1P%2BrrFBOnZKT6neXrSZVpPu2m3XMbvHx9cRBEkSCx2e6p7hqtlp2aFupgHMr": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "04_Additional_19-104_Anexos_I_II_y_V_28-10-2026.pdf",
+  "bytes": 1271385,
+  "texto": true,
+  "carpeta": "19_104_4fb17b9c"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=4TRkIoob/FeQ3bPbSguLqRBXcYm%2Bk1LJ6NRnuf8lvATYytiwrJ9Z2HKXfA9hOagh3MV3B0puThU8GPzzP82G//o2JQ3MUowSe3tn%2BtdmySR45ClyWkoJ44mKM70IFcOu": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP_Exp_27_2026_SDA_asesoramiento_consultoria.pdf",
+  "bytes": 736860,
+  "texto": true,
+  "carpeta": "27_2026_cbc96fff"
  },
  "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=/IHwvzevUfMsv5fWfDjAe82Suhgb72HQwvRz0AHiWmtmYlRns/dAe0ImWPHCYrLAPz9U/AZa92RzJl2NRaUkuudLKSci1beATMWEUWwhE5OHAj0WEJrB5sP7amrh2jBD": {
-  "estado": "error",
-  "error": "devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was",
-  "intentos": 1
+  "estado": "ok",
+  "archivo": "02_Technical_PPT_Exp_27_2026_SDA_asesoramiento_consultoria.pdf",
+  "bytes": 359906,
+  "texto": true,
+  "carpeta": "27_2026_cbc96fff"
  }
 }

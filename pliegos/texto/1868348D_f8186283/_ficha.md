@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] PCAP firmado.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] PPT firmado.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] PCAP firmado.pdf: 01_Legal_PCAP_firmado.pdf (715 KB)
+- [Technical] PPT firmado.pdf: 02_Technical_PPT_firmado.pdf (635 KB)

@@ -1,0 +1,487 @@
+
+
+--- página 1 ---
+ 
+PPT/1 de 13 
+General 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA LA CONTRATACIÓN DEL SERVICIO DE 
+ALOJAMIENTO Y MANTENIMIENTO DEL PORTAL WEB 
+ 
+ 
+PROCEDIMIENTO DE LICITACIÓN: ABIERTO SIMPLIFICADO  
+ 
+ 
+ 
+ 
+
+--- página 2 ---
+ 
+PPT/2 de 13 
+General 
+ÍNDICE: 
+1. Objeto ................................ ................................ ................................ ............................ 3 
+2. Antecedentes ................................ ................................ ................................ ................. 4 
+3. Alojamiento y Mantenimiento del Portal Web ................................ ................................ . 4 
+4. Soporte ................................ ................................ ................................ .......................... 4 
+4.1. Disponibilidad del Servicio................................ ................................ ....................... 5 
+4.2. Servicios Solicitados ................................ ................................ ...............................  5 
+4.3. Niveles de Servicio (SLA) ................................ ................................ ........................ 6 
+4.4. Gestión y comunicación de incidentes de seguridad ................................ ............... 6 
+5. Entregables ................................ ................................ ................................ .................... 7 
+6. Descripción del Portal Web de EMACSA ................................ ................................ ....... 8 
+7. Bolsa de Horas ................................ ................................ ................................ ..............10 
+8. Plan de ejecución ................................ ................................ ................................ ..........10 
+9. Equipo Humano del Adjudicatario Adscrito al Contrato ................................ .................11 
+9.1. Responsable del Proyecto del Adjudicatario ................................ ..........................11 
+10. Equipo Humano de Emacsa ................................ ................................ ......................11 
+10.1. Responsable del contrato ................................ ................................ .......................11 
+10.2. Interlocutores ................................ ................................ ................................ .........11 
+11. Requisitos ................................ ................................ ................................ ..................11 
+12. Propiedad Intelectual y Confidencialidad ................................ ................................ ...12 
+
+--- página 3 ---
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA LA CONTRATACIÓN  DEL SERVICIO DE ALOJAMIENTO Y 
+MANTENIMIENTO DEL PORTAL WEB 
+ 
+PPT/3 de 13 
+General 
+1. OBJETO 
+El presente contrato tiene por objeto la prestación de los servicios de alojamiento y 
+mantenimiento del Portal Web corporativo de EMACSA, garantizando la continuidad y 
+disponibilidad de los contenidos, funcionalidades y servicios actualmente publicados. 
+El presente documento establece las especificaciones técnicas y los requisitos que 
+regirán la prestación de los servicios objeto del contrato. 
+El objeto del contrato incluirá la consecución de los siguientes objetivos: 
+• Mantener la infraestructura de alojamiento, incluyendo la actualización y 
+administración de los sistemas, plataformas y componentes software necesarios 
+para garantizar unos niveles adecuados de disponibilidad, rendimiento y seguridad. 
+ 
+• Mantener actualizadas la plataforma WordPress y las extensiones (plugins) 
+utilizadas a sus versiones estables soportadas, garantizando su compatibilidad con 
+la plantilla y los componentes del Portal Web. 
+ 
+• Adaptar el Portal Web a los estándares y buenas prácticas de seguridad vigentes, 
+implementando las medidas necesarias para corregir vulnerabilidades, eliminar 
+funcionalidades obsoletas y garantizar la compatibilidad con los requisitos de 
+seguridad exigidos por los navegadores web y demás tecnologías utilizadas. 
+ 
+• Mantener un editor de contenidos que permita gestionar el contenido del Portal Web 
+de una forma fácil e intuitiva. 
+ 
+• Revisión periódica del funcionamiento de las aplicaciones incluidas en el Portal Web 
+y corrección de los posibles fallos que se puedan encontrar. 
+ 
+• Mantener la plataforma escalable y flexible para permitir otras futuras integraciones 
+con datos externos. 
+ 
+• Adaptación y compatibilidad con las versiones soportadas de los principales 
+navegadores web utilizados por los usuarios, incluyendo, al menos, Microsoft Edge, 
+Google Chrome, Mozilla Firefox y Safari. 
+ 
+• Mantener y optimizar las capacidades de posicionamiento en buscadores (SEO), 
+incorporando las herramientas necesarias para facilitar la indexación de los 
+contenidos, mejorar su visibilidad y permitir la restricción de aquellos contenidos 
+que deban permanecer excluidos de los motores de búsqueda. 
+ 
+• Realizar copias de seguridad completas del Portal Web con una periodicidad diaria y 
+una retención mínima de treinta (30) días naturales. 
+
+--- página 4 ---
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA LA CONTRATACIÓN  DEL SERVICIO DE ALOJAMIENTO Y 
+MANTENIMIENTO DEL PORTAL WEB 
+ 
+PPT/4 de 13 
+General 
+ 
+• Garantizar el cumplimiento de la norma UNE -EN 301549:2019 «Requisitos de 
+accesibilidad para productos y servicios TIC», alineada con los criterios de 
+conformidad de nivel A y AA de las WCAG 2.1. El Portal Web deberá resultar accesible 
+para el mayor número posible de personas, con independencia de sus capacidades, 
+limitaciones o del contexto de uso de los contenidos y servicios ofrecidos. 
+2. ANTECEDENTES 
+Emacsa d ispone en la actualidad de un servicio de alojamiento y mantenimiento del 
+Portal Web cuya dirección es https://www.emacsa.es. 
+3. ALOJAMIENTO Y MANTENIMIENTO DEL PORTAL WEB 
+El licitador deberá proporcionar el servicio de alojamiento y mantenimiento del Portal 
+Web, asumiendo todos los costes asociados durante toda la vigencia del contrato. 
+La oferta deberá incluir todos los servicios, recursos e infraestructuras necesarios para 
+garantizar el correcto funcionamiento, disponibilidad y soporte de la totalidad de los contenidos, 
+funcionalidades y servicios asociados al Portal Web durante dicho periodo. 
+Actualmente, el Portal Web se encuentra alojado en servidores propiedad del proveedor 
+que presta el servicio. La adjudicación del contrato conllevará el traslado de los servicios de 
+alojamiento y de los dominios asociados a infraestructuras propiedad de la  empresa 
+adjudicataria. Esta migración formará parte del alcance del contrato y se realizará sin coste 
+adicional para EMACSA. Para facilitar su ejecución, se pondrán a disposición del adjudicatario 
+las bases de datos y los ficheros de la aplicación que resulten necesarios. 
+La migración deberá planificarse y ejecutarse minimizando la indisponibilidad del 
+servicio y coordinando con EMACSA todas las actuaciones necesarias para garantizar la 
+continuidad operativa del Portal Web. El adjudicatario documentará la configuración implantada 
+y mantendrá actualizados los procedimientos y elementos necesarios para posibilitar la 
+posterior reversión o transferencia del servicio sin pérdida de información. 
+El servicio de alojamiento ofertado deberá proporcionar la infraestructura tecnológica 
+necesaria, incluyendo los recursos hardware y software, la conectividad, las medidas de 
+seguridad, los sistemas de monitorización, las copias de seguridad y los servicio s de soporte 
+requeridos para garantizar la disponibilidad, integridad, confidencialidad, rendimiento y 
+accesibilidad del Portal Web. 
+4. SOPORTE 
+El adjudicatario será responsable de asegurar la disponibilidad del servicio, incluyendo 
+la gestión y resolución de incidencias, el mantenimiento del alojamiento web y la atención a las 
+consultas de soporte sobre el uso de la herramienta formuladas por el personal de EMACSA. 
+
+--- página 5 ---
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA LA CONTRATACIÓN  DEL SERVICIO DE ALOJAMIENTO Y 
+MANTENIMIENTO DEL PORTAL WEB 
+ 
+PPT/5 de 13 
+General 
+El adjudicatario deberá disponer de los siguientes canales para la comunicación, registro 
+y gestión de incidencias y solicitudes: 
+a) Plataforma de ticketing, que permita el registro, seguimiento y  tramitación de las 
+solicitudes e incidencias formuladas por el órgano de contratación.  Igualmente servirá para 
+registro y control de las actuaciones programadas. 
+b) Buzón de correo electrónico destinado a la recepción de incidencias y solicitudes, el 
+cual deberá estar integrado con la plataforma de ticketing, de forma que las comunicaciones 
+recibidas generen automáticamente el correspondiente ticket. 
+c) Número de teléfono de atención, que deberá habilitarse como canal alternativo en 
+aquellos casos en los que los medios anteriores no estén disponibles o no puedan ser utilizados. 
+En todos los casos, las incidencias y solicitudes deberán quedar debidamente 
+registradas en la plataforma de ticketing, garantizando su trazabilidad y seguimiento. 
+4.1. DISPONIBILIDAD DEL SERVICIO 
+El adjudicatario debe asegurar una disponibilidad anual del servicio igual o superior al  
+99,9%. 
+4.2. SERVICIOS SOLICITADOS 
+El servicio de soporte incluirá, como mínimo, las siguientes actuaciones: 
+• Revisión y actualización trimestral de la infraestructura de servidores  que soporte el 
+Portal Web. 
+• Revisión y aplicación trimestral de las actualizaciones y medidas de seguridad 
+correspondientes a la plataforma WordPress, a los componentes, módulos, temas y 
+extensiones empleados en el desarrollo del Portal Web y a la infraestructura que lo aloja, 
+hasta los últi mos niveles de actualización estables disponibles, sin perjuicio de la 
+aplicación inmediata de las medidas necesarias cuando se detecten vulnerabilidades 
+críticas o incidentes que requieran una actuación urgente. 
+• Revisión trimestral del funcionamiento general del Portal Web y corrección de los 
+posibles fallos detectados. 
+• Revisión trimestral del Portal Web para garantizar su correcta visualización y 
+funcionamiento en las versiones más recientes de los navegadores soportados. 
+• Revisión trimestral de la indexación y posicionamiento del Portal Web en los principales 
+motores de búsqueda. 
+• Realización diaria, programada de copias de seguridad completas del Portal Web, 
+incluyendo base de datos, contenidos y ficheros de aplicación  con una retención mínima 
+de treinta (30) días naturales. 
+
+--- página 6 ---
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA LA CONTRATACIÓN  DEL SERVICIO DE ALOJAMIENTO Y 
+MANTENIMIENTO DEL PORTAL WEB 
+ 
+PPT/6 de 13 
+General 
+• Revisión trimestral del Portal Web para verificar el mantenimiento de los requisitos de 
+accesibilidad exigibles. 
+ 
+4.3. NIVELES DE SERVICIO (SLA) 
+Los niveles de servicio mínimos que deben cumplir los adjudicatarios se fijarán en base 
+a las siguientes definiciones: 
+• Tiempo de respuesta:  Es el tiempo máximo que podrá transcurrir desde la 
+comunicación de una incidencia o solicitud hasta la comprobación por parte del 
+adjudicatario de la avería, dejando registro de esta. 
+• Tiempo de solución: Es el tiempo máximo que podrá transcurrir desde la comunicación 
+de una incidencia o solicitud hasta la comunicación de que ha sido tramitada y 
+solucionada. 
+EMACSA establece los siguientes niveles mínimos de servicio: 
+PETICIÓN TIEMPO DE RESPUESTA TIEMPO DE SOLUCIÓN 
+Incidencia 6 horas 24 horas 
+Corrección de errores 6 horas 48 horas 
+Publicación de contenido 6 horas 24 horas 
+Mejoras o nuevas funcionalidades 6 horas 72 horas 
+El servicio de gestión de incidencias y solicitudes será proporcionado por personal 
+técnico cualificado, con atención en castellano y una cobertura de nueve horas diarias, cinco 
+días a la semana, de lunes a viernes, sin restricción en cuanto al número de incidencias, horas ni 
+sesiones. 
+4.4. GESTIÓN Y COMUNICACIÓN DE INCIDENTES DE SEGURIDAD 
+El adjudicatario deberá disponer de procedimientos de detección, clasificación, 
+comunicación, gestión y seguimiento de los incidentes de seguridad que puedan afectar al Portal 
+Web, a sus contenidos, a sus componentes tecnológicos o a la infraestructura que  presta el 
+servicio. 
+Cuando se detecte un indicio razonable de compromiso, una cuenta administrativa no 
+reconocida, una vulnerabilidad crítica potencialmente explotable, una modificación no 
+autorizada o cualquier otro evento que pueda afectar a la seguridad del Portal Web, el 
+
+--- página 7 ---
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA LA CONTRATACIÓN  DEL SERVICIO DE ALOJAMIENTO Y 
+MANTENIMIENTO DEL PORTAL WEB 
+ 
+PPT/7 de 13 
+General 
+adjudicatario deberá comunicarlo a EMACSA inmediatamente sin esperar a que haya finalizado 
+el análisis técnico completo. 
+La comunicación inicial deberá incluir, al menos, una descripción preliminar del 
+incidente o indicio detectado, los elementos potencialmente afectados, las medidas de 
+contención adoptadas o previstas y, cuando sea posible, una estimación inicial de su alca nce. 
+El adjudicatario deberá mantener informada a EMACSA sobre la evolución del incidente hasta su 
+resolución. 
+La gestión de los incidentes deberá contemplar, según resulte aplicable, las siguientes 
+actuaciones: 
+• Detección, registro y clasificación del incidente conforme a su nivel de severidad. 
+• Comunicación inicial a EMACSA. 
+• Contención del incidente y preservación de las evidencias disponibles. 
+• Análisis del alcance y de los elementos afectados. 
+• Corrección de las vulnerabilidades y eliminación de los elementos no autorizados. 
+• Actualización de los componentes afectados y rotación de credenciales, claves o 
+secretos cuando resulte necesario. 
+• Verificación de la integridad y seguridad del Portal Web antes de su restitución completa 
+al servicio. 
+• Seguimiento posterior para comprobar la eficacia de las medidas adoptadas. 
+Una vez resuelto el incidente, el adjudicatario entregará a EMACSA un informe de cierre 
+que incluya, al menos, la cronología de los hechos, las evidencias disponibles, los sistemas o 
+componentes afectados, las medidas adoptadas, el resultado de las comprobaciones realizadas 
+y las recomendaciones destinadas a evitar su repetición. 
+Todas las actuaciones deberán quedar registradas en la plataforma de gestión de 
+incidencias, garantizando su trazabilidad y la identificación de los principales hitos de detección, 
+comunicación, contención, corrección, verificación y cierre. 
+5. ENTREGABLES 
+Durante la ejecución del contrato, la empresa adjudicataria proporcionará los siguientes 
+entregables: 
+• Con periodicidad trimestral, una copia actualizada de la base de datos y de los ficheros 
+que conforman la aplicación. 
+• Por cada incidente de seguridad que afecte al servicio, un informe detallado que incluya, 
+al menos, la información y contenidos recomendados por el Centro Criptológico 
+Nacional (CCN) para la notificación y gestión de incidentes de seguridad. 
+
+--- página 8 ---
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA LA CONTRATACIÓN  DEL SERVICIO DE ALOJAMIENTO Y 
+MANTENIMIENTO DEL PORTAL WEB 
+ 
+PPT/8 de 13 
+General 
+• Con periodicidad trimestral, un informe de estado del servicio que incluya, como mínimo: 
+o Grado de cumplimiento de los niveles de servicio (SLA). 
+o Relación de Incidencias registradas y resolución aplicada. 
+o Actualizaciones implementadas durante el periodo y actualizaciones pendientes 
+consideradas relevantes. 
+o Trabajos realizados durante el periodo. 
+o Propuestas de mejora técnica, funcional o de seguridad. 
+6. DESCRIPCIÓN DEL PORTAL WEB DE EMACSA 
+El adjudicatario prestará un servicio de soporte y evolución del Portal Web que permita 
+realizar cambios adaptativos, mejoras evolutivas y nuevas funcionalidades, tanto sobre la 
+plataforma tecnológica como sobre los contenidos actualmente publicados y los q ue se 
+incorporen durante la vigencia del contrato. 
+La plataforma tecnológica utilizada actualmente por el Portal Web está basada en 
+WordPress versión 6.9.7. Con carácter informativo se proporciona una relación no exhaustiva de 
+los complementos actualmente utilizados. Dicha relación podrá variar durante la vigencia del 
+contrato como consecuencia de actualizaciones tecnológicas, cambios de versión, 
+incorporación de nuevos complementos o eliminación de los existentes: 
+• Adminimize 
+• Better Search Replace 
+• Kadence Security Basic (antes iThemes/Better WP Security) 
+• Disable Embeds 
+• Classic Editor (Editor clásico) 
+• Classic Widgets 
+• Enhanced Media Library 
+• GDPR Cookie Compliance 
+• Gravity Forms 
+• Gravity Forms reCAPTCHA Add-On 
+• WPCode Lite 
+• iso-licitaciones 
+• WPBakery Page Builder 
+• Media Library Assistant 
+
+--- página 9 ---
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA LA CONTRATACIÓN  DEL SERVICIO DE ALOJAMIENTO Y 
+MANTENIMIENTO DEL PORTAL WEB 
+ 
+PPT/9 de 13 
+General 
+• Movedo Extension 
+• Movedo Talento 
+• Peter's Blog URL Shortcodes 
+• PublishPress Permissions 
+• Redirection 
+• Regenerar miniaturas (Regenerate Thumbnails) 
+• Slider Revolution 
+• Talento reCAPTCHA v3 
+• Talento SMTP 
+• User Role by BestWebSoft 
+• Wordfence Security 
+• WordPress Importer 
+• Yoast SEO 
+• WP Fastest Cache 
+• WP-Filebase 
+El Portal Web mantiene actualmente integración con portales externos . Con carácter 
+informativo se proporciona  una relación no exhaustiva de las integraciones actualmente 
+existentes. Dicha relación podrá variar durante la vigencia del contrato en función de las 
+necesidades de EMACSA, de cambios tecnológicos o de la incorporación de nuevos servicios y 
+plataformas externas: 
+• NormaPro (cuestionario de satisfacción). 
+• Portal Vortal (Connecting Business) para la gestión de las licitaciones de la organización, 
+incluyendo mecanismos de autenticación de usuarios. 
+• Plataforma de Contratación del Estado. 
+• Portal SCP -ASA de la Asociación de Abastecimientos de Agua y Saneamientos de 
+Andalucía.  
+• Plataforma de cita previa de Qmatic. 
+• Otros portales corporativos de EMACSA, tales como el Portal del Cliente y la Bolsa de 
+Empleo. 
+Los dominios asociados al servicio, cuya gestión y alojamiento forman parte del alcance 
+del contrato, son los siguientes: 
+
+--- página 10 ---
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA LA CONTRATACIÓN  DEL SERVICIO DE ALOJAMIENTO Y 
+MANTENIMIENTO DEL PORTAL WEB 
+ 
+PPT/10 de 13 
+General 
+• www.emacsa.com 
+• www.emacsa.biz 
+• www.emacsa.info 
+• www.emacsa.net 
+El Portal Web deberá permitir la gestión descentralizada de contenidos por parte del 
+personal autorizado de EMACSA, posibilitando la creación, modificación y publicación de 
+contenidos conforme a los perfiles de usuario que determine la organización. 
+Los licitadores deberán analizar previamente el Portal Web corporativo de EMACSA con 
+objeto de conocer su estructura, organización de contenidos, servicios prestados, 
+funcionalidades disponibles y alcance funcional actual. La presentación de una oferta implicará 
+que el licitador conoce suficientemente la situación actual del Portal Web, y que ha realizado las 
+comprobaciones que considere necesarias para valorar adecuadamente los trabajos objeto del 
+contrato, no pudiendo alegar posteriormente desconocimiento de su estructura, 
+funcionalidades o servicios disponibles. 
+Para consultar las distintas secciones, contenidos y servicios prestados por el Portal 
+Web, los licitadores deberán visitar el sitio web corporativo de EMACSA: 
+https://www.emacsa.es. 
+7. BOLSA DE HORAS 
+El adjudicatario prestará un servicio de soporte del producto que permita la posibilidad 
+de realizar cambios adaptativos, mejoras y nuevas funcionalidades  que solicite EMACSA  en el 
+Portal Web y en el contenido ya existente, con un máximo de 150 horas de dedicación por cada 
+año de vigencia del contrato. 
+8. PLAN DE EJECUCIÓN 
+La empresa adjudicataria deberá elaborar un Plan de Ejecución  que incluirá una 
+descripción detallada de los trabajos a realizar para la implantación y puesta en marcha del 
+servicio, incluyendo la planificación prevista, el número de jornadas previstas, el detalle de los 
+procedimientos y actuaciones a llevar a cabo, así como la identificación del equipo técnico que 
+participará en su ejecución. 
+El Plan de Ejecución deberá presentarse a EMACSA en un plazo máximo de 15 días  
+naturales desde la adjudicación del contrato. Su presentación no suspenderá ni modificará los 
+plazos de ejecución establecidos en el presente pliego. 
+Los trabajos contemplados en el Plan de Ejecución debe rán encontrarse finalizados en 
+un plazo máximo de 30 días naturales desde la adjudicación del contrato. 
+Una vez re alizada la implantación  y puesta en marcha del servicio , se formalizará el 
+correspondiente Acta de Recepción por parte de EMACSA. 
+
+--- página 11 ---
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA LA CONTRATACIÓN  DEL SERVICIO DE ALOJAMIENTO Y 
+MANTENIMIENTO DEL PORTAL WEB 
+ 
+PPT/11 de 13 
+General 
+9. EQUIPO HUMANO DEL ADJUDICATARIO ADSCRITO AL CONTRATO 
+9.1. RESPONSABLE DEL PROYECTO DEL ADJUDICATARIO  
+El adjudicatario deberá asignar un técnico como Responsable del Proyecto. Tendrá como 
+principal función la dirección y coordinación de todas las actividades relacionadas con la 
+implementación y despliegue del servicio , garantizando el cumplimiento de los objetivos y 
+requisitos establecidos. Sus competencias incluirán: 
+• Coordinación y Dirección : El técnico será el interlocutor principal con la empresa 
+contratante, asegurando una comunicación fluida y eficiente entre ambas partes. 
+Coordinará adecuadamente los trabajos con otras actividades y contratos de la 
+empresa. 
+• Supervisión del Equipo : Desempeñará funciones directoras y de coordinación, 
+supervisando y guiando las actividades realizadas por el equipo técnico asignado al 
+proyecto. Garantizará que los trabajos se desarrollen de acuerdo con los estándares 
+de calidad y los requisitos técnicos establecidos. 
+• Gestión del Tiempo y Recursos : Asegurará que el proyecto se desarrolle dentro de 
+los plazos establecidos y con los recursos disponibles. Coordinará la asignación de 
+tareas y el uso eficiente de los recursos materiales y humanos. 
+• Cumplimiento de Requisitos Técnicos : Velará por que todas las actividades del 
+proyecto cumplan con los requisitos técnicos especificados en las especificaciones 
+técnicas del contrato. 
+10. EQUIPO HUMANO DE EMACSA 
+10.1. RESPONSABLE DEL CONTRATO 
+El Responsable de Contrato de EMACSA tendrá funciones administrativas, económicas y 
+técnicas, será el garante del correcto desarrollo y culminación del proyecto, interpretando los 
+términos de los correspondientes Contratos.  
+El Responsable de Contrato de EMACSA es el Responsable de Desarrollo y 
+Transformación Digital. 
+10.2. INTERLOCUTORES 
+EMACSA podrá designar los interlocutores necesarios para el correcto desarrollo del 
+mismo. Tanto el Responsable de Contrato como los interlocutores, se comunicarán con el 
+Responsable del Proyecto del adjudicatario para recibir y transmitir información relacionada con 
+el Proyecto (información técnica, establecimiento del calendario, progreso del mismo, …). 
+11. REQUISITOS 
+El adjudicatario deberá aportar las certificaciones, tanto a nivel de empresa como a nivel 
+de dispositivos. 
+11.1. Requisitos de la Empresa 
+
+--- página 12 ---
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA LA CONTRATACIÓN  DEL SERVICIO DE ALOJAMIENTO Y 
+MANTENIMIENTO DEL PORTAL WEB 
+ 
+PPT/12 de 13 
+General 
+La empresa licitadora deberá disponer de: 
+• Certificación ISO 9001 relativa a Sistemas de Gestión de Calidad. 
+• Certificación ISO 27001 relativa a la Gestión de los Sistemas de Información o 
+Certificación Nivel Medio del Esquema Nacional de Seguridad. 
+Dichas certificaciones deberán estar vigentes en la fecha de presentación de las ofertas 
+y durante toda la duración del contrato. 
+12. PROPIEDAD INTELECTUAL Y CONFIDENCIALIDAD 
+Sin perjuicio de lo señalado en el presente Pliego de Prescripciones Técnicas, todos los 
+documentos y resultados de los trabajos realizados durante la ejecución del contrato serán 
+propiedad de EMACSA, que podrá ejercer el derecho de explotación, sin que el adjudicatario 
+pueda facilitar el trabajo a terceros. Dicho derecho de explotación comprenderá la reproducción, 
+distribución, divulgación, comunicación pública y transformación. 
+La empresa adjudicataria renuncia expresamente a cualquier derecho sobre los trabajos 
+realizados que como consecuencia de la ejecución del presente contrato pudieran 
+corresponderle, ya que éstos pertenecen en exclusiva a EMACSA, y no podrá hacer uso o 
+divulgación de los documentos o productos elaborados, total ni parcialmente. 
+Se deberá entregar a EMACSA los documentos que permitan interpretar, utilizar y 
+mantener los sistemas implantados, de una manera fácil y ágil. 
+El adjudicatario del servicio objeto del contrato viene obligado a: 
+• Respetar el buen nombre y prestigio de EMACSA. 
+• Mantener absoluta confidencialidad y reserva sobre cualquier dato que pudiera 
+conocer con ocasión del cumplimiento del contrato, especialmente los de carácter 
+personal, que no podrá copiar o utilizar con fin distinto al que figura en este pliego, ni 
+tampoco ceder a otros ni siquiera a efectos de conservación. 
+• Cumplir la normativa vigente , especialmente, en materia de protección de datos 
+personales, en particular el Reglamento (UE) 2016/679, General de Protección de 
+Datos (RGPD), y la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía 
+de los derechos digitales (LOPDGDD). 
+• Implementar cuantas medidas sean necesarias para el cumplimiento de la normativa 
+vigente, con especial interés, la  adopción de las medidas técnicas y organizativas  
+necesarias para garantizar la seguridad y confidencialidad de los datos personales a 
+los que tenga acceso durante la ejecución del contrato, de conformidad con el RGPD 
+y la LOPDGDD. 
+En todo caso, el adjudicatario será el responsable de cuantos daños y perjuicios se 
+deriven del incumplimiento de estas obligaciones. 
+ 
+
+--- página 13 ---
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA LA CONTRATACIÓN  DEL SERVICIO DE ALOJAMIENTO Y 
+MANTENIMIENTO DEL PORTAL WEB 
+ 
+PPT/13 de 13 
+General 
+Córdoba, a fecha de firma electrónica 
+ 
+ 
+ 
+ 
+ Juan Carlos Albalá Pedrajas 
+ RESPONSABLE DESARROLLO Y TRANSFORMACIÓN DIGITAL 

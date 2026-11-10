@@ -1,0 +1,1427 @@
+
+
+--- página 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+PARTICULARES (PPT) 
+ 
+CONTRATO DE SERVICIOS DE SOPORTE EN MATERIA DE 
+PROTECCIÓN DE DATOS Y EXTERNALIZACIÓN DEL DELEGADO DE 
+PROTECCIÓN DE DATOS PARA MADRID CALLE 30 S.A 
+(EXP. Nº 202600004) 
+ 
+ 
+ 
+ 
+Dpto. Jurídico de Madrid Calle30 
+ 
+Octubre 2026 
+ 
+
+
+--- página 2 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+2 
+Expediente Nº202600004 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS DEL CONTRATO  DE SERVICIOS DE 
+SOPORTE EN MATERIA DE PROTECCIÓN DE DATOS Y EXTERNALIZACIÓN 
+DEL DELEGADO DE PROTECCIÓN DE DATOS PARA MADRID CALLE 30 S.A 
+EXPEDIENTE  202600004 
+ 
+INDICE 
+ 
+I. OBJETO Y ALCANCE DEL SERVICIO ........................................................................................ 3 
+II. ESPECIFICACIONES TÉCNICAS ............................................................................................... 3 
+III. CLAUSULAS SOCIALES ......................................................................................................... 21 
+IV. SEGURIDAD Y PREVENCIÓN DE RIESGOS LABORALES ........................................................ 21 
+V. ADSCRIPCIÓN DE MEDIOS .................................................................................................. 22 
+VI. COORDINACIÓN DE LA PRESTACIÓN .................................................................................. 24 
+VII. DURACIÓN DEL CONTRATO ................................................................................................ 27 
+VIII. RESPONSABLES DEL CONTRATO ......................................................................................... 27 
+IX. CONFIDENCIALIDAD Y PROTECCIÓN DE DATOS ................................................................. 28 
+ 
+ 
+
+--- página 3 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+3 
+Expediente Nº202600004 
+I. OBJETO Y ALCANCE DEL SERVICIO 
+El presente contrato tiene por objeto la prestación de un servicio de asistencia técnica 
+especializada, de carácter jurídico y técnico, en materia de protección de datos personales, así 
+como la externalización de las funciones del Delegado de Protección de  Datos (DPD/DPO) de 
+Madrid Calle 30, S.A., para apoyar a la Sociedad en el cumplimiento de las obligaciones derivadas 
+del Reglamento (UE) 2016/679, General de Protección de Datos (RGPD); de la Ley Orgánica 
+3/2018, de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD); del 
+Real Decreto 311/2022, por el que se regula el Esquema Nacional de Seguridad (ENS), cuando 
+resulte aplicable, y demás normativa vigente. 
+El servicio comprenderá las funciones de asesoramiento, supervisión, diagnóstico, auditoría, 
+gestión de riesgos y mejora continua en materia de protección de datos, incluyendo la atención 
+a requerimientos de la autoridad de control y el apoyo a las unidades internas de la Sociedad en 
+la implantación de las medidas técnicas y organizativas necesarias. La prestación tendrá carácter 
+consultivo y de apoyo especializado, sin sustituir las responsabilidades propias de los órganos 
+de dirección de Madrid Calle 30, S.A., y se desarrollará con independencia, objetividad y 
+confidencialidad, de conformidad con el artículo 39 del RGPD. 
+Durante los dos primeros meses de ejecución, el adjudicatario elaborará un informe de 
+diagnóstico inicial que evalúe el grado de cumplimiento de la normativa de protección de datos 
+y, cuando proceda, de las obligaciones derivadas del ENS, identificando def iciencias, riesgos y 
+propuestas de actuación. La auditoría se completará con la entrega de un informe final en un 
+plazo máximo de seis meses desde el inicio del contrato. 
+La ejecución se desarrollará bajo la supervisión del Departamento de Seguridad de Madrid Calle 
+30, S.A., en coordinación con el Departamento Jurídico cuando resulte necesario. El 
+adjudicatario mantendrá las reuniones de seguimiento precisas para la correct a prestación del 
+servicio y realizará, como mínimo, una visita presencial cada semestre durante toda la vigencia 
+del contrato, además de la correspondiente al seguimiento de la auditoría inicial. 
+La contratación se justifica por la insuficiencia de medios propios para ejecutar adecuadamente 
+estas prestaciones, de conformidad con el artículo 116.4.f) de la Ley 9/2017, de Contratos del 
+Sector Público, siendo necesario disponer de asistencia externa e specializada, con experiencia 
+acreditada y actualización permanente en protección de datos, cumplimiento normativo, 
+seguridad de la información y auditorías de privacidad. Las prestaciones mínimas serán las 
+establecidas en los pliegos y en la restante documentación contractual. 
+II. ESPECIFICACIONES TÉCNICAS  
+❖ Planificación y desarrollo de las prestaciones durante la vigencia del contrato 
+Las prestaciones se desarrollarán de forma progresiva, distinguiendo entre el diagnóstico 
+inicial, la adecuación del sistema y el mantenimiento y mejora continua durante toda la 
+vigencia del contrato, incluidas sus posibles prórrogas. 
+A tal efecto, las prestaciones se organizarán conforme a las siguientes fases: 
+
+--- página 4 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+4 
+Expediente Nº202600004 
+❖ Actuaciones primer año. 
+• Auditoría inicial, consistente en una revisión completa y si fuera preciso en los 
+trabajos de regularización de la situación de Madrid Calle 30 en cuanto al 
+cumplimiento del RGPD y LOPD. 
+• Actualización del Registro de Actividades de Tratamiento, revisión de bases 
+jurídicas, plazos de conservación, encargados y documentación contractual, así 
+como la realización de los análisis de riesgos correspondientes a cada tratamiento. 
+• Realización de una Evaluación de Impacto (EIPD) sobre los tratamientos de mayor 
+riesgo, en particular sobre los tratamientos de videovigilancia del Túnel y del lector 
+de matrículas. 
+• Elaboración de los procedimientos internos que sean precisos. 
+• Establecimiento de un sistema periódico (semestral) de seguimiento y coordinación 
+con las empresas mantenedoras de la M-30. 
+• Designación del Delegado de Protección de Datos. 
+El informe de diagnóstico inicial deberá entregarse dentro de los dos primeros meses  y la 
+auditoría inicial deberá completarse, con entrega de su informe final, en un plazo máximo de 
+seis meses desde el inicio de la ejecución del contrato. 
+Todas las anteriores actuaciones deberán completarse en un plazo máximo de 6 meses. 
+ 
+Dentro de dicho plazo se desarrollarán las actuaciones de adecuación que se hayan definido 
+expresamente como exigibles para ese periodo. Las restantes medidas se ejecutarán conforme 
+al plan de acción acordado, sin perjuicio de las responsabilidades que cor responden a Madrid 
+Calle 30, S.A. como responsable del tratamiento. 
+❖ Actuaciones años segundo al cuarto de prorrogarse el contrato. 
+Durante este periodo continuaría el trabajo con las tareas ordinarias y de mantenimiento de 
+lo anteriormente expuesto por el Delegado de Protección de Datos que realizará las 
+siguientes funciones: 
+• Seguimiento del cumplimiento, actualización y mantenimiento de documentación. 
+• Revisión de contratos, modelos de contratos y documentos legales a suscribir por 
+Madrid Calle 30 para asegurar el cumplimiento del RGPD y LOPD.  
+• Coordinación periódica con las empresas mantenedoras de la M-30. 
+• Asesorar a la Dirección de Madrid Calle 30 y a su personal sobre sus obligaciones en 
+materia de protección de datos resolviendo dudas y consultas que se planteen sobre 
+la materia. 
+• Supervisión del cumplimiento del RGPD, la LOPD  y las políticas internas de 
+privacidad. 
+
+--- página 5 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+5 
+Expediente Nº202600004 
+• Revisar la idoneidad de encargados y sub -encargados que accedan a datos 
+personales. 
+• Revisar los tratamientos de datos y asesorar sobre análisis de riesgos y Evaluaciones 
+de Impacto. 
+• Supervisar la gestión de derechos de afectados, brechas de seguridad e incidencias 
+relacionadas con datos personales. 
+• Celebrar de un Comité de Seguimiento semestral con las empresas mantenedoras 
+de la M-30, para revisar conjuntamente el cumplimiento en materia de protección 
+de datos, incidencias, nuevos tratamientos, proveedores y cuestiones relevantes 
+que afecten a los tratamientos realizados por cuenta de Madrid Calle 30. 
+• Actuar como punto de contacto e interlocutor con la AEPD cuando ello sea 
+necesario. 
+• Participar en la implantación de Esquema Nacional de Seguridad asesorando en la 
+realización del análisis de riesgo y la avaluación de impacto en la protección de 
+datos. 
+• Seguimiento y apoyo en la implantación de las medidas para el control del riesgo 
+que deriven de los análisis de riesgo o en su caso de la evaluación del impacto con 
+motivo del cumplimiento del ENS en lo relacionado con la protección de datos. 
+Los informes, análisis, dictámenes o entregables solicitados al delegado de protección de datos 
+en el marco del desempeño de sus funciones deberán entregarse en un plazo de diez (10) días 
+hábiles, contados dese el día siguiente al de la recepción del encargo. 
+La continuidad del servicio no exigirá repetir automáticamente la auditoría integral inicial, sin 
+perjuicio de las revisiones específicas, los análisis de riesgos, las evaluaciones de impacto o las 
+auditorías adicionales que resulten necesarias por cambios en los tratamientos, modificaciones 
+normativas, incidentes de seguridad o necesidades justificadas de Madrid Calle 30, S.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 6 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+6 
+Expediente Nº202600004 
+❖ CRONOGRAMA DE PLANIFICACIÓN Y DESARROLLO DE LAS PRESTACIONES 
+N.º Actuación Año 
+1 
+Año 
+2 
+Año 
+3 
+Año 
+4 
+Plazo / periodicidad 
+1 Reunión inicial y planificación X 
+   
+Primer mes 
+2 Recopilación de documentación y 
+diagnóstico 
+X 
+   
+Primeros 2 meses 
+3 Entrega del informe de diagnóstico X 
+   
+Máximo 2 meses 
+4 Auditoría inicial del sistema X 
+   
+Primeros 6 meses 
+5 Entrega del informe final de auditoría X 
+   
+Máximo 6 meses 
+6 Actualización del Registro de 
+Actividades de Tratamiento 
+X X X X Inicial y ante cambios 
+7 Revisión de bases jurídicas y cláusulas X X X X Inicial y periódica 
+8 Revisión de contratos con encargados X X X X Inicial y ante cambios 
+9 Análisis de riesgos X X X X Inicial y ante cambios 
+relevantes 
+10 EIPD cuando procedan X X X X Según riesgos y nuevos 
+tratamientos 
+11 Elaboración y actualización de 
+procedimientos 
+X X X X Según necesidades 
+12 Seguimiento de medidas correctoras X X X X Continuo 
+13 Asesoramiento jurídico y técnico X X X X Continuo 
+14 Ejercicio de funciones del DPD X X X X Toda la vigencia 
+15 Supervisión del cumplimiento RGPD y 
+LOPDGDD 
+X X X X Continuo 
+16 Asesoramiento en ENS X X X X Cuando resulte aplicable 
+17 Coordinación con empresas 
+mantenedoras 
+X X X X Semestral 
+18 Visitas presenciales de seguimiento X X X X Mínimo una por semestre 
+19 Asistencia ante incidentes y brechas X X X X Cuando se produzcan 
+
+--- página 7 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+7 
+Expediente Nº202600004 
+N.º Actuación Año 
+1 
+Año 
+2 
+Año 
+3 
+Año 
+4 
+Plazo / periodicidad 
+20 Asistencia ante requerimientos de 
+AEPD 
+X X X X Cuando se produzcan 
+21 Revisión y actualización documental X X X X Continuo 
+22 Seguimiento de recomendaciones 
+pendientes 
+X X X X Continuo 
+23 Informe anual de actividad X X X X Antes de finalizar cada 
+anualidad 
+24 Planificación de la anualidad 
+siguiente 
+X X X 
+ 
+Al cierre de cada anualidad, 
+cuando proceda 
+25 Preparación del cierre y continuidad 
+del servicio 
+   
+X Al finalizar el contrato 
+ 
+Leyenda: X: actuación obligatoria durante la anualidad correspondiente. Los años segundo, 
+tercero y cuarto estarán condicionados a la aprobación de las correspondientes prórrogas. 
+PRESTACIONES ESPECÍFICAS DEL SERVICIO 
+1. AUDITORÍA INICIAL Y DIAGNÓSTICO DEL SISTEMA DE LA PROTECCIÓN DE DATOS. 
+Como actuación inicial obligatoria, el adjudicatario realizará una auditoría de revisión y 
+diagnóstico del sistema de gestión de protección de datos de Madrid Calle 30, S.A., con el 
+objeto de determinar el grado de adecuación a la normativa vigente e ident ificar posibles 
+áreas de mejora. 
+La auditoría deberá iniciarse al comienzo de la ejecución del contrato. El informe de 
+diagnóstico inicial se entregará dentro de los dos primeros meses desde el inicio de la 
+ejecución, sin perjuicio de la continuación de los trabajos y de las comprobaciones 
+complementarias necesarias. La auditoría deberá estar completamente re alizada, con 
+entrega del informe final, dentro del plazo máximo de seis meses desde el inicio de la 
+ejecución. 
+La auditoría comprenderá, al menos, las siguientes actuaciones: 
+• Revisión de los tratamientos de datos personales realizados por Madrid Calle 30, 
+S.A. 
+• Análisis y actualización del Registro de Actividades de Tratamiento. 
+
+--- página 8 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+8 
+Expediente Nº202600004 
+• Análisis de los procesos y procedimientos asociados a la actividad ordinaria de 
+Madrid Calle 30, S.A. 
+• Análisis de los procesos, procedimientos y actividades de los encargados del 
+tratamiento, a efectos de evaluar su adecuación a la normativa y determinar las 
+medidas necesarias para garantizar la protección de los datos personales. 
+• Verificación de las bases jurídicas de los tratamientos, las cláusulas informativas y la 
+documentación asociada. 
+• Identificación y elaboración de los procedimientos internos que resulten necesarios 
+para garantizar el cumplimiento de la normativa aplicable. 
+• Revisión de los contratos suscritos con los encargados del tratamiento. 
+• Análisis de riesgos en materia de protección de datos y revisión de las medidas 
+técnicas y organizativas implantadas. 
+• Identificación de incumplimientos, deficiencias y aspectos susceptibles de mejora. 
+• Elaboración de un informe final de auditoría que recoja las conclusiones obtenidas 
+y una propuesta de plan de acción. 
+• Seguimiento y apoyo en la implantación de las medidas de control y tratamiento de 
+los riesgos derivados de los análisis de riesgos y, en su caso, de las evaluaciones de 
+impacto relativas a la protección de datos, en el marco de las actuaciones de 
+cumplimiento del Esquema Nacional de Seguridad (ENS) que afecten a la protección 
+de datos personales. 
+El informe de diagnóstico inicial recogerá la situación identificada, las principales 
+deficiencias o riesgos apreciados y las actuaciones prioritarias. 
+El informe final desarrollará las conclusiones de la revisión efectuada, identificará los 
+incumplimientos y áreas de mejora y propondrá medidas correctoras o preventivas, 
+estableciendo una priorización según su relevancia, urgencia y nivel de riesgo. 
+Durante la primera anualidad, el adjudicatario prestará asistencia técnica para el 
+seguimiento y la implantación de las medidas derivadas de la auditoría, conforme a las 
+prioridades establecidas y a las decisiones adoptadas por Madrid Calle 30, S.A. 
+Durante las anualidades sucesivas, realizará el seguimiento de las medidas implantadas y 
+pendientes, revisará los riesgos y las deficiencias que puedan surgir y propondrá las 
+actuaciones adicionales necesarias. No será obligatoria la repetición automática de la 
+auditoría integral inicial, sin perjuicio de las revisiones específicas o auditorías adicionales 
+que se justifiquen por cambios en los tratamientos, modificaciones normativas, incidentes 
+de seguridad o necesidades de la Sociedad. 
+2. ASESORAMIENTO JURÍDICO Y TÉCNICO ESPECIALIZADO. 
+El adjudicatario prestará, durante toda la vigencia del contrato y sus posibles prórrogas, 
+asesoramiento jurídico y técnico especializado en materia de protección de datos 
+personales a Madrid Calle 30, S.A., mediante medios electrónicos y, cuando resulte 
+necesario, mediante la elaboración de documentación escrita. 
+
+--- página 9 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+9 
+Expediente Nº202600004 
+El servicio comprenderá, al menos, las siguientes actuaciones 
+• Resolución de consultas jurídicas y técnicas planteadas por Madrid Calle 30, S.A. 
+• Elaboración de informes, dictámenes, notas técnicas y recomendaciones sobre 
+privacidad y protección de datos. 
+• Asesoramiento sobre la aplicación del RGPD, la LOPDGDD y demás normativa 
+relacionada. 
+• Seguimiento de las novedades normativas y de los criterios interpretativos de las 
+autoridades de control que puedan afectar a la Sociedad. 
+• Asistencia en reuniones de seguimiento y grupos de trabajo cuando sea requerida. 
+• Asesoramiento sobre nuevos tratamientos, modificaciones de los existentes y 
+cambios organizativos o tecnológicos que puedan afectar al cumplimiento 
+normativo. 
+• Asesoramiento sobre la coordinación entre las obligaciones de protección de datos 
+y las exigencias del ENS que resulten aplicable 
+2.1. Tiempos de respuesta y atención de consultas 
+El adjudicatario deberá garantizar la atención de las consultas y solicitudes formuladas por 
+Madrid Calle 30, S.A. dentro de los siguientes plazos máximos: 
+a) Consultas ordinarias. 
+Las consultas ordinarias de carácter jurídico, técnico u organizativo deberán recibir una 
+respuesta en un plazo máximo de tres (3) días hábiles, contados desde el día siguiente al de 
+su recepción. 
+b) Consultas urgentes. 
+Cuando la naturaleza de la consulta, su repercusión jurídica u operativa o la existencia de un 
+plazo legal próximo requieran una atención prioritaria, el adjudicatario deberá proporcionar 
+una primera respuesta en un plazo máximo de un (1) día hábil desde su recepción. 
+c) Informes, dictámenes y análisis específicos. 
+Los informes, dictámenes, notas técnicas y demás documentos que requieran un análisis 
+jurídico o técnico específico deberán entregarse en un plazo máximo de diez (10) días 
+hábiles, contados desde el día siguiente al de la recepción del encargo. 
+Cuando, por la complejidad o extensión de la cuestión planteada, resulte necesario un plazo 
+superior, el adjudicatario deberá comunicarlo y justificarlo a Madrid Calle 30, S.A. dentro de 
+los tres (3) primeros días hábiles desde la recepción de la solicitud , indicando el plazo 
+estimado de entrega. 
+
+--- página 10 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+10 
+Expediente Nº202600004 
+La ampliación deberá contar con la conformidad del responsable del contrato. 
+d) Requerimientos urgentes de autoridades de control. 
+Cuando Madrid Calle 30, S.A. reciba requerimientos, solicitudes de información o 
+comunicaciones de la AEPD que exijan una actuación urgente, el adjudicatario deberá 
+realizar una primera valoración y establecer contacto con la Sociedad en un plazo máximo 
+de cuatro (4) horas hábiles desde la recepción de la comunicación. 
+Asimismo, deberá informar sobre los plazos aplicables y las actuaciones necesarias para 
+atender el requerimiento dentro del plazo establecido por la autoridad competente. 
+e) Incidencias críticas. 
+Las consultas relacionadas con posibles violaciones de seguridad de los datos personales o 
+incidentes que puedan comprometer significativamente la confidencialidad, integridad o 
+disponibilidad de los datos tendrán carácter prioritario y se atenderán conforme al régimen 
+específico establecido en el apartado 6 del presente Pliego. 
+2.2. Seguimiento y disponibilidad del servicio 
+El adjudicatario deberá facilitar a Madrid Calle 30, S.A. una dirección de correo electrónico 
+y un número de teléfono de contacto directo del responsable del servicio. 
+Asimismo, deberá mantener un registro de las consultas recibidas, su fecha de recepción, 
+clasificación, plazo de respuesta y actuaciones realizadas, que estará a disposición del 
+responsable del contrato cuando sea requerido. 
+La prestación ordinaria del asesoramiento se realizará durante el horario laboral habitual de 
+Madrid Calle 30, S.A., sin perjuicio de los mecanismos de atención prioritaria previstos para 
+las incidencias críticas. 
+3.  FUNCIONES DEL DELEGADO DE PROTECCIÓN DE DATOS EXTERNO. 
+El adjudicatario, a través de la persona designada como Delegado de Protección de Datos, 
+ejercerá las funciones previstas en los artículos 38 y 39 del RGPD durante toda la vigencia 
+del contrato, incluidas sus posibles prórrogas. 
+En particular, desarrollará las siguientes actuaciones: 
+• Informar y asesorar a Madrid Calle 30, S.A., a sus responsables y al personal que 
+participe en operaciones de tratamiento sobre las obligaciones derivadas de la 
+normativa aplicable en materia de protección de datos. 
+
+--- página 11 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+11 
+Expediente Nº202600004 
+• Supervisar el cumplimiento del RGPD, la LOPDGDD, las políticas internas y los 
+procedimientos establecidos en materia de protección de datos. 
+• Supervisar la asignación de responsabilidades, la concienciación y la formación del 
+personal que participa en operaciones de tratamiento. 
+• Asesorar sobre la realización de evaluaciones de impacto relativas a la protección 
+de datos y supervisar su aplicación cuando proceda. 
+• Cooperar con la Agencia Española de Protección de Datos (AEPD) y actuar como 
+punto de contacto con dicha autoridad en las cuestiones que correspondan al 
+ejercicio de sus funciones. 
+• Asesorar sobre la gestión de riesgos y las medidas técnicas y organizativas aplicables 
+a los tratamientos de datos personales. 
+• Asesorar y participar, desde el ámbito de sus competencias, en las actuaciones de 
+adecuación y cumplimiento del Esquema Nacional de Seguridad de Madrid Calle 30, 
+S.A. que afecten a la protección de datos personales. 
+• Realizar el seguimiento de las recomendaciones emitidas y de las medidas de 
+mejora relacionadas con el cumplimiento de la normativa de protección de datos. 
+Las funciones del Delegado de Protección de Datos se ejercerán desde el inicio del contrato, 
+sin quedar condicionadas a la finalización de la auditoría inicial. 
+Durante la primera anualidad, el Delegado de Protección de Datos prestará especial 
+atención al diagnóstico inicial y al seguimiento de las medidas de adecuación que se deriven 
+de este. Durante las anualidades sucesivas, continuará supervisando el cumplimie nto 
+normativo, asesorando sobre las nuevas necesidades y realizando el seguimiento de las 
+recomendaciones y medidas de mejora. 
+3.1. Independencia funcional y delimitación de responsabilidades 
+El Delegado de Protección de Datos ejercerá sus funciones con plena independencia 
+funcional, objetividad e imparcialidad, de conformidad con lo dispuesto en los artículos 38 
+y 39 del RGPD. 
+Sus funciones comprenderán el asesoramiento, la supervisión del cumplimiento normativo, 
+la formulación de recomendaciones y el seguimiento de las medidas de mejora relacionadas 
+con la protección de datos personales. 
+El DPD no asumirá funciones ejecutivas ni competencias propias de los órganos de dirección 
+de Madrid Calle 30, S.A., ni será responsable de la adopción de decisiones relativas a los 
+fines y medios de los tratamientos o de la implantación operativa de las medidas técnicas y 
+organizativas. 
+La aprobación de las medidas propuestas, la asignación de recursos, la aceptación de riesgos 
+y la ejecución de las actuaciones necesarias corresponderán a Madrid Calle 30, S.A., en su 
+condición de responsable del tratamiento. 
+
+--- página 12 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+12 
+Expediente Nº202600004 
+El adjudicatario deberá garantizar que el ejercicio de las funciones del DPD no se vea 
+condicionado por instrucciones, interferencias o situaciones que puedan comprometer su 
+independencia o generar conflictos de intereses. 
+4. MANTENIMIENTO, ACTUALIZACIÓN Y MEJORA CONTINUA DEL SISTEMA DE 
+PROTECCIÓN DE DATOS. 
+Durante toda la vigencia del contrato, el adjudicatario prestará apoyo continuado para 
+mantener actualizado el sistema de gestión de privacidad de Madrid Calle 30, S.A. y 
+promover su mejora continua. 
+Las actuaciones comprenderán, como mínimo 
+• Mantener actualizado el Registro de Actividades de Tratamiento, incorporando los 
+cambios que se produzcan en los tratamientos. 
+• Revisar y actualizar las políticas, procedimientos, protocolos y documentación de 
+protección de datos. 
+• Actualizar las cláusulas informativas, los textos legales y los modelos documentales 
+vinculados a los tratamientos. 
+• Revisar los contratos con encargados del tratamiento y proponer las adaptaciones 
+necesarias. 
+• Realizar una Evaluación de Impacto relativa a la Protección de Datos (EIPD) sobre 
+los tratamientos de mayor riesgo, en particular los relativos a la videovigilancia del 
+túnel y al lector de matrículas. 
+• Revisar los análisis de riesgos y efectuar el seguimiento de las medidas de seguridad 
+y control implantadas. 
+• Proponer, supervisar y realizar el seguimiento de las medidas necesarias para 
+garantizar el cumplimiento normativo y la mejora continua del sistema 
+• Asesorar en materia de seguridad de la información y Esquema Nacional de 
+Seguridad (ENS).  
+• Asesorar y apoyar la gestión de los derechos de los interesados y de las incidencias 
+o violaciones de seguridad relacionadas con datos personales. 
+• Realizar el seguimiento de las medidas correctoras, preventivas y de mejora 
+derivadas de la auditoría inicial y de las revisiones posteriores. 
+• Proponer acciones de mejora continua y realizar el seguimiento de su aplicación. 
+• Proponer herramientas de apoyo para la gobernanza y el desempeño del servicio, 
+incluyendo, cuando resulte adecuado, herramientas gratuitas de la AEPD, como 
+Canal del DPD, Gestiona RGPD o Evalúa-Riesgo RGPD v2, u otras que se consideren 
+oportunas. 
+Las herramientas propuestas tendrán carácter auxiliar y su utilización deberá ajustarse a los 
+requisitos de seguridad, confidencialidad y protección de datos establecidos por Madrid 
+Calle 30, S.A. 
+
+--- página 13 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+13 
+Expediente Nº202600004 
+La aprobación y adopción de las decisiones relativas a los tratamientos, así como la 
+implantación operativa de las medidas, corresponderán a Madrid Calle 30, S.A. o a las 
+unidades responsables que esta determine, sin perjuicio de las funciones de asesoramiento 
+y supervisión propias del DPD. 
+4.1. Evaluaciones de impacto relativas a la protección de datos 
+El adjudicatario analizará los tratamientos de datos personales existentes y los nuevos 
+tratamientos que puedan implantarse durante la vigencia del contrato, con el objeto de 
+determinar si, atendiendo a su naturaleza, alcance, contexto y fines, resulta nec esario 
+realizar una Evaluación de Impacto relativa a la Protección de Datos, conforme a lo 
+establecido en el artículo 35 del RGPD. 
+En particular, se analizará la necesidad de realizar dichas evaluaciones respecto de los 
+tratamientos relacionados con los sistemas de videovigilancia del túnel y los lectores de 
+matrículas de la M-30. 
+Cuando resulte obligatoria una EIPD, el adjudicatario prestará asistencia especializada para 
+su elaboración, revisión y actualización, así como para el seguimiento de las medidas 
+destinadas a reducir los riesgos identificados. 
+La determinación de los fines y medios del tratamiento, la aprobación de las medidas 
+propuestas y la adopción de las decisiones que correspondan serán responsabilidad de 
+Madrid Calle 30, S.A., sin perjuicio de las funciones de asesoramiento y supervisión 
+atribuidas al DPD. 
+5.  ATENCIÓN ANTE ACTUACIONES DE LA AGENCIA ESPAÑOLA DE PROTECCIÓN DE DATOS. 
+El adjudicatario prestará asistencia jurídica y técnica especializada a Madrid Calle 30, S.A. ante 
+las actuaciones de la AEPD y otras actuaciones de auditoría o revisión del cumplimiento en 
+materia de protección de datos 
+Esta asistencia comprenderá: 
+• Apoyo en la preparación y recopilación de la documentación solicitada. 
+• Asesoramiento ante requerimientos de información y solicitudes de 
+documentación. 
+• Asistencia en la preparación y atención de inspecciones y actuaciones de 
+comprobación. 
+• Apoyo técnico en procedimientos administrativos y reclamaciones relacionados con 
+la protección de datos. 
+• Elaboración de propuestas de respuesta, escritos, informes y documentación 
+destinada a la autoridad de control. 
+
+--- página 14 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+14 
+Expediente Nº202600004 
+• Asesoramiento sobre las medidas correctoras que puedan resultar necesarias como 
+consecuencia de las actuaciones realizadas. 
+• Seguimiento de las recomendaciones, requerimientos y compromisos que afecten 
+a la Sociedad. 
+La presentación de escritos, la adopción de decisiones y la representación de Madrid 
+Calle 30, S.A. se realizarán conforme a las competencias y autorizaciones que 
+correspondan en cada caso. 
+Cuando se trate de requerimientos urgentes, se aplicarán los tiempos de respuesta 
+establecidos en el apartado 2 del presente Pliego. 
+6. GESTIÓN DE INCIDENTES Y ASISTENCIA EN MATERIA DE SEGURIDAD 
+El adjudicatario prestará asesoramiento y acompañamiento técnico en la gestión de incidentes 
+de seguridad que puedan afectar a datos personales o comprometer las obligaciones de 
+cumplimiento de Madrid Calle 30, S.A. 
+Las actuaciones incluirán: 
+• Asesoramiento en la valoración inicial del incidente y de sus posibles consecuencias. 
+• Apoyo en la identificación de los tratamientos, sistemas, categorías de datos y colectivos 
+de personas afectados. 
+• Asesoramiento sobre las medidas de contención, mitigación y recuperación que resulten 
+procedentes. 
+• Apoyo en la evaluación de si el incidente constituye una violación de la seguridad de los 
+datos personales a efectos del RGPD. 
+• Asesoramiento sobre la obligación y los plazos de notificación a la AEPD y, cuando proceda, 
+de comunicación a las personas afectadas. 
+• Acompañamiento en la coordinación con los responsables de seguridad y con los equipos 
+técnicos competentes. 
+• Asesoramiento en las comunicaciones que deban dirigirse al CCN -CERT, CSIRT u otros 
+organismos competentes, cuando corresponda. 
+• Elaboración de informes de incidencia con descripción de los hechos, causas conocidas, 
+impacto, actuaciones realizadas, medidas correctoras y recomendaciones preventivas. 
+• Seguimiento de las medidas adoptadas para evitar la repetición de incidentes similares. 
+6.1. Atención prioritaria de incidentes y brechas de seguridad 
+Cuando se produzca un incidente que pueda afectar a datos personales o constituir 
+una violación de la seguridad de los datos personales, el adjudicatario deberá prestar 
+asistencia prioritaria a Madrid Calle 30, S.A. 
+
+--- página 15 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+15 
+Expediente Nº202600004 
+El adjudicatario deberá acusar recibo de la comunicación y establecer contacto con Madrid 
+Calle 30, S.A. en un plazo máximo de dos (2) horas desde su recepción, iniciando 
+inmediatamente la valoración jurídica y técnica del incidente. 
+Para garantizar este plazo, el adjudicatario deberá disponer de un mecanismo específico de 
+contacto y atención de incidencias críticas, incluso cuando la comunicación se produzca fuera 
+del horario ordinario de prestación del servicio. 
+La asistencia comprenderá: 
+• Valoración inicial de la naturaleza y gravedad del incidente. 
+• Identificación de los posibles riesgos para los derechos y libertades de las personas 
+afectadas. 
+• Asesoramiento sobre las medidas de contención y mitigación. 
+• Valoración de las obligaciones de notificación y comunicación. 
+• Apoyo en la preparación de la documentación necesaria. 
+• Seguimiento de las medidas adoptadas. 
+El adjudicatario deberá prestar el apoyo necesario para que Madrid Calle 30, S.A. pueda 
+cumplir los plazos legalmente establecidos, en particular el plazo previsto en el artículo 33 del 
+RGPD. 
+La atención de estos incidentes tendrá carácter prioritario y no quedará sometida a los plazos 
+ordinarios de resolución de consultas o entrega de informes. 
+La actuación del adjudicatario tendrá carácter de asesoramiento y apoyo especializado. La 
+adopción de decisiones operativas, la activación de los procedimientos internos y las 
+notificaciones que legalmente correspondan al responsable del tratamiento seguirán siendo 
+responsabilidad de Madrid Calle 30, S.A., sin perjuicio de la independencia funcional del DPD. 
+7. COORDINACIÓN Y SEGUIMIENTO DEL SERVICIO 
+Para garantizar la adecuada ejecución del contrato, el adjudicatario mantendrá una 
+coordinación continuada con Madrid Calle 30, S.A., su Departamento Jurídico, la unidad 
+responsable del contrato y las empresas mantenedoras de la M-30 cuando sus tratamientos 
+de datos estén relacionados con las prestaciones contratadas. 
+• El seguimiento comprenderá, como mínimo: 
+• Una visita presencial inicial al comienzo del contrato para conocer la organización, 
+planificar los trabajos y establecer la hoja de ruta. 
+• Las visitas y reuniones necesarias para llevar a cabo la auditoría inicial y conocer los 
+tratamientos de datos, con carácter presencial cuando no resulte suficiente la 
+modalidad telemática o lo requiera Madrid Calle 30, S.A. 
+• Una reunión o visita de seguimiento semestral con Madrid Calle 30, S.A. y las 
+empresas mantenedoras de la vía, destinada a revisar el cumplimiento, las 
+
+--- página 16 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+16 
+Expediente Nº202600004 
+incidencias, los tratamientos existentes o nuevos, los proveedores y las medidas 
+pendientes. 
+• Una visita presencial ordinaria mínima por semestre durante la vigencia del contrato 
+y sus posibles prórrogas. 
+• La asistencia a reuniones adicionales cuando sean requeridas por Madrid Calle 30, 
+S.A. por razón de incidencias, cambios relevantes, inspecciones o necesidades de 
+seguimiento. 
+• La atención de consultas e incidencias por medios electrónicos durante toda la 
+vigencia del servicio. 
+• La elaboración de informes de seguimiento cuando sean solicitados. 
+• El seguimiento del plan de acción derivado de la auditoría inicial y de las 
+recomendaciones emitidas durante la ejecución del contrato. 
+ Las reuniones podrán celebrarse por medios telemáticos cuando así lo acuerden las 
+partes y la naturaleza de los asuntos lo permita. 
+7.1. Disponibilidad y canales de comunicación 
+El adjudicatario deberá facilitar a Madrid Calle 30, S.A. una dirección de correo 
+electrónico y un número de teléfono de contacto directo del responsable del servicio, 
+así como un mecanismo específico de comunicación para la atención de incidencias 
+críticas. 
+La atención ordinaria se prestará durante el horario laboral habitual de Madrid Calle 30, 
+S.A., sin perjuicio del mecanismo de atención prioritaria establecido para las incidencias 
+críticas. 
+El adjudicatario deberá garantizar la disponibilidad de los medios personales necesarios 
+para atender las solicitudes y cumplir los tiempos máximos de respuesta establecidos 
+en el presente Pliego. 
+Cualquier modificación de los canales de comunicación o de la persona responsable de 
+la atención del servicio deberá ser comunicada a Madrid Calle 30, S.A. 
+ 
+8. RÉGIMEN DE TIEMPOS DE RESPUESTA Y NIVELES DE SERVICIO 
+El adjudicatario deberá garantizar la atención y respuesta a las consultas, solicitudes, 
+incidencias y requerimientos que se produzcan durante la ejecución del contrato, de 
+acuerdo con los siguientes niveles mínimos de servicio: 
+ 
+
+--- página 17 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+17 
+Expediente Nº202600004 
+Tipo de actuación Tiempo máximo 
+Incidente crítico o posible brecha de datos personales 2 horas 
+Requerimiento urgente de AEPD 4 horas hábiles 
+Consulta urgente 1 día hábil 
+Consulta ordinaria 3 días hábiles 
+Informe, dictamen o análisis específico 10 días hábiles 
+Propuesta de fecha para reunión extraordinaria 2 días hábiles 
+ 
+8.1. Incidencias críticas 
+Se considerarán incidencias críticas aquellas que puedan afectar significativamente a la 
+confidencialidad, integridad o disponibilidad de los datos personales, así como las posibles 
+brechas de seguridad que requieran una valoración urgente. 
+El adjudicatario deberá: 
+• Acusar recibo de la comunicación en un plazo máximo de dos (2) horas. 
+• Establecer contacto con Madrid Calle 30, S.A. dentro del mismo plazo. 
+• Iniciar inmediatamente la valoración jurídica y técnica del incidente. 
+• Asesorar sobre las medidas de contención, mitigación y comunicación que 
+procedan. 
+• Facilitar asistencia durante el tiempo necesario para atender las actuaciones 
+urgentes relacionadas con el incidente. 
+ 
+8.2. Requerimientos urgentes de autoridades de control 
+Cuando se reciban requerimientos, solicitudes de información o comunicaciones de la AEPD 
+que requieran una actuación urgente, el adjudicatario deberá acusar recibo y realizar una 
+primera valoración en un plazo máximo de cuatro (4) horas hábiles desde su comunicación. 
+Asimismo, deberá informar sobre los plazos aplicables y proponer la planificación de las 
+actuaciones necesarias para atender el requerimiento. 
+ 
+8.3. Consultas urgentes 
+Las consultas que, por su naturaleza, urgencia o posible repercusión jurídica u operativa, 
+requieran atención prioritaria deberán recibir una primera respuesta en un plazo máximo 
+de un (1) día hábil. 
+ 
+8.4. Consultas ordinarias 
+Las consultas ordinarias deberán recibir respuesta en un plazo máximo de tres (3) días 
+hábiles desde el día siguiente al de su recepción. 
+Cuando la consulta requiera un análisis adicional, el adjudicatario deberá comunicar dentro 
+de dicho plazo la valoración preliminar, las actuaciones necesarias y la fecha prevista para 
+emitir la respuesta definitiva. 
+8.5. Informes, dictámenes y análisis específicos 
+
+--- página 18 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+18 
+Expediente Nº202600004 
+Los informes, análisis, dictámenes y documentos específicos solicitados por Madrid Calle 
+30, S.A. deberán entregarse en un plazo máximo de diez (10) días hábiles, contados desde 
+el día siguiente al de la recepción del encargo. 
+Cuando, por su complejidad o extensión, resulte necesario un plazo superior, el 
+adjudicatario deberá comunicarlo y justificarlo dentro de los tres (3) primeros días hábiles 
+desde la recepción del encargo, indicando las causas de la ampliación y el plazo es timado 
+de entrega. 
+La ampliación requerirá la conformidad del responsable del contrato. 
+ 
+8.6. Reuniones y actuaciones extraordinarias 
+Cuando Madrid Calle 30, S.A. solicite una reunión extraordinaria, el adjudicatario deberá 
+proponer una fecha de celebración en un plazo máximo de dos (2) días hábiles desde la 
+recepción de la solicitud, salvo que la urgencia de la actuación requiera una ate nción 
+anterior. 
+ 
+8.7. Régimen de cómputo y seguimiento 
+Los plazos establecidos se computarán en días y horas hábiles, tomando como referencia 
+el calendario laboral de Madrid y el horario ordinario de prestación del servicio de Madrid 
+Calle 30, S.A. 
+Las comunicaciones realizadas fuera del horario ordinario se entenderán recibidas al inicio 
+del siguiente día hábil, salvo las relativas a incidencias críticas, para las que el adjudicatario 
+deberá disponer de un mecanismo de contacto y atención que permit a cumplir el plazo 
+específico de dos (2) horas. 
+El adjudicatario deberá mantener un registro de las solicitudes recibidas, su clasificación, 
+fecha y hora de recepción, tiempo de primera respuesta, actuaciones realizadas y fecha de 
+resolución. 
+El cumplimiento de los niveles de servicio establecidos podrá ser objeto de seguimiento por 
+el responsable del contrato 
+9. INFORMES Y ENTREGABLES DEL SERVICIO 
+El adjudicatario elaborará y entregará los informes y documentos necesarios para acreditar la 
+ejecución de las prestaciones contratadas. 
+Como mínimo, se establecen los siguientes entregables: 
+9.1 Informe de diagnóstico inicial 
+Se entregará dentro de los dos primeros meses desde el inicio de la ejecución del 
+contrato e incluirá: 
+• Situación inicial del sistema de gestión de protección de datos. 
+• Principales deficiencias y riesgos identificados. 
+• Obligaciones pendientes de cumplimiento. 
+• Actuaciones prioritarias. 
+
+--- página 19 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+19 
+Expediente Nº202600004 
+• Planificación de las actuaciones necesarias para completar la auditoría y 
+desarrollar la adecuación. 
+ 
+9.2 Informe final de auditoría 
+Se entregará dentro del plazo máximo de seis meses desde el inicio de la ejecución y 
+recogerá: 
+• Resultados de la auditoría y estado de cumplimiento de las obligaciones  
+aplicables. 
+• Análisis de riesgos y deficiencias detectadas. 
+• Incumplimientos y áreas de mejora. 
+• Recomendaciones y medidas correctoras o preventivas. 
+• Priorización de las actuaciones según su relevancia, urgencia y nivel de riesgo. 
+• Plan de acción y propuesta de seguimiento. 
+ 
+9.3 Documentación de actualización y adecuación 
+Comprenderá, según las necesidades detectadas y las actuaciones efectivamente 
+realizadas: 
+• Registro de Actividades de Tratamiento actualizado. 
+• Análisis de riesgos y documentación de seguimiento. 
+• Evaluaciones de impacto que procedan, incluida la correspondiente a los 
+tratamientos de videovigilancia del túnel y del lector de matrículas. 
+• Procedimientos internos, políticas, cláusulas y modelos documentales revisados 
+o elaborados. 
+• Propuestas de adaptación de los contratos con encargados del tratamiento. 
+• Recomendaciones y evidencias documentales de las medidas de adecuación 
+realizadas. 
+ 
+9.4 Informes de asesoramiento 
+Se elaborarán a petición de Madrid Calle 30, S.A. o cuando resulten necesarios por 
+cambios normativos, nuevos tratamientos, riesgos relevantes u otras circunstancias que 
+requieran un análisis especializado. 
+ 
+9.5 Informes de incidentes 
+Cuando se produzca una incidencia de seguridad relacionada con datos personales, el 
+adjudicatario elaborará un informe que incluirá, en la medida en que la información esté 
+disponible: 
+• Fecha, hora y lugar del incidente. 
+• Descripción de los hechos. 
+• Sistemas, procesos y procedimientos afectados. 
+• Categorías y volumen aproximado de datos y personas afectadas. 
+• Causas conocidas o probables. 
+
+--- página 20 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+20 
+Expediente Nº202600004 
+• Evaluación del impacto y de los riesgos. 
+• Avisos, comunicaciones y notificaciones efectuados. 
+• Actuaciones realizadas y medidas correctoras. 
+• Recomendaciones y medidas preventivas. 
+ 
+9.6 Informe anual de actividad 
+Se entregará antes de la finalización de cada anualidad contractual e incluirá: 
+• Actuaciones desarrolladas durante el periodo. 
+• Estado de cumplimiento de las obligaciones en materia de protección de datos. 
+• Incidencias detectadas y actuaciones realizadas. 
+• Recomendaciones y propuestas de mejora. 
+• Grado de ejecución de las medidas derivadas de la auditoría y de los informes 
+anteriores. 
+• Planificación de las actuaciones previstas para el periodo siguiente. 
+ 
+9.7 Informe de implantación y seguimiento 
+Recogerá las actuaciones realizadas, el grado de implantación de las medidas 
+correctoras, técnicas y organizativas, las medidas pendientes y las evidencias 
+disponibles del cumplimiento normativo. 
+9.8  Seguimiento de los entregables 
+Todos los documentos, informes, análisis, dictámenes y entregables elaborados por el 
+adjudicatario deberán remitirse a Madrid Calle 30, S.A. por medios electrónicos, en 
+formatos que permitan su consulta, revisión y, cuando proceda, edición. 
+Los entregables deberán identificar su objeto, fecha de elaboración, actuaciones 
+realizadas, conclusiones y recomendaciones, así como las medidas pendientes y su nivel 
+de prioridad cuando resulte aplicable. 
+Madrid Calle 30, S.A. podrá solicitar aclaraciones, subsanaciones o ampliaciones de la 
+documentación presentada cuando resulte necesario para verificar su adecuación al 
+objeto del contrato. 
+El adjudicatario deberá atender las observaciones formuladas y realizar las 
+modificaciones necesarias dentro del plazo que establezca el responsable del contrato, 
+teniendo en cuenta la naturaleza y complejidad de las mismas. 
+10. ALCANCE Y LÍMITES DE LA PRESTACIÓN 
+Las prestaciones descritas tendrán carácter de asesoramiento, consultoría y asistencia 
+técnica especializada, sin que impliquen la asunción por el adjudicatario de las competencias 
+de dirección, gestión o decisión que correspondan a Madrid Calle 30, S.A. como responsable 
+del tratamiento. 
+
+--- página 21 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+21 
+Expediente Nº202600004 
+El adjudicatario deberá proponer, asesorar, supervisar y realizar el seguimiento de las 
+medidas necesarias, pero corresponderá a Madrid Calle 30, S.A. decidir sobre su aprobación, 
+aceptación de riesgos e implantación, sin perjuicio de las funciones legales de supervisión y 
+asesoramiento atribuidas al Delegado de Protección de Datos. 
+ 
+El DPD ejercerá sus funciones con independencia funcional, de conformidad con los artículos 
+38 y 39 del RGPD, y no podrá recibir instrucciones sobre el desempeño de dichas funciones. 
+ 
+El adjudicatario no sustituirá las competencias de los órganos de dirección de la Sociedad ni 
+las funciones atribuidas al responsable del contrato, limitándose a prestar el apoyo técnico 
+especializado objeto del contrato. 
+ 
+III. CLAUSULAS SOCIALES  
+La ejecución de las prestaciones objeto del presente contrato deberá realizarse con pleno 
+respeto a la normativa laboral, social, de igualdad, accesibilidad, prevención de riesgos 
+laborales, protección de datos y demás disposiciones que resulten de aplicac ión, de 
+conformidad con lo establecido en el Pliego de Cláusulas Administrativas Particulares.  
+La empresa adjudicataria deberá garantizar que los trabajos se desarrollen de acuerdo con los 
+principios de confidencialidad, integridad, independencia profesional y diligencia, teniendo en 
+cuenta la naturaleza de los servicios de cumplimiento normativo objeto del contrato y el carácter 
+potencialmente sensible de la información a la que pudiera tener acceso.  
+Asimismo, cuando resulte necesario para la correcta ejecución del contrato, la empresa 
+adjudicataria deberá asistir presencialmente a las reuniones y sesiones de trabajo que convoque 
+MADRID CALLE 30, S. A., previa coordinación con el responsable del contrato. 
+IV. SEGURIDAD Y PREVENCIÓN DE RIESGOS LABORALES 
+El adjudicatario deberá cumplir, respecto del personal adscrito a la ejecución del contrato, lo 
+dispuesto en la normativa vigente en materia de prevención de riesgos laborales, y en particular 
+en la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, así como en su 
+normativa de desarrollo.  
+Asimismo, cuando resulte necesario el acceso del personal del adjudicatario a las instalaciones 
+o dependencias de Madrid Calle 30, S.A., dicho personal deberá cumplir las normas internas de 
+seguridad y salud y de coordinación de actividades empresariales que le sean de aplicación, de 
+conformidad con el Real Decreto 171/2004, de 30 de enero, por el que se desarrolla el artículo 
+24 de la Ley 31/1995.  
+La empresa adjudicataria será responsable del cumplimiento de las obligaciones que le 
+correspondan en materia de seguridad y salud laboral respecto de su personal, sin perjuicio de 
+las obligaciones de coordinación que procedan con Madrid Calle 30, S.A. 
+ 
+
+--- página 22 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+22 
+Expediente Nº202600004 
+V. ADSCRIPCIÓN DE MEDIOS  
+Para la correcta ejecución de las prestaciones objeto del contrato, el adjudicatario deberá 
+disponer durante toda la vigencia de este de los medios personales, materiales y organizativos 
+necesarios para garantizar la adecuada prestación del servicio, de conformidad con lo previsto 
+en el presente Pliego. 
+1. Medios materiales y organización del servicio 
+El adjudicatario deberá disponer de los medios materiales, tecnológicos y organizativos 
+necesarios para prestar el servicio con la debida eficacia, continuidad, seguridad y 
+confidencialidad, incluyendo los sistemas de comunicación y las herramientas de tra bajo 
+que resulten adecuados para el desarrollo de las prestaciones contratadas. 
+Con carácter general, el servicio se prestará mediante medios telemáticos y electrónicos, sin 
+perjuicio de las actuaciones presenciales que resulten necesarias para la correcta ejecución 
+del contrato. 
+Como mínimo, el adjudicatario deberá realizar las siguientes actuaciones presenciales: 
+• Visita inicial: una visita a las instalaciones de Madrid Calle 30, S.A., al comienzo de la 
+ejecución del contrato, destinada a conocer la organización y los tratamientos de datos 
+personales, establecer el programa de trabajo y definir la planificación inicial de las 
+actuaciones. 
+• Auditoría inicial : las visitas y actuaciones presenciales que resulten necesarias para 
+realizar la auditoría inicial y conocer adecuadamente los procesos, procedimientos y 
+tratamientos de datos personales, cuando no resulte suficiente la modalidad telemática 
+o así lo requiera el responsable del contrato. 
+• Seguimiento ordinario: al menos una visita presencial cada semestre durante la vigencia 
+del contrato y sus posibles prórrogas. 
+• Actuaciones extraordinarias: las visitas presenciales adicionales que resulten necesarias 
+cuando Madrid Calle 30, S.A. las requiera justificadamente por razón de incidencias, 
+cambios relevantes en los tratamientos, actuaciones de la Agencia Española de 
+Protección de Datos u otras circunstancias relacionadas con la ejecución del contrato. 
+Las reuniones de seguimiento podrán celebrarse por medios telemáticos cuando así lo 
+acuerden las partes y la naturaleza de los asuntos tratados lo permita, sin que ello suponga 
+reducir la frecuencia mínima de las visitas presenciales establecidas en este apartado. 
+El personal adscrito al servicio deberá desplazarse a las instalaciones de Madrid Calle 30, 
+S.A., situadas en la calle Méndez Álvaro, 95, Madrid, cuando resulte necesario para la 
+ejecución de las prestaciones o sea requerido por el responsable del contrato , dentro del 
+horario laboral ordinario de la Sociedad, salvo que las circunstancias de la actuación 
+justifiquen otro horario. 
+ 
+
+--- página 23 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+23 
+Expediente Nº202600004 
+2. Subcontratación 
+La subcontratación de las prestaciones objeto del contrato se regirá por lo dispuesto en el 
+artículo 215 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, y por las 
+condiciones establecidas en el Pliego de Cláusulas Administrativas Particulares. 
+Las prestaciones que, de conformidad con la documentación contractual, tengan la 
+consideración de tareas críticas y deban ser ejecutadas directamente por el adjudicatario no 
+podrán ser objeto de subcontratación, siempre que dicha exigencia esté debidamente  
+justificada y se haya establecido expresamente en los pliegos. 
+A estos efectos, podrán identificarse como tareas críticas, en los términos establecidos en 
+el Pliego de Cláusulas Administrativas Particulares: 
+• El desempeño de las funciones legalmente atribuidas al Delegado de Protección de 
+Datos (DPD/DPO) designado para la ejecución del contrato. 
+• La interlocución principal y la coordinación del servicio con Madrid Calle 30, S.A. 
+• La dirección técnica de la auditoría inicial del sistema de gestión de protección de datos. 
+• La elaboración y validación técnica de los informes de auditoría, dictámenes y 
+recomendaciones que constituyan entregables esenciales del contrato. 
+• La coordinación del asesoramiento especializado ante actuaciones de la Agencia 
+Española de Protección de Datos y de la asistencia en la gestión de incidentes 
+relacionados con datos personales. 
+La delimitación de estas tareas críticas deberá ser coherente con la justificación que figure 
+en el expediente de contratación y con las condiciones de subcontratación previstas en el 
+Pliego de Cláusulas Administrativas Particulares. 
+La utilización de herramientas, aplicaciones y medios materiales auxiliares no tendrá por sí 
+misma la consideración de subcontratación. La participación de colaboradores externos en 
+la ejecución de prestaciones contractuales se ajustará, en todo caso, a la s condiciones 
+legales y contractuales aplicables, sin perjuicio de las exigencias de independencia, 
+confidencialidad, protección de datos y ausencia de conflictos de intereses. 
+En todo caso, el adjudicatario será responsable frente a Madrid Calle 30, S.A. de la correcta 
+ejecución de las prestaciones contratadas y del cumplimiento de las obligaciones que le 
+correspondan, sin perjuicio del régimen de responsabilidades que resulte a plicable 
+conforme a la normativa vigente. 
+3. Medios Humanos  
+La empresa adjudicataria deberá disponer de los medios humanos necesarios para la 
+correcta ejecución de las prestaciones objeto del contrato, garantizando la adecuada 
+cualificación y experiencia profesional en materia de protección de datos personales, 
+seguridad de la información, cumplimiento normativo, gestión de riesgos y Esquema 
+Nacional de Seguridad. 
+
+--- página 24 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+24 
+Expediente Nº202600004 
+La ejecución del contrato contará, como mínimo, con un responsable del servicio, que 
+actuará como interlocutor principal con MADRID CALLE 30, S. A. y asumirá la coordinación 
+y supervisión de los trabajos, y con el personal técnico de apoyo para la correcta 
+prestación del servicio. 
+ 
+Perfil 
+profesional 
+Titulación Requerida Experiencia Mínima  
+Responsable del 
+Servicio / 
+Delegado de 
+Protección de 
+Datos 
+(DPD/DPO) 
+Titulación Universitaria oficial de 
+grado, licenciatura o equivalente, 
+relacionada con las funciones del 
+contrato, y acreditar formación 
+especializada en protección de 
+datos personales (RGPD y 
+LOPDGDD) y conocimientos en 
+seguridad de la información y ENS, 
+La persona designada deberá acreditar una 
+experiencia profesional específica en materia 
+de seguridad de la información y Esquema 
+Nacional de Seguridad (ENS), habiendo 
+participado directamente, durante los 
+últimos cinco años, en proyectos de 
+implantación, adecuación, seguimiento, 
+auditoría o mantenimiento del ENS. 
+La experiencia se acreditará mediante 
+currículum y documentación justificativa de 
+los servicios realizados. 
+Personal técnico 
+de apoyo 
+Formación Profesional de grado 
+superior o titulación universitaria 
+relacionada con las funciones 
+técnicas del contrato, así como de 
+conocimientos en materia de 
+protección de datos personales y 
+normativa aplicable 
+Experiencia profesional mínima de un (1) año 
+en tareas relacionadas con la protección de 
+datos personales, la gestión documental, el 
+cumplimiento normativo o el apoyo técnico 
+en auditorías y análisis de riesgos. La 
+experiencia se acreditará mediante 
+currículum y documentación justificativa. 
+La empresa adjudicataria comunicará la identidad del profesional responsable del servicio y del 
+técnico de apoyo que  acreditará su titulación y experiencia conforme a lo establecido en los 
+pliegos, (SOBRE A) 
+La empresa adjudicataria podrá contar con profesionales de apoyo cuando resulte necesario 
+para la correcta ejecución de los trabajos, sin coste adicional para MADRID CALLE 30, S. A.  
+La organización, dirección y coordinación del personal corresponderán exclusivamente a la 
+empresa adjudicataria, sin perjuicio de las facultades de supervisión y control de la ejecución 
+contractual que correspondan a MADRID CALLE 30, S. A. 
+VI. COORDINACIÓN DE LA PRESTACIÓN 
+
+--- página 25 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+25 
+Expediente Nº202600004 
+1. Responsable del servicio y coordinación 
+El adjudicatario deberá designar a una persona física como Delegado de Protección de Datos 
+que deberá reunir los requisitos de cualificación, independencia, objetividad y ausencia de 
+conflicto de intereses exigibles para el adecuado desempeño de sus funciones, de conformidad 
+con la normativa aplicable. Además, esta persona tiene que acreditar la formación especializada 
+y experiencia profesional especifica en materia de seguridad de la información y Esquema 
+Nacional de Seguridad (ENS), habiendo participado directamente en los proyectos de 
+implantación, adecuación, seguimiento, auditoría o mantenimiento del ENS durante los últimos 
+cinco años, la experiencia exigida se acreditará mediante una relación de los proyectos en los 
+que haya participado la persona propuesta, indicando, al menos, su objeto, las actuaciones 
+desarrolladas, el periodo de ejecución y la función desempeñada, junto con la documentación 
+justificativa que resulte admisible conforme a los pliegos. 
+El Delegado de Protección de Datos deberá disponer de los conocimientos necesarios para 
+asesorar a Madrid Calle 30, S.A., en la adecuada coordinación entre las obligaciones derivadas 
+del Reglamento (UE) 2016/679, la Ley Orgánica 3/2018 y el Real Decreto 31 1/2022, por el que 
+se regula el Esquema Nacional de Seguridad , incluyendo, entre otras materias, el análisis y 
+gestión de riesgos , las medidas de seguridad aplicables, la gestión de incidentes de seguridad , 
+las brechas de datos personales y las obligaciones de notificación y comunicación a las 
+autoridades competentes. 
+En el supuesto que una única persona no reúna la totalidad de la experiencia exigida para el 
+desempeño de las funciones relaciones con el cumplimiento del E squema Nacional de 
+Seguridad, el adjudicatario podrá proponer la participación de un colaborador co n dicha 
+experiencia, su participación debe contar con la autorización previa de Madrid Calle 30. 
+Lo especificado en este apartado es condición esencial del contrato. 
+2. Seguimiento de la ejecución 
+El adjudicatario mantendrá una comunicación permanente con Madrid Calle 30, S.A. para 
+atender las consultas, incidencias y necesidades que se planteen durante la ejecución del 
+contrato. 
+Con el fin de garantizar el adecuado seguimiento de la prestación, se establece el siguiente 
+régimen mínimo de reuniones y actuaciones presenciales: 
+• Una visita presencial inicial, que deberá realizarse dentro del primer mes desde el inicio 
+de la ejecución del contrato, destinada a conocer la organización y los tratamientos de 
+datos personales de Madrid Calle 30, S.A., planificar los trabajos y establec er el 
+programa inicial de actuación.  
+• Una visita presencial cada semestre durante la vigencia del contrato y, en su caso, 
+durante cada una de sus prórrogas, para el seguimiento del servicio, la revisión del grado 
+de cumplimiento de la normativa y el análisis de las actuaciones realizadas y pendientes. 
+
+--- página 26 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+26 
+Expediente Nº202600004 
+• Las restantes actuaciones de asesoramiento, soporte, emisión de informes y resolución 
+de consultas se prestarán preferentemente por medios telemáticos o electrónicos, sin 
+perjuicio de que Madrid Calle 30, S.A. pueda requerir reuniones o actuaciones 
+presenciales adicionales cuando la naturaleza de los asuntos así lo aconseje. 
+Madrid Calle 30, S.A. podrá convocar reuniones de seguimiento adicionales cuando resulte 
+necesario para garantizar la correcta ejecución del contrato. 
+ 
+3. Supervisión del contrato 
+Madrid Calle 30, S.A., a través de  persona designada como responsable del contrato, podrá 
+ejercer las facultades de dirección, supervisión y control necesarias para verificar la correcta 
+ejecución de las prestaciones, pudiendo, entre otras actuaciones: 
+• Establecimiento de reunión periódicas para el seguimiento del contrato. 
+• Control del cumplimento del plan de trabajo. 
+• Revisar la documentación, informes y propuestas elaborados por el adjudicatario. 
+• Solicitar aclaraciones, observaciones o modificaciones cuando resulten necesarias para 
+su adecuación a las necesidades de la Sociedad. 
+• Dictar las instrucciones necesarias para la correcta ejecución de las prestaciones 
+contractuales, dentro del ámbito de las obligaciones asumidas por el adjudicatario y sin 
+interferir en la independencia funcional del Delegado de Protección de Datos en el 
+ejercicio de las funciones previstas en los artículos 38 y 39 del Reglamento (UE) 
+2016/679. 
+• Verificar el cumplimiento de los plazos y de las obligaciones establecidas en el Pliego de 
+Prescripciones Técnicas y en el Pliego de Cláusulas Administrativas Particulares. 
+ 
+4. Lugar de prestación del servicio 
+Con carácter general, el servicio se prestará desde las dependencias del adjudicatario mediante 
+medios telemáticos y electrónicos. 
+No obstante, el Responsable del Servicio deberá desplazarse a las instalaciones de Madrid Calle 
+30, S.A. cuando resulte necesario para la realización de la auditoría inicial, las visitas periódicas 
+previstas en el contrato o cuando sea expresamente requerido por el responsable del contrato 
+para atender actuaciones cuya naturaleza aconseje su presencia. 
+5. Responsabilidad en la ejecución 
+El adjudicatario ejecutará el contrato a su riesgo y ventura, siendo el único responsable de la 
+correcta prestación del servicio y del cumplimiento de las obligaciones asumidas. 
+Asimismo, deberá mantener durante toda la vigencia del contrato la independencia, objetividad 
+y confidencialidad exigibles al ejercicio de las funciones de Delegado de Protección de Datos, 
+
+--- página 27 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+27 
+Expediente Nº202600004 
+absteniéndose de realizar actuaciones que puedan generar situaciones de conflicto de intereses 
+y comunicando inmediatamente a Madrid Calle 30, S.A. cualquier circunstancia que pudiera 
+comprometer su imparcialidad. 
+Lo anterior se entiende sin perjuicio de las competencias y responsabilidades legalmente 
+atribuidas a Madrid Calle 30, S.A. como responsable del tratamiento. 
+ 
+VII. DURACIÓN DEL CONTRATO  
+La duración inicial del contrato será de DOCE (12) meses, contados desde la fecha que se 
+establezca en el documento de formalización o, en su caso, desde la fecha de inicio de la 
+prestación que determine Madrid Calle 30, S.A. 
+El contrato podrá ser objeto de una o varias prórrogas, acordadas expresamente por el órgano 
+de contratación, siempre que sus características permanezcan inalterables durante el período 
+de duración de las mismas y exista crédito adecuado y suficiente, de c onformidad con lo 
+dispuesto en el artículo 29 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público. 
+La duración total del contrato, incluidas las eventuales prórrogas, no podrá exceder de 
+CUARENTA Y OCHO (48) meses, sin que el período total de prórrogas pueda superar los TREINTA 
+Y SEIS (36) meses. 
+Las prórrogas se regirán por las mismas condiciones técnicas y económicas previstas para el 
+contrato inicial, sin perjuicio de la oferta presentada por el adjudicatario y de lo dispuesto en los 
+pliegos que rigen la contratación. 
+VIII. RESPONSABLES DEL CONTRATO  
+Responsable del servicio designado por el adjudicatario 
+El responsable del servicio será la persona designada por el adjudicatario conforme a lo 
+establecido en el apartado V.3 del presente Pliego. 
+Dicha persona actuará como interlocutor principal ante Madrid Calle 30, S.A. y ejercerá las 
+funciones de Delegado de Protección de Datos, con sujeción a los requisitos de cualificación, 
+independencia y ausencia de conflictos de intereses establecidos en el presente Pliego. 
+La persona designada deberá acreditar conocimientos especializados en Derecho y práctica de 
+la protección de datos, de conformidad con lo previsto en el RGPD y en la Ley Orgánica 3/2018. 
+Asimismo, deberá acreditar conocimientos especializados y experiencia profesional en materia 
+de seguridad de la información y ENS, habiendo participado directamente en proyectos de 
+implantación, adecuación, mantenimiento, auditoría o seguimiento del ENS durante los últimos 
+cinco años. 
+
+--- página 28 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+28 
+Expediente Nº202600004 
+Deberá disponer de capacitación suficiente para asesorar a Madrid Calle 30, S.A. en la 
+coordinación de las obligaciones derivadas de la normativa de protección de datos y del Real 
+Decreto 311/2022, incluyendo la gestión de riesgos, medidas de seguridad, vi olaciones de 
+seguridad de los datos personales, auditorías y procesos de mejora continua. 
+En el desempeño de las funciones propias del DPD actuará con plena independencia, de 
+conformidad con los artículos 38 y 39 del RGPD. 
+Responsable del contrato designado por Madrid Calle 30, S.A 
+De conformidad con el artículo 62 de la LCSP, actuará como responsable del contrato la persona 
+titular de la Jefatura del Departamento de Seguridad de Madrid Calle 30, S.A., o quien sea 
+designado válidamente para dicha función. 
+Le corresponderá supervisar la correcta ejecución del contrato, adoptar las instrucciones 
+necesarias para su ejecución dentro del ámbito contractual y verificar el cumplimiento de las 
+obligaciones asumidas por el adjudicatario. 
+Lo anterior se entiende sin perjuicio de la coordinación con el Departamento Jurídico y de la 
+independencia funcional que corresponde al DPD en el ejercicio de las funciones legalmente 
+atribuidas. 
+IX. CONFIDENCIALIDAD Y PROTECCIÓN DE DATOS 
+Las relaciones entre el adjudicatario y Madrid Calle 30, S.A. quedarán sometidas al deber de 
+confidencialidad respecto de todos los hechos, datos, comunicaciones, informaciones, 
+documentos y asuntos de los que tenga conocimiento con ocasión de la ejecución del contrato. 
+Dicho deber comprenderá toda la información conocida, elaborada, emitida o recibida durante 
+la prestación del servicio, cualquiera que sea el soporte en el que se encuentre. 
+Las actuaciones realizadas en el marco del presente contrato estarán sujetas al deber de 
+confidencialidad y al secreto profesional en los términos establecidos en la normativa vigente.  
+Esta obligación se extenderá a todo el personal adscrito a la ejecución del contrato y, en su caso, 
+a los colaboradores autorizados del adjudicatario, quien garantizará su efectivo cumplimiento. 
+El deber de confidencialidad permanecerá vigente durante toda la ejecución del contrato y 
+subsistirá con posterioridad a su finalización, sin limitación temporal. 
+En particular, el adjudicatario deberá cumplir las siguientes obligaciones: 
+• Tratar los datos personales a los que tenga acceso exclusivamente para la correcta 
+ejecución de las prestaciones objeto del contrato, sin destinarlos a finalidad distinta ni 
+comunicarlos a terceros, salvo obligación legal o autorización expresa de Madrid C alle 
+30, S.A. 
+• Cumplir en todo momento lo dispuesto en el Reglamento (UE) 2016/679, de 27 de abril 
+(RGPD), en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos 
+Personales y garantía de los derechos digitales, y en el resto de la normativa que resulte 
+de aplicación. 
+
+--- página 29 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+29 
+Expediente Nº202600004 
+• Adoptar las medidas técnicas y organizativas necesarias para garantizar la 
+confidencialidad, integridad, disponibilidad y seguridad de los datos personales y de la 
+información a la que tenga acceso durante la ejecución del contrato. 
+• Cuando la ejecución del contrato implique el tratamiento de datos personales por 
+cuenta de Madrid Calle 30, S.A., actuar en calidad de encargado del tratamiento, de 
+conformidad con el artículo 28 del RGPD y en los términos que se establezcan en el 
+correspondiente contrato de encargo del tratamiento. 
+• Garantizar que el Responsable del Servicio, en su condición de Delegado de Protección 
+de Datos (DPD/DPO) externo, ejercerá las funciones previstas en los artículos 38 y 39 
+del RGPD con plena independencia funcional, sin perjuicio de las facultades de 
+seguimiento y supervisión que corresponden a Madrid Calle 30, S.A. como responsable 
+del contrato. 
+• Al finalizar la prestación, el adjudicatario devolverá o suprimirá los datos personales 
+tratados por cuenta de Madrid Calle 30, S.A., así como las copias existentes, según 
+determine esta última, salvo que una disposición legal exija su conservación. En tal caso, 
+los datos se conservarán debidamente protegidos y exclusivamente durante el periodo 
+legalmente exigible 
+Condición de encargado del tratamiento 
+Cuando, para la ejecución de determinadas prestaciones contractuales, el adjudicatario deba 
+acceder y tratar datos personales por cuenta de Madrid Calle 30, S.A., actuará como encargado 
+del tratamiento respecto de dichas operaciones, de conformidad con el artículo 28 del RGPD. 
+En estos supuestos, las partes formalizarán el correspondiente contrato o acuerdo de encargo 
+del tratamiento, en el que se establecerán las instrucciones documentadas, la finalidad y 
+duración del tratamiento, las categorías de datos y de interesados, las m edidas técnicas y 
+organizativas de seguridad y las restantes obligaciones exigidas por la normativa aplicable. 
+El acceso a datos personales que pudiera producirse con ocasión del ejercicio de las funciones 
+propias del DPD deberá ajustarse a las obligaciones de confidencialidad, secreto profesional e 
+independencia previstas en el RGPD. 
+La eventual condición del adjudicatario como encargado del tratamiento respecto de 
+determinadas operaciones no alterará las funciones ni la independencia funcional que 
+corresponden al Delegado de Protección de Datos. 
+Devolución y supresión de la información 
+Al finalizar el contrato, el adjudicatario deberá devolver o suprimir los datos personales tratados 
+por cuenta de Madrid Calle 30, S.A., así como las copias existentes, según determine la Sociedad, 
+salvo que una disposición legal exija su conservación. 
+En caso de conservación legalmente obligatoria, los datos deberán mantenerse debidamente 
+bloqueados o protegidos y exclusivamente durante el periodo legalmente exigible. 
+3. Incumplimiento de las obligaciones de confidencialidad 
+
+--- página 30 ---
+ 
+             
+ 
+MADRID CALLE 30, S.A. - C. Méndez Álvaro,95 | 28053 Madrid - TLF: 91 539 12 36 
+__________________________________________________________________________________________________________ 
+ 
+Área de Gobierno de Obras y Equipamientos 
+ 
+30 
+Expediente Nº202600004 
+El incumplimiento de las obligaciones establecidas en este apartado tendrá la consideración de 
+incumplimiento contractual, sin perjuicio de las responsabilidades que pudieran derivarse 
+conforme a la normativa vigente. 
+ 
+En caso de contradicción entre lo dispuesto en el presente Pliego de Prescripciones Técnicas y 
+el Pliego de Cláusulas Administrativas Particulares, prevalecerá lo establecido en este último. 

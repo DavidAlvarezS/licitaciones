@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] PCAP_Exp_27_2026_SDA_asesoramiento_consultoria.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] PPT_Exp_27_2026_SDA_asesoramiento_consultoria.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] PCAP_Exp_27_2026_SDA_asesoramiento_consultoria.pdf: 01_Legal_PCAP_Exp_27_2026_SDA_asesoramiento_consultoria.pdf (719 KB)
+- [Technical] PPT_Exp_27_2026_SDA_asesoramiento_consultoria.pdf: 02_Technical_PPT_Exp_27_2026_SDA_asesoramiento_consultoria.pdf (351 KB)

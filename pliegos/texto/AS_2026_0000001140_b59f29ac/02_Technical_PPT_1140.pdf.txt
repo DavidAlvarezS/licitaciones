@@ -1,0 +1,369 @@
+
+
+--- página 1 ---
+ 
+ 
+ 
+ 
+Expediente: AS/2026/0000001140 
+ 
+ 
+1 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS DE LA SOCIEDAD MERCANTIL ESTATAL 
+DE GESTIÓN INMOBILIARIA DE PATRIMONIO, M.P.S.A. PARA LA CONTRATACIÓN 
+POR PROCEDIMIENTO ABIERTO SIMPLIFICADO DEL “SERVICIO DE EVALUACIÓN 
+TÉCNICA INDEPENDIENTE DE LOS SISTEMAS DE INFORMACIÓN DE SEGIPSA” 
+ 
+El presente Pliego de Prescripciones Técnicas constituye el conjunto de 
+instrucciones, normas y especificaciones técnicas  mínimas, de obligado 
+cumplimiento que definen los servicios a realizar. 
+1) Objeto del servicio. 
+El contrato que se pretende licitar tiene por objeto la prestación de servicios 
+especializados de evaluación técnica independiente orientados a comprobar 
+y mejorar la robustez y nivel de protección de los sistemas de información 
+para SEGIPSA. 
+2) Alcance del servicio. 
+El alcance del proyecto comprende la realización de un programa continuo 
+de evaluación de la seguridad sobre las aplicaciones web y la infraestructura 
+on-premise utilizadas por SEGIPSA, con el objetivo de identificar, analizar y 
+valorar de forma recurrente posibles vulnerabilidades, debilidades de 
+configuración y riesgos de seguridad que puedan afectar a los sistemas y 
+servicios. 
+Asimismo, el adjudicatario deberá: 
+▪ Analizar el impacto y la criticidad de las vulnerabilidades detectadas.  
+▪ Eliminar o minimizar falsos positivos mediante validación técnica.  
+▪ Facilitar evidencias suficientes para reproducir las vulnerabilidades.  
+▪ Proponer medidas concretas de corrección o mitigación.  
+▪ Priorizar las actuaciones de acuerdo con la criticidad, exposición , 
+capacidad de explotación y contexto del activo afectado.  
+▪ Verificar las correcciones implantadas cuando SEGIPSA lo solicite.  
+▪ Mantener trazabilidad sobre la apertura, evolución, aceptación de 
+riesgo y cierre de cada vulnerabilidad.  
+
+--- página 2 ---
+ 
+ 
+ 
+ 
+Expediente: AS/2026/0000001140 
+ 
+ 
+2 
+ 
+▪ Comunicar inmediatamente aquellas vulnerabilidades cuya 
+explotación pueda representar un riesgo crítico o elevado.  
+Las actuaciones tendrán exclusivamente carácter de evaluación de 
+seguridad.  
+3) Descripción y características del servicio. 
+A efectos del adecuado dimensionamiento de las actuaciones, el entorno 
+tecnológico objeto del contrato está compuesto, de forma aproximada, por 
+los siguientes elementos: 
+▪ Diez aplicaciones o sitios web accesibles desde internet , incluyendo la 
+revisión de la seguridad de los interfaces de comunicación con otras 
+aplicaciones (API).  Las principales aplicaciones de las que dispone 
+SEGIPSA son: 
+o Desarrollo en los sistemas SAP. 
+o Desarrollo en aplicaciones de Catastro. 
+o Desarrollo en aplicaciones del CADA. 
+o Desarrollo en aplicación de subastas. 
+▪ Un dominio, incluyendo los subdominios y servicios asociados que se 
+descubran durante las actuaciones y cuya titularidad corresponda a 
+SEGIPSA. 
+▪ Un repositorio de software susceptible de revisión de código fuente. 
+▪ Dos sedes con infraestructura on -premise IT/OT con un CPD en cada 
+sede, ubicadas en Madrid y Las Rozas de Madrid, y redes Wifi.  
+▪ Redes LAN y WLAN asociadas a dichas sedes. 
+▪ Una SSL-VPN. 
+Como parte del servicio, el adjudicatario deberá proporcionar acceso a una 
+plataforma centralizada de gestión y supervisión continua de la seguridad del 
+software, que permita integrar en un único entorno las capacidades de 
+análisis de código fuente, detecc ión de vulnerabilidades en dependencias y 
+componentes de terceros, identificación de secretos y credenciales 
+expuestas, análisis de configuraciones y detección de vulnerabilidades 
+asociadas a las aplicaciones y servicios objeto del contrato. 
+
+--- página 3 ---
+ 
+ 
+ 
+ 
+Expediente: AS/2026/0000001140 
+ 
+ 
+3 
+ 
+La plataforma deberá permitir la integración con los repositorios de código y 
+procesos de desarrollo utilizados por SEGIPSA, proporcionando una visión 
+consolidada del nivel de riesgo de cada aplicación, priorización de 
+vulnerabilidades en función de su criticidad y contexto, seguimiento de su 
+estado y evolución, generación de recomendaciones de remediación y 
+cuadros de mando e  informes que permitan conocer de forma continua el 
+nivel de exposición de los activos incluidos en el servicio. La solución deberá 
+estar disponible durante toda la vigencia del contrato y su licenciamiento, 
+configuración, mantenimiento y soporte estarán i ncluidos en el precio del 
+servicio. 
+4) Servicios a prestar. 
+Durante el inicio del servicio el adjudicatario realizará una fase de toma de 
+datos y puesta en marcha que comprenderá: 
+▪ Reunión inicial de lanzamiento. 
+▪ Identificación y validación de los activos incluidos en el alcance. 
+▪ Identificación de aplicaciones, URL, API, tecnologías, repositorios, ramas 
+de desarrollo y mecanismos de autenticación necesarios. 
+▪ Identificación de los rangos de direcciones, sistemas y redes incluidos 
+en la auditoría on-premise. 
+▪ Definición de ventanas de ejecución de pruebas. 
+▪ Definición de direcciones IP de origen utilizadas por el adjudicatario 
+para las pruebas. 
+▪ Definición de contactos de seguridad y procedimientos de escalado. 
+El adjudicatario deberá realizar análisis estático del código fuente contenido 
+en el repositorio incluido en el alcance mediante la plataforma centralizada 
+de gestión y supervisión continua de la seguridad mencionada 
+anteriormente.  
+Los resultados deberán indicar, siempre que sea técnicamente posible, 
+fichero, componente, función y línea de código afectada, descripción de la 
+vulnerabilidad, impacto, evidencia, recomendación de corrección y 
+clasificación CWE asociada. 
+
+--- página 4 ---
+ 
+ 
+ 
+ 
+Expediente: AS/2026/0000001140 
+ 
+ 
+4 
+ 
+Los análisis deberán poder ejecutarse automáticamente ante cambios de 
+código y deberá realizarse, en cualquier caso, un análisis completo periódico 
+del repositorio. 
+El adjudicatario realizará análisis dinámicos de seguridad sobre las 
+aplicaciones o sitios web y sobre sus API 
+Los análisis deberán realizarse tanto en modalidad no autenticada como, 
+cuando SEGIPSA facilite cuentas específicas para pruebas, en modalidad 
+autenticada. 
+Como referencia metodológica se utilizarán las guías CCN -STIC aplicables, 
+OWASP Web Security Testing Guide, OWASP Application Security Verification 
+Standard, OWASP Top 10 y OWASP API Security Top 10 en sus versiones estables 
+vigentes.  
+Se ejecutará como mínimo un análisis DAST inicial completo de cada 
+aplicación y sus APIs , análisis adicionales después de cambios relevantes 
+cuando sean solicitados por SEGIPSA y reanálisis de vulnerabilidades críticas 
+o altas una vez comunicada su corrección. Las vulnerabilidades críticas y 
+altas detectadas mediante herramientas automáticas deberán ser objeto de 
+validación técnica por parte del adjudicatario antes de su comunicación 
+definitiva, salvo que por la urgencia resulte necesario emitir una alerta 
+preventiva. 
+Se deberá disponer como mínimo capacidades de SAST, SCA, detección de 
+secretos, DAST sobre aplicaciones web, análisis de API y centralización de 
+vulnerabilidades procedentes de distintas fuentes. Deberá integrarse con el 
+repositorio de código y mecanismos de desarrollo utilizados por SEGIPSA. 
+Cada hallazgo deberá disponer de una explicación y una recomendación 
+técnica suficientemente concreta para facilitar su corrección. 
+Se realizará vigilancia periódica del dominio segipsa.es, activos expuestos en 
+Internet y la marca SEGIPSA, además de una auditoría del perímetro externo. 
+Se realizará, por cada periodo de doce meses de contrato, una auditoría 
+técnica de seguridad de la infraestructura de las dos sedes incluidas en el 
+alcance. 
+Una de las sedes dispone, además de los sistemas de tecnologías de la 
+información, de un entorno de tecnologías de operación (OT), compuesto por 
+sistemas y dispositivos destinados a la supervisión, control y operación de 
+procesos físicos. 
+ 
+
+--- página 5 ---
+ 
+ 
+ 
+ 
+Expediente: AS/2026/0000001140 
+ 
+ 
+5 
+ 
+Por tanto, dentro del alcance del servicio podrán existir aplicaciones, servicios, 
+comunicaciones o componentes relacionados directa o indirectamente con 
+dicho entorno OT. 
+El objetivo de esta auditoria es comprobar la vulnerabilidad de los sistemas 
+de protección y producción ante ataques de penetración, de forma 
+controlada en entornos productivos. 
+La metodología a utilizar para este proyecto será de caja negra y caja gris. 
+Auditoría interna. (Infraestructura de red, Active Directory, servidores, etc) 
+Auditoria de redes Wifi (Corporativa e invitados)  
+Sobre la arquitectura siguiente:  
+▪ Ubicación de las instalaciones para auditoría interna en 2 Sedes.  
+▪ Auditoría a redes Wifi para aprox 5 redes wifi.  
+▪ Infraestructura On-Premises: 2 Sedes con un CPD en cada sede.  
+▪ Infraestructura IT/OT. 
+El resultado de las auditorías realizadas se plasmará en los siguientes 
+documentos: 
+1. Informe final de auditoría, incluyendo:  
+▪ Resumen ejecutivo.  
+▪ Informe Técnico.  
+▪ Recomendaciones de Remediación y Mitigación de 
+Vulnerabilidades  
+▪ Recomendaciones/Iniciativas para mejorar la infraestructura y 
+contramedidas.  
+2. Presentación de resultados: Sesión de presentación del informe y 
+recomendaciones resultantes de la auditoría.  
+Si durante el desarrollo de cualquiera de los estudios anteriormente descritos 
+se detectara cualquier riesgo crítico para la seguridad de SEGIPSA, la empresa 
+adjudicataria lo comunicará inmediatamente al responsable del servicio del 
+cliente, junto con las recomendaciones de remediación a aplicar. 
+
+--- página 6 ---
+ 
+ 
+ 
+ 
+Expediente: AS/2026/0000001140 
+ 
+ 
+6 
+ 
+Las recomendaciones de configuración deberán utilizar como referencia las 
+guías CCN -STIC y podrán utilizar recomendaciones del fabricante u otras 
+guías técnicas de reconocido prestigio que resulten adecuadas a cada 
+tecnología. 
+Como parte de la auditoría presencial se revisará la seguridad de las redes 
+inalámbricas de ambas sedes. No se realizarán técnicas susceptibles de 
+producir indisponibilidad de la red inalámbrica, tales como interferencias o 
+ataques masivos de desconexión, salvo autorización expresa y planificación 
+previa. 
+El equipo de trabajo asignado por la empresa adjudicataria para este 
+proyecto se compondrá de los siguientes miembros:  
+▪ Jefe de proyecto  
+▪ Equipo de Red Team (al menos 2 personas) 
+Corresponde a perfiles técnicos especialistas en auditorias de seguridad, 
+hacking ético y Red Team. El equipo técnico que realice la auditoría técnica 
+de seguridad debe cumplir con los siguientes requisitos:  
+▪ Poseer certificaciones profesionales reconocidas en el sector de 
+ciberseguridad, tales como CRTO, eWPTx, eCPPT, OSCP, CEH o 
+equivalentes. 
+▪ Tener experiencia demostrada en el campo de auditorías técnicas de 
+seguridad. 
+▪ El personal destinado al servicio deberá estar totalmente formado y 
+disponer de una competencia técnica en las en las tareas indicadas.  
+No obstante, SEGIPSA podrá solicitar a la empresa adjudicataria la sustitución 
+del personal asignado al servicio cuando existan circunstancias que así lo 
+aconsejen, o bien, si se detecta una falta de adecuación al puesto y tareas 
+que dicha persona desarrol la dentro del servicio, procediéndose a dicha 
+sustitución en un plazo máximo de una semana.  
+El adjudicatario garantizará que no se produzcan interrupciones en la 
+prestación del servicio y que se cuenta con los recursos suficientes.  
+ 
+
+--- página 7 ---
+ 
+ 
+ 
+ 
+Expediente: AS/2026/0000001140 
+ 
+ 
+7 
+ 
+Las auditorías de infraestructura on -premise deberán realizarse de forma 
+presencial por, al menos, dos auditores,  debiendo estar ambos presentes 
+durante la totalidad de las jornadas exigidas. 
+En concreto, deberán realizarse, como mínimo: 
+▪ cinco jornadas completas presenciales, con la asistencia simultánea 
+de ambos auditores, en la sede principal de Madrid;  
+▪ cinco jornadas completas presenciales, con la asistencia simultánea 
+de ambos auditores, en la sede de Las Rozas de Madrid. 
+El servicio incluirá la realización de pruebas de verificación o retest. 
+Una vez que SEGIPSA comunique la corrección de una vulnerabilidad crítica o 
+alta, el adjudicatario realizará la comprobación de la resolución. Se deberá 
+reflejar el resultado del retest y conservar la trazabilidad entre la 
+vulnerabilidad inicial y su corrección. 
+Para cada prueba de penetración o auditoria, el adjudicatario entregará a 
+SEGIPSA un informe técnico detallando vulnerabilidades encontradas, activos 
+afectados, nivel de riesgo, valoración CVSS, evidencias, referencias 
+documentales, planes de mitigación y recomendaciones y un informe 
+ejecutivo con el resumen de los principales hallazgos.  
+Los informes se proporcionarán en español en un plazo máximo de 15 días 
+hábiles a partir de la finalización de cada prueba de penetración o auditoría 
+final. 
+El adjudicatario deberá notificar las vulnerabilidades críticas de manera 
+inmediata sin esperar a la emisión del informe periódico con un máximo de 4 
+horas laborables desde su detección, para las vulnerabilidades 
+categorizadas como altas el plazo máximo se rá de 1 día laborable. Para las 
+medias, bajas e informativas se notificarán en el informe periódico. 
+Todos los informes, evidencias, inventarios, configuraciones específicas, 
+resultados de análisis y demás documentación generada específicamente 
+como consecuencia de la prestación pertenecerán a SEGIPSA. 
+El adjudicatario no podrá utilizar ni divulgar las vulnerabilidades identificadas, 
+siquiera de forma anonimizada, para publicaciones, estadísticas comerciales, 
+demostraciones, referencias de clientes o actividades de investigación sin 
+autorización previa y expresa de SEGIPSA. 
+ 
+
+--- página 8 ---
+ 
+ 
+ 
+ 
+Expediente: AS/2026/0000001140 
+ 
+ 
+8 
+ 
+En consideración al tipo de información procesada, el adjudicatario está 
+obligado a mantener la más absoluta confidencialidad sobre todos aquellos 
+datos y documentos a que tengan acceso con motivo de esta adjudicación.  
+A ellos accederán, exclusivamente, las personas estrictamente 
+imprescindibles para el desarrollo de las tareas inherentes a la misma. Todas 
+ellas serán advertidas del carácter confidencial y reservado de la información 
+a la que tendrán acceso. 
+Todos los ficheros que se pongan a disposición del adjudicatario para la 
+ejecución del contrato que sean propiedad de SEGIPSA, están registrados y 
+sometidos a la salvaguarda que establece la legislación vigente, en especial 
+la relativa a la protección de d atos personales. Toda cesión a terceros será 
+perseguida en los tribunales. 
+SEGIPSA se reserva el derecho de establecer cualquier tipo de marcaje de los 
+ficheros que se dejarán al adjudicatario, de manera que sus características 
+puedan constituirse como prueba que posibilite localizar el origen y los 
+responsables de las eventuales cesiones. 
+Bajo ningún caso ni circunstancia, el adjudicatario podrá suministrar a 
+terceros, ni utilizar para sí ni para otros, datos facilitados por SEGIPSA, para 
+fines distintos a los contemplados en el objeto del presente contrato. 
+El adjudicatario estará obligado a poner en conocimiento de SEGIPSA, 
+inmediatamente después de ser detectada, cualquier sospecha de 
+eventuales errores que se puedan producir en el sistema de seguridad de la 
+información. 
+A la finalización del contrato, el adjudicatario deberá proporcionar a SEGIPSA 
+la exportación completa de vulnerabilidades y su histórico, informes y 
+cuadros de mando generados, histórico de estados, comentarios y 
+verificaciones, documentación de configuraciones e integraciones realizadas 
+y cualquier información necesaria para permitir la continuidad del servicio 
+con otro proveedor.  
+Una vez confirmada la correcta entrega de la información, el adjudicatario 
+procederá a eliminar de sus sistemas el código fuente, credenciales, 
+evidencias, resultados y demás información confidencial de SEGIPSA que no 
+deba conservar por obligación legal. 
+A petición de SEGIPSA se emitirá certificado o declaración de destrucción de 
+la información. 
+ 
+
+--- página 9 ---
+ 
+ 
+ 
+ 
+Expediente: AS/2026/0000001140 
+ 
+ 
+9 
+ 
+5) Condiciones del servicio. 
+Los productos y servicios de seguridad utilizados por el licitador para la 
+prestación deberán cumplir las exigencias del artículo 19 del Real Decreto 
+311/2022 y, cuando exista una categoría o familia aplicable a la funcionalidad 
+concreta en el Catálogo de Productos y Servicios de Seguridad de las 
+Tecnologías de la Información y Comunicación (CPSTIC), se utilizarán 
+productos o servicios incluidos en dicho catálogo y adecuados a la categoría 
+del sistema. 
+El licitador deberá facilitar un número de teléfono, y una dirección de correo 
+electrónico para resolver cualquier tipo de incidencia dentro del horario 
+laboral de lunes a viernes. 

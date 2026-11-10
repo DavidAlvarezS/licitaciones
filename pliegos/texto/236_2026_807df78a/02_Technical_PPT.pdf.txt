@@ -1,0 +1,180 @@
+
+
+--- página 1 ---
+PLIEGO  DE  PRESCRIPCIONES  TÉCNICAS  PARA  LA  PRESTACIÓN  DEL  
+SERVICIO DE VOTO ELECTRÓNICO PARA LA MANCOMUNIDAD DEL SUR. 
+ 
+ 
+1. Objeto del pliego. 
+ 
+La Mancomunidad del Sur en su desarrollo hacia la transformación digital, precisa  
+disponer de un servicio para realizar votaciones de manera telemática. En concreto,  
+las votaciones de los puntos del orden del día y la comprobación de quorum de  
+asistencia necesitan de la posibilidad de realizar votaciones de una manera ágil y  
+sencilla, en consonancia con lo previsto en los artículos 15 y siguientes de la Ley  
+40/2015, así como lo establecido en los Estatutos vigentes, ROF y demás normas  
+concordantes. 
+2. Especificaciones técnicas. 
+ 
+La Mancomunidad del Sur requiere un servicio de voto electrónico para un censo de  
+71 Ayuntamientos miembros votantes debiendo tener en cuenta que 
+- Cada municipio cuenta con dos representantes, titular y suplente, pero solo asiste  
+uno de ellos a cada sesión.
+- Con carácter ordinario celebra asambleas cada 2 meses, además de aquellas que  
+con carácter extraordinario convoque su presidente. (Por ello, existe una estimación  
+de efectuar 9 sesiones al año como máximo)
+- La votación es ponderada según la población de cada municipio.
+La prestación del servicio deberá cumplir el conjunto de requisitos técnicos agrupados  
+en las siguientes categorías: 
+ 
+Requisitos generales. 
+- Para  cada  sesión  se  efectuará  la  carga  previa  de  un  censo  de  votantes 
+(Ayuntamientos) proporcionado por la Mancomunidad, mediante la importación de la  
+base de datos en formato compatible con Excel Csv o formatos compatibles. 
+- A cada una de las sesiones acudirá el técnico designado con una antelación mínima  
+de  40  minutos para  poder efectuar  la  configuración  del  sistema,  entrega  de  los 
+mandos etc…
+- Para la prestación del servicio se deberá facilitar todo el material que sea necesario,  
+incluyendo, de manera no exhaustiva, mandos V12 para cada uno de los vocales y  
+Página 1 de 5
+ 
+Cód. Validación: 97HJZZXK2PSJFGYYRPZ5ZZTK5 
+Verificación: https://mancomunidaddelsur.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 1 de 5 
+
+--- página 2 ---
+mandos de sustitución, ordenador con software para desarrollo de las votaciones,  
+receptor de la señal de los mandos.
+- Para cada sesión se facilitará por la Mancomunidad del Sur el orden del día para la  
+configuración de cada uno de los puntos en los que se debe desarrollar votación,  
+debiendo tener en cuenta:
+1. La votación para la comprobación del quorum, que se efectuará con carácter  
+previo al desarrollo de cualquier votación, se desarrollará con la relación de un  
+voto  para  cada  uno  de  los  municipios  asistentes  sin  que  proceda  el  voto 
+ponderado.
+2. Las votaciones de los puntos del orden del día de la sesión estarán configuradas  
+mediante un sistema de voto ponderado según la relacion que la Mancomunidad  
+facilite en la que se relacione cada municipio con el número de votos ponderados  
+que le corresponde.
+3. Deberá tenerse en cuenta que para cada uno de los puntos, en caso de empate,  
+podría  ser  necesario  desarrollar  una  segunda  votación  y  que  si  el  empate 
+persistiera la votación se decidiría con el voto de calidad del presidente, debiendo 
+de poder configurarse el sistema de votación en base a estas eventualidades  
+(primera votación, segunda votación, tercera votación con el voto de calidad del  
+presidente  de  manera  exclusiva).  Esta  posibilidad  se  configurará  
+instantáneamente  durante  el  transcurso  de  la  sesión  en  caso  de  que  fuera 
+necesario y así se indicase por la Mancomunidad del Sur.
+4. Si se plantea la inclusión de un punto por urgencia en el orden del día deberá  
+configurarse  de  manera  inmediata  una  primera  votación  para  determinar  la 
+inclusión del punto dentro del orden del día y en caso de haber sido aprobada  
+una segunda votación para tratar el fondo del asunto.
+- El sistema de votación permitirá que el voto pueda emitirse en sentido afirmativo o  
+negativo, pudiendo los miembros de la Corporación abstenerse de votar. A efectos de  
+la  votación  correspondiente  se  considerará  que se  abstienen  los miembros de  la 
+Corporación que se hubieren ausentado del Salón de Sesiones una vez iniciada la  
+deliberación de un asunto y no estuviesen presentes en el momento de la votación
+- El sistema deberá configurarse para que las votaciones puedan ser ordinarias,  
+nominales y secretas.
+El sistema normal de votación será la votación ordinaria. Son ordinarias las  
+que  se  manifiestan  por  signos  convencionales  de  asentimiento,  disentimiento  o 
+abstención mediante la votación efectuada en mando.
+Página 2 de 5
+ 
+Cód. Validación: 97HJZZXK2PSJFGYYRPZ5ZZTK5 
+Verificación: https://mancomunidaddelsur.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 2 de 5 
+
+--- página 3 ---
+La votación nominal requerirá la solicitud de algún vocal y será aprobada por  
+una mayoría simple (más votos a favor que en contra de los presentes) en votación  
+ordinaria. Son nominales aquellas votaciones que se realizan mediante llamamiento  
+por orden alfabético de apellidos y siempre en último lugar el presidente y en la que  
+cada miembro de la Mancomunidad, al ser llamado, vota «sí», «no» o «abstención».  
+En caso de que sea solicitada la votación nominal para algún punto por algún vocal de  
+la Mancomunidad deberá configurarse inmediatamente el sistema de votación tanto  
+para desarrollar la votación ordinaria por la que se determine el sistema nominal, como 
+la propia votación desarrollada mediante sistema de votación nominal por la que se  
+adopta la decisión sobre el punto del orden del día. 
+La  votación  secreta  sólo  podrá  utilizarse  para  elección  o  destitución  de 
+personas  Son  secretas  las  que  se  realizan  por  voto  que  cada  miembro  de  la 
+Corporación vaya depositando en una urna o bolsa. Para el desarrollo de la votación  
+secreta  la  Mancomunidad  informará  previamente  al  contratista  para  la  adecuada 
+configuración de ese punto del orden del día para la celebración de la sesión.
+- El  sistema  de  votación  se  efectuará  mediante  mandos  físicos,  sistema 
+absolutamente independiente de internet, por lo que se le facilitará a cada miembro  
+un mando  de votación  para  que pueda  emitir su voto de forma instantánea,  sin  
+depender de la conexión del usuario a internet, garantizando seguridad, fiabilidad y  
+estabilidad en las votaciones.
+-  La votación estará configurada para impedir el cambio de voto una vez efectuado.  
+ 
+Requisitos de configuración para voto en órganos colegiados y en elecciones. 
+Los siguientes puntos se aplican a cualquier tipo de votaciones, ya sea por consultas  
+en órganos colegiados como por procesos de elección: 
+- Cada votación se configurará en un periodo limitado en el tiempo, es decir, se podrá  
+establecer fecha y hora de inicio y fin del proceso de votación.  
+- El sistema controlará que solo puedan votar aquellas personas incluidas en el censo  
+de cada votación. 
+- El censo de una votación deberá permitir la importación desde ficheros externos. 
+-  La plataforma permitirá el voto ponderado. 
+- Cada mando estará relacionado con un Ayuntamiento miembro.
+- Deberá disponerse en cada sesión de  un mínimo de 2 mandos adicionales para  
+sustituir  las  posibles  eventualidades  y  dificultades  que  se  produzcan  durante  el 
+desarrollo de la sesión, los cuales serán configurados, en caso de ser necesario, en  
+el momento en que sea preciso, todo ello sin perjuicio, sin perjuicio de que el número  
+de mandos adicionales pueda ser mejorado en la oferta del licitador.
+Página 3 de 5
+ 
+Cód. Validación: 97HJZZXK2PSJFGYYRPZ5ZZTK5 
+Verificación: https://mancomunidaddelsur.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 3 de 5 
+
+--- página 4 ---
+- Cualquier incidencia que suceda deberá resolverse inmediatamente ya sea 
+relativa al error en la configuración de los asuntos, de los votos ponderados, de la 
+batería de los mandos etc…
+Requisitos de conteo y presentación de resultados. 
+- Los resultados de una votación podrán ser auditados si fuera preciso. 
+- El conteo de una votación ha de quedar a disposición del responsable del contrato, a  
+los  pocos  minutos  posteriores  a  la  fecha  y  hora  del  cierre  de  la  votación.  Los 
+resultados serán descargables en formato PDF y formato tipo Excel. En cualquier  
+caso,  estos  documentos  con  el  resultado  de  las  votaciones  se  remitirán  al 
+responsable del contrato en el plazo máximo de 12 horas desde la finalización de la  
+sesión si se desarrolla en horario de tarde (despues de las 14:00) y de 24 horas  
+máximo, si se desarrolla en horario de mañana (antes de las 13:59)
+- Los  informes  deben  permitir  configurarse  para  incorporar  los  votantes  y/o  los 
+resultados de forma diferenciada. 
+ 
+3.-Regimen de sanciones por incumplimiento 
+ 
+Con  el  fin  de  garantizar  la  calidad  del  servicio  y  la  continuidad  de  votaciones  y 
+consecuentemente en las sesiones de los órganos colegiados de la Mancomunidad  
+del Sur se establecen las siguientes penalizaciones aplicables al adjudicatario en caso  
+de incumplimiento de los niveles de servicio, esta o tiempos de resolución establecidos 
+en el presente pliego de acuerdo con la siguiente clasificación: 
+Infracción grave:
+- Retraso de 30 minutos en la asistencia a las sesiones.
+- Falta de configuración de los miembros votantes total o parcialmente.
+- Falta de inclusión o error en la inclusión de algún punto dentro del orden del 
+día.
+- Falta de configuración de los mandos de los vocales.
+- No contar con el material necesario (mandos de los miembros y de sustitución, 
+pc, software…)
+Infracción leve:
+- Retraso de 15 minutos en la asistencia a las sesiones.
+- Demora de más de 5 minutos en la configuración de los puntos adicionales en 
+el orden el día debido a inclusión de un punto por urgencia, efectuar una segunda 
+votación en caso de empate, votación de calidad del presidente.
+Página 4 de 5
+ 
+Cód. Validación: 97HJZZXK2PSJFGYYRPZ5ZZTK5 
+Verificación: https://mancomunidaddelsur.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 4 de 5 
+
+--- página 5 ---
+Asimismo, cuando las penalidades por incumplimiento excedan del 10% del importe de 
+adjudicación podrán iniciarse el procedimiento de resolución contractual.  
+Página 5 de 5
+ 
+Cód. Validación: 97HJZZXK2PSJFGYYRPZ5ZZTK5 
+Verificación: https://mancomunidaddelsur.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 5 de 5 

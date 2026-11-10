@@ -10,7 +10,7 @@
 
 ## Documentos
 
-- [Legal] PCAP.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] report_PLIEGO PRESCRIPCIONES TECNICAS.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] ANEXO1PCAPFIRM.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] DEUC 202600000260.zip: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] PCAP.pdf: 01_Legal_PCAP.pdf (407 KB)
+- [Technical] report_PLIEGO PRESCRIPCIONES TECNICAS.pdf: 02_Technical_report_PLIEGO_PRESCRIPCIONES_TECNICAS.pdf (254 KB)
+- [Additional] ANEXO1PCAPFIRM.pdf: 03_Additional_ANEXO1PCAPFIRM.pdf (356 KB)
+- [Additional] DEUC 202600000260.zip: 04_Additional_DEUC_202600000260.zip (83 KB, sin texto extraído)

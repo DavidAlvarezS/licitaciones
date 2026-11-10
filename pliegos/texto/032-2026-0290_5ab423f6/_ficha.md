@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] 3411088-PliegodeCondicionesPa-001012PCA_STD_CA.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] 3378449--032-2026-0290PPTFormacion_inmersiva_C.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] 3411088-PliegodeCondicionesPa-001012PCA_STD_CA.pdf: 01_Legal_3411088-PliegodeCondicionesPa-001012PCA_STD_CA.pdf (1945 KB)
+- [Technical] 3378449--032-2026-0290PPTFormacion_inmersiva_C.pdf: 02_Technical_3378449--032-2026-0290PPTFormacion_inmersiva_C.pdf (862 KB)

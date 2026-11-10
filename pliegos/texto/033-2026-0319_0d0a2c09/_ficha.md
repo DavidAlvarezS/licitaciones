@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] 3377573-PliegodeCondicionesPa-001002PCA_STD_CA.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] 3377593--033-2026-0319PPTServiciosMicosoft_DPG.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] 3377573-PliegodeCondicionesPa-001002PCA_STD_CA.pdf: 01_Legal_3377573-PliegodeCondicionesPa-001002PCA_STD_CA.pdf (836 KB)
+- [Technical] 3377593--033-2026-0319PPTServiciosMicosoft_DPG.pdf: 02_Technical_3377593--033-2026-0319PPTServiciosMicosoft_DPG.pdf (587 KB)

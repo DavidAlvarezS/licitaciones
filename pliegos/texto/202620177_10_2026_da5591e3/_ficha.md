@@ -10,13 +10,13 @@
 
 ## Documentos
 
-- [Legal] 4 PCAP 202620177.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] 5 PPT.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] 6 ANEXO I CRC 202620177.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] ANEXO IV.doc: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] ANEXO IIBIS.doc: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] ANEXO III.doc: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] ANEXO VII.doc: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] ANEXO II.doc: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] ANEXO V.doc: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] ANEXO VI.doc: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] 4 PCAP 202620177.pdf: 01_Legal_4_PCAP_202620177.pdf (878 KB)
+- [Technical] 5 PPT.pdf: 02_Technical_5_PPT.pdf (485 KB)
+- [Additional] 6 ANEXO I CRC 202620177.pdf: 03_Additional_6_ANEXO_I_CRC_202620177.pdf (1508 KB)
+- [Additional] ANEXO IV.doc: 04_Additional_ANEXO_IV.doc (453 KB, sin texto extraído)
+- [Additional] ANEXO IIBIS.doc: 05_Additional_ANEXO_IIBIS.doc (449 KB, sin texto extraído)
+- [Additional] ANEXO III.doc: 06_Additional_ANEXO_III.doc (708 KB, sin texto extraído)
+- [Additional] ANEXO VII.doc: 07_Additional_ANEXO_VII.doc (235 KB, sin texto extraído)
+- [Additional] ANEXO II.doc: 08_Additional_ANEXO_II.doc (455 KB, sin texto extraído)
+- [Additional] ANEXO V.doc: 09_Additional_ANEXO_V.doc (455 KB, sin texto extraído)
+- [Additional] ANEXO VI.doc: 10_Additional_ANEXO_VI.doc (234 KB, sin texto extraído)

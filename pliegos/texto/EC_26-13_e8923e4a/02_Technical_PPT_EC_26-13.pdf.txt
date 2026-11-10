@@ -1,0 +1,252 @@
+
+
+--- página 1 ---
+ 
+1 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS QUE REGULA LA CONTRATACIÓN DEL SERVICIO DE 
+MANTENIMIENTO INTEGRAL PARA LA INFRAESTRUCTURA HIPERCONVERGENTE HPE 
+SIMPLIVITY DEL PROCURADOR DEL COMÚN DE CASTILLA Y LEÓN. 
+Expediente: EC 26-13 
+ 
+ÍNDICE DEL CLAUSULADO 
+1. Objeto y antecedentes................................................................................................... 2 
+1.1 Objeto del pliego ...................................................................................................... 2 
+1.2 Antecedentes ........................................................................................................... 2 
+2. Alcance del servicio y elementos incluidos ................................................................... 2 
+2.1 Hardware e infraestructura física............................................................................ 2 
+2.2 Software y firmware ................................................................................................ 3 
+2.3 Inventario de equipos .............................................................................................. 3 
+3. Modalidad de soporte y niveles de servicio (SLA) ........................................................ 4 
+3.1 Medios adscritos ...................................................................................................... 4 
+3.2 Cobertura y canal de atención ................................................................................ 4 
+3.3 Clasificación de Incidencias y Tiempos de Respuesta ............................................ 4 
+4. Prestaciones técnicas del servicio ................................................................................. 5 
+4.1 Mantenimiento correctivo ...................................................................................... 5 
+4.2 Mantenimiento Preventivo y revisión de salud del Clúster (Health check) .......... 5 
+4.3 Mantenimiento evolutivo y actualizaciones de Software/Firmware .................... 6 
+4.4 Bolsa de horas de consultoría técnico-evolutiva .................................................... 6 
+5. Documentación e informes de seguimiento ................................................................. 7 
+5.1. Informe mensual de servicio .................................................................................. 7 
+5.2. Informe semestral de revisión preventiva ............................................................. 7 
+5.3. Plan de actualización .............................................................................................. 7 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 2 ---
+ 
+2 
+ 
+1. Objeto y antecedentes 
+1.1 Objeto del pliego 
+El presente Pliego de Prescripciones Técnicas tiene por objeto definir las condiciones 
+técnicas que deberán cumplir la prestación de los servicios de soporte y mantenimiento 
+integral (correctivo, preventivo, evolutivo y garantía, tanto de hardware como de software) 
+para la infraestructura hiperconvergente HPE SimpliVity existente en el Procurador del 
+Común de Castilla y León. 
+El servicio tendrá como finalidad garantizar la disponibilidad, seguridad, rendimiento y 
+continuidad de los sistemas y servicios alojados en dicha infraestructura. 
+Este pliego forma parte de la documentación contractual y vincula al adjudicatario en 
+cuanto a las características técnicas del servicio ofertado y los niveles de servicio 
+comprometidos durante toda la vigencia del contrato. 
+1.2 Antecedentes 
+El Procurador del Común de Castilla y León dispone de una infraestructura 
+hiperconvergente compuesta por tres nodos HPE SimpliVity 380 Gen 10 que constituye el 
+soporte tecnológico central de los sistemas y servicios de la institución. 
+2. Alcance del servicio y elementos incluidos 
+El servicio comprenderá la totalidad del hardware, firmware y software que componen la 
+solución hiperconvergente HPE SimpliVity  objeto del contrato. 
+2.1 Hardware e infraestructura física  
+El alcance del servicio comprenderá, entre otros, los siguientes elementos: 
+ Nodos HPE ProLiant (procesadores, memoria RAM, chasis, fuentes de alimentación 
+redundantes, módulos de ventilación). 
+ Discos de almacenamiento de estado sólido (SSD) o discos mecánicos. 
+ Tarjetas de red e interconexión (NICs, HBAs, transceptores/SFP). 
+ Tarjetas de aceleración por hardware HPE SimpliVity Accelerator Card (aceleradoras 
+de desduplicación y compresión OmniStack). 
+ 
+ 
+ 
+
+--- página 3 ---
+ 
+3 
+ 
+2.2 Software y firmware  
+El alcance del servicio comprenderá asimismo: 
+ Firmware de todos los componentes físicos del nodo. 
+ Capa de Hipervisor (VMware ESXi / Microsoft Hyper-V instalado en los nodos). 
+ Módulos de software HPE SimpliVity OmniStack Virtual Controller (OVC). 
+ Software de orquestación, gestión y recuperación (HPE SimpliVity RapidDR, vCenter 
+Server / SCVMM con integración mediante SimpliVity Plug-in) y licencias asociadas 
+existentes. 
+2.3 Inventario de equipos  
+La infraestructura objeto del servicio está constituida por los siguientes elementos: 
+ 
+HPE SimpliVity 380 Gen 10 Node - 1 
+ ProLiant DL380 Gen10 
+ Server Serial Number: CZ20270MK6 
+ Product ID: Q8D81A 
+ Operating System: VMware ESXi 8.0.3 Build-24022510 Update 3 
+ 
+HPE SimpliVity 380 Gen 10 Node - 2 
+ ProLiant DL380 Gen10 
+ Server Serial Number: CZ20270MK7 
+ Product ID: Q8D81A 
+ Operating System: VMware ESXi 8.0.3 Build-24022510 Update 3 
+ 
+HPE SimpliVity 380 Gen 10 Node - 3 
+ ProLiant DL380 Gen10 
+ Server Serial Number: CZ20270MK8 
+ Product ID: Q8D81A 
+ Operating System: VMware ESXi 8.0.3 Build-24022510 Update 3 
+ 
+
+--- página 4 ---
+ 
+4 
+ 
+3. Modalidad de soporte y niveles de servicio (SLA) 
+3.1 Medios adscritos 
+El adjudicatario deberá disponer, durante toda la ejecución del contrato, de capacidad para 
+prestar el soporte oficial del fabricante sobre la infraestructura HPE SimpliVity y adscribir al 
+contrato un equipo técnico formado por, al menos, dos (2) ingenieros con la cualificación 
+exigida, en los términos y con los medios de acreditación y equivalencia previstos en el 
+Anexo VI del pliego de cláusulas administrativas particulares. 
+3.2 Cobertura y canal de atención 
+Se establecen dos modalidades de cobertura: 
+ Canal 24x7x365: atención técnica telefónica y telemática continuada durante las 
+24 horas, los 7 días de la semana, para incidencias de Severidad 1 (Críticas). 
+ Canal 8x5: cobertura en horario laboral (08:00 a 16:00 h, de lunes a viernes) para 
+el resto de severidades y peticiones de soporte. 
+ 
+3.3 Clasificación de Incidencias y Tiempos de Respuesta 
+Las incidencias se clasificarán de acuerdo con su impacto sobre la infraestructura y los 
+servicios afectados. 
+A. Severidad 1 (Crítica). Se considerarán de severidad 1 las incidencias que 
+impliquen: 
+ Parada total del Sistema 
+ Degradación crítica del servicio 
+ Pérdida de redundancia en el clúster. 
+El tiempo máximo de respuesta telemática será de 30 minutos. 
+Cuando la incidencia corresponda a un fallo de hardware que requiera intervención física, 
+la intervención o sustitución del componente se realizará en un plazo máximo de 4 horas 
+desde el diagnóstico del fallo de hardware. 
+B. Severidad 2 (Alta). Se considerarán de severidad 2 las incidencias que impliquen: 
+
+--- página 5 ---
+ 
+5 
+ 
+ Pérdida de capacidad no crítica. 
+ Degradación parcial del rendimiento sin interrupción total de los servicios 
+El tiempo máximo de respuesta telemática será de 2 horas. 
+Cuando sea necesaria intervención o sustitución física, esta se realizará en un plazo máximo 
+de 24 horas. 
+C. Severidad 3 (Normal/Baja). Se considerarán de severidad 3: 
+ Consultas 
+ Peticiones de información 
+ Incidencias menores que no afectan al servicio 
+El tiempo máximo de respuesta telemática será de 8 horas laborales. 
+4. Prestaciones técnicas del servicio 
+4.1 Mantenimiento correctivo 
+Sustitución de componentes hardware defectuosos por recambios originales HPE y 
+reparación de fallos de software o firmware. Incluye los costes de piezas, mano de obra, 
+desplazamiento e intervenciones in situ necesarias hasta el restablecimiento completo del 
+servicio. 
+4.2 Mantenimiento Preventivo y revisión de salud del Clúster (Health 
+check) 
+Se realizarán dos (2) revisiones técnicas preventivas al año, con periodicidad semestral. En 
+consecuencia, se realizarán seis (6) revisiones durante el periodo inicial de tres años y dos 
+(2) más por cada prórroga que se acuerde, hasta un máximo de diez (10). 
+Las revisiones preventivas comprenderán, como mínimo: 
+ inspección del estado de los componentes; 
+ auditoría de la capacidad de almacenamiento; 
+ análisis de los ratios de deduplicación y compresión; 
+ análisis de los registros (logs) de eventos de OmniStack; 
+ y propuesta de un plan de mejora u optimización. 
+
+--- página 6 ---
+ 
+6 
+ 
+Como resultado de cada revisión se elaborará el correspondiente informe de Health Check, 
+que se entregará conforme a la cláusula 5.2. 
+4.3 Mantenimiento evolutivo y actualizaciones de 
+Software/Firmware 
+El servicio comprenderá la aplicación de: 
+ parches de seguridad; 
+ correcciones de errores; 
+ actualizaciones de firmware; 
+ actualizaciones de las versiones del software HPE SimpliVity OmniStack; 
+ actualizaciones del hipervisor; 
+ y actualizaciones de las utilidades asociadas. 
+Las actualizaciones se coordinarán de forma planificada y, cuando proceda, se realizarán 
+previamente las correspondientes pruebas en un entorno de homologación. 
+Las actuaciones se ejecutarán en ventanas de mantenimiento fuera del horario laboral, 
+previamente acordadas con la Entidad. 
+4.4 Bolsa de horas de consultoría técnico-evolutiva 
+El servicio incluirá una bolsa de diez (10) horas anuales de consultoría especializada. 
+Las horas no consumidas durante una anualidad no serán acumulables entre anualidades. 
+Durante el periodo inicial de tres años, la bolsa comprenderá un total de 30 horas. 
+En caso de que el servicio alcance los cinco años, la bolsa podrá alcanzar un total de 50 
+horas. 
+Las horas podrán utilizarse para las siguientes actuaciones: 
+ reconfiguraciones de la arquitectura; 
+ asistencia avanzada en recuperación ante desastres (DRP); 
+ migraciones de máquinas virtuales; 
+ integración con nuevos sistemas. 
+
+--- página 7 ---
+ 
+7 
+ 
+5. Documentación e informes de seguimiento 
+El adjudicatario proporcionará a la Entidad la documentación técnica correspondiente a la 
+prestación del servicio. 
+5.1. Informe mensual de servicio 
+Se elaborará un informe mensual que recogerá: 
+ incidencias abiertas y cerradas; 
+ cumplimiento de los SLA; 
+ y consumo de la bolsa de horas. 
+El informe se entregará dentro de los diez (10) primeros días hábiles del mes siguiente al 
+periodo informado. 
+5.2. Informe semestral de revisión preventiva 
+Tras cada revisión preventiva se elaborará un informe semestral de Health Check que 
+recogerá: 
+ diagnóstico del estado del clúster; 
+ y mapa de recomendaciones. 
+El informe se entregará en el plazo máximo de quince (15) días hábiles desde la realización 
+de la revisión. 
+5.3. Plan de actualización 
+Previamente a cada intervención evolutiva se presentará la correspondiente propuesta de 
+actualización de software y firmware.  
+ 
+ 
+ 
+ 
+ 
+
+--- página 8 ---
+ 
+8 
+ 
+ 
+DILIGENCIA 
+Para hacer constar que el presente Pliego de Prescripciones Técnicas ha sido aprobado mediante Resolución del 
+Procurador del Común de Castilla y León de fecha 26 de octubre de 2026. 
+ 
+ 
+ 
+LA TÉCNICO DE ADMINISTRACIÓN 
+ 
+ 
+ 
+Firmado electrónicamente 
+ 
+ 
+ 

@@ -1,0 +1,363 @@
+
+
+--- página 1 ---
+ 
+C/ Pedro Cerbuna, 12 – Ciudad Universitaria – 50009 Zaragoza 1 
+Tel. 976 76 10 00 / Fax 976 76 10 31 
+Documento firmado electrónicamente conforme a la Ley 39/2015 por 
+Aprobado por El Órgano de Contratación de la Universidad de Zaragoza 
+ 
+ 
+ 
+CONTRATO DE SERVICIOS 
+CONTRATO SUJETO A REGULACIÓN ARMONIZADA:    SI  NO  
+TRAMITACIÓN EXPEDIENTE: 
+Ordinaria        Urgente        Emergencia        Anticipada  
+TIPO PROCEDIMIENTO: 
+Abierto      Abierto simplificado      Abierto simplificado abreviado  
+RECURSO ESPECIAL:    SI    NO  
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+ 
+Expte. nº 00167-2026 
+ 
+ 
+ÍNDICE DEL CLAUSULADO 
+ 
+1. DEFINICIÓN DE LA NECESIDAD Y EVOLUCIÓN DEL PROYECTO 
+2. OBJETO DEL CONTRATO 
+3. ENTREGABLES 
+4. DOCUMENTACIÓN A PRESENTAR EN LA LICITACIÓN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+De conformidad con el artículo 126.5.b) de la LCSP, cada referencia realizada en este pliego a especificaciones técnicas 
+contenidas en normas nacionales que incorporen normas europeas, a evaluaciones técnicas europeas, a 
+especificaciones técnicas comunes, a normas internacionales, a sistemas de referencias técnicas elaborados por los 
+organismos europeos de normalización o a normas nacionales, a documentos de idoneidad técnica nacionales o a 
+especificaciones técnicas nacionales en materia de proyecto, cálculo y ejecución de obras y de uso de suministros, se 
+ha de entender que lo son también a especificaciones técnicas equivalentes.
+Firmado por: ALFONSO CARLOS PEÑA OCHOA
+Cargo: Gerente
+Fecha: 27-10-2026 15:50:58
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubre. Su autenticidad puede ser comprobada en la
+direcciónhttps://licitacion.unizar.es/licitacion/verificadorCopiaAutentica.do
+Página: 1 de 6
+Código de verificación  : b01222a07bb628c5
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+https://licitacion.unizar.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=b01222a07bb628c5
+
+--- página 2 ---
+ CONTRATO DE SERVICIOS 
+PROCEDIMIENTOS: 
+ABIERTO/ABIERTO SIMPLIFICADO/ABIERTO SIMPLIFICADO ABREVIADO 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+Nº Expediente: 00167-2026 
+ 
+C/ Pedro Cerbuna, 12 – Ciudad Universitaria – 50009 Zaragoza 2 
+Tel. 976 76 10 00 / Fax 976 76 10 31 
+Documento firmado electrónicamente conforme a la Ley 39/2015 por 
+Aprobado por El Órgano de Contratación de la Universidad de Zaragoza 
+ 
+ 
+1. DEFINICIÓN DE LA NECESIDAD Y EVOLUCIÓN DEL PROYECTO 
+ 
+En el contexto actual, donde la toma de decisiones basada en datos es fundamental para el éxito 
+organizacional, contar con una herramienta de visualización de datos eficiente, segura y actualizada es 
+esencial para la Universidad de Zaragoza. 
+Una de las líneas del trabajo del proyecto DATUZ consiste en dotar a las distintas unidades de la 
+Universidad de Zaragoza de nuevas herramientas de visualización de datos que faciliten la confección de 
+informes gráficos, cuadros de mando y cualquier tipo de representación visual necesaria para la 
+comunidad universitaria. Para satisfacer esta necesidad, en el año 2025 se implantó el software “EDA - 
+Enterprise Data Analytics” (https://eda.jortilles.com/). 
+EDA es una herramienta de visualización de datos de código abierto, lo que permite flexibilidad y 
+adaptación a diferentes  necesidades sin costes de licencia. Sin embargo, para garantizar su correcto 
+funcionamiento, estabilidad y evolución, resulta necesario contar con un servicio de soporte técnico 
+especializado de modo que puedan garantizarse los servicios prestados a la comunidad universitaria 
+satisfaciendo las restricciones temporales y de calidad a las que se encuentra sometido el Servicio de 
+informática y Comunicaciones de la Universidad de Zaragoza. 
+Este soporte brindará acompañamiento en procesos de integración, resolución de incidencias, 
+actualizaciones, optimización, personalización de informes y adaptació n de la herramienta a nuevos 
+requerimientos, asegurando que se mantenga alineada con las mejores prácticas y necesidades de la 
+Universidad de Zaragoza. De esta manera, se fortalecerá la capacidad de análisis de las distintas áreas, 
+garantizando la continui dad operativa, la seguridad de la información y la calidad de los informes que 
+respaldan la toma de decisiones estratégicas. 
+2.  OBJETO DEL CONTRATO 
+ 
+2.1. Soporte y Mantenimiento 
+El objetivo de este procedimiento es la contratación de servicios especializados para el soporte, 
+mantenimiento correctivo, adaptativo y evolutivo de la aplicación EDA implantada en modalidad on-
+premise en la Universidad de Zaragoza, incluyendo: 
+• Garantía de continuidad operativa. 
+• Resolución de incidencias. 
+• Actualización tecnológica continua. 
+• Aseguramiento de la calidad del código. 
+Actualmente, la plataforma EDA de la Universidad de Zaragoza se encuentra desplegada en 
+infraestructura local (on-premise) bajo una arquitectura de contenedores Docker, consistente en una 
+única instancia operativa destinada a entorno de pruebas. 
+Firmado por: ALFONSO CARLOS PEÑA OCHOA
+Cargo: Gerente
+Fecha: 27-10-2026 15:50:58
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubre. Su autenticidad puede ser comprobada en la
+direcciónhttps://licitacion.unizar.es/licitacion/verificadorCopiaAutentica.do
+Página: 2 de 6
+Código de verificación  : b01222a07bb628c5
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+https://licitacion.unizar.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=b01222a07bb628c5
+
+--- página 3 ---
+ CONTRATO DE SERVICIOS 
+PROCEDIMIENTOS: 
+ABIERTO/ABIERTO SIMPLIFICADO/ABIERTO SIMPLIFICADO ABREVIADO 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+Nº Expediente: 00167-2026 
+ 
+C/ Pedro Cerbuna, 12 – Ciudad Universitaria – 50009 Zaragoza 3 
+Tel. 976 76 10 00 / Fax 976 76 10 31 
+Documento firmado electrónicamente conforme a la Ley 39/2015 por 
+Aprobado por El Órgano de Contratación de la Universidad de Zaragoza 
+ 
+ 
+La arquitectura objetivo para la puesta en marcha definitiva que desea obtener la Universidad de 
+Zaragoza gracias  a la ejecución de este procedimiento deberá mantener el despliegue on- premise 
+basado en contenedores, permitiendo su evolución hacia una infraestructura que contemple dos entornos 
+independientes, completos y plenamente operativos: un entorno de pre- producción (para validación) y  
+un entorno de producción. 
+El plazo máximo de entrega de estimaciones y el tiempo máximo de resolución de intervenciones para 
+los servicios descritos en este apartado se define en el apartado 2.3 de este documento. Para asegurar 
+la ejecución del procedimiento, la empresa contratista deberá estar en condiciones de prestar este 
+servicio desde el mismo momento de la firma del contrato y por consiguiente deberá estar formada de 
+forma previa para permitir asegurar la ejecución y calidad de los servicios solicitados por la Universidad 
+de Zaragoza. 
+ 
+2.2. Evolución de EDA e implementación de nuevas funcionalidades 
+El servicio incluye una bolsa de horas anuales, que podrán consumirse en cualquier momento durante 
+cada anualidad en función de las necesidades de la Universidad de Zaragoza conforme a la disponibilidad 
+económica indicada en el Pliego de Cláusulas Administrativas Particulares. Los servicios que se 
+solicitarán al contratista mediante esta bolsa de horas son los siguientes: 
+• Evolución funcional mediante desarrollo de plugins y adaptaciones. 
+• Integración con sistemas corporativos universitarios. 
+• Transferencia de conocimiento, consultoría y asesoramiento técnico. 
+• O cualquier otro servicio relacionado con la evolución del software EDA y su adaptación a las 
+necesidades de la Universidad de Zaragoza. 
+Los servicios solicitados al contratista se realizarán siempre previa petición del Servicio de 
+Informática y Comunicaciones de la siguiente forma: 
+1. La universidad expondrá por escrito sus necesidades. 
+2. El contratista propondrá una fecha de entrega para el servicio solicitado y valorará el número 
+de horas asociadas a la realización de este. 
+3. En caso de conformidad con la propuesta el Responsable del Contrato o persona en quien delegue 
+solicitará formalmente su ejecución. 
+4. Se realizará el desarrollo e implantación del servicio solicitado. 
+5. Se procederá a la facturación (incluyendo los costes del servicio en la próxima factura trimestal) 
+una vez aceptado y validado por la Universidad de Zaragoza. 
+ 
+Firmado por: ALFONSO CARLOS PEÑA OCHOA
+Cargo: Gerente
+Fecha: 27-10-2026 15:50:58
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubre. Su autenticidad puede ser comprobada en la
+direcciónhttps://licitacion.unizar.es/licitacion/verificadorCopiaAutentica.do
+Página: 3 de 6
+Código de verificación  : b01222a07bb628c5
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+https://licitacion.unizar.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=b01222a07bb628c5
+
+--- página 4 ---
+ CONTRATO DE SERVICIOS 
+PROCEDIMIENTOS: 
+ABIERTO/ABIERTO SIMPLIFICADO/ABIERTO SIMPLIFICADO ABREVIADO 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+Nº Expediente: 00167-2026 
+ 
+C/ Pedro Cerbuna, 12 – Ciudad Universitaria – 50009 Zaragoza 4 
+Tel. 976 76 10 00 / Fax 976 76 10 31 
+Documento firmado electrónicamente conforme a la Ley 39/2015 por 
+Aprobado por El Órgano de Contratación de la Universidad de Zaragoza 
+ 
+ 
+2.3. Definición de indicadores y Acuerdos de Nivel de Servicio (SLA) mínimos 
+La empresa contratista deberá cumplir los siguientes compromisos de calidad mínimos: 
+• Pondrá a disposición de la Universidad de Zaragoza una herramienta de ticketing mediante la cual 
+se gestionarán las incidencias, consultas y necesidades de soporte que la Universidad de 
+Zaragoza tenga, proporcionando transparencia y trazabilidad en su desarrollo. 
+• Para la resolución de incidencias podrán utilizarse como medios de comunicación el teléfono, 
+email o videoconferencia. 
+• El horario de soporte será como mínimo de 9 a 14 horas CET y estará disponible los días hábiles 
+conforme al calendario laboral de la Universidad de Zaragoza en la provincia de Zaragoza. 
+• Se proporcionarán informes relativos al nivel de soporte si  así lo requiere la Universidad de 
+Zaragoza. 
+Para poder definir y asegurar el nivel de calidad deseado se definen los siguientes indicadores relativos 
+al seguimiento de las intervenciones de mantenimiento demandadas por la universidad: 
+• Plazo máximo de entrega de estimaciones: Tiempo empleado en realizar la estimación de los 
+servicios de consultoría y mantenimiento que se soliciten al contratista. Se contabiliza el tiempo 
+que transcurre desde que la tarea a realizar es remitida por la UZ, hasta que se acepta o se 
+rechaza la realización de la solicitud por la Universidad de Zaragoza. 
+• Plazo máximo de resolución de intervenciones: Tiempo que transcurre desde que la 
+universidad acepta la valoración de un servicio hasta que se resuelve, valida y se acepta, sin 
+contar los tiempos en que la intervención está pendiente de actuaciones por parte de personal de 
+la Universidad de Zaragoza. 
+Se establecen los siguientes niveles de priorización en la resolución de las peticiones de servicio: 
+• Prioridad Alta: Corresponden a intervenciones (incidencias o peticiones de modificación) que 
+bloquean la operativa del usuario, para las que no existe una vía alternativa que soslaye el 
+problema o la necesidad. Supone la pérdida total del servicio. 
+• Prioridad Media: Corresponden a inter venciones que bloquean una operativa específica del 
+usuario para las que se encuentre una vía alternativa (que proporciona un resultado de calidad sin 
+retrasos sustanciales). 
+• Prioridad Baja: Corresponde a intervenciones (incidencias o peticiones) que no queden reflejados 
+en Prioridad Alta ni Media. 
+ 
+Firmado por: ALFONSO CARLOS PEÑA OCHOA
+Cargo: Gerente
+Fecha: 27-10-2026 15:50:58
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubre. Su autenticidad puede ser comprobada en la
+direcciónhttps://licitacion.unizar.es/licitacion/verificadorCopiaAutentica.do
+Página: 4 de 6
+Código de verificación  : b01222a07bb628c5
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+https://licitacion.unizar.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=b01222a07bb628c5
+
+--- página 5 ---
+ CONTRATO DE SERVICIOS 
+PROCEDIMIENTOS: 
+ABIERTO/ABIERTO SIMPLIFICADO/ABIERTO SIMPLIFICADO ABREVIADO 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+Nº Expediente: 00167-2026 
+ 
+C/ Pedro Cerbuna, 12 – Ciudad Universitaria – 50009 Zaragoza 5 
+Tel. 976 76 10 00 / Fax 976 76 10 31 
+Documento firmado electrónicamente conforme a la Ley 39/2015 por 
+Aprobado por El Órgano de Contratación de la Universidad de Zaragoza 
+ 
+ 
+La empresa deberá cumplir los niveles mínimos de calidad que se indican en la siguiente tabla: 
+ 
+Indicador Descripción Prioridad Alta Prioridad Media Prioridad Baja 
+Entrega de 
+estimaciones 
+Plazo máximo de 
+entrega de una 
+estimación (días 
+hábiles) 
+Menor o igual 
+de 2 días 
+Menor o igual 
+de 7 días 
+Menor o igual de 
+10 días 
+Resolución 
+intervenciones 
+Plazo máximo de 
+resolución de una 
+intervención (días 
+hábiles) 
+Menor o igual 
+de 2 días 
+Menor o igual 
+de 7 días 
+Menor o igual de 
+10 días 
+Se valorará, en la forma indicada en el apartado J. Criterios de Adjudicación del Cuadro-Resumen del 
+Pliego de Cláusulas Administrativas Particulares, la mejora de los acuerdos de nivel de servicio (SLA) 
+mínimos para las peticiones de prioridad alta, media y baja. 
+ 
+3. ENTREGABLES
+  
+Durante la ejecución de los servicios objeto del contrato, el contratista se compromete a facilitar, en todo 
+momento, a las personas designadas por la Universidad de Zaragoza a tales efectos, la información y 
+documentación que éstas soliciten para disponer de un pleno conocimiento de las circunstancias en que 
+se desarrollan los trabajos, así como de los eventuales problemas que puedan surgir en su evolución 
+futura, y de las tecnologías, métodos y herramientas disponibles para resolverlos. 
+Además se verificarán los siguientes requisitos en los entregables recibidos por la Universidad de Zaragoza: 
+• La documentación generada durante la ejecución del contrato será de propiedad exclusiva de la 
+Universidad de Zaragoza. 
+• Todos los desarrollos realizados en el marco del contrato serán propiedad de la Universidad de 
+Zaragoza, que adquirirá la totalidad de los derechos de explotación sobre el código fuente, 
+documentación técnica, configuraciones, scripts, plugins y adaptacion es generadas, sin 
+limitación temporal ni territorial, y con facultad de uso, modificación, distribución y cesión a 
+terceros. El contratista deberá entregar el código fuente completo, en formato editable y sin 
+restricciones técnicas que limiten su mantenimiento por terceros. 
+• Cuando el desarrollo constituya una evolución o mejora de carácter general de la aplicación EDA, 
+el contratista deberá garantizar la compatibilidad con la licencia original del software y facilitar su 
+posible contribución al ecosistema open source del proyecto, si así lo decide la Universidad. 
+• En ningún caso podrán incorporarse componentes o licencias que impidan la reutilización, 
+modificación o redistribución del software desarrollado, ni que generen dependencia tecnológica 
+con el contratista. 
+ 
+Firmado por: ALFONSO CARLOS PEÑA OCHOA
+Cargo: Gerente
+Fecha: 27-10-2026 15:50:58
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubre. Su autenticidad puede ser comprobada en la
+direcciónhttps://licitacion.unizar.es/licitacion/verificadorCopiaAutentica.do
+Página: 5 de 6
+Código de verificación  : b01222a07bb628c5
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+https://licitacion.unizar.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=b01222a07bb628c5
+
+--- página 6 ---
+ CONTRATO DE SERVICIOS 
+PROCEDIMIENTOS: 
+ABIERTO/ABIERTO SIMPLIFICADO/ABIERTO SIMPLIFICADO ABREVIADO 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+Nº Expediente: 00167-2026 
+ 
+C/ Pedro Cerbuna, 12 – Ciudad Universitaria – 50009 Zaragoza 6 
+Tel. 976 76 10 00 / Fax 976 76 10 31 
+Documento firmado electrónicamente conforme a la Ley 39/2015 por 
+Aprobado por El Órgano de Contratación de la Universidad de Zaragoza 
+ 
+ 
+4.  DOCUMENTACIÓN A APORTAR EN LA LICITACIÓN 
+ 
+Los licitadores deberán incluir obligatoriamente, junto con su proposici ón, la siguiente 
+documentación para asegurar el buen desarrollo de todos los trabajos y, en especial, la calidad de los 
+mismos, lo siguiente: 
+1. Una memoria de cumplimiento de prescripciones t écnicas, p ara justificar los conocimientos 
+necesarios de la arquitectura y software a mantener y su capacidad para desarrollar las 
+modificaciones y actualizaciones que soli cite la Universidad de Zaragoza, que incluya los 
+siguientes apartados: 
+a. Diseño, arquitectura, modelo de datos y API’s del software EDA, especificando 
+detalladamente sus principales componentes. 
+b. Descripción con suficiente nivel de detalle de una arquitectura de Gestión de Identidades 
+y Accesos que integre la autenticación federada a través del servicio SSO SIR2 de 
+RedIRIS. Asimismo, el sistema de autorización propuesto deberá garantizar la 
+continuidad operativa mediante la integración o migración del modelo de control de 
+accesos actual, heredando íntegramente la estructura de usuarios, permisos y roles 
+definidos en la instancia de Pentaho Community actualmente en producción. 
+c. Definición detallada de un protocolo de actualización del software EDA que garantice, en 
+todo momento, la integridad de los datos y la continuidad del servicio. Este procedimiento 
+incluirá obligatoriamente una fase de validación previa en entornos de prueba y un plan 
+de contingencia (rollback) que permita revertir el sistema a su estado anterior ante 
+cualquier incidencia, asegurando que no se produzca pérdida de información durante el 
+proceso. 
+d. Descripción detallada del sistema de promoción propuesto por el licitador entre entornos 
+(pre-producción a producción) optimizado para el tratamiento de grandes volúmenes de 
+datos. El procedimiento garantizará la consistencia y trazabilidad de la información. 
+e. Descripción detallada de un procedimiento para la realización de copias de seguridad y 
+recuperación (Backup & Disaster Recovery) que asegure la disponibilidad de la 
+información ante fallos lógicos o físicos. 
+ 
+ 
+Firmado por: ALFONSO CARLOS PEÑA OCHOA
+Cargo: Gerente
+Fecha: 27-10-2026 15:50:58
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubre. Su autenticidad puede ser comprobada en la
+direcciónhttps://licitacion.unizar.es/licitacion/verificadorCopiaAutentica.do
+Página: 6 de 6
+Código de verificación  : b01222a07bb628c5
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+https://licitacion.unizar.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=b01222a07bb628c5

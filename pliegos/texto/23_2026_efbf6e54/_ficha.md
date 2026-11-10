@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] PCAP servicio admon electronica.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] PPT servicio admon electronica.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] PCAP servicio admon electronica.pdf: 01_Legal_PCAP_servicio_admon_electronica.pdf (781 KB)
+- [Technical] PPT servicio admon electronica.pdf: 02_Technical_PPT_servicio_admon_electronica.pdf (303 KB)

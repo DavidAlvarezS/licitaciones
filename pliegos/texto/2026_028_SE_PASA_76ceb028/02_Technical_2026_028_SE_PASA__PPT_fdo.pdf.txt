@@ -1,0 +1,412 @@
+
+
+--- página 1 ---
+ 
+Página 1 de 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pliego de Prescripciones Técnicas que han de regir la contratación 
+del servicio de telefonía móvil y de acceso a Internet mediante fibra 
+óptica para la Fundación Universidad de Valladolid M.P., a adjudicar 
+por procedimiento abierto simplificado abreviado (art. 159.6 LCSP) 
+Expediente de contratación Nº: 2026_028_SE_PASA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+CSV: ax77M1n3203C5tkoP7U/Nw==   Puede verificar la integridad de este documento en: https://sede.uva.es/validador-documentos   Página: 1/11
+
+--- página 2 ---
+ 
+Página 2 de 10 
+ 
+ 
+CLÁUSULA 1.- OBJETO DE LA CONTRATACIÓN 
+El presente pliego tiene por objeto regular y definir el alcance y las condiciones técnicas de la 
+contratación del servicio de comunicaciones de la Fundación Universidad de Valladolid M.P. (en 
+adelante Fundación UVa), que comprende las siguientes prestaciones: 
+– Servicio de telefonía móvil (voz y datos) para  las líneas corporativas de la Fundación UVa, 
+con portabilidad de la numeración actual, incluyendo el suministro sin coste de los terminales 
+móviles, las tarjetas SIM/eSIM y los servicios asociados que se describen en este pliego. 
+– Servicio de acceso a Internet mediante fibr a óptica (FTTH) en las sedes de la Fundación 
+UVa, con dirección IP fija, incluyendo la instalació n, el equipamiento de acceso (ONT/router) y su 
+mantenimiento. 
+Quedan expresamente fuera del objeto del contrato la telefonía fija y la centralita, que la Fundación 
+UVa gestiona por otros medios. Las prestaciones se contratan de forma conjunta en un único lote 
+por las razones expuestas en la memoria justificativa del expediente: la convergencia comercial y 
+técnica de ambos servicios, la conveniencia de un interlocutor y una factura únicos y el reducido 
+importe del contrato. 
+Códigos CPV:  
+64200000  Servicios de telecomunicaciones 
+64210000  Servicios telefónicos y de transmisión de datos 
+64212000  Servicios de telefonía móvil 
+72400000  Servicios de Internet 
+32250000  Teléfonos móviles. (sum inistro accesorio al servicio). 
+CLÁUSULA 2.- ALCANCE DEL SERVICIO (NECESIDADES A CUBRIR) 
+La Fundación UVa necesita disponer de un servicio de comunicaciones móviles y de acceso a 
+Internet fiable, con cobertura adecuada en to das sus sedes y en los desplazamientos de su 
+personal, con un coste controlado y previsible, y con un parque de terminales moderno, seguro y 
+homogéneo. Las principales necesidades son: 
+ Continuidad del servicio y portabilidad: mantener la numeración actual, sin interrupción del 
+servicio durante la migración desde los oper adores actuales y sin que la Fundación UVa 
+tenga que gestionar bajas con el operador cesante. 
+ Simplificación: pasar de las cinco tarifas móviles actuales a tres perfiles de línea de 
+personas y un perfil de solo voz para los sistemas de emergencia de ascensores, todos con 
+precios unitarios cerrados. 
+ Terminales: disponer, sin coste adicional, de una dotación de terminales nuevos (como 
+mínimo 4 de gama alta y 10 de gama media) elegidos por la Fundación UVa de un catálogo, 
+con garantía gestionada por el operador y stock de reserva. 
+ Conectividad de las sedes: accesos de fibra óptica de alta capacidad y simétricos, con IP 
+CSV: ax77M1n3203C5tkoP7U/Nw==   Puede verificar la integridad de este documento en: https://sede.uva.es/validador-documentos   Página: 2/11
+
+--- página 3 ---
+ 
+Página 3 de 10 
+ 
+fija, para el Edificio I+D (dos accesos, pr incipal y secundario), para los Apartamentos 
+Cardenal Mendoza (dos accesos) y para la sede de Soria. 
+ Control del gasto: facturación electrónica única, detallada por línea con acceso a una 
+herramienta de gestión y consulta de consumos. 
+ Seguridad y protección de datos: secreto de las comunicaciones, cumplimiento del RGPD 
+y de la LOPDGDD, y posibilidad de bloquear servicios de tarificación adicional y roaming 
+por línea. 
+CLÁUSULA 3.- SITUACIÓN ACTUAL 
+3.1.- Sedes 
+Id Sede Dirección Servicios actuales 
+1 Edificio I+D (sede principal) Campus Miguel Delibes, Paseo de Belén 11, 47011 Valladolid Fibra FTTH hasta 1 Gb (Telefónica) y fibra FTTH (Orange) 
+2 Apartamentos Cardenal Mendoza Camino del Cementerio 22, 47011 Valladolid Fibra FTTH Orange empresas 
+3 Sede de Soria C/ Calixto Pereda s/n, 42002 Soria Fibra FTTH (Telefónica) 
+Tabla 1. Sedes de la Fundación UVa 
+3.2.- Líneas móviles 
+La Fundación UVa dispone en la actualidad de 25 líneas móviles corporativas (una vez 
+descontadas las cuatro líneas que causarán baja antes del inicio del contrato y que no forman 
+parte de este expediente), contratadas con un único operador. La distribución por tipo de uso es 
+la siguiente: 
+Perfil Uso Tarifa actual Nº líneas 
+A – Alto Dirección, gerencia y responsables de área con uso intensivo de datos Ilimitada + 30 GB 9 
+B – Medio Personal técnico y de gestión con uso moderado de datos Ilimitada + 12 GB / + 5 GB 6 
+C – Básico Personal con uso esporádico y líneas de departamento 150 min + 1 GB / Ilimitada + 2 GB 7 
+M – Ascensores 
+(solo voz) 
+Sistemas de emergencia de 
+ascensores (solo voz) 150 min + 1 GB 4 
+  Total 25 
+Tabla 2. Líneas móviles actuales por perfil 
+CSV: ax77M1n3203C5tkoP7U/Nw==   Puede verificar la integridad de este documento en: https://sede.uva.es/validador-documentos   Página: 3/11
+
+--- página 4 ---
+ 
+Página 4 de 10 
+ 
+Además existen 4 tarjetas MultiSIM asociadas a dos de las líneas de los perfiles A y B, que se 
+mantienen (se prevén hasta 5). El consumo real del parque es moderado: en el último periodo 
+facturado solo cuatro líneas superaron los 3 GB mensuales de datos y ninguna los 12 GB; el tráfico 
+de voz es de unas 10 horas mensuales para el conjunto de las líneas. El listado de numeración, con 
+el perfil asignado a cada línea, se entregará al adjudicatario tras la formalización del contrato a 
+efectos de la portabilidad. 
+CLAUSULA 4.- DESCRIPCIÓN DEL SERVICIO A REALIZAR 
+4.1.- Requisitos generales 
+ Calidad y funcionalidad 
+No se admitirán propuestas que supongan un me noscabo de la calidad del servicio actualmente 
+prestado ni la desaparición de alguna funcionali dad significativa existente. Todos los servicios se 
+prestarán con los estándares de calidad que exige la normativa sectorial de telecomunicaciones. 
+ Portabilidad y migración 
+Si el adjudicatario es un operador distinto de los actuales, gestionará la portabilidad de la totalidad 
+de la numeración móvil y la migración de los accesos de fibra sin que la Fundación UVa tenga que 
+comunicar bajas al operador cesante y sin interrupción del servicio superior a las ventanas que se 
+acuerden en el plan de migración. El adjudicatario presentará, en los 10 días naturales siguientes a 
+la formalización, un plan de migración con fech as, responsables y ventanas de actuación, que 
+deberá ser aprobado por el responsable del contra to. La portabilidad de las líneas móviles y la 
+entrega de los terminales se completarán en el plazo máximo de 15 días naturales desde la 
+formalización; la puesta en servicio de los accesos de fibra, en el plazo máximo de 45 días naturales 
+desde la formalización, sin interrupción del servicio actual hasta que el nuevo acceso esté 
+operativo. Los costes de portabilidad, altas, in stalación y equipamiento estarán incluidos en el 
+precio. 
+  Interlocutor, atención y soporte 
+El adjudicatario designará un gestor comercial único y un canal de soporte técnico para empresas 
+(teléfono y correo electrónico) disponible como mínimo de lunes a viernes de 8:00 a 20:00 horas, 
+y un servicio de atención de averías de la fibr a 24 horas todos los días. Los tiempos máximos de 
+atención serán los siguientes: 
+Actuación Plazo máximo 
+Alta, baja o cambio de perfil de una línea móvil 2 días laborables 
+Sustitución de SIM por pérdida, robo o avería y 
+bloqueo de línea 
+Bloqueo inmediato; SIM nueva en 2 días 
+laborables 
+Sustitución de terminal averiado en garantía 5 días laborables (con terminal de sustitución desde el stock de reserva) 
+Resolución de avería en un acceso de fibra 48 horas desde la comunicación (mejorable en la oferta) 
+Tabla 3. Niveles de servicio mínimos 
+CSV: ax77M1n3203C5tkoP7U/Nw==   Puede verificar la integridad de este documento en: https://sede.uva.es/validador-documentos   Página: 4/11
+
+--- página 5 ---
+ 
+Página 5 de 10 
+ 
+ Información de consumos y facturación 
+El adjudicatario emitirá una factura electrónica me nsual única para el conjunto de los servicios, 
+con desglose por línea, y facilitará el acceso a un portal web de gestión que permita consultar 
+consumos, facturas y estado de las líneas, y re alizar gestiones básicas (bloqueos, cambios de 
+perfil, solicitud de altas y bajas). 
+ Seguridad y confidencialidad 
+El adjudicatario garantizará el secreto de las comunicaciones conforme a la legislación vigente y 
+cumplirá el Reglamento (UE) 2016/679 (RGPD) y la Ley Orgánica 3/2018, de 5 de diciembre, de 
+Protección de Datos Personales y garantía de los derechos digitales. No podrá utilizar la 
+información facilitada por la Fundación UVa para fines distintos de la ejecución del contrato ni 
+cederla a terceros. Los licitadores no harán uso de  la información contenida en este pliego para 
+fines distintos de la elaboración de su oferta. 
+4.2.- Servicio de telefonía móvil 
+ Perfiles de línea y características mínimas 
+El adjudicatario provisionará 25 líneas móviles, di stribuidas en los perfiles siguientes. Los valores 
+indicados son mínimos: cada licitador ofertará la tarifa de su catálogo que los iguale o supere. 
+Todas las líneas de los perfiles A, B y C incluirán llamadas ilimitadas a fijos y móviles nacionales sin 
+coste de establecimiento, llamadas ilimitadas entre las líneas de la Fundación UVa, SMS nacionales, 
+buzón de voz, identificación de llamada y roaming en el Espacio Económico Europeo en las 
+condiciones del Reglamento (UE) 2022/612 ("roaming como en casa"). 
+Perfil Nº líneas Voz nacional Datos en España (mínimo mensual) Otros 
+A – Alto 9 Ilimitada 50 GB a máxima velocidad (se valorará ilimitado) Roaming EEE incluido; 5G; posibilidad de eSIM 
+B – Medio 6 Ilimitada 15 GB a máxima velocidad Roaming EEE incluido; 5G 
+C – Básico 7 Ilimitada 5 GB a máxima velocidad Roaming EEE incluido 
+M – 
+Ascensores 
+(solo voz) 
+4 150 minutos No requerido 
+Línea de voz 
+convencional (no 
+IoT/M2M) para el sistema 
+de emergencia del 
+ascensor, con SIM en el 
+formato compatible con 
+dicho equipo; sin datos y 
+sin terminal 
+MultiSIM hasta 5 
+Comparte la 
+línea 
+principal 
+Comparte la línea principal Servicio opcional a precio unitario 
+Tabla 4. Perfiles de línea móvil 
+CSV: ax77M1n3203C5tkoP7U/Nw==   Puede verificar la integridad de este documento en: https://sede.uva.es/validador-documentos   Página: 5/11
+
+--- página 6 ---
+ 
+Página 6 de 10 
+ 
+Los usuarios de las líneas de la Fundación UVa ha cen un uso normal y no abusivo de las mismas. 
+Agotado el volumen de datos mensual, la línea seguirá navegando a velocidad reducida sin coste 
+adicional; en ningún caso se facturará consumo de datos adicional sin autorización expresa del 
+responsable del contrato. Las llamadas a números de tarificación adicional y los servicios de 
+suscripción SMS Premium estarán bloqueados por defecto en todas las líneas. El adjudicatario 
+permitirá activar o desactivar por línea, a petición de la Fundación UVa, el roaming fuera del EEE. 
+ Altas, bajas y cambios de perfil 
+La Fundación UVa podrá, durante la vigencia del co ntrato, dar de alta nuevas líneas, dar de baja 
+líneas existentes y cambiar líneas de perfil, sin penalización ni permanencia alguna, a los precios 
+unitarios de la oferta. Las líneas de nueva alta no  llevan asociada la entrega de un terminal, sin 
+perjuicio del stock de reserva del apartado 4.3.3. La baja de una línea no dará lugar a la devolución 
+de su terminal ni a cargo alguno. 
+ Tarjetas SIM 
+El adjudicatario suministrará las tarjetas SIM en  el formato que la Fundación UVa solicite (SIM 
+multiformato o eSIM) y mantendrá sin coste un stock de 3 SIM preactivadas en poder de la 
+Fundación UVa para sustituciones urgentes. Las SI M sustituidas por pérdida, robo o avería no 
+tendrán coste. 
+4.3.- Terminales móviles 
+ Dotación obligatoria 
+El adjudicatario entregará a la Fundación UVa, sin coste adicional (su coste se entiende incluido 
+en los precios unitarios de las líneas) y dentro del plazo de migración, una dotación de 4 terminales 
+de gama alta y 10 terminales de gama media , nuevos y libres, conforme a las características de la 
+tabla 5. Las líneas del perfil M (ascensores) no llevan terminal. 
+Los terminales que el licitador ofrezca por encima de esta dotación mínima serán objeto de 
+valoración en los criterios de adjudicación del Pliego de Condiciones Particulares y, una vez 
+adjudicado el contrato, tendrán carácter contractual y se entregarán en las mismas condiciones 
+y plazos que la dotación mínima. 
+Los terminales serán nuevos, de un modelo co mercializado en España durante los 12 meses 
+anteriores a la fecha de presentación de ofertas, libres (sin bloqueo de operador ni de red), con 
+garantía legal de 3 años y con el compromiso del fabricante de actualizaciones de seguridad 
+durante, al menos, 4 años desde su lanzamiento. Se entregarán con cargador, funda protectora y 
+protector de pantalla. Los terminales pasarán a ser propiedad de la Fundación UVa desde su 
+entrega y no deberán devolverse al finalizar el contrato ni al causar baja la línea. 
+ Gamas y catálogo de modelos a elegir 
+Cada gama se define por las características mínima s de la tabla 5 y, a título orientativo, por los 
+modelos "tipo" que se citan. Cualquier referencia  a marca o modelo se entiende "o equivalente" 
+(principio de neutralidad tecnológica, art. 126.6 LCSP): se admitirá cualquier terminal de cualquier 
+fabricante que cumpla las características mínimas de su gama. 
+CSV: ax77M1n3203C5tkoP7U/Nw==   Puede verificar la integridad de este documento en: https://sede.uva.es/validador-documentos   Página: 6/11
+
+--- página 7 ---
+ 
+Página 7 de 10 
+ 
+Característica Gama media Gama alta 
+Modelos tipo 
+(orientativos, "o 
+equivalente") 
+Samsung Galaxy A56 5G, Google 
+Pixel 9a, Xiaomi Redmi Note 14 Pro 
+5G, Huawei nova 13, Apple iPhone 
+16e, o modelos posteriores de esas 
+mismas familias 
+Apple iPhone 17 (o superior), 
+Samsung Galaxy S26 (o superior), 
+Google Pixel 10 Pro (o superior), 
+Huawei Pura 80 Pro / Mate 80 (o 
+superior), Xiaomi 17 (o superior) 
+Sistema operativo 
+Android 15 o superior, o iOS 18 o 
+superior, con actualizaciones de 
+seguridad ≥ 4 años 
+Android 15 o superior, o iOS 18 o 
+superior, con actualizaciones de 
+seguridad ≥ 5 años 
+Pantalla ≥ 6,3", resolución FHD+ (≥ 2340 × 1080), ≥ 90 Hz ≥ 6,1", tecnología OLED/AMOLED, ≥ 120 Hz, FHD+ 
+Memoria RAM ≥ 4 GB; almacenamiento ≥ 128 GB RAM ≥ 6 GB; almacenamiento ≥ 256 GB 
+Conectividad 5G, Wi-Fi 5 (802.11ac), Bluetooth 5.0, NFC, USB-C 5G, Wi-Fi 6 (802.11ax) o superior, Bluetooth 5.3, NFC, USB-C, eSIM 
+Batería y carga ≥ 4.500 mAh; carga rápida ≥ 25 W ≥ 3.500 mAh; carga rápida ≥ 25 W; carga inalámbrica 
+Cámara Principal ≥ 50 Mpx Principal ≥ 48 Mpx con estabilización óptica (OIS) 
+Resistencia IP54 o superior IP68 
+Biometría Lector de huella o reconocimiento facial Lector de huella o reconocimiento facial 
+Tabla 5. Gamas de terminales: modelos tipo y características mínimas 
+El licitador incluirá en su oferta un catálogo con al menos tres modelos distintos de gama alta y 
+tres de gama media , de al menos dos fabricantes diferentes en cada gama, con su ficha técnica, 
+que cumplan la tabla 5. La Fundación UVa elegirá, unidad a unidad y antes de cada entrega 
+(dotación inicial, mejoras ofertadas y reposiciones), el modelo de cada terminal entre los del 
+catálogo. Si un modelo del catálogo deja de comercializarse, el adjudicatario lo sustituirá por otro 
+de características iguales o superiores. Si la Fundación UVa considera, de forma motivada, que un 
+modelo propuesto como "equivalente" no alcanza la gama declarada, podrá exigir al adjudicatario 
+que proponga otro modelo distinto sin coste. La gama de un terminal se acredita exclusivamente 
+por el cumplimiento de la tabla 5, sin que se tenga en cuenta su precio de venta al público. 
+ Stock de reserva 
+El adjudicatario entregará, además de la dotación  mínima y sin coste, un stock de reserva de al 
+menos 2 terminales de gama media en poder de la Fundación UVa, para cubrir averías, pérdidas o 
+altas urgentes. Cada vez que se consuma una unidad del stock, el adjudicatario la repondrá en el 
+plazo de 10 días laborables. 
+CSV: ax77M1n3203C5tkoP7U/Nw==   Puede verificar la integridad de este documento en: https://sede.uva.es/validador-documentos   Página: 7/11
+
+--- página 8 ---
+ 
+Página 8 de 10 
+ 
+ Garantía de reemplazo avanzado 
+Todos los terminales suministrados (dotación mínima, mejoras ofertadas y stock) estarán 
+cubiertos durante toda la vigencia del contrato por una garantía de reemplazo avanzado, sin coste 
+para la Fundación UVa: ante cualquier avería o incidencia técnica, incluidas las de baterías y 
+cargadores, el adjudicatario recogerá el terminal  e n  l a  s e d e  d e  l a  F u n d a c i ó n  U V a  e n  e l  p l a z o  
+máximo de 5 días laborables desde la comunicación y entregará en ese mismo acto un terminal 
+de sustitución de igual o superior gama, plenamente operativo, que el usuario conservará mientras 
+dure la reparación o, si el terminal resulta irreparable o la reparación supera los 20 días laborables, 
+con carácter definitivo. El adjudicatario gestionará la garantía frente al fabricante y se 
+responsabilizará de la custodia y del borrado seguro de los datos de los terminales que envíe a 
+reparar. Los daños causados por uso indebido acreditado y los robos quedan fuera de esta 
+garantía, sin perjuicio de que el adjudicatario ofrezca condiciones de reparación o reposición para 
+estos casos en su catálogo. 
+ Reciclaje 
+A petición de la Fundación UVa, el adjudicatario se hará cargo de la recogida y del tratamiento de 
+los terminales retirados conforme a la normativa sobre residuos de aparatos eléctricos y 
+electrónicos (Real Decreto 110/2015), previo borrado seguro de los datos. 
+4.4.- Servicio de acceso a Internet mediante fibra óptica 
+ Accesos requeridos 
+Id Sede Nº accesos Caudal mínimo Requisitos 
+1 Edificio I+D, Paseo de Belén 11 2 (principal y secundario) 1 Gbps simétrico cada uno 
+IP fija pública en cada acceso; 
+los dos accesos deberán 
+discurrir, en la medida en que la 
+infraestructura lo permita, por 
+rutas o infraestructuras 
+diferenciadas para servir de 
+respaldo mutuo 
+2 
+Apartamentos 
+Cardenal Mendoza, 
+Camino del 
+Cementerio 22, 
+Valladolid 
+2 
+600 Mbps 
+simétrico cada 
+uno (se 
+valorará 1 
+Gbps) 
+IP fija pública en cada acceso 
+3 Calixto Pereda s/n, Soria 1 
+600 Mbps 
+simétrico (se 
+valorará 1 
+Gbps) 
+IP fija pública 
+Tabla 6. Accesos de fibra óptica 
+Cada acceso incluirá la instalación, la ONT y el router con soporte de doble pila IPv4/IPv6, puertos 
+Gigabit Ethernet, posibilidad de configurar el router en modo bridge o pasarela y Wi-Fi 6 
+desactivable. El adjudicatario será responsable del mantenimiento y sustitución de dicho 
+CSV: ax77M1n3203C5tkoP7U/Nw==   Puede verificar la integridad de este documento en: https://sede.uva.es/validador-documentos   Página: 8/11
+
+--- página 9 ---
+ 
+Página 9 de 10 
+ 
+equipamiento sin coste. Si el adjudicatario no pudiera prestar alguno de los accesos directamente, 
+será responsable de su subcontratación, manteniendo la interlocución única y las condiciones de 
+este pliego. 
+ Disponibilidad 
+La disponibilidad mensual mínima de cada acceso  será del 99,5 %. El adjudicatario comunicará 
+con al menos 5 días de antelación los trabajos programados que afecten al servicio, que se 
+realizarán fuera del horario laboral de la Fundación UVa. El tiempo máximo de resolución de averías 
+será el indicado en la tabla 3 o el mejorado en la oferta. 
+5.- Ejecución del contrato 
+5.1.- Duración 
+El contrato tendrá una duración de 2 años desde la  fecha de inicio del servicio, prevista para el 1 
+de noviembre de 2026 o la fecha de formalización si fuera posterior, sin prórroga. Al finalizar el 
+contrato, el adjudicatario colaborará con el operad or entrante en la portabilidad y migración de 
+los servicios durante el periodo de transición necesario, sin coste para la Fundación UVa. 
+5.2.- Responsable del contrato y seguimiento 
+El responsable del contrato será la Dirección del Área de Tecnología de la Información y las 
+Comunicaciones de la Fundación UVa. Se mantendrán reuniones de seguimiento al menos 
+semestrales, en las que el adjudicatario pres entará un informe de consumos, incidencias y 
+cumplimiento de los niveles de servicio. 
+5.3.- Contenido mínimo de la oferta técnica 
+Para acreditar el cumplimiento de este pliego y permitir la aplicación de los criterios de 
+adjudicación, la oferta incluirá, junto con el modelo de proposición económica del Pliego de 
+Condiciones Particulares: 
+ La tarifa de catálogo asignada a cada perfil de línea, con sus minutos, datos y condiciones 
+de roaming. 
+ El catálogo de terminales (al menos tres mode los de gama alta y tres de gama media, con 
+ficha técnica) y el número de unidades de gama alta y de gama media que se entregarán 
+en la dotación inicial, incluidas las adicionales ofertadas como mejora. 
+ Descripción de los accesos de fibra ofertado s (tecnología, caudal, equipamiento) y del 
+tiempo de resolución de averías comprometido. 
+ Descripción del portal de gestión, del canal de soporte y del plan de migración previsto. 
+Las mejoras ofertadas sobre los mínimos de este  pliego tendrán carácter contractual y su 
+incumplimiento dará lugar a las penalidades previstas en el Pliego de Condiciones Particulares. 
+ 
+ 
+ 
+CSV: ax77M1n3203C5tkoP7U/Nw==   Puede verificar la integridad de este documento en: https://sede.uva.es/validador-documentos   Página: 9/11
+
+--- página 10 ---
+ 
+Página 10 de 10 
+ 
+ 
+Valladolid, a la fecha de la firma electrónica. 
+ 
+ 
+ 
+D. Francisco Javier Zaloña Saldaña 
+Gerente de la Fundación Universidad de Valladolid M.P. 
+Órgano de Contratación 
+CSV: ax77M1n3203C5tkoP7U/Nw==   Puede verificar la integridad de este documento en: https://sede.uva.es/validador-documentos   Página: 10/11
+
+--- página 11 ---
+Normativa Este documento tiene carácter de copia electrónica auténtica con validez y eficacia administrativa de original (art. 27 Ley 39/2015). Estado Fecha y hora
+Firmado por Francisco Javier Zaloña Saldaña - Gerente Fundación Uva Firmado 04/11/2026 16:52:31
+URL de verificación https://sede.uva.es/validador-documentos?code=ax77M1n3203C5tkoP7U%2FNw%3D%3D
+CSV: ax77M1n3203C5tkoP7U/Nw==   Puede verificar la integridad de este documento en: https://sede.uva.es/validador-documentos   Página: 11/11

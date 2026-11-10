@@ -10,6 +10,6 @@
 
 ## Documentos
 
-- [Legal] 370336-PliegodeClusulasAdmini-001001PCA_STD_CA.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] 370344-PliegodePrescripciones-001001PPT_STD_CA.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] anexos pliegos.zip: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] 370336-PliegodeClusulasAdmini-001001PCA_STD_CA.pdf: 01_Legal_370336-PliegodeClusulasAdmini-001001PCA_STD_CA.pdf (818 KB)
+- [Technical] 370344-PliegodePrescripciones-001001PPT_STD_CA.pdf: 02_Technical_370344-PliegodePrescripciones-001001PPT_STD_CA.pdf (223 KB)
+- [Additional] anexos pliegos.zip: 03_Additional_anexos_pliegos.zip (281 KB, sin texto extraído)

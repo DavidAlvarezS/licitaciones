@@ -1,0 +1,1928 @@
+
+
+--- página 1 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+1 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+Expediente: 2026/2053   
+Adaptación Infraestructura de Servidores al ENS 2026
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES QUE 
+REGIRÁ EL PROCEDIMIENTO ABIERTO, PARA LA CONTRATACIÓN DEL 
+SERVICIO DE CONECTIVIDAD DE DATOS, RENOVACIÓN DE LA 
+INFRAESTRUCTURA DE TECNOLOGÍAS DE LA INFORMACIÓN Y 
+ADAPTACIÓN AL ESQUEMA NACIONAL DE SEGURIDAD DEL 
+AYUNTAMIENTO DE SANTOÑA
+TRAMITACIÓN DEL EXPEDIENTE: ORDINARIA. REGULACIÓN 
+ARMONIZADA
+Contenido
+I.- OBJETO DEL CONTRATO ....................................................................................3
+II.- NO DIVISIÓN EN LOTES....................................................................................3
+III.- FORMA Y CLASE DEL EXPEDIENTE DE CONTRATACIÓN......................................4
+IV.- NECESIDAD E IDONEIDAD DEL CONTRATO Y EFICIENCIA EN LA CONTRATACIÓN
+.............................................................................................................................4
+V.- BASE O TIPO DE LICITACIÓN, VALOR ESTIMADO Y DISTRIBUCIÓN POR 
+ANUALIDADES........................................................................................................4
+VI.- PLAZO DE EJECUCIÓN Y RÉGIMEN DE PRÓRROGA .............................................6
+VII.- CRITERIOS DE VALORACIÓN DE LAS OFERTAS.................................................6
+1. Criterios evaluables mediante juicios de valor (Hasta 40 puntos) ............................6
+2.Criterios evaluables mediante fórmulas automáticas (Hasta 60 puntos) ...................8
+3.Régimen de Ofertas Anormales o Desproporcionadas (Art. 149 LCSP) .....................9
+4.- Criterios de Desempate ....................................................................................10
+VIII.- FINANCIACIÓN DEL CONTRATO....................................................................10
+IX.- RESPONSABLE DEL CONTRATO .......................................................................10
+X.- PAGO DEL PRECIO Y FACTURACIÓN .................................................................11
+XI.- CONDICIONES ESPECIALES DE EJECUCIÓN......................................................12
+XII.- CUMPLIMIENTO DEL CONTRATO....................................................................13
+XIII.- RÉGIMEN DE PENALIDADES..........................................................................14
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 2 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+2 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+1. Penalidades por demora en el cumplimiento de plazos (totales o parciales) ...........14
+2. Penalidades por incumplimiento parcial...............................................................15
+3. Penalidades por cumplimiento defectuoso, fallos de SLA y del ENS .......................15
+4. Límite máximo acumulado e indemnización por daños .........................................16
+5. Procedimiento de imposición y cobro ..................................................................17
+XIV.- CAPACIDAD PARA CONTRATAR. ....................................................................17
+XV.- SOLVENCIA ECONÓMICA, FINANCIERA Y TÉCNICA O PROFESIONAL.................17
+1. Solvencia económica y financiera (Art. 87 LCSP)..................................................18
+2. Solvencia técnica o profesional (Art. 90 LCSP) .....................................................18
+3. Compromiso de adscripción de medios y acreditación del ENS (Arts. 76.2 y 202 
+LCSP)................................................................................................................19
+XVI.- GARANTÍAS..................................................................................................19
+XVII.- PUBLICACIÓN DEL ANUNCIO DE PRESENTACIÓN DE PROPOSICIONES...........20
+XVIII.- PRESENTACIÓN DE PROPOSICIONES, LUGAR Y PLAZO, FORMALIDADES Y 
+DOCUMENTACIÓN. MODELO DE PROPOSICIÓN ......................................................21
+XIX.- CALIFICACIÓN DE LA DOCUMENTACION GENERAL.........................................25
+XX.- APERTURA DE LAS PROPOSICIONES Y ADJUDICACIÓN. FORMALIZACIÓN DEL 
+CONTRATO...........................................................................................................25
+XXI.- COMPROMISOS QUE ASUMIRA LA EMPRESA ADJUDICATARIA, OBLIGACIONES 
+DE LOS CONTRATISTAS Y SUBCONTRATISTAS, CESIÓN, SUBCONTRATACIÓN Y 
+CONDICIONES ESPECIALES DE EJECUCIÓN............................................................27
+XXII.- REVISIÓN DE PRECIOS................................................................................29
+XXIII.- INDEMNIZACIÓN AL CONTRATISTA POR FUERZA MAYOR.............................29
+XXIV.- SUPUESTOS DE MODIFICACIÓN, SUSPENSIÓN, RESOLUCIÓN, CESIÓN Y 
+SUBCONTRATACIÓN DEL CONTRATO.....................................................................29
+XXV.- RÉGIMEN JURÍDICO.....................................................................................30
+XXVI.- JURISDICCIÓN COMPETENTE......................................................................31
+ANEXO I...............................................................................................................32
+ANEXO II..............................................................................................................35
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 3 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+3 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+I.- OBJETO DEL CONTRATO
+De conformidad con lo dispuesto en el artículo 17 de la LCSP, constituye 
+el objeto del contrato al que se refiere el presente pliego la prestación del 
+servicio de implantación de una red corporativa MPLS que conecte todas las 
+dependencias municipales mediante comunicaciones seguras y redundantes, así 
+como la migración de los servicios actuales a una infraestructura de servidores 
+en la nube, evitando la necesidad de acometer una elevada inversión en la 
+renovación del actual Centro de Proceso de Datos (CPD) ubicado en el edificio 
+consistorial, y la implantación de soluciones avanzadas de ciberseguridad y 
+modernización del sistema de correo electrónico. Por último, la formación del 
+personal municipal para garantizar un aprovechamiento eficiente y sostenible 
+de la nueva infraestructura.
+Nº DE REFERENCIA CPV:
+• CPV principal: 72000000-5 – Servicios TI: consultoría, desarrollo de 
+software, Internet y apoyo.
+II.- NO DIVISIÓN EN LOTES 
+El contrato no se fracciona en lotes debido a que la realización 
+independiente de las diversas prestaciones dificultaría la correcta ejecución del 
+contrato desde el punto de vista técnico, y dada la naturaleza del objeto, exige 
+coordinar las prestaciones cuya separación pudiera comprometer su correcta 
+ejecución por intervenir varios contratistas. Este motivo encaja especialmente 
+cuando la arquitectura tecnológica exige integración plena entre red, seguridad 
+y nube, con una única responsabilidad de diseño, interoperabilidad, 
+trazabilidad, monitorización y continuidad operativa. La red segura y 
+redundante, la seguridad perimetral y los servidores en la nube forman una 
+solución técnica integrada cuya ejecución separada comprometería la 
+arquitectura, la ciberseguridad, la disponibilidad o la coordinación operativa.
+III.- FORMA Y CLASE DEL EXPEDIENTE DE CONTRATACIÓN
+El contrato se encuentra sujeto a regulación armonizada, de conformidad 
+con lo señalado en los artículos 22 y 19 de la LCSP 2017.
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 4 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+4 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+Se utilizará el procedimiento abierto regulado en el artículo 156 y 
+siguientes y concordantes de la Ley 9/2017, de 9 de noviembre, de Contratos 
+del Sector Público (en adelante, LCSP), y la clase de la tramitación del 
+expediente será ordinaria.
+IV.- NECESIDAD E IDONEIDAD DEL CONTRATO Y EFICIENCIA EN LA 
+CONTRATACIÓN
+En la documentación preparatoria del presente contrato se justifican, 
+conforme a lo señalado en el artículo 28 de la LCSP 2017 los fines 
+institucionales, la naturaleza y extensión de las necesidades administrativas a 
+satisfacer mediante el mismo, la idoneidad de su objeto y contenido para 
+satisfacerlas, así como los factores de todo orden tenidos en cuenta.
+V.- BASE O TIPO DE LICITACIÓN, VALOR ESTIMADO Y DISTRIBUCIÓN POR 
+ANUALIDADES
+El presupuesto base de licitación del contrato, previsto para una duración 
+total de cuatro (4) años (48 meses), asciende a la cantidad de 235.200,00 
+euros (IVA excluido), correspondiendo un IVA del 21% por importe de 
+49.392,00 euros, lo que fija el Presupuesto Total Base de Licitación en 
+284.592,00 euros (IVA incluido).
+El Valor Estimado del Contrato (art. 101 LCSP) asciende a 235.200,00 
+euros (IVA excluido).
+1. Desglose de componentes del precio
+ Alta del servicio (cuota única): 36.000,00 € (excluido IVA) / 43.560,00 € 
+(IVA incluido).
+ Cuota mensual del servicio (48 mensualidades): 4.150,00 €/mes 
+(excluido IVA) / 5.021,50 €/mes (IVA incluido), alcanzando un subtotal 
+acumulado de 199.200,00 € (excluido IVA) / 241.032,00 € (IVA incluido).
+2. Distribución concreta del precio por anualidades presupuestarias
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 5 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+5 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+De acuerdo con el carácter plurianual del contrato y la imputación prevista 
+para el ejercicio inicial (Alta del servicio y dos mensualidades), la distribución 
+por anualidades se establece en el siguiente calendario financiero:
+ Anualidad 2026 (Alta del servicio + 2 mensualidades):
+o Base Imponible (sin IVA): 44.300,00 €
+o IVA (21%): 9.303,00 €
+o Total Anualidad 2026 (IVA incluido): 53.603,00 €
+ Anualidad 2027 (12 mensualidades):
+o Base Imponible (sin IVA): 49.800,00 €
+o IVA (21%): 10.458,00 €
+o Total Anualidad 2027 (IVA incluido): 60.258,00 €
+ Anualidad 2028 (12 mensualidades):
+o Base Imponible (sin IVA): 49.800,00 €
+o IVA (21%): 10.458,00 €
+o Total Anualidad 2028 (IVA incluido): 60.258,00 €
+ Anualidad 2029 (12 mensualidades):
+o Base Imponible (sin IVA): 49.800,00 €
+o IVA (21%): 10.458,00 €
+o Total Anualidad 2029 (IVA incluido): 60.258,00 €
+ Anualidad 2030 (10 mensualidades restantes):
+o Base Imponible (sin IVA): 41.500,00 €
+o IVA (21%): 8.715,00 €
+o Total Anualidad 2030 (IVA incluido): 50.215,00 €
+ TOTAL ACUMULADO (48 meses): 235.200,00 € (sin IVA) + 49.392,00 € 
+(IVA) = 284.592,00 € (IVA incluido).
+3. Condición de efectividad del crédito presupuestario
+La ejecución de la prestación en las anualidades sucesivas a la inicial 
+queda expresamente condicionada a la existencia y efectividad del crédito 
+presupuestario adecuado y suficiente en los presupuestos municipales de cada 
+uno de los ejercicios futuros correspondientes.
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 6 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+6 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+VI.- PLAZO DE EJECUCIÓN Y RÉGIMEN DE PRÓRROGA
+El plazo total de ejecución del contrato es de CUATRO (4) años. El 
+contratista está obligado a cumplir el contrato dentro del plazo total fijado para 
+la realización del mismo, así como de los plazos parciales señalados para su 
+ejecución sucesiva.
+No se prevé la prórroga del contrato, sin perjuicio de que, conforme a lo 
+establecido en el artículo 29.4 de LCSP, cuando al vencimiento del contrato no 
+se haya formalizado uno nuevo que garantice la continuidad de la prestación, y 
+existan razones de interés público para no interrumpir el servicio, se podrá 
+prorrogar el contrato originario hasta que comience la ejecución del nuevo 
+contrato, con un límite máximo de nueve meses, en los términos establecidos 
+en el precitado artículo.
+VII.- CRITERIOS DE VALORACIÓN DE LAS OFERTAS.
+De conformidad con el artículo 145 de la Ley 9/2017, de 9 de noviembre, 
+de Contratos del Sector Público (LCSP), para la valoración de las proposiciones 
+y la determinación de la oferta económicamente más ventajosa se atenderá a 
+una pluralidad de criterios cualitativos y cuantitativos vinculados al objeto del 
+contrato, con una ponderación total de 100 puntos, distribuidos en dos fases:
+ Criterios evaluables mediante juicios de valor (Archivo nº 2): Hasta 40 
+puntos.
+ Criterios evaluables mediante fórmulas automáticas (Archivo nº 3): 
+Hasta 60 puntos.
+1. Criterios evaluables mediante juicios de valor (Hasta 40 puntos)
+La valoración de la documentación técnica presentada en el Archivo nº 2 
+se realizará de forma previa a la apertura del Archivo nº 3, conforme a los 
+siguientes subcriterios y ponderaciones:
+1.1. Memoria Técnica y Arquitectura de la Solución (Hasta 15 
+puntos)
+Se valorará la solidez funcional y técnica de la propuesta integral de 
+infraestructuras, redes, servidores y ciberseguridad:
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 7 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+7 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+ Diseño y topología de red MPLS y comunicaciones (hasta 5 puntos): 
+Capacidad de la arquitectura propuesta para garantizar la continuidad del 
+servicio, redundancia, alta disponibilidad y calidad de servicio (QoS).
+ Solución de servidores, almacenamiento en la nube y correo electrónico 
+(hasta 5 puntos): Adecuación de los entornos cloud, nivel de aislamiento, 
+políticas de respaldo (backup) y recuperación ante desastres (DRP).
+ Estructura de ciberseguridad y alineación con el ENS (hasta 5 puntos): 
+Integración de cortafuegos (firewall), sistemas EDR/XDR, gestión de 
+identidades y trazabilidad de accesos.
+1.2. Plan de Migración, Implantación y Gobernanza (Hasta 15 puntos)
+ Metodología y Plan de Transición (hasta 8 puntos): Detalle de las fases 
+de ejecución, cronograma de trabajos, estrategias de mitigación de corte 
+de servicio durante la migración y pruebas de aceptación.
+ Gobernanza y adecuación continua al ENS (hasta 7 puntos): Metodología 
+para mantener la conformidad del Esquema Nacional de Seguridad 
+durante la vigencia del contrato, gestión de vulnerabilidades y 
+colaboración en auditorías.
+1.3. Plan de Mantenimiento, Soporte y Calidad del Servicio (Hasta 10 
+puntos)
+ Organización del servicio de atención y soporte (hasta 5 puntos): 
+Modelos de escalado, canal de atención, cualificación del equipo técnico 
+adscrito e instrumentos de gestión de incidencias.
+ Informes de seguimiento y cuadro de mando (hasta 5 puntos): 
+Frecuencia, nivel de detalle y utilidad de los informes periódicos de 
+monitorización, consumo de recursos y métricas de seguridad.
+Rúbrica de valoración cualitativa: Para la asignación de puntuación en los 
+criterios dependientes de juicio de valor se aplicará la siguiente escala:
+ Excelente (100% de la puntuación del subcriterio): La propuesta supera 
+los requerimientos del PPT con alto grado de detalle, solvencia técnica y 
+garantías operativas.
+ Bueno (75% de la puntuación): Propuesta completa, bien estructurada y 
+coherente con las necesidades municipales.
+ Adecuado (50% de la puntuación): Cumple los requisitos mínimos del 
+pliego sin aportar soluciones destacables o con un nivel de detalle medio.
+ Insuficiente / Deficiente (0% a 25% de la puntuación): Presenta lagunas 
+técnicas, imprecisiones o falta de justificación operativa.
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 8 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+8 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+2. Criterios evaluables mediante fórmulas automáticas (Hasta 60 
+puntos)
+La valoración de la documentación contenida en el Sobre nº 3 se efectuará 
+mediante la aplicación de las siguientes fórmulas objetivas:
+Oferta Económica / Precio (Hasta 45 puntos)
+Se valorará el descuento económico en euros ofrecido sobre el 
+Presupuesto Base de Licitación (excluido IVA) mediante la aplicación de la 
+siguiente fórmula proporcional lineal directa:
+Donde:
+ Puntuación: Puntuación obtenida por la oferta objeto de valoración.
+ 45: Puntuación máxima asignada al criterio precio.
+ Di: Importe total descontado en euros (sin IVA) por la oferta a evaluar 
+respecto del Presupuesto Base de Licitación (calculado como: PBL– 
+Ofertai).
+ Dmáx: Mayor importe total descontado en euros (sin IVA) presentado por 
+la oferta más económica de entre todas las admitidas.
+Reglas de aplicación:
+1. Obtendrá la puntuación máxima de 45 puntos la empresa licitadora que 
+presente la oferta con el mayor importe descontado en euros (Dmáx) de 
+entre las admitidas.
+2. Las ofertas presentadas por el importe exacto del Presupuesto Base de 
+Licitación (Di = 0,00) recibirán 0 puntos.
+3. En caso de discrepancia entre los precios unitarios/desglose y el importe 
+total descontado expresado en la proposición económica, prevalecerá la 
+cifra total ofertada expresada en letra en el modelo oficial de 
+proposición.
+Bolsa de horas anuales para soporte técnico especializado y 
+consultoría ENS (Hasta 10 puntos)
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 9 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+9 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+Se valorará la adscripción gratuita de una bolsa de horas anual para 
+tareas extraordinarias de consultoría de ciberseguridad, respuesta ante 
+incidentes graves, adecuación normativa o configuraciones complejas no 
+contempladas en el mantenimiento ordinario:
+ Más de 50 horas/año: 10 puntos.
+ De 31 a 50 horas/año: 6 puntos.
+ De 15 a 30 horas/año: 3 puntos.
+ Menos de 15 horas/año: 0 puntos.
+Reducción justificada del plazo de la Fase de Transición e 
+Implantación (Hasta 5 puntos)
+Se asignarán 1,25 puntos por cada semana completa de reducción sobre 
+el plazo máximo fijado en el PPT (12 semanas), hasta un máximo de 4 semanas 
+(plazo mínimo de 8 semanas = 5 puntos).
+(Para computar esta puntuación, el licitador deberá adjuntar en su memoria del 
+Sobre nº 2 el cronograma técnico que demuestre la viabilidad real de la 
+reducción propuesta).
+3. Régimen de Ofertas Anormales o Desproporcionadas (Art. 149 LCSP)
+Se considerará que una proposición puede estar incursa en presunción de 
+anormalidad cuando cumpla alguno de los siguientes supuestos objetivos:
+1. En la oferta económica: Cuando la baja presentada por el licitador sea 
+superior en más de 10 puntos porcentuales a la media aritmética de las 
+bajas presentadas por el conjunto de licitadores. Si concurren menos de 
+tres licitadores, se considerará anormal toda oferta con una baja superior 
+al 15% del presupuesto base de licitación.
+2. En los plazos u horas adicionales: Cuando la propuesta combine la baja 
+máxima en precio con el límite máximo en bolsa de horas y reducción de 
+plazos sin la correspondiente coherencia en la adscripción de medios.
+En tales supuestos, se requerirá al licitador para que justifique de forma 
+pormenorizada la viabilidad de su oferta antes de proceder, en su caso, a su 
+exclusión o aceptación.
+4.- Criterios de Desempate 
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 10 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+10 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+En caso de empate en la puntuación total final, la adjudicación se 
+decidirá atendiendo sucesivamente a los siguientes criterios sociales:
+1. Mayor porcentaje de trabajadores con discapacidad o en situación de 
+exclusión social en la plantilla de la empresa.
+2. Menor porcentaje de contratos temporales en la plantilla de la empresa.
+3. Mayor porcentaje de mujeres en la plantilla de la empresa.
+4. Sorteo público en caso de persistir el empate
+VIII.- FINANCIACIÓN DEL CONTRATO
+Existe crédito suficiente y adecuado para la financiación del importe 
+presupuestado correspondiente al ejercicio inicial 2026, habiéndose expedido el 
+Documento de Retención de Crédito RC nº 007586, de fecha 16 de septiembre 
+de 2026, por importe de 53.603,00 euros (IVA incluido). Dicho importe cubre el 
+coste del Alta del servicio (43.560,00 € IVA incluido) y las dos (2) primeras 
+mensualidades del contrato (10.043,00 € IVA incluido).
+El resto de las anualidades del contrato se encuentran vinculadas a la 
+preceptiva disponibilidad presupuestaria plurianual:
+1. Compromiso plurianual: El gasto derivado de los ejercicios 2027, 2028, 
+2029 y 2030 queda sujeto al compromiso de gasto plurianual acumulado 
+por importe total de 230.989,00 euros (IVA incluido).
+2. Efectividad condicionada: La ejecución del contrato en las anualidades 
+sucesivas a la inicial queda expresamente condicionada a la existencia de 
+crédito suficiente y adecuado en los Presupuestos Generales del 
+Ayuntamiento de Santoña para cada uno de los ejercicios 
+correspondientes
+IX.- RESPONSABLE DEL CONTRATO
+Se designa como responsable del contrato conforme al art. 62 LCSP para 
+supervisar su ejecución y adoptar las decisiones y dictar las instrucciones 
+necesarias con el fin de asegurar la correcta realización de la prestación 
+pactada, formulando a la Alcaldía las propuestas que deban resolverse 
+mediante acto administrativo con efectos jurídicos para el contratista y para 
+terceros:
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 11 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+11 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+- En el presente contrato: El Técnico Municipal responsable del 
+Departamento de Informática.
+X.- PAGO DEL PRECIO Y FACTURACIÓN
+El abono del precio del contrato se realizará con cargo a las partidas 
+presupuestarias habilitadas al efecto, sujetándose al siguiente régimen de 
+devengo, aprobación y facturación:
+1. Modalidades de pago
+ Cuota única de Alta del servicio (36.000,00 € + 21% IVA = 43.560,00 
+€): Se abonará una vez concluida con conformidad la Fase de Transición, 
+habiéndose completado la implantación, migración y puesta en 
+funcionamiento operativo de todos los servicios contratados a 
+satisfacción del Ayuntamiento de Santoña.
+ Cuotas mensuales de servicio (4.150,00 €/mes + 21% IVA = 5.021,50 
+€/mes): Se abonarán por mensualidades vencidas (hasta un total de 48 
+mensualidades), contra la prestación efectivamente realizada y tras la 
+correspondiente conformidad del responsable del contrato.
+2. Requisitos y plazo de facturación
+ Plazo de emisión: Las facturas deberán ser expedidas y presentadas por 
+el adjudicatario en el registro administrativo dentro de los cinco (5) días 
+hábiles siguientes a la finalización del período mensual objeto de 
+facturación (o tras la recepción del alta).
+ Contenido: Las facturas deberán ser descriptivas de los servicios 
+prestados de forma efectiva durante el período correspondiente.
+ Abono: El Ayuntamiento de Santoña abonará el importe de las facturas 
+dentro de los treinta (30) días siguientes a la fecha de aprobación de la 
+conformidad del servicio por el órgano competente, conforme a lo 
+establecido en el artículo 198 de la Ley de Contratos del Sector Público 
+(LCSP).
+3. Facturación Electrónica y Códigos DIR3
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 12 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+12 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+De conformidad con la Ley 25/2013, de 27 de diciembre, y la Base 39ª 
+de Ejecución del Presupuesto, la empresa adjudicataria estará obligada a emitir 
+factura electrónica a través del Punto General de Entrada de Facturas 
+Electrónicas (FACe).
+Los datos de DIR3 y tramitación administrativa son los siguientes:
+ Órgano Contratante: Alcaldía del Ayuntamiento de Santoña.
+ Órgano de Contabilidad / Intervención: Intervención Municipal.
+ Códigos DIR3:
+o Órgano Gestor: L01390797 (Alcaldía)
+o Unidad Tramitadora: L01390797 (Intervención)
+o Oficina Contable: L01390797 (Intervención)
+ Plataforma FACe: https://santona.face.gob.es/es/
+4. Subsanación e Intereses de demora
+ En caso de detectarse errores o incorrecciones en la factura presentada, 
+se requerirá su subsanación al contratista, suspendiéndose el cómputo 
+del plazo de abono hasta su rectificación.
+ Si el contratista incumpliera el plazo normativo de presentación de la 
+factura en el registro administrativo, el devengo de intereses de demora 
+no se iniciará hasta transcurridos treinta días desde la correcta 
+presentación formal de la misma
+XI.- CONDICIONES ESPECIALES DE EJECUCIÓN
+Cuando la ejecución del contrato implique la cesión de datos por esta 
+entidad local al contratista será obligatorio el establecimiento de una condición 
+especial de ejecución que haga referencia a la obligación del contratista de 
+someterse a la normativa nacional y de la Unión Europea en materia de 
+protección de datos, advirtiéndose además al contratista de que esta obligación 
+tiene el carácter de obligación contractual esencial de conformidad con lo 
+dispuesto en la letra f) del apartado 1 del artículo 211.
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 13 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+13 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+Serán condiciones especiales de ejecución igualmente con carácter de 
+obligación contractual esencial de conformidad con lo dispuesto en la letra f) 
+del apartado 1 del artículo 211, la obligación de hacer constar:
+a) La finalidad para la cual se cederán dichos datos.
+b) La obligación del futuro contratista de someterse en todo caso a la normativa 
+nacional y de la Unión Europea en materia de protección de datos, sin perjuicio 
+de lo establecido en el último párrafo del apartado 1 del artículo 202.
+c) La obligación de la empresa adjudicataria de presentar antes de la 
+formalización del contrato una declaración en la que ponga de manifiesto dónde 
+van a estar ubicados los servidores y desde dónde se van a prestar los servicios 
+asociados a los mismos.
+d) La obligación de comunicar cualquier cambio que se produzca, a lo largo de 
+la vida del contrato, de la información facilitada en la declaración a que se 
+refiere la letra c) anterior.
+e) La obligación de los licitadores de indicar en su oferta, si tienen previsto 
+subcontratar los servidores o los servicios asociados a los mismos, el nombre o 
+el perfil empresarial, definido por referencia a las condiciones de solvencia 
+profesional o técnica, de los subcontratistas a los que se vaya a encomendar su 
+realización.
+XII.- CUMPLIMIENTO DEL CONTRATO
+El incumplimiento de la prestación del servicio será sancionado en los 
+términos y con las penalidades establecidas en la cláusula XIV, siendo 
+conformes a la normativa reguladora de la contratación administrativa en cada 
+momento en vigor.  
+La ejecución del contrato en los años sucesivos estará condicionada a la 
+efectiva existencia de crédito presupuestario.
+Finalizado el servicio, se recibirá formalmente por la Administración, 
+firmándose por la empresa y por el técnico o cargo político correspondiente un 
+ACTA en la que conste la identidad de lo que se recibe, las circunstancias de la 
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 14 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+14 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+entrega y la fecha, de conformidad con el art. 210 LCSP, debiendo el órgano de 
+contratación dar las instrucciones al respecto.
+XIII.- RÉGIMEN DE PENALIDADES
+De conformidad con lo dispuesto en los artículos 192 y 193 de la Ley 
+9/2017, de 9 de noviembre, de Contratos del Sector Público (LCSP), el 
+incumplimiento de los plazos de ejecución, la ejecución parcial, el cumplimiento 
+defectuoso de las prestaciones pactadas o la inobservancia de los compromisos 
+de adscripción de medios (art. 76.2 LCSP) y de las condiciones especiales de 
+ejecución (art. 202.1 LCSP) darán lugar a la imposición de las penalidades 
+previstas en esta cláusula.
+1. Penalidades por demora en el cumplimiento de plazos (totales o parciales)
+El contratista está obligado a cumplir el contrato dentro del plazo total 
+fijado para la realización del mismo (48 meses), así como de los plazos 
+parciales señalados para la Fase de Transición e implantación del servicio. La 
+constitución en mora del contratista no precisará de intimación previa por parte 
+de la Administración.
+Cuantía de las penalidades diarias: Cuando el contratista, por causas 
+imputables al mismo, incurra en demora respecto al cumplimiento del plazo 
+total o de los plazos parciales, la Entidad Local podrá optar, atendidas las 
+circunstancias del caso, por la resolución del contrato o por la imposición de 
+penalidades diarias en la proporción de 0,60 euros por cada 1.000 euros del 
+precio del contrato (IVA excluido).
+Resolución por acumulación de demoras: Cada vez que las penalidades 
+por demora alcancen un múltiplo del 5% del precio del contrato (IVA excluido), 
+el órgano de contratación estará facultado para proceder a la resolución del 
+mismo o acordar la continuidad de su ejecución con imposición de nuevas 
+penalidades.
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 15 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+15 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+Respecto de los plazos parciales, la Entidad Local tendrá las mismas 
+facultades cuando la demora en el cumplimiento de los plazos parciales haga 
+presumir razonablemente la imposibilidad de cumplir el plazo total del contrato.
+2. Penalidades por incumplimiento parcial 
+Si el contratista, por causas imputables al mismo, incumpliera 
+parcialmente la ejecución de las prestaciones del contrato, el Ayuntamiento de 
+Santoña podrá optar, atendidas las circunstancias del caso, por la resolución del 
+contrato o por la imposición de una penalidad equivalente al 5% del precio del 
+contrato (IVA excluido).
+3. Penalidades por cumplimiento defectuoso, fallos de SLA y del ENS
+Atendiendo al principio de proporcionalidad del artículo 192 de la LCSP, 
+el cumplimiento defectuoso de la prestación (caídas de servicio, fallos de 
+backup, falta de monitorización, retrasos en tiempos de respuesta o 
+incumplimientos del Esquema Nacional de Seguridad) se sancionará mediante la 
+siguiente graduación:
+ Faltas Leves (Penalidad del 1% al 3% de la cuota mensual del servicio, 
+IVA excluido):
+o Retrasos injustificados inferiores a dos (2) horas en el tiempo de 
+respuesta ante incidencias de prioridad media o baja.
+o Retrasos o deficiencias puntuales en la entrega de los informes 
+periódicos de monitorización o seguimiento del servicio.
+o Indisponibilidad no planificada de la red corporativa o servidores 
+en la nube inferior a una (1) hora, producida fuera del horario de 
+atención administrativa municipal.
+ Faltas Graves (Penalidad del 4% al 10% de la cuota mensual del 
+servicio, IVA excluido):
+o Incumplimiento injustificado de los tiempos máximos de 
+resolución en Casos Prioritarios (SLA máximo de 8 horas).
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 16 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+16 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+o Retrasos o errores en la ejecución de los procedimientos de copia 
+de seguridad (backup) que no ocasionen pérdida irrecuperable de 
+información municipal.
+o Indisponibilidad continuada del servicio durante más de dos (2) 
+horas dentro del horario de actividad de las dependencias 
+municipales.
+o Reincidencia en la comisión de tres (3) faltas leves dentro de un 
+mismo trimestre.
+ Faltas Muy Graves (Penalidad del 5% al 10% del precio total del 
+contrato, IVA excluido):
+o Incumplimiento de los tiempos máximos de resolución en Casos 
+Críticos (SLA máximo de 4 horas) que cause la paralización de 
+servicios esenciales del Ayuntamiento.
+o Pérdida irrecuperable de datos o archivos por fallo imputable a los 
+sistemas de custodia o respaldo del contratista.
+o Incumplimiento de las prescripciones del Esquema Nacional de 
+Seguridad (ENS) o de las obligaciones esenciales sobre ubicación 
+de servidores y protección de datos.
+o Reincidencia en la comisión de dos (2) faltas graves en un plazo 
+de seis (6) meses.
+4. Límite máximo acumulado e indemnización por daños
+ Límite máximo: La cuantía acumulada de las penalidades impuestas no 
+podrá superar el 10% del precio del contrato (IVA excluido). Alcanzado 
+dicho límite, la Administración podrá acordar la resolución del contrato o 
+acordar la continuidad de su ejecución con imposición de nuevas 
+sanciones.
+ Indemnización por daños y perjuicios: En los supuestos de 
+incumplimiento parcial, cumplimiento defectuoso o demora en los que la 
+penalidad aplicada no cubra la totalidad de los daños efectivamente 
+causados al Ayuntamiento de Santoña, la Entidad Local exigirá al 
+contratista la correspondiente indemnización por daños y perjuicios.
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 17 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+17 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+5. Procedimiento de imposición y cobro
+ Procedimiento: Las penalidades se impondrán por acuerdo motivado del 
+órgano de contratación, adoptado a propuesta del Responsable del 
+Contrato y previa audiencia del contratista.
+ Ejecutoriedad: Los acuerdos de imposición serán inmediatamente 
+ejecutivos y se harán efectivos mediante deducción directa de los 
+importes a abonar en las certificaciones o facturas mensuales o, en su 
+defecto, sobre la garantía definitiva constituida cuando no puedan 
+deducirse de dichos pagos.
+XIV.- CAPACIDAD PARA CONTRATAR. 
+Están capacitados para contratar las personas naturales o jurídicas, 
+españolas o extranjeras, que tengan plena capacidad de obrar y acrediten la 
+correspondiente clasificación o, en su caso, la solvencia económica, financiera o 
+técnica en los términos exigidos en la normativa de contratación administrativa, 
+y no estén afectados por ninguna causa de prohibición, incapacidad o 
+incompatibilidad para contratar con la Administración.
+El Ayuntamiento podrá contratar con uniones de empresas que se 
+constituyan temporalmente al efecto, las cuales responderán solidariamente 
+ante la Administración y ante la cual nombrarán un representante o apoderado 
+único, cumpliéndose lo establecido en el art. 69 LCSP.
+XV.- SOLVENCIA ECONÓMICA, FINANCIERA Y TÉCNICA O PROFESIONAL
+De conformidad con los artículos 86, 87 y 90 de la Ley 9/2017, de 
+Contratos del Sector Público (LCSP), los licitadores deberán acreditar su 
+solvencia económica, financiera y técnica conforme a los siguientes medios e 
+importes mínimos:
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 18 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+18 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+1. Solvencia económica y financiera (Art. 87 LCSP)
+La solvencia económica y financiera del empresario se acreditará por los 
+siguientes medios:
+ Volumen anual de negocios: Declaración sobre el volumen anual de 
+negocios referido al año de mayor volumen de los tres últimos concluidos 
+(2023, 2024 y 2025). El volumen anual de negocios mínimo exigido será 
+de 58.800,00 euros (IVA excluido) (importe equivalente a una anualidad 
+media del contrato).
+o Acreditación: Mediante sus cuentas anuales aprobadas y 
+depositadas en el Registro Mercantil o en el registro oficial que 
+corresponda.
+ Seguro de indemnización por riesgos profesionales: Acreditación de la 
+existencia de un seguro de responsabilidad civil por riesgos profesionales 
+por un importe mínimo asegurado de 235.200,00 euros (equivalente al 
+Valor Estimado del Contrato).
+o Acreditación: Mediante certificado expedido por la aseguradora, 
+acompañado del compromiso de su renovación o mantenimiento 
+durante la ejecución del contrato.
+2. Solvencia técnica o profesional (Art. 90 LCSP)
+La solvencia técnica o profesional se acreditará mediante una relación de 
+los principales servicios del mismo tipo o naturaleza que los que constituyen el 
+objeto del contrato (servicios de red MPLS, migración a la nube, ciberseguridad 
+y mantenimiento de infraestructuras TIC) realizados en los últimos tres (3) 
+años:
+ Importe acumulado mínimo: El importe anual acumulado en el año de 
+mayor ejecución deberá ser igual o superior a 41.160,00 euros (IVA 
+excluido) (equivalente al 70% de la anualidad media del contrato).
+ Acreditación: Mediante certificados de buena ejecución expedidos o 
+visados por el órgano competente cuando el destinatario sea una entidad 
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 19 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+19 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+del sector público, o mediante declaración del empresario si el 
+destinatario fue un sujeto privado.
+3. Compromiso de adscripción de medios y acreditación del ENS (Arts. 76.2 y 
+202 LCSP)
+El licitador propuesto como adjudicatario deberá presentar, con carácter 
+previo a la adjudicación:
+ Adscripción de equipo técnico: Compromiso de adscripción de personal 
+técnico cualificado en la administración de redes, entornos cloud y 
+ciberseguridad. En caso de solicitarse certificaciones específicas de 
+fabricante (ej. tecnología de backup, almacenamiento o red), se 
+admitirán las certificaciones oficiales indicadas en el PPT o sus 
+equivalentes acreditadas.
+ Esquema Nacional de Seguridad (ENS): Aportación de la Certificación o 
+Declaración de Conformidad con el ENS (Nivel Medio) emitida por 
+entidad acreditada por la ENAC, o bien el compromiso formal de disponer 
+de dicha certificación/conformidad con carácter previo al inicio de la 
+puesta en producción operativa de los servicios municipales.
+ Tiempo de respuesta y presencia técnica: Compromiso de adscripción de 
+medios para garantizar la atención presencial o remota en un tiempo 
+máximo de 60 minutos ante incidencias de prioridad Crítica. Esta 
+condición se configura como compromiso de adscripción de medios y 
+condición especial de ejecución, no constituyendo un filtro de solvencia 
+excluyente previo a la licitación.
+La clasificación del empresario en un determinado grupo o subgrupo se 
+tendrá por prueba bastante de su solvencia en los términos y condiciones del 
+art. 92 párrafo 2º LCSP.
+XVI.- GARANTÍAS
+Provisional: No procede
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 20 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+20 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+Definitiva: La garantía definitiva será del 5% del importe de 
+adjudicación, sin prórrogas, excluido el IVA, y las especiales y complementarias, 
+en los términos del Texto Legal normativo y disposiciones reglamentarias de 
+aplicación. Si el plazo de ejecución fuera superior a un año, sin prórrogas, el 
+importe del 5% lo será sobre el importe total del contrato, sin IVA.
+La constitución de la garantía definitiva deberá acreditarse dentro del 
+plazo establecido en la LCSP, una vez se requiera la documentación a la 
+empresa seleccionada, y será admisible en cualquiera de las formas previstas 
+en el art. 108 LCSP.
+En caso de baja temeraria, en el supuesto de que la oferta hubiera sido 
+admitida a la vista de las alegaciones presentadas, por la Mesa de Contratación, 
+y no hubiera sido excluida de la licitación de acuerdo con lo establecido en la 
+cláusula VII.3 del presente Pliego, el órgano de contratación exigirá la 
+constitución de una garantía en su límite máximo, según lo que en cada 
+momento permita la legislación en vigor (art. 107 LCSP).
+XVII.- PUBLICACIÓN DEL ANUNCIO DE PRESENTACIÓN DE PROPOSICIONES
+El anuncio de licitación se publicará en el perfil del contratante en la 
+plataforma de contratación del Sector Público, y tendrá la información recogida 
+en el Anexo III de la LCSP (art. 135,4º LCSP).
+La forma de acceso al Perfil del Contratante será la siguiente:
+-       https://contrataciondelestado.es    
+       Se Accede al Perfil del Contratante, y de ahí al Ayuntamiento de Santoña.
+El contenido del Anuncio deberá publicarse en el Diario Oficial de la 
+Unión Europea al estar este contrato sujeto a Regulación Armonizada, debiendo 
+tener el contenido previsto en el Anexo III LCSP, de acuerdo con la DA 5ª de 
+dicha Ley. 
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 21 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+21 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+XVIII.- PRESENTACIÓN DE PROPOSICIONES, LUGAR Y PLAZO, FORMALIDADES 
+Y DOCUMENTACIÓN. MODELO DE PROPOSICIÓN
+Las proposiciones se presentarán en los plazos establecidos en el art. 
+156 LCSP, que varían en función del procedimiento que se siga:
+En el presente expediente, las ofertas se presentarán en formato 
+electrónico, a través de la Plataforma de Contratación del Sector Público, en el 
+plazo de 35 días naturales contados desde la fecha de envío del anuncio de 
+licitación a la Oficina de Publicaciones de la Unión Europea. No se admitirán por 
+cualquier otro medio ni lugar de presentación.
+Las proposiciones constarán de tres archivos electrónicos firmados por el 
+licitador o su representante, independientes, e identificados con los números 
+1º, 2º y 3º: 
+Archivo 1: Documentación administrativa. 
+Archivo 2: Proposición relativa a los criterios evaluables mediante 
+juicios de valor. 
+Archivo 3: Proposición relativa a los criterios evaluables mediante 
+fórmulas.
+A) En el Archivo 1º, denominado Documentación administrativa, 
+contendrá la DECLARACIÓN RESPONSABLE firmada por el licitador o 
+su representante, que se ajustará al FORMULARIO DEL DOCUMENTO 
+EUROPEO ÚNICO de contratación, aprobado por el Reglamento de la 
+UE 2016/7, de la Comisión de 5 de enero de 2.016 (Diario Oficial de 
+la Unión Europea de 6 de enero de 2016). 
+(https://ec.europa.eu/growth/tools-databases/espd), y que se 
+incorpora como Anexo I. Dicha declaración deberá estar firmada 
+electrónicamente y con la correspondiente identificación, en la que el 
+licitador pondrá de manifiesto los cuatro puntos señalados como 1º, 
+2º, 3º y 4º en la letra a) del apartado Primero del artículo 140 LCSP.
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 22 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+22 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+De tratarse de una empresa extranjera, deberá aportar además una 
+declaración de sometimiento a la Jurisdicción de los juzgados y tribunales 
+españoles de cualquier orden, para todas las incidencias que de modo directo o 
+indirecto puedan surgir del presente contrato, con renuncia, en su caso, al 
+fuero jurisdiccional extranjero que pudiera corresponder al licitante, de 
+conformidad con el art. 140,1,f) LCSP. 
+De recaer propuesta de adjudicación y antes de formalizar la misma, el 
+licitador seleccionado deberá acreditar en el plazo de diez días hábiles la 
+posesión y validez de los documentos requeridos en el art. 140,1,a) LCSP, de 
+conformidad con el artículo 150,2º LCSP, presentándolos al efecto, y que serán 
+los siguientes:
+1.- Documento o documentos que acrediten la personalidad del 
+empresario y la representación, en su caso, del firmante de la proposición, 
+consistentes en:
+- D.N.I. del licitador, NIF del mismo, y si se trata de Sociedad, copia de 
+la Escritura de Constitución de la Sociedad Mercantil, debidamente inscrita en el 
+Registro Mercantil.
+- Poder otorgado ante Notario, cuando se actúe por medio de 
+representante.
+- En caso de concurrir a la licitación varias empresas, constituyendo una 
+Unión temporal, cada una de ellas deberá acreditar su personalidad y 
+capacidad, indicando los nombres y circunstancias de los empresarios que 
+suscriben las proposiciones, la participación de cada una de ellas, designando la 
+persona o entidad que durante la vigencia del contrato ha de ostentar la 
+representación de la Unión ante el Ayuntamiento. 
+2.- Documentos que acrediten la solvencia económica, financiera y 
+técnica cuando se requiera, de acuerdo con la cláusula XVI del presente pliego.
+3.- Declaración responsable del licitador haciendo constar que no se halla 
+incurso en causa alguna de prohibición, incapacidad o incompatibilidad para 
+contratar con la Administración.
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 23 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+23 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+4.- Certificaciones acreditativas de la Tesorería de la Seguridad Social y 
+de la Hacienda Pública de encontrarse el licitador al corriente en el 
+cumplimiento de sus obligaciones con la Seguridad Social y la Hacienda Pública.
+5.- La acreditación del depósito de la fianza definitiva exigida en el 
+presente Pliego.
+De conformidad con el artículo 96, 140,3º y 337 LCSP. la inscripción en 
+el Registro Oficial de Licitadores y Empresas Clasificadas  del Sector Público 
+acreditará las condiciones de aptitud del empresario en cuanto a su 
+personalidad y capacidad de obrar, representación, habilitación profesional o 
+empresarial, solvencia económica y financiera o técnica y profesional, 
+clasificación y demás circunstancias inscritas, así como la concurrencia o no 
+concurrencia de las prohibiciones de contratar que deban constar en el mismo, 
+debiéndose presentar al efecto para su acreditación una certificación del órgano 
+encargado del mismo.
+No obstante, el órgano de contratación, en orden a garantizar el buen fin 
+del procedimiento, podrá recabar, en cualquier momento anterior a la 
+propuesta de adjudicación, que los licitadores o un determinado licitador 
+aporten la documentación acreditativa del cumplimiento de las obligaciones 
+establecidas para ser adjudicatario del contrato en el plazo que a tal efecto se 
+les dé (art. 140,3º LCSP.).
+En este sobre no podrá presentarse ningún dado ni información de la 
+que pueda inferirse el contenido de la oferta económica a puntuar mediante 
+procedimientos matemáticos o automáticos. Si se incumpliera esta 
+determinación, se rechazará la oferta en su conjunto y no se abrirán los demás 
+sobres.
+B) En el Archivo 2, denominado Proposición relativa a los criterios 
+evaluables mediante juicios de valor, se presentarán los documentos que sirvan 
+para poder valorar adecuadamente la oferta de acuerdo con los criterios de 
+selección establecidos en la cláusula VII del presente Pliego. Todos los 
+documentos deberán venir firmados por el licitador o su representante.
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 24 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+24 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+Esta documentación deberá presentarse ordenada y con su índice,  y 
+deberá ser lo suficientemente descriptiva y completa como para que pueda 
+permitir su valoración de acuerdo con los criterios establecidos en el Pliego. La 
+duda, obscuridad o insuficiencia no podrá usarse en ningún caso para valorarse 
+positivamente la oferta.
+En este Archivo no podrá presentarse ningún dato ni información de la que 
+pueda inferirse el contenido de la oferta económica a puntuar mediante 
+procedimientos matemáticos o automáticos. Si se incumpliera esta 
+determinación, se rechazará la oferta en su conjunto y no se abrirán los demás 
+sobres.
+C) En el Archivo 3, denominado proposición relativa a criterios evaluables 
+mediante fórmulas, se realizará la proposición económica y se presentarán los 
+documentos que sirvan para valorar la oferta de acuerdo con los criterios de 
+valoración establecidos en la Cláusula VII del presente Pliego.  Cada licitador 
+sólo podrá presentar una proposición; tampoco podrá suscribirse ninguna 
+propuesta de unión temporal con otras empresas, si lo ha hecho 
+individualmente o figura en más de una unión temporal. Todos los documentos 
+deberán venir firmados por el licitador o su representante.
+La proposición económica se ajustará al Anexo I.
+XIX.- CALIFICACIÓN DE LA DOCUMENTACION GENERAL
+Concluido el plazo de presentación de proposiciones, se publicará 
+Anuncio en la Plataforma de Contratación del Sector Público, estableciendo la 
+fecha y hora de apertura de las proposiciones y la composición de la Mesa de 
+Contratación. La Mesa de Contratación procederá a la apertura del Archivo  1 
+sobre Documentación administrativa, y a estudiar su contenido respecto a la 
+documentación de las empresas con la declaración que se exige en la cláusula 
+anterior. De existir algún defecto subsanable, se requerirá al licitador incurso en 
+el mismo para que lo subsane en el plazo de 3 días hábiles. Se valorará en este 
+acto la conveniencia o no de que se aporte la documentación exigida en este 
+momento y señalada en la cláusula XIX.
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 25 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+25 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+Se rechazarán las proposiciones que contuvieren defectos sustanciales o 
+deficiencias materiales no subsanables.
+XX.- APERTURA DE LAS PROPOSICIONES Y ADJUDICACIÓN. FORMALIZACIÓN 
+DEL CONTRATO
+De seguido y de ser posible en la misma sesión a la que se refiere la 
+cláusula anterior, se abrirá a la hora del día que se anuncie en el Anuncio que 
+se publicará en la Plataforma de Contratación del Sector Público, en sesión 
+pública, por la Mesa de Contratación, el Archivo 2, relativo a criterios evaluables 
+mediante juicios de valor.
+De precisar la Mesa algún informe antes de realizar la valoración de esta 
+oferta, se suspenderá la misma hasta que el mismo se evacúe.
+Realizada por la Mesa la valoración de la oferta contenida en el Archivo 
+2, se procederá también en sesión pública y previa publicación de anuncio en la 
+Plataforma de Contratación del Sector Público y en el Perfil del contratante, el 
+día y hora que se establezcan, a abrir el Archivo 3 relativo a criterios evaluables 
+mediante fórmulas, pudiendo la Mesa pedir igualmente los informes técnicos 
+que estime necesarios para hacer su valoración. 
+Con todo ello la Mesa elaborará la propuesta de adjudicación.
+A la vista del informe-propuesta de adjudicación de la Mesa de 
+Contratación, el órgano de contratación clasificará, por orden decreciente, las 
+proposiciones presentadas, de acuerdo con el art. 150 LCSP., atendiendo a los 
+criterios de selección establecidos en el Pliego, y requerirá a la empresa 
+propuesta, antes de la adjudicación, para que presente la documentación 
+señalada en la cláusula XIX del presente Pliego (y art. 140,1º a) a c) LCSP), y 
+de no hacerlo en el plazo de 10 días hábiles o de contener la documentación  
+presentada defectos insubsanables, se rechazará su propuesta y se seguirá el 
+procedimiento con la segunda empresa seleccionada, siguiendo con la misma el  
+mismo trámite con los efectos del art. 150,2º LCSP..
+Recibida la documentación establecida en el apartado anterior, el órgano 
+de contratación remitirá la propuesta a fiscalizar por la Intervención, y a la vista 
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 26 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+26 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+del resultado de dicho trámite realizará en su caso la adjudicación del contrato 
+en el plazo de cinco días hábiles, de forma motivada, expresando: la relación de 
+los candidatos descartados, con las razones por las que se haya desestimado su 
+candidatura; los excluidos y el motivo de su exclusión; y el nombre del 
+adjudicatario, expresando las características y ventajas de su proposición 
+determinantes de que haya sido seleccionada su oferta con preferencia a las 
+que hayan presentado los restantes licitadores.
+La adjudicación se notificará a todos los licitadores y se publicará 
+simultáneamente en el perfil del contratante en la Plataforma de Contratos del 
+Sector Público en el plazo de 15 días. Dicha Notificación tendrá el contenido del 
+art. 151 LCSP.
+El contrato se formalizará en el plazo de 15 días hábiles a contar del 
+siguiente al de notificación de la adjudicación (art. 153 LCSP.).
+La Formalización del contrato deberá publicarse, junto con el 
+correspondiente contrato, en el plazo máximo de 15 días en el perfil del 
+Contratante del Ayuntamiento de Santoña (art. 154,1º LCSP.)
+XXI.- COMPROMISOS QUE ASUMIRA LA EMPRESA ADJUDICATARIA, 
+OBLIGACIONES DE LOS CONTRATISTAS Y SUBCONTRATISTAS, CESIÓN, 
+SUBCONTRATACIÓN Y CONDICIONES ESPECIALES DE EJECUCIÓN
+A).- Serán de cuenta del adjudicatario:
+- El pago del anuncio de convocatoria del presente procedimiento 
+abierto, de haberlos. 
+- Los de carácter fiscal que sean de aplicación.
+- El pago del IVA, que se entender incluido dentro del precio de 
+adjudicación.
+-La garantía definitiva se devolverá una vez prestado el servicio a 
+satisfacción cumplidos los compromisos derivados del presente pliego y del 
+contrato.
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 27 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+27 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+B).-  El adjudicatario deberá cumplir con las condiciones salariales de los 
+trabajadores que contrate o tenga contratados para el cumplimiento del objeto 
+del presente contrato, conforme al Convenio Colectivo sectorial de aplicación.
+          C).- En materia de protección de datos es de directa aplicación el 
+artículo 122, Apartado2, párrafos 3º, 4º y 5º, a los que este Pliego se remite en 
+su completa extensión, en la redacción dada por el Real Decreto Ley 14/2019, 
+de 31 de octubre (BOE de 5-11-2019).
+D).- En materia de cesión del contrato, se estará a la regulación 
+contenida en el art. 214 de la LCSP.
+E).- En materia de subcontratación, se estará a la regulación contenida 
+en el art. 215 de la LCSP. El contratista estará obligado al cumplimiento de 
+todas las obligaciones establecidas en la normativa de aplicación respecto a la o 
+las empresas subcontratadas y respecto al personal de las mismas, debiendo al 
+primer requerimiento aportar cuanta documentación le sea requerida. Lo mismo 
+cabe decir respecto al cumplimiento de sus obligaciones en materia de 
+Prevención de riesgos laborales en toda su integridad. La empresa contratada 
+se hará responsable del incumplimiento por la misma o por las empresas 
+subcontratadas de sus obligaciones legales laborales, de prevención y de 
+protección social (Seguridad Social).
+F).- De conformidad con el art. 6 de la Ley de Cantabria 1/2018, de 21 
+de marzo, de Transparencia de la actividad pública, el adjudicatario estará 
+obligado a suministrar al Ayuntamiento de Santoña toda la información 
+necesaria para el cumplimiento por éste de todas las obligaciones previstas en 
+esta Ley.
+Por otra el Ayuntamiento de Santoña se obliga, y así expresamente se 
+recoge esta obligación para el órgano de contratación (Alcaldía), al 
+cumplimiento íntegro del art. 27 de la Ley de Cantabria 1/2018, de 21 de 
+marzo, de Transparencia de la Actividad Pública.
+G).- Los contratistas acreditarán la inscripción en el Censo de 
+empresarios, profesionales y retenedores de la Agencia Estatal de la 
+Administración Tributaria o en el Censo equivalente de la Administración 
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 28 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+28 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+tributaria Foral que debe reflejar la actividad efectivamente desarrollada en la 
+fecha de participación en el procedimiento de licitación.
+H).- De conformidad con el art. 202 de la LCSP, sobre condiciones 
+especiales de ejecución del contrato de carácter social, ético, medioambiental o 
+de otro orden, se establecen las siguientes CONDICIONES ESPECIALES DE 
+EJECUCIÓN del presente contrato:
+a) Condiciones sociales y éticas:
+1. La empresa adjudicataria deberá garantizar:
+ El cumplimiento de la normativa en materia de seguridad y salud en el 
+trabajo.
+ La aplicación íntegra de los convenios colectivos sectoriales y territoriales 
+que resulten aplicables.
+ La implantación de medidas de prevención de riesgos laborales, en 
+especial aquellas destinadas a evitar la siniestralidad durante la 
+prestación del servicio.
+b) Condiciones medioambientales:
+1. Durante la ejecución del contrato, el adjudicatario estará obligado a:
+ Utilizar sistemas de reciclado de los materiales y envases empleados.
+ Asegurar la recuperación o reciclado de cables y componentes eléctricos 
+sustituidos.
+ Emplear productos y procedimientos respetuosos con el medio ambiente, 
+evitando el uso de productos contaminantes.
+2. También se exigirá:
+ Fomentar el ahorro energético y la eficiencia en las instalaciones 
+mantenidas o renovadas.
+ Utilizar, en la medida de lo posible, materiales sostenibles o reutilizables. 
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 29 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+29 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+El cumplimiento de estas medidas podrá ser verificado en cualquier 
+momento por los Servicios Técnicos Municipales. En todo caso, su cumplimiento 
+deberá quedar acreditado antes del abono final del contrato. 
+XXII.- REVISIÓN DE PRECIOS
+No será de aplicación.
+XXIII.- INDEMNIZACIÓN AL CONTRATISTA POR FUERZA MAYOR
+El contratista tendrá derecho a que se le indemnicen los gastos que se le 
+hubieren producido en casos de fuerza mayor, no mediando actuación 
+imprudente del mismo.
+XXIV.- SUPUESTOS DE MODIFICACIÓN, SUSPENSIÓN, RESOLUCIÓN, CESIÓN Y 
+SUBCONTRATACIÓN DEL CONTRATO
+El contrato podrá modificarse en los supuestos y límites previstos en la 
+normativa en materia de contratación administrativa: art. 203 y concordantes 
+LCSP.
+Igualmente, podrá suspenderse de acuerdo con el art. 208 y 
+concordantes LCSP; resolverse de acuerdo con el art. 211 y ss. y concordantes 
+LCSP.; cederse de acuerdo con el art. 214 y concordantes LCSP.; y 
+subcontratarse acuerdo con el art. 215 y concordantes LCSP.
+XXV.- RÉGIMEN JURÍDICO
+El contrato que regula el presente pliego tiene carácter administrativo 
+conforme a lo señalado en el artículo 25 de la LCSP 2017 y se regirá , en 
+cuanto a su preparación, adjudicación, efectos y extinción, en lo no previsto en 
+el mismo por la legislación básica del Estado en materia de contratación: la Ley 
+9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se 
+transponen al ordenamiento jurídico español las Directivas del Parlamento 
+Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, en 
+adelante LCSP, por el Reglamento General de la Ley de Contratos de las 
+Administraciones Públicas, aprobado por Real Decreto 1098/2001, de 12 de 
+Octubre, en cuanto no se oponga a lo establecido en la LCSP, en adelante 
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 30 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+30 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+RGLCAP, y, por el Real Decreto 817/2009, de 8 de mayo, por el que se 
+desarrolla parcialmente la Ley 30/2007, de 30 de octubre, de Contratos del 
+Sector Público, por la normativa autonómica de desarrollo en materia de 
+contratos (1) , y por la de Régimen Local, aplicándose, supletoriamente las 
+normas estatales sobre contratación que no tengan carácter básico, las 
+restantes normas de derecho administrativo y, en su defecto, las de derecho 
+privado.
+Las partes quedan sometidas expresamente a lo establecido en el 
+presente pliego y sus anexos y el pliego de prescripciones técnicas particulares, 
+que revestirán carácter contractual.
+El contrato se ajustará al contenido del presente pliego, cuyas cláusulas 
+se entenderán parte integrante de aquél.
+En caso de discrepancia entre el presente pliego y el resto de 
+documentación que reviste carácter contractual, prevalecerá el presente pliego.  
+XXVI.- JURISDICCIÓN COMPETENTE
+Las cuestiones litigiosas que puedan surgir sobre interpretación, 
+modificación, resolución y efectos de este contrato serán resueltas por el 
+órgano de contratación, cuyas resoluciones o acuerdos pondrán fin a la vía 
+administrativa y abrirán la vía Contencioso-administrativa siendo competentes 
+los juzgados y tribunales de Cantabria.
+De acuerdo con el art. 44 y ss LCSP, frente a este Pliego cabe el Recurso 
+Especial en Materia de Contratación al tener un valor estimado superior a cien 
+mil Euros, con los efectos que en dichos artículos de la LCSP se contemplan.
+Santoña, a la fecha de la firma electrónica.
+EL ALCALDE      EL SECRETARIO 
+Fdo.: Jesús Gullart Fernández          Fdo. Juan José Fernández Ugidos
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 31 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+31 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+ANEXO I
+MODELO DE DECLARACIÓN RESPONSABLE (SOBRE / ARCHIVO Nº 1: 
+DOCUMENTACIÓN ADMINISTRATIVA)
+(Aportación complementaria al Documento Europeo Único de 
+Contratación - DEUC)
+EXPEDIENTE: 2026/2053 
+CONTRATO: Servicio de conectividad de datos, renovación de la 
+infraestructura de tecnologías de la información y adaptación al Esquema 
+Nacional de Seguridad del Ayuntamiento de Santoña. 
+PROCEDIMIENTO: Abierto, tramitación ordinaria, sujeto a regulación 
+armonizada (SARA).
+1.1. DATOS DE LA PERSONA LICITADORA O SU REPRESENTANTE
+ D./Dña.: 
+______________________________________________________
+______________
+ NIF / DNI nº: _______________________
+ En nombre propio / En representación de la entidad: 
+______________________________________________________
+______________
+ NIF de la empresa: _______________________
+ En calidad de: (Administrador/a Único/Solidario/Mancomunado, 
+Apoderado/a) _______________________
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 32 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+32 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+ Poder Notarial: Otorgado el //________ ante el Notario D./Dña. 
+_________________________________________, con protocolo 
+nº ___________.
+ Correo electrónico habilitado para notificaciones (DEHu/FACe): 
+___________________________________________
+ Teléfono de contacto: _______________________
+1.2. DECLARACIÓN RESPONSABLE SOBRE CAPACIDAD, REQUISITOS Y 
+SOLVENCIA
+Declaro bajo mi responsabilidad, a efectos de participar en la presente 
+licitación:
+1. Capacidad de obrar y representación: Que la entidad que 
+represento tiene capacidad de obrar y cuenta con las 
+autorizaciones y habilitaciones empresariales o profesionales 
+necesarias para el desarrollo de la actividad objeto del contrato.
+2. Ausencia de prohibiciones de contratar: Que ni la entidad ni sus 
+administradores se hallan incursos en ninguna de las prohibiciones 
+para contratar con el Sector Público establecidas en el artículo 71 
+de la Ley 9/2017, de Contratos del Sector Público (LCSP).
+3. Obligaciones tributarias y con la Seguridad Social: Que la entidad 
+se halla al corriente en el cumplimiento de sus obligaciones 
+tributarias con la Hacienda Estatal, la Comunidad Autónoma de 
+Cantabria y el Ayuntamiento de Santoña, así como con la 
+Seguridad Social.
+4. Cumplimiento de solvencia económica, financiera y técnica 
+(Cláusula XVI PCAP):
+o Volumen anual de negocios: Declaración de haber alcanzado 
+un volumen anual de negocios de al menos 58.800,00 € 
+(excluido IVA) en el ejercicio de mayor volumen de los tres 
+últimos concluidos.
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 33 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+33 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+o Seguro de Responsabilidad Civil: Posesión de una póliza de 
+seguro de indemnización por riesgos profesionales con un 
+límite mínimo de indemnización de 235.200,00 €.
+o Experiencia técnica: Haber ejecutado en los últimos tres años 
+servicios similares por un importe anual acumulado mínimo 
+de 41.160,00 € (excluido IVA).
+5. Compromisos de adscripción de medios y Esquema Nacional de 
+Seguridad (ENS):
+o Certificación ENS (Nivel Medio): Aportación de la 
+certificación/declaración de conformidad con el ENS (Nivel 
+Medio) o compromiso formal de disponer de ella antes de la 
+puesta en producción operativa de los servicios municipales.
+o Tiempo de respuesta: Compromiso formal de adscribir 
+medios técnicos para garantizar la atención en un tiempo 
+máximo de 60 minutos ante incidencias de prioridad Crítica.
+6. Ubicación de servidores y Protección de Datos (Cláusula XII PCAP):
+o Que los servidores y la infraestructura en la nube adscrita al 
+contrato estarán ubicados en el siguiente Centro de Proceso 
+de Datos (CPD):
+ Ubicación física del CPD principal: 
+____________________________________________
+________________________ (Ciudad / País dentro de 
+la Unión Europea).
+ Ubicación del CPD de respaldo (backup): 
+____________________________________________
+________________________.
+o Compromiso formal de someterse plenamente a la normativa 
+de la UE y española en materia de protección de datos 
+(RGPD y LOPDGDD) y de comunicar cualquier cambio de 
+ubicación durante la vigencia del contrato.
+En ________________________, a _____ de ____________________ 
+de 2026.
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 34 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+34 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+(Firma electrónica del licitador/a o representante legal) Fdo.: 
+__________________________________________
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 35 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+35 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+ANEXO II
+MODELO DE PROPOSICIÓN ECONÓMICA Y CRITERIOS EVALUABLES 
+MEDIANTE FÓRMULAS (ARCHIVO / SOBRE Nº 3)
+EXPEDIENTE: 2026/2053
+CONTRATO: Servicio de conectividad de datos, renovación de la 
+infraestructura de tecnologías de la información y adaptación al Esquema 
+Nacional de Seguridad del Ayuntamiento de Santoña. 
+PROCEDIMIENTO: Abierto, tramitación ordinaria, sujeto a regulación 
+armonizada (SARA).
+1. DATOS DEL LICITADOR Y DE SU REPRESENTANTE LEGAL
+ D./Dña.: 
+___________________________________________________________
+_________
+ DNI / NIE nº: _______________________
+ En nombre propio / En representación de la entidad mercantil: 
+___________________________________________________________
+_________
+ NIF de la empresa: _______________________
+ En calidad de: (Apoderado, Administrador 
+Único/Solidario/Mancomunado) _______________________
+ Segunda Escritura / Poder Notarial: Otorgado ante el Notario D./Dña. 
+___________________________________, el día _____ de 
+_________________ de ________, bajo el número _____ de su 
+Protocolo.
+ Domicilio a efectos de notificaciones: Calle/Avda. 
+_________________________________________, nº ____, C.P. 
+_________, Localidad _______________________, Provincia 
+_______________________.
+ Teléfono de contacto: _______________________
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 36 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+36 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+ Correo electrónico habilitado (DEHu/FACe): 
+___________________________________________
+2. DECLARACIÓN RESPONSABLE Y COMPROMISO FORMAL
+Enterado/a de las condiciones, requisitos y obligaciones exigidos para la 
+adjudicación del contrato de referencia:
+1. Declaro que conozco y acepto íntegramente el Pliego de Cláusulas 
+Administrativas Particulares (PCAP) y el Pliego de Prescripciones Técnicas 
+Particulares (PPT) que rigen el expediente 2026/2053.
+2. Me comprometo a ejecutar las prestaciones objeto del contrato con 
+estricta sujeción a los expresados pliegos, por los precios y condiciones 
+ofertados a continuación:
+3. OFERTA ECONÓMICA (Hasta 45 puntos)
+(Presupuesto Base de Licitación de referencia: 235.200,00 € sin IVA / 
+284.592,00 € IVA incluido)
+Concepto de Facturación Importe Ofrecido 
+(Sin IVA)
+% IVA 
+(21%)
+Importe Total 
+con IVA
+Cuota única de Alta del servicio (Máx. 
+licitación: 36.000,00 € sin IVA)
+___________, € ___________, 
+€
+___________, €
+Cuota mensual del servicio (Máx. 
+licitación: 4.150,00 €/mes sin IVA)
+___________, € ___________, 
+€
+___________, €
+Subtotal Cuotas Mensuales (48 
+mensualidades)
+___________, € ___________, 
+€
+___________, €
+OFERTA TOTAL CONTRATO (Alta + 48 
+mensualidades)
+___________, € ___________, 
+€
+___________, €
+ Importe total de la oferta en letra (sin IVA): 
+___________________________________________________________
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 37 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+37 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+_____________________________________________ EUROS 
+(EXCLUIDO IVA).
+4. OTROS CRITERIOS EVALUABLES MEDIANTE FÓRMULAS 
+AUTOMÁTICAS (Hasta 15 puntos)
+A) Bolsa de horas anuales para soporte técnico especializado y consultoría ENS 
+(Hasta 10 puntos)
+(Marcar únicamente una opción. Las horas ofertadas serán de adscripción 
+gratuita y con carácter anual para tareas de ciberseguridad, respuesta ante 
+incidentes o adecuación normativa no contempladas en el mantenimiento 
+ordinario):
+ [ ] Más de 50 horas/año (10 puntos)
+ [ ] De 31 a 50 horas/año (6 puntos)
+ [ ] De 15 a 30 horas/año (3 puntos)
+ [ ] Menos de 15 horas/año / Sin oferta (0 puntos)
+B) Reducción del plazo de la Fase de Transición e Implantación (Hasta 5 
+puntos)
+(El plazo máximo de implantación fijado en el PPT es de 12 semanas. La 
+reducción ofertada deberá justificarse técnicamente en el cronograma incluido 
+en el Sobre nº 2):
+ Semanas completas de reducción ofertadas sobre el plazo máximo de 12 
+semanas: _______ semanas. (Se asignarán 1,25 puntos por cada 
+semana completa de reducción, hasta un máximo de 4 semanas / plazo 
+resultante de 8 semanas = 5 puntos).
+En ________________________, a _____ de ____________________ de 
+2026.
+(Firma electrónica del licitador o representante legal) Fdo.: 
+__________________________________________
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE
+
+--- página 38 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+38 de 38
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 883eb5e7d01846a48ead22f67e3a846a001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 2
+JUAN JOSE FERNANDEZ
+UGIDOS
+03/11/2026 SECRETARIO
+Firma 2 de 2
+JESUS GULLART
+FERNANDEZ
+03/11/2026 ALCALDE

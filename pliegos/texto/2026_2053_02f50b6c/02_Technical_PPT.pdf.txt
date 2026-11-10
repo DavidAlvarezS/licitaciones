@@ -1,0 +1,1532 @@
+
+
+--- página 1 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+1 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+Expediente: 2026/2053   
+Adaptación Infraestructura de Servidores al ENS 2026
+DEPARTAMENTO DE INFORMÁTICA
+Pliego de Especificaciones Técnicas para la Licitación del servicio de 
+Conectividad de datos, renovación de la Infraestructura de TI y 
+adaptación al ENS del Ayuntamiento de Santoña
+1. INTRODUCCIÓN 3
+2. OBJETO DEL CONTRATO 5
+3. FASES DEL CONTRATO 5
+4. DESCRIPCION DE LOS SERVICIOS 8
+4.1 SERVICIOS DE DATOS 12
+4.1.1 SEGURIDAD PERIMETRAL 12
+4.1.2 SERVIDOR DE DOMINIO 16
+4.1.3 SERVIDOR DE FICHEROS 20
+4.1.4 END POINTS 24
+4.1.5 RED LAN 27
+4.1.6 CORREO ELECTRÓNICO 31
+5. CONTENIDO DE LA PROPUESTA 32
+6. CONDICIONES DE EJECUCIÓN 33
+7. MANTENIMIENTO DE LOS SERVICIOS 33
+8. OBLIGACIONES Y RECURSOS ASIGNADOS 38
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 2 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+2 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+9. PLAZO 39
+10. PRESUPUESTO BASE DE LICITACIÓN Y VALOR ESTIMADO DEL 
+CONTRATO 39
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 3 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+3 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+INTRODUCCIÓN
+El presente contrato tiene como objetivo principal la modernización e 
+implementación de la infraestructura tecnológica del Ayuntamiento. Esto abarca 
+el diseño, instalación y configuración de una red de conectividad segura y 
+redundante, junto con la integración de sistemas avanzados de SOC, seguridad 
+perimetral y la incorporación de servidores en la nube para el alojamiento de 
+las aplicaciones municipales y correo electrónico.
+Además, se incluye la protección integral de endpoints mediante soluciones 
+antivirus, la implementación de sistemas de respaldo.
+Todas estas acciones están orientadas a proteger de forma integral la 
+información del Ayuntamiento.
+Por último, el contrato contempla también la formación del personal municipal 
+para asegurar un uso eficiente y un mantenimiento adecuado de la nueva 
+infraestructura tecnológica implementada.
+Conectividad:
+Actualmente, el Ayuntamiento de Santoña tiene contratados los servicios de 
+telecomunicaciones con distintos operadores. 
+La red de datos no está basada en redes MPLS, lo que dificulta la prestación 
+de un servicio eficiente a las distintas dependencias administrativas 
+municipales, así como a los usuarios en itinerancia. La conectividad que cubre 
+13 dependencias municipales, son 13 redes independientes y de operadores 
+distintos.
+Infraestructura de Red:
+La infraestructura de red del Ayuntamiento, aunque funcional, presenta ciertos 
+elementos que han quedado desfasados y limitan su capacidad para adaptarse 
+a los estándares actuales de rendimiento y seguridad. Estos dispositivos, como 
+el firewall y parte del equipamiento de switches, deberán ser reemplazados 
+para garantizar una integración eficiente y segura con las soluciones que se 
+implementarán en el futuro. La actualización permitirá optimizar las operaciones 
+y cumplir con los requisitos normativos vigentes.
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 4 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+4 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+Servidores:
+La infraestructura de servidores del Ayuntamiento incluye equipos que ya no 
+cumplen con los estándares actuales de seguridad y funcionalidad. Asimismo, 
+carece de virtualización y de un sistema automatizado de copias de seguridad, 
+lo que limita su capacidad operativa.
+El servidor de ficheros, aunque funcional, presenta ciertas limitaciones en la 
+gestión de copias de seguridad y, en general, requiere de una actualización 
+para alinearse con las necesidades actuales. Ambos servidores deberán ser 
+reemplazados o modernizados como parte de la mejora tecnológica para 
+garantizar la continuidad, seguridad y eficiencia de las operaciones futuras.
+Software y Seguridad:
+El Ayuntamiento cuenta con un sistema de protección antivirus basado en 
+licencias, vigentes hasta mayo de 2025, que garantiza la protección de los 
+datos y aplicaciones municipales en el corto plazo.
+En cuanto a las aplicaciones administrativas, se dispone de herramientas clave 
+para la gestión municipal, como IIS para servicios web, ABS para la 
+administración del padrón y contabilidad, y Vialine para la gestión del tráfico 
+utilizada por la Policía Local. 
+Correo electrónico:
+En la actualidad el Ayuntamiento dispone de 140 buzones de correo repartidos 
+en dos dominios (santoña.es y santona.es) en el proveedor cloud. Este sistema 
+de correo se ha quedado algo obsoleto al prestar únicamente un servicio POP, 
+lo que no permite disponer de una sincronización y coherencia de uso de 
+correo electrónico en los usuarios con múltiples dispositivos, algo muy común 
+hoy en día. Además, tampoco se cuenta con un sistema fiable de filtrado spam 
+ni hay funcionalidades de agenda ni contactos. Es por ello por lo que la nueva 
+solución debe incluir un nuevo sistema de correo electrónico que mejora 
+ostensiblemente el servicio actual. Los 140 buzones actuales son de una 
+capacidad de 5gb como máximo.
+OBJETO DEL CONTRATO
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 5 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+5 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+El contrato tendrá como objeto la implementación y modernización de la 
+infraestructura tecnológica del Ayuntamiento, incluyendo el diseño, instalación y 
+configuración de una red de conectividad segura y redundante, así como 
+sistemas de seguridad perimetral y servidores en la nube para el alojamiento 
+de aplicaciones municipales. Asimismo, este contrato contempla la protección 
+de endpoints mediante antimalware, el despliegue de soluciones de respaldo, 
+así mismo la contratación de soporte de Ciberseguridad Autogestionado: 
+protección, experiencia y asistencia integral diseñado específicamente para 
+respaldar al equipo de informática del ayuntamiento que carece de recursos 
+dedicados a ciberseguridad. Todo ello con el fin de cumplir con los requisitos 
+del Esquema Nacional de Seguridad (ENS) y asegurar la protección integral de 
+la información municipal. El alcance incluye la capacitación del personal en el 
+uso y mantenimiento de la nueva infraestructura implementada.
+El propósito de este documento es establecer las especificaciones técnicas 
+necesarias para la contratación de los servicios de telecomunicaciones del 
+Ayuntamiento de SANTOÑA. Dichos servicios abarcarán dos modalidades 
+principales: Conectividad y Datos.
+La prestación incluirá todos los aspectos implicados, desde el suministro y 
+configuración de los distintos componentes requeridos hasta el mantenimiento 
+de la infraestructura necesaria, conforme a las soluciones propuestas.
+FASES DEL CONTRATO
+En la siguiente sección se describen las fases del contrato:
+Fase de Transición
+Durante esta fase, la empresa adjudicataria implementará todos los servicios 
+estipulados, asegurando su plena operatividad en un plazo máximo de 12 
+semanas. Los aspectos clave de esta fase son:
+ Implementación de Servicios: Instalación y configuración de todos los 
+componentes necesarios para la correcta operatividad de los servicios 
+contratados, conforme a las especificaciones del pliego.
+ Implantación de Circuitos MPLS y Creación del Mapa de Red:
+o Inventario de los sistemas operativos (SW) existentes.
+o Elaboración del mapa de red.
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 6 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+6 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+o Creación del entorno MPLS.
+ Implementación del entorno de servidores en la nube:
+o Acceso y formación del personal técnico asignado.
+ Replicación de la política de seguridad del firewall actual.
+ Plan de Pruebas: Al inicio de la fase, la empresa adjudicataria entregará 
+un Plan de Pruebas que permita verificar el funcionamiento correcto de 
+cada componente y del sistema global, bajo la supervisión del 
+AYUNTAMIENTO.
+ Interrupciones y Horarios de Trabajo: Los trabajos se ejecutarán 
+minimizando el impacto en la actividad diaria. Cualquier interrupción 
+deberá ser consensuada con el AYUNTAMIENTO, programándose 
+preferiblemente en horario nocturno con un tiempo máximo de corte de 
+cuatro horas.
+Fase de Operación
+La fase de operación comienza tras la finalización de la Fase de Transición y 
+se extiende hasta la finalización del contrato. Durante un período inicial de 10 
+semanas (Período de Estabilización).
+Aspectos clave de esta fase:
+ Período de Estabilización: Durante los primeros dos (2) meses, los 
+servicios serán monitoreados. 
+ Continuidad del Servicio:
+ Garantía de disponibilidad, calidad y soporte durante la prestación 
+de los servicios.
+ Si fuera necesario, el adjudicatario deberá coordinar acuerdos con 
+los prestadores anteriores para garantizar la continuidad del 
+servicio.
+ Plan de Continuidad de Negocio: La empresa adjudicataria presentará 
+un Plan de Continuidad de Negocio que contemple:
+ Backup de Contingencia: Alternativas de respaldo en caso de 
+fallos en el acceso principal.
+ Procedimientos de Escalado y Contacto: Información detallada de 
+contacto, protocolos de actuación y tiempos de respuesta para la 
+atención de incidencias graves y asegurar la continuidad del servicio.
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 7 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+7 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+Fase de Devolución del Servicio
+Antes del vencimiento del contrato, la empresa adjudicataria realizará una 
+transferencia ordenada de conocimientos y activos, asegurando una 
+transición fluida al nuevo adjudicatario. Esta fase tendrá una duración máxima 
+de dos meses y garantizará:
+ La entrega de toda la documentación técnica necesaria.
+ El mantenimiento de los niveles de servicio acordados durante el 
+proceso de devolución.
+ La ausencia de impacto en la calidad y operatividad para los usuarios 
+finales.
+DESCRIPCION DE LOS SERVICIOS
+Para la prestación de los servicios, las empresas licitadoras deberán cumplir 
+con los siguientes requisitos esenciales:
+ Los servicios de telecomunicaciones proporcionados deberán estar 
+orientados a cubrir las necesidades municipales y tendrán un carácter 
+flexible, permitiendo su ajuste según las demandas actuales y futuras 
+durante la vigencia del contrato.
+ El adjudicatario deberá asegurar una alta disponibilidad del servicio, 
+incluyendo tanto el funcionamiento continuo como los servicios de 
+mantenimiento y soporte técnico vinculados.
+ Se garantizará una calidad óptima del servicio, respaldada por la 
+integración de tecnología digital moderna y de vanguardia.
+ El adjudicatario deberá incorporar nuevas funcionalidades en los 
+sistemas a medida que las soluciones de comunicación evolucionen, 
+adaptándose a los avances tecnológicos.
+ Migración de los servidores a la nube.
+SERVICIOS DE CONECTIVIDAD 
+Según lo expuesto en la introducción, la intención es conformar una red 
+corporativa que incluye todas las oficinas municipales donde cada una de estas 
+dependencias disponga de su propia conexión a internet, y estén 
+interconectadas dentro de una red MPLS para la administración y gestión 
+eficiente de los servicios.
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 8 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+8 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+Los licitadores deberán presentar soluciones específicas para conectividad y 
+MPLS, cumpliendo al menos con los siguientes requisitos:
+Prestaciones del servicio:
+ Operatividad continua durante las 24 horas, los 365 días del año.
+ Capacidad para manejar grandes volúmenes de datos, asegurando 
+una conexión eficiente y estable.
+ Alta calidad en la transmisión de información mediante la 
+infraestructura MPLS.
+ Acceso directo y sin restricciones al circuito.
+ Garantía de privacidad total en las comunicaciones.
+ Asegurar el 100% del tráfico en toda la red corporativa y en las 
+conexiones a internet.
+ Herramientas de supervisión y monitorización que certifiquen estas 
+garantías.
+ Configuración de alta disponibilidad automática para elementos 
+críticos como los firewalls. En líneas clave, los routers deberán contar 
+con una conexión de respaldo.
+Aplicaciones principales del servicio:
+ Implementación de una Red Privada MPLS que conecte el 
+ayuntamiento y las 12 sedes municipales.
+ Protección mediante firewalls de alta disponibilidad.
+ Acceso seguro a internet y a redes externas como SARA.
+ Todas las adaptaciones de infraestructura necesarias para ofrecer 
+los servicios deben ubicarse en el CPD, asegurándose de que estén 
+correctamente fijadas en racks o bandejas.
+ Acceso remoto seguro utilizando tecnología 4G con integrado en la 
+red MPLS.
+Se prevé la posibilidad de modificar el contrato hasta un 10% del precio inicial 
+al alza cuando aumente el número de sedes, ya sea por la incorporación de 
+nuevas dependencias o locales municipales, la creación de nuevos 
+departamentos o por razones de mejora y expansión del servicio. 
+Requerimientos mínimos para la red corporativa:
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 9 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+9 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+La red corporativa debe basarse en MPLS, asegurando la conectividad y los 
+servicios con las siguientes características:
+MPLS integrada:
+ Palacio Manzanedo -Sede de la Casa Consistorial: FTTH 1000M + 
+Backup 4G.
+ Caballerizas del Palacio de Manzanero - Sede de la Policía Local: 
+FTTH 600M + Backup 4G.
+ Caballerizas del Palacio de Manzanero - Sede Servicios Sociales: 
+FTTH 600M + Backup 4G.
+ Casa de la Cultura- Sede la Casa de Cultura y la Biblioteca. FTTH 
+600M+ Backup 4G.
+ Piscina, el polideportivo, el servicio médico y el despacho de 
+dirección (IDM): FTTH 600M + Backup 4G.
+ Casa de la Juventud: FTTH 600M + Backup 4G.
+ Complejo turístico y deportivo "EL ALBERGUE". Router 4G.
+ Oficina de turismo: FTTH 600M + Backup 4G.
+ Ayudantia de Marina - Radio Municipal: FTTH 600M + Backup 4G.
+ Foresant- Sede del Centro de Formación y Empleo y el Almacén 
+Municipal.: FTTH 600M + Backup 4G.
+ Casa del Mar -Sede Centro de día: FTTH 600M + Backup 4G.
+ Sede TEATRO: FTTH 600M + Backup 4G.
+ Fuerte San Martín: FTTH 600M+ Backup 4G.
+Aspectos adicionales de la propuesta:
+ Herramientas avanzadas para la monitorización de la red MPLS y 
+conectividad.
+ Un sistema eficiente de gestión de incidencias.
+ Propuesta de servicios complementarios que puedan optimizar el uso 
+de la red.
+Con esta solución de conectividad y MPLS, se asegura una infraestructura 
+robusta y escalable para cubrir las necesidades presentes y futuras del 
+Ayuntamiento.
+Listado de Inmuebles Municipales
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 10 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+10 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+A continuación, se presenta, con carácter no exhaustivo, la relación de 
+inmuebles municipales incluidos en el ámbito de este Concurso:
+EDIFICIO SEDE MUNICIPAL DIRECCION
+AYUDANTIA DE MARINA Radio Municipal PS Pereda 1, Capitanía de Marina, Esc. E, 0º, 1, SANTOÑA, 39740, CANTABRIA
+CABALLERIZAS DEL PALACIO DE 
+MANZANEDO Policía Local Calle Gral. Sagardía, 15, 39740 Santoña, Cantabria
+CABALLERIZAS DEL PALACIO DE 
+MANZANEDO 2 Servicios Sociales Calle Gral. Sagardía, 15, 39740 Santoña, Cantabria
+CASA DE CULTURA Sede Casa De Cultura PL Camilo José Cela, 1, CASA DE CULTURA ANTIGUO ALFONSO XII 7, Esc. E, 0º, 1, SANTOÑA, 39740, CANTABRIA
+CASA DE LA JUVENTUD Casa de la Juventud Calle Valdomero Villegas, 11 - 39740 Santoña Cantabria
+CASA DEL MAR Sede Centro de dia Calle Méndez Núñez s/n 39740 Santoña CANTABRIA
+COMPLEJO TURISTICO DEPORTIVO 
+"EL ALBERGUE"
+"Sede Complejo T.D. ""El 
+Albergue""" Calle Cicero S/N  [39795 SANTOÑA CANTABRIA]
+FORESANT
+Sede FORESANT Agencia de 
+Desarrollo Local 
+Mancomunidad Municipios 
+Sostenibles y ALMACÉN 
+MUNICIPAL
+Polígono Industrial 39740 Santoña, Cantabria
+FUERTE SAN MARTIN Fuerte San Martín CL MONTE S/N, FUERTE SAN MARTIN ANTIGUO EL MONTE 25, Esc. E, 0º, 1, SANTOÑA, 39740, CANTABRIA
+INSTALACIONES DEPORTIVAS 
+MUNICIPALES
+"Sede IDM, Instalaciones 
+Deportivas"
+CL BERRIA 3, COMPLEJO MUNICIPAL DE DEPORTE, Esc. E, 
+0º, 1, SANTOÑA, 39740, CANTABRIA
+OFICINA DE TURISMO Sede Oficina de Turismo Municipal Calle  Santander 5 39740 Santoña CANTABRIA
+PALACIO DE MANZANEDO
+Oficina de Empleo, ALcaldia, 
+Recaudación, Oficina de 
+Empleo, ADL
+Calle MANZANEDO 27 [39740 SANTOÑA CANTABRIA]
+TEATRO Teatro
+CL ALFONSO XII 7, TEATRO CASINO LICEO ANTIGUO CL 
+ALFONSO XII 11, Esc. E, 0º, 01, SANTOÑA, 39740, 
+CANTABRIA
+4.1SERVICIOS DE DATOS 
+4.1.1 SEGURIDAD PERIMETRAL 
+SITUACIÓN ACTUAL
+El Ayuntamiento dispone de un firewall que, aunque funcional, es un equipo 
+básico con limitaciones para cumplir con los requisitos actuales de seguridad y 
+normativas vigentes. Su antigüedad hace imprescindible su sustitución por un 
+dispositivo más avanzado, que ofrezca mayores niveles de protección y 
+garantice la compatibilidad con los estándares establecidos, como el ENS.
+OBJETIVO
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 11 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+11 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+El objetivo del presente contrato es la implantación de un sistema de seguridad 
+perimetral avanzado para la red del Ayuntamiento, compuesto por una sede 
+central (Casa Consistorial) y 12 sedes adicionales, que garantice la protección, 
+control y gestión eficiente del tráfico de datos hacia internet. Esto se logrará 
+mediante la instalación de un Firewall de Nueva Generación (NGFW) alojado 
+en la nube, a través del cual será enrutado de manera segura todo el tráfico 
+proveniente de las 12 sedes, y la instalación de un firewall físico en la Casa 
+Consistorial para reforzar la seguridad local y garantizar la gestión eficiente del 
+tráfico y la conectividad segura de la sede central.
+Los firewalls deberán cumplir con las siguientes especificaciones:
+Firewall de Próxima Generación (NGFW):
+Capacidad de firewall de próxima generación que incluya:
+ Prevención de intrusiones (IPS) para detectar y bloquear ataques en 
+tiempo real.
+ Control de aplicaciones para gestionar el acceso a aplicaciones y 
+garantizar la seguridad de los datos.
+ Filtrado web avanzado para restringir acceso a contenido inapropiado o 
+malicioso.
+Protección Contra Amenazas Avanzadas:
+ Protección contra malware y otras amenazas, incluyendo defensa frente 
+a ataques de día cero y DDoS.
+ Integración con sistemas cloud para recibir actualizaciones de 
+inteligencia de amenazas en tiempo real.
+Segmentación de Red y Control de Acceso:
+ Funcionalidad de segmentación de red para dividir la red en zonas de 
+seguridad, limitando el acceso según el nivel de seguridad permitiendo 
+el aislamiento de activos críticos.
+ Soporte para configuración de políticas de acceso y autentificación 
+basada en usuarios o dispositivos.
+Cifrado y Seguridad de Comunicaciones:
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 12 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+12 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+ Soporte para encriptación avanzada mediante TLS e IPsec para 
+garantizar la confidencialidad y protección de los datos en tránsito.
+ Capacidad de establecer VPNs seguras para conexiones remotas de 25 
+usuarios, permitiendo acceso seguro a la red del Ayuntamiento.
+Monitorización y Registro en Tiempo Real:
+ Monitorización continua de eventos y tráfico de red, con alertas 
+automáticas ante incidentes de seguridad.
+ Registro detallado de eventos y capacidad de almacenar y exportar logs, 
+facilitando auditorías de seguridad y cumplimiento del ENS.
+ Servicio de vigilancia de eventos de seguridad generados desde los 
+firewalls y endpoints implantados en el proyecto.
+Gestión Centralizada:
+ Gestión centralizada de políticas de seguridad, análisis de eventos y 
+generación de informes de cumplimiento.
+ Interface de administración intuitiva que permita una gestión eficiente de 
+políticas de seguridad desde un único punto.
+Rendimiento y Capacidad del firewall instalado en la casa consistorial:
+ Throughput de firewall de al menos 4 Gbps.
+ Throughput de IPS de al menos 2.500Mbps.
+ Capacidad de VPN de al menos 1 Gbps para conexiones encriptadas.
+ 8 interfaces ethernet GE, de las cuales 2 como mínimo deben poder 
+configurarse como interfaces WAN.
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 13 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+13 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+4.1.2 SERVIDOR DE DOMINIO
+SITUACIÓN ACTUAL
+El servidor de dominio del Ayuntamiento cuenta con una infraestructura que no 
+cumple con los estándares actuales establecidos por el Esquema Nacional de 
+Seguridad (ENS). Esto limita su capacidad para garantizar una protección 
+adecuada de los datos y para satisfacer las exigencias normativas relacionadas 
+con la seguridad avanzada y la encriptación de la información.
+Aunque estas configuraciones han sido útiles, las demandas actuales en 
+términos de eficiencia, capacidad y seguridad hacen necesaria la 
+modernización del servidor. Una actualización permitirá incorporar sistemas 
+más avanzados, con mayores niveles de protección, rendimiento y 
+escalabilidad, asegurando así la continuidad operativa y el cumplimiento de los 
+estándares vigentes.
+OBJETIVO
+El objetivo es migrar la infraestructura desde el Centro de Procesamiento de 
+Datos (CPD) físico del AYUNTAMIENTO hacia la nube. Esta migración 
+permitirá aprovechar una infraestructura moderna que ofrece flexibilidad, 
+escalabilidad y alta disponibilidad, optimizando así los recursos tecnológicos de 
+la organización. Al trasladar los servicios a la nube, se busca mejorar la 
+eficiencia operativa, reducir los costos asociados a la gestión de servidores 
+físicos y asegurar el cumplimiento de requisitos de seguridad y normativas. 
+Este proceso de migración estará respaldado por las siguientes características 
+técnicas:
+Características del Servidor:
+ Sistema Operativo: Windows Server (versión específica según 
+necesidades del Ayuntamiento y compatibilidad con aplicaciones).
+ CPU: 4 núcleos virtuales, garantizando capacidad de procesamiento 
+para soportar las operaciones de dominio y gestión de usuarios.
+ Memoria RAM: 8 GB, suficiente para manejar las tareas y servicios 
+asociados a la gestión de dominio y autenticación.
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 14 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+14 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+ Almacenamiento: 300 GB de disco, con alta disponibilidad para 
+almacenar datos, archivos de configuración y logs esenciales del 
+servidor de dominio.
+Seguridad y Backup:
+ Backup Automatizado: Copias de seguridad diarias, almacenadas en un 
+entorno seguro y con retención de al menos 15 días.
+ Protección y Seguridad: Configuración de políticas de seguridad en línea 
+con el Esquema Nacional de Seguridad (ENS), incluyendo autenticación 
+segura, control de accesos, y cifrado de datos en tránsito y en reposo.
+Disponibilidad y Escalabilidad:
+ Alta Disponibilidad (HA): El servidor debe contar con medidas de 
+redundancia en la infraestructura de la nube para asegurar un tiempo de 
+actividad mínimo del 99.9%.
+ Escalabilidad: Opción para aumentar los recursos de CPU, RAM y 
+almacenamiento de manera flexible, en función de las necesidades 
+futuras del Ayuntamiento.
+Acceso y Gestión:
+ Acceso Remoto Seguro: Acceso al servidor a través de protocolos 
+seguros.
+ Monitorización y Soporte: Sistema de monitorización en tiempo real y 
+soporte técnico especializado para resolver incidencias en el menor 
+tiempo posible.
+Antivirus:
+La solución de protección antivirus para los servidores del Ayuntamiento 
+deberá cumplir con las siguientes características para garantizar la seguridad y 
+cumplimiento normativo:
+Licencia de Protección Avanzada:
+Tipo de Licencia: 1 licencia de Sophos Intercept X Advanced for server o 
+similar con una duración de 4 años.
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 15 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+15 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+Soporte de Plataforma: Compatible con sistemas operativos Windows Server y 
+versiones específicas en uso en el Ayuntamiento.
+Debe cumplir con las siguientes especificaciones mínimas:
+Reducción de la superficie de amenazas
+• Protección web
+• Control web
+• Reputación de descargas
+• Control de aplicaciones
+• Control de periféricos
+• Prevención de pérdida de datos
+• Bloqueo de servidor (lista de aplicaciones permitidas)
+Prevención de amenazas
+• Protección de archivos contra ransomware
+• Protección contra el ransomware remoto
+• Protección contra el ransomware que ataca el registro de arranque 
+maestro
+• Protección adaptativa contra ataques
+• Advertencias de ataques críticos en toda la infraestructura
+• Prevención de malware basada en IA con Deep Learning
+• Escaneado de archivos antimalware
+• Bloqueo de aplicaciones no deseadas (PUA)
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 16 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+16 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+• Búsquedas en la nube de Live Protection
+• Análisis de comportamientos
+• Antiexploits
+• Bloqueo de aplicaciones
+• Interfaz de escaneados antimalware (AMSI)
+• Detección de tráfico malicioso
+• Sistema de prevención de intrusiones (IPS)
+• Monitorización de integridad de archivos
+Investigación
+• Gráficos de amenazas de RCA
+Respuesta
+• Limpieza automática de malware
+• Reversión automática del cifrado de archivos del ransomware
+• Finalización automática de procesos
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 17 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+17 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+4.1.3 SERVIDOR DE FICHEROS
+SITUCACIÓN ACTUAL
+Servidor de Ficheros: El servidor de ficheros del Ayuntamiento está diseñado 
+para gestionar las aplicaciones y datos municipales, con un enfoque en el 
+rendimiento y la seguridad. Este equipo, fabricado por HP y equipado con un 
+procesador Intel Xeon Silver 4114 y 64 GB de RAM, opera con un sistema 
+operativo Windows Server. Además, utiliza Microsoft SQL Server 2014 para 
+gestionar bases de datos, IIS para servicios web administrativos y la aplicación 
+Vialine para la gestión del tráfico por parte de la Policía Local.
+Configuración de Almacenamiento
+El servidor dispone de varias unidades y particiones para diferentes propósitos:
+ C: SISTEMA
+ D: DATOS
+ F: SEGURIDAD_EXT
+ G: SEGURIDAD
+Software Instalado y Funcionalidades
+ Microsoft SQL Server 2014: Gestiona las bases de datos para 
+aplicaciones municipales esenciales.
+ IIS (Internet Information Services): Soporte para servicios web 
+administrativos.
+ ABS: Aplicación para la gestión administrativa del padrón municipal, 
+contabilidad y procesos electorales.
+ Vialine: Herramienta utilizada por la Policía Local para la gestión del 
+tráfico.
+ Antivirus ESET Server Security: Proporciona protección frente a 
+amenazas.
+OBJETIVO
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 18 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+18 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+El servidor de ficheros en la nube deberá cumplir con las siguientes 
+especificaciones para asegurar la gestión eficiente de archivos y la 
+disponibilidad de la base de datos SQL para 10 usuarios concurrentes:
+Características del Servidor:
+ Sistema Operativo: Windows Server, optimizado para manejo de 
+archivos y servicios SQL, con versiones compatibles para el entorno del 
+Ayuntamiento.
+ Base de Datos: SQL Server, con licencia y configuración para admitir 
+hasta 10 usuarios concurrentes, asegurando rendimiento y estabilidad 
+en el acceso a la base de datos.
+ CPU: 16 núcleos virtuales para una capacidad de procesamiento 
+adecuada, capaz de soportar tanto las funciones de archivo como las de 
+SQL sin degradación de rendimiento.
+ Memoria RAM: 64 GB, optimizada para permitir operaciones de consulta 
+y transacciones en SQL y mantener la eficiencia en el almacenamiento 
+de archivos.
+ Almacenamiento: 2 TB de disco de alta disponibilidad, suficiente para 
+archivos y la base de datos SQL, con capacidad de expansión si se 
+requiere.
+ 50 licencias CAL de usuario para permitir la conexión al servidor de 
+ficheros mediante ubicación de red de los trabajadores de la Casa 
+Consistorial
+Seguridad y Backup:
+ Backup Automatizado: Realización de copias de seguridad diarias, con 
+retención mínima de 60 días, cubriendo tanto el sistema como los datos 
+almacenados y la base de datos SQL, con opciones de restauración 
+parcial y completa.
+ Las copias de seguridad deberán realizarse en un almacenamiento 
+distinto al almacenamiento del propio servidor de ficheros.
+ Medidas de Protección: Cifrado de datos en tránsito y en reposo, 
+autenticación multifactor para accesos administrativos y políticas de 
+control de acceso.
+Disponibilidad y Escalabilidad:
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 19 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+19 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+ Alta Disponibilidad (HA): Redundancia en la infraestructura de la nube 
+para un tiempo de actividad mínimo del 99.9%.
+ Escalabilidad: Opciones para aumentar la capacidad de 
+almacenamiento, CPU y RAM de acuerdo con las necesidades del 
+Ayuntamiento.
+Acceso y Gestión:
+ Acceso Remoto Seguro: Acceso para usuarios y administradores 
+mediante protocolos seguros (RDP y autenticación multifactor).
+ Monitorización y Soporte: Monitorización continua en tiempo real y 
+soporte técnico especializado para una gestión eficiente y resolución 
+rápida de incidencias.
+Antivirus:
+La solución de protección antivirus para los servidores del Ayuntamiento 
+deberá cumplir con las siguientes características para garantizar la seguridad y 
+cumplimiento normativo:
+Licencia de Protección Avanzada:
+Tipo de Licencia: 1 licencia de Sophos Intercept X Advanced o Similar para 
+Servidor con una duración de 4 años.
+Debe cumplir con las siguientes especificaciones mínimas:
+Reducción de la superficie de amenazas
+• Protección web
+• Control web
+• Reputación de descargas
+• Control de aplicaciones
+• Control de periféricos
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 20 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+20 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+• Prevención de pérdida de datos
+• Bloqueo de servidor (lista de aplicaciones permitidas)
+Prevención de amenazas
+• Protección de archivos contra ransomware
+• Protección contra el ransomware remoto
+• Protección contra el ransomware que ataca el registro de arranque 
+maestro
+• Protección adaptativa contra ataques
+• Advertencias de ataques críticos en toda la infraestructura
+• Prevención de malware basada en IA con Deep Learning
+• Escaneado de archivos antimalware
+• Bloqueo de aplicaciones no deseadas (PUA)
+• Búsquedas en la nube de Live Protection
+• Análisis de comportamientos
+• Antiexploits
+• Bloqueo de aplicaciones
+• Interfaz de escaneados antimalware (AMSI)
+• Detección de tráfico malicioso
+• Sistema de prevención de intrusiones (IPS)
+• Monitorización de integridad de archivos
+Investigación
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 21 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+21 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+• Gráficos de amenazas de RCA
+Respuesta
+• Limpieza automática de malware
+• Reversión automática del cifrado de archivos del ransomware
+• Finalización automática de procesos
+4.1.4 END POINTS
+SITUACIÓN ACTUAL
+Para asegurar la continuidad en la protección de los equipos del 
+AYUNTAMIENTO, es necesario presupuestar la renovación de las 95 licencias 
+de antivirus para los PCs, considerando un período de cobertura a partir del 12 
+de mayo de 2025.
+Esta previsión garantizará que los sistemas mantengan un nivel de seguridad 
+adecuado frente a amenazas avanzadas, cumpliendo con las normativas de 
+protección de datos y seguridad de la información. La nueva licitación deberá 
+incluir el costo estimado de la renovación y cualquier actualización tecnológica 
+necesaria para los antivirus en función de los requisitos de seguridad vigentes.
+OBJETIVO
+La solución de protección antivirus para los equipos informáticos del 
+Ayuntamiento deberá cumplir con las siguientes características para ofrecer 
+seguridad avanzada y cumplimiento normativo
+Licencia de Protección Avanzada:
+o Tipo de Licencia: 95 licencias de Sophos Intercept X Advanced para 
+PCs o similar, con una duración de 4 años.
+o Compatibilidad: Compatible con sistemas operativos Windows y macOS 
+en versiones en uso en los equipos del Ayuntamiento.
+Debe cumplir con las siguientes especificaciones mínimas:
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 22 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+22 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+Reducción de la superficie de amenazas
+• Protección web
+• Control web
+• Reputación de descargas
+• Control de aplicaciones
+• Control de periféricos
+• Prevención de fugas de datos
+• Bloqueo de servidor (lista de aplicaciones permitidas)
+Prevención de amenazas
+• Protección contra archivos de ransomware
+• Protección contra el ransomware remoto
+• Protección contra el ransomware que ataca el registro de arranque 
+maestro
+• Protección adaptativa contra ataques
+• Advertencias de ataques críticos en toda la infraestructura
+• Prevención de malware basada en IA con Deep Learning
+• Escaneado de archivos antimalware
+• Bloqueo de aplicaciones no deseadas (PUA)
+• Búsquedas en la nube de Live Protection
+• Análisis de comportamientos
+• Antiexploits
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 23 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+23 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+• Bloqueo de aplicaciones
+• Interfaz de escaneados antimalware (AMSI)
+• Detección de tráfico malicioso
+• Sistema de prevención de intrusiones (IPS)
+• Monitorización de integridad de archivos
+Investigación
+• Gráficos de amenazas de RCA
+Respuesta
+• Limpieza automática de malware
+• Reversión automática del cifrado de archivos del ransomware
+• Finalización automática de procesos
+4.1.5 RED LAN
+SITUACIÓN ACTUAL
+La infraestructura de red del Ayuntamiento de Santoña requiere una 
+modernización para cumplir con los estándares de seguridad y gestión exigidos 
+por el Esquema Nacional de Seguridad (ENS). Actualmente, los switches 
+instalados de distintos fabricantes presentan limitaciones en aspectos críticos 
+como la seguridad avanzada, la gestión centralizada y el control de acceso.
+OBJETIVO
+Con el propósito de modernizar la infraestructura de comunicaciones del 
+Ayuntamiento, se plantea una solución de conmutación basada en switches de 
+alto rendimiento (Aruba 6000 o modelos equivalentes). Se debe conseguir una 
+propuesta proporcionando una red robusta, segura y escalable, optimizada 
+para soportar el crecimiento de los servicios digitales y garantizar la continuidad 
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 24 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+24 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+operativa, cumpliendo además con los requisitos y buenas prácticas definidos 
+por el Esquema Nacional de Seguridad (ENS).
+Esta propuesta responde a las necesidades actuales de la infraestructura de 
+red, proporcionando dispositivos que aseguren una gestión eficiente del tráfico, 
+una conectividad confiable y características avanzadas de seguridad. Las 
+especificaciones técnicas garantizan un alto rendimiento en el manejo de datos 
+y la escalabilidad necesaria para futuras demandas tecnológicas.
+Con esta actualización, se busca optimizar las operaciones diarias del 
+Ayuntamiento y asegurar una infraestructura preparada para los desafíos 
+actuales y futuros en materia de conectividad y seguridad. Para ello se 
+requieren 9 SWITCHES Aruba 6000 o modelos similares de 24 Puertos 
+PoE.
+Características Generales del Switch:
+ Cantidad de Puertos: 24 puertos Ethernet 10/100/1000 Mbps para 
+conexiones de dispositivos en red.
+ Puertos de Uplink: Mínimo de 4 puertos SFP para conectividad de 
+enlaces ascendentes de 1 Gbps.
+ Capacidad de Switching: Capacidad mínima de switching de 56 Gbps, 
+permitiendo manejar grandes volúmenes de datos sin pérdida de 
+rendimiento.
+Seguridad en la Red:
+ Autenticación de Usuarios y Dispositivos (802.1X): Compatibilidad con el 
+estándar 802.1X para autenticación segura de dispositivos conectados, 
+controlando y restringiendo el acceso a usuarios autorizados.
+ Listas de Control de Acceso (ACLs): Soporte para ACLs basadas en IP y 
+MAC para definir políticas de acceso, mejorando la seguridad de la red y 
+protegiendo activos críticos.
+ Protocolos de Gestión Segura: Compatibilidad con SSH, SSL y SNMPv3 
+para asegurar la transmisión y gestión de datos de manera encriptada y 
+protegida.
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 25 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+25 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+Segmentación de la Red y Gestión de Tráfico:
+ Soporte para VLANs (Redes Locales Virtuales): Capacidad para 
+configurar múltiples VLANs, permitiendo segmentar la red y aislar zonas 
+de seguridad, en cumplimiento con los principios de segmentación del 
+ENS.
+ Calidad de Servicio (QoS): Priorización de tráfico para servicios críticos, 
+asegurando la disponibilidad y la calidad del servicio en comunicaciones 
+de alta prioridad.
+Función PoE:
+ Hasta 740 W de PoE IEEE 802.3at de clase 4 para hasta 30 W por 
+puerto.
+Instalación en las siguientes ubicaciones:
+ Policía Local: 1 SWITCH Aruba 6000 de 24 puertos PoE o similar.
+Dirección: Calle El Parque, 0 S/N, 39740 Santoña 
+Sustituir: Switch TP-Link TL-SG1024 (sin PoE).
+ Sede Servicios Sociales. 1 SWITCHES Aruba 6000 de 24 puertos PoE o 
+similar.
+Dirección: Calle Gral. Sagardía, 15, 39740 Santoña, Cantabria
+Sustituir: Switch TPLINK TL-SG1024. 
+ Sede la Casa de Cultura y la Biblioteca. 2 SWITCHES Aruba 6000 de 24 
+puertos PoE o similar.
+Dirección:  PL CAMILO JOSE CELA, 1, CASA DE CULTURA ANTIGUO 
+ALFONSO XII 7, Esc. E, 0º, 1, SANTOÑA, 39740, CANTABRIA
+Sustituir: 2 switches TP-LINK TL-SG1024 
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 26 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+26 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+ Casa de la Juventud. 2 SWITCHES Aruba 6000 de 24 puertos PoE o 
+similar.
+Dirección:  C. Baldomero Villegas, 11, 39740 Santoña, Cantabria
+Sustituir: 2 switches TP-LINK TL-SG1024
+ Ayudantía de Marina. 1 SWITCHES Aruba 6000 o similar.
+Dirección: PS PEREDA 1, CAPITANIA DE MARINA, Esc. E, 0º, 1, SANTOÑA, 
+39740, CANTABRIA
+Sustituir: Switch TP-LINK TL-SG1024
+ Foresant. 2 SWITCHES Aruba 6000 de 24 puertos PoE o similar.
+Dirección: Calle Turbaco, Polígono Santoña, 39740, Cantabria
+EDIFICIO SEDE MUNICIPAL SWITCH
+AYUDANTIA DE MARINA Radio Municipal 1
+CABALLERIZAS DEL PALACIO DE 
+MANZANEDO Policía Local 1
+CABALLERIZAS DEL PALACIO DE 
+MANZANEDO 2 Servicios Sociales 1
+CASA DE CULTURA Sede Casa De Cultura 2
+CASA DE LA JUVENTUD Casa de la Juventud 2
+FORESANT
+Sede FORESANT Agencia de 
+Desarrollo Local 
+Mancomunidad Municipios 
+Sostenibles y ALMACÉN 
+MUNICIPAL
+2
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 27 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+27 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+4.1.6 CORREO ELECTRÓNICO
+SITUACIÓN ACTUAL
+En la actualidad el Ayuntamiento dispone de 140 buzones de correo repartidos 
+en dos dominios del Ayuntamiento de Santoña en el proveedor cloud OVH. 
+Este sistema de correo se ha quedado algo obsoleto al prestar únicamente un 
+servicio POP, lo que no permite disponer de una sincronización y coherencia 
+de uso de correo electrónico en los usuarios con múltiples dispositivos, algo 
+muy común hoy en día. Además, tampoco se cuenta con un sistema fiable de 
+filtrado spam ni hay funcionalidades de agenda ni contactos. Es por ello que la 
+nueva solución debe incluir un nuevo sistema de correo electrónico que mejora 
+ostensiblemente el servicio actual. Los 140 buzones actuales son de una 
+capacidad de 5gb como máximo.
+OBJETIVO
+Para satisfacer las necesidades del AYUNTAMIENTO El servicio de correo 
+electrónico para 140 buzones de correo a incluir en la propuesta debe cumplir 
+con los siguientes requisitos:
+ Servicio POP/IMAP/WEBMAIL integrados
+ Panel web central de gestión
+ Posibilidad de gestión de alias y desvíos
+ Filtrado spam y virus
+ 140 buzones de 10Gb de capacidad con opción de ampliación si fuera 
+necesario
+ Capacidad de adjuntos hasta 50Mb
+ Servicio de calendario y libreta de direcciones con sincronización entre 
+dispositivos
+ Firma digital de los mensajes
+ Doble factor de autenticación en el acceso web
+ Informe de cuarentena personalizado y configurable por usuario
+ Basados en tecnología estándar carddav/caldav 
+Se debe incluir en la propuesta de correo electrónico las labores de migración 
+desde el proveedor actual hacia la nueva solución de correo electrónico
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 28 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+28 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+CONTENIDO DE LA PROPUESTA
+Las propuestas deberán incluir, como mínimo, la siguiente documentación, 
+además de cualquier otro material que se considere relevante:
+Servicios de Conectividad
+Informe describiendo la configuración de la red de datos corporativa, la 
+arquitectura de la solución propuesta y las características de la herramienta de 
+monitorización de la red.
+Servicios de Datos
+Informe especificando las soluciones ofertadas para los servicios adicionales 
+de seguridad, incluyendo las tecnologías empleadas y la configuración de estos 
+servicios.
+Informe sobre el sistema de gestión de incidencias.
+Esta documentación permitirá evaluar la idoneidad y viabilidad de las 
+soluciones propuestas por los licitadores.
+CONDICIONES DE EJECUCIÓN
+Las operaciones que requieran la interrupción de sistemas o equipos deberán 
+realizarse en los horarios establecidos por el Ayuntamiento. Esto incluye 
+horarios nocturnos y cualquier día de la semana, ya sea laborable o festivo. 
+Para ello, el adjudicatario, en coordinación con el Ayuntamiento, programará la 
+intervención indicando la fecha en que se llevará a cabo.
+Cuando la naturaleza de la incidencia o intervención lo requiera, será 
+obligatoria la presencia física de personal técnico en los horarios determinados 
+por el Ayuntamiento, incluidos horarios nocturnos y cualquier día de la semana, 
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 29 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+29 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+laborable o festivo. La programación de estas intervenciones será acordada 
+entre el adjudicatario y el Ayuntamiento, indicando el día previsto para su 
+realización.
+En la ejecución de los trabajos comprendidos en este contrato, será obligatorio 
+cumplir con toda la normativa técnica vigente, así como con cualquier nueva 
+regulación que pudiera entrar en vigor durante el período de ejecución del 
+contrato.
+MANTENIMIENTO DE LOS SERVICIOS
+El mantenimiento deberá ser integral y abarcar todos los servicios contratados 
+con las siguientes características generales:
+ Mantenimiento completo de toda la instalación proporcionada por el 
+adjudicatario
+ Disponibilidad del servicio las 24 horas del día, los 7 días de la semana.
+ Soporte técnico directo de técnicos certificados en horario laboral de 
+lunes a viernes de 08:00 a 19:00 con tiempo de respuesta inferior a 1 
+hora para consultas o peticiones
+ 4 visitas presenciales insitu para revisión presencial de la infraestructura 
+y entrega de un informe de salud de la infraestructura de sistemas y 
+comunicaciones
+ Línea telefónica de contacto para atender situaciones de interrupción o 
+fallos críticos.
+Además de estas características comunes, cada tipo de servicio incluirá 
+especificaciones particulares:
+Servicios de Conectividad
+Este apartado abarca todos los elementos necesarios para la interconexión de 
+las dependencias municipales, el acceso a internet y la red SARA.
+El adjudicatario del contrato de servicios de conectividad será el responsable 
+de atender las incidencias relacionadas con la conexión a internet y la 
+interconexión entre las sedes.
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 30 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+30 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+Dispondrá de un Plan de Calidad del Servicio deberá incluir, como mínimo, los 
+siguientes aspectos:
+Informes Periódicos:
+ Compromiso de facilitar informes mensuales detallados que incluyan 
+facturación, tráfico y utilización real.
+ Informes en formato papel y soporte magnético (Excel), entregados por 
+correo electrónico o mediante acceso directo vía web.
+Niveles de Calidad Garantizados:
+Criterios de prestación y rendimiento, condiciones que garanticen la seguridad 
+y confidencialidad según la Orden ITC/912/2006 de 29 de marzo.
+Indicadores clave:
+ Proporción de accesos de usuario con éxito.
+ Proporción de transmisiones de datos fallidas.
+ Velocidad de transmisión alcanzada.
+Autocontrol:
+ Propuesta de mecanismos de autocontrol que aseguren el cumplimiento 
+de los criterios anteriores durante la vigencia del contrato.
+ Medios técnicos para monitorizar la calidad de los servicios.
+Capacidad Técnica:
+Disponibilidad y proximidad geográfica del personal técnico con un tiempo de 
+respuesta no superior a 60 minutos.
+Gestión de Incidencias:
+ Parámetros para la gestión de incidencias y tramitaciones 
+administrativas como altas, bajas y cambios.
+ Procedimientos claros para informar al Ayuntamiento sobre las 
+incidencias relacionadas con los niveles de calidad garantizados.
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 31 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+31 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+Tiempos de Resolución:
+Resolución de incidencias en horario:
+ Incidencias notificadas entre las 08:00 y las 20:00: resolución en un 
+plazo máximo de 48 horas laborables. 
+ Incidencias notificadas entre las 20:00 y las 08:00: resolución en un 
+plazo máximo de 48 horas laborables, comenzando el cómputo a partir 
+de las 08:00 del siguiente día laborable.
+Alta de un nuevo enlace: máximo 10 días laborables desde la solicitud del 
+Ayuntamiento.
+Servicios de Datos
+El alcance abarca el mantenimiento de los componentes, tanto de software 
+como de hardware, asociados a los servicios de datos, incluyendo el firewall, 
+los switches, el antivirus, los servidores, las soluciones de respaldo (backups) y 
+el correo electrónico.
+Niveles de Servicio
+Los niveles de servicio serán definidos en función de la prioridad, urgencia e 
+importancia de cada solicitud. Las incidencias se clasificarán según su 
+criticidad de la siguiente forma:
+ Crítica:
+Afecta al 100% de los usuarios debido a una caída o mal funcionamiento 
+generalizado de los sistemas.
+ Prioritaria:
+El problema tiene un impacto significativo en un grupo considerable de 
+usuarios, aunque no afecta al sistema completo. Por ejemplo, la caída 
+de un servicio específico sin comprometer el servicio global.
+ Normal:
+Impacto bajo o imperceptible para los usuarios. Incluye fallos menores 
+con poca incidencia en la funcionalidad del sistema.
+ Consultas y Peticiones:
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 32 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+32 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+Solicitudes relacionadas con información o requerimientos específicos sin 
+impacto directo en los servicios operativos.
+Con esta estructura, el mantenimiento asegura una respuesta eficiente y 
+adecuada a las necesidades de cada servicio y tipo de incidencia.
+Definición de Tiempos de Respuesta y Resolución
+ Tiempos de Respuesta: Se refiere al periodo que transcurre desde que 
+se comunica una incidencia a través de los canales establecidos hasta 
+que el adjudicatario se pone a disposición del departamento de 
+informática para iniciar la solución, ya sea mediante conexión remota o 
+presencialmente en las instalaciones donde se encuentre el equipo 
+afectado.
+ Tiempos de Resolución: Es el periodo entre la confirmación por parte del 
+adjudicatario de haber recibido la incidencia y la resolución efectiva de la 
+misma.
+Niveles de Servicio Requeridos
+Los niveles de servicio exigidos están detallados en la siguiente tabla, según el 
+nivel de criticidad:
+Casos Críticos
+ Tiempo máximo de respuesta/recogida de datos: 1 hora (cumplimiento 
+del 95%).
+ Tiempo máximo de resolución: 4 horas (cumplimiento del 95%).
+Casos Prioritarios
+ Tiempo máximo de respuesta/recogida de datos: 2 horas (cumplimiento 
+del 95%).
+ Tiempo máximo de resolución: 8 horas (cumplimiento del 95%).
+Casos Normales
+ Tiempo máximo de respuesta/recogida de datos: 2 horas (cumplimiento 
+del 95%).
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 33 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+33 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+ Tiempo máximo de resolución: 24 horas (cumplimiento del 95%).
+Casos de Consulta
+ Tiempo máximo de respuesta/recogida de datos: 2 horas (cumplimiento 
+del 95%).
+ Tiempo máximo de resolución: 48 horas (cumplimiento del 95%).
+Estos tiempos garantizan una atención ágil y eficaz acorde a la importancia y 
+urgencia de cada incidencia.
+OBLIGACIONES Y RECURSOS ASIGNADOS
+Servicios de Conectividad
+El adjudicatario debe estar registrado como operador en la CNMC (Comisión 
+Nacional de los Mercados y de la Competencia), permitiendo la portabilidad de 
+la numeración del Ayuntamiento hacia su red.
+Servicios de Datos
+La empresa adjudicataria deberá contar con las siguientes certificaciones:
+ Veeam Sales Professional
+ Veeam Technical Sales Professional
+ Certificación en el Esquema Nacional de Seguridad, nivel medio
+En relación con los recursos asignados, el personal técnico encargado de 
+configurar los servicios de datos deberá disponer de las siguientes 
+certificaciones:
+ Certificación como Veeam Certified Engineer
+ Certificación en las tecnologías de software incluidas en la solución 
+propuesta.
+ Certificación en las tecnologías de hardware asociadas a la solución 
+ofertada, como firewalls, routers, switches u otros dispositivos de red.
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 34 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+34 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+Asimismo, se establece que todas las empresas licitantes deberán 
+comprometerse a asignar los recursos humanos y materiales necesarios para 
+garantizar la correcta ejecución del contrato.
+PLAZO
+Servicio de Conectividad
+El contrato tendrá una duración inicial de cuatro (4) años.
+Servicio de Datos
+El contrato también tendrá una vigencia de cuatro (4) años.
+El tiempo máximo para la configuración y puesta en funcionamiento será de 20 
+semanas.
+PRESUPUESTO BASE DE LICITACIÓN Y VALOR ESTIMADO DEL 
+CONTRATO
+Desglose de los servicios de ALTA y Mensualidades.
+Concepto Unidades Precio un. Cuota mensual (IVA no incluido) Precio un. (IVA INCLUIDO) Cuota mensual (IVA INCLUIDO)
+ALTA DEL SERVICIO 1      36.000,00 € 36.000,00 €          43.560,00 € 43.560,00 €
+MENSUALIDAD 48        4.150,00 € 199.200,00 €            5.021,50 € 241.032,00 €
+Total acumulado 235.200,00 € 284.592,00 €
+El presupuesto de gasto máximo o indicativo que se prevé para el contrato, 
+derivado de la presente contratación, será de 235.200,00 Euros sin contar el 
+I.V.A., 284.592,00 Euros I.V.A. Incluido.
+En el ejercicio 2026 se dispone del importe de 55.000 euros (IVA incluido). El 
+coste del alta del servicio, por importe de 43.560 euros (IVA incluido), así como 
+las dos primeras mensualidades del contrato, imputándose el resto del gasto a 
+los ejercicios presupuestarios sucesivos, de acuerdo con el carácter plurianual 
+de la contratación.
+La tabla presenta la estructura del plan de servicio para el contrato, organizada 
+en capítulos, apartados y subapartados que cubren desde la planificación inicial 
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026
+
+--- página 35 ---
+2026/2053   
+AYUNTAMIENTO
+de
+SANTOÑA
+(Cantabria)
+35 de 35
+Domicilio: C/ Manzanedo, 27. – 39740 SANTOÑA – Tlfno. 942 62 85 90 – Fax. 942 67 13 97
+hasta el mantenimiento y soporte continuo, especificando componentes, 
+requisitos técnicos y documentación para cada fase del proyecto que hay pre 
+presentar.
+Limitaciones de Extensión de la Oferta Técnica
+La Oferta Técnica debe cumplir con las siguientes restricciones de extensión y 
+formato:
+- Resumen Ejecutivo: Máximo de 4 páginas.
+- Memoria Técnica: Máximo de 50 páginas.
+Formato:
+- Tamaño de hoja: A4
+- Tipo de letra: Arial o similar, tamaño mínimo 11 puntos
+- Márgenes: mínimo 2 cm en cada borde
+10.FACTURACIÓN
+La facturación será mensual según el importe ofertado, iniciándose cuando 
+todos los servicios estén operativos. Cualquier ajuste o situación especial se 
+acordará entre el adjudicatario, el proveedor anterior y el AYUNTAMIENTO. 
+Penalizaciones por incumplimientos se descontarán de la factura. Los servicios 
+deben estar entregados y aprobados por el AYUNTAMIENTO para ser 
+facturados. La facturación se emitirá dentro de los 5 días hábiles tras finalizar el 
+mes de servicio.
+En Santoña, a la fecha de la firma electrónica.
+Fdo. Ernesto Mansilla Castro
+Técnico del Departamento de Informática
+Puede comprobar la validez de este documento utilizando el Servicio de Verificación de documentos electrónicos disponible en la sede electrónica de
+esta entidad. En el Servicio de Verificación debe informar el Código Seguro de Validación de este documento
+ 
+Código Seguro de Validación 9059cb3fa42046859160f406b2b1a2e0001
+Url de validación https://sedesantona.simplificacloud.com
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+Ernesto Mansilla Castro 06/08/2026

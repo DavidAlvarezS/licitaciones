@@ -1,0 +1,908 @@
+
+
+--- página 1 ---
+AYUNTAMIENTO DE VILLANUEVA DE LOS 
+INFANTES
+(Ciudad Real)
+PLIEGO DE PRESCRIPCIONES TÉCNICAS
+CONTRATACIÓN DEL SERVICIO INTEGRAL DE COMUNICACIONES
+Telefonía fija, móvil, acceso a datos e internet
+CPV: 64210000 - Servicios telefónicos y de transmisión de datos
+CPV: 64212000 - Servicios de telefonía móvil
+CPV: 72400000 – Servicios de Internet
+CPV: 32420000 – Equipo de redes 
+CPV: 48730000 – Paquetes de software de seguridad 
+Procedimiento: Abierto | Tipo: Contrato de Servicios
+Presentación de ofertas: Electrónica a través de PLACSP
+Documento firmado electrónicamente. Código Seguro de Verificación: UiUe29PxreQrJSGRPvbX
+Firmado por Técnico de Informática ANGEL MIGUEL LEAL BAOS el 20/10/2026 12:54:44
+El documento consta de 21 página/s. Página 1 de 21
+
+
+--- página 2 ---
+PPT – Servicio Integral de Comunicaciones Ayto. Villanueva de los Infantes
+Página 2
+1. OBJETO DEL CONTRATO
+El presente Pliego de Prescripciones Técnicas tiene por objeto definir las especificaciones  
+técnicas,  funcionales  y  de  calidad  que  regirán  la  contratación  del  servicio  integral  de  
+comunicaciones  del  Ayuntamiento  de  Villanueva  de  los  Infantes  (Ciudad  Real),  de  
+conformidad con lo establecido en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector 
+Público (BOE-A-2017-12902).
+El servicio comprende la prestación de los servicios de telecomunicaciones de voz (fija y  
+móvil), datos e internet, centralita virtual, suministro de terminales y mantenimiento integral  
+de todos los elementos que conforman la solución de comunicaciones del Ayuntamiento.
+Los objetivos principales de la contratación son:
+ Garantizar una alta disponibilidad de los servicios de comunicación en las mejores  
+condiciones económicas.
+ Ofertar  aplicaciones  e  infraestructuras  de  servicios  móviles  y  fijos  orientados  al 
+personal del Ayuntamiento y a los ciudadanos.
+ Modernizar,  equipar  y  comunicar  las  diferentes  dependencias  municipales,  
+implantando un sistema de telefonía integrado que responda a las necesidades de  
+gestión e integración de llamadas y nuevos servicios.
+ Optimizar los gastos en telecomunicaciones mejorando el nivel de servicio actual.
+ Asegurar  el  cumplimiento  del  Esquema  Nacional  de  Seguridad  (Real  Decreto  
+311/2022).
+A la conclusión del contrato, todas las sedes deberán estar conectadas y con funcionalidad  
+completa para el servicio de telefonía y datos en todos sus puestos.
+La clasificación CPV aplicable es:
+ 64210000 – Servicios telefónicos y de transmisión de datos.
+ 64212000 – Servicios de telefonía móvil.
+ 72400000 – Servicios de internet
+ 32420000 – Equipo de redes
+ 48730000 – Paquetes de software de seguridad
+2. DURACIÓN DEL CONTRATO
+El servicio a contratar tendrá una duración de tres (3) años, contados desde la formalización 
+del contrato, prorrogable por un (1) año adicional, previa conformidad de ambas partes, de  
+acuerdo con lo previsto en el artículo 29 de la Ley 9/2017 de Contratos del Sector Público.
+El adjudicatario se compromete a prestar los servicios requeridos en un plazo máximo de  
+treinta (30) días naturales a partir de la formalización del contrato.
+3. CONDICIONES GENERALES
+El alcance de los trabajos especificados en este pliego comprende la dotación, instalación,  
+configuración y puesta en marcha, así como la gestión y el mantenimiento de todos los  
+Documento firmado electrónicamente. Código Seguro de Verificación: UiUe29PxreQrJSGRPvbX
+Firmado por Técnico de Informática ANGEL MIGUEL LEAL BAOS el 20/10/2026 12:54:44
+El documento consta de 21 página/s. Página 2 de 21
+
+
+--- página 3 ---
+PPT – Servicio Integral de Comunicaciones Ayto. Villanueva de los Infantes
+Página 3
+elementos constituyentes de los servicios ofertados, para garantizar su plena operatividad,  
+que deberá mantenerse durante todo el periodo de vigencia del contrato. Incluye asimismo el 
+servicio de atención a los usuarios para la atención de consultas e incidencias de uso.
+La solución propuesta por la empresa adjudicataria deberá estar formada por elementos y  
+sistemas de última generación. En todo momento se buscará la convergencia en los servicios 
+de voz y datos, tanto a nivel de móvil como de fijo, persiguiendo una integración total de redes 
+y servicios que permita a los usuarios un manejo transparente de estas tecnologías.
+La prestación del servicio de telefonía, tanto móvil como fija, datos en movilidad y conexiones 
+a internet en las diferentes dependencias, mantendrán su actual numeración. En particular,  
+se conservarán los números fijos (926...) de las distintas sedes y la numeración de los  
+terminales móviles que actualmente tiene el Ayuntamiento.
+Es necesario y obligado incluir todos los costes que pueda tener la solución presentada, y  
+cuantificarlos en la oferta económica: mantenimiento, intervenciones de personal, costes de  
+nuevas altas, cuotas de alquiler de equipos, cuotas por terminales, cuotas por número fijo,  
+por fibra óptica o por cualquier tipo de servicio que implique un gasto para el Ayuntamiento.
+No serán admitidas aquellas propuestas cuya aplicación, a juicio del Ayuntamiento, suponga 
+un menoscabo de la calidad del servicio actual ni que conlleve la desaparición de alguna  
+funcionalidad existente.
+Las altas o bajas que se produzcan durante la vigencia del contrato se incluirán en el servicio 
+correspondiente y se regirán por las mismas condiciones del contrato. Ninguna baja de línea 
+o servicio supondrá penalización económica alguna para el Ayuntamiento.
+3.1 Normativa aplicable
+El adjudicatario deberá cumplir con la siguiente normativa:
+ Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (BOE-A-2017-12902).
+ Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de  
+Seguridad (ENS).
+ Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018, de 5 de diciembre, de  
+Protección de Datos Personales y garantía de los derechos digitales.
+ Legislación sectorial de telecomunicaciones vigente.
+Se requiere que el licitador acredite el cumplimiento del Esquema Nacional de Seguridad  
+(ENS) en nivel medio o alto del sistema de información, mediante certificado emitido por el  
+Centro Criptológico Nacional o entidad equivalente reconocida, antes del inicio del servicio.
+3.2 Confidencialidad y protección de datos
+Tanto los licitadores como el adjudicatario se comprometen a dar un trato reservado y  
+confidencial a toda la información que pudieran obtener del Ayuntamiento, a procurar su  
+custodia y a no divulgarla, estando obligados incluso después de finalizar el contrato. El  
+servicio debe garantizar el cumplimiento de la legislación vigente en materia de protección de 
+datos de carácter personal.
+Documento firmado electrónicamente. Código Seguro de Verificación: UiUe29PxreQrJSGRPvbX
+Firmado por Técnico de Informática ANGEL MIGUEL LEAL BAOS el 20/10/2026 12:54:44
+El documento consta de 21 página/s. Página 3 de 21
+
+
+--- página 4 ---
+PPT – Servicio Integral de Comunicaciones Ayto. Villanueva de los Infantes
+Página 4
+4. PRESUPUESTO DE LICITACIÓN Y VALOR ESTIMADO
+El presupuesto base de licitación (PBL) que incluye los 3 años del contrato más IVA es el  
+siguiente:
+PBL Neto (sin IVA): 53.700,00 €
+PBL con IVA (21%): 64.977,00 €
+El valor estimado, contemplando los 3 años del contrato más 1 año adicional, es el siguiente:
+68.100,00€ (IVA NO INCLUIDO)  
+5. CALIDAD DEL SERVICIO
+El servicio que se demanda deberá estar operativo 24 horas al día, 7 días a la semana. La  
+empresa  adjudicataria  dispondrá  de  un  servicio  de  atención  personalizado  para  el  
+Ayuntamiento, contando con un número de teléfono fijo y móvil de persona de contacto, así  
+como un número general que tramitará las consultas técnicas o comerciales.
+El licitador incluirá en su oferta un Plan de Calidad que contemplará al menos los siguientes  
+aspectos:
+5.1 Acuerdo de Nivel de Servicio (SLA)
+Los servicios de mantenimiento y resolución de averías se proveerán dentro de un Acuerdo  
+de Nivel de Servicio. Los niveles mínimos exigidos son:
+Nivel Descripción Respuesta Resolución
+Crítica Corte total de internet o telefonía que 
+afecta a todas las sedes o servicios 
+esenciales
+30 min. 8-10 horas
+Alta Degradación severa del servicio, 
+cortes intermitentes o fallos en 
+múltiples líneas
+1 hora 24 horas
+Media Problemas parciales en extensiones 
+o líneas individuales
+2 horas 36 horas
+Baja Problemas en usuarios individuales 
+sin impacto general
+4 horas 48 horas
+Para garantizar la correcta ejecución del contrato y el cumplimiento de los Acuerdos de Nivel 
+de Servicio (SLA) exigidos, el adjudicatario deberá proveer los siguientes servicios de soporte 
+y atención al Ayuntamiento:
+Documento firmado electrónicamente. Código Seguro de Verificación: UiUe29PxreQrJSGRPvbX
+Firmado por Técnico de Informática ANGEL MIGUEL LEAL BAOS el 20/10/2026 12:54:44
+El documento consta de 21 página/s. Página 4 de 21
+
+
+--- página 5 ---
+PPT – Servicio Integral de Comunicaciones Ayto. Villanueva de los Infantes
+Página 5
+5.1.1. Centro de Atención a Usuarios (CAU) 8/5 y 24/7:
+El adjudicatario pondrá a disposición del Ayuntamiento un CAU corporativo propio para la  
+recepción, gestión, escalado y resolución de incidencias técnicas. Este servicio deberá estar 
+plenamente operativo en modalidad 8x5, para incidencias en horario laboral, y 24x7x365,  
+para la Policía Local, y será accesible, como mínimo, a través de un número de teléfono  
+gratuito y una dirección de correo electrónico específica.
+5.1.2. Nivel de Atención Especializado (Tier 2):
+La  atención  prestada  al  Ayuntamiento  será  de  carácter  profesional  y  corporativo.  Las  
+incidencias reportadas deberán ser atendidas directamente por personal técnico cualificado  
+(Nivel  2),  quedando  expresamente  prohibido  el  enrutamiento  de  las  llamadas  del  
+Ayuntamiento a centros de atención telefónica generalistas o de nivel residencial (Nivel 1)  
+que requieran largos tiempos de espera o triaje básico.
+5.1.3. Gestor de Cuenta e Interlocutor Técnico Único:
+En el momento de la formalización del contrato, el adjudicatario asignará formalmente al  
+Ayuntamiento un Gestor de Cuenta o Interlocutor Técnico Único. Esta figura actuará como  
+contacto directo y punto de escalado prioritario ante incidencias críticas (ej. cortes totales de 
+servicio en sedes principales), dudas de facturación, o necesidades de modificación del  
+servicio. El Gestor de Cuenta deberá tener capacidad ejecutiva dentro de la organización del 
+adjudicatario para movilizar recursos técnicos con inmediatez.
+5.1.4. Responsabilidad Única:
+El adjudicatario será el responsable único y exclusivo frente al Ayuntamiento de la correcta  
+prestación  de  los  servicios  y  del  estricto  cumplimiento  de  los  tiempos  de  resolución  
+estipulados en los Acuerdos de Nivel de Servicio (SLA). Esta responsabilidad será ineludible, 
+con independencia de si la infraestructura física subyacente empleada para la prestación del 
+servicio  es  de  titularidad  propia  del  adjudicatario  o  está  provista  mediante  acuerdos  
+mayoristas de acceso a redes de terceros.
+5.2 Disponibilidad mínima
+El adjudicatario garantizará los siguientes niveles de disponibilidad mensual:
+ Telefonía fija: 99% mensual.
+ Telefonía móvil: 99% mensual.
+ Acceso a internet (sedes principales): 99,5% mensual.
+ Acceso a internet (resto de sedes): 99% mensual.
+En caso de incumplimiento se aplicará una penalización del 10% de la factura mensual por  
+cada 0,1% de indisponibilidad adicional.
+En caso de que el adjudicatario no alcance los niveles de disponibilidad mensual exigidos el  
+presente Pliego, se aplicarán las siguientes penalizaciones sobre la cuota mensual del  
+servicio afectado (excluyendo impuestos), calculadas de forma acumulativa y progresiva  
+según el siguiente escalado:
+Documento firmado electrónicamente. Código Seguro de Verificación: UiUe29PxreQrJSGRPvbX
+Firmado por Técnico de Informática ANGEL MIGUEL LEAL BAOS el 20/10/2026 12:54:44
+El documento consta de 21 página/s. Página 5 de 21
+
+
+--- página 6 ---
+PPT – Servicio Integral de Comunicaciones Ayto. Villanueva de los Infantes
+Página 6
+ Incumplimiento de hasta el 0,1% respecto al objetivo marcado:  Se aplicará una  
+penalización del 5% sobre la cuota mensual del servicio.
+ Incumplimiento superior al 0,1% y hasta el 0,5%: Se aplicará una penalización del 
+15% sobre la cuota mensual del servicio.
+ Incumplimiento superior al 0,5% y hasta el 1%:  Se aplicará una penalización del  
+30% sobre la cuota mensual del servicio.
+ Incumplimiento superior al 1%: Se aplicará una penalización del 50% sobre la cuota 
+mensual del servicio afectado.
+Consideraciones adicionales:
+1. La  penalización  se  calculará  de  manera  individualizada  por  cada  sede  o  línea  
+afectada, no afectando a la totalidad del contrato salvo que la indisponibilidad sea  
+generalizada.
+2. El importe máximo total de las penalizaciones aplicables en una mensualidad no  
+superará, en ningún caso, el 50% de la factura mensual del servicio afectado, con el  
+fin de garantizar la sostenibilidad del servicio.
+3. Quedarán excluidas de estas penalizaciones las interrupciones del servicio causadas 
+por fuerza mayor, cortes programados comunicados con al menos 72 horas de  
+antelación para tareas de mantenimiento, o fallos debidos a causas ajenas a la red  
+del adjudicatario (ej. averías en los equipos terminales del propio Ayuntamiento)."  
+Cuando una misma incidencia dé lugar simultáneamente a un incumplimiento de los  
+niveles de disponibilidad mínima regulados en este apartado 4.2 y a un incumplimiento 
+de los tiempos de respuesta o resolución del Acuerdo de Nivel de Servicio regulados  
+en el apartado 14, no se aplicarán ambas penalizaciones de forma acumulativa por el 
+mismo hecho: se impondrá únicamente la de mayor cuantía de las dos. En todo caso, 
+el importe conjunto de todas las penalizaciones aplicadas en una misma mensualidad, 
+con independencia del apartado del Pliego que las origine, no podrá superar el 50% de 
+la factura mensual del servicio afectado (excluidos impuestos). 
+6. ALCANCE DE LOS TRABAJOS
+El alcance de los trabajos comprende el suministro, instalación, configuración y puesta en  
+marcha, así como la gestión y mantenimiento de todos los elementos constituyentes (tanto  
+software como hardware) que den soporte a los servicios de voz y datos contratados, hasta  
+garantizar su plena operatividad.
+Los servicios objeto del presente pliego se clasifican en:
+ Servicio de fibra óptica y acceso a datos e internet.
+ Servicio de centralita virtual IP.
+ Servicio de telefonía fija con terminales SIP y SIM.
+ Servicio de telefonía móvil.
+ Dotación de terminales móviles.
+ Convergencia de servicios de voz fijo-móvil.
+ Mantenimiento integral.
+Documento firmado electrónicamente. Código Seguro de Verificación: UiUe29PxreQrJSGRPvbX
+Firmado por Técnico de Informática ANGEL MIGUEL LEAL BAOS el 20/10/2026 12:54:44
+El documento consta de 21 página/s. Página 6 de 21
+
+
+--- página 7 ---
+PPT – Servicio Integral de Comunicaciones Ayto. Villanueva de los Infantes
+Página 7
+Correrán por cuenta del adjudicatario todos los gastos derivados de los trabajos de obra civil 
+que puedan ser necesarios para el acceso hasta las dependencias municipales, así como  
+permisos, infraestructura de red, medios de transmisión y cualquier otro elemento necesario  
+para la implantación de la solución.
+7. REQUISITOS DEL SERVICIO
+7.1 Servicio de fibra óptica y acceso a internet
+Se requiere la instalación de fibra óptica en las siguientes sedes del Ayuntamiento:
+Sede Tipo de conexión Servicios adicionales
+Ayuntamiento (Plaza Mayor, 3) 1 Fibra dedicada de 600 Mb 
+simétricos
+Backup integrado en CPE 
+con respaldo automático 
+4G + IP Fija
+Ayuntamiento (Plaza Mayor, 3) 1 Fibra simétrica FTTH 600 Mb
+Centro de la Mujer (C/Monjas y 
+Hondas 4)
+1 Fibra dedicada de 600/600 
+Mb
+Backup integrado en CPE 
+con respaldo automático 
+4G + SIP.
+Pabellón de Deportes Municipal (C/ 
+Feria 9)
+Fibra simétrica FTTH 600 Mb
+Museo Municipal (C/ Cervantes 16) Fibra simétrica FTTH 600 Mb
+Mercado Municipal (C/ Cervantes 
+16-Bajo)
+Fibra simétrica FTTH 600 Mb
+Colegio Sagrado Corazón (C/ Frailes 
+2)
+Fibra simétrica FTTH 600 Mb
+Centro de Juventud (C/ Barrería del 
+Garate 18)
+Fibra simétrica FTTH 600 Mb
+Biblioteca Municipal (C/ Gral. Pérez 
+Ballesteros 1)
+Fibra simétrica FTTH 600 Mb
+Las velocidades de conexión deberán ser, como mínimo, las indicadas en la tabla anterior.
+Servicio  de  fibra  óptica  Profesional/Corporativa  en  dependencias  del  
+Ayuntamiento y Centro de la Mujer. 
+El servicio de acceso a internet deberá ofrecer un Caudal Garantizado (CIR) equivalente al 
+100% de la velocidad nominal contratada  para ambas sedes. No se aceptarán servicios  
+basados  en  redes  de  acceso  con  sobreventa  ( oversubscription)  que  no  aseguren  la  
+disponibilidad total del ancho de banda contratado en horario de actividad administrativa.
+Garantía de continuidad y redundancia de acceso
+El adjudicatario deberá garantizar la continuidad del servicio en la sede principal mediante un 
+mecanismo de redundancia automática. El equipamiento de red suministrado deberá integrar 
+o conectar con un dispositivo de respaldo (Backup) mediante red móvil 4G/5G, proveyendo  
+Documento firmado electrónicamente. Código Seguro de Verificación: UiUe29PxreQrJSGRPvbX
+Firmado por Técnico de Informática ANGEL MIGUEL LEAL BAOS el 20/10/2026 12:54:44
+El documento consta de 21 página/s. Página 7 de 21
+
+
+--- página 8 ---
+PPT – Servicio Integral de Comunicaciones Ayto. Villanueva de los Infantes
+Página 8
+el adjudicatario el hardware y las tarjetas SIM necesarias con cobertura comprobada en la  
+ubicación de la sede.
+Ante cualquier interrupción del enlace de fibra óptica principal, el equipamiento deberá  
+conmutar automáticamente al enlace de respaldo sin intervención manual ( failover), en un  
+tiempo máximo de 30 segundos, garantizando la operatividad de los servicios de la sede.  
+Asimismo, una vez restablecido el servicio en el enlace principal, el sistema deberá retornar  
+a este de forma automática (failback).
+El tráfico de datos móviles consumido durante el tiempo que la línea de fibra se encuentre  
+fuera de servicio quedará incluido en su totalidad dentro de la cuota mensual o tarifa plana  
+contratada. En ningún caso se aplicarán costes adicionales, limitaciones de velocidad severas 
+o facturación por exceso de consumo de datos al Ayuntamiento derivados del uso de esta  
+línea de respaldo.
+Medidas de Seguridad en el Ayuntamiento y Centro de la Mujer.
+El  adjudicatario  deberá  suministrar,  instalar  y  configurar  un  dispositivo  perimetral  de  
+seguridad (Firewall de Nueva Generación / NGFW), en la sede principal del Ayuntamiento y  
+del Centro de la Mujer, que cumpla como mínimo, con las siguientes características técnicas:
+1. Rendimiento y Capacidad (Throughput):
+ Rendimiento de Firewall Stateful: Mínimo de 600 Mbps.
+ Rendimiento  con  Seguridad  Avanzada  (UTM/IPS/Antivirus  activados  
+simultáneamente): Mínimo de 300 Mbps.
+ Rendimiento VPN (Site-to-Site / IPsec): Mínimo de 300 Mbps.
+2. Conectividad e Interfaces:
+ Interfaces  Fijas: Al  menos  5  puertos  Gigabit  Ethernet  (10/100/1000  BASE-T),  
+configurables y segmentables para funciones de WAN, LAN o DMZ.
+ Soporte de Alta Disponibilidad / Backup:  Deberá contar con al menos un puerto  
+USB que soporte la conexión directa de un módem celular 3G/4G/5G, o en su defecto, 
+un puerto WAN dedicado para conectar un router de operador móvil, permitiendo la  
+función de redundancia de red (failover automático).
+3. Funcionalidades de Seguridad Avanzada (NGFW):
+ Filtrado de contenido web y control de aplicaciones (visibilidad y bloqueo en Capas 3 
+a 7).
+ Sistema  de  Prevención  y  Detección  de  Intrusiones  (IPS/IDS)  basado  en  firmas  
+actualizadas dinámicamente.
+ Protección contra código malicioso (Antivirus perimetral / Anti-malware) y control de  
+tráfico encriptado.
+ Soporte nativo para creación de túneles VPN IPsec (Site-to-Site) y VPN para usuarios 
+remotos (Client-to-Site).
+Documento firmado electrónicamente. Código Seguro de Verificación: UiUe29PxreQrJSGRPvbX
+Firmado por Técnico de Informática ANGEL MIGUEL LEAL BAOS el 20/10/2026 12:54:44
+El documento consta de 21 página/s. Página 8 de 21
+
+
+--- página 9 ---
+PPT – Servicio Integral de Comunicaciones Ayto. Villanueva de los Infantes
+Página 9
+4. Gestión, Monitorización y Licenciamiento:
+ Gestión Centralizada: El equipo deberá permitir su administración, configuración y  
+monitorización de forma centralizada mediante una plataforma de gestión unificada,  
+preferiblemente  basada  en  web  o  en  la  nube  (Cloud-Managed  o  Cloud-Ready), 
+facilitando el despliegue de políticas de seguridad sin depender exclusivamente de  
+acceso físico o mediante consola local.
+ Vigencia del Licenciamiento y Soporte (OBLIGATORIO):  El equipo suministrado  
+deberá  incluir  todas  las  suscripciones  o  licencias  de  seguridad  avanzada  (UTM 
+bundle, Advanced Security o equivalente) necesarias para mantener operativos y  
+actualizados  los  servicios  de  IPS,  Antivirus,  filtrado  web  y  soporte  técnico  del  
+fabricante. Esta licencia deberá tener la misma vigencia temporal que la duración 
+total del contrato (incluyendo prórrogas si las hubiera). El Ayuntamiento no asumirá 
+en ningún caso costes adicionales por renovación de licencias de hardware o software 
+durante el periodo de vigencia del contrato adjudicado.
+7.2 Servicio de centralita virtual IP
+El  servicio  de  telefonía  basado  en  centralita  virtual  IP  contempla  todos  los  elementos  
+necesarios  para  la  constitución  y  funcionamiento  de  la  red  corporativa  de  voz  del  
+Ayuntamiento, incluyendo el suministro y la actualización del equipamiento necesario, los  
+accesos a redes públicas, el tráfico generado y el mantenimiento.
+La centralita virtual deberá integrar todas las líneas especificadas en este pliego: teléfonos  
+SIP de sobremesa, líneas SIM de sobremesa y líneas móviles. Además, deberá permitir un  
+crecimiento de al menos el 30% en número de dispositivos sin necesidad de ampliación de  
+licenciamiento.
+Funcionalidades mínimas requeridas:
+ Operadora automática con menú de voz inicial indicando las distintas secciones.
+ Plan de numeración corta para llamadas internas entre todas las extensiones (fijas,  
+SIM de sobremesa y móviles).
+ Minutos ilimitados de llamadas a fijos y móviles nacionales.
+ Presentación de cabecera con número fijo.
+ Captura de llamadas y colas de llamadas.
+ Llamada en espera, desvío de llamadas, conferencia a tres o más.
+ Música en espera personalizable.
+ Marcación abreviada y directorio telefónico.
+ Grupos de captura y grupos de salto.
+ Devolución de llamada automática.
+ Movilidad de extensiones sin necesidad de reconfiguración.
+ Portal de gestión unificado accesible vía web para configuración en tiempo real.
+ Integración  de  puestos  fijos  Voz  IP,  centralita  Cloud  y  líneas  móviles  en  VPN.  
+Redundancia en Backup de Voz Wifi para centralita Cloud.
+ Información visual sobre la llamada en todos los terminales.
+Documento firmado electrónicamente. Código Seguro de Verificación: UiUe29PxreQrJSGRPvbX
+Firmado por Técnico de Informática ANGEL MIGUEL LEAL BAOS el 20/10/2026 12:54:44
+El documento consta de 21 página/s. Página 9 de 21
+
+
+--- página 10 ---
+PPT – Servicio Integral de Comunicaciones Ayto. Villanueva de los Infantes
+Página 10
+ Sistema de tarificación detallada por extensión con informes y estadísticas de tráfico.
+7.2.1 Servicio de grabación para Policía Local
+Para la Policía Local se requiere:
+ Servicio de grabación de llamadas automático tanto en la línea fija y extensiones  
+asociadas como en las líneas móviles de salto. El sistema deberá permitir la grabación 
+automática  y segura  sin interrupciones,  garantizando  la  continuidad  en caso  de  
+redirección o desvío de llamadas.
+ Acceso seguro a las grabaciones: almacenamiento en plataforma segura con acceso 
+controlado, permitiendo la búsqueda y recuperación por personal autorizado bajo  
+estrictas políticas de confidencialidad y trazabilidad.
+7.2.2 Plan de numeración
+Se conservará el plan de numeración pública existente en la actualidad (números 926...), de  
+manera  que  cada  extensión  sea  accesible  directamente  desde  el  exterior.  El  Plan  de  
+Numeración Privada se realizará consensuado con los responsables del Ayuntamiento. En  
+caso  de  cambio  de  operador,  deberán  indicarse  los  procedimientos  de  portabilidad  
+necesarios.
+7.2.3 Facturación
+La facturación se presentará obligatoriamente en formato electrónico a través del Punto  
+General de Entrada de Facturas Electrónicas (FACe), conforme a la normativa vigente.
+Las facturas deberán emitirse con un nivel de detalle suficiente (desglosadas de forma clara  
+por sede, tipo de servicio y línea/extensión), permitiendo al Ayuntamiento una correcta  
+imputación y control del gasto.
+Queda expresamente prohibida la facturación de cualquier importe en concepto de cuota de  
+alta, baja, modificación o actualización técnica de los servicios. Tampoco por la portabilidad  
+de números.
+Asimismo, no se admitirá la aplicación de cargos por consumos mínimos, penalizaciones por 
+bajo consumo, costes de gestión por la portabilidad de la numeración preexistente, ni costes 
+por la provisión o envío de las tarjetas SIM.
+7.3 Servicio de telefonía fija
+El servicio de telefonía fija se compone de dos tipos de terminales:
+a) Teléfonos SIP de sobremesa:
+ 3 teléfonos SIP (tipo Snom D735 o equivalente) conectados a la fibra del Centro de la 
+Mujer.
+b) Líneas SIM para teléfono de sobremesa:
+ 28 líneas SIM habilitadas para servicios de voz móvil y compatibles con la red 4G/LTE 
+(soportando tecnología VoLTE para alta calidad de voz) y el adjudicatario deberá  
+garantizar  su  plena  operatividad  y  compatibilidad  técnica con  el  parque  de  
+Documento firmado electrónicamente. Código Seguro de Verificación: UiUe29PxreQrJSGRPvbX
+Firmado por Técnico de Informática ANGEL MIGUEL LEAL BAOS el 20/10/2026 12:54:44
+El documento consta de 21 página/s. Página 10 de 21
+
+
+--- página 11 ---
+PPT – Servicio Integral de Comunicaciones Ayto. Villanueva de los Infantes
+Página 11
+terminales  de  sobremesa  fijo-móvil  actualmente  en  propiedad  del  Ayuntamiento                       
+(Adoc Neo 3850) 
+Todos los terminales fijos dispondrán de llamadas ilimitadas a móviles y fijos nacionales.
+La telefonía fija debe permitir como mínimo:
+ Identificación de llamadas.
+ Desvío de llamadas (inmediato, si comunica, por ausencia).
+ Grabación de llamadas para la línea de Policía.
+ Conferencias de tres o más personas.
+ Flexibilidad y movilidad de extensiones.
+ Escalabilidad en cuanto al incremento de líneas.
+ Llamada en espera.
+ Llamada a 3.
+ Restricción de números de destino.
+ Presentación y restricción de la identidad del llamante.
+7.4 Servicio de telefonía móvil
+Los Servicios Móviles comprenden la prestación del servicio de voz móvil y del servicio de  
+datos en movilidad. El objetivo es dotar a los usuarios del Ayuntamiento de un servicio  
+corporativo integrado en la red corporativa de voz fija. El servicio deberá ser convergente e  
+integrarse plenamente con la red corporativa de voz fija (Centralita/SIP), permitiendo, entre  
+otras  funciones,  la  marcación  mediante  un  plan  de  numeración  privado  y  corto  entre  
+extensiones fijas y móviles de la corporación de forma transparente y gratuita 
+Además, deberán implementar un sistema de seguridad del tráfico de internet en las líneas  
+con acceso a Datos, en la red pública. Sin necesidad de software por terceros. La seguridad 
+en el tráfico de internet deberá permitir una navegación segura ante; phishing, contenidos  
+maliciosos e identificación de páginas Web potencialmente dañinas, bloqueando el acceso.
+Los servicios se prestarán sobre una red propia o compartida mediante tecnología digital de  
+última generación (4G LTE / 5G). El adjudicatario deberá garantizar la cobertura en exteriores 
+en todo el término municipal y cobertura en interiores en las sedes del Ayuntamiento. 
+En caso de detectarse deficiencias de cobertura (zonas de sombra) en el interior de alguna  
+sede municipal que impidan el correcto desarrollo del trabajo, el adjudicatario estará obligado 
+a suministrar e instalar los amplificadores de señal, picoceldas o femtoceldas necesarios,  
+asumiendo todos los costes derivados.
+Las líneas móviles requeridas son las siguientes:
+Cantidad Tipo de tarifa Datos
+30 Llamadas ilimitadas a fijos y móviles nacionales 
++ datos 5G
+Datos ilimitados a 5G
+16 Llamadas ilimitadas + datos 5G 20 GB de datos a velocidad 5G
+Documento firmado electrónicamente. Código Seguro de Verificación: UiUe29PxreQrJSGRPvbX
+Firmado por Técnico de Informática ANGEL MIGUEL LEAL BAOS el 20/10/2026 12:54:44
+El documento consta de 21 página/s. Página 11 de 21
+
+
+--- página 12 ---
+PPT – Servicio Integral de Comunicaciones Ayto. Villanueva de los Infantes
+Página 12
+Total: 46 líneas móviles.
+La numeración actual de todas las líneas de tefónos móviles en uso se la proporcionará el  
+Ayuntamiento al adjudicatario, el cual, deberá mantener la numeración de dichas líneas.
+Los servicios de comunicaciones móviles deberán estar soportados por estaciones base con 
+tecnología digital de última generación (4G/5G). Se deberá garantizar la cobertura completa  
+en las sedes del Ayuntamiento y en el término municipal.
+Funcionalidades básicas del servicio móvil:
+ Plan de numeración privado único integrado con extensiones fijas.
+ Llamada directa entrante y saliente.
+ Restricciones por línea (destino, roaming, listas blancas/negras, horario).
+ Buzón de voz con notificación por SMS.
+ Transferencia, retención y desvío de llamadas.
+ Multiconferencia.
+ Herramientas de control de consumo.
+ Facturación detallada por línea.
+ Roaming activable bajo demanda.
+7.5 Convergencia de servicios de voz
+Se requiere la máxima convergencia en los servicios de voz:
+ Todas las extensiones y terminales (fijos, SIM de sobremesa y móviles) deberán  
+compartir un único plan de numeración corta.
+ Será posible transferir llamadas de manera directa y gratuita usando el plan de  
+numeración corta entre cualquier extensión fija o móvil.
+ Las llamadas entre las líneas del servicio de telefonía fija y móvil del Ayuntamiento  
+serán gratuitas.
+ Portal  de  gestión  unificada  que  permita  la  administración  y  monitoreo  tanto  de  
+comunicaciones  fijas  como  móviles,  facilitando  la  configuración  de  desvíos,  
+transferencias y grabaciones de forma centralizada.
+7.6 Terminales móviles
+Se requiere disponer de una “bolsa” de terminales que permita la renovación de los terminales 
+en uso y el suministro de dispositivos para líneas nuevas:
+Cantidad Gama Referencia orientativa
+1 Gama alta iOS iPhone 17 Pro Max 512 GB o equivalente [1]
+6 Gama alta Android Samsung Galaxy S25 5G 256 GB o equivalente [2]
+6 Gama media Android Samsung Galaxy A26 5G 256 GB o equivalente [3]
+15 Gama entrada Android Samsung Galaxy A16 5G 256 GB o equivalente [4]
+En total, el adjudicatario suministrará 28 terminales. Los terminales serán nuevos. 
+Los requisitos míninmos de los terminales son los siguientes:
+Documento firmado electrónicamente. Código Seguro de Verificación: UiUe29PxreQrJSGRPvbX
+Firmado por Técnico de Informática ANGEL MIGUEL LEAL BAOS el 20/10/2026 12:54:44
+El documento consta de 21 página/s. Página 12 de 21
+
+
+--- página 13 ---
+PPT – Servicio Integral de Comunicaciones Ayto. Villanueva de los Infantes
+Página 13
+[1] Requisitos terminal móvil gama alta IOS:
+■ Pantalla:
+ Tipo: Super Retina XDR (OLED) de 6,9 pulgadas.
+ Frecuencia de actualización adaptable hasta 120 Hz.
+ Resolución: 2.868 por 1.320 píxeles a 460 p/p.
+ Brillo: Pico de hasta 3.000 nits (exteriores).
+■ Procesador y Rendimiento:
+ Chip: tecnología de 3 nm.
+ CPU: 6 núcleos (2 de rendimiento y 4 de eficiencia).
+ GPU: 6 núcleos con aceleración de trazado de rayos por hardware.
+ 16 núcleos para tareas de Inteligencia Artificial.
+ Memoria RAM: 12 GB.
+■ Sistema de Cámaras:
+ Principal: 48 MP con estabilización óptica de imagen por desplazamiento del sensor  
+de 2ª generación.
+ Ultra gran angular: 48 MP con campo de visión de 120°.
+ Teleobjetivo: 48 MP con zoom óptico de hasta 8x.
+ Cámara frontal: 18 MP con enfoque automático.
+■ Grabación de Vídeo:
+ Resolución 4K a 24, 25, 30, 60, 100 o 120 fps.
+■ Conectividad y Puertos:
+ Redes: 5G (sub‑6 GHz) con tecnología MIMO 4x4.
+ Wi-Fi: Wi-Fi 7 (802.11be) con MIMO 2x2.
+ Bluetooth: Versión 5.4.
+ Conector: USB-C compatible con USB 3 (velocidad de hasta 10 Gb/s).
+■ Seguridad y Sensores:
+ Biometría: Face ID mediante cámara TrueDepth.
+ Resistencia: Calificación IP68 (hasta 6 metros de profundidad durante 30 minutos).
+■ Autonomía:
+ Batería de iones de litio recargable integrada.
+ Carga rápida: Hasta un 50% de carga en aproximadamente 20-30 minutos con  
+adaptador de 40W o superior.
+■ Capacidad:
+ 512 GB de almacenamiento interno.
+Documento firmado electrónicamente. Código Seguro de Verificación: UiUe29PxreQrJSGRPvbX
+Firmado por Técnico de Informática ANGEL MIGUEL LEAL BAOS el 20/10/2026 12:54:44
+El documento consta de 21 página/s. Página 13 de 21
+
+
+--- página 14 ---
+PPT – Servicio Integral de Comunicaciones Ayto. Villanueva de los Infantes
+Página 14
+[2] Requisitos terminal móvil gama alta Android:
+■ Pantalla: 6,7" Super AMOLED, FHD+ (1080 x 2340), 120 Hz, Gorilla Glass 7, 800 nits, 387 
+ppp, 16M colores.
+■ Procesador: Chip de 8 núcleos con tecnología de 3nm (Snapdragon 8 Gen 4 / Exynos  
+2500 o superior) optimizado para IA.
+■ Memoria RAM: Mínimo 8 GB.
+■ Sistema de Cámaras: Triple: 50 MP (f/1.8, OIS, 1/2.76") + 8 MP (f/2.2, gran angular, 1/4.0") 
++ 2 MP (f/2.4, macro, 1/5.0").
+■ Conectividad: 5G, Wi-Fi 7, Bluetooth 5.4 y NFC para pagos móviles.
+■ Seguridad: Sensor de huella dactilar ultrasónico en pantalla y certificación IP68.
+■ Batería: Mínimo 4.000 mAh con carga rápida de 25W o superior y carga inalámbrica.
+■ Capacidad: 256 GB de almacenamiento interno.
+[3] Requisitos terminal móvil gama media Android:
+■ Pantalla: Super AMOLED de 6,5 a 6,6 pulgadas con resolución FHD+.
+■ Procesador: Octa-Core compatible con redes 5G.
+■ Memoria RAM: Mínimo 8 GB.
+■ Sistema de Cámaras:
+ Triple cámara trasera con sensor principal de 50 MP y OIS.
+ Cámara frontal de 13 MP para videoconferencias.
+■ Conectividad: 5G, Wi-Fi 5/6, Bluetooth 5.3 y ranura para MicroSD (hasta 1TB).
+■ Batería: 5.000 mAh con carga rápida de 25W.
+■ Extras: Sonido Dolby Atmos y certificación de resistencia al polvo y agua IP67.
+■ Capacidad: 256 GB de almacenamiento interno.
+[4] Requisitos terminal móvil gama entrada Android:
+■ Pantalla: LCD o Super AMOLED de 6,5 pulgadas con resolución FHD+ (90 Hz).
+■ Procesador: Procesador de 8 núcleos con módem 5G integrado.
+■ Memoria RAM: Mínimo 6 GB.
+■ Cámaras: Sistema de triple cámara con sensor principal de 50 MP.
+■ Conectividad: 5G, WiFi 5, Bluetooth 5.3, NFC, USB-C 2.0.
+■ Batería: 5.000 mAh de larga duración.
+■ Seguridad: Sensor de huella dactilar lateral.
+Documento firmado electrónicamente. Código Seguro de Verificación: UiUe29PxreQrJSGRPvbX
+Firmado por Técnico de Informática ANGEL MIGUEL LEAL BAOS el 20/10/2026 12:54:44
+El documento consta de 21 página/s. Página 14 de 21
+
+
+--- página 15 ---
+PPT – Servicio Integral de Comunicaciones Ayto. Villanueva de los Infantes
+Página 15
+7.7 Mantenimiento
+El mantenimiento de todo el equipamiento necesario para la prestación de los servicios será  
+responsabilidad del adjudicatario. El servicio de mantenimiento incluirá:
+ Supervisión permanente de los equipos.
+ Desplazamientos y mano de obra.
+ Materiales y componentes requeridos para reparar averías.
+ Sustitución de equipos averiados sin coste adicional.
+ Actualizaciones de software y firmware.
+8. PLAN DE IMPLANTACIÓN Y MIGRACIÓN
+La implantación comprende la instalación, configuración y puesta en marcha de todos los  
+elementos en cada una de las sedes. Esta fase se iniciará a la formalización del contrato y  
+tendrá  una  duración  máxima  de  30  días  naturales.  Se  valorará  un  periodo  menor  de  
+implantación.
+El licitador deberá incluir en su oferta:
+ Plan de actuación detallado con metodología, procedimientos de trabajo, tareas y  
+recursos necesarios.
+ Calendario detallado de instalaciones, configuraciones y puesta en servicio.
+ Garantía  de  que  la  puesta  en  marcha  no  supondrá  ningún  recorte  en  las  
+funcionalidades actuales.
+ Minimización del impacto en el servicio durante la migración.
+Los trabajos se realizarán de forma que alteren lo menos posible el trabajo habitual. Siempre 
+que sea estrictamente necesario el corte de un servicio, se realizará en horario de tarde/noche 
+y se fijará un máximo de 4 horas sin servicio.
+En caso de superarse los 30 días de implantación, los gastos de tramitación y tarificación del 
+operador anterior serán obligatoriamente asumidos por el adjudicatario.
+8.1 Regulación del proceso de relevo por cambio de operador
+Con el objeto de evitar que el operador saliente haga un mal uso de su posición, durante el  
+proceso de implantación el adjudicatario estará obligado a:
+ Facilitar toda la información, técnica y administrativa, necesaria para el traspaso en  
+un tiempo máximo de 4 semanas.
+ No degradar el nivel de servicio en infraestructuras que continúen en servicio.
+ No dificultar el proceso de cambio ni degradar los acuerdos de nivel de servicio  
+pactados.
+En caso de incumplimiento, el Ayuntamiento podrá aplicar una penalización del 10% de la  
+facturación media mensual de los últimos 6 meses por cada semana de retraso.
+Documento firmado electrónicamente. Código Seguro de Verificación: UiUe29PxreQrJSGRPvbX
+Firmado por Técnico de Informática ANGEL MIGUEL LEAL BAOS el 20/10/2026 12:54:44
+El documento consta de 21 página/s. Página 15 de 21
+
+
+--- página 16 ---
+PPT – Servicio Integral de Comunicaciones Ayto. Villanueva de los Infantes
+Página 16
+9. PLAN DE PROYECTO TIPO
+Se deberá incluir en la oferta un Plan de Proyecto de integración tipo que contenga al menos:
+ Inventario de componentes que conforma la solución.
+ Descripción detallada de las tareas de despliegue, implantación y configuración.
+ Planificación detallada en formato diagrama de Gantt.
+ Estimación de tiempos.
+ Identificación de puntos clave y factores críticos.
+ Plan de riesgos: identificación de riesgos potenciales, acciones de prevención o  
+mitigación.
+ Plan de pruebas para la comprobación del correcto funcionamiento.
+ Recursos necesarios, técnicos y de gestión, indicando perfiles para cada fase.
+ Documentación de seguimiento y cierre de proyecto.
+ Acuerdos de nivel de servicio y garantías.
+10. ESPECIFICACIONES GENERALES A TODOS LOS SERVICIOS
+El adjudicatario deberá disponer de personal cualificado de contacto con el Ayuntamiento que 
+será el encargado de canalizar las solicitudes realizadas. Se designará un interlocutor único  
+que canalizará todas las acciones.
+La migración desde el escenario actual de comunicaciones al nuevo deberá realizarse con el 
+mínimo impacto para los usuarios finales del servicio actual.
+El adjudicatario mantendrá un servicio accesible desde Internet para el acceso a datos de  
+tarificación,  en  el  que  se  podrá  visualizar  los  datos  de  cada  una  de  las  líneas  del  
+Ayuntamiento.
+La empresa adjudicataria facilitará al Ayuntamiento información detallada de la facturación en 
+todos los servicios en formato electrónico y dotará de la herramienta informática necesaria  
+para poder realizar consultas.
+El número de líneas de voz y datos contratados no supone una obligación rígida por parte del 
+Ayuntamiento, de tal manera que este número puede verse aumentado o disminuido en  
+función de las necesidades en cada momento.
+Disponibilidad del servicio mínima del 99% del tiempo. Garantía de no obsolescencia de los  
+sistemas, equipos y servicios durante el periodo de vigencia del contrato.
+11. REQUISITOS DE SEGURIDAD
+El adjudicatario deberá acreditar el cumplimiento del Esquema Nacional de Seguridad (ENS) 
+en nivel medio o alto, mediante certificado emitido por el Centro Criptológico Nacional o  
+entidad equivalente reconocida.
+Adicionalmente, la solución propuesta deberá contemplar:
+ Cifrado de las comunicaciones de voz y datos.
+Documento firmado electrónicamente. Código Seguro de Verificación: UiUe29PxreQrJSGRPvbX
+Firmado por Técnico de Informática ANGEL MIGUEL LEAL BAOS el 20/10/2026 12:54:44
+El documento consta de 21 página/s. Página 16 de 21
+
+
+--- página 17 ---
+PPT – Servicio Integral de Comunicaciones Ayto. Villanueva de los Infantes
+Página 17
+ Políticas de acceso seguro a los sistemas de gestión y tarificación.
+ Protección contra accesos no autorizados a la red corporativa.
+ Cumplimiento del RGPD y la LOPDGDD en el tratamiento de datos personales  
+vinculados a las comunicaciones.
+ Auditoría y trazabilidad de accesos a sistemas de grabación.
+11.1. Condición de Encargado del Tratamiento (Art. 28 RGPD y Art. 33 
+LOPDGDD)
+En la ejecución del presente contrato, y muy especialmente en la provisión del servicio de  
+centralita virtual, facturación detallada y el sistema de grabación de llamadas de la Policía  
+Local, el adjudicatario tendrá la condición legal de Encargado del Tratamiento, actuando el  
+Ayuntamiento de Villanueva de los Infantes como Responsable del Tratamiento.
+La formalización del contrato llevará implícita la aceptación del encargo de tratamiento,  
+obligándose el adjudicatario a cumplir rigurosamente con las siguientes directrices:
+ Finalidad e Instrucciones: El adjudicatario tratará los datos personales exclusivamente 
+para  la  prestación  de  los  servicios  de  comunicaciones  objeto  de  este  pliego  y  
+siguiendo  siempre  las  instrucciones  documentadas  del  Ayuntamiento.  Queda  
+terminantemente  prohibido  utilizar  los  datos  para  fines  propios,  comerciales,  
+publicitarios o cederlos a terceros.
+ Medidas de Seguridad: El adjudicatario aplicará las medidas técnicas y organizativas 
+apropiadas para garantizar un nivel de seguridad adecuado al riesgo, cumpliendo en  
+todo caso con las exigencias del Esquema Nacional de Seguridad (ENS) en la  
+categoría  requerida  en  este  pliego,  garantizando  la  confidencialidad,  integridad,  
+disponibilidad y resiliencia permanentes de los sistemas y servicios de tratamiento  
+(incluyendo el cifrado de las grabaciones policiales).
+ Subcontratación (Subencargados): En caso de que el adjudicatario necesite recurrir a 
+otros  encargados  (subcontratistas)  para  realizar  determinadas  operaciones  de  
+tratamiento (por ejemplo, alojamiento en la nube de la centralita), deberá informar  
+previamente  y  por  escrito  al  Ayuntamiento,  asumiendo  el  adjudicatario  la  plena 
+responsabilidad  sobre  el  cumplimiento  de  la  normativa  por  parte  de  dichos  
+subencargados.
+ Destino de los datos al finalizar el contrato: Una vez cumplida la prestación del  
+servicio, el adjudicatario deberá destruir o devolver al Ayuntamiento (según este  
+decida) todos los datos de carácter personal, en particular las grabaciones de voz,  
+volcados de red y registros de llamadas. Deberá certificar por escrito la completa  
+eliminación de estos datos de sus sistemas y de los de cualquier subencargado, salvo 
+que exista una obligación legal que exija su conservación bloqueada.
+Documento firmado electrónicamente. Código Seguro de Verificación: UiUe29PxreQrJSGRPvbX
+Firmado por Técnico de Informática ANGEL MIGUEL LEAL BAOS el 20/10/2026 12:54:44
+El documento consta de 21 página/s. Página 17 de 21
+
+
+--- página 18 ---
+PPT – Servicio Integral de Comunicaciones Ayto. Villanueva de los Infantes
+Página 18
+12. SOLVENCIA 
+12.1 Habilitación empresarial
+El licitador deberá estar inscrito en el Registro de Operadores de Redes y Servicios de  
+Comunicaciones Electrónicas de la Comisión Nacional de los Mercados y la Competencia  
+(CNMC), habilitado para la prestación de los servicios objeto del contrato (telefonía fija, móvil 
+y transmisión de datos)
+12.2 Solvencia Económica y Financiera
+El volumen anual de negocios del licitador, referido al año de mayor volumen de negocio de  
+los tres últimos concluidos, deberá ser al menos de 27.000 € (IVA excluido). El volumen de  
+negocios se acreditará por medio de sus cuentas anuales aprobadas y depositadas en el  
+Registro Mercantil.
+12.3 Solvencia Técnica o Profesional
+Se exigirá una relación de los principales servicios o trabajos realizados de igual o similar  
+naturaleza que los que constituyen el objeto del contrato en el curso de, como máximo, los  
+tres últimos años. El importe anual que el empresario deberá acreditar en el año de mayor  
+ejecución será igual o superior 12.250,00 € (IVA excluido). Los servicios se acreditarán  
+mediante certificados expedidos o visados por el órgano competente
+13. CUADRO RESUMEN DE SERVICIOS REQUERIDOS
+ 1 fibra profesional de 600 Mb dedicados en el Ayuntamiento con backup 4G + IP fija.
+ 1 fibra profesional de 600 Mb dedicados en el Centro de la Mujer con backup 4G +  
+conectividad SIP.
+ 7 fibras simétricas FTTH de 600 Mb en sedes municipales.
+ 3 teléfonos SIP de sobremesa (tipo Snom D735 o equivalente). 
+ 28 líneas SIM compatibles con teléfonos de sobremesa Adoc Neo 3850.
+ Centralita virtual IP integrada con capacidad de crecimiento del 30%.
+ 46 líneas móviles (30 datos 5G ilimitados + 16 datos 5G con 20GB).
+ 28 terminales móviles (1 gama alta iOS, 6 gama alta Android, 6 gama media, 15 gama 
+entrada Android).
+ Servicio de grabación de llamadas para Policía Local.
+ Portal de gestión unificado.
+ Mantenimiento integral 24×7.
+ Certificación ENS nivel medio o alto.
+ Plan de implantación con migración en un máximo de 30 días.
+Documento firmado electrónicamente. Código Seguro de Verificación: UiUe29PxreQrJSGRPvbX
+Firmado por Técnico de Informática ANGEL MIGUEL LEAL BAOS el 20/10/2026 12:54:44
+El documento consta de 21 página/s. Página 18 de 21
+
+
+--- página 19 ---
+PPT – Servicio Integral de Comunicaciones Ayto. Villanueva de los Infantes
+Página 19
+14. OBLIGACIONES DEL ADJUDICATARIO
+Sin perjuicio de las obligaciones derivadas de la Ley 9/2017 de Contratos del Sector Público  
+y demás normativa aplicable, el adjudicatario estará obligado a:
+ Ejecutar el contrato con sujeción a las cláusulas del mismo y a las indicaciones del  
+órgano de contratación.
+ Designar un responsable o interlocutor único del contrato.
+ Mantener la confidencialidad de toda la información obtenida del Ayuntamiento.
+ Poner a disposición del Ayuntamiento todas las facilidades adicionales que vaya  
+incorporando a su catálogo de servicios.
+ Garantizar la cobertura y disponibilidad en el interior de las dependencias municipales.
+ Asumir la reparación de averías con independencia de si implica sustitución de  
+equipos, desplazamiento de personal o mano de obra.
+ Disponer de los recursos humanos adecuados y suficientes para prestar apoyo y  
+soporte técnico.
+ Cumplir con la legislación vigente en materia de prevención de riesgos laborales,  
+protección de datos y seguridad de la información.
+ Durante la vigencia del contrato no procede revisión de precios.
+15. PENALIZACIONES
+Sin perjuicio de lo establecido en la Ley 9/2017 respecto a las causas de resolución del  
+contrato, se establecen las siguientes penalizaciones específicas:
+ Incumplimiento de los niveles de disponibilidad: según lo establecido en el apartado  
+4.2 del presente pliego.
+ Incumplimiento de los tiempos de respuesta y resolución del SLA: 5% de la factura  
+mensual por cada hora de retraso en la respuesta inicial a incidencias críticas, y 10% 
+por cada 2 horas de retraso en la resolución, sin que la penalización por este concepto 
+pueda superar, por sí sola, el 50% de la factura mensual del servicio afectado. Esta  
+penalización no será acumulable con la prevista en el apartado 4.2 cuando ambas  
+traigan causa del mismo hecho, aplicándose en tal caso únicamente la de mayor  
+cuantía, y sin que el conjunto de penalizaciones impuestas en una misma mensualidad 
+por cualquier concepto de este Pliego pueda exceder del 50% de la factura mensual  
+del servicio afectado. .
+ Retraso en la implantación superior a 30 días: asunción de los costes del operador  
+anterior por parte del adjudicatario.
+ Retraso en facilitar información al operador entrante: 10% de la facturación media  
+mensual de los últimos 6 meses por cada semana de retraso.
+ Más de 12 horas sin solución en incidencias críticas: derecho del Ayuntamiento a  
+rescindir el contrato sin penalización.
+Documento firmado electrónicamente. Código Seguro de Verificación: UiUe29PxreQrJSGRPvbX
+Firmado por Técnico de Informática ANGEL MIGUEL LEAL BAOS el 20/10/2026 12:54:44
+El documento consta de 21 página/s. Página 19 de 21
+
+
+--- página 20 ---
+PPT – Servicio Integral de Comunicaciones Ayto. Villanueva de los Infantes
+Página 20
+16. CRITERIOS DE ADJUDICACIÓN
+16.1 Valoración Económica: hasta 80 puntos
+La oferta no podrá superar el presupuesto base de licitación indicado en el apartado 4. La  
+valoración de la oferta económica se efectuará sin tomar en consideración el Impuesto sobre 
+el Valor Añadido.
+La puntuación obtenida por cada licitador será la resultante de la aplicación de la siguiente  
+fórmula:
+Pres. Base de la licitación –- Oferta que se evalúa 
+Puntuación de la oferta = 80 x      ------------------------------------------------------------------------
+Pres. Base de la licitación –- Oferta más económica
+16.3 MEJORAS EN SLA: hasta 12 puntos.
+SLA de Sustitución y Reparación de Terminales
+A  efectos  de  mantenimiento,  reparación  y  sustitución  de  los  dispositivos  móviles  
+suministrados durante la vigencia del contrato, se establecen los siguientes niveles de servicio 
+según la gama del terminal:
+1. Terminales de Gama Alta (SLA Next Business Day y Cobertura Integral): La exigencia 
+de un Nivel de Servicio de sustitución exprés y cobertura a todo riesgo aplicará única y  
+exclusivamente a los terminales catalogados en el pliego como 'Gama alta iOS' y 'Gama alta 
+Android' (7 dispositivos en total).
+Para estos equipos, el adjudicatario deberá proveer un servicio de sustitución con SLA Next 
+Business  Day (NBD).  Dicho  servicio  deberá  cubrir  tanto  defectos  de  fábrica  o  averías  
+técnicas, como roturas accidentales originadas por el uso habitual (incluyendo, de forma  
+expresa, roturas de pantalla, daños por caídas y daños por derrame de líquidos).
+Tras el reporte de la incidencia por parte del Ayuntamiento, el adjudicatario estará obligado a 
+entregar en la sede municipal un terminal  de sustitución de características idénticas o  
+superiores antes de la finalización del siguiente día laborable. Este servicio integral no  
+conllevará la aplicación de franquicias, gastos de envío, ni costes adicionales de ninguna  
+clase para la Administración.
+2. Resto de terminales móviles suministrados (Garantía Legal Estándar):  Para los  
+dispositivos suministrados y catalogados como  'Gama media Android'  y  'Gama entrada 
+Android', así como para cualquier otro equipamiento de usuario que no pertenezca a la gama 
+alta, no será exigible el SLA de sustitución NBD ni la cobertura por roturas accidentales o mal 
+uso.
+Estos dispositivos quedarán amparados de forma exclusiva por la garantía legal estándar del 
+fabricante frente a defectos de fábrica o averías de hardware. En caso de incidencia cubierta 
+Documento firmado electrónicamente. Código Seguro de Verificación: UiUe29PxreQrJSGRPvbX
+Firmado por Técnico de Informática ANGEL MIGUEL LEAL BAOS el 20/10/2026 12:54:44
+El documento consta de 21 página/s. Página 20 de 21
+
+
+--- página 21 ---
+PPT – Servicio Integral de Comunicaciones Ayto. Villanueva de los Infantes
+Página 21
+por dicha garantía, el adjudicatario gestionará su reparación o reemplazo asumiendo los  
+costes logísticos, pero ciñéndose a los plazos habituales del servicio técnico oficial del  
+fabricante, sin obligación de aportar un terminal de sustitución al día siguiente laborable.
+3.  Equipamiento  preexistente:  El  adjudicatario  quedará  exento  de  proporcionar  
+mantenimiento hardware, garantía o servicio de sustitución sobre el parque de terminales  
+preexistentes propiedad del Ayuntamiento (ej. terminales fijos de sobremesa Adoc Neo 3850).
+El calculo de la puntuación obtenida se realizará atendiendo a la siguiente tabla:
+Años servicio SLA terminales móviles Puntuación
+1 año 3 puntos
+2 años 7 puntos
+3 años 12 puntos
+16.4 MEJORAS FIBRA SIP: hasta 8 puntos.
+Los cambios incluidos en esta mejora serían los siguientes:
+ Configuración de un servicio de Voz sobre IP sobre la fibra del ayuntamiento “Fibra  
+dedicada de 600 Mb simétricos” que soporte, al menos, 8 puestos SIP concurrentes.  
+Estos puestos de Voz sobre IP se integrarán completamente con la centralita virtual,  
+como los puestos de telefonía fija.
+ 5 teléfonos SIP (tipo Snom D785 o equivalente) conectados a la fibra SIP, indicada en 
+el punto anterior, junto con módulo de expansión con pantalla TFT de alta resolución  
+(tipo Snom D7C o equivalente).
+ Las líneas indicadas en el apartado “6.3 – b) Líneas SIM para teléfonos de sobremesa
+pasan de 28 a 23 líneas SIM. 
+La asignación de los 8 puntos estará condicionada al cambio a SIP y la entrega de los  
+5  terminales  SIP  de  manera  conjunta,  no  puntuándose  si  no  se  incluyen  ambos 
+requerimientos.
+Las mejoras ofertadas no podrán suponer coste adicional alguno para el Ayuntamiento  
+durante la vigencia del contrato ni sus prórrogas.
+Documento firmado electrónicamente. Código Seguro de Verificación: UiUe29PxreQrJSGRPvbX
+Firmado por Técnico de Informática ANGEL MIGUEL LEAL BAOS el 20/10/2026 12:54:44
+El documento consta de 21 página/s. Página 21 de 21

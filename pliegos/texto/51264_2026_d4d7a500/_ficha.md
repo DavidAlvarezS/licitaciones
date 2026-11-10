@@ -10,7 +10,7 @@
 
 ## Documentos
 
-- [Legal] 51264-2026 PCAP.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] 51264-2026 PPT.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] ANEXO I - MODELO DE PROPOSICION.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] ANEXO IV - DECLARACION RESPONSABLE DEL CONTRATISTA AJUSTADA AL DEUC.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] 51264-2026 PCAP.pdf: 01_Legal_51264-2026_PCAP.pdf (293 KB)
+- [Technical] 51264-2026 PPT.pdf: 02_Technical_51264-2026_PPT.pdf (432 KB)
+- [Additional] ANEXO I - MODELO DE PROPOSICION.docx: 03_Additional_ANEXO_I_-_MODELO_DE_PROPOSICION.docx (64 KB)
+- [Additional] ANEXO IV - DECLARACION RESPONSABLE DEL CONTRATISTA AJUSTADA AL DEUC.docx: 04_Additional_ANEXO_IV_-_DECLARACION_RESPONSABLE_DEL_CONTRATISTA.docx (66 KB)

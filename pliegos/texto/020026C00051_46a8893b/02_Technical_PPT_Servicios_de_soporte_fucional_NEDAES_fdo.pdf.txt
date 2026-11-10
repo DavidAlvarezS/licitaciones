@@ -1,0 +1,533 @@
+
+
+--- página 1 ---
+ 
+ 
+ 
+ 
+ 
+MINISTERIO DE 
+INDUSTRIA, COMERCIO 
+Y TURISMO 
+ 
+ 
+SUBDIRECCIÓN GENERAL DE 
+GESTIÓN ECONÓMICO-
+ADMINISTRATIVA Y TECNOLOG˝AS 
+DE LA INFORMACIÓN 
+ 
+ 
+  
+ 
+ 
+www.tourspain.es 
+sgeati@tourspain.es 
+ 
+POETA JOAN MARAGALL, 
+41 
+28020 MADRID 
+TEL.: 91 343 37 01 
+FAX: 91 343 34 69 
+ 
+ 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA LA CONTRATACION, MEDIANTE 
+PROCEDIMIENTO ABIERTO SIMPLIFICADO, DE LA ASISTENCIA TÉCNICA PARA EL 
+SOPORTE FUNCIONAL DEL SISTEMA DE GESTIÓN DE LOS PAGOS DE LA NÓMINA 
+NEDAES PARA EL INSTITUTO DE TURISMO DE ESPAÑA, OA. (TURESPAÑA). 
+EXP. N” 020026C00051 
+ 
+1. OBJETO. 
+El objeto del presente contrato es el servicio durante veinticuatro meses del s oporte 
+funcional de la infraestructura de Nómina de Turespaæa, así como el servicio de soporte al anÆlisis 
+de información estadística basada en el sistema de gestión de Nómina NEDAES 6. 
+Este servicio de soporte y anÆlisis de datos, que se prestarÆ al personal de la Subdirección 
+General de Gestión Económico-Administrativa y Tecnologías de la Informaci ón, serÆ tanto 
+funcional como para el anÆlisis estadístico. 
+2. ANTECEDENTES. 
+NEDAES 6 es una aplicación de gestión de nómina, cuyos datos se gestionan a travØs de 
+un sistema de gestión de base de datos relacional ORACLE. Actualmente soport a la versión 12c 
+Release 1 (12.1.0.2.0) ó Release 2 (12.2.0.1.0) de base de datos. Los tratamientos de datos se 
+realizan a travØs de la interfaz del usuario y de un amplio conjunto de progra mas escritos en 
+lenguaje C y pro*C y PL/SQL. La plataforma sobre la que se ejecuta NEDAES es  Linux x86-64, 
+tanto para la base de datos como para los programas que componen la aplicación. 
+La instalación del sistema de Nómina NEDAES 6 y su actualización, es soportada a travØs 
+de los sistemas del Ministerio de Industria y Turismo (en adelante, MINTUR) median te la 
+contratación, cofinanciada por Turespaæa, realizada en el expediente J20.021.01 . Disponiendo 
+Turespaæa de un espacio de trabajo e intercambio de información propio, para realizar en el mismo 
+las tareas de anÆlisis de datos e intercambio de los mismos con los diferent es sistemas de 
+información de Turespaæa y el propio sistema de gestión de nómina NEDAES, así como la 
+realización de acciones de carga masiva. 
+3. PRODUCTOS RESULTANTES M˝NIMOS. 
+Los productos resultantes de la ejecución del contrato y que deben ser entregados a l a 
+Subdirección General de Gestión Económico-Administrativa y Tecnologías de l a Información 
+(SGEATI), conforme a lo expresado en el presente pliego son: 
+• Informe de seguimiento de incidencias individualizadas, incluyendo: 
+ 
+o Tipo de incidencia. 
+o Descripción. 
+o Tiempo de resolución. 
+Firmado el 21/10/2026 16:27:49 : ALICIA LILLO RAMOS, Subdirector / Subdirectora General de Subdireccion General de Gestion Economico-administrativa y Tecnologias de la Informacion.
+Código: 21361475-92417434GBSUG76X9C73 Autenticidad verificable en: https://sedeaplicaciones.serviciosmin.gob.es/Arce
+Documento electrónico, página 1 de 10.
+ALICIA LILLO RAMOS - 2026-10-26 11:07:40 CET, accion=FIRMA, dni=50868532, nombre=ALICIA LILLO RAMOS, cargo=SUBDIRECTOR / SUBDIRECTORA GENERAL, grupo=SUBDIRECCION GENERAL DE GESTION 
+ECONOMICO-ADMINISTRATIVA Y TECNOLOGIAS DE LA INFORMACION, unidad=SUBDIRECCION GENERAL DE GESTION ECONOMICO-ADMINISTRATIVA Y TECNOLOGIAS DE LA INFORMACION, organizacion=MINISTERIO DE INDUSTRIA Y TURISMO, 
+alias organizacion=ITR 
+Puede comprobar la autenticidad de esta copia mediante CSV:  OIP_V5WI2EWZJ3DIZ6ODE9KGBHGCBKBM  en https://www.pap.hacienda.gob.es
+
+--- página 2 ---
+ 
+2. 
+ 
+o Resultado. 
+ 
+• Informe mensual de propuestas de mejora del servicio. 
+• Informe trimestral de ejecución del servicio. 
+Los productos generados durante la ejecución del contrato son propiedad exclusiva d e 
+Turespaæa, sin que la empresa adjudicataria pueda conservarlos, ni obtener copia de l os mismos 
+o facilitarlos a terceros en todo o en parte sin la expresa autorización del Turespaæa, que la daría, 
+en su caso, previa petición formal del proveedor con indicación de su finalidad y destino. 
+La empresa adjudicataria deberÆ suministrar a Turespaæa las nuevas versiones de aquella 
+documentación que se modifique en función de las actualizaciones que se puedan producir. 
+Toda la documentación se entregarÆ en espaæol, debidamente comentada y estructurada, 
+en soporte digital en formato PDF/A y ademÆs, en su caso, en los siguientes formatos: 
+• Texto: ODT/DOCX 
+• Hoja de cÆlculo: ODS/XLSX 
+• Presentaciones: ODP/PPTX 
+ 
+4. CARACTER˝STICAS Y CONTENIDOS DE LOS TRABAJOS 
+Para la explotación del sistema de gestión de nómina se necesita soporte del mis mo, 
+objeto del presente contrato. Este soporte al personal del Servicio de Tesorería y Retrib uciones 
+serÆ de una parte funcional, y otra parte de soporte para el anÆlisis estadístico. E n concreto el 
+adjudicatario deberÆ proporcionar los siguientes servicios: 
+1- Servicio de soporte funcional. 
+2- Servicio de soporte al anÆlisis de datos. 
+Estos servicios deberÆn prestarse bajo demanda del Servicio de Tesorería y Retribuciones 
+en el que se encuadra la Habilitación de Turespaæa. 
+4.1. SOPORTE FUNCIONAL Y AN`LISIS DE DATOS. 
+Se prestarÆ soporte funcional a los usuarios de NEDAES, incluyendo tanto el soporte a la 
+gestión de la nómina como el soporte a la gestión de los seguros sociales, de s u personal 
+destinado en sus Servicios Centrales como del destinado en el Exterior (Consejerías de Turismo), 
+así como, el apoyo y formación funcional al personal del Servicio de Tesorería y Retribuciones de 
+la Subdirección General de Gestión Económico-Administrativa y Tecnologías de la Información . 
+En el Æmbito del presente contrato se incluye así mismo la realización de las si guientes 
+tareas: 
+• Creación de tablas, permisos y protocolos de actuación, segœn los requerimientos 
+funcionales de NEDAES 6 y sus actualizaciones. 
+ 
+• Generación y extracción de listados e informes independientes para Servicio de 
+Tesorería y Retribuciones. 
+Firmado el 21/10/2026 16:27:49 : ALICIA LILLO RAMOS, Subdirector / Subdirectora General de Subdireccion General de Gestion Economico-administrativa y Tecnologias de la Informacion.
+Código: 21361475-92417434GBSUG76X9C73 Autenticidad verificable en: https://sedeaplicaciones.serviciosmin.gob.es/Arce
+Documento electrónico, página 2 de 10.
+ALICIA LILLO RAMOS - 2026-10-26 11:07:40 CET, accion=FIRMA, dni=50868532, nombre=ALICIA LILLO RAMOS, cargo=SUBDIRECTOR / SUBDIRECTORA GENERAL, grupo=SUBDIRECCION GENERAL DE GESTION 
+ECONOMICO-ADMINISTRATIVA Y TECNOLOGIAS DE LA INFORMACION, unidad=SUBDIRECCION GENERAL DE GESTION ECONOMICO-ADMINISTRATIVA Y TECNOLOGIAS DE LA INFORMACION, organizacion=MINISTERIO DE INDUSTRIA Y TURISMO, 
+alias organizacion=ITR 
+Puede comprobar la autenticidad de esta copia mediante CSV:  OIP_V5WI2EWZJ3DIZ6ODE9KGBHGCBKBM  en https://www.pap.hacienda.gob.es
+
+--- página 3 ---
+ 
+3. 
+ 
+• Apoyo al Servicio de Tesorería y Retribuciones respecto a cÆlculos y generación de 
+nóminas del personal de Turespaæa. 
+ 
+Así mismo, se prestarÆ a los usuarios de NEDAES el soporte necesario para posibilitar el 
+anÆlisis estadístico de la información almacenada en la base de datos del sistema. 
+En estos trabajos se incluyen instalación, parametrización, mantenimiento y adaptaci ón 
+permanente de las herramientas para generación de datos de carÆcter estadístico, así com o la 
+integración, en su caso, con la instalación de NEDAES de Turespaæa. 
+El licitador tambiØn realizarÆ las tareas indicadas en este punto bajo la supervis ión de la 
+Subdirección General de Gestión Económico-Administrativa y Tecnologías de la Información. 
+Los Módulos/Aplicaciones específicos de Turespaæa, objeto del soporte funcional, ademÆs 
+de los que dispone NEDAES 6 para la gestión de la nómina del personal destinado en Servicio 
+Centrales son los siguientes: 
+- Módulo de Gestión de Nómina.  
+Controla los Pagos de Nómina integrando los pagos que deben realizarse tanto en el 
+Exterior como en Servicios Centrales correspondientes a las retribuciones por todos  
+los conceptos en NEDAES. 
+Con las siguientes funcionalidades: 
+• CÆlculo de la Nómina de Funcionarios y Laborales. 
+• Tramitación del pago en el Exterior tanto en divisa como en euros. 
+✓ Pago de la Nómina de Funcionarios. 
+✓ Pago de la Nómina de Laborales (segœn Convenio y fuera de   
+Convenio). 
+• Emisión de informes Reglamentarios. 
+• Emisión de otros informes. 
+- Módulo de Gestión de Pagos de Seguros Sociales en el  Exterior.  
+Controla los Pagos de Seguros Sociales integrando los pagos que deben realizarse 
+en 
+el Exterior correspondientes a las retribuciones por todos los conceptos en NEDAES. 
+-   Módulo para la Gestión de los accidentes con y sin baja a  travØs del sistema 
+DELTA. 
+Controla la Gestión de los accidentes de personal en el Exterior integrando su 
+información en los sistemas DELTA y NEDAES. 
+- Módulo para la Gestión de Pagos de Acción Social y subvenciones.  
+Controla los Pagos de Acción Social y subvenciones integrando los pagos que deben 
+realizarse en el Exterior correspondientes a estos conceptos en NEDAES. 
+ 
+Con las siguientes funcionalidades: 
+• CÆlculo de la Nómina en el Exterior de Funcionarios y Laborales. 
+• Pago de la Nómina de Funcionarios. 
+Firmado el 21/10/2026 16:27:49 : ALICIA LILLO RAMOS, Subdirector / Subdirectora General de Subdireccion General de Gestion Economico-administrativa y Tecnologias de la Informacion.
+Código: 21361475-92417434GBSUG76X9C73 Autenticidad verificable en: https://sedeaplicaciones.serviciosmin.gob.es/Arce
+Documento electrónico, página 3 de 10.
+ALICIA LILLO RAMOS - 2026-10-26 11:07:40 CET, accion=FIRMA, dni=50868532, nombre=ALICIA LILLO RAMOS, cargo=SUBDIRECTOR / SUBDIRECTORA GENERAL, grupo=SUBDIRECCION GENERAL DE GESTION 
+ECONOMICO-ADMINISTRATIVA Y TECNOLOGIAS DE LA INFORMACION, unidad=SUBDIRECCION GENERAL DE GESTION ECONOMICO-ADMINISTRATIVA Y TECNOLOGIAS DE LA INFORMACION, organizacion=MINISTERIO DE INDUSTRIA Y TURISMO, 
+alias organizacion=ITR 
+Puede comprobar la autenticidad de esta copia mediante CSV:  OIP_V5WI2EWZJ3DIZ6ODE9KGBHGCBKBM  en https://www.pap.hacienda.gob.es
+
+--- página 4 ---
+ 
+4. 
+ 
+• Pago de la Nómina de Laborales (segœn Convenio y fuera de Convenio). 
+• Emisión de informes Reglamentarios. 
+• Emisión de otros informes. 
+- Módulo de Generación de ficheros para carga de NEDAE S. 
+Permite la generación de ficheros de carga masiva d esatendida con las siguientes  
+funcionalidades: 
+▪ Procesos de extracción de datos (tanto para su explotación ordinaria 
+como especial). 
+▪ Carga de Normativa aplicable al personal en el Exterior. 
+▪ Carga desatendida de NEDAES. 
+▪ Emisión de informes seguimiento de las Cargas. 
+ 
+- Módulos de Gestión de informes de seguimiento y control de Habilitación. 
+Permite la generación de informes bajo demanda integrados en NEDAES. 
+A efectos de dimensionamiento del servicio, se estima un esfuerzo de 1.008 horas durante 
+los veinticuatro meses de ejecución, equivalente a una dedicación media del 28 % sobre una 
+jornada anual de referencia de 1.800 horas. Esta estimación  del esfuerzo comprende e l conjunto 
+de prestaciones descritas en este pliego y no constituye una tarifa de facturación por horas . 
+4.2. HERRAMIENTAS Y SERVICIOS RELACIONADOS. 
+El adjudicatario deberÆ emplear, para la prestación de los servicios descritos, las 
+herramientas que le indique Turespaæa, en particular para la gestión de tareas y  la gestión de 
+incidencias. 
+El licitador podrÆ proponer las herramientas complementarias que estime oportunas para 
+la obtención de los objetivos del contrato, debiendo indicar su coste económico estimado. 
+4.3. REQUERIMIENTOS GENERALES DE DOCUMENTACIÓN. 
+Con base en la propuesta de metodología ofertada, podrÆ modificarse, a propuesta de 
+Turespaæa, y de mutuo acuerdo con el contratista, los productos de documentación ob jeto del 
+contrato. Dicha modificación sólo podrÆ ser acordada durante las cuatro primeras sem anas del 
+contrato. 
+4.4. ORGANIZACIÓN Y CONTROL DEL TRABAJO. 
+4.4.1. Responsabilidades. 
+Corresponde a Turespaæa: 
+• Revisar los trabajos y servicios para lograr los objetivos en base a las 
+especificaciones del presente documento, sin perjuicio de las facultades de 
+dirección y auto organización del adjudicatario. 
+• Facilitar al adjudicatario la información y los medios necesarios para la 
+prestación del servicio. 
+Firmado el 21/10/2026 16:27:49 : ALICIA LILLO RAMOS, Subdirector / Subdirectora General de Subdireccion General de Gestion Economico-administrativa y Tecnologias de la Informacion.
+Código: 21361475-92417434GBSUG76X9C73 Autenticidad verificable en: https://sedeaplicaciones.serviciosmin.gob.es/Arce
+Documento electrónico, página 4 de 10.
+ALICIA LILLO RAMOS - 2026-10-26 11:07:40 CET, accion=FIRMA, dni=50868532, nombre=ALICIA LILLO RAMOS, cargo=SUBDIRECTOR / SUBDIRECTORA GENERAL, grupo=SUBDIRECCION GENERAL DE GESTION 
+ECONOMICO-ADMINISTRATIVA Y TECNOLOGIAS DE LA INFORMACION, unidad=SUBDIRECCION GENERAL DE GESTION ECONOMICO-ADMINISTRATIVA Y TECNOLOGIAS DE LA INFORMACION, organizacion=MINISTERIO DE INDUSTRIA Y TURISMO, 
+alias organizacion=ITR 
+Puede comprobar la autenticidad de esta copia mediante CSV:  OIP_V5WI2EWZJ3DIZ6ODE9KGBHGCBKBM  en https://www.pap.hacienda.gob.es
+
+--- página 5 ---
+ 
+5. 
+ 
+La planificación, seguimiento y control del servicio se realizarÆ a travØs de: 
+• Seguimiento continuo de la evolución de los trabajos. 
+• Reuniones de seguimiento, al objeto de revisar la planificación de los trabajos y 
+grado de cumplimiento de los objetivos. 
+4.4.2. Gestión de incidencias. 
+Históricamente, las incidencias y problemas detectados en relación con los 
+módulos/aplicaciones pueden catalogarse de acuerdo a los siguientes niveles de complejidad 
+y/o prioridad, en función del esfuerzo medio estimado necesario para su resolución, expresado 
+en horas • persona de distintos perfiles tØcnicos: 
+• Complejidad baja: media estimada de 2 horas • persona. 
+Complejidad media: media estimada de 14 horas • persona. 
+• Complejidad alta: media estimada de 24 horas/persona. 
+En función de la experiencia de Turespaæa sobre los módulos/aplicaciones en  
+producción, se estima que se presentarÆn aproximadamente el siguiente nœmero de incidenci as 
+de cada nivel de complejidad y/o prioridad en el periodo de vigencia del contrato: 
+• Complejidad alta: 5 
+• Complejidad media: 20 
+• Complejidad baja: 50 
+Se considera gestión de incidencias al conjunto de acciones que la empresa adjudicataria 
+deberÆ realizar para garantizar el correcto funcionamiento del servicio de Habilitación. 
+La estimación de incidencias representa 500 horas durante el contrato: 5 × 24 + 20 × 14 + 
+50 x 2. Estas horas forman parte de la estimación global de 1.008 horas. La dedicación restante se 
+destina a los servicios programados y demÆs obligac iones del contrato conforme al siguiente 
+desglose, considerando una dedicación media por jornada de 5 horas: 3 jornadas x 5 horas x 22 
+meses + 4 jornadas x 5 horas x 2 meses (enero) + 5 jornadas x 5 horas x 2 operación masiva (Acción 
+social, o tareas asimiladas). Para las tareas a dem anda se prevØn 8 jornadas anuales durante el 
+contrato: 8 jornadas/aæo x 5 horas x 2 aæos, esto es, 80 horas. Adicionalmente se consideran 8 horas 
+para intervenciones urgentes. Estas tareas comprenden 508 horas durante el contrato, completado 
+las 1008 horas base de la estimación. 
+Una misma actuación no se computarÆ simultÆneamente como incidencia y como servicio 
+programado. 
+Las tareas a realizar por el adjudicatario: 
+• Recepción de incidencias remitidas por Turespaæa. 
+• Identificación de la incidencia, recopilando toda la información necesaria que 
+permita determinar que efectivamente es una incidencia soportada por el contrato 
+y no ha sido registrada con anterioridad (evitando duplicados). 
+• Categorización de la incidencia en función del tipo de incidente, del sistema y l os 
+servicios sobre los que impacta. 
+• Priorización de la incidencia en función de su urgencia y del nœmero y tipo de 
+usuarios afectados. 
+Firmado el 21/10/2026 16:27:49 : ALICIA LILLO RAMOS, Subdirector / Subdirectora General de Subdireccion General de Gestion Economico-administrativa y Tecnologias de la Informacion.
+Código: 21361475-92417434GBSUG76X9C73 Autenticidad verificable en: https://sedeaplicaciones.serviciosmin.gob.es/Arce
+Documento electrónico, página 5 de 10.
+ALICIA LILLO RAMOS - 2026-10-26 11:07:40 CET, accion=FIRMA, dni=50868532, nombre=ALICIA LILLO RAMOS, cargo=SUBDIRECTOR / SUBDIRECTORA GENERAL, grupo=SUBDIRECCION GENERAL DE GESTION 
+ECONOMICO-ADMINISTRATIVA Y TECNOLOGIAS DE LA INFORMACION, unidad=SUBDIRECCION GENERAL DE GESTION ECONOMICO-ADMINISTRATIVA Y TECNOLOGIAS DE LA INFORMACION, organizacion=MINISTERIO DE INDUSTRIA Y TURISMO, 
+alias organizacion=ITR 
+Puede comprobar la autenticidad de esta copia mediante CSV:  OIP_V5WI2EWZJ3DIZ6ODE9KGBHGCBKBM  en https://www.pap.hacienda.gob.es
+
+--- página 6 ---
+ 
+6. 
+ 
+• Diagnóstico inicial del origen de la incidencia tomando como referencia el registro 
+de errores y problemas conocidos. 
+• Asignación de recursos mediante la designación del personal responsable de su  
+anÆlisis y resolución y, cuando proceda, escalado a personal experto. 
+• Comunicación de la resolución de la incidencia a Turespaæa. 
+• Confirmación de la resolución efectiva de la incidencia por parte de Turespaæa y , 
+cuando proceda, reapertura de la misma. 
+• Registro de toda la información recabada durante el proceso de resolución de l a 
+incidencia, incluyendo su relación con otras incidencias, problemas o errores 
+conocidos. 
+• Resolución de incidencias en informes de los módulos/aplicaciones. 
+• Revisión de procesos de carga y datos obtenidos de los distintos informes y 
+cuadros de mando en caso de detectarse alguna incidencia en los mismos. 
+• Resolución de las incidencias de los usuarios al acceder a los módulos/aplicaciones 
+de Turespaæa. 
+i. Tiempo de respuesta.  
+El tiempo de respuesta viene determinado en función de la severidad de la solicitud. 
+Se clasifican las siguientes prioridades: 
+• Alta: El problema causa una pØrdida completa del servicio. No se puede continuar 
+trabajando con unas mínimas garantías, el funcionamiento del servicio es crítico y la 
+situación es una emergencia. Un problema de Østa prioridad tiene uno o mÆs de los 
+siguientes incidentes: datos daæados, una función c ritica no estÆ disponible, el 
+sistema se bloquea de manera indefinida, el sistema falla despuØs de cada intento 
+de reiniciarlo. Las peticiones de asistencia de este nivel recibirÆn prioridad absoluta 
+por parte del personal de soporte del adjudicatario hasta que el tema estØ resuelto o 
+hasta que se consiga un progreso œtil. Una solicitud de asistencia de Østa prioridad 
+supone la intervención inmediata del personal del adjudicatario en las instalaciones 
+de Turespaæa. Dado que existe la imposibilidad para trabajar con el sistema, el 
+tiempo de respuesta debe ser inferior a cuatro horas. 
+• Media:  El problema causa una severa pØrdida de servicio y no existe una solución 
+temporal aceptable disponible, aunque el servicio sí puede continuar de forma 
+restringida. Una solicitud de asistencia de Østa prioridad puede suponer la 
+intervención del personal del adjudicatario en las instalaciones de Tu respaæa 
+aunque alternativamente puede ser resuelto telefónicamente o mediante una 
+acceso remoto. Al ser viable trabajar con el sistema, el tiempo de respu esta serÆ 
+inferior a 8 horas. 
+• Baja:  El problema no causa ninguna pØrdida de servicio aunque puede suponer 
+un inconveniente. El resultado es un error mínimo, funcionamiento incorrecto o un 
+error de documentación que no impide el funcionamiento del sistema. En este caso 
+se determinarÆ con Turespaæa el tiempo de respuesta. Dentro de las incidencias 
+de Østa prioridad, tambiØn quedan englobadas las solicitudes de servicios 
+programados.  
+ii. Control de las incidencias.  
+La empresa adjudicataria deberÆ poner a disposición de Turespaæa, para el control de 
+las incidencias y tareas a realizar, un servicio de “Gestión y seguimiento de “tickets” de 
+incidencias y peticiones de tareas”. 
+Firmado el 21/10/2026 16:27:49 : ALICIA LILLO RAMOS, Subdirector / Subdirectora General de Subdireccion General de Gestion Economico-administrativa y Tecnologias de la Informacion.
+Código: 21361475-92417434GBSUG76X9C73 Autenticidad verificable en: https://sedeaplicaciones.serviciosmin.gob.es/Arce
+Documento electrónico, página 6 de 10.
+ALICIA LILLO RAMOS - 2026-10-26 11:07:40 CET, accion=FIRMA, dni=50868532, nombre=ALICIA LILLO RAMOS, cargo=SUBDIRECTOR / SUBDIRECTORA GENERAL, grupo=SUBDIRECCION GENERAL DE GESTION 
+ECONOMICO-ADMINISTRATIVA Y TECNOLOGIAS DE LA INFORMACION, unidad=SUBDIRECCION GENERAL DE GESTION ECONOMICO-ADMINISTRATIVA Y TECNOLOGIAS DE LA INFORMACION, organizacion=MINISTERIO DE INDUSTRIA Y TURISMO, 
+alias organizacion=ITR 
+Puede comprobar la autenticidad de esta copia mediante CSV:  OIP_V5WI2EWZJ3DIZ6ODE9KGBHGCBKBM  en https://www.pap.hacienda.gob.es
+
+--- página 7 ---
+ 
+7. 
+ 
+ 
+4.4.3. Solicitudes de servicios programados.  
+Estos servicios se prestarÆn de la siguiente forma:  
+4.4.3.1. Servicios prestados mensualmente.  
+El personal tØcnico del adjudicatario, realizarÆ Østas tareas de forma telemÆtica, con la 
+frecuencia que especifique Turespaæa. La asistencia del servicio se realizarÆ en l os 
+días y horas que conjuntamente se determinen, considerÆndose una jornada media de 
+cinco horas de dedicación. 
+Inicialmente la distribución serÆ la siguiente: 
+- Cada mes: 3 jornadas al mes (dos de ellas alrededor del día 5 y otra el œltimo 
+día hÆbil del mes). 
+-  En enero de cada aæo : 4 jornadas (que sustituyen a las tres ordinarias 
+mensuales) para las tareas de inicio del aæo, dos a principios de mes, y otra 
+dos, a mediados, para asegurar la elaboración de los resœmenes anuales de 
+IRPF, IRNR u otros equivalentes. 
+-   Cinco jornadas adicionales anuales para asegurar la carga de los pagos de 
+la Acción Social y/o subvenciones, en su caso. 
+4.4.3.2. Servicios prestados puntualmente y a demanda.  
+El personal tØcnico del adjudicatario, realizarÆ una asistencia a Turespaæa, de forma  
+puntual a demanda y hasta un mÆximo de 8 jornadas anuales, cuando se den los 
+siguientes casos: 
+a) Incidencias del sistema de gestión de Nómina NEDAES: El serv icio de soporte 
+y desarrollo de actualizaciones del MAETD, de forma periódica, lib era 
+actualizaciones. Estas pueden deberse tanto a motivos tØcnicos  como a 
+cambios de normativa. Dichas actualizaciones no tienen una fecha establecida 
+y pueden dar origen a incidencias e interacciones con los 
+módulos/aplicaciones propias de diversa índole. 
+b) Incidencias de los módulos específicos de Turespaæa e integrados en el 
+sistema de gestión de Nómina NEDAES. 
+Estos servicios comprenderÆn tareas de alguno de los siguientes tipos: 
+• Instalación de las distintas modificaciones proporcionadas por el MTDAP y qu e 
+no sean realizadas por el soporte tØcnico de la infraestructura de MINTUR. 
+• Ajuste de la instalación a nuevos requerimientos que pudieran ser necesarios 
+(nuevos espacios de Tablas, nueva ubicación de los ficheros, etc.) y que no 
+sean realizadas por el soporte de MINTUR. 
+• Definición de las infraestructuras a desplegar para asegurar la operatividad de 
+los módulos específicos de Turespaæa. 
+• Mantenimiento de los usuarios UNIX necesarios para realizar todas las tareas 
+requeridas por las aplicaciones. 
+Firmado el 21/10/2026 16:27:49 : ALICIA LILLO RAMOS, Subdirector / Subdirectora General de Subdireccion General de Gestion Economico-administrativa y Tecnologias de la Informacion.
+Código: 21361475-92417434GBSUG76X9C73 Autenticidad verificable en: https://sedeaplicaciones.serviciosmin.gob.es/Arce
+Documento electrónico, página 7 de 10.
+ALICIA LILLO RAMOS - 2026-10-26 11:07:40 CET, accion=FIRMA, dni=50868532, nombre=ALICIA LILLO RAMOS, cargo=SUBDIRECTOR / SUBDIRECTORA GENERAL, grupo=SUBDIRECCION GENERAL DE GESTION 
+ECONOMICO-ADMINISTRATIVA Y TECNOLOGIAS DE LA INFORMACION, unidad=SUBDIRECCION GENERAL DE GESTION ECONOMICO-ADMINISTRATIVA Y TECNOLOGIAS DE LA INFORMACION, organizacion=MINISTERIO DE INDUSTRIA Y TURISMO, 
+alias organizacion=ITR 
+Puede comprobar la autenticidad de esta copia mediante CSV:  OIP_V5WI2EWZJ3DIZ6ODE9KGBHGCBKBM  en https://www.pap.hacienda.gob.es
+
+--- página 8 ---
+ 
+8. 
+ 
+• Creación y/o especificación de los nuevos entornos de compilación en caso de 
+ser necesarios. 
+• Optimización de los tiempos de respuesta para la aplicación en la medida que 
+los recursos existentes lo permitan. 
+• Optimización y configuración del servidor de aplicaciones en la medida que los 
+recursos lo permitan. 
+• Recomendaciones para la Instalación de parches y nuevas versiones del 
+software Oracle y que no sean realizadas por el soporte de MINTUR. 
+• Reinstalación de las aplicaciones en caso de que fuera necesario por cambio 
+de mÆquina o sistema y que no sean realizadas por el soporte de MINTUR. 
+4.5. HORARIO Y LUGAR DE PRESTACIÓN DEL SERVICIO. 
+El servicio serÆ prestado de manera telemÆtica; y excepcionalmente, presencialmente 
+en la sede central de Turespaæa, en la calle del Poeta Joan Maragall, 41, 2802 0 de Madrid. La 
+intervención a realizar puntualmente de manera presencial, deberÆ ser justificada por Turespaæa: 
+por motivos de seguridad, por el carÆcter confidencial de los datos a tratar y, en  su caso, por la 
+complejidad de la interconexión de las infraestructuras que dan soporte al sistema de gestión de 
+Nómina NEDAES. 
+Los servicios telemÆticos se prestarÆn a travØs de una conexión remota protegida y 
+segura (VPN) que facilitarÆ Turespaæa y que permitirÆ el acceso al sistema de gestión de Nómina 
+de Turespaæa desde el centro de trabajo de la adjudicataria. 
+El servicio se prestarÆ en la modalidad de 5 x 5, siendo el horario de trabajo ha bitual 
+de 9:00 a 14:00 de lunes a viernes, no festivos. 
+Sin embargo, Turespaæa podrÆ exigir al adjudicatari o la realización de determinadas 
+tareas cuando no estØn trabajando los usuarios de NEDAES, aunque esto implique horas nocturnas, 
+días festivos o fines de semana. Este tipo de tareas, fuera del horario habitual, deberÆ ser planificada 
+y estarÆ limitada a un mÆximo de 8 horas durante la ejecución del contrato. 
+ 
+5. EQUIPO DE TRABAJO. 
+5.1. ESTIMACIÓN DE RECURSOS NECESARIOS. 
+A efectos de dimensionamiento del servicio, se estima con base en la exper iencia de 
+contratación de este tipo de servicios un esfuerzo de 1.008 horas durante los veinticua tro meses 
+de ejecución, equivalente a una dedicación media del 28 % sobre una jornada anual de referencia 
+de 1.800 horas. Esta estimación comprende el conjunto de prestaciones descritas en este pliego 
+y no constituye una tarifa de facturación por horas: 
+Categoría profesional N” personas ( n” idóneo estimado) Estimación de n” de horas 
+Consultor funcional Nóminas
+ NEDAES y anÆlisis de datos 1 1.008 
+ 
+Corresponde exclusivamente a la empresa que resulte adjudicataria la selecci ón del 
+personal que, formarÆ parte del equipo de trabajo adscrito a la ejecución del con trato. Turespaæa 
+podrÆ comprobar que el equipo ofertado cumple con los requisitos de conocimiento y 
+Firmado el 21/10/2026 16:27:49 : ALICIA LILLO RAMOS, Subdirector / Subdirectora General de Subdireccion General de Gestion Economico-administrativa y Tecnologias de la Informacion.
+Código: 21361475-92417434GBSUG76X9C73 Autenticidad verificable en: https://sedeaplicaciones.serviciosmin.gob.es/Arce
+Documento electrónico, página 8 de 10.
+ALICIA LILLO RAMOS - 2026-10-26 11:07:40 CET, accion=FIRMA, dni=50868532, nombre=ALICIA LILLO RAMOS, cargo=SUBDIRECTOR / SUBDIRECTORA GENERAL, grupo=SUBDIRECCION GENERAL DE GESTION 
+ECONOMICO-ADMINISTRATIVA Y TECNOLOGIAS DE LA INFORMACION, unidad=SUBDIRECCION GENERAL DE GESTION ECONOMICO-ADMINISTRATIVA Y TECNOLOGIAS DE LA INFORMACION, organizacion=MINISTERIO DE INDUSTRIA Y TURISMO, 
+alias organizacion=ITR 
+Puede comprobar la autenticidad de esta copia mediante CSV:  OIP_V5WI2EWZJ3DIZ6ODE9KGBHGCBKBM  en https://www.pap.hacienda.gob.es
+
+--- página 9 ---
+ 
+9. 
+ 
+experiencia mínimos y específicos requeridos para la realización del servicio que se hayan 
+indicado en la oferta. 
+La empresa que resulte adjudicataria procurarÆ que exista estabilidad en el equipo de trabajo, 
+y que las variaciones en su composición sean puntuales y obedezcan a razones justificadas, en orden 
+a no alterar el buen funcionamiento del servicio, informando en todo momento a Turespaæa. 
+La empresa que resulte adjudicataria velarÆ especialmente porque los trabajadores 
+adscritos a la ejecución del contrato desarrollen su actividad sin extrali mitarse en las funciones 
+desempeæadas respecto de la actividad delimitada en el pliego como objeto del contrato. 
+En este sentido, la empresa que resulte adjudicataria estarÆ obligada, conforme a las 
+Instrucciones sobre buenas prÆcticas para la gestión de las contrataciones de s ervicios y 
+encomiendas, a designar al menos un coordinador tØcnico o responsable que serÆ el 
+interlocutor con quien œnicamente se relacionarÆ Turespaæa 
+El adjudicatario se compromete a facilitar la constitución del equipo de trab ajo con los 
+perfiles ofertados en un plazo mÆximo de 10 días hÆbiles desde la formalización del contrato. 
+El licitador podrÆ hacer una oferta con el nœmero de perfiles y dedicación que  considere 
+necesarios para cubrir el servicio en calidad y plazo. 
+Los trabajos de dirección del proyecto se ejercerÆn por personal designado po r la 
+Subdirección General de Gestión Económico-Administrativa y Tecnologías de la Información. 
+5.2. PERFILES. 
+Consultor funcional para el soporte a la gestión de nóminas y al anÆlisis de datos: 
+• Conocimiento funcional de gestión de nóminas. 
+• Conocimiento de NEDAES a nivel funcional. 
+• Experiencia mínima de cuatro aæos con NEDAES. 
+• Conocimiento del modelo de datos de NEDAES. 
+• Experiencia mínima de cuatro aæos en implantación de soluciones para la 
+generación de informes de tipo estadístico en NEDAES u otras aplicaciones 
+informÆticas de gestión de nóminas. 
+ 
+5.3. MECANISMOS DE VERIFICACIÓN DE LA CUALIFICACIÓN. 
+Turespaæa se reserva la potestad de verificar la adecuación de los miembros del equipo de 
+trabajo a los requisitos mínimos del contrato y a la oferta del adjudicatario en caso de q ue incluya 
+mejoras sobre los requisitos mínimos establecidos, pudiendo solicitar las sustituciones que estime 
+oportunas por incumplimiento de la cualificación requerida. 
+5.4. MODIFICACIONES EN LA COMPOSICIÓN DEL EQUIPO DE TRABAJO. 
+La empresa contratista procurarÆ que exista estabilidad en el equipo de trabajo, y  que las 
+variaciones en su composición sean puntuales y obedezcan a razones justificadas, en orden a no 
+alterar el buen funcionamiento del servicio, informando en todo momento a Turespaæa. Toda 
+modificación del equipo de trabajo supone pØrdidas derivadas del necesario tr aspaso de 
+información y contexto del proyecto. 
+Firmado el 21/10/2026 16:27:49 : ALICIA LILLO RAMOS, Subdirector / Subdirectora General de Subdireccion General de Gestion Economico-administrativa y Tecnologias de la Informacion.
+Código: 21361475-92417434GBSUG76X9C73 Autenticidad verificable en: https://sedeaplicaciones.serviciosmin.gob.es/Arce
+Documento electrónico, página 9 de 10.
+ALICIA LILLO RAMOS - 2026-10-26 11:07:40 CET, accion=FIRMA, dni=50868532, nombre=ALICIA LILLO RAMOS, cargo=SUBDIRECTOR / SUBDIRECTORA GENERAL, grupo=SUBDIRECCION GENERAL DE GESTION 
+ECONOMICO-ADMINISTRATIVA Y TECNOLOGIAS DE LA INFORMACION, unidad=SUBDIRECCION GENERAL DE GESTION ECONOMICO-ADMINISTRATIVA Y TECNOLOGIAS DE LA INFORMACION, organizacion=MINISTERIO DE INDUSTRIA Y TURISMO, 
+alias organizacion=ITR 
+Puede comprobar la autenticidad de esta copia mediante CSV:  OIP_V5WI2EWZJ3DIZ6ODE9KGBHGCBKBM  en https://www.pap.hacienda.gob.es
+
+--- página 10 ---
+ 
+10. 
+ 
+La valoración final de la calidad de los servicios corresponde a Turespaæa, siendo potestad 
+suya solicitar mejoras en la misma. En particular, en aplicación de los mecanismos de verificación 
+de la cualificación. Se considera la modificación de los recursos de di cho equipo de trabajo, en 
+estos casos, imputable al adjudicatario. 
+Durante cualquier ausencia del equipo de trabajo (incluidos sus períodos de va caciones), 
+sus miembros serÆn sustituidos por personal con igual cualificación y expe riencia con cargo al 
+adjudicatario. 
+Si por causas ajenas al adjudicatario, Øste propusiera el cambio de uno de los miembros del 
+equipo de trabajo, se deberÆ solicitar por escrito con 30 días hÆbiles de ant elación (periodo de 
+preaviso), exponiendo las razones que obligan a la propuesta. 
+En el supuesto de que se produzcan sustituciones de personal del equipo, se subs anarÆ 
+mediante un solapamiento de recursos del equipo sin coste adicional durante un mínimo de 15 
+días hÆbiles (periodo de solapamiento). 
+6. RESPONSABLE DEL CONTRATO. 
+La unidad encargada del seguimiento y ejecución ordinaria del contrato serÆ la S GEATI, en 
+el Æmbito de las tareas que tiene encomendadas. DeberÆ designar un responsable del contrato al 
+que corresponderÆ supervisar su ejecución y adoptar las decisiones y dic tar las instrucciones 
+necesarias con el fin de asegurar la correcta realización de la prestación pactada. 
+ 
+Firmado electrónicamente por: 
+  
+Alicia Lillo Ramos 
+Subdirectora General de Gestión 
+Económico-Administrativa y 
+Tecnologías de la Información de 
+TURESPAÑA 
+ 
+ 
+ 
+Firmado el 21/10/2026 16:27:49 : ALICIA LILLO RAMOS, Subdirector / Subdirectora General de Subdireccion General de Gestion Economico-administrativa y Tecnologias de la Informacion.
+Código: 21361475-92417434GBSUG76X9C73 Autenticidad verificable en: https://sedeaplicaciones.serviciosmin.gob.es/Arce
+Documento electrónico, página 10 de 10.
+ALICIA LILLO RAMOS - 2026-10-26 11:07:40 CET, accion=FIRMA, dni=50868532, nombre=ALICIA LILLO RAMOS, cargo=SUBDIRECTOR / SUBDIRECTORA GENERAL, grupo=SUBDIRECCION GENERAL DE GESTION 
+ECONOMICO-ADMINISTRATIVA Y TECNOLOGIAS DE LA INFORMACION, unidad=SUBDIRECCION GENERAL DE GESTION ECONOMICO-ADMINISTRATIVA Y TECNOLOGIAS DE LA INFORMACION, organizacion=MINISTERIO DE INDUSTRIA Y TURISMO, 
+alias organizacion=ITR 
+Puede comprobar la autenticidad de esta copia mediante CSV:  OIP_V5WI2EWZJ3DIZ6ODE9KGBHGCBKBM  en https://www.pap.hacienda.gob.es

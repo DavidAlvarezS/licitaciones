@@ -1,0 +1,1749 @@
+
+
+--- página 1 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+1 
+ 
+ 
+ 
+ 
+CV-BIB-2026-02 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS  
+PARTICULARES QUE HAN DE REGIR LA 
+LICITACIÓN PÚBLICA CV -BIB-2026-02, 
+CONTRATACIÓN DEL SISTEMA DE GESTIÓN 
+INTEGRAL DEL MATERIAL FÍSICO Y DIGITAL 
+DE LA BIBLIOTECA DE LES CORTS 
+VALENCIANES 
+ 
+
+--- página 2 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+2 
+ 
+I. OBJETO DEL CONTRATO 
+  
+ 
+PRESCRIPCIÓN 1ª. OBJETO DEL CONTRATO  
+  
+Constituye el objeto del presente pliego establecer las condiciones técnicas que regularán 
+la contratación de la suscripción a una plataforma Sistema de Gestión Integral de 
+Bibliotecas y a una Plataforma de control de Préstamo Electrónico, conforme al 
+procedimiento de contratación especificado en el Pliego de Cláusulas Administrativas.  
+El suministro de dichas plataformas que determina el alcance de esta licitación se ha 
+agrupado en 2 lotes atendiendo a criterios técnicos, como son:  
+Lote 1: Sistema de Gestión Integral de Biblioteca (SGIB), que incluya todas las 
+áreas de trabajo de la Biblioteca; así como de la difusión de sus fondos.  
+Lote 2: Sistema de gestión de préstamo electrónico, configurado como un servicio 
+complementario, destinado a facilitar el acceso a recursos digitales bajo licencia.  
+Ambos lotes se contratarán como servicios independientes, sin solapamiento funcional, 
+con integración mediante interfaces estándar.  
+Los licitadores podrán presentar oferta a los 2 lotes, o a un único lote, siendo potestad de 
+les Corts Valencianes adjudicar todos a un único ofertante o a dos diferentes. 
+ 
+ 
+ 
+ 
+II. DISPOSICIONES COMUNES A AMBOS LOTES  
+ 
+ 
+PRESCRIPCIÓN 2ª. SEGURIDAD, CALIDAD Y CERTIFICACIONES 
+ 
+1. Esquema Nacional de Seguridad 
+ 
+El sistema objeto de este contrato se categoriza como de nivel MEDIO conforme al Anexo 
+I del Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de 
+Seguridad, atendiendo al impacto que una pérdida de disponibilidad, integridad o 
+confidencialidad de la información tendría sobre los servicios parlamentarios que soporta. 
+La valoración por dimensiones es la siguiente: 
+- Disponibilidad: MEDIA. La interrupción del servicio afecta a la actividad de 
+la Biblioteca, dificultando el acceso a los fondos bibliográficos y recursos 
+electrónicos que sustentan el trabajo parlamentario, si bien existen 
+procedimientos alternativos que p ermitirían mantener un nivel mínimo de 
+servicio durante un período limitado. 
+- Integridad: MEDIA. La alteración no autorizada de registros bibliográficos, 
+de autoridades o de fondos comprometería la fiabilidad del catálogo 
+institucional, aunque su impacto sería subsanable mediante los procedimientos 
+de restauración y verificación previstos.  
+
+--- página 3 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+3 
+ 
+- Confidencialidad: MEDIA. El sistema procesa datos personales de diputados, 
+personal parlamentario e investigadores, incluyendo datos de actividad de 
+préstamo y consulta. Si bien estos datos pueden ofrecer indicios sobre 
+intereses temáticos de los usuarios, el tratamiento se circunscribe a la gestión 
+bibliotecaria y no implica, con carácter general, el tratamiento masivo de 
+categorías especiales de datos en el sentido del artículo 9 del RGPD 
+- Autenticidad: MEDIA. Es necesario garantizar la identidad de los usuarios que 
+acceden al sistema y realizan operaciones sobre los registros.  
+- Trazabilidad: MEDIA. Se requiere un registro de las operaciones realizadas 
+sobre los datos para garantizar la rendición de cuentas y la detección de 
+accesos indebidos. 
+ 
+El adjudicatario deberá acreditar, en el momento de presentar su oferta, la posesión de 
+una certificación de conformidad con el Esquema Nacional de Seguridad en nivel medio 
+o superior, emitida por una entidad de certificación acreditada conforme al artículo 38 del 
+Real Decreto 311/2022, que cubra los servicios objeto de este contrato. Alternativamente, 
+se admitirá una Declaración de Conformidad acompañada de un plan de certificación que 
+garantice la obtención de la certificación en un plazo no superior a se is meses desde la 
+formalización del contrato. 
+ 
+El adjudicatario deberá mantener vigente la certificación ENS durante toda la duración 
+del contrato, aportando a Les Corts Valencianes copia actualizada del certificado cada vez 
+que se produzca su renovación y, en todo caso, con carácter anual. 
+ 
+El adjudicatario deberá aplicar las medidas de seguridad recogidas en el Anexo II del Real 
+Decreto 311/2022 correspondientes al nivel medio, así como las recomendaciones y guías 
+técnicas del Centro Criptológico Nacional que resulten de aplicación, en particular la guía 
+CCN-STIC 823 relativa a la utilización de servicios en la nube por parte del sector 
+público. 
+ 
+Les Corts Valencianes se reserva el derecho de solicitar al adjudicatario los informes de 
+auditoría ENS y de acceder a la documentación de seguridad del servicio en cualquier 
+momento durante la vigencia del contrato, previa solicitud con un plazo razonable  de 
+antelación. 
+ 
+ 
+2. Certificaciones adicionales de seguridad 
+ 
+El adjudicatario deberá disponer y mantener vigentes durante toda la duración del 
+contrato las siguientes certificaciones: 
+a) ISO/IEC 27001, sobre sistemas de gestión de seguridad de la información, con un 
+alcance que cubra los servicios objeto de este contrato.  
+b) ISO/IEC 27017, sobre controles de seguridad para servicios en la nube.  
+c) ISO/IEC 27018, sobre protección de información de identificación personal en 
+servicios en la nube que actúan como encargados del tratamiento. 
+
+--- página 4 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+4 
+ 
+El adjudicatario aportará copia de las certificaciones vigentes con su oferta y notificará a 
+Les Corts Valencianes cualquier cambio en su estado (renovación, suspensión, retirada o 
+modificación de alcance) en un plazo no superior a diez días hábiles desde que se 
+produzca. 
+ 
+ 
+3. Cifrado 
+ 
+Todos los datos en tránsito entre los usuarios y la plataforma, así como entre los distintos 
+componentes del sistema, deberán estar protegidos mediante cifrado TLS en versión 1.2 
+o superior, utilizando suites criptográficas conformes con las recomendaciones del Centro 
+Criptológico Nacional. 
+ 
+Todos los datos en reposo, incluyendo bases de datos, copias de seguridad, ficheros de 
+registro y cualquier soporte de almacenamiento que contenga información de Les Corts 
+Valencianes, deberán estar cifrados mediante algoritmo AES con una longitud de clave  
+mínima de 256 bits o equivalente. 
+ 
+El adjudicatario documentará y pondrá a disposición de Les Corts Valencianes su modelo 
+de gestión de claves criptográficas, que deberá garantizar la separación lógica de las 
+claves entre distintos clientes del servicio, así como procedimientos documentados  de 
+generación, almacenamiento, rotación y destrucción de claves. 
+4. Control de acceso y autenticación 
+ 
+Los perfiles de administración del sistema y de administración de la plataforma deberán 
+protegerse obligatoriamente mediante autenticación multifactor (MFA ), utilizando al 
+menos dos factores de distinta naturaleza (conocimiento, posesión o inherencia). 
+El sistema deberá implementar un modelo de control de acceso basado en roles (RBAC) 
+conforme al principio de mínimo privilegio, permitiendo a Les Corts Valencianes definir, 
+modificar y auditar los roles y permisos asignados a cada categoría de usuario. 
+ 
+El sistema deberá bloquear automáticamente las sesiones de usuario tras un período de 
+inactividad configurable por Les Corts Valencianes, que por defecto no será superior a 
+treinta minutos. 
+ 
+5. Registro, trazabilidad y auditoría 
+ 
+El sistema deberá generar registros de auditoría (logs) de todas las operaciones 
+significativas, incluyendo, al menos: accesos al sistema (exitosos y fallidos), operaciones 
+de creación, modificación y eliminación de registros bibliográficos, de autoridades , de 
+fondos y de usuarios, cambios en la configuración del sistema, operaciones de 
+importación y exportación de datos, accesos a datos personales, y acciones realizadas por 
+los perfiles de administración. 
+ 
+
+--- página 5 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+5 
+ 
+Los registros de auditoría deberán incluir, para cada evento, al menos la siguiente 
+información: fecha y hora con precisión de segundo en formato UTC, identificación del 
+usuario, dirección IP de origen, tipo de operación, recurso afectado y resultado de la  
+operación. 
+ 
+Los registros de auditoría deberán conservarse durante un período mínimo de veinticuatro 
+meses, ser inalterables (no susceptibles de modificación ni eliminación por parte del 
+personal del adjudicatario ni de los administradores del sistema) y estar disponibles para 
+consulta y exportación por parte de Les Corts Valencianes en formatos abiertos (CSV , 
+JSON o similar). 
+ 
+El adjudicatario deberá proporcionar a Les Corts Valencianes herramientas o interfaces 
+que permitan la consulta, filtrado y exportación de los registros de auditoría sin necesidad 
+de intervención del proveedor. 
+ 
+6. Copias de seguridad 
+ 
+El adjudicatario deberá realizar copias de seguridad de todos los datos del sistema con 
+una periodicidad mínima diaria, incluyendo la totalidad de los registros bibliográficos, de 
+autoridades, de fondos, de usuarios, configuraciones, personalizaciones y co ntenidos 
+digitales propiedad de Les Corts Valencianes. 
+ 
+Las copias de seguridad deberán almacenarse en una ubicación geográfica distinta del 
+centro de datos principal del servicio, garantizando que ambas ubicaciones se encuentren 
+dentro del Espacio Económico Europeo. 
+ 
+El adjudicatario deberá realizar pruebas de restauración de las copias de seguridad con 
+una periodicidad mínima semestral, documentando los resultados y poniéndolos a 
+disposición de Les Corts Valencianes. 
+ 
+Las copias de seguridad estarán sujetas a las mismas medidas de cifrado y control de 
+acceso que los datos en producción. 
+ 
+7. Gestión de vulnerabilidades 
+ 
+El adjudicatario deberá disponer de un procedimiento documentado de gestión de 
+vulnerabilidades que incluya la monitorización continua de vulnerabilidades conocidas 
+que afecten a los componentes del sistema. 
+ 
+Los parches de seguridad deberán aplicarse en los siguientes plazos máximos desde la 
+publicación del parche o la notificación de la vulnerabilidad:  
+- vulnerabilidades críticas (CVSS ≥ 9.0), cuarenta y ocho horas; 
+- vulnerabilidades altas (CVSS ≥ 7.0), siete días naturales; 
+- vulnerabilidades medias (CVSS ≥ 4.0), treinta días naturales. 
+ 
+
+--- página 6 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+6 
+ 
+El adjudicatario deberá realizar tests de penetración sobre la infraestructura y la 
+aplicación del servicio al menos una vez al año, a cargo de un equipo independiente del 
+equipo de desarrollo y operaciones. Los informes de los tests de penetración, incluyendo 
+las vulnerabilidades detectadas y las medidas correctoras aplicadas,  podrán estar a 
+disposición de Les Corts Valencianes en un plazo no superior a treinta días desde su 
+realización. 
+Les Corts Valencianes se reserva el derecho de realizar o encargar auditorías de seguridad 
+independientes sobre el servicio, previa coordinación con el adjudicatario y en 
+condiciones que no comprometan la disponibilidad del servicio para otros usuarios de la 
+plataforma. 
+ 
+8. Plan de continuidad y recuperación ante desastres 
+ 
+El adjudicatario deberá disponer de un plan de continuidad de negocio y de recuperación 
+ante desastres que garantice la prestación del servicio conforme a los siguientes 
+parámetros: 
+— Objetivo de punto de recuperación (RPO): no superior a cuatro horas. Es decir, 
+en caso de desastre, la pérdida máxima de datos no podrá exceder las cuatro 
+horas de operaciones.  
+— Objetivo de tiempo de recuperación (RTO): no superior a ocho horas. Es decir, 
+el servicio deberá estar restablecido en un plazo máximo de ocho horas desde 
+la declaración del desastre. 
+ 
+El plan de continuidad y recuperación ante desastres deberá ser probado al menos una vez 
+al año. El adjudicatario remitirá a Les Corts Valencianes un informe con los resultados de 
+cada prueba, incluyendo los tiempos reales de recuperación alcanzados y, en su caso, las 
+medidas correctoras previstas. 
+El adjudicatario notificará a Les Corts Valencianes cualquier activación del plan de 
+continuidad o de recuperación ante desastres que afecte al servicio, con indicación de la 
+causa, el alcance, las medidas adoptadas y la estimación de tiempo de restablecimiento. 
+ 
+9. Disponibilidad del servicio 
+ 
+El adjudicatario garantizará una disponibilidad mínima del servicio del 99,5% mensual, 
+calculada sobre la totalidad de las horas del mes y excluyendo únicamente las ventanas 
+de mantenimiento programado previamente comunicadas a Les Corts Valencianes con un 
+mínimo de cinco días hábiles de antelación. 
+ 
+Las ventanas de mantenimiento programado deberán realizarse preferentemente en 
+horario de baja actividad (entre las 22:00 y las 7:00 horas, horario peninsular español) y 
+no podrán exceder, en conjunto, de ocho horas mensuales. 
+ 
+Les Corts Valencianes podrán solicitar un informe mensual de disponibilidad del servicio, 
+detallando las interrupciones producidas, su causa, duración y medidas adoptadas para su 
+resolución. 
+ 
+
+--- página 7 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+7 
+ 
+10. Ubicación de los datos 
+ 
+Todos los datos de Les Corts Valencianes, incluyendo datos en producción, copias de 
+seguridad, registros de auditoría y cualquier otra información derivada de la prestación 
+del servicio, deberán almacenarse y procesarse exclusivamente en centros de datos 
+ubicados dentro del Espacio Económico Europeo. 
+El adjudicatario identificará en su oferta las ubicaciones de los centros de datos desde los 
+que se prestará el servicio y notificará a Les Corts Valencianes cualquier cambio previsto 
+con una antelación mínima de tres meses, requiriendo aprobación previa p or escrito de 
+Les Corts Valencianes cuando el cambio implique una nueva jurisdicción, aun dentro del 
+EEE. 
+ 
+Queda expresamente prohibida cualquier transferencia de datos personales fuera del 
+Espacio Económico Europeo sin la autorización previa y por escrito de Les Corts 
+Valencianes y sin que concurra alguna de las garantías previstas en el Capítulo V del 
+Reglamento (UE) 2016/679. 
+ 
+ 
+PRESCRIPCIÓN 3ª. PROTECCIÓN DE DATOS PERSONALES 
+ 
+A los efectos del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 
+27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al 
+tratamiento de datos personales (en adelante, RGPD), y de la Ley Orgánica 3/2018, de 5 
+de diciembre, de Protección de Datos Personales y Garantía de los Derechos Digitales 
+(en adelante, LOPDPGDD), Les Corts Valencianes actúa como responsable del 
+tratamiento y el adjudicatario actúa como encargado del tratamiento. 
+ 
+El presente contrato constituye el acuerdo de encargo de tratamiento previsto en el 
+artículo 28 del RGPD y en el artículo 33 de la LOPDPGDD. 
+ 
+1. Descripción del tratamiento 
+ 
+- Objeto del tratamiento: la gestión integral del fondo bibliográfico de la Biblioteca 
+de Les Corts Valencianes y, en su caso, la gestión del préstamo electrónico, 
+mediante la plataforma SaaS objeto de este contrato. (Software as a Service: modelo 
+de distribución de software cuya licencia funciona mediante suscripción y ofrece un 
+modelo de pago por uso. Saas es una de las tres categorías principales que conforman la 
+informática en la nube (cloud computing)  
+ 
+- Duración: el tratamiento se prolongará durante toda la vigencia del contrato, 
+incluidas sus eventuales modificaciones, así como durante el período posterior 
+necesario para la devolución o destrucción de los datos conforme a lo previsto en 
+esta cláusula. 
+ 
+- Naturaleza y finalidad del tratamiento: almacenamiento, organización, consulta, 
+comunicación por transmisión y cualquier otra operación necesaria para la 
+
+--- página 8 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+8 
+ 
+prestación del servicio contratado, incluyendo la gestión de usuarios, el control de 
+préstamos, la elaboración de estadísticas y la administración del sistema. 
+ 
+- Tipos de datos personales tratados: datos identificativos (nombre, apellidos, 
+DNI/NIF, dirección de correo electrónico, número de teléfono), datos 
+profesionales, datos de actividad en el sistema (historial de préstamos, consultas 
+realizadas, búsquedas, res ervas, desideratas) y datos de acceso (credenciales, 
+registros de sesión, direcciones IP). 
+ 
+- Categorías de interesados: diputados y diputadas de Les Corts Valencianes, 
+personal al servicio de la cámara, investigadores y usuarios externos autorizados. 
+ 
+Les Corts Valencianes advierte expresamente al adjudicatario de que los datos de 
+actividad en el sistema (en particular, el historial de préstamos y consultas) pueden 
+revelar, directa o indirectamente, la ideología, opiniones políticas, convicciones religiosas 
+o filosóficas de los interesados, lo que exige la aplicación de un nivel reforzado de 
+protección y diligencia en el tratamiento. 
+ 
+2. Obligaciones del encargado del tratamiento 
+ 
+El adjudicatario tratará los datos personales únicamente siguiendo las instrucciones 
+documentadas de Les Corts Valencianes, incluso en lo que respecta a las transferencias 
+de datos a un tercer país o una organización internacional, salvo que esté obligado a ello 
+en virtud del Derecho de la Unión o del Derecho español. En tal caso, el adjudicatario 
+informará a Les Corts Valencianes de esa exigencia legal antes del tratamiento, salvo que 
+dicho Derecho lo prohíba por razones importantes de interés público.  No obstante, si el 
+encargado del tratamiento considera que alguna de las instrucciones infringe el RGPD o 
+cualquier otra disposición en materia de protección de datos de la Unión o de los Estados 
+miembros, el encargado informará inmediatamente a Les Corts Valencianes. 
+ 
+El adjudicatario garantizará que las personas autorizadas para tratar datos personales se 
+hayan comprometido a respetar la confidencialidad o estén sujetas a una obligación de 
+confidencialidad de naturaleza estatutaria. Esta obligación subsistirá incluso d espués de 
+finalizado el contrato. 
+ 
+El adjudicatario aplicará las medidas técnicas y organizativas apropiadas para garantizar 
+un nivel de seguridad adecuado al riesgo, conforme al artículo 32 del RGPD, teniendo en 
+cuenta el estado de la técnica, los costes de aplicación, y la naturaleza, el alcance, el 
+contexto y los fines del tratamiento, así como los riesgos de probabilidad y gravedad 
+variables para los derechos y libertades de las personas físicas. Estas medidas incluirán, 
+como mínimo, las detalladas en la cláusula relativa a requisitos de seguridad de la 
+información de este pliego. En todo caso, las medidas de seguridad que deberá adoptar el 
+Encargado de Tratamiento serán conforme a las exigidas en virtud del Real Decreto 
+311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad (ENS). 
+En concreto, serán las medidas de carácter organizativo, operacional y de protección 
+
+--- página 9 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+9 
+ 
+recogidas en el Anexo II del citado Real Decreto, que correspondan a la categoría [indicar 
+BÁSICA, MEDIA o ALTA]. Antes del inicio de la prestación, el adjudicatario aportará la 
+declaración de conformidad para categoría BÁSICA o , en su caso,  la certificación de 
+conformidad para categorías MEDIA o ALTA. La documentación deberá identificar la 
+entidad, la categoría, el alcance y la vigencia, y cubrir los sistemas y servicios concretos 
+utilizados en la ejecución del contrato. Estas exigencias se extenderán a los 
+subcontratistas. El adjudicatario mantendrá la conformidad durante toda la ejecución y 
+aportará las renovaciones o actualizaciones de la documentación acreditativa. 
+Comunicará inmediatamente a Les Corts Valencianes cualquier pérdida, suspensión o 
+modificación de su vigenci a o alcance que afecte al servicio.  Las certificaciones ISO u 
+otros estándares y buenas prácticas podrán complementar estas exigencias, sin sustituir 
+la conformidad con el ENS. 
+ 
+El adjudicatario no recurrirá a otro encargado del tratamiento (subencargado ) sin la 
+autorización previa, específica y por escrito de Les Corts Valencianes. En caso de que Les 
+Corts Valencianes autorice la subcontratación del tratamiento, el adjudicatario impondrá 
+al subencargado, mediante contrato, las mismas obligaciones de protección de datos que 
+se establecen en esta cláusula. Si el subencargado incumple sus obligaciones, el 
+adjudicatario seguirá siendo plenamente responsable ante Les Corts Valencianes del 
+cumplimiento de las obligaciones del subencargado. 
+ 
+El adjudicatario identificará en su oferta los subencargados del tratamiento que prevea 
+utilizar para la prestación del servicio, indicando para cada uno de ellos: denominación 
+social, país de establecimiento, servicios que presta y ubicación de los datos.  Cualquier 
+incorporación o sustitución de subencargados durante la vigencia del contrato requerirá 
+la autorización previa y por escrito de Les Corts Valencianes, con una solicitud formulada 
+con al menos treinta días de antelación. 
+ 
+El adjudicatario asistirá a Les Corts Valencianes, teniendo en cuenta la naturaleza del 
+tratamiento, mediante medidas técnicas y organizativas apropiadas, siempre que sea 
+posible, para que Les Corts Valencianes pueda cumplir con su obligación de responder a 
+las solicitudes de ejercicio de los derechos de los interesados establecidos en el Capítulo 
+III del RGPD (acceso, rectificación, supresión, limitación del tratamiento, portabilidad y 
+oposición). En caso de que un interesado se dirija directamente al adjudicatario para 
+ejercer sus derechos, el adjudicatario lo comunicará a Les Corts Valencianes en un plazo 
+máximo de dos días hábiles. 
+ 
+El adjudicatario asistirá a Les Corts Valencianes para garantizar el cumplimiento de las 
+obligaciones establecidas en los artículos 32 a 36 del RGPD  (seguridad del tratamiento, 
+notificación de violaciones de seguridad, evaluación de impacto y consulta previa), 
+teniendo en cuenta la naturaleza del tratamiento y la información de que disponga el 
+adjudicatario. 
+ 
+El adjudicatario colaborará con Les Corts Valencianes en la elaboración de la evaluación 
+de impacto relativa a la protección de datos (EIPD) que, en su caso, deba realizarse 
+conforme al artículo 35 del RGPD, proporcionando toda la información técnica necesaria 
+
+--- página 10 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+10 
+ 
+sobre la arquitectura del sistema, los flujos de datos, las medidas de seguridad 
+implementadas y cualquier otro aspecto relevante para la evaluación de riesgos. 
+ 
+ 
+3. Notificación de violaciones de seguridad 
+ 
+El adjudicatario notificará a Les Corts Valencianes, sin dilación indebida y en un plazo 
+máximo de veinticuatro horas desde que tenga conocimiento de ella, cualquier violación 
+de la seguridad de los datos personales de la que sea responsable o de la que te nga 
+conocimiento. 
+ 
+La notificación incluirá, como mínimo: una descripción de la naturaleza de la violación, 
+incluyendo, cuando sea posible, las categorías y el número aproximado de interesados 
+afectados y de registros de datos personales afectados; el nombre y los datos de contacto 
+de la persona del adjudicatario a la que Les Corts Valencianes pueda dirigirse para obtener 
+más información; una descripción de las posibles consecuencias de la violación; y una 
+descripción de las medidas adoptadas o propuestas para poner remedio a  la violación, 
+incluyendo, en su caso, las medidas adoptadas para mitigar los posibles efectos negativos. 
+ 
+Si no fuera posible facilitar toda la información simultáneamente, la información se 
+facilitará de manera gradual sin dilación indebida. 
+ 
+El adjudicatario colaborará con Les Corts Valencianes en la investigación de la violación 
+y en la adopción de las medidas necesarias para mitigar sus efectos, así como en el 
+cumplimiento de las obligaciones de notificación a la autoridad de control y de 
+comunicación a los interesados previstas en los artículos 33 y 34 del RGPD. 
+ 
+4. Devolución y destrucción de datos a la finalización del contrato 
+ 
+A la finalización del contrato por cualquier causa, el adjudicatario, a elección de Les Corts 
+Valencianes, deberá devolver todos los datos personales o suprimirlos, así como suprimir 
+las copias existentes, salvo que el Derecho de la Unión o de los Estados miembros exija 
+la conservación de los datos. 
+ 
+La devolución de los datos se realizará en un plazo máximo de treinta días naturales desde 
+la finalización del contrato, en los formatos estándares especificados en el pliego de 
+prescripciones técnicas (MARC 21, ISO 2709, CSV u otros formatos abiertos segú n la 
+naturaleza de los datos) y mediante un canal seguro que garantice la confidencialidad e 
+integridad de la información durante la transferencia. 
+ 
+Una vez completada la devolución y confirmada por Les Corts Valencianes la recepción 
+íntegra de los datos, el adjudicatario procederá a la destrucción segura de todas las copias 
+de los datos en su poder, incluidas las copias de seguridad, en un plazo no su perior a 
+quince días naturales. El adjudicatario emitirá un certificado de destrucción firmado por 
+un representante autorizado, en el que se identifiquen los datos destruidos, el método de 
+destrucción empleado y la fecha de destrucción. 
+
+--- página 11 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+11 
+ 
+ 
+No obstante, el adjudicatario podrá conservar los datos, debidamente bloqueados y 
+protegidos, durante el tiempo necesario para atender posibles responsabilidades derivadas 
+del contrato, conforme al artículo 32 de la LOPDPGDD. Una vez transcurrido dicho 
+período, procederá a su destrucción definitiva conforme a lo establecido en el apartado 
+anterior. 
+ 
+ 
+ 
+ 
+5. Transferencias internacionales 
+ 
+El adjudicatario no realizará transferencia alguna de datos personales a un tercer país u 
+organización internacional fuera del Espacio Económico Europeo sin la autorización 
+previa y por escrito de Les Corts Valencianes. 
+ 
+En caso de que Les Corts Valencianes autorice una transferencia internacional, esta solo 
+podrá realizarse si concurre alguna de las siguientes circunstancias: existencia de una 
+decisión de adecuación de la Comisión Europea respecto del país u organización 
+destinatarios, conforme al artículo 45 del RGPD; o existencia de garantías adecuadas 
+conforme al artículo 46 del RGPD, incluyendo cláusulas contractuales tipo adoptadas por 
+la Comisión Europea o normas corporativas vinculantes. 
+ 
+Esta prohibición se extiende a cualquier acceso remoto a los datos desde fuera del EEE 
+por parte de personal del adjudicatario o de sus subencargados, incluido el acceso para 
+tareas de soporte técnico, administración del sistema o resolución de incidencias. 
+ 
+6. Derecho de auditoría 
+ 
+El adjudicatario pondrá a disposición de Les Corts Valencianes toda la información 
+necesaria para demostrar el cumplimiento de las obligaciones establecidas en esta 
+cláusula y en el artículo 28 del RGPD , y permitirá y contribuirá a la realización de 
+auditorías, incluidas inspecciones, por parte de Les Corts Valencianes o de un auditor 
+autorizado por esta. 
+ 
+Las auditorías se realizarán con un preaviso mínimo de quince días hábiles, en horario 
+laborable y en condiciones que minimicen la perturbación de la actividad del 
+adjudicatario, sin que este pueda oponerse a su realización invocando razones de 
+confidencialidad comercial u operativa. 
+ 
+Los costes de las auditorías serán a cargo de Les Corts Valencianes, salvo que la auditoría 
+revele un incumplimiento material de las obligaciones del adjudicatario, en cuyo caso los 
+costes serán a cargo de este. 
+ 
+ 
+
+--- página 12 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+12 
+ 
+PRESCRIPCIÓN 4ª. RÉGIMEN DE PENALIZACIONES POR 
+INCUMPLIMIENTO DE LAS OBLIGACIONES DE SEGURIDAD Y 
+PROTECCIÓN DE DATOS 
+ 
+1. Penalizaciones por incumplimiento de los niveles de disponibilidad 
+ 
+Si la disponibilidad mensual del servicio resultara inferior al 99,5% garantizado, se 
+aplicarán las siguientes penalizaciones sobre el importe mensual del contrato: 
+- Disponibilidad entre el 99,0% y el 99,49%: penalización del 5% del importe 
+mensual.  
+- Disponibilidad entre el 98,0% y el 98,99%: penalización del 10% del importe 
+mensual. 
+- Disponibilidad entre el 95,0% y el 97,99%: penalización del 20% del importe 
+mensual.  
+- Disponibilidad inferior al 95,0%: penalización del 30% del importe mensual. 
+ 
+Las penalizaciones se calcularán y aplicarán de forma automática con base en los 
+informes mensuales de disponibilidad. El adjudicatario podrá formular alegaciones en un 
+plazo de diez días hábiles desde la notificación de la penalización. 
+ 
+ 
+2. Penalizaciones por incumplimiento de los tiempos de resolución de 
+incidencias 
+ 
+El incumplimiento de los tiempos de resolución de incidencias establecidos en el pliego 
+de prescripciones técnicas dará lugar a las siguientes penalizaciones por cada incidencia 
+y por cada hora completa de retraso sobre el tiempo máximo establecido: 
+— Incidencias críticas: 500 euros por hora de retraso.  
+— Incidencias de prioridad muy alta: 300 euros por hora de retraso. 
+— Incidencias de prioridad alta: 150 euros por cada día hábil de retraso.  
+— Incidencias de prioridad media y baja: 75 euros por cada día hábil de retraso. 
+ 
+3. Penalizaciones por incumplimiento de las obligaciones de protección de datos 
+y seguridad 
+ 
+Se consideran incumplimientos graves, que darán lugar a una penalización del 5% del 
+importe total del contrato por cada incumplimiento: 
+ 
+a) Realizar tratamientos de datos personales sin instrucciones de Les Corts 
+Valencianes o contrariamente a las instrucciones recibidas.  
+b) Recurrir a subencargados del tratamiento sin la autorización previa y por escrito 
+de Les Corts Valencianes.  
+c) Realizar transferencias internacionales de datos no autorizadas.  
+d) Incumplir la obligación de notificar una violación de seguridad en el plazo de 
+veinticuatro horas.  
+
+--- página 13 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+13 
+ 
+e) No mantener vigentes las certificaciones de seguridad exigidas (ENS, ISO 27001, 
+ISO 27017, ISO 27018). 
+f) Incumplir los plazos de aplicación de parches de seguridad críticos. 
+ 
+Se consideran incumplimientos muy graves, que darán lugar a una penalización del 10% 
+del importe total del contrato por cada incumplimiento: 
+a) Pérdida, destrucción o corrupción de datos personales de Les Corts Valencianes 
+por negligencia del adjudicatario.  
+b) Acceso no autorizado a datos personales imputable al adjudicatario.  
+c) Negativa u obstrucción al ejercicio del derecho de auditoría por parte de Les Corts 
+Valencianes. 
+ 
+ 
+4. Causa de resolución 
+ 
+Constituirá causa de resolución del contrato, conforme al artículo 211 de la Ley 9/2017, 
+de 8 de noviembre, de Contratos del Sector Público: 
+ 
+a) La acumulación de penalizaciones por incumplimiento de las obligaciones de 
+seguridad y protección de datos que alcancen, en su conjunto, el 20% del importe 
+total del contrato. 
+b) Un incumplimiento grave o reiterado de las obligaciones de protección de datos 
+personales que suponga un riesgo elevado para los derechos y libertades de los 
+interesados. 
+c) La pérdida de la certificación ENS sin recuperación en un plazo de tres meses. 
+d) La negativa reiterada a facilitar información o a permitir auditorías conforme a lo 
+previsto en este pliego. 
+ 
+La resolución por las causas previstas en este apartado será imputable al adjudicatario a 
+todos los efectos, incluyendo la incautación de la garantía definitiva y la indemnización 
+de los daños y perjuicios causados a Les Corts Valencianes. 
+ 
+ 
+PRESCRIPCIÓN 5ª. CUMPLIMIENTO DEL ESQUEMA NACIONAL DE 
+INTEROPERABILIDAD 
+ 
+El sistema deberá cumplir con los requisitos del Real Decreto 4/2010, de 8 de enero, por 
+el que se regula el Esquema Nacional de Interoperabilidad, y sus normas técnicas de 
+desarrollo, en lo que resulte de aplicación a los servicios objeto de este contrato. 
+ 
+En particular, el sistema deberá soportar los estándares de interoperabilidad bibliotecaria 
+más extendidos, incluyendo al menos:  
+ 
+— MARC 21 para el intercambio de registros bibliográficos, de autoridad y de 
+fondos;  
+— ISO 2709 como formato de transporte;  
+
+--- página 14 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+14 
+ 
+— OAI-PMH para la recolección de metadatos; 
+— Z39.50 y SRU/SRW para la búsqueda y recuperación federada;  
+— SIP2 o NCIP para la interoperabilidad con sistemas de circulación y 
+autopréstamo; y  
+— API REST documentada conforme a estándares abiertos (OpenAPI/Swagger) 
+para la integración con otros sistemas de Les Corts Valencianes. 
+ 
+ 
+
+--- página 15 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+15 
+ 
+ 
+III. CARACTERÍSTICAS DE LOS SERVICIOS OBJETO DEL 
+CONTRATO.  
+LOTE 1. Sistema de Gestión Integral de Bibliotecas 
+ 
+ 
+PRESCRIPCIÓN 6ª. CARACTERÍSTICAS DE LOS SERVICIOS OBJETO DEL 
+CONTRATO. LOTE 1. Sistema de Gestión Integral de Biblioteca 
+ 
+6.1 OBJETO DEL CONTRATO del Lote 1 
+ 
+6.2 PARTE 1: Requisitos del servicio  por la suscripción  anual a la plataforma 
+Sistema de Gestión Integral de Biblioteca 
+ 
+6.2.1 Descripción del servicio 
+6.2.2 Gestión y administración del sistema 
+6.2.3 Módulos: 
+6.2.3.1 Adquisiciones 
+6.2.3.2 Catalogación 
+6.2.3.3 Control de publicaciones seriadas  
+6.2.3.4 Circulación 
+6.2.3.5 Catálogo en línea, Herramienta de decubrimiento 
+6.2.3.6 Estadísticas, Informes y Listados 
+ 
+6.3 PARTE 2: Servicios Técnicos relacionados con las tareas de configuración, 
+parametrización, migración, implantación y puesta en funcionamiento 
+ 
+6.3.1 Servicios Técnicos relacionados con las tareas de configuración,  
+parametrización, migración, implantación y puesta en 
+funcionamCriterios técnicos generales 
+6.3.2 Finalización de los servicios técnicos relacionados con las tareas de 
+configuración, parametrización, migracion, implantación y puesta en 
+funcionamiento del SGIB 
+6.3.3 Formato de la propuesta de la Parte 2 del Lote 1: servicios técnicos 
+relacionados con las tareas de configuración, parametrización, 
+migracion, implantación y puesta en funcionamiento del SGIB 
+ 
+6.4 Finalización del servicio 
+6.5 Entregables y documentación de suministro 
+ 
+ 
+ 
+
+--- página 16 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+16 
+ 
+ 
+ 
+6.1 OBJETO DEL CONTRATO del Lote 1 
+ 
+Constituye el objeto de l contrato del Lote 1 de l presente pliego establecer l as 
+condiciones técnicas que regularán la contratación de la suscripción  anual a una 
+plataforma Sistema de Gestión Integral de Biblioteca (SGIB). El Lote 1 se estructura 
+en 2 partes:  
+ 
+PARTE 1: Requisitos del servicio por la suscripción anual a una plataforma 
+Sistema de Gestión Integral de Biblioteca.  
+PARTE 2: Servicios Técnicos relacionados con las tareas de configuración, 
+parametrización, migración, implantación y puesta en funcionamiento. 
+ 
+ 
+6.2 PARTE 1: Requisitos del servicio suscripción anual a una plataforma Sistema 
+de Gestión Integral de Biblioteca  
+ 
+El Sistema de Gestión Integral de Biblioteca (en adelante, SGIB) presentado por el 
+licitador deberá cumplir con los siguientes requisitos técnicos listados en este 
+apartado. El licitador documentará en su oferta el  grado de cumplimiento, aportando,  
+ejemplos reales de funcionamiento en producción y, en su caso, las restricciones que 
+apliquen. 
+ 
+ 6.2.1 Descripción de los servicios.  
+• Solución funcional de gestión bibliotecaria a través de la nube y con todos sus 
+módulos en funcionamiento, que incluya los niveles de hardware, sistema 
+operativo, middleware y versiones de la aplicación. 
+• El sistema deberá ser flexible y altamente configurable para que se adapte a las 
+necesidades de la Biblioteca de Les Corts Valencianes.  
+Se valorará la implantación del SGIB en otras bibliotecas especializadas en 
+ciencias jurídicas o instituciones parlamentarias. 
+• Una única interfaz de trabajo intuitiva y amigable, con acceso a todos los 
+elementos del sistema que ha de ser exclusivamente vía web. Específicamente, no 
+será necesario instalar ningún tipo de cliente local o web para desarrollar ninguna 
+de sus funcionalidades. 
+• El Sistema deberá permitir gestionar de manera unificada todos los materiales 
+impresos, analógicos y electrónicos para ponerlos a disposición de los usuarios 
+finales.  
+
+--- página 17 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+17 
+ 
+• La plataforma deberá ofrecer un espacio común de trabajo que permita compartir 
+registros bibliográficos, registros de autoridad, registros de fondos y 
+localizaciones, metadatos, plantillas y datos de proveedores. 
+• El sistema deberá contar con un conjunto de APIs  o servicios web abiertos e 
+interoperables que permitan la recuperación, creación, modificación y publicación 
+de cualquier tipo de registro (autoridades, bibliográficos, ejemplares, etc.). 
+• El Sistema deberá disponer de un Catálogo en línea que asegure que los servicios 
+configurados para los usuarios finales estén disponibles sin que se requiera 
+ninguna integración adicional o manual por parte de la Biblioteca. 
+• Se valorará que el proveedor del software pueda proporcionar un entorno de 
+pruebas, también alojado en la nube, para evitar equívocos y deficiencias del 
+servicio. Este entorno de pruebas deberá estar disponible, cuando así lo requieran 
+las modificaciones y/o actualizaciones hasta que su implementación sea completa.  
+• Deberá utilizar estándares que aseguren la interoperabilidad y el intercambio de 
+datos bibliográficos con otros sistemas, necesariamente deberá soportar los 
+estándares más extendidos del ámbito bibliotecario.  
+• El sistema deberá permitir la conexión integrada en la nube de manera que no 
+fuere necesario volver a registrarse o cambiar de interfaz en las siguientes áreas 
+de trabajo: 
+o Adquisiciones 
+o Catalogación y control de autoridades 
+o Control de publicaciones seriadas 
+o Circulación 
+o Administración, estadísticas e informes 
+o Gestor de recursos electrónicos 
+o Catálogo en línea/Herramienta de descubrimiento 
+• El sistema deberá permitir la conexión simultánea de usuarios concurrentes, 
+limitada únicamente por el número total de licencias contratadas. 
+• El sistema deberá ofrecer entorno en valenciano y castellano. 
+• La plataforma deberá disponer de ayudas y documentación en línea sobre el 
+propio sistema, sus herramientas, funcionalidades y flujos de trabajo. 
+• Les Corts Valencianes es la única propietaria de sus datos y registros. El sistema 
+deberá estar configurado para que en todo momento la Bibilioteca controle el 
+acceso y uso de sus datos, no pudiendo el adjudicatario habilitar otras vías que las 
+establecidas en este pliego o que la Biblioteca pueda definir en sus acuerdos con 
+terceros. 
+ 
+ 
+6.2.2 Gestión y administración del sistema 
+• El sistema deberá ofrecer una gran flexibilidad para definir, mantener y 
+parametrizar la estructura de la información; contar con una estructura dinámica 
+
+--- página 18 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+18 
+ 
+que permita añadir nuevos elementos de información, clases de registros, 
+relaciones entre registros y puntos de acceso, o modificar los existentes. 
+• El sistema deberá tener la posibilidad de crear los nuevos campos y/o subcampos 
+del formato MARC 21 de todos los tipos de registros. 
+• Deberá contar con un módulo para la gestión y configuración del sistema cuya 
+interfaz sea amigable, no requiera conocimientos de lenguajes de programación y 
+permita ser manejado por personal bibliotecario no informático. 
+• La plataforma deberá contar con herramientas para la selección de conjuntos 
+amplios de registros bibliográficos, de autoridad y de fondos, para su modificación 
+global o parcial, tanto en línea como en procesos batch. 
+• El proceso de importación deberá permitir controlar la creación o sustitución de 
+registros de autoridad, bibliográficos y de fondos y localizaciones.  
+• Deberá incluir soporte para cambios automáticos y masivos de campos y 
+subcampos (añadir, eliminar y/o modificar etiquetas de campo y subcampo, 
+cadenas de caracteres y valores), tanto en los registros del catálogo como en la 
+importación y en la exportación. 
+• Deberá permitir la recuperación de la información bibliográfica mediante palabras 
+clave y texto completo de los campos, sobre uno o varios campos específicos, 
+permitiendo además el uso de delimitadores, comodines, truncamientos y 
+operadores booleanos. 
+ 
+ 
+ 
+6.2.3 Módulos 
+6.2.3.1 Adquisiciones 
+• Este módulo deberá estar plenamente integrado con el módulo de catalogación. 
+• Deberá tener gran flexibilidad en la modificación de pedidos. 
+• En la gestión de los pedidos deberá permitir la consulta simultánea a las bases de 
+datos de los proveedores. 
+• Deberá permitir la búsqueda y recuperación a partir de cualquier elemento de 
+información del pedido. 
+• Deberá permitir la generación de estadísticas e informes en función de criterios 
+configurables (tipo de adquisición, tipo de documento, proveedores, áreas 
+temáticas, listas de novedades, etcétera) 
+• Generar avisos a los usuarios a través de su área personal del catálogo online y del 
+correo electrónico. 
+• Deberá permitir la recepción parcial de pedidos, quedando constancia clara en el 
+sistema de los ejemplares que aún no han llegado. 
+ 
+ 
+
+--- página 19 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+19 
+ 
+ 
+6.2.3.2 Catalogación 
+• El sistema deberá ofrecer catalogación en formato MARC21  para todo tipo de 
+registro y para todo tipo de material, incluido el electrónico, de forma tal que 
+dichos registros puedan ser creados, recuperados, modificados, borrados, 
+migrados y exportados. 
+• En el módulo de catalogación deberá estar totalmente integrada la gestión de 
+autoridades, con el fin de poder efectuar automáticamente la validación de los 
+campos de autoridad de los registros bibliográficos y la transferencia de los 
+valores normalizados e identificadores a los puntos de acceso de las descripciones 
+bibliográficas. 
+• El módulo de catalogación deberá estar integrado con el módulo de adquisiciones. 
+• El módulo deberá permitir el mantenimiento de los registros de autoridad, 
+bibliográficos y de fondos y localizaciones; además de permitir la catalogación a 
+diferentes niveles de descripción. 
+• Deberá permitir la existencia de campos propios y campos no públicos. 
+• El módulo deberá disponer de funciones de edición de tratamiento de texto. 
+• Deberá posibilitar la edicion  masiva de todos los tipos de registros haciendo 
+cambios de indicadores, de cadenas de texto (creación, sustitución y eliminación) 
+y añadir, modificar o borrar campos y subcampos por su etiqueta o por contener 
+un determinado valor. 
+• El sistema deberá disponer de herramientas para la verificación y validación de 
+URL de forma automática de todos los vínculos establecidos en las distintas 
+etiquetas, sobretodo en la etiqueta 856 de los registros. 
+ 
+a) Registros bibliográficos 
+▪ Deberá detectar la existencia o creación de registros duplicados. 
+▪ El módulo deberá soportar ISBN de 10 y 13 dígitos. 
+▪ Deberá asignar la puntuación ISBD.  
+▪ Deberá establecer automáticamente relaciones jerárquicas o 
+paralelas entre registros bibliográficos a través de los campos de 
+relación 76X/78X. 
+▪ Deberá permitir el enriquecimiento de registros bibliográficos con 
+imágenes o documentos (pdf), así como enlaces a sitios web, y 
+poder ser visualizados directamnte en el navegador. 
+ 
+b) Registros de fondos y localizaciones 
+▪ El sistema deberá gestionar registros de ejemplares, que contengan 
+la información relativa a las existencias del documento concreto en 
+
+--- página 20 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+20 
+ 
+la Biblioteca, añadiendo las informaciones de localización 
+correspondientes, permisos en un entorno de circulación y 
+préstamo, y número de registro. 
+▪ La información sobre los ejemplares se ajustará a lo establecido en 
+el formato MARC 21. 
+▪  El sistema controlará la correcta vinculación entre los registros 
+bibliográficos y los registros de fondos, transfiriendo 
+automáticamente los cambios que puedan producirse en los 
+campos que sirven de vínculo. 
+▪ El sistema asignará  códigos de barras de acuerdo con el número 
+de registro de los ejemplares, asignado por la Biblioteca.  
+▪  El sistema deberá permitir imprimir etiquetas con el código de 
+barras. 
+▪  El sistema deberá disponer de funcionalidades para llevar a cabo 
+tareas de recuento y de expurgo. 
+ 
+c) Registros de autoridades 
+▪ Durante el proceso de catalogación se podrán consultar y buscar en 
+los índices de autoridades para poder capturar entradas ya 
+existentes, y evitar la creación de registros duplicados o de puntos 
+de acceso sin control de autoridad. 
+▪ Se podrán gestionar y controlar todos los tipos de registros de 
+autoridad previstos en el formato MARC 21. 
+▪ Los registros de autoridad constituirán, además, un elemento de 
+navegación entre registros de autoridad y entre registros de 
+autoridad y registros bibliográficos. 
+▪ Tanto en la edición, individual o masiva, de registros de autoridad 
+como en la importación, el sistema detectará la existencia de 
+registros de autoridad con encabezamiento igual a otro ya 
+existente. El sistema detectará también la existencia de registros de 
+autoridad duplicados. 
+ 
+6.2.3.3 Control de publicaciones seriadas 
+• El módulo será muy flexible en la generación de los patrones de publicación 
+(numeración y cronología) de las publicaciones seriadas.  
+• Deberá disponer de un sistema de Kardex desde donde gestionar los números de 
+las publicaciones seriadas, basado en los datos normalizados en MARC 21. 
+• Los datos de fondos y ejemplares se presentarán de forma amigable a los usuarios 
+en el catálogo en línea 
+ 
+
+--- página 21 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+21 
+ 
+6.2.3.4 Circulación 
+• El sistema deberá realizar el préstamo con el número de registro del ejemplar. 
+• El módulo de circulación deberá adaptarse a la política de préstamos de la 
+Biblioteca. Deberá ser flexible y permitir una parametrización basada en tipo de 
+usuario/servicios y tipo de material.  
+• El sistema deberá tener la flexibilidad suficiente para poder modificar de forma 
+puntual los límites y validaciones establecidas a un determinado perfil de usuario. 
+• Generará de forma automática las reclamaciones de préstamos vencidos, y deberá 
+ofrecer listados de obras pendientes de devolución. 
+• El sistema generará informes y estadísticas parciales y globales según diferentes 
+criterios: servicio, tipo de lector, tipo de material, signatura, ubicación, etc. 
+• Para la realización de inventarios el sistema deberá permitir la carga de datos 
+desde dispositivos de lectura de códigos de identificación de ejemplares o 
+ficheros.  
+• Deberá informar de los ejemplares que están prestados y de los que falten, 
+ofreciendo diferentes opciones de selección y ordenación de los resultados.  
+• Respecto a la gestión de usuarios, el sistema deberá reunir, al menos las siguientes 
+características: 
+o El sistema cumplirá con la LOPDPGDD, en especial deberá 
+proporcionar un sistema de niveles de acceso a los datos de los usuarios 
+dentro de la Biblioteca, según los  diferentes perfiles del personal.  
+o El sistema deberá permitir la realización de operaciones de altas, bajas 
+y modificación de los datos de usuarios. 
+o El sistema deberá permitir configurar las distintas categorías de 
+usuarios de la Biblioteca, así como el número máximo de documentos 
+que puede tener prestados un mismo usuario. 
+o El sistema deberá gestionar usuarios tanto individuales como 
+institucionales. 
+o El sistema deberá permitir que una persona esté en el sistema con 
+diferentes roles.  
+ 
+6.2.3.5 Catálogo en Línea – Herramienta de descubrimiento 
+• El sistema deberá ofrecer una herramienta de descubrimiento que sea capaz de 
+indexar en tiempo real y permita buscar conjuntamente en todo el conjunto de 
+recursos de la Biblioteca. 
+• Los registros estarán identificados con URL permanentes basadas en el propio 
+identificador de los registros. 
+• El catálogo en línea será accesible para todo tipo de usuarios.  
+• La interfaz de usuario deberá ser multilingüe, al menos en castellano y 
+valenciano. 
+
+--- página 22 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+22 
+ 
+• Proporcionará herramientas fáciles de usar para la configuración y 
+personalización de la interfaz de usuario. 
+• Integrará en su presentación gráfica el logo de Les Corts Valencianes, así como 
+los colores y elementos gráficos aceptados en la imagen corporativa.  
+• Deberá proporcionar una interfaz web de administrador segura y amigable. 
+• La herramienta de descubrimiento, en general, los contenidos y los servicios a los 
+usuarios deberán estar adaptados para su uso en dispositivos móviles. 
+• Se podrá configurar un catálogo de autoridades para la publicación de estos 
+registros, que deberá disponer de capacidad para navegar entre los registros de 
+autoridad y entre los registros de autoridad y los registros bibliográficos. 
+• Deberá permitir búsquedas circunscritas a las revistas y libros electrónicos, a las 
+bases de datos u otro tipo de recursos. 
+• Deberá permitir configurar, añadir y generar nuevos índices. 
+• Deberá incorporar una caja de búsqueda general y única (todos los campos), que 
+permanezca disponible en todas las páginas y menús, así como permitir la 
+búsqueda avanzada por una amplia variedad de campos e índices.  
+• Además de buscar por los campos habituales (autor, título, editorial, series, 
+números normalizados, etcétera), permitirá que se puedan realizar búsquedas por 
+fecha de publicación, signatura y código de barras. 
+• Deberá ofrecer la posibilidad de utilizar comodines, truncamientos y operadores 
+booleanos en las búsquedas simples y avanzadas. Deberá disponer de filtros por 
+temas o categorías temáticas, facetas o delimitadores de búsqueda.  
+• Permitirá que los usuarios puedan ordenar los resultados de la búsqueda según 
+diferentes criterios como autor, título, materia, fecha de publicación, etcétera, de 
+forma ascendente o descendente. 
+• Mostrar las relaciones entre registros como hipervínculos activos que permitan 
+navegar entre los distintos tipos de registros y los recursos electrónicos. 
+• Deberá disponer de un "Área personal" a la que tener acceso todos los usuarios 
+registrados en el sistema a través de su propia cuenta. Y posibilitar la gestión 
+autónoma por parte del usuario de la consulta de su situación respecto al préstamo 
+de documentos y acc iones como la renovación, la reserva y la presentación de 
+desideratas. Desde esta área se accedería, al menos, a los siguientes servicios:  
+o Acceso identificado: área personal 
+o Opciones de personalización (lengua, número de registros por página, 
+etc.) 
+o Búsquedas guardadas 
+o Listados y selecciones bibliográficas 
+o Consulta y renovaciones de préstamos 
+o Reservas de ejemplares 
+o Petición de nuevas adquisiciones (desideratas), consulta a las 
+bibliotecarias, etc. 
+o Sugerencias 
+
+--- página 23 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+23 
+ 
+ 
+• Deberá cumplir  con la norma de la Open Discovery Initiative: promoting 
+Transparency in Discovery (La Open Discovery Initiative (ODI) tiene como objetivo la definición 
+de estándares y / o mejores prácticas para la nueva generación de servicios de descubrimiento de bibliotecas 
+que se basan en búsquedas indexadas). 
+• Deberá tener opciones de visualización y exportación de los registros: etiquetado, 
+MARC 21, MARC XML, BIBFRAME y formatos de cita bibliográfica. Así como, 
+que pueda permitir la integración de referencias bibliográficas en sistemas como 
+EndNote, RefWorks , Mendeley, Zotero, etc., según los estilos de cita más 
+extendidos como UNE-ISO 690, MLA, APA, Chicago, etc. 
+• Deberá integrar carruseles de novedades bibliográficas y/o recursos temáticos de 
+la Biblioteca. 
+• Todos los cambios de configuración se podrán comprobar previamente en el 
+entorno de pruebas. 
+ 
+6.2.3.6 Estadísticas, informes y listados 
+• El sistema deberá proporcionar de forma integrada una herramienta de análisis 
+estadístico y obtención de informes. Esta herramienta deberá permitir la obtención 
+de una amplia variedad de datos estadísticos sobre la plataforma y la herramienta 
+de descubrimiento y deberá formar parte del paquete estándar, sin ningún coste 
+adicional para la Biblioteca. 
+• Deberá disponer de análisis cuantitativos para evaluar el estado de las colecciones 
+de la Biblioteca y su desarrollo durante periodos de tiempo seleccionables. Se 
+valorará que el sistema disponga de informes sobre los registros (de autoridades, 
+bibliográficos y de fondos y localizaciones, y usuarios) duplicados. 
+• Deberá permitir elaborar los informes necesarios para el seguimiento y evaluación 
+de la actividad de la biblioteca, así como la generación de listados, selecciones de 
+registros y extracciones de datos. 
+• El sistema generará estadísticas sobre los diferentes flujos de trabajo a partir de 
+plantillas definidas, fusionando los datos necesarios para la elaboración de listados 
+e informes. El licitador detallará en su oferta los informes y estadísticas que el 
+sistema proporcione por defecto. 
+• Los informes y estadísticas se podrán programar para su ejecución periódica o 
+lanzarse en un momento concreto. 
+• Deberá incluir estadísticas sobre todos los tipos de registros y todas las 
+operaciones y actividades realizadas en el sistema durante periodos de tiempo 
+seleccionados.  
+• Igualmente, se podrán obtener datos cuantitativos sobre el estado de los diferentes 
+tipos de registros y de los registros categorizados por cualquiera de las políticas 
+definidas por la Biblioteca, ya sean de adquisiciones, catalogación, préstamo, 
+circulación, etc. 
+
+--- página 24 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+24 
+ 
+• Deberá permitir obtener listados e informes en formatos abiertos: CSV , XML, 
+HTML, etc. 
+•  Deberá disponer de informes sobre el número de usuarios del catálogo en línea. 
+ 
+6.3 PARTE 2: Servicios Técnicos relacionados con las tareas de configuración, 
+parametrización, migración, implantación y puesta en funcionamiento 
+ 
+6.3.1 Servicios Técnicos relacionados con las tareas de configuración,  
+parametrización, migración, implantación y puesta en funcionamiento.  
+ 
+En el marco del presente contrato se comprenden asimismo una serie de servicios de 
+carácter técnico relacionados con las tareas de configuración, parametrización, 
+migración de información desde el sistema actual, implantación y puesta en 
+funcionamiento del sistema descrito en la Parte 1 del Lote 1 del presente pliego.  
+ 
+El plazo para la realización de los trabajos descritos en este apartado es de un año. Los 
+trabajos contenidos en la Parte 2 del Lote 1 se abonarán de forma independiente a los 
+servicios anuales concretados en la Parte 1 del Lote 1 , tal como se explicita en el 
+PCAP de esta licitación. 
+ 
+Los trabajos a realizar serán los siguientes:  
+ 
+a) Migración:  
+- Planificación de la migración : definición de tareas y elaboración de 
+cronograma.  
+- Acreditación de planes de migración realizados del software anterior de la 
+Biblioteca al nuevo.  
+- Para una planificación y valoración más ajustada de la migración, el 
+número y tipología de referencias y documentos a migrar son (jun. 2026): 
+ 
+ 
+Material Registros Cubiertas Sumarios 
+jpg/tiff pdf 
+LIBROS 33.131 6.672 3.990 
+CAPÍTULOS DE LIBRO 18.167 18.167 --- 
+FONDOS-LIBROS 34.761 ---  
+PUBLICACIONES PERIÓDICAS 377 267 --- 
+EJEMPLARES 24.333 24.329 10.929 
+ARTÍCULOS 67.219 67.219 --- 
+RECURSOS INTEGRABLES 56 51 --- 
+TOTAL 178.044 116.705 14.919 
+ 
+ 
+
+--- página 25 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+25 
+ 
+b) Parametrización y configuración del nuevo sistema de gestión bibliotecaria.  
+c) Configuración del catálogo en línea, incluyendo la personalización a la imagen 
+corporativa de Les Corts Valencianes.  
+d) Extracción, transformación y migración de los datos del actual sistema de gestión 
+tanto a un entorno de pruebas  como al entorno final de producción. Las 
+herramientas y procedimientos necesarios correrán a cargo del adjudicatario.  
+e) Formación. 
+f) Definición y documentación de procedimientos y, en su caso, herramientas 
+necesarias para la implementación de una fase de salida o fin de operación en el 
+caso de que en un futuro la Biblioteca de Les Corts Valencianes  decidiera cambiar 
+a otro proveedor.  
+g) Implantación y puesta en producción del nuevo sistema.  
+ 
+ 
+ 
+6.3.2 Finalización de los servicios técnicos relacionados con las tareas  de 
+configuración, parametrización, migracion, implantación y puesta en 
+funcionamiento del SGIB 
+ 
+A efectos de validación de los trabajos objeto de estos servicios, se entenderán como 
+finalizados una vez se verifiquen las siguientes condiciones: 
+• La plataforma se ajusta al sistema de diseño corporativo de Les Corts 
+Valencianes. 
+• Se han configurado correctamente los roles y puede validarse que la 
+funcionalidad ofrecida a los usuarios administradores (personal bibliotecario), 
+los usuarios registrados y los usuarios externos es la esperada. 
+• Están disponibles los módulos que se listan en la Parte 1 de este documento: 
+Plataforma de Gestión Bibliotecaria, Catálogo en línea, herramientas de 
+importación y exportación, entorno de pruebas, ERM y módulo de gestión y 
+configuración. 
+• Los registros bibliográficos del sistema anterior están incorporados y pueden 
+ser localizados mediante una búsqueda. 
+• Es posible realizar una exportación del catálogo. 
+• El alta de un registro se produce de manera síncrona y puede ser visualizado 
+inmediatamente por los usuarios desde el catálogo en línea. 
+• Pueden obtenerse informes de seguimiento y evaluación de la actividad de la 
+Biblioteca. 
+• Existe un entorno de pruebas donde los administradores pueden probar nuevas 
+funcionalidades y formarse. 
+• Se ha realizado la formación al personal de la Biblioteca.  
+• Se han aportado los entregables , relativos a los trabajos realizados , que se 
+mencionan en el apartado 6.5 Entregables y Documentación del Servicio. 
+
+--- página 26 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+26 
+ 
+ 
+ 
+6.3.3 Formato de la propuesta  de la Parte  2 del Lote 1: servicios técnicos 
+relacionados con las tareas de configuración, parametrización, 
+migracion, implantación y puesta en funcionamiento del SGIB 
+ 
+Para la mejor valoración de las ofertas presentadas de la Parte 2 del Lote 1 se 
+considerarán los ítems que se describen a continuación en este apartado:  
+ 
+Comprensión de servicio 
+Se valorará en qué medida las ofertas presentadas han comprendido la naturaleza 
+del servicio solicitado, así como las necesidades expresadas en el conjunto del 
+presente Pliego de Prescripciones Técnicas. Asimismo, será valorable la calidad 
+en la identificación de tareas y el cronograma propuesto.  
+ 
+Plan de migración 
+Bajo este requisito se procederá a valorar la metodología y herramientas que se 
+proponen para la realización de la migración desde la plataforma anterior a la 
+nueva, el análisis de posibles problemas de normalización y las propuestas, en su 
+caso, para su resolución.  
+ 
+Metodología de gestión del proyecto 
+El objetivo de este requisito es valorar la calidad técnica del sistema de gestión de 
+todo el proyecto, desde su fase de adjudicación hasta la puesta en producción del 
+nuevo sistema. Se requiere, para ello, un detalle de la metodología de gestión y 
+control de calidad de los trabajos realizados, así como el sistema de estimación de 
+esfuerzos para las tareas y las medidas previstas para la corrección de desviaciones 
+no previstas sobre lo planificado.  
+ 
+Plan de formación 
+Las ofertas deberán especificar qué tipo de recursos, herramientas y/o actividades 
+de formación  se proponen para garantizar que el nuevo sistema puede ser operado 
+y gestionado por el personal de la Biblioteca, una vez puesto en producción. 
+ 
+Plan de finalización del servicio 
+Se establece en el apartado como obligatoria la existencia de un sistema de 
+exportación de toda la información que evite la dependencia del proveedor en caso 
+de que, tras la finalización del servicio y expiración del período de vigencia de las 
+licencias, Les Corts Valencianes optaran por elegir una solución distinta.  
+ 
+
+--- página 27 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+27 
+ 
+Las memorias de las ofertas deberán explicitar los mecanismos, procedimientos y 
+tareas necesarios ante esta hipotética finalización del servicio. Se evaluará la 
+calidad y viabilidad de los planes de finalización del servicio presentados, 
+valorándose especialmente aquellos en los que se esti me que se minimiza en 
+mayor medida el efecto ‘dependencia del proveedor’. 
+ 
+ 
+ 
+6.4  FINALIZACIÓN DEL CONTRATO DEL LOTE 1 
+ 
+A la finalización del contrato toda la información propia de la institución se entregará 
+a la Biblioteca sin coste alguno. La empresa proveedora garantizará con carácter previo 
+a la contratación que, a la finalización del contrato, será viable la devolución o 
+portabilidad de los datos de los que es propietaria la Biblioteca, teniendo en cuenta las 
+siguientes circunstancias: 
+• Los datos se proporcionarán en un formato estándar y compatible que permita 
+la portabilidad a un sistema distinto del proporcionado por la empresa 
+proveedora. Asimismo, los datos serán devueltos a la Biblioteca, en la forma 
+y estructura que acuerden ambas partes, atendiendo a criterios técnicos que 
+tengan por objetivo que la citada devolución o portabilidad posibilite la 
+continuidad de los servicios que presta la Biblioteca. 
+• La colaboración y puesta a disposición de la Biblioteca de los datos por parte 
+del proveedor no deberá estar sujeta a precio alguno. 
+• La empresa proveedora conservará una copia de los datos durante el periodo 
+de tiempo necesario para que la Biblioteca pueda hacer  uso del software con 
+normalidad, bien por sí misma, bien mediante otro proveedor. Restablecido el 
+servicio, la Biblioteca deberá  comunicarlo a la empresa proveedora a fin de 
+que la misma pueda proceder al borrado de los datos, sin perjuicio de que la 
+misma pueda conservarlos, debidamente bloqueados, en tanto pudieran 
+derivarse responsabilidades de su relación con la Biblioteca. 
+• La empresa proveedora responderá de los daños y perjuicios ocasionados a la 
+Biblioteca como consecuencia de la falta de colaboración o colaboración 
+deficiente en la puesta a disposición de los datos propiedad de la Institución, 
+de forma que se impida el normal funcionamiento del servicio. 
+• El deber de confidencialidad, tanto por parte del contratista respecto de la 
+información a la que tenga acceso con ocasión de la ejecución del contrato a 
+la que se le hubiese dado el referido carácter en los pliegos o en el contrato, o 
+que por su propia na turaleza deba ser tratada como tal, como del órgano de 
+contratación respecto a la información facilitada por el contratista que este 
+haya designado como confidencial en el momento de presentar la oferta, se 
+regirá por lo dispuesto en el artículo 133 de la LCSP. El adjudicatario se 
+
+--- página 28 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+28 
+ 
+comprometerá a mantener en secreto todos los datos e informaciones 
+facilitados por la Biblioteca que sean concernientes al suministro del software 
+aquí regulado. 
+ 
+ 
+6.5 ENTREGABLES Y DOCUMENTACIÓN DEL SERVICIO 
+ 
+• Como parte de los trabajos objeto del contrato, el adjudicatario se compromete 
+a generar y facilitar toda la documentación sobre las funcionalidades del 
+software, de soporte, actuaciones técnicas, correcciones, lanzamientos y 
+actualizaciones, así como a ponerla a disposición de la Biblioteca de Les Corts 
+de forma continuada y actualizada en un repositorio de información accesible 
+por el personal de la Biblioteca responsable del contrato.  
+• Toda la documentación generada por la biblioteca de Les Corts Valencianes es 
+de su propiedad exclusiva, sin que el adjudicatario pueda conservarla, ni 
+obtener copia de la misma o facilitarla a terceros sin la expresa autorización 
+formal de Les Corts Valencianes.  
+• La documentación a elaborar en el ámbito del contrato se ajustará a la 
+metodología implantada en la Biblioteca de Les Corts Valencianes (incluyendo 
+formatos, plantillas, etc.) y deberá estar permanentemente actualizada. En los 
+casos en los que no exista definida una plantilla concreta para algún tipo de 
+entregable, la empresa adjudicataria propondrá un formato que deberá ser 
+aprobado por la Biblioteca. 
+ 
+ 
+
+--- página 29 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+29 
+ 
+ 
+IV. CARACTERÍSTICAS DE LOS SERVICIOS OBJETO DEL 
+CONTRATO. LOTE 2. Plataforma de gestión de préstamo electrónico 
+ 
+PRESCRIPCIÓN 7ª. CARACTERÍSTICAS DE LOS SERVICIOS OBJETO DEL 
+CONTRATO. LOTE 2 Plataforma de gestión de préstamo electrónico 
+ 
+1. Objeto del contrato 
+2. Requisitos  
+2.1. Requisitos funcionales 
+2.2. Requisitos particulares 
+2.2.1 Contenidos 
+2.2.2 Lectura y accesibilidad 
+2.2.3 Usabilidad 
+2.2.4 Personalización 
+2.2.5 Formación  
+2.2.6 Apoyo Técnico , servicio de mantenimiento y actualización de la 
+plataforma 
+2.2.7 Prestación de l servicio de información, seguimiento, asesoramiento y 
+dinamización 
+3. Puesta en funcionamiento y duración del contrato 
+3.1. Puesta en funcionamiento 
+3.2. Finalización del contrato 
+4. Condiciones generales de realización 
+4.1. Medio materiales  
+4.2. Información de base 
+4.3. Transferencia tecnológica e información técnica 
+ 
+ 
+
+--- página 30 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+30 
+ 
+1. Objeto del contrato 
+  
+El objeto del contrato es el suministro de una plataforma web que haga posible la 
+prestación del servicio de préstamo  electrónico y lectura de la biblioteca digital de Les 
+Corts Valencianes, incluidos los servicios de configuración, personalización, 
+implantación, mantenimiento, soporte, formación y adquisición de contenidos. El alcance 
+de este suministro se define en este pliego de prescripciones técnicas.  
+ 
+ 
+2. Requisitos 
+La oferta deberá ser en la modalidad de software como servicio (Software as a Service) 1 
+y ha de cumplir, como mínimo, los requisitos descritos en este pliego. 
+ 
+2.1. Requisitos funcionales 
+La plataforma deberá ofrecer, de manera diferenciada e interrelacionada, las 
+funcionalidades siguientes: 
+• Una interfaz web para el acceso de los usuarios lectores de Les Corts 
+Valencianes a la biblioteca digital, la cual deberá permitir: 
+o La consulta de los contenidos en ‘streaming’2. 
+o El préstamo y la lectura de libros, revistas y prensa electrónicos en formato 
+estándar EPUB, EPUB2, EPUB3 y PDF, con la opción de lectura fuera de 
+línea utilizando un sistema de gestión de derechos digitales (Digital Rights 
+Management, DRM). 
+o El préstamo y la consulta de audiolibros y vídeos (en formato MP3 y 
+MP4), en ‘streaming’ y de manera segura, utilizando una red de entrega de 
+contenidos (Content Delivery Network) 3 para garantizar su correcto 
+funcionamiento desde cualquier lugar. 
+o El préstamo y la consulta de otros contenidos multimedia. 
+o La consulta de los contenidos en la web y en dispositivos móviles. 
+ 
+ 
+ 
+ 
+ 
+1 El acrónimo correspondiente es «SaaS». Se trata de un modelo de distribución de software cuya licencia funciona 
+mediante suscripción y ofrece un modelo de pago por uso. SaaS es una de las tres categorías principales que conforman 
+la informática en la nube (cloud computing). 
+2 Streaming : visualización en línea de contenido multimedia sin necesidad de descargarlo por completo en el dispositivo. 
+3 La sigla correspondiente es «CDN». Se trata de una red de servicios interconectados que acelera la carga de las 
+páginas web para las aplicaciones que tienen un uso intensivo de datos. 
+ 
+
+--- página 31 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+31 
+ 
+• Un módulo de administración, que deberá ser una interfaz web dirigida a los 
+administradores de la plataforma para gestionar, configurar y personalizar los 
+parámetros relativos al préstamo, visualización y gestión de los contenidos 
+digitales. En concreto, este módulo deberá permitir, entre otras acciones: 
+o La parametrización del préstamo en cuanto al número de 
+documentos, los plazos y las tipologías de usuario y de contenidos. 
+o La parametrización y la gestión de los contenidos en cuanto a los 
+metadatos, la ordenación, la agrupación y la presentación. 
+o La inclusión de contenidos propios, tales como las publicaciones 
+de Les Corts Valencianes. 
+o La integración de contenidos externos facilitados por otros 
+proveedores y/o ‘marketplace’. 
+o La moderación de las reseñas que hacen los usuarios, con opción 
+de hacerlas públicas o no. 
+ 
+• Un mercado web (marketplace ) o repositorio de contenidos digitales 
+integrados con la plataforma, desde el que se puedan seleccionar, proponer y 
+adquirir contenidos que configurarán el catálogo de la biblioteca digital. Este 
+mercado web o repositorio de contenidos digitales se valorará , entre otros 
+aspectos: 
+o Un catálogo en línea amplio, de calidad y dinámico en cuanto a la 
+oferta editorial y la incorporación de novedades, con al menos 1 
+millón de títulos con derechos de autor. 
+o Diversidad de editoriales, incluyendo editoriales destacadas en el 
+ámbito de las ciencias sociales y el derecho público, que sean 
+relevantes para una biblioteca parlamentaria. 
+ 
+La empresa licitadora deberá facilitar, como mínimo, un usuario de acceso al 
+mercado web durante el tiempo de la valoración, que permita a Les Corts 
+Valencianes poder acceder a ella para su valoración. 
+ 
+2.2. Requisitos particulares 
+La plataforma de biblioteca digital deberá cumplir unos requisitos en cuanto a contenidos, 
+lectura, accesibilidad, usabilidad y personalización. 
+ 
+La Biblioteca de Les Corts Valencianes es una biblioteca especializada en derecho público 
+y, específicamente, en derecho parlamentario. Para asegurar la correcta prestación de los 
+servicios detallados en este pliego de prescripciones técnicas, y en concret o en lo 
+referente al tipo de contenidos, es necesario que las empresas licitadoras estén 
+familiarizadas con bibliotecas parlamentarias o de características similares.  
+ 
+ 
+ 
+
+--- página 32 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+32 
+ 
+2.2.1. Contenidos 
+En cuanto a los requisitos de contenidos, la plataforma de biblioteca digital deberá incluir: 
+• Un mecanismo de protección para proteger los derechos de autor (DRM). 
+• El suministro de contenidos en modalidades diferentes: compra a perpetuidad, 
+compra de licencias de uso (por tiempo o por número de préstamos) o pago 
+por préstamo efectuado  (pay-per-view). 
+• Propuestas periódicas de nuevos contenidos seleccionados teniendo en cuenta 
+la especialización de la biblioteca parlamentaria y las necesidades de la 
+cámara. 
+• La posibilidad de integrar u ofrecer el acceso a contenidos digitales suscritos 
+por la Biblioteca y alojados en otras plataformas. 
+• La interlocución por parte de la empresa con editoriales o títulos no incluidos 
+en el mercado web. 
+• La consulta y el préstamo de contenido multiformato.  
+• La posibilidad de subir publicaciones y contenidos digitales propios, tales 
+como las publicaciones de Les Corts Valencianes. 
+• La posibilidad de subir contenidos a la biblioteca digital sin la intervención 
+del proveedor. 
+• La opción de búsqueda de contenidos simple (tipo Google) y también la 
+opción de búsqueda avanzada, como mínimo por título, autor, editorial, fecha 
+de edición y materia. 
+• La posibilidad de agrupar y organizar los contenidos en diferentes conjuntos 
+temáticos de manera autónoma por parte de la Biblioteca. 
+• La opción de incluir y editar metadatos. 
+• La exportación y la importación de metadatos sin la intervención del 
+proveedor. 
+• Los metadatos en formato Marc21. 
+• En caso de que haya un cambio de proveedor del servicio, la plataforma deberá 
+permitir la migración de los contenidos adquiridos a perpetuidad hacia la 
+nueva plataforma4; deberá mantener las condiciones de préstamo de los libros 
+que en ese momento esten prestados, evitando  en la medida de lo posible,  
+causar molestias a los usuarios que tengan en el momento de la migración 
+préstamos activos. 
+ 
+2.2.2. Lectura y accesibilidad 
+ 
+4 Quedan exentos de este requisito los contenidos que la editorial ha retirado de la plataforma debido a un cambio de 
+línea editorial, una fusión, etc. 
+ 
+
+--- página 33 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+33 
+ 
+En cuanto a los requisitos de lectura y accesibilidad, la plataforma de biblioteca digital 
+deberá incluir: 
+• La consulta de la biblioteca digital y el acceso a los contenidos desde 
+cualquier dispositivo electrónico (lector de libros electrónicos, tableta, 
+teléfono inteligente, ordenador de mesa, portátil, etc.) desde una única 
+cuenta de usuario. 
+• La previsualización parcial de las obras antes de que se produzca el 
+préstamo. Esta previsualización deberá permitir la lectura de, al menos, el 
+10% de las páginas, y un tiempo similar en audición o visualización en los 
+recursos audiovisuales. 
+• La opción de devolver los préstamos antes de la fecha de vencimiento. 
+• La opción de hacer reservas de documentos que se encuentran prestados a 
+otro usuario o usuaria, con la generación de un aviso personalizado cuando 
+el préstamo se haya devuelto y ya esté disponible. 
+• La opción de proponer desideratas de libros u otros contenidos con la 
+generación de un aviso personalizado cuando el contenido esté disponible 
+en la plataforma. 
+• La opción de generar y difundir enlaces directos y estables a un documento 
+o conjunto de documentos. 
+• La lectura en ‘streaming’, que, a su vez, deberá permitir: 
+o La sincronización entre dispositivos, de manera que quede 
+registrado el punto de lectura donde se encuentra el usuario o 
+usuaria para que pueda continuar su lectura en cualquier 
+circunstancia. 
+o El marcaje de páginas. 
+o La opción de subrayar. 
+o La opción de hacer búsquedas dentro del texto. 
+o La modificación del tamaño del texto, el interlineado y el color del 
+fondo. 
+o La elección del tipo de letra y la lectura en una o dos páginas. 
+• El acceso a la biblioteca las veinticuatro horas del día los siete días de la 
+semana, desde cualquier punto geográfico, tanto si se está en línea como fuera 
+de línea. 
+• La compatibilidad de uso, como mínimo con los navegadores Microsoft Edge, 
+Google Chrome, Safari y Mozilla Firefox, en cualquiera de las versiones más 
+actuales. 
+ 
+ 
+ 
+ 
+
+--- página 34 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+34 
+ 
+2.2.3. Usabilidad 
+En cuanto al requisito de usabilidad, la plataforma de biblioteca digital deberá permitir: 
+• El uso del servicio por parte de cincuenta usuarios potenciales de manera 
+simultánea. 
+• La opción de autoregistro de los usuarios lectores. 
+• El alta, la baja y la edición de los datos de los usuarios lectores. 
+• El uso de un sistema estándar que permita al usuario o usuaria autentificarse 
+en diferentes dispositivos (ordenadores de mesa, lectores de libros 
+electrónicos, tabletas, teléfonos inteligentes, etc.) con una única contraseña, 
+para facilitar el acceso y mejorar la experiencia de los usuarios. 
+• El hecho de poder usarla desde cualquier dispositivo, sea interno de Les Corts 
+Valencianes o externo. 
+ 
+ 
+2.2.4. Personalización 
+En cuanto al requisito de personalización, la plataforma de biblioteca digital deberá 
+permitir: 
+• La disponibilidad de aplicaciones móviles (app) personalizadas para iOS y 
+Android. 
+• La incorporación de la imagen corporativa de Les Corts Valencianes en la 
+interfaz web y las aplicaciones móviles y que se facilitará al inicio del contrato. 
+• La personalización de pantallas de novedades e información de la Biblioteca 
+de la interfaz web. 
+• La obtención de indicadores estadísticos de manera autónoma, tales como el 
+número de lectores, el número de documentos prestados, los títulos prestados, 
+la tipología de lectores y el tiempo de lectura, entre otros. 
+• La posibilidad de integrar contenidos de la plataforma en el software de la 
+Biblioteca.  
+• La personalización de contenidos y la propuesta periódica de novedades 
+adaptada a una biblioteca parlamentaria. 
+• La personalización de los mensajes dirigidos a los usuarios, con la revisión del 
+texto por parte de la Biblioteca. 
+• La posibilidad de que los usuarios elijan el idioma de manera autónoma, según 
+su preferencia. La interfaz web deberá estar disponible en valenciano y 
+castellano. 
+• Mecanismos de seguimiento del gasto de consumo de contenidos —en 
+cualquiera de las modalidades de manera autónoma y por parte del personal 
+bibliotecario. 
+ 
+
+--- página 35 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+35 
+ 
+2.2.5. Formación 
+• La empresa adjudicataria deberá ofrecer sesiones de formación tanto a los 
+administradores (personal de la Biblioteca) como a los usuarios lectores.  
+• Se valorará un mínimo de cuatro horas anuales en concepto de formación, 
+susceptibles de repartirse dos veces al año. 
+ 
+2.2.6. Apoyo técnico, servicio de mantenimiento y actualización de la plataforma 
+• La empresa adjudicataria deberá ofrecer un servicio de atención especializado 
+para responder a las preguntas o las comunicaciones sobre posibles errores del 
+software, propuestas de mejora o similares. Este servicio deberá estar disponible 
+por medio de atención telefónica y también por vías electrónicas, como un buzón 
+de correo electrónico o formularios en páginas web.  
+• La empresa adjudicataria deberá garantizar la evolución tecnológica de la 
+plataforma y de las aplicaciones móviles, con las adaptaciones adecuadas a las 
+últimas versiones de los navegadores mencionados en el apartado 2.2.2. 
+ 
+2.2.7. Prestación del servicio de información, seguimiento, asesoramiento y 
+dinamización 
+• Para optimizar las prestaciones y potenciar el uso de la plataforma 
+de biblioteca digital, es necesario disponer de un servicio periódico 
+de seguimiento. Es por ello que la empresa adjudicataria ha de tener 
+herramientas que permitan conocer el estado del uso de la plataforma 
+en cualquier momento, de manera que con el análisis de esta 
+información se puedan ofrecer propuestas y recursos de 
+dinamización para potenciar su uso. 
+• La empresa adjudicataria deberá ofrecer un mínimo de cuatro horas 
+de asesoramiento por medio de reuniones telemáticas anuales con 
+las técnicas responsables de la Biblioteca para hacer el seguimiento 
+de la prestación del servicio y la adaptación de mejoras e informar 
+de las novedades de la plataforma, los cambios previstos a 
+incorporar y las soluciones adoptadas. 
+• La empresa adjudicataria deberá entregar un informe anual con el 
+análisis de los datos del uso de la plataforma. 
+• La empresa adjudicataria deberá especificar a la persona nombrada 
+como responsable técnica del contrato, que será la interlocutora de 
+referencia con la Biblioteca. 
+ 
+3. Puesta en funcionamiento y duración del contrato. 
+
+--- página 36 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+36 
+ 
+ 
+3.1. Puesta en funcionamiento 
+El plazo de entrega, la instalación y la puesta en funcionamiento de la plataforma es, de 
+como máximo, treinta días hábiles desde la fecha de inicio de ejecución del contrato. Se 
+valorará la reducción de este plazo. 
+ 
+En su caso, la puesta en marcha incluirá: 
+• Personalización de la imagen  corporativa e incorporación de los logos 
+mencionados con anterioridad. 
+• Implementación de los perfiles de administración necesarios para 
+gestionar la biblioteca electrónica. 
+• Formación inicial para los administradores y gestores de la biblioteca. 
+• Entrega de la documentación técnica de la plataforma. 
+• Migración de contenidos y de los préstamos en activo. 
+• Cualquier otra tarea necesaria para que todos los servicios y aplicaciones 
+sean accesibles para el personal de gestión y los usuarios finales. 
+ 
+Durante el período de vigencia del contrato el adjudicatario/a deberá garantizar el correcto 
+funcionamiento del servicio. Se obliga a realizar durante dicho tiempo las correcciones y 
+modificaciones necesarias para subsanar los errores ocultos que eventualmente pudieran 
+aparecer. 
+ 
+ 
+3.2. Finalización del contrato 
+ 
+• A la finalización del contrato por cualquiera de las causas que lo pudieran 
+extinguir, la empresa adjudicataria deberá colaborar, en su caso, con el nuevo 
+adjudicatario/a en las actividades encaminadas a la planificación y ejecución del 
+cambio. 
+ 
+• En particular, el adjudicatario/a deberá entregar todos los objetos digitales 
+adquiridos por Les Corts Valencianes, en cualquiera de sus modalidades, que estén 
+alojados en la plataforma en ese momento, así como realizar una exportación, de 
+acuerdo con la norma ISO 2709 con los registros MARC21, correspondiente a 
+dichos objetos digitales almacenados en la base de datos. 
+ 
+ 
+4. Condiciones generales de realización 
+ 
+4.1 Medios materiales 
+Los medios materiales que necesite el contratista para la realización de sus tareas correrán  
+por su cuenta. 
+ 
+
+--- página 37 ---
+ 
+CV-BIB-2026-02. Licitación pública “SISTEMA DE GESTIÓN INTEGRAL MATERIAL FÍSICO Y DIGITAL DE LA 
+BIBLIOTECA DE LES CORTS VALENCIANES”  
+AM 2341/XI 
+37 
+ 
+4.2 Información de base 
+Les Corts Valencianes facilitará al contratista toda la información de la que disponga 
+relacionada con las materias objeto del presente contrato. Toda la información que se 
+proporcione es propiedad de Les Corts Valencianes y no podrá ser utilizada en futur os 
+trabajos, ya sea como referencia o como base de los mismos, a menos que se cuente con 
+la autorización expresa, por escrito, de Les Corts Valencianes. 
+ 
+4.3 Transferencia tecnológica e información técnica 
+Durante la ejecución de los trabajos objeto del contrato el contratista se compromete, en 
+todo momento, a facilitar a las personas designadas por Les Corts Valencianes a tales 
+efectos la información y documentación que soliciten para disponer de un pleno 
+conocimiento de las circunstancias en que se desarrollan los trabajos, así como de los 
+eventuales problemas que puedan plantearse y de las tecnologías, métodos y herramientas 
+utilizados para resolverlos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

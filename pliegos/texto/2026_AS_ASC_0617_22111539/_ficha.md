@@ -10,9 +10,9 @@
 
 ## Documentos
 
-- [Legal] MR PCAP.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] MR PPT.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] Anexo I Declaracion Responsable SOBRE 1.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] Anexo XXVII Compromiso constitucion UTE SOBRE 1.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] Anexo VII compromiso de oferta economica SOBRE 1.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] Anexo XIX Notificaciones SOBRE 1.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] MR PCAP.pdf: 01_Legal_MR_PCAP.pdf (838 KB)
+- [Technical] MR PPT.pdf: 02_Technical_MR_PPT.pdf (307 KB)
+- [Additional] Anexo I Declaracion Responsable SOBRE 1.pdf: 03_Additional_Anexo_I_Declaracion_Responsable_SOBRE_1.pdf (218 KB)
+- [Additional] Anexo XXVII Compromiso constitucion UTE SOBRE 1.pdf: 04_Additional_Anexo_XXVII_Compromiso_constitucion_UTE_SOBRE_1.pdf (103 KB)
+- [Additional] Anexo VII compromiso de oferta economica SOBRE 1.pdf: 05_Additional_Anexo_VII_compromiso_de_oferta_economica_SOBRE_1.pdf (92 KB)
+- [Additional] Anexo XIX Notificaciones SOBRE 1.pdf: 06_Additional_Anexo_XIX_Notificaciones_SOBRE_1.pdf (127 KB)

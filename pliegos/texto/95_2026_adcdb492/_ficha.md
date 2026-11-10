@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] 95-2026 PCAP.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] 95-2026 PPTP.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] 95-2026 PCAP.pdf: 01_Legal_95-2026_PCAP.pdf (514 KB)
+- [Technical] 95-2026 PPTP.pdf: 02_Technical_95-2026_PPTP.pdf (898 KB)

@@ -1,0 +1,1906 @@
+
+
+--- página 1 ---
+                                                                                
+ 
+ 
+1 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES PARA LA CONTRATACIÓN 
+DEL SERVICIO DE MANTENIMIENTO INTEGRAL DE LA INFRAESTRUCTURA 
+HIPERCONVERGENTE HPE SIMPLIVITY DEL PROCURADOR DEL COMÚN DE CASTILLA Y 
+LEÓN 
+Expediente: EC 26-13 
+ 
+ 
+ 
+Cuadro resumen 
+A.- Poder adjudicador 
+Entidad contratante: Procurador del Común de Castilla y León. 
+Órgano de contratación: Procurador del Común de Castilla y León. 
+Servicio Gestor: Secretaría General de apoyo a las Instituciones Propias de la Comunidad 
+de Castilla y León. 
+B.- Objeto del contrato: Servicio de mantenimiento integral (hardware y software) de 
+la infraestructura hiperconvergente HPE Simplivity del Procurador del Común de Castilla 
+y León. 
+C.- CPV: 50312600 — Mantenimiento y reparación de equipo de tecnología de la 
+información. 
+                 72267000 — Servicios de mantenimiento y reparación de software. 
+                 50324100 — Servicios de mantenimiento de sistemas. 
+D.- Presupuesto base de licitación 
+Aplicación presupuestaria Importe licitación (sin IVA) IVA (21%) PBL 
+2002.911D01.20600 51.000,00 10.710,00 61.710,00 
+E.- Valor estimado: 85.000,00 €  
+F.- Anualidades presupuestarias 
+Aplicación presupuestaria Anualidad 2027 Anualidad 2028 Anualidad 2029 Total PBL 
+2002.911D01.20600 20.570,00  20.570,00 20.570,00  61.710,00 
+
+--- página 2 ---
+                                                                                
+ 
+ 
+2 
+ 
+Financiación: 100% presupuesto del Procurador del Común 
+G.- Tramitación de expediente: ordinaria 
+H.- Tramitación del gasto: anticipada. 
+I.- Plazo de ejecución: 36 meses (posibilidad de dos prórrogas de 12 meses cada una) 
+J.- Procedimiento: Abierto simplificado (art. 159.1 LCSP)  
+K.- Lugar de realización del objeto del contrato: El objeto del contrato se realizará 
+en la sede de la entidad contratante, Calle Sierra Pambley, 4, León 
+L.- Garantía  provisional: No se exige (artículo 106.1 LCSP) 
+M.- Garantía definitiva: Sí. 5% del precio final ofertado, excluido el IVA (art. 107.1 
+LCSP). 
+N.- Criterios de adjudicación: Todos evaluables de forma automática: 
+Criterio Ponderación  
+Precio 70 puntos 
+Tiempo de intervención física o sustitución 20 puntos 
+Cobertura horaria del soporte 10 puntos 
+Total 100 puntos 
+O.- Subcontratación: Cláusula 3.7 
+P.- Adscripción obligatoria de medios: Anexo VI 
+Q.- Modificaciones contractuales previstas: No 
+R.- Penalidades: Ver anexo VIII 
+S.- Régimen de recursos: Cláusula 7 
+ 
+ 
+
+--- página 3 ---
+                                                                                
+ 
+ 
+3 
+ 
+ 
+ÍNDICE DEL CLAUSULADO 
+ 
+1. Régimen jurídico y procedimiento de adjudicación ................................................. 5 
+1.1. Naturaleza jurídica y normativa aplicable ................................................................... 5 
+1.2. Justificación del procedimiento de adjudicación ......................................................... 6 
+2. Cláusulas administrativas .......................................................................................... 6 
+2.1. Disposiciones generales ............................................................................................... 6 
+2.1.1. Objeto del contrato ................................................................................................. 6 
+2.1.2. Órgano de contratación........................................................................................... 7 
+2.1.3. Necesidad e idoneidad del contrato ....................................................................... 7 
+2.1.4. Presupuesto base de licitación ................................................................................ 8 
+2.1.5. Valor estimado del contrato .................................................................................... 8 
+2.1.6. Precio del contrato .................................................................................................. 9 
+2.1.7. Existencia de crédito................................................................................................ 9 
+2.1.8. Plazo de ejecución ................................................................................................... 9 
+2.1.9. Capacidad ................................................................................................................ 9 
+2.1.10. Clasificación y solvencia ........................................................................................ 10 
+A. Solvencia técnica o profesional. ..................................................................................... 10 
+B. Solvencia económica y financiera. ................................................................................. 11 
+2.1.11. Perfil de contratante ............................................................................................. 12 
+2.1.12. Tramitación electrónica ......................................................................................... 12 
+2.2 Cláusulas especiales ................................................................................................... 12 
+2.2.1 Presentación de proposiciones .................................................................................. 12 
+2.2.2 Plazo. .......................................................................................................................... 13 
+2.2.3 Confidencialidad ........................................................................................................ 13 
+2.2.4 Subsanación de documentos ..................................................................................... 14 
+2.2.5 Contenido de las proposiciones ................................................................................. 14 
+2.2.6 Mesa de contratación ................................................................................................ 14 
+2.2.7 Apertura y examen de las proposiciones presentadas en el Sobre ÚNICO ............... 15 
+2.2.8 Criterios de adjudicación ........................................................................................... 16 
+2.3 Adjudicación .............................................................................................................. 18 
+2.3.1 Clasificación de las ofertas ......................................................................................... 18 
+2.3.2 Presentación de la documentación justificativa del cumplimiento de los requisitos 
+previos por el licitador que haya presentado mejor oferta. ................................................... 18 
+2.3.3 Garantía definitiva ..................................................................................................... 20 
+
+--- página 4 ---
+                                                                                
+ 
+ 
+4 
+ 
+2.3.4 Adjudicación .............................................................................................................. 21 
+2.4 Formalización del contrato ........................................................................................ 21 
+3 Derechos y obligaciones de las partes .................................................................... 22 
+3.1 Abonos al contratista ................................................................................................. 22 
+3.2 Obligaciones del contratista ...................................................................................... 22 
+3.3 Condiciones de instalación y prestaciones complementarias. .................................. 23 
+3.4 Evaluación de los riesgos profesionales. ................................................................... 24 
+3.5 Revisión de precios .................................................................................................... 24 
+3.6 Tratamiento de datos de carácter personal .............................................................. 24 
+3.7 Subcontratación ......................................................................................................... 25 
+4. Ejecución del contrato............................................................................................. 26 
+4.1 Valoración de la prestación ....................................................................................... 26 
+4.2 Condiciones especiales de ejecución del contrato .................................................... 26 
+4.3 Responsable del contrato .......................................................................................... 26 
+4.4 Modificación del contrato.......................................................................................... 27 
+4.4.1 Modificaciones previstas ........................................................................................... 27 
+4.4.2 Modificaciones no previstas ...................................................................................... 27 
+4.5 Penalidades ................................................................................................................ 27 
+5. Extinción del contrato ............................................................................................. 28 
+5.1 Cumplimiento del contrato ........................................................................................ 28 
+5.2 Plazo y devolución de la garantía .............................................................................. 28 
+5.3 Resolución del contrato ............................................................................................. 29 
+6. Prerrogativas de la Administración ......................................................................... 29 
+7. Régimen de recursos ............................................................................................... 30 
+Anexo I – Comunicación de datos a efectos de notificaciones ...................................... 31 
+Anexo II – Declaración responsable ............................................................................... 32 
+Anexo III Oferta ............................................................................................................... 34 
+Anexo IV – Composición de la Mesa de contratación y responsable del contrato ........ 37 
+Anexo V – Modelo de aval (garantía definitiva) ............................................................. 38 
+Anexo VI – Adscripción obligatoria de medios al contrato ............................................ 39 
+Anexo VII – Condiciones especiales de ejecución del contrato ..................................... 41 
+Anexo VIII – Penalidades ................................................................................................ 42 
+Anexo IX – Información sobre protección de datos ....................................................... 43 
+Anexo X – Datos de facturación electrónica .................................................................. 45 
+ 
+ 
+ 
+ 
+
+--- página 5 ---
+                                                                                
+ 
+ 
+5 
+ 
+1. Régimen jurídico y procedimiento de adjudicación 
+1.1. Naturaleza jurídica y normativa aplicable 
+El presente contrato tiene naturaleza administrativa, de conformidad con lo establecido 
+en el artículo 25.1.a) de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector 
+Público, por la que se transponen al ordenamiento jurídico español las Directivas del 
+Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014 
+(en adelante LCSP), por tratarse de un contrato de servicios (artículo 17 de la LCSP) 
+celebrado por una administración pública.  
+El contrato se regirá  por el presente pliego de cláusulas administrativas particulares, 
+por el pliego de prescripciones técnicas y, en lo no previsto en ellos, por la siguiente 
+normativa: 
+ Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP). 
+ Real Decreto 1098/2001, de 12 de Octubre,  por el que se aprueba el Reglamento 
+General de la Ley de Contratos de las Administraciones Públicas (en adelante 
+RGLCAP) en lo que resulte vigente. 
+ Real Decreto 817/2009, de 8 de mayo, por el que se desarrolla parcialmente la 
+Ley 30/2007, de 30 de octubre, de Contratos del Sector Público, en lo que resulte 
+vigente. 
+ Ley 4/2013, de 19 de junio, por la que se modifica la organización y el 
+funcionamiento de las instituciones propias de la Comunidad de Castilla y León. 
+ Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril 
+de 2016, relativo a la protección de las personas físicas en lo que respecta al 
+tratamiento de datos personales (RGPD). 
+ Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y 
+garantía de los derechos digitales (LOPDGDD). 
+ Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional 
+de Seguridad. 
+Supletoriamente, se aplicarán las restantes normas de derecho administrativo y, en su 
+defecto, las normas de derecho privado. 
+En todo caso, el presente contrato se somete a la normativa nacional y europea en 
+materia de protección de datos (artículo 35.1.d) de la LCSP. 
+Las partes quedan sometidas expresamente a lo establecido en el presente pliego y sus 
+anexos, y en el pliego de prescripciones técnicas, que revestirán carácter contractual. 
+En caso de discrepancia entre el presente pliego y el resto de documentación que reviste 
+carácter contractual, prevalecerá el presente pliego. 
+
+--- página 6 ---
+                                                                                
+ 
+ 
+6 
+ 
+El contrato se adjudicará mediante procedimiento abierto simplificado, de acuerdo con 
+lo previsto en el artículo 159 de la LCSP, y su tramitación será ordinaria.  
+1.2. Justificación del procedimiento de adjudicación 
+De conformidad con el artículo 159.1 de la LCSP, el órgano de contratación podrá 
+acordar la utilización del procedimiento abierto simplificado cuando se cumplan 
+simultáneamente las siguientes condiciones: que el valor estimado del contrato sea 
+inferior a 140.000 euros en contratos de suministros y servicios, y que entre los criterios 
+de adjudicación previstos no figuren criterios evaluables mediante juicio de valor o, de 
+figurar, su ponderación no supere el veinticinco por ciento del total. 
+En el presente expediente concurren ambas condiciones: el valor estimado del contrato 
+asciende a 85.000,00 €, importe inferior al umbral establecido en el citado precepto para 
+contratos de servicios; y los criterios de adjudicación previstos son todos evaluables de 
+forma automática mediante la aplicación de fórmulas, sin que ninguno de ellos requiera 
+juicio de valor. 
+El contrato no está sujeto a regulación armonizada (no SARA), al no superar el valor 
+estimado el umbral de 216.000 euros establecido en el artículo 22.1.b) de la LCSP para 
+contratos de servicios. 
+El procedimiento abierto simplificado garantiza la concurrencia de todos los operadores 
+económicos interesados que reúnan las condiciones de aptitud exigidas, sin restricción 
+alguna, y permite una tramitación más ágil del expediente, en beneficio tanto de los 
+intereses públicos como de los licitadores, sin merma de los principios de publicidad, 
+transparencia, igualdad de trato y no discriminación que rigen la contratación pública. 
+2. Cláusulas administrativas 
+2.1. Disposiciones generales 
+2.1.1. Objeto del contrato 
+El objeto del presente contrato es la prestación de los Servicios de soporte y 
+mantenimiento de la infraestructura hiperconvergente HPE SimpliVity del Procurador 
+del Común de Castilla y León, con el fin de garantizar el correcto funcionamiento, 
+disponibilidad y rendimiento de dicha infraestructura tecnológica, así como la resolución 
+de las incidencias que pudieran producirse durante la vigencia del contrato. 
+El contrato tiene carácter de contrato de servicios, de conformidad con el artículo 17 de 
+la LCSP. 
+
+--- página 7 ---
+                                                                                
+ 
+ 
+7 
+ 
+Los servicios objeto del contrato se prestarán en la sede del Procurador del Común de 
+Castilla y León, sin perjuicio de las actuaciones de soporte remoto que pudieran 
+realizarse conforme a lo establecido en el pliego de prescripciones técnicas. 
+De conformidad con el artículo 99.3 de la LCSP, y a los efectos previstos en el artículo 
+116.4.g) de la misma norma, el presente contrato no se divide en lotes. 
+La naturaleza del objeto contractual hace inviable técnicamente dicha división. El 
+soporte y mantenimiento de la infraestructura hiperconvergente HPE SimpliVity 
+constituye una prestación unitaria e indisociable: el correcto funcionamiento del 
+sistema exige una gestión integral del hardware y del software de forma coordinada, 
+bajo la responsabilidad de un único operador con capacidad acreditada para prestar el 
+soporte oficial del fabricante sobre soluciones HPE SimpliVity. La división en lotes 
+implicaría la intervención de distintos contratistas sobre una misma infraestructura 
+tecnológica integrada, lo que dificultaría gravemente la correcta ejecución del contrato, 
+generaría conflictos de responsabilidad ante incidencias y podría comprometer la 
+disponibilidad y continuidad del servicio, en los términos del artículo 99.3.b) de la LCSP. 
+2.1.2. Órgano de contratación 
+En virtud de las competencias conferidas en el artículo 34 de la Ley 2/1994, de 9 de 
+marzo, del Procurador del Común de Castilla y León y del artículo 9.13 de su Reglamento 
+de Organización y Funcionamiento, el órgano de contratación es el Procurador del 
+Común de Castilla y León. 
+Dicho órgano tiene la facultad para adjudicar el contrato y, en consecuencia, ostenta las 
+prerrogativas de interpretarlo, resolver las dudas que ofrezca su cumplimiento, 
+modificarlo por razones de interés público, acordar su resolución y determinar los 
+efectos de ésta, con sujeción a la normativa aplicable. 
+Los acuerdos, previo informe jurídico, que a este respecto dicte serán inmediatamente 
+ejecutivos, sin perjuicio del derecho del contratista a su impugnación ante la jurisdicción 
+competente. 
+2.1.3. Necesidad e idoneidad del contrato 
+La celebración del presente contrato responde a la necesidad de garantizar la 
+continuidad operativa de la infraestructura hiperconvergente HPE SimpliVity del 
+Procurador del Común de Castilla y León, que constituye el soporte tecnológico esencial 
+para el desarrollo de las funciones institucionales de dicho órgano. 
+La contratación externa de estos servicios se justifica por la complejidad técnica de la 
+infraestructura y por la necesidad de contar con soporte especializado del fabricante o 
+de empresas autorizadas, que garanticen tiempos de respuesta y resolución adecuados 
+a los requerimientos operativos del Procurador del Común. 
+
+--- página 8 ---
+                                                                                
+ 
+ 
+8 
+ 
+La naturaleza, extensión y características de la necesidad a satisfacer se encuentran 
+detalladas en el expediente de contratación y en el pliego de prescripciones técnicas. 
+ 
+2.1.4. Presupuesto base de licitación 
+El presupuesto base de licitación constituye el límite máximo de gasto que el órgano 
+de contratación puede comprometer en virtud del contrato. De conformidad con el 
+artículo 100 de la LCSP el presupuesto base de licitación asciende a 51.000,00 €, más el 
+Impuesto sobre el Valor Añadido al tipo del 21%, lo que supone un importe total de 
+61.710,00 euros, IVA incluido. 
+De conformidad con el artículo 100.2 LCSP, el presupuesto base de licitación se 
+desglosa del siguiente modo: 
+ 
+Concepto Importe total 36 meses  
+Costes directos 42.400,00 € 
+Costes indirectos (gastos generales, coordinación, herramientas 
+de gestión y monitorización) 6.150,00 € 
+Beneficio industrial  2.450,00 € 
+Total presupuesto base de licitación (sin IVA) 51.000,00 € 
+IVA (21%) 10.710,00 € 
+Total presupuesto base de licitación (con IVA) 61.710,00 € 
+2.1.5. Valor estimado del contrato 
+De conformidad con lo establecido en el artículo 101 de la LCSP se ha tenido en cuenta 
+para el cálculo del valor estimado las eventuales prórrogas del contrato y que no hay 
+modificaciones previstas. 
+Así calculado, el valor estimado asciende a la cantidad de 85.000,00 €: 
+- Importe de licitación (IVA excluido): 51.000,00 € 
+- Eventuales prórrogas (2 años): 34.000,00 € 
+- Importe máximo de las modificaciones previstas: 0,00 € 
+ 
+ 
+ 
+
+--- página 9 ---
+                                                                                
+ 
+ 
+9 
+ 
+2.1.6. Precio del contrato 
+El precio del contrato será el que resulte de la adjudicación del mismo, conforme a lo 
+establecido en el artículo 102 de la LCSP.  
+En el precio del contrato se considerarán incluidos los tributos, tasas y cánones de 
+cualquier índole que sean de aplicación, así como todos los gastos que se originen para 
+el adjudicatario como consecuencia del cumplimiento de las obligaciones contempladas 
+en el pliego.  
+2.1.7. Existencia de crédito 
+De acuerdo con lo establecido en el artículo 117.2 de la LCSP y en el artículo 2 de la 
+Orden HAC/1430/2003, de 3 de noviembre, sobre tramitación anticipada de 
+expedientes de gastos, en relación con el artículo 117 de la Ley 2/2006, de 3 de mayo, 
+de Hacienda del Sector Público de la Comunidad de Castilla y León, el expediente de 
+gasto correspondiente a este contrato se tramita de forma anticipada. 
+En consecuencia, la adjudicación queda sometida a la condición suspensiva de existencia 
+de crédito adecuado y suficiente para garantizar las obligaciones derivadas del contrato 
+en el ejercicio correspondiente. Habitualmente, el presupuesto del Procurador del 
+Común dispone de crédito suficiente para llevar a cabo la contratación de este servicio. 
+2.1.8. Plazo de ejecución 
+El plazo de ejecución del contrato es de 36 meses, contados desde el 1 de enero de 2027 
+o desde la fecha de formalización del contrato, si ésta fuera posterior.  
+El contrato podrá prorrogarse por acuerdo expreso del órgano de contratación, hasta 
+un máximo de 2 prórrogas de 12 meses cada una, lo que supone una duración total 
+máxima del contrato, incluidas las prórrogas, de 60 meses. 
+La prórroga será obligatoria para el contratista, siempre que su preaviso se produzca 
+con una antelación mínima de dos meses a la finalización del plazo de duración del 
+contrato o de cada prórroga, de conformidad con el artículo 29.2 LCSP. En ningún caso 
+podrá producirse la prórroga por el consentimiento tácito de las partes. 
+La decisión sobre la prórroga corresponde en exclusiva al órgano de contratación, que 
+la acordará atendiendo a las necesidades del servicio y a la correcta ejecución del 
+contrato por parte del adjudicatario. 
+2.1.9. Capacidad 
+Sólo podrán contratar con la administración contratante las personas naturales o 
+jurídicas, españolas o extranjeras, que tengan capacidad, no estén incursas en alguna 
+prohibición de contratar de las señaladas en al artículo 71 de la LCSP, y acrediten su 
+
+--- página 10 ---
+                                                                                
+ 
+ 
+10 
+ 
+solvencia económica y financiera y técnica o profesional, en los casos en que sea 
+exigible. 
+Los contratistas deberán contar con la habilitación empresarial o profesional que, en su 
+caso, sea exigible para la realización de las prestaciones que contribuyan al objeto del 
+contrato, y que se detalla en el Pliego de Prescripciones Técnicas. Los medios personales 
+y materiales que deben adscribirse a la ejecución del contrato se detallan en el anexo VI 
+de este pliego. 
+Las personas jurídicas sólo podrán ser adjudicatarias de contratos cuyas prestaciones 
+estén comprendidas dentro de los fines, objeto o ámbito de actividad que, a tenor de 
+sus estatutos o reglas fundacionales, les sean propios. 
+Podrán contratar con la administración contratante las uniones de empresarios que se 
+constituyan temporalmente al efecto, sin perjuicio de las facultades de la Mesa de 
+Contratación cuando existan indicios de colusión, conforme al artículo 69 de la LCSP, sin 
+que sea necesaria la formalización de las mismas en escritura pública hasta que se haya 
+efectuado la adjudicación del contrato a su favor. 
+La duración de las uniones temporales de empresarios será coincidente, al menos, con 
+la del contrato hasta su extinción. 
+2.1.10. Clasificación y solvencia  
+No se exige la clasificación del contratista de acuerdo con el artículo 77.1.c) de LCSP. 
+Los empresarios deberán acreditar estar en posesión de las condiciones mínimas de 
+solvencia económica y financiera y profesional o técnica de conformidad con lo previsto 
+en los artículos 86, 87 y 90 de la LCSP. 
+Tales condiciones mínimas de solvencia económica y técnica, se acreditarán a través de 
+los medios de justificación indicados en los apartados siguientes. 
+A. Solvencia técnica o profesional. 
+De conformidad con los artículos 74 y 90 de la LCSP, los requisitos mínimos de solvencia 
+técnica o profesional exigidos serán los siguientes: 
+Criterio: Experiencia en servicios de igual o similar naturaleza 
+Relación de los principales servicios de soporte y mantenimiento de infraestructuras 
+informáticas o de equipamiento tecnológico de igual o similar naturaleza al objeto del 
+contrato, realizados en los tres últimos años, en la que se indique el importe, la fecha y 
+el destinatario, público o privado, de los mismos. 
+
+--- página 11 ---
+                                                                                
+ 
+ 
+11 
+ 
+Se considerarán servicios de igual o similar naturaleza los correspondientes a los códigos 
+CPV 50312600, 72267000, 50324100, o cualquier otro que acredite experiencia en 
+soporte y mantenimiento de infraestructuras de virtualización o hiperconvergentes. 
+El importe anual acumulado en el año de mayor ejecución deberá ser igual o superior a 
+11.900,00 euros. 
+Medio de acreditación: Certificados expedidos o visados por el órgano competente 
+cuando el destinatario sea una entidad del sector público; cuando el destinatario sea un 
+sujeto privado, mediante certificado expedido por este o, en su defecto, declaración del 
+empresario acompañada de los documentos acreditativos de la realización de la 
+prestación. 
+B. Solvencia económica y financiera. 
+De conformidad con los artículos 74 y 87 de la LCSP, los requisitos mínimos de solvencia 
+económica y financiera exigidos serán los siguientes: 
+Criterio: Volumen anual de negocios del licitador, referido al año de mayor volumen de 
+negocio de los tres últimos ejercicios concluidos, por importe igual o superior a 
+51.000,00 euros. 
+Medio de acreditación : Cuentas anuales aprobadas y depositadas en el Registro 
+Mercantil o en el registro oficial en que deba estar inscrito el empresario. Los 
+empresarios individuales no inscritos en el Registro Mercantil acreditarán su volumen 
+anual de negocios mediante sus libros de inventarios y cuentas anuales legalizados por 
+el Registro Mercantil. 
+En todo caso, la inscripción en el Registro Oficial de Licitadores y Empresas Clasificadas 
+del Sector Público acreditará frente a todos los órganos de contratación del sector 
+público, a tenor de lo en él reflejado y salvo prueba en contrario, las condiciones de 
+solvencia económica y financiera del empresario. 
+No obstante de no ser exigible clasificación empresarial, la clasificación del empresario 
+en los grupos y subgrupos correspondientes al objeto del contrato, acreditará su 
+solvencia económica, financiera y técnica para contratar.  
+Adscripción de medios.  Con independencia de la solvencia exigida en los apartados 
+anteriores, y conforme al artículo 76.2 LCSP, los licitadores se comprometerán a dedicar 
+o adscribir a la ejecución del contrato los medios personales y materiales que se detallan 
+en el Anexo VI. El compromiso se formula en la declaración responsable (Anexo II) y su 
+acreditación se requerirá al licitador propuesto como adjudicatario, conforme a la 
+cláusula 2.3.2. 
+ 
+
+--- página 12 ---
+                                                                                
+ 
+ 
+12 
+ 
+2.1.11. Perfil de contratante 
+Conforme al artículo 63 de la LCSP y con el fin de asegurar la transparencia y el acceso 
+público a la información relativa a la actividad contractual, se facilita a través del Perfil 
+de Contratante la información relativa al presente contrato, que podrá ser consultada 
+en la siguiente dirección electrónica:  
+https://contrataciondelestado.es/wps/poc?uri=deeplink%3AperfilContratante&idBp=a
+1x%2Foka4Q6hvYnTkQN0%2FZA%3D%3D 
+2.1.12. Tramitación electrónica 
+Conforme a lo establecido en la disposición adicional decimoquinta de la LCSP, todo el 
+procedimiento de publicación, licitación y adjudicación se llevará cabo electrónicamente 
+desde la Plataforma de Contratación del Sector Público. 
+Todas las notificaciones y comunicaciones que se realicen se practicarán de manera 
+telemática. A tal fin será obligatorio cumplimentar en el anexo I el correo electrónico 
+habilitado para notificaciones.  
+En el caso de que no sea posible realizar las notificaciones o comunicaciones relativas al 
+procedimiento a través de la Plataforma de Contratación del Sector Público, se 
+realizarán a través del Registro electrónico de la Secretaría General de apoyo a las 
+Instituciones Propias de la Comunidad de Castilla y León que se encuentra ubicado en 
+sede electrónica de Secretaría General de apoyo a las Instituciones Propias de Castilla y 
+León: https://www.institucionespropiascyl.es/sede-electronica.html. En este caso, Las 
+notificaciones se recogerán en el Buzón electrónico  al que se accede a través de la 
+siguiente dirección http://ipcyl.sedelectronica.es 
+Los licitadores deberán contar con sistemas de firma electrónica cualificada y avanzada 
+basados en certificados electrónicos cualificados de firma electrónica que les permita 
+recoger las notificaciones en la misma aplicación. 
+2.2  Cláusulas especiales 
+2.2.1 Presentación de proposiciones 
+Las proposiciones de los interesados deberán ajustarse a los pliegos y documentación 
+que rige la licitación, y su presentación supone la aceptación incondicionada por el 
+empresario del contenido de la totalidad de sus cláusulas o condiciones, sin salvedad o 
+reserva alguna, así como la autorización a la mesa y al órgano de contratación para 
+consultar los datos recogidos en el Registro Oficial de Licitadores y Empresas Clasificadas 
+del Sector Púbico en las listas oficiales de operadores económicos de un Estado miembro 
+de la Unión Europea. 
+
+--- página 13 ---
+                                                                                
+ 
+ 
+13 
+ 
+Las proposiciones serán secretas y se arbitrarán los medios que garanticen tal carácter 
+hasta el momento de apertura de las proposiciones. 
+Cada licitador no podrá presentar más de una proposición. Tampoco podrá suscribir una 
+proposición en UTE con otras empresas si lo ha hecho individualmente o figurar en más 
+de una UTE. La contravención de esta cláusula dará lugar a la inadmisión de todas las 
+proposiciones presentadas. 
+En la proposición deberá indicarse, como partida independiente, el importe del 
+Impuestos sobre el Valor Añadido que deberá ser repercutido. 
+La presentación de proposiciones se llevará a cabo utilizando medios electrónicos, de 
+conformidad con lo establecido en la disposición adicional decimoquinta de la LCSP. 
+La presentación de proposiciones se realizará a través del Perfil de Contratante del 
+órgano de contratación  
+https://contrataciondelestado.es/wps/poc?uri=deeplink%3AperfilContratante&idBp=a
+1x%2Foka4Q6hvYnTkQN0%2FZA%3D%3D 
+Las copias electrónicas de los documentos que deban incorporarse al expediente 
+deberán cumplir con lo establecido a tal efecto en la legislación vigente en materia de 
+procedimiento administrativo común, surtiendo los efectos establecidos en la misma. 
+2.2.2 Plazo. 
+El plazo para presentar las proposiciones será de quince días naturales contados desde 
+el día siguiente al de la publicación del anuncio de licitación del contrato en el perfil de 
+contratante conforme al artículo 159.3 de la LCSP. 
+2.2.3 Confidencialidad 
+De acuerdo con el artículo 133 de la LCSP, esta administración no divulgará la 
+información facilitada por los empresarios que estos hayan designado como confidencial 
+en el momento de presentar su oferta. 
+La empresa licitadora deberá indicar qué documentos (o parte de los mismos) o datos 
+de los incluidos en las ofertas tienen la consideración de confidenciales, sin que resulten 
+admisibles las declaraciones genéricas de confidencialidad de todos los documentos o 
+datos de la oferta. La condición de confidencial deberá reflejarse claramente 
+(sobreimpresa, al margen o de cualquier otra forma claramente identificable) en el 
+propio documento que tenga tal condición, señalando además los motivos que justifican 
+tal consideración. No se considerarán confidenciales documentos que no hayan sido 
+expresamente calificados como tales por los licitadores. 
+ 
+
+--- página 14 ---
+                                                                                
+ 
+ 
+14 
+ 
+2.2.4 Subsanación de documentos 
+La presentación de declaraciones responsables de cumplimiento de requisitos de 
+participación será objeto de subsanación por los licitadores a requerimiento de la mesa 
+de contratación, cuando no se hubiera presentado, o no estuviera adecuadamente 
+cumplimentada la presentada.  
+En esos casos se concederá al licitador un plazo de tres días naturales a contar desde el 
+siguiente al de recepción del requerimiento de subsanación. 
+Si no se subsanase en plazo lo requerido, la mesa de contratación, entenderá que el 
+licitador desiste de su oferta. 
+2.2.5 Contenido de las proposiciones 
+Los licitadores deberán presentar la proposición en un único sobre o archivo 
+electrónico: 
+SOBRE o archivo electrónico ÚNICO,   “Documentación administrativa y criterios 
+cuantificables automáticamente”. Este sobre incluirá la siguiente documentación: 
+1. Anexo I. Comunicación de datos a efectos de notificaciones. 
+2. Anexo II. Declaración responsable. Los licitadores incluirán una declaración 
+responsable, conforme  anexo II, en los términos de lo dispuesto en artículo 
+159.4.c) de la LCSP. En el caso de UTE se aportará una declaración responsable 
+por cada empresa participante. 
+3. Anexo III. Oferta. 
+ 
+Todos los documentos deberán estar firmados electrónicamente. 
+La proposición se presentará en caracteres claros y no se aceptarán aquéllas que tengan 
+omisiones, errores o tachaduras que impidan conocer, claramente, lo que la entidad 
+contratante estime fundamental para considerar la oferta. 
+2.2.6 Mesa de contratación 
+Conforme al artículo 326 de la LCSP, la mesa de contratación como órgano de asistencia 
+técnica especializada, será el órgano competente para efectuar la calificación de la 
+documentación administrativa, realizar la evaluación y clasificación de las proposiciones 
+presentadas, así como proponer al órgano de contratación la adjudicación del contrato 
+a favor del licitador que haya presentado la mejor oferta. 
+Su composición está prevista en el anexo IV del presente pliego. 
+ 
+
+--- página 15 ---
+                                                                                
+ 
+ 
+15 
+ 
+2.2.7 Apertura y examen de las proposiciones presentadas en el Sobre 
+ÚNICO 
+Concluido el plazo de presentación de ofertas se procederá, en un acto que no será 
+público, a la apertura electrónica de la documentación presentada por los licitadores en 
+tiempo y forma, por parte de la mesa de contratación, verificándose que constan los 
+documentos, manifestaciones y declaraciones responsables indicadas en cláusula 2.2.5. 
+Las propuestas que no cumplan las condiciones exigidas en los pliegos no serán objeto 
+de valoración, quedando excluidas del procedimiento. 
+Teniendo en cuenta que en la licitación se emplearán medios electrónicos, y en virtud 
+de lo establecido en el artículo 157.4 de la LCSP, se procederá, en un acto que no será 
+público, a la lectura de las ofertas económicas.  
+Tal y como establece el artículo 159.4.f) de la LCSP, tras la apertura del sobre o archivo 
+electrónico y en la misma sesión la mesa procederá a: 
+ 1º Previa exclusión, en su caso, de las ofertas que no cumplan los requerimientos del 
+pliego, evaluar y clasificar las ofertas.  
+2º Realizar la propuesta de adjudicación a favor del candidato con mejor oferta 
+económica. 
+3º Comprobar en el Registro Oficial de Licitadores y Empresas Clasificadas que la 
+empresa está debidamente constituida, el firmante de la proposición tiene poder 
+bastante para formular la oferta, ostenta la solvencia económica, financiera y técnica o, 
+en su caso la clasificación correspondiente y no está incursa en ninguna prohibición para 
+contratar. Si el licitador hubiera hecho uso de la facultad de acreditar la presentación de 
+la solicitud de inscripción en el correspondiente Registro a que alude el inciso final de la 
+letra a) del apartado 4 de este artículo, la mesa requerirá al licitador para que justifique 
+documentalmente todos los extremos referentes a su aptitud para contratar enunciados 
+en este número. 
+4.º Requerir a la empresa que ha obtenido la mejor puntuación mediante comunicación 
+electrónica para que constituya la garantía definitiva, así como para que aporte el 
+compromiso al que se refiere el artículo 75.2 y la documentación justificativa de que 
+dispone efectivamente de los medios que se hubiese comprometido a dedicar o 
+adscribir a la ejecución del contrato conforme al artículo 76.2; y todo ello en el plazo de 
+siete días hábiles a contar desde el envío de la comunicación. 
+De todo lo actuado se dejará constancia en el acta correspondiente. El resultado de los 
+actos de calificación, admisión y exclusión de las ofertas se publicará en el perfil de 
+contratante, sin perjuicio de la necesaria notificación a los licitadores afectados. En el 
+supuesto de exclusión de un licitador, la notificación indicará los recursos que resulten 
+procedentes.  
+
+--- página 16 ---
+                                                                                
+ 
+ 
+16 
+ 
+En el caso de que la oferta del licitador que haya obtenido la mejor valoración se 
+presuma que es anormalmente baja por darse los supuestos previstos en el artículo 149 
+de la LCSP, la mesa, realizadas las actuaciones recogidas en los apartados anteriores, 
+seguirá el procedimiento previsto en el art. 149 de la LSCP, si bien el plazo máximo para 
+que justifique su oferta el licitador no podrá superar los 5 días hábiles desde el envío de 
+la correspondiente comunicación.  
+A efectos de lo dispuesto en el artículo 149.2 LCSP, para la consideración de ofertas 
+incursas en presunción de anormalidad se tendrá en cuenta lo recogido en los artículos 
+85 y 86 del R.D. 1098/2001 por el que se aprueba el Reglamento General de la Ley de 
+Contratos de las Administraciones públicas. 
+La mesa de contratación podrá, en cualquier momento, solicitar la justificación 
+documental del cumplimiento de las condiciones sobre las que los licitadores hubieran 
+declarado responsablemente su cumplimiento. El licitador deberá presentar la 
+documentación requerida en un plazo máximo de cinco días hábiles a contar desde el 
+envío del requerimiento. De no cumplimentarse, se entenderá que el licitador ha 
+retirado su oferta y será excluido del procedimiento.  
+No obstante lo anterior, cuando el empresario esté inscrito en el Registro Oficial de 
+Licitadores y Empresas Clasificadas del Sector Público o figure en una base de datos 
+nacional de un Estado miembro de la Unión Europea, como un expediente virtual de la 
+empresa, un sistema de almacenamiento electrónico de documentos o un sistema de 
+precalificación, y estos sean accesibles de modo gratuito para los citados órganos, no 
+estará obligado a presentar los documentos justificativos u otra prueba documental de 
+los datos inscritos en los referidos lugares. 
+2.2.8 Criterios de adjudicación 
+Los criterios que servirán de base para la valoración de las ofertas y para la 
+determinación de la que presente una mejor relación calidad-precio, de acuerdo con lo 
+previsto en el artículo 145 y siguientes de la LCSP, son los que se indican a continuación. 
+Criterios evaluables de forma automática (100 puntos):  
+A. Precio: setenta (70) puntos. Se otorgará la máxima puntuación a la oferta 
+económicamente más ventajosa y proporcionalmente al resto. Todo ello de 
+acuerdo con la siguiente fórmula:  
+ 
+Vi= (Omin/Oi)*C 
+   
+   
+
+--- página 17 ---
+                                                                                
+ 
+ 
+17 
+ 
+Donde: 
+Vi es la puntuación obtenida en este criterio 
+C es la ponderación dada a la oferta económica (= 70) 
+Oi es la oferta económica a valorar 
+Omin es la mejor oferta económica (su puntuación coincidirá con C) 
+ 
+B. Tiempo de intervención física o sustitución (20 puntos) 
+B.1. Incidencias de severidad 1 (crítica). (Máximo 10 puntos). Se valorará la mejora sobre 
+el tiempo máximo de intervención física o sustitución de hardware ante incidencias de 
+Severidad 1 establecido en el pliego de prescripciones técnicas como requisito mínimo 
+obligatorio (4 horas desde el diagnóstico del fallo). 
+La puntuación se asignará conforme a la siguiente tabla: 
+Tiempo de intervención física ofertado Puntuación 
+Igual o inferior a 2 horas 10 puntos 
+Superior a 2 horas e inferior a 4 horas 5 puntos 
+ 
+ 
+B.2. Incidencias de severidad 2 (alta). (Máximo 10 puntos). Se valorará la mejora sobre 
+el tiempo máximo de intervención física o sustitución de hardware ante incidencias de 
+Severidad 2 establecido en el pliego de prescripciones técnicas como requisito mínimo 
+obligatorio (24 horas desde el diagnóstico del fallo). 
+La puntuación se asignará conforme a la siguiente tabla: 
+Tiempo de intervención física ofertado Puntuación 
+Igual o inferior a 12 horas 10 puntos 
+Superior a 12 horas e inferior a 24 horas 5 puntos 
+ 
+C. Cobertura horaria para incidencias de Severidad 2 y 3 (10 puntos) 
+El pliego de prescripciones técnicas exige como mínimo obligatoria, cobertura 24 horas 
+al día 7 días a la semana para incidencias de Severidad 1 y cobertura 8 horas al día 5 días 
+a la semana (08:00–16:00 h, de lunes a viernes) para incidencias de Severidad 2 y 3. Se 
+valorará la mejora de la cobertura horaria ofertada para las incidencias de Severidad 2 
+y 3, conforme a la siguiente tabla: 
+ 
+Cobertura horaria ofertada para Severidad 2 y 3 Puntuación 
+24 horas al día, 7 días a la semana (24×7) 10 puntos 
+12 horas al día, 5 días a la semana (12×5) de lunes a viernes, en horario de 08:00 
+a 20:00 5 puntos 
+
+--- página 18 ---
+                                                                                
+ 
+ 
+18 
+ 
+2.3  Adjudicación 
+2.3.1 Clasificación de las ofertas 
+Una vez valoradas y clasificadas las ofertas, la mesa de contratación remitirá al órgano 
+de contratación la correspondiente propuesta de adjudicación, a favor del candidato con 
+mejor puntuación. 
+Cuando se produzca empate entre ofertas se aplicarán los criterios de desempate 
+previstos en el artículo 147.2 LCSP.  A tal efecto, los servicios correspondientes del 
+órgano de contratación requerirán la documentación pertinente a las empresas 
+afectadas. 
+2.3.2  Presentación de la documentación justificativa del cumplimiento de los 
+requisitos previos por el licitador que haya presentado mejor oferta. 
+Conforme a lo establecido en el artículo 159.4.f)4º, la mesa de contratación requerirá al 
+licitador con mejor puntuación, mediante comunicación electrónica, para que, en el 
+plazo de 7 días hábiles a contar desde el envío de la comunicación, aporte la 
+documentación que se relaciona, necesaria para adjudicar el contrato. 
+Los documentos deberán presentarse, para su calificación por la mesa de contratación, 
+en copias electrónicas auténticas o documentos electrónicos. 
+ 
+1. Certificado de inscripción en el Registro Oficial de Licitadores y Empresas 
+clasificadas del Sector Público o en el Registro de Licitadores de la Comunidad 
+Autónoma de Castilla y León o certificado de haberlo solicitado . La mesa de 
+contratación, comprobará en el acto de apertura del sobre ÚNICO, a través de la 
+Plataforma de Contratación del Sector Público, que la empresa se encuentra inscrita 
+en el Registro Oficial de Licitadores. Si la consulta no fuera posible, la empresa 
+propuesta deberá aportar el certificado correspondiente, o el justificante de haberlo 
+solicitado. 
+Si en el certificado de inscripción no constaran los siguientes extremos, deberá 
+presentar: 
+ Documentos que acrediten la personalidad del empresario y su ámbito de 
+actividad. Si la empresa fuese persona jurídica la personalidad se acreditará 
+mediante la presentación de la escritura de constitución o modificación, en su 
+caso, debidamente inscrita en el Registro Mercantil cuando este requisito sea 
+exigible según la legislación mercantil aplicable. Si dicho requisito no fuere 
+exigible, la acreditación de la capacidad se realizará mediante la escritura o 
+documento de constitución, estatutos o acta fundacional, en el que consten las 
+
+--- página 19 ---
+                                                                                
+ 
+ 
+19 
+ 
+normas por las que se regula su actividad, inscritos, en su caso, en el 
+correspondiente Registro oficial. 
+Si se trata de un empresario individual, presentará copia del NIF. 
+ 
+ Documentos que acrediten, en su caso, la representación. Los que comparezcan 
+o firmen proposiciones en nombre de otro presentarán poder bastante al efecto. 
+Si la empresa fuera persona jurídica el poder deberá figurar inscrito, en su caso, 
+en el Registro Mercantil. Si se trata de un poder para acto concreto no será 
+necesaria la inscripción en el Registro Mercantil, de acuerdo con el artículo 94.5 
+del Reglamento del Registro Mercantil. 
+ La capacidad de los empresarios no españoles que sean nacionales de Estados 
+miembros de la Unión Europea o de Estados signatarios del Acuerdo sobre el 
+Espacio Económico Europeo, se acreditará por su inscripción en el registro 
+procedente, de acuerdo con la legislación del Estado donde estén establecidos o 
+mediante la presentación de una declaración jurada o un certificado de acuerdo 
+con las disposiciones comunitarias de aplicación.  
+ 
+Cuando se trate de empresas extranjeras no comprendidas en el párrafo 
+anterior, informe de la Misión Diplomática Permanente de España en el Estado 
+correspondiente o de la Oficina Consular en cuyo ámbito territorial radique el 
+domicilio de la empresa, en el que se haga constar, previa acreditación por la 
+empresa. Igualmente, deberán justificar mediante informe que el Estado de 
+procedencia de la empresa extranjera admite a su vez la participación de 
+empresas españolas en la contratación con los entes del sector público asumibles 
+a los enumerados en el artículo 3 de la LCSP, en forma sustancialmente análoga. 
+Dicho informe será elaborado por la correspondiente Oficina Económica y 
+Comercial de España en el exterior y se acompañará a la documentación que se 
+presente. 
+ 
+ Documentación acreditativa de la solvencia económica y financiera y técnica o 
+profesional, conforme establece la cláusula 2.1.10. 
+ 
+2. Adscripción de medios. Acreditación de los medios específicos:  documentación 
+acreditativa de los medios exigidos en el Anexo VI, a saber: (i) la capacidad de prestar 
+el soporte oficial del fabricante sobre la infraestructura HPE SimpliVity, por 
+cualquiera de los medios admitidos en dicho anexo, y (ii) la composición del equipo 
+técnico y las certificaciones o formación equivalente de sus integrantes, conforme a 
+los criterios del Anexo VI. 
+
+--- página 20 ---
+                                                                                
+ 
+ 
+20 
+ 
+3. Garantía definitiva. La acreditación de la constitución de la garantía definitiva, 
+conforme a lo establecido en la cláusula 2.3.3 de este pliego. 
+4. Documentación acreditativa de la subcontratación con otras empresas con las que 
+el adjudicatario tenga previsto subcontratar.  Tendrá que aportar según 
+corresponda, una declaración en la que indique la parte del contrato que va a 
+subcontratar, señalando el importe, y el nombre o el perfil empresarial, definido por 
+referencia a las condiciones de solvencia profesional o técnica, de los subcontratistas 
+a los que vaya a encomendar su realización, firmada por ambas partes junto con el 
+resto de documentación que se solicite por la Administración. 
+5. Acreditación de no existencia de deudas tributarias con la Administración y con la 
+Seguridad Social. La empresa deberá aportar certificación positiva expedida por la 
+Agencia Estatal de Administración Tributaria sobre el cumplimiento de los requisitos 
+establecidos en el artículo 13 del RGLCAP y certificación positiva expedida por la 
+Tesorería de la Seguridad Social, sobre el cumplimiento de los requisitos 
+establecidos en el artículo 14 del RGLCAP. 
+ 
+Conforme al artículo 159.4.f.4º) cuarto inciso de la LCSP, en caso de que en el plazo 
+otorgado al efecto el candidato propuesto como adjudicatario no presente la garantía 
+definitiva, se efectuará propuesta de adjudicación a favor del siguiente candidato en 
+puntuación, otorgándole el correspondiente plazo para constituir la citada garantía 
+definitiva. 
+2.3.3  Garantía definitiva 
+La empresa propuesta como adjudicataria deberá constituir a disposición del órgano de 
+contratación una garantía definitiva. Su cuantía será igual al 5 por 100 del importe del 
+precio final ofertado por el licitador, excluido el Impuesto sobre el Valor Añadido.  
+En todo caso, la garantía definitiva responderá de los conceptos a que se refiere el 
+artículo 110 LCSP. Dentro de dichos conceptos se incluye el incumplimiento por parte 
+del contratista de la obligación de indemnizar los daños y perjuicios ocasionados a 
+terceros como consecuencia de la incorrecta ejecución de las prestaciones objeto del 
+contrato, prevista en el artículo 196 LCSP. 
+La garantía definitiva se constituirá de conformidad con lo preceptuado en el Capítulo I 
+del Título IV del Libro I de la LCSP y en cualquiera de las formas que se establecen en el 
+artículo 108.1 LCSP, ajustándose, en caso de escogerse en forma de aval, al modelo que 
+se establece en el anexo V al presente pliego.  
+La acreditación de la constitución de la garantía definitiva por la empresa propuesta 
+como adjudicataria, deberá presentarse en la Secretaría General de apoyo a las 
+Instituciones Propias de la Comunidad de Castilla y León, en el plazo de siete días hábiles 
+
+--- página 21 ---
+                                                                                
+ 
+ 
+21 
+ 
+a contar desde el envío de la comunicación, tal y como establece el artículo 159.4.f.4º) 
+de la LCSP. 
+Cuando, como consecuencia de una modificación de contrato, experimente variación el 
+precio del mismo, deberá reajustarse la garantía, para que guarde la debida proporción 
+con el nuevo precio modificado, en el plazo de quince días contados desde la fecha en 
+la que se notifique al empresario el acuerdo de modificación. 
+2.3.4  Adjudicación 
+La adjudicación del contrato deberá ser motivada, se notificará a los licitadores y se 
+publicará en el perfil de contratante del órgano de contratación. La notificación 
+contendrá la información necesaria que permita a los interesados interponer recurso 
+suficientemente fundado contra la decisión de adjudicación. 
+De conformidad con el artículo 159.4.f) de la LCSP, presentada la garantía definitiva y, 
+en los casos en que resulte preceptiva, previa fiscalización del compromiso del gasto por 
+la Intervención, en un plazo no superior a cinco días se procederá a adjudicar el contrato 
+a favor del licitador propuesto como adjudicatario, procediéndose, una vez adjudicado, 
+a su formalización. 
+2.4  Formalización del contrato 
+El contrato se perfecciona con su formalización. En ningún caso podrá iniciarse la 
+ejecución del contrato sin su previa formalización. 
+Tal y como establece el inciso final del apartado 3 del artículo 153 de la LCSP, la 
+formalización del contrato deberá efectuarse no más tarde de los quince días hábiles 
+siguientes a aquel en que se realice la notificación de la adjudicación a los licitadores y 
+candidatos en la forma prevista en el artículo 151 de la LCSP. 
+Si se tratara de una UTE, su representante deberá presentar ante el órgano de 
+contratación la escritura pública de su constitución, CIF asignado y nombramiento de 
+representante con poder suficiente. Cuando por causas imputables al adjudicatario no 
+se hubiese formalizado el contrato dentro del plazo indicado, el contrato se adjudicará 
+al siguiente licitador por el orden en que hubieran quedado clasificadas las ofertas, 
+previa presentación de la documentación establecida en la cláusula 2.3.2. 
+La formalización se realizará en documento administrativo que se ajuste con exactitud 
+a las condiciones de la licitación. En ningún caso podrán incluirse cláusulas que 
+impliquen alteración de los términos de la adjudicación. La formalización de los 
+contratos deberá asimismo publicarse en el perfil de contratante. 
+
+--- página 22 ---
+                                                                                
+ 
+ 
+22 
+ 
+3 Derechos y obligaciones de las partes 
+3.1  Abonos al contratista 
+El precio que se tendrá en cuenta será el que resulte del acuerdo de adjudicación, 
+conforme a la oferta del licitador.  
+El precio de cada anualidad de ejecución del contrato, se abonará de forma parcial en 
+dos pagos de igual importe, equivalentes cada uno al cincuenta por ciento (50 %) del 
+precio anual adjudicado en los meses de abril y octubre de cada anualidad. 
+Ambos pagos constituyen vencimientos del precio del contrato, fijos y periódicos, 
+conforme al artículo 198.2 LCSP. Cada pago se abonará previa conformidad del 
+responsable del contrato con la prestación realizada hasta esa fecha, incluidas las 
+revisiones preventivas, la bolsa de horas y los informes exigibles conforme al pliego de 
+prescripciones técnicas. 
+El contratista presentará la factura correspondiente a cada pago en el registro 
+administrativo en el plazo de treinta (30) días desde la fecha del vencimiento. La 
+Administración abonará su importe dentro de los treinta (30) días siguientes a la fecha 
+de aprobación del documento que acredite la conformidad de los servicios prestados, 
+conforme al artículo 198.4 LCSP. 
+Si el contrato se extinguiera antes de la finalización de una anualidad, cualquiera que 
+fuese la causa, se regularizará en la liquidación el importe abonado que exceda del 
+precio correspondiente a los servicios efectivamente prestados, que el contratista 
+deberá reintegrar a la Administración o que esta podrá compensar con cualquier 
+cantidad pendiente de pago o con la garantía definitiva, en los términos legalmente 
+previstos. 
+Las facturas deberán contener los datos correspondientes al DIR3 que constan en el 
+Anexo X de este pliego y presentarse en formato electrónico en los supuestos que fija la 
+Ley 25/2013, de 27 de diciembre, de impulso de la factura electrónica y creación del 
+registro contable de facturas en el Sector Público. En estos casos, la presentación de la 
+factura en el Punto General de Acceso equivale a su presentación en un registro 
+administrativo. 
+3.2  Obligaciones del contratista 
+El contratista queda obligado a ejecutar el contrato con sujeción al presente pliego, al 
+pliego de prescripciones técnicas y a su oferta, siendo responsable de la calidad técnica 
+de las prestaciones realizadas y de las consecuencias que se deriven para la 
+Administración o para terceros de su incorrecta ejecución (art. 311 LCSP). 
+En particular, el contratista deberá: 
+
+--- página 23 ---
+                                                                                
+ 
+ 
+23 
+ 
+a) Mantener los niveles de servicio (SLA)  comprometidos en su oferta durante 
+toda la vigencia del contrato, incluidas sus prórrogas, sin que en ningún caso 
+puedan ser inferiores a los mínimos establecidos en el pliego de prescripciones 
+técnicas. 
+b) Mantener durante toda la ejecución del contrato los medios adscritos 
+conforme al Anexo VI, en particular la capacidad de prestar el soporte oficial del 
+fabricante sobre la infraestructura HPE SimpliVity y el equipo técnico 
+comprometido. La pérdida sobrevenida de cualquiera de ellos deberá 
+comunicarse de inmediato al responsable del contrato y podrá dar lugar a la 
+resolución del contrato por incumplimiento de obligación esencial, si no se 
+subsana en el plazo que se fije. 
+c) Designar un responsable técnico  con capacidad de interlocución y decisión, 
+comunicando su identidad en el plazo de diez días hábiles desde la formalización 
+del contrato. 
+d) Cumplir la normativa en materia de protección de datos  (RGPD y LOPDGDD), 
+actuando como encargado del tratamiento respecto de los datos a los que 
+acceda en la ejecución del contrato, conforme al artículo 35.1.d) de la LCSP. 
+e) Cumplir las medidas de seguridad  exigibles conforme al Esquema Nacional de 
+Seguridad (RD 311/2022) y suscribir el acuerdo de confidencialidad que le sea 
+requerido por el Procurador del Común. 
+f) Cumplir la normativa laboral, de Seguridad Social y de prevención de riesgos 
+laborales vigente, sin que su incumplimiento genere responsabilidad alguna para 
+la Administración (art. 201 LCSP). 
+g) Ejecutar las prestaciones técnicas del pliego de prescripciones técnicas.  El 
+contratista deberá ejecutar todas las prestaciones previstas en el pliego de 
+prescripciones técnicas, incluidas las revisiones preventivas semestrales (Health 
+check), la bolsa de horas de consultoría y los informes de seguimiento. Todas 
+ellas están incluidas en el precio del contrato. 
+El contratista será responsable de todos los daños y perjuicios causados a terceros como 
+consecuencia de la ejecución del contrato, salvo que deriven directamente de una orden 
+de la Administración (art. 196 LCSP). En caso de incumplimiento o ejecución defectuosa, 
+la Administración podrá exigir la correspondiente indemnización (art. 194.1 LCSP). 
+3.3  Condiciones de instalación y prestaciones complementarias. 
+El adjudicatario vendrá obligado a realizar a su costa todo tipo de operaciones 
+inherentes a las instalaciones requeridas para la correcta prestación del servicio, salvo 
+que el pliego de prescripciones técnicas establezca otra cosa. 
+
+--- página 24 ---
+                                                                                
+ 
+ 
+24 
+ 
+3.4  Evaluación de los riesgos profesionales. 
+El contratista en todo caso deberá realizar la correspondiente evaluación de riesgos 
+laborales y además estará obligado a poner a disposición del contrato los recursos 
+preventivos adecuados, conforme al artículo 22.bis del Real Decreto 39/1997, de 17 de 
+enero, por el que se aprueba el Reglamento de Servicios de Prevención.  
+En función de las prestaciones contratadas, deberá adecuarse la coordinación de 
+actividades empresariales que corresponda, conforme al Real Decreto 171/2004, de 30 
+de enero, por el que se desarrolla el artículo 24 de la Ley 31/1995, de 8 de noviembre, 
+de Prevención de Riesgos Laborales. 
+3.5  Revisión de precios 
+De conformidad con lo dispuesto en el artículo 103 de la LCSP, no procede la revisión 
+periódica y predeterminada de los precios del presente contrato, atendiendo a la 
+naturaleza y objeto de las prestaciones y al régimen de duración y ejecución previsto en 
+el mismo. 
+3.6  Tratamiento de datos de carácter personal 
+Por tratamiento de datos de carácter personal se entenderá cualquier operación o 
+conjunto de operaciones realizadas sobre datos personales o conjuntos de datos 
+personales, ya sea por procedimientos automatizados o no, como la recogida, registro, 
+organización, estructuración, conservación, adaptación o modificación, extracción, 
+consulta, utilización, comunicación por transmisión, difusión o cualquier otra forma de 
+habilitación de acceso, cotejo o interconexión, limitación, supresión o destrucción. 
+Con respecto a los datos de carácter personal que los licitadores faciliten a la 
+administración contratante, se estará a lo dispuesto en el Reglamento General de 
+Protección de Datos y L.O. 3/2018, de 5 de diciembre, de Protección de Datos Personales 
+y garantía de los derechos digitales (LOPDGDD),  conforme a lo establecido en el anexo 
+IX. 
+En caso de facilitarse algún dato personal al contratista, este deberá respetar la 
+normativa vigente en materia de protección de datos (artículo 122.2, párrafo 3º LCSP). 
+El contratista queda obligado a: 
+a) Tratar los datos únicamente conforme a las instrucciones documentadas del 
+responsable del tratamiento y para las finalidades derivadas de la ejecución del 
+contrato, sin destinarlos a finalidades distintas. 
+
+--- página 25 ---
+                                                                                
+ 
+ 
+25 
+ 
+b) Garantizar que las personas autorizadas para tratar los datos personales se hayan 
+comprometido a respetar la confidencialidad o estén sujetas a una obligación de 
+confidencialidad de naturaleza estatutaria. 
+c) Adoptar todas las medidas de seguridad técnicas y organizativas apropiadas, de 
+conformidad con el artículo 32 del RGPD. 
+d) No subcontratar ningún tratamiento de datos sin autorización previa y por escrito del 
+responsable del tratamiento. 
+e) Asistir al responsable del tratamiento en el cumplimiento de su obligación de 
+responder a las solicitudes de ejercicio de los derechos de los interesados. 
+f) Suprimir o devolver todos los datos personales al responsable del tratamiento una vez 
+finalizada la prestación de los servicios, destruyendo las copias existentes, salvo que una 
+norma de Derecho de la Unión o de los Estados miembros exija la conservación de los 
+datos. 
+g) Poner a disposición del responsable del tratamiento toda la información necesaria 
+para demostrar el cumplimiento de las obligaciones establecidas en el artículo 28 del 
+RGPD. 
+3.7  Subcontratación 
+El contratista podrá subcontratar parcialmente la ejecución del contrato, con sujeción a 
+lo establecido en los artículos 215 a 217 de la LCSP, siempre que los subcontratistas no 
+estén incursos en prohibición de contratar ni en ninguna de las causas de exclusión 
+previstas en el artículo 71 de la LCSP. 
+La subcontratación de prestaciones esenciales del contrato, en particular las relativas al 
+soporte técnico especializado sobre la infraestructura HPE SimpliVity, requerirá 
+autorización previa y expresa del órgano de contratación. 
+El contratista deberá comunicar por escrito al órgano de contratación, con carácter 
+previo, la parte del contrato que pretenda subcontratar, el importe y la identidad o perfil 
+empresarial del subcontratista, acreditando que este no se encuentra incurso en 
+prohibición de contratar. La Administración dispondrá de un plazo de veinte días para 
+oponerse a la subcontratación propuesta si aprecia que el subcontratista no reúne las 
+condiciones necesarias. 
+El contratista principal responderá solidariamente ante la Administración del 
+cumplimiento de todas las obligaciones contractuales frente al subcontratista, incluidas 
+las de carácter laboral y de Seguridad Social (art. 216 LCSP). La Administración podrá 
+comprobar el estricto cumplimiento de los pagos al subcontratista conforme al artículo 
+217 de la LCSP. 
+
+--- página 26 ---
+                                                                                
+ 
+ 
+26 
+ 
+En ningún caso podrá concertarse la ejecución parcial del contrato con personas incursas 
+en prohibición de contratar o inhabilitadas para contratar con la Administración. 
+ 
+4. Ejecución del contrato 
+4.1 Valoración de la prestación 
+De conformidad con el artículo 197 de la LCSP, la ejecución del contrato se realizará a 
+riesgo y ventura del contratista, sin que este pueda reclamar indemnización alguna por 
+razón de pérdidas, averías o perjuicios ocasionados en la prestación, salvo en los casos 
+de fuerza mayor debidamente acreditados y en los términos previstos en el artículo 239 
+de la LCSP. 
+El contratista estará obligado a prestar los servicios necesarios para la adecuada 
+ejecución del contrato, en el tiempo fijado en el mismo y de conformidad con las 
+prescripciones técnicas y cláusulas administrativas que rigen el contrato. 
+El contrato se ejecutará con estricta sujeción a las cláusulas estipuladas en este pliego y 
+en el pliego de prescripciones técnicas aprobados por el órgano de contratación y 
+conforme a las instrucciones que, en interpretación técnica de éste diere al contratista 
+el órgano de contratación o el responsable del contrato. 
+La Administración aprobará las facturas previa verificación de la conformidad de la 
+prestación con lo establecido en el contrato. Si los servicios prestados no se ajustaran a 
+las prescripciones contractuales, la Administración podrá rechazar la factura 
+correspondiente o deducir de su importe las penalidades que procedan, quedando 
+exenta de la obligación de pago en la parte no conforme. 
+4.2 Condiciones especiales de ejecución del contrato 
+Las condiciones especiales de ejecución son las descritas en el anexo VII y su 
+incumplimiento tendrá las consecuencias que en el mismo se establezcan. Asimismo, se 
+podrán prever en el anexo VIII penalidades para el incumplimiento de las mismas. 
+4.3 Responsable del contrato 
+De conformidad con el artículo 62 LCSP, el órgano de contratación designará un 
+responsable del contrato con las siguientes funciones: 
+a) Supervisar la ejecución del contrato y adoptar las decisiones y dictar las instrucciones 
+necesarias para asegurar la correcta realización de la prestación pactada. 
+b) Verificar el cumplimiento de los niveles de servicio (SLA) comprometidos en la oferta 
+del adjudicatario, emitiendo la conformidad o disconformidad con las prestaciones 
+realizadas como requisito previo al pago. 
+
+--- página 27 ---
+                                                                                
+ 
+ 
+27 
+ 
+c) Proponer al órgano de contratación la imposición de penalidades cuando aprecie 
+incumplimientos de las obligaciones contractuales, conforme al Anexo VIII. 
+d) Emitir el acta de conformidad o disconformidad a la finalización del contrato o de 
+cada prórroga, conforme al artículo 311.3 LCSP. 
+El nombramiento del responsable del contrato constará en el Anexo IV del presente 
+pliego.  
+4.4 Modificación del contrato 
+Una vez perfeccionado el contrato, el órgano de contratación sólo podrá introducir 
+modificaciones en él por razones de interés público, cuando se justifique 
+suficientemente la concurrencia de alguno o varios de los supuestos tasados del artículo 
+205 de la LCSP. 
+4.4.1 Modificaciones previstas 
+No hay modificaciones previstas. 
+4.4.2 Modificaciones no previstas 
+Solo podrán introducirse modificaciones no previstas por razones de interés público, 
+cuando se justifique suficientemente la concurrencia de alguno o varios de los supuestos 
+tasados del artículo 205 LCSP. En ningún caso el importe acumulado de las 
+modificaciones no previstas podrá superar el 20 por ciento del precio inicial del contrato, 
+IVA excluido, conforme al artículo 205.2.e) de la LCSP. 
+Las modificaciones acordadas serán obligatorias para el contratista. La tramitación de 
+cualquier modificación requerirá audiencia al contratista, informe del servicio jurídico y 
+fiscalización de la Intervención, conforme al artículo 207 LCSP. 
+4.5  Penalidades 
+El adjudicatario queda obligado al cumplimiento del plazo de ejecución del contrato. 
+Caso de sobrepasarse el plazo establecido o en el caso de incumplimiento de plazos 
+parciales por causas imputables al contratista, se estará a lo dispuesto en los artículos 
+192 y siguientes de la LCSP. 
+Si atendiendo a las especiales características del contrato se considera necesario para 
+su correcta ejecución el establecimiento de penalidades distintas a las incluidas en el 
+párrafo anterior, éstas se especificarán en el anexo VIII del presente pliego. 
+El cumplimiento defectuoso de las prestaciones objeto del contrato, el incumplimiento 
+de las condiciones especiales de ejecución del contrato, o el incumplimiento de alguno 
+de los criterios que sirvieron de base para la valoración de las ofertas, dará lugar a la  
+
+--- página 28 ---
+                                                                                
+ 
+ 
+28 
+ 
+imposición de penalidades cuando así se indique en el anexo VIII de este pliego y en la 
+forma en él previstas. 
+5. Extinción del contrato 
+5.1  Cumplimiento del contrato 
+El contrato se entenderá cumplido por el contratista cuando este haya realizado la 
+totalidad de las prestaciones de acuerdo con los términos del mismo y a satisfacción de 
+la Administración, de conformidad con el artículo 311.3 LCSP. 
+A la finalización del contrato o de cada una de sus prórrogas, el responsable del contrato 
+emitirá un acta de conformidad o, en su caso, de disconformidad, en la que se hará 
+constar si la prestación se ha ejecutado conforme a lo pactado. Si los servicios no se 
+adecuaran a la prestación contratada por causas imputables al contratista, la 
+Administración podrá rechazar la misma, quedando exenta de la obligación de pago o 
+con derecho a recuperar el precio satisfecho. 
+5.2  Plazo y devolución de la garantía 
+El plazo de garantía será de doce meses  contados desde la fecha de finalización del 
+contrato o de la última prórroga, durante el cual el contratista responderá de los 
+defectos o vicios ocultos que pudieran detectarse en los servicios prestados, conforme 
+al artículo 311.4 LCSP. 
+Transcurrido el plazo de garantía sin que la Administración haya formulado reparo 
+alguno, se procederá a la devolución o cancelación de la garantía definitiva constituida, 
+de conformidad con el artículo 111 LCSP. 
+Si durante el plazo de garantía se acreditase la existencia de vicios o defectos en los 
+trabajos efectuados, el órgano de contratación tendrá derecho a reclamar al contratista 
+la subsanación de los mismos. 
+Durante ese plazo, la Administración podrá comprobar que el trabajo realizado se ajusta 
+a las prescripciones establecidas para su ejecución y cumplimiento y a lo estipulado en 
+el presente Pliego y en el de Prescripciones Técnicas. Transcurrido el plazo de garantía 
+sin que se hayan formulado reparos a los trabajos ejecutados, quedará extinguida la 
+responsabilidad del contratista. 
+Aprobada la liquidación del contrato, si no resultasen responsabilidades que hayan de 
+ejercitarse sobre la garantía definitiva, se dictará acuerdo de devolución de las garantías 
+definitivas. 
+El acuerdo de devolución deberá adoptarse y notificarse al interesado en el plazo de dos 
+meses desde la finalización del plazo de garantía. Transcurrido el mismo, la 
+
+--- página 29 ---
+                                                                                
+ 
+ 
+29 
+ 
+Administración deberá abonar al contratista la cantidad adeudada incrementada con el 
+interés legal del dinero correspondiente al período transcurrido desde el vencimiento 
+del citado plazo hasta la fecha de la devolución de la garantía, si esta no se hubiera hecho 
+efectiva por causa imputable a la Administración. 
+Transcurrido un año desde la fecha de terminación del contrato, y vencido el plazo de 
+garantía, sin que la recepción formal y la liquidación hubiesen tenido lugar por causas 
+no imputables al contratista, se procederá, sin más demora, a la devolución o 
+cancelación de las garantías una vez depuradas las responsabilidades a que se refiere el 
+artículo 110. 
+5.3  Resolución del contrato 
+Son causas de resolución del contrato las establecidas con carácter general en el artículo 
+211 LCSP y, específicamente para los contratos de servicios, las previstas en el artículo 
+313 LCSP, entre las que se incluyen: 
+a) El desistimiento antes de iniciar la prestación o la suspensión de su iniciación por 
+causa imputable al órgano de contratación por plazo superior a cuatro meses. 
+b) El desistimiento una vez iniciada la prestación o la suspensión del contrato por plazo 
+superior a ocho meses acordada por el órgano de contratación. 
+c) La pérdida sobrevenida y no subsanada de los medios adscritos al contrato conforme 
+al Anexo VI, en particular la capacidad de prestar el soporte oficial del fabricante sobre 
+la infraestructura HPE SimpliVity o la composición del equipo técnico exigido, calificada 
+como obligación esencial en la cláusula 3.2.b) del presente pliego. 
+La resolución del contrato se acordará por el órgano de contratación, de oficio o a 
+instancia del contratista, conforme al procedimiento establecido en el artículo 212 LCSP, 
+con audiencia previa al contratista e informe del servicio jurídico correspondiente. 
+Cuando la resolución se produzca por incumplimiento culpable del contratista, le será 
+incautada la garantía definitiva y deberá indemnizar a la Administración por los daños y 
+perjuicios que excedan de su importe, conforme al artículo 213.3 LCSP. La resolución del 
+contrato dará derecho al contratista a percibir el precio de los servicios efectivamente 
+prestados y recibidos de conformidad (art. 313.2 LCSP). 
+6. Prerrogativas de la Administración 
+De conformidad con el artículo 190 de la LCSP, dentro de los límites y con sujeción a los 
+requisitos y efectos señalados en la misma, el órgano de contratación ostenta las 
+prerrogativas de interpretar el contrato, resolver las dudas que ofrezca su 
+cumplimiento, modificarlo por razones de interés público, acordar su resolución y 
+determinar los efectos de esta. 
+
+--- página 30 ---
+                                                                                
+ 
+ 
+30 
+ 
+Los acuerdos que dicte el órgano de contratación en el ejercicio de sus prerrogativas de 
+interpretación, modificación y resolución serán inmediatamente ejecutivos. Las 
+cuestiones litigiosas surgidas sobre la interpretación, modificación, resolución y efectos 
+de los contratos administrativos serán resueltas por el órgano de contratación 
+competente, cuyos acuerdos pondrán fin a la vía administrativa, y contra los mismos 
+habrá lugar a recurso contencioso-administrativo, conforme a lo previsto en la Ley 
+29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa. 
+7. Régimen de recursos  
+El presente pliego de cláusulas administrativas, el pliego de prescripciones técnicas que 
+describe las prestaciones, así como el resto de documentos contractuales que han de 
+regir la presente contratación podrán ser recurridos mediante el recurso potestativo de 
+reposición. 
+El recurso se interpondrá ante el Procurador del Común de Castilla y León, como órgano 
+de contratación, en el plazo de un mes a contar desde el día siguiente al de su 
+publicación en el perfil de contratante y su tramitación se ajustará a lo dispuesto en los 
+artículos 112 y siguientes de la Ley 39/2015, de 1 de octubre. 
+Alternativamente al recurso de reposición podrá interponerse recurso contencioso 
+administrativo ante el Tribunal Superior de Justicia de Castilla y León, en el plazo de dos 
+meses a contar desde el día siguiente al de su publicación en el perfil de contratante. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 31 ---
+                                                                                
+ 
+ 
+31 
+ 
+Anexo I – Comunicación de datos a efectos de notificaciones 
+ 
+Expediente: EC 26-13  — Servicio de mantenimiento integral de la infraestructura 
+hiperconvergente HPE SimpliVity del Procurador del Común de Castilla y León. 
+ 
+ 
+Razón social  
+NIF  
+Domicilio social  
+Persona de contacto  
+Teléfono  
+Correo electrónico  
+El que suscribe, en representación de la empresa arriba indicada, declara bajo su 
+responsabilidad que los datos consignados son correctos y se compromete a comunicar 
+cualquier variación de los mismos durante la tramitación del procedimiento. 
+En ________________, a la fecha de la firma electrónica 
+ 
+ 
+Fdo.: _________________________________ 
+ 
+(Representante legal) 
+ 
+ 
+ 
+ 
+Firmado electrónicamente 
+ 
+
+--- página 32 ---
+                                                                                
+ 
+ 
+32 
+ 
+Anexo II – Declaración responsable 
+ 
+D/Dª_________________________________ con D.N.I.____________ en nombre y 
+representación de __________________________________, con NIF _____________, 
+a efectos de su participación en la licitación del expediente EC 26-13, 
+ 
+Declara bajo su responsabilidad: 
+ 
+- Que la sociedad a la que represento tiene capacidad, está válidamente 
+constituida y por su objeto social puede presentarse a la licitación, así como el 
+firmante de esta declaración ostenta la debida representación para la 
+presentación de la proposición. 
+- Que tanto la empresa como el personal disponen de las autorizaciones y 
+habilitaciones necesarias para prestar el servicio, y que cuentan con la adecuada 
+solvencia económica, financiera y técnica o, en su caso, la clasificación 
+correspondiente. 
+- Que la empresa a la que representa no está incursa en ninguna de las 
+prohibiciones para contratar previstas en el artículo 71 de la LCSP. 
+- Que se somete al fuero español renunciando en su caso, al fuero jurisdiccional 
+extranjero que pudiera corresponder al licitante (solo en caso de empresas 
+extranjeras). 
+- Que se comprometen a constituir la UTE (solo en caso de ofertas presentadas 
+por UTE no establecidas). 
+- Que la entidad se encuentra al corriente del cumplimiento de obligaciones 
+tributarias, así como de sus obligaciones con la Seguridad Social. 
+- Que la empresa no ha sido objeto de sanción firme por infracción grave en 
+materia de igualdad entre mujeres y hombres, de conformidad con la normativa 
+aplicable. 
+- Que está inscrito en el Registro de Licitadores y Empresas Clasificadas del Sector 
+Público o en el Registro de Licitadores de Comunidad Autónoma de Castilla y 
+León, tal y como establece el artículo 159.4.a) o ha solicitado su inscripción antes 
+de la finalización del plazo para presentar las proposiciones. 
+- Que se compromete a dedicar o adscribir a la ejecución del contrato los medios 
+personales o materiales suficientes para la ejecución del contrato, en concreto 
+los señalados en anexo VI de este Pliego. 
+ 
+
+--- página 33 ---
+                                                                                
+ 
+ 
+33 
+ 
+A efectos de lo previsto en los artículos 149.3 de la LCSP manifiesta que la empresa 
+(indíquese lo que proceda): 
+-  
+-  No pertenece a ningún grupo de empresas. 
+-  Pertenece al grupo de empresas denominado 
+………………………………………………………. 
+- del cual se adjunta listado de empresas vinculadas de conformidad con el artículo 
+42.1 del Código de Comercio. 
+ 
+ 
+Firma la presente como Declaración responsable exigida en artículo 140.1 de LCSP 
+En ________________, a la fecha de la firma electrónica 
+ 
+Fdo.: _________________________________ 
+ 
+(Representante legal) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 34 ---
+                                                                                
+ 
+ 
+34 
+ 
+Anexo III Oferta 
+ 
+D/Dª_________________________________ con D.N.I.____________ en nombre y 
+representación de _________________________________, con NIF _____________, a 
+efectos de su participación en la licitación del expediente EC 26-13, manifiesta: 
+ 
+- Que está enterado de las condiciones y requisitos que se exigen para la 
+adjudicación del expediente EC 26-13 
+- Que conoce y acepta plenamente el contenido de los Pliegos de Cláusulas 
+Administrativas Particulares y de Prescripciones Técnicas y se compromete a 
+tomar a su cargo la ejecución del contrato, por la cantidad de (póngase en letras 
+y cifras el total de la oferta): 
+ 
+____________________________________________________________euros 
+(________________________ €), IVA excluido.  
+A esta cantidad le corresponde un IVA (21%) de 
+___________________________________euros (__________________€), 
+siendo por tanto el importe total de la oferta 
+____________________________________________________________euros 
+(__________________________€), IVA incluido 
+ 
+- En la oferta se incluyen cuantos gastos se deriven del cumplimiento de 
+obligaciones asumidas por el contratista en virtud de lo establecido en el Pliego 
+de Cláusulas Administrativas Particulares y en el Pliego de Prescripciones 
+Técnicas. 
+ 
+- Este precio es el resultado de la oferta desglosada según el cuadro siguiente. 
+ 
+ 
+ 
+A. Proposición económica: 
+ 
+ 
+ Importe anual (€) Importe total (€) (3 años 
+de contrato) 
+Precio ofertado (sin IVA)   
+IVA (21%)   
+Precio Total (IVA incluido)   
+ 
+El total importe por los tres años de contrato es el importe es el que se utilizará para aplicar la fórmula 
+recogida en la cláusula 2.2.8        
+
+--- página 35 ---
+                                                                                
+ 
+ 
+35 
+ 
+B. Tiempo de intervención física o sustitución  
+                                             
+ 
+B.1 Tiempo de intervención física ante incidencias de Severidad 1 
+(Marque con una X la opción ofertada. Solo se admite una opción.) 
+ Opción Puntuación 
+   Igual o inferior a 2 horas desde el diagnóstico del fallo 10 puntos 
+   Superior a 2 horas e inferior a 4 horas desde el diagnóstico del fallo 5 puntos 
+ 
+Si no se marca ninguna opción o se marca más de una, se entenderá que el licitador se compromete 
+únicamente al mínimo obligatorio (4 horas) y no obtendrá puntuación en este criterio. 
+ 
+ 
+B.2 Tiempo de intervención física ante incidencias de Severidad 2 
+(Marque con una X la opción ofertada. Solo se admite una opción.) 
+ Opción Puntuación 
+   Igual o inferior a 12 horas 10 puntos 
+   Superior a 12 horas e inferior a 24 horas 5 puntos 
+ 
+Si no se marca ninguna opción o se marca más de una, se entenderá que el licitador se compromete 
+únicamente al mínimo obligatorio (24 horas) y no obtendrá puntuación en este criterio 
+ 
+C. Cobertura horaria para incidencias de Severidad 2 y 3 
+(Marque con una X la opción ofertada. Solo se admite una opción.) 
+ 
+ Opción Puntuación 
+  
+ 24 horas al día, 7 días a la semana (24×7×365) 10 puntos 
+  
+ 
+12 horas al día, 5 días a la semana (12×5) de lunes a viernes, en 
+horario de 08:00 a 20:00 5 puntos 
+ 
+Si no se marca ninguna opción o se marca más de una, se entenderá que el licitador se compromete 
+únicamente al mínimo obligatorio (8 horas al día 5 días a la semana) y no obtendrá puntuación en 
+este criterio. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 36 ---
+                                                                                
+ 
+ 
+36 
+ 
+ 
+ 
+SUBCONTRATACIÓN: 
+ 
+Se deberá indicar la parte del contrato que tengan previsto subcontratar, señalando su 
+importe, y el nombre o el perfil empresarial de los subcontratistas a los que se vaya a 
+encomendar su realización. 
+ 
+ 
+ 
+ 
+En ________________, a la fecha de la firma electrónica 
+ 
+Fdo.: _________________________________ 
+ 
+(Representante legal) 
+ 
+ 
+ 
+ 
+Firmado electrónicamente. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 37 ---
+                                                                                
+ 
+ 
+37 
+ 
+Anexo IV – Composición de la Mesa de contratación y 
+responsable del contrato 
+ 
+ 
+Presidenta:                   Dª Blanca Duque Rodríguez, Jefa de Servicio de Administración 
+y Régimen Interior. 
+Presidente suplente:  D. Rubén Carlos Salgado Madrid, Interventor. 
+Secretaria:                     Dª Sagrario Aragoneses Galindo, Técnico de Administración. 
+Secretaria suplente : Dª María Virtudes Santos Cuervo, Jefa de la Sección de 
+Administración del Procurador del Común. 
+Vocales:                       D. Luis María Gómez González, Interventor adjunto. 
+        D. David Callejo Martínez, Interventor adjunto. 
+        Dª Virtudes de la Prieta Miralles, Letrada. 
+        D. Andrés Pérez-Moneo Agapito, Letrado. 
+ 
+ 
+ 
+ 
+Responsable del contrato: Responsable de informática del Procurador del Común de 
+Castilla y León. 
+
+--- página 38 ---
+                                                                                
+ 
+ 
+38 
+ 
+Anexo V – Modelo de aval (garantía definitiva) 
+ 
+La entidad __________________________________con NIF____________ y domicilio 
+(a efectos de notificaciones y requerimientos) en 
+_______________________________________________________ y en su nombre 
+(nombre y apellidos de los apoderados) 
+_____________________________________________________ con poderes 
+suficientes para obligarle en este acto, 
+ 
+AVALA 
+ 
+a: _______________________________________________________________ NIF 
+__________________en virtud de lo dispuesto en los arts. 107 y ss de la Ley 9/2017, de 
+8 de noviembre, de Contratos del Sector Público, en concepto de GARANTÍA DEFINITIVA, 
+por un importe de _____________________________________(en letra) 
+__________________(en cifra) ante el PROCURADOR DEL COMÚN DE CASTILLA Y LEON. 
+(NIF Q9750006J), para responder de las obligaciones derivadas de la ejecución del 
+contrato correspondiente al expediente EC 26-13 Contratación del servicio de  
+mantenimiento integral de la infraestructura hiperconvergente HPE SimpliVity en el 
+Procurador del Común Castilla y León correspondiente al 5% del importe de 
+adjudicación de 
+______________________________________________________euros (en letra). 
+ 
+La entidad avalista declara bajo su responsabilidad, que cumple los requisitos previstos 
+en el artículo 56.2 del Reglamento General de la Ley de Contratos de las 
+Administraciones Públicas.  
+ 
+Este aval se otorga solidariamente respecto al obligado principal, con renuncia expresa 
+al beneficio de exclusión y con compromiso de pago al primer requerimiento de la 
+Secretaría General de apoyo a las Instituciones Propias de Castilla y León, con sujeción 
+a los términos previstos en la normativa de contratación de las Administraciones 
+Públicas y sus normas de desarrollo, y en la de la Secretaría General de apoyo a las 
+Instituciones Propias. 
+ 
+Este aval tendrá validez en tanto que el órgano competente de la Administración no 
+autorice su cancelación, habiendo sido inscrito en el día de la fecha en el Registro 
+especial de Avales con el número _______________________ 
+ 
+    En____________________a_____de_______de________ 
+ (firma de los Apoderados) 
+ 
+
+--- página 39 ---
+                                                                                
+ 
+ 
+39 
+ 
+Anexo VI – Adscripción obligatoria de medios al contrato 
+ 
+En cumplimiento de lo establecido en el artículo 76.2 LCSP, y con sujeción a los límites 
+del artículo 76.3, se exige la adscripción de los medios que se indican a continuación. 
+Esta exigencia se justifica en la necesidad de garantizar el acceso al soporte, firmware y 
+parches oficiales del fabricante y la correcta resolución de incidencias sobre la 
+infraestructura HPE SimpliVity. La adscripción se considera razonable, justificada y 
+proporcional por la complejidad técnica de dicha infraestructura y la criticidad de los 
+servicios institucionales que soporta. Se admiten medios de acreditación equivalentes. 
+Los licitadores se comprometerán a dedicar o adscribir a la ejecución del contrato los 
+siguientes medios: 
+1. Soporte del fabricante.  Capacidad para prestar durante toda la ejecución del 
+contrato el soporte oficial del fabricante sobre la infraestructura HPE SimpliVity. 
+Podrá acreditarse mediante certificación como partner autorizado del 
+fabricante, compromiso o carta del fabricante o de un distribuidor autorizado, o 
+cualquier otro medio que acredite una capacidad equivalente. 
+2. Equipo técnico.  Un equipo formado por, al menos, dos (2) ingenieros que 
+cuenten con alguna de las siguientes certificaciones: HPE ASE – Storage or 
+Compute Solutions, HPE Master ASE o HPE SimpliVity Specialist, o certificación o 
+formación equivalente en la tecnología objeto del contrato. 
+Acreditación. El compromiso de adscripción está incluido en la declaración responsable 
+(Anexo II). La documentación acreditativa se requerirá al licitador propuesto como 
+adjudicatario. Cuando se aporte una certificación o formación distinta de las 
+expresamente citadas, se considerará equivalente si cumple los siguientes criterios: 
+a) Contenidos: abarca la instalación, administración, soporte y resolución de incidencias 
+de plataformas hiperconvergentes HPE SimpliVity o de tecnología equivalente. El 
+licitador aportará el temario o programa de la formación. 
+b) Nivel: es de un nivel equivalente al de las certificaciones citadas. 
+c) Reconocimiento: ha sido expedida o reconocida por el fabricante o por una entidad 
+acreditada. 
+d) Vigencia: se encuentra vigente en el momento de su presentación. 
+
+--- página 40 ---
+                                                                                
+ 
+ 
+40 
+ 
+El responsable del contrato, con el apoyo del servicio técnico, valorará la equivalencia. 
+Podrá solicitar al licitador la información complementaria necesaria, que este deberá 
+aportar en el plazo de cinco días hábiles desde el requerimiento. Si el licitador propuesto 
+no aportase la documentación o la información complementaria requerida, o no 
+acreditase la adscripción de los medios exigidos, se entenderá que ha retirado su oferta 
+y se recabará la misma documentación al licitador siguiente por el orden en que hayan 
+quedado clasificadas las ofertas. 
+Personal adscrito y subcontratación. Los dos ingenieros que integran el equipo técnico 
+podrán ser personal del licitador o, previa autorización expresa del órgano de 
+contratación conforme a la cláusula 3.7, personal de un subcontratista. En este segundo 
+caso, el licitador deberá haberlo declarado en su oferta, indicando la parte del contrato 
+que subcontratará y el perfil del subcontratista. Las certificaciones o la formación de 
+estas personas se acreditarán en los mismos términos que las del personal propio. En 
+todo caso, el licitador seguirá siendo responsable ante la Administración del 
+cumplimiento de este compromiso de adscripción. 
+Carácter. Estos compromisos se integran en el contrato y tienen carácter de obligación 
+esencial a los efectos del artículo 211 LCSP. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 41 ---
+                                                                                
+ 
+ 
+41 
+ 
+Anexo VII – Condiciones especiales de ejecución del contrato 
+ 
+De conformidad con el artículo 202 LCSP, se establecen las siguientes condiciones 
+especiales de ejecución, cuyo incumplimiento tendrá carácter de obligación contractual 
+esencial: 
+a) Medioambientales: el contratista priorizará el uso de medios de soporte remoto 
+frente a los desplazamientos presenciales cuando la naturaleza de la incidencia 
+lo permita, con el fin de reducir la huella de carbono asociada a la ejecución del 
+contrato. 
+b) Sociales: el contratista deberá acreditar, a requerimiento del responsable del 
+contrato, el cumplimiento de la normativa vigente en materia de igualdad 
+efectiva entre mujeres y hombres, en particular lo dispuesto en la Ley Orgánica 
+3/2007, de 22 de marzo. 
+c) Laborales: el contratista garantizará que el personal adscrito a la ejecución del 
+contrato percibe retribuciones no inferiores a las establecidas en el convenio 
+colectivo de aplicación. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 42 ---
+                                                                                
+ 
+ 
+42 
+ 
+Anexo VIII – Penalidades 
+De conformidad con los artículos 192 y 193 LCSP, se establecen las siguientes 
+penalidades por incumplimiento de las obligaciones contractuales: 
+A) Penalidades por incumplimiento de niveles de servicio (SLA) 
+                                             Incumplimiento    Penalidad por incidencia 
+Superación del tiempo de respuesta remota para incidencias de 
+Severidad 1 300 € 
+Superación del tiempo de intervención física comprometido en la 
+oferta (o, en su defecto, del máximo establecido en el PPT) para 
+incidencias de Severidad 1 
+500 € 
+Superación del tiempo de respuesta para incidencias de 
+Severidad 2 200 € 
+Superación del tiempo de intervención física comprometido en la 
+oferta (o, en su defecto, del máximo establecido en el PPT) para 
+incidencias de Severidad 2 
+300 € 
+Incumplimiento de la cobertura horaria ofertada para Severidad 
+2 y 3 (por día) o, en su defecto, la mínima exigida en el PPT. 150 € 
+En caso de incumplimiento reiterado, entendiendo por tal la superación de cinco 
+incidencias con penalidad en un mismo mes natural, se aplicará una penalidad adicional 
+equivalente al doble de la penalidad individual correspondiente por cada incidencia 
+adicional. 
+B) Penalidades por incumplimiento de otras obligaciones esenciales 
+                                                        Incumplimiento         Penalidad 
+Falta de designación del responsable técnico en el plazo establecido 500 € 
+Pérdida sobrevenida de alguno de los medios adscritos (Anexo VI) sin 
+comunicación inmediata 1.000 € 
+No entregar el informe mensual de servicio (cláusula 5.1 PPT) en el plazo 
+establecido en el PPT 
+300 € por 
+informe 
+No realizar una revisión preventiva semestral (Health check) o no entregar su 
+informe semestral (cláusula 5.2 PPT) en el plazo establecido en el PPT 
+300 € por 
+revisión 
+C) Límites y procedimiento 
+La cuantía de cada penalidad individual no superará el 10 por ciento del precio del 
+contrato, IVA excluido. El total acumulado de penalidades no podrá superar el 50 por 
+ciento del precio del contrato, IVA excluido; alcanzado dicho límite, el órgano de 
+contratación podrá optar por la resolución del contrato o por acordar su continuación. 
+Las penalidades se impondrán por acuerdo del órgano de contratación, adoptado a 
+propuesta del responsable del contrato, y se harán efectivas mediante deducción de las 
+cantidades que deban abonarse al contratista o, en su defecto, sobre la garantía 
+definitiva constituida, conforme al artículo 194.2 LCSP. 
+
+--- página 43 ---
+                                                                                
+ 
+ 
+43 
+ 
+Anexo IX – Información sobre protección de datos 
+ 
+Tratamiento: Servicio de mantenimiento de integral (hardware y software) de la 
+infraestructura hiperconvergente HPE SimpliVity del Procurador del Común de Castilla y 
+León. 
+Responsable del tratamiento de los datos:  Procurador del Común de Castilla y León. 
+Calle Sierra Pambley, 4 – 24003 León. 
+Delegado de Protección de datos: dpo@procuradordelcomun.es 
+Conservación de los datos: Los datos personales proporcionados se conservarán 
+mientras sean necesarios para la ejecución del contrato y para determinar las posibles 
+responsabilidades derivadas del mismo, conforme a los plazos establecidos en la Ley 
+9/2017, de 8 de noviembre, de Contratos del Sector Público, en la Ley 58/2003, de 17 
+de diciembre, General Tributaria, y en la normativa de archivos que resulte de 
+aplicación. 
+Legitimación para el tratamiento de sus datos: La base jurídica del tratamiento es el 
+cumplimiento de una obligación legal aplicable al responsable, de conformidad con el 
+artículo 6.1.c) del Reglamento (UE) 2016/679 (RGPD), en relación con la Ley 9/2017, de 
+8 de noviembre, de Contratos del Sector Público, que impone al órgano de contratación 
+la obligación de tramitar el expediente de contratación con los datos de los licitadores. 
+Asimismo, en la medida en que el tratamiento sea necesario para el ejercicio de las 
+funciones públicas atribuidas al Procurador del Común de Castilla y León, resultará de 
+aplicación el artículo 6.1.e) del RGPD, conforme a lo previsto en el artículo 8.2 de la Ley 
+Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de 
+los derechos digitales (LOPDGDD). 
+Comunicación de datos: Los datos se comunicarán a la Secretaría General de apoyo a 
+las Instituciones Propias de la Comunidad de Castilla y León, a tenor de lo establecido 
+en el artículo 6.2.a) de la Ley 4/2013, de 19 de junio por la que se modifica la 
+organización y el funcionamiento de las Instituciones propias de la Comunidad de 
+Castilla y León. 
+Derechos que le asisten: Cualquier persona interesada tiene derecho a obtener 
+confirmación sobre si se están tratando datos personales que les conciernan o no.  
+Las personas interesadas tienen derecho a acceder a sus datos personales, así como a 
+solicitar la rectificación de los datos inexactos o, en su caso, solicitar su supresión 
+cuando, entre otros motivos, los datos ya no sean necesarios para los fines que fueron 
+recogidos. 
+En determinadas circunstancias, los interesados podrán solicitar la limitación del 
+tratamiento de sus datos, en cuyo caso únicamente se conservarán para el ejercicio o la 
+defensa de sus reclamaciones. 
+Origen de sus datos: Los datos personales tratados proceden del propio interesado o su 
+representante legal, Administraciones Públicas y Registros Públicos. 
+
+--- página 44 ---
+                                                                                
+ 
+ 
+44 
+ 
+Las categorías de datos que se tratan son: 
+ 
+ Datos de identificación. 
+ Códigos o claves de identificación. 
+ Direcciones postales o electrónicas. 
+ Información comercial. 
+ Datos económicos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 45 ---
+                                                                                
+ 
+ 
+45 
+ 
+Anexo X – Datos de facturación electrónica 
+ 
+Las facturas se emitirán a la entidad contratante. Los datos de facturación electrónica 
+del Procurador del Común de Castilla y León son los siguientes: 
+ 
+ 
+Entidad Contratante / CIF:  
+Procurador del Común de Castilla y León /  Q9750006J 
+Código DIR     
+I00000423 
+Oficina contable:  
+Secretaría General de apoyo a las Instituciones Propias 
+Código DIR    
+I00000421 
+Unidad tramitadora:  
+Secretaría General de apoyo a las Instituciones Propias 
+Código DIR    
+I00000421 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 46 ---
+                                                                                
+ 
+ 
+46 
+ 
+ 
+DILIGENCIA 
+Para hacer constar que el presente Pliego de Cláusulas Administrativas Particulares cuenta con el informe favorable 
+del Servicio Jurídico de la Secretaría General de apoyo a las Instituciones Propias de la Comunidad de Castilla y León, 
+de fecha 21 de octubre de 2026, y que ha sido aprobado mediante Resolución del Procurador del Común de Castilla 
+y León de fecha 26 de octubre de 2026. 
+ 
+ 
+ 
+LA TÉCNICO DE ADMINISTRACIÓN 
+ 
+ 
+ 
+Firmado electrónicamente 
+ 

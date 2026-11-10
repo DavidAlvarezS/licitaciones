@@ -1,0 +1,862 @@
+
+
+--- página 1 ---
+ 
+ 
+ 
+ 
+   
+  
+   
+  
+  
+PLIEGO DE PRESCRIPCIONES TÉCNICAS QUE REGIRÁ LA CONTRATACIÓN DEL SERVICIO  
+CONSISTENTE EN EL  
+  
+  
+Servicio de soporte de sistemas y DevOps al servicio de Desarrollo 
+ 
+ 
+ 
+
+
+--- página 2 ---
+ 
+ 
+ 
+ 
+ÍNDICE 
+1 INTRODUCCIÓN ................................................................................................................................... 3 
+2 OBJETO Y ALCANCE ............................................................................................................................ 3 
+3 EQUIPO DE TRABAJO ........................................................................................................................... 4 
+3.1 Equipo mínimo, temporal y panel de expertos ........................................................................ 4 
+3.2 Área de soporte y conocimiento ............................................................................................... 5 
+3.3 Horario del servicio ....................................................................................................................... 6 
+3.4 Lugar de desempeño del servicio ............................................................................................. 6 
+4 ACUERDO DE NIVELES DE SERVICIO (ANS) ....................................................................................... 6 
+4.1 Soporte a usuarios ........................................................................................................................ 6 
+4.2 Mantenimiento ............................................................................................................................. 7 
+5 SOPORTE TELEMÁTICO ........................................................................................................................ 8 
+6. METODOLOGÍA DE TRABAJO ............................................................................................................ 8 
+7. ENTORNO TECNOLÓGICO ................................................................................................................ 8 
+8. CONDICIONES GENERALES ............................................................................................................... 9 
+8.1. Entrega de la Solución ................................................................................................................ 9 
+8.2. Propiedad intelectual ............................................................................................................... 10 
+8.3. Política de calidad .................................................................................................................... 10 
+8.4. Seguridad ................................................................................................................................... 11 
+8.5. ENS ............................................................................................................................................... 11 
+8.6. Protección de datos personales ............................................................................................. 11 
+8.7. Confidencialidad ...................................................................................................................... 13 
+8.8. Nivel de seguridad y protección de datos. ........................................................................... 13 
+8.9. Seguridad en aplicaciones Web. ............................................................................................ 14 
+8.10. Planificación, dirección y seguimiento de los trabajos. ..................................................... 14 
+8.11. Garantía de los trabajos y soporte a la explotación. ......................................................... 15 
+8.12. Transferencia tecnológica ..................................................................................................... 15 
+ 
+ 
+ 
+  
+
+--- página 3 ---
+ 
+ 
+ 
+ 
+ 
+1  INTRODUCCIÓN  
+  
+La Dirección General de Transformación Digital de los Servicios Públicos (DGTDSP) tiene entre 
+sus competencias (DECRETO 6/2024, de 25 de enero, del Presidente, por el que se aprueba el 
+Reglamento Orgánico de la Presidencia del Gobierno), “El impulso, desarrollo, mantenimiento 
+y evolución integral de los sistemas de información corporativos establecidos a efectos de 
+normalización e interoperabilidad de la Administración Pública de la Comunidad Autónoma 
+de Canarias, de sus organismos y entidades públicas vinc uladas o dependientes con 
+presupuesto limitativo.” (artículo 27.b) , así como “el impulso a la automatización de 
+procedimientos administrativos” (artículo 30.h), y “la participación en cuantos proyectos o 
+acciones promuevan los distintos departamentos, entes públicos y organismos autónomos en 
+orden a la mejora y modernizac ión de su organización, así como a la implantación de la 
+administración electrónica, en los términos y con el alcance que se determine en cada 
+momento” (artículo 30.i).     
+ 
+En base a esta competencia, el servicio de desarrollo de esta DGTDSP mantiene las 
+aplicaciones corporativas, así como diversas aplicaciones Departamentales . 
+ 
+A lo largo de estos años, la política de servicios de la infraestructura corporativa de la 
+Administración Pública de la Comunidad Autónoma de Canarias ha ido evolucionando a un 
+sistema de infraestructura autogestionada por cada uno de los responsables de l os propios 
+aplicativos alojados en dicha infraestructura , así como de aplicaciones basadas en 
+microservicios lo que obliga a este servicio a disponer de unos conocimientos y perfiles para 
+la Administración de Sistemas y técnicos especialistas en DevOps para la automatización de 
+la integración y despliegue continuo. 
+ 
+ 
+2  OBJETO Y ALCANCE  
+  
+El objeto del contrato es el servicio de soporte de sistemas y DevOps para el servicio de 
+Desarrollo de la DGTDSP , con el fin de realizar la necesaria Administración y despliegue 
+automatizado de los sistemas competencia de del Servicio de Desarrollo.  
+ 
+Sin carácter exhaustivo, se considera dentro del alcance del proyecto, al menos las siguientes 
+actuaciones: 
+I. Autogestión de la infraestructura sobre la que están desplegadas las aplicaciones 
+competencia del Servicio de Desarrollo: 
+o Administración de sistemas. 
+o Configuración de servidores. 
+o Despliegues. 
+o Monitorización. 
+o Gestión de certificados. 
+o Aplicación de parches. 
+o Resolución de incidencias de infraestructura. 
+o Gestión de rendimiento, capacidad y disponibilidad 
+o Copias de seguridad y recuperación. 
+o Coordinación de vulnerabilidades seguridad. 
+o Automatización de operaciones. 
+ 
+II. Industrialización de despliegues, pruebas y entregas: 
+o Integración de GitLab, GitLab Runner, Docker y pipelines de integración y 
+despliegue continuo. 
+ 
+III. Establecer procedimientos de vigilancia tecnológica en cuanto a la infraestructura 
+
+--- página 4 ---
+ 
+ 
+ 
+ 
+ 
+ 
+3  EQUIPO DE TRABAJO  
+  
+El licitador deberá proponer un equipo de trabajo constituido por el número de integrantes 
+que estime necesario para las funciones descritas, así como para el adecuado cumplimiento 
+de los objetivos perseguidos en el presente pliego. Dicho equipo habrá de aportar 
+conocimiento y experiencia contrastada en la materia objeto de contratación.  
+  
+Se considera requisito imprescindible, por parte de los licitadores, adscribir a la asistencia un 
+equipo mínimo estable  durante toda la ejecución del contrato, con independencia de los 
+que puntualmente deba asignar para la resolución de una o más funciones o tareas (en forma 
+de equipo temporal).  
+  
+También se podrá contar, para aquellas consultas o actuaciones puntuales, con un panel de 
+expertos que permitan resolver problemática específica (en este caso deberá especificarse 
+la dedicación).  
+ 
+3.1 Equipo mínimo, temporal y panel de expertos  
+  
+Con independencia de lo señalado en los párrafos anteriores, el licitador deberá adscribir, 
+como mínimo, durante toda la duración del servicio, la adscripción de 1consultor tecnológico 
+con el siguiente perfil:  
+  
+EQUIPO MÍNIMO ESTABLE 
+PERFIL CANTIDAD DEDICACIÓN 
+MÍNIMA 
+TITULACIÓN / EXPERIENCIA 
+Consultor 
+tecnológico 
+titulado medio: 
+Técnico de  
+Sistemas + 
+DevOps 
+  
+1  Completa (8 
+horas al día de 
+lunes a viernes 
+laborables)  
+  
+Titulación: Formación universitaria mínima requerida = 
+Ingeniería Técnica, Diplomatura o Grado en TIC (Informática 
+o Telecomunicaciones) o cualquier titulación superior a ésta, 
+siempre que esté dentro de dichas áreas de conocimiento . 
+Nivel 2 de MECES.  
+  
+Experiencia mínima: Amplia experiencia en administración 
+de sistemas (mínimo 5 años), con al menos 3 años en 
+plataformas Linux de alta disponibilidad. 
+ 
+Experiencia valorable:  Experiencia desempeñando 
+funciones DevOps. 
+ 
+Conocimientos mínimos:  Red Hat Enterprise Linux; 
+administración y securización de servidores; Apache/Nginx; 
+PHP-FPM; PostgreSQL /MySQL; Solr; Redis; Varnish; NFS; 
+Docker; certificados; copias de seguridad y recuperación; 
+parcheado; monitorización; capacidad y rendimiento; 
+resolución de incidencias; alta disponibilidad; continuidad y 
+guardias. 
+ 
+Conocimientos valorables: GitLab y GitLab Runner; pipelines 
+CI/CD; Docker; automatización de compilación, pruebas, 
+despliegue y rollback ; gestión de artefactos; control de 
+versiones; integración con herramientas de calidad y 
+seguridad; gestión de secretos; scripting Bash/Python; Linux 
+Red Hat; observabilidad; prácticas DevSecOps 
+  
+Con el objeto de facilitar la documentación y valoración para cada uno de los componentes, 
+se completará la siguiente tabla:  
+  
+
+--- página 5 ---
+ 
+ 
+ 
+ 
+ PERFIL  
+ Ubicación física  
+Porcentaje de dedicación 
+al proyecto (especificar 
+horas /año):  
+  
+Titulación:    
+Conocimientos:    
+Participación en proyectos 
+similares, indicando:  
+Nombre del proyecto.    
+Perfil desempeñado en el 
+proyecto.  
+  
+Fecha de inicio y fecha de 
+finalización de su 
+participación en el proyecto.  
+  
+Fecha de inicio y fecha de 
+finalización del proyecto.  
+  
+Descripción de las  
+Herramientas o Entorno  
+  
+ tecnológico a efectos de 
+experiencia acreditada.  
+ 
+Datos de contacto del 
+director del proyecto, 
+(teléfono y/o correo 
+electrónico).  
+  
+Observaciones:    
+  
+La falsedad en el nivel de conocimientos técnicos del personal ofertado y los conocimientos 
+reales demostrados en la ejecución de los trabajos, así como la modificación de alguno de 
+los componentes del equipo adscrito a la ejecución de los trabajos (sin ob servar el 
+procedimiento y requisitos exigidos en los apartados siguientes), conllevará la no facturación 
+de las horas realizadas en esas condiciones, y en último término la resolución del contrato si 
+con ello se dejaran de cumplir las condiciones que motivaron la adjudicación.       
+  
+Todo el personal al servicio de la empresa adjudicataria observará y mantendrá las normas de 
+conducta, pulcritud, decoro y discreción adecuadas al trabajo a desempeñar y en el trato 
+con el personal del Gobierno de Canarias.  
+  
+El contratista, en su condición de empresa adjudicataria, ostentará la condición de 
+empresario respecto del personal que adscriba a la ejecución del servicio, quedando 
+obligado a cumplir, bajo su exclusiva responsabilidad las disposiciones vigentes en mate ria 
+laboral, de Seguridad Social y seguridad e higiene en el trabajo, y no existirá relación jurídica 
+entre dicho personal y la Administración.   
+3.2 Área de soporte y conocimiento  
+  
+La plataforma se encuentra desarrollada en diferentes entornos tecnológicos que se 
+enumeran a continuación: 
+ 
+• Servidores Apache / Nginx 
+• Red Hat Enterprise Linux 
+• Java, PHP-FPM, Phyton 
+• MySQL, Redis, PostgreSQL, Oracle, 
+
+--- página 6 ---
+ 
+ 
+ 
+ 
+• Solr 
+• Varnish 
+• NFS 
+• Docker 
+• GitLab y GitLab Runner 
+• Pipelines de integración y despliegue continuo 
+• Drupal, OpenCms 
+ 
+Todas estas áreas de soporte y conocimiento se incluyen dentro del servicio y deberán de 
+estar cubiertos por el equipo mínimo y, en su caso, temporal y panel de expertos.  
+ 
+3.3 Horario del servicio  
+  
+Se considera imprescindible, para el correcto desarrollo de las funciones descritas, la 
+dedicación a tiempo completo (40 horas semanales) , de cada uno de los miembros del 
+equipo mínimo durante la vigencia del contrato. Por tanto, la oferta deberá expresar con total 
+claridad la dedicación prevista de cada uno de sus componentes , así como del equipo 
+temporal y panel de experto si lo hubiese. 
+  
+El horario de soporte mediante el canal telefónico será todos los días laborables de lunes a 
+viernes de 08:00 AM a 16:00 PM.  
+  
+Teniendo en cuenta la criticidad de los servicios  a ejecutar en la Plataforma, se deberá 
+habilitar un canal y un procedimiento de emergencia (mínimo teléfono fijo y móvil) para 
+solventar incidencias en forma de guardias localizadas fuera del horario establecido (24 x 7) 
+con algún responsable /técnico de la empresa adjudicataria  de manera que sea posible 
+contactar y resolver cualquier incidencia que, con carácter urgente, haya sido notificada.  
+ 
+3.4 Lugar de desempeño del servicio  
+  
+El equipo deberá desarrollar su labor en dependencias de la propia empresa adjudicataria. 
+La empresa adjudicataria, en su oferta, indicará la dirección completa de las dependencias 
+en las cuales se ubicará físicamente el equipo mínimo. Así mismo, tras la adjudicación, deberá 
+completar toda la información referente al horario de trabajo, teléfonos de contacto (fijo y 
+móvil) y correos electrónicos.  
+  
+De forma habitual, todo o parte del personal de la OT, deberá desplazarse a las dependencias 
+de la DGTDSP en Santa Cruz de Tenerife y Las Palmas de Gran Canaria para las habituales 
+reuniones de dirección (cada 3 meses), seguimiento (semanales) o de trabajo (diarias según 
+demanda). Todo ello sin perjuicio del desplazamiento puntual del personal de la OT a otra s 
+sedes del Gobierno (incluidas las otras islas) para la realización de los trabajos y/o tareas que 
+se consideren necesarios.  
+  
+  
+4  ACUERDO DE NIVELES DE SERVICIO (ANS)  
+  
+La estratégica importancia que esta plataforma de aplicaciones  tiene para el desarrollo de 
+la administración electrónica en el Gobierno de Canarias requiere que el servicio de soporte 
+se preste con las máximas garantías y calidad posible para cada una de las funciones 
+previstas. Con este objetivo, se establecen a continuación los ANS mínimos que se exigirán 
+para las funcionalidades de soporte a usuarios y evolutivos.  
+4.1 Soporte a usuarios  
+  
+
+--- página 7 ---
+ 
+ 
+ 
+ 
+Toda incidencia, petición o consulta deberá ser contestada “con utilidad para el usuario” 
+dentro del mismo día, para las recibidas en día laboral antes de las 10:00 AM y al día siguiente 
+laboral para el resto.   
+  
+Este acuerdo de nivel de servicio deberá cumplirse al menos en el 95% del total de incidencias, 
+peticiones o consultas recibidas.  
+  
+Se entiende por “contestada con utilidad para el usuario” aquella respuesta que 
+verdaderamente aporte una solución a la cuestión planteada por el usuario.  
+  
+Para mayor claridad se detalla como ejemplo tres de los supuestos de incidencias, peticiones 
+y consultas que más frecuentemente se producen dentro del soporte a usuarios:  
+  
+o Incidencia por supuesto mal funcionamiento de un servicio: La contestación con 
+utilidad para el usuario sería, o bien la confirmación al usuario de la existencia efectiva 
+de un error en la plataforma junto con toda la información relativa a sus efectos, la  
+existencia o no de una solución temporal o procedimiento alternativo y la estimación 
+para la resolución definitiva del error o la previsión para dársela en función de la 
+prioridad asignada a dicho evolutivo (ver apartado siguiente), o bien no se confirma 
+la existencia de error y se le contesta al usuario explicándole cuál es el funcionamiento 
+o procedimiento correcto para dicha funcionalidad.  
+o Petición de mejora o evolutivo: La contestación con utilidad para el usuario sería la 
+aceptación o no de la mejora o evolutivo propuesto así como, en caso de ser 
+aceptado, la previsión para darle una estimación o compromiso para tenerlo en 
+explotación en f unción de la prioridad asignada a dicho evolutivo (ver apartado 
+siguiente).  
+o Consulta sobre una determinada funcionalidad o servicio: La contestación con utilidad 
+para el usuario sería la efectiva contestación a la consulta realizada.  
+4.2 Mantenimiento  
+  
+Toda petición pendiente que requiera desarrollo (mantenimiento correctivo, evolutivo, etc.) 
+deberá estar estimada y planificada según su urgencia como máximo en los siguientes plazos:  
+  
+Prioridad  Plazo máximo  
+Urgente  Al siguiente día laboral  
+Alta  En los siguientes 5 días laborales  
+Normal  En los siguientes 10 días laborales  
+Baja  En los siguientes 20 días laborales  
+  
+En caso de no indicarse otra cosa, por defecto se asignará prioridad normal a toda petición 
+correspondiente a desarrollos evolutivos de nuevas funcionalidades o mejoras. En caso de 
+tratarse de mantenimiento correctivo por error o incidencia que afecte a fu ncionalidades de 
+la plataforma, la prioridad por defecto será alta. En cualquier caso, las prioridades serán 
+establecidas/confirmadas con la DGTDSP en el momento de dar de alta la solicitud.  
+  
+Tras la solicitud y dentro del plazo máximo anteriormente indicado para la planificación 
+deberán celebrarse las reuniones de toma de requisitos que pudiesen ser necesarias para la 
+correcta determinación y estimación de los trabajos a realizar.  
+  
+La estimación y planificación realizada contendrá como mínimo la siguiente información:  
+  
+o Estimación en horas/persona vs días/personas (1 día = 8 horas) que llevará el desarrollo, 
+despliegue y pruebas en el entorno de desarrollo  
+
+--- página 8 ---
+ 
+ 
+ 
+ 
+o Número de personas que intervendrán en el desarrollo y porcentaje de ocupación o 
+ Fecha estimada de despliegue en DES o  Fecha estimada de despliegue en 
+PRE o  Fecha estimada de despliegue en EXP  
+o Requisitos e hitos externos necesarios que no dependen de la OT  
+  
+A la hora de llevar a cabo el desarrollo se admitirá como máximo una desviación o retraso del 
+20% (calculado en días naturales) sobre la planificación estimada. Ver ejemplo práctico en el 
+apartado correspondiente a las penalizaciones.   
+  
+ 
+5  SOPORTE TELEMÁTICO  
+  
+Aparte de otras consideraciones y propuestas, se considera como soporte telemático mínimo 
+el siguiente:  
+  
+o Herramienta de gestión de proyectos / incidencias / conocimiento: Actualmente 
+RedMine (*) y OTRS (*) para gestión incidencias centralizado en el nivel 1 del Ciber.  
+o Cuadro de mando: Actualmente Sas Viya (*).  
+o Herramienta de monitorización: Dynatrace y Jenkins (*)  
+  
+NOTA: Las herramientas señaladas con (*) ya se contemplan en la operatoria habitual de las 
+aplicaciones incluidas en la plataforma .  Se habrá de tener en cuenta tal condición para 
+alinear correctamente la propuesta presentada.  
+  
+ 
+6. METODOLOGÍA DE TRABAJO  
+  
+Toda la infraestructura del sistema debe estar completamente documentada. El adjudicatario 
+deberá generar la documentación necesaria para asegurar el despliegue exitoso del 
+producto y servicio de acuerdo con el Proceso de Gestión de la Entrega siguiendo las plantillas 
+y modelos que serán suministrados por la Dirección General de  Transformación Digital de los 
+Servicios Públicos.  
+  
+Durante la ejecución de los trabajos objeto del contrato, el adjudicatario se compromete en 
+todo momento, a facilitar a las personas designadas por el Gobierno de Canarias a tales 
+efectos, la información, documentación e informes que éstas soliciten para d isponer de un 
+pleno conocimiento de las circunstancias en que se desarrollan los trabajos, así como de los 
+eventuales problemas que puedan plantearse y de las tecnologías, métodos, y herramientas 
+utilizados para resolverlos. Se le podrán requerir informes sobre las distintas tecnologías y sus 
+migraciones a versiones actualizadas o a otras tecnologías como parte de la información que 
+se debe suministrar objeto de este proyecto.  
+  
+Además, la empresa adjudicataria deberá utilizar las herramientas de gestión de la 
+configuración (GIT, Maven y Nexus) , de gestión integral del proyecto (Redmine  + OTRS) y de 
+monitorización de sistemas (Dynatrace, Jenkins) implantadas en la DGTDSP e indicadas en el 
+apartado anterior de soporte telemático. 
+  
+7.  ENTORNO TECNOLÓGICO  
+  
+El entorno tecnológico se encuentra definido en el documento “Normativa de utilización de 
+herramientas corporativas en las Infraestructuras de Sistemas de Información del Gobierno de 
+Canarias”, disponible en la siguiente página Web:  
+  
+https://www.gobiernodecanarias.org/transformaciondigital/cibercentro/ciber_normativa.html 
+  
+
+--- página 9 ---
+ 
+ 
+ 
+ 
+Los servicios y desarrollos contratados deberán tener en cuenta y adaptarse a dicho entorno 
+tecnológico y al resto de normativa publicada, así como a las evoluciones y actualizaciones 
+que dicho entorno y normativa pueda sufrir durante la vida del proyecto.  Sin carácter 
+exhaustivo, se deberá tener especialmente en cuenta:  
+  
+• Las especificaciones sobre la plataforma de interoperabilidad del Gobierno de 
+Canarias están en https://www.gobiernodecanarias.org/transformaciondigital/platino 
+ 
+• Los servicios y normativa técnica corporativa sobre presencia en Internet del Gobierno 
+de Canarias (Sedes, portales, herramientas, servicios web, etc.) se encuentran 
+disponibles en https://www.gobiernodecanarias.net/intranet/uweb/ 
+ 
+• La normativa sobre identidad gráfica se encuentra disponible en 
+https://www.gobiernodecanarias.org/identidadgrafica/ 
+ 
+• La documentación y especificaciones sobre la plataforma de intermediación de datos 
+para el acceso a datos de otros Entes u Organismos se encuentra en:  
+   https://www3.gobiernodecanarias.net/aplicaciones/svdportal/web/inicio  
+  
+Todo servicio relacionado directa o indirectamente con la transmisión, manipulación o 
+procesamiento de información por medio del Protocolo de Internet (IP) debe ser capaz de 
+operar plenamente de acuerdo a los estándares comerciales establecidos para el Pro tocolo 
+de Internet versión 6 (IPv6) y a los aspectos definidos en el RFC2460 (Internet Protocol Version 
+6 Specification) y el resto de RFCs  relacionados con IPv6 y en especial en lo concerniente al 
+uso de nombres DNS en lugar de direcciones literales. En esta circunstancia, el sistema o 
+servicio debe mantener o mejorar los niveles de servicio, calidad y confianza preestablecidos, 
+tanto con el protocolo IPv4 como con IPv6. Asimismo, el proveedor deberá aportar, soporte 
+técnico para ambos protocolos. Para cualquier excepción al uso o compatibilidad con IPv6 
+será necesaria autorización explícita y por escrito por parte de la entidad contratante.”   
+  
+8. CONDICIONES GENERALES  
+  
+8.1. Entrega de la Solución  
+  
+Todo el proceso de suministro de software, documentación, manuales de instalación y 
+configuración, manual de administración y de usuario, desarrollo de pruebas, plan de 
+marcha atrás, se hará conforme al Proceso de Gestión de la Entrega definido por la 
+Dirección General de Transformación Digital de los Servicios Públicos . Para ello, la 
+empresa adjudicataria deberá utilizar las herramientas de gestión integral del proyecto 
+(Redmine) y de gestión de la configuración (Git, Maven y Nexus) implantadas en la 
+DGTDSP.  
+  
+Con cada nueva versión del producto, el adjudicatario deberá además generar los 
+siguientes contenidos:  
+◦ Todos los elementos compilados para su instalación directa.  
+◦ Todos los elementos necesarios para compilar y empaquetar el producto: código 
+fuente, procedimientos workflow, scripts bd, xml, XSL, etc.  
+  
+Toda la funcionalidad del sistema debe estar completamente documentada de tal forma 
+que se puedan desarrollar, por personal propio del Gobierno de Canarias o de una 
+tercera empresa, nuevos aplicativos e incluso nuevas funcionalidades del sistema, que en 
+todo caso serán independientes del software mantenido por la adjudicataria. La 
+documentación de la interfaz SOAP, así como los ficheros de definición de la misma , 
+deben estar disponibles para todas las operaciones que se puedan realizar desde 
+cualquier aplicativo.  
+  
+
+--- página 10 ---
+ 
+ 
+ 
+ 
+El adjudicatario deberá generar la documentación necesaria para asegurar el 
+despliegue exitoso del producto y servicio de acuerdo con el Proceso de Gestión de la 
+Entrega siguiendo las plantillas y modelos que serán suministrados por la DGTDSP.  
+  
+El Proceso de Gestión de la Entrega de la DGTDSP está sujeto a ITIL (biblioteca de 
+Infraestructura de Tecnología de Información).  
+  
+A tal fin se seguirán las directrices establecidas en el documento “ Gestión de Entrega al 
+Cibercentro”, que actualmente se encuentra disponible y se puede descargar   en 
+ 
+https://www.gobiernodecanarias.org/cmsgob2/export/sites/transformaciondigital/ciber
+centro/docs/DGTDSP-010912-TSIPRC_Procedimiento_Gestion_de_la_Entrega.pdf 
+ 
+ 
+8.2. Propiedad intelectual  
+  
+Sin perjuicio de lo dispuesto por la legislación vigente en materia de propiedad intelectual, 
+el contratista acepta expresamente que la propiedad y los derechos de explotación de 
+las aplicaciones informáticas que se puedan desarrollar al amparo del presente contrato, 
+así como la propiedad de toda la documentación generada, corresponde con 
+exclusividad al Gobierno de Canarias.  
+  
+Los derechos inherentes y la propiedad intelectual de los productos, estudios, trabajos y/o 
+informes resultantes de la ejecución del contrato, desde el momento de la adjudicación 
+del contrato, automáticamente se entenderán transmitidos a favor del Gobierno  de 
+Canarias. Asimismo, e igualmente, se producirá la cesión en exclusiva de los derechos de 
+explotación, incluidos los de reproducción, comunicación, transformación, incluyendo los 
+de distribución a terceros o comercialización y sin perjuicio de cualesqui era otros que 
+convinieren a la propiedad intelectual reconocidos en la ley, al Gobierno de Canarias.  
+  
+La empresa adjudicataria no podrá difundir ni utilizar su participación en este contrato ni 
+hacer uso de los resultados del mismo sin previo conocimiento y autorización del Gobierno 
+de Canarias.  
+  
+  
+8.3. Política de calidad  
+  
+La empresa adjudicataria deberá elaborar y ejecutar un Plan de Calidad que garantice 
+un cumplimiento eficaz y eficiente de los objetivos del servicio.  
+  
+También se efectuará un control de calidad sobre toda la documentación a entregar 
+como resultado de la ejecución del servicio.  
+  
+Durante el desarrollo y ejecución de los trabajos objeto del contrato, la Dirección del 
+Proyecto podrá establecer controles de calidad sobre la actividad desarrollada y los 
+productos obtenidos.   
+  
+La Administración se reserva el derecho a rescindir el contrato si se considera que la 
+empresa adjudicataria no ofrece un servicio de calidad acorde con los requisitos 
+establecidos.  
+  
+Calidad del software  
+ 
+
+--- página 11 ---
+ 
+ 
+ 
+ 
+Poniendo foco en la gestión de la calidad del producto y concretamente en el software, 
+se considerarán tres puntos principales para garantizar que el producto cumple con las 
+especificaciones:  
+o Verificación de Entregables.  
+o Verificación del Código.  
+o Plan de Pruebas (Unitarias, Funcionales, de Integración, de Rendimiento, y de 
+Seguridad).  
+  
+8.4. Seguridad  
+  
+El adjudicatario (y el personal que intervenga en el objeto de este contrato) se 
+compromete al cumplimiento de la legalidad vigente en relación con la normativa en 
+materia de seguridad y de protección de datos personales.  
+  
+El adjudicatario y el personal adscrito a la ejecución del contrato deberán informar a la 
+Dirección General de Transformación Digital de los Servicios Públicos  de aquellos 
+incidentes de seguridad o debilidades potenciales que detecten durante la prestación 
+del mismo, con el objetivo de dar cumplimiento a lo previsto en esta materia en el Real  
+Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad 
+(ENS) en el ámbito de la Administración Electrónica y su normativa de desarrollo así como, 
+en su caso, al Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de 
+abril de 2016, relativ o a la protección de las personas físicas en lo que respecta al 
+tratamiento de sus datos personales y a la libre circulación de estos datos (RGPD en 
+adelante) y la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos 
+Personales y garantía de los derechos digitales (en adelante LOPDGDD) y la norma 
+UNEISO/IEC 27001RGPD y la LOPDGDD.  
+  
+El adjudicatario responderá de la totalidad de los daños y perjuicios que se produzcan en 
+todos los supuestos de conducta negligente o culposa en el cumplimiento de las 
+obligaciones que asume.  
+  
+8.5. ENS  
+  
+En aquellas tareas en las que el adjudicatario necesite acceder a los sistemas de 
+información de la Administración Pública de la Comunidad Autónoma de Canarias 
+deberá respetar la política de seguridad de la información del Sistema de Gestión de 
+Seguridad d e la Información implantado en la Dirección General de Transformación 
+Digital de los Servicios Públicos , así como la normativa de seguridad en el uso de los 
+recursos informáticos, telefónicos y de redes de comunicación de la Administración 
+Pública de la Comunidad Autónoma de Canarias, con la finalidad de garantizar la 
+seguridad y eficiencia de los mismos, a sí como asegurar la disponibilidad, integridad, 
+confidencialidad, autenticidad y trazabilidad de la información en ellos almacenada. 
+Dicha normativa se encuentra recogida en los siguientes documentos, publicados en la 
+web de CiberCentro:  
+  
+◦ Política del SGSI.  
+◦ Acuerdo de Gobierno, de 25 de junio de 2018, que aprueba las instrucciones que 
+conforman la normativa de seguridad en el uso de los recursos informáticos, 
+telefónicos y de redes de comunicación de la Administración Pública de la 
+Comunidad Autónoma de Canarias (BOC nº127, 3 de julio de 2018).  
+  
+8.6. Protección de datos personales  
+  
+
+--- página 12 ---
+ 
+ 
+ 
+ 
+El adjudicatario (y el personal que intervenga en el objeto de este contrato) se 
+compromete al cumplimiento de la legalidad vigente en relación con la normativa en 
+materia de protección de datos personales.  
+  
+Visto que la contratación implica el acceso del adjudicatario (y el personal que 
+intervenga en el objeto de este contrato) a datos personales de cuyo tratamiento es 
+encargado o responsable la Dirección General de Transformación Digital de los Servicios 
+Públicos, aquél tendrá la consideración de encargado del tratamiento, y estará obligado 
+al cumplimiento de lo dispuesto en:  
+◦ El Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 
+2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento 
+de sus datos personales y a la libre circulación de estos datos (RGPD en adelante).   
+◦ La Ley Orgánica, de 5 de diciembre, de Protección de Datos Personales y garantía de 
+los derechos digitales (LOPDGDD en adelante).  
+◦ La Disposición Adicional Vigésima Quinta de la Ley 9/2017, de 8 de noviembre, de 
+Contratos del Sector Público, por la que se transponen al ordenamiento jurídico 
+español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, 
+de 26 de febrero de 2014.  
+  
+Para dar debido cumplimiento a la citada normativa, el oferente incluirá en su oferta 
+técnica la descripción de las medidas de seguridad en los términos requeridos en el PCAP. 
+Además, una vez adjudicado el contrato el contratista deberá designar la persona o 
+personas que, sin perjuicio de la responsabilidad propia de la empresa, estarán 
+autorizadas para las relaciones con el centro directivo a efectos del uso correcto del 
+material y de la información a manejar. Se incluirá una descripción de su perfil profesional, 
+y solo podrán ser sustituidas con la conformidad de la Dirección General de 
+Transformación Digital de los Servicios Públicos.  
+  
+En el marco de la prestación del servicio contratado y del tratamiento de datos 
+personales, se prohíbe expresamente al adjudicatario o a terceros, la transferencia 
+internacional de datos fuera de la Unión Europea.  
+  
+En el caso de que el encargado del tratamiento destine los datos a otra finalidad, los 
+comunique o los utilice incumpliendo las estipulaciones del contrato, será considerado 
+también responsable del tratamiento, respondiendo personalmente de las infraccione s 
+en que se hubiera incurrido.  
+  
+Una vez cumplida la prestación contractual, los datos personales deberán ser destruidos 
+o devueltos a la entidad contratante responsable, o al encargado de tratamiento que 
+ésta hubiese designado, en su caso, al igual que cualquier soporte o documento en qu e 
+conste algún dato personal objeto del tratamiento.  
+  
+El tercero encargado del tratamiento conservará debidamente bloqueados los datos en 
+tanto pudieran derivarse responsabilidades de su relación con la entidad responsable del 
+tratamiento.  
+En el supuesto que se permita la subcontratación del adjudicatario con un tercero, y este 
+tercero trate datos personales por cuenta del adjudicatario, encargado del tratamiento, 
+deberán de cumplirse los siguientes requisitos:  
+◦ Que dicho tratamiento se haya especificado en el contrato firmado por la entidad 
+contratante y el adjudicatario.  
+◦ Que el tratamiento de datos personales se ajuste a las instrucciones del responsable de 
+la actividad de tratamiento.  
+◦ Que el adjudicatario encargado del tratamiento y el tercero formalicen el contrato en 
+los términos previstos en el artículo 28.3 del RGPD.  
+  
+En estos supuestos, el tercero tendrá también la consideración de encargado del 
+tratamiento.  
+
+--- página 13 ---
+ 
+ 
+ 
+ 
+Todo lo anterior sin perjuicio de la obligatoriedad de establecer y firmar un contrato de 
+tratamiento de datos entre la Dirección General de Transformación Digital de los Servicios 
+Públicos en calidad de responsable o encargado de la actividad de tratamiento de los 
+datos personales y el adjudicatario en calidad de encargado de dicha actividad de 
+tratamiento, en el que se definan las medidas de seguridad aplicables, a fin de garantizar 
+el cumplimiento por parte del adjudicatario de lo dispuesto en el RGPD y la LOPDGDD.  
+  
+8.7. Confidencialidad  
+  
+El Adjudicatario garantiza que mantendrá la más estricta confidencialidad y expreso 
+cumplimiento del deber de secreto profesional en relación con los asuntos del Gobierno 
+de Canarias durante la realización del servicio y después de su terminación.  
+  
+Durante y con posterioridad a la vigencia de esta prestación de servicios, el adjudicatario 
+tratará toda la información propiedad del Gobierno de Canarias de forma estrictamente 
+confidencial, tomando las medidas necesarias para que su contenido no se divul gue a 
+terceros, ni estos puedan tener acceso a los mismos sin autorización expresa de la 
+DGTDSP.  
+  
+A los efectos del presente documento, tendrá la consideración de información 
+confidencial toda aquella susceptible de ser revelada por palabra, por escrito o por 
+cualquier otro medio o soporte, tangible o intangible, actualmente conocido o que se 
+invente e n un futuro, ya sea intercambiada como consecuencia de esta relación 
+contractual o que una parte señale o designe como confidencial a la otra.  
+  
+Una vez cumplida la prestación del servicio descrito en el presente documento y/o su 
+extinción, el adjudicatario, procederá a devolver o destruir, es este último caso previa 
+autorización por escrito y supervisión, todos los datos utilizados en el tratamien to, al igual 
+que cualquier soporte informático o documento en el que conste algún dato tratado por 
+la naturaleza del servicio, sin conservar copia alguna del mismo y sin que ninguna persona 
+externa, física o jurídica, entre en conocimiento de los datos, a no ser que se tenga 
+autorización expresa de la DGTDSP.  
+  
+8.8. Nivel de seguridad y protección de datos.  
+  
+Los productos suministrados que formen parte del objeto del contrato deberán permitir al 
+sistema de información del que formen parte mantener la conformidad con el Real 
+Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad 
+en el ámbito de la Administración Electrónica y posteriores modificaciones del mismo y su 
+normativa de desarrollo , con una categoría mínima Medio, así como, en su caso, al 
+Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, 
+relativo a la protección de las personas físicas en lo que respecta al tratamiento de sus 
+datos personales y a la libre circulación de estos d atos (RGPD en adelante) y la Ley 
+Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los 
+derechos digitales (en adelante LOPDGDD) y la norma UNE -ISO/IEC 27001RGPD y la 
+LOPDGDD, con una categoría mínima  Medio.  
+  
+Las soluciones/servicios ofertados deberán ser conformes con lo dispuesto en el Real 
+Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad 
+en el ámbito de la Administración Electrónica y posteriores modificaciones del mismo. 
+Dicha conformidad será demostrada mediante la presentación de la correspondiente 
+Declaración/Certificación de Conformidad con el Esquema Nacional de Seguridad, con 
+una categoría mínima Medio, según lo dispuesto en el apartado VII de la Resolución de 
+13 de octubre de 2016, de la Secretaría de Estado de Administraciones Públicas, por la 
+que se aprueba la Instrucción Técnica de Seguridad de conformidad con el Esquema 
+Nacional de Seguridad.  
+  
+
+--- página 14 ---
+ 
+ 
+ 
+ 
+8.9. Seguridad en aplicaciones Web.  
+  
+En especial para el caso de desarrollos web, se deberá seguir, entre otras, lo establecido 
+en:  
+• La Normativa sobre los requisitos de Seguridad en Aplicaciones Web.  
+• La Normativa de las Infraestructuras corporativas para las Aplicaciones del 
+Gobierno de Canarias.  
+• La Normativa para el uso de Base de Datos en la Infraestructura Corporativa.  
+  
+Además, como requisito previo a la puesta en Explotación, los desarrollos web que entren 
+en el alcance del proceso de certificación de seguridad de las aplicaciones web 
+establecido por la DGTDSP deberán superar dicho proceso.  
+  
+ 8.10.  Planificación, dirección y seguimiento de los trabajos.  
+  
+Corresponde al Gobierno de Canarias la supervisión y dirección de los trabajos, proponer 
+las modificaciones convenientes o, en su caso, proponer la suspensión de los mismos si 
+existiese causa suficientemente motivada.  
+  
+Para alcanzar los objetivos se considera prioritario asegurar la coordinación y calidad de 
+las actuaciones en los trabajos objeto del presente pliego.  
+  
+En este sentido, por parte del Gobierno de Canarias ( Dirección General de 
+Transformación Digital de los Servicios Públicos  DGTDSP) se nombrarán los interlocutores 
+válidos que ejercerán las labores de dirección de proyecto, siendo responsables del 
+seguimiento continuo y coordinación con la empresa adjudicataria.  
+  
+Sus funciones serán, entre otras, las siguientes:  
+• Velar por el cumplimiento de los trabajos exigidos, ofertados y/o planificados 
+(estimaciones de tiempo previsto - realizadas por la empresa - para la realización 
+de determinadas tareas objeto del contrato).  
+• Incorporar al proyecto, durante su realización, las personas que estimen 
+necesarias para verificar y evaluar todas las actuaciones llevadas a cabo.  
+• El Gobierno de Canarias, a través de los responsables del proyecto, proveerá a la 
+empresa adjudicataria toda la información necesaria para la realización de los 
+trabajos asignados, siempre que dicha información no esté sometida a 
+confidencialidad.  
+• Se establecerán los mecanismos de comunicación necesarios para llevar a cabo 
+el seguimiento del contrato. A tal efecto y, con la frecuencia que se determine, 
+se reunirán los responsables del proyecto con la empresa adjudicataria para 
+asegurar el cumplimien to de los plazos, la calidad de las tareas y el correcto 
+desarrollo de las actuaciones realizadas.  
+  
+Semanalmente (o con la periodicidad que la DGTDSP establezca) se realizarán reuniones 
+de control y seguimiento  de todas las actividades realizadas, planificadas y pendientes 
+de forma que puedan ser evaluado por el Gobierno de Canarias.  
+  
+Toda la documentación necesaria para las reuniones de seguimiento y de trabajo deberá 
+ser aportada con 24 horas de antelación.  
+  
+Las actas de reunión deberán de ser entregadas antes de las 48 horas siguientes a su 
+celebración.  
+  
+Durante el proyecto, la planificación de las fases, hitos y puntos críticos, así como el 
+seguimiento de los mismo se realizará mediante la herramienta de gestión de proyectos 
+corporativa de la DGTDSP.  
+
+--- página 15 ---
+ 
+ 
+ 
+ 
+  
+El contratista describirá los mecanismos de seguimiento del proyecto tanto en lo referente 
+a su avance como a la introducción de cambios.  
+  
+Además, podrá constituirse un Comité de Dirección, integrado por los máximos 
+responsables del proyecto por ambas partes y las personas que se determine de mutuo 
+acuerdo, con el objeto de supervisar el desarrollo del proyecto desde el punto de vista 
+de cumplimiento de sus hitos principales y sus objetivos, la toma de decisiones, así como 
+asegurar la perfecta coordinación de los trabajos. La empresa adjudicataria elaborará el 
+acta de las reuniones.  
+  
+Antes del inicio de los trabajos, la adjudicataria presentará un programa o Plan de Trabajo 
+donde se especifiquen los principales hitos del proyecto.  
+  
+Una vez iniciado el proyecto, la adjudicataria presentará con periodicidad mensual un 
+Informe de Situación en el que se reflejen, al menos, los siguientes puntos:  
+• Situación actual del proyecto.  
+• Tareas realizadas • Tareas pendientes  
+• Incidencias.  
+• Cronograma de la planificación.  
+  
+Al finalizar el proyecto, la adjudicataria entregará un Informe Final de Ejecución de 
+Proyecto, donde se describan, de forma detallada, todos los aspectos relacionados con 
+la implantación llevada a cabo, haciendo referencia a toda la documentación aportada 
+y a cualquier información o circunstancia relevante.  
+  
+ 8.11.  Garantía de los trabajos y soporte a la explotación.  
+  
+El adjudicatario deberá garantizar por 1 año los productos derivados de la presente 
+contratación, a contar desde la fecha de recepción de los mismos, obligándose a realizar 
+durante dicho período los cambios necesarios para solventar las deficiencias detectadas 
+imputables a la firma adjudicataria si así lo solicita el Gobierno de Canarias.  
+  
+Esta garantía incluirá la corrección de errores o fallos ocultos que se pongan de manifiesto 
+en los trabajos realizados. Los productos originados como consecuencia de la corrección 
+de errores tendrán que entregarse de conformidad con lo exigido en este pli ego.  
+  
+ 8.12.  Transferencia tecnológica  
+  
+Durante la ejecución de los trabajos objeto del contrato, el adjudicatario se compromete 
+en todo momento, a facilitar a las personas designadas por el Gobierno de Canarias a 
+tales efectos, la información y documentación que éstas soliciten para disponer de  un 
+pleno conocimiento de las circunstancias en que se desarrollan los trabajos, así como de 
+los eventuales problemas que puedan plantearse y de las tecnologías, métodos, y 
+herramientas utilizados para resolverlos.  
+  
+  
+  

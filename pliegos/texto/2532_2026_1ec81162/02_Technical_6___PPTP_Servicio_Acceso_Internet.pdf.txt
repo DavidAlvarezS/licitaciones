@@ -1,0 +1,909 @@
+
+
+--- página 1 ---
+ 
+ 
+ 
+ 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+PARTICULARES  
+ 
+SERVICIO DE ACCESO A INTERNET 
+MEDIANTE CONEXIONES DE FIBRA 
+ÓPTICA 
+ 
+ 
+Cód. Validación: 692QAKC5FQHA2K6ZX6LG5HX3L 
+Verificación: https://catral.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 1 de 24 
+
+--- página 2 ---
+ 
+ 
+ 
+Contenido 
+1. Objeto ................................................................................................... 1 
+2. Alcance del contrato ................................................................................ 1 
+3. Códigos CPV ........................................................................................... 2 
+4. Legislación aplicable ................................................................................ 2 
+4.1. Legislación general de contratación pública ........................................... 2 
+4.2. Legislación específica en materia de telecomunicaciones y servicios de 
+internet ..................................................................................................... 3 
+4.3. Legislación en materia de seguridad de la información ........................... 3 
+4.4. Legislación en materia de protección de datos personales ....................... 3 
+4.5. Legislación en materia de prevención de riesgos laborales ...................... 4 
+5. Resumen de servicios requeridos ............................................................... 4 
+6. Mantenimiento y soporte técnico ............................................................... 5 
+6.1. Alcance del mantenimiento ................................................................. 5 
+6.2. Tipología de mantenimiento ................................................................ 6 
+6.3. Tipología de incidencias y tiempos máximos de respuesta ...................... 7 
+6.4. Horario de servicio y atención ............................................................. 7 
+6.5. Sustitución de equipos ....................................................................... 7 
+6.6. Comunicación y seguimiento ............................................................... 8 
+6.7. Informes periódicos ........................................................................... 8 
+7. Garantía de calidad y niveles de servicio .................................................... 9 
+7.1. Principios generales de calidad ............................................................ 9 
+7.2. Indicadores de nivel de calidad del servicio .......................................... 10 
+7.3. Comunicación de incidencias y seguimiento ......................................... 10 
+8. Equipamiento y configuración técnica ........................................................ 10 
+8.1. Equipos mínimos requeridos .............................................................. 11 
+8.2. Configuración inicial .......................................................................... 11 
+8.3. Mantenimiento y actualizaciones ........................................................ 12 
+8.4. Sustitución y reparación de equipos .................................................... 12 
+8.5. Propiedad y responsabilidad .............................................................. 13 
+8.6. Condiciones de seguridad .................................................................. 13 
+8.7. Documentación técnica ..................................................................... 14 
+9. Seguridad de la información y protección de datos...................................... 14 
+9.1. Normativa aplicable .......................................................................... 14 
+9.2. Principios de seguridad ..................................................................... 15 
+9.3. Obligaciones del adjudicatario en materia de protección de datos ........... 15 
+9.4. Medidas técnicas y organizativas mínimas ........................................... 16 
+Cód. Validación: 692QAKC5FQHA2K6ZX6LG5HX3L 
+Verificación: https://catral.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 2 de 24 
+
+--- página 3 ---
+ 
+ 
+ 
+9.5. Confidencialidad y secreto profesional ................................................. 16 
+9.6. Incidentes y notificación de brechas de seguridad................................. 17 
+9.7. Cumplimiento del Esquema Nacional de Seguridad (ENS) ...................... 17 
+10. Plan de instalación, migración y puesta en marcha .................................. 17 
+10.1. Principios generales ....................................................................... 17 
+10.2. Fases del plan de instalación ........................................................... 18 
+10.3. Plazos de ejecución ....................................................................... 19 
+10.4. Verificación técnica y acta de conformidad ........................................ 19 
+10.5. Control de calidad en la puesta en marcha ....................................... 20 
+10.6. Responsabilidades durante la instalación .......................................... 20 
+10.7. Documentación de instalación ......................................................... 20 
+ 
+ 
+Cód. Validación: 692QAKC5FQHA2K6ZX6LG5HX3L 
+Verificación: https://catral.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 3 de 24 
+
+--- página 4 ---
+ 
+Página | 1 
+ 
+1. Objeto 
+El presente Pliego de Prescripciones Técnicas tiene por objeto regular las condiciones 
+técnicas que han de regir la contratación del servicio de acceso a Internet mediante 
+conexiones de fibra óptica en los distintos edificios y dependencias municipales del 
+Ayuntamiento de Catral, así como el mantenimiento, soporte técnico e incidencias asociadas 
+a dichas conexiones, durante la vigencia del contrato. 
+Se limi ta exclusivamente a la prestación del servicio de acceso a Internet en cada 
+edificio municipal como línea independiente, así como a la correcta operación, mantenimiento 
+y soporte de dicho servicio. 
+Las prestaciones descritas se llevarán a cabo en los térmi nos, condiciones y alcance que 
+se establecen en el presente Pliego de Prescripciones Técnicas y en el correspondiente Pliego 
+de Cláusulas Administrativas Particulares, teniendo en cuenta, en especial, las características 
+individuales de cada sede municipal. 
+ 
+2. Alcance del contrato 
+El contrato comprenderá, con carácter general, las siguientes prestaciones: 
+a) Suministro y prestación del servicio de acceso a Internet mediante líneas de fibra 
+óptica en cada uno de los puntos de conexión relacionados en el presente pliego, con 
+las velocidades mínimas y características técnicas que se especifican. 
+b) Alta, migración o regularización de las líneas existentes, en su caso, desde la situación 
+actual hacia el nuevo esquema de servicio contratado, garantizando en todo momento 
+la continuidad del acceso a Internet en los edificios municipales. 
+c) Facilitación, configuración y mantenimiento de los equipos de acceso necesarios (ONT, 
+router y/o switches) para asegurar que todos los puestos informáticos de cada 
+dependencia municipal dis pongan de acceso funcional a Internet a través de la 
+conexión contratada. 
+d) Mantenimiento correctivo y preventivo del servicio, incluyendo la gestión y resolución 
+de incidencias, la sustitución de equipos averiados de operador, las actuaciones 
+necesarias sobre la línea de fibra y la atención al usuario municipal, en los plazos y 
+condiciones de calidad establecidos en este Pliego. 
+e) Atención y soporte técnico remoto y/o presencial al Ayuntamiento de Catral en 
+materia de funcionamiento del servicio, incidencias, cambios de configuración básicos 
+de los equipos de acceso y coordinación de actuaciones en las distintas sedes. 
+Cód. Validación: 692QAKC5FQHA2K6ZX6LG5HX3L 
+Verificación: https://catral.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 4 de 24 
+
+--- página 5 ---
+ 
+Página | 2 
+ 
+No formarán parte del presente contrato: 
+ La implantación o gestión de redes privadas virtuales (VPN) entre sedes. 
+ La configuración de servicios internos de servidores municipales o equipamiento 
+informático ajeno al acceso a Internet. 
+ El suministro de cableado estructurado interno o electrónica de red ajena al router 
+de acceso. 
+ 
+3. Códigos CPV 
+El objeto de este contrato se identifica con los siguientes códigos CPV: 
+CPV DESCRIPCIÓN 
+CPV 72411000-4 Servicios de proveedores de Internet 
+CPV 50332000-8 Mantenimiento de equipos de telecomunicaciones 
+CPV 32412100-7 Instalación de redes de fibra óptica 
+CPV 72720000-3 Servicios de mantenimiento de redes informáticas 
+ 
+4. Legislación aplicable 
+El presente contrato se regirá por las disposiciones contenidas en el Pliego de 
+Prescripciones Técnicas y en el Pliego de Cláusulas Administrativas Particulares, así como por 
+la normativa general y específica vigente en  materia de contratación pública, 
+telecomunicaciones, seguridad de la información,  protección de datos personales  y 
+prevención de riesgos laborales. 
+Sin perjuicio de lo anterior, resultarán de aplicación las normas que a continuación se 
+relacionan, en la r edacción vigente en el momento de la licitación o en las disposiciones que 
+las sustituyan durante la vigencia del contrato. 
+ 
+4.1. Legislación general de contratación pública 
+ Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP), por la 
+que se transponen al ordenamiento jurídico español las Directivas 2014/23/UE y 
+2014/24/UE del Parlamento Europeo y del Consejo. 
+ Real Decreto 817/2009, de 8 de mayo, por el que se desarrolla parcialmente la 
+anterior Ley de Contratos del Sector Público. 
+ Ley 39/2015 , de 1 de octubre, del Procedimiento Administrativo Común de las 
+Administraciones Públicas. 
+ Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público. 
+Cód. Validación: 692QAKC5FQHA2K6ZX6LG5HX3L 
+Verificación: https://catral.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 5 de 24 
+
+--- página 6 ---
+ 
+Página | 3 
+ 
+ Real Decreto 424/2017, de 28 de abril, por el que se regula el régimen jurídico del 
+control interno en el sector público local. 
+ Real Decreto Legislativo 781/1986, de 18 de abril, por el que se aprueba el Texto 
+Refundido de las Disposiciones Legales vigentes en materia de Régimen Local. 
+ Real Decreto 1098/2001, de 12 de octubre, por el que se aprueba  el Reglamento 
+General de la Ley de Contratos de las Administraciones Públicas, en lo que aún 
+resulte aplicable. 
+ 
+4.2. Legislación específica en materia de tel ecomunicaciones y 
+servicios de internet 
+ Ley 11/2022, de 28 de junio, General de Telecomunicaciones, qu e regula las 
+comunicaciones electrónicas, derechos de los usuarios y obligaciones de los 
+operadores. 
+ Real Decreto 123/2017, de 24 de febrero, por el que se aprueba el Reglamento 
+sobre el uso del dominio público radioeléctrico (en lo no derogado). 
+ Reglamento (UE) 2015/2120, del Parlamento Europeo y del Consejo, de 25 de 
+noviembre de 2015, por el que se establecen medidas en relación con el acceso 
+abierto a Internet (neutralidad de la red). 
+ Normas técnicas de la Comisión Nacional de los Mercados y la Competen cia 
+(CNMC) relativas a la prestación de servicios de acceso a Internet y redes de fibra 
+óptica. 
+ 
+4.3. Legislación en materia de seguridad de la información 
+ Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional 
+de Seguridad (ENS), aplicab le a los sistemas y servicios electrónicos del sector 
+público. 
+ Ley 11/2007, de acceso electrónico de los ciudadanos a los Servicios Públicos, (en 
+lo que aún resulte aplicable). 
+ Norma UNE -EN ISO/IEC 27001:2017, de Seguridad de la Información, y 
+estándares complementarios (ISO 27002, ISO 27005). 
+ Ley 21/1992, de 16 de julio, de Industria, en materia de seguridad industrial de 
+las instalaciones. 
+ 
+4.4. Legislación en materia de protección de datos personales 
+ Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril 
+de 2016 (Reglamento General de Protección de Datos – RGPD). 
+ Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y 
+garantía de los derechos digitales (LOPDGDD). 
+ Guía de cumplimiento del RGPD en el ámbito del sec tor público, de la Agencia 
+Española de Protección de Datos (AEPD). 
+Cód. Validación: 692QAKC5FQHA2K6ZX6LG5HX3L 
+Verificación: https://catral.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 6 de 24 
+
+--- página 7 ---
+ 
+Página | 4 
+ 
+4.5. Legislación en materia de prevención de riesgos laborales 
+ Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales. 
+ Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de 
+los Servicios de Prevención. 
+ 
+Además de todas las anteriormente descritas, c ualquier otra disposición de carácter 
+nacional, autonómico o europeo que resulte de aplicación. 
+ 
+5. Resumen de servicios requeridos 
+El presente contrato será de aplicación a todas las dependencias, edificios y centros 
+municipales del Ayuntamiento de Catral que dispongan o deban disponer de conexión a 
+Internet mediante fibra óptica, independientemente de que el servicio se encuentre 
+actualmente activo o requiera de alta, migración o sustitución del proveedor. 
+El adjudicatario asumirá la gestión integral, mantenimiento y soporte de las líneas de 
+fibra de cada una de las sedes municipales incluidas en el presente Pliego, así como las 
+posibles ampliaciones o modificaci ones que, durante la vigencia del contrato, pudieran 
+incorporarse al servicio por necesidades municipales debidamente justificadas. 
+El ámbito geográfico del contrato se limita al término municipal de Catral (Alicante), 
+comprendiendo los siguientes edificio s y ubicaciones , como mínimo con las siguientes 
+velocidades o características: 
+Nº Dependencia / Edificio Dirección Tipo de conexión 
+1 Ayuntamiento de Catral Plaza de España nº 1, 03158 Catral Fibra 1 Gb simétrica 
+2 Servicios Sociales C/ General Prim nº 3, 03158 Catral Fibra 600 Mb simétrica 
+3 Centro de la Tercera Edad C/ Santa Bárbara nº 69, 03158 Catral Fibra 600 Mb simétrica 
+4 Biblioteca Municipal C/ Manuel Flores nº 38, 03158 Catral Fibra 600 Mb simétrica 
+5 Centro de Formación C/ La Palmera nº 10, 03158 Catral Fibra 600 Mb simétrica 
+6 Casa de Cultura/Conservatorio C/ Músico José M. Miralles s/n, 03158 Catral Fibra 600 Mb simétrica 
+7 Almacén de Obras y Servicios Polígono Poniente s/n, C/ Extremadura, 03158 Catral Fibra 600 Mb simétrica 
+8 Centro Médico C/ La Palmera s/n, 03158 Catral Fibra 600 Mb simétrica 
+9 Jefatura de Policía Local C/ Óscar Esplá s/n, 03158 Catral Fibra 600 Mb simétrica 
+ 
+Cód. Validación: 692QAKC5FQHA2K6ZX6LG5HX3L 
+Verificación: https://catral.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 7 de 24 
+
+--- página 8 ---
+ 
+Página | 5 
+ 
+El adjudicatario deberá garantizar la operatividad com pleta del servicio de acceso a 
+internet en todas las sedes incluidas, así como la atención y resolución de incidencias que 
+afecten a cualquiera de las conexiones durante el período de vigencia del contrato. 
+El Ayuntamiento podrá, durante la ejecución del contrato, incorporar nuevas sedes o 
+dar de baja aquellas qu e dejen de requerir conexión a i nternet, mediante comunicación 
+escrita, ajustando proporcionalmente el importe económico y el inventario de servicios.  
+El adjudicatario deberá asegurar el cumplimiento de los requisitos té cnicos mínimos 
+que se detallan en los siguientes capítulos, aplicables a todas las líneas contratadas. 
+El servicio deberá garantizar un ancho de banda simétrico (igual velocidad de subida y 
+bajada). 
+La conexión deberá permitir el acceso a la red pública de Internet sin limitacione s de 
+tráfico, puertos ni protocolos, y sin restricciones de caudal o uso horario. 
+El servicio incluir á la gestión integral de las líneas de fibra, alta, migración, 
+mantenimiento, soporte técnico y atención a incidencias. 
+El adjudicatario deberá asegurar el  cumplimiento de los requisitos técnicos míni mos 
+que se detallan en los siguientes capítulos, aplicables a todas las líneas contratadas. 
+ 
+6. Mantenimiento y soporte técnico 
+El adjudicatario será responsable del correcto funcionamiento, mantenimiento y 
+soporte técnico de todas las conexiones de acceso a Internet contratadas por el 
+Ayuntamiento de Catral, garantizando la continuidad del servicio, atención ante incidencias y 
+la calidad mínima establecida en el presente Pliego. 
+El mantenimiento comprenderá tanto l as actuaciones preventivas destinadas a evitar 
+incidencias, como las correctivas necesarias para la resolución de averías o degradaciones del 
+servicio. 
+ 
+6.1. Alcance del mantenimiento 
+El servicio de mantenimiento comprenderá, como mínimo: 
+a) Supervisión del estado  de las líneas de fibra óptica y de los equipos de acceso 
+(routers, ONT, puntos de acceso, etc.). 
+b) Resolución de incidencias que afecten a la conectividad o rendimiento de las líneas 
+Cód. Validación: 692QAKC5FQHA2K6ZX6LG5HX3L 
+Verificación: https://catral.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 8 de 24 
+
+--- página 9 ---
+ 
+Página | 6 
+ 
+contratadas. 
+c) Sustitución de equipos averiados o degradados por otros de ig uales o superiores 
+características, sin coste adicional para el Ayuntamiento. 
+d) Revisión periódica de configuraciones y actualización del firmware de los equipos de 
+red. 
+e) Asesoramiento técnico y coordinación con el personal municipal en cuestiones 
+relacionadas con el servicio de acceso a Internet. 
+f) Atención y soporte técnico remoto o presencial, según la gravedad y naturaleza de la 
+incidencia. 
+ 
+6.2. Tipología de mantenimiento 
+a) Mantenimiento preventivo: 
+Consistirá en la realización de revisiones programadas, comprobac iones de 
+configuración, verificación de velocidad, actualización de firmware y evaluación del estado de 
+los equipos y conexiones. 
+Deberá realizarse al menos una vez al año, y en los casos en los  que se produzcan 
+modificaciones sustanciales en la infraestructura o actualizaciones de software relevantes. 
+b) Mantenimiento correctivo: 
+Consistirá en la intervención  y resolución de  incidencias o averías detectadas por el 
+Ayuntamiento o el propio adjudicatario, incluyendo: 
+ Fallos totales o parciales del servicio de Internet. 
+ Lentitud o degradación notable del rendimiento. 
+ Averías en los equipos de acceso o pérdida de configuración. 
+ Desconexión, pérdida de señal o problemas de sincronización. 
+ Fallos de seguridad detectados en routers o Wi-Fi. 
+ 
+ 
+ 
+ 
+ 
+Cód. Validación: 692QAKC5FQHA2K6ZX6LG5HX3L 
+Verificación: https://catral.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 9 de 24 
+
+--- página 10 ---
+ 
+Página | 7 
+ 
+6.3. Tipología de incidencias y tiempos máximos de respuesta 
+Las incidencias se clasificarán según su gravedad en los siguientes niveles:  
+Tipo de incidencia Descripción 
+Crítica Corte total del servicio o imposibilidad de conexión a Internet en una sede. 
+Importante Funcionamiento intermitente, lentitud grave o fallos de equipo. 
+Menor Problemas de configuración, rendimiento puntual o asistencia al usuario. 
+ 
+Se entenderá por “tiempo de respuesta” el intervalo desde la notificación de la 
+incidencia por el Ayuntamiento o la detección automática por el adjudicatario hasta el inicio 
+efectivo de las actuaciones de diagnóstico. 
+Los tiempos máximos se computarán dentro del horario de servicio indicado en el 
+apartado siguiente. 
+ 
+6.4. Horario de servicio y atención 
+El adjudicatario deberá garantizar un servicio de atención técnica disponible, como 
+mínimo: 
+ De lunes a domingo, de 08:00 a 22:00 horas, incluyendo festivos. 
+ En caso de incidencias críticas (corte total de servicio), la atención deberá 
+prestarse 24 horas al día, 7 días a la semana. 
+La comunicación de incidencias deberá realizarse mediante atención telefónica , 
+pudiendo adicionalmente añadir: 
+a) Correo electrónico de soporte. 
+b) Portal web o sistema de ticketing, si el adjudicatario dispone de él. 
+El adjudicatario designará un técni co responsable del servicio, que actuará como 
+interlocutor único con el Ayuntamiento para la coordinación de actuaciones, revisiones y 
+seguimiento de incidencias. 
+ 
+6.5. Sustitución de equipos 
+En caso de avería o mal funcionamiento de los equipos de acceso (rout er, ONT, módem o 
+similares): 
+Cód. Validación: 692QAKC5FQHA2K6ZX6LG5HX3L 
+Verificación: https://catral.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 10 de 24 
+
+--- página 11 ---
+ 
+Página | 8 
+ 
+ El adjudicatario deberá proceder a su sustitución inmediata por otro equipo de 
+iguales o superiores prestaciones en un plazo máximo de 48 horas. 
+ La sustitución no implicará coste adicional alguno para el Ayuntamiento. 
+ El equipo sustituido pasará a ser propiedad del adjudicatario, salvo que se trate de 
+equipamiento aportado por el Ayuntamiento. 
+ Las configuraciones necesarias deberán ser restauradas en el nuevo equipo sin 
+pérdida de parámetros o credenciales. 
+ 
+6.6. Comunicación y seguimiento 
+El adjudicatario deberá mantener comunicación permanente con el personal municipal 
+designado, informando del estado del servicio y de las actuaciones en curso.  
+Cuando se detecte una incidencia crítica que pueda afectar a la actividad municipal,  
+deberá notificarse inmediatamente por vía telefónica al responsabl e designado por el 
+Ayuntamiento. 
+ 
+6.7. Informes periódicos 
+El adjudicatario deberá remitir al Ayuntamiento un informe me nsual de mantenimiento 
+los primeros diez días del mes siguiente, que tendrá formato digital e incluirá al menos: 
+Relación de mantenimiento preventivo realizado: 
+ Sede de la actuación. 
+ Actuaciones preventivas realizadas. 
+ Materiales utilizados, en su caso. 
+ Observaciones y propuestas de mejora. 
+ 
+Relación de mantenimiento correctivo atendido: 
+ Fecha y hora de comunicación de la incidencia. 
+ Sede afectada. 
+ Descripción de la incidencia. 
+ Tipo de incidencia (crítica, importante, menor). 
+ Actuación realizada y materiales utilizados. 
+ Responsable técnico que la atendió. 
+ Tiempos de respuesta y resolución. 
+ Estado final (resuelta / pendiente / cerrada). 
+Cód. Validación: 692QAKC5FQHA2K6ZX6LG5HX3L 
+Verificación: https://catral.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 11 de 24 
+
+--- página 12 ---
+ 
+Página | 9 
+ 
+7. Garantía de calidad y niveles de servicio 
+El adjudicatario deberá garantizar que las prestaciones del servicio de acceso a 
+Internet objeto del presente contrato se ajustan, durante toda la vigencia del mismo, a los 
+niveles de calidad y continuidad definidos en el presente  capítulo, siendo de aplic ación los 
+compromisos de disponibilidad, rendimiento y atención técnica aquí establecidos.  
+Los valores e indicadores que se recogen en el presente apartado constituyen e l Nivel 
+de Servicio. 
+ 
+7.1. Principios generales de calidad 
+El servicio deberá prestarse bajo los siguientes principios: 
+a) Disponibilidad y continuidad:  las conexiones de fibra deberán encontrarse activas y 
+operativas de forma permanente, garantizando un nivel de disponibilidad igual o 
+superior al 99,5 % mensual. 
+ 
+b) Rendimiento: las velocidades contra tadas deberán mantenerse de forma estable, con 
+desviaciones igual o inferiores al 10 % respecto a la velocidad nominal. 
+ 
+c) Fiabilidad: la infraestructura y los equipos deberán mantenerse en condiciones 
+óptimas de funcionamiento, con medidas preventivas que e viten interrupciones no 
+planificadas. 
+ 
+d) Transparencia: el adjudicatario deberá facilitar al Ayuntamiento el acceso a 
+información sobre el estado de las líneas, incidencias y actuaciones realizadas.  
+ 
+e) Atención técnica eficaz:  las incidencias deberán atenderse  y resolverse dentro de los 
+plazos máximos definidos en el presente Pliego. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cód. Validación: 692QAKC5FQHA2K6ZX6LG5HX3L 
+Verificación: https://catral.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 12 de 24 
+
+--- página 13 ---
+ 
+Página | 10 
+ 
+7.2. Indicadores de nivel de calidad del servicio 
+Los indicadores mínimos de calidad exigidos serán los siguientes: 
+Nº Indicador Valor mínimo exigido Frecuencia de medida 
+1 Disponibilidad del servicio ≥ 99,5 % mensual Mensual 
+2 Velocidad de acceso efectiva (descarga/subida) ≥ 90 % de la velocidad contratada Mensual 
+3 Latencia media nacional ≤ 50 milisegundos Mensual 
+4 Tasa de pérdida de paquetes ≤ 0,1 % Mensual 
+5 Jitter (variación de retardo) ≤ 20 milisegundos Mensual 
+6 Tiempo máximo de respuesta ante incidencia crítica ≤ 1 hora Por evento 
+7 Tiempo máximo de respuesta ante incidencia importante ≤ 2 horas Por evento 
+8 Tiempo máximo de respuesta ante incidencia menor ≤ 4 horas Por evento 
+9 Tiempo máximo de resolución de incidencia crítica ≤ 4 horas Por evento 
+10 Tiempo máximo de resolución de incidencia importante ≤ 8 horas Por evento 
+11 Tiempo máximo de resolución de incidencia menor ≤ 24 horas Por evento 
+12 Entrega de informe mensual de calidad y mantenimiento 100 % cumplimiento Mensual 
+ 
+7.3. Comunicación de incidencias y seguimiento 
+El adjudicatario deberá garantizar que el Ayuntamiento dispone de acceso directo a un 
+canal de comunicación a efectos de notificación de incidencias o averías. 
+Asimismo, deberá asignarse un responsable técnico del servicio con capacidad de 
+decisión y coordinación inmediata ante emergencias o incidencias graves. 
+ 
+8. Equipamiento y configuración técnica 
+El adjudicatario será responsable de sumin istrar, instalar, configurar y mantener en 
+correcto estado de funcionamiento los equipos de acceso a Internet necesarios para la 
+prestación del servicio en cada una de las sedes municipales incluidas en el contrato.  
+Cód. Validación: 692QAKC5FQHA2K6ZX6LG5HX3L 
+Verificación: https://catral.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 13 de 24 
+
+--- página 14 ---
+ 
+Página | 11 
+ 
+Estos equipos comprenderán, como mínimo, el router o módem de conexión, la unidad 
+óptica de red (ONT) y, en su caso, los puntos de acceso inalámbrico (Wi -Fi) que permitan la 
+conectividad local de los equipos informáticos del Ayuntamiento. 
+ 
+8.1. Equipos mínimos requeridos 
+Cada punto de conexión a Internet deberá disponer de los siguientes elementos: 
+a) ONT (Optical Network Terminal) compatible con la red de fibra óptica del operador, 
+configurada y probada por el adjudicatario. 
+b) Router de acceso con las siguientes características mínimas: 
+ Soporte para conexiones Gigabit Ethernet (puertos LAN 10/100/1000 Mbps). 
+ Soporte Wi -Fi de doble banda (2,4 GHz y 5 GHz), estándar IEEE 802.11ac o 
+superior. 
+ Cifrado de seguridad WPA2 o superior. 
+ Funcionalidades de DHCP, NAT, QoS y filtrado básico de contenidos. 
+ Posibilidad de gestión remota segura (HTTPS, SSH o SNMPv3). 
+ Capacidad de asignar prioridad de tráfico (QoS) a servicios críticos, como 
+videoconferencia o voz IP. 
+ Fuente de alimentación con protección frente a sobretensiones. 
+c) Puntos de acceso Wi -Fi adici onales (si son necesarios por cobertura) que garanticen 
+una cobertura inalámbrica completa en la zona de trabajo de cada dependencia municipal.  
+d) Cableado de interconexión y adaptadores necesarios para la correcta conexión entre 
+equipos (router, ONT, ordenador o switch local). 
+ 
+8.2. Configuración inicial 
+El adjudicatario deberá entregar todos los equipos preconfigurados y listos para su 
+uso, garantizando la conectividad de los dispositivos municipales a la red de Internet desde el 
+momento de su instalación. 
+En la configuración inicial deberán establecerse, como mínimo: 
+ Red inalámbrica (SSID) principal para uso interno municipal. 
+ Red secundaria (SSID) para invitados o acceso público, en caso de solicitarlo el 
+Ayuntamiento. 
+Cód. Validación: 692QAKC5FQHA2K6ZX6LG5HX3L 
+Verificación: https://catral.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 14 de 24 
+
+--- página 15 ---
+ 
+Página | 12 
+ 
+ Contraseñas seguras (mínimo 12 caracteres alfanuméricos). 
+ Asignación automática de direcciones IP (DHCP). 
+ Bloqueo de tráfico no autorizado o potencialmente peligroso (puertos no 
+utilizados). 
+La sede principal (Ayuntamiento de Catral, Plaza de España nº 1) deberá disponer de 
+al menos una dirección IP pública fija para servicios municipales. 
+El resto de sedes podrán disponer de IP pública dinámica o fija según las necesidades 
+del Ayuntamiento, debiendo permitir la comunicación hacia y desde Internet sin bloqueos 
+adicionales. 
+El adjudicatario deberá  facilitar la información de direccionamiento (IP, máscara, 
+puerta de enlace, DNS) y notificar cualquier cambio con una antelación mínima de 48 horas.  
+El Ayuntamiento deberá disponer en todo momento de las credenciales de acceso 
+administrativo a los routers y equipos, así como de la documentación técnica de configuración 
+básica (IP local, usuario y contraseña de acceso, SSID y claves Wi-Fi). 
+ 
+8.3. Mantenimiento y actualizaciones 
+El adjudicatario será responsable de la revisión y actualización periódica del firmw are 
+de todos los equipos instalados, al menos una vez al año, o con mayor frecuencia si 
+existieran actualizaciones críticas de seguridad. 
+Se realizarán comprobaciones regulares del estado operativo de los equipos, así como 
+de su configuración y rendimiento , dentro de las tareas de mantenimiento preventi vo 
+establecidas en el Capítulo 6.2. 
+En caso de detección de vulnerabilidades o fallos de seguridad, el adjudicatario deberá 
+aplicar los parches o actualizaciones  necesarias en un plazo máximo de 72 horas desde la 
+publicación oficial de la actualización o desde la detección del problema. 
+ 
+8.4. Sustitución y reparación de equipos 
+En caso de avería o fallo en el router, ONT o cualquier elemento necesario para el 
+funcionamiento del servicio, el adjudicatario deberá proceder a su sustitución inmediata por 
+un equipo de iguales o superiores prestaciones. 
+El plazo máximo para la sustitución de un equipo averiado será de 48 horas desde la 
+Cód. Validación: 692QAKC5FQHA2K6ZX6LG5HX3L 
+Verificación: https://catral.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 15 de 24 
+
+--- página 16 ---
+ 
+Página | 13 
+ 
+notificación de la incidencia. 
+La sustit ución o reparación de los equipos no generará coste adicional para el 
+Ayuntamiento, y deberá garantizar la continuidad del servicio durante el proceso.  
+Los equipos sustituidos pasarán a ser propiedad del adjudicatario, salvo que el 
+Ayuntamiento los haya aportado directamente. 
+ 
+8.5. Propiedad y responsabilidad 
+Los equipos instalados serán propiedad del adjudicatario, salvo aquellos que 
+expresamente se cedan o adquieran por el Ayuntamiento durante la ejecución del contrato.  
+El adjudicatario asumirá la plena respon sabilidad sobre los equipos instalados, 
+incluyendo su mantenimiento, funcionamiento, configuración y actualización.  
+Al término del contrato, los equipos propiedad del adjudicatario deberán ser retirados 
+sin causar daños en las instalaciones municipales, ga rantizando la eliminación segura de 
+configuraciones, claves y datos de acceso. 
+ 
+8.6. Condiciones de seguridad 
+Todos los equipos deberán configurarse con medidas de seguridad adecuadas, 
+conforme al Esquema Nacional de Seguridad (ENS, RD 311/2022) en su nivel medio. 
+Se exigirá: 
+ Desactivación del acceso remoto no cifrado (HTTP, Telnet). 
+ Acceso remoto cifrado únicamente mediante HTTPS o SSH. 
+ Desactivación de servicios innecesarios. 
+ Contraseñas de administración robustas y cambiadas tras la instalación. 
+ Registro de logs de administración y accesos. 
+ 
+El adjudicatario será responsable de garantizar la confidencialidad y seguridad de las 
+comunicaciones, así como de adoptar las medidas técnicas necesarias para prevenir accesos 
+no autorizados o ataques informáticos. 
+ 
+ 
+Cód. Validación: 692QAKC5FQHA2K6ZX6LG5HX3L 
+Verificación: https://catral.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 16 de 24 
+
+--- página 17 ---
+ 
+Página | 14 
+ 
+8.7. Documentación técnica 
+El adjudicatario deberá entregar al Ayuntamiento, en formato digital, la siguiente 
+documentación técnica de los equipos instalados: 
+ Ficha de cada equipo (marca, modelo, número de serie, fecha de instalación, 
+ubicación). 
+ Esquema básico de conexión (ONT, router, puntos de acceso, distribución local). 
+ Configuración técnica inicial (IP local, SSID, contraseñas). 
+ Registro de actualizaciones y mantenimiento aplicadas. 
+ 
+Esta documentación formará parte del inventario técnico municipal del servicio, y 
+deberá actualizarse cada vez que se produzca una modificación o sustitución de equipos.  
+ 
+9. Seguridad de la información y protección de datos 
+El adjudicatario deberá garantizar en todo momento la seguridad, integridad y 
+confidencialidad de la info rmación transmitida, tratada o almacenada a través de las 
+conexiones de acceso a Internet objeto del contrato, así como el cumplimiento estricto de la 
+normativa vigente en materia de protección de datos personales y seguridad de la 
+información. 
+ 
+9.1. Normativa aplicable 
+El adjudicatario observará el cumplimiento de la siguiente normativa, o aquella que la 
+sustituya durante la vigencia del contrato: 
+ Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril 
+de 2016 (Reglamento General de Protección de Datos – RGPD). 
+ Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y 
+garantía de los derechos digitales (LOPDGDD). 
+ Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en materia 
+de seguridad de la información. 
+ Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional 
+de Seguridad (ENS). 
+ Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP), 
+especialmente en lo relativo a la confidencialidad de la información (artículo 133 y  
+concordantes). 
+ Cualquier otra disposición de carácter nacional, autonómico o europeo que resulte 
+de aplicación. 
+Cód. Validación: 692QAKC5FQHA2K6ZX6LG5HX3L 
+Verificación: https://catral.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 17 de 24 
+
+--- página 18 ---
+ 
+Página | 15 
+ 
+9.2. Principios de seguridad 
+El adjudicatario deberá adoptar las medidas técnicas y organizativas necesarias para 
+garantizar los siguientes principios: 
+a) Disponibilidad: las conexiones y equipos deberán mantenerse operativos en todo 
+momento, minimizando interrupciones y asegurando la continuidad del servicio.  
+ 
+b) Integridad: la información transmitida no podrá ser alterada, manipulada o 
+interceptada durante su transmisión. 
+ 
+c) Confidencialidad: el acceso a los datos y configuraciones técnicas deberá limitarse 
+exclusivamente al personal autorizado. 
+ 
+d) Trazabilidad: deberán mantenerse registros de acceso, configuración y administración 
+de los equipos de red. 
+ 
+e) Autenticación y control de acceso:  el acceso remoto a los equipos deberá realizarse 
+mediante credenciales seguras y protocolos cifrados (HTTPS, SSH). 
+ 
+9.3. Obligaciones del adjudicatario en materia de protección de datos 
+El adjudicatario no podrá acceder, a lmacenar ni tratar datos personales municipales, 
+salvo en los casos en que sea estrictamente necesario para la prestación del servicio técnico 
+contratado (por ejemplo, en tareas de soporte o diagnóstico). 
+En caso de que, para la prestación del servicio, el  adjudicatario deba acceder de forma 
+puntual a sistemas o dispositivos que contengan datos personales, dicho acceso tendrá la 
+consideración de encargo de tratamiento conforme al artículo 28 del RGPD, debiendo 
+formalizarse mediante la correspondiente cláusula o acuerdo específico que determinará: 
+ El objeto, duración, naturaleza y finalidad del tratamiento. 
+ El tipo de datos personales y categorías de interesados. 
+ Las obligaciones y derechos del Ayuntamiento como responsable del tratamiento.  
+ Las medidas de seguridad que el adjudicatario se compromete a aplicar. 
+El adjudicatario se compromete expresamente a: 
+ Utilizar los datos únicamente para los fines previstos en el contrato. 
+ No comunicarlos, cederlos ni transferirlos a terceros sin autorización del 
+Ayuntamiento. 
+Cód. Validación: 692QAKC5FQHA2K6ZX6LG5HX3L 
+Verificación: https://catral.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 18 de 24 
+
+--- página 19 ---
+ 
+Página | 16 
+ 
+ Implementar las medidas de seguridad técnicas y organizativas adecuadas. 
+ Garantizar la confidencialidad y secreto profesional de todo el personal implicado.  
+ Notificar al Ayuntamiento, en un plazo máximo de 24 horas, cualquier incidente o 
+violación de seguridad que afecte o pueda afectar a datos personales. 
+Una vez finalizado el contrato, el adjudicatario deberá eliminar o devolver al 
+Ayuntamiento toda la información, configuraciones o datos técnicos obtenidos en el marco de 
+la ejecución del mismo, in cluyendo copias de seguridad o configuraciones de routers, sin 
+conservar duplicados. 
+ 
+9.4. Medidas técnicas y organizativas mínimas 
+El adjudicatario deberá garantizar, como mínimo, las siguientes medidas:  
+Tipo de medida Descripción mínima exigida 
+Autenticación Acceso restringido mediante usuario y contraseña robusta; bloqueo automático tras 5 intentos fallidos. 
+Cifrado de comunicaciones Todo acceso remoto o administración se realizará bajo protocolo cifrado (HTTPS, SSH, TLS o equivalente). 
+Gestión de contraseñas Contraseñas con longitud mínima de 12 caracteres, combinando letras, números y símbolos. 
+Actualizaciones de 
+seguridad 
+Aplicación de parches y firmware de seguridad en un máximo 
+de 72 horas desde su publicación. 
+Registro de accesos Logs automáticos de conexiones, administraciones y modificaciones de configuración. 
+Cortafuegos Activación del firewall en routers y bloqueo de tráfico entrante no solicitado. 
+Wi-Fi seguro Uso de cifrado WPA2 o superior y contraseñas únicas por sede. 
+Protección frente a 
+malware 
+Filtros de tráfico malicioso o reputacional en las conexiones 
+salientes. 
+Copia de seguridad de 
+configuración 
+Respaldo periódico de la configuración de routers y equipos 
+críticos. 
+ 
+9.5. Confidencialidad y secreto profesional 
+Toda la información, docume ntación, claves de acceso o datos técnicos relativos a la 
+red municipal y sus conexiones tendrán carácter estrictamente confidencial. 
+El adjudicatario y su personal se comprometen a mantener la más absoluta reserva 
+sobre los datos a los que pudieran tener acceso, incluso una vez finalizada la relación 
+contractual. 
+Esta obligación de confidencialidad alcanzará a cualquier información técnica, 
+organizativa o de seguridad que no sea de dominio público. 
+Cód. Validación: 692QAKC5FQHA2K6ZX6LG5HX3L 
+Verificación: https://catral.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 19 de 24 
+
+--- página 20 ---
+ 
+Página | 17 
+ 
+9.6. Incidentes y notificación de brechas de seguridad 
+En caso de producirse una violación de la seguridad o un incidente que afecte a la 
+disponibilidad, confidencialidad o integridad del servicio o de los datos, el adjudicatario 
+deberá: 
+ Notificarlo al Ayuntamiento de Catral en un plazo máximo de 24 horas desde su 
+detección. 
+ Facilitar un informe de incidente con el detalle del suceso, su alcance, las medidas 
+adoptadas y las recomendaciones para evitar su repetición. 
+El adjudicatario deberá colaborar con el Ayuntamiento en la investigación y resolución 
+de los incidentes y aplicar las medidas correctoras necesarias. 
+ 
+9.7. Cumplimiento del Esquema Nacional de Seguridad (ENS) 
+El adjudicatario garantizará que el servicio de acceso a Internet y los equipos de red 
+instalados cumplen, como mínimo , las medidas del nivel medio del Esq uema Nacional  de 
+Seguridad (ENS), adoptando procedimientos de: 
+ Control de acceso lógico y autenticación. 
+ Protección de la infraestructura de red frente a ataques externos. 
+ Registro de actividad y trazabilidad. 
+ Gestión de vulnerabilidades y actualizaciones. 
+ Copias de seguridad y restauración de configuraciones críticas. 
+ 
+10. Plan de instalación, migración y puesta en marcha 
+El proceso de instalación y puesta en marcha se realizará conforme al plan de trabajo 
+que se detalla a continuación. 
+ 
+10.1. Principios generales 
+El adjudicatario deberá ejecutar las tareas de instalación y migración , en la medida de 
+lo posible  sin interrupción del servicio de conectividad en ninguna de las dependencias 
+municipales, planificando las actuaciones en coordinación con el personal design ado por el 
+Ayuntamiento. 
+ 
+Cód. Validación: 692QAKC5FQHA2K6ZX6LG5HX3L 
+Verificación: https://catral.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 20 de 24 
+
+--- página 21 ---
+ 
+Página | 18 
+ 
+La instalación y activación de las líneas deberán garantizar la total funcionalidad del 
+acceso a Internet, la configuración de los equipos y la verificación de la conectividad de todos 
+los puestos informáticos municipales. 
+Cualquier actuación que implique corte temporal de servicio deberá ser previamente 
+comunicada al Ayuntamiento con una antelación mínima de 48 horas, indicando duración 
+estimada y justificación técnica. 
+ 
+10.2. Fases del plan de instalación 
+El proceso de instalación y puesta en marcha comprenderá las siguientes fases: 
+ 
+Fase 1 – Revisión e inventario previo 
+ Comprobación técnica de las conexiones existentes en todas las sedes municipales.  
+ Verificación del estado y ubicación de los equipos actuales (ONT, router, cableado).  
+ Identificación de necesidades de sustitución, migración o refuerzo de señal. 
+ Elaboración del inventario inicial. 
+ 
+Fase 2 – Planificación y coordinación 
+ Elaboración de un cronograma de actuaciones con fechas de instalación y migración 
+por sede. 
+ Coordinación con el personal municipal responsable de cada dependencia. 
+ Identificación de horarios óptimos para evitar interrupciones del servicio. 
+ Comunicación al Ayuntamiento del plan detallado para su aprobación. 
+ 
+Fase 3 – Instalación o migración de líneas 
+ Alta o migración de las líneas de fibra óptica según la planificación aprobada. 
+ Instalación de equipos (ONT, router, puntos de acceso Wi-Fi) y configuración inicial. 
+ Integración de los dispositivos informáticos municipales a la red local. 
+ Pruebas de velocidad, latencia y estabilidad de conexión. 
+ Registro fotográfico y técnico de cada actuación. 
+ 
+ 
+Cód. Validación: 692QAKC5FQHA2K6ZX6LG5HX3L 
+Verificación: https://catral.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 21 de 24 
+
+--- página 22 ---
+ 
+Página | 19 
+ 
+Fase 4 – Verificación y puesta en servicio 
+ Verificación funcional conjunta con el personal municipal de que la conexión y los 
+equipos funcionan correctamente. 
+ Realización de test de conectividad y velocidad (medida mínima del 90 % del caudal 
+contratado). 
+ Entrega del acta de conformidad de instalación, firmada por el técnico del 
+adjudicatario y el representante municipal. 
+ Actualización del inventario técnico con los datos finales de configuración. 
+ 
+Fase 5 – Formación y traspaso de información 
+ Breve formación técnica al personal municipal designado, sobre los aspectos básicos 
+de la gestión del router, acceso Wi-Fi y notificación de incidencias. 
+ Entrega de las claves de acceso, SSID, contraseñas, IPs y documentación técnica de 
+cada sede. 
+ 
+10.3. Plazos de ejecución 
+El adjudicatario deberá completar la instalación y puesta en marcha de todas las líneas 
+contratadas en un plazo máximo de 15 días naturales  a contar desde la formaliz ación del 
+contrato. 
+En caso de sustitución o migración de operador, la desconexión de las líneas antiguas 
+sólo podrá realizarse una vez comprobada la plena operatividad de las nuevas conexiones.  
+Si fuera necesario ejecutar actuaciones adicionales o ampliac iones por causas no 
+imputables al adjudicatario, éstas deberán planificarse y aprobarse mediante comunicación 
+escrita. 
+ 
+10.4. Verificación técnica y acta de conformidad 
+Finalizada la instalación en cada sede, se levantará un Acta de Conformidad de Puesta 
+en Marcha, en la que constarán los siguientes datos: 
+ Sede y dirección de instalación. 
+ Fecha y hora de ejecución. 
+ Velocidad contratada y velocidad verificada. 
+ Pruebas realizadas y resultados obtenidos. 
+ Observaciones y conformidad del Ayuntamiento. 
+Cód. Validación: 692QAKC5FQHA2K6ZX6LG5HX3L 
+Verificación: https://catral.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 22 de 24 
+
+--- página 23 ---
+ 
+Página | 20 
+ 
+La firma de dich a acta será requisito imprescindible para la aceptación formal del 
+servicio en cada punto de conexión. 
+El adjudicatario deberá conservar copia digital del acta y remitir una copia al 
+Ayuntamiento en el plazo máximo de 48 horas tras su firma. 
+ 
+10.5. Control de calidad en la puesta en marcha 
+Antes de la aceptación definitiva del servicio, el Ayuntamiento podrá efectuar 
+verificaciones aleatorias de rendimiento o estabilidad de las líneas. 
+Si se detectan deficiencias o incumplimientos respecto a las especificaciones técnicas 
+del presente Pliego, el adjudicatario deberá subsanarlas en un plazo máximo de 48 horas  sin 
+coste adicional. 
+El servicio no se considerará completamente operativo hasta que el Ayuntamiento 
+emita la conformidad técnica. 
+ 
+10.6. Responsabilidades durante la instalación 
+El adjudicatario será responsable de: 
+ Los trabajos de instalación y cableado necesarios hasta el punto de terminación 
+óptico. 
+ El correcto conexionado de los equipos y la configuración inicial. 
+ La protección y seguridad de los elementos inst alados durante las obras o 
+actuaciones. 
+ 
+Cualquier daño causado a los bienes o instalaciones municipales durante los trabajos 
+será reparado o repuesto por cuenta del adjudicatario. 
+ 
+10.7. Documentación de instalación 
+Al finalizar las tareas de implantación, el a djudicatario deberá entregar en formato 
+digital la siguiente documentación: 
+ Relación de sedes y líneas activadas. 
+ Fichas técnicas actualizadas con los parámetros de conexión (IP, SSID, 
+contraseñas, velocidad verificada). 
+Cód. Validación: 692QAKC5FQHA2K6ZX6LG5HX3L 
+Verificación: https://catral.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 23 de 24 
+
+--- página 24 ---
+ 
+Página | 21 
+ 
+ Copia de los Actas de Conformidad firmadas. 
+ Informe técnico de puesta en marcha general, con descripción de los trabajos 
+realizados, incidencias detectadas y resultados de las pruebas de rendimiento.  
+ Inventario detallado e integral de todos los medios físicos y lógicos que se utilizan 
+para la prestación de este servicio, con ind icación expresa de su situación y 
+localización. 
+ 
+ 
+Cód. Validación: 692QAKC5FQHA2K6ZX6LG5HX3L 
+Verificación: https://catral.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 24 de 24 

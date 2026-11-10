@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] 26_357 CRCP.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] 26_357 PPT.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] 26_357 CRCP.pdf: error HTTP Error 500: Internal Server Error
+- [Technical] 26_357 PPT.pdf: error HTTP Error 500: Internal Server Error

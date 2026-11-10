@@ -1,0 +1,82 @@
+
+
+--- página 1 ---
+EXP: 13671/2026
+Suministro de certificados digitales SSL y gestión de dominios de internet
+Pliego de Prescripciones Técnicas
+1.-OBJETO DEL PLIEGO.
+El objeto del presente pliego es establecer la características técnicas que deben cumplir las  
+ofertas que se presenten al concurso de Suministro de certificados digitales SSL y gestión de  
+dominios de internet
+2.- DESCRIPCIÓN DEL PROYECTO. ALCANCE
+El Ayuntamiento de Calp dispone de una serie de dominios de internet reservados para, por un  
+lado, proteger un uso fraudulento de los mismos y, por otro, ofrecer servicios más cercanos al  
+ciudadano. También necesita para su normal funcionamiento del uso de certificados digitales que  
+se  pueden  usar  para  distintos  fines  como  la  autentificación  de  los  servidores  propios  o  la 
+certificación de aplicaciones propias.
+Se  adopta  un  mecanismo  de  precios  unitarios  para  permitir  adquirir  dominios  y  generar 
+certificados de forma dinámica en caso de nuevas necesidades.
+3. CARACTERÍSTICAS TÉCNICAS
+Se incluye la reserva y gestión DNS de los dominios actuales y de alguno más que se pueda  
+adquirir, siempre dentro de los siguientes ámbitos de dominio:
+• .org
+• .es
+• .com
+• .eu
+• .com.es
+• .org.es
+• .tv
+ Se automatizará la renovación de los dominios que ya tuviera el Ayuntamiento durante el tiempo  
+de vigencia del contrato. Los dominios que tiene actualmente el Ayuntamiento son:
+• ajcalp.org
+• ajcalp.com
+• ajcalp.es
+• visitcalp.org
+• visitcalpe.org
+• visitcalp.eu
+• calpenoticias.com
+• calpedia.es
+• calpnoticies.com
+• calpenews.com
+• calp.es
+• calpe.es
+• aytocalpe.org
+• calpe.com.es
+• calp.com.es
+• calp.org.es
+Cód. Validación: 5TS7ZZASGWQCNMZLRF2PMTT4M 
+Verificación: https://calp.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 1 de 2 
+
+--- página 2 ---
+• calpe.org.es
+• centrecivic.com
+• centrecivic.org
+• rtvcalpe.com
+• rtvcalp.com
+• calp.tv
+Junto con la reserva del nombre de dominio debe proporcionarse un panel de control centralizado  
+para la gestión DNS de todos los dominios que pueda ser usado por los técnicos municipales de  
+forma totalmente autónoma.
+Existirá una forma de exportación de todas las zonas DNS que permita la migración en caso de  
+que finalizara el contrato. El Ayuntamiento podrá pedir una exportación en un momento dado de  
+todas y cada una de las zonas definidas tanto a través del panel de control como directamente al  
+adjudicatario sin que de ello se pueda derivar ningún gasto adicional. Se admitirán como formatos  
+de salida CSV, Excel y Calc o cualquier otro que cuente con la aprobación de las dos partes  
+contratantes, siempre incluyendo todos los datos necesarios y sus relaciones, si fuera el caso.
+En el ámbito de los certificados digitales, el adjudicatario avisará con suficiente antelación de la  
+caducidad de los certificados SSL que ya tuviera el Ayuntamiento para facilitar su renovación. Los  
+certificados SSL wildcard que dispone el Ayuntamiento actualmente son:
+• *.calp.es
+• *.calpe.es
+• *.ajcalp.es
+En cualquier caso, el Ayuntamiento podrá adquirir otros certificados SSL wildcard o de aplicación  
+con las siguientes características características básicas:
+• Cifrado de 256 bits como mínimo
+• Clave de 2048 bits
+• Propósito de autenticación de servidor y de cliente
+• Certificado Raíz reconocido en los principales navegadores.
+DOCUMENTO FIRMADO ELECTRÓNICAMENTE
+Cód. Validación: 5TS7ZZASGWQCNMZLRF2PMTT4M 
+Verificación: https://calp.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 2 de 2 

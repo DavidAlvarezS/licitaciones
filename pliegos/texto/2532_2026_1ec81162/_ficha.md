@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] 8__ PCAP SERVICIOS DE ACCESO A INTERNET MEDIANTE CONEXIONES DE FIBRA OPTICA_v2.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] 6__ PPTP Servicio Acceso Internet.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] 8__ PCAP SERVICIOS DE ACCESO A INTERNET MEDIANTE CONEXIONES DE FIBRA OPTICA_v2.pdf: 01_Legal_8___PCAP_SERVICIOS_DE_ACCESO_A_INTERNET_MEDIANTE_C.pdf (1191 KB)
+- [Technical] 6__ PPTP Servicio Acceso Internet.pdf: 02_Technical_6___PPTP_Servicio_Acceso_Internet.pdf (743 KB)

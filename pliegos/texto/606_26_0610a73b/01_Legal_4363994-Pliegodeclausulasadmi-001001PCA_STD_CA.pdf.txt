@@ -1,0 +1,1265 @@
+
+
+--- página 1 ---
+PROCEDIMIENTO ABIERTO
+SIMPLIFICADO (ART. 159.6)
+EXPTE. 606/26
+ÁREA DE ECONOMÍA SOSTENIBLE,
+CONTRATACIÓN ESTRATÉGICA Y
+PATRIMONIO
+Servicio de Gestión Contractual
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES PARA
+CONTRATACIÓN DEL SERVICIO DE SOPORTE Y ACTUALIZACIÓN DE
+APLICATIVO PRESTO PARA LOS SERVICIOS TÉCNICOS DE PROMEDIO
+DATOS GENERALES
+1 Nº de Expediente 606/26 2 Fecha inicio de expediente 27/10/26
+3 Órgano competente Vicepresidente Consorcio PROMEDIO
+4 Áreas/Servicios destinatarios Servicio Ciclo Integral del Agua del Consorcio PROMEDIO
+5 Objeto del contrato SOPORTE  Y  ACTUALIZACIÓN  DE  APLICATIVO  PRESTO  PARA  LOS  SERVICIOS TÉCNICOS DE PROMEDIO.
+6 Presupuesto Base de Licitación (IVA incluido) 18.029 €
+7 Valor estimado (IVA no incluido) 14.900 €
+8 Aplicac. presupuestaria 60/1701/22799/0600 9 Nº Retención Crédito 920260001683 920269000190
+10 Clase de Contrato Administrativo 11 Tipo de Contrato SERVICIO
+12 División en lotes NO 13 Admisión de Variantes o Alternativas NO
+14 Revisión de precios NO 15 Porcentaje máximo modificaciones No procede
+16 Duración inicial Hasta el 31/12/2028 17 Prórrogas No procede
+18 Garantía Provisional Exenta 19 Garantía definitiva Exenta
+20 Plazo presentación Ofertas Hasta las 14:00 horas del 11º día hábil a contar desde el siguiente a la publicación del anuncio en Perfil Contratante
+22 Acceso a Licitación Electrónica www.dip-badajoz.es
+ESTIPULACIONES
+I. OBJETO. NECESIDADES ADMINISTRATIVAS. RÉGIMEN JURÍDICO
+Cláusula 1.- Objeto del contrato
+Constituye el objeto la contratación citada en la cabecera de este documento, con arreglo a las
+especificaciones descritas tanto en el presente pliego como en el de Prescripciones Técnicas
+incorporado  al  expediente,  los  cuales  han  sido  aprobados  por  el  órgano  de  contratación
+competente de la Administración contratante.
+Cláusula 2.- Clasificación del contrato y necesidades administrativas
+Conforme al Reglamento (Ce) nº 213/2008 de la Comisión, de 28 de noviembre de 2007, por el
+que se modifica el Reglamento (CE) nº 2195/2002 del Parlamento Europeo y del Consejo, por el
+que  se  aprueba  el  Vocabulario común  de  contratos  públicos  (CPV),  el contrato  objeto  del
+presente  expediente  está  clasificado  con  el  siguiente  código:  72000000-5  Servicios  TI:
+consultoría, desarrollo de software, Internet y apoyo
+La  necesidad  administrativa  a  satisfacer  con  el  contrato  dimanante  del  expediente  de
+contratación es la siguiente: 
+El Consorcio para la Gestión de Servicios Medioambientales de la Diputación de Badajoz
+(Promedio),  cuanta  con  unos  Servicios  Técnicos  que  tienen  encargadas  ente  otras
+atribuciones, la creación de pliegos técnicos, presupuestos, mediciones, etc., así como de
+llevar a buen término contratos de obra y derivados. Por ello, se hace necesario contar
+___________________________________________________________________________________________________________
+Página 1 de 24
+Firmado por: RAMON GOMEZ DE TEJADA DIAZ
+Cargo: Jefe del Servicio de Gestión Contractual
+Fecha: 27-10-2026 15:03:43
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubrehttps://licitacion.dip-badajoz.es/licitacion
+Página: 1 de 24
+Código de verificación  : bed0bd980d934fb7
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección https://licitacion.dip-
+badajoz.es/licitacion?codigoVerificacion=bed0bd980d934fb7
+
+--- página 2 ---
+PLIEGO DE CLAUSULAS ADMINISTRATIVAS PARTICULARES PARA  PROCEDIMIENTO  ABIERTO
+__________________________________________________________________________________________________________
+con herramientas software que faciliten y agilicen el trabajo, reduciendo tiempo y carga de
+trabajo para el personal.
+El  software  con  el  que  cuenta  actualmente  Promedio  para  estos  fines  en  Presto,
+desarrollado y comercializado por RIB Software. Es por ello que se hace necesario esta
+contratación para asegurar el nivel de soporte y las actualizaciones del software en todos
+los módulos con los que cuenta Promedio.
+Cláusula 3.- Régimen jurídico
+La presente contratación se regirá por lo establecido en este Pliego, y para lo no previsto en él
+será de aplicación la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que
+se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del
+Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014 (LCSP), la Ley 12/2018, de 26 de
+diciembre, de Contratación Pública Socialmente Responsable de Extremadura, el Real Decreto
+817/2009, de 8 de mayo, por el que se desarrolla parcialmente la Ley 30/2007, de 30 de octubre,
+de Contratos del Sector Público, y por el Real Decreto 1098/2001, de 12 de octubre, por el que
+se aprueba el Reglamento General de la Ley de Contratos de las Administraciones Públicas (en
+adelante RGLCAP). Asimismo se regirá por las demás normas de Derecho Administrativo o
+Privado que le sean de aplicación.
+II. PROCEDIMIENTO DE ADJUDICACIÓN
+Cláusula 4.- Procedimiento de adjudicación y tipo de tramitación. 
+El contrato se adjudicará por el procedimiento abierto, de acuerdo con lo establecido en el
+artículo 131 de la LCSP. La elección de esta procedimiento de adjudicación se justifica por ser el
+procedimiento  que,  en  mayor  grado,  garantiza  los  principios  de  publicidad,  transparencia,
+igualdad y libre concurrencia, consagrados en la legislación contractual, todo ello teniendo en
+cuenta la naturaleza y objeto del presente contrato, que permite efectuar la adjudicación del
+mismo  sin  necesidad  de  llevar  a  cabo  negociaciones  (como  ocurre  en  el  procedimiento
+negociado)  ni  una  previa  selección  de  licitadores  según  su  solvencia  (como  ocurre  en  el
+procedimiento restringido).
+Se utiliza la modalidad de procedimiento abierto SIMPLIFICADO, con la tramitación prevista en
+el art. 159.6 de la LCSP, al cumplirse las siguientes condiciones:
+- El valor estimado del contrato no excede de 60.000 €
+- Todos  los  criterios  de  valoración  son  automáticos  (aplicables  mediante  fórmulas
+matemáticas).
+Con  ello  se  pretende  favorecer  una  mayor  agilidad  del  procedimiento,  simplificándose  los
+trámites  administrativos,  y  a  la vez garantizando  la  mayor transparencia de la licitación,  al
+incrementarse la aplicación de criterios automáticos.
+Se seguirá la tramitación ordinaria de contratación, aplicándose los plazos establecidos en la
+legislación vigente.
+III. PRESUPUESTO. VALOR ESTIMADO. EXISTENCIA DE CRÉDITO. ANUALIDADES.
+REVISIÓN  DE PRECIOS
+Cláusula 5.-     Presupuesto base de licitación. Valor estimado  
+El  presupuesto base de licitación  establecido en la cabecera del pliego constituye el límite
+máximo de gasto, e incluye el importe total pagadero por la prestación (incluido el Impuesto
+__________________________________________________________________________________________________________
+Página 2 de 24
+Firmado por: RAMON GOMEZ DE TEJADA DIAZ
+Cargo: Jefe del Servicio de Gestión Contractual
+Fecha: 27-10-2026 15:03:43
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubrehttps://licitacion.dip-badajoz.es/licitacion
+Página: 2 de 24
+Código de verificación  : bed0bd980d934fb7
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección https://licitacion.dip-
+badajoz.es/licitacion?codigoVerificacion=bed0bd980d934fb7
+
+--- página 3 ---
+PLIEGO DE CLAUSULAS ADMINISTRATIVAS PARTICULARES PARA  PROCEDIMIENTO  ABIERTO
+__________________________________________________________________________________________________________
+sobre el Valor Añadido). Por tanto incluye los costes directos e indirectos, teniendo en cuenta los
+precios  habituales  de mercado  (incluidos  los  gastos  generales  de  la empresa,  el beneficio
+industrial, así como, en el caso de suministros, los gastos derivados de la entrega en el lugar
+que en el presente Pliego se establece en caso de suministro), desglosándose de la siguiente
+forma:
+Costes incluidos a
+efectos de cálculo
+del Presupuesto
+COSTES
+DIRECTOS
+(85% del
+presupuesto
+del contrato
+sin IVA)
+COSTES
+INDIRECTOS
+(15% del
+presupuesto
+del contrato sin
+IVA)
+Importe
+(sin IVA)
+I.V.A. Importe
+total
+Ejecución del 
+servicio en la 
+anualidad 2026 
+(40%)
+5.066,00 € 894,00 € 5.960,00 € 1.251,60 € 7.211,60 €
+Ejecución del 
+servicio en la 
+anualidad 2027 
+(30%)
+3.799,50 € 670,50 € 4.470,00 € 938,70 € 5.408,70 €
+Ejecución del 
+servicio en la 
+anualidad 2028 
+(30%)
+3.799,50 € 670,50 € 4.470,00 € 938,70 € 5.408,70 €
+IMPORTE TOTAL 12.665,00 € 2.235,00 € 14.900,00 € 3.129,00 18.029,00 €
+* El desglose entre costes directos e indirectos es estimado (en ningún caso es vinculante para 
+las empresas)
+De conformidad con lo establecido en el art. 101 de la LCSP, para el cálculo del valor estimado
+de los contratos se ha tenido en cuenta (además del presupuesto base de licitación, IVA no
+incluido) cualquier forma de opción eventual, las eventuales prórrogas del contrato y todas las
+modificaciones posibles previstas en el presente pliego. En este sentido, el desglose del valor
+estimado del contrato es el siguiente:
+CONCEPTO IMPORTE
+PRESUPUESTO BASE (sin IVA) 14.900,00 €
+MODIFICACIONES PREVISTAS EN PCA -----
+PRÓRROGAS PREVISTAS EN PCA -----
+TOTAL VALOR ESTIMADO 14.900,00 €
+VALOR ANUAL MEDIO 7.152,00 €
+Cláusula 6.- Crédito afecto al expediente
+La aplicación presupuestaria de las obligaciones económicas que se derivan del cumplimiento
+del contrato es la consignada en la cabecera del presente Pliego. La reserva de crédito para
+este  contrato  está  debidamente  acreditada  en  el  expediente  incoado  al  efecto,  mediante
+certificación  expedida  por  la  Intervención,  habiéndose  practicado  la  oportuna  Retención  de
+Crédito.  No obstante, el presupuesto base de licitación será imputado a 3 anualidades (2026,
+2027 y 2028), desglosado de la siguiente forma:
+__________________________________________________________________________________________________________
+Página 3 de 24
+Firmado por: RAMON GOMEZ DE TEJADA DIAZ
+Cargo: Jefe del Servicio de Gestión Contractual
+Fecha: 27-10-2026 15:03:43
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubrehttps://licitacion.dip-badajoz.es/licitacion
+Página: 3 de 24
+Código de verificación  : bed0bd980d934fb7
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección https://licitacion.dip-
+badajoz.es/licitacion?codigoVerificacion=bed0bd980d934fb7
+
+--- página 4 ---
+PLIEGO DE CLAUSULAS ADMINISTRATIVAS PARTICULARES PARA  PROCEDIMIENTO  ABIERTO
+__________________________________________________________________________________________________________
+Ejercicio Importe (IVA incluido) Partida Presupuestaria
+2026 7.211,60 € 60 1701 22799 0600
+2027 5.408,70 € 60 1701 22799 0600
+2028 5.408,70 € 60 1701 22799 0600
+En  su  consecuencia,  y  conforme  a  lo  establecido  en  el  artículo  116  de  la  LCSP ,  quedan
+comprometidos  los  importes  de  las  anualidades  futuras  de  2027  y  2028  en  los  términos
+establecidos en el artículo 174 del Texto Refundido de la Ley Reguladora de las Haciendas
+Locales, todo ello sin perjuicio de los posibles reajustes de anualidades a efectuar .
+Cláusula 7.- Revisión de precios
+En aplicación de lo establecido en el art. 103 de la LCSP y de  la Ley 2/2015, de 30 de marzo,
+de desindexación de la economía española, no procede la revisión del precio. 
+IV. ANUNCIOS
+Cláusula 8.- Publicidad
+De conformidad con los artículos 63 y 135 de la LCSP , toda la información relativa al expediente
+de contratación (Anuncio de Licitación, pliegos, aclaraciones,…) se publicará en el “ Perfil del
+Contratante” de la Diputación de Badajoz alojado en la Plataforma de Contratación del Sector
+Público.
+V. CAPACIDAD PARA CONTRATAR. DOCUMENTACIÓN
+Cláusula 9.- Capacidad para contratar. Uniones de empresarios.
+Podrán  contratar  el  presente  expediente  las  personas  naturales  o  jurídicas,  españolas  o
+extranjeras, que tengan plena capacidad de obrar, no estén comprendidos en alguna de las
+causas o prohibiciones para contratar contenidas en el artículo 71 de la LCSP y acrediten su
+solvencia económico-financiera y técnica o profesional. 
+Asimismo, los empresarios deberán contar con la habilitación empresarial o profesional exigible
+para la realización de la actividad o prestación objeto del contrato.
+Las  personas  jurídicas  sólo  podrán  presentar  oferta  cuando  los  fines,  objeto  o  ámbito  de
+actividad tengan relación con el objeto del contrato, acreditándose dicha circunstancia mediante
+la presentación de sus estatutos o reglas fundacionales.
+De conformidad con el art. 159 de la LCSP,  sólo podrán licitar las empresas que estén
+inscritas en el Registro Oficial del Licitadores y Empresas Clasificadas del Sector Público
+(ROLECE-ROLECSP) o en el Registro Oficial de la Comunidad Autónoma de Extremadura,
+en  la  fecha  final  de  presentación  de  ofertas.  A estos  efectos,  también  se  considerará
+admisible la proposición del licitador que acredite haber presentado la solicitud de inscripción en
+el correspondiente Registro junto con la documentación preceptiva para ello, siempre que tal
+solicitud sea de fecha anterior a la fecha final de presentación de las ofertas. La acreditación de
+esta circunstancia tendrá lugar mediante la aportación del acuse de recibo de la solicitud emitido
+por  el  correspondiente  Registro  y  de  una  declaración  responsable  de  haber  aportado  la
+documentación preceptiva y de no haber recibido requerimiento de subsanación.
+__________________________________________________________________________________________________________
+Página 4 de 24
+Firmado por: RAMON GOMEZ DE TEJADA DIAZ
+Cargo: Jefe del Servicio de Gestión Contractual
+Fecha: 27-10-2026 15:03:43
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubrehttps://licitacion.dip-badajoz.es/licitacion
+Página: 4 de 24
+Código de verificación  : bed0bd980d934fb7
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección https://licitacion.dip-
+badajoz.es/licitacion?codigoVerificacion=bed0bd980d934fb7
+
+--- página 5 ---
+PLIEGO DE CLAUSULAS ADMINISTRATIVAS PARTICULARES PARA  PROCEDIMIENTO  ABIERTO
+__________________________________________________________________________________________________________
+En el caso de que el objeto del contrato sea la vigilancia, supervisión, control y dirección de la
+ejecución de otro contrato, no podrá adjudicarse a la misma empresa adjudicataria ni a las
+empresas a ésta vinculadas.
+Podrán licitar las uniones de empresarios que se constituyan temporalmente al efecto, sin que
+sea necesaria la formalización de las mismas en escritura pública hasta que se haya efectuado
+la adjudicación del contrato a su favor. Los empresarios que concurran agrupados en uniones
+temporales  quedarán  obligados  solidariamente  y  deberán  nombrar  un  representante  o
+apoderado único de la unión con poderes bastantes para ejercitar los derechos y cumplir las
+obligaciones  que  del contrato  se  deriven  hasta  la  extinción  del  mismo,  sin  perjuicio  de  la
+existencia de poderes mancomunados que puedan otorgar para cobros y pagos de cuantía
+significativa.
+A efectos  de  la  licitación,  los  empresarios  que  deseen  concurrir  integrados  en  una  unión
+temporal  deberán  indicar  los  nombres  y  circunstancias  de  los  que  la  constituyan  y  la
+participación de cada uno, así como que asumen el compromiso de constituirse formalmente en
+unión temporal en caso de resultar adjudicatarios del contrato.
+Si durante  la  tramitación  de  un procedimiento  y  antes  de  la  formalización  del  contrato  se
+produjese la modificación de la composición de la UTE, ésta quedará excluida de la licitación.
+La duración de las uniones temporales de empresarios será coincidente con la del contrato
+hasta su extinción.
+Para licitar a la presente contratación, las empresas deberán disponer de la siguiente solvencia:
+a.1. Solvencia económico-financiera. De conformidad con  lo establecido en artículo
+87 de la LCSP, los licitadores deberán disponer de la siguiente solvencia:
+ Volumen anual de negocios:  el año de mayor volumen de negocio de los 3
+últimos concluidos deberá ser, al menos, una vez y media superior al valor anual
+medio del contrato  (es decir, al menos el licitador deberá disponer de un
+volumen de negocios anual de 10.728 €).
+a.2. Solvencia técnica.  De conformidad con los establecido  en el artículo  90 de la
+LCSP, los licitadores deberán disponer de la siguiente solvencia:
+ Relación  de  los  principales servicios de  igual  o  similar  naturaleza  del
+objeto del contrato, realizados en los 3 últimos años, incluyendo los siguientes
+datos: objeto, importes, fechas y destinatarios públicos o privados. A tal efecto,
+el importe anual acumulado en el año de mayor ejecución deberá ser igual o
+superior al 70% de la anualidad media del objeto del contrato  (es decir, al
+menos un importe anual acumulado de 5.006,40 €). 
+ Cuando se trate de una empresa de nueva creación  (antigüedad inferior a 5
+años) opcionalmente deberán disponer de la siguiente solvencia: Indicación del
+Personal Técnico o Unidades Técnicas adscritas a la ejecución del contrato. A
+tal  efecto,  la  empresa  deberá  disponer  de  al  menos  1  ingeniero  técnico
+certificado para los servicios de soporte objeto del contrato.
+Cláusula 10.-  Información a los licitadores.
+En el Perfil de Contratante  de la Diputación Provincial de Badajoz se ofrecerá la información
+relativa a  la  licitación  de  este  contrato,  incluyendo  los  pliegos  de  cláusulas  administrativas
+__________________________________________________________________________________________________________
+Página 5 de 24
+Firmado por: RAMON GOMEZ DE TEJADA DIAZ
+Cargo: Jefe del Servicio de Gestión Contractual
+Fecha: 27-10-2026 15:03:43
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubrehttps://licitacion.dip-badajoz.es/licitacion
+Página: 5 de 24
+Código de verificación  : bed0bd980d934fb7
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección https://licitacion.dip-
+badajoz.es/licitacion?codigoVerificacion=bed0bd980d934fb7
+
+--- página 6 ---
+PLIEGO DE CLAUSULAS ADMINISTRATIVAS PARTICULARES PARA  PROCEDIMIENTO  ABIERTO
+__________________________________________________________________________________________________________
+particulares y de prescripciones técnicas. Los licitadores podrán solicitar información adicional
+sobre los pliegos y sobre la documentación complementaria con una antelación de 2 días a la
+fecha límite fijada para la recepción de ofertas en el anuncio de licitación. Esta información se
+facilitará como mínimo 1 día antes del fin del plazo de presentación de proposiciones, tal y como
+señala el artículo 138.3 de la LCSP.
+En el caso de que se hayan solicitado aclaraciones a los pliegos, además de comunicarse de
+forma individual al solicitante, se publicarán en el Perfil del Contratante, a efectos de garantizar
+la igualdad de trato y concurrencia en el procedimiento de publicidad. Las respuestas tendrán
+carácter vinculante.
+Cláusula 11.- Contenido de las proposiciones. 
+Las proposiciones se ajustarán al contenido de los Sobres Electrónicos que, a tal efecto, han
+sido diseñados por el Servicio de Gestión Contractual para el presente expediente, y cuyo
+acceso se realiza a través de la Plataforma de Licitación Electrónica de Diputación, en la forma
+prevista en la Cláusula 12 del presente pliego.
+Las ofertas se presentarán en idioma castellano  (art. 23 RGLCAP). En el caso de que  se
+presente  en  idioma distinto,  ésta  deberá  acompañarse  de traducción  oficial.  Si  un  licitador
+presenta alguna documentación en otro idioma o lengua sin la correspondiente traducción al
+castellano,  la  Mesa  de  contratación  se  reserva  la  facultad  de  no  considerar  dicha
+documentación.
+El límite en cuanto al tamaño de los archivos a incluir en los Sobres Electrónicos es el siguiente:
+- en caso de que se firmen electrónicamente, el límite es de 8MB por archivo. 
+- si no se requiere firma electrónica del archivo, el límite es de 30MB.
+El  límite  máximo  del  TOTAL  de  los  archivos  será  100  MB,  de  forma  que  el  Sobre
+Electrónico no podrá superar dicho límite. 
+La presentación de proposiciones supone por parte del licitador la aceptación incondicionada
+de las cláusulas o condiciones de los Pliegos, sin salvedad o reserva alguna , así como la
+autorización al órgano de contratación para consultar los datos recogidos en el Registro Oficial
+de Licitadores y Empresas Clasificadas del Sector Público.
+Cada licitador no podrá presentar más de una proposición, sin perjuicio de la admisión de
+variantes en su caso. Tampoco podrá suscribir ninguna propuesta en unión temporal con otros si
+lo ha hecho individualmente o figurar en más de una unión temporal. La infracción de estas
+normas dará lugar a la no admisión de todas las propuestas por él suscritas.
+A efectos  de  licitación,  a  través  de  a  Plataforma de  Licitación  se  presentará  UNA SOLA
+OFERTA ELECTRÓNICA (comprensiva de todos los lotes a los que se licite). Mientras está
+abierto el  plazo  de presentación  de  ofertas,  los licitadores  podrán  presentar cuantas
+ofertas estimen oportunas, rectificando la anterior. A efectos de licitación la única oferta
+que se tendrá en cuenta será la última presentada, de forma que las anteriores se tendrán
+por no presentadas.
+- CONTENIDO DEL SOBRE ELECTRÓNICO     
+En  este  sobre  se  incluirá  la  proposición  relativa  a  criterios  cuantificables  de  forma
+automática. No se aceptarán aquellas proposiciones que contengan omisiones o errores
+que impidan conocer claramente lo que el órgano de contratación estime fundamental
+para  considerar  la  oferta.  Si  alguna  proposición  no  guardase  concordancia  con  la
+__________________________________________________________________________________________________________
+Página 6 de 24
+Firmado por: RAMON GOMEZ DE TEJADA DIAZ
+Cargo: Jefe del Servicio de Gestión Contractual
+Fecha: 27-10-2026 15:03:43
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubrehttps://licitacion.dip-badajoz.es/licitacion
+Página: 6 de 24
+Código de verificación  : bed0bd980d934fb7
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección https://licitacion.dip-
+badajoz.es/licitacion?codigoVerificacion=bed0bd980d934fb7
+
+--- página 7 ---
+PLIEGO DE CLAUSULAS ADMINISTRATIVAS PARTICULARES PARA  PROCEDIMIENTO  ABIERTO
+__________________________________________________________________________________________________________
+documentación  examinada  y  admitida,  excediese  cualquiera  de  los  precios  unitarios
+máximos de licitación, variase sustancialmente el modelo establecido, comportase error
+manifiesto  en  el  importe  de  la  proposición,  o  existiese  reconocimiento  por parte  del
+licitador de que adolece de error o inconsistencia que la hagan inviable, será desechada
+mediante resolución motivada, sin que sea causa bastante para el rechazo, el cambio u
+omisión de algunas palabras del modelo si ello no altera su sentido.
+Este Anexo deberá ser presentado por el empresario individual o por la persona que, en
+representación de persona jurídica, ostente los poderes suficientes a tales efectos.
+En la oferta económica se entenderán incluidos los tributos que sean de aplicación según
+las disposiciones vigentes, a excepción del I.V.A., que figurará en cuantía aparte (en
+caso de no figurar separado el importe correspondiente al I.V.A., a la hora de valorar
+la oferta, se entenderá que el precio no incluye I.V.A.). 
+Concretamente se incluirán en el Sobre los siguientes archivos:
+-  Certificado que acredite la capacidad y cualificación técnica reconocida por los
+titulares de los productos software PRESTO , para el soporte, formación, ayuda a la
+instalación e implantación, servicios de consultoría y otros relativos a cada uno de los
+productos objeto de la presente licitación.
+- Oferta en formato PDF, conforme al modelo previsto en el presente pliego.
+- Of  erta en formato .xlsx.   Este documento es generado por la propia Plataforma al
+cumplimentar  el Sobre  Electrónico.  En  la  columna  denominada “OFERTA”  sólo
+pueden  introducirse  valores  en  formato  numérico;  mientras  que  la  columna
+denominada “COMENTARIOS” es de formato libre.  Concretamente, en la presente
+licitación debe incluir los siguientes datos en el formulario xls:
+ a la hora de introducir el  Precio, en la columna “ OFERTA” deberá especificarse el
+importe ofertado sin IVA, señalándose en el campo “ COMENTARIOS” el porcentaje
+de IVA aplicable. 
+*  Los importes y demás condiciones ofertadas deberán ser iguales en ambos
+formatos. En el caso de discrepancia en el precio indicado en el archivo PDF y en
+el  archivo  xlsx,  la  oferta  será  rechazada  (salvo  en  el  caso  de  que  proceda
+rectificación de error material de sumatorio de precios unitarios). En el caso de
+discrepancia en el resto de criterios automáticos indicados en el archivo PDF y en
+el archivo xlsx, se tomará como referencia el dato menos favorable a efectos de
+puntuación.
+En el caso de los empresarios que deseen concurrir integrados en una unión temporal
+de  empresas  (UTE),  las  empresas  deberán  aportar  el  compromiso de  constituirse
+formalmente en unión temporal en caso de resultar adjudicatarios del contrato, indicando
+los nombres y circunstancias de los que la constituyan y la participación de cada uno.
+El licitador podrá incluir cualquier otro documento/archivo que considere oportuno
+(añadiéndolo como “ Otro documento”). De igual forma, en el caso de que el Sobre
+Electrónico no incluya por defecto alguno de los documentos/archivos señalados
+como  “obligatorios”  según  la  presente  cláusula,  podrá  incluirlo  como  “Otro
+documento”.
+__________________________________________________________________________________________________________
+Página 7 de 24
+Firmado por: RAMON GOMEZ DE TEJADA DIAZ
+Cargo: Jefe del Servicio de Gestión Contractual
+Fecha: 27-10-2026 15:03:43
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubrehttps://licitacion.dip-badajoz.es/licitacion
+Página: 7 de 24
+Código de verificación  : bed0bd980d934fb7
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección https://licitacion.dip-
+badajoz.es/licitacion?codigoVerificacion=bed0bd980d934fb7
+
+--- página 8 ---
+PLIEGO DE CLAUSULAS ADMINISTRATIVAS PARTICULARES PARA  PROCEDIMIENTO  ABIERTO
+__________________________________________________________________________________________________________
+Los documentos y datos presentados por las empresas licitadoras se considerarán de carácter
+confidencial cuando su difusión a terceros pueda ser contraria a sus intereses comerciales
+legítimos, perjudicar la leal competencia entre empresas del sector o bien estén comprendidas
+en las prohibiciones establecidas en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección
+de  Datos  Personales  y  Garantía  de  los  Derechos  Digitales.  A tal  efecto,  en  su  caso,  los
+licitadores deberán indicar, de forma clara y precisa y mediante una declaración complementaria
+incluida en cada sobre, qué documentos y datos puedan tener carácter confidencial.
+En caso de que uno de los licitadores solicite el acceso a las proposiciones presentadas por
+otro/s  licitadores  y  no  haya  declaración  de  confidencialidad  de  las  empresas  o  ésta  sea
+incompleta, el órgano de contratación, antes de decidir qué documentos o información tienen
+carácter confidencial, dará traslado a la/s empresa/s afectada/s de la solicitud para que se
+pueda/n  pronunciar  de  forma  justificada  sobre  la  confidencialidad,  identificando  de  forma
+concreta y motivada los datos de la oferta que consideran confidenciales.
+VI. PRESENTACIÓN DE OFERTAS Y ADJUDICACIÓN
+Cláusula 12.- Presentación de ofertas. Notificaciones y comunicaciones
+12.1- Presentación de ofertas
+En aplicación de lo establecido en la Disposición Adicional 15ª de la LCSP, la presentación de
+ofertas se realizará exclusivamente de forma electrónica , dentro del plazo habilitado al efec-
+to, y a través de la Plataforma de  Licitación Electrónica PROVINCIAL de la Diputación, cuyo en-
+lace es el siguiente:
+http://licitacion.dip-badajoz.es 
+Para ello, con carácter previo a la presentación de una oferta, deberán estar dados de alta en la
+Plataforma (el alta se efectúa igualmente a través de la Plataforma de Licitación).
+En el enlace Soportes Empresas disponible en la Plataforma  se recoge suficiente informa-
+ción sobre el proceso de Alta y sobre el proceso de cumplimentación y envío de Sobres
+Electrónicos. No obstante, si la empresa tuviera cualquier incidencia de carácter tecnológica
+a la hora de tramitar el Alta de la Empresa o de cumplimentar y enviar el Sobre Electrónico debe-
+rá  reportarse la incidencia mediante el “ Formulario de Soporte ” disponible en la propia
+Plataforma.
+EN CUALQUIER CASO, SE RECOMIENDA A LOS LICITADORES QUE VERIFIQUEN CON
+SUFICIENTES  DÍAS  DE  ANTELACIÓN  EL  CUMPLIMIENTO  DE  LOS  REQUISITOS
+TECNOLÓGICOS  EXIGIDOS  Y  LA  ADECUADA COMPATIBILIDAD  DE  SUS  EQUIPOS  Y
+SISTEMAS CON LA PLATAFORMA.
+En caso de que, por razones técnicas de comunicación no imputables al licitador, no pudiese ha-
+cer efectiva la entrega de la proposición mediante el canal electrónico, el software genera un có-
+digo específico de verificación (huella electrónica) que se almacena en un documento junto con
+el sobre electrónico, antes de realizar el envío. Para que la oferta sea admitida, este docu-
+mento con la Huella Electrónica de la oferta, deberá ser remitido por  correo electrónico
+dentro del plazo de licitación establecido a la dirección siguiente: 
+contratacion@dip-badajoz.es 
+Junto con la huella o bien dentro de las 24 horas siguientes al vencimiento del plazo debe
+hacerse entrega del sobre electrónico generado , por correo electrónico, a la dirección si-
+guiente: 
+__________________________________________________________________________________________________________
+Página 8 de 24
+Firmado por: RAMON GOMEZ DE TEJADA DIAZ
+Cargo: Jefe del Servicio de Gestión Contractual
+Fecha: 27-10-2026 15:03:43
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubrehttps://licitacion.dip-badajoz.es/licitacion
+Página: 8 de 24
+Código de verificación  : bed0bd980d934fb7
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección https://licitacion.dip-
+badajoz.es/licitacion?codigoVerificacion=bed0bd980d934fb7
+
+--- página 9 ---
+PLIEGO DE CLAUSULAS ADMINISTRATIVAS PARTICULARES PARA  PROCEDIMIENTO  ABIERTO
+__________________________________________________________________________________________________________
+contratacion@dip-badajoz.es 
+NO  OBSTANTE  LO  ANTERIOR,  AÚN  CUANDO  SE  CUMPLAN  LOS  REQUISITOS
+SEÑALADOS,  NO  SE  ADMITIRÁN  OFERTAS  ENVIADAS  POR  MEDIOS  ALTERNATIVOS
+(email), CUANDO NO SE ACREDITE QUE LA CAUSA DEL ERROR EN EL ENVÍO POR LA
+PLATAFORMA NO ES IMPUTABLE AL LICITADOR.
+12.2- Notificaciones y comunicaciones
+En  cuanto  a  las  notificaciones  y  comunicaciones relativas  al  presente  expediente
+(subsanación  de  ofertas,  solicitud  de  aclaraciones,  requerimientos  de  documentación,
+notificaciones de adjudicación,…) se efectuarán igualmente de forma electrónica , a través de
+tres pasos:
+- Puesta a Disposición  del Destinatario (en el correo electrónico indicado por el
+propio licitador en el momento de efectuar el Alta en el Portal) 
+- Aceptación mediante firma electrónica por el destinatario. 
+- Acceso al contenido  de la  notificación : una  vez aceptadas, se accederá
+(mediante comparecencia electrónica) al contenido de la misma.
+La suscripción al procedimiento de “Notificaciones Electrónicas” se efectúa automáticamente al
+darse de Alta en la Plataforma.
+La  presentación  de  documentación  por  parte  del  licitador  en  respuesta  de  un
+requerimiento (subsanación,  aclaración  o  documentación  previa  para  adjudicación)  se
+efectuará a través del correspondiente sobre electrónico que se pondrá a su disposición en la
+Plataforma  de  Licitación  Electrónica  de  Diputación.  No  obstante,  en  caso  de  imposibilidad
+técnica del envío a través de la Plataforma, el licitador puede remitir el documento a través de la
+Sede  Electrónica  de  Diputación  (siempre  dentro  del  plazo  correspondiente)  y  enviar  el
+justificante de la sede electrónica al siguiente email: contratacion@dip-badajoz.es
+Los plazos empezarán a contar desde  el aviso  de notificación  (si el acto objeto de la
+notificación se publica el mismo día en el Perfil del Contratante) o desde la recepción  de la
+notificación (si el acto no se publica el mismo día en el Perfil del Contratante). 
+Transcurridos 10 días naturales desde la Puesta a Disposición de la notificación, si el
+destinatario no la acepta o rechaza, se considerará expirada y se dará por cumplido
+formalmente el trámite de notificación. 
+Los certificados de envíos y entrega de notificaciones quedan almacenados en el sistema de
+forma  automática  desde  el  momento  de  puesta  a  disposición  de  las  mismas,  con  plenas
+garantías jurídicas.
+Cláusula 13.- Justificante de entrega
+El envío del Sobre Electrónico se efectúa a través de la Plataforma de Licitación Electrónica en
+dos fases:
+1) En primer lugar se envía la Huella Electrónica del sobre generado
+2) En segundo lugar se envía el contenido del Sobre propiamente dicho
+Tras el envío de la Huella Electrónica, el sistema generará automáticamente el justificante de
+entrega, que podrá descargarse el licitador en su equipo informático
+__________________________________________________________________________________________________________
+Página 9 de 24
+Firmado por: RAMON GOMEZ DE TEJADA DIAZ
+Cargo: Jefe del Servicio de Gestión Contractual
+Fecha: 27-10-2026 15:03:43
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubrehttps://licitacion.dip-badajoz.es/licitacion
+Página: 9 de 24
+Código de verificación  : bed0bd980d934fb7
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección https://licitacion.dip-
+badajoz.es/licitacion?codigoVerificacion=bed0bd980d934fb7
+
+--- página 10 ---
+PLIEGO DE CLAUSULAS ADMINISTRATIVAS PARTICULARES PARA  PROCEDIMIENTO  ABIERTO
+__________________________________________________________________________________________________________
+Cláusula 14.- Mesa de Contratación.
+De conformidad con el art. 326 de la LCSP , no se constituye la Mesa de contratación en el
+presente expediente.
+Cláusula 15.- Criterios Objetivos de Valoración de Ofertas. 
+El órgano de contratación valorará las ofertas de acuerdo con los siguientes criterios objetivos:
+ CRITERIOS  CUANTIFICABLES  MEDIANTE  APLICACIÓN  DE  FÓRMULAS  
+MATEMÁTICAS:
+1) OFERTA ECONÓMICA:  La  oferta  económica  no  podrá  superar  el  presupuesto  de
+licitación.  La  valoración  de  la  oferta  económica  se  efectuará  sin  tomar  en
+consideración el Impuesto sobre el Valor Añadido que recae sobre el mismo . De 0
+a 100 puntos, mediante la aplicación de la siguiente fórmula:
+a) Se otorgarán 0 puntos al licitador cuya oferta coincida con el precio de licitación.
+b) Para el resto de licitadores se aplicará la siguiente fórmula
+P= 100 * (1 – (PBJ – PBO) / 50)
+P: Puntuación obtenida.
+PBJ: Porcentaje de baja máximo
+PBO: Porcentaje de baja del licitador que se puntúa
+Nota: el PB se calculará de la siguiente forma:
+PB= (Precio Licitación – Precio Ofertado)* 100 / Precio Licitación
+De conformidad con el artículo 145 de la LCSP, las razones por las que se establecen estos
+criterios y su correspondiente ponderación son las siguientes:
+1) El criterio del precio esta directamente relacionado con el principio de eficiencia en la
+utilización de fondos públicos, de conformidad con el principio consagrado en el artículo
+1 del citado texto legal. En el presente caso, se le otorga una importante ponderación
+(100 %).
+2) Todos  los  criterios  garantizan  la posibilidad  de  que  las  ofertas  sean  evaluadas  en
+condiciones de competencia efectiva, y permiten identificar la oferta que presenta la
+mejor relación calidad-precio.
+De conformidad con el artículo 147 de la LCSP, en caso de empate entre dos o más licitadores,
+tendrá preferencia en la adjudicación la proposición presentada por aquella empresa que, al
+vencimiento del plazo de presentación de ofertas, tenga en su plantilla un mayor porcentaje de
+trabajadores con discapacidad superior al fijado en la normativa aplicable y, de ser varias las
+empresas  que  acrediten  tal  circunstancia,  será  preferida  la  proposición  presentada  por  el
+licitador  que  disponga  del  mayor  porcentaje  de  trabajadores  fijos  con  discapacidad  en  su
+plantilla.
+De la misma forma, y en caso de igualdad de condiciones, tanto en la puntuación otorgada como
+en la circunstancia anteriormente descrita, serán preferidas las proposiciones presentadas por
+las empresas de inserción previstas en la Ley 44/2007, de 13 de diciembre, para la regulación
+del régimen de empresas de inserción, que cumplan con los requisitos establecidos en dicha
+normativa para tener esa consideración.
+__________________________________________________________________________________________________________
+Página 10 de 24
+Firmado por: RAMON GOMEZ DE TEJADA DIAZ
+Cargo: Jefe del Servicio de Gestión Contractual
+Fecha: 27-10-2026 15:03:43
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubrehttps://licitacion.dip-badajoz.es/licitacion
+Página: 10 de 24
+Código de verificación  : bed0bd980d934fb7
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección https://licitacion.dip-
+badajoz.es/licitacion?codigoVerificacion=bed0bd980d934fb7
+
+--- página 11 ---
+PLIEGO DE CLAUSULAS ADMINISTRATIVAS PARTICULARES PARA  PROCEDIMIENTO  ABIERTO
+__________________________________________________________________________________________________________
+Cuando no sea posible aplicar estos criterios, o cuando aplicándolos persista el empate, será
+preferida la proposición presentada por aquella empresa que, conforme a lo regulado en el
+artículo 34.2 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y
+hombres, al momento de finalización del plazo de presentación de ofertas, disponga de medidas
+tendentes a promover la igualdad efectiva de mujeres y hombres en el mercado de trabajo. A
+estos efectos, y conforme al artículo 11.1 d) del Real Decreto 1615/2009, de 26 de octubre, se
+entenderá que cumplen tal requisito las poseedoras del distintivo empresarial.
+En los casos en que en aplicación de los criterios anteriores persistiera el empate, éste se
+resolverá a favor de la empresa que haya presentado la oferta económica más baja.
+En  último caso,  de  persistir el  empate,  se  decidirá mediante  un  sorteo  por el sistema  de
+insaculación, el cual se celebrará en acto público.
+Cláusula 16.- Examen de las proposiciones.
+De conformidad con el art. 159.6 de la LCSP NO se efectuará  acto público  de apertura de
+proposiciones, toda vez que el sistema acredita que la apertura de las proposiciones no
+se efectúa hasta la finalización del plazo de presentación de ofertas. 
+El  Servicio  de  Gestión  Contractual,  teniendo  en  cuenta,  en  su  caso,  el  informe  técnico
+correspondiente,  clasificará las proposiciones, y formulará la propuesta de adjudicación que
+estime pertinente al órgano de contratación, previa exclusión de las ofertas incursas en baja
+anormal en caso de no considerarse debidamente justificadas: de esta forma, en aplicación de lo
+establecido en el art. 149 de la LCSP, se considerarán incursas en BAJA ANORMAL aquellas
+ofertas que se aparten en más de un 10% a la baja de la media de las ofertas presentadas
+(en caso de que haya un sólo licitador, se considerará anormal la oferta que se aparte en más de
+un 20% del presupuesto de licitación).
+En caso de que la oferta del licitador con mayor puntuación incurra en baja anormal, el Servicio
+de Gestión Contractual llevará a cabo los siguientes trámites:
+- Para la valoración de las proposiciones formuladas por distintas empresas pertenecientes a
+un  mismo grupo empresaria l, y a los efectos  de la determinación de los licitadores
+incursos en baja anormal o desproporcionada, se tomará únicamente la oferta más baja,
+produciéndose la aplicación de los efectos derivados del procedimiento establecido para
+la apreciación de ofertas anormales también respecto de las restantes ofertas formuladas
+por las empresas del grupo. Para identificar la existencia de empresas pertenecientes a
+un mismo grupo, se contactará con los distintos licitadores para que se pronuncien al
+efecto.
+- Se dará audiencia, por un plazo máximo de 5 días hábiles, a la empresa incursa en BAJA
+ANORMAL, para que justifique y desglose razonadamente el bajo nivel de los precios o
+del parámetro que haya definido para apreciar la anormalidad de la oferta.
+- A la vista de las alegaciones que se presenten, y previos los informes técnicos oportunos, el
+Servicio  de  Contratación  elevará  propuesta  motivada  al  órgano  de  contratación,
+proponiendo la exclusión en la clasificación  de la oferta que no haya sido justificada o
+que se estime que no puede ser cumplida.
+Cláusula 17.- Adjudicación
+El Servicio de Gestión Contractual, de acuerdo con lo dispuesto en el artículo 159 de la LCSP,
+comprobará en el ROLECE (o Registro de la Comunidad Autónoma de Extremadura) la debida
+inscripción del licitador (incluida los poderes del representante y la inexistencia de prohibición
+para contratar) y, en su caso, elevará la propuesta de adjudicación al órgano de contratación. En
+__________________________________________________________________________________________________________
+Página 11 de 24
+Firmado por: RAMON GOMEZ DE TEJADA DIAZ
+Cargo: Jefe del Servicio de Gestión Contractual
+Fecha: 27-10-2026 15:03:43
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubrehttps://licitacion.dip-badajoz.es/licitacion
+Página: 11 de 24
+Código de verificación  : bed0bd980d934fb7
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección https://licitacion.dip-
+badajoz.es/licitacion?codigoVerificacion=bed0bd980d934fb7
+
+--- página 12 ---
+PLIEGO DE CLAUSULAS ADMINISTRATIVAS PARTICULARES PARA  PROCEDIMIENTO  ABIERTO
+__________________________________________________________________________________________________________
+su  caso,  se  solicitará  al  licitador  para  que,  en  el  plazo  de  siete  días  hábiles,  aporte  la
+documentación que no conste en el registro.
+De  conformidad  con  el  artículo  28 de  la  Ley  39/2015,  de  1  de  octubre, de Procedimiento
+Administrativo  Común  de  las  Administraciones  Públicas  (redacción  según  la  Ley  Orgánica
+3/2018,  de  5  de  diciembre,  de  Protección  de  Datos  Personales  y  Garantía  de  Derechos
+Digitales) la Diputación de Badajoz recabará la documentación justificativa de hallarse al
+corriente en el cumplimiento de sus obligaciones tributarias estatales, así como de las
+obligaciones  con  la  Seguridad  Social. No  obstante,  el  adjudicatario  podrá  ejercitar  sus
+derechos de acceso, rectificación, cancelación y, en su caso, oposición, sobre el tratamiento de
+sus datos de carácter personal frente a la Diputación Provincial de Badajoz C/ Felipe Checa 23,
+06071 Badajoz o en la dirección de correo electrónico dpd@dip-badajoz.es.
+La adjudicación se acordará por el órgano de contratación en resolución motivada dentro de los
+cinco días hábiles siguientes a la recepción de la documentación.
+La resolución de adjudicación o de declaración de desierto del procedimiento tendrá lugar en el
+plazo máximo de dos meses (o 15 días en el caso de que el único criterio sea el precio), a contar
+desde la apertura de las ofertas. No obstante el plazo se ampliará en 15 días en caso de
+existencia de ofertas anormales. De no dictarse la adjudicación en dicho plazo los licitadores
+tienen derecho a retirar su oferta.
+Corresponde al órgano de contratación decidir sobre la no adjudicación del contrato antes de la
+formalización, por razones de interés público debidamente justificadas. También podrá desistir,
+antes de la formalización cuando se aprecie una infracción no subsanable de las normas de
+preparación del contrato o de las reguladoras del procedimiento de adjudicación.
+Cláusula 18.- Notificaciones y Anuncios
+Dictada la resolución de adjudicación por el órgano de contratación, el Servicio de Gestión
+Contractual notificará a todos los licitadores el contenido de la misma, de conformidad con lo
+establecido en el artículo 151 de la LCSP. Asimismo, insertará en el Perfil del Contratante de la
+Diputación de Badajoz el correspondiente Anuncio de Adjudicación.
+VII. GARANTÍA DEFINITIVA
+Cláusula 19.- Exención de la garantía definitiva
+De conformidad con el apartado 6 del art.159, no se exigirá constitución de garantía definitiva.
+VIII. FORMALIZACIÓN DEL CONTRATO. CESIÓN Y SUBCONTRATACIÓN. 
+Cláusula 20.- Exención formalización contrato
+De conformidad con el apartado 6 del art.159, no será necesaria la formalización del contrato,
+bastando la firma de aceptación por el contratista de la resolución de adjudicación.
+No obstante, en el caso de que el contrato fuera adjudicado a una Unión Temporal de Empresas
+deberán éstas acreditar la constitución de la misma en escritura pública con anterioridad al inicio
+del contrato, acompañando copia del CIF asignado.
+Cuando por causas imputables al adjudicatario no se aceptara la resolución de adjudicación, se
+le exigirá el 3% del presupuesto base de licitación (IVA no incluido) en concepto de penalidad, y
+el contrato se adjudicará al licitador siguiente por el orden en que hayan quedado clasificadas
+las ofertas.
+__________________________________________________________________________________________________________
+Página 12 de 24
+Firmado por: RAMON GOMEZ DE TEJADA DIAZ
+Cargo: Jefe del Servicio de Gestión Contractual
+Fecha: 27-10-2026 15:03:43
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubrehttps://licitacion.dip-badajoz.es/licitacion
+Página: 12 de 24
+Código de verificación  : bed0bd980d934fb7
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección https://licitacion.dip-
+badajoz.es/licitacion?codigoVerificacion=bed0bd980d934fb7
+
+--- página 13 ---
+PLIEGO DE CLAUSULAS ADMINISTRATIVAS PARTICULARES PARA  PROCEDIMIENTO  ABIERTO
+__________________________________________________________________________________________________________
+La fecha de aceptación de la resolución de adjudicación se publicará en el Perfil del contratante
+de Diputación.
+Cláusula 21.- Cesión y subcontratación
+Los derechos y obligaciones dimanantes del contrato podrán ser cedidos a un tercero siempre
+que se cumplan los requisitos establecidos en el artículo 214 de la LCSP, siempre que concurran
+los requisitos establecidos en el citado artículo. El cesionario quedará subrogado en la posición
+del cedente.
+La subcontratación de la realización parcial del contrato estará sujeta a los requisitos y efectos
+establecidos en el artículo 215 de la LCSP. A tal efecto, los licitadores que tengan previsto
+realizar subcontrataciones deberán comunicarlo al órgano de contratación por escrito, tras la
+adjudicación del contrato y, a más tardar, cuando se inicie la ejecución del mismo, señalando la
+parte del contrato que se pretende subcontratar, así como la identidad, datos de contacto y
+representante legal del subcontratista. Además deberá justificar la aptitud del subcontratista, por
+referencia a los elementos técnicos y humanos que disponga y a su experiencia, acreditando
+que el mismo no se encuentra incurso en prohibición de contratar. Igualmente deberá notificarse
+por el contratista cualquier modificación que sufra esta información durante la ejecución del
+contrato.
+IX. EJECUCIÓN DEL CONTRATO: DURACIÓN. PAGO DEL PRECIO
+Cláusula 22.- Ejecución del contrato. Protección de Datos
+El objeto del contrato se ajustará al presente pliego y al Pliego de Prescripciones Técnicas que
+ha de regir el presente contrato, así como a la oferta presentada por el adjudicatario cuando ésta
+mejore dicho pliego. La ejecución se realizará a riesgo y ventura del contratista.
+La  prestación de los servicios  previstos  en  la  presente  contratación  excluye toda  clase de
+concesión o permiso de acceso, comunicación o cesión de datos personales. Los citados datos
+son confidenciales y quedan sujetos al más estricto secreto profesional, deber que subsistirá
+incluso después de finalizado el presente contrato. 
+El adjudicatario deberá cumplir y hacer cumplir a sus respectivos empleados los deberes de
+confidencialidad  y  secreto  durante  la  prestación  de  servicios,  para  lo  que  establecerá  las
+medidas necesarias, entre ellas informar e instruir a sus empleados, debiendo en todo momento
+cumplir con las normas y medidas de seguridad que la Administración establezca. 
+La empresa y en particular el personal por ella empleado, se abstendrá de todo acto que
+comprometa la confidencialidad, secreto y seguridad de los datos. En concreto se abstendrá de
+acceder deliberadamente a datos de carácter personal y de la lectura de documentos, ficheros y
+datos que pudiera encontrar en el desempeño de su trabajo. 
+Queda  terminantemente prohibida la grabación o copiado de todo dato, información, papel,
+documento o soporte de información así como su extracción de las oficinas de la Administración
+o su envío. 
+En caso de que por algún motivo involuntario se tuviese acceso o conociesen datos, el personal
+de la empresa adjudicataria queda obligado a no comunicarlos a otras personas.
+Cláusula 23.- Duración del contrato 
+La duración del contrato será  hasta el 31 de diciembre de 2028,   a contar a partir del día
+siguiente a la firma de aceptación por el contratista de la resolución de adjudicación. 
+__________________________________________________________________________________________________________
+Página 13 de 24
+Firmado por: RAMON GOMEZ DE TEJADA DIAZ
+Cargo: Jefe del Servicio de Gestión Contractual
+Fecha: 27-10-2026 15:03:43
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubrehttps://licitacion.dip-badajoz.es/licitacion
+Página: 13 de 24
+Código de verificación  : bed0bd980d934fb7
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección https://licitacion.dip-
+badajoz.es/licitacion?codigoVerificacion=bed0bd980d934fb7
+
+--- página 14 ---
+PLIEGO DE CLAUSULAS ADMINISTRATIVAS PARTICULARES PARA  PROCEDIMIENTO  ABIERTO
+__________________________________________________________________________________________________________
+Cuando al vencimiento del contrato no se hubiera formalizado el nuevo contrato que garantice la
+continuidad de la prestación como consecuencia de incidencias resultantes de acontecimientos
+imprevisibles para el órgano  de  contratación,  y  existan razones de interés público  para  no
+interrumpir  la  prestación,  se  podrá  prorrogar  el  contrato  originario  por  un  periodo  máximo
+adicional de 9 meses (siempre que el anuncio de licitación se haya publicado con una antelación
+de al menos tres meses a la fecha de finalización del contrato originario).
+Cláusula 24.- Pago del precio.
+El pago del precio se realizará contra la presentación de las correspondientes facturas, que
+deberá presentarse de conformidad con lo establecido en el Reglamento del Registro Provincial
+de Facturas. 
+La factura electrónica se presentará a través del portal web del Punto General de Entrada de
+Facturas de la Administración General del Estado (FACE), como ventanilla electrónica única de
+entrada de todas las facturas electrónicas dirigidas a la Diputación Provincial y resto del Sector
+Público Provincial (organismos autónomos y consorcios).
+Las facturas deberán incorporar la información señalada en el artículo 7 del Reglamento  del
+Registro Provincial de Facturas, incluidos los datos de la unidad destinataria , especificando
+los siguientes campos: 
+- Oficina Contable: LA0002820
+- Órgano Gestor: LA0000362
+- Unidad Tramitadora: LA0000362
+Además deberán incorporar la siguiente información:
+- Número del expediente de contratación (606/26)
+- Número del expediente de gasto (CON-SE/2026/10).
+- Número de la operación presupuestaria AD o D (este dato se lo facilitará el centro gestor
+responsable del contrato)
+El número de la operación se reflejará en el campo 3.1.6.1.7 “ Referencia de la Operación,
+Número  de  Pedido,  Contrato,  etc.  del  Receptor” (20  posiciones  máximo),  y  el  número  de
+expediente en el campo 3.1.6.1.5 “Referencia del contrato del Receptor” (20 posiciones máximo)
+Los abonos de las facturas se realizarán mediante transferencia bancaria a la cuenta que el
+adjudicatario designe expresamente.  Los hitos de facturación serán los siguientes: 
+• 40% del importe de adjudicación en el año 2026
+• 30% del importe de adjudicación en el año 2027
+• 30 % del importe de adjudicación en el año 2028
+En el caso de efectuarse  modificaciones, éstas serán  facturadas de forma independiente
+respecto del contrato inicial.
+El  órgano  administrativo  con  competencias  en  materia  de  contabilidad  pública  será  la
+Intervención Provincial.
+Cláusula 25.- Obligaciones  del  adjudicatario. Reglas especiales respecto  del  personal
+laboral de la empresa contratista
+El adjudicatario deberá:
+__________________________________________________________________________________________________________
+Página 14 de 24
+Firmado por: RAMON GOMEZ DE TEJADA DIAZ
+Cargo: Jefe del Servicio de Gestión Contractual
+Fecha: 27-10-2026 15:03:43
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubrehttps://licitacion.dip-badajoz.es/licitacion
+Página: 14 de 24
+Código de verificación  : bed0bd980d934fb7
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección https://licitacion.dip-
+badajoz.es/licitacion?codigoVerificacion=bed0bd980d934fb7
+
+--- página 15 ---
+PLIEGO DE CLAUSULAS ADMINISTRATIVAS PARTICULARES PARA  PROCEDIMIENTO  ABIERTO
+__________________________________________________________________________________________________________
+ Cumplir  el  contrato  conforme  tanto  al  presente  Pliego  como  al  de  Prescripciones
+Técnicas, así como a la oferta realizada por él.
+ Pagar todos los gastos de anuncio, constitución y devolución de fianzas y cuantos otros
+hubiere ocasionado la licitación.
+ Responder de las penalidades impuestas en aplicación de los supuestos previstos en el
+presente pliego. Las penalidades se impondrán por acuerdo del órgano de contratación
+(previa  audiencia  del  contratista)  a  propuesta  del  Responsable  del  Contrato,  y  de
+conformidad con lo establecido en el art. 194 de la LCSP. Esta penalidades deberán ser
+proporcionales a la gravedad del incumplimiento y la cuantía de cada una de ellas no
+exceder del 10% del precio del contrato (IVA no incluido), ni el total superar el 50% del
+mismo. 
+ Indemnizar los daños  y perjuicios producidos a terceros como consecuencia de las
+operaciones  desarrolladas  para la ejecución del contrato,  todo  ello en  los  términos
+establecidos en la LCSP.
+ En aplicación de lo dispuesto en el artículo 202 de la LCSP tiene la consideración de
+condición especial de ejecución el  cumplimiento por parte del adjudicatario de las
+disposiciones legales y reglamentarias en vigor en materia laboral y de seguridad
+social respecto de los trabajadores  vinculados a la ejecución del contrato (en
+concreto  abono  de  salarios  y  cotizaciones  a  la  seguridad  social),  y  de  las
+obligaciones derivadas  de convenios colectivos en  vigor pudiendo la  Administración
+exigir del contratista la presentación de la documentación que estime pertinente a tal
+efecto. En caso de incumplimiento y en aras de evitar responsabilidades solidarias como
+las reguladas en el artículo 42.2 del Real Decreto Legislativo 1/1995, de 24 de marzo,
+por el que se aprueba el Texto Refundido de la Ley del Estatuto de los trabajadores, la
+Diputación Provincial se reserva el ejercicio de cuantas medidas sean precisas para
+garantizar  el  cumplimiento  de  esta  normativa,  incluyendo  la  facultad  de  retener
+cantidades  a  cuenta  de  las  facturas  a  favor  del  contratista  para  efectuar
+directamente el abono de estos conceptos al personal , conforme a lo previsto en el
+artículo 198.7. a) de la LCSP, y todo ello sin perjuicio de la resolución del contrato
+prevista en el artículo 211 y 212 de la citada ley.
+ Igualmente, en aplicación de lo establecido en el citado artículo 202 de la LCSP , se
+establece  como  condición  especial  de  ejecución  de  carácter  social,  ético  o
+medioambiental la siguiente:  en toda la documentación, publicidad, imagen o material
+que  se  genere  como  motivo  de  la  ejecución  del  contrato,  la  empresa  o  entidad
+adjudicataria deberá emplear un uno no sexista del lenguaje, evitar cualquier imagen
+discriminatoria  de  las  mujeres  o  estereotipos  sexistas  y  fomentar  una  imagen  con
+valores de igualdad, presencia equilibrada, diversidad, corresponsabilidad y pluralidad
+de roles o identidades de género.
+ El adjudicatario deberá cumplir el procedimiento interno, aprobado por la Diputación
+Provincial de Badajoz, de coordinación de actividades empresariales, según establece el
+RD 171/2004, de 30 de enero .
+ En general el cumplimiento de las prescripciones y normas que sean de aplicación de
+las contenidas en la legislación vigente sobre contratación administrativa.
+En relación con el personal laboral el adjudicatario tendrá las siguientes obligaciones:
+__________________________________________________________________________________________________________
+Página 15 de 24
+Firmado por: RAMON GOMEZ DE TEJADA DIAZ
+Cargo: Jefe del Servicio de Gestión Contractual
+Fecha: 27-10-2026 15:03:43
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubrehttps://licitacion.dip-badajoz.es/licitacion
+Página: 15 de 24
+Código de verificación  : bed0bd980d934fb7
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección https://licitacion.dip-
+badajoz.es/licitacion?codigoVerificacion=bed0bd980d934fb7
+
+--- página 16 ---
+PLIEGO DE CLAUSULAS ADMINISTRATIVAS PARTICULARES PARA  PROCEDIMIENTO  ABIERTO
+__________________________________________________________________________________________________________
+ Corresponde exclusivamente a la empresa contratista la selección del personal  que,
+reuniendo los requisitos de titulación y experiencia exigidos en los pliegos (en los casos
+en que se establezcan requisitos específicos de titulación y experiencia), formará parte
+del equipo de trabajo adscrito a la ejecución del contrato, sin perjuicio de la verificación
+por parte de la "entidad contratante" del cumplimiento de aquellos requisitos.
+ La empresa contratista procurará que exista estabilidad en el equipo de trabajo, y que
+las variaciones en su composición sean puntuales y obedezcan a razones justificadas,
+en orden a no alterar el buen funcionamiento del servicio (cuando existan razones que
+justifiquen esta exigencia), informando en todo momento a la" entidad contratante".
+ La empresa contratista asume la obligación de ejercer de modo real, efectivo y continuo,
+sobre  el  personal  integrante  del  equipo  de  trabajo  encargado  de  la  ejecución  del
+contrato, el poder de dirección  inherente a todo empresario. En particular, asumirá la
+negociación y pago de los salarios, la concesión de permisos, licencias y vacaciones, la
+sustituciones de los trabajadores en casos de baja o ausencia, las obligaciones legales
+en  materia  de  Seguridad  Social,  incluido  el  abono  de  cotizaciones  y  el  pago  de
+prestaciones, cuando proceda, las obligaciones legales en materia de prevención de
+riesgos laborales, el ejercicio de la potestad disciplinaria, así como cuantos derechos y
+obligaciones se deriven de la relación contractual entre empleado y empleador.
+ La empresa contratista velará especialmente por que los  trabajadores adscritos a la
+ejecución del contrato  desarrollen su actividad  sin extralimitarse en las funciones
+desempeñadas respecto  de la actividad delimitada  en  los  pliegos  como  objeto del
+contrato.
+ La  empresa  contratista  estará  obligada  a  ejecutar  el  contrato  en  sus  propias
+dependencias o instalaciones  salvo que, excepcionalmente, sea autorizada a prestar
+sus servicios en las dependencias de los entes, organismos y entidades que forman
+parte del sector público (o se indiquen expresamente otros en los pliegos que rigen la
+licitación). En este caso, el personal de la empresa contratista ocupará espacios de
+trabajo diferenciados del que ocupan los empleados públicos. Corresponde también a la
+empresa contratista velar por el cumplimiento de esta obligación. En el pliego deberá
+hacerse constar motivadamente la necesidad de que, para la ejecución del contrato, los
+servicios se presten en las dependencias de la Diputación Provincial de Badajoz y/o sus
+Áreas y Entidades vinculadas o dependientes.
+ La  empresa  contratista  deberá  designar  al  menos  un  coordinador  técnico  o
+responsable (según las características del servicio externalizado pueden establecerse
+distintos sistemas de organización en este punto), integrado en su propia plantilla, que
+tendrá entre sus obligaciones las siguientes:
+- Actuar como interlocutor de la empresa contratista frente a la 'entidad contratante",
+canalizando la comunicación entre la empresa contratista y el personal integrante del
+equipo de trabajo adscrito al contrato, de un lado, y la "entidad contratante", de otro
+lado, en todo lo relativo a las cuestiones derivadas de la ejecución del contrato.
+- Distribuir el trabajo  entre el personal encargado de la ejecución del contrato, e
+impartir  a  dichos  trabajadores  las  órdenes  e  instrucciones  de  trabajo  que  sean
+necesarias en relación con la prestación del servicio contratado.
+- Supervisar el correcto desempeño por parte del personal integrante del equipo de
+trabajo de las funciones que tienen encomendadas, así como controlar la asistencia
+de dicho personal al puesto de trabajo.
+__________________________________________________________________________________________________________
+Página 16 de 24
+Firmado por: RAMON GOMEZ DE TEJADA DIAZ
+Cargo: Jefe del Servicio de Gestión Contractual
+Fecha: 27-10-2026 15:03:43
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubrehttps://licitacion.dip-badajoz.es/licitacion
+Página: 16 de 24
+Código de verificación  : bed0bd980d934fb7
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección https://licitacion.dip-
+badajoz.es/licitacion?codigoVerificacion=bed0bd980d934fb7
+
+--- página 17 ---
+PLIEGO DE CLAUSULAS ADMINISTRATIVAS PARTICULARES PARA  PROCEDIMIENTO  ABIERTO
+__________________________________________________________________________________________________________
+- Organizar  el  régimen  de  vacaciones del  personal  adscrito  a  la  ejecución  del
+contrato, debiendo a tal efecto coordinarse adecuadamente la empresa contratista
+con  la  "entidad  contratante", a efectos  de  no  alterar el  buen  funcionamiento  del
+servicio.
+- Informar a  la  "entidad  contratante"  acerca  de  las  variaciones,  ocasionales  o
+permanentes, en la composición del equipo de trabajo adscrito a la ejecución del
+contrato.
+- Cumplir  con  las  obligaciones  relativas  al  pago  de  subcontratistas  y
+proveedores según lo establecido en el presente pliego y en la legislación vigente.
+ De conformidad con lo establecido en el artículo 308.2 de la LCSP , a la extinción del
+contrato no podrá producirse en ningún caso la consolidación de las personas  que
+hayan realizado los trabajos objeto del contrato como personal del ente, organismo o
+entidad del sector público contratante . A tal fin, los empleados o responsables de la
+Administración  deberán  abstenerse  de  realizar  actos  que  impliquen  el  ejercicio  de
+facultades que, como parte de la relación jurídico laboral, le corresponden a la empresa
+contratante.
+Cláusula 26.- Derechos del adjudicatario:
+El adjudicatario tendrá derecho a:
+ Ser indemnizado por los daños y perjuicios que efectivamente sufra como consecuencia
+de la suspensión definitiva del contrato, acordada por la Administración contratante.
+ Percibir el pago de la/s factura/s dentro del plazo de 30 días, de conformidad con lo
+establecido en el art. 198 de la LCSP.
+ Instar el pago del interés de demora en los términos establecidos en la legislación
+vigente  en  la materia  (Ley  3/2004,  de  29  de  diciembre,  por la que  se  establecen
+Medidas de Lucha Contra la Morosidad en las Operaciones Comerciales), en caso de
+incumplimiento del plazo del pago a que hace referencia el punto anterior.
+ En general, cuantos derechos puedan derivarse del contrato en cada caso, con arreglo
+a  las  normas  y  prescripciones  de  la  vigente  legislación  sobre  contratación  de  las
+Administraciones Públicas, y en particular de las Corporaciones locales.
+X. MODIFICACIONES Y RESOLUCIÓN DEL CONTRATO
+Cláusula 27.- Modificación
+De conformidad con lo establecido en los artículos 203 y siguientes de la LCSP, sólo podrá
+acordarse la modificación del contrato en los supuestos expresamente previstos en el artículo
+205. 
+El procedimiento para la tramitación del expediente de modificación será el siguiente:
+1. Propuesta de la Administración o petición del contratista.
+2. Audiencia del contratista e informe del servicio competente a evacuar en ambos casos
+en un plazo de cinco días hábiles. 
+__________________________________________________________________________________________________________
+Página 17 de 24
+Firmado por: RAMON GOMEZ DE TEJADA DIAZ
+Cargo: Jefe del Servicio de Gestión Contractual
+Fecha: 27-10-2026 15:03:43
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubrehttps://licitacion.dip-badajoz.es/licitacion
+Página: 17 de 24
+Código de verificación  : bed0bd980d934fb7
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección https://licitacion.dip-
+badajoz.es/licitacion?codigoVerificacion=bed0bd980d934fb7
+
+--- página 18 ---
+PLIEGO DE CLAUSULAS ADMINISTRATIVAS PARTICULARES PARA  PROCEDIMIENTO  ABIERTO
+__________________________________________________________________________________________________________
+3. Informe, en su caso, de la Asesoría Jurídica y de la Intervención, a evacuar en el mismo
+plazo anterior.
+4. Resolución  motivada  del  órgano  que  haya  celebrado  el  contrato  y  subsiguiente
+notificación al contratista.
+5. Firma de aceptación de la modificación.
+Una vez aprobada la modificación, deberá publicarse el correspondiente anuncio en el Perfil del
+Contratante en el plazo de 5 días.
+Cláusula 28.- Resolución
+La resolución del contrato tendrá lugar en los supuestos que se señalan en este Pliego y en los
+fijados en los artículos 211 y 313 de la LCSP, y en las condiciones y con los efectos señalados
+en los artículos 212, 213 y 313  de la citada norma.
+En caso de incumplimiento por culpa del contratista se impondrá una penalidad del 5% del
+precio de adjudicación (IVA no incluido), sin perjuicio de la obligación de indemnizar los daños y
+perjuicios ocasionados a la Administración en lo que excedan del importe señalado.
+Cláusula 29.- Pago a subcontratistas y suministradores por parte del adjudicatario
+El contratista estará obligado a abonar a los subcontratistas o suministradores el precio pactado
+en los plazos y condiciones fijados en el art. 216 de la LCSP.
+El contratista deberá remitir al órgano de contratación, cuando éste lo solicite, relación detallada
+de  aquellos  subcontratistas  o  suministradores  que  participen  en  el  contrato  cuando  se
+perfeccione su participación, junto con aquellas condiciones de subcontratación o suministro de
+cada uno de ellos que guarden una relación directa con el plazo de pago. Esta información
+deberá presentarse en un  plazo máximo de 15 días  desde su solicitud. Asimismo, deberán
+aportar, a solicitud del órgano de contratación, justificante de  cumplimiento de los pagos  a
+aquéllos, una vez terminada la prestación, dentro de los plazos de pago legalmente establecidos
+en el artículo 217 de la LCSP y en la Ley 3/2004, de 29 de diciembre, por la que se establecen
+medidas de lucha contra la morosidad en las operaciones comerciales, en lo que le sea de
+aplicación. Esta documentación  deberá presentarse en un plazo máximo de 15 días  desde su
+solicitud.
+A tal efecto, los incumplimientos de estas obligaciones se clasifican de la siguiente forma:
+- Se considerarán faltas leves:
+ el  retraso  en  más  de  15  días  naturales  en  la  entrega  de  la
+información/documentación solicitada.
+ el retraso en más de 15 días hábiles en el pago de una factura alguno de los
+subcontratistas o suministradores.
+- Se considerarán  faltas graves:
+ el  retraso  en  más  de  30  días  naturales  en  la  entrega  de  la
+información/documentación solicitada.
+ la ocultación de datos o falsedad en la información/documentación presentada.
+ el retraso en más de 30 días hábiles en el pago de una factura a alguno de los
+subcontratistas o suministradores.
+- Se considerarán faltas muy graves.
+__________________________________________________________________________________________________________
+Página 18 de 24
+Firmado por: RAMON GOMEZ DE TEJADA DIAZ
+Cargo: Jefe del Servicio de Gestión Contractual
+Fecha: 27-10-2026 15:03:43
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubrehttps://licitacion.dip-badajoz.es/licitacion
+Página: 18 de 24
+Código de verificación  : bed0bd980d934fb7
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección https://licitacion.dip-
+badajoz.es/licitacion?codigoVerificacion=bed0bd980d934fb7
+
+--- página 19 ---
+PLIEGO DE CLAUSULAS ADMINISTRATIVAS PARTICULARES PARA  PROCEDIMIENTO  ABIERTO
+__________________________________________________________________________________________________________
+ la imposición de tres sanciones por infracciones graves.
+ el  retraso  en  más  de  60  días  naturales  en  la  entrega  de  la
+información/documentación solicitada.
+ el retraso en más de 60 días hábiles en el pago de una factura a alguno de los
+subcontratistas o suministradores.
+Para cada infracción podrán imponerse las siguientes sanciones:  
+ Falta leve: podrá imponerse una sanción equivalente al 1% del precio del contrato
+como máximo.
+ Falta grave: podrá imponerse una sanción equivalente al 5% del precio del contrato
+como máximo.
+ Falta muy grave: podrá imponerse una sanción equivalente al 10% del precio del
+contrato como máximo.
+Además, el cumplimiento de estas obligaciones tendrá la consideración de condición esencial de
+ejecución del contrato, de forma que su incumplimiento será causa de resolución del contrato
+cuando sea constitutivo de falta muy grave, todo ello de conformidad con lo establecido en el
+artículo 211 de la LCSP. Por tanto, en estos casos, la Administración contratante, en lugar de
+acordar la imposición de penalidades, podrá optar por la resolución de contrato.
+Las penalizaciones serán impuestas por el órgano competente, previa audiencia de la empresa
+adjudicataria,  mediante  la  correspondiente  resolución.  El  importe  de  la  penalización  será
+deducido de la primera factura que se extienda (una vez que se apruebe la imposición de la
+misma) o de las sucesivas en caso de ser esta insuficiente. En su defecto, se harán efectivas
+sobre la garantía definitiva depositada.
+Los  subcontratistas  no  tendrán,  en  ningún  caso,  acción  directa  frente  a  la  Administración
+contratante por las obligaciones contraídas con ellos por el contratista como consecuencia de la
+ejecución del contrato principal y de los subcontratos.
+XI. PRERROGATIVAS DE LA ADMINISTRACIÓN Y JURISDICCIÓN
+Cláusula 30.-  Enumeración de prerrogativas
+El órgano de contratación ostenta la prerrogativa de interpretar el contrato y resolver las dudas
+que  ofrezca  su  cumplimiento.  Igualmente  podrá  modificar,  por  razones  de  interés  público,
+declarar la responsabilidad del contratista, suspender la ejecución de los contratos y acordar su
+resolución, así como determinar los efectos de ésta, todo ello dentro de los límites y con sujeción
+a los requisitos y efectos señalados en el presente pliego y en la LCSP y demás normativa
+contractual vigente.
+Cláusula 31.- Jurisdicción
+Las cuestiones litigiosas surgidas sobre la preparación, adjudicación, efectos, cumplimiento y
+extinción  de  los  contratos  administrativos  serán  resueltas  por  el  órgano  de  contratación
+competente,  cuyos  acuerdos  pondrán  fin  a  la  vía  administrativa  y  serán  inmediatamente
+ejecutivos. Contra los mismos se podrá interponer potestativamente recurso de reposición en el
+plazo de un mes ante el mismo órgano o recurso contencioso administrativo en el plazo de dos
+meses, contados desde el día siguiente al de su notificación o publicación.
+__________________________________________________________________________________________________________
+Página 19 de 24
+Firmado por: RAMON GOMEZ DE TEJADA DIAZ
+Cargo: Jefe del Servicio de Gestión Contractual
+Fecha: 27-10-2026 15:03:43
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubrehttps://licitacion.dip-badajoz.es/licitacion
+Página: 19 de 24
+Código de verificación  : bed0bd980d934fb7
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección https://licitacion.dip-
+badajoz.es/licitacion?codigoVerificacion=bed0bd980d934fb7
+
+--- página 20 ---
+PLIEGO DE CLAUSULAS ADMINISTRATIVAS PARTICULARES PARA  PROCEDIMIENTO  ABIERTO
+__________________________________________________________________________________________________________
+EL JEFE DEL SERVICIO DE
+GESTIÓN CONTRACTUAL
+Fdo.: Ramón Gómez de Tejada Díaz 
+__________________________________________________________________________________________________________
+Página 20 de 24
+Firmado por: RAMON GOMEZ DE TEJADA DIAZ
+Cargo: Jefe del Servicio de Gestión Contractual
+Fecha: 27-10-2026 15:03:43
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubrehttps://licitacion.dip-badajoz.es/licitacion
+Página: 20 de 24
+Código de verificación  : bed0bd980d934fb7
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección https://licitacion.dip-
+badajoz.es/licitacion?codigoVerificacion=bed0bd980d934fb7
+
+--- página 21 ---
+PLIEGO DE CLAUSULAS ADMINISTRATIVAS PARTICULARES PARA  PROCEDIMIENTO  ABIERTO
+__________________________________________________________________________________________________________
+ANEXO I   - MODELO DE PROPOSICIÓN  
+Tipo de contratación: SERVICIOS
+Descripción del objeto: SOPORTE Y ACTUALIZACIÓN DE APLICATIVO PRESTO PARA LOS SERVICIOS TÉCNICOS DE PROMEDIO
+Nombre y apellidos
+D.N.I.
+Calle/Plaza Nº
+Población C.P.
+Actuando en           Nombre propio           Representación de la empresa    ____________________________
+Teléfono de Contacto Fijo:                                                        Móvil: 
+Correo Electrónico
+DECLARO RESPONSABLEMENTE:
+1 Que ostento la representación de la empresa licitadora (en caso de persona jurídica).
+2 Que la empresa o persona física está inscrita (o ha presentado solicitud de inscripción)
+en  el  Registro  Oficial  de  Licitadores  y  Empresas  Clasificadas  del  Sector  Público
+(ROLECE) o en el Registro Oficial de la Comunidad Autónoma de Extremadura, en la
+fecha final de presentación de ofertas siempre que no se vea limitada la concurrencia.
+3 Que, en su caso,  dispone de la autorización necesaria para ejercer la actividad.
+4 Que dispone de una adecuada solvencia económica y técnica para al ejecución del
+contrato.
+5 Que ni el firmante de la declaración, ni la persona física/jurídica a la que represento, ni
+ninguno  de  sus  administradores  o  representantes,  se  hallan  incursos  en  supuesto
+alguno a los que se refiere el artículo 71 de la Ley de Contratos del Sector Público, y no
+forma parte de los Órganos de Gobierno o Administración de la misma ningún alto cargo
+a los que se refiere la Ley 5/2006, de 10 de abril, de Regulación de los Conflictos de
+Intereses  de los Miembros del Gobierno de la Nación y de  los  Altos  Cargos  de la
+Administración General del Estado, así como de la Ley 53/1984, de 26 de diciembre, del
+Personal al Servicio de las Administraciones Públicas o tratarse de cualquiera de los
+cargos electivos regulados en la Ley Orgánica 5/1985, de 19 de junio, del Régimen
+Electoral General, hallándose la persona física/jurídica representada, al corriente en el
+cumplimiento de las obligaciones tributarias y de Seguridad Social impuestas por las
+disposiciones vigentes.
+Asimismo declaro que la empresa desea participar en el presente procedimiento de contratación
+promovido por el Consorcio PROMEDIO,comprometiéndose al cumplimiento de los requisitos y
+condiciones  definidas  tanto  en  el  Pliego  de  Cláusulas  Administrativas  como  en  el  de
+Prescripciones  Técnicas  que  rigen  en  el  procedimiento,  y  que  declaro  conocer  y  aceptar,
+realizando la siguiente 
+OFERTA:
+PRESUPUESTO MÁXIMO DE LICITACIÓN
+ (IVA NO INCLUIDO 14.900 €
+PRECIO OFERTADO 
+(IVA NO INCLUIDO)
+I.V.A.
+TOTAL
+__________________________________________________________________________________________________________
+Página 21 de 24
+Firmado por: RAMON GOMEZ DE TEJADA DIAZ
+Cargo: Jefe del Servicio de Gestión Contractual
+Fecha: 27-10-2026 15:03:43
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubrehttps://licitacion.dip-badajoz.es/licitacion
+Página: 21 de 24
+Código de verificación  : bed0bd980d934fb7
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección https://licitacion.dip-
+badajoz.es/licitacion?codigoVerificacion=bed0bd980d934fb7
+
+--- página 22 ---
+PLIEGO DE CLAUSULAS ADMINISTRATIVAS PARTICULARES PARA  PROCEDIMIENTO  ABIERTO
+__________________________________________________________________________________________________________
+INDIQUE SI LA EMPRESA ES PYME (SI o NO): ____
+En _____________________________ a ____ de ____________ de ______
+Fdo. _____________________________________________
+__________________________________________________________________________________________________________
+Página 22 de 24
+Firmado por: RAMON GOMEZ DE TEJADA DIAZ
+Cargo: Jefe del Servicio de Gestión Contractual
+Fecha: 27-10-2026 15:03:43
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubrehttps://licitacion.dip-badajoz.es/licitacion
+Página: 22 de 24
+Código de verificación  : bed0bd980d934fb7
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección https://licitacion.dip-
+badajoz.es/licitacion?codigoVerificacion=bed0bd980d934fb7
+
+--- página 23 ---
+PLIEGO DE CLAUSULAS ADMINISTRATIVAS PARTICULARES PARA  PROCEDIMIENTO  ABIERTO
+__________________________________________________________________________________________________________
+ANEXO II
+COMPROMISO DE CONSTITUCIÓN EN UNIÓN TEMPORAL DE EMPRESAS.
+Don/Doña: ________________________________, con NIF______________, y residencia en
+___________________,  calle_________________________________,  en  nombre  propio  o
+representando  a  la  entidad  (indicar  denominación,  domicilio  social  y  CIF),
+__________________________________________________________________ en calidad de
+(1),  ______________________,  bajo  su  personal  responsabilidad  y  ante  el  órgano  de
+contratación.
+Don/Doña: ________________________________, con NIF______________, y residencia en
+___________________,  calle_________________________________,  en  nombre  propio  o
+representando  a  la  entidad  (indicar  denominación,  domicilio  social  y  CIF),
+__________________________________________________________________ en calidad de
+(1),  ______________________,  bajo  su  personal  responsabilidad  y  ante  el  órgano  de
+contratación.
+Se comprometen a constituir una unión temporal de empresas (UTE), de conformidad con lo
+establecido en la Ley de Contratos del Sector Público, a efectos de participar en la licitación para
+la adjudicación del contrato _______________________________________________________
+En el caso de resultar adjudicatarias/os se comprometen a formalizar en escritura pública la
+citada unión. La participación en la UTE, de cada uno de los miembros es la que sigue:
+- Empresa ___________________, porcentaje __%.
+- Empresa ___________________, porcentaje __%.
+Como persona representante de la citada unión se nombra a __________________________,
+con domicilio en__________________________________.
+En _________________, a ______ de ____________ de 20 ____
+(Lugar, fecha, firma y sello, en su caso, de cada miembro de la UTE)
+__________________________________________________________________________________________________________
+Página 23 de 24
+Firmado por: RAMON GOMEZ DE TEJADA DIAZ
+Cargo: Jefe del Servicio de Gestión Contractual
+Fecha: 27-10-2026 15:03:43
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubrehttps://licitacion.dip-badajoz.es/licitacion
+Página: 23 de 24
+Código de verificación  : bed0bd980d934fb7
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección https://licitacion.dip-
+badajoz.es/licitacion?codigoVerificacion=bed0bd980d934fb7
+
+--- página 24 ---
+PLIEGO DE CLAUSULAS ADMINISTRATIVAS PARTICULARES PARA  PROCEDIMIENTO  ABIERTO
+__________________________________________________________________________________________________________
+ANEXO III
+DECLARACIÓN RESPONSABLE DE PERTENENCIA A GRUPO EMPRESARIAL
+Don/Doña: ________________________________, con NIF______________, y residencia en
+___________________,  calle_________________________________,  en  nombre  propio  o
+representando  a  la  entidad  (indicar  denominación,  domicilio  social  y  CIF),
+__________________________________________________________________ en calidad de
+(1),  ______________________,  bajo  su  personal  responsabilidad  y  ante  el  órgano  de
+contratación, de conformidad con lo establecido en la Ley de Contratos del Sector Público, a
+efectos  de  participar  en  la  licitación  para  la  adjudicación  del  contrato
+_______________________________________________________
+DECLARA
+Que la empresa que representa en el supuesto de ser persona adjudicataria del contrato:
+Que la empresa que representa
+b) No pertenece a ningún grupo de empresas.
+c) Pertenece al grupo de empresas denominado ___________________________ 
+En cuyo caso declara que (señalar lo que proceda):
+No concurren a la licitación otras empresas del Grupo que se encuentren en alguno de 
+los supuestos del artículo 42.1 del Código de Comercio.
+Concurren a la licitación otras empresas del Grupo que se encuentren en alguno de los 
+supuestos del artículo 42.1 del Código de Comercio.
+En _________________, a ______ de ____________ de 20 ____
+__________________________________________________________________________________________________________
+Página 24 de 24
+Firmado por: RAMON GOMEZ DE TEJADA DIAZ
+Cargo: Jefe del Servicio de Gestión Contractual
+Fecha: 27-10-2026 15:03:43
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubrehttps://licitacion.dip-badajoz.es/licitacion
+Página: 24 de 24
+Código de verificación  : bed0bd980d934fb7
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección https://licitacion.dip-
+badajoz.es/licitacion?codigoVerificacion=bed0bd980d934fb7

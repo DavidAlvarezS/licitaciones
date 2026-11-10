@@ -1,0 +1,590 @@
+
+
+--- página 1 ---
+Página 1
+PLIEGO  DE  PRESCRIPCIONES  TÉCNICAS  PARA  LA  CONTRATACIÓN 
+DEL  SERVICIO  DE  “PLATAFORMA  DE  GESTIÓN  PARA  SERVICIOS  
+DOBLE  FACTOR  DE  AUTENTICACIÓN”    DENTRO  DEL  PLAN  DE   
+ACTUACIÓN  INTEGRADO:  “TOMELLOSO,  ORÍGENES  Y  FUTURO”,  
+COFINANCIADO  AL  85%  POR  LA  UNIÓN  EUROPEA  A  TRAVÉS  DEL  
+FONDO EUROPEO DE DESARROLLO REGIONAL (FEDER) EN EL MARCO  
+DEL  PROGRAMA  OPERATIVO  PLURIRREGIONAL  DE  ESPAÑA  (POPE) 
+2021-2027”.
+Documento firmado electrónicamente. Código Seguro de Verificación: dzNf07i/8TFsv5+Xgsd7
+Firmado por Técnico del Dpto. Informática y Comunicaciones D. JUAN CARLOS MOLINA MONREAL el 22/10/2026 13:11:28
+El documento consta de 13 página/s. Página 1 de 13. Puede comprobar su autenticidad insertando el CVE en nuestra sede: https://www.tomelloso.es/sede
+
+
+--- página 2 ---
+Página 2
+Tabla de contenido
+1. Objeto del contrato.....................................................................................................................................3
+2. Objetivos del servicio.................................................................................................................................3
+3. Alcance mínimo de la contratación............................................................................................................4
+3.1. Plataforma de gestión de identidad digital, autenticación multifactor y control de acceso.................6
+3.2. Solución de acceso seguro para puestos de trabajo..........................................................................8
+4. Requisitos de la plataforma de identidad y MFA.......................................................................................9
+4.1 Gestión de identidades y accesos........................................................................................................9
+4.2 Autenticación multifactor......................................................................................................................9
+4.3 SSO e identidad federada....................................................................................................................9
+5. ITDR, monitorización y trazabilidad...........................................................................................................9
+6. Protección de datos personales...............................................................................................................10
+7. Plan de implantación................................................................................................................................10
+8. Pruebas y criterios de aceptación............................................................................................................10
+9. Disponibilidad operativa y niveles de servicio......................................................................................... 11
+10. Documentación y transferencia de conocimiento..................................................................................11
+11. Obligaciones del adjudicatario...............................................................................................................12
+12. Reversibilidad y finalización del servicio................................................................................................12
+13. Plazo de ejecución.................................................................................................................................12
+14. Confidencialidad y propiedad de la información....................................................................................12
+15. Neutralidad tecnológica y equivalencias................................................................................................13
+Documento firmado electrónicamente. Código Seguro de Verificación: dzNf07i/8TFsv5+Xgsd7
+Firmado por Técnico del Dpto. Informática y Comunicaciones D. JUAN CARLOS MOLINA MONREAL el 22/10/2026 13:11:28
+El documento consta de 13 página/s. Página 2 de 13. Puede comprobar su autenticidad insertando el CVE en nuestra sede: https://www.tomelloso.es/sede
+
+
+--- página 3 ---
+Página 3
+1. Objeto del contrato
+El presente Pliego de Prescripciones Técnicas tiene por objeto definir las condiciones técnicas mínimas que  
+regirán la contratación de una solución de ciberseguridad en modalidad Software como Servicio (SaaS),  
+basada  en  gestión  de  identidad,  control  de  acceso  y  autenticación  multifactor  para  el  Ayuntamiento  de 
+Tomelloso. 
+La prestación comprenderá el licenciamiento de la plataforma, su configuración, integración con los sistemas  
+corporativos, implantación, puesta en funcionamiento, formación de usuarios y administradores, así como  
+todas  aquellas  actuaciones  técnicas  necesarias  para  garantizar  la  correcta  disponibilidad,  operatividad,  
+funcionalidad y evolución tecnológica de la solución durante la vigencia del contrato.
+La solución deberá reforzar la protección de los sistemas municipales mediante autenticación multifactor,  
+gestión centralizada de identidades, control de acceso, inicio de sesión único, protección de accesos remotos,  
+trazabilidad de actividad y capacidades de detección de amenazas asociadas a la identidad digital. Las  
+prestaciones se ejecutarán de forma integrada, con neutralidad tecnológica y mediante estándares abiertos o  
+interfaces oficialmente soportadas.
+Este contrato se enmarca en la ejecución del Plan de Actuación Integrado “Tomelloso Orígenes y  
+Futuro”, cofinanciado por el Fondo Europeo de Desarrollo Regional (FEDER) 2021-2027, en el marco del  
+Programa Plurirregional de España.
+Proyecto Motor 2 (P.M.2.1): ‘’Tomelloso Conecta y Crece’’.
+Actuación: Incremento de recursos municipales para hacer frente a la brecha digital
+Tipo de Acción 1:. Digital y dinamización económica.
+Subtipo de Acción 1.1: Soluciones TIC para la transformación de la administración local y el desarrollo de la  
+Smart City.
+2. Objetivos del servicio
+El objetivo principal del servicio es dotar al Ayuntamiento de Tomelloso de una solución centralizada de  
+autenticación, control de acceso y seguridad de usuarios que permita reforzar la protección de los sistemas  
+municipales,  mejorar  la  seguridad  de  los  accesos  remotos  y  aplicar  mecanismos  de  doble  factor  de  
+autenticación sobre los usuarios y servicios que lo requieran. Con ello se pretende reducir el riesgo derivado  
+del uso exclusivo de contraseñas, reforzar la protección frente a accesos no autorizados y establecer un  
+modelo de acceso más robusto, trazable y alineado con las necesidades de una administración pública.
+Para la consecución de dicha finalidad, el servicio persigue los siguientes objetivos:
+ Refuerzo de la autenticación de usuarios.  Complementar el uso tradicional de usuario y contraseña  
+con  mecanismos  adicionales  de  verificación,  de  modo  que  determinados  accesos  requieran  un 
+segundo factor de autenticación, reduciendo el riesgo asociado al robo de credenciales, la reutilización  
+de contraseñas, el phishing o los accesos desde ubicaciones no habituales.
+ Gestión centralizada de identidades y accesos.  Disponer de un punto único para la gestión de  
+usuarios, credenciales, políticas de autenticación y métodos de validación, evitando configuraciones  
+dispersas, favoreciendo la trazabilidad de los accesos y permitiendo aplicar políticas diferenciadas  
+según el perfil de usuario y el nivel de protección requerido por cada servicio.
+ Aplicación de doble factor mediante dispositivos físicos.  Reforzar la autenticación de los usuarios  
+que el Ayuntamiento determine mediante dispositivos físicos de generación de códigos de un solo uso, 
+independientes del teléfono móvil del usuario, especialmente indicados para cuentas administrativas,  
+accesos remotos y perfiles con acceso a información sensible.
+ Protección del acceso remoto y la movilidad.  Mejorar la seguridad de las conexiones a la red  
+municipal y a los recursos corporativos en escenarios de teletrabajo, soporte remoto y movilidad, de  
+forma que el acceso no se base únicamente en credenciales estáticas, sino en mecanismos de  
+autenticación reforzada y políticas de control más estrictas.
+Documento firmado electrónicamente. Código Seguro de Verificación: dzNf07i/8TFsv5+Xgsd7
+Firmado por Técnico del Dpto. Informática y Comunicaciones D. JUAN CARLOS MOLINA MONREAL el 22/10/2026 13:11:28
+El documento consta de 13 página/s. Página 3 de 13. Puede comprobar su autenticidad insertando el CVE en nuestra sede: https://www.tomelloso.es/sede
+
+
+--- página 4 ---
+Página 4
+ Mejora  de  la  seguridad  operativa. Proporcionar  herramientas  que  faciliten  el  control  de  quién 
+accede, desde dónde y en qué condiciones, reduciendo la superficie de exposición y mejorando la  
+capacidad de respuesta ante incidentes de seguridad.
+ Continuidad operativa de la plataforma.  Garantizar la plena disponibilidad y operatividad de la  
+solución  durante  la  vigencia  del  contrato,  mediante  la  prestación  de  los  servicios  asociados  al 
+licenciamiento de la plataforma, la gestión de eventos que afecten a su funcionamiento, la aplicación  
+de mejoras tecnológicas incluidas por el fabricante y la realización de las actuaciones necesarias para  
+mantener las capacidades funcionales, de seguridad y acceso requeridas por el Ayuntamiento.
+ Alineación con buenas prácticas y cumplimiento normativo.  Contribuir al cumplimiento de las  
+buenas prácticas en materia de seguridad de la información, en particular en el control de accesos, la  
+autenticación robusta, la gestión de credenciales y la trazabilidad de las operaciones, conforme a los  
+principios de confidencialidad, integridad, disponibilidad, autenticidad y trazabilidad aplicables a los  
+sistemas de información del sector público.
+El adjudicatario deberá disponer de los medios técnicos y organizativos necesarios para realizar el análisis,  
+seguimiento  y  resolución  de  aquellas  situaciones  que  puedan  afectar  a  la  disponibilidad,  rendimiento,  
+accesibilidad  o  funcionalidad  de  la  plataforma,  garantizando  el  cumplimiento  de  los  niveles  de  servicio 
+establecidos en el contrato.
+Como resultado de la ejecución del servicio, el Ayuntamiento de Tomelloso dispondrá de una plataforma de  
+autenticación  y  acceso  seguro  preparada  para  gestionar  usuarios,  aplicar  doble  factor  de  autenticación, 
+emplear dispositivos físicos de validación, proteger las conexiones remotas y reforzar el control sobre los  
+accesos a los recursos corporativos, avanzando hacia un entorno más seguro, controlado y administrable.
+3. Alcance mínimo de la contratación
+Elemento Alcance mínimo exigido
+Plataforma IAM/MFA Plataforma centralizada de identidad, autenticación multifactor, SSO,  
+políticas  adaptativas  y  trazabilidad.  Deberá  cubrir  al  menos  300  
+usuarios nominales.
+Modalidad Servicio  SaaS  y/o  arquitectura  con  componentes  virtuales/locales  
+cuando  resulte  necesario  para  conectores,  proxies,  agentes  o  
+pasarelas.  Cualquier  componente  local  deberá  ser  virtualizable  y  
+administrable de forma segura.
+MFA multidispositivo Soporte  de  aplicaciones  autenticadoras,  OTP,  push,  
+FIDO2/WebAuthn/passwordless,  SMS,  correo  electrónico  y  otros  
+métodos equivalentes.
+Tokens físicos 200 dispositivos físicos TOTP/OTP de uso individual, integrados con la 
+plataforma,  con  provisión  segura  de  semillas  y  licenciamiento  sin 
+cuotas recurrentes por token.
+Acceso  seguro  
+endpoints
+Cobertura para 25 puestos de trabajo con agente VPN/ZTNA, control  
+de postura, identidad del usuario y políticas centralizadas.
+Integraciones mínimas Entra  ID/Active  Directory,  Azure  AD  Connect  o  equivalente,  SCIM, 
+SAML 2.0, OIDC/OAuth2, LDAP/RADIUS/TACACS+ cuando proceda,  
+VPN, accesos SSH/RDP y exportación a SIEM/SOC.
+Servicios profesionales Análisis,  diseño,  implantación,  configuración,  integración,  validación 
+funcional, documentación, formación, transferencia de conocimiento y  
+prestación de los servicios asociados a la operatividad de la solución  
+Documento firmado electrónicamente. Código Seguro de Verificación: dzNf07i/8TFsv5+Xgsd7
+Firmado por Técnico del Dpto. Informática y Comunicaciones D. JUAN CARLOS MOLINA MONREAL el 22/10/2026 13:11:28
+El documento consta de 13 página/s. Página 4 de 13. Puede comprobar su autenticidad insertando el CVE en nuestra sede: https://www.tomelloso.es/sede
+
+
+--- página 5 ---
+Página 5
+Elemento Alcance mínimo exigido
+durante toda la vigencia del contrato.
+Atención técnica Prestación  de  los  servicios  necesarios  para  garantizar  la  
+disponibilidad, continuidad operativa y correcto funcionamiento de la  
+plataforma durante toda la vigencia del contrato, incluyendo la gestión  
+priorizada de situaciones que afecten a servicios críticos.
+El  alcance  del  presente  servicio  comprende  el  Servicio  de  licenciamiento,  configuración,  integración,  
+implantación, puesta en marcha,  formación y prestación de los servicios asociados a la disponibilidad y  
+operatividad de una solución de ciberseguridad basada en gestión de identidad y autenticación multifactor para 
+el Ayuntamiento de Tomelloso. Así como el suministro y atención técnica necesaria.
+La solución se concibe como un conjunto integrado de componentes que deberán operar de forma coordinada  
+bajo un modelo común de seguridad, permitiendo una administración centralizada, la aplicación homogénea  
+de políticas de acceso y la trazabilidad de las operaciones de autenticación. Todos los componentes deberán  
+pertenecer a un mismo ecosistema tecnológico, plenamente interoperables entre sí y gestionables de forma  
+unificada.
+El alcance del suministro incluye los siguientes componentes:
+ Plataforma centralizada de autenticación y control de acceso.  Suministro y licenciamiento de una  
+plataforma de autenticación, identidad y control de acceso en modalidad virtual, destinada a actuar  
+como punto central de validación de los usuarios del Ayuntamiento. Comprenderá la licencia base y la  
+ampliación de la capacidad de usuarios prevista, conforme al dimensionamiento establecido en el  
+cuadro de características técnicas.  La  plataforma deberá  integrarse con servicios de directorio y  
+sistemas  corporativos  mediante  protocolos  de  autenticación  de  uso  extendido  en  entornos  
+profesionales, actuar como plataforma de autenticación multifactor y permitir la aplicación de políticas  
+de acceso diferenciadas por perfil, servicio o tipo de conexión.
+ Dispositivos  físicos  de  autenticación  multifactor. Suministro  de  doscientos  (200)  dispositivos  
+físicos de generación de contraseñas de un solo uso, con licencia de carácter perpetuo, destinados a  
+aplicar  un  segundo  factor  de  autenticación  sobre  los  usuarios  y  accesos  que  determine  el  
+Ayuntamiento.  Los  dispositivos  deberán  integrarse  con  la  plataforma  central  de  autenticación,  
+permitiendo  su  asignación,  gestión  y  validación  centralizada,  y  operar  de  manera  autónoma,  sin 
+requerir la instalación de aplicaciones en dispositivos personales de los usuarios.
+ Solución de acceso seguro para puestos de trabajo.  Provisión de una solución de acceso seguro  
+para endpoints, basada en tecnologías de acceso a la red de confianza cero (ZTNA) y de red privada  
+virtual (VPN), para un mínimo de veinticinco (25). La solución deberá proporcionar un agente de  
+conectividad segura para los equipos autorizados, condicionar el acceso a la identidad del usuario, al  
+estado del dispositivo y a las políticas definidas, e incorporar las capacidades de registro, análisis y  
+soporte asociadas al licenciamiento previsto.
+ Servicios avanzados del fabricante asociados a la plataforma. Cobertura tecnológica avanzada del 
+fabricante durante el periodo del contrato sobre la plataforma de autenticación, destinada a garantizar  
+la continuidad operativa de la solución, el acceso a nuevas versiones incorporadas por el fabricante, la  
+disponibilidad de mejoras funcionales y de seguridad, así como la realización de las actuaciones  
+especializadas necesarias para preservar las capacidades de la plataforma durante la vigencia del  
+contrato.
+El alcance de los servicios incluye:
+Documento firmado electrónicamente. Código Seguro de Verificación: dzNf07i/8TFsv5+Xgsd7
+Firmado por Técnico del Dpto. Informática y Comunicaciones D. JUAN CARLOS MOLINA MONREAL el 22/10/2026 13:11:28
+El documento consta de 13 página/s. Página 5 de 13. Puede comprobar su autenticidad insertando el CVE en nuestra sede: https://www.tomelloso.es/sede
+
+
+--- página 6 ---
+Página 6
+ Configuración, integración y puesta en marcha.  Revisión inicial del entorno, despliegue de la  
+plataforma de autenticación, integración con los servicios corporativos que procedan, configuración de  
+las políticas de autenticación y de acceso, activación y asignación de los dispositivos de doble factor, e 
+implantación del agente de acceso seguro sobre los endpoints incluidos.
+ Pruebas funcionales y validación.  Ejecución de las pruebas necesarias para verificar el correcto  
+funcionamiento  de  los  componentes  implantados  en  escenarios  representativos,  incluyendo  la  
+validación de la autenticación de usuarios, del segundo factor, del acceso seguro desde endpoints y  
+de la aplicación de las políticas configuradas.
+ Documentación y transferencia de conocimiento.  Entrega de la documentación técnica operativa  
+de la solución implantada y realización de una sesión de transferencia de conocimiento dirigida al  
+personal técnico designado por el Ayuntamiento.
+ Continuidad operativa y evolución tecnológica de la plataforma.  Durante toda la vigencia del  
+contrato el adjudicatario proporcionará los servicios asociados al licenciamiento de la solución y las  
+actuaciones  necesarias  para  garantizar  su  disponibilidad,  funcionalidad,  seguridad  y  correcto  
+rendimiento.
+La prestación comprenderá la gestión de los eventos que afecten a la operatividad de la plataforma, la  
+aplicación de mejoras tecnológicas incorporadas por el fabricante, la actualización de componentes  
+incluidos  en  la  solución,  la  gestión  de  las  relaciones  técnicas  con  el  fabricante  cuando  resulte 
+necesario y la ejecución de aquellas actuaciones encaminadas a restablecer las condiciones normales  
+de funcionamiento del servicio.
+Asimismo, el adjudicatario garantizará que la solución mantenga durante toda la vigencia contractual  
+las capacidades técnicas, funcionales y de seguridad requeridas para el cumplimiento de los objetivos  
+definidos en el presente pliego.
+3.1. Plataforma de gestión de identidad digital, autenticación multifactor y control de acceso
+El  presente  apartado  establece  los  requisitos  técnicos  mínimos  exigibles  a  la  plataforma  de  gestión  de 
+identidades y control de acceso (IAM) que constituirá el elemento central de autenticación de la solución. La  
+plataforma  deberá  actuar  como  punto  único  de  validación  de  los  usuarios  del  Ayuntamiento,  soportar  
+autenticación multifactor e integrarse con los servicios corporativos y con el resto de componentes de la  
+solución, conforme a las capacidades que se detallan a continuación.
+Licenciamiento y capacidad. La plataforma se entregará con una licencia base ampliable mediante licencias  
+de incremento de usuarios, de forma que la capacidad pueda escalarse sin sustitución del producto. El  
+dimensionamiento  de  usuarios  se  ajustará  al  establecido  en  el  cuadro  de  características  técnicas.  La  
+capacidad asociada de tokens de autenticación, clientes de red (dispositivos NAS), grupos de usuarios y  
+certificados deberá escalar de forma proporcional al número de usuarios licenciados, garantizando que el  
+conjunto de la solución quede dimensionado para el volumen previsto y para un crecimiento futuro razonable.
+Servicios de autenticación, autorización y control de acceso (AAA).  La plataforma actuará como servidor  
+centralizado de autenticación, autorización y registro, con soporte de los protocolos RADIUS, TACACS+ y  
+LDAP.  Deberá  proporcionar  autenticación  de  acceso  a  red  mediante  802.1X,  autenticación  basada  en  
+certificados  mediante  EAP-TLS,  asignación  dinámica  de  VLAN  y  cambio  de  autorización  (Change  of  
+Authorization),  permitiendo  el  control  de  acceso  a  nivel  de  puerto  en  entornos  LAN  y  WLAN.  Mediante 
+TACACS+ deberá permitir la autenticación de administradores y la autorización granular de comandos sobre  
+equipamiento de red.
+Autenticación multifactor (MFA). La plataforma deberá ofrecer un segundo factor de autenticación mediante  
+una amplia variedad de métodos, incluyendo al menos dispositivos físicos de generación de contraseñas de un 
+Documento firmado electrónicamente. Código Seguro de Verificación: dzNf07i/8TFsv5+Xgsd7
+Firmado por Técnico del Dpto. Informática y Comunicaciones D. JUAN CARLOS MOLINA MONREAL el 22/10/2026 13:11:28
+El documento consta de 13 página/s. Página 6 de 13. Puede comprobar su autenticidad insertando el CVE en nuestra sede: https://www.tomelloso.es/sede
+
+
+--- página 7 ---
+Página 7
+solo uso (OTP), aplicaciones de generación de OTP para dispositivos móviles (iOS, Android y Windows), envío 
+de  códigos  por  SMS  y  correo  electrónico,  aprobación  mediante  notificación  push  y  autenticación  sin  
+contraseña basada en el estándar FIDO2. Deberá disponer de una interfaz de programación (API REST) que  
+permita incorporar autenticación multifactor a aplicaciones web propias, así como de aprovisionamiento de  
+tokens en modo desconectado (mediante código QR o código de activación manual) para entornos aislados o  
+sin conectividad a Internet.
+Autenticación  adaptativa  basada  en  contexto. La  plataforma  deberá  permitir  aplicar  políticas  de  
+autenticación adaptativa en función de factores contextuales del intento de acceso, tales como la ubicación del  
+usuario, el tipo de dispositivo, la franja horaria, la dirección IP de origen o el patrón de comportamiento,  
+ajustando dinámicamente los requisitos de validación para exigir un factor adicional, eximir de él o denegar el  
+acceso conforme a las políticas definidas.
+Inicio  de  sesión  único  (SSO)  e  identidad  federada. La  plataforma  deberá  actuar  como  proveedor  de 
+identidad SAML 2.0 y como proxy de proveedor de identidad, así como proveedor OAuth2/OIDC, soportando  
+flujos de autenticación iniciados tanto por el proveedor de servicios como por el proveedor de identidad.  
+Deberá  permitir  la  federación  de  identidades  hacia  aplicaciones  y  servicios  corporativos,  incluyendo  la 
+integración  con  servicios  en  la  nube  de  uso  común  en  la  Administración  (por  ejemplo,  plataformas  de 
+productividad y correo corporativo, directorios en la nube y servicios de infraestructura).
+Identificación  transparente  de  usuarios  e  integración  de  identidad  de  red. La  plataforma  deberá  
+proporcionar mecanismos de inicio de sesión único transparente que permitan recopilar la información de  
+usuario, dirección IP y grupo a partir de los servicios de directorio corporativos, y comunicar dicha identidad al  
+cortafuegos perimetral de la solución para la aplicación de políticas de seguridad basadas en identidad. A tal  
+efecto deberá soportar, al menos, el sondeo de controladores de dominio, un agente de movilidad distribuible  
+en  los  puestos  de  trabajo  o  como  aplicación  independiente,  un  portal  de  autenticación  explícita  y  la  
+identificación de usuarios mediante registro de actividad RADIUS. Asimismo, deberá permitir la autenticación  
+transparente condicionada a la verificación del estado de seguridad del puesto de trabajo, de modo que solo  
+los equipos válidos y conformes con las políticas obtengan acceso, en línea con un modelo de confianza cero.
+Gestión  de  identidades  y  aprovisionamiento. La  plataforma  deberá  soportar  el  aprovisionamiento  y  
+desaprovisionamiento automatizado de usuarios mediante el estándar SCIM, tanto en modo cliente como  
+servidor, así como funciones de autorregistro de usuarios, gestión de invitados, registro mediante credenciales  
+sociales y recuperación de contraseña, con portal cautivo para el acceso controlado de usuarios.
+Integración  con  directorios  y  con  el  resto  de  componentes  de  la  solución. La  plataforma  deberá  
+integrarse  con  los  servicios  de  directorio  y  sistemas  de  identidad  existentes  (directorio  activo,  LDAP  e 
+infraestructuras de clave pública), y deberá integrarse con el resto de componentes de seguridad de la  
+solución  (dispositivos  físicos  de  autenticación,  agente  de  acceso  seguro  y  cortafuegos  perimetral),  
+garantizando una administración y una aplicación de políticas unificadas dentro de un mismo ecosistema  
+tecnológico.
+Administración,  registro  y  trazabilidad. La  plataforma  deberá  disponer  de  administración  centralizada  
+mediante interfaz web segura (HTTPS) e interfaz de línea de comandos, así como de capacidades de registro  
+y supervisión de la actividad de autenticación que permitan la trazabilidad de los accesos, la identificación de  
+los usuarios y el análisis de eventos relevantes. Deberá ajustarse a los estándares y protocolos de uso  
+extendido  en  entornos  profesionales,  incluyendo,  entre  otros,  RADIUS,  LDAP,  X.509,  certificados  con  
+revocación  en  línea (OCSP),  EAP-TLS,  SCEP,  OAuth,  OIDC  y SAML  2.0. Asimismo,  deberá  permitir la 
+supervisión  centralizada  del  estado  operativo  de  los  servicios  de  autenticación  y  de  los  componentes  
+asociados a la plataforma
+La solución deberá incluir el derecho de uso de todas las funcionalidades necesarias para garantizar la  
+disponibilidad operativa y el uso continuado de las capacidades contratadas durante toda la vigencia del  
+contrato. 
+Documento firmado electrónicamente. Código Seguro de Verificación: dzNf07i/8TFsv5+Xgsd7
+Firmado por Técnico del Dpto. Informática y Comunicaciones D. JUAN CARLOS MOLINA MONREAL el 22/10/2026 13:11:28
+El documento consta de 13 página/s. Página 7 de 13. Puede comprobar su autenticidad insertando el CVE en nuestra sede: https://www.tomelloso.es/sede
+
+
+--- página 8 ---
+Página 8
+3.2. Solución de acceso seguro para puestos de trabajo
+El presente apartado establece los requisitos técnicos mínimos exigibles a la solución de acceso seguro para  
+los puestos de trabajo del Ayuntamiento de Tomelloso, orientada a la protección de las conexiones remotas y  
+de  los  escenarios  de  movilidad  de  los  usuarios  autorizados.  La  solución  se  basará  en  un  agente  de 
+conectividad segura instalado en los equipos incluidos, gestionado de forma centralizada e integrado con el  
+resto de componentes de la solución.
+La solución se suministrará para un mínimo de veinticinco (25) puestos de trabajo. El licenciamiento incluirá  
+las capacidades de gestión centralizada, supervisión, administración y operación necesarias para garantizar la  
+utilización efectiva de la solución durante toda la vigencia del contrato.
+Acceso a la red de confianza cero (ZTNA).  El agente deberá proporcionar acceso seguro y granular a las  
+aplicaciones corporativas con independencia de la ubicación del usuario (local o remota). Cada sesión deberá  
+iniciarse mediante un túnel cifrado y automático desde el agente hacia la pasarela de aplicaciones, con  
+verificación de la identidad del usuario y del dispositivo. La solución deberá realizar comprobaciones continuas  
+del estado de seguridad del puesto (posture check) en tiempo casi real, permitiendo un control de acceso  
+adaptativo basado en la validación dinámica del estado del endpoint, y deberá admitir la combinación con  
+autenticación multifactor como capa adicional de seguridad.
+Acceso  remoto  mediante  red  privada  virtual  (VPN). El  agente  deberá  ofrecer  conectividad  VPN  con 
+opciones  flexibles,  incluyendo  túnel  dividido  (split  tunneling)  para  optimizar  la  latencia  del  tráfico  no  
+corporativo, con protecciones que impidan el reflujo de tráfico de Internet hacia la conexión VPN. Deberá  
+soportar funciones de conexión automática y VPN siempre activa (always-on), selección dinámica de pasarela  
+VPN y la integración con mecanismos de autenticación multifactor.
+Control de acceso dinámico basado en identidad y estado del dispositivo.  La solución deberá permitir  
+condicionar el acceso a los recursos en función de la identidad del usuario, el estado de seguridad del  
+dispositivo  y  las  políticas  definidas,  integrándose  con  las  políticas  del  cortafuegos  perimetral  para  una 
+aplicación dinámica del control de acceso. Deberá soportar reglas de etiquetado de confianza cero y el  
+aprovisionamiento centralizado de políticas de seguridad.
+Gestión  centralizada. La  solución  dispondrá  de  una  consola  de  gestión  centralizada  que  permita  la  
+administración de los equipos incluidos, el aprovisionamiento y la aplicación de políticas, la supervisión del  
+estado de los puestos y de los servicios asociados en tiempo real, permitiendo la detección temprana de  
+situaciones que puedan afectar a la disponibilidad, seguridad o funcionamiento de la solución, la asignación  
+automática de grupos, la gestión de grupos personalizados, las alertas automáticas y la ejecución de acciones  
+remotas. Deberá integrarse con los servicios de directorio corporativos (directorio activo y directorio en la  
+nube) y permitir la administración mediante control de acceso basado en roles (RBAC).
+Compatibilidad de sistemas operativos.  El agente deberá ser compatible, al menos, con los sistemas  
+operativos  de  puesto  de  trabajo  de  uso  habitual  en  el  entorno  municipal  (Windows,  macOS  y  Linux), 
+permitiendo su gestión centralizada con independencia del sistema operativo del equipo.
+Integración con el resto de la solución.  El agente deberá integrarse con el cortafuegos perimetral y con la  
+plataforma centralizada de autenticación de la solución, de modo que la identidad del usuario, el segundo  
+factor de autenticación y el acceso seguro desde el puesto operen de forma coordinada dentro de un mismo  
+ecosistema tecnológico, bajo administración y políticas unificadas.
+La integración deberá garantizar una gestión unificada de la identidad digital, de las políticas de acceso y de  
+los mecanismos de autenticación reforzada, permitiendo la aplicación homogénea de medidas de seguridad y  
+la continuidad operativa del servicio en todos los componentes de la solución.
+Documento firmado electrónicamente. Código Seguro de Verificación: dzNf07i/8TFsv5+Xgsd7
+Firmado por Técnico del Dpto. Informática y Comunicaciones D. JUAN CARLOS MOLINA MONREAL el 22/10/2026 13:11:28
+El documento consta de 13 página/s. Página 8 de 13. Puede comprobar su autenticidad insertando el CVE en nuestra sede: https://www.tomelloso.es/sede
+
+
+--- página 9 ---
+Página 9
+4. Requisitos de la plataforma de identidad y MFA
+4.1 Gestión de identidades y accesos
+ Administración centralizada de usuarios, grupos, permisos, roles, políticas de acceso, métodos MFA y  
+registros de actividad.
+ Capacidad  mínima  para  300  usuarios  nominales,  incluyendo  empleados,  cuentas  técnicas,  
+proveedores y usuarios externos autorizados.
+ Aplicación del principio de mínimo privilegio  y posibilidad de segmentar políticas por perfil, grupo,  
+ubicación, aplicación, dispositivo y nivel de riesgo.
+ Aprovisionamiento, modificación y baja de usuarios mediante conectores con directorios corporativos y 
+SCIM.
+ Gestión  de  invitados,  proveedores  externos  y  accesos  temporales  con  caducidad,  aprobación  y 
+trazabilidad.
+ Control de acceso basado en roles para la administración de la propia plataforma.
+4.2 Autenticación multifactor
+ MFA  con  OTP/TOTP,  aplicaciones  autenticadoras,  push,  correo  electrónico,  SMS,  
+FIDO2/WebAuthn/passwordless y tokens físicos.
+ Políticas  adaptativas  basadas  en  contexto:  ubicación,  IP,  horario,  dispositivo,  aplicación,  riesgo, 
+patrones de uso y comportamiento.
+ Capacidad para exigir MFA, eximirlo o denegar el acceso según reglas configurables y trazables.
+ Soporte  de  MFA  en  modo  desconectado  o  mediante  activación  segura  cuando  existan  entornos 
+aislados.
+ Mecanismos  de  recuperación  de  acceso,  revocación,  reasignación  de  factores  y  gestión  de  
+contingencias.
+4.3 SSO e identidad federada
+ Inicio de sesión único para aplicaciones corporativas y servicios en la nube.
+ Proveedor de identidad SAML 2.0 y OIDC/OAuth2, o integración equivalente con el proveedor de  
+identidad municipal.
+ Flujos iniciados por proveedor de servicios y por proveedor de identidad.
+ Compatibilidad con aplicaciones web, VPN, herramientas de productividad y servicios municipales que  
+se incorporen al proyecto.
+ No  limitación  artificial  del  número  de  aplicaciones  integrables,  salvo  las  limitaciones  propias  del 
+licenciamiento ofertado y expresamente declaradas.
+5. ITDR, monitorización y trazabilidad
+La plataforma deberá disponer de capacidades de detección y respuesta ante amenazas de identidad (ITDR),  
+orientadas  a  identificar  actividades  sospechosas,  accesos  anómalos,  intentos  de  compromiso,  abuso  de 
+privilegios y patrones incompatibles con el comportamiento habitual.
+ Detección  basada  en  inteligencia  contextual,  ubicación,  dirección  IP,  horario,  dispositivo,  
+comportamiento de acceso y nivel de riesgo.
+ Alertas configurables ante anomalías, errores repetidos, cambios de ubicación, accesos imposibles,  
+uso de cuentas privilegiadas o intentos de bypass de MFA.
+ Acciones automáticas o semiautomáticas: bloqueo temporal, elevación de requisito MFA, notificación  
+al POC, registro de incidente o integración con herramientas de seguridad.
+ Exportación de logs de autenticación, administración, asignación de tokens, accesos VPN, accesos  
+SSH/RDP y cambios de configuración.
+ Integración con SIEM/SOC mediante syslog, API, conectores, CSV u otros mecanismos estándar.
+ Conservación de registros configurable conforme a las políticas municipales y a la normativa aplicable.
+Documento firmado electrónicamente. Código Seguro de Verificación: dzNf07i/8TFsv5+Xgsd7
+Firmado por Técnico del Dpto. Informática y Comunicaciones D. JUAN CARLOS MOLINA MONREAL el 22/10/2026 13:11:28
+El documento consta de 13 página/s. Página 9 de 13. Puede comprobar su autenticidad insertando el CVE en nuestra sede: https://www.tomelloso.es/sede
+
+
+--- página 10 ---
+Página 10
+6. Protección de datos personales
+Si  la  ejecución  del  contrato  implica  tratamiento  de  datos  personales  por  cuenta  del  Ayuntamiento,  el  
+adjudicatario tendrá la consideración de encargado del tratamiento y deberá suscribir el correspondiente  
+contrato  de  encargo.  La  solución  deberá  minimizar  los  datos  tratados  y  limitarse  a  los  necesarios  para 
+autenticación, autorización, auditoría, soporte y seguridad.
+ Tratamiento conforme al RGPD y a la Ley Orgánica 3/2018.
+ Ubicación  de  datos  en  el  Espacio  Económico  Europeo  o  garantías  adecuadas  en  caso  de  
+transferencias internacionales.
+ Medidas técnicas y organizativas apropiadas: cifrado, control de acceso, trazabilidad, segregación,  
+copias y continuidad.
+ Devolución o supresión de datos al finalizar el contrato, con certificación cuando proceda.
+ Prohibición de uso de datos municipales con finalidades comerciales, analíticas no autorizadas o  
+entrenamiento de modelos sin autorización expresa.
+7. Plan de implantación
+El adjudicatario deberá presentar en los quince (15) primeros días naturales un plan de implantación detallado,  
+que deberá ser aprobado por el Ayuntamiento antes de iniciar cambios en producción.
+Fase Contenido mínimo Entregable
+1. Lanzamiento Reunión  inicial,  identificación  de  interlocutores,  
+canales  de  comunicación,  acceso  a  información 
+necesaria y calendario.
+Acta de inicio y plan de  
+proyecto.
+2. Análisis Inventario  de  directorios,  usuarios,  grupos,  
+aplicaciones, VPN, servidores, accesos SSH/RDP,  
+endpoints y requisitos de seguridad.
+Documento  de  análisis 
+y requisitos.
+3. Diseño Arquitectura,  conectores,  políticas  MFA,  SSO,  
+roles, grupos, tokens, ITDR, logs, contingencia y  
+reversibilidad.
+Documento  de  diseño  
+técnico.
+4. Implantación Configuración  de  plataforma,  sincronización,  
+integración  con  Entra  ID/AD,  VPN,  servidores,  
+tokens y endpoints.
+Sistema  configurado  y  
+evidencias.
+5. Pruebas Pruebas  funcionales,  seguridad,  rendimiento,  
+contingencia, logs, usuarios piloto y aceptación.
+Plan y acta de pruebas.
+6. Formación Sesiones  técnicas  y  operativas  para  personal  
+designado por el Ayuntamiento.
+Material  formativo  y  
+acta.
+7. Producción Puesta en producción controlada, soporte reforzado 
+inicial y entrega documental.
+Acta  de  puesta  en  
+producción.
+8. Pruebas y criterios de aceptación
+La recepción de la solución exigirá la superación de pruebas representativas, documentadas y aceptadas por  
+el Ayuntamiento. Como mínimo se validarán los siguientes casos:
+1. Sincronización de usuarios y grupos desde Active Directory mediante SCIM o mecanismo equivalente.
+Documento firmado electrónicamente. Código Seguro de Verificación: dzNf07i/8TFsv5+Xgsd7
+Firmado por Técnico del Dpto. Informática y Comunicaciones D. JUAN CARLOS MOLINA MONREAL el 22/10/2026 13:11:28
+El documento consta de 13 página/s. Página 10 de 13. Puede comprobar su autenticidad insertando el CVE en nuestra sede: https://www.tomelloso.es/sede
+
+
+--- página 11 ---
+Página 11
+2. Autenticación MFA operativa para usuarios piloto y perfiles administrativos.
+3. Asignación, activación, revocación y reasignación de tokens físicos a usuarios de prueba.
+4. Integración SSO con, al menos, una aplicación o servicio corporativo definido por el Ayuntamiento.
+5. Integración de MFA con VPN y validación de ubicación o política contextual.
+6. Protección de accesos SSH/RDP a servidores mediante agentes o mecanismo equivalente.
+7. Acceso seguro desde endpoint con VPN/ZTNA, posture check y aplicación de políticas.
+8. Registro y exportación de eventos a SIEM/SOC, syslog, API o formato exportable.
+9. Prueba de bloqueo/reto MFA ante acceso de riesgo y generación de alerta ITDR.
+10. Validación de documentación, formación y procedimientos de reversibilidad.
+9. Disponibilidad operativa y niveles de servicio
+El  adjudicatario garantizará  la  disponibilidad,  operatividad  y  funcionalidad  de  la solución  durante  toda la  
+vigencia del contrato, proporcionando las actuaciones técnicas necesarias para asegurar la correcta prestación 
+del servicio. 
+Tipo  de  evento 
+operativo Descripción Respuesta máxima Objetivo  de  restablecimiento  funcional
+Crítica
+Caída  total  de  autenticación,  
+indisponibilidad  de  VPN/MFA,  
+incidente  de  seguridad  activo  o  
+afectación generalizada.
+1 hora, 24x7
+4  horas  para  workaround;  
+resolución  prioritaria  hasta  
+restablecimiento.
+Alta
+Degradación relevante, fallo parcial  
+de integración o afectación a grupo  
+significativo de usuarios.
+4 horas laborables 1 día laborable o plan de acción  acordado.
+Media
+Incidencia  funcional  sin  
+indisponibilidad  general,  error  de  
+configuración  o  consulta  técnica  
+relevante.
+Siguiente día hábil 3 días laborables o  planificación  acordada.
+Baja Consulta,  mejora  menor,  documentación o ajuste no urgente. 2 días hábiles Incorporación  en  la  planificación de  mejora  funcional  y  evolución tecnológica de la plataforma
+ Canales de atención operativa: portal web, correo electrónico y teléfono para incidencias críticas.
+ Acceso  a  las  nuevas capacidades  funcionales,  mejoras  tecnológicas,  actualizaciones  de  seguridad  y 
+recursos de conocimiento asociados a la solución durante toda la vigencia del contrato.
+ Revisión periódica trimestral de indicadores de utilización, estado operativo de la plataforma, eventos  
+relevantes, alertas de seguridad y recomendaciones de optimización.
+ Seguimiento intensivo de la puesta en producción durante los primeros 30 días de funcionamiento efectivo.
+ Informes periódicos de incidencias, acciones realizadas, pendientes, riesgos y recomendaciones.
+10. Documentación y transferencia de conocimiento
+El adjudicatario deberá entregar documentación clara, actualizada y en castellano, en formato editable y PDF.  
+La documentación se considerará entregable contractual y deberá permitir la administración ordinaria por parte 
+del personal técnico municipal.
+ Documento de arquitectura e integraciones.
+ Inventario de componentes, licencias, usuarios, grupos, tokens, endpoints y servicios integrados.
+ Manual de administración segura y operación diaria.
+Documento firmado electrónicamente. Código Seguro de Verificación: dzNf07i/8TFsv5+Xgsd7
+Firmado por Técnico del Dpto. Informática y Comunicaciones D. JUAN CARLOS MOLINA MONREAL el 22/10/2026 13:11:28
+El documento consta de 13 página/s. Página 11 de 13. Puede comprobar su autenticidad insertando el CVE en nuestra sede: https://www.tomelloso.es/sede
+
+
+--- página 12 ---
+Página 12
+ Procedimiento de alta, baja y modificación de usuarios y factores MFA.
+ Procedimiento de gestión de tokens físicos y custodia de semillas.
+ Procedimiento de gestión de eventos operativos y coordinación técnica con el fabricante.
+ Plan de continuidad, contingencia y cuentas de emergencia.
+ Plan de reversibilidad y exportación de información.
+ Material de formación para administradores y usuarios clave.
+11. Obligaciones del adjudicatario
+ Ejecutar los trabajos con personal cualificado y con experiencia en IAM, MFA, SSO, seguridad de  
+accesos, ENS y entornos híbridos.
+ Mantener actualizados los contactos técnicos y el Punto de Contacto de Seguridad.
+ No realizar cambios en producción sin autorización del Ayuntamiento, salvo actuaciones urgentes  
+necesarias para preservar la disponibilidad, integridad o seguridad de la plataforma.
+ Custodiar con diligencia credenciales, tokens, seeds, documentación sensible y accesos temporales.
+ Garantizar que las licencias son legítimas, suficientes, vigentes y aptas para el uso previsto.
+ Entregar todos los materiales sin coste adicional en la sede o entorno que determine el Ayuntamiento.
+ Colaborar  con  auditorías,  controles  FEDER,  revisiones  ENS  y  requerimientos  técnicos  del  
+Ayuntamiento.
+ Mantener confidencialidad durante y después de la ejecución del contrato.
+12. Reversibilidad y finalización del servicio
+El adjudicatario deberá garantizar la reversibilidad del servicio, de modo que el Ayuntamiento conserve la  
+titularidad y control de usuarios, configuraciones, políticas, tokens, registros y documentación. A la finalización  
+del contrato deberá entregar un informe final con el estado operativo de la plataforma, las licencias activas, los  
+eventos gestionados, las configuraciones implantadas, las integraciones existentes, los riesgos identificados y  
+las recomendaciones de transición.
+ Exportación de configuraciones y registros en formatos estándar cuando sea técnicamente posible.
+ Revocación de accesos del adjudicatario y terceros.
+ Devolución o supresión acreditada de datos e información municipal.
+ Transferencia de conocimiento al Ayuntamiento o al nuevo prestador durante la transición.
+ Acta de reversibilidad y recepción final del servicio.
+13. Plazo de ejecución
+El plazo máximo de implantación y puesta en producción de la solución será de cuatro (4) meses desde la  
+formalización del contrato o desde la fecha que determine el PCAP. 
+Una  vez  aceptada  la  solución,  el  Ayuntamiento  dispondrá  hasta  el  30  de  noviembre  de  2030,  del  
+licenciamiento y de todos los servicios inherentes a la plataforma necesarios para garantizar su disponibilidad,  
+continuidad operativa, evolución tecnológica y utilización efectiva conforme a los requisitos establecidos en el  
+presente pliego.
+14. Confidencialidad y propiedad de la información
+Toda la información, configuraciones, credenciales, registros, documentación, inventarios, políticas y datos  
+tratados durante la ejecución del contrato son propiedad del Ayuntamiento de Tomelloso. El adjudicatario no  
+adquiere derecho alguno sobre ellos y deberá utilizarlos exclusivamente para ejecutar el contrato.
+El  deber  de  confidencialidad  subsistirá  indefinidamente  respecto  de  información  sensible  de  seguridad, 
+secretos, credenciales, arquitectura, medidas de protección, vulnerabilidades y datos personales.
+Documento firmado electrónicamente. Código Seguro de Verificación: dzNf07i/8TFsv5+Xgsd7
+Firmado por Técnico del Dpto. Informática y Comunicaciones D. JUAN CARLOS MOLINA MONREAL el 22/10/2026 13:11:28
+El documento consta de 13 página/s. Página 12 de 13. Puede comprobar su autenticidad insertando el CVE en nuestra sede: https://www.tomelloso.es/sede
+
+
+--- página 13 ---
+Página 13
+15. Neutralidad tecnológica y equivalencias
+Las referencias a estándares, tecnologías, certificaciones, protocolos, productos, servicios o mecanismos  
+concretos se  entenderán realizadas  a prestaciones equivalentes  o superiores  siempre  que  garanticen la  
+funcionalidad,  interoperabilidad,  seguridad,  soporte  y  cumplimiento  exigidos.  El  licitador  deberá  justificar 
+documentalmente la equivalencia cuando proponga soluciones alternativas.
+El licitador deberá acreditar documentalmente la equivalencia de la solución propuesta cuando esta difiera de  
+las tecnologías, estándares o mecanismos expresamente mencionados, demostrando que satisface o supera  
+las funcionalidades, niveles de prestación y requisitos de seguridad previstos.
+La justificación de equivalencia deberá incluir, cuando proceda, información relativa a la arquitectura de la  
+solución, capacidades de integración, mecanismos de autenticación, funcionalidades de gestión, capacidades  
+de trazabilidad, disponibilidad operativa y medidas de seguridad implementadas.
+Documento firmado electrónicamente. Código Seguro de Verificación: dzNf07i/8TFsv5+Xgsd7
+Firmado por Técnico del Dpto. Informática y Comunicaciones D. JUAN CARLOS MOLINA MONREAL el 22/10/2026 13:11:28
+El documento consta de 13 página/s. Página 13 de 13. Puede comprobar su autenticidad insertando el CVE en nuestra sede: https://www.tomelloso.es/sede

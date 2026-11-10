@@ -10,6 +10,6 @@
 
 ## Documentos
 
-- [Legal] PCAP CP001552026.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] PPT CP001552026.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] ANEXOS CP001552026.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] PCAP CP001552026.pdf: 01_Legal_PCAP_CP001552026.pdf (1922 KB)
+- [Technical] PPT CP001552026.pdf: 02_Technical_PPT_CP001552026.pdf (84 KB)
+- [Additional] ANEXOS CP001552026.docx: 03_Additional_ANEXOS_CP001552026.docx (5317 KB)

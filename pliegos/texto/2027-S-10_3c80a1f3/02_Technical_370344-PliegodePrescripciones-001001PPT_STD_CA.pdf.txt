@@ -1,0 +1,249 @@
+
+
+--- página 1 ---
+ 
+ 
+ 
+ 
+ 
+PLIEGO DE PRESCRIPCION ES 
+TÉCNICAS PARA LA ADQUISICIÓN  DEL 
+DERECHO DE USO DE SOFTWARE EN 
+NUBE DE LA PLATAFORMA  DE 
+PRESTAMO INTERBIBLIOTECARIO  DE LA 
+UNIVERSIDAD  AUTÓNOMA DE MADRID 
+ 
+ 
+Firmado por: Maria Jose Garcia Rodriguez
+Fecha: 23-10-2026 12:44:00
+Firmado por: Ernesto Fernandez Bofill Gonzalez
+Cargo: Gerente
+Fecha: 27-10-2026 11:05:20
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://vortal.plyca.es/portal/verificadorCopiaAutentica.do
+Página: 1 de 6
+Código de verificación  : b5728c70cff1a6c3
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+https://vortal.plyca.es/portal/verificadorCopiaAutentica.do?codigoVerificacion=b5728c70cff1a6c3
+
+--- página 2 ---
+ 
+Pag 2 de 6 
+ 
+Índice 
+ 
+1 Objeto del contrato ................................................................................. 3 
+2 Entorno técnico ....................................................................................... 3 
+2.1 Funcionalidades requeridas ............................................................. 3 
+3 Mantenimiento y soporte ......................................................................... 4 
+3.1 Soporte ........................................................................................... 4 
+3.2 Niveles de servicio ........................................................................... 5 
+3.3 Mantenimiento evolutivo.................................................................. 5 
+ 
+ 
+Firmado por: Maria Jose Garcia Rodriguez
+Fecha: 23-10-2026 12:44:00
+Firmado por: Ernesto Fernandez Bofill Gonzalez
+Cargo: Gerente
+Fecha: 27-10-2026 11:05:20
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://vortal.plyca.es/portal/verificadorCopiaAutentica.do
+Página: 2 de 6
+Código de verificación  : b5728c70cff1a6c3
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+https://vortal.plyca.es/portal/verificadorCopiaAutentica.do?codigoVerificacion=b5728c70cff1a6c3
+
+--- página 3 ---
+ 
+Pag 3 de 6 
+ 
+1 Objeto del contrato 
+La Universidad Autónoma de Madrid (en adelante UAM), precisa gestionar un 
+centro de obtención de documentos y préstamo interbibliotecario entre universidades 
+a nivel internacional . Para ello, ha de  contar con una plataforma  software que 
+consolide dicha actividad , y permita manejar esta información con las 
+funcionalidades que se describirán en este pliego. 
+El presente contrato tiene por objeto la adq uisición del derecho de uso de 
+software en nu be de dicha plataforma,  que da rá soporte al prestamo 
+interbibliotecario. 
+El servicio asociado incluye la explotación de los programas, el mantenimiento 
+correctivo y evolutivo, y el soporte técnico. 
+2 Entorno técnico 
+El sistema deberá ser un a plataforma tecnológica  que permita a la UAM 
+gestionar el prestamo interbibliotecario entre di stintas universidades. Dicha 
+plataforma debe ser un producto  terminado, a excepción de las parametrizaciones 
+técnicas e integraciones propias de la personalización del producto, que se realizarán 
+durante la fase de implantación. 
+El suministro de la licencia incluirá el derecho de uso  de la misma en modo  
+Software As a Service (SaaS) , cubriendo las funcionalidades y el soporte en los 
+términos que se detallan más adelante. 
+El objetivo de estas funcionalidades es la automatización de todos los aspectos 
+relacionados con la tramitación de peticiones, destacando la administración  
+(facturación, depósitos, cuentas de compensación), las estadísticas y el uso del 
+correo electrónico y el Web como herramientas básicas de comunicación entre el 
+servicio, los usuarios y los suministradores. 
+2.1 Funcionalidades requeridas 
+Las características y funcionalidades solicitadas en la plataforma software 
+objeto de la licitación y  que se describen a continuación, deberán estar operativas 
+desde el primer día de  prestación del contrato. A nivel funcional, se requiere que  el 
+sistema cumpla los siguientes puntos: 
+• A nivel de operador.- los operadores podrán gestionar la obtención y 
+suministro de documentos con las gestiones paralelas que conlleva 
+(administración, estadísticas y otros aspectos  relacionados), facilitando la 
+localización, automatización y gestión de las necesidades documentales de 
+todos los usuarios de la biblioteca. 
+• A nivel de usuario.- los usuarios podrán hacer nuevas solicitudes,  consultar 
+el estado de las que ya solicitadas y efectuar operaciones sobre las mismas: 
+Firmado por: Maria Jose Garcia Rodriguez
+Fecha: 23-10-2026 12:44:00
+Firmado por: Ernesto Fernandez Bofill Gonzalez
+Cargo: Gerente
+Fecha: 27-10-2026 11:05:20
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://vortal.plyca.es/portal/verificadorCopiaAutentica.do
+Página: 3 de 6
+Código de verificación  : b5728c70cff1a6c3
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+https://vortal.plyca.es/portal/verificadorCopiaAutentica.do?codigoVerificacion=b5728c70cff1a6c3
+
+--- página 4 ---
+ 
+Pag 4 de 6 
+ 
+cancelar, reclamar, aportar información adicional, descargar documentos 
+asociados a la petición, etc. 
+• Se utilizarán agentes basados en tecnologías Web y Z39.50 que permitan 
+verificar la disponibilidad de los documentos en catálogos colectivos, como 
+el C17, REBIUN, CCUC, en proveedores de acceso al documento electrónico 
+como Ingenta o bases de datos de texto completo como IBECS o bases de 
+datos de EBSCO.  
+• Deberá ser compatible con los principales servicios de obtención de 
+documentos tanto españoles como Internacionales (British Library-Artemail, 
+NLM). 
+• Utilizará tecnologías como XML por ser estándar abierto para el intercambio 
+de datos estructurados, o Web Services para servicios de inteconexión con 
+otras aplicaciones y recursos como Medline, ALMA, C17, CNCS, etc. 
+• Copias de seguridad: el adjudicatario realizará copias de seguridad diarias 
+incrementales y copia completa semanal, manteniendo y actualizando 
+cuando sea preciso, las medidas organizativas y técnicas que garanticen la 
+seguridad y confidencialidad de los datos. 
+ 
+3 Mantenimiento y soporte 
+El adjudicatario se hará cargo  además, durante el periodo del contrato,  del 
+mantenimiento correctivo de la plataforma, el soporte funcional y técnico, así como el 
+mantenimiento evolutivo asociado al ciclo de vida del producto, tal y como se detalla 
+a continuación: 
+• Resolución de los errores o pérdidas de funcionalidad detectados en los 
+diferentes procesos que forman el aplicativo (mantenimiento correctivo)  
+• Asesoría funcional y tecnológica de la aplicación que englobe los 
+servicios de apoyo para la resolución de dudas o consultas referidas a su 
+funcionamiento. 
+• Entrega de las actualizaciones de software y de la documentación 
+asociada, así como modificaciones y desarrollos para adecuación a la 
+normativa legal competente vigente. 
+3.1 Soporte 
+El soporte incluirá el diagnóstico de los problemas reportados que pued an 
+aparecer en el sistema y la resolución de los errores notificados, de manera que la 
+plataforma funcione correctamente. 
+Para llevar a cabo el reporte de las incidencias detectadas, el adjudicatario 
+pondrá a disposición de la UAM un sistema de notificación de incidencias en formato 
+web, así como un número de teléfono de atención a  incidencias para errores críticos 
+del sistema, tal y como se describen en el punto siguiente.  
+Firmado por: Maria Jose Garcia Rodriguez
+Fecha: 23-10-2026 12:44:00
+Firmado por: Ernesto Fernandez Bofill Gonzalez
+Cargo: Gerente
+Fecha: 27-10-2026 11:05:20
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://vortal.plyca.es/portal/verificadorCopiaAutentica.do
+Página: 4 de 6
+Código de verificación  : b5728c70cff1a6c3
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+https://vortal.plyca.es/portal/verificadorCopiaAutentica.do?codigoVerificacion=b5728c70cff1a6c3
+
+--- página 5 ---
+ 
+Pag 5 de 6 
+ 
+ 
+3.2 Niveles de servicio 
+En función de la importancia, las incidencias trasladadas al adjudicatario serán 
+clasificadas como: 
+• Críticas. Serán aquellas que impiden el funcionamiento básico de la 
+plataforma. 
+• Urgentes: Serán aquellas que impiden desarrollar funciones adicionales en 
+la aplicación. 
+• Ordinarias. Ninguna función se encuentra degradada y puede resolverse 
+por medios alternativos. 
+• Leves. Aquellas no clasificadas como alguna de las anteriores. 
+En función de los niveles de criticidad se definen los siguientes tiempos 
+máximos de resolución: 
+• Crítica: 4 horas (Tiempo máximo de resolución) 
+• Urgente: 8 horas (Tiempo máximo de resolución) 
+• Ordinaria: 5 días laborables (Tiempo máximo de resolución) 
+• Leve: 20 días laborables (Tiempo máximo de resolución) 
+Toda comunicación recibida deberá ser recepcionada por el adjudicatario en un 
+tiempo máximo, salvo casos absolutamente excepcionales y justificados, de 60 
+minutos en horario laboral (de 9:00 a 17:00). Los tiempos de respuesta se computarán 
+desde que la UAM notifique la incidencia al adjudicatario. Los días laborales se regirán 
+por el calendario laboral del municipio de Madrid. 
+El valor de cumplimiento mensual requerido por el presente contrato, para 
+todos los casos, será del 95%. Cualquier valor inferior será considerado 
+incumplimento. 
+3.3 Mantenimiento evolutivo 
+El mantenimiento evolutivo incluirá la actualización de todas aquellas nuevas 
+versiones de  producto que se produzcan a lo largo del periodo del contrato. Estas 
+actualizaciones deben garantizar asimismo el cumplimiento de la legislación vigente 
+en las materias afectadas por protección de datos y propiedad intelectual. 
+Asimismo, a través del mantenimiento evolutivo se garantizará la adaptación del 
+sistema a la  nueva demanda de información por parte de  organismos tales como 
+FECYT y de la disponibilidad de recursos de información en la universidad. 
+ 
+ 
+Firmado por: Maria Jose Garcia Rodriguez
+Fecha: 23-10-2026 12:44:00
+Firmado por: Ernesto Fernandez Bofill Gonzalez
+Cargo: Gerente
+Fecha: 27-10-2026 11:05:20
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://vortal.plyca.es/portal/verificadorCopiaAutentica.do
+Página: 5 de 6
+Código de verificación  : b5728c70cff1a6c3
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+https://vortal.plyca.es/portal/verificadorCopiaAutentica.do?codigoVerificacion=b5728c70cff1a6c3
+
+--- página 6 ---
+ 
+Pag 6 de 6 
+ 
+Madrid, a la fecha de la firma 
+La Directora de Tecnologías de la Información, 
+Fdo: María José García Rodríguez 
+ 
+ 
+ 
+ 
+ESTA GERENCIA, actuando por delegación de la Sra. Rectora de esta Universidad, en virtud de 
+la resolución adoptada por la misma de fecha 2 de julio de 2025 (BOCM de 10 de julio de 2025) ha 
+resuelto aprobar el presente Pliego de Prescripciones Técnicas  
+Madrid,   
+El Gerente  
+Ernesto Fernández Bofill González 
+ 
+Firmado por: Maria Jose Garcia Rodriguez
+Fecha: 23-10-2026 12:44:00
+Firmado por: Ernesto Fernandez Bofill Gonzalez
+Cargo: Gerente
+Fecha: 27-10-2026 11:05:20
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://vortal.plyca.es/portal/verificadorCopiaAutentica.do
+Página: 6 de 6
+Código de verificación  : b5728c70cff1a6c3
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+https://vortal.plyca.es/portal/verificadorCopiaAutentica.do?codigoVerificacion=b5728c70cff1a6c3

@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] PCAP Pagina web.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] PPT pagina web.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] PCAP Pagina web.pdf: 01_Legal_PCAP_Pagina_web.pdf (754 KB)
+- [Technical] PPT pagina web.pdf: 02_Technical_PPT_pagina_web.pdf (427 KB)

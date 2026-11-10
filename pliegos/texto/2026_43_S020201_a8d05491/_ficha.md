@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] Pliego Administrativo.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] Pliego Tecnico.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] Pliego Administrativo.pdf: 01_Legal_Pliego_Administrativo.pdf (1677 KB)
+- [Technical] Pliego Tecnico.pdf: 02_Technical_Pliego_Tecnico.pdf (221 KB)

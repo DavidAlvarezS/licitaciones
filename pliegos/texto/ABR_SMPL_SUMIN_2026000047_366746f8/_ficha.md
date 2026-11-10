@@ -10,13 +10,13 @@
 
 ## Documentos
 
-- [Legal] PCAP CCP  SUMINISTROS.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] Pliego de prescripciones tecnicas 1F.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] Memoria Justificativa 1F.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] Resolucion aprob pliego y gasto.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] Pliego tipo de suministros.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] A0 Modelo Datos Empresa Notificaciones.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] Anexo IV.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] ANEXO I.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] Anexo II A y II B.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] Anexo VIII Subcontratacion.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] PCAP CCP  SUMINISTROS.pdf: 01_Legal_PCAP_CCP_SUMINISTROS.pdf (419 KB)
+- [Technical] Pliego de prescripciones tecnicas 1F.pdf: 02_Technical_Pliego_de_prescripciones_tecnicas_1F.pdf (166 KB)
+- [Additional] Memoria Justificativa 1F.pdf: 03_Additional_Memoria_Justificativa_1F.pdf (206 KB)
+- [Additional] Resolucion aprob pliego y gasto.pdf: 04_Additional_Resolucion_aprob_pliego_y_gasto.pdf (335 KB)
+- [Additional] Pliego tipo de suministros.pdf: 05_Additional_Pliego_tipo_de_suministros.pdf (1441 KB)
+- [Additional] A0 Modelo Datos Empresa Notificaciones.docx: 06_Additional_A0_Modelo_Datos_Empresa_Notificaciones.docx (37 KB)
+- [Additional] Anexo IV.docx: 07_Additional_Anexo_IV.docx (148 KB)
+- [Additional] ANEXO I.docx: 08_Additional_ANEXO_I.docx (148 KB)
+- [Additional] Anexo II A y II B.docx: 09_Additional_Anexo_II_A_y_II_B.docx (152 KB)
+- [Additional] Anexo VIII Subcontratacion.docx: 10_Additional_Anexo_VIII_Subcontratacion.docx (149 KB)

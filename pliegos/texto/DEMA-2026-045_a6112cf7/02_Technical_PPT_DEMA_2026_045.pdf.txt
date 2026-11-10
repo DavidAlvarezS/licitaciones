@@ -1,0 +1,257 @@
+
+
+--- página 1 ---
+ 
+ 
+DEMA-2026-045 
+Adquisición de licencias software necesarias para garantizar la 
+operatividad de la plataforma TESTBED, incluyendo los servicios de 
+activación y configuración asociados, siendo su ejecución en Costa 
+Rica 
+Proyecto: 243200 Conectividad 5G en Costa Rica   
+ 
+ 
+ 
+ 
+ÍNDICE 
+ 
+1. ANTECEDENTES  ................................ ................................ ................................ ........  2 
+2. OBJETO DEL CONTRATO  ................................ ................................ ..........................  2 
+3. DESCRIPCIÓN DEL SERVICIO A REALIZAR  Y REQUISITOS TÉCNICOS MÍNIMOS DE 
+LOS SUMINISTROS. ................................ ................................ ................................ ............  2 
+4. PLANIFICACIÓN DE LOS TRABAJOS ................................ ................................ .........  4 
+4.1 Programa de trabajo–Cronograma................................................................... 4 
+4.2 Productos resultantes y entregables ...................................................................... 4 
+5. MODELO DE INTERLOCUCIÓN, CONTROL DE CALIDAD Y SEGUIMIENTO DE LA 
+EJECUCIÓN  ................................ ................................ ................................ ........................  4 
+6. LUGAR DE PRESTACIÓN DE LA ADQUISICIÓN E INSTALACIÓN  ..............................  5 
+ 
+ 
+ 
+
+--- página 2 ---
+ 
+ 
+DEMA-2026-045 
+Adquisición de licencias software necesarias para garantizar la 
+operatividad de la plataforma TESTBED, incluyendo los servicios de 
+activación y configuración asociados, siendo su ejecución en Costa 
+Rica 
+Proyecto: 243200 Conectividad 5G en Costa Rica   
+ 
+ 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS  
+ 
+1. ANTECEDENTES 
+ 
+La Fundación para la Internacionaliza ción de las Administraciones Públicas , F.S.P. (FIAP), es 
+una fundación del sector público estatal cuyas actividades, caracterizadas por la ausencia de 
+ánimo de lucro y la búsqueda del interés general, se enmarcan en el ámbito de la cooperación 
+internacional destinada a la modernización institucional, a la ref orma de las Administraciones 
+Públicas y a la consecución de la gobernabilidad de Estado democrático.  
+En atención a sus fines fundacionales, la FIAP implementa el proyecto “ Apoyo a la 
+Implementación y promoción de Bancos de pruebas (Testbed) 5G/6G para la Investigación, el 
+desarrollo productivo y competitivo de MIPYMES y P YMPAS en fomento del desarrollo sostenible 
+en Costa Rica” financiada en el marco de Instrumento de Vecindad, Cooperación al Desarrollo y 
+Cooperación Internacional - Europa Global, NDICI -Global Europe - Contribution Agreement Nº 
+700002325. 
+2. OBJETO DEL CONTRATO 
+ 
+Adquisición de licencias software necesarias para garantizar la operatividad de la plataforma 
+TESTBED, incluyendo los servicios de activación, y configuración asociados, siendo su ejecución 
+en Costa Rica.  
+ 
+3. DESCRIPCIÓN DEL SERVICIO  A REALIZAR Y REQUISITOS TÉCNICOS MÍNIMOS  DE 
+LOS SUMINISTROS. 
+ 
+La característica de este contrato será de suministro de software y su instalación en el equipo 
+informático de la plataforma TESTBED, a fin de que las acciones que se desarrollen en el marco 
+del citado proyecto en Costa Rica puedan contribuir al logro de los resultados esperados.  
+ 
+El software objeto de la contratación será el siguiente:  
+Software y servicios para hardware de la solución 1  
+• 10 Nokia Team Commos (PTT/PTV) / NTC APPLICATION per  
+• 5 Device Management (EMM + IoT) NDT SW per device  
+• 5 Device Management (EMM + IoT) NDT server subscription per device p.m  
+• 1 Device Management (EMM + IoT) NDT edge subscription p.m  
+• 1 Licencia SSNDBACN1054 Medium+ Edge 5G Connectivity / Medium + cap. Bundle 
+pW Core 5G/month 
+• 14 Licencias SSNDBACN1085 MXIE subscription per vCPU / MXIE platform 
+subscription (monthly)  
+• 1 Licencia SSNDBACN1047 Micro 5G Connectivity upto 100MHz  
+
+--- página 3 ---
+ 
+ 
+DEMA-2026-045 
+Adquisición de licencias software necesarias para garantizar la 
+operatividad de la plataforma TESTBED, incluyendo los servicios de 
+activación y configuración asociados, siendo su ejecución en Costa 
+Rica 
+Proyecto: 243200 Conectividad 5G en Costa Rica   
+ 
+ 
+• 2 Licencias SSNDBACN1042 Pico 5G Connectivity upto 100MHz  
+• 10 Licencias SSNDBACN1129 NTC application subscription per user  
+• 1 Licencias SSNDBACN1130 NTC edge subscription 200 user  
+• 10 Licencias SWNDDEVS1007 NID-lot application per device / NIDM -IoT application 
+per device 
+• 10Licencia SSNDBACN1201 NIDM -IoT subscription per device p.m  
+• 1 Licencia SSNDBACN1104 NID-loT edge subscription p.m / NIDM -IoT edge 
+subscription p.m  
+• 4 Licencias SWNDDEVS1002 NDIM-EMM application per device / NIDM -EMM 
+application per device  
+• 4 Licencias SSNDBACN1128 NIM-EMM application per device / NIDM -EMM 
+application per device  
+ 
+ La duración de las licencias es de 3 meses. 
+Este software deberá dar operatividad a los siguientes equipos hardware  ya instalados en 
+la sede. 
+Referencia de Hardware: 
+• Solution Component Qty  
+• MicroRRH 4T4R n78 (AWHQF: 3,6 – 3,8 Ghz) 1 
+• Pico n78 5G Radio (Indoor) 2  
+• BBU ASOE with outdoor kit 1  
+• MXIE server (HPE DL110) kit (include 7250 IXR -e) for 5G SA 1  
+• SIM cards kit (100) 1  
+• Industrial router 5G IP67 oudoor (Nokia FRRO501c) 1  
+• Industrial router 5G indoor (Nokia FRRx502e) 1  
+• Dongle Industrial 5G (DGRx501e) 1  
+• Smartphone 5G (Nokia XR20) 2  
+• Video camera 5G (Nokia Cxxx502x) 1  
+• Indoor 5G CPE CPxx503e with WiFi 1  
+ 
+Las operaciones objeto del presente contrato serán las siguientes con relación a cada servicio 
+especializado:  
+• Suministro y renovación de las licencias software descritas en el Pliego de 
+Prescripciones Técnicas.  
+• Activación, configuración o actualización de dichas licencias cuando resulte necesario 
+para garantizar su correcto funcionamiento.  
+• Mantener informada a la FIAP de la gestión, avances y obstáculos que se puedan 
+encontrar durante la ejecución del Proyecto.  
+ 
+ 
+
+--- página 4 ---
+ 
+ 
+DEMA-2026-045 
+Adquisición de licencias software necesarias para garantizar la 
+operatividad de la plataforma TESTBED, incluyendo los servicios de 
+activación y configuración asociados, siendo su ejecución en Costa 
+Rica 
+Proyecto: 243200 Conectividad 5G en Costa Rica   
+ 
+ 
+ 
+ 
+4. PLANIFICACIÓN DE LOS TRABAJOS  
+ 
+4.1 Programa de trabajo–Cronograma 
+ 
+La ejecución de  la prestación se realizará en base a diferentes fases o hitos, incluyendo cada 
+uno de estos hitos un conjunto de actividades que deben estar finalizadas, y cuyos entregables, 
+definidos en el apartado siguiente, serán validados por la FIAP para poder proceder a su 
+facturación. A continuación, se incluye la propuesta de cronograma para las distintas tareas:  
+ 
+Hitos Software y servicios para hardware de la 
+solución 1  
+Meses 
+1 
+Hito 1: Entrega de las licencias software   
+Hito 2: Comprobación definitiva del correcto 
+funcionamiento de las licencias en los equipos 
+informáticos  
+ 
+ 
+4.2 Productos resultantes y entregables  
+ 
+A continuación, se listan los productos y entregables:  
+ 
+ 
+Toda la documentación entregada deberá ser nombrada de acuerdo a la nomenclatura y el 
+formato establecidos, y deberá ser validada y aprobada por la FIAP. El adjudicatario se 
+comprometerá a realizar tantas revisiones y entregas como sea necesario hasta que dicha 
+documentación satisfaga las necesidades de  la FIAP. 
+ 
+Todos los entregables generados durante la ejecución del contrato son de propiedad de la FIAP, 
+sin que el adjudicatario pueda conservarlos, ni obtener copia de los mismos o facilitarlos a 
+terceros, salvo autorización expresa de la FIAP. 
+ 
+5. MODELO DE INTERLOCUCIÓN, CONTROL DE CALIDAD  Y SEGUIMIENTO DE LA 
+EJECUCIÓN 
+ 
+La organización de la prestación  y su ejecución será tal que permita obtener un seguimiento 
+formal del mismo, estableciendo periodos de evaluación de la calidad  de los trabajos realizados. 
+Se especificará la persona o personas que, sin perjuicio de la responsabilidad propia de la 
+empresa, estarán autorizadas para las relaciones con la FIAP , a efectos del uso correcto del 
+material y de la información a manejar, existiendo la obligación de guardar la debida 
+Hito Descripción del hito y sus entregables  Previsión de 
+entregas 
+Entrega e instalación de 
+las licencias software de la 
+solución 1.  
+Instalación del software  en los equipos 
+informáticos para dar operatividad a la 
+Plataforma TESTBED.   
+En el primer 
+mes 
+Comprobación d efinitiva 
+del correcto 
+funcionamiento de las 
+licencias en los equipos 
+informáticos.  
+Una vez efectuada la instalación de los equipos 
+y estos estén en funcionamiento, el personal 
+adscripto al contrato deberá estar disponible 
+para dar cumplimiento a la brevedad ante 
+cualquier necesidad de solución que se 
+presente.  
+En el  primer 
+mes de 
+ejecución. 
+
+--- página 5 ---
+ 
+ 
+DEMA-2026-045 
+Adquisición de licencias software necesarias para garantizar la 
+operatividad de la plataforma TESTBED, incluyendo los servicios de 
+activación y configuración asociados, siendo su ejecución en Costa 
+Rica 
+Proyecto: 243200 Conectividad 5G en Costa Rica   
+ 
+ 
+confidencialidad, aunque se extinga el contrato, hasta que dicha información pierda tal carácter, 
+o se produzca la debida autorización por parte de la FIAP.  
+ 
+ 
+Durante la ejecución, la FIAP mantendrá con el adjudicatario una comunicación regular, que 
+incluya reuniones periódicas (y siempre que lo solicite la FIAP), que le permita efectuar un 
+adecuado seguimiento y realizar las funciones que le han sido encomendad as. Deberá velar por 
+el mantenimiento de las condiciones técnicas y de solvencia incluidas en el contrato. En 
+particular: 
+ 
+• El mantenimiento de los medios materiales y personales comprometidos para ejecutar los  
+trabajos encomendados.  
+• El desarrollo de los trabajos de acuerdo con el programa previsto.  
+• La resolución de los problemas y puntos pendientes que se vayan planteando.  
+• El mantenimiento de las fechas previstas  de entrega . En caso de desviaciones deberán 
+establecerse las  causas y atribuir la responsabilidad de las mismas . 
+ 
+6. LUGAR DE PRESTACIÓN DE  LA ADQUISICIÓN E INSTALACIÓN  
+ 
+La adquisición e instalación de software , previsto en la solución 1,  se realizará en la Promotora 
+Costarricense de Innovación e Investigación, Vázquez de Coronado, San José de Costa Ric a.  
+ 
+ 
+En Madrid, a fecha de firma,  
+ 
+ 
+ 
+ 
+ 
+ 
+Sandra Ramírez 
+Técnica de Proyecto 

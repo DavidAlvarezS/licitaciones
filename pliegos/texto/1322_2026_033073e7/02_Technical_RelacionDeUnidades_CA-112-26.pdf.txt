@@ -1,0 +1,197 @@
+
+
+--- página 1 ---
+ 
+ 
+ 
+RELACIÓN DE UNIDADES 
+ 
+Identificación de modelos y número de unidades parciales y totales , incluyendo el mínimo 
+nivel de soporte a contratar con el fabricante (se valorarán propuestas que superen este 
+mínimo exigido): 
+   
+Nivel Soporte 
+Fabricante 
+Id Modelo Unidades AHR GTAC 
+1 X590-24x-1q-2c 4 4 0 
+2 X440-G2-12t-10G4 11 0 11 
+3 X440-G2-12p-10G4 12 0 12 
+4 X440-G2-24t-10G4 12 0 12 
+5 X440-G2-24p-10G4 4 3 1 
+6 X440-G2-48p-10G4 11 8 3 
+7 5320-16P-4XE-SE 3 0 3 
+8 5320-24T-8XE-SE 4 0 4 
+9 5320-24P-8XE-SE 8 1 7 
+10 5320-48T-8XE-SE 1 0 1 
+11 ISW-8GP-G4 5 0 5 
+12 X435-8T-4S 4 4 0 
+  79 20 59 
+ 
+La Consola de Gestión actual es la XIQ -Site-Engine, que debe estar licenciada para al menos 
+1.000 equipos (XIQ -NAC-S-1K-PWP), incluyendo el soporte del servicio NAC . No obstante , 
+debido al cambio de plataforma y tipo de licenciamiento del fabricante, se debe contemplar 
+la migración al nuevo (XIQ a EP1), además de todas las licencias de derechos (EP1-STD-T[?]-S-
+C-EW-1YR) que sean necesarias para dar soporte a todo el equipamiento. Todos estos datos 
+han sido consen suados previamente con el fabric ante, quien dispone de la plantilla con el 
+detalle y características de la planta necesaria para la renovación del servicio de la APBC. 
+ 
+Con carácter adicional al suministro de mantenimiento/suscripción, los licitadores habrán de 
+contemplar en su oferta un conjunto de condiciones de solvencia y servicios para satisfacer 
+los siguientes requerimientos: 
+ 
+Requerimiento de Competencia: Partenariado 
+Todos los licitadores deberán acreditar ser “partners ” oficiales y vigentes del fabricante 
+involucrado. 
+ 
+Requerimiento de Servicio: Consultoría y Soporte 
+Con carácter adicional al suministro del licenciamiento/suscripción, y con el mismo alcance 
+temporal anual, los licitadores habrán de contemplar en su oferta Consultoría y Soporte de 
+tipo Hot -Line, como canal de soporte técnico o atención prioritaria diseñado para resolver 
+
+--- página 2 ---
+ 
+ 
+ 
+incidencias operativas urgentes de forma inmediata sobre la Red de Comunicaciones 
+Corporativa, con al menos las siguientes características principales: 
+• Inmediatez y disponibilidad: Ofreciendo una respuesta rápida o comunicación directa y 
+continua para evitar interrupciones críticas en los procesos de negocio corporativos 
+• Soporte remoto y telefónico:  Permitiendo la asistencia a distancia y el control remoto 
+de equipos para solucionar problemas sin necesidad de esperas ni desplazamientos 
+• Atención especializada: Operado por técnicos o consultores expertos y certificados en 
+las tecnologías previamente referidas que cono zcan a fondo los sistemas o la 
+infraestructura corporativa 
+• Carácter prioritario con tarifa plana:  Constituido por una bolsa de horas anual que 
+garantizan prioridad en la resolución de incidencias . Dicha bolsa habrá de contemplar 
+un mínimo de 15 horas, considerando incluida una desviación máxima de un +20%. En 
+la oferta económica se habrá de fijar un precio por hora, aplicable a potenciales 
+incidencias que excedan de la disponibilidad de la bolsa 
+• Alcance mínimo: Soporte Hot-Line 9x5 en días laborables de 9 a 18 horas con tiempo de 
+respuesta inferior a 4 horas contabilizando horas efectivas sin carencia por bloques de 
+tiempo mínimo 
+• Intermediación: Tramitación RFB con los “partners ” y/o fabricantes para la gestión de 
+incidencias que necesiten de su colaboración 
+• Completitud, Verificación y Acreditación:  Comprobación del parque tecnológico de la 
+APBC con los datos del fabricante garantizando ausencia de errores en la acreditación 
+de renovación del entregable. Para realizar esto ú ltimo, al adjudicatario se le 
+proporcionará completo el detalle del equipamiento esbozado a continuación.  
+ 
+Requerimiento de Facturación 
+La facturación de los trabajos, así contemplada en la oferta, se dividirá en: 
+• Suministro: Tras la entrega de las suscripciones requeridas de licenciamiento y/o 
+mantenimiento más comprobación de validez por la APBC. Cuando se trate de 
+efectos subrogados de fabricantes, se exigirá la certificación documental de aquellos. 
+• Servicios: Tras la activación de su uso después de la resolución de la primera incidencia 
+con efectos sobre la consultoría o bolsa de horas. 
+ 
+ 
+ 
+ 
+
+--- página 3 ---
+ 
+ 
+ 
+RELACIÓN DE UNIDADES (DETALLE) 
+ 
+# NOMBRE MODELO UNIDADES UD_MOD S/N MAC 
+1 APBC-CORE X590-24x-1q-2c 2 1   
+2 APBC-CORE X590-24x-1q-2c 2 2   
+3 EPPC-CORE X590-24x-1q-2c 2 3   
+4 EPPC-CORE X590-24x-1q-2c 2 4   
+5 S-AP04 X440G2-12t-10G4 1 1   
+6 S-AP06 X440G2-12t-10G4 1 2   
+7 S-AP10 X440G2-12t-10G4 1 3   
+8 S-AP12 X440G2-12t-10G4 1 4   
+9 S-PIF X440G2-12t-10G4 1 5   
+10 S-AP17 X440G2-12t-10G4 1 6   
+11 S-AP19 X440G2-12t-10G4 1 7   
+12 S-AP20 X440G2-12t-10G4 1 8   
+13 S-AP15 X440G2-12t-10G4 1 9   
+14 S-LONJAPSM-C2 X440G2-12t-10G4 1 10   
+15 S-LONJAPSM-C3 X440G2-12t-10G4 1 11   
+16 S-AP05 X440G2-12p-10G4 1 1   
+17 S-AP09 X440G2-12p-10G4 1 2   
+18 S-AP11 X440G2-12p-10G4 1 3   
+19 S-ACCIONA X440G2-12p-10G4 1 4   
+20 S-CATAMARAN X440G2-12p-10G4 1 5   
+
+--- página 4 ---
+ 
+ 
+ 
+21 S-AP16 X440G2-12p-10G4 1 6   
+22 S-AP18 X440G2-12p-10G4 1 7   
+23 S-MAYPSM-2 X440G2-12p-10G4 1 8   
+24 S-EM-SATELITE X440G2-12p-10G4 1 9   
+25 S-EMARITIMA X440G2-12p-10G4 1 10   
+26 S-LONJA-PICEXT X440G2-12p-10G4 1 11   
+27 S-HARINERA X440G2-12p-10G4 1 12   
+28 S-CCOM X440G2-24t-10G4 1 1   
+29 S-CCS X440G2-24t-10G4 1 2   
+30 S-CMAR X440G2-24t-10G4 1 3   
+31 S-ECM X440G2-24t-10G4 1 4   
+32 S-FORM X440G2-24t-10G4 1 5   
+33 S-LONJA X440G2-24t-10G4 1 6   
+34 S-CAB X440G2-24t-10G4 1 7   
+35 S-PSM X440G2-24t-10G4 1 8   
+36 S-CPSM X440G2-24t-10G4 1 9   
+37 S-TALL-PSM X440G2-24t-10G4 1 10   
+38 S-MAYPSM X440G2-24t-10G4 1 11   
+39 S-SEC-ASTILLEROS X440G2-24t-10G4 1 12   
+40 S-EPPC X440G2-24p-10G4 3 1   
+41 S-LONJASEG X440G2-24p-10G4 1 2   
+42 S-SA X440G2-24p-10G4 2 3   
+43 S-SA X440G2-24p-10G4 2 4   
+44 S-APBC X440G2-48p-10G4 5 1   
+45 S-APBC X440G2-48p-10G4 5 2   
+46 S-APBC X440G2-48p-10G4 5 3   
+
+--- página 5 ---
+ 
+ 
+ 
+47 S-APBC X440G2-48p-10G4 5 4   
+48 S-APBC X440G2-48p-10G4 5 5   
+49 S-EPPC X440G2-48p-10G4 3 6   
+50 S-EPPC X440G2-48p-10G4 3 7   
+51 S-SEC-CAB X440G2-48p-10G4 1 8   
+52 S-SEC-ZFR X440G2-48p-10G4 1 9   
+53 S-OOPP X440G2-48p-10G4 1 10   
+54 S-APBC-PL4 X440G2-48p-10G4 1 11   
+55 S-LONJA-CANTIL 5320-16P-4XE 1 1   
+56 S-LONJAPSM-CANTIL 5320-16P-4XE 1 2   
+57 S-PSM-ALMGC 5320-16P-4XE 1 3   
+58 S-ZFR 5320-24T-8XE 1 1   
+59 S-LONJAPSM-C1 5320-24T-8XE 1 2   
+60 Reserva 3 5320-24T-8XE 1 3   
+61 Reserva 4 5320-24T-8XE 1 4   
+62 S-SEC-CIUDAD 5320-24p-8XE 1 1   
+63 S-SEC-COMILLAS 5320-24P-8XE 1 2   
+64 S-SEC-CIUDAD 5320-24P-8XE 1 3   
+65 S-SEC-ALMACEN1 5320-24P-8XE 1 4   
+66 S-SEC-OOPP 5320-24P-8XE 1 5   
+67 S-SEC-RF 5320-24P-8XE 1 6   
+68 S-CAB-CASETA 5320-24P-8XE 1 7   
+69 S-CAB-CASETA1 5320-24P-8XE 1 8   
+70 S-LONJA-SUBASTAS 5320-48T-8XE 1 1   
+71 S-CAB-BACULO1 (A) ISW-8GP-G4 1 1   
+72 S-CAB-BACULO3 (C) ISW-8GP-G4 1 2   
+
+--- página 6 ---
+ 
+ 
+ 
+73 S-CAB-BACULO5 (D) ISW-8GP-G4 1 3   
+74 S-CAB-BACULO7 (G) ISW-8GP-G4 1 4   
+75 S-CAB-BACULO9 (I) ISW-8GP-G4 1 5   
+76 S-CAB-TREN1 X435-8T-4S 1 1   
+77 S-CAB-TREN2 X435-8T-4S 1 2   
+78 S-CAB-TREN3 X435-8T-4S 1 3   
+79 S-CAB-TREN4 X435-8T-4S 1 4   
+ 
+Observación: Consideración análoga de la Consola de Gestión , según corresponda  (XIQ-Site-Engine) más la cobertura del servicio NAC y la adaptación a  la 
+nueva plataforma EP1 Y su modelo de licenciamiento según los descrito anteriormente. 
+ 
+ 
+ 

@@ -1,0 +1,474 @@
+
+
+--- página 1 ---
+DIRECCIÓN GENERAL DE RACIONALIZACIÓN 
+Y CENTRALIZACIÓN DE LA CONTRATACIÓN 
+MINISTERIO 
+DE HACIENDA 
+SUBSECRETAR˝A  
+ 
+secretaria.contratacioncentralizada@hacienda.gob.es  - PÆgina 1 - C/ AlcalÆ, 5, 4“ planta 28014  Madrid 
+TEL: 91 595 81 00 
+ 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS QUE RIGE LA CELEB RACIÓN DEL SISTEMA 
+DIN`MICO DE ADQUISICIÓN DE SERVICIOS PARA EL DESARROLLO Y MANTENIMIENTO DE 
+PROGRAMAS A MEDIDA (SDA 26/2026) 
+ 
+I. `MBITO OBJETIVO DEL SISTEMA DIN`MICO DE ADQUISICIÓN ......................................................................................... 2 
+II. DEFINICIÓN TÉCNICA DE LAS PRESTACIONES ................................................................................................................. ... 3 
+III. PROPIEDAD DE LOS PROGRAMAS, MODELOS Y OTROS ENTREGABLES ............................................................................ 4 
+IV. MODELOS Y SISTEMAS DE INTELIGENCIA ARTIFICIAL ....................................................................................................... 5 
+V. DESCRIPCIÓN DE LOS COMPONENTES DE PRESTACIÓN DEL SERVICIO ............................................................................. 5 
+V.1. Desarrollo en base a hitos y entregables (01 01 00) ................................................................................................ ... 5 
+V.2. Desarrollo en base a unidades de actividad  (01 02 00) ............................................................................................. 5 
+V.2.1. Metodología aplicable......................................................................................................................................... 6 
+V.3. Mantenimiento correctivo en base a acuerdos de nivel de servicio  (01 03 00) ......................................................... 7 
+V.4. Oficina de actividad  (01 04 00) ....................................................................................................................... ........... 7 
+V.5. Transferencia de conocimiento (01 05 00) ................................................................................................................. 7 
+VI. ADSCRIPCIÓN DE MEDIOS MATERIALES A LA EJECUCIÓN DEL SERVICIO ......................................................................... 8 
+VII. GARANT˝A DE LOS PROGRAMAS A MEDIDA.................................................................................................................... 8 
+VIII. USO DE INTELIGENCIA ARTIFICIAL PARA LA EJECUCIÓN DEL SERVICIO .......................................................................... 9 
+ 
+ 
+ALBERTO RAMALLO LUCINI - 2026-08-12 10:47:04 CEST, cargo=SUBDIRECTOR / SUBDIRECTORA GENERAL, organizacion=E05250001-Ministerio de Hacienda 
+Puede comprobar la autenticidad de esta copia mediante CSV:  OIP_BAVZAEXCJMOS26CNP9J4TDT3BXGU  en https://www.pap.hacienda.gob.es
+
+--- página 2 ---
+DIRECCIÓN GENERAL DE RACIONALIZACIÓN 
+Y CENTRALIZACIÓN DE LA CONTRATACIÓN 
+MINISTERIO 
+DE HACIENDA 
+SUBSECRETAR˝A  
+ 
+secretaria.contratacioncentralizada@hacienda.gob.es  - PÆgina 2 - C/ AlcalÆ, 5, 4“ planta 28014  Madrid 
+TEL: 91 595 81 00 
+ 
+ 
+I.  `MBITO OBJETIVO DEL SISTEMA DIN`MICO DE ADQUISICIÓN  
+En este pliego de prescripciones tØcnicas (PPT) se detalla n los servicios que se incluyen en el sistema dinÆmico de  
+adquisición, así como las definiciones y las prescripciones tØcnicas que serÆn de aplicación en la ejecución del mismo.  
+Son objeto de este sistema dinÆmico de adquisición los  servicios para el desarrollo y mantenimiento de programas  a 
+medida, cuyo objeto consista en la consultoría, desarr ollo, implantación, auditoría y/o mantenimiento de program as 
+desarrollados a medida y cuyo presupuesto de licitación no supere el importe mÆximo fijado como límite en la Orden de 
+declaración de bienes y servicios de contratación centralizada que estØ vigente cuando los organismos destinarios envíen 
+la invitación a los adjudicatarios del sistema dinÆmico. 
+El objeto de los contratos específicos de este sistema dinÆmico puede incluir los servicios que permiten la transferencia 
+de conocimiento a la Administración del funcionamiento, detalles tØcnicos y diseæo lógico de los programas desarrollados 
+a medida en el marco de dicho contrato específico. Esta tra nsferencia de conocimiento puede realizarse mediante la  
+elaboración de documentación en cualquier formato (documentos de texto o visuales, vídeos, contenidos audiovisuales, 
+etc.) o mediante sesiones formativas dirigidas tanto al personal responsable de operar o mantener el programa como al 
+personal usuario del mismo. En ningœn caso dicha tran sferencia de conocimiento sobre el programa a medida pod rÆ 
+incluir contenidos que hagan objeto de materias de forma ción general, tales como cursos sobre tecnologías, obtención 
+de certificaciones o titulaciones o cualquier otra formación que no se refiera a la especificidad de los trabajos realizados 
+a medida para la Administración. 
+Todos los servicios anteriores podrÆn ser prestados por personal con conocimientos, experiencia y/o titulaciones en las 
+materias de tecnologías de la información y de las comunicaciones (TIC), incluyendo ciberseguridad y calidad de servicios 
+y productos informÆticos, así como de plataformas informÆticas, lenguajes de programación o matemÆticos y entornos 
+específicos; la gestión de proyectos y cualesquiera metodo logías de gestión de servicios o proyectos; diseæo grÆfico, 
+accesibilidad y usabilidad; estadística y mØtodos matemÆ ticos para el anÆlisis de grandes cantidades de datos;  y/o 
+inteligencia artificial de propósito general o específicamente orientada a las actividades TIC.  
+Quedan expresamente excluidos de este sistema dinÆmic o de adquisición los contratos específicos en los que el  valor 
+estimado sea inferior a 15.000 Euros, siempre que la duración prevista no exceda de un aæo o no puedan tramitarse 
+conforme a lo establecido para los contratos menores en el artículo 118 de la LCSP. 
+Igualmente se excluyen expresamente de este sistema di nÆmico de adquisición los servicios para el desarrollo y 
+mantenimiento de programas a medida, cuando dichos serv icios requieran de conocimiento o experiencia sectoriales,  
+como por ejemplo de medicina, del sector sanitario o del farmacØutico; del sector del derecho; de los sectores de bellas 
+artes o cultura; del sector de deportes; de los sectores finanzas, auditoría financiera, economía o contabilidad; del sector 
+científico; de los sectores acadØmico o pedagógico; o cualesquiera otros conocimientos especializados correspondientes 
+a un sector concreto de actividad. 
+Se excluyen expresamente del objeto de este sistema dinÆm ico de adquisición, con las excepciones anteriormente 
+descritas, los servicios de creación y gestión de conten idos de cualquier tipo, tales como la creación y gestión de  
+contenidos didÆcticos o pedagógicos; de contenidos formativos y cursos; de contenidos promocionales o de publi cidad 
+institucional; de contenidos de los portales y pÆginas ins titucionales; de noticias; de informes, estudios o anÆ lisis de la 
+actividad administrativa, de gobierno o de políticas pœblicas; o de cualesquiera otros contenidos desarrollados a medida 
+o adquiridos en el mercado. 
+No obstante, sí forma parte del objeto del sistema din Æmico la elaboración, creación y gestión de aquellos contenid os 
+grÆficos y/o audiovisuales que sean necesarios para desar rollar las interfaces de usuario de los programas a medida y 
+para completar la prestación de transferencia de conocimiento descrita en la clÆusula IV.5 de este PPT, y no constituyan 
+contenidos de los descritos en el pÆrrafo anterior. 
+Se excluyen del objeto de este sistema dinÆmico los servicios de centros de recepción de llamadas, centros de atención a 
+usuarios, y en general la asistencia directa a usuarios, ind ependientemente de que dichos usuarios sean personal al 
+servicio de las Administraciones Pœblicas o sean ciudadanos. 
+Se excluye del objeto de este sistema dinÆmico los serv icios de desarrollo de programas cuya propiedad intelectual y/o 
+comercial no sea titularidad de la Administración Pœblica. 
+ALBERTO RAMALLO LUCINI - 2026-08-12 10:47:04 CEST, cargo=SUBDIRECTOR / SUBDIRECTORA GENERAL, organizacion=E05250001-Ministerio de Hacienda 
+Puede comprobar la autenticidad de esta copia mediante CSV:  OIP_BAVZAEXCJMOS26CNP9J4TDT3BXGU  en https://www.pap.hacienda.gob.es
+
+--- página 3 ---
+DIRECCIÓN GENERAL DE RACIONALIZACIÓN 
+Y CENTRALIZACIÓN DE LA CONTRATACIÓN 
+MINISTERIO 
+DE HACIENDA 
+SUBSECRETAR˝A  
+ 
+secretaria.contratacioncentralizada@hacienda.gob.es  - PÆgina 3 - C/ AlcalÆ, 5, 4“ planta 28014  Madrid 
+TEL: 91 595 81 00 
+ 
+Finalmente, se excluye del objeto de este sistema dinÆmic o todo suministro, incluyendo entre otros el suministro d e 
+licencias de programas, de entornos de nube, de ordenado res, de modelos o sistemas de inteligencia artificial o de 
+cualquier otro bien cuya titularidad sea transferida a la Administración durante la ejecución o a la finalización del contrato. 
+ 
+II.  DEFINICIÓN TÉCNICA DE LAS PRESTACIONES 
+En el Æmbito de la ejecución del sistema dinÆmico de adqui sición serÆn de aplicación las definiciones reflejadas en e ste 
+apartado. 
+Los tØrminos equipamiento, equipo y hardware deben entenderse como sinónimos, y hacen referencia a bienes físicos 
+tangibles, de naturaleza material y cuya propiedad se adquiere por el organismo destinatario.  
+Se denomina infraestructura local a aquellos equipamientos de las tecnologías de la informac ión y las comunicaciones 
+bajo control directo de las administraciones pœblicas. L a infraestructura local consiste en centros de procesamien to de 
+datos propiedad de las administraciones pœblicas o arrendad os, servidores, almacenamiento, redes y dispositivos 
+asociados al puesto de trabajo tales como ordenadores, portÆtiles, telØfonos móviles o impresoras.  
+El tØrmino dispositivo de usuario  designa equipos físicos para su uso directo por uno o varios usuarios. Incluye los 
+ordenadores de sobremesa, ordenadores portÆtiles, tabletas, telØfonos móviles, impresoras individuales, impresoras de 
+pasillo y otros equipos similares.  
+Toda mención a la infraestructura local incluye los dispositivos de usuario, salvo que se precise otra cosa. 
+Los tØrminos programa y software deben entenderse como sinónimos y hacen referencia a bie nes intangibles, que 
+consisten en una combinación de código, modelos de IA y sistemas de IA, que pueden ser ejecutados por el o rganismo 
+destinatario un nœmero ilimitado de veces sin sufrir desgaste, que pueden ser copiados a un coste nulo o insignificante y 
+de los que es posible adquirir derechos de uso y otros d erechos conexos comercializados por el fabricante en forma de 
+licencias. En consecuencia, se entiende por licencias las diferentes modalidades de comercialización de un programa, que 
+incluyen una serie de derechos que otorga el fabricante.  
+En el caso de los programas, el fabricante es el titular de los derechos de propiedad intelectual de l programa y por lo 
+tanto es la persona que tiene la capacidad de otorgar derechos de uso del mismo y otros derechos conexos.  
+En el caso de los equipamientos, todas las referencias al fabricante se refieren a la empresa que diseæa los equipamientos, 
+los fabrica y/o ensambla y ofrece el œltimo nivel de garantía de los productos, y todo ello bajo una marca comercial, siendo 
+el responsable œltimo en caso de errores de diseæo o vicios o defectos en la producción de los mismos. 
+El fabricante de un equipo o de un programa podrÆ ser una persona jurídica diferente del adjudicatario del acuerdo marco. 
+Se denominan programas de mercado o programas comerciales aquellos cuya propiedad intelectual es titularidad de 
+una persona física o jurídica que no es una Administración pœblica y son comercializados en el mercado mediante la venta 
+de licencias que otorgan derechos al adquiriente. 
+En el Æmbito del sistema dinÆmico, se denominan programas a medida (o programas desarrollados a medida) aquellos 
+programas cuya propiedad intelectual y código fuente son  titularidad de alguna Administración pœblica espaæola. En 
+consecuencia, el fabricante de los programas a medida es la propia Administración p œblica espaæola propietaria del 
+código fuente y titular de su propiedad intelectual. En el caso de los modelos y sistemas de IA que forman parte o 
+constituyen dichos programas a medida y son propiedad de la Administración por haber sido desarrollados o entrenados 
+por la misma, la Administración es el proveedor de los mismos a efectos de la aplicación del Reglamento (UE) 2024/1689. 
+Se denomina la nube a la modalidad de puesta a disposición de activos desde equipamiento de terceros, ajenos al control 
+directo de las administraciones pœblicas. La persona jurídica que instala, configura, mantiene y opera dicho equipamiento 
+por su riesgo y ventura, en instalaciones bajo su directo control y con Ænimo comercial bajo su propia marca, sin recibir 
+instrucciones del organismo destinatario, se denomina proveedor de nube.  
+El proveedor de nube opera y gestiona infraestructura que no estÆn bajo control directo de las administraciones pœblicas, 
+almacena datos y ejecuta los programas por cuenta de dichas administraciones, y ofrece comercialmente capacidades de 
+cómputo o almacenamiento desvinculadas de los equipamie ntos físicos subyacentes. Para todo ello puede adopta r 
+decisiones tØcnicas que no estÆn bajo el completo control o conocimiento de las administraciones pœblicas.  
+ALBERTO RAMALLO LUCINI - 2026-08-12 10:47:04 CEST, cargo=SUBDIRECTOR / SUBDIRECTORA GENERAL, organizacion=E05250001-Ministerio de Hacienda 
+Puede comprobar la autenticidad de esta copia mediante CSV:  OIP_BAVZAEXCJMOS26CNP9J4TDT3BXGU  en https://www.pap.hacienda.gob.es
+
+--- página 4 ---
+DIRECCIÓN GENERAL DE RACIONALIZACIÓN 
+Y CENTRALIZACIÓN DE LA CONTRATACIÓN 
+MINISTERIO 
+DE HACIENDA 
+SUBSECRETAR˝A  
+ 
+secretaria.contratacioncentralizada@hacienda.gob.es  - PÆgina 4 - C/ AlcalÆ, 5, 4“ planta 28014  Madrid 
+TEL: 91 595 81 00 
+ 
+El proveedor de nube podrÆ ser una persona jurídica dif erente del adjudicatario del sistema dinÆmico de adquisició n y 
+diferente del fabricante de los programas o de los equipos. 
+El proveedor de nube pone a disposición de sus client es activos en la nube, programas en la nube, capacidades en la 
+nube o aplicaciones en la nube . Todos estos tØrminos se utilizan como sinónimos. Un a ctivo en la nube es una 
+combinación de equipamiento y de programas que se manifiesta como un todo indisoluble, sin que sea posible para los 
+adquirientes de dicho activo distinguir los detalles con cretos de dichos equipos y programas que permiten su pue sta a 
+disposición. El conjunto de activos en la nube de un proveedor se designa como la nube de dicho proveedor. 
+Una plataforma de infraestructura en nube  es un conjunto de activos en la nube de un proveedor,  que proporcionan 
+capacidades de propósito general para cómputo, almacenam iento, conexión (redes) y algorítmica, en modalidad de 
+autoservicio y facturación periódica variable en función  de las capacidades utilizadas, o fija si las capaci dades son 
+reservadas o previstas. 
+A los efectos de este sistema dinÆmico, no se considera una plataforma de infraestructura de nube aquellos programas 
+en nube que tienen un propósito concreto (por ejemplo ITSM, productividad, CRM, gestor documental, etc.) y por lo tanto 
+no son de propósito general, aunque permitan la persona lización de su funcionamiento u ofrezcan capacidades de 
+cómputo, almacenamiento, conexión o algorítmica adicionales, en la medida en que dichas capacidades estØn diseæadas 
+para el mismo propósito al que sirve el programa en nube y sólo pueden ser utilizadas para dicho propósito. 
+Una plataforma pœblica de infraestructura en nube es una plataforma de infraestructura en nube puesta a disposición 
+de cualquier persona física o jurídica en el mercado, mediante un contrato firmado entre el proveedor y el adquiriente, 
+sin que este œltimo tenga ninguna capacidad de decis ión sobre las decisiones tØcnicas del primero. Una plataforma 
+privada de infraestructura en nube es una plataforma de infraestructura en nube de un proveedor, puesta a disposición 
+de un nœmero limitado de adquirientes, los cuales tienen poder de decisión sobre las decisiones tØcnicas del prime ro. 
+Una plataforma híbrida de infraestructura en nube  es una plataforma privada de infraestructura en nube en la que 
+determinadas capacidades pueden ser transferidas a una plataforma pœblica de infraestructura en nube. 
+En el Æmbito de este sistema dinÆmico so de aplicación las definiciones proporcionadas por el Reglamento (UE) 2024/1689 
+del Parlamento Europeo y del Consejo, de 13 de junio de 2024, y entre ellas las de sistema de inteligencia artificial, modelo 
+de inteligencia artificial , proveedor, responsable del despliegue , y cualesquiera otras que resulten de aplicación a los 
+contratos específicos. 
+Se apreciarÆ que un bien incluido en la oferta de un licitador es equivalente a otro solicitado en el documento de licitación 
+cuando concurran las condiciones siguientes: 
+ el producto ofertado puede realizar todas las funciones que puede realizar el producto solicitado,  
+ el producto ofertado es compatible con el producto solic itado, y por lo tanto es capaz de tratar toda la 
+información que podía tratar el producto solicitado sin pØrdida ninguna de calidad, y 
+ en su caso, la instalación, configuración y puesta en ma rcha del producto ofertado no suponen ningœn 
+sobrecoste ni sobreesfuerzo con respecto a las del producto solicitado. 
+ 
+III.  PROPIEDAD DE LOS PROGRAMAS, MODELOS Y OTROS ENTREGABLES 
+La titularidad de los derechos de propiedad intelectual de todos los programas desarrollados durante la ejecución 
+corresponde exclusivamente al organismo destinatario d e la prestación. La empresa contratista renuncia a cualquier 
+derecho de propiedad intelectual o industrial sobre cualqu iera de los productos generados durante la ejecución del 
+contrato (código fuente, documentación, datos, etc.).  
+Los documentos específicos no podrÆn excluir la cesión de los derechos de propiedad intelectual a la Administración.  
+El código fuente, los modelos de inteligencia artificial, la documentación y cualquier otro producto que se genere como 
+resultado de la ejecución del servicio serÆ propiedad del organismo destinatario de la prestación, no pudiendo la empresa 
+adjudicataria conservar copias de los mismos, revelarlos  a terceras partes, incorporarlos en sus propios productos , 
+utilizarlos para la prestación de servicios, utilizarlos comercialmente ni, en general, disponer de ellos de ninguna manera 
+que no estØ explícitamente autorizada en el documento de invitación a la licitación. 
+ALBERTO RAMALLO LUCINI - 2026-08-12 10:47:04 CEST, cargo=SUBDIRECTOR / SUBDIRECTORA GENERAL, organizacion=E05250001-Ministerio de Hacienda 
+Puede comprobar la autenticidad de esta copia mediante CSV:  OIP_BAVZAEXCJMOS26CNP9J4TDT3BXGU  en https://www.pap.hacienda.gob.es
+
+--- página 5 ---
+DIRECCIÓN GENERAL DE RACIONALIZACIÓN 
+Y CENTRALIZACIÓN DE LA CONTRATACIÓN 
+MINISTERIO 
+DE HACIENDA 
+SUBSECRETAR˝A  
+ 
+secretaria.contratacioncentralizada@hacienda.gob.es  - PÆgina 5 - C/ AlcalÆ, 5, 4“ planta 28014  Madrid 
+TEL: 91 595 81 00 
+ 
+Los modelos de inteligencia artificial que hayan sido desarrollados como parte de la ejecución del servicio no podrÆn ser 
+comercializados por la empresa adjudicataria bajo su propia marca.  
+ 
+IV.  MODELOS Y SISTEMAS DE INTELIGENCIA ARTIFICIAL 
+En los documentos de invitación a la licitación de los  contratos específicos en los que sea de aplicación, se co ncretarÆn 
+los roles de cada una de las partes, así como las cond iciones y exigencias para dar cumplimiento al Reglamento ( UE) 
+2024/1689 del Parlamento Europeo y del Consejo, de 13 de j unio de 2024, así como a otra normativa relacionada que  
+resulte de aplicación a la ejecución del contrato específico.  
+ 
+V.  DESCRIPCIÓN DE LOS COMPONENTES DE PRESTACIÓN DEL SERVICIO  
+Los contratos específicos de este sistema dinÆmico de a dquisición pueden incluir prestaciones de diferente naturaleza, 
+en la proporción que se determine en el documento de in vitación a la licitación. Este documento debe igualmente 
+determinar la fecha de inicio y el plazo de ejecución y/o de duración de cada una de las prestaciones. 
+V.1.  DESARROLLO EN BASE A HITOS Y ENTREGABLES (01 01 00) 
+La prestación de desarrollo en base a hitos y entregables se desarrolla de manera lineal, progresando durante el periodo 
+de ejecución a travØs de fases diferentes que se suceden unas a otras. Puede seguir metodologías como metodología en 
+cascada, MØtrica v3 u otras similares.  
+Los hitos se asocian a las fases descritas en la metodología. Una fase puede componerse de uno o mÆs hitos. En el caso 
+de MØtrica v3 las fases son Estudio de Viabilidad del Sistema (EVS), AnÆlisis del Sistema de Información (ASI), Diseæo del 
+Sistema de Información (DSI), Construcción del Sistema de Información (CSI), e Implantación y Aceptación del Sistem a 
+(IAS), si bien otras metodologías pueden definir fases diferentes. 
+Una prestación de esta naturaleza debe definirse completamente en el documento de invit ación a la licitación, que 
+determina de manera completa el conjunto de los desarrollos y trabajos a realizar. Para ello, el documento de invitación 
+detalla el conjunto de todos los requisitos funcionales y no funcionales que constituyen el conjunto de la prestación.  
+El precio de la prestación se determina a tanto alzado. El documento de invitación a la licitación define el importe de cada 
+hito como un porcentaje del importe total de adjudicación del contrato. 
+El cumplimiento de cada hito se acredita mediante la puesta a disposición del responsable del contrato específico de los 
+entregables definidos para dicho hito, que deben incluir como mínimo el código fuente o la documentación definidos en 
+el documento de invitación para dicho hito.  
+La prestación se entenderÆ cumplida por el contratista  cuando Øste haya realizado, de acuerdo con los tØrminos  del 
+documento de invitación, y a satisfacción de la Administración, la totalidad de los hitos que la componen. En ningœn caso 
+el agotamiento del plazo de ejecución de esta prestación supondrÆ la extinción automÆtica del contrato. El plazo d e 
+ejecución podrÆ ampliarse conforme a lo dispuesto en el art. 29.3 LCSP y/o conforme a lo dispuesto en el art. 195.2 LCSP. 
+La prestación definida en base a hitos y entregables no es prorrogable, debido la naturaleza œnica e irrepetible de las 
+actividades a desarrollar. 
+V.2.  DESARROLLO EN BASE A UNIDADES DE ACTIVIDAD (01 02 00) 
+El objeto de la prestación se define por referencia a unid ades de actividad, conforme a lo establecido en el art . 308.3 
+LCSP.  
+El documento de invitación a la licitación debe incluir re ferencia a las funcionalidades a desarrollar, determinando s u 
+marco. Estas funcionalidades podrÆn concretarse atendiendo a consideraciones tØcnicas, económicas o necesidades del 
+usuario durante el período de ejecución.  
+El precio de la prestación se determina en base a precios unitarios. El documento de invitación a la licitación determinarÆ 
+ALBERTO RAMALLO LUCINI - 2026-08-12 10:47:04 CEST, cargo=SUBDIRECTOR / SUBDIRECTORA GENERAL, organizacion=E05250001-Ministerio de Hacienda 
+Puede comprobar la autenticidad de esta copia mediante CSV:  OIP_BAVZAEXCJMOS26CNP9J4TDT3BXGU  en https://www.pap.hacienda.gob.es
+
+--- página 6 ---
+DIRECCIÓN GENERAL DE RACIONALIZACIÓN 
+Y CENTRALIZACIÓN DE LA CONTRATACIÓN 
+MINISTERIO 
+DE HACIENDA 
+SUBSECRETAR˝A  
+ 
+secretaria.contratacioncentralizada@hacienda.gob.es  - PÆgina 6 - C/ AlcalÆ, 5, 4“ planta 28014  Madrid 
+TEL: 91 595 81 00 
+ 
+si se definen diferentes tipos de unidades de actividad, cada uno con un precio unitario; o bien si el precio s e define en 
+tØrminos de categorías profesionales y unidades de tiem po y durante la ejecución de la prestación se determina  
+individualmente el precio de cada unidad de actividad referido a dichos tØrminos.  
+El empresario se obliga a ejecutar el servicio de forma sucesiva y por precio unitario, sin que el nœmero total de entregas 
+o prestaciones incluidas en el objeto del contrato se d efina con exactitud al tiempo de celebrar Øste, por estar 
+subordinadas las mismas a las necesidades de la Administración. 
+El pago de estos contratos se ajustarÆ al ritmo requerido en la ejecución de las unidades de actividad requeridas. A estos 
+efectos, el documento de invitación definirÆ los periodos de facturación . Al finalizar cada periodo de facturación se 
+facturarÆn y abonarÆn œnicamente aquellas unidades de a ctividad entregadas por el contratista a satisfacción d e la 
+Administración durante dicho periodo de facturación. 
+En las prestaciones bajo esta modalidad, la Administraci ón no adquiere el compromiso  de ejecutar ningœn nœmero 
+mínimo de unidades de actividad, salvo que se determine lo contrario en el documento de invitación a la licitación. 
+El documento de invitación a la licitación determinarÆ el  presupuesto mÆximo disponible para la ejecución de esta 
+prestación, que puede corresponder con el presupuesto b ase de licitación para esta prestación, o bien ser inferi or de 
+manera proporcional a la baja ofertada por el contratista, ponderada segœn las diferentes unidades de actividad.  
+En el caso de que, dentro de la vigencia del contrato, las  necesidades reales fuesen superiores a las estimadas 
+inicialmente, deberÆ tramitarse la correspondiente modificación en los tØrminos del art. 204 LCSP. La citada modificación 
+deberÆ tramitarse antes de que se agote el presupuest o mÆximo inicialmente aprobado. No es de aplicación a los  
+contratos específicos basados en esta modalidad lo dispu esto en el art. 309.1 segundo pÆrrafo: cualquier exceso d e 
+unidades que supere el importe mÆximo definido en el contrato específico deberÆ ser tramitado como una modificación.   
+El documento de invitación a la licitación determinarÆ e l plazo de duración de la prestación. Al ser una prestación de 
+mera actividad, se extinguirÆ por el cumplimiento del pla zo inicialmente previsto o las prórrogas acordadas (art. 3 11.6 
+LCSP), independientemente del nœmero de unidades de actividad ejecutadas. Debido a la naturaleza de la prestación, no 
+es posible solicitar ampliación de plazo conforme a los artículos 29.3 y 195.2 LCSP, ya que no existen compromisos del  
+contratista que puedan retrasarse, al no haberse definido plazos. 
+Una prestación así definida sí es prorrogable, debido a la naturaleza iterativa de las actividades a realizar. 
+V.2.1.  METODOLOG˝A APLICABLE 
+Si la prestación se va a desarrollar mediante metodologías Ægiles o iterativas, de manera que la funcionalidad objeto del 
+desarrollo se concreta a lo largo del plazo de ejecución, debe obligatoriamente realizarse a travØs de esta modalidad. 
+El contrato se ejecuta como una sucesión de iteraciones. Cada iteración corresponde a un intervalo temporal 
+(normalmente entre dos semanas y un mes) para el que la persona responsable del contrato define las funcionalidades a 
+desarrollar. Con carÆcter general, todas las iteraciones deben tener la misma duración. Las funcionalidades a desarrollar 
+deben definirse en tØrminos de unidades de actividad. 
+El documento de invitación a la licitación deberÆ describir la metodología a emplear, con especial mención al menos a los 
+siguientes aspectos: 
+ Aspectos de la metodología o medidas concretas que garantizan que el contrato no instrumenta la contratación 
+de personal a travØs de esta prestación (conforme art. 308.2 LCSP); 
+ Aspectos de la metodología o medidas concretas que gar antizan que la Administración no asume el riesgo y 
+ventura en esta prestación (conforme art. 197 LCSP); 
+ Procedimiento para la determinación de las unidades de actividad correspondientes a cada funcionalidad o 
+desarrollo; 
+ Procedimiento y medios para la comunicación y el registro de las funcionalidades y desarrollos, incluyendo su 
+precio en tØrminos de unidades de actividad (art. 308.3  LCSP), que se solicitan al contratista durante cada 
+periodo de facturación. 
+En este sistema dinÆmico y para este tipo de prestaciones se define el concepto de velocidad del equipo, que establece 
+ALBERTO RAMALLO LUCINI - 2026-08-12 10:47:04 CEST, cargo=SUBDIRECTOR / SUBDIRECTORA GENERAL, organizacion=E05250001-Ministerio de Hacienda 
+Puede comprobar la autenticidad de esta copia mediante CSV:  OIP_BAVZAEXCJMOS26CNP9J4TDT3BXGU  en https://www.pap.hacienda.gob.es
+
+--- página 7 ---
+DIRECCIÓN GENERAL DE RACIONALIZACIÓN 
+Y CENTRALIZACIÓN DE LA CONTRATACIÓN 
+MINISTERIO 
+DE HACIENDA 
+SUBSECRETAR˝A  
+ 
+secretaria.contratacioncentralizada@hacienda.gob.es  - PÆgina 7 - C/ AlcalÆ, 5, 4“ planta 28014  Madrid 
+TEL: 91 595 81 00 
+ 
+el nœmero de unidades de actividad que el contratista debe entregar en cada iteración, siempre y cuando le hayan sido 
+previamente solicitadas por la persona responsable del contrato. El incumplimiento por parte del equipo de la velocidad 
+en una iteración, que se produce cuando el equipo no  entrega al menos las funcionalidades equivalentes a t antas 
+unidades de actividad como su velocidad comprometida, conlleva la aplicación de penalidades por demora.  
+V.3.  MANTENIMIENTO CORRECTIVO EN BASE A ACUERDOS DE NIVEL DE SERVICIO (01 03 00) 
+El objeto de la prestación consiste en el mantenimiento  de programas a medida ya existentes en el momento d e 
+formalizar el contrato específico, mediante modificaciones de su código fuente, de su configuración, o de ajuste s en su 
+entorno operativo.  
+Se trata de actividades de naturaleza reactiva, y por lo tanto no planificables. El personal adscrito al contrato sólo debe 
+actuar en reacción a una incidencia en el funcionamiento del programa.  
+El precio de la prestación se determina a tanto alzado , como una cantidad fija por un periodo determinado que se 
+concretarÆ en el documento de invitación a la licitación. E l correcto cumplimiento de la prestación se define media nte 
+acuerdos de nivel de servicio (ANS) establecidos en el documento de licitación.  
+El documento de invitación a la licitación determinarÆ e l plazo de duración de la prestación. Al ser una prestación de 
+mera actividad, se extinguirÆ por el cumplimiento del pla zo inicialmente previsto o las prórrogas acordadas (art. 3 11.6 
+LCSP). Debido a la naturaleza de la prestación, no es posible solicitar ampliación de plazo conforme a los artículos 29.3 y 
+195.2 LCSP, ya que no existen compromisos del contratista que puedan retrasarse, al no haberse definido plazos. 
+Una prestación así definida sí es prorrogable, debido a la naturaleza iterativa de las actividades a realizar. 
+V.4.  OFICINA DE ACTIVIDAD (01 04 00) 
+El objeto de la prestación consiste en la realización de tareas periódicas o ad-hoc, las cuales deben estar definidas en el 
+documento de invitación. Se incluyen, entre otras, ofici nas de desarrollo seguro de programas a medida; oficina s de 
+calidad de los desarrollos de programas a medida; oficinas  de gestión del dato; oficinas de gestión de proyectos,  de de 
+gestión de servicios y/o oficinas DevOps cuando su función sea ayudar en la gestión del desarrollo de programas a medida; 
+y otras oficinas de características similares a las anteriores, segœn se describan en el documento de invitación. 
+El precio de la prestación se determina a tanto alzado , como una cantidad fija por un periodo determinado qu e se 
+concretarÆ en el documento de invitación a la licitación. La facturación se realiza por periodos definidos en el documento 
+de invitación, sujeto a penalidades por demora o por cumplimiento defectuoso. 
+El documento de invitación a la licitación determinarÆ e l plazo de duración de la prestación. Al ser una prestación de 
+mera actividad, se extinguirÆ por el cumplimiento del pla zo inicialmente previsto o las prórrogas acordadas (art. 3 11.6 
+LCSP). Debido a la naturaleza de la prestación, no es posible solicitar ampliación de plazo conforme a los artículos 29.3 y 
+195.2 LCSP, ya que no existen compromisos del contratista que puedan retrasarse, al no haberse definido plazos. 
+Una prestación así definida sí es prorrogable, debido a la naturaleza iterativa de las actividades a realizar. 
+V.5.  TRANSFERENCIA DE CONOCIMIENTO (01 05 00) 
+La empresa adjudicataria estarÆ obligada a ofrecer toda la a yuda necesaria en la transferencia de conocimiento a los  
+organismos destinatarios con el fin de asegurar la continuidad del funcionamiento de los servicios. Esta transferencia de 
+conocimiento se refiere a los programas desarrollados a medid a para la Administración en el Æmbito del contrato 
+específico, así como otra documentación generada.  
+Esta transferencia tendrÆ que planificarse y llevarse a cabo de manera que evite cualquier problema en la prestación de 
+los servicios.  
+El documento de invitación a la licitación delimitarÆ la dura ción de esta fase y describirÆ los resultados y actuacion es 
+esperados. En todo caso, incluso si no describe una prestación de transferencia de conocimiento, la empresa contratista 
+entregarÆ al organismo destinatario toda la información, documentos y datos relacionados con los trabajos efectuad os 
+en el Æmbito del contrato específico. 
+ALBERTO RAMALLO LUCINI - 2026-08-12 10:47:04 CEST, cargo=SUBDIRECTOR / SUBDIRECTORA GENERAL, organizacion=E05250001-Ministerio de Hacienda 
+Puede comprobar la autenticidad de esta copia mediante CSV:  OIP_BAVZAEXCJMOS26CNP9J4TDT3BXGU  en https://www.pap.hacienda.gob.es
+
+--- página 8 ---
+DIRECCIÓN GENERAL DE RACIONALIZACIÓN 
+Y CENTRALIZACIÓN DE LA CONTRATACIÓN 
+MINISTERIO 
+DE HACIENDA 
+SUBSECRETAR˝A  
+ 
+secretaria.contratacioncentralizada@hacienda.gob.es  - PÆgina 8 - C/ AlcalÆ, 5, 4“ planta 28014  Madrid 
+TEL: 91 595 81 00 
+ 
+La transferencia de conocimiento puede incluir, entre otras, las siguientes actuaciones: 
+ Elaboración y entrega de documentación escrita, contenidos grÆficos, vídeos, tutoriales, recorridos formativos, 
+etc, cuando dichos contenidos versen exclusivamente so bre los programas desarrollados a medida para la 
+Administración durante la ejecución del contrato específico; 
+ Realización de sesiones formativas al personal tØcnico responsable del programa; 
+ Realización de sesiones formativas al personal al servic io de la Administración pœblica que va a utilizar los 
+programas desarrollados a medida durante la ejecución del contrato. 
+  
+ 
+VI.  ADSCRIPCIÓN DE MEDIOS MATERIALES A LA EJECUCIÓN DEL SERVICIO 
+El documento de invitación a la licitación podrÆ exigir la adscripción de medios materiales a la ejecución del servicio, entre 
+los que se pueden contar: 
+ Dispositivos personales y licencias de uso personal: ordenadores, telØfonos móviles, programas de productividad 
+y colaboración, sistemas operativos, antivirus, programas de edición grÆfica o audiovisual, agentes de 
+inteligencia artificial, etc; 
+ Licencias de programas de desarrollo (lenguajes, biblioteca s, etc) y/o modelos o sistemas de inteligencia 
+artificial; 
+ Entornos de desarrollo y de pruebas, en infraestructura local del contratista o en infraestructura en la nube: se 
+podrÆ exigir en el documento de invitación a la licitación que el contratista constituya uno o varios entornos de 
+desarrollo y/o de pruebas. Estos entornos serÆn propiedad del contratista durante toda la ejecución del contrato 
+y en ningœn caso podrÆn revertir a la Administración, sino que a la finalización del contrato el contratista puede 
+disponer de ellos como mejor considere. En ningœn caso la puesta a disposición de estos medios puede incurrir 
+en un suministro de licencias ni de equipos a la Administración, si bien en el caso de la infraestructura en nube 
+se puede exigir en el documento de invitación que el contratista transfiera el control del inquilino (tenant) a la 
+Administración a la conclusión del contrato; 
+ Conexiones: conexión de datos (5G, LTE, inalÆmbrica, e tc) para el personal adscrito a la ejecución, conexiones  
+VPN para el personal o multipunto de sede a sede, y otras conexiones cuya naturaleza serÆ temporal y estarÆn 
+limitadas a la ejecución del contrato, tanto en su finalidad y alcance como en su vigencia. 
+ Otros medios materiales necesarios para la ejecución del servicio. 
+Si bien el documento de invitación puede solicitar la adsc ripción de los anteriores medios materiales a la ejecución d el 
+contrato, en ningœn caso puede exigir el compromiso de adscripción previsto en el artículo 76.2 LCSP para estos medios. 
+No se puede solicitar la adscripción al contrato de conjuntos de datos (particularmente datos de prueba) ni de contenidos 
+grÆficos o audiovisuales. En caso de ser necesarios, los tiene que proporcionar la persona responsable del contrato. Si la 
+empresa contratista realiza modificaciones en los datos de p rueba durante la ejecución del contrato, a su finaliza ción 
+estarÆ obligada a entregar la œltima versión de los datos a la persona responsable del contrato específico. 
+Tal y como se establece en la clÆusula I de este pliego, en  ningœn caso ninguno de estos medios puede repercutir  a la 
+Administración ni durante la ejecución del contrato ni a su finalización.  
+No obstante, los datos generados durante la ejecución del contrato siempre deben entregarse a la Administración a la 
+finalización del contrato, así como todos los datos per sonales que la empresa contratista haya necesitado tra tar por 
+cuenta de la Administración durante la ejecución del contrato. 
+ 
+VII.  GARANT˝A DE LOS PROGRAMAS A MEDIDA 
+Una vez efectuada la recepción o conformidad segœn lo e stablecido en los artículos 210 y 311 de la LCSP, comenzarÆ e l 
+plazo de garantía de los entregables que hacen objeto del contrato específico. Este plazo se fija en nueve meses desde la 
+ALBERTO RAMALLO LUCINI - 2026-08-12 10:47:04 CEST, cargo=SUBDIRECTOR / SUBDIRECTORA GENERAL, organizacion=E05250001-Ministerio de Hacienda 
+Puede comprobar la autenticidad de esta copia mediante CSV:  OIP_BAVZAEXCJMOS26CNP9J4TDT3BXGU  en https://www.pap.hacienda.gob.es
+
+--- página 9 ---
+DIRECCIÓN GENERAL DE RACIONALIZACIÓN 
+Y CENTRALIZACIÓN DE LA CONTRATACIÓN 
+MINISTERIO 
+DE HACIENDA 
+SUBSECRETAR˝A  
+ 
+secretaria.contratacioncentralizada@hacienda.gob.es  - PÆgina 9 - C/ AlcalÆ, 5, 4“ planta 28014  Madrid 
+TEL: 91 595 81 00 
+ 
+fecha de recepción. 
+Si durante el plazo de garantía se acreditase la existenci a de vicios o defectos en los entregables de la prestaci ón 
+contratada, el órgano de contratación tendrÆ derecho a reclamar al contratista la subsanación de los mismos en un plazo 
+no superior a tres meses, salvo que el documento de invitación concrete un plazo  inferior. Estos vicios y defectos se 
+entenderÆn siempre referidos a la œltima versión del entregable generada por el contratista, no estando cubierta por esta 
+garantía ninguna versión posterior de dicho entregable. El documento de invitación a la licitación podrÆ concretar 
+condiciones adicionales de la garantía. 
+La empresa contratista tendrÆ derecho a conocer y ser oí da sobre sobre las observaciones que se formulen en relació n 
+con el cumplimiento de la prestación contratada. 
+Terminado el plazo de garantía sin que la Administración h aya formalizado ningœn reparo o denuncia, la empresa 
+contratista quedarÆ exenta de responsabilidad por razón d e la prestación efectuada. El contrato específico puede  
+concretar las condiciones de la garantía. 
+ 
+VIII.  USO DE INTELIGENCIA ARTIFICIAL PARA LA EJECUCIÓN DEL SERVICIO 
+El documento de invitación a la licitación concretarÆ las condiciones y supuestos bajo los que la empresa podrÆ utilizar la 
+inteligencia artificial durante la ejecución del servicio, inc luyendo entre otros la generación de código, de casos  de 
+pruebas, las revisiones de seguridad, las revisiones de calidad, etc.  
+En el caso de que el documento de invitación a la licitación no incluya ninguna referencia, se entenderÆ que no se permite 
+el uso de ningœn tipo de herramienta de inteligencia artificial durante la ejecución del servicio. 
+ 
+ 
+ALBERTO RAMALLO LUCINI - 2026-08-12 10:47:04 CEST, cargo=SUBDIRECTOR / SUBDIRECTORA GENERAL, organizacion=E05250001-Ministerio de Hacienda 
+Puede comprobar la autenticidad de esta copia mediante CSV:  OIP_BAVZAEXCJMOS26CNP9J4TDT3BXGU  en https://www.pap.hacienda.gob.es

@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] PCAP suministro Office 365.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] Pliego tecnico servicio Office 365.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] PCAP suministro Office 365.pdf: 01_Legal_PCAP_suministro_Office_365.pdf (891 KB)
+- [Technical] Pliego tecnico servicio Office 365.pdf: 02_Technical_Pliego_tecnico_servicio_Office_365.pdf (238 KB)

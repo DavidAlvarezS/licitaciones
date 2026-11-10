@@ -1,0 +1,2066 @@
+
+
+--- página 1 ---
+ 
+                                                                                                          
+ 
+       - PROCEDIMIENTO ABIERTO - 
+ 
+ PLIEGO DE CLÁUSULAS ADMINISTRATIVAS 
+ 
+ 
+“RENOVACIÓN DEL MANTENIMIENTO Y 
+SOPORTE AP MANAGER Y OP MANAGER” 
+ 
+Número de Expediente: A33-1126 
+ 
+ 
+ 
+ 
+ 
+ 
+PLAZO DE PRESENTACIÓN: Fecha límite el 16 de noviembre de 2026 a las 
+14:00 horas 
+ 
+ 
+FORMA DE PRESENTACION: De forma electrónica a través de la 
+PLATAFORMA DE CONTRATACION DEL SECTOR PÚBLICO accesible 
+mediante el siguiente enlace 
+https://contrataciondelestado.es/wps/portal/plataforma 
+ 
+ 
+Las notificaciones electrónicas derivadas de este procedimi ento de 
+contratación se realizarán mediante la dirección electrónica habilitada 
+para la práctica de las notificaciones electrónicas. 
+ 
+Fecha Publicación: 03.11.2026 
+  
+
+--- página 2 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 2 
+ 
+1. INTRODUCCIÓN ................................ ................................ ................................ ................................ ................................ ......... 3 
+1.1. Entidad sin carácter de Poder Adjudicador ................................ ................................ ................................ . 3 
+1.1.1. Direcciones Internet ................................ ................................ ................................ ...............................  3 
+1.1.2. Consultas ................................ ................................ ................................ ................................ ........................ 3 
+1.2. Régimen Jurídico ................................ ................................ ................................ ................................ .......................... 3 
+1.2.1. Órgano de Contratación ................................ ................................ ................................ ...................... 4 
+1.3. Procedimiento y forma de Licitación ................................ ................................ ................................ ............... 5 
+1.4. Plazo de duración del contrato ................................ ................................ ................................ ............................  6 
+1.5. Documentos a Presentar por los Licitadores. Forma y contenido de las Proposiciones.
+ 6 
+1.5.1. Aptitud para contratar ................................ ................................ ................................ .......................... 6 
+1.5.2. Requisitos de Solvencia Económica y Técnica del Licitador ................................ ........ 6 
+1.5.2.1. Solvencia Económica y Financiera ................................ ................................ ........... 7 
+1.5.2.2. Solvencia Técnica o Profesional ................................ ................................ ................. 7 
+1.5.3. Medios de acreditación ................................ ................................ ................................ ......................... 7 
+1.5.3.1. Solvencia Económica y Financiera ................................ ................................ ........... 7 
+1.5.3.2. Solvencia Técnica o Profesional ................................ ................................ ................. 7 
+1.5.4. Presentación de Ofertas ................................ ................................ ................................ ....................... 8 
+1.6. Presupuesto Base de Licitación, Valor estimado y Pago del Precio  ................................ ............ 11 
+1.7. Revisión de Precios ................................ ................................ ................................ ................................ ....................... 12 
+2. CRITERIOS DE VALORACIÓN ................................ ................................ ................................ ................................ ............ 12 
+2.1. Pesos y puntuación de los distintos criterios de valoración ................................ ..............................  12 
+3. ADJUDICACIÓN ................................ ................................ ................................ ................................ ................................ .......... 13 
+4. CONTRATO ................................ ................................ ................................ ................................ ................................ .................... 15 
+4.1. Formalización del Contrato ................................ ................................ ................................ ................................ .... 16 
+4.2. Ejecución del contrato ................................ ................................ ................................ ................................ ............... 16 
+5. ANEXOS ................................ ................................ ................................ ................................ ................................ ...........................  28 
+ 
+ 
+ 
+ 
+ 
+
+--- página 3 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 3 
+ 
+1. INTRODUCCIÓN 
+ 
+COMPAÑÍA ESPAÑOLA DE SEGUROS DE CRÉDITO A LA EXPORTACIÓN SA. CÍA DE 
+SEGUROS Y REASEGUROS, (S.M.E.) (en adelante, CESCE  o la Compañía) está interesada 
+en la renovación de los servicios de soporte y mantenimiento del software Application 
+Manager Enterprise Edition y Operation Manager del fabricante ManageEngine 
+implantado en CESCE para la monitorización de servidores, aplicaciones y elementos de 
+Red, desde el 30/11/2026 por 1 año, siendo la finalización del mantenimiento solicitado en 
+este pliego la de 30/11/2027 , de acuerdo con lo detallado en el presente Pliego y en el 
+Pliego de Prescripciones Técnicas.  
+ 
+La codificación correspondiente a la nomenclatura del Vocabulario Común de Contratos 
+(CPV) según el Reglamento (CE) nº 2195/2002 del Parlamento Europeo y del Consejo de 5 
+de noviembre de 2002 por el que se aprueba el vocabulario común de contratos públicos 
+(CPV) o normativa que le sustituya, corresponde el código: 
+ 
+72200000- Servicios de programación de software y de consultoría. 
+ 
+48000000-Paquetes de software y sistemas de información. 
+ 
+1.1. Entidad sin carácter de Poder Adjudicador 
+ 
+Compañía Española de Seguros de Crédito a la Exportación, S.A, Cía. de Seguros y 
+Reaseguros, S.M.E. 
+C/ Velázquez nº 74 
+28001 MADRID (ESPAÑA) 
+A la atención de: Área de Compras -  Jefa de Unidad Dª. Estibaliz Urizar 
+Teléfono nº 900 115 000 
+Correo electrónico: proveedores@cesce.es 
+ 
+1.1.1. Direcciones Internet  
+Acceso al perfil del contratante y dirección de la entidad sin carácter de poder adjudicador:  
+https://www.cesce.es/es/corporativo/contratacion-proveedores 
+ 
+1.1.2. Consultas  
+ 
+Hasta el día 13 de noviembre a las 14:00 horas, a través de la PLACSP. 
+ 
+1.2. Régimen Jurídico 
+ 
+La contratación del servicio se regirá por lo establecido en este Pliego, el Pliego de 
+Prescripciones Técnicas  (los Pliegos) y sus Anexos, lo contenido en las “Instrucciones 
+internas de procedimiento aplicables a la adjudicación de contratos” cuya última 
+actualización fue aprobada por Consejo de Administración de fecha 27 de febrero de 2024 
+y publicadas en la página web de CESCE y subsidiariamente en la medida que sea 
+aplicable la ley 9/2017, de 8 de noviembre de Contratos del Sector Público (e n adelante 
+LCSP) teniendo en cuenta el carácter de “ Entidad que no tiene carácter de Poder 
+
+--- página 4 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 4 
+adjudicador ”, la aplicación del artículo 321 de la LCSP, y en la Instrucción nº 3/2018 de 6 de 
+marzo de la Abogacía General del Estado - Dirección del Servicio Jurídico del Estado sobre 
+“Contratación de Entidades del sector público que no tengan carácter de poder 
+adjudicador”. 
+ 
+El régimen jurídico aplicable al Contrato es el propio de Derecho privado y tiene carácter 
+mercantil. En su consecuencia, la relación contractual entre CESCE y el adjudicatario 
+seleccionado se regirá por los  presentes Pliegos y sus Anexos, por la oferta té cnica y 
+económica de precios presentada por el adjudicatario y seleccionada por CESCE y por el 
+contrato, -que se ajustará al contenido de los Pliegos - cuyas cláusulas prevalecerán en 
+caso de duda y, con carácter supletorio, lo dispuesto en la legislación c ivil y mercantil 
+españolas y demás leyes especiales. 
+ 
+En todo caso, en la interpretación, integración, cumplimiento y desenvolvimiento del 
+Contrato, se tendrá necesariamente presente y deberá tenderse siempre a la efectiva 
+consecución y satisfacción de las expectativas, objetivos, requerimientos y satisfacción de 
+las necesidades de CESCE explicitadas en el Pliego de Prescripciones Técnicas de recibir 
+un soporte, asesoramiento y servicio jurídico-laboral completos y de alta calidad.  
+ 
+Los Pliegos tendrán carácter contractual, siendo por tanto de obligado cumplimiento. 
+La mera presentación a la licitación supone la aceptación incondicional de sus 
+términos y condiciones. 
+ 
+El incumplimiento de las prescripciones establecidas en este Pliego y en el Pliego de 
+Prescripciones Técnicas supondrá la exclusión de la oferta del proceso de licitación. 
+ 
+Las cuestiones relativas a la preparación y adjudicación de los contratos de las entidades 
+del sector público son susceptibles de impugnación en vía administrativa de conformidad 
+con lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo 
+Común de las Administraciones Públicas ante el titular del departamento, órgano, ente 
+un organismo al que está adscrita esa sociedad o al que corresponda su tute la, en este 
+caso el Ministerio de Hacienda. 
+ 
+1.2.1. Órgano de Contratación  
+ 
+De conformidad con el artículo 61 de la LCSP la representación de las entidades del Sector 
+Público en materia contractual corresponde a los órganos de contratación que tengan 
+atribuida la facultad de celebrar contratos en su nombre. El órgano de contratación puede 
+delegar y desconcentrar sus competencias y facultades en esta materia mediante el 
+otorgamiento de poderes. 
+ 
+Así mismo, y en virtud de lo establecido en el artículo 323.6 de la LCSP, la capacidad de los 
+representantes legales de las sociedades del Sector Público se rige por sus Estatutos y las 
+normas de derecho privado que le sean de aplicación.  
+ 
+La adjudicación del Contrato recae en el Órgano de Contratación que actuará asistido de 
+una Mesa de Contratación. Se constituirá una Mesa de Contratación de conformidad con 
+lo previsto en el artículo II.1. de las Instrucciones Internas de Procedimiento Aplicables a la 
+Adjudicación de Contratos aprobadas por la Compañía. Dicha mesa estará compuesta por: 
+ 
+
+--- página 5 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 5 
+ Un Presidente, que tendrá la categoría de Director de la Compañía, siendo en este 
+caso, la Secretaria General ( Dª. Marta Silva), siendo su sustituta si fuese necesario, la 
+Directora Financiera, Dª. Rosa María Lis. 
+ 
+ Tres Vocales, que serán: 
+ 
+- El Jefe de Unidad de Gestión de Servicios, D. Javier Fernández, sustituta Dª. Reyes 
+Martínez. 
+ 
+- Un letrado de los Servicios Jurídicos  (Dª. Maria Ángeles Embid Hernández ), 
+sustituta Dª. Teresa de Lucas, y  
+ 
+- El Jefe de la Unidad de Medios Internos que actuará como Secretario de la Mesa  
+(Dª Estibaliz Urizar), sustituta Dª. Ana Castillo. 
+ 
+Cuando así lo estime el Presidente, podrán asistir a la Mesa en calidad de invitados con voz 
+pero sin voto otros miembros de la organización. 
+ 
+El Órgano de Contratación ha designado a la Unidad de Medios (Área de Compras) como 
+encargada del seguimiento y ejecución ordinaria del contrato y podrá designar un 
+Responsable del Contrato al que corresponderá supervisar su ejecución y adoptar las 
+decisiones y dictar las instrucciones necesarias con el fin de asegurar la correcta prestación 
+pactada. 
+ 
+1.3. Procedimiento y forma de Licitación  
+ 
+El procedimiento de licitación del contrato se realizará mediante un procedimiento 
+abierto definido en las “Instrucciones internas de procedimiento aplicables a la 
+adjudicación de contratos” publicadas en el área de Contratación de Proveedores de la 
+página web de CESCE (www.cesce.es), con base en lo previsto en el artículo 321 de la 
+LCSP, atendiendo a una pluralidad de criterios de calidad-precio, reflejados en el presente 
+Pliego y en el Pliego de Prescripciones Técnicas, y teniendo como referencia las citadas 
+“Instrucciones internas de procedimiento aplicables a la adjudicación de contratos“.  
+ 
+CESCE podrá requerir al licitador las aclaraciones que considere necesarias y solicitar los 
+documentos que considere convenientes siempre que con ello no se modifiquen las 
+condiciones básicas y esenciales de la oferta inicialmente presentada y sin que ello  
+signifique que se está requiriendo la presentación de una nueva oferta o que se esté 
+aceptando tácita o expresamente la presentada. 
+ 
+El Órgano de contratación se reserva el derecho de rechazar aquellas Ofertas que a su 
+juicio no cumplan las condiciones solicitadas. 
+ 
+CESCE no tendrá ninguna responsabilidad por la recepción o preparación de una Oferta, 
+por lo que todos los Oferentes deberán asumir los costes y gastos asociados a la misma, ni 
+en caso de desechar una o todas las Ofertas presentadas ni por decl arar desierta la 
+Petición de oferta correspondiente. La decisión de no adjudicar o celebrar el contrato por 
+desistimiento del procedimiento, se ajustará a lo previsto en el artículo 152 de la LCSP. 
+ 
+
+--- página 6 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 6 
+A los efectos previstos en el artículo 99.3. de la LCSP se hace constar la no división del 
+contrato en Lotes dada la naturaleza del contrato. 
+ 
+ 
+1.4. Plazo de duración del contrato 
+ 
+El contrato se iniciará el 30 de noviembre de 2026 y tendrá una duración de 1 año desde 
+su fecha de Efectividad.  
+ 
+1.5. Documentos a Presentar por los Licitadores. F orma y contenido de las 
+Proposiciones. 
+ 
+Requisitos Previos: 
+ 
+1.5.1. Aptitud para contratar 
+ 
+De conformidad con el artículo 65 de la LCSP, podrán optar a la adjudicación del presente 
+Contrato las personas naturales o jurídicas, españolas o extranjeras, a título individual o en 
+UTE, que tengan plena capacidad de obrar y que acrediten su solvencia económica, 
+financiera y técnica, o se encuentren de bidamente clasificadas (ROLECE)  y no se 
+encuentren en ninguna de las prohibiciones que menciona el artículo 71 de la LCSP. 
+ 
+En relación con las empresas comunitarias será de aplicación lo previsto en los artículos 
+67 y 84.2. de la LCSP. Las empresas no comunitarias se ajustarán a los artículos 68 y 84.3 
+de la LCSP. 
+ 
+En relación a la presentación de licitadores en forma de UTEs se estará a lo dispuesto en 
+el artículo 69 de la LCSP. 
+ 
+Las personas jurídicas solo podrán ser adjudicatarias de contratos cuyas prestaciones 
+estén comprendidas dentro de los fines, objeto o ámbito de actividad que a tenor de sus 
+estatutos o reglas fundacionales les sean propios.  Los empresarios deberán contar, 
+asimismo, con la habilitación empresarial o profesional que, en su caso, sea exigible para 
+la realización de la actividad o prestación del objeto del contrato. 
+ 
+Las ofertas o proposiciones se ajustarán a lo dispuesto en los artículos 139 y 140 de la LCSP. 
+ 
+Ningún licitador podrá presentar más de una proposición. Tampoco podrá suscribir 
+ninguna propuesta en agrupación temporal con otros si lo ha hecho individualmente, ni 
+figurar en más de una unión temporal. La contravención de lo anterior dará lugar a la no 
+admisión de todas las propuestas por él suscritas.  
+ 
+ 
+1.5.2. Requisitos de Solvencia Económica y Técnica del Licitador  
+ 
+Las empresas licitadoras acreditarán, por los medios fijados a continuación, los siguientes 
+requisitos de solvencia económica y financiera y de solvencia técnica o profesional, 
+conforme a los artículos 86, 87 y 90 de la LCSP. 
+ 
+
+--- página 7 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 7 
+1.5.2.1. Solvencia Económica y Financiera 
+  
+ Tener un volumen de negocios referido al mejor de los tres últimos ejercicios 
+disponibles de una vez y media el valor estimado del contrato, esto es 16.950,00 euros. 
+ 
+          
+1.5.2.2. Solvencia Técnica o Profesional 
+ 
+ Disponer de certificación acreditativa de ser partner autorizado de la herramienta AP 
+y OP Manager , cuyo mayorista es ALSO para la prestación de los servicios de 
+licenciamiento y soporte de los productos requeridos. 
+ 
+ Disponer de una organización de elementos materiales y personales s uficientes para 
+la ejecución de los servicios ofertados.  
+ 
+1.5.3. Medios de acreditación 
+ 
+1.5.3.1. Solvencia Económica y Financiera 
+ 
+La solvencia económica y financiera del empresario deberá acreditarse por los siguientes 
+medios: 
+ 
+a) Las cuentas anuales presentadas en el Registro Mercantil o en el Registro oficial que 
+corresponda.  
+ 
+Los empresarios no obligados a presentar las cuentas en Registros oficiales podrán 
+aportar, como medio alternativo de acreditación, los libros de contabilidad debidamente 
+legalizados. 
+ 
+ESTA DOCUMENTACIÓN DEBE INCLUIRSE EN EL SOBRE “A” DOCUMENTACIÓN 
+ADMINISTRATIVA, REFLEJADO EN EL PUNTO 1.5.4. 
+ 
+1.5.3.2. Solvencia Técnica o Profesional 
+ 
+La solvencia técnica o profesional del empresario deberá acreditarse por los siguientes 
+medios:  
+ 
+ Acreditación de  ser fabricante, mayorista o partner de los servicios objeto de la 
+licitación. 
+ 
+ Se deberá documentar con la firma del representante legal que se dispone de una 
+organización de elementos materiales y personales suficientes para la prestación del 
+servicio ofertado, mediante declaración responsable según Anexo Ai.  
+ 
+ Asimismo, se facilitará cualquier otra documentación que el licitador considere 
+necesaria para demostrar su solvencia técnica y profesional. 
+ 
+ESTA DOCUMENTACIÓN DEBE INCLUIRSE EN EL SOBRE “A” DOC UMENTACIÓN 
+ADMINISTRATIVA, REFLEJADO EN EL PUNTO 1.5.4. 
+ 
+
+--- página 8 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 8 
+Cuando el contratista sea una empresa de nueva creación, entendiendo por tal aquella 
+que tenga una antigüedad inferior a cinco años, su solvencia técnica se acreditará por uno 
+o varios de los medios a que se refieren las letras b) a i) del artículo 90 de la LCSP, sin que 
+en ningún caso sea aplicable lo establecido en la letra a), relativo  a la ejecución de un 
+número determinado de servicios. 
+ 
+En el caso de concurrencia en forma de UTE, los requisitos de solvencia económica y de 
+solvencia técnica o profesional deberán ser cumplidos al menos por uno de miembros 
+integrantes de la UTE. 
+ 
+1.5.4. Presentación de Ofertas 
+ 
+La presentación de proposiciones supone por parte del licitador la aceptación 
+incondicional de las condiciones de los Pliegos y demás documentación, así como la 
+declaración responsable implícita de que reúne todas y cada una de las condiciones 
+exigidas par a contratar con CESCE, una sociedad mercantil estatal del Sector Público 
+Estatal.  
+ 
+Los empresarios que participen en la presente licitación deberán presentar su oferta de 
+forma electrónica a través de la PLATAFORMA DE CONTRATACION DEL SECTOR PÚBLICO 
+accesible mediante el siguiente enlace 
+https://contrataciondelestado.es/wps/portal/plataforma  antes del 16 de noviembre de 
+2026 a las 14:00 horas. 
+ 
+NOTIFICACIONES ELECTRÓNICAS 
+ 
+Las notificaciones electrónicas derivadas de este procedimiento de contratación, 
+conforme a lo establecido en la disposición adicional decimoquinta de la Ley 9/2017, de 8 
+de noviembre, de Contratos del Sector público y con arreglo a los artículos 14 y 43 de la Ley 
+39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones 
+Publicas, se realizarán mediante la dirección electrónica habilitada para la práctica de las 
+notificaciones electrónicas o mediante comparecencia electrónica. 
+ 
+Con los efectos previstos en el artículo 43 de la Ley 39/2015, tras el acceso al contenido de  
+la notificación, ésta se entenderá por practicada. Si transcurren dos días naturales desde 
+su puesta a disposición sin que se acceda al contenido de la misma, se tendrá por 
+rechazada. 
+ 
+Todo ello sin perjuicio de lo establecido en la disposición adicional decimoquinta de la Ley 
+9/2017 relativa al cómputo de plazos. En base a ello, los plazos a contar desde la notificación 
+se computarán desde la fecha  de envío de la misma o del aviso de notificación,  si fuera 
+mediante comparecencia electrónica, siempre que el acto objeto de notificación se  haya 
+publicado el mismo día en el Perfil del Contratante del órgano de contratación alojado en 
+la Plataforma de Co ntratación del Sector Público. En caso  contrario los plazos se 
+computarán desde la recepción de la notificación por el interesado. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 9 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 9 
+HUELLA ELECTRÓNICA 
+ 
+Una vez enviada la documentación, el licitador deberá comprobar si el justificante de envío 
+que le facilita la Plataforma es un justificante de presentación de huella electrónica. Esto 
+significa que han surgido problemas durante el envío y deberá proceders e según indica 
+en el punto 4.8.1 de la Guía de  Servicios de Licitación Electrónica para Empresas accesible 
+en el enlace siguiente (https://contrataciondelestado.es/wps/portal/guiasInfo) 
+ 
+Los documentos se presentarán en castellano. Las empresas extranjeras que contraten en 
+España presentarán la documentación traducida de forma oficial al castellano y con los 
+requisitos exigidos en la normativa vigente para ser fehacientes. 
+ 
+Se presentarán a través de la Platafo rma de contratación del Sector Público 3 sobres o 
+archivos con la siguiente documentación: 
+ 
+ Sobre A): Documentación administrativa 
+ 
+Deberá presentarse firmado con los documentos  acreditando el cumplimiento de los 
+requisitos previos que se relacionan seguidamente: 
+ 
+a) Declaración responsable según modelo del Anexo I que deberá estar firmada y con la 
+correspondiente identificación en la que el licitador ponga de manifiesto lo siguiente:  
+ 
+I. Que la sociedad está válidamente constituida y que conforme a su objeto social 
+puede presentarse a la licitación, así como que el firmante de la declaración 
+ostenta la debida representación de ésta para la presentación de la proposición. 
+ 
+II. Que cuenta, en su caso, con la correspondiente clasificación. 
+ 
+III. Que no está incurso en prohibición de contratar por sí mismo ni por extensión 
+como consecuencia de la aplicación del artículo 71 de la LCSP. 
+ 
+b) Cuando dos o más empresas acudan a una licitación agrupadas en UTE, cada uno de 
+los empresarios que la componen de berán aportar una declaración responsable por 
+cada empresa participante en la que figurará la información requerida en el artículo 
+140.1 de la LCSP, debiendo indicar en documento privado los nombres y circunstancias 
+de los empresarios que la suscriban, la participación de cada uno de ellos, el 
+compromiso de constituirse formalmente en unión temporal de conformidad con lo 
+exigido en el apartado 3 del artículo 69 de la LCSP, caso de resultar adjudicatarios, y la 
+persona o entidad que, durante la vigencia del contrato, haya de ostentar la plena 
+representación de todos ellos frente a CESCE. (En su caso, ver modelo Anexo Ab). 
+ 
+c) En los casos en que el licitador recurra a la solvencia y medios de otras empresas de 
+conformidad con el artículo 75 de la LCSP, cada una de ellas también deberá presentar 
+una declaración responsable en la que figure la información solicitada en el Anexo Ac). 
+ 
+d) Aquellas personas jurídicas que hayan inscrito en el Registro Oficial de Licitadores y 
+Empresas Clasificadas (ROLECE) los actos correspondientes a su personalidad y 
+capacidad de obrar, podrán aportar certificación expedida por el citado Registro en la 
+que se acredite la capacidad de obrar, acompañada de una declaración responsable 
+
+--- página 10 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 10 
+formulada por el licitador en la que manifieste que las circunstancias reflejadas en el 
+certificado no han experimentado variación alguna. 
+ 
+e) Además de la declaración responsable, las empresas extranjeras, en los casos en que 
+el contrato vaya a ejecutarse en España, deberán aportar una declaración de 
+sometimiento a la jurisdicción de los juzgados y tribunales españoles de cualquier 
+orden, para todas las incidencias que de modo directo o indirecto pudieran surgir del 
+contrato, con renuncia, en su caso, al fuero jurisdiccional extranjero que pudiera 
+corresponder al licitante.  
+ 
+f) Certificaciones acreditativas de estar al corriente en el cumplimiento de las 
+Obligaciones Tributarias y de la Seguridad Social. La fecha de expedición de estos 
+certificados no podrá ser anterior a la fecha de publicación de este pliego. 
+ 
+g) En caso de contar con ellos, se incluirán, los certificados de calidad y cumplimiento de 
+las normas ISO 9001 -2000 y 14001 y/o de la ISO/IEC 27001 o similar. Este punto no 
+resulta excluyente. 
+ 
+h) En su caso, Certificación de haber adaptado un Sistema de Gestión de Cumplimiento 
+mediante un Código Ético, Plan de Prevención de riesgos penales o similar. Y 
+declaración de conocer y ac eptar el Código Ético del Grupo CESCE.  
+https://www.cesce.es/documents/20122/57366/CodigoEticoCESCE2019.pdf/6e30cbc6 -7680-
+d23c-6823-e26d0e23f3f8?t=1606128095550  
+(Ver modelo Anexo Ah)  
+ 
+i) Documentación solicitada en el punto 1.5.3.1 y 1.5.3.2. 
+j) Declaración responsable relativa al compromiso de tener contratados trabajadores con 
+discapacidad y plan de igualdad (ver modelo AJ), junto con copia de la inscripción de este 
+último en el registro laboral correspondiente ( o acreditar estar en trámite por inscripción 
+tardía). 
+ 
+ 
+k) Anexo III “Declaración responsable del cumplimiento de las condicione exigidas 
+legalmente en Protección de Datos”. 
+ 
+Las circunstancias relativas a la capacidad, solvencia y ausencia de prohibiciones de 
+contratar deberán concurrir en la fecha  final de presentación de ofertas y subsistir en el 
+momento de perfección del contrato. 
+ 
+ Sobre B): Oferta económica 
+ 
+Deberá presentarse firmada.  
+ 
+Se presentará la oferta económica tal y como se indica en el Anexo I I – Modelo de  
+Proposición Económica, expresando el precio de su oferta, IVA excluido. 
+ 
+Cualquier oferta que supere el presupuesto base de  licitación no será tomada en 
+consideración en el procedimiento de adjudicación. 
+ 
+Los precios ofertados deberán expresarse sin IVA. 
+ 
+
+--- página 11 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 11 
+ 
+Cada licitador no podr á pr esentar más de una proposición, la cual deberá cumplir los 
+requerimientos indicados en el Pliego de Prescripciones Técnicas.  
+ 
+La proposición económica se presentará escrita a ordenador, expresada en número, y no 
+se aceptarán aquéllas que contengan omisiones, errores o tachaduras que impidan 
+conocer claramente su contenido. Los precios ofertados incluyen todos los conceptos, así 
+como todos los gastos derivados del contrato, incluso los gastos asociados a la entrega y 
+prestación de los servicios en el lugar convenido. 
+ 
+MUY IMPORTANTE: 
+ 
+ La oferta Económica NO podrá ser incluida en ningún otro sobre, de hacerse, el 
+licitador quedará excluido automáticamente. 
+ 
+ Las ofertas se ajustarán estrictamente al modelo y formato indicado en el Anexo II 
+– Modelo de Proposición Económica. 
+ 
+1.6. Presupuesto Base de Licitación, Valor estimado y Pago del Precio 
+ 
+El presupuesto base de licitación total es de 13.673 euros (11.300  € + 21% IVA), para el 
+periodo del año de duración del contrato, entendido como límite de gasto – incluido  IVA 
+– que puede comprometer al Órgano de Contratación.  
+ 
+El Valor Estimado del contrato, de conformidad con lo establecido en el artículo 101 de la 
+LCSP para un periodo máximo de 1 año, asciende a 11.300 euros.  
+ 
+En este precio se incluyen todos los gastos que el adjudicatario deba realizar para el 
+cumplimiento de las prestaciones contratadas, sin que puedan ser repercutidos como 
+partida independiente otros conceptos. 
+ 
+Las ofertas de los licitadores serán en todo caso igual o inferiores al presupu esto base de 
+licitación indicado anteriormente. Quedarán rechazadas aquellas ofertas económicas que 
+excedan del importe previsto en este apartado. 
+ 
+En las ofertas que formulen los licitadores, se entenderán comprendidos a todos los 
+efectos, todos los tribu tos que graven los diversos conceptos, a excepción del Impuesto 
+Sobre el Valor Añadido (IVA), que se expresará de forma independiente. 
+ 
+El importe correspondiente se pagará en un único pago anual. La forma de pago será 
+mediante transferencia bancaria a la cuenta que aporte el adjudicatario, pagadera a 30 
+días fecha factura.  
+ 
+Las facturas no validadas se remitirán a la empresa adjudicataria para la resolución de 
+incidencias, no procediéndose al abono de la citada factura hasta la resolución de la incide 
+En cuanto a las modificaciones no previstas  en los pliegos, se estará al artículo 205 de la 
+LCSP 
+ 
+Se considerará inicialmente como desproporcionada o con valores anormales aquella 
+oferta que se encuentre en alguno de los siguientes supuestos:  
+
+--- página 12 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 12 
+ 
+1. Cuando, concurriendo un solo licitador, sea inferior al presupuesto base de licitación en 
+más de 25 unidades porcentuales. 
+ 
+2. Cuando concurran dos licitadores, la que sea inferior en más de 20 unidades 
+porcentuales a la otra oferta. 
+ 
+3. Cuando concurran tres licitadores, las que sean inferiores en más de 10 unidades 
+porcentuales a la media aritmética de las o fertas presentadas. No obstante, se excluirá 
+para el cómputo de dicha media la oferta de cuantía más elevada cuando sea superior en 
+más de 10 unidades porcentuales a dicha media. En cualquier caso, se considerará 
+desproporcionada la baja superior a 25 unidades porcentuales. 
+ 
+4. Cuando concurran cuatro o más licitadores, las que sean inferiores en más de 10 
+unidades porcentuales a la media aritmética de las ofertas presentadas. No obstante, si 
+entre ellas existen ofertas que sean superiores a dicha media en más de 10 unidades 
+porcentuales, se procederá al cálculo de una nueva media sólo con las ofertas que no se 
+encuentren en el supuesto indicado. En todo caso, si el número de las restantes ofertas es 
+inferior a tres, la nueva media se calculará sobre las tres ofertas de menor cuantía. 
+ 
+Igualmente para la valoración de las ofertas como desproporcionadas, la Mesa de 
+Contratación podrá considerar la relación entre la solvencia de la empresa y la oferta 
+presentada (art. 85.6 Reglamento General de la Ley de contratos de las Administraciones 
+Públicas). 
+ 
+CESCE solicitará a los licitadores que expliquen el precio o los costes propuestos en la 
+oferta cuando las ofertas parezcan desproporcionadas o anormales para los servicios de 
+que se trate. Las aclaraciones y justificaciones de los licitadores deberán presentarse en un 
+plazo de audiencia no superior a 2 días hábiles. 
+ 
+1.7. Revisión de Precios 
+ 
+Para el presente contrato  no procederá la revisión de precios durante la duración del 
+contrato. 
+ 
+2. CRITERIOS DE VALORACIÓN 
+ 
+Los criterios de adjudicación son los señalados en el cuadro establecido a continuación, 
+con la ponderación atribuida a cada uno de ellos. 
+ 
+ 
+2.1. Pesos y puntuación de los distintos criterios de valoración  
+ 
+A los efectos de lo previsto en el artículo 145 de la LCSP, la valoración de las ofertas recibidas 
+se realizará de acuerdo con la siguiente tabla de pesos y puntos. 
+ 
+ 
+ 
+ 
+
+--- página 13 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 13 
+Criterio Peso % Factores Puntos Puntos 
+ 
+Precio 
+ 
+ 
+100% 
+ 
+Precio  
+  
+100 
+TOTAL 100%  100 
+ 
+ 
+ 
+● Precio 
+ 
+Se asignará la puntuación máxima a la oferta más baja, y el resto de las ofertas, se 
+puntuará en proporción inversa a aquella, según la fórmula: 
+ 
+P=PM x OMB/O 
+ 
+donde P es la puntuación de cada oferta, PM es la puntuación máxima, OMB la 
+cantidad a la que asciende la oferta más baja y O es la oferta a puntuar. 
+ 
+ 
+3. ADJUDICACIÓN   
+ 
+Reunida la Mesa de Contratación, se adjudicará en el plazo máximo de 30 días naturales, 
+desde el cierre del plazo de presentación. La adjudicación recaerá en la oferta más 
+ventajosa de acuerdo con los criterios de adjudicación establecidos en el punto anterior. 
+ 
+La adjudicación podrá no recaer en la oferta más ventajosa calidad/precio si, a la vista del 
+informe técnico, se considera que contiene valores desproporcionados o anormales. 
+ 
+En el caso en que el órgano de contratación desista del procedimiento de adjudicación o 
+decida no adjudicar o celebrar un contrato para el que se haya efectuado la 
+correspondiente convocatoria, lo notificará a los candidatos o licitadores. 
+ 
+La decisión de no adjudicar o celebrar el contrato o el desisti miento del procedimiento 
+podrán acordarse por el órgano de contratación antes de la formalización. En estos casos 
+se compensará a los candidatos aptos para participar en la licitaci ón o licitadores por los 
+gastosen que hubiesen incurrido en la forma prevista en el anuncio o en el pliego. 
+ 
+La licitación podrá declararse desierta si ninguna de las proposiciones presentadas fuera 
+admisible con arreglo a la propuesta técnica y a los criterios de capacidad y solvencia del 
+presente pliego, o si ninguna de las proposiciones presentadas se considera adecuada. 
+ 
+ 
+PROPUESTA DE ADJUDICACIÓN 
+ 
+Si alguna proposición no guardase concordancia con la documentación presentada y 
+admitida, excediese el importe del Presupuesto base  de la licitación, variara 
+sustancialmente el modelo establecido, comportase error manifiesto en el importe de la 
+proposición, tenga errores, omisiones o tachaduras que impidan conocer en qué términos 
+en los que está formulada o existiese reconocimiento por parte del licitador de qu e 
+
+--- página 14 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 14 
+adolece de error o inconsistencia que la hagan inviable, será desechada mediante 
+resolución motivada por la Mesa de Contratación.   
+ 
+A la vista de todo lo actuado, la Mesa de Contratación, si hubiere detectado alguna oferta 
+en situación de anormalidad elaborará el correspondiente informe. Los parámetros 
+objetivos que deberán permitir identificar los casos en que una Oferta se considere 
+anormal están previstos en el presente Pliego, considerándose indiciaria de anormalidad 
+cualquier oferta de la que se p resuma su inviabilidad  en su conjunto, o  por haber sido 
+formulada en términos que la hacen anormalmente baja. Dichas ofertas podrán ser 
+excluidas del procedimiento de licitación previa tramitación del procedimiento del  
+artículo 149 de la LCSP. 
+ 
+Seguidamente procederá al análisis y ponderación de las proposiciones finalmente 
+admitidas, clasificando por orden decreciente las proposiciones y formulando la propuesta 
+a fin de que el órgano de Contratación decida lo que estime procedente. 
+ 
+El desempate, caso de producirse, se tramitará conforme a lo establecido en la LCSP. 
+ 
+Una vez aceptada la propuesta de la Mesa por el Órgano de Contratación, el licitador que 
+haya presentado la mejor oferta, será requerido, en su caso, para que en el plazo máximo 
+de 10 días hábiles presente la documentación justificativa a las que se refiere el artículo 
+140 de la LCSP y de disponer de los medios que fueran razonables y que se hubiera 
+comprometido a aportar para la ejecución del contrato conforme al artículo 76.2 
+ 
+En particular el licitador que haya presentado la mejor oferta, así como todas las empresas 
+integrantes de la UTE si hubiera sido ésta la adjudicataria, cuando CESCE así lo requiera, 
+deberán presenta r la documentación acreditativa d e las circunstancias referidas  en la 
+declaración responsable: 
+ 
+ Si fuera persona jurídica, la escritura de constitución, estatutos o acto fundacional por 
+el que se regule su actividad. Inscritos en el Registro que corresponda y el NIF. 
+ 
+ Si se trata de empresario individual el DNI. 
+ 
+ La capacidad de obrar de los empresarios no españoles (UE) por la inscripción en el 
+registro que proceda conforme a la legislación del Estado donde estén domiciliados. 
+ 
+ Poderes de las personas que comparezcan acompañados de las Escrituras en las que 
+se otorgaron, junto a los DNIs de los representantes. 
+ 
+ El cumplimiento de sus obligaciones tributarias y con la Seguridad Social , si no lo 
+hubiesen hecho previamente. 
+ 
+ La designación del responsable del contrato designado por el adjudicatario. 
+ 
+ Certificado de titularidad de cuenta bancaria para pagos. 
+ 
+Si el licitador no cumpliera con los anteriores requisitos o cualesquiera otros exigibles, 
+resultando defectos subsanables, el órgano de Contratación le requerirá para que los 
+subsane en el plazo improrrogable de dos días. Incumplido dicho plazo el Órgano de 
+Contratación se entenderá que el licitador ha retirado su oferta, procediéndose a recabar 
+
+--- página 15 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 15 
+la documentación al siguiente licitador por el orden en que hayan quedado clasificadas 
+las Ofertas. 
+ 
+Si el adjudicatario no hubiera presentado los documentos que en su casos se le hubiesen 
+podido requerir en los términos previstos anteriormente en este Pliego y no comparece 
+en el lugar, día y hora previstos para la formalización del contrato, podrá adjudicarse el 
+contrato al li citador o licitadores siguientes por el orden en que hayan quedado 
+clasificadas su ofertas, siempre que el nuevo adjudicatario preste su conformidad y 
+presente los documentos en el plazo que se le señale para la formalización. 
+ 
+Publicidad de la Adjudicación 
+ 
+La adjudicación del presente concurso se comunicará a través de la Plataforma de 
+Contratación del Sector Público. 
+ 
+4. CONTRATO 
+ 
+El contrato tiene carácter privado y la naturaleza propia de un contrato de prestación de 
+servicios. El contrato se regirá en su preparación y adjudicación por el presente pliego de 
+condiciones, por el pliego de prescripciones técnicas, por las Instruccion es de 
+Contratación aprobadas por CESCE y por la normativa mercantil y administrativa 
+aplicable. Los efectos, modificación y extinción del contrato se regularán por las normas 
+de derecho privado que resulten de aplicación.  
+ 
+CESCE firmará un contrato con el adjudicatario en un plazo no superior a 30 días naturales 
+desde la adjudicación, que contendrá las condiciones reflejadas en los Pliegos de licitación 
+junto con la propuesta que resultare adjudicada. Tendrán carácter contractual además el 
+presente Pliego de Cláusulas Administrativas y el Pliego de Prescripciones Técnicas. 
+ 
+En cuanto al orden de prevalencia de los documentos contractuales, en caso de conflicto 
+entre los términos de los distintos documentos contractuales que conformen en Contrato, 
+se estará a lo dispuesto a continuación: 
+ 
+(i) en la medida en que los términos en conflicto puedan ser razonablemente 
+interpretados de manera coherente con los demás, prevalecerá dicha interpretación;  
+ 
+y 
+ 
+(ii) en la med ida que lo dispuesto en el punto ( i) anterior no sea aplicable, regirá el 
+siguiente orden de prioridad: 
+ 
+1º) las cláusulas del Contrato prevalecerán frente a un término conflictivo de los 
+Anexos. 
+ 
+2º) En cuanto a la definición, alcance y requerimientos de los servicios y 
+requerimientos y de las obligaciones de carácter prestacional a cargo del 
+adjudicatario, así como para la determinación de los derechos en favor de  
+CESCE, lo previsto en los Pliegos y en sus Anexos prevalecerá siempre frente a 
+
+--- página 16 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 16 
+un término c onflictivo, limitativo o restrictivo que sobre aquellas cuestiones 
+pudiera resultar de la Oferta técnica y económica del adjudicatario. 
+ 
+Los Pliegos tienen carácter igualmente contractual, así como sus Anexos, siendo de 
+obligado cumplimiento por el adjudicatario e igualmente serán exigibles los compromisos 
+ofrecidos por el adjudicatario en su propia Oferta Técnica y Económica, mejoras, ventajas 
+y ampliación de derechos y prerrogativas de CESCE. Lo recogido en todos estos 
+documentos integrará igualmente el contenido prestacional y, con ello, el alcance de sus 
+derechos y obligaciones exigibles aun cuando no sea específica o singularmente 
+trasladado al clausulado del Contrato.  
+ 
+4.1. Formalización del Contrato 
+ 
+El contrato se formalizará en documento privado o, cuando así lo exija el adjudicatario, en 
+escritura pública, en cuyo caso serán de cuenta del adjudicatario los gastos derivados de 
+la formalización del contrato, incluidos los tributos y todos los demás exigibles por las 
+disposiciones vigentes que origine la adjudicación. 
+ 
+La firma del contrato se realizará preferentemente electrónicamente a través de una 
+plataforma de firma electrónica debidamente acreditada. 
+ 
+Sin el requisito de la formalización no podrá iniciarse la ejecución del contrato. 
+ 
+4.2. Ejecución del contrato 
+ 
+1.- El contrato se ejecutará con sujeción a lo previsto en su clausulado, en los Pliegos, de 
+acuerdo con las instrucciones que, en su caso, para su interpretación diere al adjudicatario 
+el órgano de contratación. A todos los efectos, el Adjudicatario queda obligado a prestar 
+los Servicios de acuerdo con los niveles de calidad, eficacia, tiempos de ejecución y de 
+respuesta y disponibilidad o entrega contractualmente exigibles y asume que la 
+observancia de la planifi cación fijada tiene carácter esencial en la prestación de los 
+servicios.  
+ 
+Se establece como condición especial de ejecución en los contratos cuya ejecución 
+implique la cesión de datos por las entidades del sector público al contratista , la 
+obligación de someterse a la normativa nacional y de la Unión Europea en materia de 
+protección de datos, teniendo esta obligación carácter de obligación esencial, de 
+conformidad con lo dispuesto en la letra f) del apartado 1 del artículo 211 de la LCSP. 
+ 
+2- La ejecución  del contrato se realizará a riesgo y ventura del adjudicatario. El 
+adjudicatario será responsable de la calidad de los servicios, así como de las consecuencias 
+que se deduzcan para CESCE o para terceros de las omisiones, errores, métodos 
+inadecuados o conclusiones incorrectas en la ejecución del contrato.  
+ 
+ 
+3.- Será obligación del adjudicatario indemnizar todos los daños y perjuicios que se causen 
+a terceros como consecuencia de las operaciones que requiera la ejecución del contrato, 
+de acuerdo con lo dispuesto en el artículo 196 de la LCSP.  
+ 
+ 
+
+--- página 17 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 17 
+ 
+ 
+4.- Ejecución defectuosa 
+ 
+4.1.- En el caso de cumplimiento defectuoso de la prestación objeto del contrato o por la 
+baja en el rendimiento convenido, se requerirá la realización de las prestaciones 
+contratadas y la subsanación de los defectos observados, sin perjuicio de la aplicación de 
+las penalizaciones económicas que se convengan y/o de la eventual resolución del 
+contrato a instancias de CESCE con indemnización de daños y perjuicios causados en todo 
+caso.  
+ 
+4.2.- En caso de incumplimiento, por causa imputable al adjudicatario, CESCE podrá 
+rechazar la prestación efectuada quedando exenta de la obligación de pago y tendrá 
+derecho a la recuperación del precio satisfecho y a la indemnización de los daños y 
+perjuicios causados para el caso de resolución. 
+ 
+4.3. El adjudicatario responderá frente a CESCE de todos los costes, gastos, daños y 
+perjuicios de la naturaleza que sean que se deriven de la prestación de los servicios o a 
+consecuencia de cualquier incumplimiento o cumplimiento defectuoso o tardío por parte 
+del PROVEEDOR -o sus subcontratistas, empleados o dependientes - de cualesquiera 
+obligaciones establecidas a su cargo, manifestaciones y garantías o responsabilidades 
+dimanantes del Contrato y sus Anexos, incluidos los presentes Pliegos.  
+ 
+5.- Obligaciones de las partes 
+ 
+5.1.- Además de los derechos y obligaciones generales derivados del régimen jurídico del 
+contrato y de los Pliegos, se atenderá especialmente a las siguientes obligaciones:  
+ 
+5.1.1.- El adjudicatario queda obligado, con respecto al personal que emplee a su costa 
+para atender a sus obligaciones en la ejecución del contrato, al cumplimiento de las 
+disposiciones legales y de las que puedan promulgarse durante la ejecución del mismo. 
+Dicho personal dependerá exclusivamente del adjudicatario, el cual tendrá todos los 
+derechos y deberes inherentes a su calidad de empleador respecto del mismo, siendo 
+las sociedades auditadas totalmente ajenas a dichas relaciones laborales.  
+ 
+5.1.2.- El adjudicatario se obliga, bajo su exclusiva responsabilidad, al cumplimiento de 
+las disposiciones legales vigentes en materia tributaria, relaciones laborales, Seguridad 
+Social, de protección de datos de carácter personal y cualesquiera otras de carácter 
+general.  
+ 
+5.1.3.- Ejecutar el contrato con sujeción a lo establecido en su clausulado y en los Pliegos. 
+ 
+5.1.4.- Prestar los Servicios con la diligencia de un profesional experto en el objeto del 
+contrato, conforme a los estándares, calidad, acuerdos de nivel de servicio y plazos, en 
+su caso, previstos en el contrato, siendo responsable de la observancia de dicha 
+diligencia en cuantos trabajos, documentos y entregables sean realizados en ejecución 
+del mismo. 
+ 
+
+--- página 18 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 18 
+5.1.5.- Asignar a la ejecución del contrato personal cualificado, con conocimientos en la 
+materia y la competencia profesional ne cesaria, y si se hubiera determinado  en los 
+Pliegos o en la Oferta, los profesionales establecidos. 
+ 
+5.1.6.- Cumplir con la normativa de toda índole que resulte de aplicación a la ejecución 
+del contrato , en especial la que aplique a CESCE de acuerdo con su normativa 
+reguladora, tanto de la actividad aseguradora como por su condición como sociedad 
+mercantil estatal.  
+ 
+5.1.7.- Cumplir con la normativa de seguridad de la información de CESCE que se ponga 
+a disposición del adjudicatario. 
+ 
+5.1.8. Nombrar un coordinador del servicio (“ Coordinador del Servicio ”) para la 
+ejecución, dirección y coordinación directa de los  profesionales que realicen la 
+prestación de Servicios. 
+ 
+6.- Reglas especiales respecto del personal del adjudicatario 
+ 
+6.1. Reglas especiales respecto del personal adjudicatario. Corresponde exclusivamente 
+al adjudicatario la selección del personal que, formará parte de los respectivos equipos de 
+trabajo adscritos a la ejecución del contrato, sin perjuicio de la verificación por CESCE del 
+cumplimiento de los requisitos exigidos en los Pliegos. CESCE podrá en todo caso exigir la 
+participación de un determinado nivel de servicio para una actuación concreta. 
+ 
+Dicho personal dependerá exclusivamente del adjudicatario, el cual tendrá todos los 
+derechos y deberes inherentes a su calidad de empleador respecto al mismo, siendo la 
+Administración contratante del todo ajena a dichas relaciones laborales.  
+ 
+El adjudicat ario procurará que exista estabilidad en el equipo de trabajo, y que las 
+variaciones en su composición sean puntuales y obedezcan a razones justificadas, en 
+orden a no alterar el buen funcionamiento del Servicio, informando en todo momento a 
+CESCE. 
+ 
+En el caso que se haya exigido la adscripción de medios personales con un determinado 
+perfil profesional a la ejecución del contrato, CESCE se reserva el derecho de efectuar, 
+durante su vigencia, entrevistas personales o pruebas de cualificación escritas y/o a 
+solicitar al adjudicatario cuanta documentación adicional estime necesaria con la finalidad 
+de comprobar el cumplimiento de los requisitos establecidos en el Plieg o de 
+Prescripciones Técnicas en materia de modificación de los recursos asignados. 
+ 
+
+--- página 19 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 19 
+El adjudicatario asume la obligación de ejercer de modo real, efectivo y continuo, sobre el 
+personal integrante del equipo de trabajo encargado de la ejecución del contrato, el poder 
+de dirección inherente a todo empresario. En particular, asumirá la negociación y pago de 
+los salarios, la concesión de permisos, licencias y vacaciones, la sustitución de los 
+trabajadores en casos de baja o ausencia, las obligaciones legales en materia de Seguridad 
+Social, incluido el abono de cotizaciones y el pago de prestaciones, cua ndo proceda, las 
+obligaciones legales en materia de prevención de riesgos laborales, el ejercicio de la 
+potestad disciplinaria, así como cuantos derechos y obligaciones se deriven de la relación 
+contractual entre el empleado y el empleador. A estos efectos  la empresa adjudicataria 
+declara que mantiene y mantendrá a todos sus trabajadores en alta en la Seguridad Social 
+y que está y estará al corriente de pago de las cuotas correspondientes, asumiendo 
+cualquier responsabilidad que se pueda derivar en materia de Seguridad Social o de 
+infracción laboral. 
+ 
+El adjudicatario garantiza la más absoluta indemnidad frente a CESCE por cualquier 
+responsabilidad que pudiera derivarse de las relaciones con su personal y, en su caso, con 
+el personal subcontratado. No obstante, si por incumplimiento de estos compromisos se 
+derivara alguna responsabilidad para CESCE, el adjudicatario responderá por dichas 
+responsabilidades, incluidos cualesquiera gastos y/o costas judiciales que ocasionare la 
+defensa de CESCE. 
+ 
+El adjudicatario velará especialmente porque los trabajadores adscritos a la ejecución del 
+contrato desarrollen su actividad sin extralimitarse en las funciones desempeñadas 
+respecto de la actividad delimitada en los Pliegos como objeto del contrato.  
+ 
+El personal del adjudicatario que se desplace a las dependencias de CESCE se someterá a 
+las normas de seguridad en el trabajo y de prevención de riesgos laborales establecidas 
+por este último. CESCE quedará exonerada de cualquier responsabilidad sobre el personal 
+de la empresa contratante en materia de riesgos laborales por la inobservancia por parte 
+de dicho personal de las normas de seguridad en el trabajo y de prevención de riesgos 
+laborales establecidas por CESCE para sus propias dependencias. Este personal 
+desplazado ma ntendrá los horarios de trabajo internos del adjudicatario excepto en 
+aquellos tramos en los que CESCE considerara que no puede garantizar una correcta 
+seguridad en sus puestos de trabajo por la razón que fuera. 
+ 
+El adjudicatario deberá designar un Coordin ador del Servicio, integrado en su propia 
+plantilla, que tendrá, entre sus obligaciones, las siguientes: 
+ 
+ Actuar como interlocutor del adjudicatario frente a CESCE, canalizando la 
+comunicación entre el adjudicatario y el personal integrante del equipo de trabajo 
+adscrito al contrato, por un lado, y CESCE, de otro lado, en todo lo relativo a las 
+cuestiones derivadas de la ejecución del contrato.  
+ 
+ Distribuir el traba jo entre el personal encargado de la ejecución del contrato, e 
+impartir a dichos trabajadores las órdenes e instrucciones de trabajo que sean 
+necesarias en relación con la prestación del Servicio contratado. 
+ 
+ Supervisar el correcto desempeño por parte del personal integrante del equipo de 
+trabajo de las funciones que tiene encomendadas, así como controlar la asistencia 
+de dicho personal al puesto de trabajo. 
+ 
+
+--- página 20 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 20 
+ Organizar el régimen de vacaciones del personal adscrito a la ejecución del contrato, 
+debiendo a tal efecto coordinarse adecuadamente el adjudicatario con CESCE, a 
+efectos de no alterar el buen funcionamiento del Servicio. 
+ 
+ Informar a CESCE acerca de las v ariaciones, ocasionales o permanentes, en la 
+composición del equipo de trabajo adscrito a la ejecución del contrato. 
+ 
+El adjudicatario mantendrá indemne a CESCE de cuantas consecuencias se deriven del 
+incumplimiento de lo establecido en la presente cláusula. 
+ 
+En el caso de que el servicio se preste de manera continuada en las dependencias de 
+CESCE el adjudicatario deberá, en su caso, garantizar el cumplimiento de las obligaciones 
+que le correspondan en caso de que asigne a la prestación de los Servicios a trabajadores 
+autónomos que ostenten la condición de económicamente dependientes del 
+adjudicatario, debiendo facilitar a CESCE copia de la documentación justificativa del 
+cumplimiento de tales obligaciones con carácter previo al inicio de la ejecución Contrato.  
+ 
+ Ocupar espacios de trabajo diferenciados de los empleados de CESCE.  
+ Utilizar distintivos que identifiquen a su personal. 
+ 
+7.- Seguridad y confidencialidad.  
+ 
+7.1.- El adjudicatario queda obligado a tratar de forma confidencial y reservada la 
+información recibida, así como a tratar los datos conforme a las instrucciones y 
+condiciones de seguridad que dicte el responsable del contrato.  
+ 
+El adjudicatario adquiere, igualmente, el compromiso de la custodia fiel y cuidadosa de la 
+documentación que se le entregue para la realización del trabajo y, con ello, la obligación 
+de que ni la documentación ni la información que ella contiene o a la que acceda como 
+consecuencia del trabajo llegue, en ningún caso, a poder de terceras personas.  
+ 
+El adjudicatario deberá respetar el carácter confidencial de  toda la documentación e 
+información a la que tenga acceso con ocasión de la ejecución del contrato a la que se le 
+haya dado el referido carácter o que, por su propia naturaleza, deba ser tratada como tal y 
+estará obligado a guardar sigilo respecto a los datos o antecedentes que, no siendo 
+públicos o notorios, estén relacionados con el objeto del contrato, de los que tenga 
+conocimiento con ocasión del mismo, durante la vigencia del contrato y los cinco años 
+posteriores al vencimiento de éste en los términos del artículo 133.2 de la LCSP.  
+ 
+ 
+7.2.- El adjudicatario no podrá utilizar para sí ni proporcionar a terceros dato alguno de los 
+trabajos contratados ni publicar, total o parcialmente, el contenido de los mismos sin 
+autorización escrita del órgano de contratación.  
+ 
+No obstante lo in dicado en el párrafo anterior, el adjudicatario quedará autorizado, 
+siempre que lo solicite expresamente a CESCE, a conservar aquellos soportes 
+documentales que sean necesarios a los efectos de defensa legal y sus procesos de 
+auditoría interna y externa de calidad. 
+ 
+
+--- página 21 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 21 
+7.3.- El órgano de contratación no podrá divulgar la información facilitada por l os 
+empresarios que éstos hayan designado como confidencial, carácter que afecta, en 
+particular, a los secretos técnicos o comerciales y a los aspectos confidenciales de las 
+ofertas.  
+ 
+Los licitadores deberán indicar que documentos (o parte de los mismos) o  datos de los 
+incluidos en las ofertas tienen la consideración de “confidenciales”, sin que resulten 
+admisibles las declaraciones genéricas de confidencialidad de todos los documentos o 
+datos de la oferta. La condición de confidencial deberá reflejarse cla ramente 
+(sobreimpresa, al margen o de cualquier otra forma identificable) en el propio documento 
+que tenga tal condición, señalando además los motivos que justifican tal consideración. 
+No se considerarán confidenciales documentos que no hayan sido expresam ente 
+calificados como tales por los licitadores. 
+ 
+7.4.- La infracción de estos deberes por parte del adjudicatario generará, además de 
+responsabilidad contractual, la responsabilidad de índole civil, penal o administrativa que 
+corresponda con arreglo a la legislación vigente. En todo caso, el adjudicatario será 
+responsable de todos los daños y perjuicios que directa o indirectamente se deriven del 
+incumplimiento de esta obligación.  
+ 
+8.-Protección de datos personales 
+ 
+8.1 Tratamiento de los datos personales aportados en las propuestas o en el marco de 
+la relación que, en su caso, se derive de la formalización del correspondiente contrato. 
+ 
+CESCE tratará, para la resolución de la presente licitación y para la eventual posterior 
+formalización del correspondiente contrato, los datos personales suministrados por los 
+licitadores, entre ellos, los del representante legal y/o de las personas de contacto que se 
+señalen en la propuesta, así como cualquier otro dato que pueda ser comunicado por el 
+adjudicatario. 
+ 
+CESCE es responsable de dicho tratamiento y garantiza el cumplimiento de las 
+obligaciones derivadas del régimen normativo en vigor en cada momento. En 
+cumplimiento con la normativa de protección de datos vigente -Reglamento (UE) 
+2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016 (en adelante, RGPD), 
+la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía 
+de los derechos digitales (en adelante, LOPDGDD) y restante normativa de protección de 
+datos personales en vigor- CESCE informa que: 
+ 
+- El responsable del tratamiento es la Compañía Española de Seguros de Crédito a la 
+Exportación, S.A., Cía de Seguros y Reaseguros (SME) con CIF A -28264034 y domicilio 
+social en Velázquez, núm. 74- 28001 Madrid. 
+ 
+- El tratamiento encuentra sus bases legitimadoras en: 
+ 
+- La obligación legal de CESCE de cumplimiento de sus Normas de contratación 
+aprobadas de acuerdo con la normativa de contratación pública, así como 
+ 
+ 
+
+--- página 22 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 22 
+- En el interés legítimo de CESCE en adjudicar el contrato por la presente licitación 
+y la libertad de los licitadores que tienen interés en resultar adjudicatarios, lo cual 
+se enmarca en el inicio de una relación pre-negocial que puede transformarse en 
+relación negocial. 
+ 
+- Las finalidades del tratamiento son permitir la gestión del procedimiento de licitación; 
+y en su caso, la formalización del contrato, en cuyo caso, el tratamiento de datos 
+asociado a la ejecución del mismo, incluidos los plazos de conservación, quedará 
+estipulado en el mismo.  
+ 
+- La adjudicación será publicada en la Plataforma de Contratación del Sector Público, de 
+acceso público, de manera que los datos personales antes indicados podrán ser 
+consultados por todo tercero que acceda a la misma.  
+ 
+- Igualmente, de conformidad con la legislación vigente, CESCE tiene la obligación legal 
+de comunicar bajo requerimiento formal para los fines legalmente establecidos, la 
+información y datos obrantes en el expediente de contratación a los siguientes 
+destinatarios (Organis mos y terceros): Jueces y Tribunales, Junta Consultiva de 
+Contratación Administrativa del Ministerio de Hacienda y Función Pública, Intervención 
+General de la Administración del Estado (IGAE), el Tribunal de Cuentas, Fuerzas y 
+Cuerpos de Seguridad, Autorid ades con competencia en la materia, así como en 
+general a letrados, abogados, auditores y a cualesquiera otros terceros a quienes CESCE 
+tuviese la obligación o el interés legítimo de comunicar los datos para poder cumplir 
+con la normativa vigente que sea d e aplicación a CESCE, incluidos aquellos derivados 
+de obligaciones de transparencia. 
+ 
+- No está prevista la transferencia internacional de Datos Personales, esto es, a países 
+ubicados fuera del Espacio Económico Europeo o sin un nivel de protección equivalente 
+reconocido. 
+ 
+- El tratamiento no conlleva la toma de decisiones automatizas, ni elaboración de perfiles.  
+ 
+- El plazo durante el cual se conservarán los Datos Personales, en relación con las 
+finalidades indicadas, es el de prescripción de las correspondient es acciones que 
+pudieran derivarse.  
+ 
+- Los interesados tienen derecho a solicitar a CESCE el ejercicio de sus derechos en 
+relación a sus Datos Personales. En este sentido, CESCE, como responsable del 
+tratamiento, garantiza a los interesados el ejercicio de los derechos de protección de 
+datos le galmente establecidos, entre los que se incluyen los derechos de acceso, 
+rectificación, supresión, limitación de tratamiento, oposición, portabilidad y exclusión 
+de decisiones automatizadas. Asimismo, todo interesado puede contactar con el 
+Delegado de Prot ección de Datos de CESCE, dirigiéndose por escrito, a la siguiente 
+dirección postal: CESCE (“Protección de Datos”), Calle Velázquez, núm. 74 - 28001 
+Madrid o mediante correo electrónico a dpd@grupocesce.es.  
+ 
+La presentación de una oferta o proposición bajo el presente Pliego que incluya la entrega 
+a CESCE de documentación en la que se hagan constar Datos Personales del 
+representante legal y/o de las personas de contacto que se señalen en la propuesta y/o de 
+los comunicados por el adjudicatario para la formalización del contrato conlleva: 
+ 
+
+--- página 23 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 23 
+ Que los interesados han sido debidamente informados sobre el tratamiento de sus 
+datos personales por parte de CESCE. 
+ 
+ Que en el caso de que en la propuesta de los licitadores se incluyan Datos 
+Personales, o se suministren en fase de preparación del contrato, de otras 
+personas (bien personas integrantes de la entidad oferente, bien de otras 
+empresas que forman parte de la propuesta presentada, u otras), es aplicable todo 
+lo anteriormente indicado a las mismas. El licitador d eberá informar a todas ellas 
+del tratamiento de sus Datos Personales de conformidad con lo establecido 
+anteriormente y, en su caso, recoger su aceptación para su inclusión en la 
+licitación, exonerando de toda responsabilidad a CESCE. 
+ 
+8.2 Tratamiento de datos personales en la prestación del servicio objeto de licitación. 
+ 
+Sin perjuicio de lo estipulado de manera particular en materia de protección de datos, en 
+el Pliego de Prescripciones Técnicas, el contratista deberá respetar la Ley Orgánica 3/2018, 
+de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, 
+el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, 
+así como las disposiciones que en materia de protección de datos se encuentren en vigor 
+a la adjudicación del contrato o que puedan estarlo durante su vigencia. 
+ 
+ En el supuesto de que el adjudicatario trate datos personales por cuenta propia, 
+como consecuencia de la prestación del servicio objeto del contrato, actuará en 
+calidad de responsable del tratamiento y así constará en el Pliego de Prescripciones 
+Técnicas. 
+ 
+ En el supuesto de que el adjudicatario trate datos personales por cuenta de CESCE 
+y siguiendo sus instrucciones, como consecuencia de la prestación del servicio 
+objeto de la licitación, actuará en calidad de encargado del tratamiento y estará a 
+lo dispuest o en el correspondiente Acuerdo de Encargo de Tratamiento, en los 
+términos recogidos en el Anexo I del Pliego de Prescripciones Técnicas Particulares.  
+ 
+En los dos supuestos anteriores, se deberá tener en cuenta lo dispuesto en el presente 
+Pliego en lo que  respecta a las condiciones especiales de ejecución, subcontratación, 
+resolución, finalidad de la cesión de datos y obligaciones del contratista.  
+ 
+El deber de secreto sobre la información que se obtenga durante la duración del objeto 
+del contrato, por lo que respecta al cumplimiento de la normativa en materia de 
+protección de datos personales, se mantendrá por tiempo indefinido. 
+ 
+9.- Imposibilidad de cesión del contrato y subcontratación 
+ 
+El adjudicatario no podrá ceder el contrato en todo o en parte, ni los derechos derivados 
+del mismo, ni podrá subcontratar su cumplimento o ejecución sin autorización previa y 
+por escrito de CESCE. 
+ 
+Por otra parte, en cualquier momento y sin otro requisito que la comunicación al 
+Adjudicatario con 15 días de antelación jun to con la aceptación por escrito por parte del 
+cesionario de los términos y condiciones de este Contrato, CESCE podrá ceder su posición 
+jurídica y los derechos y obligaciones derivados de l Contrato a cualquier Sociedad en la 
+
+--- página 24 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 24 
+que CESCE, S.A. ostente  directa o indirectamente una participación m ayoritaria en su 
+capital social. 
+ 
+10.- Terminación del Contrato 
+ 
+ El contrato con el adjudicatario podrá terminar en los siguientes casos: 
+  
+10.1. Extinción por vencimiento del plazo contractual. El Contrato se extinguirá a la 
+conclusión del período de duración. 
+ 
+10.2. Resolución por incumplimiento del PROVEEDOR y con otra justa causa. Serán 
+motivos de resolución anticipada del contrato a instancias de CESCE, además de los 
+señalados anteriormente en el Pliego de cláusulas administrativas y de prescripciones 
+técnicas, los siguientes: 
+ 
+a) La inobservancia grave y/o reiterada por parte del adjudicatario de cualesquiera 
+obligaciones previstas a su cargo en el Pliego de Prescripciones Técnicas y cláusulas 
+Administrativas y sin que la misma sea subsanada e indemnizada en los plazos que 
+CESCE indique. 
+ 
+b) La circunstancia de hallarse el adjudicatario en causa de disolución, o haya cesado o 
+tenga intención de cesar en el ejercicio de su actividad o el caso en que un tercero 
+ejecutara una garantía real o derecho sobre la totalidad o una parte sustancial de los 
+activos del PROVEEDOR. 
+ 
+c) En el caso de cambio de control, fusión, absorción, escisión, transmisión de rama de 
+actividad, segregación o cualquier otra reorganización societaria o modificación 
+estructural que afectara/involucrara al adjudicatario, éste deberá comunicar a CESCE 
+dichas circunstancias antes de que se produzcan y CESCE podrá optar por la 
+continuidad o la resolución anticipada y con justa causa. A tales efectos: 
+ 
+(i) Si la entidad resultante o cualquiera de las involucradas en esas 
+modificaciones estructurales o cambio de control no reuniera los requisitos de 
+capacidad y de solvencia económica y técnica definidos en este Pliego o fuera 
+una entidad cuyo objeto social fuera competencia de CESCE  o de las 
+compañías de su Grupo , CESCE podrá resolver con justa causa el contrato, 
+siendo esta resolución por causa imputable al adjudicatario.  
+ 
+(ii) CESCE tendrá derecho a exigir las justificaciones y acreditaciones oportunas 
+acerca de la capacidad y solvencia económica y técnica. 
+ 
+(iii) La entidad resultante deberá comprometerse a continuar prestando los 
+Servicios en las mismas condiciones pactadas, así como a prestar cuantas 
+garantías puedan exigirse por CESCE en atención al riesgo  derivado de la 
+modificación o reorganización societaria y/o del cambio de control. 
+ 
+No afectará a la continuidad del Contrato ni a sus condiciones pactadas ningún 
+supuesto de cambio de control, fusión, absorción, escisión, transmisión de rama de 
+actividad, segregación, adquisición de nuevas aseguradoras en el Grupo o cualquier 
+otra reorganización societaria de CESCE ni de las empresas de Grupo CESCE. 
+ 
+
+--- página 25 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 25 
+d) La concurrencia sobrevenida de una situación de conflicto de intereses en el 
+adjudicatario que comprometa o pudiera comprometer su necesaria imparcialidad, 
+objetividad e independencia. 
+ 
+e) La falsedad de cualquiera de las manifestaciones otorgadas en el proceso de 
+contratación y/o en el Contrato. 
+ 
+Como reglas comunes a los supuestos de resolución a instancias de CESCE por 
+incumplimiento del PROVEEDOR o por otra justa causa: 
+ 
+ En el caso de que CESCE resuelva el presente Contrato debido al incumplimiento 
+del adjudicatario o por otra justa causa, éste queda  obligado a indemnizar tanto a 
+CESCE por los daños y perjuicios causados en cualquiera que sea su naturaleza, que 
+se deriven directa o indirectamente de la prestación de los Servicios o tengan causa 
+en el incumplimiento o cumplimiento defectuoso o extemporáneo.  
+ 
+ El anterior deber indemnizatorio es adicional y no se verá compensado ni minorado 
+con las penalizaciones económicas previstas en el Pliego de Prescripciones Técnicas 
+que CESCE pudiera aplicar o hubiera aplicado por el hecho que motiva la resolución 
+contractual. 
+ 
+10.3. Resolución a instancias del Adjudicatario: A instancias del adjudicatario, será causa 
+de resolución la falta de pago por parte de CESCE con mora superior a 3 meses, siempre 
+que el retraso en el pago no sea debido a objeciones y disputas sobre las facturas 
+planteadas de buena fe por CESCE y se haya otorgado un plazo no inferior a 30 días para 
+subsanar el incumplimiento, sin haberse subsanado el mismo.  
+ 
+A tales efectos, no se considerará en ningún caso retraso ni incumplimiento por parte de 
+CESCE de su obligación de pago la negativa o demora en el pago de facturas por razón de 
+objeciones y disputas planteadas de buena fe acerca de los informes de facturación o 
+eventualmente facturación emitida. 
+ 
+10.4. Terminación a conveniencia. En cualquier momento durante la vigencia del 
+Contrato, CESCE podrá cancelar el Contrato, sin necesidad de justa causa y a su 
+conveniencia, mediante preaviso escrito dirigido al adjudicatario con una antelación 
+mínima de 60 días naturales a la fecha en la que la terminación a conveniencia deba tener 
+lugar.  
+ 
+Igualmente, en cualquier momento CESCE está facultada para solicitar la conclusión de 
+concretos servicios encomendados (v.g. emisión de dictámenes, desencomendar un 
+proceso judicial o recurso previamente encomendado…), debiendo CESCE abonar los 
+honorarios que correspondan hasta el momento de ese desistimiento de acuerdo con la 
+dedicación/intervención procesal que se justifique por el adjudicatario, con obligación de 
+realizar por parte de éste todas las actuaciones que sean precisas o convenientes para la 
+defensa de los intereses de CESCE (v.g. emisión de venia profesional, informar del estado 
+del asunto y actuaciones pendientes, devolución de documentación facilitada y del 
+expediente…).  
+ 
+En estos  supuestos, CESCE no quedará obligada a satisfacer al PROVEEDOR ningun a 
+indemnización por dicho desistimiento, quedando limitadas sus obligaciones económicas 
+
+--- página 26 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 26 
+al pago de los honorarios que correspondan hasta la fecha del desistimiento, según lo 
+indicado en el párrafo anterior.  
+ 
+10.5. Extinción por Caso Fortuito o Fuerza Mayor que afecte al Adjudicatario. Cuando 
+el Adjudicatario vea imposibilitado el cumplimiento de sus obligaciones a causa de c aso 
+fortuito o fuerza mayor, deberá continuar realizando con empeño y buena fe todos los 
+esfuerzos comercial y técnicamente razonables y suficientes para el restablecimiento de 
+la prestación, así como deberá adoptar aquellas otras medidas que sean conducentes para 
+reanudar el cumplimiento de las obligaciones, para minimizar el impacto de cualq uier 
+situación de desastre o de incapacidad de prestación a causa de acontecimientos que 
+supongan caso fortuito o fuerza mayor y para restaurar la prestación de los servicios, 
+asumiendo a su exclusiva cuenta el coste de dichas medidas. 
+ 
+10.6. Extinción del saldo del contrato. Cuando se haya consumido el saldo destinado al 
+contrato objeto de la licitación, se extinguirá el contrato. 
+ 
+Si cualquier supuesto de caso fortuito o f uerza mayor impidiera sustancialmente la 
+prestación de los Servicios necesarios para  la satisfacción de las necesidades de  CESCE 
+durante más de 15 días naturales consecutivos, CESCE podrá terminar los Servicios 
+afectados mediante comunicación escrita al adjudicatario o concluir el Contrato.  
+ 
+La terminación del contrato por esta causa no generará deber indemnizatorio a cargo del 
+Adjudicatario. 
+ 
+10.7. Como reglas comunes a todo caso de terminación del Contrato, cualquiera que sea 
+la causa de terminación: 
+ 
+a) CESCE podrá solicitar, no obstante la terminación del Contrato, que el Adjudicatario 
+continúe prestando sus servicios respecto de aquellos procesos judiciales -y sus 
+eventuales recursos - que le hubieran sido encomendados con anterioridad a la 
+terminación del Contrato, siendo aplicables a los servicios de defensa jurídica y 
+honorarios las reglas contractuales que venían aplicándose. 
+ 
+b) El Adjudicatario deberá enviar un informe detallado de situación de todos los 
+servicios que tenga encomendados y de su estado. Igualmente, tendrá las 
+obligaciones propias de buena fe y colaboración profesional para transferir a CESCE 
+o al tercero que CESCE indique los asuntos encomendados. 
+ 
+10.8. Otras. Pese a la extinción total o parcial del Contrato cualquiera que sea la causa, los 
+derechos y obligaciones regulados en el Contrato que tengan establecido un plazo  de 
+vigencia diferente o que por su naturaleza deban extenderse más allá de la terminación 
+del contrato (v.g. Confidencialidad), permanecerán en vigor durante el periodo particular 
+acordado o mientras persista la característica que justifica su vigencia.  
+ 
+11. Miscelánea 
+ 
+11.1. Renuncia. Suscrito el contrato, no se entenderá que existe renuncia de las Partes a 
+alguno de los derechos reconocidos en el mismo o derivados del incumplimiento salvo 
+cuando dicha renuncia se haga de forma expresa y por escrito. Si alguna de las Partes 
+renunciara a  alguno de los derechos derivados del Contrato o de cualquier 
+incumplimiento de la otra Parte de conformidad con el párrafo anterior, dicha renuncia 
+
+--- página 27 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 27 
+no podrá en modo alguno interpretarse como renuncia a cualquier otro derecho derivado 
+del Contrato o de cualquier incumplimiento de la otra Parte, aun cuando sean similares.  
+ 
+11.2. Ineficacia parcial. Suscrito el Contrato, la ilicitud, invalidez o ineficacia de cualquiera 
+de las cláusulas del Contrato no afectará a la eficacia del resto. Dichas cláusulas deberán 
+reemplazarse o integrarse con otras que, siendo conformes a la ley, respondan a la 
+finalidad de las sustituidas, a los finales y requerimientos del servicio con los que CESCE 
+ha concebido la licitación y al cumplimiento de la normativa reguladora q ue afecta a 
+CESCE. 
+ 
+11.3. Comunicaciones contractuales. Suscrito el Contrato, todas las comunicaciones y 
+notificaciones que deban realizarse las Partes en virtud del Contrato o que estén 
+relacionadas con el mismo deberán efectuarse por escrito, en español y mediante 
+cualquier medio que acredite su recepción por la otra parte. 
+ 
+12. Ley y Jurisdicción Competente  
+ 
+12.1. Ley aplicable. El presente Contrato queda sujeto a la legislación española. 
+ 
+12.2. Jurisdicción.  
+El Contrato que firme el Adjudicatario contemplará la siguiente estipulación: 
+“Las Partes, con renuncia expresa a cualquier otro fuero que pudiera corresponderles, se 
+someterán, para la resolución de cuantas controversias puedan surgir en orden a la 
+interpretación, ejecución o extinción de este Contrato, a la jurisdicción y competencia de 
+los Juzgados y Tribunales de Madrid (capital). 
+ 
+No obstante lo anterior, ambas partes manifiestan su voluntad expresa e inequívoca de 
+aceptar la elección del arbitraje por la parte que en su caso actúe como demandante como 
+procedimiento para dirimir toda controversia acerca de la aplicación, ejecución e 
+interpretación del presente Contrato Marco, sus Anexos y/o contratos de Adhesión. Y a tal 
+efecto, convienen explícitamente que, en tal caso, con renuncia a ejercitar su derecho ante 
+la jurisdicción ordinaria, se someterán a arbitraje de derecho administrado por la Corte 
+Española de Arbitraje, con sede en Madrid, de conformidad con su Reglamento y Estatuto 
+y con arreglo al procedimiento en ellos establecido, estipu lando que encomendarán a 
+dicha Corte la administración del arbitraje y la designación del árbitro o tribunal arbitral y 
+se obligan a cumplir tanto las resoluciones interlocutorias como el laudo que finalmente 
+se dicte”. 
+ 
+ 
+ 
+  
+
+--- página 28 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 28 
+5. ANEXOS 
+ 
+ 
+ANEXO I 
+MODELO DECLARACIÓN RESPONSABLE DEL CUMPLIMIENTO DE LAS 
+CONDICIONES EXIGIDAS LEGALMENTE PARA PODER CONTRATAR DE 
+CONFORMIDAD CON LA LCSP 
+ 
+ 
+DON/DOÑA___________________________________________________ con D.N.I. número 
+______________________, domiciliado en _________ ______ calle de 
+________________________________, en representación de la Empresa 
+________________________________ domiciliada en ___________________ calle 
+de__________________________________ con C.I.F. _________________ constituida mediante 
+escritura ant e el notario de 
+____________________________Don/ña_____________________________________ y con poderes 
+suficientes y vigentes, según escritura autorizada por el Notario_________________, del 
+día______________ núm de protocolo______________ con relación al e xpediente para la 
+contratación de _______________________.  
+ 
+ 
+DECLARO RESPONSABLEMENTE, que la empresa que represento:  
+ 
+1) Que la sociedad está válidamente constituida y que conforme a su objeto social 
+puede presentarse a la licitación, así como que el firma nte de la declaración 
+ostenta la debida representación de aquella, así como para la presentación de 
+esta proposición. 
+ 
+2) Que cuenta, en su caso, con la correspondiente clasificación.  
+ 
+ 
+3) Que no está incurso en prohibición de contratar por sí mismo ni por extensión 
+como consecuencia de la aplicación del artículo 71 de la LCSP. 
+ 
+ 
+ 
+Y para que conste y surta efectos oportunos, se expide y firma la presente declaración, en 
+_____________, a___de___________________de 2026.  
+ 
+ 
+ 
+Firma y sello del licitador 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 29 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 29 
+ANEXO II 
+ 
+MODELO DE PROPOSICIÓN ECONÓMICA  
+ 
+Las proposiciones económicas que presenten los licitadores se ajustarán al siguiente 
+modelo: 
+ 
+D/Dª. .........................................................., domiciliado en ............................ 
+C/............................................................................., nº ........., distrito postal............... .. con DNI Nº ....... ................. 
+expedido en ................................ actuando (en nombre propio o en representación de) 
+.........................................................................., con CIF Nº ........................... se comprom ete a realizar el  
+contrato de servicios a que se refiere el pliego con nº de Expediente A33-1126 de fecha 13 
+de noviembre de 2026, con sujeción a las condiciones y requisitos que se determinan en 
+dicho pliego, todo ello desglosado por los conceptos e importes siguientes: 
+ 
+Servicio de soporte y mantenimiento Importe Total anual 
+Software Application Manager Enterprise Edition € 
+Software OpManager Essential € 
+Total *               € 
+ 
+ 
+ 
+*Todos los importes se indicarán sin IVA. 
+ 
+Aclaración: El coste del servicio no puede superar el presupuesto base de licitación que asciende a 
+11.300,00 € + IVA. 
+ 
+ 
+ 
+ 
+En ..................., a.........................de  ………………… de 2026  
+ 
+ 
+ 
+ 
+ 
+(Firma y sello de la empresa) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 30 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 30 
+ANEXO III 
+ 
+MODELO DECLARACIÓN RESPONSABLE DEL CUMPLIMIENTO DE LAS CONDICIONES 
+EXIGIDAS LEGALMENTE EN MATERIA DE PROTECCIÓN DE DATOS 
+ 
+DON/DOÑA___________________________________________________ con D.N.I. número 
+______________________, domiciliado en calle de ________________________________, en 
+representación de l a Empresa ___________                                 domiciliada en calle 
+de__________________________________ con C.I.F. _________________ constituida mediante 
+escritura ante el notario de Don/ña_____________________________________ y con poderes 
+suficientes y vigentes, según escritura autorizada por el Notario_________________, del 
+día______________ núm de protocolo______________ con relación al expediente para la 
+contratación de _______________________.  
+Sin perjuicio de lo estipulado de manera particular en el presente pliego en materia de 
+protección de datos, DECLARO RESPONSABLEMENTE, que la empresa que represento:  
+1) Cumple con las obligaciones impuestas por el RGPD y la LOPDGDD, así como con 
+cualquier otra obligación establecida por la normativa aplicable en materia de 
+protección de datos vigente en cada momento. 
+ 
+2) A título enunciativo y con independencia de la posición que ocupe respecto al 
+tratamiento de datos como consecuencia de la prestación del ser vicio objeto del 
+presente Pliego, respecto a los datos de los que es responsable: 
+ 
+ 
+- Cumple con los principios previstos en el artículo 5 del RGPD. 
+- Atiende las solicitudes de ejercicio de los derechos de los interesados 
+previstos en los art. 15 a 22 del RGPD. 
+- Cuenta con una política de privacidad y/o aplica otras medidas de 
+responsabilidad proactiva, en los términos previstos en el art. 24 del RGPD. 
+- Cumple los principios de privacidad desde el diseño y por defecto, en los 
+términos del art. 25 del RGPD. 
+- Adopta las medidas de seguridad a las que se refiere el artículo 32 del RGPD. 
+- Dispone de un protocolo de actuación/remediación y mitigación ante 
+brechas de seguridad que afecten a datos personales. 
+ 
+ 
+ 
+Y para que conste y surta efectos oportunos, se expide y firma la presente declaración, en 
+____________, a___de___________________de 2026  
+ 
+Firma y sello del Licitador. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 31 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 31 
+ANEXO Ab (EN CASO DE EMPRESAS CON COMPROMISO DE UTE) 
+ 
+ 
+MODELO DE DECLARACIÓN DE UTE 
+ 
+ 
+D/Dña. ................................................................................ con domicilio 
+en........................................................................................., y D.N.I. nº.......................................... en nombre propio o 
+como ...................... (señalar las facultades de representación: administrador/a único, 
+apoderado/a) en representación de la empresa ............................................................ con domicilio 
+social en ............................................................................................., y C.I.F nº ............................... Y  
+ 
+ 
+D/Dña. .................................................................................. con domicilio en 
+....................................................................................., y D.N.I. nº........................................ en nombre propio o como 
+....................... (señalar las facultades de representación: administrador/a único, apoderado/a) 
+en representació n de la empresa ............................................................ con domicilio social en 
+............................................................................................, y C.I.F nº ...............................  
+ 
+DECLARAN  
+ 
+Que a sumen el compromiso de constituirse formalmente en Unión Temporal de 
+Empresas, con las participaciones respectivas de..........% y de.........% y que nombran 
+representante o apoderado único de la unión con poderes bastantes para ejercitar los 
+derechos y cu mplir las obligaciones que del contrato se deriven hasta la extinción del 
+mismo a D./Dña. ..........................................................................................con domicilio a efe ctos de 
+notificaciones para esta licitación en ………………………………………………………………………  
+ 
+ 
+ 
+Y como prueba de conformidad de esta declaración, la firmamos en ........................, a ........ de 
+......................... de 2026.  
+ 
+Firma y sello del licitador 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 32 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 32 
+ANEXO Ac 
+ 
+DECLARACION DE INTEGRACION DE SOLVENCIA 
+ 
+DECLARACIÓN A EFECTOS DE INTEGRAR LA SOLVENCIA exigida para la licitación del 
+contrato que tiene por objeto………………………………………………………….…………… 
+ 
+EL LICITADOR:  
+D/Dña. ..................................................................................... con domicilio en ............... ................................................................, y D.N.I. 
+nº......................................... en nombre pr opio o como ....................... (señalar las facultades de representación: 
+administrador/a único, apoderado/a) en representación de la empresa .........................................................  con domicilio 
+social en ............................................................., y C.I.F nº ..............................., DECLARA  
+ 
+Que para la acreditación de la solvencia exigida para la presente licitación se va a basar en las capacidades y 
+medios de la entidad …………………………  
+ 
+LA ENTIDAD 
+D/Dña. .. ............................................................................. con domicilio en .............................. ......................................................., y D.N.I. 
+nº......................................... en nombre propio o co mo ....................... (señalar las facultades de representación: 
+administrador/a único, apoderado/a) en representación de la empresa .........................................................  con domicilio 
+social en .............................................................., y C.I.F nº ..............................., DECLARA  
+ 
+(Para el caso de integración de solvencia económica y financiera) 
+ 
+a) La empresa con la que se integra la solvencia no está incursa en prohibición de contratar. 
+b) Que conoce el Pliego de Prescripciones Técnicas, el Pliego de Cláusulas Administrativas Particulares, su 
+Carátula y demás documentación que debe regir el presente contrato.  
+c) Que cumple las condiciones de solvencia económica financiera exigida en este plieg o y se compromete 
+a aportar los documentos acreditativos del cumplimiento de dichos requisitos en cualquier momento 
+que así lo solicite el órgano de contratación y en todo caso, en el supuesto de que la propuesta de 
+adjudicación recaiga a favor del licitador arriba indicado. 
+d) Que pone a disposición del licitador arriba indicado, los medios económicos financieros necesarios para 
+garantizar la ejecución del contrato, respondiendo solidariamente frente a CESCE.  
+ 
+(Para el caso de integración de solvencia técnica y profesional) 
+ 
+a) La empresa con la que se integra la solvencia no está incursa en prohibición de contratar. 
+b) Que conoce el Pliego de Prescripciones Técnicas, el Pliego de Cláusulas Administrativas Particulares y 
+demás documentación que debe regir el presente contrato.  
+c) Que cumple las condiciones de solvencia técnica profesional exigida en este pliego y se compromete a 
+aportar los documentos acreditativos del cumplimiento de dichos requisitos en cualquier momento que 
+así lo solicite el órgano de contratación y en todo caso, en el supuesto de que la propuesta de adjudicación 
+recaiga a favor del licitador arriba indicado.  
+d) Que pone a disposición del licitador arriba indicado, los siguientes medios técnicos profesionales necesarios 
+para garantizar la ejecución del contrato frente a CESCE:  
+ 
+Y como prueba de conformidad de esta declaración, la firmamos, en.................., a........ de................. de 2026 
+ 
+ 
+Firma y sello del licitador       
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 33 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 33 
+ANEXO Ah - MODELO DE DECLARACIÓN RESPONSABLE RELATIVA A CONOCER Y ACEPTAR EL 
+CÓDIGO ÉTICO DE GRUPO CESCE  
+ 
+D./Dña………………… , en nombre propio o en representación de la empresa ………… con N.I.F. nº ….………………, 
+en calidad de …………………………………………………..... DECLARA: 
+ 
+Que, conocen y aceptan el Código Ético del Grupo CESCE 
+https://www.cesce.es/documents/20122/57366/CodigoEticoCESCE2019.pdf/6e30cbc6 -7680-d23c-
+6823-e26d0e23f3f8?t=1606128095550 
+ 
+ 
+ 
+ En .............................,a ....... de ....................2026. 
+ 
+Firma y sello del licitador 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 34 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 34 
+ANEXO Ai 
+ 
+MODELO DE DECLARACIÓN RESPONSABLE RELATIVA AL CUMPLIMIENTO DEL 
+COMPROMISO DE ADSCRIPCIÓN DE LOS MEDIOS PERSONALES Y MATERIALES 
+EXIGIDOS PARA LA EJECUCIÓN DEL CONTRATO.  
+ 
+ 
+D./Dña………………… , en nombre propio o en representación de la empresa ………… con N.I.F. nº 
+….………………, en calidad de …………………………………………………..... 
+ 
+DECLARA y CERTIFICA bajo su personal responsabilidad: 
+ 
+Que el licitador al que representa se compromete a contar con todos los medios 
+personales y  materiales (incluidos herramientas, útiles y equipos) necesarios para el 
+correcto cumplimiento y ejecución del objeto de cada contrato. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ En .............................,a ....... de ....................2026 
+ 
+Firma y sello del licitador 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 35 ---
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS                                                                               
+  
+ 
+ 
+ 35 
+ANEXO Aj 
+ 
+MODELO DE DECLARACIÓN RESPONSABLE RELATIVA AL COMPROMISO DE TENER 
+CONTRATADOS TRABAJADORES CON DISCAPACIDAD Y PLAN DE IGUALDAD.  
+ 
+ 
+D./Dña………………… , en nombre propio o en representación de la empresa ………… con N.I.F. nº ….………………, 
+en calidad de …………………………………………………..... DECLARA: 
+ 
+Que, de resultar adjudicatario del contrato, y durante la vigencia del mismo, asume la obligación 
+de tener empleados trabajadores con discapacidad en un 2 por 100, al menos, de la plantilla de la 
+empresa, si ésta alc anza un número de 50 ó más trabajadores, de acuerdo con el artículo 42 del 
+Texto Refundido de la Ley General de derechos de las personas con discapacidad y su inclusión 
+social, aprobado por Real Decreto Legislativo 1/2013, de 29 de noviembre, o la de adopt ar las 
+medidas alternativas establecidas en el Real Decreto 364/2005, de 8 de abril. Asimismo, se 
+compromete a acreditar el cumplimiento de la referida obligación ante el órgano de contratación 
+cuando sea requerido para ello, en cualquier momento durante l a vigencia del contrato.  
+Igualmente, si se trata de una empresa de más de 50 trabajadores, asume la obligación de contar 
+con un plan de igualdad conforme a lo dispuesto en el artículo 45 de la Ley orgánica 3/2007, de 22 
+de marzo, para la igualdad de mujer es y hombres, y se compromete a acreditar el cumplimiento 
+de la referida obligación ante el órgano de contratación cuando sea requerido para ello.  
+ 
+¿La empresa tiene más de 50 trabajadores?   SI                  NO     
+ 
+ 
+ En .............................,a ....... de ....................2026 
+ 
+Firma y sello del licitador 
+ 
+ 
+ 
+ 
+Nota: Junto con esta Declaración Responsable se presentará copia de la 
+inscripción en el Registro Laboral correspondiente. 
+ 
+ 
+ 
+ 
+ 
+  

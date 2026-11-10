@@ -1,0 +1,1208 @@
+
+
+--- página 1 ---
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA LA 
+CONTRATACIÓN DEL SERVICIO DE IMPLANTACIÓN, 
+CONFIGURACIÓN, PUESTA EN MARCHA Y MANTENIMIENTO DE 
+UNA PLATAFORMA DE ADMINISTRACIÓN ELECTRÓNICA EN 
+MODALIDAD SOFTWARE COMO SERVICIO (SaaS) PARA EL 
+JUSTICIA DE ARAGÓN. 
+ 
+EXPTE. Nº 23/2026 
+ 
+ 
+ 
+ 
+ 
+
+--- página 2 ---
+ 
+ 
+2 
+ 
+INDICE 
+1.  ANTECEDENTES ........................................................................................... 3 
+2.  OBJETO DEL CONTRATO ............................................................................. 3 
+3.  CARACTERÍSTICAS GENERALES Y REQUISITOS A CUMPLIR POR LAS 
+EMPRESAS LICITANTES ...................................................................................... 4 
+4.  MARCO NORMATIVO ................................................................................... 5 
+5.  CARACTERÍSTICAS TÉCNICAS Y FUNCIONALES MÍNIMAS DE LA 
+SOLUCIÓN OFERTADA ........................................................................................ 6 
+5.1.  Identificación electrónica de los interesados en la sede electrónica ...... 6 
+5.2.  Gestión de la Representación .................................................................. 7 
+5.3.  Reducción de cargas administrativas ...................................................... 7 
+5.4.  Firma del Interesado ............................................................................... 7 
+5.5.  Oficina de Asistencia en materia de registros ......................................... 8 
+5.6.  Registro Electrónico General .................................................................. 8 
+5.7.  Copias Auténticas .................................................................................. 10  
+5.8.  Gestión Documental ............................................................................... 11  
+5.9.  Tramitación del Expediente ................................................................... 11  
+5.10.  Firma Electrónica del Personal ......................................................... 12  
+5.11.  Actuaciones administrativas automatizadas ........................................ 12  
+5.12.  Órganos y Resoluciones ..................................................................... 13  
+5.13.  Notificaciones y Comunicaciones ...................................................... 14  
+5.14.  Archivo Electrónico Único ................................................................. 15  
+5.15.  Integración con la Plataforma de Contratos del Sector Público ....... 15  
+5.16.  Trámites Preconfigurados ................................................................. 15  
+5.17.  Interfaz de programación de aplicaciones (API). .............................. 16  
+5.18.  Integración con servicios web de la institución. ............................... 17  
+5.19.  Acceso para el control interno. .......................................................... 17  
+6.  METODOLOGÍA PARA EL PROYECTO ...................................................... 18  
+7.  IMPLANTACIÓN Y CARGA INICIAL DE DATOS ....................................... 20  
+8.  PLAZO DE IMPLANTACIÓN Y DURACIÓN DEL CONTRATO ................. 21  
+9.  NIVELES DE SERVICIO .............................................................................. 21  
+10.  SOPORTE Y MANTENIMIENTO ................................................................. 22  
+11.  PENALIZACIONES POR INCUMPLIMIENTO DE LOS NIVELES DE 
+SERVICIO ............................................................................................................. 23  
+12.  COPIAS DE REPALDO Y LOGS. .................................................................. 24  
+13.  PLAN DE FORMACIÓN ............................................................................... 25  
+14.  TRANSFERENCIA A LA FINALIZACIÓN DEL CONTRATO ..................... 26  
+15.  DOCUMENTACIÓN A ENTREGAR POR EL ADJUDICATARIO ............... 26 
+16. PAGO DEL PRECIO …………………………………………………………………………. 2 7 
+17. FORMATO DE LA PROPUESTA SOMETIDA A VALORACIÓN POR 
+CRITERIOS DE ADJUDICACIÓN CUANTIFICABLES MEDIANTE UN JUICIO 
+DE VALOR (SOBRE B) ........................................................................................ 27  
+Anexo I  ................................................................................................................ 29 
+  
+
+--- página 3 ---
+ 
+ 
+3 
+ 
+1.  ANTECEDENTES 
+ 
+El Justicia de Aragón es la institución prevista en  el Estatuto de Autonomía de 
+Aragón y regulada por la Ley 4/1985, de 27 de junio , reguladora del Justicia de 
+Aragón, a la que corresponden la protección y defen sa de los derechos 
+individuales y colectivos reconocidos en el Estatut o, la tutela del ordenamiento 
+jurídico aragonés y la defensa del propio Estatuto. 
+La institución no dispone actualmente de una plataf orma de administración 
+electrónica. La tramitación de los expedientes admi nistrativos se realiza 
+mediante herramientas ofimáticas y sistemas de arch ivo en carpetas, sin 
+expediente electrónico, sin sede electrónica propia  y sin registro electrónico 
+general propio, empleándose para las funciones de registro la aplicación ORVE. 
+La tramitación de las quejas ciudadanas y de los ex pedientes de supervisión que 
+constituyen la función propia de la institución se realiza mediante una aplicación 
+específica que continuará en funcionamiento y que queda fuera del objeto de este 
+contrato. En consecuencia, el objeto de la presente licitación se circunscribe a los 
+expedientes administrativos de la institución y no comprende la tramitación de 
+quejas. 
+Los expedientes administrativos del Justicia de Ara gón están sujetos a 
+fiscalización por la Intervención de las Cortes de Aragón. La plataforma que se 
+contrate debe permitir que dicha fiscalización se realice íntegramente por medios 
+electrónicos, en los términos del apartado 5.19 de este pliego. 
+Al no existir plataforma previa, no procede migración de datos, sin perjuicio de la 
+carga inicial de terceros y de estructura organizativa prevista en el apartado 7. 
+ 
+ 
+2.  OBJETO DEL CONTRATO 
+ 
+El objeto de este contrato es el servicio de implantación, configuración, puesta en 
+marcha y mantenimiento de una plataforma de adminis tración electrónica en 
+modalidad Software como Servicio (SaaS) para el Justicia de Aragón. 
+ 
+ 
+ 
+
+--- página 4 ---
+ 
+ 
+4 
+ 
+3.  CARACTERÍSTICAS GENERALES Y REQUISITOS A CUMPLIR POR 
+LAS EMPRESAS LICITANTES 
+ 
+La citada plataforma ha de servir como sistema de t ramitación administrativa 
+para el Justicia de Aragón conforme al marco legal vigente. 
+Los requisitos funcionales y técnicos que debe cumplir la plataforma y que serán 
+descritos a lo largo del presente pliego tienen carácter básico, siendo susceptibles 
+de ampliación y mejora por los licitadores. 
+Los diferentes módulos que conforman el objeto de e ste contrato deben ser 
+interoperables entre sí, permitiendo la comunicació n bidireccional entre ellos, 
+conforme a lo establecido por las normas del Esquem a Nacional de 
+Interoperabilidad. 
+A efectos de dimensionamiento de las ofertas se hac en constar los siguientes 
+volúmenes estimados: hasta veinte (20) usuarios de la plataforma y hasta 
+quinientos (500) expedientes administrativos anuale s. El licitador indicará 
+expresamente en su oferta el tratamiento y, en su c aso, el coste previsto en el 
+supuesto de que dichos volúmenes se superen durante la vigencia del contrato. 
+En caso de que la aplicación ofertada requiera un s oftware de terceras empresas 
+para ser operativo, todas las licencias (gestores d ocumentales, herramientas de 
+firma digital, etc.), costes de implantación, así c omo las horas de consultoría y 
+formación en dichas herramientas estarán incluidas en el precio del presente 
+contrato y abarcarán toda la duración del mismo. 
+ 
+Las empresas licitantes deberán cumplir con los sig uientes requisitos, cuya 
+documentación justificativa será requerida a la emp resa propuesta como 
+adjudicataria para que sea aportada previamente a l a adjudicación del contrato, 
+así como una declaración responsable por la que se comprometa a mantenerlos 
+en vigor durante toda la vigencia del mismo: 
+ 
+1. Certificado de Conformidad con el Esquema Nacion al de Seguridad en su 
+categoría ALTA para la plataforma de administración electrónica emitido por una 
+Entidad de Certificación acreditada por el Centro Criptográfico Nacional (CCN). 
+2. Documento emitido desde la Secretaría General de  Administración Digital en 
+la que acredite el reconocimiento de la condición de Punto de Presencia de la Red 
+SARA. 
+
+--- página 5 ---
+ 
+ 
+5 
+ 
+3. Documento acreditativo de que la aplicación figura en el listado de aplicaciones 
+de registro integradas en la plataforma SIR que pub lica la Secretaría de Estado 
+de Administraciones Públicas. 
+4. Informe de evaluación emitido por la Subdirecció n General de Coordinación 
+de la Contratación Electrónica que acredite que la aplicación está autorizada para 
+publicar en el perfil del contratante en la Platafo rma de Contratación del Sector 
+Público y para hacer uso de los Servicios de Gestió n del espacio virtual de 
+licitación. 
+5. Documentación que evidencie el cumplimiento por parte del Centro de Proceso 
+de Datos (CPD) principal de la certificación Tier IV. 
+6. Documentación que evidencie el cumplimiento por parte del Centro de Proceso 
+de Datos (CPD) secundario de la certificación Tier III++ o similar. 
+7. Certificado de seguridad de HSM FIPS 140-2 Level 3. 
+Documento que acredite que los dispositivos de firma utilizados (HSM) han sido 
+seleccionados entre los previstos en Catálogo de Pr oductos y Servicios de 
+Seguridad de las Tecnologías de la Información y la  Comunicación (CCN-STIC 
+105) publicado por el Centro Criptográfico Nacional. 
+8. Tres (3) Certificados de Buena Ejecución según m odelo del Anexo 1 que 
+acrediten la prestación de servicios de PdP para la  integración con los servicios 
+SIA, Cl@ve, Notifica y Apodera. 
+9. Certificación ISO 9001 Sistema Gestión de Calidad 
+10. Certificación ISO 27001 Sistema Seguridad de la Información 
+11. Certificación ISO 27701 Sistema Privacidad de la Información 
+ 
+También deberán presentar el compromiso de renovación de los certificados para 
+mantener dicha vigencia durante toda la duración del contrato. 
+ 
+ 
+4.  MARCO NORMATIVO 
+ 
+La plataforma ofertada deberá cumplir el marco legal vigente, que a fecha actual 
+se desarrolla por lo dispuesto en las siguientes normas: 
+ 
+• Ley 39/2015, de 1 de octubre, del Procedimiento Adm inistrativo Común 
+de las Administraciones Públicas  
+• Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público. 
+
+--- página 6 ---
+ 
+ 
+6 
+ 
+• RD 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de 
+actuación y funcionamiento del sector público por medios electrónicos.  
+• Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público. 
+• Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema 
+Nacional de Seguridad. 
+• Real Decreto 4/2010, de 8 de enero, por el que se r egula el Esquema 
+Nacional de Interoperabilidad en el ámbito de la Ad ministración 
+Electrónica y las normas técnicas de desarrollo.  
+• Ley 6/2020, de 11 de noviembre, reguladora de determinados aspectos de 
+los servicios electrónicos de confianza. 
+• Reglamento (UE) 2016/679 del Parlamento Europeo y d el Consejo, de 27 
+de abril de 2016 relativo a la protección de las pe rsonas físicas en lo que 
+respecta al tratamiento de datos personales y a la libre circulación de estos 
+datos. 
+• Ley Orgánica 3/2018 LOPDGDD, Ley Orgánica de Protec ción de Datos y 
+Garantía de Derechos Digitales. 
+• Real Decreto-ley 28/2020, de 22 de septiembre, de trabajo a distancia. 
+• Ley 2/2023, de 20 de febrero, reguladora de la protección de las personas 
+que informan sobre infracciones normativas y de luc ha contra la 
+corrupción. 
+Este nuevo marco legislativo es plenamente coherent e con lo dispuesto en el 
+Reglamento (UE) n.º 910/2014 del Parlamento Europeo  y del Consejo, de 23 de 
+julio de 2014, relativo a la identificación electró nica y los servicios de confianza 
+para las transacciones electrónicas en el mercado i nterior (en adelante 
+Reglamento eIDAS) 
+ 
+ 
+5.  CARACTERÍSTICAS TÉCNICAS Y FUNCIONALES MÍNIMAS DE LA 
+SOLUCIÓN OFERTADA 
+ 
+En caso de dudas acerca del cumplimiento de alguno de estos requisitos mínimos, 
+el órgano de contratación podrá requerir al licitad or para la realización de una 
+demostración presencial o cualquier otro medio de p rueba que se estime 
+adecuado. En ningún caso se admitirá que el licitad or varíe los términos 
+expresados en su propuesta. Sólo se admitirá la inf ormación que facilite el 
+análisis de la solución propuesta inicialmente. 
+ 
+5.1.  Identificación electrónica de los interesados en la  sede 
+electrónica 
+
+--- página 7 ---
+ 
+ 
+7 
+ 
+ 
+La plataforma deberá permitir que los interesados p uedan relacionarse por 
+medios electrónicos a través de una sede electrónica que les permita identificarse 
+utilizando el sistema CL@VE. 
+Además, este sistema debe permitir también la identificación de ciudadanos de la 
+Unión Europea con los medios de identificación expe didos en sus países de 
+origen. 
+ 
+5.2.  Gestión de la Representación 
+ 
+La plataforma deberá permitir que un representante pueda acreditar su 
+representación como mínimo a través de estos medios válidos en derecho: 
+• Identificándose con un certificado de persona físic a como representante 
+de persona jurídica. 
+• A través de una inscripción de un apoderamiento en el Registro 
+Electrónico de Apoderamientos de la Administración General del Estado 
+(APODERA). 
+Asimismo, el sistema propuesto deberá facilitar mecanismos que permitan a esta 
+administración “habilitar con carácter general o es pecífico a personas físicas o 
+jurídicas autorizadas para la realización de determ inadas transacciones 
+electrónicas en representación de los interesados” de conformidad con el artículo 
+5.7 LPAC. 
+ 
+ 
+5.3.  Reducción de cargas administrativas 
+ 
+La plataforma deberá estar integrada con la platafo rma de intermediación de 
+datos (PID), permitiendo a esta Administración reca bar los documentos 
+electrónicamente y eximir de estas cargas administrativas al interesado. 
+ 
+5.4.  Firma del Interesado 
+ 
+La plataforma deberá permitir que ciudadanos y empr esas puedan realizar 
+actuaciones electrónicas a través de la sede electr ónica firmando con el sistema 
+AUTOFIRMA. 
+
+--- página 8 ---
+ 
+ 
+8 
+ 
+En virtud del artículo 27.1. del Reglamento EIDAS, el sistema debe permitir 
+también la firma de ciudadanos de la Unión Europea con medios de identificación 
+expedidos en sus países de origen. 
+Además, en relación con la firma de los interesados en la Oficina de Asistencia en 
+Materia de Registros, el sistema deberá disponer de  la integración con otros 
+sistemas de firma biométrica que permitan realizar firmas electrónicas mediante 
+captura de firma digitalizada con datos biométricos en tabletas. 
+ 
+5.5.  Oficina de Asistencia en materia de registros 
+ 
+Según el artículo 12 LPAC “Las Administraciones Púb licas asistirán en el uso de 
+medios electrónicos a los interesados no incluidos en los apartados 2 y 3 del 
+artículo 14 que así lo soliciten, especialmente en lo referente a la identificación y 
+firma electrónica, presentación de solicitudes a tr avés del registro electrónico 
+general y obtención de copias auténticas” 
+Por tanto, la plataforma deberá permitir mantener actualizado un registro, donde 
+consten los funcionarios habilitados para la identi ficación o firma regulada en 
+este artículo. Este registro deberá ser plenamente interoperable y estar 
+interconectado con los de las restantes Administraciones Públicas, a través de los 
+mecanismos que llegado el momento establezca la Adm inistración General del 
+Estado. 
+ 
+ 
+5.6.  Registro Electrónico General 
+ 
+Según el artículo 16 de la LPAC se debe disponer de  un Registro Electrónico 
+General, en el que se hará el correspondiente asiento de todo documento que sea 
+presentado o que se reciba. 
+Este registro deberá ser plenamente interoperable, de modo que se garantice su 
+compatibilidad informática e interconexión, así com o la transmisión telemática 
+de los asientos registrales y de los documentos que se presenten en cualquiera de 
+los registros según lo dispuesto en la Resolución d e 19 de julio de 2011, de la 
+Secretaría de Estado para la Función Pública, por l a que se aprueba la Norma 
+Técnica de Interoperabilidad de Modelo de Datos para el Intercambio de asientos 
+entre las entidades registrales. 
+
+--- página 9 ---
+ 
+ 
+9 
+ 
+Para cumplir estas obligaciones, la plataforma de a dministración electrónica 
+debe disponer de un registro electrónico general in tegrado en el Sistema de 
+Interconexión de Registros (SIR). Para ello es necesario que el módulo de registro 
+cumpla los requisitos marcados por la Norma Técnica  de Interoperabilidad de 
+Modelo de Datos para el Intercambio de asientos ent re entidades registrales, y 
+que esté integrado con el Directorio Común, DIR3. 
+Actualmente existen tres modalidades de integración en la plataforma SIR: 
+ 
+1. Mediante la utilización de los servicios comunes de registro certificados 
+en la plataforma SIR que pueden ser proporcionados o bien por la SGAD, 
+como ORVE o GEISER, o bien por una Diputación o Com unidad 
+Autónoma que dé servicio a sus entidades locales. 
+2. Mediante una instalación propia certificada en la plataforma SIR. 
+3. Mediante una instalación certificada en SIR de u n proveedor Punto de 
+Presencia en la red SARA (PdP) 
+ 
+Valoradas las posibilidades de integración del regi stro general con el Sistema de 
+Interconexión de Registros (SIR), se ha optado por recoger en el presente pliego 
+y exigir a los licitadores la tercera opción de int egración, instalación certificada 
+en SIR de un proveedor Punto de Presencia en la red  SARA, ya que se desea una 
+gestión delegada íntegramente al PdP sin que esta a dministración deba asumir 
+mayores responsabilidades: 
+Se excluye expresamente la modalidad de integración  mediante una instalación 
+propia certificada en la plataforma SIR, ya que obl igaría a l Justicia de Aragón a 
+pasar un proceso de certificación ante el órgano competente de Ministerio. 
+La modalidad de integración mediante la utilización de los servicios comunes de 
+registro certificados en la plataforma SIR, como ORVE, es la que esta institución 
+viene empleando hasta la fecha para sus funciones de registro. No obstante, dada 
+la modalidad de servicio escogida (SaaS) y el objet ivo de disponer de un registro 
+electrónico general plenamente integrado en la tram itación del expediente 
+administrativo, se descarta su continuidad para los expedientes comprendidos en 
+el objeto de este contrato, ya que supondría mantener una aplicación intermedia 
+con la que habría que integrar el registro general para dar cobertura al artículo 16 
+de la LPAC. 
+
+--- página 10 ---
+ 
+ 
+10 
+ 
+Lo anterior se entiende sin perjuicio de que el Jus ticia de Aragón mantenga un 
+registro propio y diferenciado para la presentación  y tramitación de las quejas 
+ciudadanas, gestionado en la aplicación específica citada en el apartado 1 y ajeno 
+al objeto de este contrato. La coexistencia de ambo s registros no afecta a la 
+interoperabilidad ni a la integración en SIR del registro electrónico general objeto 
+de esta licitación. 
+Por lo tanto, la integración del sistema con el Sistema de Intercambio de Registros 
+(SIR) deberá de haber pasado un proceso de certific ación ante el órgano 
+competente del Ministerio, la cual eximirá al Justi cia de Aragón de tener que 
+certificar su aplicación de registro, ya que el mis mo cumpliría con todos y cada 
+uno de los requisitos exigidos para cumplir con tod as las normas técnicas de 
+interoperabilidad. 
+A partir de la publicación de la Resolución de 4 de  julio de 2017, de la Secretaría 
+de Estado de Función Pública, por la que se estable cen las condiciones que han 
+de cumplirse para tener la consideración de Punto d e Presencia de la red SARA 
+(PdP) se permitió certificar instalaciones de regis tro ofrecidas en modo servicio 
+en la nube a clientes de las Administraciones Públicas por proveedores del sector 
+privado que cumplieran con las condiciones de dicha Resolución. 
+Para facilitar la interoperabilidad exigida a las A dministraciones Públicas en 
+materia de Registro, la Secretaría de Estado de Administraciones Públicas publica 
+el listado de instalaciones certificadas en producción. 
+Por lo tanto, a fecha de presentación de la oferta, la aplicación deberá constar en 
+el listado oficial de aplicaciones de registro cert ificadas en la plataforma SIR en 
+la modalidad “instalación certificada en SIR de un proveedor Punto de Presencia 
+en la red SARA (PdP)”: 
+https://administracionelectronica.gob.es/ctt/resources/Soluciones/214/Descar 
+gas/SIR-CER-15361-listado-instalaciones-produccion-
+certificadas.xlsx?idIniciativa=214&idElemento=17455 
+ 
+5.7.  Copias Auténticas 
+ 
+La plataforma deberá disponer de un sistema de digi talización que se ajuste a la 
+Resolución de 19 de julio de 2011, de la Secretaría  de Estado para la Función 
+Pública, por la que se aprueba la Norma Técnica de Interoperabilidad de 
+
+--- página 11 ---
+ 
+ 
+11 
+ 
+Procedimientos de copiado auténtico y conversión en tre documentos 
+electrónicos. 
+ 
+5.8.  Gestión Documental 
+ 
+Según el artículo 26 LPAC “Las Administraciones Púb licas emitirán los 
+documentos administrativos por escrito, a través de medios electrónicos, a menos 
+que su naturaleza exija otra forma más adecuada de expresión y constancia”. 
+Por tanto, la plataforma deberá cumplir con lo disp uesto en Resolución de 19 de 
+julio de 2011, de la Secretaría de Estado para la F unción Pública, por la que se 
+aprueba la Norma Técnica de Interoperabilidad de Documento Electrónico. 
+Además, según el artículo 70.2. LPAC “Los expedient es tendrán formato 
+electrónico”. 
+Por ello, la plataforma deberá cumplir con lo dispuesto en la Resolución de 19 de 
+julio de 2011, de la Secretaría de Estado para la F unción Pública, por la que se 
+aprueba la Norma Técnica de Interoperabilidad del Expediente Electrónico. 
+Según el artículo 70.3 LPAC “cuando en virtud de un a norma sea preciso remitir 
+el expediente electrónico, se hará de acuerdo con l o previsto en el Esquema 
+Nacional de Interoperabilidad y de las correspondie ntes Normas Técnicas de 
+Interoperabilidad, y se enviará completo, foliado, autentificado y acompañado de 
+un índice, asimismo autentificado, de los documentos que contenga”.  
+Por tanto, la plataforma deberá ser capaz de export ar documentos y expedientes 
+electrónicos conforme a los formatos estructurados previstos en las dos normas 
+técnicas citadas en este apartado. 
+Para la remisión electrónica de expedientes a órgan os judiciales, la plataforma 
+deberá estar integrada con INSIDE. 
+ 
+5.9.  Tramitación del Expediente 
+ 
+Para garantizar la interoperabilidad semántica de l os expedientes, cada 
+procedimiento administrativo debe describirse tomad o como referencia del 
+Sistema de Información Administrativa (SIA) propues to por la Administración 
+General del Estado, y complementarse con aquellas d escripciones que se 
+consideren de interés para la gestión administrativa propia de la entidad. 
+
+--- página 12 ---
+ 
+ 
+12 
+ 
+Adicionalmente, la plataforma se integrará con el estado de expedientes abiertos 
+de la Carpeta Ciudadana del sector público estatal. 
+La plataforma permitirá a los empleados públicos ge nerar la documentación del 
+expediente a partir de modelos de expedientes y pla ntillas normalizados que 
+permita la gestión electrónica del expediente de inicio a fin. 
+ 
+ 
+5.10.  Firma Electrónica del Personal 
+ 
+Dado que el servicio que se contrata es en modalida d SaaS, para evitar la 
+dependencia de elementos hardware, se requiere que la plataforma permita 
+realizar firmas electrónicas con un sistema de firm a “en la nube” basado en una 
+custodia centraliza de los certificados y en el uso de servidor HSM (cryptoserver) 
+para la ejecución de las operaciones criptográficas. 
+El dispositivo de firma utilizado (HSM) debe haber sido seleccionado entre los 
+previstos en Catálogo de Productos y Servicios de S eguridad de las Tecnologías 
+de la Información y la Comunicación (CCN-STIC 105). 
+Por política de firma, el Justicia de Aragón requiere: 
+ 
+• El empleo de firma electrónica PAdES para la firma de documentos 
+administrativos, ya que permite al ciudadano poder visualizar y validar los 
+originales con un simple lector de PDF gratuito. 
+• El uso de formato PDF/A para que las fuentes tipogr áficas utilizadas 
+queden incluidas dentro del PDF, garantizando que e l aspecto del 
+documento no cambia cuando lo recibe el ciudadano. 
+• Sello de tiempo cualificado en todas las firmas ele ctrónicas para poder 
+acreditar de forma fehaciente la fecha y hora exact a de cada una de las 
+firmas del documento. 
+• Empleo de firmas longevas para preservar las firmas a lo largo del tiempo, 
+aplicando las reglas de confianza para firmas longe vas descritas en el 
+subapartado IV.3. de la Norma Técnica de Interoperabilidad de Política de 
+Firma y Sello Electrónicos y de Certificados de la Administración. 
+Adicionalmente, también permitirá realizar validaciones y firmas electrónicas en 
+el móvil en los sistemas IOS de Apple y Android. 
+ 
+5.11.   Actuaciones administrativas automatizadas 
+ 
+
+--- página 13 ---
+ 
+ 
+13 
+ 
+La plataforma permitirá configurar de forma sencilla actuaciones administrativas 
+automatizadas conforme a lo dispuesto en el artículo 41 LRJSP, empleando como 
+sistema de firma un sello electrónico de la Institu ción basado en certificado 
+electrónico reconocido o cualificado que reúna los requisitos exigidos por la 
+legislación de firma electrónica. 
+ 
+5.12.  Órganos y Resoluciones 
+ 
+De conformidad con el artículo 84 LPAC la plataform a permitirá finalizar el 
+procedimiento por “la resolución, el desistimiento, la renuncia al derecho en que 
+se funde la solicitud, cuando tal renuncia no esté prohibida por el ordenamiento 
+jurídico, y la declaración de caducidad”. 
+Y en virtud del artículo 36 LPAC “Los actos adminis trativos se producirán por 
+escrito a través de medios electrónicos, a menos qu e su naturaleza exija otra 
+forma más adecuada de expresión y constancia”. 
+Teniendo en cuenta estos dos preceptos, la platafor ma de administración 
+electrónica deberá contemplar estos supuestos: 
+ 
+• Finalización del procedimiento por resolución de un  órgano unipersonal 
+con la incorporación de la resolución a un libro de resoluciones. 
+• Finalización del procedimiento por resolución de un órgano colegiado con 
+la incorporación del acta a un libro de actas dejan do constar en el 
+expediente copia electrónica certificada de la resolución adoptada. 
+• Finalización del procedimiento por causas distintas a la resolución. 
+• Con la finalidad de gestionar las resoluciones y ac uerdos a adoptar, la 
+herramienta deberá disponer de un módulo de gestión  de los órganos 
+unipersonales y colegiados con competencias para la  aprobación de actos 
+administrativos. 
+Contará, al menos, con las siguientes características: 
+ 
+• Permitir la creación de tantos órganos, unipersonal es o colegiados, como 
+sea necesario configurar. 
+• En cada órgano unipersonal se deberá identificar la  persona física que 
+ostenta su titularidad, asegurándose que una misma persona física pueda 
+ser titular de dos o más órganos unipersonales. 
+• Permitirá al menos la configuración de cada órgano colegiado 
+distinguiendo si el órgano ostenta facultades de resolución o de informe y 
+consulta. Deberán poder preconfigurarse los miembro s del órgano con 
+
+--- página 14 ---
+ 
+ 
+14 
+ 
+derecho a voto, así como aquellas otras personas qu e participen en las 
+sesiones como invitados (sin voz ni voto), sin perjuicio de que los datos de 
+las personas asistentes deban poder editarse con oc asión de la 
+convocatoria o celebración de cada sesión. 
+La memoria técnica detallará las funcionalidades y gestión del módulo de órganos 
+colegiados, que deberán cumplir, como mínimo, los siguientes requisitos: 
+ 
+• La configuración y tramitación de los expedientes d e los órganos 
+colegiados. 
+• La remisión de propuestas desde los expedientes que tramiten los servicios 
+gestores para inclusión de los asuntos en las sesiones. 
+• La revisión previa a la inclusión de los asuntos en  las convocatorias o 
+devolución a los servicios gestores, en su caso.  
+• Deberá garantizar que los expedientes remitidos por los servicios gestores 
+no puedan ser modificados hasta la adopción de los acuerdos o bien a la 
+devolución.  
+• La vinculación de registros dirigidos a cada órgano  colegiado para su 
+posible inclusión en los expedientes de las convocatorias. 
+• La gestión de los miembros de cada órgano, el envío  de las convocatorias, 
+seguimiento del estado de las comunicaciones y asistencias.  
+• El acceso completo, por medios electrónicos, por pa rte de los miembros 
+del órgano a los expedientes y asuntos incluidos en el orden del día.  
+La resolución de múltiples actos de la misma natura leza en un solo acuerdo 
+generando certificados y notificaciones individualizadas.  
+• El registro de acuerdos y votaciones. 
+• La generación automática de los certificados, notif icaciones y actas 
+correspondientes. 
+El sistema deberá disponer de las funcionalidades n ecesarias para gestionar los 
+diferentes libros de resoluciones.  
+ 
+5.13.  Notificaciones y Comunicaciones 
+ 
+La plataforma deberá integrarse con NOTIFICA, para remitir las notificaciones al 
+Punto de Acceso General que ha habilitado la Administración General del Estado. 
+La plataforma deberá integrarse con los servicios w eb del TABLÓN EDICTAL 
+ÚNICO del Boletín Oficial del Estado. 
+ 
+
+--- página 15 ---
+ 
+ 
+15 
+ 
+5.14.  Archivo Electrónico Único 
+ 
+La plataforma deberá incluir los módulos necesarios  para que la administración 
+pueda llevar la gestión archivística desde la apert ura del procedimiento y en 
+términos de facilitar: 
+ 
+• La organización del fondo documental.  
+• La clasificación de las unidades documentales respe tando, en su caso, el 
+cuadro de clasificación propio de la entidad.  
+• La descripción archivística de las unidades documen tales (gestión de 
+metadatos). 
+Además, la plataforma deberá ser capaz de generar ficheros SIP para que puedan 
+ser transferidos a una instalación de ARCHIVE u a o tra herramienta de archivo 
+definitivo que también esté diseñada conforme al mo delo de referencia OAIS 
+(ISO 14721) 
+ 
+5.15.  Integración con la Plataforma de Contratos del Sector Público 
+ 
+El perfil de contratante de l Justicia de Aragón está integrado en la Plataforma de 
+Contratación del Sector Público (PCSP). Para dar cumplimiento a las obligaciones 
+de publicidad y licitación electrónica que establec e la Ley 9/2017, de 8 de 
+noviembre, de Contratos del Sector Público, la plat aforma de administración 
+electrónica propuesta se integrará con la PCSP e in cluirá tanto la remisión y 
+publicación de anuncios desde la plataforma de administración electrónica como 
+la incorporación a la misma de los datos resultantes del uso del espacio virtual de 
+licitación de la PCSP. El adjudicatario prestará de ntro del precio ofertado un 
+servicio de soporte especializado en la PCSP dirigi do a los órganos de 
+contratación y de asistencia. Este soporte deberá e star disponible para atender 
+cualquier tipo de consulta relacionada con la PCSP. 
+ 
+5.16.  Trámites Preconfigurados 
+ 
+Se deberán configurar los siguientes trámites en la  plataforma para poner a 
+disposición de los ciudadanos a través de la sede electrónica: 
+ 
+
+--- página 16 ---
+ 
+ 
+16 
+ 
+• Derecho de acceso a la información pública: solicitud de acceso a 
+contenidos y documentos del Justicia de Aragón, conforme a la Ley 
+19/2013 y a la Ley 8/2015, con tramitación de expediente y resolución 
+expresa. No comprende el portal de transparencia de publicidad activa, 
+que se mantiene en el sitio web institucional y cuya migración no forma 
+parte del objeto de este contrato. 
+• Solicitud de conexión a la red informática del Justicia de Aragón: Este 
+trámite permite a una empresa solicitar la autorización de un trabajador 
+para acceder de forma segura a la red informática de la institución. 
+• Instancia genérica de registro de entrada: presentación telemática de 
+escritos, solicitudes y comunicaciones dirigidos a la institución que no 
+dispongan de trámite específico. 
+• Presentación de solicitudes de admisión a procesos selectivos de personal 
+convocados por la institución. 
+No se configurará en la sede electrónica ningún trámite de presentación de quejas 
+ciudadanas ni de sugerencias sobre la actuación de las administraciones públicas, 
+por tramitarse estas en la aplicación específica ajena al objeto de este contrato. 
+ 
+5.17.  Interfaz de programación de aplicaciones (API). 
+ 
+La plataforma deberá contará con una API (Aplicatio n Programming Interface) 
+que permita al  Justicia de Aragón y a sus proveedores tecnológicos poder integrar 
+los recursos proporcionados por la plataforma con c ualquier otra solución de 
+mercado, o con aplicaciones desarrolladas a medida para la entidad.  
+Mediante los servicios REST y el API, las aplicaciones de la entidad o de terceros 
+deberán tener accesibilidad, al menos, a las siguientes funcionalidades: 
+ 
+• Permitir la interacción en modo lectura de los expe dientes, registros y 
+terceros. 
+• Recuperar los documentos asociados a expedientes, l ibros, registros de 
+entrada y/o salida, incluyendo los datos y metadatos asociados al mismo. 
+• Exportar expedientes y registros completos en un formato interoperable. 
+• Editar datos de expedientes, registros y terceros existentes. 
+• Permitir la creación de expedientes, registros y terceros nuevos. 
+• Bus de eventos o sistema equivalente de mensajería,  que recoja 
+información generada como resultados de procesos de  tramitación en los 
+espacios de expedientes, registros, terceros, portafirmas. 
+• Permitir la integración con el módulo de firmas. 
+
+--- página 17 ---
+ 
+ 
+17 
+ 
+• Posibilidad de implementar conectores de integració n que envíen 
+información a sistemas externos de manera estructurada. 
+Todas estas funciones mínimas se realizarán con los  debidos mecanismos de 
+seguridad. 
+El objeto de todas estas funciones es facilitar a t erceros la integración de 
+aplicaciones que puedan interactuar con el conjunto  de registros de los 
+expedientes, de los registros de entrada y de los propios expedientes. 
+Para facilitar la integración de otras soluciones ( de mercado o propias) existirá 
+una documentación actualizada con toda la informaci ón acerca de la 
+especificación de la API, una descripción de los di ferentes recursos que ofrece la 
+arquitectura de interoperabilidad de la plataforma y códigos de ejemplo de uso 
+de algunos de los espacios de recursos ofertados dentro de la plataforma.  
+El licitador presentará como parte de su oferta, en  el sobre de documentación 
+técnica, una completa descripción de las funcionali dades API así como el acceso 
+a toda la documentación de la misma. 
+ 
+ 
+5.18.  Integración con servicios web de la institución. 
+ 
+Se requiere que los registros de entrada dirigidos a un destino concreto sean 
+exportados conforme se van dando de alta en la plataforma a un servicio web del 
+Justicia de Aragón (envío de un JSON mediante POST HTML). 
+Por otro lado, se requiere que la plataforma sea ca paz de importar registros de 
+entrada desde un servicio web del Justicia de Aragó n (consulta GET HTML e 
+intercambio de un JSON). 
+ 
+5.19.  Acceso para el control interno. 
+ 
+Los expedientes administrativos tramitados en la pl ataforma están sujetos a 
+fiscalización por la Intervención de las Cortes de Aragón. 
+La plataforma deberá permitir que los usuarios desi gnados por dicha 
+Intervención accedan, con los permisos que otorgue el Justicia de Aragón y con 
+la trazabilidad correspondiente, a los expedientes y documentos objeto de 
+fiscalización, sin necesidad de que esta institución remita copia de los mismos por 
+otro medio. 
+
+--- página 18 ---
+ 
+ 
+18 
+ 
+Los accesos realizados por estos usuarios quedarán registrados y serán 
+consultables por la institución en los términos previstos en el apartado 12 de este 
+pliego. 
+ 
+ 
+6.  METODOLOGÍA PARA EL PROYECTO 
+ 
+El licitador deberá definir un modelo que garantice la correcta y eficiente gestión, 
+dirección y coordinación de los objetivos, activida des y tareas del proyecto, del 
+equipo de trabajo implicado en su ejecución, de la relación con los servicios del 
+Justicia de Aragón, y de la calidad y adecuación de  los productos resultantes de 
+este contrato. 
+De cara a la mejor organización del proyecto de imp lantación, el adjudicatario 
+designará una persona como Jefe de Proyecto, que de berá ser aprobado por el 
+Justicia de Aragón, así como su posible sustitución , y cuyas principales tareas 
+serán: 
+ 
+• Responsabilizarse de la planificación, organización , coordinación, 
+dirección y control permanente de los servicios, ef ectuando los ajustes 
+oportunos para adaptarse a la planificación y objetivos establecidos. 
+• Mantener la interlocución con el equipo de técnicos  responsables del 
+Justicia de Aragón y efectuar la coordinación del r esto de miembros del 
+equipo de trabajo. 
+• Desarrollar planes de trabajo y elaborar informes periódicos de avance. 
+• Proponer la aprobación de los hitos establecidos y colaborar en la 
+elaboración y realización de presentaciones divulgativas de los sistemas de 
+gestión objeto del contrato. 
+• Garantizar la calidad de los productos finales. 
+Las propuestas técnicas deberán contener una descri pción detallada de la 
+metodología utilizada en cada caso. Dentro del apar tado metodológico se 
+señalará por separado cuál será el tratamiento de cada uno de estos puntos: 
+ 
+• Calendario detallado de la implantación indicando l os hitos a alcanzar en 
+cada uno de ellos y las entradas de documentación. 
+• Descripción del equipo de trabajo que va a estar in volucrado en el 
+proyecto, con su correspondiente estructura organizativa. 
+• Plan de entrega del software por fases y plazos. 
+
+--- página 19 ---
+ 
+ 
+19 
+ 
+• Adopción de cambios sugeridos por el usuario: Crite rios de admisión. 
+Limitaciones. 
+• Comunicación entre el equipo de proyecto del Justic ia de Aragón y el 
+equipo de la empresa adjudicataria de este contrato. 
+• Canales y tiempos medios de respuesta. 
+• Herramientas a propuesta del licitador para el repo rte de consultas, 
+incidencias o dudas. 
+• Generación de conjuntos de pruebas y su adopción de sde las primeras 
+fases de implementación de los desarrollos señalado s en el alcance del 
+proyecto. Despliegues en la plataforma de desarroll o, con el fin de que el 
+equipo técnico que el Justicia de Aragón determine pueda validar los 
+desarrollos. 
+• Pruebas funcionales que acrediten el cumplimiento d e los requisitos 
+establecidos. La planificación de estas pruebas se distinguirá por cada uno 
+de los módulos descritos en el presente pliego y se  distribuirán en un 
+horizonte temporal para que el equipo técnico de la institución conozca los 
+hitos del proyecto en los cuales se requerirá su intervención. 
+• Manuales de uso de la Plataforma en formato PDF. 
+El licitador deberá plantear un equipo experto en administración electrónica que 
+se encargue de realizar las funciones de estudio y adaptación de los 
+procedimientos administrativos existentes en la ins titución, proponiendo 
+mejoras en la gestión que redunden en la optimizaci ón de la forma de trabajo, 
+analizando las posibles incidencias que se produzcan a raíz de la implantación del 
+sistema y personal encargado en realizar las prueba s de los módulos y de las 
+integraciones con los sistemas externos e internos de la institución. 
+La empresa aportará los nombres de las personas que  vayan a llevar a cabo los 
+trabajos objeto del presente pliego, así como infor mación detallada acerca de su 
+perfil profesional, aportando currículum detallado en el que se especifique con 
+especial relevancia la participación en proyectos s imilares, indicando la 
+formación, el organismo, la fecha, duración y cargo. 
+La empresa estará obligada a adscribir a las person as descritas en la oferta a la 
+prestación del servicio. Cualquier circunstancia excepcional que imposibilite esta 
+obligación, incluso cuando ya se haya iniciado la implantación del sistema, deberá 
+ser comunicada a la institución, que deberá dar expresamente su consentimiento 
+para proceder a la sustitución de la persona en cuestión. 
+Se realizarán reuniones de seguimiento y revisiones técnicas, con la periodicidad 
+que sea fijada en función de la evolución del proye cto, del responsable del 
+
+--- página 20 ---
+ 
+ 
+20 
+ 
+contrato, el Jefe de Proyecto y los responsables de signados por la institución, al 
+objeto de revisar el grado de cumplimiento de los o bjetivos, las reasignaciones y 
+variaciones de efectivos de personal dedicado al pr oyecto, las especificaciones 
+funcionales de cada uno de los objetivos y la validación de las programaciones de 
+actividades realizadas. 
+Tras las revisiones técnicas, de las que se levanta rá acta, el responsable del 
+contrato podrá rechazar en todo o en parte los trab ajos realizados, en la medida 
+en que no respondan a lo acordado o que no superasen los controles de calidad. 
+ 
+ 
+7.  IMPLANTACIÓN Y CARGA INICIAL DE DATOS 
+ 
+El contrato requerirá, al menos, la realización de las siguientes tareas y servicios 
+necesarios para la implantación de la plataforma que se pretende contratar: 
+Instalación, configuración del sistema, importación de datos y pruebas: permitirá 
+ajustar el software ofertado a la estructura organi zativa de l Justicia de Aragón 
+(usuarios, perfiles, roles, unidades organizativas,  cargos, etc.). El adjudicatario 
+creará una plataforma de pruebas totalmente indepen diente de los sistemas en 
+ese momento en uso, al objeto de realizar cuantas c omprobaciones se estimen 
+oportunas antes de su paso a producción, sin interf erir en el normal 
+funcionamiento de la organización. 
+El licitador se compromete a elaborar un Plan de Gestión de Cambio, concretado 
+en un documento que será presentado en la oferta técnica y en donde se expondrá 
+la manera en que se va a gestionar la importación de datos y la puesta en marcha 
+de la plataforma, tanto desde el punto de vista de la institución como de los 
+terceros afectados. 
+Tutela operativa. En el momento de la implantación se realizará un apoyo 
+operativo en los servicios de la institución, duran te un periodo de tiempo no 
+inferior a dos semanas, por parte de personal técnico de la empresa adjudicataria 
+que permita resolver dudas y tutelar el proceso del  cambio hacia las diferentes 
+funcionalidades de la plataforma. El personal que participe en este proceso debe 
+contar con una cualificación demostrable y acreditada en la puesta en marcha de 
+aplicativos similares. La oferta deberá incluir las  personas que realizarán los 
+trabajos de tutela operativa, siendo necesaria la a utorización de la institución 
+para la sustitución de los inicialmente propuestos.  La institución deberá 
+
+--- página 21 ---
+ 
+ 
+21 
+ 
+igualmente validar que los perfiles del personal encargado de la tutela satisfacen 
+en cuanto a experiencia y conocimientos las necesidades de la entidad. 
+No existiendo plataforma previa de administración e lectrónica, no procede 
+migración de datos. No obstante, el adjudicatario r ealizará la carga inicial de la 
+estructura organizativa de la institución (usuarios , perfiles, roles, unidades y 
+cargos) y del fichero de terceros que le sea facilitado por el Justicia de Aragón, en 
+los formatos que se acuerden, sin coste adicional. 
+ 
+ 
+8.  PLAZO DE IMPLANTACIÓN Y DURACIÓN DEL CONTRATO 
+ 
+El adjudicatario dispondrá de un plazo máximo de 3 MESES desde la firma del 
+contrato, y nunca antes del 1 de marzo de 2027,  pa ra la puesta en marcha de la 
+plataforma en los términos establecidos en la prese nte licitación (instalación, 
+configuración del sistema, importación de datos, in tegraciones, pruebas, 
+formación, entrega de documentación, incorporación de mejoras). El 
+incumplimiento del plazo de entrega será motivo suf iciente para la resolución 
+contractual en los términos establecidos en el anexo XVI del PCAP.  
+El Justicia de Aragón dispondrá de un plazo de 10 d ías hábiles para emitir un 
+informe en el que se verifique si la plataforma se ajusta a los términos de la 
+licitación y cuenta con las funcionalidades ofertad as. Una vez verificada la 
+plataforma se procederá a la firma del acta de rece pción. En caso de que no se 
+llegue a verificar que la plataforma se ajusta a lo s términos de la licitación o 
+cuenta con las funcionalidades ofertadas supondrá c ausa de resolución 
+contractual en los términos establecidos en el anexo XVI del PCAP. 
+ 
+La duración del contrato se establece por un period o de dos años,  a partir del 
+inicio del servicio, pudiendo prorrogarse hasta un año más como máximo. 
+ 
+ 
+9.  NIVELES DE SERVICIO 
+ 
+Será necesario ofrecer un servicio con al menos los  siguientes niveles de 
+respuesta, atendiendo al tipo y gravedad de las incidencias: 
+ 
+
+--- página 22 ---
+ 
+ 
+22 
+ 
+Tipo Gravedad Tiempo de respuesta Tiempo de resolución 
+1 Muy grave 2 horas 6 horas 
+2 Grave 4 horas 16 horas 
+3 Moderada 24 horas 48 horas 
+4 Leve 48 horas 96 horas 
+ 
+A estos efectos es necesario realizar las siguientes consideraciones: 
+Tiempo de respuesta: Tiempo transcurrido entre la n otificación de la incidencia 
+o problema y el inicio de las actividades encaminadas a su resolución. 
+Tiempo de resolución: Tiempo transcurrido entre la notificación de la incidencia 
+o problema y la solución de la misma. 
+ 
+• Gravedad de tipo 1: Fallo en la Plataforma impidien do la ejecución de 
+cualquier funcionalidad sin que el sistema permita un camino alternativo 
+para el desarrollo de la misma funcionalidad. 
+• Gravedad de tipo 2: Fallo en la Plataforma impidien do la ejecución de 
+cualquier funcionalidad, aunque el sistema permita un camino alternativo 
+para el desarrollo de la misma, o fallo en el sistema que afecte a un elevado 
+número de usuarios. 
+• Gravedad de tipo 3: Solicitud de información sobre el uso y la 
+configuración del sistema. 
+• Gravedad de tipo 4: Ayudas en formularios, errores encontrados, etc. 
+Los tiempos de respuesta y resolución especificados en horas se tomarán en base 
+al horario definido en el punto de soporte y mantenimiento.  
+ 
+ 
+10.  SOPORTE Y MANTENIMIENTO 
+ 
+En las ofertas deberán figurar las condiciones generales del servicio de soporte y 
+mantenimiento durante el periodo de duración del co ntrato, a contar desde la 
+firma del mismo. En este apartado estarán incluidas  todas las licencias, 
+adaptaciones legales y evoluciones que afecten al c ontenido de la plataforma y 
+que se pudieran producir durante la vigencia del mismo.  
+ 
+
+--- página 23 ---
+ 
+ 
+23 
+ 
+Sin menoscabo de prestaciones adicionales que pudie ran ofertarse, y durante 
+toda la duración del contrato se incluirá un servic io de soporte y mantenimiento 
+que se extenderá a la duración total del contrato y que comprenderá: 
+ 
+• La resolución por la empresa adjudicataria de todas  las incidencias o 
+errores de funcionamiento de los elementos ofertados que se comuniquen 
+por la institución o sean detectados por la propia empresa, en los términos 
+establecidos en el apartado anterior. 
+• Todos los gastos incurridos (mano de obra, desplaza mientos, etc.) para 
+subsanar dichos fallos serán a cuenta del adjudicatario. 
+• Actualizaciones de las aplicaciones y desarrollos realizados. 
+• Implantación de nuevas revisiones/versiones de los elementos ofertados 
+que vayan apareciendo en el mercado a lo largo del contrato, sin coste 
+adicional para la institución. 
+• Adaptaciones por cambios de normativa de obligado cumplimiento para la 
+institución. 
+• La realización de las tareas precisas que permitan la continuidad del 
+funcionamiento de la plataforma y sus funcionalidad es en caso de 
+modificaciones, realizadas por el propio adjudicata rio, en alguno de los 
+programas o aplicativos. 
+• El mantenimiento incluirá la gestión del conjunto d e incidencias 
+planteadas por usuarios y personal técnico sobre el funcionamiento de las 
+aplicaciones, desde un punto de vista funcional o técnico. 
+• En el servicio de mantenimiento, la recepción de co nsultas se realizará al 
+menos por teléfono y por correo electrónico. En cas o de comunicación 
+telefónica, no deberá establecerse a través de una numeración de 
+tarificación especial que ocasione un gasto adicional para la institución. 
+• El adjudicatario deberá tener el servicio de atenci ón, soporte y 
+mantenimiento disponible, como mínimo, dentro de la  franja horaria de 
+8:00 h. a 15:00 h., en días laborables, de lunes a viernes, para las 
+incidencias de gravedad moderada y leve (tipos 3 y 4), y un servicio 24x7 
+para las incidencias de gravedad catalogadas como g rave y muy grave 
+(tipos 1 y 2). 
+ 
+11.  PENALIZACIONES POR INCUMPLIMIENTO DE LOS NIVELES DE 
+SERVICIO 
+ 
+Las penalizaciones son las medidas propuestas por e l Justicia de Aragón, previa 
+audiencia del contratista, para asegurar el total c umplimiento del objeto del 
+presente pliego asegurando los niveles de calidad del servicio. 
+
+--- página 24 ---
+ 
+ 
+24 
+ 
+Cuando la empresa adjudicataria no atienda a los niveles de servicio ofertados, se 
+le notificará la penalización a imponer por parte d el responsable del contrato, 
+según el tipo de incidencia, sin perjuicio de la in demnización de los daños y 
+perjuicios generados a la institución por el incumplimiento, siendo la siguiente: 
+ 
+• Tipo 1 y tipo 2: En la primera falta por incumplimiento del nivel de calidad 
+del servicio estipulado en este pliego, el responsable del contrato notificará 
+mediante escrito la descripción motivada de dicho i ncumplimiento a la 
+empresa adjudicataria, con apercibimiento de que ot ra falta del mismo 
+tipo producirá pérdida de derecho al cobro del 20% de la factura de una 
+mensualidad. En caso de producirse la segunda falta , la penalidad 
+supondrá la pérdida del derecho al cobro del 20% de la factura del mes en 
+el que se ha producido esta última. La tercera falt a podrá ser causa de 
+resolución de contrato por incumplimiento contractu al imputable al 
+contratista. 
+ 
+• Tipo 3 y tipo 4: La primera falta se corregirá con apercibimiento al 
+contratista. En la segunda falta por incumplimiento  del nivel de calidad 
+del servicio estipulado en este pliego, el responsable del contrato notificará 
+la descripción motivada de dicho incumplimiento a l a empresa 
+adjudicataria, así como que se trata del segundo ap ercibimiento que se le 
+formula, y se le advertirá de que otra falta perten eciente a cualquiera de 
+estos dos tipos (3 y 4) producirá pérdida de derech o al cobro del 5% de la 
+factura de una mensualidad. En caso de producirse l a tercera falta, se le 
+notificará la pérdida de derecho al cobro del 5% de la factura del mes en el 
+que se ha producido esta última. Más de 3 faltas po drá ser causa de 
+resolución de contrato por incumplimiento contractu al imputable al 
+contratista. 
+ 
+ 
+12.  COPIAS DE REPALDO Y LOGS. 
+ 
+Aunque la plataforma solicitada es en modo de softw are como servicio (SaaS) y 
+los datos estarán en la plataforma del adjudicatari o, con sus políticas de copias 
+de respaldo que garanticen una alta disponibilidad y continuidad del negocio, se 
+debe incluir en la oferta la puesta a disposición d e la institución de copias de 
+seguridad de la información almacenada en los servi dores y relativa al servicio 
+prestado por el adjudicatario. Esta entrega de info rmación debe ser en formato 
+
+--- página 25 ---
+ 
+ 
+25 
+ 
+físico y legible acordado con e l Justicia de Aragón, con una periodicidad anual y 
+utilizando medios seguros de cifrado. 
+La plataforma ofertada debe proporcionar a la institución el acceso en tiempo real 
+a la consulta y descarga de los logs concernientes a los registros de acceso de 
+usuarios de esta entidad. Además, el prestador del servicio suministrará a 
+petición de la institución, la auditoria completa d e un procedimiento de la 
+plataforma, en un plazo no superior a 48 horas. 
+ 
+ 
+13.  PLAN DE FORMACIÓN 
+ 
+La empresa adjudicataria deberá diseñar un plan de formación para el personal 
+de los servicios implicados, impartido a cuenta del  adjudicatario del contrato. El 
+objetivo del plan de formación será la utilización y aprovechamiento máximo, en 
+los diferentes niveles de gestión, del sistema de i nformación propuesto y deberá 
+recoger, al menos, los siguientes aspectos: 
+ 
+• Cronograma completo del plan de formación. 
+• Cursos a impartir, cuyo horario se adaptará a las n ecesidades que 
+determine la institución. 
+• Contenido de cada uno de los cursos. 
+• Número de sesiones y duración de cada uno de los cursos. 
+La duración de cada uno de los cursos deberá ser la suficiente para resolver todas 
+las posibles dudas que puedan surgir a los usuarios  en su trabajo cotidiano. La 
+formación será impartida por personal con experienc ia suficiente en labores 
+didácticas en cada una de las materias objeto del p lan y con amplios 
+conocimientos sobre las características y peculiari dades de la institución. El 
+horario de formación se adaptará a las necesidades de la entidad, dentro del 
+horario laboral y se planificará en el tiempo de ma nera que coincida, 
+preferiblemente, con el periodo inmediatamente ante rior a la puesta en marcha 
+del módulo correspondiente. 
+Los cursos se impartirán en la sede del  Justicia de Aragón. En el plan de 
+formación se incluirá una formación posterior, más breve y genérica, cuando la 
+herramienta esté implantada y en pleno funcionamien to, con el objetivo de 
+reforzar y aclarar los conocimientos adquiridos. 
+
+--- página 26 ---
+ 
+ 
+26 
+ 
+Al margen de las jornadas de formación previstas pa ra los usuarios, se incluirán 
+las necesarias para formar al personal informático de la institución en la 
+utilización del modelo de datos de la aplicación, i nstalación (parte cliente, 
+servidor de BD y servidor de aplicaciones), gestión  y configuración de la parte 
+cliente (si fuera necesaria), actualización de versiones de producto, configuración 
+del sistema de seguridad, modelado, definición y modificación de procedimientos 
+(fichas, formularios, documentos, etc.), así como t odos los aspectos que sean 
+necesarios para la correcta administración del producto. 
+ 
+ 
+14.  TRANSFERENCIA A LA FINALIZACIÓN DEL CONTRATO 
+ 
+De cara a futuras licitaciones del objeto de este c ontrato, las propuestas deberán 
+incluir un plan de transferencia. 
+El licitador incluirá en su propuesta el conjunto d e actividades necesarias para 
+llevar a cabo la correspondiente transferencia de d atos. También se indicará el 
+tipo de documentos y formato en que se ofrecerá la información. 
+ 
+ 
+15.  DOCUMENTACIÓN A ENTREGAR POR EL ADJUDICATARIO 
+ 
+El adjudicatario entregará al Justicia de Aragón un a copia en castellano y en 
+formato electrónico de la siguiente documentación: 
+ 
+• Plan de proyecto, fases y cronograma. 
+• Cronograma de actuaciones para la instalación, conf iguración, 
+parametrización y puesta en marcha de las aplicaciones. 
+• Informes de seguimiento del proyecto validados por los responsables del 
+contrato. 
+• Actas de reunión: Convocatorias, orden del día, asi stentes y resumen de 
+los acuerdos alcanzados en las reuniones mantenidas. 
+• Documentación técnica relativa a la arquitectura de l sistema que incluya 
+modelo de datos, diagramas, descripciones y aclarac iones de la 
+arquitectura general del sistema. 
+• Manual de normas y procedimientos. 
+• Plan de Formación, para cada uno de los servicios i mplicados en la 
+plataforma, incluyendo los contenidos en todos sus niveles. 
+• Manual de usuario. 
+
+--- página 27 ---
+ 
+ 
+27 
+ 
+• Manual de administración del sistema. 
+• Manual de integración: Descripción de servicios u otros conectores para la 
+integración con otros sistemas. 
+• Informe del resultado de pruebas para cada una de l as instalaciones 
+realizadas. 
+• Documentación necesaria para el cumplimiento del Re glamento General 
+de Protección de Datos y de la Ley Orgánica de Prot ección de Datos de 
+Carácter Personal. 
+• Plan de transición a la finalización del contrato. 
+ 
+16.  PAGO DEL PRECIO 
+ 
+El pago se realizará al recibo de las correspondientes facturas mensuales emitidas 
+por la empresa adjudicataria una vez concluido el m es al que haga referencia la 
+misma, por el importe resultante de dividir el prec io de adjudicación por el 
+número de meses al que hace referencia la totalidad del contrato. 
+Este pago se realizará por medio de transferencia bancaria del Justicia de Aragón, 
+previa conformidad del Secretario General de la institución. 
+ 
+17.  FORMATO DE LA PROPUESTA SOMETIDA A VALORACIÓN POR 
+CRITERIOS DE ADJUDICACIÓN CUANTIFICABLES MEDIANTE 
+UN JUICIO DE VALOR (SOBRE B) 
+ 
+La oferta será presentada en formato PDF, debe estar estructurada de forma clara 
+y concisa, contendrá una memoria relativa a las fun cionalidades de la solución 
+ofertada destacando claramente los aspectos evaluab les de acuerdo con los 
+criterios del anexo X del pliego de cláusulas admin istrativas particulares que 
+rigen el presente contrato. No podrá superar las 50  páginas de extensión en su 
+totalidad escritos en arial 11, márgenes estándar e interlineado a 1,5 líneas. 
+En caso de ofrecerse alguna de las mejoras en la qu e sea necesario aportar un 
+vídeo demostrativo y no fuera posible adjuntarlo a la oferta electrónica en la 
+Plataforma de Contratación del Estado, los licitado res podrán ponerlos a 
+disposición a través de un enlace de descarga. El Justicia de Aragón deberá poder 
+verificar que dichos vídeos no han sido modificados  con posterioridad a la 
+presentación de la oferta. Para ello, además de la dirección de descarga, los 
+licitadores incorporarán en sus ofertas la huella d igital (valor hash usando 
+
+--- página 28 ---
+ 
+ 
+28 
+ 
+algoritmo SHA256) de los ficheros a descargar (preferiblemente fichero/s zip que 
+contengan los vídeos). 
+El Justicia de Aragón se reserva el derecho a exigir a los licitadores que presenten 
+documentación que acredite la veracidad de la infor mación presentada en la 
+oferta. Así mismo, el Justicia de Aragón podrá requ erir a los licitadores que 
+formulen por escrito las aclaraciones necesarias pa ra la comprensión de algún 
+aspecto de sus proposiciones. 
+En caso de dudas acerca del alcance descrito de alg una de las mejoras ofertadas, 
+el órgano de contratación podrá requerir al licitad or para la realización de una 
+demostración presencial o cualquier otro medio de p rueba que se estime 
+adecuado. 
+En ningún caso se admitirá que el licitador varíe l os términos expresados en su 
+propuesta. Sólo se admitirá la información que faci lite el análisis de la solución 
+propuesta inicialmente. 
+ 
+ 
+En Zaragoza, a fecha de firma electrónica 
+ 
+ 
+ 
+Concepción Gimeno Gracia 
+Justicia de Aragón 
+  
+
+--- página 29 ---
+ 
+ 
+29 
+ 
+ANEXO I 
+ 
+CERTIFICADO DE BUENA EJECUCIÓN DEL CONTRATO DE 
+IMPLANTACIÓN Y MANTENIMIENTO DE LA PLATAFORMA DE 
+ADMINISTRACIÓN ELECTRÓNICA  
+«______________»  
+D./D.ª___________________________,_________________[Cargo] 
+de la Entidad de ________________ con CIF ___________.  
+ 
+CERTIFICO: 
+ 
+PRIMERO. Que la empresa ______________, con CIF ___ ___________, 
+contratista de los servicios referidos más abajo, l levó a cabo la implantación y 
+puesta en funcionamiento de su plataforma en el año  ___________ [fecha de 
+inicio de implantación] habiéndose ejecutado con ar reglo a condiciones y a 
+satisfacción del que suscribe. 
+SEGUNDO. Los servicios mencionados pueden desglosar se y describirse 
+aproximadamente de la siguiente manera: 
+Implantación, puesta en funcionamiento y mantenimie nto de la plataforma de 
+Administración Electrónica destinada a la gestión m ediante medios electrónicos 
+de los procesos administrativos de la entidad (serv icios de Administración 
+Electrónica), junto con la integración con las herr amientas de la Administración 
+General del Estado: Cl@ve, Notifica, SIA y Apodera constituyéndose en dos 
+partes diferenciadas: 
+1.ª Módulo de backoffice de gestión que facilita la tramitación de procedimientos 
+administrativos por vía electrónica, integrando el registro de entrada y salida de 
+documentos, la gestión completa de expedientes, lib ros oficiales y firma 
+electrónica. 
+2.ª Módulo de sede electrónica que permite la puest a en marcha de servicios 
+dirigidos al ciudadano y empresas. Constando de: 
+Catálogo de trámites y formularios ya desarrollados. 
+Tablón de anuncios y portal de transparencia conectados con el backoffice. 
+Carpeta electrónica para la consulta por el adminis trado de expedientes, 
+notificaciones, registros y facturas. 
+
+--- página 30 ---
+ 
+ 
+30 
+ 
+TERCERO. Que la empresa adjudicataria del contrato de la plataforma 
+______________, ha realizado satisfactoriamente el objeto del contrato 
+enumerado anteriormente. 
+En _______________El ______________________ [Cargo] 
+ 
+[Firma electrónica] 

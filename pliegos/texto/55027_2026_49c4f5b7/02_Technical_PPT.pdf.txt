@@ -1,0 +1,562 @@
+
+
+--- página 1 ---
+Expedient núm. Procediment 
+10816/2025 Actuacions preparatòries SERVEIS 
+ 
+ 
+PLIEGO  DE  PRESCRIPCIONES  TÉCNICAS  DEL  CONTRATO  DE  MANTENIMIENTO, 
+ACTUALIZACIÓN Y SOPORTE DE LOS SISTEMAS EUROCOP Y SUBSISTEMAS DE LA  
+POLICÍA LOCAL DE EIVISSA 
+1. OBJETO DEL CONTRATO
+El objeto del contrato es la prestación del servicio de mantenimiento, actualización, soporte  
+técnico e integración  de los sistemas de gestión policial  EuroCop Cube ,  EuroCop Mobile, 
+EuroCop Mobile ANPR, así como las integraciones con bases de datos externas necesarias  
+para el funcionamiento operativo de la Policía Local de Eivissa.
+El contrato incluye:
+ Mantenimiento correctivo, adaptativo y evolutivo.
+ Actualizaciones de versiones y módulos como puedan ser sistemas de multas por  
+radar.
+ Soporte técnico telefónico, remoto y por correo electrónico.
+ Migración de datos e integración con DGT, padrón municipal, gestor de expedientes  
+AS400 y GESTIONA y otros sistemas municipales.
+ Sincronización y mantenimiento de dispositivos móviles y APP policial.
+ Mantenimiento de integraciones ANPR y volcados AS400.
+ Migración de plantillas ya creadas en el anterior programa, de todos los módulos.
+Procedimiento de adjudicación: Abierto.
+Tramitación: Ordinaria - Simplificado.
+Contrato sujeto a regulación armonizada: No.
+Licitación electrónica: Sí.
+No existe división en lotes , debido al carácter  integral e indivisible  del servicio y a que la  
+prestación  requiere  un  único  proveedor  especializado  que  garantice  la  interoperabilidad 
+entre todos los módulos (art. 99 LCSP).
+El contrato no es mixto, por tratarse exclusivamente de una prestación de servicios (art. 18  
+LCSP).
+2. NECESIDADES A SATISFACER
+Se  requiere  garantizar  la  operatividad  completa  del  sistema  EuroCop  y  sus  módulos,  
+incluyendo gestión de atestados, denuncias, vehículos abandonados, censos, inspecciones,  
+objetos perdidos, almacén, órdenes de servicio, citaciones y generación de informes.
+Asimismo,  debe  asegurarse  la  operatividad  de  EuroCop  Mobile  con  funcionalidades  de 
+denuncias en vía pública, firmas digitales, OCR de DNI y matrículas, fotografías, consultas  
+Codi Validació: A5WQDP4S9FR6FM27EZQ3QG4K4 
+Verificació: https://eivissa.sedelectronica.es/ 
+Document signat electrònicament des de la plataforma esPublico Gestiona | Pàgina 1 de 13 
+
+--- página 2 ---
+de datos en DGT y padrón, trabajo online/offline y gestión de cuadrantes.
+El sistema ANPR y el radar Tradesegur deben mantenerse integrados y operativos.
+Deberán  mantenerse  y actualizarse  las  integraciones  con  DGT,  padrón  municipal,  112,  
+AS400 y Gestor de Expedientes GESTIONA.
+Se requiere cumplimiento ENS, RGPD, seguridad por roles, trazabilidad, cifrado y protección 
+de datos.
+Se  requiere  soporte  técnico  continuo,  tiempos  de  respuesta  máximos  de  4  horas  en  
+incidencias críticas, mantenimiento evolutivo, correctivo y adaptativo.
+2.1 Gestión de privacidad y documentos
+ Gestor de privacidad: cada registro puede ser privado o compartido según permisos 
+de usuario.
+ Registro  de  novedades  e  informes  complementarios:  permite  documentar  
+cualquier incidencia o información adicional.
+ Registro de entrada y salida de documentos:  control y seguimiento de todos los  
+documentos auxiliares de la policía.
+2.2 Gestión operativa policial
+ Atestados  de  tráfico  y  policía  judicial: creación  y  seguimiento  de  informes  y  
+expedientes.
+ Gestión  de  vehículos  abandonados:  procesos  manuales  y  automáticos  de  
+seguimiento.
+ Censo de ciudadanos y vehículos: base de datos actualizada y fiable.
+ Inspecciones  de  establecimientos  y  obras: registro  de  visitas,  inspecciones  e  
+informes.
+2.3 Gestión urbana y comunitaria
+ Desperfectos urbanos, cortes de calles, permisos de ocupación.
+ Objetos perdidos, animales y vados: control y seguimiento centralizado.
+ Almacén,  compras  y  partidas  económicas:  inventario  y  control  de  recursos  
+materiales.
+ Órdenes de servicio y asignación de patrullas:  planificación y seguimiento de  
+tareas operativas.
+2.4 Organización de recursos humanos
+ Filtrado automático de efectivos disponibles: según cuadrantes de servicio.
+ Comunicados internos: mensajería entre agentes o secciones.
+ Asignación y derivación de tareas:  control del estado de las tareas con filtros y  
+códigos de colores.
+ Tablero  de  anuncios  y  calendario:  visualización  centralizada  de  información  
+relevante.
+ Citaciones judiciales de agentes y vecinos.
+Codi Validació: A5WQDP4S9FR6FM27EZQ3QG4K4 
+Verificació: https://eivissa.sedelectronica.es/ 
+Document signat electrònicament des de la plataforma esPublico Gestiona | Pàgina 2 de 13 
+
+--- página 3 ---
+2.5 Gestión de recursos materiales
+ Flota de vehículos de seguridad: seguimiento y control.
+ Memorias estadísticas y exportación de listados:  formatos PDF, Excel, Word,  
+XML, etc.
+ Editor de textos propio: compatible con LibreOffice, OpenOffice y Word.
+ Generador de consultas SQL: creación de consultas avanzadas para extracción de  
+datos.
+ Adjuntar documentos y fotografías.
+ Firma digital: soporte para certificados electrónicos y tarjetas criptográficas.
+2.6 Alertas y búsqueda de información
+ Gestor de alarmas: avisos en tiempo real dentro de la aplicación.
+ Buscador de información externa:  acceso a bases de datos como DGT o padrón  
+municipal desde cualquier pantalla.
+ Cuadro  de  control  y  geolocalización: visualización  de  incidencias,  denuncias,  
+registros, objetos perdidos, vehículos  abandonados,  multas, violencia,  mediación,  
+desperfectos urbanos, informes, etc.
+2.7 Gestión de cuadrantes y horarios
+ Generación de cuadrantes: automática o manual, con control anual o por períodos  
+específicos.
+ Filtrado de cuadrantes:  por agente, sección, cargo, turno, mostrando número de  
+efectivos y señalando días bajo mínimos.
+ Gestión  de cambios  y permisos:  intercambio de turnos, seguimiento  de horas  
+trabajadas y extraordinarias, solicitudes de días libres y justificaciones médicas.
+ Control de licencias y permisos:  definición de límites máximos, vencimientos y  
+bolsa personal de días de cada agente.
+2.8 Gestión de solicitudes y comunicaciones
+ Generación de solicitudes de licencias, permisos y prolongaciones.
+ Gestión por administradores y niveles jerárquicos.
+ Envío de documentos por correo electrónico:  envío manual o automático, con  
+posibilidad de añadir resúmenes o notas.
+2.9 Módulos especializados
+ Violencia: gestión de expedientes de cualquier tipo de violencia.
+ Mediación policial: gestión de expedientes de mediación.
+ Reseñas de identificación: registro de imágenes y huellas dactilares de detenidos.
+ Firma digital de documentos.
+Codi Validació: A5WQDP4S9FR6FM27EZQ3QG4K4 
+Verificació: https://eivissa.sedelectronica.es/ 
+Document signat electrònicament des de la plataforma esPublico Gestiona | Pàgina 3 de 13 
+
+--- página 4 ---
+2.10 Sistema de movilidad policial
+ APP para formular denuncias de tráfico, sanciones por Ley 4/2015, sanciones  
+de la DGT y OOMM: compatible con Android, y adaptada al tamaño de cualquiera de 
+smartphone con integración automática con el software policial.
+ Licencia ilimitada para dispositivos móviles.
+ Conexión con DGT: para datos de vehículos y titulares.
+ Funcionalidad online/offline:  registro de incidencias y sincronización automática  
+cuando se recupere la conexión.
+ Funciones móviles: insertar actuaciones con fotografías, consultar antecedentes de  
+ciudadanos  y  vehículos,  generar  solicitudes  de  licencias  y  permisos,  gestionar  
+cuadrantes y tareas asignadas.
+ Integraciones  directas: Google  Maps,  DGT,  ARENA,  112,  AS400,  padrón  de  
+habitantes.
+ Migración histórica: transferencia de 240.000 expedientes desde el sistema anterior 
+(2007).
+2.11  Configuración  de  boletines  de  denuncia  para  impresoras  portátiles  con  las  
+siguientes características:
+ Tipo: térmica lineal.
+ Tamaño de papel: 80 mm x 50 mm o 58/60 mm x 50 mm.
+ Ancho de impresión: 72–104 mm.
+ Resolución: 8 puntos/mm (203 dpi).
+ Velocidad: 100 mm/seg.
+ Conectividad: Bluetooth, RS-232C, USB 2.0, WLAN.
+ Batería: 2000 mAh, autonomía de 22 horas.
+ Dimensiones y peso: 118 x 90 x 51 mm; 385–430 g.
+ Protección: IP54 (agua y polvo) y resistencia a caídas de 1,8 m.
+ Sistema de carga de papel fácil.
+3. PRECIO DEL CONTRATO Y VALOR ESTIMADO
+3.1 Cálculo de costes
+Dado  que  se  trata de un servicio  tecnológico  especializado,  prestado  íntegramente  por  
+empresa externa, la estimación se estructura de la siguiente manera:
+A) COSTES DIRECTOS (aprox. 65% del valor del contrato): 25.785,14 €
+Incluye:
+ Personal  técnico  especializado  en  mantenimiento  de  EuroCop,  integraciones  y  
+soporte.
+ Programadores, técnicos de sistemas y personal de soporte.
+ Actualizaciones de versiones, parches, nuevas funcionalidades.
+ Mantenimiento del sistema ANPR, radar Tradesegur y app móvil.
+ Sincronización con bases externas (DGT, padrón, AS400, 112).
+Codi Validació: A5WQDP4S9FR6FM27EZQ3QG4K4 
+Verificació: https://eivissa.sedelectronica.es/ 
+Document signat electrònicament des de la plataforma esPublico Gestiona | Pàgina 4 de 13 
+
+--- página 5 ---
+B) COSTES INDIRECTOS (aprox. 20%): 7.933,88 €
+Incluye:
+ Infraestructura técnica de la empresa proveedora.
+ Comunicaciones, servidores, herramientas internas, backups, seguridad.
+ Licencias necesarias para integraciones o herramientas adicionales.
+ Material técnico o configuraciones vinculadas.
+C)  GASTOS GENERALES (aprox. 5%): 1.983,47 €
+Incluye:
+ Costes administrativos de empresa
+ Mantenimiento de software específico.
+ Seguros, primas, intereses de avales
+D) BENEFICIO INDUSTRIAL (aprox. 10%): 3.966,943 €
+TOTAL BASE IMPONIBLE: 39.669,42 €
++ IVA 21%: 8.330,58 €
+TOTAL MÁXIMO DEL CONTRATO: 48.000,00 €
+3.2 Valor estimado del contrato
+El valor estimado del contrato, sin IVA y sin considerar modificaciones, es de 39.669,42 €.
+4. Obligaciones del contratista:
+4.1 Servicio de mantenimiento, actualización y soporte técnico
+Durante todo el periodo contractual, el adjudicatario deberá:
+ Prestar soporte técnico telefónico y telemático de 08:00 a 19:00 h en días laborables.
+ Resolver incidencias graves en un tiempo máximo de 4 horas.
+ Realizar mantenimiento correctivo, preventivo, adaptativo y evolutivo.
+ Actualizar versiones e incorporar mejoras funcionales.
+ Adaptar el sistema a cambios normativos (tráfico, DGT, padrón, sanciones).
+ Proporcionar soporte remoto seguro y conforme a la normativa de protección de  
+datos.
+4.2 Integraciones obligatorias
+El sistema deberá integrar, como mínimo:
+ DGT: consulta de vehículos, titulares, seguros e ITV.
+ Padrón municipal.
+Codi Validació: A5WQDP4S9FR6FM27EZQ3QG4K4 
+Verificació: https://eivissa.sedelectronica.es/ 
+Document signat electrònicament des de la plataforma esPublico Gestiona | Pàgina 5 de 13 
+
+--- página 6 ---
+ Gestor de expedientes municipal (GESTIONA).
+ Emergencias 112 Illes Balears.
+ AS400 para tramitación de sanciones.
+ Radar Tradesegur y sistemas ANPR instalados.
+4.3 Entorno tecnológico
+ La instalación se realizará en servidores municipales físicos o virtuales.
+ Si el software requiere herramientas ofimáticas, se utilizará LibreOffice u OpenOffice.
+ En caso de necesitar licencias adicionales, el adjudicatario deberá proporcionarlas  
+sin coste.
+ El adjudicatario aportará la licencia de Windows Server 2019.
+ El sistema deberá cumplir plenamente ENS (categoría media) y RGPD.
+4.4 FORMACIÓN A USUARIOS Y ADMINISTRADORES DEL SISTEMA 
+La  formación  asociada  al  contrato  se  estructurará  según  las  necesidades  reales  de  
+actualización del sistema y del personal, estableciéndose dos escenarios posibles:
+Escenario 1: Formación completa (100 horas)
+Se impartirán 100 horas de formación cuando existan modificaciones sustanciales en el 
+uso o en las funcionalidades de las aplicaciones. Estas 100 horas se distribuirán en las  
+siguientes modalidades:
+ Formación  presencial  (30%):  30  horas,  dirigidas  al  personal  administrador.  Su  
+objetivo  es  capacitar  en  la  introducción  de  datos  básicos,  la  configuración  de  
+documentos y la parametrización del sistema.
+ Formación  en  línea  (70%) :  70  horas,  impartidas  mediante  plataforma  digital,  
+destinadas a reforzar conocimientos, resolver dudas y actualizar periódicamente a  
+personal administrador y usuario.
+Ejemplos de modificaciones sustanciales:
+ Incorporación de nuevos módulos funcionales no existentes en la versión inicial.
+ Cambios relevantes en los procesos de trabajo que afecten a la operativa diaria de  
+los usuarios.
+ Actualizaciones importantes de la plataforma que modifiquen la interfaz, la estructura  
+de datos o los flujos de validación.
+ Ampliación del sistema para nuevas áreas o departamentos municipales.
+Escenario 2: Formación de reciclaje (50 horas)
+Si no se producen modificaciones sustanciales, el Ayuntamiento de Eivissa dispondrá de 
+50 horas de formación , que se podrán utilizar como  reciclaje o refuerzo para personal  
+administrador y usuario que lo requiera.
+Estas  50  horas  se  impartirán  en  las  mismas  modalidades  del  escenario  anterior,  en  
+proporción análoga entre formación presencial y en línea.
+Ejemplos de uso de las 50 horas de reciclaje:
+ Incorporación de nuevo personal que necesite formación inicial.
+ Refuerzo de conocimientos para personal que no use habitualmente determinadas  
+funcionalidades.
+Codi Validació: A5WQDP4S9FR6FM27EZQ3QG4K4 
+Verificació: https://eivissa.sedelectronica.es/ 
+Document signat electrònicament des de la plataforma esPublico Gestiona | Pàgina 6 de 13 
+
+--- página 7 ---
+ Sesiones de actualización por cambios menores o ajustes de configuración.
+ Repaso  general  para  mejorar  el  aprovechamiento  del  sistema  sin  alteraciones  
+funcionales mayores.
+4.5 Seguridad y protección de datos
+ Responsabilidad del contratista: 
+ Actuará como encargado del tratamiento de datos , conforme al RGPD y la 
+Ley Orgánica 3/2018.
+ El contratista deberá cumplir con :
+ Esquema Nacional de Seguridad (ENS).
+ Normativa municipal vigente.
+ Devolución de datos al finalizar el contrato:
+ Todos los datos que estén en poder del contratista deberán ser devueltos en  
+formato  electrónico  seguro,  estructurados  de  manera  que  permitan  su  
+explotación futura.
+4.6 Servicios requeridos para la implantación e integraciones externas
+ Gastos de desarrollo e implantación:
+ La empresa adjudicataria asumirá los costes de desarrollo e integración  de todos 
+los módulos, tanto con el Gestor de Expedientes municipal (GESTIONA) como con 
+otras  aplicaciones,  usando  servicios  web  u  otros  métodos  que  aseguren  
+interoperatividad.
+ Integraciones con sistemas del Ayuntamiento:
+ La  empresa  debe  proporcionar  mecanismos  de  integración  para  enlazar  las  
+siguientes utilidades:
+1. GESTIONA: Plataforma  del  gestor  de  expedientes  municipal  para  
+entrada/salida de documentos y gestión de expedientes.
+2. 112 Emergencias Baleares:  Integración para intercambio de información de  
+incidencias y emergencias.
+3. AS400: Transferencia  de  denuncias  de  tráfico,  OO.MM,  Ley  4/2015  y  
+boletines DGT desde la app móvil de los agentes, verificando titulares con  
+DGT  y  traspasando  la  información  al  sistema  de  tramitación  de  multas  
+mediante un archivo de intercambio habilitado.
+4.7 Entorno tecnológico
+ Requerimientos técnicos de instalación:
+ El software se ofrecerá como servicio fuera del CPD del Ayuntamiento.
+ Si se requiere paquete ofimático en los equipos clientes serán compatible con  
+LibreOffice u OpenOffice.
+ Si se requiere software con licencia propia: el adjudicatario deberá suministrar  
+licencias ilimitadas para todos los usuarios sin coste adicional.
+ Base de datos:
+ Las  licencias del sistema gestor de base de datos  estarán incluidas  en el  
+contrato.
+ Servidores y hardware:
+Codi Validació: A5WQDP4S9FR6FM27EZQ3QG4K4 
+Verificació: https://eivissa.sedelectronica.es/ 
+Document signat electrònicament des de la plataforma esPublico Gestiona | Pàgina 7 de 13 
+
+--- página 8 ---
+ Servidores externos al Ayuntamiento.
+ Acceso de usuarios:
+ Uso mediante entorno Web.
+ Cumplimiento del ENS, en especial implementación de sistemas de varios  
+factores de autenticación.
+4.8 Normativa y seguridad
+ Cumplimiento de:
+ LOPD 3/2018 y normativa de desarrollo.
+ ENS (Reales Decretos 3/2010 y 4/2010).
+ Ley 40/2015 sobre régimen jurídico del sector público.
+ Ley 59/2003 de firma electrónica.
+ Resto de normativa vigente en administración electrónica y servicios de datos.
+ Gestión de usuarios y seguridad:
+ Implementación  de  políticas  de  seguridad  de  acceso  mediante  roles  y  
+permisos.
+ Registro de trazabilidad de operaciones, consultable o exportable.
+ Bloqueo ante intentos de acceso fallidos.
+ Cifrado de comunicaciones entre módulos y con sistemas del Ayuntamiento.
+ Licencias y control físico:
+ Sin limitación en número de licencias.
+ No requiere dispositivos físicos de control (HASP u otros).
+ Protección de datos sensibles:
+ La empresa adjudicataria debe contar con certificado de conformidad con ek  
+esquema nacional de seguridad.
+ Almacenamiento seguro conforme a la LOPD.
+ Gestión de perfiles de seguridad y acceso a funciones específicas.
+ Flexibilidad para adaptarse a cualquier organización municipal.
+ Garantizar privacidad y seguridad de las comunicaciones internas y externas.
+ Devolución de datos al finalizar el contrato:
+ Datos devueltos en procedimiento seguro, estructurados en carpetas y base  
+de datos para facilitar explotación posterior.
+4.9 Formación 
+La formación asociada al sistema se organizará en función de las necesidades derivadas de  
+los cambios en el uso y en las funcionalidades de las aplicaciones, estableciéndose dos  
+escenarios:
+Escenario 1: Formación completa (100 horas)
+Se impartirá un total de  100 horas de formación  cuando se produzcan  modificaciones 
+sustanciales en el sistema que afecten de manera relevante a su funcionamiento o a los  
+procedimientos asociados. Estas horas permitirán formar tanto a usuarios básicos como a  
+personal administrador.
+Las 100 horas se distribuirán en dos modalidades:
+ Formación presencial (30%) : Dirigida al personal administrador, con el objetivo de  
+capacitarlo  para  introducir  datos  básicos,  configurar  documentos  y  parametrizar  
+adecuadamente el sistema. Duración aproximada: 30 horas.
+Codi Validació: A5WQDP4S9FR6FM27EZQ3QG4K4 
+Verificació: https://eivissa.sedelectronica.es/ 
+Document signat electrònicament des de la plataforma esPublico Gestiona | Pàgina 8 de 13 
+
+--- página 9 ---
+ Formación  online  (70%):  Complementaria  a  la  formación  presencial,  impartida  
+mediante medios digitales, con el fin de reforzar conocimientos, resolver dudas y  
+garantizar la actualización periódica del personal. Duración aproximada: 70 horas.
+Ejemplos de modificaciones sustanciales que activan este escenario : incorporación de 
+nuevos módulos, cambios profundos en procesos de trabajo, actualizaciones relevantes del  
+software  que  modifiquen  interfaz  o  flujos,  o  ampliación  del  sistema  a  nuevas  áreas  
+municipales.
+Escenario 2: Formación de reciclaje (50 horas)
+Si no se producen modificaciones sustanciales, el Ayuntamiento de Eivissa dispondrá,de 
+50 horas de formación, destinadas principalmente a:
+ Reciclaje del personal administrador.
+ Formación de nuevo personal incorporado.
+ Refuerzo de conocimientos o actualización menor en el uso del sistema.
+Las 50 horas mantendrán las mismas modalidades de distribución que en el escenario  
+anterior:
+ Formación presencial (30%) : Dirigida al personal administrador para revisión de  
+procedimientos y configuración básica. Duración aproximada: 15 horas.
+ Formación online (70%) : Formación  digital  destinada  a resolver dudas, reforzar  
+conocimientos o actualizar aspectos menores del sistema. Duración aproximada: 35  
+horas.
+4.10 Servicio de actualización, mantenimiento, asistencia y soporte técnico
+ Actualizaciones y mantenimiento:
+ Versiones nuevas, mantenimiento preventivo y correctivo, soporte técnico.
+ Resolución de consultas telefónicas, telemáticas o correo electrónico , sin 
+limitación de número.
+ Instalación de ampliaciones y adaptaciones legales o tecnológicas.
+ Tipos de mantenimiento:
+ Correctivo: corrección de incidencias y recuperación de datos erróneos.
+ Evolutivo: incorporación de nuevas funcionalidades y mejoras.
+ Adaptativo: ajustes por cambios legales o de procedimiento.
+ Horarios de soporte:
+ Telefónico: 08:00–19:00, lunes a viernes.
+ E-mail: continuo, incluidos fines de semana y festivos.
+ Fallos graves: Servicio de Soporte Técnico de Guardia (“caliente”) 24 x 7 x  
+365 (Gratuito) respuesta máxima 4 horas.
+ Conexiones remotas cumpliendo normativa de protección de datos.
+4.11 Penalizaciones
+ En caso de incumplimiento de plazos parciales: 3 % del precio de adjudicación. 
+ En caso de incumplimiento del plazo total: 5 % del precio de adjudicación. 
+ En caso de incumplimiento o cumplimiento defectuoso de la prestación: 15 % 
+Codi Validació: A5WQDP4S9FR6FM27EZQ3QG4K4 
+Verificació: https://eivissa.sedelectronica.es/ 
+Document signat electrònicament des de la plataforma esPublico Gestiona | Pàgina 9 de 13 
+
+--- página 10 ---
+del precio de adjudicación. 
+ En caso de incumplimiento parcial de la ejecución del objeto del contrato: 7 % 
+del precio de adjudicación. 
+ En caso de que el incumplimiento afecte características tenidas en cuenta para 
+definir los criterios de adjudicación (art. 145 Ley 9/2017):3 % del precio de 
+adjudicación o resolución del contrato, en caso de ser grave o reiterado. 
+ En  caso  de  incumplimiento  de  los  compromisos  o  de  las  condiciones  
+especiales de ejecución del contrato  (arts. 76, 202, 217 Ley 9/2017):  5 % del  
+precio de adjudicación o resolución del contrato , si el incumplimiento es grave  
+o reiterado. 
+5. Adscripción de medios materiales y/o personales, en su caso, y según la Letra F5  
+del QCC:
+El licitador deberá adscribir:
+ Un responsable del contrato , con formación técnica suficiente y experiencia en  
+sistemas EuroCop o plataformas policiales similares.
+ Personal técnico especializado en integraciones, mantenimiento y soporte.
+El  incumplimiento  de  esta  obligación  podrá ser causa  de penalización  o resolución  del  
+contrato.
+6. Etiquetas o equivalentes, en el su caso, como criterio de selección:
+La  empresa  deberá  acreditar  estar  certificada  en  ENS  categoría  media ,  mediante  
+certificadora autorizada por ENAC. 
+7. Habilitación profesional previa, en su caso, y según la letra F6 del QCC:
+El personal asignado debe contar con cualificación técnica suficiente en:
+ Programación y mantenimiento de sistemas policiales.
+ Integración de bases de datos externas.
+ Gestión de servidores y entornos virtualizados.
+8. Seguro de responsabilidad civil y por daños a terceros, en su caso: 
+La  empresa  adjudicataria  deberá  disponer  de  una  póliza  mínima  de  800.000  euros, 
+cubriendo:
+ Responsabilidad civil de explotación.
+ Responsabilidad profesional.
+ Post-trabajos.
+ Responsabilidad patronal.
+ Costes judiciales y fianzas.
+9. Duración del contrato:
+La duración será de 4 AÑOS, contados desde la formalización del contrato. 
+Preaviso mínimo de 2 meses para prórrogas o no renovación, conforme al art. 29 LCSP.
+10. Obligaciones de prevención de riesgos laborales
+El  adjudicatario  deberá  cumplir  con  todas  las  obligaciones  establecidas  en  materia  de  
+prevención de riesgos laborales, de acuerdo con lo dispuesto en la normativa vigente y  
+según lo especificado en el Anexo III del Pliego de Cláusulas Administrativas Particulares  
+Codi Validació: A5WQDP4S9FR6FM27EZQ3QG4K4 
+Verificació: https://eivissa.sedelectronica.es/ 
+Document signat electrònicament des de la plataforma esPublico Gestiona | Pàgina 10 de 13 
+
+--- página 11 ---
+(PCAP).
+En particular, el adjudicatario se compromete a:
+1. Adoptar todas las medidas necesarias para garantizar la seguridad y salud de su  
+personal  durante  la  prestación  del  servicio,  incluyendo  formación,  información,  
+vigilancia de la salud y dotación de equipos de protección individual adecuados.
+2. Cumplir  con  los  protocolos  de  prevención  y  seguridad  establecidos  por  el  
+Ayuntamiento de Eivissa, así como con las normas internas de seguridad de las  
+instalaciones municipales cuando su personal acceda a ellas.
+3. Coordinarse con el personal designado por el Ayuntamiento para la prevención de  
+riesgos laborales en caso de trabajos compartidos o simultáneos en instalaciones  
+municipales.
+4. Informar de manera inmediata de cualquier accidente, incidente o situación de riesgo  
+que ocurra durante la prestación del servicio.
+5. Mantener actualizados los registros y documentación relativos a la prevención de  
+riesgos laborales de su personal, incluyendo planes de formación, evaluaciones de  
+riesgos y registros de entrega de equipos de protección individual.
+El incumplimiento de estas obligaciones podrá ser considerado causa de resolución del  
+contrato y dará lugar a la aplicación de las penalidades previstas en el PCAP.
+11. Tratamiento de datos personales y confidencialidad
+11.1 Propiedad y uso de los datos
+ Todos los datos a los que acceda la empresa adjudicataria durante la ejecución del  
+contrato son propiedad del Ayuntamiento de Eivissa.
+ La empresa solo podrá utilizarlos para las funciones previstas en el contrato.
+ Queda prohibido  su uso para otras finalidades o su conservación tras finalizar el  
+contrato.
+11.2 Obligación de confidencialidad
+La empresa adjudicataria y su personal deberán:
+ Mantener confidencialidad absoluta sobre cualquier información, documento o dato al 
+que accedan.
+ No copiar, reproducir o divulgar información sin autorización expresa y por escrito del  
+Ayuntamiento.
+ Asumir las responsabilidades legales si vulneran estas obligaciones.
+11.3 Cumplimiento de la normativa de protección de datos
+La empresa está obligada a cumplir:
+ La  Ley  Orgánica  3/2018,  de  Protección  de  Datos  y  Garantía  de  los  Derechos  
+Digitales.
+ El Reglamento (UE) 2016/679 (RGPD).
+ La normativa municipal y los documentos de seguridad aplicables a cada fichero.
+Codi Validació: A5WQDP4S9FR6FM27EZQ3QG4K4 
+Verificació: https://eivissa.sedelectronica.es/ 
+Document signat electrònicament des de la plataforma esPublico Gestiona | Pàgina 11 de 13 
+
+--- página 12 ---
+11.4 Acceso del personal a información policial
+Dado que el personal contratado puede acceder a datos de la Policía Local:
+ Deberán cumplir estrictamente los protocolos de seguridad del Ayuntamiento.
+ Seguir las instrucciones del Responsable de Seguridad en protección de datos.
+ Usar  los  sistemas  informáticos  municipales  de  forma  segura  y  conforme  a  la  
+normativa.
+11.5 Relación del contratista con el Ayuntamiento en materia de datos
+ El acceso a datos  no se considera comunicación de datos , sino acceso necesario  
+para la prestación del servicio.
+ La empresa actuará como encargada del tratamiento, conforme al art. 28 del RGPD y 
+a la LO 3/2018.
+ Por tanto:
+ Solo tratará los datos siguiendo las instrucciones del Ayuntamiento.
+ No podrá cederlos a terceros bajo ningún concepto.
+ Debe aplicar medidas técnicas y organizativas de seguridad  adecuadas al  
+riesgo.
+11.6 Conservación y eliminación de datos
+Al finalizar el contrato:
+ La empresa deberá  devolver o destruir  toda la información a la que haya tenido  
+acceso.
+ No podrá conservar copias en ningún soporte.
+ Deberá  cumplir  lo  previsto  en  la  LO  3/2018  y  el  RGPD  sobre  conservación  y  
+supresión de datos.
+11.7 Transferencias internacionales de datos
+Cualquier acceso o transferencia internacional de datos deberá cumplir lo establecido en:
+ La LO 3/2018
+ El RGPD (UE) 2016/679
+ Y requerirá autorización expresa del Ayuntamiento, si procede.
+En el presente contrato SI existe cesión de datos personales a tratar según letra X) del QCC  
+y Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.
+La  finalidad  del  tratamiento  de  datos  personales  es:  la  prestación  del  servicio  de  
+mantenimiento,  actualización,  soporte  técnico  e  integración  de  los  sistemas  de  gestión  
+policial  EuroCop,  EuroCop  Mobile,  EuroCop  Mobile  ANPR,  incluyendo  la  migración  e  
+integración  de  datos  con  sistemas  de  radar,  la  DGT,  padrón  municipal,  gestor  de  
+expedientes AS400, GESTIONA y otros sistemas municipales. Esta información se utilizará  
+exclusivamente para la correcta ejecución del contrato y no será cedida a terceros fuera de  
+los fines descritos.
+Los documentos y datos a los que el contratista acceda en ejecución del presente contrato  
+tienen SI carácter confidencial, según el art. 133 de la Ley 9/2017.
+El contratista deberá respetar el carácter confidencial de aquella información a la que tenga  
+acceso con ocasión de la ejecución del contrato a la que se le hubiese dado el referido  
+Codi Validació: A5WQDP4S9FR6FM27EZQ3QG4K4 
+Verificació: https://eivissa.sedelectronica.es/ 
+Document signat electrònicament des de la plataforma esPublico Gestiona | Pàgina 12 de 13 
+
+--- página 13 ---
+carácter en los pliegos o en el contrato, o que por su propia naturaleza deba ser tratada  
+como tal. Este deber se mantendrá durante un plazo de cinco años desde el conocimiento  
+de esa información.
+12. DEMOSTRACIÓN REMOTA DE LAS FUNCIONALIDADES OFERTADAS
+Con  carácter  previo  a  la  valoración  de  las  ofertas  y  a  efectos  de  verificar  el  
+cumplimiento de las prescripciones técnicas y de las funcionalidades ofertadas, los  
+licitadores deberán realizar una demostración remota («DEMO») de la aplicación y/o de 
+las funcionalidades objeto del contrato.
+La demostración se realizará mediante conexión remota, en la fecha y hora que determine  
+el Ayuntamiento, previa comunicación al licitador con una antelación mínima de  [3/5] días 
+hábiles.
+Durante  la  demostración,  el  licitador  deberá  mostrar  de  forma  práctica  y  operativa  las  
+funcionalidades exigidas en el PPT y, en su caso, aquellas funcionalidades adicionales que  
+haya ofertado como criterios de adjudicación.
+La  DEMO  tendrá  como  única  finalidad  comprobar  objetivamente  la  existencia,  
+disponibilidad  y  funcionamiento  de  las  funcionalidades  ofertadas ,  sin  que  pueda  
+utilizarse para modificar, completar o mejorar la oferta presentada.
+La comprobación se realizará de acuerdo con los requisitos y funcionalidades previamente  
+definidos en el PPT y se documentará mediante la correspondiente  acta o informe de  
+comprobación técnica.
+En caso de que una funcionalidad ofertada como mejora no pueda ser demostrada o no  
+cumpla las características mínimas exigidas en el PPT o las características comprometidas  
+por  el  licitador  en  su  oferta,  no  se  tendrá  por  acreditada  dicha  mejora  y  no  se  le 
+asignarán  los  puntos  correspondientes ,  sin  perjuicio  de  las  consecuencias  que  
+legalmente puedan derivarse cuando se trate de un requisito mínimo obligatorio.
+La realización de la demostración no supondrá ningún coste para el Ayuntamiento.
+Eivissa,
+La persona responsable del contrato
+(documento firmado electrónicamente al margen)
+Codi Validació: A5WQDP4S9FR6FM27EZQ3QG4K4 
+Verificació: https://eivissa.sedelectronica.es/ 
+Document signat electrònicament des de la plataforma esPublico Gestiona | Pàgina 13 de 13 

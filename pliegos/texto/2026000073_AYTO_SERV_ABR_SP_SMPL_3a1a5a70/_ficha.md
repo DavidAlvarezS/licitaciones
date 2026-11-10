@@ -10,7 +10,7 @@
 
 ## Documentos
 
-- [Legal] SERVICIOS PASA PCAP 1F.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] PPT Servicios 1F.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] SERVICIOS PASA Anexos 2 a 5.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] Anexo 1 tras informe de Intervencion.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] SERVICIOS PASA PCAP 1F.pdf: 01_Legal_SERVICIOS_PASA_PCAP_1F.pdf (427 KB)
+- [Technical] PPT Servicios 1F.pdf: 02_Technical_PPT_Servicios_1F.pdf (222 KB)
+- [Additional] SERVICIOS PASA Anexos 2 a 5.pdf: 03_Additional_SERVICIOS_PASA_Anexos_2_a_5.pdf (208 KB)
+- [Additional] Anexo 1 tras informe de Intervencion.pdf: 04_Additional_Anexo_1_tras_informe_de_Intervencion.pdf (349 KB)

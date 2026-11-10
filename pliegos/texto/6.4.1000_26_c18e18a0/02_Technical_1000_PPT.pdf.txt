@@ -1,0 +1,635 @@
+
+
+--- página 1 ---
+ 
+1 
+ 
+Pliego de prescripciones técnicas para la contratación del servicio de s uscripción y 
+mantenimiento de una solución de firma digitalizada integrada en el Sistema de Información 
+Tributaria de la Agencia Cántabra de Administración Tributaria.  
+Contenido 
+Contenido ...................................................................................................................................... 1 
+1. Introducción ..................................................................................................................... 2 
+2. Objeto del contrato .......................................................................................................... 2 
+3. Acuerdo de Nivel de Servicios .......................................................................................... 3 
+3.1. Introducción ............................................................................................................ 3 
+3.2. Descripción del Servicio prestado ........................................................................... 4 
+3.3. Responsabilidades ................................................................................................... 4 
+3.4. Mecanismos de control y seguimiento ................................................................... 5 
+3.5. Niveles de servicio ................................................................................................... 6 
+3.6. Penalidades en caso de incumplimiento ................................................................. 7 
+4. Entorno tecnológico ......................................................................................................... 8 
+5. Metodología ..................................................................................................................... 8 
+5.1. Organización del trabajo ......................................................................................... 8 
+5.2. Entregables .............................................................................................................. 8 
+6. Horario y localización ....................................................................................................... 9 
+7. Equipo prestador del servicio........................................................................................... 9 
+8. Seguimiento y control del servicio ................................................................................... 9 
+9. Interlocución entre las partes ........................................................................................ 10 
+9.1. Responsable del Contrato ..................................................................................... 10 
+9.2. Responsables de Seguridad de la Información ...................................................... 10 
+9.3. Personas de contacto para incidencias relativas a los indicadores de servicio .... 10 
+10. Seguridad de la Información ...................................................................................... 10 
+10.1. Integridad y autenticidad de la evidencia de firma ............................................... 11 
+10.2. Confidencialidad de la información ....................................................................... 11 
+10.3. Cumplimiento normativo ...................................................................................... 12 
+10.4. Tratamiento de los datos asociados a la firma manuscrita digitalizada ............... 12 
+10.5. Conservación y recuperación de evidencias ......................................................... 13 
+10.6. Auditoría y trazabilidad ......................................................................................... 13 
+ANEXO I. Indicadores de Nivel de Servicio .............................................................................. 15 
+ 
+Versión imprimible del documento. La integridad de este documento puede comprobarse en la sede electrónica del Gobierno de Cantabria, a través de  https://verificacsv.cantabria.es/verificacsv?codigoVerificacion=A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+Identificador de documento electrónico (ENI): ES_A06004075_2026_DOC_00N_000000000000004155357
+Firma 1: 21/10/2026 - MIGUEL EXPOSITO MARTIN
+SUBDIRECTOR GENERAL DEL AREA DE SISTEMAS DE INFORMACION - DIRECCION DE LA AGENCIA ...
+Firma 2: 22/10/2026 - ANA MARIA MADRAZO DIAZ
+DIRECTORA ACAT - DIRECCION DE LA AGENCIA CANTABRA DE ADMINISTRACION TRIBUTARIA  ACAT
+CSV: A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+ 
+ 
+Este documento tiene carácter de copia electrónica auténtica con validez y eficacia administrativa del documento ORIGINAL (art. 27 Ley 39/2015)
+Pág 1/15
+
+--- página 2 ---
+ 
+2 
+ 
+1. Introducción 
+En la actualidad, la Agencia Cántabra de Administración Tributaria (ACAT), se encuentra en 
+pleno proceso de implantación de un nuevo Sistema de Información Tributaria (SIT) a través de 
+la ejecución del contrato de «adquisición y servicios de migración, implantación, puesta en 
+marcha y mantenimiento de un sistema integral e integrado de los procedimientos de aplicación 
+de los tributos y otros procedimientos administrativos competencia de la Agencia Cántabra de 
+Administración Tributaria con soporte nativo para la tramitación electrónica en la nube». La 
+ACAT cuenta, entre sus recursos materiales, con un conjunto de tabletas digitalizadoras de firma 
+manuscrita integrables con su sistema de información. 
+Por otra parte, e l artículo 16.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+Administrativo Común de las Administ raciones Públicas, dispone que «los documentos 
+presentados de manera presencial ante las Administraciones Públicas, deberán ser digitalizados, 
+de acuerdo con lo previsto en el artículo 27 y demás normativa aplicable, por la oficina de 
+asistencia en materia de registros en la que hayan si do presentados para su incorporación al 
+expediente administrativo electrónico, devolviéndose los originales al interesado, sin perjuicio 
+de aquellos supuestos en que la norma determine la custodia por la Administración de los 
+documentos presentados o resulte obligatoria la presentación de objetos o de documentos en 
+un soporte específico no susceptibles de digitalización». 
+Para garantizar que las tabletas digitalizadoras de firma puedan integrarse con el SIT en 
+implantación y cumplan con los requisitos de seguridad de la información para la validez jurídica 
+de la firma y equivalencia a la firma electrónica avanzada exigidos en los pliegos que rigen el 
+contrato citado, es necesario utilizar una solución de firma digitalizada para tabletas de hasta 50 
+usuarios. El soporte y mantenimiento de esta solución es fundamental para que la ACAT 
+desempeñe con garantías sus competencias en materia de atención y asistencia a la ciudadanía 
+en la aplicación de los tributos y otros ingresos de Derecho público. 
+2. Objeto del contrato 
+El objeto de este contrato es la contratación de los servicios de suscripción y mantenimiento 
+de una solución de firma digitalizada de hasta 50 puestos integrado con el SIT de la ACAT, 
+incluyendo las siguientes actividades: 
+1. Configuración inicial de componentes de firma sobre entornos de integración con 
+los sistemas de información de la ACAT, en su caso. 
+Versión imprimible del documento. La integridad de este documento puede comprobarse en la sede electrónica del Gobierno de Cantabria, a través de  https://verificacsv.cantabria.es/verificacsv?codigoVerificacion=A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+Identificador de documento electrónico (ENI): ES_A06004075_2026_DOC_00N_000000000000004155357
+Firma 1: 21/10/2026 - MIGUEL EXPOSITO MARTIN
+SUBDIRECTOR GENERAL DEL AREA DE SISTEMAS DE INFORMACION - DIRECCION DE LA AGENCIA ...
+Firma 2: 22/10/2026 - ANA MARIA MADRAZO DIAZ
+DIRECTORA ACAT - DIRECCION DE LA AGENCIA CANTABRA DE ADMINISTRACION TRIBUTARIA  ACAT
+CSV: A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+ 
+ 
+Este documento tiene carácter de copia electrónica auténtica con validez y eficacia administrativa del documento ORIGINAL (art. 27 Ley 39/2015)
+Pág 2/15
+
+--- página 3 ---
+ 
+3 
+ 
+2. Formación y apoyo al equipo técnico en la integración con los sistemas de 
+información de la ACAT, en su caso. 
+3. Ayuda y soporte en la instalación y uso de la solución por parte de cualquier usuario. 
+4. Servicio de atención en horario de 9,00 AM a 18,00 PM, de lunes a viernes y 
+considerando calendario de festivos de la Comunidad Autónoma de Cantabria. 
+5. Resolución de incidencias durante el uso de una funcionalidad de la solución o 
+relacionadas con su hardware asociado. 
+6. Evolución tecnológica de la solución, incluyendo actualizaciones y nuevas versiones 
+de producto con correcciones y/o mejoras incorporadas por el fabricante. 
+7. Revisión de aspectos relacionados con la seguridad de la información que afecten a 
+la solución, incluyendo publicación y entrega de versiones con parches de 
+seguridad. 
+8. Apoyo en actuaciones d e mantenimiento preventivo: caducidad y sustitución de 
+certificados digitales, pruebas de descifrado y validación de firmas digitalizadas y 
+cualquier otra necesaria para el correcto funcionamiento de la solución. 
+3. Acuerdo de Nivel de Servicios 
+El Acuerdo de Nivel de Servicios (ANS o SLA, del inglés Service Level Agreement ) es el 
+documento en el cual se describen los servicios de gestión prestados, se establecen las medidas 
+de prestación óptima de los mismos y se establecen los mecanismos de control de dicha 
+prestación. 
+3.1. Introducción 
+3.1.1. Propósito del Acuerdo de Nivel de Servicios 
+El presente Acuerdo de Nivel de Servicio entre la ACAT y la empresa adjudicataria define el 
+nivel de servicio de la prestación de los servicios de suscripción y mantenimiento de una solución 
+de firma digitalizada integrado con el SIT de la ACAT, acordado como aceptable para la Agencia. 
+Versión imprimible del documento. La integridad de este documento puede comprobarse en la sede electrónica del Gobierno de Cantabria, a través de  https://verificacsv.cantabria.es/verificacsv?codigoVerificacion=A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+Identificador de documento electrónico (ENI): ES_A06004075_2026_DOC_00N_000000000000004155357
+Firma 1: 21/10/2026 - MIGUEL EXPOSITO MARTIN
+SUBDIRECTOR GENERAL DEL AREA DE SISTEMAS DE INFORMACION - DIRECCION DE LA AGENCIA ...
+Firma 2: 22/10/2026 - ANA MARIA MADRAZO DIAZ
+DIRECTORA ACAT - DIRECCION DE LA AGENCIA CANTABRA DE ADMINISTRACION TRIBUTARIA  ACAT
+CSV: A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+ 
+ 
+Este documento tiene carácter de copia electrónica auténtica con validez y eficacia administrativa del documento ORIGINAL (art. 27 Ley 39/2015)
+Pág 3/15
+
+--- página 4 ---
+ 
+4 
+ 
+3.1.2. Contexto del Acuerdo de Nivel de Servicios 
+En la actualidad, la ACAT constata la necesidad de externalizar los servicios de suscripción y 
+mantenimiento de una solución de firma digitalizada integrado con el SIT, dado que no es posible 
+prestar dichos servicios con medios propios, al carecer de la tecnología y el conocimiento. 
+3.2. Descripción del Servicio prestado 
+El objetivo de la ACAT es conseguir, por parte de la empresa adjudica taria, un servicio de 
+suscripción y mantenimiento de una solución de firma digitalizada integrado con SIT adaptado 
+continuamente a sus necesidades tecnológicas y de negocio. 
+Los servicios a prestar son los descritos en el objeto del contrato , si bien se detallan a 
+continuación: 
+3.2.1. Servicio de actualización de versiones 
+La empresa adjudicataria se compromete, durante el tiempo de ejecución del contrato, a 
+suministrar cualesquiera nuevas versiones de la solución pudieran publicarse como 
+consecuencia de la aparición de nuevas funcionalidades, mejoras en cuanto a prestacione s y 
+rendimientos, solución a problemas detectados en versiones anteriores o correcciones de 
+seguridad. 
+ La empresa adjudicataria se compromete a re visar el mantenimiento de las licencias 
+anualmente, certificando cualquier entrega y acompañándola de los correspondientes 
+documentos que garanticen la calidad y seguridad de la solución. 
+3.2.2. Servicio de soporte y mantenimiento 
+La empresa adjudicataria se compromete a prestar los servicios necesarios para el correcto 
+funcionamiento de la solución, así como a dar respuesta a cualquier consulta o incidencia 
+relacionada con la misma.  
+3.3. Responsabilidades 
+3.3.1. Responsabilidades de la empresa adjudicataria 
+• Dirección en la ejecución y coordinación  en su papel como prestador  del servicio a la 
+ACAT, a través de la designación de un a persona con el rol de  interlocución o 
+coordinación. 
+Versión imprimible del documento. La integridad de este documento puede comprobarse en la sede electrónica del Gobierno de Cantabria, a través de  https://verificacsv.cantabria.es/verificacsv?codigoVerificacion=A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+Identificador de documento electrónico (ENI): ES_A06004075_2026_DOC_00N_000000000000004155357
+Firma 1: 21/10/2026 - MIGUEL EXPOSITO MARTIN
+SUBDIRECTOR GENERAL DEL AREA DE SISTEMAS DE INFORMACION - DIRECCION DE LA AGENCIA ...
+Firma 2: 22/10/2026 - ANA MARIA MADRAZO DIAZ
+DIRECTORA ACAT - DIRECCION DE LA AGENCIA CANTABRA DE ADMINISTRACION TRIBUTARIA  ACAT
+CSV: A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+ 
+ 
+Este documento tiene carácter de copia electrónica auténtica con validez y eficacia administrativa del documento ORIGINAL (art. 27 Ley 39/2015)
+Pág 4/15
+
+--- página 5 ---
+ 
+5 
+ 
+• Prestar los servicios descritos en este pliego con las medidas de calidad suficientes como 
+para garantizar un correcto funcionamiento de la firma digitalizada. 
+• Alertar a la ACAT de todos aquellos problemas, errores, riesgos presentes o futuros y 
+situaciones indeseables que detecte, colaborando en su diagnóstico y posible 
+resolución. 
+• Garantizar la calidad todos los productos y entregables  resultantes de la ejecución de  
+los servicios objeto del presente pliego. 
+• Cumplir, en todos los  componentes desarrollados  y mantenidos  por la empresa 
+adjudicataria para el uso de la firma digitalizada, con las medidas de seguridad 
+correspondientes a un sistema de categorización MEDIA según el Esquema Nacional de 
+Seguridad (ENS), indicado en este pliego. 
+3.3.2. Responsabilidades de la ACAT 
+• Poner a disposición de la empresa adjudicataria la información necesaria para la 
+realización del servicio. 
+• Poner a disposición los recursos necesarios  para la puesta en producción de los 
+productos resultantes de la ejecución del servicio. 
+• Proporcionar las autorizaciones necesarias para y, en general, el entorno técnico 
+necesario para prestar el servicio. 
+• Solicitar la realización de cambios y mejoras con un tiempo de antelación suficiente, 
+salvo que se trate de imposiciones normativas o causas ajenas a la Agencia. 
+• Comunicar los objetivos , operativas y estado de prestación  del servicio a las áreas 
+implicadas de la ACAT. 
+• Llevar a cabo las revisiones y auditorías necesarias para comprobar el efectivo 
+cumplimiento de lo dispuesto en los pliegos que rigen el presente contrato. 
+3.3.3. Responsabilidades mutuas 
+• Realizar un seguimiento periódico del serv icio, otorgando a cada una  de las personas 
+responsables respectivas la capacidad de decisión suficiente para subsanar las posibles 
+incidencias. 
+3.4. Mecanismos de control y seguimiento 
+La persona responsable del contrato realizará una evaluación anual previa a la conformidad 
+de la prestación de los servicios correspondientes, pudiendo realizarse seguimientos, 
+Versión imprimible del documento. La integridad de este documento puede comprobarse en la sede electrónica del Gobierno de Cantabria, a través de  https://verificacsv.cantabria.es/verificacsv?codigoVerificacion=A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+Identificador de documento electrónico (ENI): ES_A06004075_2026_DOC_00N_000000000000004155357
+Firma 1: 21/10/2026 - MIGUEL EXPOSITO MARTIN
+SUBDIRECTOR GENERAL DEL AREA DE SISTEMAS DE INFORMACION - DIRECCION DE LA AGENCIA ...
+Firma 2: 22/10/2026 - ANA MARIA MADRAZO DIAZ
+DIRECTORA ACAT - DIRECCION DE LA AGENCIA CANTABRA DE ADMINISTRACION TRIBUTARIA  ACAT
+CSV: A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+ 
+ 
+Este documento tiene carácter de copia electrónica auténtica con validez y eficacia administrativa del documento ORIGINAL (art. 27 Ley 39/2015)
+Pág 5/15
+
+--- página 6 ---
+ 
+6 
+ 
+evaluaciones o controles extraordinarios cuando así se considere necesario por cualquiera de 
+las partes. 
+La empresa adjudicataria emitirá un informe anual de cumplimiento  de los niveles de 
+servicio definidos en los anexos de este pliego, de forma previa a recibir la conformidad con la 
+prestación de los servicios prestados. 
+3.5. Niveles de servicio 
+3.5.1. Definiciones previas 
+3.5.1.1. Criticidad en el mantenimiento 
+• Crítico: la incidencia o consulta impide la operación de los servicios que utilizan la solución 
+de firma digitalizada y la no inmediatez  del mantenimiento no permite garantizar la 
+prestación de algún servicio a la ciudadanía,  o provoca el incumplimiento de alguna ley o 
+regulación. 
+• No crítico: la incidencia o consulta no imposibilita la operación de los servicios que utilizan 
+la solución de firma digitalizada y la no inmediatez del mantenimiento permite garantizar la 
+prestación de los servicios a la ciudadanía y no provoca el incumplimiento de ninguna ley o 
+regulación. 
+3.5.1.2. Incidencias abiertas 
+Se considerará abierta una incidencia desde el momento en que sea comunicada por la ACAT 
+a través de los canales de soporte establecidos en el contrato o registrada en la herramienta de 
+gestión de incidencias habilitada por la empresa adjudicataria, siempr e que la comunicación 
+contenga una descripción suficiente del problema detectado. 
+La apertura de la incidencia dará inicio al cómputo de los plazos de respuesta y resolución 
+previstos en los Acuerdos de Nivel de Servicio. 
+3.5.1.3. Incidencias resueltas 
+Se considerará resuelta una incidencia cuando haya desaparecido la causa que motivó su 
+apertura y la funcionalidad afectada opere de forma normal conforme a los requisitos 
+establecidos en el presente contrato. 
+No se considerará resuelta una incidencia mediante la mera aplicación de soluciones 
+provisionales, medidas de mitigación o actuaciones destinadas únicamente a reducir sus 
+efectos, salvo aceptación expresa por parte de la ACAT. 
+Versión imprimible del documento. La integridad de este documento puede comprobarse en la sede electrónica del Gobierno de Cantabria, a través de  https://verificacsv.cantabria.es/verificacsv?codigoVerificacion=A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+Identificador de documento electrónico (ENI): ES_A06004075_2026_DOC_00N_000000000000004155357
+Firma 1: 21/10/2026 - MIGUEL EXPOSITO MARTIN
+SUBDIRECTOR GENERAL DEL AREA DE SISTEMAS DE INFORMACION - DIRECCION DE LA AGENCIA ...
+Firma 2: 22/10/2026 - ANA MARIA MADRAZO DIAZ
+DIRECTORA ACAT - DIRECCION DE LA AGENCIA CANTABRA DE ADMINISTRACION TRIBUTARIA  ACAT
+CSV: A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+ 
+ 
+Este documento tiene carácter de copia electrónica auténtica con validez y eficacia administrativa del documento ORIGINAL (art. 27 Ley 39/2015)
+Pág 6/15
+
+--- página 7 ---
+ 
+7 
+ 
+La resolución de la incidencia requerirá, en todo caso, la validación por parte de la ACAT o, 
+transcurridos cinco días hábiles desde la comunicación de resolución sin que se hayan formulado 
+objeciones, se entenderá aceptada tácitamente. 
+En las incidencias críticas, la recuperación temporal del servicio mediante una solución de 
+contingencia no supondrá por sí sola la resolución de la incidencia cuando subsista la causa raíz 
+que originó el problema. 
+3.5.1.4. Tiempo de respuesta 
+Se entenderá cumplido el tiempo de respuesta cuando la empresa adjudicataria: 
+• haya acusado recibo de la incidencia; 
+• haya asignado un identificador único de seguimiento; 
+• haya designado un responsable de su gestión; 
+• y haya comunicado a la ACAT un diagnóstico preliminar o las actuaciones 
+inicialmente previstas para su resolución. 
+La mera recepción automática de un correo electrónico o la generación automática de un 
+ticket no tendrán la consideración de respuesta a efectos del cumplimiento de los niveles de 
+servicio. 
+3.5.2. Indicadores 
+Los Indicadores de Nivel de Servicio se en cuentran definidos en el ANEXO I  del presente 
+pliego. 
+3.6. Penalidades en caso de incumplimiento 
+En base a los indicadores de nivel de servicio definidos en el apartado anterior, se aplicarán 
+penalidades en forma de correcciones en la facturación anual medidas en porcentaje sobre el 
+importe correspondiente. 
+La facturación de los pagos se calculará en base a la siguiente fórmula: 
+F = Fr - Ʃp 
+En donde F es la facturación efectiva en el pago, Fr es la facturación real correspondiente al 
+período dado y Ʃp es la penalidad calculada como la suma de todas las penalidades 
+correspondientes al período de facturación en función de lo dispuesto en la cláusula V del Pliego 
+de Cláusulas Administrativas Particulares que rige el contrato. 
+Versión imprimible del documento. La integridad de este documento puede comprobarse en la sede electrónica del Gobierno de Cantabria, a través de  https://verificacsv.cantabria.es/verificacsv?codigoVerificacion=A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+Identificador de documento electrónico (ENI): ES_A06004075_2026_DOC_00N_000000000000004155357
+Firma 1: 21/10/2026 - MIGUEL EXPOSITO MARTIN
+SUBDIRECTOR GENERAL DEL AREA DE SISTEMAS DE INFORMACION - DIRECCION DE LA AGENCIA ...
+Firma 2: 22/10/2026 - ANA MARIA MADRAZO DIAZ
+DIRECTORA ACAT - DIRECCION DE LA AGENCIA CANTABRA DE ADMINISTRACION TRIBUTARIA  ACAT
+CSV: A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+ 
+ 
+Este documento tiene carácter de copia electrónica auténtica con validez y eficacia administrativa del documento ORIGINAL (art. 27 Ley 39/2015)
+Pág 7/15
+
+--- página 8 ---
+ 
+8 
+ 
+4. Entorno tecnológico 
+La ACAT dispone actualmente de una solución de firma digitalizada  instalada para su 
+funcionamiento integrado con el Sistema de Información Tributaria (SIT) implantado en la ACAT 
+por la empresa adjudicataria del contrato de «adquisición y servicios de migración, 
+implantación, puesta en marcha y mantenimiento de un sistema integral e integrado de los 
+procedimientos de aplicación de los tributos y otros procedimientos administrativos 
+competencia de la Agencia Cántabra de Admini stración Tributaria con soporte nativo para la 
+tramitación electrónica en la nube» . Su mantenimiento se llevará a cabo sobre este entorno.  
+Asimismo, cualquier actualización, parche, mejora o nueva versión a instalar deberá ser 
+compatible con el entorno citado, tanto en pruebas como en explotación. 
+La empresa adjudicataria deberá ofrecer soporte al funcionamiento integrado de la 
+solución con el SIT, debiendo ser compatible con este. 
+Asimismo, la solución deberá permitir reutilizar los activos tecnológicos ya existentes en la 
+Agencia, debiendo ser compatible con el parque actual de dispositivos de firma utilizados en la 
+atención y asistencia a la ciudadanía: tabletas digitalizadoras Wacom STU-540. 
+5. Metodología 
+5.1. Organización del trabajo 
+La empresa adjudicataria pondrá a disposición de la ACAT , como mínimo,  una plataforma 
+de gestión de tickets o mecanismo equivalente, un buzón de correo electrónico y un número de 
+teléfono para la comunicación de consultas o incidencias. 
+Anualmente, la empresa adjudicataria verificará el correcto estado de  instalación de las 
+licencias y/o certificados de la solución de firma digitalizada en SIT para garantizar su uso 
+durante el ejercicio siguiente. 
+5.2. Entregables 
+La empresa adjudicataria suministrará cualquier documentación, certificado, licencia, 
+parche o artefacto de software necesario para el correcto funcionamiento de la solución en todo 
+momento.  
+Versión imprimible del documento. La integridad de este documento puede comprobarse en la sede electrónica del Gobierno de Cantabria, a través de  https://verificacsv.cantabria.es/verificacsv?codigoVerificacion=A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+Identificador de documento electrónico (ENI): ES_A06004075_2026_DOC_00N_000000000000004155357
+Firma 1: 21/10/2026 - MIGUEL EXPOSITO MARTIN
+SUBDIRECTOR GENERAL DEL AREA DE SISTEMAS DE INFORMACION - DIRECCION DE LA AGENCIA ...
+Firma 2: 22/10/2026 - ANA MARIA MADRAZO DIAZ
+DIRECTORA ACAT - DIRECCION DE LA AGENCIA CANTABRA DE ADMINISTRACION TRIBUTARIA  ACAT
+CSV: A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+ 
+ 
+Este documento tiene carácter de copia electrónica auténtica con validez y eficacia administrativa del documento ORIGINAL (art. 27 Ley 39/2015)
+Pág 8/15
+
+--- página 9 ---
+ 
+9 
+ 
+6. Horario y localización 
+Los trabajos se desempeñarán en la sede de la empresa adjudicataria, que deberá disponer 
+de la infraestructura logística necesaria (entorno tecnológico), que permita garantizar la 
+correcta integración de la solución de firma digitalizada con el SIT. 
+Cualquier reunión necesaria para la correcta prestación del servicio, en su caso, podrá tener 
+lugar telemáticamente dentro del horario de oficina de la ACAT . Dichas reuniones podrán ser 
+convocadas por la persona responsable del contrato o por la persona designada por la empresa 
+adjudicataria como coordinador técnico o responsable. 
+En ningún caso será imputable al contrato cualquier gasto de desplazamiento, alojamiento 
+y/o manutención en que la empresa adjudicataria pudiera incurrir debido a cualquier reunión o 
+actuación programada, corriendo por cuenta de esta en todo caso.  
+La empresa adjudicataria decidirá sobre el horario del personal a su cargo, si bien deberá 
+existir una disponibilidad mínima para la atención de las necesidades de la ACAT en horario de 
+9,00 a 18,00 de lunes a viernes. Todo ello sin óbice de que la empresa adjudicataria acuerde con 
+el personal de la ACAT otros horarios más específicos en función de las necesidades existentes. 
+Las peticiones realizadas fuera de los horarios especificados anteriormente podrán ser 
+atendidas a partir del inicio de la jornada del siguiente día laborable.  
+Para la aplicación de lo establecido en el presente pliego, se tendrá en cuenta el calendario 
+laboral aplicable a la Comunidad Autónoma de Cantabria.  
+7. Equipo prestador del servicio 
+El personal encargado de atender y recibir las incidencias o consultas y de suministrar los 
+correspondientes entregables deberá contar con los conocimientos técnicos necesarios para la 
+adecuada identificación y resolución de las que se deriven del funciona miento de la solución 
+objeto de este contrato.  
+8. Seguimiento y control del servicio 
+Se aplicará lo descrito en la cláusula 3.4) de este pliego.  
+Durante la prestación del servicio objeto del contrato la empresa adjudicataria  se 
+comprometerá en todo momento a facilitar la ACAT la información y documentación que estas 
+Versión imprimible del documento. La integridad de este documento puede comprobarse en la sede electrónica del Gobierno de Cantabria, a través de  https://verificacsv.cantabria.es/verificacsv?codigoVerificacion=A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+Identificador de documento electrónico (ENI): ES_A06004075_2026_DOC_00N_000000000000004155357
+Firma 1: 21/10/2026 - MIGUEL EXPOSITO MARTIN
+SUBDIRECTOR GENERAL DEL AREA DE SISTEMAS DE INFORMACION - DIRECCION DE LA AGENCIA ...
+Firma 2: 22/10/2026 - ANA MARIA MADRAZO DIAZ
+DIRECTORA ACAT - DIRECCION DE LA AGENCIA CANTABRA DE ADMINISTRACION TRIBUTARIA  ACAT
+CSV: A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+ 
+ 
+Este documento tiene carácter de copia electrónica auténtica con validez y eficacia administrativa del documento ORIGINAL (art. 27 Ley 39/2015)
+Pág 9/15
+
+--- página 10 ---
+ 
+10 
+ 
+soliciten para disponer de un pleno conocimiento de las circunstancias en que se desarrollan los 
+trabajos, así como los eventuales problemas que puedan plantearse y las tecnologías, métodos 
+y herramientas utilizadas para resolverlos. 
+9. Interlocución entre las partes 
+El nombramiento de interlocutores por parte de la empresa adjudicataria tendrá lugar en 
+el plazo máximo de 30 días naturales desde el inicio del contrato.  
+9.1. Responsable del Contrato 
+La persona responsable del contrato será la que ocupe la Subdirección General del Área de 
+Sistemas de Información, dependiente de la Agencia Cántabra de Administración Tributaria, que 
+supervisará su ejecución, adoptará las decisiones y dictará las instrucciones necesarias con el fin 
+de asegurar la correcta realización de la prestación pactada. 
+9.2. Responsables de Seguridad de la Información 
+Por parte de la ACAT , la persona que ocupe la Jefatura del Servicio de Seguridad de la 
+Información dependiente de la Dirección General de Informática de la Administración de la 
+Comunidad Autónoma de Cantabria. 
+Por parte de la empresa adjudicataria , la persona designada por este para cumplir con el 
+citado rol. 
+9.3. Personas de contacto para incidencias relativas a los indicadores de servicio 
+Por parte de la ACAT, la persona responsable del contrato. 
+Por parte de la empresa adjudicataria , la persona designada por este para cumplir con el 
+citado rol. 
+10. Seguridad de la Información  
+Con relación al Anexo I del Esquema Nacional de Seguridad, sobre categorización de los 
+sistemas de información, el sistema de información tributaria sobre el  que se realiza la 
+integración con la solución de firma digitalizada cuyo mantenimiento es  objeto del contrato , 
+tiene las siguientes características: 
+• Disponibilidad: nivel MEDIO 
+Versión imprimible del documento. La integridad de este documento puede comprobarse en la sede electrónica del Gobierno de Cantabria, a través de  https://verificacsv.cantabria.es/verificacsv?codigoVerificacion=A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+Identificador de documento electrónico (ENI): ES_A06004075_2026_DOC_00N_000000000000004155357
+Firma 1: 21/10/2026 - MIGUEL EXPOSITO MARTIN
+SUBDIRECTOR GENERAL DEL AREA DE SISTEMAS DE INFORMACION - DIRECCION DE LA AGENCIA ...
+Firma 2: 22/10/2026 - ANA MARIA MADRAZO DIAZ
+DIRECTORA ACAT - DIRECCION DE LA AGENCIA CANTABRA DE ADMINISTRACION TRIBUTARIA  ACAT
+CSV: A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+ 
+ 
+Este documento tiene carácter de copia electrónica auténtica con validez y eficacia administrativa del documento ORIGINAL (art. 27 Ley 39/2015)
+Pág 10/15
+
+--- página 11 ---
+ 
+11 
+ 
+• Autenticidad: nivel MEDIO 
+• Integridad: nivel MEDIO 
+• Confidencialidad: nivel MEDIO 
+• Trazabilidad: nivel MEDIO 
+• Categoría: MEDIA 
+La empresa adjudicataria deberá respetar las medidas de seguridad correspondientes en su 
+solución. Cualquier entregable suministrado deberá ser compatible  con los niveles de las 
+dimensiones y la categoría señalados. 
+Con relación a las medidas de seguridad directamente relacionadas con la protección de 
+datos personales, la empresa adjudicataria también deberá respetar las medidas de seguridad 
+correspondientes en su solución, si bien, dentro del objeto de este contrato, no está prevista la 
+realización de tratamientos de datos personales  por parte de dicha adjudicataria, sin perjuicio 
+de que la solución gestione evidencias electrónicas asociadas al proceso de firma. 
+Especialmente y sin perjuicio de lo anterior, la solución deberá cumplir los siguientes 
+requisitos: 
+10.1. Integridad y autenticidad de la evidencia de firma 
+La solución deberá garantizar la integridad del documento firmado y de la evidencia 
+electrónica asociada a la firma durante todo su ciclo de vida. 
+La alteración posterior del documento o de la evidencia de firma deberá resultar detectable 
+mediante mecanismos criptográficos que permitan acreditar cualquier modificación producida 
+tras la firma. 
+La solución deberá permitir la verificación posterior de la evidencia electrónica generada y 
+la conservación de los elementos necesarios para su validación. 
+10.2. Confidencialidad de la información 
+Toda la información asociada al proceso de firma deberá permanecer protegida frente a 
+accesos no autorizados. 
+La solución deberá utilizar mecanismos de cifrado adecuados tanto durante la transmisión 
+de la información como durante su almacenamiento. 
+Versión imprimible del documento. La integridad de este documento puede comprobarse en la sede electrónica del Gobierno de Cantabria, a través de  https://verificacsv.cantabria.es/verificacsv?codigoVerificacion=A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+Identificador de documento electrónico (ENI): ES_A06004075_2026_DOC_00N_000000000000004155357
+Firma 1: 21/10/2026 - MIGUEL EXPOSITO MARTIN
+SUBDIRECTOR GENERAL DEL AREA DE SISTEMAS DE INFORMACION - DIRECCION DE LA AGENCIA ...
+Firma 2: 22/10/2026 - ANA MARIA MADRAZO DIAZ
+DIRECTORA ACAT - DIRECCION DE LA AGENCIA CANTABRA DE ADMINISTRACION TRIBUTARIA  ACAT
+CSV: A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+ 
+ 
+Este documento tiene carácter de copia electrónica auténtica con validez y eficacia administrativa del documento ORIGINAL (art. 27 Ley 39/2015)
+Pág 11/15
+
+--- página 12 ---
+ 
+12 
+ 
+La evidencia electrónica asociada a la firma no podrá almacenarse en texto claro ni 
+permanecer accesible fuera de los mecanismos de protección previstos por la solución. 
+10.3. Cumplimiento normativo 
+La solución deberá cumplir la normativa aplicable en materia de protección de datos de 
+carácter personal, administración electrónica  y seguridad de la información (especialmente, 
+Esquema Nacional de Seguridad  y las disposiciones reglamentarias, instrucciones y normas 
+técnicas que resulten aplicables). 
+10.4. Tratamiento de los datos asociados a la firma manuscrita digitalizada 
+La solución podrá capturar y conservar los datos técnicos asociados al proceso de firma 
+manuscrita digitalizada que resulten necesarios para garantizar la integridad del documento 
+firmado, reforzar su valor probatorio y permitir la validación, comprobación y, en su caso, 
+acreditación pericial de la autenticidad de la firma incorporada al documento. 
+Cuando la solución capture parámetros técnicos asociados al acto de firma manuscrita 
+digitalizada, tales como coordenadas, velocidad, presión, aceleración, tiempo u otros 
+equivalentes, dichos datos deberán quedar vinculados de forma inequívoca a la evidencia 
+electrónica generada y protegidos mediante mecanismos que garanticen su confidencialidad, 
+integridad y trazabilidad. 
+Los datos asociados al proceso de firma únicamente podrán ser tratados para las siguientes 
+finalidades: 
+a) Generar, conservar y proteger la evidencia electrónica asociada al documento firmado. 
+b) Verificar la integridad, autenticidad y no alteración de la evidencia generada. 
+c) Atender incidencias, reclamaciones, recursos o procedimientos administrativos, 
+judiciales o arbitrales relacionados con la firma de un documento concreto. 
+d) Permitir, cuando resulte necesario, la realización de verificaciones , cotejos  o análisis 
+periciales dirigidos a determinar la autenticidad de la firma incorporada a un documento 
+determinado. 
+e) Garantizar la defensa jurídica de los intereses de la Agencia Cántabra de Administración 
+Tributaria y de las personas intervinientes en el procedimiento. 
+Versión imprimible del documento. La integridad de este documento puede comprobarse en la sede electrónica del Gobierno de Cantabria, a través de  https://verificacsv.cantabria.es/verificacsv?codigoVerificacion=A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+Identificador de documento electrónico (ENI): ES_A06004075_2026_DOC_00N_000000000000004155357
+Firma 1: 21/10/2026 - MIGUEL EXPOSITO MARTIN
+SUBDIRECTOR GENERAL DEL AREA DE SISTEMAS DE INFORMACION - DIRECCION DE LA AGENCIA ...
+Firma 2: 22/10/2026 - ANA MARIA MADRAZO DIAZ
+DIRECTORA ACAT - DIRECCION DE LA AGENCIA CANTABRA DE ADMINISTRACION TRIBUTARIA  ACAT
+CSV: A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+ 
+ 
+Este documento tiene carácter de copia electrónica auténtica con validez y eficacia administrativa del documento ORIGINAL (art. 27 Ley 39/2015)
+Pág 12/15
+
+--- página 13 ---
+ 
+13 
+ 
+La solución deberá garantizar que los datos capturados durante el proceso de firma 
+únicamente puedan utilizarse para las finalidades anteriormente descritas y no para otras 
+incompatibles con ellas, incluyendo la elaboración de perfiles, la explotación come rcial de la 
+información, la minería de datos, el entrenamiento de modelos de inteligencia artificial o la 
+creación de sistemas destinados a la identificación, categorización o perfilado generalizado de 
+personas al margen de las finalidades previstas en este pliego. 
+10.5. Conservación y recuperación de evidencias 
+La solución deberá garantizar la conservación, recuperación, verificación y validación de las 
+evidencias electrónicas asociadas a los documentos firmados durante todo el período de 
+conservación legalmente exigible o que resulte aplicable de acuerdo con la normativa vigente . 
+Asimismo, deberá permitir la exportación de las evidencias electrónicas y de los elementos 
+necesarios para su validación en formatos adecuados para su utilización en procedimientos 
+administrativos, judiciales o periciales. 
+10.6. Auditoría y trazabilidad 
+La solución deberá registrar los eventos necesarios para garantizar la trazabilidad de: 
+• la generación de la firma; 
+• la modificación de configuraciones relevantes; 
+• el acceso a las evidencias; 
+• la exportación o recuperación de información. 
+Los registros deberán conservarse durante todo el período de vigencia del contrato y 
+durante los plazos de conservación que resulten aplicables. 
+La ACAT podrá requerir en cualquier momento la documentación necesaria para verificar el 
+cumplimiento de las obligaciones de seguridad y conservación de evidencias previstas en el 
+contrato. 
+A la finalización del contrato el adjudicatario colaborará en la migración o entrega de toda 
+la información, evidencias, licencias, claves y elementos necesarios para garantizar la 
+continuidad del servicio, sin pérdida de información ni deterioro de las evidencias electrónicas. 
+Versión imprimible del documento. La integridad de este documento puede comprobarse en la sede electrónica del Gobierno de Cantabria, a través de  https://verificacsv.cantabria.es/verificacsv?codigoVerificacion=A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+Identificador de documento electrónico (ENI): ES_A06004075_2026_DOC_00N_000000000000004155357
+Firma 1: 21/10/2026 - MIGUEL EXPOSITO MARTIN
+SUBDIRECTOR GENERAL DEL AREA DE SISTEMAS DE INFORMACION - DIRECCION DE LA AGENCIA ...
+Firma 2: 22/10/2026 - ANA MARIA MADRAZO DIAZ
+DIRECTORA ACAT - DIRECCION DE LA AGENCIA CANTABRA DE ADMINISTRACION TRIBUTARIA  ACAT
+CSV: A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+ 
+ 
+Este documento tiene carácter de copia electrónica auténtica con validez y eficacia administrativa del documento ORIGINAL (art. 27 Ley 39/2015)
+Pág 13/15
+
+--- página 14 ---
+ 
+14 
+ 
+En ningún caso l a finalización del contrato supondrá la pérdida de acceso a las evidencias 
+previamente generadas ni impedirá su validación posterior 
+ 
+En Santander, a fecha de la firma electrónica 
+EL SUBDIRECTOR DEL ÁREA DE SISTEMAS 
+DE INFORMACIÓN DE LA ACAT 
+VºBº Y CONFORME 
+LA DIRECTORA DE LA ACAT 
+Fdo. Miguel Expósito Martín Fdo. Ana María Madrazo Díaz 
+ 
+Versión imprimible del documento. La integridad de este documento puede comprobarse en la sede electrónica del Gobierno de Cantabria, a través de  https://verificacsv.cantabria.es/verificacsv?codigoVerificacion=A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+Identificador de documento electrónico (ENI): ES_A06004075_2026_DOC_00N_000000000000004155357
+Firma 1: 21/10/2026 - MIGUEL EXPOSITO MARTIN
+SUBDIRECTOR GENERAL DEL AREA DE SISTEMAS DE INFORMACION - DIRECCION DE LA AGENCIA ...
+Firma 2: 22/10/2026 - ANA MARIA MADRAZO DIAZ
+DIRECTORA ACAT - DIRECCION DE LA AGENCIA CANTABRA DE ADMINISTRACION TRIBUTARIA  ACAT
+CSV: A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+ 
+ 
+Este documento tiene carácter de copia electrónica auténtica con validez y eficacia administrativa del documento ORIGINAL (art. 27 Ley 39/2015)
+Pág 14/15
+
+--- página 15 ---
+ 
+15 
+ 
+ANEXO I. Indicadores de Nivel de Servicio 
+Los siguientes indicadores se entenderán medidos en horas y días laborables. 
+Mantenimiento  
+Indicador Crítico No crítico 
+Tiempo de respuesta en la atención de 
+una incidencia o consulta 
+1h 3h 
+Tiempo de resolución de una incidencia o 
+consulta 
+24h 72h 
+ 
+Versión imprimible del documento. La integridad de este documento puede comprobarse en la sede electrónica del Gobierno de Cantabria, a través de  https://verificacsv.cantabria.es/verificacsv?codigoVerificacion=A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+Identificador de documento electrónico (ENI): ES_A06004075_2026_DOC_00N_000000000000004155357
+Firma 1: 21/10/2026 - MIGUEL EXPOSITO MARTIN
+SUBDIRECTOR GENERAL DEL AREA DE SISTEMAS DE INFORMACION - DIRECCION DE LA AGENCIA ...
+Firma 2: 22/10/2026 - ANA MARIA MADRAZO DIAZ
+DIRECTORA ACAT - DIRECCION DE LA AGENCIA CANTABRA DE ADMINISTRACION TRIBUTARIA  ACAT
+CSV: A0610NcXt9lFR15jic9gqtzNkj3WDbuXdi8459
+ 
+ 
+Este documento tiene carácter de copia electrónica auténtica con validez y eficacia administrativa del documento ORIGINAL (art. 27 Ley 39/2015)
+Pág 15/15

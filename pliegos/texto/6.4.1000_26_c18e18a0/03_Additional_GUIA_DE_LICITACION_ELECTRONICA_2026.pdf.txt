@@ -1,0 +1,2765 @@
+
+
+--- página 1 ---
+               
+ 
+ 
+ 
+ 
+ 
+Guía de Servicios de Licitación 
+Electrónica: Preparación y 
+Presentación de ofertas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dirección General del Patrimonio del Estado 
+Subdirección General de Coordinación de la Contratación Electrónica 
+ 
+ 
+Versión: 9.0 
+Fecha: 26/02/2026 
+
+
+--- página 2 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 2 de 110 
+Edita:  
+© Ministerio de Hacienda y Función Pública  
+Dirección General del Patrimonio del Estado 
+Subdirección General de Coordinación de la Contratación Electrónica  
+ 
+ 
+ 
+El presente documento está bajo la licencia Creative Commons Reconocimiento - No 
+Comercial - Compartir Igual versión 4.0 España.  
+Usted es libre de:  
+- Copiar, distribuir y comunicar públicamente la obra  
+- Hacer obras derivadas  
+Bajo las condiciones siguientes:  
+- Reconocimiento. Debe reconocer los créditos de la obra de la manera especificada por el 
+autor o el licenciador (pero no de una manera que sugiera que tiene su apoyo o apoyan el 
+uso que hace de su obra).  
+- No Comercial: Se permite que terceros copien, distribuyan, exhiban y ejecuten la obra 
+licenciada —y obras derivadas basadas en ella— pero sólo para fines no comerciales. 
+- Compartir bajo la misma licencia. Si altera o transforma esta obra, o genera una obra 
+derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.  
+Al reutilizar o distribuir la obra, tiene que dejar bien claro los términos de la licencia de esta 
+obra.  
+Alguna de estas condiciones puede no aplicarse si se obtiene el permiso del titular de los 
+derechos de autor  
+Nada en esta licencia menoscaba o restringe los derechos morales del autor.  
+Esto es un resumen legible por humanos del texto legal (la licencia completa) disponible en:  
+https://creativecommons. 
+  
+
+
+--- página 3 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 3 de 110 
+INDICE 
+Contenido 
+1. HERRAMIENTA DE PREPARACIÓN Y PRESENTACIÓN DE OFERTAS .................................. 6 
+1.1 DEFINICIÓN .............................................................................................................................. 6 
+1.2 REQUISITOS PARA EL USO DE LA HERRAMIENTA DE LICITACIÓN ELECTRÓNICA .............................. 7 
+1.2.1 REQUISITOS FUNCIONALES. ....................................................................................................... 7 
+1.2.2 REQUISITOS TÉCNICOS. ............................................................................................................ 8 
+1.2.2.1 VERSIÓN 1.8 DE MÁQUINA VIRTUAL JAVA INSTALADA. ............................................................. 8 
+1.2.2.2 TAMAÑO MÁXIMO DE DOCUMENTOS/OFERTA ........................................................................ 19 
+1.2.2.3 INSTALACIÓN DE AUTOFIRMA .............................................................................................. 20 
+1.2.2.3.1 CONFIGURACIÓN DE AUTOFIRMA .................................................................................... 25 
+1.2.2.4 CERTIFICADOS ELECTRÓNICOS ........................................................................................... 27 
+1.2.2.4.1 ENTIDADES DE CERTIFICACIÓN ADMITIDAS ....................................................................... 28 
+1.2.2.4.2 EMPRESAS EXTRANJERAS .............................................................................................. 28 
+1.3 ACCESO A LA HERRAMIENTA DE LICITACIÓN ELECTRÓNICA........................................................ 29 
+1.3.1 PROCEDIMIENTOS SIN INVITACIÓN .......................................................................................... 29 
+1.3.2 PROCEDIMIENTOS CON INVITACIÓN ........................................................................................ 33 
+1.3.3 PROCEDIMIENTO PARA CONCURSO DE PROYECTOS RESTRINGIDO. ............................................ 35 
+1.3.4 PROCEDIMIENTO PARA CONCURSO DE PROYECTOS ABIERTO ..................................................... 37 
+1.3.5 PROBLEMAS AL INTENTAR DESCARGAR LA HERRAMIENTA ......................................................... 41 
+1.4 DESCRIPCIÓN DE LA HERRAMIENTA ......................................................................................... 45 
+2. PREPARACIÓN DE OFERTAS ................................................................................................... 50 
+2.1 DESCRIPCIÓN GENERAL .......................................................................................................... 50 
+2.2 CATEGORÍA LICITADOR ........................................................................................................... 52 
+2.3 CATEGORÍA AUTORIZACIONES ................................................................................................. 57 
+2.4 CATEGORÍA LOTES ................................................................................................................. 58 
+2.5 CATEGORÍA SOBRES .............................................................................................................. 59 
+2.6 CASO ESPECIAL DE LOTES ....................................................................................................... 72 
+2.7 CASO ESPECIAL DE OFERTAS INTEGRADORAS .......................................................................... 73 
+2.8 SUBSANACIÓN DE FIRMA. ........................................................................................................ 73 
+2.9 PROBLEMAS AL INTENTAR FIRMAR ........................................................................................... 75 
+2.9.1 ALMACÉN DE CERTIFICADOS VACÍO .......................................................................................... 75 
+2.9.2 ERROR DURANTE LA FIRMA ELECTRÓNICA ................................................................................ 75 
+2.9.3 ERROR DE REFERENCIA A LA CLAVE PRIVADA ........................................................................... 76 
+2.9.4 TAMAÑO DE LA OFERTA ........................................................................................................... 76 
+3. OTRAS ACCIONES ..................................................................................................................... 78 
+3.1 ACCIÓN VALIDAR .................................................................................................................... 79 
+3.2 LEYENDA ............................................................................................................................... 80 
+3.3 IMPORTAR / EXPORTAR PROPUESTA ........................................................................................ 80 
+4. PREPARAR ENVÍO ..................................................................................................................... 82 
+4.1 FIRMAR SOBRES ..................................................................................................................... 83 
+4.2 PROBLEMAS AL FIRMAR SOBRES .............................................................................................. 86 
+4.2.1 ERROR AL REALIZAR LA FIRMA. ................................................................................................ 86 
+4.2.2 LIMITACIÓN A CAUSA DEL TAMAÑO DE LA OFERTA ..................................................................... 86 
+4.3 MODIFICAR SOBRES ................................................................................................................ 87 
+4.4 SIMULAR PRESENTACIÓN ........................................................................................................ 87 
+4.5 ENVIAR DOCUMENTACIÓN ....................................................................................................... 88 
+4.6 RETIRADA DE OFERTAS ........................................................................................................... 90 
+4.7 GENERACIÓN DE ETIQUETAS ................................................................................................... 96 
+4.8 PROBLEMAS CON EL ENVÍO ..................................................................................................... 98 
+4.8.1 HUELLA ELECTRÓNICA ............................................................................................................ 98 
+4.8.2 LA DOCUMENTACIÓN NUNCA TERMINA DE ENVIARSE. .............................................................. 101 
+
+--- página 4 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 4 de 110 
+4.8.3 PROBLEMA CON LA OBTENCIÓN DEL JUSTIFICANTE.................................................................. 105 
+5. GESTIÓN EN LA HERRAMIENTA DE MIS COMUNICACIONES ............................................ 105 
+6. SEGUIMIENTO DEL PROCEDIMIENTO ................................................................................... 105 
+7. BUENAS PRÁCTICAS ............................................................................................................... 107 
+8. GLOSARIO DE TÉRMINOS ....................................................................................................... 110 
+9. CONTÁCTENOS ........................................................................................................................ 110 
+ 
+  
+
+--- página 5 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 5 de 110 
+CAMBIOS DE LA VERSIÓN 
+ 
+Se cambia el logo de la portada y la cabecera. 
+Se modifica el apartado 4.6 Retirada de ofertas 
+  
+
+--- página 6 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 6 de 110 
+ 
+INTRODUCCIÓN 
+ 
+El presente documento detalla los S ervicios de Licitación Electrónica en la Plataforma de 
+Contratación del Sector Público (en adelante Plataforma, o PLACSP)  para usuarios de 
+Empresas (licitadores y candidatos).  
+ 
+Básicamente, los servicios de Licitación Electrónica permiten la preparación y presentación 
+de ofertas telemáticamente por el licitador, la custodia electrónica de las mismas por el sistema 
+y la apertura y evaluación electrónica de la documentación por los miembros del órgano de 
+asistencia. Para ello, es preciso que el usuario del órgano de contratación configure el 
+procedimiento atendiendo a unas reglas que aplican a licitaciones de carácter electrónico. 
+ 
+La preparación de la oferta por el licitador puede responder a la publicación de la convocatoria 
+de licitación y los pliegos o bien, en el caso de procedimientos por invitación, resulta r de la 
+recepción de una solicitud de oferta del órgano de contratación/interesado. 
+ 
+En concreto, en la presente guía se documenta cómo el licitador debe preparar la 
+documentación y los sobres que componen las ofertas mediante la Herramienta de 
+Preparación y Presentación de ofertas en ambos  casos (publicación pliegos y envío de 
+invitación).  
+ 
+En lo que se refiere al empleo de estos servicios por el licitador, es requisito inexcusable 
+ser un usuario registrado de la Plataforma de Contratación de Sector Público y rellenar 
+no sólo los datos básicos del alta, también los datos adicionales (Ver “Guía del Operador 
+Económico”). En cuanto a los requisitos técnicos para su uso son muy simples: conexión a 
+Internet, navegador con una versión de Java actualizada (preferentemente a partir de la v1.8), 
+instalación de la aplicación Autofirma y certificado electrónico reconocido por la Administración 
+General del Estado (@firma).  
+ 
+Nota: Puede encontrar más información sobre certificados electrónicos  reconocidos por la 
+AGE en el siguiente enlace: http://firmaelectronica.gob.es/Home/Ciudadanos/Certificados-
+Electronicos.html 
+ 
+Nota: La aplicación Autofirma puede descargarse desde el siguiente sitio: 
+https://firmaelectronica.gob.es/Home/Descargas.html 
+ 
+Para la utilización de esta guía es necesario revisar lo especificado en la “Guía del Operador 
+Económico”, ya que ésta describe con carácter general las funcionalidades disponibles para 
+el usuario operador económico. 
+ 
+1. Herramienta de preparación y presentación de ofertas 
+1.1 Definición 
+La H erramienta de Preparación y P resentación de ofertas  (de ahora en adelante, la 
+Herramienta) es una aplicación que la Plataforma de Contratación del Sector Público pone a 
+disposición del licitador para el envío de la documentación relativa a ofertas, agrupada en 
+sobres electrónicos definidos por el órgano de contratación , asegurándose la integridad, 
+autenticidad, no repudio y confidencialidad de las proposiciones. 
+
+--- página 7 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 7 de 110 
+Para mayor confianza del licitador, la documentación  y detalles de la oferta durante su 
+preparación permanecen en el equipo cliente hasta que se presente. En ese momento, y no 
+antes, toda la documentación viaja cifrada a los servidores de la Plataforma, donde se 
+mantendrá custodiada (inaccesible) hasta el momento de su apertura. 
+1.2 Requisitos para el uso de la herramienta de Licitación Electrónica 
+1.2.1 Requisitos funcionales. 
+ Ser usuario “Operador Económico” registrado en la Plataforma de Contratación 
+del Sector Público. El registro deberá incluir los datos básicos y los datos adicionales 
+(Ilustración: registro del usuario operador económico ). Para más detalle sobre cómo 
+darse de alta en la Plataforma, consulte la “Guía del Operador Económico”. 
+ 
+ 
+Ilustración: registro del usuario operador económico 
+ 
+NOTA: si el usuario sólo registra los datos básicos podrá disfrutar de los servicios básicos que 
+ofrece la Plataforma a las empresas (suscripciones, búsqueda de licitaciones,  avisos) pero no 
+aquéllos relacionados con Licitación Electrónica (preparación electrónica de ofertas y 
+presentación telemática de las mismas). Dada su importancia, en caso de no tener indicado un 
+e-mail a efectos de comunicaciones, se le mostrará al usuar io un aviso en pantalla y 
+periódicamente se le enviará un mensaje de correo electrónico, a modo de recordatorio.  
+ 
+NOTA: es esencial que el correo a efectos de comunicaciones del usuario operador Económico 
+sea el que facilite al organismo público para recib ir las comunicaciones e invitaciones que le 
+permiten licitar electrónicamente.  Si se trata de otra dirección de correo, en ese caso, deberá 
+crear un nuevo usuario operador económico que incorpore el correo electrónico facilitado al 
+órgano de contratación o  modificar el usuario existente elimina ndo el correo erróneo y 
+sustituyéndolo por el correcto. 
+NOTA: se aconseja que el correo electrónico de los datos básicos sea un correo personal o 
+laboral pero que identifique al usuario, por ejemplo, pepeperez@empresa1.es. Sin embargo, 
+es conveniente que el correo a efectos de comunicaciones se corresponda con un correo 
+genérico, del departamento comercial o similar, a cuya bandeja de entrada accedan varios 
+usuarios, por ejemplo, comerciales@empresa1.es. 
+ 
+
+
+--- página 8 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 8 de 110 
+NOTA: En el caso de que se presente oferta a un concurso de proyectos, se deberá rellenar el 
+correo electrónico a efectos de comunicaciones para concurso de proye ctos y en este caso 
+dicha dirección no deber identificar a su empresa ya que los concursantes son anónimos. Este 
+será el correo que se utilice para las preguntas y respuestas de los concursos  
+ 
+ Que el órgano de contratación configure una licitación de forma  electrónica y 
+ponga a disposición esa configuración mediante la publicación del anuncio pliegos 
+(procedimientos SIN invitación) o el envío de la invitación  / solicitud de oferta al 
+candidato / licitador (procedimientos CON invitación). 
+ 
+1.2.2 Requisitos técnicos. 
+Es esencial que revise el cumplimiento de los siguientes requisitos técnicos. Le recordamos 
+que cuando prepara su oferta está trabajando exclusivamente en local, sin conexión alguna 
+con la Plataforma. 
+1.2.2.1 Versión 1.8 de máquina virtual Java instalada. 
+Desde el panel de contr ol de Java ( Ilustración: acceso al panel de control de Java ), 
+compruebe la versión en la pestaña “General” (Ilustración: Panel de control de Java) y 
+pulse el botón Acerca de (Ilustración: Acerca de Java. Versión). 
+Ilustración: acceso al panel de control de Java 
+ 
+ 
+
+
+--- página 9 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 9 de 110 
+ 
+Ilustración: Panel de control de Java 
+ 
+ 
+Ilustración: Acerca de Java. Versión 
+ 
+ Nivel de seguridad alto en consola Java. Para comprobar este extremo, desde el panel 
+de Java ( Ilustración: Panel de control de Java ), s e pulsa la pestaña “Seguridad” 
+(Ilustración: Seguridad de Java: nivel y listado de excepciones). 
+
+
+--- página 10 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 10 de 110 
+ 
+Ilustración: Seguridad de Java: nivel y listado de excepciones 
+ 
+ Añadir https://contrataciondelestado.es  y https://contrataciondelsectorpublico.gob.es 
+como excepciones (Ilustración: Seguridad de Java: nivel y listado de excepciones). 
+ Se exige conexión a Internet que permita la descarga de la Herramienta y el posterior 
+envío de la oferta, por tanto, tenga en cuenta que el sistema de comunicaciones de su 
+empresa puede tener habilitado algún cortafuego que bloquee la descarga de la 
+Herramienta. Para el envío posterior de la oferta no debe tener bloquead o el puerto 
+443 de salida a nivel de router. También, puede suceder que la conexión no tenga un 
+ancho de banda suficiente para el envío de varios MB. 
+ Asignar el programa Java a la extensión “. jnlp”. A modo de ejemplo, le mostramos los 
+pasos a seguir para ello en Windows 7 y Windows 10.  
+ 
+Configuración en Windows 7 
+ 
+ 
+1º Desde el botón de inicio acceder al panel de control 
+
+
+--- página 11 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 11 de 110 
+ 
+Ilustración: Acceso al panel de control 
+ 
+2º Una vez abierto el panel de control ir a programas. 
+ 
+Ilustración: Acceso a “Programas” desde Panel de control 
+ 
+3º En programas pinchar en “Hacer que un tipo de archivo se abra con un programa 
+específico”. 
+ 
+Ilustración: Acceso a “Tipos de archivo” 
+ 
+4º Se selecciona la extensión .jnlp y se presiona el botón “Cambiar programa” situado 
+en la esquina superior derecha de la pantalla. 
+
+
+--- página 12 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 12 de 110 
+ 
+Ilustración: Selección de la extensión .jnlp de la lista de extensiones 
+ 
+5º En la nueva pantalla emergente se selecciona Java y se pulsa el botón “aceptar”. Si 
+el icono de Java no apareciese en la parte de la pantal la reservada a programas 
+recomendados se ha de buscar en “otros programas”. 
+ 
+Ilustración: Asignación del programa Java a la extensión .jnlp 
+ 
+NOTA: Si usted tiene problemas en la subida y firma de archivos en la Herramienta, 
+debe instalar la máquina virtual Java de 64 bits en lugar de 32 bits . Mostramos, a 
+modo de ejemplo, como consultar su máquina de Java en sistema operativo Windows 
+7 Profesional (Panel de ControlProgramas). Si requiere asesoramiento técnico sobre 
+cómo realizar esta actualización, por favor, escriba a: licitacionE@hacienda.gob.es 
+ 
+ 
+ 
+Ilustración: Panel de control > Programas 
+ 
+
+
+--- página 13 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 13 de 110 
+Configuración en Windows 10 
+ 
+Si usted está trabajando con sistema operativo Windows10, puede seguir los pasos 
+que se indican a continuación: 
+1º Debemos descargar el archivo .jnlp de licitación una primera vez: 
+ 
+Ilustración: Enlace Preparar oferta/solicitud de participación 
+2º Guardar el archivo: 
+ 
+Ilustración: Guardar archivo 
+3º Abrir la carpeta donde se ha guardado el archivo .jnlp: 
+
+
+--- página 14 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 14 de 110 
+ 
+Ilustración: Abrir carpeta 
+El archivo .jnlp estará seleccionado: 
+ 
+Ilustración: Archivo .jnlp seleccionado 
+4º Una vez localizado el archivo .jnlp, pulsar Botón Derecho y propiedades 
+            
+               Ilustración: Botón derecho y propiedades 
+ 
+5º Una vez dentro de las propiedades, le damos al botón Cambiar: 
+
+
+--- página 15 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 15 de 110 
+ 
+Ilustración: Botón Cambiar 
+6º En la pantalla que sale, le damos a “Más aplicaciones”. 
+ 
+Ilustración: Pulsamos sobre “Más aplicaciones” 
+ 
+7º Bajamos la barra hasta el final y pulsamos en “buscar otra aplicación en el equipo” 
+
+
+--- página 16 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 16 de 110 
+ 
+Ilustración: Buscar otra aplicación en el equipo 
+ 
+Ahora tenemos dos opciones: 
+Dependiendo si nuestro Java es de 64 o 32 bits. Para saber que versión de java 
+tenemos instalada haremos lo siguiente: Iremos al panel de control de java y en la 
+pestaña “Java” pulsaremos sobre “Ver”. Si en la columna “Arquitectura” pone “x86” 
+significa que tenemos Java de 32 bits, mientras que si pone “x86_64” significa que 
+tenemos Java de 64 bits. 
+Opción 1) Si tenemos instalado el Java de 64 bits, la ruta que hay que buscar es: 
+ 
+Ilustración: Directorio de java 64 bits 
+ 
+1 
+2 
+
+--- página 17 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 17 de 110 
+Y seleccionar el archivo C:\Archivos de Programa\Java\jrexxx\bin\javaws.exe y pulsar 
+el botón Abrir 
+ 
+Y en la siguiente pantalla dar a los botones Aplicar y Aceptar 
+ 
+     Ilustración: Aplicar y aceptar cambios 
+ 
+Opción 2) Si es java de 32 bits, la ruta sería: 
+
+
+--- página 18 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 18 de 110 
+ 
+Ilustración: Directorio de java 32 bits 
+Y seleccionar el archivo C:\Archivos de Programa (x86)\Java\jrexxx\bin\javaws.exe 
+Donde jrexxx es la versión de java. 
+Si quisiesen, podrían descargarse la versión de 64 bits y 32 bits: 
+https://www.java.com/es/download/manual.jsp 
+ADVERTENCIA: les recomendamos que, en todo caso, tengan instalada la versión de 
+64 bits o su equipo local puede experimentar lentitud a la hora de subir la 
+documentación, en especial, si la oferta es voluminosa o existe una división del objeto del 
+contrato por lotes. 
+
+
+--- página 19 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 19 de 110 
+ 
+       Ilustración: Descargar versiones de java 
+ 
+ 
+ 
+NOTA: esta guía describe las instrucciones para un entorno Windows. La Herramienta 
+también puede usarse en diferentes plataformas como Linux o MacOS. Si desea recibir 
+una guía para la configuración de Ubuntu, pídala en licitacionE@hacienda.gob.es  
+ 
+Instalación para MAC: 
+En el caso de MacOS, descargar Java del siguiente enlace 
+https://www.java.com/es/download/manual.jsp y descargar la versión disponible para Mac OS 
+X. 
+ 
+En el siguiente enlace se encuentran las instrucciones de instalación. 
+https://www.java.com/es/download/help/mac_install.html 
+ 
+1.2.2.2 Tamaño máximo de documentos/oferta  
+La Herramienta establece una serie de limitaciones en cuanto a la documentación que 
+se adjunta en la misma tanto individual como globalmente considerada. 
+ 
+La Herramienta hace uso de la solución Autofirma para la firma de documentos. Esta 
+aplicación permite la firma de documentos mayores de 8Mb. No obstante, es 
+recomendable que los documentos sean menores de dicho tamaño debido a  que los 
+servicios de validación de firma de @firma no permiten la validación de documentos 
+mayores a 8Mb.  
+ 
+32bit
+s 
+64bit
+s 
+
+--- página 20 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 20 de 110 
+Si desea reducir el tamaño de los documentos individuales, tenga en cuenta las 
+siguientes recomendaciones: 
+ Generalmente, se suelen insertar imágenes sin estar comprimidas, en alta 
+resolución. Por favor, reduzca la resolución de las imágenes de manera que se 
+puedan generar documentos con la misma información y menor tamaño. 
+ Si el pliego no lo exige, no suba documentación firmada por medios externos a 
+la PLACSP.  
+ En ningún caso imprima un documento electrónico para luego digitalizarlo con 
+el sólo propósito de insertar una firma manuscrita o electrónica. Si le exigen 
+que el documento vaya firmado por medios ajenos a la PLACSP, emplee 
+Autofirma o algún otro dispositivo electrónico para firma electrónica. 
+ Recuerde que, aunque vea una sola entrada para subir documentos, puede 
+anexar más de uno. 
+ 
+Existe una limitación en la capacidad que tiene la tecnología de Java para gestionar la 
+documentación que se anexa en la Herramienta y que provoca que la suma total de la 
+oferta no pueda sobrepasar un determinado tamaño . Estos valores son orientativos, 
+pero puede ocurrir que, en determinados casos, no pueda ni siquiera gestionar un 
+tamaño total algo inferior a los valores que se establecen. 
+ Si se está utilizando una versión de Java de 32 bits: 
+ 
+Procure que el conjunto de ficheros que componen su oferta no sobrepase los 
+27 MB.  
+ 
+ Si se está utilizando una versión de Java de 64 bits: 
+ 
+Procure que el conjunto de ficheros que componen su oferta no sobrepase los 
+38 MB. 
+ 
+Si el tamaño de su oferta n o se acerca a estos límites y au n así experimenta 
+incidencias que le impiden firmar documentos, desplegar opciones de menú, etc. le 
+rogamos que contacte de manera inmediata  con nuestro servicio de soporte 
+licitacionE@hacienda.gob.es 
+ 
+En cualquier caso, recuerde que NUESTRA RECOMENDACIÓN es que actualice 
+la versión de su máquina virtual java de 32 a 64 bits. 
+ 
+NOTA: Para comprobar la capacidad de memoria de su máquina virtual Java y tener mayor 
+información sobre el tamaño de la oferta, se ha n añadido una funcionalidad  a la Herramienta, 
+que permite conocer detalles técnicos de su equipo local, como la memoria de la máquina virtual 
+Java disponible, y el tamaño que ocupa cada sobre. Vea la sección 1.4 
+ 
+1.2.2.3 Instalación de Autofirma 
+Asegúrese de que tiene instalada la última versión de Autofirma (actualmente 1.7.2).  
+La aplicación Autofirma puede descargarse desde este portal de Internet de la Administración: 
+https://firmaelectronica.gob.es/Home/Descargas.html. 
+ 
+
+--- página 21 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 21 de 110 
+Descargue la versión 1.8.3 de Autofirma, desde el apartado “Versiones anteriores”. 
+ 
+Existen una versión de 32 bits y una de 64 bits, debe seleccionar la que se corresponda con 
+su sistema. 
+ 
+Ilustración. Configuración Sistema 
+Los pasos de la instalación son: 
+ Cuando pregunte si permitimos modificar… Pulsar “Si” 
+
+
+--- página 22 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 22 de 110 
+ Abre la pantalla de inicio de instalación de Autofirma. Pulsar en “Siguiente” 
+Ilustración. Comienzo Instalación Autofirma 
+ Aceptar el acuerdo de licencia 
+Ilustración. Aceptación Acuerdo de Licencia 
+
+
+--- página 23 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 23 de 110 
+ Selección de lugar de instalación 
+Ilustración. Lugar de Instalación 
+ 
+ Opciones avanzadas. No se modifican 
+Ilustración. Opciones Avanzadas 
+
+
+--- página 24 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 24 de 110 
+ Instalación de Autofirma 
+Ilustración. Instalación Autofirma 
+ Instalación Completada 
+Ilustración. Instalación Completada 
+
+
+--- página 25 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 25 de 110 
+ Terminar instalación 
+Ilustración. Terminar 
+Para más información sobre la instalación de Autofirma puede consultar: 
+https://administracionelectronica.gob.es/ctt/resources/Soluciones/138/Descargas/AF-
+manual-instalacion-usuarios-ES.pdf?idIniciativa=138&idElemento=11402 
+ 
+1.2.2.3.1 Configuración de Autofirma 
+Si se utiliza Autofirma en un PC conectado a una red local (LAN) que utiliza un servidor proxy 
+para salir a internet, tiene que configurar su aplicación de Autofirma de esta manera. 
+
+
+--- página 26 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 26 de 110 
+Se abre Autofirma desde el escritorio. Se selecciona la opción “Her ramientas” y 
+“Preferencias”. 
+Ilustración. Herramientas Autofirma 
+En la pestaña “General”, se pulsa configurar proxy. Y se selecciona la opción “Usar la 
+configuración proxy del sistema” y “Aceptar”. 
+
+
+--- página 27 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 27 de 110 
+Ilustración. Configuración Proxy 
+Se pulsa Aceptar y se cierra Autofirma 
+Para más información sobre la instalación y configuración de Autofirma puede consultar: 
+https://administracionelectronica.gob.es/ctt/resources/Soluciones/138/Descargas/AF-
+manual-instalacion-y-gestion-ES.pdf?idIniciativa=138&idElemento=5996 
+ 
+ 
+1.2.2.4 Certificados electrónicos 
+Se recomienda que antes de realizar la firma de los documentos y sobres verifique 
+ que dispone de un certificado válido. Navegue a la siguiente dirección: 
+https://valide.redsara.es. Y acceda a Validar Certificado. 
+ Deberá seleccionar su certificado e introducir el código de seguridad. 
+
+
+--- página 28 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 28 de 110 
+ 
+Ilustración: comprobación de certificado válido 
+1.2.2.4.1 Entidades de certificación admitidas 
+La Herramienta permite firmar documentos y sobres con aquellos certificados  
+electrónicos emitidos por proveedores de servicios de certificación reconocidos por la 
+plataforma @firma. Para más información, consulte el siguiente enlace:  
+https://sede.administracion.gob.es/PAG_Sede/LaSedePAG/SistemasFirmaAceptados
+.htmlSi tiene problemas de validación con su certificado electrónico y ha sido emitido 
+por un prestador de servicios de certificación registre una incidencia en 
+https://ssweb.seap.minhap.es/ayuda/consulta/CAID 
+ 
+1.2.2.4.2 Empresas extranjeras 
+Si usted es una empresa extranjera , lo primero que le recomendamos es se dirija a 
+https://valide.redsara.es y verifique su certificado electrónico. Si el resultado es negativo 
+y tiene la seguridad que ha sido emitido por un prestador autorizado en su país 
+contacte con  https://ssweb.seap.minhap.es/ayuda/consulta/CAID y cree una 
+incidencia. 
+En cualquier caso, como lo primordial es que presente su oferta, seleccione el valor 
+“Otros” en el campo correspondiente a su documento de identificación. Ello le permitirá 
+realizar el envío de su oferta sin firmar electrónicamente los documentos ni los sobres 
+mediante la Herramienta . Así mismo, si se trata de una UTE formada con alguna 
+empresa extranjera, actúe del mismo modo para el participante extranjero . No 
+obstante, le recomendamos que firme por otro s medios los documentos y advierta al 
+órgano de contratación de esta circunstancia. 
+ADVERTENCIA: las empresas españolas no deben escoger el valor Otros , salvo que sean 
+una UTE, pero tendrán que introducir el NIF de cada uno de sus componentes. 
+
+
+--- página 29 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 29 de 110 
+ 
+1.3 Acceso a la herramienta de Licitación Electrónica 
+El acceso a la Herramienta para la preparación y presentación de ofertas es diferente en virtud 
+del tipo de procedimiento. 
+1.3.1 Procedimientos SIN invitación 
+Si el procedimiento se inicia con la publicación de la convocato ria de licitación y los pliegos 
+(no con una invitación a licitar), como en el caso de  abiertos, restringidos, negociados con 
+publicidad y diálogos competitivos , e l proceso de acceso a la herramienta consta de los 
+siguientes pasos: 
+1. El licitador busca licitaciones publicadas en la P lataforma (Ilustración: búsqueda de 
+licitaciones en la Plataforma). Para más información sobre la navegación dentro de la 
+plataforma consultar la “Guía de Operadores Económicos”. 
+Ilustración: búsqueda de licitaciones en la Plataforma 
+2. Selecciona un procedimiento concreto  del resultado de la bú squeda ( Ilustración: 
+Acceso a una licitación concreta desde la búsqueda de licitaciones ). Aquellos que 
+vengan precedidos por el símbolo @ representan procedimientos electrónicos. 
+Ilustración: Acceso a una licitación concreta desde la búsqueda de licitaciones 
+3. Una vez en el detalle  del procedimiento, se ha de añadir éste a “Mis Licitaciones”, 
+pulsando el enlace Añadir esta Licitación a Mis Licitaciones  (Ilustración: Añadir 
+licitación a Mis Licitaciones I e Ilustración: Añadir licitación a Mis Licitaciones II).  
+NOTA: Mis Licitaciones constituye el conjunto de procedimientos de contratación que 
+resultan del interés para un licitador. El usuario de empresa recibe avisos de correo 
+
+
+--- página 30 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 30 de 110 
+electrónico cuando se produce una actualización en las licitaciones de su interés. 
+Puede consultar la “Guía del Operador Económico” para más información. 
+NOTA: en la mayoría de los casos los avis os son mensajes de correo electrónico. 
+Puesto que este medio no es fehaciente, le recomendamos que, al menos en los 
+procedimientos en los que esté licitando electrónicamente o tenga la intención de 
+hacerlo, consulte de vez en cuando la PLACSP por si existiera algún cambio que pueda 
+afectar a la presentación de su oferta. También, debe consultar con su departamento 
+informático en el caso de no recibir los avisos. Es muy probable que exista algún 
+elemento de seguridad en su red de comunicaciones que esté bloqueando la entrada 
+de correos electrónicos procedentes de PLACSP.  
+NOTA: la opción de añadir una licitación a Mis Licitaciones sólo está disponible para 
+usuarios registrados. No encontrará esta opción si consulta la Plataforma como usuario 
+anónimo.  
+Ilustración: Añadir licitación a Mis Licitaciones I 
+Ilustración: Añadir licitación a Mis Licitaciones II 
+4. Una vez añadida, navegue a Mis Licitaciones, seleccione la licitación (Ilustración: 
+Acceso al detalle de la licitación desde Mis Licitaciones), y una vez dentro del detalle 
+de la licitación, pulse el enlace “Preparar oferta/solicitud de participación” (Ilustración: 
+Acceso a la herramienta desde enlace Preparar oferta/solicitud de participación en Mis 
+Licitaciones) 
+
+
+--- página 31 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 31 de 110 
+ 
+Ilustración: Acceso al detalle de la licitación desde Mis Licitaciones 
+ 
+Ilustración: Acceso a la herramienta desde enlace Prepara r oferta/solicitud de participación en Mis 
+Licitaciones 
+5. En función del navegador y la configuración se pueden dar dos casos: 
+ No arranca automáticamente la herramienta y se tendrán que seguir los pasos 
+siguientes: 
+o Elegir el lugar de descarga 
+ 
+ 
+   Ilustración: Guardar herramienta 
+ 
+
+
+--- página 32 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 32 de 110 
+o Tras ello abrirlo 
+ 
+ 
+   Ilustración: Abrir herramienta 
+ 
+o Aparece una advertencia de seguridad donde hay que aceptar los 
+riesgos y ejecutar 
+ 
+Ilustración: Advertencia de seguridad 
+ 
+o Tras esto ya arranca la herramienta en el equipo local ( Ilustración: 
+Portada de la herramienta) 
+ 
+ Automáticamente, se arranca la H erramienta en el equipo local (Ilustración: 
+Portada de la herramienta) para la preparación de su oferta. Lo primero que se 
+muestra es una portada en la que encontrará datos básicos del procedimiento 
+al que licita y unas alternativas que se explicarán más adelante y que pueden 
+estar habilitadas o no en función del estado de su oferta. 
+
+
+--- página 33 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 33 de 110 
+ 
+Ilustración: Portada de la herramienta 
+ 
+NOTA: le recordamos que, durante la fase de preparación de oferta, es decir desde que carga 
+la Herramienta hasta que pulsa el botón enviar para la remisión de su oferta ESTÁ 
+TRABAJANDO EXCLUSIVAMENTE EN LOCAL Y NO ESTÁ CONECTADO A LA PLACSP.  
+ 
+1.3.2 Procedimientos CON invitación 
+Si el procedimiento nace con una  invitación a presentar oferta  al candidato (no se publica 
+convocatoria de licitación ni pliegos) , como ocurre en procedimientos basados en Acuerdo 
+Marco, negociado sin publicidad, y contratos menores, el acceso a la Herramienta consta de 
+los siguientes pasos: 
+1. El licitador recibe un correo electrónico en la dirección a efectos de comunicaciones 
+en el que se le indica que ha recibido una invitación a present ar oferta (Ilustración: 
+Correo con acceso al contenido de la comunicación).  
+2. Para acceder al contenido de la comunicación y visualizar los pliegos, puede optar por: 
+a. Visualizar el contenido de la comunicación directamente en el enlace que se 
+presenta en el propio correo (Ilustración: Correo con acceso al contenido de la 
+comunicación). 
+
+
+--- página 34 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 34 de 110 
+ 
+Ilustración: Correo con acceso al contenido de la comunicación 
+b. Si no accede al contenido de la comunicación  directamente desde el propio 
+correo, puede hacerlo desde Mis Comunicaciones, localizando la invitación 
+(Ilustración: Acceso a la herramienta desde Mis Comunicaciones ) y pulsando 
+el enlace Acceso. 
+ 
+Ilustración: Acceso a la herramienta desde Mis Comunicaciones 
+ En este caso, para acceder al contenido de la comunicación, se exige la posesión de 
+ un certificado electrónico reconocido.  
+ Una vez se accede a Ver documento PDF (Ilustración: Descarga del contenido de la 
+comunicación y el sello de tiempo), el sistema presenta la comunicación, en la que podrá 
+conocer los detalles del procedimiento y descargarse los pliegos y cualquiera otra 
+documentación complementaria en los enlaces al efecto. 
+
+
+--- página 35 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 35 de 110 
+ 
+Ilustración: Descarga del contenido de la comunicación y el sello de tiempo 
+3. Después de haber  accedido a la comunicación , por cualquiera de los dos medios 
+descritos, se activa el enlace Responder de Mis Comunicaciones, que habilita la 
+descarga de la Herramienta de Preparación y Presentación de ofertas, de la misma 
+forma que para los procedimientos sin invitación  ver punto 5 del apartado 1.3.1. 
+Procedimiento sin invitación.  
+NOTA: El operador económico puede encontrar, en lugar del enlace Responder, el valor Sin 
+Respuesta. Ello significa que, o bien se trata de un procedimiento no electrónico (y, por tanto, 
+no se permite la habilitación de la Herramienta), o bien se trata de una comunicación que no 
+precisa respuesta por el licitador. 
+ 
+Ilustración: Portada de la Herramienta correspondiente a una Invitación a presentar Oferta 
+ 
+1.3.3 Procedimiento para concurso de proyectos restringido. 
+En la primera fase se comporta como un procedimiento SIN invitación , ver apartado 1.3.1 
+Procedimiento SIN invitación . En esta primera fase solo se incluirá el sobre 
+administrativo/solicitud de participación. 
+El licitador rellenará sus datos reales de empresa tales como NIF, razón social,  etc. ya que 
+esta fase no es anónima. 
+En la segunda fase como respuesta a una invitación se procede inicialmente como en un 
+procedimiento CON invitación, ver apartado 1.3.2 Procedimiento CON invitación.  
+A partir de este momento el concurso se convierte en anónimo por lo que en la opción 2 
+Licitador presentará un LEMA para identificar la propuesta. No deberá coincidir con su nombre 
+INFORMACIÓN BÁSICA 
+ALTERNATIVAS DE TRABAJO 
+
+--- página 36 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 36 de 110 
+real ni, en su caso, con el de ningún miembro del equipo o denominación social de la persona 
+jurídica participante. El LEMA identificará los trabajos.   
+ 
+Ilustración: El licitador se identifica a través de un lema. 
+Las comunicaciones se realizarán a la dirección de correo electrónico para concurso de 
+proyectos.  
+ 
+Ilustración: Dirección de correo electrónico a efectos de comunicación. 
+Los documentos no se firman para mantener el anonimato.  
+El justificante de presentación también cambia pues no muestra la información del licitador 
+sino el lema que se ha introducido previamente. 
+ 
+ 
+
+
+--- página 37 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 37 de 110 
+ 
+Ilustración: Justificante de una oferta inicial de un concurso de proyectos restringido 
+ 
+En la siguiente fase, la invitación a presentar el proyecto final, el proceso es prácticamente el 
+mismo que en la fase anterior, pero en este caso hay un sobre adminis trativo – de 
+identificación en el que se anexara un documento de identificación. Este sobre s í se firma, 
+porque cuando se abra, se conocerá la identidad del licitador. 
+ 
+Ilustración: Documento de identificación de la empresa. 
+NOTA IMPORTANTE: Si usted participa como UTE en el concurso de proyectos, no lo refleje 
+en su oferta (pestaña 02-Licitador) ya que en ese caso podría ser desvelada su identidad. 
+ 
+1.3.4 Procedimiento para concurso de proyectos abierto 
+En la información del licitador desde el principio es necesario incluir el LEMA, que no deberá 
+coincidir con su nombre real ni, en su caso, con el de ningún miembro del equipo o 
+denominación social de la persona jurídica participante. El LEMA identificará los trabajos.   
+
+
+--- página 38 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 38 de 110 
+ 
+Ilustración: El licitador se identifica con su identidad real y un lema. 
+Las comunicaciones se realizarán a la dirección de correo electrónico para concurso de 
+proyectos.  
+ 
+Ilustración: Dirección de correo electrónico a efectos de comunicación. 
+Los documentos no se firman para mantener el anoni mato. Desde el principio este 
+procedimiento es anónimo, hasta la apertura de los sobres administrativos al final del proceso 
+de evaluación. 
+
+
+--- página 39 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 39 de 110 
+ 
+Ilustración: Panel de firmas vacío. 
+Tampoco se firman los sobres. 
+ 
+Ilustración: Sobres sin firmar. 
+En el justificante de presentación en pantalla aparecen los datos de la empresa y los sobres 
+sin firmar. 
+
+
+--- página 40 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 40 de 110 
+ 
+Ilustración: Justificante de presentación de un concurso de proyectos abierto. 
+En el justificante de presentación que se descarga el licitador en formato p df aparece 
+el lema, ya que la identidad del licitador es anónima  a partir de este momento y hasta 
+que no se abra el último sobre (sobre administrativo).  
+
+
+--- página 41 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 41 de 110 
+ 
+ 
+NOTA IMPORTANTE: Si usted participa como UTE en el concurso de proyectos, no lo refleje 
+en su oferta (pestaña 02-Licitador) ya que en ese caso podría ser desvelada su identidad. 
+ 
+1.3.5 Problemas al intentar descargar la Herramienta 
+Cuando la herramienta arranca, se pueden obtener determinadas advertencias o mensajes 
+que pueden confundir al usuario. 
+A continuación, se muestran un conjunto de ellas: 
+ 
+Ilustración: Java no está instalado o no es la versión correcta 
+SOLUCIÓN: instalar la versión correcta de Java o activarla, si ya se encontrara instalada. De 
+momento, la 1.8. Si tiene alguna duda o no puede administrar/instalar programas en su equipo, 
+póngase en contacto con el Departamento Informático de su empresa. 
+
+
+--- página 42 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 42 de 110 
+ 
+Ilustración: Advertencia de seguridad 
+SOLUCIÓN: pulse el botón Continuar. 
+Si tienen problemas a la hora de descargar la herramienta, pulsando el enlace para su acceso, 
+es posible que se deba a que no tenga asociado el archivo “jnlp” con la consola de java. Para 
+solventar esta incidencia será necesario modificar la asociación desde el panel de control de 
+su equipo, como se indica en el punto 2.2.2. 
+También, e xisten determinadas actualizaciones automáticas de Java que, de forma 
+transparente para el usuario, efectúan modificaciones en la configuración de su equipo local 
+que pueden impedir la ejecución de la Herramienta de Preparación de ofertas. 
+Si cuando pulsa el enlace Preparar oferta/solicitud de participación en Mis Licitaciones o 
+el enlace Responder en Mis Comunicaciones obtiene los siguientes mensajes: 
+ 
+Ilustración: Más información 
+ 
+
+
+--- página 43 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 43 de 110 
+  
+Ilustración: Error de aplicación 
+Le recomendamos que navegue a la Consola de java y modifique las siguientes opciones de 
+configuración. 
+ 
+Ilustración: Panel de control de java 
+También compruebe que las opciones de TLS están marcadas. 
+
+
+--- página 44 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 44 de 110 
+ 
+Ilustración: Advertencia de seguridad 
+NOTA: si continúa obteniendo el mismo mensaje le recomendamos que revise los requisitos 
+técnicos que se han descrito al inicio o, en su defecto, contacte con 
+licitacionE@hacienda.gob.es 
+ 
+Apertura jnlp en MacOS: 
+Al ejecutar el fichero jnlp de la herramienta de preparación y presentación de ofertas nos 
+podemos encontrar el siguiente error. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- página 45 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 45 de 110 
+Para poder abrir la herramienta de presentación de ofertar debemos indicar a MAC que abra 
+igualmente la aplicación, para ello vamos a “Ajustes del Sistema” -> “Privacidad y Seguridad” 
+y en “Seguridad” deberemos indicar que abra igualmente la aplicación que no se está 
+abriendo. 
+ 
+ 
+Para más información, consultar el siguiente enlace: https://support.apple.com/es-
+es/HT202491  
+ 
+1.4 Descripción de la Herramienta 
+La Herramienta se genera por cada licitación y fase del procedimiento, por tanto, la 
+documentación requerida varía en función del expediente, pero también de la fase (no pedirá 
+aportar la misma información en una subsanación que en la invitación a presentar oferta). 
+Sin embargo, la organización de la información y las acciones  que se pueden realizar se 
+ubican en la misma posición y cumplen la misma funcionalidad. Por lo tanto, una vez que se 
+familiarice con la Herramienta, le servirá para presentar cualquier documentación en el marco 
+de un procedimiento electrónico en la Plataforma de Contratación del Sector Público. 
+La Herramienta consta de una portada ( Ilustración: Portada de la Herramienta 
+correspondiente a una Invitación a presentar Oferta) en la que se presenta: 
+ Información básica de la licitación: 
+o Expediente. 
+o Órgano de Contratación. 
+o Tipo de contrato. 
+o Procedimiento. 
+o Fecha (límite) de presentación. 
+
+
+--- página 46 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 46 de 110 
+o Tipo (i nvitación a preparar oferta, su bsanación, requerimiento de 
+documentación, etc.). 
+o Objeto del contrato. 
+ 
+Ilustración: Información básica 
+ 
+ Alternativas de trabajo: 
+o Crear nueva oferta/solicitud de participación/subsanación – importar oferta. 
+o Continuar la preparación de una oferta/solicitud de participación/subsanación 
+La primera vez que descarga la Herramienta en el equipo, sólo es posible la creación de una 
+nueva oferta /solicitud de participación/subsanación o importar la ofe rta/documentación que 
+se haya confeccionado en otro equipo. 
+La opción de “Continuar” se habilita siempre que se haya descargado la Herramienta al menos 
+una vez en el mismo equipo. Seleccione esta opción cuando quiera continuar la confección 
+de la oferta, p reservando lo realizado hasta el momento. Si desea eliminar lo ya realizado, 
+deberá seleccionar “Crear”. 
+NOTA: la Herramienta se descarga en local, por lo tanto, sólo tendrá en cuenta lo que usted 
+haya realizado en ese equipo. Por ejemplo, si ha trabajado en el equipo 1 y, posteriormente, 
+descarga la Herramienta en el equipo 2, para continuar confeccionando la ofer ta tendrá que 
+haber exportado la oferta en el equipo 1, guardarla en un dispositivo (p.ej. memoria USB, …) 
+e importarla en el equipo 2. Si no desea preservar lo hasta ahora realizado, basta con 
+seleccionar “Crear” y no proceder a la importación en el equipo 2. 
+Se selecciona la opción que se requiera y se pulsa “Aceptar”. La aplicación automáticamente 
+redirigirá a la Ilustración: Aspecto del interior de la Herramienta. 
+
+
+--- página 47 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 47 de 110 
+ 
+Ilustración: Aspecto del interior de la Herramienta 
+El interior de la herramienta de preparación y presentación de ofertas consta de las siguientes 
+áreas: 
+ Verticalmente a la izquierda  se encuentran las Categorías. Cada una de ellas se 
+refiere a un bloque de información que se recupera, pero que también es preciso 
+registrar, dependiendo de los casos: 
+1. Datos de licitación: datos básicos del expediente. 
+2. Datos del licitador : muestra información de la empresa. Es preciso 
+registrar el apoderado o apoderados. 
+3. Autorizaciones: para facilitar o denegar la autorización al órgano 
+competente para que con sulte los datos que obran en poder de 
+terceros. 
+4. Lotes: sólo si hay división del objeto del contrato. 
+5. Sobres: muestra el contenido de los sobres y lo que es preciso aportar. 
+Se ordena alfabéticamente por el identificador del sob re que haya 
+especificado el órgano de contratación. Desde esta categoría se habilita 
+la firma de documentos. 
+ Horizontalmente se muestran acciones e información básica  (igual que en la 
+Portada). Las Acciones (se refieren a ejecución de funciones) se muestran en la parte 
+superior de forma horizontal: 
+ Ocultar menú: para que las categorías dejen de ser visibles. 
+ Importar propuesta: se recupera en local una preparación que se ha 
+hecho en otro equipo. Se utiliza, sobre todo, para presentación de 
+
+
+--- página 48 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 48 de 110 
+ofertas en UTE  o para continuar la confección  de la oferta en otro 
+equipo. 
+ Exportar propuesta: se guarda en local una copia de la preparación que 
+podrá luego importarse en otro equipo. Esencial para la preparación de 
+ofertas en UTE.  Este botón no sirve para generar una propuesta 
+económica. 
+ Validar: e sta acción permite comprobar si falta algún paso en la 
+presentación necesario para el envío de la oferta (por ejemplo, un 
+requisito sin acreditar o un documento sin firmar). 
+ Preparar Envío: habilita la posibilidad de presentar la documentación. A 
+su vez, e stá c onformada por varias acciones que se verán más 
+adelante. 
+ Leyenda: muestra lo que significan los diferentes colores en cada 
+opción 
+ 
+Ilustración: Leyenda 
+ 
+En la barra inferior aparece información importa nte para la presentación de la oferta. 
+Empezando por la izquierda, vemos el directorio de trabajo o  dirección del equipo local del 
+licitador donde se está guardando el fichero electrónico correspondiente a la oferta que está 
+preparando, a continuación, el tamaño total de la oferta y finalmente hay dos botones.  
+El primer botón tiene por título “Mostrar información del sistema” y muestra  la información 
+relativa al equipo que se está usando: sistema operativo, versión de Java, memoria disponible 
+de la máquina virtual, entre otros (Ilustración: Mostrar información del sistema). 
+
+
+--- página 49 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 49 de 110 
+ 
+Ilustración: Mostrar información del sistema 
+El segundo botón se llama “Mostrar tamaños de la oferta” y al pulsarlo muestra el tamaño total 
+de la oferta que se está preparando y desglosado por sobres (Ilustración: Mostrar tamaño de 
+la oferta). 
+ 
+Ilustración: Mostrar tamaño de la oferta 
+La información que aparece en ambas pantallas se puede exportar mediante el botón 
+“Exportar información” de manera que sea más sencillo poder comunicarla, si fuese necesario, 
+al equipo técnico de la PLACSP. 
+
+
+--- página 50 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 50 de 110 
+El usuario no tiene por qué realizar la preparación de la oferta de forma ininterrumpida. De 
+hecho, se presume que completará la oferta, en la mayoría de los casos, de forma discontinua. 
+Si la oferta ya se ha iniciado, la portada de la herramienta sugiere al licitador la continuación 
+de la misma, como una de las alternativas de trabajo posibles. 
+NOTA: en el caso en que la preparación de la oferta se continúe en otro equipo, deberá 
+exportar la oferta del primer equipo  a un dispositivo de almacenamiento e importarla en el 
+segundo equipo. Para preservar lo importado, seleccione siempre la opción de Crear nueva 
+oferta/solicitud de participación – Importar oferta  en el equipo donde vaya a realizar  la 
+preparación. 
+Cuando el órgano de contratación realiza una rectificación de la convocatoria de licitación y 
+los pliegos, se pueden producir dos circunstancias: 
+ Si el licitador no ha iniciado aún la preparación de la oferta, no hay ningún impacto. 
+ Si el licitador ha iniciado la preparación de la oferta, pero todavía no la ha enviado, ha 
+cerrado la herramienta y antes de que vuelva a abrir la herramienta, el Órgano de 
+Contratación ha realizado alguna modificación, al volver a abrir la herramienta se habrá 
+perdido la información introducida previamente. Por ello , recomendamos 
+encarecidamente a los licitadores que guarden toda la documentación necesaria para 
+presentar la oferta en el mismo ordenador que se utilice para preparar la oferta, para 
+en el caso de q ue suceda la casuística explicada previamente, puedan entrar y 
+presentar la oferta de forma satisfactoria. 
+ 
+ADVERTENCIA: la Herramienta de preparación y presentación no estará disponible una 
+vez alcanzada la fecha (y hora) final de presentación de ofertas. Transcurrida esta fecha, 
+podrá visualizar lo presentado o preparar documentación  correspondiente a otra fase  (por 
+ejemplo, subsanaciones o requerimientos de documentación) . Se aconseja al usuario que 
+no dilate la descarga de la Herramienta para las últimas horas del proceso. Pueden 
+presentarse problemas técnicos no necesariamente relacionados con el funcionamiento de la 
+misma o con la confección de la oferta, por ejemplo, la imposibilidad de descarga de la 
+Herramienta por la configuración restrictiva de los cortafuegos de las instalaciones del usuario 
+empresa. 
+ADVERTENCIA LICITACIONES CANARIAS: la hora que figura en el campo fecha final de 
+presentación de ofertas de la Herramienta siempre se refiere al horario peninsular. Si ust ed 
+detecta diferencias entre lo que figura en el pliego de condiciones para licitar y la Herramienta, 
+debe contactar con el órgano de contratación. 
+ 
+2. Preparación de ofertas 
+2.1 Descripción General 
+Como ya se ha advertido, la Herramienta se genera por cada licitación y fase. Es decir, el 
+contenido de la Herramienta d iferirá en cada procedimiento o  incluso fase del mismo. Sin 
+embargo, la forma de preparar la documentación/ ofertas es similar en todo caso.  Por lo que 
+lo explicado a continuación aplica a la preparación de cualquier tipo de respuesta, en el marco 
+de un procedimiento de contratación, dirigida al organismo competente por el licitador (ofertas, 
+subsanaciones o requerimientos de documentación). 
+
+--- página 51 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 51 de 110 
+En general, la preparación de la documentación mediante la Herramienta supone la 
+acreditación por el licitador de todo aquello que solicita el organismo, ya sea la introducción 
+de un texto o valor, la autorización para consultar sus datos en sistemas terceros o el anexo 
+y firma de documentos. 
+En particular, l a preparación de la oferta consiste  en el proceso de acreditar todos los 
+requisitos previos de participación exigidos, así como informar la oferta económica, y técnica 
+si la hubiere, en la Herramienta. 
+Una de las ventajas de la Herramienta en lo que respecta a la confección de la oferta es que 
+es posible desligar el usuario que prepara la oferta (comercial), del que la firma (apoderado), 
+e, incluso, del que la envía (mensajero). Todo ello gracias a funcionalidades que se explicarán 
+más adelante. 
+En esta guía s e ilustrará el procedimiento fun damentalmente para la preparación de ofertas 
+que incluyan tres sobres (documentación administrativa, sobre de criterios sometidos a juicio 
+de valor, sobre de criterios evaluables mediante fórmula). Sin embargo, la casuística en cuanto 
+a sobres y formas de acreditación es múltiple. 
+NOTA: el licitador encontrará en la Herramienta indicación de todo aquello que tiene que 
+acreditar y cómo (formato, firma, en qué sobre). Todo aquello que no figure en la Herramienta 
+no debe ser aportado. Por ejemplo, si el órgano de contratación no ha definido un sobre 
+técnico, el licitador no deberá anexar oferta técnica. 
+Este proceso  conlleva, asimi smo, la firma de aq uellas evidencias documentales en que 
+aquélla sea requisito imprescindible.  
+Por lo general, se tiene que registrar información (o realizar acciones) en tres categorías 
+(Ilustración: Categorías de la herramienta) o cuatro en el caso de que haya lotes: 
+ 02-Licitador: se introduce el nombre, apellidos y NIF del apoderado, así como la 
+naturaleza del poder. También, puede modificar la información de su empresa si existe 
+alguna errata o indicar que la oferta se presentará como UTE. 
+ 03-Autorizaciones: se otorga o deniega la autorización para consulta de sus datos 
+que obran en sistemas terceros. 
+ 04-Ofertar a lotes : se selecciona el lote o lotes que contendrá  la oferta . La 
+Herramienta tendrá en cuenta si es preciso ofertas a todos los lotes o sólo a uno o 
+varios lotes. 
+ 05-Sobres: el licitador debe  anexar los documentos y especificar los valores en 
+aquellos criterios/requisitos en que se exija la introducción de un texto. También, 
+deberá firmar los documentos.  
+
+--- página 52 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 52 de 110 
+ 
+Ilustración: Categorías de la herramienta 
+ 
+ 
+ 
+2.2 Categoría Licitador 
+A esta categoría se accede pulsando en el menú lateral la categoría 02-Licitador. La pantalla 
+que se abre por defecto es la de la Ilustración: Categoría licitador.  
+ 
+Ilustración: Categoría licitador 
+
+
+--- página 53 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 53 de 110 
+En la parte superior se muestra información relativa a la empresa, en concreto: 
+ Tipo de Empresa 
+ Nombre de Empresa 
+ Nº Identificación 
+ Calle 
+ CP 
+ Población 
+ País 
+ NUTS 
+ Nacionalidad propietario 
+ Email publicidad 
+ Teléfono publicidad 
+ PYME 
+ Persona física 
+Para el primer campo, la Herramienta toma por defecto el valor Empresa. Como veremos más 
+adelante, se deberá modificar a UTE cuando la oferta se presente de esta manera. 
+En lo que se refiere a los siguientes campos, los valores se heredan del perfil delusuario que 
+ha descargado la Herramienta  para preparar la oferta o de la información que el organismo 
+competente ha introducido para enviar la invitación a presentar oferta. 
+Obligatoriamente habrá que rellenar si la empresa es una PYME o no y si es Persona Física 
+o no, así como tipo de empresa, nombre de empresa y nº de identificación. 
+Esa información se  puede modificar. Por ejemplo, el organismo competente introduce de 
+forma incorrecta el nombre de la empresa en la invitación a licitar. El usuario licitador podrá 
+modificar los datos en la Herramienta, registrando el nombre correcto de la empresa. 
+En dicha pantalla (Ilustración: Categoría licitador – Registro de la información del apoderado), 
+si se pulsa el botón “ Nuevo” se accede al formulario para dar de alta a los apoderados.  Es 
+obligatorio con signar algún apoderado.  Una vez se accede a la pantalla, se rellena la 
+información solicitada sobre el apoderado y se añade a la tabla.  
+
+--- página 54 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 54 de 110 
+ 
+Ilustración: Categoría licitador – Registro de la información del apoderado 
+Si fuera necesario, se ha de repetir la acción descrita en este apartado tantas veces como 
+apoderados sea preciso registrar.  
+Una vez finalizado y antes de seleccionar otra categoría del menú lateral se ha de pulsar 
+“guardar”. 
+Si el licitador no tenía todos los datos necesarios en el perfil y por tanto no han podido heredar 
+se y los ha introducido desde la herramienta le mostrara el siguiente mensaje al pulsar el botón 
+“guardar”  
+
+
+--- página 55 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 55 de 110 
+ 
+Ilustración: Categoría licitador – Mensaje cambio datos 
+NOTA: si el licitador no es una persona jurídica, sino que es un autónomo, por ejemplo, 
+registre su nombre en la información del apoderado. Puede escoger cualquiera de los valores 
+de tipo de apoderado, considerando que este valor es sólo a efectos informativos. 
+En el supuesto de ser una unión temporal de empresas (UTE), se ha de seleccionar en el 
+campo tipo de empresa  la opción “UTE” tal y como se muestra en la Ilustración: Categoría 
+licitador – selección UTE 
+ 
+ 
+Ilustración: Categoría licitador – selección UTE 
+Una vez seleccionada dicha opción, además de detallar los apoderados que van a firmar la 
+oferta, se muestra una sección adicional en la que se debe incluir las empresas integrantes 
+de la UTE.  Para ello, tal y como se muestra en la Ilustración: Categoría li citador – alta 
+miembros UTE, se ha de pulsar, dentro del área inferior de la pantalla, el botón nuevo. 
+
+
+--- página 56 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 56 de 110 
+ 
+ 
+Ilustración: Categoría licitador – alta miembros UTE 
+La herramienta, mues tra el formulario de la Ilustración: Categoría licitador – formulario alta 
+empresa UTE, donde se introducen los datos relativos a la empresa que forma parte de la 
+UTE y del representante de la misma. 
+Cada empresa componente  de la UTE deberá incluir el correo electrónico a efectos de 
+comunicaciones de su usuario registrado en PLACSP para que pueda recibir las 
+comunicaciones que el OC les envíe. 
+  
+Ilustración: Categoría licitador – formulario alta empresa UTE 
+NOTA: NO introduzca valores con decimales para el campo “ % de Participación”. 
+Cumplimente siempre números enteros. 
+Una vez introducida la información requerida se muestran los datos como la pantalla de la 
+Ilustración: Categoría licitador – visión final.  
+
+
+--- página 57 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 57 de 110 
+Cuando hayan finalizado de rellenar los datos deben pulsar el botón Guardar antes de cambiar 
+a otro apartado. 
+ 
+Ilustración: Categoría licitador – visión final 
+ 
+2.3 Categoría Autorizaciones 
+A la categoría Autorizaciones se accede a través del menú lateral de ca tegorías. El sistema 
+muestra una pantalla como la de la Ilustración: Categoría Autorizaciones. En dicha pantalla 
+se ha de seleccionar qué ti po de autorizaciones se permite  tanto en relación al uso de 
+comunicaciones electrónicas como en el acceso a sistemas terceros de la administración. 
+NOTA: la autorización o denegación para consultar los datos que obran en poder de terceros 
+se realiza en el marco de un procedimiento concreto de contratación y a lo largo del tiempo 
+que se extiende dicho procedimiento.  
+
+
+--- página 58 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 58 de 110 
+ 
+Ilustración: Categoría Autorizaciones 
+Antes de seleccionar otra categoría o acción se ha de guardar las modificaciones pulsando el 
+botón “guardar”. 
+NOTA: En el caso de que se presente oferta a un concurso de proyectos, se deberá rellenar el correo 
+electrónico a efectos de comunicaciones para concurso de proyectos y en este caso dicha dirección no 
+deber identificar a su empresa ya que los concursantes son anónimos. Tendrá que hacer referencia a 
+su lema 
+2.4 Categoría Lotes 
+En esta categoría se deseleccionan los lotes a los que no se va a licitar (Ilustración: Categoría 
+lotes – Selección de los lotes a los que licitará ), por defecto aparecen todos seleccionados . 
+Teniendo en cuenta que el Órgano de Contratación puede establecer una serie de reglas: 
+ Licitación obligatoria a todos los lotes 
+ Licitación obligatoria a un solo lote 
+ Licitación a uno o varios lotes 
+ Utilización de ofertas integradoras 
+La aplicación restringirá las posibles selecciones que el operador económico pueda llevar a 
+cabo. 
+Una vez seleccionado el conjunto de lotes, debe pulsar el botón Guardar. 
+
+
+--- página 59 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 59 de 110 
+ 
+Ilustración: Categoría lotes – Selección de los lotes a los que licitará 
+2.5 Categoría Sobres 
+Esta categoría permite incluir la documentación que se solicita en cada sobre y  realizar la 
+firma de los documentos. Cuando se selecciona en el menú lateral la categoría, tal y como se 
+aprecia en la Ilustración: Categoría Sobres – Contenido y opción de firma de documentos, los 
+sobres se ordena n alfabéticamente en función de la denominación que haya otorgado el 
+órgano de contratación en la definición de los mismos.  
+ 
+Ilustración: Categoría Sobres – Contenido y opción de firma de documentos 
+Si la licitación consta de lotes, se tiene que cumplimentar la información requerida para cada 
+lote en los distintos sobres (Ilustración: Categoría lotes). 
+ 
+Ilustración: Categoría lotes 
+
+
+--- página 60 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 60 de 110 
+Si la licitación consta, además, de ofertas integradoras, se tendrá que cumplimentar la 
+documentación requerida para las mismas en los sobres  (Ilustración: Categoría lotes con 
+oferta integradora). 
+ 
+Ilustración: Categoría lotes con oferta integradora 
+Los sobres de tipo documentación general o sobres administrativos, presentan dos vistas: 
+ Vista do cumentos (Ilustración: Categoría lotes con oferta integradora ): informa al 
+licitador qué documentos debe presentar. 
+ 
+Ilustración: Vista documentos: ¿qué tengo que presentar? 
+ Vista requisitos (Ilustración: Vista requisitos – ¿qué condiciones he de cumplir y cómo 
+debo acreditarlas?): para que el candidato sepa qué requisitos debe cumplir. Esta vista 
+incluye, no sólo la acreditación mediante documentos, también la que se refiere a 
+introducir un valor o texto o la autorización para consulta de sistemas terceros. 
+
+
+--- página 61 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 61 de 110 
+ 
+Ilustración: Vista requisitos – ¿qué condiciones he de cumplir y cómo debo acreditarlas? 
+ 
+Ilustración: Plantilla y enlace al anexo de documentos 
+El sistema , tal y como se puede ver en la Ilustración: Plantilla y enlace al anexo de 
+documentos, permite que el licitador descargue plantillas/programas facilitados por el órgano 
+de contratación para la elaboración de documentos u ofertas.  
+NOTA: pulsando el enlace Plantilla, puede descargarse la misma en local y confeccionarla de 
+acuerdo a lo establecido por el órgano competente. Recuerde que estas plantillas suelen tener 
+correspondencia con los anexos que figuran en las últimas páginas de los pliegos. 
+NOTA: si visualiza algún error en la plantilla, debe contactar con el órgano de contratación. 
+Para el anexo del documento (ya sea a partir de la plantilla o libre), se profundiza en el enlace 
+de la Ilustración: Plantilla y enlace al anexo de documentos, mostrándose la siguiente 
+pantalla (Ilustración: Anexo de documentos). 
+
+
+--- página 62 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 62 de 110 
+ 
+Ilustración: Anexo de documentos 
+ 
+Se muestra en la  parte superior el conjunto de requisitos que se acreditan mediante el 
+documento concreto. Pulsando el botón “Anexar Documento” se habilita el explorador para 
+seleccionar el documento que hay que  adjuntar (Ilustración: Selección del documento para 
+anexar).  
+ 
+Ilustración: Selección del documento para anexar 
+NOTA: Además, de los documentos que se solicitan por parte del órgano de contratación, el 
+licitador podrá anexar todos aquellos documentos que considere que debe presentar. La 
+forma de realizarlo es la misma que para los documentos solicitados por el órgano de 
+contratación desde la pantalla en la que se anexan dichos documentos utilizando el botón 
+“Anexar documento”. 
+NOTA: El licitador podrá anexar documentos previamente firmados mediante la aplicación 
+Autofirma de manera que la herramienta  de preparación de ofe rtas reconocerá la/s firma/s 
+incluida/s en el documento. 
+NOTA: En caso de utilizar un MacOS los ficheros deberán estar en una carpeta distinta de 
+Documentos, Descargas o Escritorio y de las carpetas de sus árboles. Se recomienda crear 
+una carpeta específica. 
+El sistema sugiere el formato de los documentos que tiene que subir el licitador, en virtud de 
+lo establecido por el órgano de contratación en la Configuración de la Licitación. 
+
+
+--- página 63 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 63 de 110 
+ 
+Ilustración: Selección del documento para anexar 
+Cuando el licitador sube un documento cuyo formato no coincide con el exigido por el órgano 
+de contratación, el sistema le advierte de esta circunstancia  (Ilustración: Selección del 
+documento para anexar), sin embargo, puede llevar a cabo el anexo , pulsando SI. Una vez 
+realizada la acción, la Herramienta devuelve el mensaje  de la Ilustración: Mensaje de 
+confirmación, confirmando su correcta inserción. Será el órgano responsable de la valoración 
+quien decida si admite o no el documento con una extensión diferente a la solicitada.  
+Si sube un documento firmado previamente mediante Autofirma es posible que su extensión 
+haya variado. Generalmente las nuevas extensiones serán: 
+o .xsig: si el documento firmado mediante Autofirma era un documento en formato XML. 
+o .csig: si el documento firmado mediante Autofirma es una imagen, do cumento 
+realizado con un procesador de textos, una hoja de cálculo u otros formatos 
+ 
+Ilustración: Mensaje de confirmación 
+Si el licitador sube un documento  cuyo formato original no coincide con el que figura en el 
+nombre del archivo, se obtendrá el siguiente mensaje: 
+ 
+Ilustración: Mensaje de verificación de fichero 
+A pesar del mensaje, el archivo se incorpora, pero será el licitador el que pinchando sobre el 
+enlace del fichero recién subido el que compruebe que efectivamente el archivo sea correcto.  
+NOTA: en cualquier caso, si el licitador no tiene en cuenta la advertencia de la Herramienta y 
+decide adjuntar un fichero cuya extensión no se corresponde con la original se arriesga a una 
+posible exclusión por imposibilidad de lectura del documento.  La PLACSP no se 
+responsabiliza de esta acción contraria a lo sugerido en su Herramienta. 
+ 
+Si el tamaño de la oferta supera el tamaño recomendado aparecerá un cuadro de dialogo 
+avisando de este hecho. No impide seguir completando la oferta. 
+
+
+--- página 64 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 64 de 110 
+ 
+Ilustración: Mensaje de tamaño elevado de oferta 
+NOTA: le recomendamos que revise el fichero y que se asegure de no haberlo generado 
+mediante la opción de importar/exportar. 
+Si quien presentara el documento fuera una UTE, se mostraría la pantalla de la Ilustración 
+para el caso de un sobre administrativo en la presentación de oferta: Cargar documento UTE, 
+donde se tiene que especificar si el documento es común de la UTE o es específico de alguna 
+empresa, esta pantalla se muestra una vez seleccionado el documento.  
+ 
+Ilustración: Cargar documento UTE 
+Los documentos comunes para todas las empresas de la UTE deben ser firmados por todas 
+las empresas con su propio certificado. 
+En el caso de “Documento específico de alguna empresa (elija una empresa)”, para cuando 
+se pide un documento que solo una empresa necesita aportar, se le permite que solo ella lo 
+aporte. Dicho documento requerirá únicamente la firma de esa empresa. 
+En el caso de que no se trate de un sobre administrativo en la presentación de oferta, es decir, 
+para la presentación de otros sobres y respuesta a las comunicaciones, si se escoge la 
+
+
+--- página 65 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 65 de 110 
+opción de documento específico, es condición indispensable que TODOS y cada uno 
+de los miembros suba su correspondiente documento, en caso contrario el requisito 
+no se dará por satisfecho y no se podrá enviar la oferta. Si un documento es particular 
+de un miembro, pero el resto de ellos no tiene uno equivalente, se debe subir como 
+documento común para todas las empresas que forman la UTE. 
+Una vez se ha adjuntado el documento/s  se muestra la pantalla de la Ilustración: Selección 
+del documento para su firma. En la columna “Estado”, si el indicador de cada documento está 
+en rojo significa que no está firmado y por tanto no está listo. Se ha de seleccionar el 
+documento correspondiente y pulsar el botón “Firma de documento seleccionado”. 
+Los documentos podrán ser firmados de uno en uno o firmar a la vez todos los documentos 
+incluidos en un mismo sobre. 
+ 
+Ilustración: Selección del documento para su firma 
+Cuando se pulsa ese botón, la Herramienta se prepara para firmar el documento (Ilustración: 
+Firma del documento). 
+
+
+--- página 66 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 66 de 110 
+ 
+Ilustración: Firma del documento 
+ 
+A continuación, se presentan los certificados electrónicos disponibles (ya sean de l almacén 
+de certificados del sistema  como los almacenados en una tarjeta criptográfica) ( Ilustración: 
+Selección del certificado ). Es posible que también aparezcan los certificados raíz del 
+certificado con el que quiere firmar. Deberá elegir aquél que muestre sus datos de firma. 
+ 
+Ilustración: Selección del certificado 
+Si el proceso de firma es correcto se muestr a el mensaje de la Ilustración: Mensaje de 
+confirmación de Firma del documento. 
+ 
+
+
+--- página 67 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 67 de 110 
+Ilustración: Mensaje de confirmación de Firma del documento 
+Una vez realizada la firma, el sistema presenta la identidad del firmante (Ilustración: Identidad 
+del Firmante). Si se pulsa sobre la pestaña “VISTA DOCUMENTOS A FIRMAR” aparecen 
+diferentes enlaces para visualizar los documentos según su formato. ( Ilustración: Vista 
+documentos a firmar).  
+ 
+Ilustración: Identidad del Firmante 
+ 
+Ilustración: Vista documentos a firmar 
+Para volver a la lista de documentos para firmar se ha de pulsar el botón “volver” o en el menú 
+lateral de categorías el enlace de “Firma de documentos” 
+
+
+--- página 68 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 68 de 110 
+ 
+Ilustración: Vista Volver en Firma 
+De nuevo , en la pantalla principal de l sobre de documentación administrativa , se podrá 
+apreciar el estado de los documentos, viéndose en verde aquellos documentos que ya están 
+firmados (Ilustración: Documento firmado). 
+ 
+Ilustración: Documento firmado 
+NOTA: la Herramienta permite la posibilidad de cofirma, esto es, varias firmas de distintos 
+firmantes sobre un mismo documento. Este caso puede darse, por ejemplo, si existen varios 
+apoderados. 
+Si un requisito se ha de acreditar mediante autorización a sistema tercero se accede desde 
+Vista Requisitos (Ilustración: Vista requisitos – ¿qué condiciones he de cumplir y cómo debo 
+acreditarlas?), pulsando el requisito correspondiente (Ilustración: Autorización para consultar 
+sistema tercero: sobre de documentación general) 
+ 
+
+
+--- página 69 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 69 de 110 
+ 
+Ilustración: Autorización para consultar sistema tercero: sobre de documentación general 
+La confección del resto de sobres es muy similar. Por ejemplo, en la Ilustración: Vista sobre 
+económico se muestra el contenido del sobre de criterios evaluables mediante fórmula. Se ha 
+navegado a su contenido pulsando en el menú lateral de categorías el nombre “sobre 2”. De 
+la misma forma que para el anterior, el sistema mostrará las opciones en el panel central. 
+ 
+Ilustración: Vista sobre económico 
+En el caso en que el criterio de adjudicación esté subrayado y sea de color azul significa que 
+se ha de profundizar para registrar un valor. En el ejemplo que se ilustra, se trata del precio 
+de proposición . La herramienta habilita las casillas  para introducir el  importe con y sin 
+impuestos (Ilustración: Registro criterio precio ). Una vez introducido , se pulsa el botón 
+guardar.  
+ 
+
+
+--- página 70 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 70 de 110 
+ 
+Ilustración: Registro criterio precio 
+El sistema realiza controles del precio de la oferta y advierte si éste es superior al presupuesto 
+base de licitación. 
+ 
+Ilustración: Vista sobre económico – Validación importes con y sin impuestos 
+Una vez fijado y guardado el precio, se ha de anexar la oferta económica,  tal y como se 
+muestra en la Ilustración: Vista Anexo oferta económica, habilitándose  el enlace /s para 
+incorporar la documentación. 
+ 
+Ilustración: Vista Anexo oferta económica 
+Se profundiza en el enlace para anexar el documento. El “texto de ayuda al licitador” puede 
+contener instrucciones del órgano de contratación  al candidato ( Ilustración: Anexo oferta 
+económica). 
+
+
+--- página 71 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 71 de 110 
+ 
+Ilustración: Anexo oferta económica 
+Una vez anexado el documento se puede visualiza r el nombre del fichero y el estado del 
+mismo. Como se puede ver en la Ilustración: Aspecto del documento oferta económica antes 
+de su firma, el estado del documento por defecto est á en amarillo. Esto implica que todavía 
+no está listo, ya que requiere su firma. Para ello se ha de pulsar, en el menú lateral, “ Firma 
+de documentos”. 
+NOTA: además de añadirse uno o varios  documentos por entrada, es posible realizar la 
+eliminación de uno o todos ellos, haciendo uso del icono . 
+ 
+Ilustración: Aspecto del documento oferta económica antes de su firma 
+La firma de la oferta económica, al igual que la de cualquier otro documento en la Herramienta, 
+es similar al proceso descrito en las Ilustración: Selección del documento para su firma  a la 
+Ilustración: Documento firmado.  
+Una vez firmado , se muestra el sobre de los criterios evaluables mediante fórmula  con los 
+iconos de validación en color verde (Ilustración: Aspecto del sobre económico después de su 
+firma). 
+
+
+--- página 72 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 72 de 110 
+ 
+Ilustración: Aspecto del sobre económico después de su firma 
+ 
+2.6 Caso especial de lotes 
+En el supuesto de que en la licitación haya lotes se mostrará la Ilustración: Categoría Ofertar 
+a Lotes. 
+ 
+Ilustración: Categoría Ofertar a Lotes 
+El procedimiento es similar al descrito, pero se ha de indicar a qué  lote o lotes se hace 
+presentación. También se ha de tener en cuenta esta información en cada sobre. 
+Recuerde que, además  de registrar información a nivel general, es posible que le exijan la 
+acreditación de documentos o la introducción de algún texto o valor a nivel de lote. Debe, por 
+lo tanto, acceder al icono de carpeta vinculado a cada uno de los lotes a los que licite. 
+NOTA: si está licitando a varios lotes y, aun habiendo seguido todas las indicaciones de esta 
+Guía para reducir el tamaño continúa teniendo dificultades para preparar o enviar su oferta, le 
+recomendamos que contacte con el órgano de contratación y le consulte si es posible remitir 
+su oferta en varios envíos, uno por cada lote o conjunto de ellos, siempre que dichos envíos 
+no contengan lotes repetidos. Si se da este caso, tenga en cuenta dos cosas importantes: que 
+
+
+--- página 73 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 73 de 110 
+presentaciones a lotes distintos no se pueden realizar simultáneamente en el tiempo, es decir, 
+primero se presentará una oferta a un lote y una vez finalizada esa presentación se presentará 
+a otro lote. Además, si se produce una huella electrónica en la presentación de un lote y no 
+se consigue completar, si se produce otra huella electrónica en la presentación de otro lote, 
+ésta sustituirá a la primera. 
+2.7 Caso especial de ofertas integradoras 
+En el supuesto de que en la licitación haya ofertas integradoras se mostrará la Ilustración: 
+Categoría Ofertar a Lotes. 
+ 
+Ilustración: Categoría Ofertar a Lotes 
+Si se selecciona una oferta integradora, se seleccionarán automáticamente sus lotes 
+asociados. En este caso, será obligatorio presentar las ofertas individuales de cada uno de 
+los lotes que conforman la oferta integradora.  
+Además, se añadirá la oferta integradora a los sobres que corresponda, de modo que es 
+posible que le exijan acreditación adicional para la oferta integradora. 
+ 
+2.8 Subsanación de firma. 
+El licitador podrá recibir una comunicación donde se le solicite la subsanación de la firma de 
+los documentos de oferta técnica o de la económica. Esta solicitud de subsanación se deberá 
+a que la validación de la firma ha resultado errónea. 
+ 
+Ilustración: Fragmento comunicación de subsanación de firma 
+
+
+--- página 74 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 74 de 110 
+El licitador podrá acceder a la comunicación de subsanación de firma desde el menú Mis 
+comunicaciones. En el documento de la notificación podrá leer que se le requiere la 
+subsanación de firma (Ilustración: Fragmento comunicación de subsanación de firma).  
+ 
+Ilustración: Detalle de comunicación recibida en el menú Mis Comunicaciones 
+Cuando haya realizado el acceso a la comunicación se habilitará el botón Responder 
+(Ilustración: Detalle de comunicación recibida en el menú Mis Comunicaciones ). Cuando lo 
+pulse, se descargará una herramienta similar a la de preparación de ofertas. No obstante, en 
+este caso en el lateral derecho de la cabecera estará escrito “Respuesta a Comunicación de 
+Subsanación” y la operativa será un poco distinta. 
+ 
+Ilustración: Detalle de la cabecera de la herramienta de Subsanación de Firma 
+ 
+Este caso se diferencia del caso de subsanación del sobre Administrativo en que no se van a 
+poder añadir nuevos documentos corregidos. La herramienta tendrá cargado el documento 
+presentado en la oferta y al que se desea subsanar la firma. Este documento no se podrá 
+eliminar ni modificar (nótese que el botón “Anexar Documento” está inhabilitado y el icono de 
+eliminar no aparece) (Ilustración: Detalle del contenido del sobre en la Subsanación de Firma). 
+La herramienta sólo permitirá la realización de una nueva firma (Ilustración: Detalle del panel 
+de firma del documento en la Subsanación de Firma). 
+ 
+Ilustración: Detalle del contenido del sobre en la Subsanación de Firma 
+
+
+--- página 75 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 75 de 110 
+ 
+Ilustración: Detalle del panel de firma del documento en la Subsanación de Firma 
+Cuando el documento esté nuevamente firmado, deberá dirigirse a la pantalla “Preparar 
+envío”, realizar la firma del sobre y a continuación realizar el envío pulsando el botón “Enviar 
+Documentación”. 
+ 
+2.9 Problemas al intentar firmar 
+2.9.1 Almacén de certificados vacío 
+Si el licitador trata de firmar sin tener un certificado instalado en el navegador, la 
+herramienta no despliega la ventana emergente de selección de certificados. Por favor, 
+realice la importación/instalación del certificado en su navegador. 
+ 
+Si habiendo realizado la operación anterior sigue experimentando problemas a la hora 
+de firmar los documentos, póngase en contacto en licitacionE@hacienda.gob.es. 
+ 
+2.9.2 Error durante la firma electrónica 
+Cuando se firma un documento puede aparecer un error que no permite la realización 
+de la firma (Ilustración: Error al realizar la firma). 
+ 
+Ilustración: Error al realizar la firma 
+Este error es debido a estas posibles circunstancias: 
+
+
+--- página 76 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 76 de 110 
+ Que el certificado elegido sea un certificado con el que no es posible realizar la firma 
+como, por ejemplo, un certificado raíz de la ruta de certificación o un certificado de 
+autenticación. Debe elegir un certificado de firma correcto. 
+ 
+NOTA: Recuerde que puede firmar los documentos mediante la aplicación Autofirma y 
+después incorporarlos a la herramienta de preparación y presentación de oferta ya que 
+reconocerá las firmas incluidas. 
+ 
+ 
+ 
+2.9.3 Error de referencia a la clave privada 
+Este error se refiere a que el certificado elegido no está bien instalado o no posee la parte 
+privada del certificado y por eso no es posible realizar la firma. 
+ 
+Ilustración 1: Error de referencia a la clave privada 
+ 
+Para solucionarlo, puede volver a instalar su certificado. El tipo de certificado que se 
+debe instalar es del tipo Personal Information Exchange que tiene la extensión .p12. 
+ 
+Ilustración 2: Certificado tipo Personal Information Exchange (p12) 
+ 
+2.9.4 Tamaño de la oferta 
+La herramienta ha perdido la limitación de incorporar documentos de hasta 5 Mb. No obstante, 
+es recomendable que estos sean menores de 8Mb debido a que el tamaño máximo aceptado 
+por los servicios de validación de @firma son 8Mb.  
+Puede ocurrir que no se logre completar la firma de algún documento. La Herramienta puede 
+ofrecer algún mensaje de error, quedarse bloqueada o, por el contrario, no realizar ninguna 
+advertencia, pero no mostrar en ningún caso la firma en el panel de firma. Esto puede deberse 
+a que el tamaño total de la oferta sea tal que no quede espacio suficiente en la memoria de la 
+máquina virtual de Java para completar la tarea (ver limitaciones indicadas en el apartado 
+1.2.2.2.) 
+NOTA: Para comprobar la capacidad de memoria de su máquina virtual Java y tener mayor 
+control sobre el tamaño de la oferta, se ha añadido unas funcionalidades a la herramienta, 
+
+
+--- página 77 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 77 de 110 
+que muestran la memoria de la máquina virtual Java disponible y el tamaño que ocupa cada 
+sobre. Vea la sección 1.4  
+En este caso se recomienda vaciar la memoria caché de Java. Para ello hay que acceder al 
+panel de control de Java y, en la pestaña General, hacer clic en el botón Configuración situado 
+en la sección Archivos Temporales de Internet. 
+ 
+Ilustración: Panel de Control de Java  Aparecerá el cuadro de diálogo Configuración de Archivos 
+Temporales. 
+ 
+Ilustración: configuración de archivos temporales 
+Se hace clic en el botón Suprimir Archivos y se muestra el siguiente cuadro de diálogo: 
+
+
+--- página 78 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 78 de 110 
+ 
+Ilustración: suprimir archivos y aplicaciones 
+Al hacer clic en Aceptar se suprimen todas las aplicaciones y applets descargados de la caché. 
+Si se desea suprimir solamente una aplicación o un applet determinado de la caché, se puede 
+hacer desde el botón Ver de la pestaña General. 
+También, se recomienda: 
+ Todos los documentos duplicados, esto es, documentos idénticos subidos más 
+de una vez, pueden ser sustituidos por un documento mínimo indicando dónde 
+se han subido los originales. Le recomendamos que consulte con el órgano de 
+contratación esta posibilidad. 
+ 
+ Documentos escaneados (Escrituras, documentos con firmas manuscritas, 
+etc…): 
+ 
+- Se debe intentar escanear con la resolución mínima posible, pero que se 
+puedan visualizar los documentos adecuadamente.  
+ 
+- Recuerde no incorporar firmas manuscritas salvo casos excepcionales. 
+Tiene a su disposición dispositivos para la firma electrónica. 
+ 
+ Catálogos alojados en Internet: 
+ 
+Si en la licitación se solicitan catálogos que están alojados en Internet, consulte 
+con el órgano de contratación la posibilidad de adjuntar un documento con el 
+enlace al recurso donde se encuentra alojado. 
+ 
+ 
+ Planos: 
+La inclusión de planos eleva potencialmente el tamaño total de archivos para 
+firmar. Consulte con el Órgano de Contratación sobre la posibilidad de proveer 
+otro sistema para el envío de los planos si la subida de los mismos se hace 
+imposible. 
+3. Otras acciones 
+En la parte superior de la Herramienta se disponen un conjunto de acciones que se muestran 
+como botones  (Ilustración: acc iones de la Herramienta ). En este apartado se describirán 
+todas, salvo la de Preparar Envío, que tiene un apartado específico. 
+ 
+
+
+--- página 79 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 79 de 110 
+ 
+Ilustración: acciones de la Herramienta 
+3.1 Acción Validar 
+Una vez que se ha registrado la información requerida, vía introducción de texto o valor o vía 
+subida de documentos, resulta muy útil emplear la acción Validar (Ilustración: Acción Validar). 
+ Mediante esta acción el licitador comprueba, entre otros, si falta algún requisito/criterio 
+por acreditar. 
+ También, se inclu ye en la validación la comprobación de existencia de firma en 
+aquellos documentos en que ésta sea obligada. 
+ 
+Ilustración: Acción Validar 
+En el caso de que todas las categorías hayan sido cumplimentadas correctamente, estarán 
+todas en color verde (Ilustración: Categorías debidamente cumplimentadas ), si no es as í, 
+aparecerán en rojo (Ilustración: Categorías no cumplimentadas ) aquellos para los que sea 
+necesario completar alguna acción (anexar documento o firmarlo, introducir un valor o texto 
+en un requisito o criterio): 
+    
+ Ilustración: Categorías debidamente cumplimentadas 
+        
+ Ilustración: Categorías no cumplimentadas 
+ 
+NOTA: le recordamos que la acción de Validar no se actualiza de manera automática, es 
+decir, si usted ejecuta la acción y a continuación realiza las correcciones, hasta que no vuelva 
+a ejecutar la acción e Validar no verá el efecto de los cambios realizados. 
+ 
+
+
+--- página 80 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 80 de 110 
+3.2 Leyenda 
+Ofrece el significado de los iconos de colores que se muestran junto a requisitos/criterios y 
+documentos de los sobres ( Ilustración: Leyenda con el significado de los colores de los 
+estados) en relación a si se han acreditado debidamente. 
+ 
+Ilustración: Leyenda con el significado de los colores de los estados 
+ 
+3.3 Importar / Exportar propuesta 
+La importación / Exportación de oferta sirve para los siguientes propósitos: 
+ Preparación de la oferta en UTE por los distintos miembros.  
+ Continuar la oferta en otro equipo distinto. 
+ Envío al apoderado de la oferta para que la firme por sus propios medios. Posterior 
+remisión de la oferta ya firmada al preparador (en el caso en que el apoderado decida 
+no efectuar el envío). 
+ 
+EJEMPLO1: el miembro 1 de la UTE confecciona su oferta. La exporta con los documentos 
+firmados. La envía por el correo electrónico  (o por mensajería en soporte electrónico)  al 
+miembro 2, el cual importa la oferta, anexa la documentación propia que le corresponde  
+(ejemplo, certificado individual de clasificación)  y firma aquélla y la común  (por ejemplo, la 
+oferta económica). A continuación, la exporta con los sobres con su propia firma para que el 
+miembro 1 pueda firmarlos también, tras la importación. Por último, el miembro 1  procede al 
+envío. Esta operativa puede sustituirse por la preparación de la oferta en un único equipo, sin 
+embargo, este último caso obliga a que todos los preparadores y apoderados se reúnan para 
+elaborar y firmar en conjunto las propuestas (no se debe “prestar el certificado electrónico”). 
+ 
+En relación a la preparación de la oferta como UTE les recordamos que los ciclos de 
+exportación e importación deben realizarse de forma completa, esto es, el p rimer miembro 
+debe subir todos los documentos comunes, los suyos individuales y proceder a la firma de 
+todos ellos antes de ejecutar la primera exportación. El segundo miembro deberá, una vez  
+
+
+--- página 81 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 81 de 110 
+realizada la primera importación, subir sólo sus documentos individuales y firmar comunes y 
+particulares antes de ejecutar el segundo ciclo de exportación y así sucesivamente. 
+ 
+NOTA: Si experimenta problemas en la preparación de su oferta como UTE, por ejemplo, 
+porque se produce una corrupción del fichero de la oferta que intercambian los diferentes 
+miembros, le rogamos que contacte inmediatamente con licitacionE@hacienda.gob.es 
+ 
+EJEMPLO 2: el comercial de una empresa confecciona la oferta en su totalidad, a falta de la 
+firma del apoderado. Para ello, y puesto que éste se encuentra de viaje y no pueden reunirse 
+físicamente, exporta la propuesta y la remite por correo electrónico al apoderado. Éste se 
+conecta con las credenciales del preparador (si no tiene las propias) y descarga la 
+herramienta. Selecciona la alternativa de trabajo “Importar oferta” en la Portada de la 
+Herramienta. A continuación, pulsar el botón “ Importar Propuesta ”, cargándose la 
+información en la Herramienta. Firma los documentos y sobres y procede al envío. 
+ 
+NOTA: Los documentos pueden ser firmados mediante Autofirma antes de adjuntarlos en la 
+herramienta. La herramienta detectará y mostrará dichas firmas. 
+NOTA: la oferta puede exportarse/importarse tantas veces como se requiera, con firmas 
+incluidas. Lo único que hay que tener en cuenta es no firmar el sobre si falta la firma de un 
+documento incluido en el mismo. Por tanto, lo normal es que se exporte/importe la propuesta 
+con los sobres sin firmar, y sea el que envía el que realice, previamente, la firma de los sobres. 
+No obstante, se contempla la posibilidad de exportar la oferta firmada en su totalidad 
+(documentos y sobres) para que un tercero realice únicamente la acción de envío. 
+ 
+En primer lugar, se realiza la exportación de la oferta, pulsando el botón Exportar Propuesta. 
+Se despliega, entonces, el explorador (Ilustración: Exportación de propuesta a un equipo local 
+o dispositivo externo) para depositar el fichero en el sopor te electrónico que seleccionemos 
+(equipo, memoria USB, etc.). 
+ 
+ 
+Ilustración: Exportación de propuesta a un equipo local o dispositivo externo 
+ 
+La persona que recibe la propuesta deberá seleccionar en todo caso la alternativa de 
+trabajo “Crear oferta / solicitud de participación – Importar oferta” (Ilustración: Alternativa 
+de trabajo Importar Oferta), de otro modo, no recuperará la información que ha recibido de un 
+tercero (otro miembro del UTE, comercial, administrativo). 
+ 
+
+
+--- página 82 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 82 de 110 
+ 
+Ilustración: Alternativa de trabajo Importar Oferta 
+ 
+Para culminar el proceso de importación, debemos pulsar el botón “ Importar Oferta ” 
+(Ilustración: Botón Importar Propuesta), rellenándose la Herramienta con toda la información 
+heredada. 
+ 
+ 
+Ilustración: Botón Importar Propuesta 
+ 
+Una vez cargada la información, el usuario deberá adjuntar nuevos documentos (en el caso 
+de UTE), o proceder a la firma de documentos y sobres (el apoderado, en todo caso). 
+ 
+NOTA: El botón “Exportar propuesta” no sirve para generar una oferta económica y cargarla. 
+ 
+4. Preparar Envío 
+En la parte superior de la Herramienta se disponen un botón de Preparar Envío (Ilustración: 
+Botón Preparar Envío ), el cual muestra una pantalla ( Ilustración: Acciones posibles de 
+Preparar Envío) con múltiples acciones relacionadas con el propio envío.  
+ Firmar sobres. 
+ Modificar sobre seleccionado: permite variar el contenido del sobre una vez firmado.  
+Si se modifica el contenido del sobre, es necesario volverlo a firmar, pues la firma 
+electrónica primitiva ya no sería válida. 
+ Simular presentación: el candidato puede comprobar que la Plataforma está activa 
+para recibir las ofertas. Esta simu lación realiza todos los pasos de verificación de la 
+documentación y cifrado, menos el propio envío. 
+ Enviar documentación: enví a los documentos y genera automáticamente el 
+justificante. Se realiza, además el cifrado de las ofertas, como requisito inexcusable 
+para el envío. 
+ Descargar justificante: siempre que ya se haya realizado el envío , permite descargar 
+el justificante. No obstante, cuando se realiza el envío, éste se presenta en pantalla, y 
+
+
+--- página 83 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 83 de 110 
+es susceptible de almacenamiento e impresión.  NO PULSE ESTA OPCIÓN HASTA 
+QUE NO HAYA REALIZADO EL ENVÍO. 
+ Generar etiquetas : en el caso en que un sobre se presente de forma presencial 
+(maqueta o muestras), el sistema permite la generación de etiquetas para la fácil 
+identificación por el órgano competente para valorar. 
+ 
+Ilustración: Botón Preparar Envío 
+ 
+Ilustración: Acciones posibles de Preparar Envío 
+4.1 Firmar sobres 
+Por lo general, la remisión de la documentación ensobrada exigirá la firma de cada uno de los 
+sobres de la oferta, incluido el de autorizaciones a efectos d e consulta de datos de terceros. 
+No obstante, la obligatoriedad de la firma depende exclusivamente de que el organismo 
+competente lo haya establecido  como requisito para licitar. En cualquier caso, el usuario 
+licitador sabrá si ha de firmar o no el sobre, porque el icono de “Estado” se mostrará en Rojo 
+si, habiéndose exigido firma, no se ha efectuado la misma. 
+NOTA: recuerde que , si falta algún aspecto de la oferta, tal como anexar un documento o 
+realizar la firma de un sobre o un documento, la Herramienta no permitirá la remisión de la 
+oferta, advirtiendo de tal circunstancia. 
+El proceso de firma es similar al ilustrado para la firma de un documento. En primer lugar, se 
+marca la casilla o casillas de los sobres que se quieren firmar (Ilustración: Selección del sobre 
+para su firma) y se presiona el botón Firmar con certificado reconocido. Inmediatamente, 
+aparece el cuadro de selección de certificado, se selecciona el certificado y el sistema 
+
+
+--- página 84 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 84 de 110 
+realizará la firma. Si su certificado se encuentra en una tarjeta criptográfica como el DNIe, 
+deberá insertarla en el lector antes de pulsar el botón firmar con certificado reconocido. 
+ 
+  
+Ilustración: Selección del sobre para su firma 
+ 
+ 
+Ilustración: Vista Firma del contenido del sobre 
+
+
+--- página 85 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 85 de 110 
+ 
+Ilustración: Selección del certificado electrónico para la firma 
+Una vez firmado el sobre, se muestra la identidad del firmante ( Ilustración: Identidad del 
+firmante del sobre) y, en la pestaña VISTA DOCUMENTOS A FIRMAR, se puede abrir una 
+ventana con la vista del sobre firmado desde el botón “Ver firma sobre” (Ilustración: Vista del 
+sobre firmado). 
+ 
+Ilustración: Identidad del firmante del sobre 
+
+
+--- página 86 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 86 de 110 
+ 
+Ilustración: Vista del sobre firmado 
+ 
+ 
+4.2 Problemas al firmar sobres 
+4.2.1 Error al realizar la firma. 
+Cuando se firma un documento puede aparecer un error que no permite la realización de la 
+firma (Ilustración: Error al realizar la firma). 
+  
+Ilustración: Error al realizar la firma 
+Este error es debido a dos posibles circunstancias: 
+Por una parte, que el certificado elegido sea un certificado con el que no es posible realizar la 
+firma como, por ejemplo, un certificado raíz de la ruta de certificación o un certificado de 
+autenticación. Debe elegir un certificado de firma correcto. 
+O bien, debido a la versión de java y a la existencia de espac ios en blanco en el nombre 
+descriptivo (alias) del certificado. Por favor, consulte el apartado 2.9.2 
+ 
+4.2.2 Limitación a causa del tamaño de la oferta 
+Puede ocurrir que la aplicación no deje firmar y, sin embargo, no muestre ningún tipo de error. 
+Le recomendamos que tenga en cuenta las limitaciones establecidas en el apartado 1.2.2.2 
+y las recomendaciones que se han descrito en el apartado 2.7 
+NOTA: Para comprobar la capacidad de memoria de su máquina virtual Java y tener mayor 
+control sobre el tamaño de la oferta, se ha añadido unas funcionalidades a la herramienta, 
+
+
+--- página 87 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 87 de 110 
+que muestran la memoria de la máquina virtual Java disponible y el tamaño que ocupa cada 
+sobre. Vea la sección 1.4 
+Si el problema puede estar relacionado con el tamaño total de la oferta, pulse Modificar Sobre 
+Seleccionado, efectúe la reducción y proceda a realizar la firma del sobre de nuevo. 
+Otro de los problemas que se pueden presentar al firmar el sobre es que el botón de Firma se 
+quede hundido, dando la impresión de que la Herramienta se ha quedado bloqueada. En este 
+caso, le rogamos que espere porque transcurrido unos minutos se muestra la ventana para 
+seleccionar los certificados.  
+En todo caso, si tiene problemas al firmar los sobres, contacte con 
+licitacionE@hacienda.gob.es 
+ 
+4.3 Modificar sobres 
+La Herramienta permite la modificación del contenido del sobre  (botón Modificar sobre 
+seleccionado) en cualquier momento antes del envío del mismo, no obstante, si el sobre que 
+se quiere modificar ha sido firmado, es necesario, una vez realizado el cambio , volver a 
+firmarlo, tal y como advierte la propia Herramienta (Ilustración: Vista del sobre firmado). 
+ 
+Ilustración: Advertencia de modificación de sobre ya firmado 
+4.4 Simular Presentación 
+La Herramienta, antes de proceder al envío de la oferta o documentación, permite comprobar 
+si la Plataforma de Contratación del Sector Público está disponible para recibirla. Recuerde 
+que mientras el licitador no pulse el botón Enviar, la documentación se encuentra en su equipo 
+local. Por ello, es útil verificar si los servidores están activos para proceder al envío. 
+Pulse el botón Simular Presentación, y si todo es correcto, la Herramienta le advertirá del 
+resultado positivo (Ilustración: Resultado satisfactorio en la simulación de la presentación). En 
+ese momento, se podría proceder al envío de los sobres. 
+ 
+Ilustración: Resultado satisfactorio en la simulación de la presentación 
+ 
+
+
+--- página 88 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 88 de 110 
+NOTA: la simulación de la oferta EN NINGÚN CASO SUPONE LA PRESENTACIÓN DE LA 
+MISMA. NO OLVIDE PULSAR EL BOTÓN ENVIAR. 
+ 
+4.5 Enviar documentación 
+La acción de Enviar Documentación supone el envío de la oferta / documentación que ha 
+estado confeccionando en local el usuario licitador, para que se custodie en los servidores de 
+la Dirección General del Patrimonio del Estado. 
+El proceso de envío realiza el cifrado de los sobres, si así lo hubiera especificado el órgano 
+de contratación. 
+El cifrado de los sobres permite garantizar la confidencialidad del contenido. Proporciona una 
+capa de seguridad fundamental para asegurar la custodia de la s ofertas, aunque no es la 
+única. 
+La acción de cifrado de los sobres es absolutamente transparente para el usuario que realiza 
+el envío de la oferta, siendo una de las acciones que conforman la presentación de los sobres. 
+NOTA: No se podrá visualizar el contenido de los sobres en el justificante de presentación si 
+han sido cifrados. 
+Cuando se pulsa “Enviar Documentación”, el sistema muestra una ventana emergente de 
+avance del proceso  (Ilustración: Ventana emergente de avance del proceso en la 
+presentación), finalmente, se obtiene el justificante  en pantalla (Ilustración: Visualización en 
+pantalla del justificante). 
+ 
+ 
+Ilustración: Ventana emergente de avance del proceso en la presentación 
+ 
+
+
+--- página 89 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 89 de 110 
+ 
+Ilustración: Visualización en pantalla del justificante 
+En el justificante figuran datos básicos del licitador y un resumen de la presentación, que 
+incluye: 
+ Conjunto de sobres que componen la oferta, incluido el de autorizaciones. 
+ Contenido de los sobres (se visualiza siempre que no estén cifrados  por decisión del 
+órgano de contratación). 
+ Firma de los documentos y de los sobres. 
+El justificante puede ser objeto de descarga e impresión  (Ilustración: Documento PDF del 
+justificante). Se envía también a la dirección de correo electrónico a efectos de 
+comunicaciones (Ilustración: Correo con el CSV del justificante). 
+ 
+Ilustración: Documento PDF del justificante 
+
+
+--- página 90 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 90 de 110 
+ 
+Ilustración: Correo con el CSV del justificante 
+El justificante incluye un CSV (Código Seguro de Verificación) que garantiza, mediante el 
+cotejo en Plataforma de Contratación del Sector Público (Ilustración: Verificación del CSV en 
+la Plataforma de Contratación del Sector Público), la integridad y autenticidad del documento. 
+ 
+Ilustración: Verificación del CSV en la Plataforma de Contratación del Sector Público 
+ 
+4.6 Retirada de ofertas 
+En el caso de haber presentado una oferta anterior y querer presentar una nueva oferta,  
+dejando sin validez la anterior oferta presentada, se puede utilizar la funcionalidad de retirada 
+de ofertas. Para que se pueda utilizar esta funcionalidad, los pliegos no tienen que haber 
+cambiado desde la presentación de la anterior oferta y debe ser con el mismo usuario 
+con el que se realizó la presentación anterior. La retirada de ofertas consiste, por tanto, en 
+dos acciones: 
+1- Presentación de la nueva oferta. 
+2.- Retirada de la oferta anterior (se elimina la oferta de la PLACSP). En el caso de que haya 
+varias presentaciones anteriores de ofertas, sólo se retirará la última oferta presentada. 
+La retirada de ofertas solo será posib le para presentaciones de oferta y respuestas a 
+invitaciones, pero no para otro tipo de comunicaciones. En el caso de respuestas a invitación, 
+solo será posible cuando se tenga descargado el jnlp o si sigue activo el enlace “Responder”. 
+
+
+--- página 91 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 91 de 110 
+En todo caso, la retirada de ofertas se tiene que hacer desde el mismo equipo en el que 
+anteriormente se presentó la oferta. 
+Conviene tener en cuenta que no se permitirá retirar la oferta anterior  y no presentar una 
+nueva oferta. 
+El comportamiento es idéntico para ofertas con lotes y sin lotes. Si la oferta anterior no se ha 
+presentado todavía de manera completa, es decir. se trata de una presentación tipo huella 
+electrónica, no se puede utilizar esta funcionalidad de retirada de ofertas. 
+La preparación de la oferta no cambia hasta que se pulsa el botón “Enviar Documentación”, 
+en este momento muestra una ventana emergente (Ilustración: Confirmación retirada oferta 
+anterior) solicitando la conformidad con la retirada de la oferta anterior.  
+ 
+ 
+ 
+ 
+Ilustración: Confirmación retirada oferta anterior 
+Pulsando “ Retirar y Presentar nueva ” se produce la retirada de la oferta anterior y la 
+presentación de la nueva oferta. 
+Si se pulsa “Continuar con una doble presentación ” se produce la presentación de la nueva 
+oferta, pero la oferta anterior persiste en la PLACSP, tratándose entonces de un caso de 
+“doble presentación” de oferta. 
+El sistema muestra una ventana emergente de avance del proceso  (Ilustración: Ventana 
+emergente de avance del proceso en la presentación), finalmente, se obtiene el justificante de 
+la presentación de la nueva oferta en pantalla ( Ilustración: Visualización en pantalla del 
+justificante de presentación de nueva oferta). 
+ 
+
+
+--- página 92 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 92 de 110 
+ 
+Ilustración: Ventana emergente de avance del proceso en la presentación 
+ 
+ 
+Ilustración: Visualización en pantalla del justificante de presentación de nueva oferta 
+En el justificante de presentación de nueva oferta figuran datos básicos del licitador y un 
+resumen de la presentación, que incluye: 
+ Conjunto de sobres que componen la oferta, incluido el de autorizaciones. 
+
+
+--- página 93 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 93 de 110 
+ Contenido de los sobres (se visualiza siempre que no estén cifrados  por decisión del 
+órgano de contratación). 
+ Firma de los documentos y de los sobres. 
+ 
+Ilustración: Documento PDF del justificante de presentación de nueva oferta 
+ 
+ 
+Ilustración: Correo con el CSV del justificante de presentación de nueva oferta 
+
+
+--- página 94 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 94 de 110 
+Tras cerrar el justificante de presentación de la nueva oferta , se muestra el justificante de 
+retirada de la oferta anterior  (Ilustración: Visualización en pantalla del justificante de retirada 
+de oferta). 
+ 
+Ilustración: Visualización en pantalla del justificante de retirada de oferta 
+En el justificante de retirada de oferta figuran datos básicos del licitador y un resumen de la 
+presentación que ha sido retirada. 
+
+
+--- página 95 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 95 de 110 
+ 
+Ilustración: Documento PDF del justificante de retirada de oferta 
+ 
+ 
+Ilustración: Correo con el CSV del justificante de retirada de oferta 
+ 
+
+
+--- página 96 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 96 de 110 
+Los justificantes incluyen un CSV (Código Seguro de Verificación) que garantiza, mediante el 
+cotejo en Plataforma de Contratación del Sector Público (Ilustración: Verificación del CSV en 
+la Plataforma de Contratación del Sector Público), la integridad y autenticidad del documento. 
+ 
+Ilustración: Verificación del CSV en la Plataforma de Contratación del Sector Público 
+ 
+4.7 Generación de etiquetas 
+En los procedimientos en los que alguno de los sobres de la oferta técnica, por su naturaleza, 
+no se puede remitir telemáticamente (maquetas, muestras, etc.) la Herramienta permite la 
+generación de etiquetas que vinculan la huella electrónica del sobre con el elemento que se 
+presentará en el registro físico. 
+Una vez enviada la oferta, aparecerá un mensaje advirtiendo que se han generado las 
+etiquetas correspondientes para adherir a los sobres que se presentarán de forma presencial. 
+ 
+Ilustración: Mensaje de advertencia para descargar las etiquetas de los sobres manuales 
+Al pulsar el botón “Aceptar”, aparecerá la ventana de diálogo titulada “Justi ficante de 
+Presentación” (Ilustración: Ventana de diálogo de Justificante de Presentación ). En ella, se 
+sitúan tres botones en la parte inferior. El botón central “Imprimir etiquetas” conduce a otra 
+ventana de diálogo donde descargar en formato pdf las eti quetas de los sobres presentados 
+(Ilustración: Selector para descarga de las etiquetas correspondientes a los sobres a presentar 
+en registro físico). El botón “Imprimir” descarga en formato pdf el justificante de presentación 
+de la oferta completa.  
+
+
+--- página 97 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 97 de 110 
+ 
+Ilustración: Ventana de diálogo de Justificante de Presentación 
+ 
+Ilustración: Selector para descarga de las etiquetas correspondientes a los sobres a presentar en registro 
+físico 
+ 
+Ilustración: Modelo de etiqueta para adherir a los sobres a presentar en registro físico 
+
+
+--- página 98 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 98 de 110 
+El botón “Cerrar” conduce a la pantalla de Preparación de Oferta de la herramienta. En esta 
+pantalla, aparecerán habilitados los botones “Imprimir etiquetas” e “Imprimir” con funcionalidad 
+idéntica a los anteriores ( Ilustración: Disposición de botones en la herramienta tras cerrar la 
+ventana de diálogo “Justificante de Presentación”). 
+ 
+Ilustración: Disposición de botones en la herramienta tras cerrar la ventana de diálogo “Justificante de 
+Presentación” 
+4.8 Problemas con el envío 
+4.8.1 Huella electrónica 
+En ocasiones pueden surgir problemas durante el envío de la oferta de modo que no llegue a 
+completarse dicho envío, por ejemplo, porque la velocidad de subida de su canal de 
+transmisión no sea suficiente para remitir un volumen determinado de documentos.  Si esto 
+sucede, en el mensaje de justificante de presentación aparecerá que el estado de la 
+presentación es de huella electrónica ( Ilustración: Aviso de presentación de la huella 
+electrónica) o resumen correspondiente a la oferta y se dispondrá de un plazo de 24 horas 
+para remitir la oferta completa al órgano de asistencia. 
+ 
+Ilustración: Aviso de presentación de la huella electrónica 
+ 
+Además, el justificante de presentación de la huella electrónica en formato pdf ( Ilustración: 
+justificante de presentación de la huella electrónica) contendrá la siguiente cabecera y pie de 
+página. 
+ 
+ 
+ 
+
+
+--- página 99 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 99 de 110 
+ 
+Ilustración: Justificante de presentación de la huella electrónica 
+ 
+ 
+NOTA: la presentación de tipo huella electrónica no supone en ningún caso que exista un 
+error en la Plataforma de Contratación del Sector Público. Sus causas están relacionadas, por 
+lo general, con la conectividad en su empresa. Aunque se haya incluido en el apartado de 
+Problemas con el envío, no debe catalogarse como tal, más bien es un servicio que ofrece la 
+Plataforma, en cumplimiento de la DA16 de la LCPS, para garantizar el ejercicio del derecho 
+a licitar incluso cuando las condiciones en las comunicaciones se encuentren degradadas.  
+ 
+NOTA: cuando obtenga el justificante de presentación compruebe si contiene el término 
+HUELLA ELECTRÓNICA. Si recibe un justificante con esa tipología, la responsabilidad 
+exclusiva de completar la oferta en el plazo de 24 recae únicamente en el licitador. 
+ 
+Ilustración: alternativas para la presentación completa de la oferta 
+Para realizar el envío completo  de su oferta  se dispone de dos alternativas  (Ilustración: 
+alternativas para la presentación completa de la oferta):  
+- Volver a intentar la remisión de forma telemática mediante el botón ‘Enviar 
+documentación’, o bien  
+- Descargar el fichero de la oferta mediante el botón ‘Descargar documentación’ en un 
+soporte electrónico y llevar éste a un registro físico autorizado  o remitirlo por registro 
+electrónico.  
+
+
+--- página 100 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 100 de 110 
+NOTA: No utilice ambas al mismo tiempo, es decir, si llega a completar  el envío 
+telemáticamente no remita la oferta a través del registro físico, y si ya ha presentado la oferta 
+en el registro físico le recomendamos que no continúe con el envío telemático. 
+NOTA: cuando complete su oferta electrónica de manera presencial le r ecomendamos que 
+escriba un correo electrónico al órgano de contratación indicando tal circunstancia. 
+ Opción ‘Enviar documentación’: si después de haber presentado únicamente la huella 
+electrónica se envía con éxito la oferta completa de forma telemática mediante la 
+herramienta, se obtiene un justificante de presentación de oferta  (Ilustración: 
+justificante de presentación de oferta completa) en el que se hará constar tanto la fecha 
+de envío de la huella como la fecha de envío de la oferta completa. 
+ Opción ‘Descargar documentación ’ y presentar en registro físico /electrónico: 
+al pulsar el botón ‘Descargar documentación’ se le solicitará una localización para 
+guardar un archivo con extensión XML. NO EDITE  este archivo ya que cualquier 
+modificación cambiará el cálculo de la huella electrónica y ya no coincidirá con la que 
+se presentó originalmente. Este archivo XML es el que se deberá enviar a través de 
+un registro físico/electrónico.  
+Aunque se haya alcanzado la fecha de fin del plazo de presentación de oferta s para la 
+licitación aún es posible completar el envío de la oferta siempre que nos encontremos dentro 
+del plazo de 24 horas desde que se remitió la huella electrónica.  
+Transcurrido el plazo de 24 horas desde que se presentó la huella sin que se haya 
+remitido la oferta completa, o en el caso de que se realice una nueva oferta (si esto es 
+posible), se considerará que la oferta corre spondiente a la huella electrónica anterior 
+ha sido retirada. 
+ 
+Ilustración: justificante de presentación de oferta completa 
+En el caso de que haya una huella electrónica presentada, si se ha cerrado la herramienta de 
+preparación de ofertas y se vuelve a lanzar en el mismo equipo se obtiene una pantalla de 
+presentación (Ilustración: pantalla de alternativas una vez presentada la h uella en el mismo 
+equipo) que informa de esta situación. Esta pantalla puede variar en función de cuál es la 
+fecha de fin del plazo de presentación y del tiempo que haya transcurrido desde que se 
+presentó la huella. 
+
+
+--- página 101 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 101 de 110 
+ 
+Ilustración: pantalla de alternativas una vez presentada la huella en el mismo equipo 
+Si estamos dentro de las 24 horas desde el envío de la huella se tendrá disponible la opción 
+de “Continuar con la preparación”. El que se ofrezca o no la opción de “Crear una nueva oferta” 
+dependerá de si se ha cumplido o no la fecha de fin del plazo de presentación. 
+Si ya han pasado las 24 horas desde el envío de la huella no se dispondrá de la opción de 
+“Continuar con la preparación”. El que se ofrezca o no la opción de “Crear una nueva oferta” 
+dependerá de si se ha cumplido o no la fecha de fin del plazo de presentación.  
+ 
+4.8.2 La documentación nunca termina de enviarse. 
+A continuación, presentamos varios casos en los que se producen problemas durante el envío 
+de la oferta: 
+ La plataforma informa de un error incomprensible: 
+Un licitador que introduce un apóstrofe en sus datos de domicilio (calle o 
+población) 
+ 
+Solución: Eliminar el carácter apóstrofe de los campos. 
+Cuando esos datos estén rellenos en el perfil (pestaña “Editar perfil”), recuerde 
+actualizar el perfil para que se carguen correctamente la próxima vez. 
+
+
+--- página 102 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 102 de 110 
+Si a pesar de haber eliminado los apóstrofes el error no desaparece, escriba la 
+dirección en un bloc de notas y cópiela desde ahí a la herramienta. Así evitará 
+introducir caracteres extraños en la herramienta, que además no son visibles. 
+ La plataforma informa de un error concreto. Ejemplos típicos: 
+  
+1. Una UTE que introduce decimales en la composición de la misma. La 
+aplicación avisará de que ha existido un error de FormatNumber. 
+ 
+    Ilustración: Error Format Number 
+ 
+SOLUCIÓN: no utilice números decimales, sólo enteros. 
+ 
+2. El licitador ha descargado la Herramienta antes de que se haya producido 
+una rectificación del anuncio de pliegos en un procedimiento con lotes. Se 
+obtiene un error de tipo nested except ion: la operación no ha podido 
+completarse. 
+ 
+     Ilustración: Error tipo Nested Exception 
+SOLUCIÓN: debe iniciar la preparación de su oferta de nuevo, dado que 
+la que está intentando enviar corresponde a una versión antigua de la 
+configuración de la licitación y avisar a licitacionE@hacienda.gob.es. 
+Debe descargar la Herramienta de nuevo y NO usar la función de 
+importar proposición, es decir, tiene necesariamente que cumplimentar 
+los datos y subir y firmar los documentos de nuevo. 
+ 
+3. Error ‘Java heap space’ en la fase ‘Preparando sobres’ 
+ 
+   Ilustración: Error Java Heap Space fase sobres  
+SOLUCIÓN: el tamaño de la documentación es excesivo para la memoria 
+de la máquina virtual Java disponible. Si está empleando Java de 32 bits 
+recomendamos instalar Java de 64 bits. Si ya está empleando Java de 64 
+bits procure reducir el tamaño de la oferta si es posible. Si no se corrige 
+esta situación no se logrará ni siquiera el envío de la huella electrónica. 
+
+
+--- página 103 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 103 de 110 
+NOTA: Para comprobar la capacidad de memoria de su máquina virtual Java y 
+tener mayor control sobre el tamaño de la oferta, se ha añadido unas 
+funcionalidades a la herramienta, que muestran la memoria de la má quina 
+virtual Java disponible y el tamaño que ocupa cada sobre. Vea la sección 1.4 
+ 
+4. Error ‘Java heap space’ en la fase ‘Enviando la documentación’ 
+ 
+    Ilustración: Error Java Heap Space  
+SOLUCIÓN: el tamaño de la documentación es excesivo para la memoria 
+de la máquina virtual Java disponible. Si está empl eando Java de 32 bits 
+recomendamos instalar Java de 64 bits. Si ya está empleando Java de 64 
+bits y no se reduce el tamaño de la oferta probablemente no se pueda 
+presentar telemáticamente la oferta completa, aunque sí se logre el envío 
+de la huella electrónica. 
+ La plataforma no informa de ningún error o la barra desaparece. En este caso, le 
+recomendamos que verifique su correo electrónico por si ha recibido un mensaje con 
+el justificante de presentación de la huella electrónica. Debe ponerse en contacto con 
+licitacionE@hacienda.gob.es para la resolución del problema. 
+ 
+ La velocidad de carga (upload) de la línea de internet no es suficiente. Es decir, 
+posiblemente no pueda subir la documentación completa. En primer lugar, verifique si 
+se ha producido el envío de la huella electrónica. En caso contrario, las posibles 
+soluciones recomendadas a este problema son: 
+ 
+ Exportar la propuesta, que generará un XML totalmente firmado, e 
+importarla en otro ordenador con una conexión superior. 
+ 
+ Conectar el ordenador a un móvil con conexión 4g si puede ser 
+(normalmente estas conexiones de móvil disponen de una velocidad de 
+carga aceptable). 
+ 
+ Reducir la propuesta si es posible y a elección del licitador. 
+ 
+ 
+ No se produce conexión con la plataforma. Éste es el caso más difícil de detectar. La 
+herramienta no puede fijar el túnel de conexión con la plataforma. Suele ocurrir con 
+frecuencia en ordenadores conectados a un dominio debido a políticas de seguridad. 
+ 
+Si se encuentra  en esta situación, puede probar además de las soluciones 
+recomendadas del caso anterior: 
+
+
+--- página 104 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 104 de 110 
+ 
+ Sacar momentáneamente al ordenador del dominio, conectarlo 
+directamente a internet y probar el envío. (solo si los administradores del 
+dominio y las políticas de empresa lo permiten). 
+ 
+ Revisar con el administrador si es posible que el servidor de dominio esté 
+bloqueando la conexión al exterior de la aplicación. 
+ 
+ Comprobar si existe un cortafuegos que impida la conexión. 
+ 
+ Revisar el punto siguiente (antivirus). 
+ 
+Los siguientes son ejemplos de errores de conexión con la plataforma: 
+- com.sun.xml.internal.ws.wsdl.parser.InaccessibleWSDLException: 2 counts of 
+InaccessibleWSDLException. 
+ 
+- error del lector XML: javax.xml.stream.XMLStreamException: ParseError at 
+[row,col]:[1,1] 
+ 
+Ilustración: Error de conexión con la plataforma 
+ 
+ Antivirus: los antivirus modernos disponen de herramientas a modo de cortafuegos 
+que pueden evitar el envío de las propuestas. 
+ 
+Se han reportado casos en, al menos, dos de estos antivirus: Karpersky y Avast 
+(tanto en ordenadores no conectados a un dominio como conectados a un 
+dominio). 
+ 
+En algunos casos no basta la sola desactivación del antivirus por los medios 
+normales que indica el mismo. 
+  
+
+
+--- página 105 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 105 de 110 
+Si se encuentra en esta situación, pruebe a desinstalarlo por completo, realizar 
+el envío y volver a instalarlo. 
+ 
+NOTA: Recuerde que no debe hacer más de un envío de la documentación si ya la ha realizado 
+correctamente. Verifique si se ha producido el envío de la huella electr ónica. Téngalo muy 
+presente sobre todo si se cambia de equipo. En ese caso , debe exportar su oferta si desea 
+completar el envío. Consulte el apartado de la huella electrónica.  
+ 
+4.8.3 Problema con la obtención del justificante 
+En determinados casos  el licitador ha podido enviar su oferta, sin embargo, no ha 
+podido descargar el justificante. 
+ 
+En este caso, contacte inmediatame nte con la Plataforma 
+(licitacionE@hacienda.gob.es)  para informarle si el envío se ha re alizado 
+correctamente. 
+ 
+NO intente una nueva presentación sin antes verificar si su oferta se ha presentado . 
+Las dobles presentaciones pueden ser motivo de exclusión.  
+ 
+RECUERDE NO PULSAR EL BOTÓN DESCARGAR JUSTIFICANTE SI NO HA 
+REALIZADO EL ENVÍO. 
+ 
+5. Gestión en la herramienta de Mis Comunicaciones 
+Si desde la plataforma hemos recibido una comunicación con una petición de añadir 
+información nueva a la oferta, subsanar algún aspecto o cualquier operación que implique 
+enviar nueva información la forma de proceder será similar a crear una nueva licitación. La 
+opción a elegir en la pantalla inicial de la herramienta será “Crear nueva oferta/solicitud de 
+participación/subsanación – Importar oferta” 
+NOTA: En el caso de que la comunicación la haya recibido una UTE que haya incorporado 
+los correos electrónicos a efectos de comunicaciones de cada una de las empresas de la UTE 
+en la oferta, recibirán la comunicación cada una de ellas. Sólo se permite una respuesta a la 
+comunicación. 
+A partir de este punto habrá que  añadir la información que se solicite siguiendo los mismos 
+pasos explicados en los capítulos 2,3 y 4 de este manual. 
+ 
+ 
+6. Seguimiento del procedimiento 
+El sistema permite que el licitador pueda realizar un seguimiento del conjunto de acciones 
+realizadas por su parte en relación a un procedimiento de contratación concreto. 
+El seguimiento se realiza desde Mis Licitaciones (Ilustración: Pasos / Acciones Realizadas). 
+
+--- página 106 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 106 de 110 
+ 
+Ilustración: Pasos / Acciones Realizadas 
+NOTA: si el procedimiento es por invitación, diríjase a Mis Comunicaciones, añada el 
+procedimiento a Mis Licitaciones y, una vez allí, tiene a su disposición  los Pasos / Acciones 
+Realizadas. 
+El sistema ofrece la posibilidad de Visualizar la oferta presentada, siempre que el estado del 
+procedimiento sea de evaluación o posteriores. Esta funcionalidad arranca la herramienta en 
+modo lectura , lo que permitirá consultar la oferta, sin posibilidad de realizar acciones  
+(Ilustración: Visualizar oferta presentada y Tablón de Licitación). 
+ 
+Ilustración: Visualizar oferta presentada y Tablón de Licitación 
+ 
+ 
+ 
+ 
+Ilustración: Portada de la Herramienta para visualizar oferta presentada 
+ 
+
+
+--- página 107 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 107 de 110 
+Por último, advertir que el licitador tiene a su disposición, como interesado en el procedimiento, 
+un Tablón de la Licitación (Ilustración: Vista documentos del Tablón de Licitación) en el que el 
+órgano competente podrá facilitarle diferentes documentos relativos a la valoración de  las 
+ofertas, por ejemplo, la lista de valoraciones de los diferentes candidatos o la oferta del 
+adjudicatario propuesto. 
+ 
+Ilustración: Vista documentos del Tablón de Licitación 
+ 
+ 
+7. BUENAS PRÁCTICAS 
+A continuación, resumimos un conjunto de buenas prácticas: 
+1. En el caso de que hayan accedido a la PLACSP después de un a parada por  
+mantenimiento, le recomendamos que borren los archivos temporales de su 
+navegador y del panel de control de JAVA para poder acceder a la herramienta de 
+preparación de ofertas. 
+ 
+2. Inicie preferentemente la preparación de su oferta con varios días de antelación por si 
+hubiera algún problema técnico en sus instalaciones. En caso de tener la fecha de fin 
+de la comunicación en fin de semana recuerde que el horario de soporte de la place 
+de 9h a 19h de lunes a jueves y los viernes de 9 a 15h   
+ 
+3. Revise la presente Guía, muy en especial los apartados de requisitos técnicos. Este 
+manual se actualiza con cierta frecuencia, por lo que le recomendamos que verifique 
+si la versión que dispone es igual que la disponible en 
+https://contrataciondelsectorpublico.gob.eshttps://contrataciondelsectorpublico.gob.es 
+java de 32 a 64 bits. Ello le permitirá gestionar un mayor volumen de documentación. 
+ 
+4. Si encuentra algún problema durante la fase de preparación o de envío de l a oferta, 
+escriba inmediatamente a licitacionE@hacienda.gob.es. No olvide indicar el número 
+de expediente, órgano de contratación , el email a efectos de comunicaciones del 
+usuario con el que están presentando la oferta y todas las capturas de pantalla posibles 
+que permitan al equipo técnico resolver la incidencia lo antes posible. 
+ 
+5. Si está licitando a varios lotes y el tamaño de su oferta está resultando una limitación 
+restrictiva, le recomendamos que escri ba al órgano de contratación solicitando la 
+posibilidad de realizar varios envíos, uno por cada lote o agrupación de ellos. Realice 
+estas consultas siempre antes de que finalice el plazo de presentación de ofertas. 
+ 
+
+
+--- página 108 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 108 de 110 
+6. Si usted es un licitador que está prepar ando una oferta a un procedimiento de 
+contratación de una administración sita en Canarias (autonómica, local o estatal) tenga 
+en cuenta que la fecha final de presentación de ofertas que figura en la Herramienta 
+será conforme al horario peninsular. Si exist en discrepancias con lo indicado en el 
+documento de pliegos, diríjase al órgano de contratación. 
+ 
+7. Revise siempre el contenido del justificante de presentación, muy en especial para 
+localizar si lo que se ha presentado únicamente es la huella electrónica o resumen de 
+su oferta. En los casos en que sea imposible completar la oferta mediante la 
+Herramienta de la PLACSP y deba acudir a un registro, le recomendamos que escriba 
+un correo electrónico al órgano de contratación para advertir tal circunstancia. 
+ 
+8. No modifique el directorio de trabajo .elic, en el cual se encuentran los ficheros 
+electrónicos XML de las ofertas bajo ningún concepto. Es posible que, en algún caso, 
+sea preciso disponer de uno de esos ficheros para recuperar su oferta. No lo edite en 
+ningún caso. 
+ 
+9. No edite ni realice modificación alguna de los ficheros que se ubican bajo la carpeta 
+LOGS en el directorio de trabajo “.elic”. Si el equipo técnico detecta que ha habido una 
+modificación, no se considerará como prueba a su favor en caso de reclamación. 
+ 
+10. Una vez finalizado el plazo de presentación de ofertas, todas aquellas reclamaciones 
+que realice deberá dirigirlas al órgano de contratación. La Plataforma de Contratación 
+del Sector Público, en aras de garantizar el principio de igualdad de tra to, no se 
+relaciona directamente con las empresas candidatas una vez expirada la fase de 
+presentación. Será el órgano de contratación el que contacte con la Plataforma para 
+informar sobre la existencia de una reclamación de un licitador. 
+ 
+11. En el caso de que  tenga una incidencia al presentar una oferta, con el fin de agilizar 
+su resolución será necesario que envíe a soporte la siguiente información: 
+ 
+
+--- página 109 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 109 de 110 
+Ilustración: vista de la opción mostrar tamaños de la oferta se puede  ver el directorio de trabajo 
+de la oferta.  
+ 
+C:\Users\nombre_del_usuario_del ordenador \.elic\Código numérico formado por 8 
+dígitos) 
+Fichero que contiene el justificante “justificante.pdf” 
+ 
+ 
+ 
+Ilustración: Carpeta que contiene la información del envío 
+ 
+Carpeta logs en C:\Users\nombre_del_usuario_del ordenador \.elic\Código 
+numérico\logs 
+ 
+Ejemplo: 53836575_3830574_20210222095356_LogOperaciones.txt 
+
+
+--- página 110 ---
+                                               
+ 
+Guía de Servicios de Licitación Electrónica para Empresas 8.9  Pág. 110 de 110 
+ 
+ 
+8. GLOSARIO DE TÉRMINOS 
+GLOSARIO DE TÉRMINOS 
+Plataforma 
+PLACSP 
+Plataforma de contratación del Sector Público  http://contrataciondelsectorpublico.gob.es 
+OC Órgano de Contratación. 
+OE Operador económico. 
+XML Extensible Markup Language (Lenguaje de marcas extensible). 
+CSV Código Seguro de Verificación 
+UTE Unión Temporal de Empresas 
+USB Universal Serial Bus 
+XAdES Firma Electrónica Avanzada XML 
+ 
+9. CONTÁCTENOS  
+Recuerde que si experimenta problemas en la preparación y envío de las ofertas deberá 
+contactar con: 
+ 
+licitacionE@hacienda.gob.es    
+ 
+Por favor, indique en su correo el expediente y el órgano de contratación que licita. Envié 
+todas las evidencias que puedan ayudarnos a resolver su problema , lo que incluye capturas 
+de pantalla en caso de error y descripción detallada de la incidencia. 
+  
+IMPORTANTE: si no contacta con nosotros  por esta vía  durante el plazo de 
+presentación de ofertas, sus reclamaciones podrán no ser tomadas en consideración 
+por el órgano de contratación. 
+ 
+ 
+ 
+ 
+ 

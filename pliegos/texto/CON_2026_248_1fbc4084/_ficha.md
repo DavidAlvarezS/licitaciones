@@ -10,10 +10,10 @@
 
 ## Documentos
 
-- [Legal] PLIEGO ADMINISTRATIVO.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] PLIEGO TECNICO.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] Anexo II Instrucciones DEUC.odt: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] Anexo III Compromiso adscripcion medios.odt: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] Anexo V Formalizacion.odt: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] Anexo IV Oferta.odt: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Additional] Anexo I Declaracion Responsable.odt: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] PLIEGO ADMINISTRATIVO.pdf: 01_Legal_PLIEGO_ADMINISTRATIVO.pdf (699 KB)
+- [Technical] PLIEGO TECNICO.pdf: 02_Technical_PLIEGO_TECNICO.pdf (248 KB)
+- [Additional] Anexo II Instrucciones DEUC.odt: 03_Additional_Anexo_II_Instrucciones_DEUC.zip (21 KB, sin texto extraído)
+- [Additional] Anexo III Compromiso adscripcion medios.odt: 04_Additional_Anexo_III_Compromiso_adscripcion_medios.zip (16 KB, sin texto extraído)
+- [Additional] Anexo V Formalizacion.odt: 05_Additional_Anexo_V_Formalizacion.zip (13 KB, sin texto extraído)
+- [Additional] Anexo IV Oferta.odt: 06_Additional_Anexo_IV_Oferta.zip (18 KB, sin texto extraído)
+- [Additional] Anexo I Declaracion Responsable.odt: 07_Additional_Anexo_I_Declaracion_Responsable.zip (25 KB, sin texto extraído)

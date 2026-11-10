@@ -1,0 +1,1447 @@
+
+
+--- página 1 ---
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES PARA LA CONTRATACIÓN 
+DEL SERVICIO DE SOPORTE DE SISTEMAS Y DEVOPS AL SERVICIO DE DESARROLLO, 
+MEDIANTE PROCEDIMIENTO DE ADJUDICACIÓN ABIERTO SIMPLIFICADO SUMARIO Y  
+TRAMITACIÓN ANTICIPADA.
+I 
+DISPOSICIONES GENERALES
+1.- OBJETO     DEL     CONTRATO   (arts. 17, 28, 99, 123, 124 y D. A. Cuarta de la Ley 9/2017, de 8 
+de
+noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico  
+español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26  
+de febrero de 2014, LCSP)
+1.1.- El objeto del contrato será un servicio de soporte de sistemas y DevOps al servicio  
+de desarrollo de la Dirección General de Transformación Digital de los Servicios Públicos  
+(DGTDSP). Este servicio resulta necesario para el mantenimiento y correcto funcionamiento de  
+la infraestructura autogestionada que presta soporte a diversas aplicaciones corporativas y  
+departamentales, competencia de este Servicio de Desarrollo, así como a los procesos de  
+despliegue  e  integración  continua  automatizada,  con  el  fin  de  garantizar  la  disponibilidad, 
+estabilidad y continuidad de los servicios y aplicaciones soportados por dicha infraestructura.
+La ejecución del objeto del contrato deberá adecuarse a las prescripciones técnicas  
+anexas que tienen carácter contractual.
+Dicho objeto corresponde al código 72.200000-7 (Servicios de programación de “software” 
+y de consultoría de la nomenclatura Vocabulario Común de Contratos (CPV) de la Comisión  
+Europea.
+1.2.-No procede la división en lotes del objeto del contrato, ya que tal división dificultaría 
+la correcta ejecución del contrato desde el punto de vista técnico.
+2.- ÓRGANO     DE     CONTRATACIÓN   (art. 61 ,63 y 190 LCSP)
+2.1.- El órgano de contratación, que actúa en nombre de la  Administración Pública de la 
+Comunidad Autónoma de Canarias, es la Dirección General de Transformación Digital de los 
+Servicios Públicos del Gobierno de Canarias,  con arreglo a las facultades que le confiere el  
+artículo 5.4 del Reglamento Orgánico de la Presidencia del Gobierno, aprobado por Decreto  
+6/2024, de 25 de enero, por el que se aprueba el Reglamento Orgánico de la Presidencia del  
+Gobierno (BOC n.º 26, de 5 de febrero de 2024).
+2.2.-  El  mencionado  órgano  tiene  facultad  para  adjudicar  el  contrato  y  ostenta  las 
+prerrogativas de interpretarlo, resolver las dudas que ofrezca su cumplimiento, modificarlo por  
+razones de interés público, declarar la responsabilidad imputable a la contratista a raíz de la  
+ejecución del mismo, suspender dicha ejecución, acordar la resolución del contrato y determinar 
+los efectos de ésta, con sujeción a la normativa aplicable.
+Igualmente,  el  órgano  de  contratación  ostenta  las  facultades  de  inspección  de  las 
+actividades  desarrolladas  por  la  persona  contratista  durante  la  ejecución  del  contrato,  de 
+conformidad con lo establecido en el segundo párrafo del artículo 190 de la LCSP.
+2.3.- De conformidad con lo establecido en el artículo 63 de la LCSP, el órgano de  
+contratación dará la información relativa a la presente contratación en el Perfil del Contratante  
+del  Gobierno  de  Canarias,  alojado en  la  Plataforma  de  Contratación  del  Sector  Público 
+(https://contrataciondelestado.es/wps/portal/plataforma).
+1
+
+--- página 2 ---
+2
+3.- RÉGIMEN     JURÍDICO     Y     JURISDICCIÓN      
+3.1.- La  contratación  a  realizar  se  califica  como  contrato  de  servicios  de  carácter 
+administrativo, de conformidad con lo establecido en los artículos 17 y 25 de LCSP, quedando  
+sometida a dicha ley, a las normas reglamentarias que la desarrollen, y a las cláusulas contenidas 
+en el presente pliego de cláusulas administrativas particulares y en el de prescripciones técnicas 
+y en concreto, al sometimiento a la normativa nacional y de la Unión Europea en materia de  
+protección de datos.
+Asimismo,  serán  de  aplicación  las  demás  disposiciones  estatales  que  regulan  la 
+contratación del sector público, y las dictadas por la Comunidad Autónoma de Canarias, en el  
+marco de sus respectivas competencias.
+3.2.-  Las cuestiones litigiosas que pudieran suscitarse en relación a los actos que se  
+dicten en la contratación a realizar podrán ser objeto de recurso de conformidad con lo dispuesto 
+en  la  Ley  39/2015,  de  1  de  octubre,  del  Procedimiento  Administrativo  Común  de  las 
+Administraciones Públicas, así como en la Ley 29/1998, de 13 de julio, Reguladora de la  
+Jurisdicción Contencioso-administrativa.
+No obstante lo anterior, los acuerdos que adopte el órgano de contratación en los  
+procedimientos relativos a las prerrogativas establecidas en el artículo 190 de la LCSP, pondrán fin 
+a  la  vía  administrativa,  y  serán  inmediatamente  ejecutivos,  pudiendo  ser  recurridos  
+potestativamente en reposición ante el mismo órgano que los dictó, o ser impugnado mediante  
+recurso contencioso-administrativo, conforme a lo dispuesto en la Ley reguladora de dicha  
+Jurisdicción.
+4.- APTITUD         PARA     CONTRATAR   (arts. 65 y ss y 159.6. b), de LCSP)
+Solo podrán ser adjudicatarias de este contrato las empresas que, de conformidad con lo 
+dispuesto en los artículos 65 y siguientes de la LCSP, reúnan los requisitos de aptitud que se  
+enumeran en los siguientes apartados, que deberán cumplirse en la fecha final de presentación 
+de ofertas y en el momento de formalizar el contrato.
+4.1.- Capacidad de obrar
+Podrán contratar las personas naturales o jurídicas, españolas o extranjeras, que tengan 
+plena capacidad de obrar, acreditada con arreglo a lo establecido en la cláusula 15 del presente 
+pliego
+Las personas jurídicas solo podrán ser adjudicatarias de contratos cuyas  prestaciones 
+que estén comprendidas dentro de los fines, objeto o ámbito de actividad que, a tenor de sus  
+estatutos o reglas fundacionales, le sean propios.
+Asimismo,  podrán  contratar  las  uniones  de  empresarios  y/o  empresarias que  se  
+constituyan temporalmente al efecto, sin que sea necesaria su formalización en escritura pública 
+hasta que, en su caso, se les haya adjudicado el contrato.
+Las empresas no españolas de Estados miembros de la Unión Europea o de los Estados 
+signatarios del     Acuerdo sobre el Espacio Económico Europeo   tendrán capacidad para contratar 
+siempre que, con arreglo a la legislación del Estado en que estén establecidas, se encuentren  
+habilitadas para realizar la prestación de que se trate. Cuando la legislación del Estado en que  
+se encuentren establecidas estas empresas exija una autorización especial o la pertenencia a  
+una determinada organización para poder prestar el servicio de que se trate, deberán acreditar  
+que cumplen este requisito.
+Las restantes empresas extranjeras  podrán contratar si justifican, mediante informe  
+emitido por la correspondiente Oficina Económica y Comercial de España en el exterior, que se  
+acompañará a la documentación que se presente, acreditando que el Estado de procedencia de 
+la  empresa  extranjera  admite,  a  su  vez,  la  participación  de  empresas  españolas  en  la 
+contratación de su sector público, en forma sustancialmente análoga.
+
+--- página 3 ---
+3
+Los  que  contraten  con  la  Administración,  podrán  hacerlo  por  sí,  o  mediante  la 
+representación de personas debidamente facultadas para ello, en cuyo caso deberán acreditar  
+debidamente la representación con arreglo a lo establecido en la cláusula 15.3.1 del presente  
+pliego.
+4.2.- Prohibiciones de contratar
+No podrán contratar quienes se hallen incursos en alguna de las prohibiciones 
+enumeradas en el artículo 71 de la LCSP.
+La ausencia de prohibiciones para contratar se acreditará en la forma establecida en la 
+cláusula 15.3.2 del presente pliego.
+5. -  PRESUPUESTO     BASE     DE     LICITACIÓN   (art. 100 y 309 LCSP)
+5.1.- El presupuesto base de licitación, que incluye el Impuesto General Indirecto Canario 
+(IGIC), asciende a los siguientes importes: 
+- Presupuesto sin IGIC: 59.997,00 euros.
+- IGIC:   4.199,79 euros.
+- Presupuesto con IGIC: 64.196,79 euros.
+Dicho presupuesto se desglosa en los siguientes costes:
+Concepto (9 meses)
+Importe IGIC Total
+Costes directos (Personal): 49.177,87 € 3.442,45 € 52.620,32 €
+Costes generales (10%) 4.917,79 € 344,24 € 5.262,03 €
+Costes eventuales (2%) 983,55 € 68,86 € 1.052,41 €
+Beneficio industrial (10%) 4.917,79 € 344,24 € 5.262,03 €
+TOTAL 59.997,00 € 4.199,79 € 64.196,79 €
+Para el cálculo de dicho presupuesto se ha atendido a los siguientes costes por cada uno 
+de los perfiles profesionales adscritos a la ejecución del contrato:
+EQUIPO MÍNIMO ESTABLE
+PERFIL
+GRUPO 
+y NIVEL 
+(*)
+IMPORTE  
+ANUAL Nº IMPORTE IGIC TOTAL ANUAL PARTIDA PPTARIA
+Consultor 
+Tecnológic
+o-
+Senior-
+Sistemas 
+(1.800 h)
+B2 
+MECES2 
+80.000,00 
+€
+1 x 9 
+meses
+59.997,00 
+€ 4.199,79 € 64.196,79 € 227.12
+TOTAL  1 59.997,00 € 4.199,79 € 64.196,79 € 227.12
+Los costes salariales han sido calculados tomando como referencia el XIX Convenio co -
+lectivo estatal de empresas de consultoría, tecnologías de la información y estudios de mercado y 
+de la opinión pública. 
+Los costes salariales según convenio se han incrementado para incluir en cada perfil no  
+solo los costes directos (que serían los costes salariales estrictamente) inherentes a la prestación 
+de servicios por una persona con el perfil requerido, sino también los costes indirectos y even -
+tuales y el correspondiente beneficio industrial. 
+5.2.- El presupuesto base de licitación se distribuye en las siguientes anualidades:
+
+--- página 4 ---
+4
+Anualidades 227.12 Importe IGIC Total
+Del 01/01/27 al 30/09/27 59.997,00 € 4.199,79 € 64.196,79 €
+TOTAL 59.997,00 € 4.199,79 € 64.196,79 €
+La distribución por anualidades es orientativa, la distribución definitiva dependerá de la  
+fecha en que se formalice el contrato y de la oferta del adjudicatario.
+6.- EXISTENCIA     DE     CRÉDITO PRESUPUESTARIO   (art. 35.1 LCSP)
+Existe el crédito presupuestario preciso para atender a las obligaciones económicas que 
+se deriven de la contratación, con cargo a la partida presupuestaria 0642 491A 227.12, “Gastos 
+Centralizados Comunicaciones e Informática”, por los siguientes importes:
+- Presupuesto sin IGIC: 59.997,00 euros.
+- IGIC:   4.199,79 euros.
+- Presupuesto con IGIC: 64.196,79 euros.
+La adjudicación del contrato queda condicionada a la existencia de crédito adecuado y  
+suficiente en el ejercicio económico 2027, para hacer frente a los gastos que del mismo se  
+deriven.
+7.- VALOR     ESTIMADO     DEL     CONTRATO   (art. 101 LCSP)
+7.1.- El valor estimado del contrato asciende a cincuenta y nueve mil novecientos noventa 
+y siete euros (59.997,00), sin IGIC.
+7.2.- El método aplicado para calcularlo es el siguiente: dado que no habrá prórroga del  
+contrato ni modificación del mismo, su valor estimado coincide con el presupuesto base de  
+licitación, sin IGIC.
+8.- PRECIO     DEL     CONTRATO   (art. 102, LCSP)
+8.1.- El precio del contrato será el que resulte de su adjudicación, e incluirá, como partida 
+independiente, el IGIC.
+8.2.- En el precio del contrato se entienden incluidas todas las tasas e impuestos, directos 
+e indirectos, y arbitrios municipales que graven la ejecución del contrato, que correrán de cuenta 
+de la persona contratista, salvo el IGIC, que deberá ser soportado por la Administración.
+Se consideran también incluidos en el precio del contrato todos los gastos que resultaren 
+necesarios para su ejecución, incluidos los posibles desplazamientos.
+También son de cuenta de la contratista los gastos de formalización del contrato, si éste  
+se elevare a escritura pública. En su caso, los citados gastos de publicación se descontarán en 
+el primer pago efectuado a favor de la contratista, salvo que el mismo acredite el ingreso del  
+coste de aquellos en la Tesorería General de la Comunidad Autónoma de Canarias.
+9.- REVISIÓN         DEL         PRECIO         DEL         CONTRATO         Y         OTRAS         VARIACIONES         DEL         MISMO   (arts.
+102.6, 103 y ss, y 309 LCSP)
+9.1.- Dada la naturaleza del servicio, y de conformidad con lo establecido en el artículo
+103.2 de la LCSP, el precio del contrato no podrá ser objeto de revisión.
+10.- PLAZO     DE     DURACIÓN     DEL     CONTRATO     Y     DE         EJECUCIÓN         DE     LA     PRESTACIÓN   (arts.
+29 y 195 LCSP)
+10.1.- El contrato tendrá un plazo máximo de ejecución de nueve (9) meses, a contar 
+desde el día que se estipule en el contrato.
+10.2.- De conformidad con lo establecido en el artículo 195.2 de la LCSP, dicho plazo de 
+ejecución podrá ampliarse cuando la contratista no pudiera cumplirlo por causas que no le sean 
+imputables, por lo menos, igual al tiempo perdido, a no ser que la contratista pidiese otro menor. 
+La persona responsable del contrato emitirá un informe donde se determine si el retraso fue  
+producido por motivos imputables al contratista.
+
+--- página 5 ---
+5
+II
+ADJUDICACIÓN     DEL     CONTRATO      
+11.- PROCEDIMIENTO     DE     ADJUDICACIÓN   (art.119, 158 y 159.6 LCSP)
+11.1.- El contrato se adjudicará por el procedimiento de adjudicación abierto simplificado 
+sumario, regulado en el artículo 159.6 de la LCSP, y de tramitación urgente según lo previsto en 
+el art. 119 de la citada LCSP.
+11.2.-  Antes de formalizar el contrato, el órgano de contratación podrá renunciar a la  
+celebración del mismo, o desistir de la licitación convocada, de conformidad con lo establecido en 
+el artículo 152 de la LCSP.
+12.- CRITERIOS     DE     ADJUDICACIÓN   (arts. 145, 146 y 147 LCSP)
+12.1.- El contrato se adjudicará a la proposición que oferte la mejor relación calidad-precio 
+en la ejecución del contrato, evaluada mediante la aplicación de los siguientes criterios de  
+adjudicación:
+12.1.1.- Criterios cuantificables automáticamente:
+CRITERIOS PUNTUACIÓN
+1.- Precio ofertado 90
+2.- Mejora ANS 10
+12.2.- La valoración de los criterios de adjudicación se hará con arreglo al siguiente  
+procedimiento:
+1.- Precio ofertado (máximo 90 puntos):  
+Se valorará el importe de la oferta de acuerdo con la siguiente fórmula:
+P = pm  x  ( 1 + log〖mo/O〗 )
+Donde “P” es la puntuación a obtener, “pm” es la puntuación máxima (el peso de cada  
+servicio), "O" es el importe de la oferta a valorar y "mo" es el importe de la mejor oferta (la más  
+económica), siendo log el logaritmo en base 10. En este criterio se podrá alcanzar un valor entre 
+0 y 90 puntos, despreciando los puntos que estén fuera de este intervalo por los cálculos de la  
+fórmula.
+• Peso: 90 %.
+2.- Mejoras ANS (máximo 10 puntos):
+Se  valorará  la  ampliación  al  100%  del  porcentaje  de  cumplimiento  del  ANS 
+correspondiente al soporte a usuarios que en el pliego se establece en un mínimo del 95%. Sólo 
+se obtendrán 10 puntos si se oferta una mejora del 100%, no obteniendo puntuación alguna por 
+ampliaciones que no sean del 100%.
+• Peso: 10 %.
+12.3.- Si efectuada la valoración de las proposiciones, con arreglo a lo establecido en las 
+cláusulas anteriores, se produjese algún empate en la puntuación final, el desempate se resolverá 
+en favor de las proposiciones presentadas por aquellas empresas, que, al vencimiento de plazo  
+de  presentación  de  ofertas,  tenga  en  su  plantilla  un  mayor  número  de  trabajadores  con 
+discapacidad, y si aun así siguiera produciéndose un empate, en último término se resolverá por  
+sorteo.
+13.- PRESENTACIÓN     DE     PROPOSICIONES   (art. 159.6 LCSP)
+13.1.- La presente licitación tiene, exclusivamente, carácter electrónico, por lo que las 
+personas licitadoras deberán preparar y presentar sus ofertas,  obligatoriamente, de forma  
+telemática, a través de los servicios de licitación electrónica de la Plataforma de Contratación del 
+Sector Público (https://contrataciondelestado.es/wps/portal/plataforma).
+No se admitirán las ofertas que no sean presentadas de esta manera.
+
+--- página 6 ---
+6
+Asimismo,  todas  las  comunicaciones  que  se  produzcan  en  este  procedimiento  de 
+licitación se producirán a través de la mencionada Plataforma de Contratación del Sector Público.
+13.2.- Las proposiciones se presentarán en el plazo señalado en el anuncio de licitación, 
+publicado en el Perfil del Contratante del Gobierno de Canarias.
+13.3.-  Las personas interesadas en la licitación podrán examinar los pliegos y toda  
+documentación necesaria para preparar la oferta en el Perfil del Contratante del Gobierno de  
+Canarias
+Asimismo, podrán solicitar información adicional hasta cuatro (4) días antes del cierre 
+del plazo de licitación. Dicha solicitud se efectuará a través de la Plataforma de Contratación del 
+Sector Público.
+Las respuestas a las solicitudes de aclaración del contenido de los pliegos de cláusulas  
+administrativas  particulares  y  de  prescripciones  técnicas  tendrán  carácter  vinculante,  y  se 
+publicarán en el Perfil del Contratante.
+13.4. – Cada licitadora podrá presentar sólo una proposición en relación con el objeto del 
+contrato, sin que se puedan presentar variantes o alternativas.
+13.5-  La  empresa  que  haya  licitado  en  unión  temporal  con  otros  empresarios  y/o 
+empresarias no podrá, a su vez, presentar proposiciones individualmente, ni figurar en más de  
+una unión temporal participante en la licitación.
+13.6.- El incumplimiento, por algún sujeto licitador, de las prohibiciones establecidas 
+en los apartados anteriores dará lugar a la no admisión de todas las proposiciones por  él 
+suscritas.
+13.7- La presentación de las proposiciones presume la aceptación incondicional por la  
+licitadora de la totalidad del contenido de las cláusulas y condiciones del presente pliego y del de 
+prescripciones técnicas, sin salvedad alguna. Asimismo, presupone la autorización a la  mesa y 
+al órgano de contratación para consultar los datos recogidos en el Registro Oficial de Licitadores 
+y Empresas Clasificadas del Sector Público o en las listas oficiales de operadores económicos  
+de un Estado miembro de la Unión Europea.
+13.8.-  Si  durante  la  tramitación  del  procedimiento  de  adjudicación,  y  antes  de  la 
+formalización del contrato, se produce la extinción de la personalidad jurídica de la empresa  
+licitadora por fusión, escisión o por la transmisión de su patrimonio empresarial, o de una rama de 
+su actividad, le sucederá en su posición en el procedimiento la sociedad absorbente, la resultante 
+de la fusión, la beneficiaria de la escisión o la adquiriente del patrimonio o rama de actividad,  
+siempre que reúna las condiciones de capacidad y ausencia de prohibiciones de contratar  
+exigidas.
+14.- CONTENIDO     DE     LAS     PROPOSICIONES   (art. 159.6 LCSP)
+14.1.-Las proposiciones constaran de un único archivo electrónico.
+En dicho archivo se incluirá la oferta, redactada según modelo Anexo I al presente pliego, 
+sin errores o tachaduras que dificulten conocer claramente lo que el órgano de contratación estime 
+fundamental para considerar las ofertas, y que, de producirse, provocarán que la proposición sea 
+rechazada, la mejora ANS y el currículo del Consultor Tecnológico-Senior-Sistemas.
+El precio ofertado no podrá superar el presupuesto de licitación establecido en la cláusula 
+5 del presente pliego, y deberá indicar, como partida independiente, el importe del Impuesto  
+General Indirecto Canario (IGIC) que deba ser repercutido.
+Asimismo, las licitadoras deberán indicar en la oferta la parte del contrato que tengan  
+previsto  subcontratar,  señalando  su  importe,  y  el  nombre  o  perfil  empresarial,  de  los 
+subcontratistas a los que se vaya a encomendar su realización.
+14.2.- Asimismo, en el supuesto de que concurran a la licitación empresas agrupadas 
+en  una unión temporal, deberán incluir en el archivo electrónico escrito de compromiso de 
+constituirse 
+formalmente en unión temporal de empresas, en caso de resultar adjudicatarias del contrato; en 
+
+--- página 7 ---
+7
+dicho escrito indicarán los nombres y circunstancias de los empresarios que suscriban la unión, la 
+participación de cada uno de ellos, y la designación de un representante o apoderado único de la 
+unión con poderes bastantes para ejercitar los derechos y cumplir las obligaciones que del  
+contrato se deriven hasta la extinción del mismo, sin perjuicio de la existencia de poderes  
+mancomunados que puedan otorgar las empresas para cobros y pagos de cuantía significativa.
+15.- APERTURA     DE     PROPOSICIONES     Y     ADJUDICACIÓN DEL     CONTRATO   (art 159.6 LCSP).
+15.1.- Finalizado el plazo de licitación, el órgano de contratación procederá a la apertura de 
+las proposiciones presentadas en tiempo y forma, y llevará a cabo su valoración de conformidad 
+con lo establecido en la cláusula 12 del presente pliego.
+Esta valoración podrá hacerse automáticamente, mediante dispositivos informáticos, o  
+podrá hacerse solicitando la colaboración de los servicios técnicos dependientes del órgano de  
+contratación.
+15.2.- Si el órgano de contratación apreciase la existencia de ofertas anormalmente bajas, 
+por concurrir en las mismas  las circunstancias que se indican en el párrafo siguiente, será de  
+aplicación lo establecido al respecto en el artículo 159.4, en relación con el 149 de la LCSP. Por 
+ello, se requerirá a las correspondientes empresas para que justifiquen la viabilidad de sus 
+ofertas en el plazo máximo de los CINCO (5) DÍAS HÁBILES siguientes al requerimiento.
+Son  circunstancias  que  harán  presumir  que  una  oferta  es  anormalmente  baja  las 
+siguientes:
+1.- Cuando, concurriendo una sola empresa licitadora, sea inferior al presupuesto base  
+de licitación en más de 25 unidades porcentuales.
+2.-  Cuando, concurran dos empresas licitadoras, la que sea inferior en más de 20  
+unidades porcentuales a la otra oferta.
+3.- Cuando concurran tres empresas licitadoras, las que sean inferiores en más de 10 
+unidades porcentuales a la media aritmética de las ofertas presentadas. No obstante, se  
+excluirá para el cómputo de dicha oferta de cuantía más elevada cuando sea superior en más  
+de  10  unidades  porcentuales  a dicha media. En cualquier caso, se considerará 
+desproporcionada la baja superior a 25 unidades porcentuales.
+4.- Cuando concurran cuatro o más empresas licitadoras, a las que sean inferiores en 
+más de 10 unidades porcentuales a la media aritmética de las ofertas presentadas. No obstante,
+si entre ellas  existen ofertas que sean superiores a dicha media de más de 10 unidades  
+porcentuales, se procederá al cálculo de una nueva media sólo con las ofertas que no se  
+encuentren en el supuesto  indicado. En todo caso, si el número de las restantes ofertas es 
+inferior a tres, la nueva media se calculará sobre las tres ofertas de menor cuantía.
+En todo caso, serán rechazadas aquellas proposiciones anormalmente bajas por vulnerar 
+la  normativa  sobre  subcontratación  o  no  cumplir  las  obligaciones  aplicables en  materia 
+medioambiental, social o laboral, nacional o internacional.
+15.3.- Los servicios dependientes del órgano de contratación requerirán a la licitadora que 
+obtuvo la mayor puntuación, sin perjuicio de lo establecido en la cláusula 15.2 respecto a las 
+ofertas anormalmente bajas, para que, dentro del plazo de SIETE (7) DÍAS HÁBILES, a contar 
+desde el siguiente a aquel en que haya recibido el requerimiento, presente la documentación que 
+se indica en los apartados siguientes.
+De no cumplir el requerimiento en el plazo señalado, o en el que se le señale para  
+subsanar  los defectos en dicha documentación,  o,  en  su  caso  el  de  presentación  de 
+documentación complementaria, se entenderá que la licitadora ha retirado su oferta y se le  
+impondrá una penalidad económica por importe de mil setecientos noventa y nueve euros, con  
+noventa y un céntimos (1.799,91 €), del presupuesto base de licitación, IGIC excluido. Asimismo, 
+se recabará la misma documentación a la licitadora siguiente, por el orden en que hayan quedado 
+clasificadas las ofertas.
+
+--- página 8 ---
+8
+15.3.1.- Documentación acreditativa de la capacidad de obrar y de la   representación      
+15.3.1.1.-  Las personas  jurídicas  deberán  presentar  escritura  o  documento  de 
+constitución, o de modificación, en su caso, estatutos o acta fundacional en el que consten las  
+normas por las que se regula su actividad, inscritos en el Registro público que corresponda,  
+según el tipo de persona jurídica de que se trate.
+Las empresas no españolas de Estados miembros de la Unión Europea o signatarios del 
+Acuerdo sobre el Espacio Económico Europeo habrán de acreditar su capacidad de obrar  
+mediante presentación de certificación o declaración jurada de estar inscritas en el registro  
+procedente de acuerdo con la legislación del Estado donde están establecidos.
+Las restantes empresas extranjeras deberán acreditar su capacidad de obrar mediante  
+informe de la Misión Diplomática Permanente de España en el Estado correspondiente o en la  
+Oficina Consular en cuyo ámbito territorial radique el domicilio de la empresa
+Así mismo, deberán aportar informe emitido por la correspondiente Oficina Económica y 
+Consular de España en el exterior relativo a que el Estado de su procedencia admite a su vez la 
+participación  de  empresas españolas  en  la  contratación  con  la  Administración,  en  forma 
+substancialmente análoga, o, en su caso, que dicho Estado es signatario del Acuerdo sobre  
+Contratación Pública de la Organización Mundial del Comercio.
+15.3.1.2.- Cuando la entidad propuesta actúe mediante representante, deberá aportarse  
+documento fehaciente acreditativo de la existencia de la representación y del ámbito de sus  
+facultades  para  licitar,  bastanteado  por  el  Servicio  Jurídico  del  Gobierno  de  Canarias.  La 
+aportación de la mera diligencia de bastanteo del documento de apoderamiento podrá suplir la  
+aportación de éste.
+15.3.2.- Documentación acreditativa de no concurrir  causa de prohibición para  
+contratar.
+Deberá aportarse testimonio judicial, certificación administrativa o declaración responsable 
+otorgada ante una autoridad administrativa u organismo profesional cualificado, o mediante acta 
+de manifestaciones ante notario público, de no estar incurso en las prohibiciones para contratar  
+con la Administración establecidas en el artículo 71 de la LCSP.
+15.3.3.-  La presentación del  certificado de estar inscrito en el Registro Oficial de  
+Licitadores y Empresas Clasificadas del Sector Público o en el Registro de Contratistas  
+de la Comunidad Autónoma de Canarias exime de aportar la documentación acreditativa de  
+la capacidad de obrar y de la representación (siempre y cuando la representación sea la misma 
+que conste en el certificado aportado) y de no estar incurso en prohibición de contratar.
+De acuerdo con lo dispuesto en el artículo 19.1.d) del Decreto 48/2009, por el que se  
+establecen en la Administración Pública de la Comunidad Autónoma de Canarias medidas ante 
+la crisis económica y de simplificación administrativa, la licitadora inscrita en el citado Registro  
+podrá, a su elección, sustituir la aportación del correspondiente certificado por una declaración  
+responsable en la que, manifestando estar inscrita en el Registro, y declarando que los datos  
+obrantes en el mismo no han experimentado variación, autorice expresamente al Órgano de  
+contratación para obtener del citado Registro los datos correspondientes.
+15.4.- Presentada dicha documentación, la adjudicación del contrato deberá realizarse 
+en el plazo máximo de los CINCO (5) DÍAS NATURALES siguientes.
+Transcurrido el indicado plazo sin haberse dictado acuerdo sobre la adjudicación, las 
+licitadoras podrán retirar sus ofertas.
+15.5.- La adjudicación deberá ser motivada y notificarse a todas las licitadoras, y 
+publicarse en el perfil del contratante, en los términos establecidos en el artículo 151 de la LCSP.
+15.6.- Si la adjudicataria acepta expresamente la adjudicación del contrato, se dará por 
+formalizado el mismo.
+IV
+EJECUCIÓN DEL CONTRATO
+
+--- página 9 ---
+9
+16.- RESPONSABLE     DEL     CONTRATO   (art. 62 LCSP)
+El órgano de contratación designará una persona física o jurídica, vinculada al ente  
+contratante o ajena a él, como responsable del contrato, quien supervisará la ejecución del  
+mismo, comprobando que su realización se ajusta a lo establecido en el contrato, y cursará al  
+contratista las órdenes e instrucciones del órgano de contratación.
+17.- OBLIGACIONES     DE     LA     CONTRATISTA   (arts. 133.2, 196, 201, 202 y 211.1 LCSP)
+17.1.- La contratista está obligada a cumplir lo establecido en el presente pliego y en el  
+de prescripciones técnicas, así como las instrucciones que, en su caso, le diere el responsable  
+del contrato designado por el órgano de contratación. Asimismo, la persona contratista tiene la  
+obligación de respetar la normativa vigente en materia de protección de datos.
+17.2.- La contratista habrá de cumplir las obligaciones medioambientales, sociales y  
+laborales establecidas en el derecho de la Unión Europea, el derecho nacional, los convenios  
+colectivos o las disposiciones de derecho internacional medioambiental, social y laboral que  
+vinculen al Estado.
+17.3.- La contratista deberá guardar sigilo respecto a los datos o antecedentes que, no  
+siendo públicos o notorios, estén relacionados con el objeto del contrato y hayan llegado a su  
+conocimiento con ocasión del mismo, con arreglo a lo dispuesto en el artículo 133.2 de la LCSP.
+17.4.- La  contratista  está  obligada  a  suministrar  al  órgano  de  contratación,  previo 
+requerimiento y en un plazo de DIEZ (10) DÍAS HÁBILES, toda la información necesaria para el 
+cumplimiento de las obligaciones establecidas en el artículo 4 de la Ley 12/2014, de 26 de  
+diciembre, de Transparencia y Acceso a la información pública.
+La  información  deberá  suministrarse  por  escrito  acompañada  de  una  declaración 
+responsable de la adjudicataria en la que se declare, bajo su responsabilidad, que son ciertos  
+los datos aportados.
+La  presentación  podrá  realizarse  igualmente  mediante  transmisión  por  medios 
+electrónicos o telemáticos, siempre que tales medios estén respaldados por procedimientos que 
+garanticen la autenticidad, confidencialidad de los documentos y el reconocimiento de su firma,  
+de acuerdo con la normativa vigente al respecto.
+17.5.- La  contratista  habrá  de  pagar  a  las  subcontratistas  o  suministradoras  que 
+intervienen en la ejecución del contrato, en las condiciones establecidas en el artículo 216 de la  
+LCSP.
+17.6.- Respecto de los datos de carácter personal a los que tenga acceso en virtud del  
+contrato, el contratista está obligado al cumplimiento de lo dispuesto en disposición adicional  
+vigesimoquinta de la LCSP, y en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de  
+Datos de Carácter Personal y Garantía de los Derechos Digitales, así como al Reglamento que  
+la desarrolla, así como en lo dispuesto en el artículo 28 y resto de normativa prevista en el  
+Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016,  
+relativo a la protección de las personas físicas en lo que respecta al tratamiento de sus datos  
+personales y a la libre circulación de estos datos.
+17.7.- Asimismo,  tiene  las  siguientes  obligaciones,  que  tienen  el  carácter  de  
+obligaciones contractuales esenciales:
+17.7.1.- Si el contrato se le adjudicó en virtud del criterio preferencial previsto en la  
+cláusula 12.3 del presente pliego, estará obligada a mantener las mismas circunstancias que  
+motivaron la adjudicación, durante toda la vigencia del contrato.
+17.7.2.- Cumplir todas las condiciones ofertadas en su proposición. 
+17.7.3.- La obligación del contratista de someterse a la normativa nacional y de la Unión  
+Europea en materia de protección de datos, así como las obligaciones establecidas en este pliego 
+relativas a protección de datos y tratamiento de datos personales que se califican como esenciales 
+a los efectos de lo previsto en la letra f) del apartado 1 del artículo 211 LCSP, en concreto:
+1. La finalidad para la cual se cederán dichos datos.
+
+--- página 10 ---
+10
+2. La obligación del futuro contratista de someterse en todo caso a la normativa na -
+cional y de la Unión Europea en materia de protección de datos, sin perjuicio de lo  
+establecido en el último párrafo del apartado 1 del artículo 202.
+3. La obligación de la empresa adjudicataria de presentar antes de la formalización  
+del contrato una declaración en la que ponga de manifiesto dónde van a estar ubi-
+cados los servidores y desde dónde se van a prestar los servicios asociados a los  
+mismos.
+4. La obligación de comunicar cualquier cambio que se produzca, a lo largo de la vida 
+del contrato, de la información facilitada en la declaración a que se refiere la letra  
+c) anterior.
+La obligación de los licitadores de indicar en su oferta, si tienen previsto subcontratar  
+los servidores o los servicios asociados a los mismos el nombre o el perfil empresarial, definido 
+por referencia a las condiciones de solvencia profesional o técnica, de los subcontratistas a los 
+que se vaya a encomendar su realización.
+17.-BIS PROTECCIÓN   DE DATOS Y TRATAMIENTO DE DATOS PERSONALES  . 
+Todas las obligaciones contenidas en esta cláusula tienen carácter esencial a efectos de 
+lo previsto en el artículo 211.1.f) LCSP.
+1.- El contratista se compromete a mantener en reserva y secreto y no revelar de ninguna 
+forma, a ninguna persona física o jurídica que no sea parte del contrato, los datos e informaciones 
+facilitados por la Dirección General de Transformación Digital de los Servicios Públicos, y que  
+sean concernientes a la prestación del contrato.
+2.- Respecto a los datos personales a los que tenga acceso en virtud del contrato, el  
+contratista queda sujeto al cumplimiento de las siguientes obligaciones: 
+De conformidad con la Disposición Adicional 25ª de la Ley 9/2017, de 8 de noviembre, de 
+Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las  
+Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero  
+de 2014, los contratos que impliquen el tratamiento de datos de carácter personal deberán  
+respetar en su integridad el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo  
+de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al  
+tratamiento de datos personales (RGPD), y la Ley Orgánica 3/2018, de 5 de diciembre, de  
+Protección de Datos Personales y garantía de los derechos digitales.
+Dado que la contratación implica el tratamiento del contratista a datos de carácter  
+personal  de  cuyo  tratamiento  es  responsable  la  entidad  contratante,  aquél  tendrá  la 
+consideración de encargado del tratamiento.
+Tratamiento de datos de carácter personal:
+Para el cumplimiento del objeto de este pliego, el adjudicatario deberá tratar los datos  
+personales de los cuales la Dirección General  de Transformación Digital de los Servicios  
+Públicos  es  responsable,  como  se  especifica  en  el  Anexo  III  a  este  pliego,  denominado 
+“Tratamiento de Datos Personales”. Ello conlleva que el adjudicatario actúe en calidad de  
+encargado del tratamiento y, por tanto, tiene el deber de cumplir con la normativa vigente en  
+cada momento, tratando y protegiendo debidamente los datos personales. Por tanto, sobre la  
+Dirección General de Transformación Digital de los Servicios Públicos recae la responsabilidad  
+del responsable del tratamiento, y sobre el adjudicatario la de encargado de tratamiento. Si el  
+adjudicatario destinase los datos a otra finalidad, los comunicara o los utilizara incumpliendo las 
+estipulaciones del contrato y/o la normativa vigente, será considerado también como responsable 
+del tratamiento, respondiendo de las infracciones en que hubiera incurrido personalmente.
+El Anexo “Tratamiento de Datos Personales” describe en detalle los datos personales a  
+proteger, así como el tratamiento a realizar y las medidas a implementar por el adjudicatario.
+En caso de que como consecuencia de la ejecución del contrato resultara necesario en  
+algún momento la modificación de lo estipulado en el Anexo “Tratamiento de Datos Personales”, 
+
+--- página 11 ---
+11
+el adjudicatario lo requerirá razonadamente y señalará los cambios que solicita. En caso de que 
+la Dirección General de Transformación Digital de los Servicios Públicos, como responsable,  
+estuviese de acuerdo con lo solicitado emitiría un Anexo “Tratamiento de Datos Personales”  
+actualizado, de modo que el mismo siempre recoja fielmente el detalle del tratamiento.
+Deberá también -el adjudicatario- comunicar cualquier cambio que se produzca a lo largo 
+de la vida del contrato, de la información facilitada en la declaración presentada antes de la  
+formalización del contrato relativa a la ubicación de los servidores y desde dónde se van a prestar 
+los servicios asociados a los mismos. Esta obligación tiene carácter esencial a los efectos de lo  
+previsto en el artículo 211.1.f) LCSP.
+Estipulaciones como encargado de tratamiento:
+El contratista, de conformidad con el artículo 28 del RGPD debe asumir y garantizar el  
+cumplimiento de las siguientes obligaciones y que se cumplimentan con lo detallado en el Anexo 
+“Tratamiento de Datos Personales:
+Únicamente tratará los datos personales conforme a las instrucciones documentadas en 
+el presente pliego o demás documentos contractuales aplicables a la ejecución del contrato y  
+aquellas que reciba del responsable del tratamiento por escrito en cada momento. No obstante, 
+el adjudicatario informará inmediatamente al responsable del tratamiento, cuando, en su opinión, 
+una instrucción sea contraria a la normativa de protección de datos personales aplicable en cada 
+momento.
+No obstante, el adjudicatario informará inmediatamente al responsable del tratamiento,  
+cuando, en su opinión, una instrucción sea contraria a la normativa de protección de datos  
+personales aplicable en cada momento.
+Utilizar y aplicar los datos personales única y exclusivamente para la realización del  
+objeto del contrato.
+Tratar los datos personales de conformidad con los criterios de seguridad y el contenido  
+previstos en el artículo 32 del RGPD, así como observar y adoptar las medidas técnicas y  
+organizativas de seguridad necesarias o convenientes para asegurar la confidencialidad, secreto 
+e integridad de los datos personales a los que tenga acceso.
+En particular, y sin carácter limitativo, se obliga a aplicar las medidas de protección del  
+nivel de riesgo y seguridad detalladas en el Anexo “Tratamiento de Datos Personales”.
+No facilitar ningún dato personal a terceros y mantener la más absoluta confidencialidad. 
+El contratista se compromete a no revelar, transferir, ceder o comunicar dichos datos o los  
+ficheros creados con ellos, ya sea verbalmente o por escrito, por medios electrónicos, papel o  
+mediante acceso informático, ni siquiera para su visualización, a ningún tercero.
+Esta obligación se extiende a toda persona que pudiera intervenir en cualquier fase del  
+tratamiento por cuenta del adjudicatario, siendo deber del adjudicatario instruir a las personas  
+que de él dependan, de este deber de secreto, y del mantenimiento de dicho deber aun después 
+de la terminación de la prestación del servicio o de su desvinculación, por lo que deberá  
+garantizar la formación necesaria en materia de protección de datos personales de las personas 
+autorizadas a su tratamiento.
+Entregar al responsable del contrato, antes del inicio de los trabajos, una relación de todo 
+el personal que tenga acceso a los datos de carácter personal con funciones y lugar donde van  
+a desarrollar el trabajo. Si durante la ejecución del contrato fuera necesario incorporar a otras  
+personas entregará una nueva relación en un plazo máximo de una semana desde que sucediera 
+este hecho.
+Tanto  la  contratista  como  todo  el  personal  que  figure  en  estas  relaciones  deberá 
+comprometerse formalmente por escrito a mantener el secreto profesional con respecto a los  
+datos tratados y a cumplir con las medidas de seguridad correspondientes, de las que les debe  
+informar convenientemente.
+En caso de que de acuerdo con el RGPD sea necesario designar un delegado de  
+protección de datos, o cuando la designación sea voluntaria, se comunicará al responsable del  
+
+--- página 12 ---
+12
+tratamiento así  como la identidad y datos de contacto de la(s) persona(s) física(s) designada(s) 
+por el adjudicatario como sus representante(s) a efectos de protección de los datos personales  
+(representantes del encargado de tratamiento), responsable(s) del cumplimiento de la regulación 
+del tratamiento de datos personales, en las vertientes legales/formales y en las de seguridad.
+Una vez finalizada la prestación contractual objeto de este pliego, se compromete, según 
+corresponda y se instruya en el Anexo “Tratamiento de Datos Personales” a devolver o destruir:
+Los datos personales a los que haya tenido acceso,
+Los datos personales generados por el adjudicatario por causa del tratamiento, y
+Los soportes y documentos en que cualquiera de estos datos conste, sin conservar copia 
+alguna; salvo que se permita o requiera por Ley o por norma de derecho comunitario su  
+conservación, en cuyo caso no procederá la destrucción.
+El encargado del tratamiento podrá, no obstante, conservar los datos durante el tiempo  
+que puedan derivarse responsabilidades de su relación con el responsable del tratamiento. En  
+este último caso, los datos personales se conservarán bloqueados y por el tiempo mínimo,  
+destruyéndose de forma segura y definitiva al final de dicho plazo.
+Según corresponda y se indique en el Anexo de “Tratamiento de Datos Personales” el  
+tratamiento de los datos se llevará a cabo en los sistemas/dispositivos de tratamiento, manuales 
+y automatizados y en las ubicaciones que en el citado Anexo se especifican, equipamiento que  
+podrá estar bajo el control de la Dirección General de Transformación Digital de los Servicios  
+Públicos, como responsable, o bajo el control directo o indirecto del adjudicatario u otros que  
+hayan sido expresamente autorizados por escrito por la Dirección General de Transformación  
+Digital de los Servicios Públicos, según se establezca en dicho Anexo en su caso, y únicamente 
+por los usuarios o perfiles de usuarios asignados a la ejecución del objeto de este pliego.
+Salvo que se indique otra cosa en el Anexo “Tratamiento de Datos Personales” en el cual 
+no puede establecerse excepción alguna de que los tratamientos de datos personales de los  
+sistemas de información y comunicaciones para la recogida, almacenamiento, procesamiento y  
+gestión  del  censo  electoral,  los  padrones  municipales  de  habitantes  y  otros  registros  de 
+población, datos fiscales relacionados con tributos propios o cedidos, y datos de los usuarios del 
+sistema nacional de salud deberán ubicarse y prestarse dentro del territorio de la Unión Europea, 
+o se instruya expresamente por la Dirección General de Transformación Digital de los Servicios  
+Públicos, como responsable, que el adjudicatario se obliga a tratar los datos personales dentro  
+del territorio de la Unión Europea, no tratándolos fuera de este espacio ni directamente ni a través 
+de cualesquiera subcontratistas autorizados conforme a lo establecido en este pliego o demás  
+documentos contractuales, salvo que esté obligado a ello en virtud del derecho de la Unión o del 
+Estado miembro que le resulte de aplicación.
+En el caso de que por causa de derecho nacional o de la Unión Europea el adjudicatario 
+se vea obligado a llevar alguna transferencia de datos, el adjudicatario informará por escrito a la 
+Dirección General de Transformación Digital de los Servicios Públicos, como responsable, de  
+esa  exigencia  legal,  con  antelación  suficiente  a  efectuar  el  tratamiento,  y  garantizará  el 
+cumplimiento de cualesquiera requisitos legales que sean aplicables a la Dirección General de  
+Transformación Digital de los Servicios Públicos, salvo que el derecho aplicable lo prohíba por  
+razones importantes de interés público.
+De conformidad con el artículo 33 RGPD, el contratista deberá comunicar a AEPD, de  
+forma inmediata y a más tardar en el plazo de 72 horas, cualquier violación de la seguridad de  
+los datos personales a su cargo de la que tenga conocimiento, con toda la información relevante 
+para la documentación y comunicación de la incidencia o cualquier fallo en su sistema de  
+tratamiento y gestión de la información que haya tenido o pueda tener que ponga en peligro la  
+seguridad de los datos personales, su integridad o su disponibilidad, así como cualquier posible 
+vulneración de la confidencialidad como consecuencia de la puesta en conocimiento de terceros 
+de los datos e informaciones obtenidos durante la ejecución del contrato. Comunicará con  
+diligencia información detallada al respecto, incluso concretando qué interesados sufrieron una  
+pérdida de confidencialidad.
+
+--- página 13 ---
+13
+Cuando una persona ejerza un derecho (de acceso, rectificación, supresión y oposición, 
+limitación del tratamiento, portabilidad de datos, y a no ser objeto de decisiones individualizadas 
+automatizadas, u otros reconocidos por la normativa aplicable (conjuntamente, los “Derechos”),  
+ante  el  encargado  del  tratamiento,  este  debe  comunicarlo  con  la  mayor  prontitud.  La 
+comunicación debe hacerse de forma inmediata y en ningún caso más allá del día laborable  
+siguiente  al  de  la  recepción  del  ejercicio  de  derecho,  juntamente,  en  su  caso,  con  la 
+documentación y otras informaciones que puedan ser relevantes para resolver la solicitud que  
+obre en su poder, e incluyendo la identificación fehaciente de quien ejerce el derecho.  Asistirá  
+al responsable del tratamiento siempre que sea posible, para que esta pueda cumplir y dar  
+respuesta a los ejercicios de Derechos.
+Colaborar con el responsable del tratamiento en el cumplimiento de sus obligaciones en  
+materia  de  medidas  de  seguridad,  comunicación  y/o  notificación  de  brechas  (logradas  e 
+intentadas) de  medidas de seguridad  a las autoridades competentes o  los interesados, y  
+colaborar en la realización de evaluaciones de impacto relativas a la protección de datos  
+personales y consultas previas al respecto a las autoridades competentes; teniendo en cuenta  
+la naturaleza del tratamiento y la información de la que disponga.
+Asimismo, pondrá a disposición del responsable del tratamiento toda la información  
+necesaria para demostrar el cumplimiento de las obligaciones previstas en este pliego y demás  
+documentos y colaborará en la realización de auditorías e inspecciones llevadas a cabo, en su  
+caso, por la AEPD.
+En los casos en que la normativa lo exija, artículo 30.5 RGPD, el adjudicatario deberá  
+llevar, por escrito, incluso en formato electrónico, y de conformidad con lo previsto en el artículo 
+30.2 RGPD, un registro de todas las categorías de actividades de tratamiento efectuadas por  
+cuenta de la Dirección General de Transformación Digital de los Servicios Públicos que contenga 
+las circunstancias señaladas en el precepto citado.
+Deberá disponer de evidencias que demuestren el cumplimiento de la normativa de  
+protección de datos personales y del deber de responsabilidad activa, que habrá de poner a  
+disposición de la Dirección General de Transformación Digital de los Servicios Públicos, como  
+responsable, a su requerimiento. Asimismo, durante la vigencia del contrato pondrá a disposición 
+de la Dirección General de Transformación Digital de los Servicios Públicos, como responsable, 
+toda información, certificaciones y auditorías realizadas en cada momento.
+El encargado del tratamiento, en el momento de la recogida de los datos, debe facilitar la 
+información relativa a los tratamientos de datos que se van a realizar. La redacción y el formato  
+en que se facilitará la información se debe consensuar con el responsable antes del inicio de la  
+recogida de los datos.
+Las obligaciones en materia de protección de datos establecidas en este pliego, así como 
+el Anexo correspondiente relativo al Tratamiento de Datos Personales, constituyen el contrato  
+de  encargo  de  tratamiento  entre  el  responsable  del  tratamiento  la  Dirección  General  de 
+Transformación Digital de los Servicios Públicos, como responsable, y el adjudicatario. Las  
+obligaciones y prestaciones que se contienen no son retribuibles de forma distinta de lo previsto 
+en el presente pliego y demás documentos contractuales y tendrán la misma duración que la  
+prestación del contrato objeto de este pliego, prorrogándose en su caso por periodos iguales a  
+este. No obstante, a la finalización del contrato, el deber de secreto continuará vigente, sin límite 
+de tiempo, para todas las personas involucradas en la ejecución del contrato. 
+Para el cumplimiento del objeto de este pliego, el adjudicatario no precisa que acceda a  
+ningún otro dato personal, responsabilidad de la Dirección General de Transformación Digital de 
+los Servicios Públicos, que no sean los especificados en el Anexo “Tratamiento de Datos  
+Personales” y, por tanto, no está autorizado en caso alguno al acceso o tratamiento de otro dato. 
+Si se produjera una incidencia durante la ejecución del contrato que conllevará un acceso  
+accidental  o  incidental  a  datos  personales,  responsabilidad  de  la  Dirección  General  de 
+Transformación Digital de los Servicios Públicos, no contemplados en el Anexo “Tratamiento de 
+Datos Personales”, el adjudicatario deberá ponerlo en conocimiento de la Dirección General de  
+Transformación Digital de los Servicios Públicos, como responsable en concreto de su delegado 
+
+--- página 14 ---
+14
+de protección de datos, con la mayor diligencia y a más tardar en el plazo de 72 horas.
+Encargos de tratamiento asociados a subcontrataciones:
+Cuando  el  contratista  principal  concierte  con  terceros  la  realización  parcial  de  la 
+prestación  objeto  del  contrato  y  el  subcontratista  deba  acceder  a  datos  personales,  el 
+adjudicatario lo pondrá en conocimiento previo del responsable del tratamiento, identificando qué 
+tratamiento de datos personales conlleva, para que el responsable del tratamiento autorice la  
+subcontratación.
+Es requisito imprescindible para la autorización:
+Que el tratamiento de datos personales por parte del subcontratista se ajuste a la  
+legalidad vigente, al pliego y a las instrucciones del responsable del tratamiento.
+Que el adjudicatario y la empresa subcontratista formalicen un contrato u otro acto jurídico 
+de encargo de tratamiento de datos en los términos previstos en el presente pliego, el cual será 
+puesto a disposición del responsable del tratamiento.
+El adjudicatario informará al responsable del tratamiento de cualquier cambio en relación 
+a la incorporación o sustitución de otros subcontratistas, con el fin de otorgar el responsable del 
+tratamiento la autorización correspondiente.
+El subcontratista, que también tendrá la condición de encargado del tratamiento, está  
+obligado  igualmente  a  cumplir  las  obligaciones  establecidas  en  este  documento  para  el 
+encargado  del  tratamiento  y  las  instrucciones  que  dicte  el  responsable  del  tratamiento. 
+Corresponde al encargado del tratamiento inicial, regular la nueva relación de forma que el  
+nuevo encargado del tratamiento (o subencargado) quede sujeto a las mismas condiciones  
+(instrucciones, obligaciones, medidas de seguridad y resto de condiciones establecidas), y con 
+los mismos requisitos formales que él, en lo referente al adecuado tratamiento de los datos  
+personales  y  a  la  garantía  de  los  derechos  de  las  personas  afectadas.  En  el  caso  de 
+incumplimiento por parte del subencargado, el encargado del tratamiento inicial seguirá siendo 
+plenamente responsable ante el responsable del tratamiento en lo referente al cumplimiento de 
+las obligaciones. 
+18.- EJECUCIÓN DEL CONTRATO
+18.1.- El contrato se ejecutará con estricta sujeción a las estipulaciones contenidas en el 
+presente pliego de cláusulas administrativas particulares, y en el pliego de prescripciones técnicas.
+18.2.-  La  ejecución  del  contrato  se  realizará  a  riesgo  y  ventura  de  la  contratista, 
+respondiendo éste de la calidad de los bienes y de los vicios ocultos que pudieran apreciarse  
+durante el plazo de garantía. (arts.197 y 311.4 LCSP).
+Será obligación de la contratista indemnizar todos los daños y perjuicios que se causen,  
+por sí o por personal o medios dependientes del mismo, a terceros como consecuencia de las  
+operaciones que requiera la ejecución del contrato. Cuando tales daños y perjuicios hayan sido  
+ocasionados como consecuencia inmediata y directa de una orden de la Administración será  
+responsable la misma dentro de los límites señalados en las leyes. (art. 196 LCSP)
+La contratista será responsable igualmente de los daños y perjuicios que se originen  
+durante la ejecución del contrato, tanto para la Administración como para terceras personas, por 
+defectos o insuficiencias técnicas de su trabajo, o por los errores materiales, omisiones e  
+infracciones de preceptos legales o reglamentarios en los que el trabajo haya incurrido, de  
+acuerdo con lo establecido en el artículo 311 de la LCSP. Si el contrato se ejecutara de forma  
+compartida  con  más  de  un  profesional,  todos  responderán  solidariamente  de  las  
+responsabilidades a que se refiere esta cláusula.
+18.3.- Asimismo, en la ejecución del contrato la contratista habrá de cumplir la condición 
+siguiente:
+Eliminar las desigualdades entre el hombre y la mujer en dicho mercado, favoreciendo la 
+aplicación de medidas que fomenten la igualdad entre mujeres y hombres en el trabajo; 
+favorecer la mayor participación de la mujer en el mercado laboral y la conciliación del trabajo  
+
+--- página 15 ---
+15
+y la vida familiar.
+El cumplimiento de dichas condiciones tiene el carácter de  obligación contractual  
+esencial.
+18.4.- Corresponde exclusivamente a la empresa contratista la selección del personal que, 
+reuniendo, en su caso, los requisitos de titulación y experiencia exigidos, formará parte del equipo 
+de trabajo adscrito a la ejecución del contrato, sin perjuicio de la verificación por parte de la entidad 
+contratante del cumplimiento de aquellos requisitos.
+La empresa contratista asume la obligación de ejercer de modo real, efectivo y continuo  
+sobre el personal integrante del equipo de trabajo encargado de la ejecución del contrato, el  
+poder de dirección inherente a todo empresario. En particular, asumirá la concesión de permisos, 
+licencias y vacaciones, las sustituciones de los trabajadores en casos de baja o ausencia, las  
+obligaciones legales en materia de prevención de riesgos laborales, el ejercicio de la potestad  
+disciplinaria, así como cuantos derechos y obligaciones se deriven de la relación contractual  
+entre empleado y empleador.
+La  empresa  contratista  velará  especialmente  porque  los  trabajadores  adscritos  a  la 
+ejecución del contrato desarrollen su actividad sin extralimitarse en las funciones desempeñadas 
+respecto de la actividad delimitada en los pliegos como objeto del contrato.
+En el caso de que la empresa contratista incumpla las obligaciones asumidas en relación  
+con  su  personal,  dando  lugar  a  que  el  órgano  o  ente  contratante  resulte  sancionado  o 
+condenado, la empresa contratista deberá indemnizar a éste de los daños y perjuicios que se  
+deriven de tal incumplimiento y de las actuaciones de su personal. 
+La efectiva contratación y adscripción de dicho personal a la ejecución del contrato se  
+considera obligación contractual esencial.
+18.5.- En  la  ejecución  del  contrato  el  contratista  habrá  de  cumplir  las  condiciones 
+siguientes (art. 202 de la LCSP):
+Deberá indicar el convenio colectivo que será de aplicación a los trabajadores que realicen 
+la actividad objeto del contrato, así como facilitar cuanta información se requiera sobre las  
+condiciones de trabajo que, una vez adjudicado el contrato, se apliquen efectivamente a los  
+trabajadores.
+Deberá, a lo largo de toda la ejecución del contrato, abonar a los trabajadores el salario  
+mensual, en la cuantía y en los periodos establecidos en el convenio colectivo de aplicación  
+según la categoría profesional que corresponda, sin que en ningún caso el salario a abonar  
+pueda ser inferior a aquel. El adjudicatario deberá estar al corriente de pago de las nóminas del 
+personal que participe en la ejecución del contrato. Se considerará que incumple la citada  
+condición cuando se produzca el impago o un retraso en el abono de las nóminas en más de  
+dos meses. El órgano de contratación podrá comprobar el estricto cumplimiento de los pagos  
+que la empresa contratista ha de hacer a los trabajadores que participen en la ejecución del  
+contrato. A tal efecto podrá exigir, junto a la factura mensual, una certificación emitida por la  
+representación legal de la empresa acreditativa de que se encuentra al corriente en el pago de  
+las nóminas de acuerdo a las retribuciones fijadas en el convenio y la fecha en que fueron  
+abonadas.
+Toda persona cuya dedicación al proyecto sea del 100% (1800 horas anuales) no podrá  
+estar trabajando en otros proyectos. Igualmente, para los que su dedicación sea parcial e inferior 
+al 100%, en el caso de estar trabajando en otros proyectos, la suma del total de dedicación de  
+todos los proyectos no podrá superar el 100% de una jornada a tiempo completo. En cualquier  
+caso, el adjudicatario deberá informar qué personal está trabajando en otros proyectos y de  
+estarlo, deberá informar de los otros proyectos en los que trabaja y acreditar que la suma del  
+total de dedicación no supera el 100%.
+El  cumplimiento  de  dichas  condiciones  tiene  el  carácter  de  obligación  contractual 
+esencial.
+18.6.- El desarrollo y puesta a disposición de los productos objeto del presente contrato  
+lleva aparejada la cesión a la Administración contratante del derecho de propiedad intelectual o  
+industrial de dichos productos, pudiendo ésta, además, autorizar su uso a los entes, organismos 
+y entidades pertenecientes al sector público a que se refiere el artículo 3.1 de la LCSP.
+
+--- página 16 ---
+16
+18.7.- En la ejecución del presente contrato el contratista queda obligado a someterse a  
+la normativa nacional y de la Unión Europea en materia de protección de datos. Esta obligación 
+tiene la consideración de condición especial en relación con la ejecución del contrato, de  
+conformidad con lo dispuesto en el artículo 202 LCSP, con el carácter de obligación contractual  
+esencial, a los efectos establecidos en el artículo 211.1.f) LCSP
+19.- GASTOS   E     IMPUESTOS POR     CUENTA     DE LA     CONTRATISTA      
+19.1.- Son de cuenta de la contratista los gastos de formalización del contrato, si éste se 
+elevare a escritura pública.
+19.2.-  Tanto  en  las  proposiciones  presentadas  por  las  licitadoras,  como  en  los 
+presupuestos de adjudicación se entienden comprendidos todas las tasas e impuestos, directos e 
+indirectos, y arbitrios municipales que graven la ejecución del contrato, que correrán por cuenta 
+de la contratista, salvo el Impuesto General Indirecto Canario (IGIC) que deba ser soportado por 
+la  Administración,  que  se indicará como partida  independiente,  tanto  en la proposición 
+presentada por la contratista, como en el documento de formalización del contrato.
+Se consideran también incluidos en la proposición de la adjudicataria y en el precio del  
+contrato todos los gastos que resultaren necesarios para la ejecución del contrato, incluidos los  
+posibles desplazamientos.
+20.- ABONOS     AL     CONTRATISTA   (arts. 198 LCSP).
+20.1.- La contratista tendrá derecho al abono de las prestaciones efectivamente realizadas 
+a satisfacción de la Administración contratante.
+El pago del precio del contrato se realizará en la forma que a continuación se detalla, de  
+acuerdo con las condiciones y los plazos previstos en la cláusula 10 del presente pliego, y previo 
+informe favorable o conformidad del empleado público que reciba o supervise el trabajo, o en su  
+caso, del designado por el órgano de contratación como responsable del mismo: 
+El pago del precio se realizará mediante certificaciones trimestrales que incluirán informe  
+detallado de los trabajos realizados.
+20.2.- El pago se realizará contra factura, que se presentará en formato electrónico y 
+habrá de reunir los requisitos exigidos en la normativa aplicable.
+La contratista deberá enviar dicha factura, dentro de los TREINTA (30) DÍAS siguientes 
+a la fecha de la prestación efectiva del servicio, a través del Punto General de Entrada de  
+Facturas electrónicas, regulado en la Orden 22 de diciembre de 2014, modificada por la Orden  
+de 18 de enero de 2021, debiéndose acceder a dicho Punto, a través de la sede electrónica de  
+la Consejería de Hacienda, identificándose mediante alguno de los sistemas de firma electrónica 
+admitidos en la misma.
+Para la presentación de la factura electrónica, será necesario identificar la Oficina Con-
+table, Órgano gestor y Unidad de Tramitación: Dirección General de Transformación Digital de  
+los Servicios Públicos
+- Oficina contable: Código: A05003248
+- Órgano Gestor: A05003248
+- Unidad de Tramitación: A05003248
+La presentación de las facturas podrá hacerse por alguna de las formas de comunicación 
+electrónica establecida en la legislación básica del Estado, debiendo respetar las limitaciones  
+relativas al número, tamaño y formato de archivos electrónicos, establecidas con carácter general 
+en la sede electrónica de la Consejería competente en materia de Hacienda.
+La presentación de facturas electrónicas exigirá que la contratista y en su caso, el  
+endosatario de las mismas esté dado de alta en la base de terceros acreedores de la Comunidad 
+Autónoma de Canarias.
+Se excluyen de la obligación del uso de la factura electrónica y de su presentación a 
+través del punto general de entrada, las facturas, cualquiera que sea la personalidad jurídica del 
+proveedor, cuyo importe sea igual o inferior a 1.000€, así como las emitidas por los proveedores 
+a los servicios en el exterior de la Administración Pública de la Comunidad Autónoma de Canarias 
+
+--- página 17 ---
+17
+y por las personas físicas. En estos supuestos, la persona contratista deberá presentar las  
+facturas en el registro administrativo del órgano de contratación, sito en C/ Ruben Marichal  
+López, 12, Urb. La Ninfa-Ifara, 38071 Santa Cruz de Tenerife; y C/Cebrián, 3-1º, 35071  Las 
+Palmas  de  Gran  Canaria.  El  órgano  de  contratación  deberá  constar  en  la  factura  como 
+destinatario de la misma, siendo el órgano competente para su tramitación y contabilización.
+20.3.- Si la prestación se ha recibido de conformidad y la  factura se ha tramitado  
+correctamente por la contratista, la Administración  contratante deberá abonarla dentro de los  
+TREINTA (30) DÍAS siguientes a la fecha del acto de recepción o conformidad.
+Si la contratista incumpliera el plazo fijado en este pliego para la presentación de la  
+factura, o ésta se le devolviera por no reunir los requisitos exigidos, el plazo de para efectuar el  
+abono se contará desde la fecha de la correcta presentación de la factura.
+En caso de demora por la Administración en el pago del precio, ésta deberá abonar a la  
+contratista, a partir del cumplimiento de dicho plazo, los intereses de demora y la indemnización 
+por los costes de cobro en los términos previstos en la Ley 3/2004, de 29 de diciembre,  por la 
+que se establecen medidas de lucha contra la morosidad en las operaciones comercia-les.
+Si la demora en el pago fuese superior a cuatro meses, contados a partir del vencimiento 
+del plazo a que se refiere el párrafo anterior, la contratista podrá proceder, en su caso, a la  
+suspensión del cumplimiento del contrato, debiendo comunicar a la  Administración con un mes 
+de antelación, tal circunstancia, a efectos del reconocimiento de los derechos que puedan  
+derivarse de dicha suspensión, en los términos establecidos en el LCSP.
+Si la demora de la Administración fuese superior a seis meses, contados a partir del  
+vencimiento del plazo a que se refiere el párrafo primero de la presente cláusula, la contratista  
+tendrá derecho, asimismo, a resolver el contrato y al resarcimiento de los perjuicios que como  
+consecuencia de ello se le originen.
+El procedimiento para hacer efectivas las deudas de la  Administración contratante será 
+el establecido en el artículo 199 de la LCSP.
+20.4.- La contratista podrá ceder a una tercera persona, por cualquiera de los medios 
+legalmente establecidos, su derecho a cobrar el precio del contrato, pero para que dicha cesión 
+surta efectos, y la Administración expida el mandamiento de pago a favor del cesionario, es 
+preciso que se le notifique fehacientemente a ésta última el acuerdo de cesión.
+21.- INCUMPLIMIENTOS     DEL     CONTRATO   (art. 192 LCSP)
+21.1.- Incumplimiento     de     plazos      
+21.1.1.- La contratista queda obligada al cumplimiento de los plazos establecidos en la  
+cláusula 10 del presente pliego.
+21.1.2.- Si llegado el final de dichos plazos, la contratista hubiere incurrido en demora, por 
+causa a ella imputable, la Administración podrá optar indistintamente, por la resolución del contrato 
+o por la imposición de las penalidades diarias en la proporción de 0,60 euros por cada 1.000 euros 
+del precio del contrato. 
+Cada vez que las penalidades por demora alcancen un múltiplo del 5 por 100 del precio  
+del  contrato,  IGIC  excluido,  el  órgano  de  contratación  estará  facultado  para  proceder  a  la 
+resolución  del  mismo  o  acordar  la  continuidad  de  su  ejecución  con  imposición  de  nuevas 
+penalidades.
+Esta misma facultad tendrá la Administración respecto al incumplimiento por parte de la  
+contratista de los plazos parciales o cuando la demora en el cumplimiento de aquéllos haga  
+presumir razonablemente la imposibilidad del cumplimiento del plazo total.
+21.1.3.- La constitución en mora de la contratista no requerirá intimación previa por parte 
+de la Administración.
+21.2.- Cumplimiento defectuoso o incumplimiento parcial de la ejecución del objeto 
+del contrato
+21.2.1.- En el caso de que la contratista realizara defectuosamente el objeto del 
+contrato, o incumpliera los compromisos adquiridos en virtud del presente contrato, o las
+condiciones especiales de ejecución establecidas en presente pliego, el órgano de contratación 
+podrá optar por resolver el contrato con incautación de la garantía constituida, o bien imponer  
+
+--- página 18 ---
+18
+una penalización económica por importe del 10 % del precio del contrato, IGIC excluido.
+21.2.2.-  Cuando  la  contratista,  por  causas  a  él  imputables,  hubiere  incumplido 
+parcialmente la ejecución de las prestaciones definidas en el contrato, el órgano de contratación 
+podrá optar, indistintamente, por su resolución, o por imponer las siguientes penalidades:
+Soporte a usuarios
+A efectos de penalización se tendrá en cuenta, para cada periodo de facturación, los  
+incumplimientos del acuerdo de nivel de servicio conforme a la siguiente fórmula:
+P-SU = NI * PB       Si % cumplimiento inferior al 95% (*)
+Siendo:
+P-SU = Penalización correspondiente al servicio de soporte a usuarios
+NI = Número de incidencias, peticiones o consultas que han incumplido el ANS
+PB = Penalización Base que se establece en 25,00 €.
+(*) La penalización sólo se aplicará para el caso de que el ANS exigido u ofertado se  
+cumpla en un porcentaje inferior al 95% o al que se haya podido adjudicar como mejora.
+Actuaciones que conlleven planificación y asignación de recursos
+Todas las actuaciones que conlleven planificación deberán ser consultadas a la dirección 
+del proyecto para su aprobación. Se detallará, en cada caso, el tiempo y recursos estimados  
+fijando con claridad una fecha de finalización. 
+El tiempo excedido sobre dicha planificación se penalizará de la siguiente forma: Se  
+multiplicará el número de días de retraso por encima de la desviación máxima permitida del  
+20% por el importe base que resulte de dividir el importe de adjudicación (sin IGIC) por 9 meses 
+(270 días) y por el número de componentes del equipo mínimo.
+                           Importe adjudicación
+P-RE = --------------------------------- * nº días retraso * factor corrección
+                  270 
+Siendo: 
+P-RE  =  Penalización  correspondiente  a  retrasos  en  actuaciones  que  conlleven 
+planificación y asignación de recursos
+Factor corrección =
+       1 = prioridad normal y baja
+                               2 = prioridad alta
+                               3 = prioridad urgente
+Estimación y planificación de tareas pendientes
+Suponiendo que el importe de adjudicación sin IGIC fue de 59.000 €, el incumplimiento 
+del ANS establecido para la estimación y planificación de tareas pendientes establecido en el  
+apartado 3.4.2 o el que se puede establecer como mejora y tanto para las nuevas tareas  
+pendientes se penalizará conforme a la siguiente fórmula:
+                         
+ Importe adjudicación
+P-RP = --------------------------------- * nº días retraso  * factor de corrección
+                270 
+Siendo: 
+P-RP  =  Penalización  correspondiente  a  retrasos  en  estimar  y  planificar  tareas 
+pendientes al inicio del servicio
+Reiteración errores
+Con el objetivo de primar la calidad de los desarrollos realizados, se penalizará el  
+mantenimiento correctivo debido a errores imputables a la empresa al adjudicatario conforme  
+a la siguiente fórmula:
+              Importe adjudicación
+P-ER = --------------------------------- * días hasta resolución * Número errores
+                270
+Siendo: 
+P-ER = Penalización correspondiente a mantenimiento correctivo derivado de errores  
+cometidos en desarrollos anteriores
+
+--- página 19 ---
+19
+Días hasta la resolución = número de días que transcurrieron desde que se detectó el  
+error hasta su efectiva resolución. Se cuentan días naturales y contabiliza tanto el día de la  
+detección como el día de la resolución.
+Número de errores = Número de errores que se han producido hasta ese momento en  
+el evolutivo/desarrollo origen
+Sustituciones equipo mínimo
+Conforme a lo previsto en el apartado 3.3 del pliego de prescripciones técnicas de  
+modificaciones en el equipo mínimo de trabajo, cada sustitución que no cumpla con el periodo 
+de solapamiento mínimo establecido en el pliego y sus requisitos formales de notificación se  
+penalizará conforme a la siguiente fórmula:
+Consultor – Titulado medio - MECES2 (Tecnológico):
+                             Importe adjudicación
+P-MO = --------------------------------- * 1,0 * (días solape necesarios – días solape real)
+                                          270 
+Siendo: 
+P-MO = Penalización correspondiente a cada sustitución de un perfil que no cumpla con 
+los requisitos establecidos para los cambios en el equipo de trabajo.
+Días solape necesarios = Número de días de solape que se consideran necesarios  
+entre el perfil saliente y el entrante para la correcta transferencia de conocimientos. En cualquier 
+caso será como mínimo de 15 días.
+Días solape real = Número de días de solape que realmente existieron entre el perfil  
+saliente y el entrante.
+Si durante el plazo de ejecución del servicio, o una vez llegado a la finalización del  
+mismo, el contratista incurre en demoras por causas imputables a éste, la Administración podrá 
+optar indistintamente por la resolución del contrato con pérdida de la garantía constituida o,  
+dadas las circunstancias que concurren en la presente contratación, imponer el sistema de  
+penalizaciones aplicable, según la naturaleza y los compromisos definidos en el servicio, de  
+entre los que se definen en los apartados sucesivos.
+Incumplimiento del equipo mínimo
+Se aplicará una penalización por incumplimiento del equipo mínimo. Es decir, si se  
+produjese la baja de un componente del equipo mínimo y el equipo quedase con menos  
+personas de las  contratadas. El tiempo que el equipo mínimo no esté completo conforme a lo  
+contratado, no sólo se descontará la parte del servicio no prestado sino que además se  
+penalizará por el mismo importe durante los días que el equipo mínimo no esté completo. Una 
+vez completo el equipo mínimo, se aplicaría las penalizaciones establecidas por incumplimiento 
+del periodo mínimo de solape establecido para las sustituciones del equipo mínimo.
+Consultor – Titulado medio:
+                Importe adjudicación
+P-EM = ------------------------------------ * (días incumplimiento)
+                270 
+Siendo: 
+P-EM = Penalización correspondiente a cada recurso que falte respecto del mínimo exigido 
+en los pliegos.
+Días retraso = Número de días dentro del periodo de facturación que falta el recurso.
+Incumplimiento de las obligaciones del tratamiento de datos personales
+Cuando  la  contratista,  por  causas  a  ella  imputables,  hubiera  incumplido  total  o 
+parcialmente las obligaciones definidas en el contrato relativas a la protección de datos, el  
+órgano de contratación podrá optar, indistintamente, por su resolución, con incautación de la  
+garantía constituida, o bien imponer una penalización económica por importe del 10 % del  
+precio del contrato, IGIC excluido.
+En cualquier caso los parámetros y variables, a los efectos del contrato emanante del  
+presente pliego, para determinar el cumplimiento o incumplimiento de los niveles de servicio  
+acordados, son aquellos reflejados en el sistema de seguimiento de incidencias (ticketing) de  
+la DGTDSP, basado en el producto Redmine y será siempre el Comité director propuesto el  
+
+--- página 20 ---
+20
+encargado, en última instancia y a la vista de los informes presentados (documentos, actas,  
+etc.), de aplicar el sistema de penalizaciones y elevarlo a los órganos competentes de la  
+Consejería para su aplicación.
+21.4.- Las penalidades se impondrán por acuerdo del órgano de contratación, adoptado a 
+propuesta del responsable supervisor de la ejecución del contrato, que será inmediatamente  
+ejecutivo, y se harán efectivas mediante deducción de su importe en los abonos a realizar a la 
+contratista, o, cuando no pudieran deducirse de dichos pagos, se harán efectivas sobre la 
+garantía constituida.
+21.5.-  Si  las  penalidades  impuestas  con  arreglo  a  lo  establecido  en  los  apartados 
+anteriores  no  cubriesen  los  daños  ocasionados  a  la  Administración  contratante  por  los 
+incumplimientos de la contratista, aquella le exigirá una indemnización por los daños y perjuicios 
+ocasionados.
+V
+SUBCONTRATACIÓN,     CESIÓN     DEL     CONTRATO     Y     SUCESIÓN     EN     LA         PERSONA     DEL   
+CONTRATISTA  
+22.- SUBCONTRATACIÓN (art. 215, 216,217 y disposición adicional 32 LCSP)
+22.1.- La contratista podrá subcontratar con terceras personas, que no estén inhabilitadas 
+para contratar de acuerdo con el ordenamiento jurídico, o incursas en algunas de las causas de 
+prohibición para contratar con las Administraciones Públicas relacionadas en el artículo 71 de la 
+LCSP, la ejecución parcial del contrato.
+La celebración de los subcontratos estará sometida al cumplimiento de los siguientes  
+requisitos:
+a) Las licitadoras deberán indicar en la oferta la parte del contrato que tengan previsto  
+subcontratar, señalando su importe, y el nombre o el perfil empresarial, definido por referencia a 
+las condiciones de solvencia profesional o técnica, de las subcontratistas a las que se vaya a  
+encomendar su realización. En todo caso, la contratista deberá comunicar por escrito, tras la  
+adjudicación del contrato y, a más tardar, cuando inicie la ejecución de este, al órgano de  
+contratación los datos de contacto y representante o representantes legales del subcontratista, y 
+justificando suficientemente la aptitud de este para ejecutarla por referencia a los elementos  
+técnicos y humanos de que dispone y a su experiencia, y acreditando que el mismo no se  
+encuentra incurso en prohibición de contratar de acuerdo con el artículo 71 de la LCSP.
+b) La contratista principal deberá notificar por escrito al órgano de contratación cualquier 
+modificación que sufra esta información durante la ejecución del contrato principal, y toda la  
+información necesaria sobre los nuevos subcontratistas.
+c) Los subcontratos que no se ajusten a lo indicado en la oferta, por celebrarse con  
+empresarios distintos de los indicados nominativamente en la misma o por referirse a partes de  
+la prestación diferentes a las señaladas en ella, no podrán celebrarse hasta que transcurran  
+veinte días desde que se hubiese cursado la notificación y aportado las justificaciones a que se  
+refiere la letra a) de este apartado, salvo que con anterioridad hubiesen sido autorizados  
+expresamente, siempre que la Administración no hubiese notificado dentro de este plazo su  
+oposición a los mismos. Este régimen será igualmente aplicable si los subcontratistas hubiesen  
+sido identificados en la oferta mediante la descripción de su perfil profesional.
+22.2.- De conformidad con lo establecido en el artículo 202.4 de la LCSP, la subcontratista 
+estará obligada a cumplir las condiciones especiales de ejecución exigidas en la cláusula 18.3  
+del presente pliego.
+22.3.- La contratista deberá pagar a los subcontratistas o suministradores en los términos 
+establecidos en el artículo 216 de la LCSP.
+22.4.- La Administración contratante comprobará que la contratista paga debidamente a 
+las subcontratistas o suministradoras que participan en el contrato.
+Para ello cuando el ente público contratante lo solicite, la contratista adjudicataria le  
+
+--- página 21 ---
+21
+remitirá una relación detallada de las subcontratistas o suministradoras que participen en el  
+contrato  cuando  se  perfeccione  su  participación,  con  indicación  de  las  condiciones  de 
+subcontratación o suministro de cada uno de ellos que guarden relación directa con el plazo de  
+pago.
+Asimismo, a solicitud del ente público contratante, la contratista adjudicataria deberá  
+aportar justificante de cumplimiento de los pagos dentro de los plazos establecidos en el artículo 
+216 de la LCSP y en la Ley 3/2004, de 29 de diciembre, en lo que le sea de aplicación.
+Estas obligaciones se consideran condiciones esenciales en la ejecución del contrato, y  
+su incumplimiento dará lugar a las consecuencias previstas por el ordenamiento jurídico.
+23.- CESIÓN     DEL     CONTRATO      
+La contratista podrá ceder a una tercera persona, en las condiciones que se establecen  
+en esta cláusula, y de conformidad con lo dispuesto en el artículo 214 de la LCSP, los derechos 
+y  obligaciones  dimanantes  del  presente  contrato.  No  se  devolverá  la  garantía  definitiva 
+constituida por la entidad cedente hasta que no se haya constituido la de la cesionaria.
+24.- SUCESIÓN EN LA PERSONA DE LA CONTRATISTA
+En los casos de fusión, escisión, aportación o transmisión de empresas o ramas de  
+actividad de las mismas, continuará el contrato vigente con la entidad resultante, que quedará  
+subrogada en los derechos y obligaciones dimanantes del  mismo, de conformidad con lo  
+establecido en el artículo 98 de la LCSP.
+Es obligación de la contratista comunicar a la Administración cualquier cambio que afecte 
+a su personalidad jurídica, suspendiéndose el cómputo de los plazos legalmente previstos para el 
+abono de las facturas correspondientes hasta que se verifique el cumplimiento de las condiciones 
+de la subrogación.
+Si no pudiese producirse la subrogación por no reunir la entidad a la que se atribuya el  
+contrato las condiciones de solvencia necesarias, se resolverá éste, considerándose a todos los 
+efectos como un supuesto de resolución por culpa de la contratista.
+VI 
+MODIFICACIÓN DE 
+CONTRATO
+25.- MODIFICACIÓN     DEL     CONTRATO   (arts. 190, 203 al 207 LCSP)
+El contrato sólo podrá modificarse por razones de interés público, con arreglo a lo 
+establecido en los apartados siguientes y en los artículos 203 a 207 de la LCSP.
+Las modificaciones del contrato serán obligatorias para la contratista, con la salvedad a 
+que se refiere el artículo 206.1 de la LCSP, y se formalizarán en documento administrativo.
+25.1.- Modificaciones         previstas         en         el         presente         pliego         de         cláusulas         administrativas   
+particulares  
+No se prevé ninguna modificación del contrato, sin perjuicio de aquellas modificaciones 
+referidas en el apartado siguiente.
+25.2.- Modificaciones no previstas: prestaciones adicionales, circunstancias imprevisibles 
+y modificaciones no sustanciales
+No obstante lo anterior, podrán llevarse a cabo modificaciones del contrato cuando  
+concurra alguna de las circunstancias a que se refiere el apartado 2 del artículo 205 de la LCSP, 
+siempre y cuando no alteren las condiciones esenciales de la licitación y adjudicación  del 
+contrato,  debiendo  limitarse  a  introducir  las  variaciones  estrictamente  indispensables  para 
+atender la causa objetiva que las haga necesarias.
+El órgano de contratación deberá aprobar, previamente a su ejecución, la modificación  
+del contrato, siguiendo al efecto el procedimiento establecido en el artículo 191 de la LCSP,  
+teniendo en cuenta, asimismo, lo dispuesto en el artículo 207.2 de dicha Ley.
+
+--- página 22 ---
+22
+26.- SUSPENSIÓN     DEL     CONTRATO   (art. 208 LCSP)
+Si la Administración acordare la suspensión del contrato o aquélla tuviere lugar por la  
+aplicación de lo dispuesto en el artículo 198.5 LCSP y la cláusula 20.3 del presente pliego, se  
+levantará  un  acta,  de  oficio  o  a  solicitud  de  la  contratista,  en  la  que  se  consignarán  las 
+circunstancias que la han motivado y la situación de hecho en la ejecución de aquél.
+Acordada la suspensión, la Administración abonará al contratista, en su caso, los daños y 
+perjuicios efectivamente sufridos por ésta, los cuales se determinarán con arreglo a lo dispuesto 
+en el apartado 2 del artículo 208 y en los apartados 2 y 3 del artículo 313 de la LCSP.
+VII 
+FINALIZACIÓN DEL 
+CONTRATO
+27.- CUMPLIMIENTO     DEL     CONTRATO   (arts. 111.3 y 210 de la LCSP)
+27.1.- El contrato se entenderá cumplido por la contratista cuando ésta haya realizado la 
+totalidad de su objeto, de conformidad con lo establecido en este pliego y en el de prescripciones 
+técnicas y a satisfacción de la Administración.
+Si los servicios se han ejecutado correctamente, la Administración contratante hará constar 
+de forma expresa su conformidad, dentro del plazo establecido en el presente pliego, y tras la 
+aceptación del Informe Final de Ejecución del Proyecto, Recepción del Proyecto, y puesta  
+operativa de la solución.
+27.2.- Si los servicios no se hallan en condiciones de ser recibidos, se dejará constancia 
+expresa de tal circunstancia y se darán las instrucciones precisas a la contratista para que  
+subsane los defectos observados, o proceda a una nueva ejecución de conformidad con lo  
+pactado. Si pese a ello, los trabajos efectuados no se adecuan a la prestación contratada, como 
+consecuencia de vicios o defectos imputables a la contratista, la Administración podrá rechazarla, 
+quedando exenta de la obligación de pago, y teniendo derecho, en su caso, a la recuperación  
+del precio satisfecho hasta entonces.
+28.-RESOLUCIÓN     Y EXTINCIÓN     DEL CONTRATO      
+28.1.-  Además de por su cumplimiento, el contrato se extinguirá por su resolución,  
+acordada por la concurrencia de alguna de las causas previstas en los artículos 211 y 313 de la 
+LCSP.
+La resolución del contrato producirá los efectos previstos en los artículos 213 y 313 de la 
+LCSP.
+Producirá igualmente la resolución del contrato, el incumplimiento por el contratista de la  
+obligación de guardar sigilo a que se refiere la cláusula 17.3, respecto a los datos o antecedentes 
+que, no siendo públicos o notorios, estén relacionados con el objeto del contrato y hayan llegado 
+a su conocimiento con ocasión del mismo. 
+También será causa de resolución del contrato el incumplimiento de las obligaciones  
+relativas al tratamiento de datos personales. 
+Así mismo, serán causa de resolución del contrato, dando lugar a los efectos antes  
+indicados, las causas previstas en el artículo 6 del Decreto 87/1999, de 6 de mayo, por el que se 
+regula la subcontratación en el ámbito de la Comunidad Autónoma de Canarias.
+28.2.- A la extinción de los contratos de servicios, no podrá producirse, en ningún caso,
+la consolidación de las personas que hayan realizado los trabajos objeto del contrato, como
+personal de la Administración contratante.
+29.- PLAZO     DE     GARANTÍA   (art. 210.3 LCSP)
+29.1.- El objeto del contrato quedará sujeto a un plazo de garantía de un (1) año, a contar 
+
+--- página 23 ---
+23
+desde el día siguiente a la recepción de los servicios, plazo durante el cual la Administración 
+podrá comprobar que el servicio realizado se ajusta a lo contratado y a lo estipulado en el  
+presente pliego y en el de prescripciones técnicas. Transcurrido el plazo de garantía sin que se  
+hayan formulado reparos a los trabajos ejecutados, quedará extinguida la responsabilidad de la  
+contratista.
+29.2.- Durante el periodo de garantía, la contratista estará obligada a subsanar, a su costa, 
+todas las deficiencias que se puedan observar en los trabajos ejecutados, con independencia de 
+las consecuencias que se pudieran derivar de las responsabilidades en que hubiere podido  
+incurrir, de acuerdo a lo establecido en el presente pliego y en el artículo 213.5 LCSP.
+
+--- página 24 ---
+24
+ANEXO I 
+MODELO DE 
+OFERTA
+DON/DOÑA………………………………………………………,  con  [DEBERÁ  INDICARSE,  
+SEGÚN PROCEDA, EL NIF, NIE, NIF-IVA, NIF INTRACOMUNITARIO O DUNS], actuando [SI 
+LA LICITADORA ES EMPRESARIA INDIVIDUAL O PERSONA FÍSICA: en su propio nombre y
+representación ] [SI LA LICITADORA ES PERSONA JURÍDICA: en nombre y representación  
+de …................................…., con, en virtud de poder otorgado ante el Notario del Colegio de
+….................., al número................ de su protocolo].
+Concurriendo a la licitación convocada  para la contratación de [ … ] (Expte. …), por la  
+presente pongo de manifiesto lo siguiente,
+PRIMERO:
+Que la licitadora a la que represento formula la siguiente oferta:
+- Importe base: [en letras y en números]
+                        - IGIC (..%):      [en letras y en números]
+                        - Total:               [en letras y en números] 
+- Respecto a la “Mejora ANS”: Indicar si se amplía o no al 100%.
+Asimismo, declaro expresamente que en la oferta presentada se han tenido en cuenta 
+las obligaciones derivadas de las disposiciones vigentes en materia de protección del empleo,  
+condiciones de trabajo y prevención de riesgos laborales, y protección del medio ambiente.
+Asimismo, se incluye el Currículo del Consultor Tecnológico-Senior-Sistemas: 
+SEGUNDO: declaro bajo mi responsabilidad los extremos siguientes:
+oferta
+- Que ostento debidamente la representación de la empresa en cuyo nombre hago la
+- Que dicha empresa goza de plena capacidad jurídica y de obrar y está válidamente
+constituida.
+- Que cuenta con la adecuada solvencia económica, financiera y técnica o, en su caso, 
+la clasificación correspondiente;
+- Que no está incursa en causa de prohibición para contratar con la Administración 
+Pública
+- Que la empresa licitadora dispone de las autorizaciones necesarias para ejercer la 
+actividad que le es propia.
+[SI LA LICITADORA PUDIERA BENEFICIARSE DEL CRITERIO DE DESEMPATE A
+QUE SE REFIERE LA CLAUSULA 12.3 DEL PLIEGO,  el declarante añadirá el siguiente  
+texto: - Que la empresa licitadora tiene la condición de [ … ] y, por lo tanto, le será de aplicación 
+lo establecido en la cláusula 12.3 del presente pliego. ]
+[SI LA EMPRESA LICITADORA ES EXTRANJERA, el declarante añadirá el siguiente
+
+--- página 25 ---
+25
+texto: - Que la empresa se somete a la jurisdicción de los Juzgados y Tribunales españoles, de 
+cualquier orden, para todas las incidencias que, de modo directo o indirecto, pudieran surgir del 
+contrato, con renuncia, en su caso, al fuero jurisdiccional extranjero que pudiera corresponder al 
+licitante. ].
+SUBCONTRATACIÓN.
+1) La licitadora a la represento (marcar con un x la opción que proceda):
+NO va a subcontratar:
+SÍ va a subcontratar:
+2) En caso de subcontratación, indicar con base en lo establecido en el pliego lo siguien -
+te:
+2.1) Parte del contrato que va a subcontratar señalando su importe:
+2.2) Nombre o perfil empresarial, de los subcontratistas a los que se vaya a encomendar  
+su realización.
+Que la empresa que represento, (SI/NO) tiene previsto subcontratar los servidores o los servicios 
+asociados a los mismos, el nombre o el perfil empresarial de los subcontratistas a los que vaya a  
+encomendar la realización del tratamiento de datos, definido por referencia a las condiciones de  
+solvencia profesional o técnica. Esta obligación tiene carácter esencial a los efectos de lo previsto en  
+el artículo 211.1.f) LCSP.
+Y que no tendrá inconveniente en la aportación de dicha documentación si le es requerida en  
+caso  de  ser  propuesta  a  la  adjudicación  o  en  cualquier  otro  momento  del  procedimiento  de 
+contratación. 
+Lugar, fecha y firma de la declarante.
+
+--- página 26 ---
+26
+ANEXO II
+MODELO DE CONTRATO ADMINISTRATIVO DE SERVICIOS
+En .................................................., a .... de ................................ de 20....
+REUNIDOS
+DE UNA PARTE: D. ......................................................, en calidad
+de .................................. del Gobierno de Canarias según nombramiento efectuado
+por.............................................con facultad para suscribir en nombre de la Administración de la
+Comunidad  Autónoma  de  Canarias,  los  contratos  relativos  a  asuntos  de 
+su .................................. (especificar unidad administrativa), de conformidad con el artículo 
+.............
+DE OTRA PARTE: D. ....................................................., mayor de edad, con D.N.I.
+nº ......................, expedido el día ........................., actuando en calidad de ....................
+de ..................................., con domicilio en .........................................................
+Reconociéndose  ambas  partes  respectivamente  competencia  y  capacidad  legal 
+suficientes, convienen suscribir el presente contrato administrativo de ...................................  
+cuyos antecedentes administrativos y cláusulas son:
+ANTECEDENTES ADMINISTRATIVOS
+Primero.- El pliego de cláusulas administrativas particulares y de prescripciones técnicas 
+fue aprobado por resolución del ..........................., de fecha .....................................
+Segundo.-  La  contracción  del  gasto  fue  efectuada  por  la  Dirección  General  de 
+Transformación  Digital  de  los  Servicios  Públicos  en  ..................................,  en 
+fecha ........................., con cargo a la aplicación presupuestaria .............................
+Tercero.-  La  adjudicación  de  este  contrato  se  acordó  por  resolución 
+del ....................................., de fecha .................................
+CLÁUSULAS DEL CONTRATO
+Primera.-  D.  .............................................  [en  la  representación  que  ostenta]  se 
+compromete, con estricta sujeción al pliego de cláusulas administrativas particulares [y a las  
+prescripciones técnicas anexas], y en las condiciones contenidas en su oferta que se anexa al  
+presente contrato, a realizar ....................................................
+Segunda.- El precio de este contrato es de..................euros, siendo el importe del IGIC
+a   repercutir   el   de   ………….   euros, y   su   abono   se 
+realizará ...................................................................
+Dicho precio no es revisable.
+Tercera.- Los trabajos objeto del contrato habrán de ser entregados en un plazo 
+de ........................................ [Se establecen los plazos parciales siguientes:.......................]
+El  plazo  de  garantía  es  de  .......................................  a  contar  desde  la  fecha  de 
+conformidad del servicio.
+Cuarta.-  La contratista presta su conformidad al pliego de cláusulas administrativas  
+particulares que rige el contrato, que se anexa como parte integrante del mismo [y a las
+
+--- página 27 ---
+27
+prescripciones técnicas que igualmente se anexan], y ambas partes se someten, para cuanto no 
+se encuentre expresamente previsto en el presente contrato, a la  Ley de Contratos del Sector  
+Público, al Reglamento General de la Ley de Contratos de las Administraciones Públicas, y a las 
+demás disposiciones reglamentarias de desarrollo, a las dictadas por la Comunidad Autónoma  
+de Canarias en el marco de sus respectivas competencias, y supletoriamente, a la Ley de  
+Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.  
+Asimismo, ambas partes se someten a la normativa nacional y de la Unión Europea en materia  
+de Protección Datos.
+Quinta.- Serán causas de resolución del contrato las previstas en la cláusula 28 del pliego 
+de cláusulas administrativas particulares que lo rige.
+El incumplimiento de los plazos de ejecución de las prestaciones que constituyen el objeto 
+del contrato, su incumplimiento parcial o su cumplimiento defectuoso, será penalizado  de 
+acuerdo con lo previsto en la cláusula 21 del pliego de cláusulas administrativas particulares que 
+rige el contrato.
+Sexta.-  Para responder del cumplimiento de las obligaciones derivadas del presente  
+contrato, la adjudicataria ha constituido a favor de la  Administración una garantía definitiva por  
+importe de.................euros, cuyo resguardo se une como anexo al presente contrato.]
+Séptima.- La contratista deberá guardar sigilo respecto a los datos o antecedentes que,  
+no siendo públicos o notorios, estén relacionados con el objeto del contrato y hayan llegado a su 
+conocimiento con ocasión del mismo.
+Octava.- La contratista está obligada a mantener, durante toda la vigencia del contrato,  
+la condición que motivó la adjudicación del contrato a su favor, en virtud del criterio preferencial  
+a que se refiere la cláusula 12.3 del pliego de cláusulas administrativas particulares.
+Las cuestiones litigiosas surgidas sobre la interpretación, modificación, resolución y  
+efectos de ésta, serán resueltas por el órgano de contratación, cuyos acuerdos pondrán fin a la  
+vía administrativa y serán inmediatamente ejecutivos, pudiendo ser recurridos potestativamente 
+en  reposición  ante  el  mismo  órgano  que  los  dictó,  o  ser  impugnado  mediante  recurso 
+contencioso-administrativo, conforme a lo dispuesto en la Ley reguladora de dicha Jurisdicción.
+Para la debida constancia de todo lo convenido se firma este contrato en el lugar y fecha 
+al principio mencionado
+LA DIRECTORA GENERAL DE
+TRANSFORMACIÓN DIGITAL DE LOS 
+SERVICIOS PÚBLICOS
+LA CONTRATISTA
+
+--- página 28 ---
+28
+ANEXO III
+TRATAMIENTO DE DATOS DE CARÁCTER PERSONAL
+(Este anexo se completa con la información recogida en el correspondiente Registro de  
+Actividades  de  Tratamiento  publicado  en  la  Página  Web  de  la  Dirección  General  de 
+Transformación Digital de los Servicios Públicos conforme a la Resolución de 21.02.2025 de la  
+Dirección General de Transformación Digital de los Servicios Públicos por la que se actualiza el 
+registro el tratamiento de datos personales: Encargos de desarrollo de aplicativos transversales 
+y Departamentales (Encargado).
+En  el  supuesto  de  un  tratamiento  de  datos  nuevo  o  no  registrado,  deberá 
+procederse previamente a la aprobación del Registro correspondiente por resolución del  
+responsable del tratamiento).
+Descripción general del tratamiento de datos personales a realizar:
+- Impulso, desarrollo y mantenimiento integral  de los sistemas de información  
+corporativos para su utilización por los Departamentos y Organismos Autónomos 
+de la Administración Pública de la Comunidad Autónoma de Canarias para facilitar 
+la  administración  electrónica  en  las  actuaciones  administrativas  de  su  
+competencia.
+- El impulso a la automatización de procedimientos administrativos, así como la  
+participación  en  cuantos  proyectos  o  acciones  promuevan  los  distintos  
+departamentos, entes públicos y organismos autónomos en orden a la mejora y  
+modernización de su organización, así como a la implantación de la administración 
+electrónica, en los términos y con el alcance que se determine en cada momento.
+El personal adscrito por la organización adjudicataria para proporcionar los servicios  
+establecidos en el pliego que puede tratar datos personales. Los datos personales se tratarán  
+únicamente por el personal adscrito y al único fin de efectuar el alcance contratado.
+En caso de que como consecuencia de la ejecución del contrato resultara necesario en  
+algún momento la modificación de lo estipulado en este Anexo, el adjudicatario lo requerirá  
+razonadamente y señalará los cambios que solicita. En caso de que la Dirección General de  
+Transformación Digital de los Servicios Públicos, estuviese de acuerdo con lo solicitado, por  
+parte de la Dirección General de Transformación Digital de los Servicios Públicos se emitirá un  
+nuevo  Anexo  actualizado,  de  modo  que  el  mismo  siempre  recoja  fielmente  el  detalle  del 
+tratamiento.
+Colectivos de interesados y datos tratados:
+Los colectivos de interesados y datos personales tratados a las que puede tener acceso  
+el adjudicatario son:
+Tratamiento
+“Encargos de desarrollo de aplicativos transversales”
+“Encargos de desarrollo de aplicativos Departamentales”
+Responsables  de  los  
+tratamientos
+Los restantes órganos superiores responsables de  
+los  distintos  tratamientos,  conforme  a  sus  
+competencias, de la Administración Pública de la  
+Comunidad  Autónoma  de  Canarias  y  de  sus 
+entidades de derecho público vinculadas (APCAC),  
+que utilizan las diversas aplicaciones corporativas y  
+departamentales  desarrolladas  por  la  Dirección 
+General de Transformación Digital de los Servicios  
+Públicos (DGTDSP). 
+Categoría  de  datos  
+personales
+Datos personales de los distintos procedimientos  
+competencia de la APCAC, que los responsables de 
+
+--- página 29 ---
+29
+tratamiento deciden utilizar con los aplicativos que la 
+DGTDSP desarrolla.
+Elementos del tratamiento:
+El tratamiento de datos personales comprenderá únicamente la consulta de los datos  
+personales  gestionados  en  las  distintas  aplicaciones  corporativas  y  departamentales  cuyo 
+mantenimiento realiza el servicio de desarrollo y mantenimiento de la DGTDSP y que resulten  
+indispensables para realizar el servicio de soporte a la gestión de proyectos del servicio.
+El adjudicatario, y subcontratistas si los hubiere, no puede copiar ni almacenar en sus  
+sistemas y equipos (PC, servidores, pendrive, etc.) los datos personales a los que tenga acceso.
+Si del tratamiento se generase algún dato personal, una vez finalice el encargo, es decir, 
+el contratista o subcontratista deberá, destruir los datos, una vez cumplida la prestación. Una vez 
+destruidos, el encargado debe certificar su destrucción por escrito y entregar el certificado al  
+encargado del tratamiento. No obstante, el subencargado puede conservar una copia, con los  
+datos debidamente bloqueados, mientras puedan derivarse responsabilidades de la ejecución  
+de la prestación.
+Medidas de seguridad:
+Los datos deben protegerse empleando las medidas que un empresario ordenado debe  
+tomar  para  evitar  que  dichos  datos  pierdan  su  razonable  confidencialidad,  integridad  y 
+disponibilidad.
+De acuerdo con la evaluación de riesgos realizada, se deben implantar, al menos, las  
+medidas de seguridad siguientes:
+- La  capacidad  de  garantizar  la  confidencialidad,  integridad,  disponibilidad  y 
+resiliencia permanentes de los sistemas y servicios de tratamiento.
+- Un proceso de verificación, evaluación y valoración regulares de la eficacia de las 
+medidas técnicas y organizativas para garantizar la seguridad del tratamiento.
+- Las medidas contenidas en el Anexo II del Real Decreto 3/2010, de 8 de enero,  
+por el que se regula el Esquema Nacional de Seguridad en el ámbito de la  
+Administración Electrónica, correspondientes al nivel de medidas de seguridad  
+que resulte de la evaluación de riesgos realizada (sistema de categoría media).
+En aquellas tareas en las que el adjudicatario necesite acceder a los sistemas de  
+información de la Administración Pública de la Comunidad Autónoma de Canarias deberá  
+respetar la política de seguridad de la información del Sistema de Gestión de Seguridad de la  
+Información implantado en la Dirección General de Transformación Digital de los Servicios  
+Públicos, así como la normativa de seguridad en el uso de los recursos informáticos, telefónicos 
+y de redes de comunicación de la Administración Pública de la Comunidad Autónoma de  
+Canarias, con la finalidad de garantizar la seguridad y eficiencia de los mismos, así como  
+asegurar la confidencialidad, integridad y disponibilidad de la información en ellos almacenada.  
+Dicha normativa se encuentra recogida en los siguientes documentos, que serán entregados al  
+adjudicatario con carácter previo al inicio de los servicios:
+- Política del SGSI.
+- Acuerdo de Gobierno, de 25 de junio de 2018, que aprueba las instrucciones que 
+conforman la normativa de seguridad en el uso de los recursos informáticos,  
+telefónicos  y  de  redes  de  comunicación  de  la  Administración  Pública  de  la 
+Comunidad Autónoma de Canarias (BOC nº127, 3 de julio de 2018).
+El adjudicatario y el personal adscrito a la ejecución del contrato deberán informar a la  
+Dirección General de Transformación Digital de los Servicios Públicos de aquellos incidentes de 
+seguridad o debilidades potenciales que detecten durante la prestación del mismo, con el objetivo 
+de dar cumplimiento a lo previsto en esta materia en el Real Decreto 3/2010, de 8 de enero, por 
+el que se regula el Esquema Nacional de Seguridad en el ámbito de la Administración Electrónica 
+y su normativa de desarrollo así como, en su caso, al RGPD y la LOPDGDD.
+El adjudicatario no podrá no implementar o suprimir dichas medidas mediante el empleo 
+de un análisis de riesgo o evaluación de impacto salvo aprobación expresa del responsable del  
+tratamiento.
+A estos efectos, el personal del adjudicatario debe seguir las indicaciones y medidas de  
+
+--- página 30 ---
+30
+seguridad establecidas por la Dirección General de Transformación Digital de los Servicios  
+Públicos, la cual es responsable del tratamiento de los datos objeto de esta licitación, no  
+pudiendo efectuar el adjudicatario tratamientos distintos de los definidos por la Dirección General 
+de Transformación Digital de los Servicios Públicos.

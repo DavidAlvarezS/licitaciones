@@ -1,0 +1,614 @@
+
+
+--- página 1 ---
+PLIEGO DE PRESCRIPCIONES TÉCNICAS
+CONSEJERÍA/ORGANISMO CONTRATANTE: Instituto Tecnológico Agrario de Castilla y León
+CÓDIGO EXPEDIENTE: A2026/006862 TIPO CONTRATO: Suministro
+TÍTULO EXPEDIENTE: SUMINISTRO PLATAFORMA (SOFTWARE) PARA LA GESTIÓN DEL CANAL
+INTERNO DE INFORMACIÓN (CANAL DE DENUNCIAS)
+OBJETO DEL CONTRATO: Suministro de una plataforma (software) para la gestión del canal  interno de
+información (Canal de denuncias) en cumplimiento de la ley  2/2023 de canal interno de denuncias, con
+soporte técnico.
+TIPO DE TRAMITACIÓN: Ordinaria PROCEDIMIENTO DE CONTRATACIÓN:
+Procedimiento abierto simplificado art. 159.6 LCSP
+TRAMITACIÓN ECONÓMICA: Normal
+CENTRO DIRECTIVO: Dirección General del ITA
+UNIDAD PROMOTORA: Subdirección de Administración y Presupuestos
+JUSTIFICACIÓN DE LA NECESIDAD: La contratación resulta necesaria para dar cumplimiento a la
+obligación  legal impuesta por la Ley 2/2023, que exige a las entidades del sector  público disponer de un
+Sistema Interno de Información que garantice:
+•#Confidencialidad.
+•#Protección del informante.
+•#Independencia.
+•#Seguridad de la información.
+Se requiere una herramienta que cumpla con el marco de las políticas de  buen gobierno de forma eficaz
+con todas las exigencias de seguridad,  protección de datos y confidencialidad que recoge la Ley 2/2023
+que  regula la protección de las personas que informen sobre in-fracciones  que vulneren el ordenamiento
+europeo y nacional y, en consecuencia, que  con-tribuyan a la lucha contra la corrupción que traspone la
+Directiva  (UE) 2019/1937 (whistle-blowing) normativa y las buenas prácticas de la  ISO 37002:21.
+DETALLE PRESUPUESTARIO
+Anualidad Aplicación presupuestaria Centro Gestor Presupuesto sin IVA IVA Presupuesto total
+2026 G/411A02/64500/0 0321 3.060,00 € 642,60 € 3.702,60 € 
+2027 G/411A02/64500/0 0321 3.060,00 € 642,60 € 3.702,60 € 
+2028 G/411A02/64500/0 0321 3.060,00 € 642,60 € 3.702,60 € 
+TOTAL 11.107,80 € 
+PLAZOS DEL CONTRATO
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COPIA AUTENTICA DEL DOCUMENTO   Localizador: OJ2KXSG9I4J8JPC4JLFHGC 
+ Fecha Firma: 14/07/2026 12:11:54 Fecha copia: 14/07/2026 12:12:04 
+ Firmado: en Valladolid por El Jefe de Área de Tecnologías de la Información MARIO GONZALEZ DIEZ 
+ Acceda a la página web: https://www.ae.jcyl.es/verDocumentos/ver?loun=OJ2KXSG9I4J8JPC4JLFHGC para visualizar el documento 
+
+
+--- página 2 ---
+DURACIÓN DEL CONTRATO: El plazo de ejecución será de 36 meses (3años) .
+PRÓRROGAS CONVENCIONALES: No
+PLAZOS PARCIALES: No
+REVISIÓN DE PRECIOS
+REVISIÓN DE PRECIOS: No
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COPIA AUTENTICA DEL DOCUMENTO   Localizador: OJ2KXSG9I4J8JPC4JLFHGC 
+ Fecha Firma: 14/07/2026 12:11:54 Fecha copia: 14/07/2026 12:12:04 
+ Firmado: en Valladolid por El Jefe de Área de Tecnologías de la Información MARIO GONZALEZ DIEZ 
+ Acceda a la página web: https://www.ae.jcyl.es/verDocumentos/ver?loun=OJ2KXSG9I4J8JPC4JLFHGC para visualizar el documento 
+
+
+--- página 3 ---
+                                                                                               
+Ctra. de Burgos, Km. 119, Finca Zamadueñas 47071 VALLADOLID - Teléfono: 983412034 – www.itacyl.es 
+ 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS DEL SUMINISTRO DE UNA PLATAFORMA 
+(SOFTWARE) PARA LA GESTIÓN DEL CANAL INTERNO DE INFORMACIÓN (CANAL DE 
+DENUNCIAS) 
+ 
+1. Objeto del contrato. 
+El objeto del presente pliego es la definición de las prescripciones técnicas que han de regir en el contrato 
+para: 
+• El suministro del software en infraestructura externa al Instituto (modalidad SaaS) para el 
+cumplimiento de lo establecido en la Ley 2/2023, de 20 de febr ero, reguladora de la 
+protección de las personas que informen sobre infracciones normativas y de lucha contra 
+la corrupción. 
+• Los servicios asociados para la configuración, puesta en marcha y migración desde la 
+solución actual (si aplica) de la herramienta Canal de Denuncias. Además, se deberá 
+proporcionar formación a los gestores en el uso de la plataforma, así como disponer de un 
+soporte técnico ante incidencias o consultas. 
+2. Características de la solución software 
+2. 1. Requisitos funcionales 
+La solución debe disponer al menos de dos áreas claramente diferenciadas: 
+- Orientada al informante (comunicación de irregularidades) 
+- Orientada a la gestión de las denuncias (gestión de casos) 
+2.1.1. Comunicación de irregularidades 
+En esta área, los informantes ya sean empleados o partes externas vinculadas podrán informar sobre 
+irregularidades existentes. 
+Esta página de comunicaciones permitirá la personalización para adaptarse a las necesidades y la 
+identidad del Instituto, con al menos capacidad de personalizar: 
+- Logo, colores y formas 
+- Personalización de la estructura de la página: Se podrá elegir qué y cómo comunicar a los 
+posibles informantes cuando lleguen a la página de comunicaciones.  
+- Preguntas personalizadas: Se podrán configurar las preguntas que se le deben hacer al 
+informante en el proceso de creación de su caso. Este proceso puede ser simple o incluir 
+varias preguntas y una lógica anidada sobre qué preguntas se deben hacer y cuándo. Las 
+preguntas podrán ser condicionales, lo que significa que las preguntas que aparecen 
+dependerán de respuestas anteriores. Por ejemplo, si el informante elige la categoría 
+“incidente de seguridad”, aparecerán unos tipos de preguntas. 
+- Comunicación de denuncias orales y/o escritas: se deberá disponer de la opción de crear 
+comunicaciones para gr abar con el portátil o smartphone. En estos casos, también será 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COPIA AUTENTICA DEL DOCUMENTO   Localizador: OJ2KXSG9I4J8JPC4JLFHGC 
+ Fecha Firma: 14/07/2026 12:11:54 Fecha copia: 14/07/2026 12:12:04 
+ Firmado: en Valladolid por El Jefe de Área de Tecnologías de la Información MARIO GONZALEZ DIEZ 
+ Acceda a la página web: https://www.ae.jcyl.es/verDocumentos/ver?loun=OJ2KXSG9I4J8JPC4JLFHGC para visualizar el documento 
+
+
+--- página 4 ---
+                                                                                               
+Ctra. de Burgos, Km. 119, Finca Zamadueñas 47071 VALLADOLID - Teléfono: 983412034 – www.itacyl.es 
+ 
+posible permitir que el informante distorsione la grabación para mantener su anonimato. 
+La nota de audio puede aparecer transcrita a los usuarios. 
+- Subida de ficheros: capacidad de subir múltiples tipos de ficheros. 
+- Eliminación de metadatos: Algunos archivos, como las imágenes tomadas con un 
+smartphone, contienen mucha información a parte de la imagen en sí. Los archivos pueden 
+contener datos como la ubicación, la hora, el número de serie, el no mbre del propietario, 
+etc. Como esta información podría revelarse la identidad del informante, por lo que el 
+sistema deberá permitir la eliminación de metadatos de forma automática como parte del 
+proceso de compartir archivos. 
+- Envío y seguimiento: El informante, tras el envío del informe, deberá recibir una forma de 
+acceso a su caso. Ello se utilizará para hacer seguimiento y comunicación continua con los 
+encargados del caso para ver el progreso, proporcionar información adicional y responder 
+preguntas. 
+- Multidispositivo: La comunicación de casos deberá funcionar en móvil, tablet, ordenador, 
+con múltiples navegadores. 
+2.1.2. Gestión de casos 
+Desde esta área se realiza toda la gestión de los casos: 
+- Comunicación con el informante: Se podrá comunicar con los informantes después de que 
+hayan enviado su caso. La comunicación escrita tendrá que tener mecanismos de 
+encriptación para poder mantener una conversación confidencial y/o anónima. 
+- Notas internas: La plataforma deberá permitir mantener comunicación, almacenar texto y 
+archivos con otros usuarios / manejadores de casos. Esta información no es accesible para 
+el informante, pero puede usarse para recopilar información relacionada con un caso. 
+- Gestión de plazos de seguimiento: deberá llevar el control de los plazos para r esponder al 
+informante, y para cerrar el caso (ambos plazos configurables) 
+- Notificaciones: la plataforma deberá poder enviar notificaciones, a través de la propia 
+plataforma, por email o SMS, y deberá poder configurarse qué se quiere notificar. 
+- Histórico: el sistema deberá dejar registro de todas las actuaciones realizadas en un caso 
+sin posibilidad de borrar dicho registro. 
+- Gestión de usuarios y roles. 
+Además, deberá permitir la exportación de los casos para que en el futuro, si se decide cambiar de 
+plataforma, se pueda realizar la migración de forma sencilla. 
+2. 2. Requisitos técnicos 
+Dado que el sistema se debe ofrecer en modalidad SaaS, se requieren una serie de requisitos técnicos: 
+- Capacidad de configurar la URL tanto de la parte pública (comunicación de irregularidades), 
+como la parte privada (gestión de casos). 
+- Plataforma certificada en accesibilidad doble AA. 
+- Encriptación en tránsito entre cliente y servidor. 
+- Disponibilidad de la plataforma certificada ante paradas no certificadas de un 99,9% 
+(máximo 8,77 horas al año, 24x7). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COPIA AUTENTICA DEL DOCUMENTO   Localizador: OJ2KXSG9I4J8JPC4JLFHGC 
+ Fecha Firma: 14/07/2026 12:11:54 Fecha copia: 14/07/2026 12:12:04 
+ Firmado: en Valladolid por El Jefe de Área de Tecnologías de la Información MARIO GONZALEZ DIEZ 
+ Acceda a la página web: https://www.ae.jcyl.es/verDocumentos/ver?loun=OJ2KXSG9I4J8JPC4JLFHGC para visualizar el documento 
+
+
+--- página 5 ---
+                                                                                               
+Ctra. de Burgos, Km. 119, Finca Zamadueñas 47071 VALLADOLID - Teléfono: 983412034 – www.itacyl.es 
+ 
+ 
+2.2.1 Requisitos técnicos – Seguridad de la información 
+La solución deberá cumplir con los requisitos técnicos que garanticen la seguridad de la información 
+tratada, de conformidad con lo establecido en el Esquema Nacional de Seguridad (ENS), así como con la 
+normativa vigente en materia de protección de datos de carácter personal. 
+A tal efecto, se establecen los siguientes requisitos: 
+ 
+a) Cumplimiento del Esquema Nacional de Seguridad 
+La solución deberá cumplir las medidas de seguridad exigibles para sistemas de categoría MEDIA o 
+superior, conforme al Real Decreto 311/2022, de 3 de mayo, debiendo el adjudicatario garantizar la 
+adecuación continua del servicio a dicho marco normativo durante toda la vigencia del contrato. 
+ Para evidenciar el cumplimiento del ENS deberá tener la correspondiente acreditación mediante la 
+certificación de conformidad en el ENS. 
+Se exige al menos Certificación ENS nivel medio.  
+ 
+b) Control de accesos e identificación 
+La plataforma deberá disponer de mecanismos que aseguren un adecuado control de accesos, 
+incluyendo: 
+• Gestión de usuarios mediante perfiles o roles diferenciados 
+• Aplicación del principio de mínimo privilegio 
+• Autenticación robusta para el acceso a la plataforma 
+• Mecanismos que permitan la segregación de funciones 
+Asimismo, deberá garantizarse que el acceso a la información esté restringido exclusivamente a usuarios 
+autorizados. 
+ 
+c) Protección de la información 
+La solución deberá garantizar la confidencialidad, integridad y disponibilidad de la información mediante: 
+• Cifrado de las comunicaciones mediante protocolos seguros (HTTPS – TLS 1.2 o superior) 
+• Cifrado de la información almacenada 
+• Protección frente a accesos no autorizados 
+• Mecanismos que garanticen la integridad de la información 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COPIA AUTENTICA DEL DOCUMENTO   Localizador: OJ2KXSG9I4J8JPC4JLFHGC 
+ Fecha Firma: 14/07/2026 12:11:54 Fecha copia: 14/07/2026 12:12:04 
+ Firmado: en Valladolid por El Jefe de Área de Tecnologías de la Información MARIO GONZALEZ DIEZ 
+ Acceda a la página web: https://www.ae.jcyl.es/verDocumentos/ver?loun=OJ2KXSG9I4J8JPC4JLFHGC para visualizar el documento 
+
+
+--- página 6 ---
+                                                                                               
+Ctra. de Burgos, Km. 119, Finca Zamadueñas 47071 VALLADOLID - Teléfono: 983412034 – www.itacyl.es 
+ 
+En el caso de ficheros adjuntos, la plataforma deberá permitir la eliminación automática de metadatos 
+que pudieran comprometer la identidad del informante. 
+ 
+d) Registro de actividad y trazabilidad 
+La plataforma deberá disponer de mecanismos de registro que permitan: 
+• La trazabilidad completa de las actuaciones realizadas sobre los casos 
+• El registro de accesos, modificaciones y consultas 
+• La conservación de un histórico de actuaciones 
+Dichos registros deberán: 
+• Ser inalterables 
+• Estar protegidos frente a su eliminación o modificación no autorizada 
+• Mantenerse disponibles durante el tiempo necesario para cumplir con las obligaciones legales 
+ 
+e) Seguridad de las comunicaciones 
+Las comunicaciones entre los distintos componentes del sistema, así como entre la plataforma y los 
+usuarios, deberán: 
+• Realizarse a través de canales cifrados 
+• Garantizar la confidencialidad de la información intercambiada 
+En el caso de comunicaciones con el informante, deberán implementarse mecanismos que permitan 
+mantener el anonimato, cuando proceda. 
+ 
+f) Continuidad del servicio y disponibilidad 
+El adjudicatario deberá garantizar la continuidad del servicio mediante: 
+• Alta disponibilidad de la plataforma 
+• Mecanismos de respaldo y recuperación de la información 
+• Implantación de un plan de continuidad de negocio 
+• Implantación de un plan de recuperación ante desastres 
+Deberán definirse, al menos: 
+• El tiempo objetivo de recuperación del servicio (RTO) 
+• El nivel admisible de pérdida de datos (RPO) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COPIA AUTENTICA DEL DOCUMENTO   Localizador: OJ2KXSG9I4J8JPC4JLFHGC 
+ Fecha Firma: 14/07/2026 12:11:54 Fecha copia: 14/07/2026 12:12:04 
+ Firmado: en Valladolid por El Jefe de Área de Tecnologías de la Información MARIO GONZALEZ DIEZ 
+ Acceda a la página web: https://www.ae.jcyl.es/verDocumentos/ver?loun=OJ2KXSG9I4J8JPC4JLFHGC para visualizar el documento 
+
+
+--- página 7 ---
+                                                                                               
+Ctra. de Burgos, Km. 119, Finca Zamadueñas 47071 VALLADOLID - Teléfono: 983412034 – www.itacyl.es 
+ 
+ 
+g) Gestión de vulnerabilidades y actualizaciones 
+La solución deberá mantenerse actualizada y protegida frente a vulnerabilidades, incluyendo: 
+• Aplicación de parches de seguridad 
+• Monitorización de vulnerabilidades conocidas 
+• Resolución de incidencias de seguridad 
+ 
+h) Entorno de prestación del servicio (SaaS) 
+Al tratarse de un servicio en modalidad SaaS, la solución deberá: 
+• Garantizar el aislamiento lógico de la información 
+• Implementar medidas de seguridad en entornos compartidos 
+• Asegurar la protección de los datos frente a accesos indebidos 
+Los centros de datos deberán estar ubicados en la Unión Europea. 
+ 
+i) Portabilidad y reversibilidad de la información 
+La plataforma deberá permitir: 
+• La exportación completa de la información en formato estructurado 
+• La recuperación de los datos en caso de cambio de proveedor 
+A la finalización del contrato, el adjudicatario deberá garantizar: 
+• La eliminación segura de la información 
+• La no conservación de copias no autorizadas 
+ 
+3. Servicios asociados 
+Se requiere como parte del contrato la configuración, puesta en marcha y migración desde la solución 
+actual: 
+- Definición de los usuarios y roles que deberán gestionar los casos en la plataforma. 
+- Parametrización de la plataforma: imágenes, logos, tipos de denuncias, preguntas 
+encadenadas, etc. 
+- Migración desde la solución actual: el Instituto está actualmente utilizando una solución 
+también en modo SaaS, se requiere realizar la migración de los casos existentes desde la 
+misma a la nueva. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COPIA AUTENTICA DEL DOCUMENTO   Localizador: OJ2KXSG9I4J8JPC4JLFHGC 
+ Fecha Firma: 14/07/2026 12:11:54 Fecha copia: 14/07/2026 12:12:04 
+ Firmado: en Valladolid por El Jefe de Área de Tecnologías de la Información MARIO GONZALEZ DIEZ 
+ Acceda a la página web: https://www.ae.jcyl.es/verDocumentos/ver?loun=OJ2KXSG9I4J8JPC4JLFHGC para visualizar el documento 
+
+
+--- página 8 ---
+                                                                                               
+Ctra. de Burgos, Km. 119, Finca Zamadueñas 47071 VALLADOLID - Teléfono: 983412034 – www.itacyl.es 
+ 
+Se deberá también ofrecer formación en el uso de la plataforma a los usuarios gestores de la misma, 
+según los roles que sea necesario. 
+Por último, deberá existir un contacto de soporte (via web, teléfono o email), para la resolución de 
+incidencias, o consultas relacionadas con la plataforma. 
+4. Soporte y tiempo de respuesta 
+Se exige un tiempo de respuesta en caso de incidencias reportadas al soporte como máximo de 8 horas. 
+A estos efectos, el horario de prestación de soporte técnico será de lunes a viernes de 7:30 a 15:30 horas. 
+ 
+ 
+EL JEFE DE ÁREA DE TECNOLOGÍAS DE LA INFORMACIÓN. 
+Fdo.- Mario Díez González 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COPIA AUTENTICA DEL DOCUMENTO   Localizador: OJ2KXSG9I4J8JPC4JLFHGC 
+ Fecha Firma: 14/07/2026 12:11:54 Fecha copia: 14/07/2026 12:12:04 
+ Firmado: en Valladolid por El Jefe de Área de Tecnologías de la Información MARIO GONZALEZ DIEZ 
+ Acceda a la página web: https://www.ae.jcyl.es/verDocumentos/ver?loun=OJ2KXSG9I4J8JPC4JLFHGC para visualizar el documento 

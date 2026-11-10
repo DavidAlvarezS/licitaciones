@@ -1,0 +1,59 @@
+
+
+--- página 1 ---
+ 
+PLEC DE CONDICIONS TÈCNIQUES PER AL SUBMINISTRAMENT D’EQUIPAMENT DE 
+SEGURETAT PELS SISTEMES INFORMÀTICS DE L’AJUNTAMENT DE MARRATXÍ
+1. Introducció
+L’Ajuntament de Marratxí utilitza diferents equips i sistemes per tal de gestionar les 
+comunicacions i la seguretat en les connexions i els accessos als sistemes informàtics.
+Per tal de donar continuïtat a la instal·lació actual, es fa necessari adquirir nous equips i 
+sistemes que ens permetin ampliar les funcionalitats i la seguretat. 
+A més, la implantació de teletreball a l’Ajuntament de Marratxí fa que sigui necessari adquirir 
+equips i sistemes per donar més seguretat a les comunicacions i controlar els accessos als 
+sistemes informàtics.  
+2. Objecte de contracte
+L’objecte d’aquest contracte es l’adquisició del següent equipament:
+·FortiAnalyzer-VM Upgrade license for adding 5 GB/Day of Logs.
+·FortiAnalyzer-VM FortiCare Premium Support 5 Year FortiCare Premium Support (for 
+1-6 GB/Day of Logs).
+·FortiAnalyzer-VM FortiAI Subscription 5 Year Generative AI powered security service 
+utilizing large language models (LLMs) for real-time assistance in SOC analysis, 
+incident investigation, triage and response (1-6 GB/Day of Logs).
+·FortiTokenMobile (Electronic License) Software one-time password tokens for iOS, 
+Android and Windows Phone mobile devices. Perpetual licenses for 100 users. 
+Electronic license certificate. License transfer between devices is not allowed.
+·FortiAuthenticator - VM Subscription 5 Year FortiAuthenticator VM Subscription for  
+100-999 Users, with FortiCare Elite Support. Llicències per a 126 USUARIS.
+·Serveis de muntatge, instal·lació i configuració.
+3. Condicions tècniques
+L’equipament subministrat haurà de ser expressament l’indicat a l’apartat anterior, 
+respectant els anys de garantia i de serveis d’actualització indicats per a cada element.
+El muntatge, instal·lació i configuració de l’equipament estarà inclòs en el preu ofert i s’haurà 
+de fer de forma presencial a les oficines municipals on determini l’Ajuntament. 
+En la configuració dels equips està inclosa la integració entre ells, així com amb els dos 
+firewalls Fortigate (configurats amb HA) de que disposa l’Ajuntament de Marratxí.
+_________________________________________________________________________ 
+Document signat electrònicament (RD 1671/2009). L’autenticitat d'aquest document es pot validar a la Seu Electrònica de l’Ajuntament
+de Marratxí: https://seuelectronica.marratxi.es mitjançant el CSV: 16340630610463772623
+
+--- página 2 ---
+ 
+Com a mínim s’hauran de tenir en compte les següents tasques:
+·Registre de llicències.
+·Suport en la creació de les màquines virtuals de Fortianalyzer y FAUTH.
+·Integració via Radius amb els Firewalls Fortigate.
+·Integració via LDAP amb el directori actiu.
+·Alta dels Fortitokens sobre FAUTH.
+·Assignació dinàmica dels Fortitokens sobre usuaris importats de LDAP.
+·Modificació dels grups VPN dels Fortigate per autenticació contra FAUTH.
+·Integració de Fortianalyzer amb els Firewalls Fortigate.
+Igualment està inclosa dins aquesta licitació, sense cap cost addicional, una formació al 
+personal tècnic del departament d’informàtica sobre el funcionament bàsic dels equips 
+adquirits, que permeti a dit personal conèixer els principals aspectes dels equips instal·lats. 
+4.- Termini d’entrega dels equips
+Tots l’equipament ofert haurà d’estar subministrat i configurat en el termini de dos mesos a 
+partir de la signatura o acceptació formal del contracte.
+_________________________________________________________________________ 
+Document signat electrònicament (RD 1671/2009). L’autenticitat d'aquest document es pot validar a la Seu Electrònica de l’Ajuntament
+de Marratxí: https://seuelectronica.marratxi.es mitjançant el CSV: 16340630610463772623
