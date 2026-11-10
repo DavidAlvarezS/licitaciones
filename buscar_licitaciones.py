@@ -76,6 +76,15 @@ def procesar_entry(entry):
                                        descendientes(proj, "CountrySubentityCode")})) if proj is not None else ""
     d["lugar"] = ",".join(sorted({(e.text or "").strip() for e in
                                   descendientes(proj, "CountrySubentity")})) if proj is not None else ""
+    docs = []
+    for tipo in ("LegalDocumentReference", "TechnicalDocumentReference", "AdditionalDocumentReference"):
+        for ref in hijos(cfs, tipo):
+            for ext in descendientes(ref, "ExternalReference"):
+                uri = texto(ext, "URI")
+                if uri:
+                    docs.append({"tipo": tipo.replace("DocumentReference", ""),
+                                 "nombre": texto(ext, "FileName") or texto(ref, "ID"), "uri": uri})
+    d["docs"] = docs
     d["procedimiento_cod"] = texto(cfs, "TenderingProcess", "ProcedureCode")
     fin = primero(cfs, "TenderingProcess", "TenderSubmissionDeadlinePeriod")
     d["fin_plazo"] = (texto(fin, "EndDate") + " " + texto(fin, "EndTime")).strip() if fin is not None else ""
@@ -194,6 +203,8 @@ def diagnostico(entradas, a):
           f"| Sin importe: {sum(1 for d in v if not d['importe_sin_iva'])} | Sin fin de plazo: {sum(1 for d in v if not d['fin_plazo'])}", file=err)
     print(f"CPV {a.cpv}: {len(con_cpv)} | NUTS {a.nuts}: {len(con_nuts)} | ambos: {len(ambos)}", file=err)
     print("Ejemplos de NUTS:", collections.Counter(n for d in v for n in d["lugar_nuts"].split(",") if n).most_common(8), file=err)
+    print(f"Entradas con documentos: {sum(1 for d in v if d.get('docs'))} de {len(v)}; ejemplo:",
+          next((d['docs'][:2] for d in v if d.get('docs')), None), file=err)
     print("Ejemplos de fin_plazo:", [d["fin_plazo"] for d in v[:4]], file=err)
     print("Ejemplo de entrada:", {k: v[0][k] for k in ("expediente", "estado", "cpv", "lugar_nuts", "importe_sin_iva", "fin_plazo")}, file=err)
     campos = ["expediente", "objeto", "organo", "importe_sin_iva", "cpv", "lugar", "lugar_nuts", "estado", "fin_plazo", "actualizado"]
@@ -237,7 +248,7 @@ def main():
             leer_atom(datos, entradas)
     else:
         estado, meta = cargar_estado(a.estado)
-        firma = {"cpv": sorted(a.cpv), "nuts": sorted(a.nuts)}
+        firma = {"cpv": sorted(a.cpv), "nuts": sorted(a.nuts), "version": 2}  # v2: guarda enlaces a documentos
         if estado and meta.get("filtros") != firma:
             print("Los filtros (CPV/zona) han cambiado respecto al historial: se empieza de cero.",
                   file=sys.stderr, flush=True)
@@ -314,10 +325,11 @@ def main():
     sel = [d for d in universo.values() if cumple(d, a)]
     for d in sel:
         d["desarrollo"] = es_desarrollo(d)
+        d["n_docs"] = len(d.get("docs", []))
     orden = {"si": 0, "quizá": 1, "no": 2}
     sel.sort(key=lambda d: (orden[d["desarrollo"]], d["fin_plazo"] or "9999"))
-    campos = ["desarrollo", "expediente", "objeto", "organo", "importe_sin_iva", "valor_estimado", "cpv", "lugar",
-              "lugar_nuts", "tipo_contrato", "procedimiento_cod", "estado", "fin_plazo", "actualizado", "enlace"]
+    campos = ["desarrollo", "id", "expediente", "objeto", "organo", "importe_sin_iva", "valor_estimado", "cpv", "lugar",
+              "lugar_nuts", "tipo_contrato", "procedimiento_cod", "estado", "fin_plazo", "n_docs", "actualizado", "enlace"]
     with open(a.salida, "w", newline="", encoding="utf-8-sig") as f:
         w = csv.DictWriter(f, fieldnames=campos, delimiter=";", extrasaction="ignore")
         w.writeheader()

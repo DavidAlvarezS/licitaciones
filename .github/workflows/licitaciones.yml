@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - buscar_licitaciones.py
+      - descargar_pliegos.py
       - .github/workflows/licitaciones.yml
 
 permissions:
@@ -20,7 +21,7 @@ concurrency:
 jobs:
   buscar:
     runs-on: ubuntu-latest
-    timeout-minutes: 210
+    timeout-minutes: 300
     steps:
       - uses: actions/checkout@v4
 
@@ -44,6 +45,27 @@ jobs:
           set -o pipefail
           python buscar_licitaciones.py --max-importe 60000 --cpv 72 --paginas 400 --max-minutos 170 --hasta-dias 45 --salida licitaciones_filtradas.csv 2>&1 | tee -a run.log
 
+      - name: Instalar lector de PDF
+        continue-on-error: true
+        timeout-minutes: 5
+        run: python -m pip install --quiet pypdf
+
+      - name: Descargar los pliegos de las licitaciones
+        continue-on-error: true
+        timeout-minutes: 70
+        run: |
+          set -o pipefail
+          python descargar_pliegos.py --max-minutos 60 --salida pliegos 2>&1 | tee -a run.log
+
+      - name: Guardar los documentos originales como artefacto
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pliegos-originales
+          path: pliegos/pdfs
+          retention-days: 30
+          if-no-files-found: ignore
+
       - name: Guardar el CSV y el registro en el repositorio
         if: always()
         run: |
@@ -52,6 +74,8 @@ jobs:
           cp licitaciones_filtradas.csv /tmp/salida/ 2>/dev/null || true
           cp muestra_entradas.csv /tmp/salida/ 2>/dev/null || true
           cp estado_licitaciones.json /tmp/salida/ 2>/dev/null || true
+          rm -rf /tmp/salida/pliegos; mkdir -p /tmp/salida/pliegos
+          cp -r pliegos/texto pliegos/manifest.json /tmp/salida/pliegos/ 2>/dev/null || true
           git config user.name  "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           for intento in 1 2 3; do
@@ -61,10 +85,12 @@ jobs:
             cp /tmp/salida/licitaciones_filtradas.csv . 2>/dev/null || true
             cp /tmp/salida/muestra_entradas.csv . 2>/dev/null || true
             cp /tmp/salida/estado_licitaciones.json . 2>/dev/null || true
+            mkdir -p pliegos && cp -r /tmp/salida/pliegos/. pliegos/ 2>/dev/null || true
             git add -f run.log
             [ -f licitaciones_filtradas.csv ] && git add licitaciones_filtradas.csv || true
             [ -f muestra_entradas.csv ] && git add muestra_entradas.csv || true
             [ -f estado_licitaciones.json ] && git add estado_licitaciones.json || true
+            [ -d pliegos/texto ] && git add pliegos/texto pliegos/manifest.json || true
             git diff --cached --quiet && break
             git commit -m "Actualizar licitaciones y registro $(date -u +%F)"
             git push origin HEAD:main && break
