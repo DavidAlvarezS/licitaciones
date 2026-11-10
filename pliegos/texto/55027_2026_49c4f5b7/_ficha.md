@@ -10,6 +10,6 @@
 
 ## Documentos
 
-- [Legal] PCAP.pdf: 01_Legal_PCAP.html (0 KB, sin texto extraído)
-- [Technical] PPT.pdf: 02_Technical_PPT.html (0 KB, sin texto extraído)
-- [Additional] CCC.pdf: 03_Additional_CCC.html (0 KB, sin texto extraído)
+- [Legal] PCAP.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] PPT.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] CCC.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

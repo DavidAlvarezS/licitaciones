@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] 15-01800-PCAP nuevo.pdf: 01_Legal_15-01800-PCAP_nuevo.html (0 KB, sin texto extraído)
-- [Technical] 14-01800-PPT nuevo.pdf: 02_Technical_14-01800-PPT_nuevo.html (0 KB, sin texto extraído)
+- [Legal] 15-01800-PCAP nuevo.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] 14-01800-PPT nuevo.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

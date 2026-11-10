@@ -10,8 +10,8 @@
 
 ## Documentos
 
-- [Legal] 1000 PCAP.pdf: 01_Legal_1000_PCAP.html (0 KB, sin texto extraído)
-- [Technical] 1000 PPT.pdf: 02_Technical_1000_PPT.html (0 KB, sin texto extraído)
-- [Additional] GUIA DE LICITACION ELECTRONICA 2026.pdf: 03_Additional_GUIA_DE_LICITACION_ELECTRONICA_2026.html (0 KB, sin texto extraído)
-- [Additional] Anexo I A-B Oferta y Mejora.docx: 04_Additional_Anexo_I_A-B_Oferta_y_Mejora.html (0 KB, sin texto extraído)
-- [Additional] Anexo II Declaracion Responsable.docx: 05_Additional_Anexo_II_Declaracion_Responsable.html (0 KB, sin texto extraído)
+- [Legal] 1000 PCAP.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] 1000 PPT.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] GUIA DE LICITACION ELECTRONICA 2026.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] Anexo I A-B Oferta y Mejora.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] Anexo II Declaracion Responsable.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

@@ -10,8 +10,8 @@
 
 ## Documentos
 
-- [Legal] 2026_028_SE_PASA _PCCP_fdo.pdf: 01_Legal_2026_028_SE_PASA__PCCP_fdo.html (0 KB, sin texto extraído)
-- [Technical] 2026_028_SE_PASA _PPT_fdo.pdf: 02_Technical_2026_028_SE_PASA__PPT_fdo.html (0 KB, sin texto extraído)
-- [Additional] Solicitud Doc Tecnica-2026_028_SE_PASA.pdf: 03_Additional_Solicitud_Doc_Tecnica-2026_028_SE_PASA.html (0 KB, sin texto extraído)
-- [Additional] Anexo I- 2026_028_SE_PASA.pdf: 04_Additional_Anexo_I-_2026_028_SE_PASA.html (0 KB, sin texto extraído)
-- [Additional] Anexo II- 2026_028_SE_PASA.pdf: 05_Additional_Anexo_II-_2026_028_SE_PASA.html (0 KB, sin texto extraído)
+- [Legal] 2026_028_SE_PASA _PCCP_fdo.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] 2026_028_SE_PASA _PPT_fdo.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] Solicitud Doc Tecnica-2026_028_SE_PASA.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] Anexo I- 2026_028_SE_PASA.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] Anexo II- 2026_028_SE_PASA.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

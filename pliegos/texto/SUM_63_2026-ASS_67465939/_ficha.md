@@ -10,8 +10,8 @@
 
 ## Documentos
 
-- [Legal] PCAP.pdf: 01_Legal_PCAP.html (0 KB, sin texto extraído)
-- [Technical] PPT.pdf: 02_Technical_PPT.html (0 KB, sin texto extraído)
-- [Additional] MOD PROP EC.doc: 03_Additional_MOD_PROP_EC.html (0 KB, sin texto extraído)
-- [Additional] DEC RESP REQ PREV.doc: 04_Additional_DEC_RESP_REQ_PREV.html (0 KB, sin texto extraído)
-- [Additional] DOCS EDITABLES.doc: 05_Additional_DOCS_EDITABLES.html (0 KB, sin texto extraído)
+- [Legal] PCAP.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] PPT.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] MOD PROP EC.doc: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] DEC RESP REQ PREV.doc: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] DOCS EDITABLES.doc: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

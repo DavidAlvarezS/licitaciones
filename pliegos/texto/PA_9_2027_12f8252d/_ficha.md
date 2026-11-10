@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] PA 9 2027 PCAP.PDF: 01_Legal_PA_9_2027_PCAP.html (0 KB, sin texto extraído)
-- [Technical] PA 9 2027 PPT.PDF: 02_Technical_PA_9_2027_PPT.html (0 KB, sin texto extraído)
+- [Legal] PA 9 2027 PCAP.PDF: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] PA 9 2027 PPT.PDF: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

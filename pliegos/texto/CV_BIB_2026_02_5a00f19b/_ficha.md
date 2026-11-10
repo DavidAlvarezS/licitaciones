@@ -10,6 +10,6 @@
 
 ## Documentos
 
-- [Legal] 2341XI PCAPCV BIB 2026 02.pdf: 01_Legal_2341XI_PCAPCV_BIB_2026_02.html (0 KB, sin texto extraído)
-- [Technical] 2341XI PPTCV BIB 2026 02.pdf: 02_Technical_2341XI_PPTCV_BIB_2026_02.html (0 KB, sin texto extraído)
-- [Additional] ANEXOS CVBIB 2026 02.zip: 03_Additional_ANEXOS_CVBIB_2026_02.html (0 KB, sin texto extraído)
+- [Legal] 2341XI PCAPCV BIB 2026 02.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] 2341XI PPTCV BIB 2026 02.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] ANEXOS CVBIB 2026 02.zip: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] Expte 2582-26 PCAP.pdf: 01_Legal_Expte_2582-26_PCAP.html (0 KB, sin texto extraído)
-- [Technical] Expte 2582-26 PPT.pdf: 02_Technical_Expte_2582-26_PPT.html (0 KB, sin texto extraído)
+- [Legal] Expte 2582-26 PCAP.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] Expte 2582-26 PPT.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

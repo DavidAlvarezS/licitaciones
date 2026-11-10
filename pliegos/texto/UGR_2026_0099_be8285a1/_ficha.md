@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] 1577940-PliegodeClusulasAdmin-001002PCA_STD_OE.pdf: 01_Legal_1577940-PliegodeClusulasAdmin-001002PCA_STD_OE.html (0 KB, sin texto extraído)
-- [Technical] 1575398-PliegodePrescripcione-001001PPT_STD_CA.pdf: 02_Technical_1575398-PliegodePrescripcione-001001PPT_STD_CA.html (0 KB, sin texto extraído)
+- [Legal] 1577940-PliegodeClusulasAdmin-001002PCA_STD_OE.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] 1575398-PliegodePrescripcione-001001PPT_STD_CA.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

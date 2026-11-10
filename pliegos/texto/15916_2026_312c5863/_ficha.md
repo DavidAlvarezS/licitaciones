@@ -10,7 +10,7 @@
 
 ## Documentos
 
-- [Legal] PCAP.pdf: 01_Legal_PCAP.html (0 KB, sin texto extraído)
-- [Technical] PPT.pdf: 02_Technical_PPT.html (0 KB, sin texto extraído)
-- [Additional] Declaracion responsable.odt: 03_Additional_Declaracion_responsable.html (0 KB, sin texto extraído)
-- [Additional] Proposicion economica.odt: 04_Additional_Proposicion_economica.html (0 KB, sin texto extraído)
+- [Legal] PCAP.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] PPT.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] Declaracion responsable.odt: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] Proposicion economica.odt: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] PCAP Aplicacion nominas.pdf: 01_Legal_PCAP_Aplicacion_nominas.html (0 KB, sin texto extraído)
-- [Technical] PPT Aplicacion nominas.pdf: 02_Technical_PPT_Aplicacion_nominas.html (0 KB, sin texto extraído)
+- [Legal] PCAP Aplicacion nominas.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] PPT Aplicacion nominas.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

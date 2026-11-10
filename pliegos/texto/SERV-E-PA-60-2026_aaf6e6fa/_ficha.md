@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] Pliego de Clausulas Administrativas Particulares Doble Factor FEDER.pdf: 01_Legal_Pliego_de_Clausulas_Administrativas_Particulares_D.html (0 KB, sin texto extraído)
-- [Technical] PPT Doble factor FEDER.pdf: 02_Technical_PPT_Doble_factor_FEDER.html (0 KB, sin texto extraído)
+- [Legal] Pliego de Clausulas Administrativas Particulares Doble Factor FEDER.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] PPT Doble factor FEDER.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

@@ -10,8 +10,8 @@
 
 ## Documentos
 
-- [Legal] PCAP.pdf: 01_Legal_PCAP.html (0 KB, sin texto extraído)
-- [Technical] PPT.pdf: 02_Technical_PPT.html (0 KB, sin texto extraído)
-- [Additional] Anexos Sobre 1.docx: 03_Additional_Anexos_Sobre_1.html (0 KB, sin texto extraído)
-- [Additional] Anexos propuesto adjudicatario.docx: 04_Additional_Anexos_propuesto_adjudicatario.html (0 KB, sin texto extraído)
-- [Additional] Anexos Sobre 3.docx: 05_Additional_Anexos_Sobre_3.html (0 KB, sin texto extraído)
+- [Legal] PCAP.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] PPT.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] Anexos Sobre 1.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] Anexos propuesto adjudicatario.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] Anexos Sobre 3.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

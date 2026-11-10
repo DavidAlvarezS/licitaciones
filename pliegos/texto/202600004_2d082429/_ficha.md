@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] 20261030_PCAP_Proteccion_datos.pdf: 01_Legal_20261030_PCAP_Proteccion_datos.html (0 KB, sin texto extraído)
-- [Technical] 20261030 PPTP_Proteccion_de_datos.pdf: 02_Technical_20261030_PPTP_Proteccion_de_datos.html (0 KB, sin texto extraído)
+- [Legal] 20261030_PCAP_Proteccion_datos.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] 20261030 PPTP_Proteccion_de_datos.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

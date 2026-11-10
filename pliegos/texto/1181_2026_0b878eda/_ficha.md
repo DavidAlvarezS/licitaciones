@@ -10,9 +10,9 @@
 
 ## Documentos
 
-- [Legal] PLIEGO CLAUSULAS ADTVAS PARTICULARES.pdf: 01_Legal_PLIEGO_CLAUSULAS_ADTVAS_PARTICULARES.html (0 KB, sin texto extraído)
-- [Technical] Pliego condiciones tecnicas de contrato del Centro de Coworking.pdf: 02_Technical_Pliego_condiciones_tecnicas_de_contrato_del_Centro.html (0 KB, sin texto extraído)
-- [Additional] ANEXO IA.docx: 03_Additional_ANEXO_IA.html (0 KB, sin texto extraído)
-- [Additional] ANEXO II.docx: 04_Additional_ANEXO_II.html (0 KB, sin texto extraído)
-- [Additional] ANEXO IB.docx: 05_Additional_ANEXO_IB.html (0 KB, sin texto extraído)
-- [Additional] ANEXO III.docx: 06_Additional_ANEXO_III.html (0 KB, sin texto extraído)
+- [Legal] PLIEGO CLAUSULAS ADTVAS PARTICULARES.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] Pliego condiciones tecnicas de contrato del Centro de Coworking.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] ANEXO IA.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] ANEXO II.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] ANEXO IB.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] ANEXO III.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

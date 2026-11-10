@@ -11,5 +11,5 @@ municipales del Ayto de Barbate.
 
 ## Documentos
 
-- [Legal] 8-PCAP.pdf: 01_Legal_8-PCAP.html (0 KB, sin texto extraído)
-- [Technical] 9-PPT.pdf: 02_Technical_9-PPT.html (0 KB, sin texto extraído)
+- [Legal] 8-PCAP.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] 9-PPT.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

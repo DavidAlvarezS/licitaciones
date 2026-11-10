@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] 03 PLIEGO CLAUSULAS ADMINISTRATIVAS.pdf: 01_Legal_03_PLIEGO_CLAUSULAS_ADMINISTRATIVAS.html (0 KB, sin texto extraído)
-- [Technical] 04 PLIEGO DE PRESCRIPCIONES TECNICAS.pdf: 02_Technical_04_PLIEGO_DE_PRESCRIPCIONES_TECNICAS.html (0 KB, sin texto extraído)
+- [Legal] 03 PLIEGO CLAUSULAS ADMINISTRATIVAS.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] 04 PLIEGO DE PRESCRIPCIONES TECNICAS.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

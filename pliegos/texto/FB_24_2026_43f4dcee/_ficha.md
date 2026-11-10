@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] FB 24_2026_PCA.pdf: 01_Legal_FB_24_2026_PCA.html (0 KB, sin texto extraído)
-- [Technical] FB 24_2026_PPT.pdf: 02_Technical_FB_24_2026_PPT.html (0 KB, sin texto extraído)
+- [Legal] FB 24_2026_PCA.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] FB 24_2026_PPT.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] 1000630-PliegodeClusulasAdministr-001003PCA_OE.pdf: 01_Legal_1000630-PliegodeClusulasAdministr-001003PCA_OE.html (0 KB, sin texto extraído)
-- [Technical] 1000083-PliegodePrescripcionesTcn-001003PPT_OE.pdf: 02_Technical_1000083-PliegodePrescripcionesTcn-001003PPT_OE.html (0 KB, sin texto extraído)
+- [Legal] 1000630-PliegodeClusulasAdministr-001003PCA_OE.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] 1000083-PliegodePrescripcionesTcn-001003PPT_OE.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

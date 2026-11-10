@@ -10,10 +10,10 @@
 
 ## Documentos
 
-- [Legal] PLIEGO ADMINISTRATIVO.pdf: 01_Legal_PLIEGO_ADMINISTRATIVO.html (0 KB, sin texto extraído)
-- [Technical] PLIEGO TECNICO.pdf: 02_Technical_PLIEGO_TECNICO.html (0 KB, sin texto extraído)
-- [Additional] Anexo II Instrucciones DEUC.odt: 03_Additional_Anexo_II_Instrucciones_DEUC.html (0 KB, sin texto extraído)
-- [Additional] Anexo III Compromiso adscripcion medios.odt: 04_Additional_Anexo_III_Compromiso_adscripcion_medios.html (0 KB, sin texto extraído)
-- [Additional] Anexo V Formalizacion.odt: 05_Additional_Anexo_V_Formalizacion.html (0 KB, sin texto extraído)
-- [Additional] Anexo IV Oferta.odt: 06_Additional_Anexo_IV_Oferta.html (0 KB, sin texto extraído)
-- [Additional] Anexo I Declaracion Responsable.odt: 07_Additional_Anexo_I_Declaracion_Responsable.html (0 KB, sin texto extraído)
+- [Legal] PLIEGO ADMINISTRATIVO.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] PLIEGO TECNICO.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] Anexo II Instrucciones DEUC.odt: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] Anexo III Compromiso adscripcion medios.odt: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] Anexo V Formalizacion.odt: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] Anexo IV Oferta.odt: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] Anexo I Declaracion Responsable.odt: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

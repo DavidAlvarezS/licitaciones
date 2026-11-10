@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] 26_357 CRCP.pdf: 01_Legal_26_357_CRCP.html (0 KB, sin texto extraído)
-- [Technical] 26_357 PPT.pdf: 02_Technical_26_357_PPT.html (0 KB, sin texto extraído)
+- [Legal] 26_357 CRCP.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] 26_357 PPT.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

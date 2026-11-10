@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] A2026_006862_PCAP_Definitivo.pdf: 01_Legal_A2026_006862_PCAP_Definitivo.html (0 KB, sin texto extraído)
-- [Technical] Pliego prescripciones tecnicas - PPT v004.pdf: 02_Technical_Pliego_prescripciones_tecnicas_-_PPT_v004.html (0 KB, sin texto extraído)
+- [Legal] A2026_006862_PCAP_Definitivo.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] Pliego prescripciones tecnicas - PPT v004.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

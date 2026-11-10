@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] PCAP_csv.pdf: 01_Legal_PCAP_csv.html (0 KB, sin texto extraído)
-- [Technical] PPT_Equipament_seguretat.pdf: 02_Technical_PPT_Equipament_seguretat.html (0 KB, sin texto extraído)
+- [Legal] PCAP_csv.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] PPT_Equipament_seguretat.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

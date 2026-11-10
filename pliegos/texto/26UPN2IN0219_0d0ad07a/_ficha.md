@@ -10,9 +10,9 @@
 
 ## Documentos
 
-- [Legal] 3771-2026 PLIEGO.pdf: 01_Legal_3771-2026_PLIEGO.html (0 KB, sin texto extraído)
-- [Technical] PPT VI.pdf: 02_Technical_PPT_VI.html (0 KB, sin texto extraído)
-- [Additional] Anexo 2 Lote 2 PCAP 26UPN2IN0219.docx: 03_Additional_Anexo_2_Lote_2_PCAP_26UPN2IN0219.html (0 KB, sin texto extraído)
-- [Additional] Anexo 2 Lote 1 PCAP 26UPN2IN0219.docx: 04_Additional_Anexo_2_Lote_1_PCAP_26UPN2IN0219.html (0 KB, sin texto extraído)
-- [Additional] Anexo 1 PCAP 26UPN2IN0219.docx: 05_Additional_Anexo_1_PCAP_26UPN2IN0219.html (0 KB, sin texto extraído)
-- [Additional] Anexo 2 Lote 3 PCAP 26UPN2IN0219.docx: 06_Additional_Anexo_2_Lote_3_PCAP_26UPN2IN0219.html (0 KB, sin texto extraído)
+- [Legal] 3771-2026 PLIEGO.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] PPT VI.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] Anexo 2 Lote 2 PCAP 26UPN2IN0219.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] Anexo 2 Lote 1 PCAP 26UPN2IN0219.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] Anexo 1 PCAP 26UPN2IN0219.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] Anexo 2 Lote 3 PCAP 26UPN2IN0219.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

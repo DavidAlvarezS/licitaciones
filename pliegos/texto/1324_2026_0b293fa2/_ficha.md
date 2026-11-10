@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] PCAP_MantenimientoVirtualizacion_CA-113-26.pdf: 01_Legal_PCAP_MantenimientoVirtualizacion_CA-113-26.html (0 KB, sin texto extraído)
-- [Technical] RelacionDeUnidades_CA-113-26.pdf: 02_Technical_RelacionDeUnidades_CA-113-26.html (0 KB, sin texto extraído)
+- [Legal] PCAP_MantenimientoVirtualizacion_CA-113-26.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] RelacionDeUnidades_CA-113-26.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

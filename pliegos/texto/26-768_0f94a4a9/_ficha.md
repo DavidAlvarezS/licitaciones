@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] PCAP SCAE Exp 26-768_v2.pdf: 01_Legal_PCAP_SCAE_Exp_26-768_v2.html (0 KB, sin texto extraído)
-- [Technical] PPTP SCAE Exp 26-768_v2.pdf: 02_Technical_PPTP_SCAE_Exp_26-768_v2.html (0 KB, sin texto extraído)
+- [Legal] PCAP SCAE Exp 26-768_v2.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] PPTP SCAE Exp 26-768_v2.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

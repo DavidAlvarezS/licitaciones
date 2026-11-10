@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] PCAP EC 26-13.pdf: 01_Legal_PCAP_EC_26-13.html (0 KB, sin texto extraído)
-- [Technical] PPT EC 26-13.pdf: 02_Technical_PPT_EC_26-13.html (0 KB, sin texto extraído)
+- [Legal] PCAP EC 26-13.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] PPT EC 26-13.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

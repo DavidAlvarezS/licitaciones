@@ -10,6 +10,6 @@
 
 ## Documentos
 
-- [Legal] PCA renovacion mantenimiento soporte AP-OP Manager 2026.pdf: 01_Legal_PCA_renovacion_mantenimiento_soporte_AP-OP_Manager.html (0 KB, sin texto extraído)
-- [Technical] PPT renovacion mantenimiento soporte AP-OP Manager 2026.pdf: 02_Technical_PPT_renovacion_mantenimiento_soporte_AP-OP_Manager.html (0 KB, sin texto extraído)
-- [Additional] Anexos editables.zip: 03_Additional_Anexos_editables.html (0 KB, sin texto extraído)
+- [Legal] PCA renovacion mantenimiento soporte AP-OP Manager 2026.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] PPT renovacion mantenimiento soporte AP-OP Manager 2026.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] Anexos editables.zip: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

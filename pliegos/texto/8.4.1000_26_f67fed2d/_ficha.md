@@ -10,9 +10,9 @@
 
 ## Documentos
 
-- [Legal] 1000 PCAP.pdf: 01_Legal_1000_PCAP.html (0 KB, sin texto extraído)
-- [Technical] 1000 PPT.pdf: 02_Technical_1000_PPT.html (0 KB, sin texto extraído)
-- [Additional] GUIA DE LICITACION ELECTRONICA 2026.pdf: 03_Additional_GUIA_DE_LICITACION_ELECTRONICA_2026.html (0 KB, sin texto extraído)
-- [Additional] ANEXO II.docx: 04_Additional_ANEXO_II.html (0 KB, sin texto extraído)
-- [Additional] ANEXO IA Y IB.docx: 05_Additional_ANEXO_IA_Y_IB.html (0 KB, sin texto extraído)
-- [Additional] PROCEDIMIENTO DEPOSITO DE AVALES solo adjudicatario.pdf: 06_Additional_PROCEDIMIENTO_DEPOSITO_DE_AVALES_solo_adjudicatari.html (0 KB, sin texto extraído)
+- [Legal] 1000 PCAP.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] 1000 PPT.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] GUIA DE LICITACION ELECTRONICA 2026.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] ANEXO II.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] ANEXO IA Y IB.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] PROCEDIMIENTO DEPOSITO DE AVALES solo adjudicatario.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

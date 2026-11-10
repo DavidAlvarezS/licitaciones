@@ -10,8 +10,8 @@
 
 ## Documentos
 
-- [Legal] Pliego de Clausulas Administrativas.pdf: 01_Legal_Pliego_de_Clausulas_Administrativas.html (0 KB, sin texto extraído)
-- [Technical] Pliego de Prescripciones Tecnicas.pdf: 02_Technical_Pliego_de_Prescripciones_Tecnicas.html (0 KB, sin texto extraído)
-- [Additional] Informe de necesidad.pdf: 03_Additional_Informe_de_necesidad.html (0 KB, sin texto extraído)
-- [Additional] Informe SecretarIa General.pdf: 04_Additional_Informe_SecretarIa_General.html (0 KB, sin texto extraído)
-- [Additional] Informe de fiscalizaciOn_RC_A.pdf: 05_Additional_Informe_de_fiscalizaciOn_RC_A.html (0 KB, sin texto extraído)
+- [Legal] Pliego de Clausulas Administrativas.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] Pliego de Prescripciones Tecnicas.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] Informe de necesidad.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] Informe SecretarIa General.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] Informe de fiscalizaciOn_RC_A.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was

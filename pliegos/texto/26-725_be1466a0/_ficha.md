@@ -10,5 +10,5 @@
 
 ## Documentos
 
-- [Legal] PCAP Renovac Lic PAM y mantenim 26-725.pdf: 01_Legal_PCAP_Renovac_Lic_PAM_y_mantenim_26-725.html (0 KB, sin texto extraído)
-- [Technical] PPTP Renovacion Licencias PAM 2026_2028.pdf: 02_Technical_PPTP_Renovacion_Licencias_PAM_2026_2028.html (0 KB, sin texto extraído)
+- [Legal] PCAP Renovac Lic PAM y mantenim 26-725.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Technical] PPTP Renovacion Licencias PAM 2026_2028.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
