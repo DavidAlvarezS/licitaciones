@@ -1,0 +1,16 @@
+pliegos/pliegos_licitaciones_ti/03_PRE_611_2026_Contrato_mixto_de_suministro_y_servicios/00_info.txt
+  h_c61601beeaa68c 1-11
+pliegos/pliegos_licitaciones_ti/04_PRE_23_2026_Servicio_de_implantacion_configuracion_p/00_info.txt
+  h_c61601beeaa68c 1-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "53a64e50efbdcd26d6e83f0524f78732823158f4",
+  "prompts": {},
+  "humans": {
+    "h_c61601beeaa68c": {
+      "author": "David <davidase@inditex.com>"
+    }
+  }
+}
