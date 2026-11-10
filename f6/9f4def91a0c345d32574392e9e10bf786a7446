@@ -1,0 +1,14 @@
+pliegos/pliegos_licitaciones_ti/01_PRE_236_2026_Contrato_de_servicios_para_el_desarrollo/00_info.txt
+  h_c61601beeaa68c 1-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "f69f4def91a0c345d32574392e9e10bf786a7446",
+  "prompts": {},
+  "humans": {
+    "h_c61601beeaa68c": {
+      "author": "David <davidase@inditex.com>"
+    }
+  }
+}
