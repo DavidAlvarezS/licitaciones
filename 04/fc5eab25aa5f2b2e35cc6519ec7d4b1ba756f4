@@ -1,0 +1,16 @@
+pliegos/pliegos_licitaciones_ti/35_15916_2026_Plataforma_de_gestion_de_video_actas_par/00_info.txt
+  h_c61601beeaa68c 1-13
+pliegos/pliegos_licitaciones_ti/36_2026_049_Servicio_de_soporte_y_garantia_del_softw/00_info.txt
+  h_c61601beeaa68c 1-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "04fc5eab25aa5f2b2e35cc6519ec7d4b1ba756f4",
+  "prompts": {},
+  "humans": {
+    "h_c61601beeaa68c": {
+      "author": "David <davidase@inditex.com>"
+    }
+  }
+}
