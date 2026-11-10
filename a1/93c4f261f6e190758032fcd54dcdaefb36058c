@@ -1,0 +1,20 @@
+pliegos/pliegos_licitaciones_ti/16_26_357_Suministro_de_una_Plataforma_de_Experien/00_info.txt
+  h_c61601beeaa68c 1-19
+pliegos/pliegos_licitaciones_ti/17_26UPN2IN0219_Renovacion_de_los_mantenimientos_de_dive/00_info.txt
+  h_c61601beeaa68c 1-15
+pliegos/pliegos_licitaciones_ti/18_A2026_006862_Suministro_de_una_plataforma_software_pa/00_info.txt
+  h_c61601beeaa68c 1-11
+pliegos/pliegos_licitaciones_ti/19_202600000260_Contrato_de_grabacion_guionizacion_produ/00_info.txt
+  h_c61601beeaa68c 1-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "a193c4f261f6e190758032fcd54dcdaefb36058c",
+  "prompts": {},
+  "humans": {
+    "h_c61601beeaa68c": {
+      "author": "David <davidase@inditex.com>"
+    }
+  }
+}
