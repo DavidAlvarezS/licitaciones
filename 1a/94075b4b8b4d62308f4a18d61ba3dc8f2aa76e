@@ -1,0 +1,22 @@
+pliegos/pliegos_licitaciones_ti/08_2026_65_Servicio_de_alojamiento_mantenimiento_y/00_info.txt
+  h_c61601beeaa68c 1-13
+pliegos/pliegos_licitaciones_ti/09_SFC_2026_059_Implantacion_de_una_solucion_integral_de/00_info.txt
+  h_c61601beeaa68c 1-11
+pliegos/pliegos_licitaciones_ti/09_SFC_2026_059_Implantacion_de_una_solucion_integral_de/01_LEGAL_176274-PliegodeClusulasAdmini-001002PCA_STD_CA.pdf
+  h_c61601beeaa68c 1-5675
+pliegos/pliegos_licitaciones_ti/09_SFC_2026_059_Implantacion_de_una_solucion_integral_de/02_TECHNICAL_176275-PliegodePrescripciones-001002PPT_STD_CA.pdf
+  h_c61601beeaa68c 1-2045
+pliegos/pliegos_licitaciones_ti/10_A33_1126_Renovacion_de_los_servicios_de_mantenimi/00_info.txt
+  h_c61601beeaa68c 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "1a94075b4b8b4d62308f4a18d61ba3dc8f2aa76e",
+  "prompts": {},
+  "humans": {
+    "h_c61601beeaa68c": {
+      "author": "David <davidase@inditex.com>"
+    }
+  }
+}
