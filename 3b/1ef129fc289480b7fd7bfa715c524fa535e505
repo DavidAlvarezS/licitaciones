@@ -1,0 +1,16 @@
+pliegos/pliegos_licitaciones_ti/11_6942_2026_El_presente_contrato_tiene_por_objeto_la/00_info.txt
+  h_c61601beeaa68c 1-11
+pliegos/pliegos_licitaciones_ti/12_2026_P200_Soporte_al_cierre_contable_de_diciembre/00_info.txt
+  h_c61601beeaa68c 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "3b1ef129fc289480b7fd7bfa715c524fa535e505",
+  "prompts": {},
+  "humans": {
+    "h_c61601beeaa68c": {
+      "author": "David <davidase@inditex.com>"
+    }
+  }
+}
