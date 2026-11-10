@@ -1,0 +1,2093 @@
+[
+  {
+    "index": 1,
+    "top": true,
+    "deadline": "2026-11-18",
+    "budget": "8.629 €",
+    "exp": "Exp. 236/2026",
+    "title": "Contrato de servicios para el desarrollo de la votación electrónica en las sesiones de la asamblea de la mancomunidad del sur, por procedimiento abierto.",
+    "org": "Presidencia de la Mancomunidad del Sur",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=%2FGqBwspP%2FG9VYjgxA4nMUw%3D%3D",
+    "folder": "01_PRE_236_2026_Contrato_de_servicios_para_el_desarrollo",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "PCAP.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Pf2sd4ol%2B9grRwEhXuDilRNVdnSSKvZZPUZKlJn7ObOO6WjAgM8UrRW12d0g/d/3En870lsj1bzzR3rkdamEHOaxWIrmbMGbPgfKHmqYxpA//q7NB2iMZvNyf0xrJmjt",
+        "file": "01_PRE_236_2026_Contrato_de_servicios_para_el_desarrollo/01_LEGAL_PCAP.pdf",
+        "server_filename": "DOC20261103122339PCAP.pdf",
+        "size": 2931282,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "PPT.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=c0NKfpp6LsV9tB641aQJ1tBAHhJECinY96vJ6BnFQJVFsZh16sxgqyLbuReF8ObD2I64ZrPz6sRhknSELHtP4dVawNCnOACL8M9yaCIUrnxt/o8fNevwsujgRzaBbugn",
+        "file": "01_PRE_236_2026_Contrato_de_servicios_para_el_desarrollo/02_TECHNICAL_PPT.pdf",
+        "server_filename": "DOC20261103122128PPT.pdf",
+        "size": 210283,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 3,
+        "type": "ADDITIONAL",
+        "name": "Anexos Sobre 1.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Ta1Lsc9RUoHf6O4qvzTnIfjgMfwKQTN/lOLqoVR1VJQarFZ3UvPDiqD9eu0bEljPw2lBc%2By8dZbfQo3H5QZAGnzNUfEcQixxq2Qt/LU1MHZJOVDbGCDM%2BMigrvuVS7Rv",
+        "file": "01_PRE_236_2026_Contrato_de_servicios_para_el_desarrollo/03_ADDITIONAL_Anexos Sobre 1.docx",
+        "server_filename": "DOC20261103133431Anexos Sobre 1.docx",
+        "size": 1275679,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 4,
+        "type": "ADDITIONAL",
+        "name": "Anexos propuesto adjudicatario.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=iAdQZHHRerw66EyIYB87PWd3IsoMkd0xG1a%2BtDeeEojgsxsbHfYUxOPaeLVi/V6Z%2BiCZRXM0NpPLMhV42JHgtW6e5oaykOAoE38HTSfbUq33GVhXrFFqN7yFncy7YfRK",
+        "file": "01_PRE_236_2026_Contrato_de_servicios_para_el_desarrollo/04_ADDITIONAL_Anexos propuesto adjudicatario.docx",
+        "server_filename": "DOC20261103133402Anexos propuesto adjudicatario.docx",
+        "size": 1271256,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 5,
+        "type": "ADDITIONAL",
+        "name": "Anexos Sobre 3.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=3gL9RjUyhvEQt%2BDyycIjcL%2B2aO8jEcMW8NjVRDA7LTo/5gJBoGaxwnGYS/l2t8cXQnF%2B6ssNufoJNQde3%2BFDUpDOPDpi54ZgRYGRorOP7%2BZ45ClyWkoJ44mKM70IFcOu",
+        "file": "01_PRE_236_2026_Contrato_de_servicios_para_el_desarrollo/05_ADDITIONAL_Anexos Sobre 3.docx",
+        "server_filename": "DOC20261103133456Anexos Sobre 3.docx",
+        "size": 1260281,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "top": true,
+    "deadline": "2026-11-20",
+    "budget": "4.509 €",
+    "exp": "Exp. 1725997T",
+    "title": "Servicios pagina Web eventos copa Diputación 2026-2029",
+    "org": "Presidencia de la Diputación Provincial de León",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=CpyFN9U7RF35Rey58Yagpg%3D%3D",
+    "folder": "02_PRE_1725997T_Servicios_pagina_Web_eventos_copa_Diputa",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "PCAP Pagina web.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=/6wtNT569FI96iSjmXRhZSVctZa28qsfgcpfRQHj4FQGxEh4v3o4l4tqj/JIs4wWDA9RlzBe22t2%2BZ0f4wMgtVYmeyz91cccbkMjs78QMUl7QB3HKyQaFUExmUVQCerk",
+        "file": "02_PRE_1725997T_Servicios_pagina_Web_eventos_copa_Diputa/01_LEGAL_PCAP Pagina web.pdf",
+        "server_filename": "DOC20261104132542PCAP Pagina web.pdf",
+        "size": 772525,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "PPT pagina web.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=h3ernJNaaJ8e602LnWH3/3f2Qam/tU041Wh0XQYQgclXE%2BxBNjvmw6Y0pevYG4sqSiv40RvL/ro/UFNVBbQkLBnY8gb2WmujZRapEQ7uRkvDdQD9RyhUmzT4jZ2In4zL",
+        "file": "02_PRE_1725997T_Servicios_pagina_Web_eventos_copa_Diputa/02_TECHNICAL_PPT pagina web.pdf",
+        "server_filename": "DOC20261104132417PPT pagina web.pdf",
+        "size": 437333,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "top": true,
+    "deadline": "2026-11-16",
+    "budget": "54.660 €",
+    "exp": "Exp. 611/2026",
+    "title": "Contrato mixto de suministro y servicios para la implantación, migración, alojamiento, mantenimiento y soporte de una aplicación informática de gestión de recursos humanos y nóminas del Ayuntamiento d",
+    "org": "Alcaldía del Ayuntamiento de Calamocha",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=tKP4gOpMD9Q7u6%2B%2FR7DUoA%3D%3D",
+    "folder": "03_PRE_611_2026_Contrato_mixto_de_suministro_y_servicios",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "PCAP Aplicacion nominas.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=vg%2BjVyZd5DUxb5NywS0FGeZloHme34Mt4RLYLiTPZiy02RZSyNCtVZKmiJhU0ILjp/vb1PkCKwRkV5fUek0rWOTiLRj/vooXVDdOXvY9bYSB0nvVKRzfe4rpHcnlPhSZ",
+        "file": "03_PRE_611_2026_Contrato_mixto_de_suministro_y_servicios/01_LEGAL_PCAP Aplicacion nominas.pdf",
+        "server_filename": "DOC20261106113116PCAP Aplicacion nominas.pdf",
+        "size": 1057705,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "PPT Aplicacion nominas.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Xnm6Bpt25R1sKtarcKIkYosGqpkzbkgDJrQQtwyo1lr9ccMot%2BcHjxkESQHRgABFcGRxlIu%2BatIE0u0vnkJOIdT2L3yBMN6ya/1T7b/nuhLDdQD9RyhUmzT4jZ2In4zL",
+        "file": "03_PRE_611_2026_Contrato_mixto_de_suministro_y_servicios/02_TECHNICAL_PPT Aplicacion nominas.pdf",
+        "server_filename": "DOC20261106113100PPT Aplicacion nominas.pdf",
+        "size": 1183697,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "top": true,
+    "deadline": "2026-11-19",
+    "budget": "25.704 €",
+    "exp": "Exp. 23/2026",
+    "title": "Servicio de implantación, configuración, puesta en marcha y mantenimiento de una plataforma de administración electrónica en modalidad Software como Servicio (SaaS) para el Justicia de Aragón",
+    "org": "El Justicia de Aragón",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=4H7TmQdIwKl%2BF6L2uCfUWg%3D%3D",
+    "folder": "04_PRE_23_2026_Servicio_de_implantacion_configuracion_p",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "PCAP servicio admon electronica.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=9dJJGAQWeLvUvt9yL1H%2BHFymOFFEZuCQOKW0fb1QYeHECQ4LKtnHCFFpDYcUlhpV9l9VBj3IHijTQUOQC6AOALcJHRY8qWHvt9iDIW1Ct9t7QB3HKyQaFUExmUVQCerk",
+        "file": "04_PRE_23_2026_Servicio_de_implantacion_configuracion_p/01_LEGAL_PCAP servicio admon electronica.pdf",
+        "server_filename": "DOC20261028141658PCAP servicio admon electronica.pdf",
+        "size": 800478,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "PPT servicio admon electronica.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Dg1QrP8VtyF76ndnASg5vRKr%2BrxdLPgRJpFMkYFAQHMBr3CfBTKsYcNXdlPf5pc2i8ssfEVOBbagIRPfq79AwTS0iE0Bf5ze9dTHJu4w8fqHAj0WEJrB5sP7amrh2jBD",
+        "file": "04_PRE_23_2026_Servicio_de_implantacion_configuracion_p/02_TECHNICAL_PPT servicio admon electronica.pdf",
+        "server_filename": "DOC20261028141627PPT servicio admon electronica.pdf",
+        "size": 311218,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "top": true,
+    "deadline": "2026-11-25",
+    "budget": "11.800 €",
+    "exp": "Exp. 95/2026",
+    "title": "Servicio de apoyo y de consultoría para la adecuación de la accesibilidad de los sitios web corporativos mediante el licenciamiento de la plataforma InSuit implantada en Unión de Mutuas MCSS nº 267.",
+    "org": "Dirección Gerencia de Unión de Mutuas, Mutua Colaboradora con la Seguridad Social Nº 267",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=0cstW1WnI0YzjChw4z%2FXvw%3D%3D",
+    "folder": "05_PRE_95_2026_Servicio_de_apoyo_y_de_consultoria_para",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "95-2026 PCAP.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=jADjbfciMeZkOwBdZhbyTekPRUOaGwOCt9%2Bd5KHFIphYYhghKJuK2NYF9VQF6zaDShsEXYvGaIQ41SLeyvQrP3ZVsnLu6dZjJvLJWD2FiVyCx2e6p7hqtlp2aFupgHMr",
+        "file": "05_PRE_95_2026_Servicio_de_apoyo_y_de_consultoria_para/01_LEGAL_95-2026 PCAP.pdf",
+        "server_filename": "DOC2026110511163695-2026 PCAP.pdf",
+        "size": 526550,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "95-2026 PPTP.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=XA0Sq7OzXHTd9%2BTnMB6xguIMVnHKlM00vjVu82HYriDqTnPpR4QKh/pE4abQ3UtJBD4gVr2F%2BWUExSFL/TVtUdKjLm%2B3qUoSKh5MFk9ZV6IZyAJWGsSt0OzTSTyw9JAs",
+        "file": "05_PRE_95_2026_Servicio_de_apoyo_y_de_consultoria_para/02_TECHNICAL_95-2026 PPTP.pdf",
+        "server_filename": "DOC2026110511155795-2026 PPTP.pdf",
+        "size": 920513,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "top": false,
+    "deadline": "2026-11-10",
+    "budget": "19.231 €",
+    "exp": "Exp. 2026rB400054",
+    "title": "Servicio de portal educativo del cine español para centros educativos no universitarios sostenidos con fondos públicos en Ceuta y en Melilla",
+    "org": "Dirección General de Planificación y Gestión Educativa",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=%2FsEqiVZvq7uqb7rCcv76BA%3D%3D",
+    "folder": "06_2026rB400054_Servicio_de_portal_educativo_del_cine_es",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "PCAP firmado.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=cu0ZjbwUau8x/ecLmW4YGcQR3JSN5EOdJV2Z4tc1ePezkJytiumT7fYyXv1Hvv7cGn469K6Jd%2BicaYv8jV5DZyQhGi0TPLD0jgZwl9V6b1aB0nvVKRzfe4rpHcnlPhSZ",
+        "file": "06_2026rB400054_Servicio_de_portal_educativo_del_cine_es/01_LEGAL_PCAP firmado.pdf",
+        "server_filename": "DOC20261014114738PCAP firmado.pdf",
+        "size": 266546,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "PPT firmado.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=iXwBZkqQ0/9CU2afUiMBpuWEf%2BmrgyDDOGqj8Vc4W71VD7Oczebs1SDa9VG2I9bOejbLR3ZsFYWh/EnML9BT0poSt7xiY70tG9oLeGkzkUVJOVDbGCDM%2BMigrvuVS7Rv",
+        "file": "06_2026rB400054_Servicio_de_portal_educativo_del_cine_es/02_TECHNICAL_PPT firmado.pdf",
+        "server_filename": "DOC20261014114522PPT firmado.pdf",
+        "size": 454958,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 3,
+        "type": "ADDITIONAL",
+        "name": "3-anexo-ii-a-v-procedimiento-abierto-simplificado-abreviado-servicios-1.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=ODvrx3ludu75wLT3ZEBsyMRhB5fAFBDBP5nWFm3WtquVulTvs/o0YRqUOv2Ahk10NC6wpp6S7enc3QgcoM7RhRGfWPTtT/VGolcQJshJjSP3GVhXrFFqN7yFncy7YfRK",
+        "file": "06_2026rB400054_Servicio_de_portal_educativo_del_cine_es/03_ADDITIONAL_3-anexo-ii-a-v-procedimiento-abierto-simplificado-abreviado-servicios-1.pdf",
+        "server_filename": "DOC202610060911083-anexo-ii-a-v-procedimiento-abierto-simplificado-abreviado-servicios-1.pdf",
+        "size": 473713,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 4,
+        "type": "ADDITIONAL",
+        "name": "4-anexo-ultimo-pcap-rd-ley-14-19-1.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=PVGIVLDafY9AveQUdmcvlm%2BYvVLDV/O%2BZfJ6A5ROaGvyagTZmAxRxVWn0A7GNalhytU1Nre1fRSaUUvRkx9DBPImEOQPWSs9lEB9A/JtvNP3GVhXrFFqN7yFncy7YfRK",
+        "file": "06_2026rB400054_Servicio_de_portal_educativo_del_cine_es/04_ADDITIONAL_4-anexo-ultimo-pcap-rd-ley-14-19-1.pdf",
+        "server_filename": "DOC202610060911264-anexo-ultimo-pcap-rd-ley-14-19-1.pdf",
+        "size": 131575,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 5,
+        "type": "ADDITIONAL",
+        "name": "2-anexo-i-PASA-servicios-firmado.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=GBEiv1dTRfmHN9POHogOZxGWtbrqP2fo%2BVUn4WDZ0gXbbZKUF4TRgaKkhJJ02LedgZGJux4og/1edoZrX6hv8VbVcSoKxH0V5oxkvQRBJAr3GVhXrFFqN7yFncy7YfRK",
+        "file": "06_2026rB400054_Servicio_de_portal_educativo_del_cine_es/05_ADDITIONAL_2-anexo-i-PASA-servicios-firmado.pdf",
+        "server_filename": "DOC202610200835242-anexo-i-PASA-servicios-firmado.pdf",
+        "size": 297601,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "top": false,
+    "deadline": "2026-11-12",
+    "budget": "46.128 €",
+    "exp": "Exp. PAS ARTS 515/26",
+    "title": "Servicio de captación de inversores en aplicación de los artículos 36.3 y 39.7 de la Ley del Impuesto de Sociedades y la solicitud al INAEM del certificado regulado en el artículo 36.33.a) de la Ley d",
+    "org": "Dirección General de la Fundación Palau de Les Arts Reina Sofía",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=GD%2F7DRBS8uBVq4S9zvaQpQ%3D%3D",
+    "folder": "07_PAS_ARTS_515_26_Servicio_de_captacion_de_inversores_en_a",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "PCA PAS 515-26 fdo.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=chYctSTHTncFoPzHKDm1uWQ8E7hcxM4cVo8jYpgr6lhJupoihlfk4i945d/Zn3bmA4Hih69wBRwfqsVsgvhAr8Tn7dVZavHzPiVY6iVVHitJOVDbGCDM%2BMigrvuVS7Rv",
+        "file": "07_PAS_ARTS_515_26_Servicio_de_captacion_de_inversores_en_a/01_LEGAL_PCA PAS 515-26 fdo.pdf",
+        "server_filename": "DOC20261014111654PCA PAS 515-26 fdo.pdf",
+        "size": 865501,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "PPTfirmado.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=CrjYPdtDxW/cG39FkAgdNbeo84RjdkGiBmIKzTQCj738SFMYvuTE3EiCvsAtoqklAc%2BNI30D3axMMUXQdj2cAcgNAIrLmkQU%2BGCwku66R7QC1/zDIE0Kw/PWNnLS0Z0z",
+        "file": "07_PAS_ARTS_515_26_Servicio_de_captacion_de_inversores_en_a/02_TECHNICAL_PPTfirmado.pdf",
+        "server_filename": "DOC20261014111549PPTfirmado.pdf",
+        "size": 206218,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "top": false,
+    "deadline": "2026-11-13",
+    "budget": "9.800 €",
+    "exp": "Exp. 2026-65",
+    "title": "Servicio de alojamiento, mantenimiento y soporte del portal web corporativo de EMACSA",
+    "org": "Consejo de Administración de la Empresa Municipal de Aguas de Córdoba, S.A. (EMACSA)",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=HCiUNlUcKyt%2BF6L2uCfUWg%3D%3D",
+    "folder": "08_2026_65_Servicio_de_alojamiento_mantenimiento_y",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "2026-65 PCAP.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=FJpfFkE3AVvEoD8pBAxbiDEEPdsJocXHvz95dDyaA2y4rDNF3DpTFTfR0PMYM7qx9e5tHJcsVUByL71t2iCD/8phwaqSCHsa3kdaX3ByqhNJOVDbGCDM%2BMigrvuVS7Rv",
+        "file": "08_2026_65_Servicio_de_alojamiento_mantenimiento_y/01_LEGAL_2026-65 PCAP.pdf",
+        "server_filename": "DOC202610281229562026-65 PCAP.pdf",
+        "size": 1007606,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "2026-65 PPT.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Kxn7XWR5rgTXqYF06%2BV8ijrUWl9WZyC7Gbv%2BXotXzQn90Sby%2B%2BFv0qorcg5ZcX/WPCinlkOLyMogH6oIb6nRh3b14EKy0mzySXCmJBR7xruB0nvVKRzfe4rpHcnlPhSZ",
+        "file": "08_2026_65_Servicio_de_alojamiento_mantenimiento_y/02_TECHNICAL_2026-65 PPT.pdf",
+        "server_filename": "DOC202610281229532026-65 PPT.pdf",
+        "size": 560498,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 3,
+        "type": "ADDITIONAL",
+        "name": "2026-65 ANEXO MODELOS.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=4Ao2ASnTFXS7RYzxeVXBDl9VWgpCIl5zgj068dIn%2BvhhVScN1pk76Xme3aDy2OxbtuefZJA1rGGSR7FEli91Iz6IBALdv3kPHlNiZZw2Ngl45ClyWkoJ44mKM70IFcOu",
+        "file": "08_2026_65_Servicio_de_alojamiento_mantenimiento_y/03_ADDITIONAL_2026-65 ANEXO MODELOS.docx",
+        "server_filename": "DOC202610281229512026-65 ANEXO MODELOS.docx",
+        "size": 734842,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 4,
+        "type": "ADDITIONAL",
+        "name": "2026-65 MEMORIA JUSTIFICATIVA.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=YDz7PhOijrSV0f7C7pE8fdXwnx6I32mSjs0oXYKeYhoYanh6bp6jaa69HW5YqJC0EL%2BouovpwhzUpTgYs8JaTDPPJNfroqx633zWOObu7Rc//q7NB2iMZvNyf0xrJmjt",
+        "file": "08_2026_65_Servicio_de_alojamiento_mantenimiento_y/04_ADDITIONAL_2026-65 MEMORIA JUSTIFICATIVA.pdf",
+        "server_filename": "DOC202610281229592026-65 MEMORIA JUSTIFICATIVA.pdf",
+        "size": 577568,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "top": false,
+    "deadline": "2026-11-13",
+    "budget": "31.035 €",
+    "exp": "Exp. SFC/2026/059",
+    "title": "Implantación de una solución integral de gestión de turnos, citas, señalización digital e información multimedia en las sedes del Cementerio Ntra. Sra de la Almudena, Tanatorio M-30 y Cementerio Sur,",
+    "org": "Empresa Municipal de Servicios Funerarios y Cementerios de Madrid, S.A.",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=rnB08eqvc%2FYZDGvgaZEVxQ%3D%3D",
+    "folder": "09_SFC_2026_059_Implantacion_de_una_solucion_integral_de",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "176274-PliegodeClusulasAdmini-001002PCA_STD_CA.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=tvCRBFiTUiUIrbODAeUbsDJrU7BffHmudHtS/Ne7m8lrnEkM%2BDlS3XyHeA3qchzhnRjBu8QNVOjBKTVTLgZimUu74f01CdfmlWcw/sAlOAV45ClyWkoJ44mKM70IFcOu",
+        "file": "09_SFC_2026_059_Implantacion_de_una_solucion_integral_de/01_LEGAL_176274-PliegodeClusulasAdmini-001002PCA_STD_CA.pdf",
+        "server_filename": "DOC20261023124418176274-PliegodeClusulasAdmini-001002PCA_STD_CA.pdf",
+        "size": 986972,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "176275-PliegodePrescripciones-001002PPT_STD_CA.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=aQrwLl7fYwnUaQtREc0Y0hj8Fsmii95FHbihVGNEkDSnSPSpA7rGCLcmKRR1oGrlWM56BECikfF/%2BauzyX15zgQP0pXpLrvA5bZYNWmlUBw//q7NB2iMZvNyf0xrJmjt",
+        "file": "09_SFC_2026_059_Implantacion_de_una_solucion_integral_de/02_TECHNICAL_176275-PliegodePrescripciones-001002PPT_STD_CA.pdf",
+        "server_filename": "DOC20261023124422176275-PliegodePrescripciones-001002PPT_STD_CA.pdf",
+        "size": 461462,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "top": false,
+    "deadline": "2026-11-16",
+    "budget": "11.300 €",
+    "exp": "Exp. A33-1126",
+    "title": "Renovación de los servicios de mantenimiento y soporte del software Application Manager Enterprise Edition y Operation Manager del fabricante ManageEngine.",
+    "org": "Jefatura de Unidad de Medios Internos -Área de Compras de la Compañía Española de Seguros de Crédito a la Exportación S.A., S.M.E. (CESCE)",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=bhJLRk%2FVKz970UvEyYJSGw%3D%3D",
+    "folder": "10_A33_1126_Renovacion_de_los_servicios_de_mantenimi",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "PCA renovacion mantenimiento soporte AP-OP Manager 2026.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=GoXCmJYSrLT0q3JYryhpS/eXXKBqn/O7mPe5lt6MUJrEY9G3s8u6v1Q/4b/nYMaUNO6SRH3f8ELI%2Bf2S9ek1EYdpNF75jWZN7XkTtLWIG82B0nvVKRzfe4rpHcnlPhSZ",
+        "file": "10_A33_1126_Renovacion_de_los_servicios_de_mantenimi/01_LEGAL_PCA renovacion mantenimiento soporte AP-OP Manager 2026.pdf",
+        "server_filename": "DOC20261103130930PCA renovacion mantenimiento soporte AP-OP Manager 2026.pdf",
+        "size": 692765,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "PPT renovacion mantenimiento soporte AP-OP Manager 2026.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=tD0hUBJhiP8eKGTk8QkQ/MOoMXezEGwpvUl4xocXVuOOH0Y8nDHJcms4ikAu2oUoBEs8Pynh7uM4dppbqDSBroStHUuHbkMzSfuI9/rr5fD3GVhXrFFqN7yFncy7YfRK",
+        "file": "10_A33_1126_Renovacion_de_los_servicios_de_mantenimi/02_TECHNICAL_PPT renovacion mantenimiento soporte AP-OP Manager 2026.pdf",
+        "server_filename": "DOC20261103125844PPT renovacion mantenimiento soporte AP-OP Manager 2026.pdf",
+        "size": 836620,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 3,
+        "type": "ADDITIONAL",
+        "name": "Anexos editables.zip",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=5trGNMvFBUDDNc06hSYkZ9P61/jFZhN6g5b3TkQ4dwVG1oVq3X3vnNsgsoPbqAHMQzu9fZdJPQOVdNvLtRUHpPZnzCuE6uljiA6BY4Dw33GB0nvVKRzfe4rpHcnlPhSZ",
+        "file": "10_A33_1126_Renovacion_de_los_servicios_de_mantenimi/03_ADDITIONAL_Anexos editables.zip",
+        "server_filename": "DOC20261103130725Anexos editables.zip",
+        "size": 481155,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "top": false,
+    "deadline": "2026-11-16",
+    "budget": "3.128 €",
+    "exp": "Exp. 6942/2026",
+    "title": "El presente contrato tiene por objeto la prestación de los servicios de mantenimiento, soporte técnico, actualización, asistencia especializada y, en su caso, alojamiento y explotación del software",
+    "org": "Alcaldía de Ayuntamiento de Barbate",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=WXCDA0yOVKekU02jNGj1Fw%3D%3D",
+    "folder": "11_6942_2026_El_presente_contrato_tiene_por_objeto_la",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "8-PCAP.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=AwLMGWrAHBVFVAmiUGTdiqekLY6TNIEwQu9m%2B7QtxLXKDWu4uQxC8ovFugAMBRcDcaT%2BdeO4yxlnCLKAv6aax2q6Jb8bydjU3oA2zZci4oP6CYyL7SIrUOBFfNf52ZqA",
+        "file": "11_6942_2026_El_presente_contrato_tiene_por_objeto_la/01_LEGAL_8-PCAP.pdf",
+        "server_filename": "DOC202610261444258-PCAP.pdf",
+        "size": 981949,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "9-PPT.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=SApIXx7KdsW0Y9yOMgxw4xpPsHWCcjZ4vCL8HNz4FSduPjKIdP9w1jREE5smbe1WPf1b1QAxT2hbeG/DdTLYI5uGtsfNtNUWzXAJPZfrHli1aXEvq3KHa/AEHgtDrQw0",
+        "file": "11_6942_2026_El_presente_contrato_tiene_por_objeto_la/02_TECHNICAL_9-PPT.pdf",
+        "server_filename": "DOC202610261443489-PPT.pdf",
+        "size": 401774,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "top": false,
+    "deadline": "2026-11-16",
+    "budget": "50.000 €",
+    "exp": "Exp. 2026-P200",
+    "title": "Soporte al cierre contable de diciembre 2026 y evolución del aplicativo de valoración de activos de Sareb según circular del Banco de España",
+    "org": "Consejo de Administración de la Sociedad de Gestión de Activos procedentes de la Reestructuración Bancaria, S.A",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=LDi8RcHWgnVQFSeKCRun4Q%3D%3D",
+    "folder": "12_2026_P200_Soporte_al_cierre_contable_de_diciembre",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "2026-P200 PCAP.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=gQcGMGxKQ2xKyPghs7nOguFovULDjIk%2BKfyXnGSRdg3S%2B2VB1fVMKI/UWi%2BvTLCSFhOphXTrsjeu/yA968gspT9eZ/JPLtZB6tF8TgyZIgZ45ClyWkoJ44mKM70IFcOu",
+        "file": "12_2026_P200_Soporte_al_cierre_contable_de_diciembre/01_LEGAL_2026-P200 PCAP.pdf",
+        "server_filename": "DOC202610291347202026-P200 PCAP.pdf",
+        "size": 1125626,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "2026-P200 PPT.7z",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=kX/V19/Fz/bG1kAt6GFelnXzIgznY4CZGIlOx55LmsnYhHbGY%2BojTQpMZ1FmDPVv2X%2BBxmai3zBsfV8e3Kibpyf9oLfKr1PTgohsdkImfDeB0nvVKRzfe4rpHcnlPhSZ",
+        "file": "12_2026_P200_Soporte_al_cierre_contable_de_diciembre/02_TECHNICAL_2026-P200 PPT.7z",
+        "server_filename": "DOC202610291345592026-P200 PPT.7z",
+        "size": 11567799,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 3,
+        "type": "ADDITIONAL",
+        "name": "2026-P200 DEUC.zip",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Lt9UbRvue8SYt0rdP4%2BfEKbrHZ2qmxiuW7lKF5K/URB%2BxfTwoCutcZ2sAS0MRLK1s9%2BA2/mi2dJFyaUpE/gKIPZRVysHX9J114vZjpgP0Um1aXEvq3KHa/AEHgtDrQw0",
+        "file": "12_2026_P200_Soporte_al_cierre_contable_de_diciembre/03_ADDITIONAL_2026-P200 DEUC.zip",
+        "server_filename": "DOC202610291408322026-P200 DEUC.zip",
+        "size": 84506,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 13,
+    "top": false,
+    "deadline": "2026-11-20",
+    "budget": "39.669 €",
+    "exp": "Exp. 55027/2026",
+    "title": "Servicios mantenimiento, actualización y soporte de los sistemas EUROCOP y subsistemas de la policía local de Eivissa.",
+    "org": "Concejalía Delegada del Ayuntamiento de Eivissa",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=GSVdLbvLasidkQsA7ROvsg%3D%3D",
+    "folder": "13_55027_2026_Servicios_mantenimiento_actualizacion_y",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "PCAP.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=mlyhHThAZzZgdGksQJuauUYt%2BNiPFaj797DDctB9ZxMJsApunqpXk1DJE9b6GTnV4i22BOSznHqeIAFuBWvhCSbnoQ0sAPxw/gUYiemSJw0//q7NB2iMZvNyf0xrJmjt",
+        "file": "13_55027_2026_Servicios_mantenimiento_actualizacion_y/01_LEGAL_PCAP.pdf",
+        "server_filename": "DOC20261105134710PCAP.pdf",
+        "size": 1635663,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "PPT.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=lIWKop0FieoGcEADg0tdLSu9Mpu9TCujGfTxmlfpYJfZN0GbEihw5ZAGRkmrDkn/k8btmH61DTauvOz0pRbn7PwudrBzsFvGmZMAXYzNID21aXEvq3KHa/AEHgtDrQw0",
+        "file": "13_55027_2026_Servicios_mantenimiento_actualizacion_y/02_TECHNICAL_PPT.pdf",
+        "server_filename": "DOC20261105134744PPT.pdf",
+        "size": 400349,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 3,
+        "type": "ADDITIONAL",
+        "name": "CCC.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=UKN6FB%2Bpg9jpnEu1O2v%2Bblr1MkCLBnCQyHYBIIQ0yPDEf8s8Ja6F8SzIgTOUqbtIId7bQ5sycgQsRDFjU0eyY7rKhldWBBiE24spi6r/LVT3GVhXrFFqN7yFncy7YfRK",
+        "file": "13_55027_2026_Servicios_mantenimiento_actualizacion_y/03_ADDITIONAL_CCC.pdf",
+        "server_filename": "DOC20261105134401CCC.pdf",
+        "size": 746218,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 14,
+    "top": false,
+    "deadline": "2026-11-20",
+    "budget": "59.997 €",
+    "exp": "Exp. 26 031 SR RR ASS AB11",
+    "title": "Serviciio de soporte de sistemas y DevOps a la infraestructura autogestionada de los sistemas competencia del servicio de desarrollo",
+    "org": "Dirección General de Transformación Digital de los Servicios Públicos",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=%2BkhvD9aX2%2BE7u6%2B%2FR7DUoA%3D%3D",
+    "folder": "14_26_031_SR_RR_ASS_AB11_Serviciio_de_soporte_de_sistemas_y_DevOp",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "1000630-PliegodeClusulasAdministr-001003PCA_OE.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=kIsU/s1YGFZG4ZLChxO4F7h16cAd01GjZCC6cn9UFTWKlImYVB6hzJbfj88OFRBv0csPVV%2BwFOwQnaBZTWw3aNlZNo8EPv%2B09zwGd/8aZKBJOVDbGCDM%2BMigrvuVS7Rv",
+        "file": "14_26_031_SR_RR_ASS_AB11_Serviciio_de_soporte_de_sistemas_y_DevOp/01_LEGAL_1000630-PliegodeClusulasAdministr-001003PCA_OE.pdf",
+        "server_filename": "DOC202611051458011000630-PliegodeClusulasAdministr-001003PCA_OE.pdf",
+        "size": 664229,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "1000083-PliegodePrescripcionesTcn-001003PPT_OE.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=GDsXQcodSThc4QEZ0rwqzBYp7visVaUX3DXXtKV8b4Upp6WASJcM0z1WSZmeLyI5ch3es65cKaNCUEtMRbArLecplsx5nrMuKGbcs2aKUjVt/o8fNevwsujgRzaBbugn",
+        "file": "14_26_031_SR_RR_ASS_AB11_Serviciio_de_soporte_de_sistemas_y_DevOp/02_TECHNICAL_1000083-PliegodePrescripcionesTcn-001003PPT_OE.pdf",
+        "server_filename": "DOC202611051458051000083-PliegodePrescripcionesTcn-001003PPT_OE.pdf",
+        "size": 462879,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 15,
+    "top": false,
+    "deadline": "2026-11-20",
+    "budget": "47.500 €",
+    "exp": "Exp. CV BIB 2026 02",
+    "title": "La prestación del servicio de Sistema de Gestión Integral de material físico y digital de la Biblioteca de les Corts Valencianes.",
+    "org": "Mesa de Les Corts Valencianes",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=G7bp7doVLJIXhk1FZxEyvw%3D%3D",
+    "folder": "15_CV_BIB_2026_02_La_prestacion_del_servicio_de_Sistema_de",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "2341XI PCAPCV BIB 2026 02.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=w4gFSMDcXsKOcuVlHOngXmW8hJrv7h1k9zJMzt0Kmn/v7Sc1xxFhbWJEolnAbUNLM0Wxy4731rP%2BJe/9eugcL4kX585l2GC17NEyhWk74x8C1/zDIE0Kw/PWNnLS0Z0z",
+        "file": "15_CV_BIB_2026_02_La_prestacion_del_servicio_de_Sistema_de/01_LEGAL_2341XI PCAPCV BIB 2026 02.pdf",
+        "server_filename": "DOC202611051713022341XI PCAPCV BIB 2026 02.pdf",
+        "size": 1047280,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "2341XI PPTCV BIB 2026 02.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=xCLyg4/vLZqOkTj6bGY9gmgXl744ooWIY6MfG6BpqSorbZP%2BZIzuOD7w0wEQYbwV48ONv2aLcQ6iO%2BOBY6bvSrfoIWIFOJGQ1i1M0rtPS6xt/o8fNevwsujgRzaBbugn",
+        "file": "15_CV_BIB_2026_02_La_prestacion_del_servicio_de_Sistema_de/02_TECHNICAL_2341XI PPTCV BIB 2026 02.pdf",
+        "server_filename": "DOC202611051707142341XI PPTCV BIB 2026 02.pdf",
+        "size": 560975,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 3,
+        "type": "ADDITIONAL",
+        "name": "ANEXOS CVBIB 2026 02.zip",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=49Z7Ll4tyfHDOQwd8K36ttDQVYvQbdi%2BilkfmNRkyYb%2BZYmtGuilCQnLctYXOoVq7jnZd%2BK0xxhSmNa1O3tHwYq%2BeN67rmbm6/Ylzn%2BO4IuB0nvVKRzfe4rpHcnlPhSZ",
+        "file": "15_CV_BIB_2026_02_La_prestacion_del_servicio_de_Sistema_de/03_ADDITIONAL_ANEXOS CVBIB 2026 02.zip",
+        "server_filename": "DOC20261105175041ANEXOS CVBIB 2026 02.zip",
+        "size": 175048,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 16,
+    "top": false,
+    "deadline": "",
+    "budget": "15.000 €",
+    "exp": "Exp. 26/357",
+    "title": "Suministro de una Plataforma de Experiencia de Aprendizaje LXP en modalidad Software as a Service SaaS, incluyendo los servicios de implantación, configuración, formación, Actualización de Versiones,",
+    "org": "Comisión de Contratación de la Sociedad Estatal Loterías y Apuestas del Estado, S.M.E., S.A.",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=jmDE6Xu11zFJ8Trn0ZPzLw%3D%3D",
+    "folder": "16_26_357_Suministro_de_una_Plataforma_de_Experien",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "26_357 CRCP.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Wcrn%2BZIXNy/WKY7qc4xcoda/mKMfOnyvLFhMkUXaL%2BKDowj9ESeIhuRfc9vHdzNVnFBmxDqJAr5jGgwBj74l7uHy83smN89TnVqMbJPJWNbfdyQgZAdTm3EfcUAC7CJ6",
+        "file": null,
+        "server_filename": "",
+        "size": 0,
+        "status": "error",
+        "via_ficha": true,
+        "error": "HTTP Error 500: Internal Server Error"
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "26_357 PPT.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=nxtaa/pqHWrWwhTIggFFGgVEcoAkjUXcQhH4U%2B/z6WEpViCY2LAFTxvGfyBV2DnTGFalfZ1Y1aQPNadhUT%2BcCe0I2OcmejofAvcQ2YvVIJ33GVhXrFFqN7yFncy7YfRK",
+        "file": null,
+        "server_filename": "",
+        "size": 0,
+        "status": "error",
+        "via_ficha": false,
+        "error": "HTTP Error 500: Internal Server Error"
+      }
+    ]
+  },
+  {
+    "index": 17,
+    "top": false,
+    "deadline": "2026-11-10",
+    "budget": "18.417 €",
+    "exp": "Exp. 26UPN2IN0219",
+    "title": "Renovación de los mantenimientos de diversas aplicaciones con destino el Ministerio de Transportes y Movilidad Sostenible (Lote 1, Lote 2 y Lote 3).",
+    "org": "Junta de Contratación del Ministerio de Transportes y Movilidad Sostenible",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=h4Iz602z2ko4NavIWzMcHA%3D%3D",
+    "folder": "17_26UPN2IN0219_Renovacion_de_los_mantenimientos_de_dive",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "3771-2026 PLIEGO.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=BWC5/o/bnqd693JaJU5ugdgAaRZ4S2pw9o1%2B80sHTFLMeePNgwMkTAz9gHhKrn/8bzd%2BCjojMkSUagMr9BBDviH2pOrZ1nJblc2bb7IfFRbVTD3T98KC0nSgQFM0q%2B5s",
+        "file": "17_26UPN2IN0219_Renovacion_de_los_mantenimientos_de_dive/01_LEGAL_3771-2026 PLIEGO.pdf",
+        "server_filename": "DOC202610221438133771-2026 PLIEGO.pdf",
+        "size": 2188681,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "PPT VI.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=XFi8n7oU33TNp5qEBye3CGA5ZodZ7oou0NzxZ9%2BIAuspfFbaA%2BbQy9SLNqIqDxcJlcESUwsqd4UmjbmiecPO/NCzHgMTjni08U5xkKVzVjbVTD3T98KC0nSgQFM0q%2B5s",
+        "file": "17_26UPN2IN0219_Renovacion_de_los_mantenimientos_de_dive/02_TECHNICAL_PPT VI.pdf",
+        "server_filename": "DOC20261022142929PPT VI.pdf",
+        "size": 494377,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 3,
+        "type": "ADDITIONAL",
+        "name": "Anexo 2 Lote 2 PCAP 26UPN2IN0219.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=OD1%2B6R5FcNn2liN/uwj9RGf/6uI7U7cy9mmB1IP4nM2QmYJnPlCx31umls9Rp814Q/mTpGy2bwec%2BFYGETvEfZ6N4KkAQxoOKNLlFU5r/DzVTD3T98KC0nSgQFM0q%2B5s",
+        "file": "17_26UPN2IN0219_Renovacion_de_los_mantenimientos_de_dive/03_ADDITIONAL_Anexo 2 Lote 2 PCAP 26UPN2IN0219.docx",
+        "server_filename": "DOC20261022153151Anexo 2 Lote 2 PCAP 26UPN2IN0219.docx",
+        "size": 75918,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 4,
+        "type": "ADDITIONAL",
+        "name": "Anexo 2 Lote 1 PCAP 26UPN2IN0219.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Jso7yv0jbbvawOeA5N21XPuSAW%2BI/LQrtmW02AmVcm34j1pHFa3v7vjznKdiM4JecQX7IMBoGa4A9kaxdaK%2BggZyBdXE70z4vke12FqB8pwZyAJWGsSt0OzTSTyw9JAs",
+        "file": "17_26UPN2IN0219_Renovacion_de_los_mantenimientos_de_dive/04_ADDITIONAL_Anexo 2 Lote 1 PCAP 26UPN2IN0219.docx",
+        "server_filename": "DOC20261022153138Anexo 2 Lote 1 PCAP 26UPN2IN0219.docx",
+        "size": 76046,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 5,
+        "type": "ADDITIONAL",
+        "name": "Anexo 1 PCAP 26UPN2IN0219.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=UDxdIHtkcAbTBJ79eXQRHq5R04D8LNbSnTByFGa/2KvrDSS88saLDt89ziYeKl8Rj%2BgSpGZdnDInyENt1ARCidy2F67Et%2BG6SYlJgqrrbRvVTD3T98KC0nSgQFM0q%2B5s",
+        "file": "17_26UPN2IN0219_Renovacion_de_los_mantenimientos_de_dive/05_ADDITIONAL_Anexo 1 PCAP 26UPN2IN0219.docx",
+        "server_filename": "DOC20261022153126Anexo 1 PCAP 26UPN2IN0219.docx",
+        "size": 73404,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 6,
+        "type": "ADDITIONAL",
+        "name": "Anexo 2 Lote 3 PCAP 26UPN2IN0219.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=J4viqB/v2ehUShPuJak15TqUhZmN6Zqrby9u34Mzjrb2JmKH8cKokgiCjBXGg%2BtC3ctkv4NQrpBxYx7pt7IwRrHw%2BYz/%2BETetN0St5DlpgWB0nvVKRzfe4rpHcnlPhSZ",
+        "file": "17_26UPN2IN0219_Renovacion_de_los_mantenimientos_de_dive/06_ADDITIONAL_Anexo 2 Lote 3 PCAP 26UPN2IN0219.docx",
+        "server_filename": "DOC20261022153204Anexo 2 Lote 3 PCAP 26UPN2IN0219.docx",
+        "size": 75722,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 18,
+    "top": false,
+    "deadline": "2026-11-10",
+    "budget": "9.180 €",
+    "exp": "Exp. A2026/006862",
+    "title": "Suministro de una plataforma (software) para la gestión del canal interno de información (Canal de denuncias) en cumplimiento de la ley 2/2023 de canal interno de denuncias, con soporte técnico.",
+    "org": "Instituto Tecnológico Agrario de Castilla y León",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=kmkHUFHF9beAAM7L03kM8A%3D%3D",
+    "folder": "18_A2026_006862_Suministro_de_una_plataforma_software_pa",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "A2026_006862_PCAP_Definitivo.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=IXaW0nbyp6O8JPZlbvXoHSY/untCl1AVVo8vb9zEl5zfjIfE/Bbgggo0m1Ms8xhyWoPdxfONHd0/6UrfQkKkhHkfUn6N93oeYriEXj0AZB/3GVhXrFFqN7yFncy7YfRK",
+        "file": "18_A2026_006862_Suministro_de_una_plataforma_software_pa/01_LEGAL_A2026_006862_PCAP_Definitivo.pdf",
+        "server_filename": "DOC20261026092717A2026_006862_PCAP_Definitivo.pdf",
+        "size": 947866,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "Pliego prescripciones tecnicas - PPT v004.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=DlGhAvezVswNFhg9CT0EGLIR9tEc91P8PH%2BvWgWCgzxNYbnkAwcbUOW8s1LrR4qBRfYRVF7%2BlAviyxcyoQK2o%2BAuM1VE40fcMl9ol1H84m0C1/zDIE0Kw/PWNnLS0Z0z",
+        "file": "18_A2026_006862_Suministro_de_una_plataforma_software_pa/02_TECHNICAL_Pliego prescripciones tecnicas - PPT v004.pdf",
+        "server_filename": "DOC20261020122628Pliego prescripciones tecnicas - PPT v004.pdf",
+        "size": 379244,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 19,
+    "top": false,
+    "deadline": "2026-11-10",
+    "budget": "35.000 €",
+    "exp": "Exp. 202600000260",
+    "title": "Contrato de grabación, guionización, producción, realización y postproducción de recursos audiovisuales para su publicación en la web y redes sociales del Museo y distribución a medios de comunicación",
+    "org": "Dirección del Museo Nacional Centro de Arte Reina Sofía",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=wilq3iIt8fzVGIpKDxgsAQ%3D%3D",
+    "folder": "19_202600000260_Contrato_de_grabacion_guionizacion_produ",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "PCAP.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Q6DFJeJXdIf4c4cbRnW5PY2VIe/30%2ByVy89lNiZhnHH9ouDr91Oy2Qj1pIwBUKjMvCfg57ZmvGMaXkMbP%2B44K67cPIr8FplTqZzuEC0sNiR45ClyWkoJ44mKM70IFcOu",
+        "file": "19_202600000260_Contrato_de_grabacion_guionizacion_produ/01_LEGAL_PCAP.pdf",
+        "server_filename": "DOC20261023104447PCAP.pdf",
+        "size": 417593,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "report_PLIEGO PRESCRIPCIONES TECNICAS.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Bs6/kiIOG7QMmdJSFFhqGc3Wt6nJ1432PRPNvyt3r7dGrmiL/ppkkjqhS8CEidQssR5m2GKLb0i2z3qsPbnOQgY%2BNbDppqq/UiodT4qET%2Bq1aXEvq3KHa/AEHgtDrQw0",
+        "file": "19_202600000260_Contrato_de_grabacion_guionizacion_produ/02_TECHNICAL_report_PLIEGO PRESCRIPCIONES TECNICAS.pdf",
+        "server_filename": "DOC20261022143233report_PLIEGO PRESCRIPCIONES TECNICAS.pdf",
+        "size": 260307,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 3,
+        "type": "ADDITIONAL",
+        "name": "ANEXO1PCAPFIRM.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=AOGtND1pET/D7zoygPXk6oMLRMEfmKFrF1eDHV91cvj4E06oky%2BpVBKyhWDdvdtY9tskoX2Tugsuyila7edvPOTQTPYQ5S7%2BTqLyHHJMDCw//q7NB2iMZvNyf0xrJmjt",
+        "file": "19_202600000260_Contrato_de_grabacion_guionizacion_produ/03_ADDITIONAL_ANEXO1PCAPFIRM.pdf",
+        "server_filename": "DOC20261023104607ANEXO1PCAPFIRM.pdf",
+        "size": 365468,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 4,
+        "type": "ADDITIONAL",
+        "name": "DEUC 202600000260.zip",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=s1AczSi%2B4SHX8dtvsum5Q3Jgq4oL2eGeC8c4ypxWRG0ELKA5vQoJUgpGKtYj2Ery4zZkC2YxgCiAc797ovJ2YVhtxO8DdI74MO0GU/jbMLS1aXEvq3KHa/AEHgtDrQw0",
+        "file": "19_202600000260_Contrato_de_grabacion_guionizacion_produ/04_ADDITIONAL_DEUC 202600000260.zip",
+        "server_filename": "DOC20261103084332DEUC 202600000260.zip",
+        "size": 85359,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 20,
+    "top": false,
+    "deadline": "2026-11-11",
+    "budget": "59.040 €",
+    "exp": "Exp. 032-2026-0290",
+    "title": "Contratación de los servicios de diseño, desarrollo, producción, implantación, soporte y mantenimiento de una solución integral de formación inmersiva basada en tecnologías de Realidad Virtual",
+    "org": "Mutua Universal Mugenat, Mutua Colaboradora con la Seguridad Social nº 10",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=T%2BF5Ns16daqGCFcHcNGIlQ%3D%3D",
+    "folder": "20_032_2026_0290_Contratacion_de_los_servicios_de_diseno",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "3411088-PliegodeCondicionesPa-001012PCA_STD_CA.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=pMObz5Kgw1At71yQatc/l3pZZwoaNABrj9If/yFIvmcpc3CkBaYZppmtxiD34bwoiyfx99nKKDCTCeaLW7qr1rOGU9BlLMdcUXV4XuNKeCfVTD3T98KC0nSgQFM0q%2B5s",
+        "file": "20_032_2026_0290_Contratacion_de_los_servicios_de_diseno/01_LEGAL_3411088-PliegodeCondicionesPa-001012PCA_STD_CA.pdf",
+        "server_filename": "DOC202611051308563411088-PliegodeCondicionesPa-001012PCA_STD_CA.pdf",
+        "size": 1992203,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "3378449--032-2026-0290PPTFormacion_inmersiva_C.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=YbTDMAP2Cwt1w82zJ98bjmHswfp3I3F5%2BdHJq7NG%2BDDKm%2B%2Bcs7Kzj3L6GBj6ZstCC1WBj1bntcB80WYajwO6VNGerCCfcT/p%2BpqhCUCM5aqHAj0WEJrB5sP7amrh2jBD",
+        "file": "20_032_2026_0290_Contratacion_de_los_servicios_de_diseno/02_TECHNICAL_3378449--032-2026-0290PPTFormacion_inmersiva_C.pdf",
+        "server_filename": "DOC202611051309013378449--032-2026-0290PPTFormacion_inmersiva_C.pdf",
+        "size": 883178,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 21,
+    "top": false,
+    "deadline": "2026-11-11",
+    "budget": "13.000 €",
+    "exp": "Exp. ABR_SMPL/SUMIN/2026000047",
+    "title": "Suministro y Servicio de licencias de uso de una aplicación informática para la gestión académica de la Escuela Municipal de Música y Danza 'Antonio Baciero' de Aranda de Duero",
+    "org": "Alcaldía del Ayuntamiento de Aranda de Duero",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D",
+    "folder": "21_ABR_SMPL_SUMIN_2026000047_Suministro_y_Servicio_de_licencias_de_us",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "PCAP CCP SUMINISTROS.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=dZzm2LCU%2BhyQM/IdWrHgXLN7MYO/iWiLBnmnl46fPBllk8Jj0z1BAdz2vu/kZa0V%2B0q4IuHvK9RaZ3%2B18XS4mTCoVYNG0JDYiII%2BmfXVlLmHAj0WEJrB5sP7amrh2jBD",
+        "file": "21_ABR_SMPL_SUMIN_2026000047_Suministro_y_Servicio_de_licencias_de_us/01_LEGAL_PCAP CCP SUMINISTROS.pdf",
+        "server_filename": "DOC20261027100439PCAP CCP  SUMINISTROS.pdf",
+        "size": 429928,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "Pliego de prescripciones tecnicas 1F.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=9QqTPnBZ0dXsclbUZo7%2B2/MnXDKZV8k67HvJI7ydtYg8NoLUeDCcYMyUohVx/eXrSVCyGhW/ulxtX24T%2BNn6MJIQPjg6XdEBIrj4LKbjIeQC1/zDIE0Kw/PWNnLS0Z0z",
+        "file": "21_ABR_SMPL_SUMIN_2026000047_Suministro_y_Servicio_de_licencias_de_us/02_TECHNICAL_Pliego de prescripciones tecnicas 1F.pdf",
+        "server_filename": "DOC20261027100441Pliego de prescripciones tecnicas 1F.pdf",
+        "size": 170218,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 3,
+        "type": "ADDITIONAL",
+        "name": "Memoria Justificativa 1F.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=J9u/yd16g4mGNDJAX43x0PD/SXLYhSSAR0s6%2BGyNHhdedeGd/bfZ/HNqt63VABe2ABhfSr4HZvXyQUP4gep2g%2BivqMqbS3DLAQD0vHHt3kTVTD3T98KC0nSgQFM0q%2B5s",
+        "file": "21_ABR_SMPL_SUMIN_2026000047_Suministro_y_Servicio_de_licencias_de_us/03_ADDITIONAL_Memoria Justificativa 1F.pdf",
+        "server_filename": "DOC20261027100435Memoria Justificativa 1F.pdf",
+        "size": 211784,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 4,
+        "type": "ADDITIONAL",
+        "name": "Resolucion aprob pliego y gasto.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=30iscyo934jvCcyPdUjlNcrgEiLRzRmx/v0/86XOEkl1foayV%2BF23sIFFRrLCQVHewt31ZSR9en1/o0GC4bln1uGkS5LiUeyWgIS8W5JdlhJOVDbGCDM%2BMigrvuVS7Rv",
+        "file": "21_ABR_SMPL_SUMIN_2026000047_Suministro_y_Servicio_de_licencias_de_us/04_ADDITIONAL_Resolucion aprob pliego y gasto.pdf",
+        "server_filename": "DOC20261027100454Resolucion aprob pliego y gasto.pdf",
+        "size": 343076,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 5,
+        "type": "ADDITIONAL",
+        "name": "Pliego tipo de suministros.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=psKtnRMixVHB4LOxzoJbytagJZANUPP4/BCRkKrpOwGeKCTioNEBpMOSz2/FgCqu/SFGN87WoCG1GvcIqscbixV1H/rMjoX9ksoin8x8V/SB0nvVKRzfe4rpHcnlPhSZ",
+        "file": "21_ABR_SMPL_SUMIN_2026000047_Suministro_y_Servicio_de_licencias_de_us/05_ADDITIONAL_Pliego tipo de suministros.pdf",
+        "server_filename": "DOC20261027100450Pliego tipo de suministros.pdf",
+        "size": 1475863,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 6,
+        "type": "ADDITIONAL",
+        "name": "A0 Modelo Datos Empresa Notificaciones.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=N0NeduyZ/nhkP473HXJIYcxL3nZ8e83/gR1CH2pzWfvsOsGv4wg8ABNtEBuZavRZuc3YpBoD5HHGCxyYzVdbznTOwdAuC0Lk/0POVEU19%2BjVTD3T98KC0nSgQFM0q%2B5s",
+        "file": "21_ABR_SMPL_SUMIN_2026000047_Suministro_y_Servicio_de_licencias_de_us/06_ADDITIONAL_A0 Modelo Datos Empresa Notificaciones.docx",
+        "server_filename": "DOC20261027101121A0 Modelo Datos Empresa Notificaciones.docx",
+        "size": 38513,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 7,
+        "type": "ADDITIONAL",
+        "name": "Anexo IV.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=njpMz/NmzOeBRQckJr6muOAffdIv6%2BWxaT0lEnehm4hGMm5vWyZqz2SF%2BiSw2Ikgc9s2eJAGf1Ptm6DR6AQuW8%2BzTCbi99zo/U7j7FVy1gk//q7NB2iMZvNyf0xrJmjt",
+        "file": "21_ABR_SMPL_SUMIN_2026000047_Suministro_y_Servicio_de_licencias_de_us/07_ADDITIONAL_Anexo IV.docx",
+        "server_filename": "DOC20261027100950Anexo IV.docx",
+        "size": 152060,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 8,
+        "type": "ADDITIONAL",
+        "name": "ANEXO I.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=w3BvdXw/E7ybK5xx867N7OGZ9N3BpDGgHSYJY/grEd5S8r/LRkWOf3mgxBauY1yYFrlFVTIrj/UGkb%2B9iFLgWbmuTGdYAROFkuqT4qKgmyhJOVDbGCDM%2BMigrvuVS7Rv",
+        "file": "21_ABR_SMPL_SUMIN_2026000047_Suministro_y_Servicio_de_licencias_de_us/08_ADDITIONAL_ANEXO I.docx",
+        "server_filename": "DOC20261027100905ANEXO I.docx",
+        "size": 152025,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 9,
+        "type": "ADDITIONAL",
+        "name": "Anexo II A y II B.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=nEKExop703lVKSp8fdkyZQug7gvpyLPaQPGHTzx7Z3Mj1dAp7tEgakCsvlq6t34LjG3xU6GTFb/L1H3XIgrl3sgzAE3HJ9lXNGW9ZbHyatGHAj0WEJrB5sP7amrh2jBD",
+        "file": "21_ABR_SMPL_SUMIN_2026000047_Suministro_y_Servicio_de_licencias_de_us/09_ADDITIONAL_Anexo II A y II B.docx",
+        "server_filename": "DOC20261027100928Anexo II A y II B.docx",
+        "size": 156137,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 10,
+        "type": "ADDITIONAL",
+        "name": "Anexo VIII Subcontratacion.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=gnbrxHkvRuMheGylkbAURCxw8RPbspQRDDv8CdDSPxQabUTH5XS0uZWasDZ5KdaoT/Rm76gighQJYGu%2BokTZPKoiM%2B%2BlpaXZPDoN06Fh/bX3GVhXrFFqN7yFncy7YfRK",
+        "file": "21_ABR_SMPL_SUMIN_2026000047_Suministro_y_Servicio_de_licencias_de_us/10_ADDITIONAL_Anexo VIII Subcontratacion.docx",
+        "server_filename": "DOC20261027101012Anexo VIII Subcontratacion.docx",
+        "size": 152607,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 22,
+    "top": false,
+    "deadline": "2026-11-12",
+    "budget": "12.890 €",
+    "exp": "Exp. PA 9/2027",
+    "title": "Servicio de asistencia técnica especializada, asesoramiento de carácter jurídico-contable y formación de personal en materia de gestión de inventario relacionada con la aplicación informática GPA del",
+    "org": "Concejal de Contratación del Ayuntamiento de Torrejón de Ardoz",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=gvgbEEAQczDLIx6q1oPaMg%3D%3D",
+    "folder": "22_PA_9_2027_Servicio_de_asistencia_tecnica_especiali",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "PA 9 2027 PCAP.PDF",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=CozDMF4PSDg%2Bg6VcYihGvRYXwNLsKJ1VxyuYwW6s74s3Ylbt2QewWlySZfRzohvrJLNXE9J6cmG%2BMN60TDfIDe14T9imfBqDXmV8j0aN8jVJOVDbGCDM%2BMigrvuVS7Rv",
+        "file": "22_PA_9_2027_Servicio_de_asistencia_tecnica_especiali/01_LEGAL_PA 9 2027 PCAP.PDF",
+        "server_filename": "DOC20261028083103PA 9 2027 PCAP.PDF",
+        "size": 1379878,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "PA 9 2027 PPT.PDF",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=phtqDLeL90EHApkM6p35UY22gfknzm1o8BwyMIPCdeLVlqWk2BiniMvDGecxvlqvQ9bs9qWY4wdQ9JaE0RdOAWRh8MVsml0ohDw5tUYee32Cx2e6p7hqtlp2aFupgHMr",
+        "file": "22_PA_9_2027_Servicio_de_asistencia_tecnica_especiali/02_TECHNICAL_PA 9 2027 PPT.PDF",
+        "server_filename": "DOC20261028083002PA 9 2027 PPT.PDF",
+        "size": 268892,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 23,
+    "top": false,
+    "deadline": "2026-11-12",
+    "budget": "36.000 €",
+    "exp": "Exp. 2027-S-10",
+    "title": "Adquisición del derecho de uso de software en nube de una plataforma tecnológica para la obtención de documentos y la gestión del préstamo interbibliotecario entre universidades de ámbito internaciona",
+    "org": "Rectorado de la Universidad Autónoma de Madrid",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=kPAssOygZE6GCFcHcNGIlQ%3D%3D",
+    "folder": "23_2027_S_10_Adquisicion_del_derecho_de_uso_de_softwa",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "370336-PliegodeClusulasAdmini-001001PCA_STD_CA.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Pq/KuKa20LwA3p76pICamLMLzzwN1twa83A65YsYf/djx%2B2KIYc70mAhWpaHqmSW2n6jCb5jlXdidjgPlDg965zPsxuuIY3EugyOnpd90mgZyAJWGsSt0OzTSTyw9JAs",
+        "file": "23_2027_S_10_Adquisicion_del_derecho_de_uso_de_softwa/01_LEGAL_370336-PliegodeClusulasAdmini-001001PCA_STD_CA.pdf",
+        "server_filename": "DOC20261028150511370336-PliegodeClusulasAdmini-001001PCA_STD_CA.pdf",
+        "size": 838250,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "370344-PliegodePrescripciones-001001PPT_STD_CA.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=eQi9%2BuaOBy5XgxNSEV7goeyOK5ooc6FC9UDSnTDSMImQmirnglJWiLppZ6w1%2BdPaMKQF21EejfUUhzidGZw%2BT1KUsVfnXzPhq/55uQpUWYDVTD3T98KC0nSgQFM0q%2B5s",
+        "file": "23_2027_S_10_Adquisicion_del_derecho_de_uso_de_softwa/02_TECHNICAL_370344-PliegodePrescripciones-001001PPT_STD_CA.pdf",
+        "server_filename": "DOC20261028150513370344-PliegodePrescripciones-001001PPT_STD_CA.pdf",
+        "size": 228648,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 3,
+        "type": "ADDITIONAL",
+        "name": "anexos pliegos.zip",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=7BdzDWwA4EBv0dTHy2gXTPZUeZxvIgV4%2Bgi5cBmSdlM4UyK6mLfBgMzLkR0x0%2BerCq8UhSMOUx%2B03uuwlnM4LzJCduLGu6HCFaUUl%2BjoWe61aXEvq3KHa/AEHgtDrQw0",
+        "file": "23_2027_S_10_Adquisicion_del_derecho_de_uso_de_softwa/03_ADDITIONAL_anexos pliegos.zip",
+        "server_filename": "DOC20261028185105anexos pliegos.zip",
+        "size": 288087,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 24,
+    "top": false,
+    "deadline": "2026-11-13",
+    "budget": "32.000 €",
+    "exp": "Exp. SE027/2026",
+    "title": "Mantenimiento de hardware y software específico de seguridad.",
+    "org": "Comité de Contratación de Aguas Municipalizadas de Alicante, Empresa Mixta",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=MjJMHuBMpN62gkLQ8TeYKA%3D%3D",
+    "folder": "24_SE027_2026_Mantenimiento_de_hardware_y_software_esp",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "05 PCAP software hardware SE027_2026 mod.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=YjFBtdqwBDUMNViL336p5JE8t1fze5Ya%2BmgiTRDLCXfLKvLiWaBSV2RsjH4RFyyqrRCTTzJvm5KiYtgLo0ClV6maRtaZFGYCDhnBYtbaMKFt/o8fNevwsujgRzaBbugn",
+        "file": "24_SE027_2026_Mantenimiento_de_hardware_y_software_esp/01_LEGAL_05 PCAP software hardware SE027_2026 mod.pdf",
+        "server_filename": "DOC2026102914495205 PCAP software hardware SE027_2026 mod.pdf",
+        "size": 574893,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "PPT software y hardware seguridad SE027_2026.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=g82k0vq7qeTKvRRldpPvKJDUYirDr3BsPEZkxO3z9H9Ohkv6p%2B64UhahxvqoNoBL0fVPwL/enzdQ6t9e/O7Q%2Bli3oBBlacUzASQsotbh%2BzIC1/zDIE0Kw/PWNnLS0Z0z",
+        "file": "24_SE027_2026_Mantenimiento_de_hardware_y_software_esp/02_TECHNICAL_PPT software y hardware seguridad SE027_2026.pdf",
+        "server_filename": "DOC20261029143341PPT software y hardware seguridad SE027_2026.pdf",
+        "size": 167864,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 3,
+        "type": "ADDITIONAL",
+        "name": "ANEXOS PCAP software y hardware seguridad SE027_2026___.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=d7NgjVc0VNcf3H6TNNAAdr3Glhj3KpFqwtMY6AjCj2MqjoK45jmcluyH9TZmfbhtiBoAUqTevuBM8mf8BWHFDpekLnLTzarX2n3PD%2Ba2oLffdyQgZAdTm3EfcUAC7CJ6",
+        "file": "24_SE027_2026_Mantenimiento_de_hardware_y_software_esp/03_ADDITIONAL_ANEXOS PCAP software y hardware seguridad SE027_2026___.pdf",
+        "server_filename": "DOC20261029144156ANEXOS PCAP software y hardware seguridad SE027_2026___.pdf",
+        "size": 1147498,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 25,
+    "top": false,
+    "deadline": "2026-11-13",
+    "budget": "49.587 €",
+    "exp": "Exp. SERV-E-PA-60-2026",
+    "title": "Servicio de Plataforma de Gestión para servicios Doble Factor de Autenticación, dentro del Plan de Actuación Integrado: Tomelloso, orígenes y futuro, cofinanciado al 85% por la Unión Europea a través",
+    "org": "Junta de Gobierno del Ayuntamiento de Tomelloso",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=5MPuZBjmg2LECtSnloz%2BZQ%3D%3D",
+    "folder": "25_SERV_E_PA_60_2026_Servicio_de_Plataforma_de_Gestion_para_s",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "Pliego de Clausulas Administrativas Particulares Doble Factor FEDER.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=gbDvrXeyAywq9VY3bvkQA%2BLA0fkDdsMRa5n2jmcscyAi%2BhnhRxuP9pWQpQOeDMasMK0lTg200DShDLi0V6FLVhPuOgfm6okFu3hU0XBOuQr6CYyL7SIrUOBFfNf52ZqA",
+        "file": "25_SERV_E_PA_60_2026_Servicio_de_Plataforma_de_Gestion_para_s/01_LEGAL_Pliego de Clausulas Administrativas Particulares Doble Factor FEDER.pdf",
+        "server_filename": "DOC20261029110307Pliego de Clausulas Administrativas Particulares Doble Factor FEDER.pdf",
+        "size": 557023,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "PPT Doble factor FEDER.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=QpWjEKLlg6LKtBxo4zg2LxBB8dgyzi0gcVzmXGzNDm7vEyiLCwSl1cy6m7y6fj95zYblw32I5bHSIlTdW6/IxtnuIVW0YMfgUT%2B3JyBM/rg//q7NB2iMZvNyf0xrJmjt",
+        "file": "25_SERV_E_PA_60_2026_Servicio_de_Plataforma_de_Gestion_para_s/02_TECHNICAL_PPT Doble factor FEDER.pdf",
+        "server_filename": "DOC20261028134505PPT Doble factor FEDER.pdf",
+        "size": 287878,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 26,
+    "top": false,
+    "deadline": "2026-11-16",
+    "budget": "20.800 €",
+    "exp": "Exp. 00167-2026",
+    "title": "Servicio de mantenimiento y bolsa de horas de la herramienta Enterprise Data Analytics de la Universidad de Zaragoza.",
+    "org": "Rectorado de la Universidad de Zaragoza",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=nFWtn7SW9ZnjHF5qKI4aaw%3D%3D",
+    "folder": "26_00167_2026_Servicio_de_mantenimiento_y_bolsa_de_hor",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "1808315-Pliegodeclausulasadmi-001001PCA_STD_CA.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=FZJMNZcey3xG/kVX7sg3WLH8UyTu7CE4PllvgvYTyN/xADEVOCjMTL4NS4K5bumwCkz4O%2BUPbeWnC0Ftk%2BOiKH6GZxHAe/OXilc3fcDIp5/VTD3T98KC0nSgQFM0q%2B5s",
+        "file": "26_00167_2026_Servicio_de_mantenimiento_y_bolsa_de_hor/01_LEGAL_1808315-Pliegodeclausulasadmi-001001PCA_STD_CA.pdf",
+        "server_filename": "DOC202610291059331808315-Pliegodeclausulasadmi-001001PCA_STD_CA.pdf",
+        "size": 1104308,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "1808316-PliegodePrescripcione-001001PPT_STD_CA.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=N/ksm9%2B5g/hA6Y4pgF9yeN2x9aXa8xbCMhzJb3n727TP9te3R5eakUhf%2Bb5nlGaofU0AJDTFu392jzBb1oovzaVw%2BE/CBHNFqzl9bcvl6VSCx2e6p7hqtlp2aFupgHMr",
+        "file": "26_00167_2026_Servicio_de_mantenimiento_y_bolsa_de_hor/02_TECHNICAL_1808316-PliegodePrescripcione-001001PPT_STD_CA.pdf",
+        "server_filename": "DOC202610291059361808316-PliegodePrescripcione-001001PPT_STD_CA.pdf",
+        "size": 283156,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 27,
+    "top": false,
+    "deadline": "2026-11-16",
+    "budget": "2.400 €",
+    "exp": "Exp. 2026000073/AYTO/SERV/ABR_SP_SMPL",
+    "title": "Servicio de mantenimiento, soporte y actualización de la Aplicación del Archico Municipal de Málaga ARCA, El Archivo sale a la calle.",
+    "org": "Concejal Delegada del Área de Cultura y Patrimonio Histórico del Ayuntamiento de Málaga",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=smI0xCeOQPEtm4eBPtV6eQ%3D%3D",
+    "folder": "27_2026000073_AYTO_SERV_ABR_SP_Servicio_de_mantenimiento_soporte_y_actu",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "SERVICIOS PASA PCAP 1F.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=StzowPDm6RaLubg4xANafyyXlZgPWu6/a2RVltf7ebOg9bsLkZ9qEYWSE8demfrPgoS7Y2i9HLVYrE%2BEqQwsTiM3z1Xvd7gGvYcT7D4QHht7QB3HKyQaFUExmUVQCerk",
+        "file": "27_2026000073_AYTO_SERV_ABR_SP_Servicio_de_mantenimiento_soporte_y_actu/01_LEGAL_SERVICIOS PASA PCAP 1F.pdf",
+        "server_filename": "DOC20261030113220SERVICIOS PASA PCAP 1F.pdf",
+        "size": 437981,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "PPT Servicios 1F.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=AP1wUx6kjxJhQdUv9wSZNyWjE48p2PVXACRRvO7LGYO%2BmbJBM3yGTDMoU5900Pt/8gHu5vVmvonjwURavj23ze8pcKdbEoWu/go77kpV4KyB0nvVKRzfe4rpHcnlPhSZ",
+        "file": "27_2026000073_AYTO_SERV_ABR_SP_Servicio_de_mantenimiento_soporte_y_actu/02_TECHNICAL_PPT Servicios 1F.pdf",
+        "server_filename": "DOC20261030113210PPT Servicios 1F.pdf",
+        "size": 227897,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 3,
+        "type": "ADDITIONAL",
+        "name": "SERVICIOS PASA Anexos 2 a 5.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=phq4DMCjufyPjcrdAgI2%2BZ5BI%2BKA3UvqpZrbhLBShgIYoGXfs6CxOnembTFUoaCT8B4SUptsDeT4w5C5jNjUjzxFqWds7tAd4pDMR0jVnvUC1/zDIE0Kw/PWNnLS0Z0z",
+        "file": "27_2026000073_AYTO_SERV_ABR_SP_Servicio_de_mantenimiento_soporte_y_actu/03_ADDITIONAL_SERVICIOS PASA Anexos 2 a 5.pdf",
+        "server_filename": "DOC20261030113216SERVICIOS PASA Anexos 2 a 5.pdf",
+        "size": 213856,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 4,
+        "type": "ADDITIONAL",
+        "name": "Anexo 1 tras informe de Intervencion.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=qSTgo2owZVbZ/dqdFZm%2BPkBQYaEL25mbgXvRI3VWg4WV1kuokavqRzosq2x6X8IOrvuH3qRYhVNGqPy6uziG6WZJxCBK/VbvcH5VqbapWlYZyAJWGsSt0OzTSTyw9JAs",
+        "file": "27_2026000073_AYTO_SERV_ABR_SP_Servicio_de_mantenimiento_soporte_y_actu/04_ADDITIONAL_Anexo 1 tras informe de Intervencion.pdf",
+        "server_filename": "DOC20261030113213Anexo 1 tras informe de Intervencion.pdf",
+        "size": 358178,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 28,
+    "top": false,
+    "deadline": "2026-11-17",
+    "budget": "23.000 €",
+    "exp": "Exp. DEMA-2026-045",
+    "title": "Adquisición de licencias software necesarias para garantizar la operatividad de la plataforma TESTBED incluyendo los servicios de activación, y configuración asociados, siendo su ejecución en Costa Ri",
+    "org": "Dirección de la Fundación para la Internacionalización de las Administraciones Públicas",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=3VSNcx60pdczjChw4z%2FXvw%3D%3D",
+    "folder": "28_DEMA_2026_045_Adquisicion_de_licencias_software_necesa",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "CCP DEMA 2026 045.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=3ZXjyXajisQB1f1OIjq9ibviE8LqC4pKPLrDVGn/7gUPC8W1Rl%2BoiZeNL29JqX53LcxhOdvNrgj2Lb1dd7lWtxPRcODR1mXkTFlNKfHtlxoZyAJWGsSt0OzTSTyw9JAs",
+        "file": "28_DEMA_2026_045_Adquisicion_de_licencias_software_necesa/01_LEGAL_CCP DEMA 2026 045.pdf",
+        "server_filename": "DOC20261030105220CCP DEMA 2026 045.pdf",
+        "size": 419553,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "PPT DEMA 2026 045.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=%2Bql77iDsUcVfA%2Boiy8PKS/8fsAlsY%2BzGQovDthezbsDjsdb%2BcigqhbeBCsANFyTnlXcDLDp/JNvkrFz9NtvUjuyXMfLoZtgXMKcRXZMSseT3GVhXrFFqN7yFncy7YfRK",
+        "file": "28_DEMA_2026_045_Adquisicion_de_licencias_software_necesa/02_TECHNICAL_PPT DEMA 2026 045.pdf",
+        "server_filename": "DOC20261030105155PPT DEMA 2026 045.pdf",
+        "size": 400206,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 3,
+        "type": "ADDITIONAL",
+        "name": "Anexos.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=zNjkq8sElEK8Hp8XCp8XAvmShRp7vKcx/g5TTwSQR2bGpTFo2bvdf/BvRzAzG0kAahpVXJqRFdmlJlT7MKsn7bSmb2z6qbBJhT6JjVUryWd45ClyWkoJ44mKM70IFcOu",
+        "file": "28_DEMA_2026_045_Adquisicion_de_licencias_software_necesa/03_ADDITIONAL_Anexos.docx",
+        "server_filename": "DOC20261030110355Anexos.docx",
+        "size": 78586,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 29,
+    "top": false,
+    "deadline": "2026-11-19",
+    "budget": "14.900 €",
+    "exp": "Exp. 606/26",
+    "title": "Soporte y actualización de la aplicación informática PRESTO para los servicios técnicos de PROMEDIO",
+    "org": "Consorcio de Gestión de Servicios Medioambientales de Badajoz",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=98ujt52xQHB9Zh%2FyRJgM8w%3D%3D",
+    "folder": "29_606_26_Soporte_y_actualizacion_de_la_aplicacion",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "4363994-Pliegodeclausulasadmi-001001PCA_STD_CA.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=f8p2J8SBg1AUCIAjve20vxxthBaPy7E7aYyK6K3QGj9tWQK/vfDe0AEhNyNamUGqY5O95itV8ku4yC%2Ba4JxQG%2BXteBSKEN%2BrUQIuInAgqd3fdyQgZAdTm3EfcUAC7CJ6",
+        "file": "29_606_26_Soporte_y_actualizacion_de_la_aplicacion/01_LEGAL_4363994-Pliegodeclausulasadmi-001001PCA_STD_CA.pdf",
+        "server_filename": "DOC202611041506554363994-Pliegodeclausulasadmi-001001PCA_STD_CA.pdf",
+        "size": 615662,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "4363362-PliegodePrescripcione-001001PPT_STD_OE.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=XiSbF7w1BGN4Lh8nfw/ApSV%2BvuJ7BiS1okg4tik9f7DuYxDpkTTU3YYKjaEPzO5DLtb56I4b5vkBtH7w4rXWhyrUwK5POUFxEaMdCR7cw3YC1/zDIE0Kw/PWNnLS0Z0z",
+        "file": "29_606_26_Soporte_y_actualizacion_de_la_aplicacion/02_TECHNICAL_4363362-PliegodePrescripcione-001001PPT_STD_OE.pdf",
+        "server_filename": "DOC202611041506574363362-PliegodePrescripcione-001001PPT_STD_OE.pdf",
+        "size": 242119,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 30,
+    "top": false,
+    "deadline": "2026-11-20",
+    "budget": "10.200 €",
+    "exp": "Exp. 26-768",
+    "title": "Servicio de gestión documental de Coordinación de Actividades Empresariales (CAE) de EMASA mediante una plataforma tecnológica",
+    "org": "Consejero Delegado de la Empresa Municipal de Aguas de Málaga S.A.",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=zkhmV9vfWHbI8aL3PRS10Q%3D%3D",
+    "folder": "30_26_768_Servicio_de_gestion_documental_de_Coordi",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "PCAP SCAE Exp 26-768_v2.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=/UenCrt1%2BgxIeomHUgwLALvlNRSUiFjTAmslZ%2BAwJLaojh%2Ba9lVK4ROtiBCeaWdQa5Lai1wGFKoeFl9OkueiaQTmIIozz8iY39hufnJytV545ClyWkoJ44mKM70IFcOu",
+        "file": "30_26_768_Servicio_de_gestion_documental_de_Coordi/01_LEGAL_PCAP SCAE Exp 26-768_v2.pdf",
+        "server_filename": "DOC20261104113709PCAP SCAE Exp 26-768_v2.pdf",
+        "size": 1095826,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "PPTP SCAE Exp 26-768_v2.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=UIUoH0plANh%2BRMu1KLMNcDhbV8FVwSdraoe/Te4IKJUBFLtAKtig/zEtgkVkHfaTgNkSSDl5JFT8jEzyXgcaWl%2BQUQG%2Bwr7DFGiHwal/jT73GVhXrFFqN7yFncy7YfRK",
+        "file": "30_26_768_Servicio_de_gestion_documental_de_Coordi/02_TECHNICAL_PPTP SCAE Exp 26-768_v2.pdf",
+        "server_filename": "DOC20261104113653PPTP SCAE Exp 26-768_v2.pdf",
+        "size": 192274,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 31,
+    "top": false,
+    "deadline": "2026-11-20",
+    "budget": "47.521 €",
+    "exp": "Exp. SUM015/2026",
+    "title": "Suministro de licencias, suscripciones y servicios de mantenimiento y soporte asociados a la plataforma de copias de seguridad de la Universidad de León.",
+    "org": "Rector de la Universidad de León",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=uo56q96MHU3N3k3tjedSGw%3D%3D",
+    "folder": "31_SUM015_2026_Suministro_de_licencias_suscripciones_y",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "03 PLIEGO CLAUSULAS ADMINISTRATIVAS.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=J5JhKDh4A95x6owCD8YUI3e9H7rHaRnq4ANpU0hc%2BayJgfqzqtowA4Id18UTDp6pZ2mnLEF1xkeyZPcrkhXmZs8tPRpYXgnGJhGFLb0i5XeB0nvVKRzfe4rpHcnlPhSZ",
+        "file": "31_SUM015_2026_Suministro_de_licencias_suscripciones_y/01_LEGAL_03 PLIEGO CLAUSULAS ADMINISTRATIVAS.pdf",
+        "server_filename": "DOC2026110512452303 PLIEGO CLAUSULAS ADMINISTRATIVAS.pdf",
+        "size": 619188,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "04 PLIEGO DE PRESCRIPCIONES TECNICAS.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=4SkProNXk53BA0IkirQ7pcW6XAfuRdy0mW6w09ztMC7a6hTyJEkwbbTNoANiKyA/Rjgg35AoO%2BhmzuTenVAENVUxpg509xAMO1GzVsSuTHd45ClyWkoJ44mKM70IFcOu",
+        "file": "31_SUM015_2026_Suministro_de_licencias_suscripciones_y/02_TECHNICAL_04 PLIEGO DE PRESCRIPCIONES TECNICAS.pdf",
+        "server_filename": "DOC2026110512452504 PLIEGO DE PRESCRIPCIONES TECNICAS.pdf",
+        "size": 258002,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 32,
+    "top": false,
+    "deadline": "2026-11-20",
+    "budget": "16.529 €",
+    "exp": "Exp. 1923071H",
+    "title": "El objeto de los trabajos consiste en la contratación del servicio de digitalización del fondo de Radio Juventud de Barbastro conservado en el Archivo municipal de Barbastro.",
+    "org": "Concejalía Delegada de Hacienda y Régimen Interior del Ayuntamiento de Barbastro",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=CsH0FWd9DAyHCIsjvJ3rhQ%3D%3D",
+    "folder": "32_1923071H_El_objeto_de_los_trabajos_consiste_en_la",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "PCAP.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=V78H0m/uFpzvK1fFWOyte5UUA5Sr1hizgC9ZrXrqTGtLIxJ%2Bck48Bksa86mpk8Bwa7CRf5s0xXwik1KCxDtNDoaRI5vrt%2BTfBYDfRv63gcpJOVDbGCDM%2BMigrvuVS7Rv",
+        "file": "32_1923071H_El_objeto_de_los_trabajos_consiste_en_la/01_LEGAL_PCAP.pdf",
+        "server_filename": "DOC20261106082528PCAP.pdf",
+        "size": 584538,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "PPT.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=iihMolmGp1UbQTLVg4QASfWVeWOoYIrPOWEnTanHafJwLrp1owU6dfqNWTGnxNJef8d4aWFaRslSUqRLgWcTBdGHzKJX%2BB3Hp88Y7ciWSW3fdyQgZAdTm3EfcUAC7CJ6",
+        "file": "32_1923071H_El_objeto_de_los_trabajos_consiste_en_la/02_TECHNICAL_PPT.pdf",
+        "server_filename": "DOC20261106082515PPT.pdf",
+        "size": 537747,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 3,
+        "type": "ADDITIONAL",
+        "name": "Anexo II.doc",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=ueXSlqLHrjuDQ3uIDi8v7/e3YATxK45%2BVTsFsG3nuJyMZxjaAf2zkMCDL5PU3%2BheJd6CUn7QxfFXrwMP4h2a0qlE7mEHrJezrrnR89PdY7A//q7NB2iMZvNyf0xrJmjt",
+        "file": "32_1923071H_El_objeto_de_los_trabajos_consiste_en_la/03_ADDITIONAL_Anexo II.doc",
+        "server_filename": "DOC20261106083114Anexo II.doc",
+        "size": 30720,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 4,
+        "type": "ADDITIONAL",
+        "name": "Anexo I.doc",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=j5f0/cKoxDBXCTt3eEaeZj8bMGFnPcwfBmatpobc2sQ7QWp%2B%2B26tUPoQr77cgG1RZBGVClTBCJd6rHhngvG5YqE4WVpR7izR9Kj73W1TIU1JOVDbGCDM%2BMigrvuVS7Rv",
+        "file": "32_1923071H_El_objeto_de_los_trabajos_consiste_en_la/04_ADDITIONAL_Anexo I.doc",
+        "server_filename": "DOC20261106083100Anexo I.doc",
+        "size": 81408,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 33,
+    "top": false,
+    "deadline": "2026-11-20",
+    "budget": "28.411 €",
+    "exp": "Exp. 2026/AS/ASC/0617",
+    "title": "Servicio de soporte y mantenimiento para Gestor de Notificaciones electrónicas con las AAPP para MAZ M.C.S.S. N.º 11",
+    "org": "Dirección Área Jurídica y Prestación de MAZ, Mutua Colaboradora con la Seguridad Social, Nº 11",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=2TvCWeLbnneHCIsjvJ3rhQ%3D%3D",
+    "folder": "33_2026_AS_ASC_0617_Servicio_de_soporte_y_mantenimiento_para",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "MR PCAP.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=90VjABXAA2grl8DBrx5FMHydPCrFyhh1LuTRkUnrNUWiIQTsX800EPCNDcc/UXFgRJqD3wAie3CrF%2BANv5mLECOXSUgsDOGIKXsejvXc00x45ClyWkoJ44mKM70IFcOu",
+        "file": "33_2026_AS_ASC_0617_Servicio_de_soporte_y_mantenimiento_para/01_LEGAL_MR PCAP.pdf",
+        "server_filename": "DOC20261028131532MR PCAP.pdf",
+        "size": 858204,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "MR PPT.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=UnMFG9F6rELyGO4hgdyfFZCX3XlPKqQZ87wRySXNgHv0evEqxC%2Be5mL8X0brqIOAA8t31AmTwdA5ZJ22lADWCjQHxrFZDHAEw7o%2BwEmXe7ffdyQgZAdTm3EfcUAC7CJ6",
+        "file": "33_2026_AS_ASC_0617_Servicio_de_soporte_y_mantenimiento_para/02_TECHNICAL_MR PPT.pdf",
+        "server_filename": "DOC20261028131453MR PPT.pdf",
+        "size": 314572,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 3,
+        "type": "ADDITIONAL",
+        "name": "Anexo I Declaracion Responsable SOBRE 1.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=PLg3FBjgDYzuveG1CZn%2BpreRu6%2BzhZQGJfYRm63Uad4LwxkK9dpjecsy%2Bxk84OnSMm46mDX2NPJBdzHeE6ghbWN7MinkDYmve1VqGL9OsskZyAJWGsSt0OzTSTyw9JAs",
+        "file": "33_2026_AS_ASC_0617_Servicio_de_soporte_y_mantenimiento_para/03_ADDITIONAL_Anexo I Declaracion Responsable SOBRE 1.pdf",
+        "server_filename": "DOC20261028143128Anexo I Declaracion Responsable SOBRE 1.pdf",
+        "size": 224009,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 4,
+        "type": "ADDITIONAL",
+        "name": "Anexo XXVII Compromiso constitucion UTE SOBRE 1.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=bogzmcYGE25439jJi7qlTgIDW7XhOUda79qVpnrYGc6Z2JVc5lwP20FQNHE4uOla/N/VvTdZ6grtxv0VoKk7ovPS3CLF7/jO8MAhTBA8gFPDdQD9RyhUmzT4jZ2In4zL",
+        "file": "33_2026_AS_ASC_0617_Servicio_de_soporte_y_mantenimiento_para/04_ADDITIONAL_Anexo XXVII Compromiso constitucion UTE SOBRE 1.pdf",
+        "server_filename": "DOC20261028143204Anexo XXVII Compromiso constitucion UTE SOBRE 1.pdf",
+        "size": 105523,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 5,
+        "type": "ADDITIONAL",
+        "name": "Anexo VII compromiso de oferta economica SOBRE 1.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=NNyVxpM2na%2BGfdVJfPHKney1vVNHpwHW3VoCq5t9tvhy2HmQQCmAerwUlrgMsRUkG2TAxv0UdhNE0DfADvKUdHstsz8kpU7jDON7ZL9jcU2B0nvVKRzfe4rpHcnlPhSZ",
+        "file": "33_2026_AS_ASC_0617_Servicio_de_soporte_y_mantenimiento_para/05_ADDITIONAL_Anexo VII compromiso de oferta economica SOBRE 1.pdf",
+        "server_filename": "DOC20261028143141Anexo VII compromiso de oferta economica SOBRE 1.pdf",
+        "size": 94469,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 6,
+        "type": "ADDITIONAL",
+        "name": "Anexo XIX Notificaciones SOBRE 1.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=eTWX4LxBKCNggSFY/MFoxHE5J5tiLQXZMZ/APiDu5JbPCNLKAuqfQmHMpaYEoi5L7EVWr3oE4TQPYTomupftN1ve4HYYWqrcoeJLlSFST8fDdQD9RyhUmzT4jZ2In4zL",
+        "file": "33_2026_AS_ASC_0617_Servicio_de_soporte_y_mantenimiento_para/06_ADDITIONAL_Anexo XIX Notificaciones SOBRE 1.pdf",
+        "server_filename": "DOC20261028143152Anexo XIX Notificaciones SOBRE 1.pdf",
+        "size": 130389,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 34,
+    "top": false,
+    "deadline": "2026-11-23",
+    "budget": "27.061 €",
+    "exp": "Exp. 6.4.1000/26",
+    "title": "Servicio de suscripción y mantenimiento de una solución de firma digitalizada integrada en el Sistema de Información Tributaria de la Agencia Cántabra de Administración Tributaria.",
+    "org": "Agencia Cántabra de la Administración Tributaria",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=b4wqDeLUSHT10HRJw8TEnQ%3D%3D",
+    "folder": "34_6_4_1000_26_Servicio_de_suscripcion_y_mantenimiento",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "1000 PCAP.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=yQIrVu/wEwbzbffvS9gLo5GggOOUZsN5I2AiAcWss7BjK1sUmHRsRmmdL%2B%2BDvj0rMTOeuQQzV9XdunxtAwZ2BNUxSyc1b8I06vs5X%2Bga43l7QB3HKyQaFUExmUVQCerk",
+        "file": "34_6_4_1000_26_Servicio_de_suscripcion_y_mantenimiento/01_LEGAL_1000 PCAP.pdf",
+        "server_filename": "DOC202611090957431000 PCAP.pdf",
+        "size": 751027,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "1000 PPT.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=2l/CzP2dT5HcKZVXvCIbyqnhMbODEy55kDcPBWTjBiQRfXHeLeY1E5ztU2H2FOXKXUw9nI65j/LA3UNFlC8PB9hv5S6FcQxvEp%2BZPsaRR4pJOVDbGCDM%2BMigrvuVS7Rv",
+        "file": "34_6_4_1000_26_Servicio_de_suscripcion_y_mantenimiento/02_TECHNICAL_1000 PPT.pdf",
+        "server_filename": "DOC202611090902531000 PPT.pdf",
+        "size": 533620,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 3,
+        "type": "ADDITIONAL",
+        "name": "GUIA DE LICITACION ELECTRONICA 2026.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=WGglP8hnlLCE1wW48ebeDu8NLwvIFsJr6JiKmBSQEg4VGFYJce/EFCdy1dDZ4ste6y9ePXCrm6GM7EZFVhlK6/xvg47KhRJXnJidVevmHHQC1/zDIE0Kw/PWNnLS0Z0z",
+        "file": "34_6_4_1000_26_Servicio_de_suscripcion_y_mantenimiento/03_ADDITIONAL_GUIA DE LICITACION ELECTRONICA 2026.pdf",
+        "server_filename": "DOC20261109102919GUIA DE LICITACION ELECTRONICA 2026.pdf",
+        "size": 7934452,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 4,
+        "type": "ADDITIONAL",
+        "name": "Anexo I A-B Oferta y Mejora.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=79z3wiVmopd67TJ9/Y6WxThMfUhSZhMwBhVFMB6QDPb2etAad2MxhfbsS7GeZaOGzeCkhUg3%2BQ9Bee35QGHe3wY1HNRnAvlqUIrlBLXB/tR45ClyWkoJ44mKM70IFcOu",
+        "file": "34_6_4_1000_26_Servicio_de_suscripcion_y_mantenimiento/04_ADDITIONAL_Anexo I A-B Oferta y Mejora.docx",
+        "server_filename": "DOC20261109102815Anexo I A-B Oferta y Mejora.docx",
+        "size": 148462,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 5,
+        "type": "ADDITIONAL",
+        "name": "Anexo II Declaracion Responsable.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=eDOIy2JqrD02xaMRLKoNsXtFrRc1WE7N/lHpX0%2BPZM5FjkXldQ5O29j4WMNLe2uKpitaKy0pS9cSpIUAvGMnGsAf5w1IgA2yrJeNJ66SL7CB0nvVKRzfe4rpHcnlPhSZ",
+        "file": "34_6_4_1000_26_Servicio_de_suscripcion_y_mantenimiento/05_ADDITIONAL_Anexo II Declaracion Responsable.docx",
+        "server_filename": "DOC20261109102828Anexo II Declaracion Responsable.docx",
+        "size": 155157,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 35,
+    "top": false,
+    "deadline": "2026-11-23",
+    "budget": "5.900 €",
+    "exp": "Exp. 15916/2026",
+    "title": "Plataforma de gestión de video actas para sesiones plenarias (modo SaaS)",
+    "org": "Junta de Gobierno del Ayuntamiento de Algemesí",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=nlrc260ReNW8ebB%2FXTwy0A%3D%3D",
+    "folder": "35_15916_2026_Plataforma_de_gestion_de_video_actas_par",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "PCAP.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=I7gFX4EVFavBb74HCuACsJenBD/NyCj%2BmrQkaD0aggXfG2e0vvWl%2BHryTpnmGyTLXDD%2BLnU1rX%2BgoPwIyaHxqomBunmaBYNEtJbVCHV2WwdJOVDbGCDM%2BMigrvuVS7Rv",
+        "file": "35_15916_2026_Plataforma_de_gestion_de_video_actas_par/01_LEGAL_PCAP.pdf",
+        "server_filename": "DOC20261106133949PCAP.pdf",
+        "size": 385863,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "PPT.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=I8voOPC1ZakYtvTLSE2thato6jWfnbZq4Vc8wlh02%2BRg9qtGrazLGUV9VIg5xGb78LUL5wDMO5rXMapOzZIIbCy7%2BZlnetA6ZLTeeknt%2BViB0nvVKRzfe4rpHcnlPhSZ",
+        "file": "35_15916_2026_Plataforma_de_gestion_de_video_actas_par/02_TECHNICAL_PPT.pdf",
+        "server_filename": "DOC20261106133854PPT.pdf",
+        "size": 2030760,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 3,
+        "type": "ADDITIONAL",
+        "name": "Declaracion responsable.odt",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=VOVhUc%2BCk/%2B/EgtLqLEZa081ceuYbwgO0dNii%2BTpOqW9/UPBLnTWwzI9dRKK7CLijFX80WiXrcZqfPYp2/XCIiUQNAjh/D9ACKYND59wHne1aXEvq3KHa/AEHgtDrQw0",
+        "file": "35_15916_2026_Plataforma_de_gestion_de_video_actas_par/03_ADDITIONAL_Declaracion responsable.odt",
+        "server_filename": "DOC20261106134049Declaracion responsable.odt",
+        "size": 122088,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 4,
+        "type": "ADDITIONAL",
+        "name": "Proposicion economica.odt",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=rBt7dWmCyGUdiVy/n0DY/tJggdv8B8mee2WNMuAxmhRBHgiCMUddrLIa8yzRRWFtSkSdUCVLsBhtZHo1TBXqgFlIK8raSGMRXGPBgjJws2i1aXEvq3KHa/AEHgtDrQw0",
+        "file": "35_15916_2026_Plataforma_de_gestion_de_video_actas_par/04_ADDITIONAL_Proposicion economica.odt",
+        "server_filename": "DOC20261106134150Proposicion economica.odt",
+        "size": 128310,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 36,
+    "top": false,
+    "deadline": "2026-11-25",
+    "budget": "51.000 €",
+    "exp": "Exp. 2026_049",
+    "title": "Servicio de soporte y garantía del software de virtualización de escritorios para la Universidad Miguel Hernández de Elche",
+    "org": "Rectorado de la Universidad Miguel Hernández de Elche",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=SOrzkw3tFvWcTfjQf3USOg%3D%3D",
+    "folder": "36_2026_049_Servicio_de_soporte_y_garantia_del_softw",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "PCAP VISADO_2026_049.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=47%2BQpbIocUfa3yzaXcSQaMv6%2Beh9rB%2BpRfkfNcHgb1%2BbwSgkwzzBT2NeDWGkdqmFK5hrkzD4kBDQCGi41%2BCWJyj68pdNRvqsG3PTv13XKO8//q7NB2iMZvNyf0xrJmjt",
+        "file": "36_2026_049_Servicio_de_soporte_y_garantia_del_softw/01_LEGAL_PCAP VISADO_2026_049.pdf",
+        "server_filename": "DOC20261105131432PCAP VISADO_2026_049.pdf",
+        "size": 1553259,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "PPT_2026_049.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=1vbWOTheeVCYCdcSH1MEe9rrJ5FYUaRqPhDheHaLJcF0jhPj%2BskpxfXkLJN653ACpUYsxCJdhytUUn0U81%2BtnyH1hNGBVWyJPRHzBGRkLr17QB3HKyQaFUExmUVQCerk",
+        "file": "36_2026_049_Servicio_de_soporte_y_garantia_del_softw/02_TECHNICAL_PPT_2026_049.pdf",
+        "server_filename": "DOC20261105131352PPT_2026_049.pdf",
+        "size": 199841,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 3,
+        "type": "ADDITIONAL",
+        "name": "Declaracion responsable y anexos.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=1EFnSxFvKewA9fVY4eZ5/wXBhufXAbMWTtl9HYNpXomGnFoz4%2BcB0FYsRYktoG/Jr7yLM%2B4umvPUESIAauv2QeIzsxcgy7ixrzBMaQAGUCMC1/zDIE0Kw/PWNnLS0Z0z",
+        "file": "36_2026_049_Servicio_de_soporte_y_garantia_del_softw/03_ADDITIONAL_Declaracion responsable y anexos.docx",
+        "server_filename": "DOC20261105135854Declaracion responsable y anexos.docx",
+        "size": 1330487,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 4,
+        "type": "ADDITIONAL",
+        "name": "DEUC 2026_049.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=EefrYcss8qoEcSfFd2mIemeWf0dhNM8x2AgvlezOeUE0DBRZtrwfqKkXiLL9ZPKUbmTQjKFqexbIjONt6Xqbe098Eb2V/8Ssv%2BSOjwvaAVwC1/zDIE0Kw/PWNnLS0Z0z",
+        "file": "36_2026_049_Servicio_de_soporte_y_garantia_del_softw/04_ADDITIONAL_DEUC 2026_049.pdf",
+        "server_filename": "DOC20261105135754DEUC 2026_049.pdf",
+        "size": 88881,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 5,
+        "type": "ADDITIONAL",
+        "name": "DEUC 2026_049.xml",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=EwbpG1RTDw0te5rg3d3Vdj41gk9CKT8JuGm7Ug9zrGQ3tYmG/2fDMXmRKqX8y7tkrG6Cmz0sj5J0uLKyofbsmwS7j%2BQ3Vw/WYZqmt82UPu9JOVDbGCDM%2BMigrvuVS7Rv",
+        "file": "36_2026_049_Servicio_de_soporte_y_garantia_del_softw/05_ADDITIONAL_DEUC 2026_049.xml",
+        "server_filename": "DOC20261105135822DEUC 2026_049.xml",
+        "size": 138901,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 6,
+        "type": "ADDITIONAL",
+        "name": "DACI 2026_049.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=OrIsFxHojO%2Bzn299vYIbEybEpQqnEbi5NO237Z8O0LX8WBwWU8eTJXfuF7j12%2Bsg9D7u5HdnnOGxr74p1qW9CKnITrgobHEaruPkNl%2BtjGHDdQD9RyhUmzT4jZ2In4zL",
+        "file": "36_2026_049_Servicio_de_soporte_y_garantia_del_softw/06_ADDITIONAL_DACI 2026_049.docx",
+        "server_filename": "DOC20261105135653DACI 2026_049.docx",
+        "size": 79385,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 7,
+        "type": "ADDITIONAL",
+        "name": "Modelo oferta_2026_049.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=0lY6dtdcBHNOVfgeef2MgTQGN%2BvmEZCqQPjxpGcf5zQSgodEaGqlFDM7ftdkCvRmmF2xiAmXUa8RBB9lbLFFCIfjb3vuQ7HhM098tV7eGMQC1/zDIE0Kw/PWNnLS0Z0z",
+        "file": "36_2026_049_Servicio_de_soporte_y_garantia_del_softw/07_ADDITIONAL_Modelo oferta_2026_049.docx",
+        "server_filename": "DOC20261105135722Modelo oferta_2026_049.docx",
+        "size": 64930,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 37,
+    "top": false,
+    "deadline": "2026-11-26",
+    "budget": "53.170 €",
+    "exp": "Exp. CP00155/2026",
+    "title": "Servicio de publicación de ofertas de trabajo y búsqueda en base de datos de candidatos a través de portal de empleo para ASEPEYO",
+    "org": "Secretaría General de ASEPEYO. Mutua Colaboradora con la Seguridad Social, num. 151",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=OoYQZ5dHzvx9Zh%2FyRJgM8w%3D%3D",
+    "folder": "37_CP00155_2026_Servicio_de_publicacion_de_ofertas_de_tr",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "PCAP CP001552026.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=e4tRrCaA1Rh3q//XLWZJ30B0VjraAa6lPT9sqhX6jbH8XIJcm1GPMd9%2Bq9vGY2giftM6g4eoofWmppzkOo3bBt8hRElIW36u9fVqt7BEl436CYyL7SIrUOBFfNf52ZqA",
+        "file": "37_CP00155_2026_Servicio_de_publicacion_de_ofertas_de_tr/01_LEGAL_PCAP CP001552026.pdf",
+        "server_filename": "DOC20261026141744PCAP CP001552026.pdf",
+        "size": 1969071,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "PPT CP001552026.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=m1KM/VqfDwSrB62udcpgLZutuyWhMiFjN/yquAkxmQXdPjfrbpuo%2BtTeA92GQ6%2BsKJ%2B8mqxz0GqHFZhu7hw/WAv7KPDdnJ/AnstXJaznZMVt/o8fNevwsujgRzaBbugn",
+        "file": "37_CP00155_2026_Servicio_de_publicacion_de_ofertas_de_tr/02_TECHNICAL_PPT CP001552026.pdf",
+        "server_filename": "DOC20261028114307PPT CP001552026.pdf",
+        "size": 86425,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 3,
+        "type": "ADDITIONAL",
+        "name": "ANEXOS CP001552026.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=BKlhPx4otA1uOKXX/Jg5ko1rYjX9%2Blxs0nC4MehySEsfL1AZqTBn9PM5MG3SmM988ZDgLbV/PHhihLdhETM8oeuNB/LSJl2902vSOpDQqUNt/o8fNevwsujgRzaBbugn",
+        "file": "37_CP00155_2026_Servicio_de_publicacion_de_ofertas_de_tr/03_ADDITIONAL_ANEXOS CP001552026.docx",
+        "server_filename": "DOC20261026141817ANEXOS CP001552026.docx",
+        "size": 5445442,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 38,
+    "top": false,
+    "deadline": "2026-12-09",
+    "budget": "51.595 €",
+    "exp": "Exp. 2026/ETSAE0921/00001827E",
+    "title": "Mantenimiento Software BeSport DIAPER",
+    "org": "Dirección de Asuntos Económicos del Ejército",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=NY1c7jdesp1PpzdqOdhuWg%3D%3D",
+    "folder": "38_2026_ETSAE0921_00001827E_Mantenimiento_Software_BeSport_DIAPER",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "PCAP FIRMADO.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=IXkQu8Qs7og3ARiGokDGaX%2BoEr/i3FpDX7jhDHH6JSsJX0DD0h9/O0P2qBvBbk9L737duqKrqR6j5EcmLrCe5YV8CxQ4Xhgm1uEAY8mCWeZ7QB3HKyQaFUExmUVQCerk",
+        "file": "38_2026_ETSAE0921_00001827E_Mantenimiento_Software_BeSport_DIAPER/01_LEGAL_PCAP FIRMADO.pdf",
+        "server_filename": "DOC20261105134240PCAP FIRMADO.pdf",
+        "size": 1875110,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "PPT.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=snJOZa1VvdlZ/oZvWaohVfqfL/dKnPetixIcbX2DpzXqWpZeeierPP7nDH%2Bxy7AFPxnwq0yq8U4nc4K9FV6QDWlc4X6R5rYr2Lu4OMuEcBbfdyQgZAdTm3EfcUAC7CJ6",
+        "file": "38_2026_ETSAE0921_00001827E_Mantenimiento_Software_BeSport_DIAPER/02_TECHNICAL_PPT.pdf",
+        "server_filename": "DOC20261105134326PPT.pdf",
+        "size": 269216,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  },
+  {
+    "index": 39,
+    "top": false,
+    "deadline": "2029-02-01",
+    "budget": "0 €",
+    "exp": "Exp. 2026/41",
+    "title": "Sistema dinámico de adquisición de servicios para el desarrollo y el mantenimiento de programas a medida (SDA 26/2026)",
+    "org": "Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada",
+    "ficha": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=EPp9rmFxilAzjChw4z%2FXvw%3D%3D",
+    "folder": "39_2026_41_Sistema_dinamico_de_adquisicion_de_servi",
+    "docs": [
+      {
+        "index": 1,
+        "type": "LEGAL",
+        "name": "PCAP.zip",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=FKOgva4hDNPyfZApEHTt/ssmxGo%2BXijM8Rh90TtbZnc%2BuHI%2BLUcCnyuazBLsAH8g4LTOycNTRNe0rkoo4TitGbscv5EB/kFPURSkj2LcGyvVTD3T98KC0nSgQFM0q%2B5s",
+        "file": "39_2026_41_Sistema_dinamico_de_adquisicion_de_servi/01_LEGAL_PCAP.zip",
+        "server_filename": "DOC20261005170208PCAP.zip",
+        "size": 1142446,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 2,
+        "type": "TECHNICAL",
+        "name": "01 PPT SDA 26_2026.pdf",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=nk4/bwKkLGDOMaGpP9//rrwMAC0V17RHgvhnv6hD5ToQB4YNafBrrDvpBGbzAsYy0DHW1LXa63FpnwZ90Pk5YhoK491oYnLhtDyRSSePNCZt/o8fNevwsujgRzaBbugn",
+        "file": "39_2026_41_Sistema_dinamico_de_adquisicion_de_servi/02_TECHNICAL_01 PPT SDA 26_2026.pdf",
+        "server_filename": "DOC2026091010415101 PPT SDA 26_2026.pdf",
+        "size": 207174,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 3,
+        "type": "ADDITIONAL",
+        "name": "ANEXO VI.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=CfcKzBNNklAEJF51mntxijQPAaoHwu4g1YEUmaqEmjHcoMUScj1yV/4SbalL9wuMp8%2BxYxBOTqJhTe3tzBk3e1BLXnAw1SFRcy/tPsAKbq33GVhXrFFqN7yFncy7YfRK",
+        "file": "39_2026_41_Sistema_dinamico_de_adquisicion_de_servi/03_ADDITIONAL_ANEXO VI.docx",
+        "server_filename": "DOC20260910104027ANEXO VI.docx",
+        "size": 28489,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 4,
+        "type": "ADDITIONAL",
+        "name": "ANEXO IV.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=e3dKINLlylk0qUE%2BWckrOiAKXwsCYlqrP8iLfnJ6orQ8mt8cSjcUex%2BUuAfwTjun5OxONreHhCY95UWeaikrKDToY%2B6VBEl7VuswIliCRc36CYyL7SIrUOBFfNf52ZqA",
+        "file": "39_2026_41_Sistema_dinamico_de_adquisicion_de_servi/04_ADDITIONAL_ANEXO IV.docx",
+        "server_filename": "DOC20260910103848ANEXO IV.docx",
+        "size": 23017,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 5,
+        "type": "ADDITIONAL",
+        "name": "ANEXO V.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=yj4JrzViehMRsLGRWWTcTcgv6MqgrGq7i83VzwDxP6ICpT8jMfXPI5Eik23mRTY5lsStZ089Me%2BM4b/oEdxJXtL5YI56Ocznw0gEiiiBMhY//q7NB2iMZvNyf0xrJmjt",
+        "file": "39_2026_41_Sistema_dinamico_de_adquisicion_de_servi/05_ADDITIONAL_ANEXO V.docx",
+        "server_filename": "DOC20260910103905ANEXO V.docx",
+        "size": 29390,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 6,
+        "type": "ADDITIONAL",
+        "name": "ANEXO VII.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=YDKMH41mGEwS556GAH8EWGjBxaxXW/nFTL5voJK5O/EoXaO2gtYQbLiHyFHzMvhyc82JUDZ/FKRV6er3CIC9mfESe1qYNCWuZspjXPeYEjBJOVDbGCDM%2BMigrvuVS7Rv",
+        "file": "39_2026_41_Sistema_dinamico_de_adquisicion_de_servi/06_ADDITIONAL_ANEXO VII.docx",
+        "server_filename": "DOC20260910104044ANEXO VII.docx",
+        "size": 28878,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 7,
+        "type": "ADDITIONAL",
+        "name": "ANEXO III.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=BbHE/SCFrtf1swQWBPYw6%2BK08SwgpAzTDNzJ2Aa3kPmq12S/AO5EQwJ9KR3zFxcGosiQziz%2BE1W16uBucNQg0Fily3XncCPl2ZtE7DhNF%2BTDdQD9RyhUmzT4jZ2In4zL",
+        "file": "39_2026_41_Sistema_dinamico_de_adquisicion_de_servi/07_ADDITIONAL_ANEXO III.docx",
+        "server_filename": "DOC20260910103830ANEXO III.docx",
+        "size": 34658,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      },
+      {
+        "index": 8,
+        "type": "ADDITIONAL",
+        "name": "ANEXO II.docx",
+        "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=l2wapUPHVi2i4Mg0gyXnx/utnXC%2B1S6jnsLV11xEiIZjnsF8iB5hx9B2XElZWWUwu6C67ujQyDnxtXKHKUFmBfO4KDkGJCzeeQTX%2B%2B7rd421aXEvq3KHa/AEHgtDrQw0",
+        "file": "39_2026_41_Sistema_dinamico_de_adquisicion_de_servi/08_ADDITIONAL_ANEXO II.docx",
+        "server_filename": "DOC20260910103810ANEXO II.docx",
+        "size": 33737,
+        "status": "ok",
+        "via_ficha": false,
+        "error": ""
+      }
+    ]
+  }
+]
