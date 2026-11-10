@@ -1,0 +1,26 @@
+pliegos/pliegos_licitaciones_ti/22_PA_9_2027_Servicio_de_asistencia_tecnica_especiali/00_info.txt
+  h_c61601beeaa68c 1-11
+"pliegos/pliegos_licitaciones_ti/22_PA_9_2027_Servicio_de_asistencia_tecnica_especiali/01_LEGAL_PA 9 2027 PCAP.PDF"
+  h_c61601beeaa68c 1-33507
+"pliegos/pliegos_licitaciones_ti/22_PA_9_2027_Servicio_de_asistencia_tecnica_especiali/02_TECHNICAL_PA 9 2027 PPT.PDF"
+  h_c61601beeaa68c 1-4203
+pliegos/pliegos_licitaciones_ti/23_2027_S_10_Adquisicion_del_derecho_de_uso_de_softwa/00_info.txt
+  h_c61601beeaa68c 1-12
+pliegos/pliegos_licitaciones_ti/23_2027_S_10_Adquisicion_del_derecho_de_uso_de_softwa/01_LEGAL_370336-PliegodeClusulasAdmini-001001PCA_STD_CA.pdf
+  h_c61601beeaa68c 1-3828
+pliegos/pliegos_licitaciones_ti/23_2027_S_10_Adquisicion_del_derecho_de_uso_de_softwa/02_TECHNICAL_370344-PliegodePrescripciones-001001PPT_STD_CA.pdf
+  h_c61601beeaa68c 1-849
+pliegos/pliegos_licitaciones_ti/24_SE027_2026_Mantenimiento_de_hardware_y_software_esp/00_info.txt
+  h_c61601beeaa68c 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "e654217ba2bce068a33c9120855ddfb1dff52610",
+  "prompts": {},
+  "humans": {
+    "h_c61601beeaa68c": {
+      "author": "David <davidase@inditex.com>"
+    }
+  }
+}
