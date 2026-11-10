@@ -1,0 +1,16 @@
+pliegos/pliegos_licitaciones_ti/38_2026_ETSAE0921_00001827E_Mantenimiento_Software_BeSport_DIAPER/00_info.txt
+  h_c61601beeaa68c 1-11
+pliegos/pliegos_licitaciones_ti/39_2026_41_Sistema_dinamico_de_adquisicion_de_servi/00_info.txt
+  h_c61601beeaa68c 1-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "cf65e12e1813f48fdf766b355b3dc739ae1eccb2",
+  "prompts": {},
+  "humans": {
+    "h_c61601beeaa68c": {
+      "author": "David <davidase@inditex.com>"
+    }
+  }
+}
