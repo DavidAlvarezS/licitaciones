@@ -1,0 +1,18 @@
+pliegos/pliegos_licitaciones_ti/INDICE.md
+  h_c61601beeaa68c 1-336
+pliegos/pliegos_licitaciones_ti/listado.html
+  h_c61601beeaa68c 1-101
+pliegos/pliegos_licitaciones_ti/manifest.json
+  h_c61601beeaa68c 1-2093
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "596d5151f08bbaa1cda1ef407671085b43de4c13",
+  "prompts": {},
+  "humans": {
+    "h_c61601beeaa68c": {
+      "author": "David <davidase@inditex.com>"
+    }
+  }
+}
