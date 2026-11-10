@@ -1,0 +1,18 @@
+pliegos/pliegos_licitaciones_ti/13_55027_2026_Servicios_mantenimiento_actualizacion_y/00_info.txt
+  h_c61601beeaa68c 1-12
+pliegos/pliegos_licitaciones_ti/14_26_031_SR_RR_ASS_AB11_Serviciio_de_soporte_de_sistemas_y_DevOp/00_info.txt
+  h_c61601beeaa68c 1-11
+pliegos/pliegos_licitaciones_ti/15_CV_BIB_2026_02_La_prestacion_del_servicio_de_Sistema_de/00_info.txt
+  h_c61601beeaa68c 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "757a4ba522421c090d2d07673e53b3145c097234",
+  "prompts": {},
+  "humans": {
+    "h_c61601beeaa68c": {
+      "author": "David <davidase@inditex.com>"
+    }
+  }
+}
