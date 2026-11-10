@@ -29,14 +29,18 @@ FEEDS = {
 
 CPV_TIC = ("72", "48")
 PALABRAS_TIC = re.compile(
-    r"software|aplicaci[oó]n|app\b|web|portal|plataforma|inform[aá]tic|desarroll|programaci|"
-    r"digital|sede electr|datos abiertos|accesibilidad|ciberseg|sistema de (gesti|informaci)|"
-    r"aplicativo|cuadro de mando|intranet|sitio web", re.I)
+    r"software|aplicaci[oó]n(es)? (inform[aá]tica|web|m[oó]vil)|aplicativo|\bapps?\b|p[aá]x?gina web|portal web|"
+    r"sitio web|p[aá]xina web|desarroll\w* (de |dun |de un |dunha |de una )?(software|aplicaci|web|app|"
+    r"plataforma|portal|m[oó]dulo|conector|herramienta inform|sistema)|programaci[oó]n inform|sede electr|"
+    r"licencias? (de |do |del )?software|mantemento (da |do )?(aplicaci|plataforma|software)|"
+    r"mantenimiento (de |del )?(la )?(aplicaci|plataforma|software|portal)|plataforma (digital|web|tecnol|electr)|"
+    r"intranet|cuadros? de mando|datos abiertos|datos abertos|inteligencia artificial|\bIA\b|\bAPI\b", re.I)
 FORMAS_JURIDICAS = re.compile(
     r"\b(s\.?\s?l\.?\s?u?\.?|s\.?\s?a\.?\s?u?\.?|sociedad|s\.?\s?coop|cooperativa|ltd|gmbh|b\.?v\.?|"
     r"s\.?\s?l\.?\s?l\.?|asociaci[oó]n|fundaci[oó]n|consorcio|universidad|ute\b|"
     r"slp|s\.?\s?c\.?|c\.?\s?b\.?|limited|inc\b|sarl|sas\b|spa\b|consulting|soluciones|tecnolog|systems|software)",
     re.I)
+FIN_PALABRA = re.compile(r"(?=$|[\s,.;:)\]-])")
 
 
 def ahora():
@@ -51,7 +55,10 @@ def nombre_adjudicatario(nombre):
     """No guarda nombres de personas físicas (el repositorio es público)."""
     if not nombre:
         return ""
-    return nombre if FORMAS_JURIDICAS.search(nombre) else "(persona física)"
+    for m in FORMAS_JURIDICAS.finditer(nombre):
+        if FIN_PALABRA.match(nombre, m.end()) or len(m.group(0)) > 5:
+            return nombre
+    return "(persona física)"
 
 
 def procesar(entry, fuente):
@@ -96,6 +103,7 @@ def procesar(entry, fuente):
 
 
 def es_tic(d):
+    """TIC si algún CPV es 72 (servicios TI) o 48 (software); si no, solo con palabras claras de software."""
     cpvs = [c for c in d.get("cpv", "").split(",") if c]
     if any(c.startswith(CPV_TIC) for c in cpvs):
         return True
@@ -225,7 +233,11 @@ def main():
     for k in [k for k, d in guardadas.items() if (bl.parse_dt(d["actualizado"]) or hoy) < limite_hist]:
         del guardadas[k]
 
-    todas = list(guardadas.values())
+    todas = [d for d in guardadas.values() if es_tic(d)]
+    for d in todas:
+        if d.get("adjudicatario"):
+            d["adjudicatario"] = " | ".join(nombre_adjudicatario(x) if x != "(persona física)" else x
+                                            for x in d["adjudicatario"].split(" | "))
     # 1. Contratos menores de software
     menores = sorted((d for d in todas if d["fuente"] == "menores"),
                      key=lambda d: d.get("fecha_adjudicacion") or d["actualizado"], reverse=True)
