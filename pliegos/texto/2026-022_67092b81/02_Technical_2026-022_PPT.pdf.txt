@@ -1,0 +1,874 @@
+
+
+--- página 1 ---
+ 
+ 
+ 
+- PROCEDIMIENTO ABIERTO – 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+ 
+“Contrato Mixto de suministro de una plataforma 
+(SaaS) para el cálculo y registro de la huella de 
+carbono para Informa D&B S.A.U. (S.M.E.) así 
+como los servicios para implantación, formación, 
+soporte y mantenimiento” 
+ 
+ 
+Número de Expediente: 2026-022 
+ 
+PLAZO DE PRESENTACIÓN: FECHA LÍMITE EL 24 DE NOVIEMBRE DE 2026 a las 15:00 horas. 
+ 
+FORMA DE PRESENTACION: De forma electrónica a través de la PLATAFORMA DE 
+CONTRATACION DEL SECTOR PÚBLICO accesible mediante el siguiente enlace 
+https://contrataciondelestado.es/wps/portal/plataforma 
+ 
+ 
+Las notificaciones electrónicas derivadas de este procedimiento de contratación 
+se realizarán mediante la dirección electrónica habilitada para la práctica de las 
+notificaciones electrónicas. 
+ 
+Fecha Publicación: 10 DE NOVIEMBRE DE 2026 
+
+--- página 2 ---
+ 
+2 
+ 
+ 
+ 
+ÍNDICE 
+ 
+1. OBJETO DEL CONTRATO ................................................................................................................ 3 
+2. SITUACIÓN ACTUAL ......................................................................................................................... 3 
+3. ALCANCE ........................................................................................................................................... 3 
+3.1. Requerimientos de la solución. ................................................................................................ 4 
+4. CONTENIDO OFERTA TÉCNICA .................................................................................................... 6 
+5. TRATAMIENTO DE DATOS PERSONALES EN LA PRESTACIÓN DEL SERVICIO OBJETO DE 
+LICITACIÓN. ................................................................................................................................................ 6 
+ 
+
+--- página 3 ---
+ 
+ 
+ 
+ 
+P á g i n a  3 | 18 
+ 
+1. OBJETO DEL CONTRATO 
+ 
+El objeto del contrato es la contratación de una solución tecnológica en 
+modalidad SaaS para la gestión integral de la huella de carbono 
+corporativa de INFORMA D&B S.A.U. (S.M.E.) (en adelante, INFORMA) y sus 
+filiales, que permita la recopilación e integración de datos, el cálculo, 
+seguimiento, análisis y reporte de las emisiones de gases de efecto 
+invernadero, así como la elaboración y seguimiento de planes de 
+reducción, incluyendo los servicios de implantación, formación, soporte, 
+mantenimiento y actualización de la plataforma, en los términos 
+establecidos en el Pliego de Prescripciones Técnicas. 
+ 
+La solución se compone de los siguientes servicios: 
+ 
+• Carga ilimitada de datos, documentos, facturas y consumos 
+para calcular las emisiones de Informa. 
+• Soporte a los usuarios frente a incidencias. 
+• Capacidad para incluir usuarios ilimitados. 
+• Actualizaciones de la legislación y de los factores de emisión. 
+ 
+El plazo de vigencia de estos servicios será de 3 años. 
+ 
+La descripción de los servicios a ofertar se describe en el punto 3 del 
+documento. 
+ 
+2. SITUACIÓN ACTUAL 
+Actualmente este proceso de recopilación y cálculo de datos para el 
+cálculo de las emisiones de CO 2 se realiza de manera manual, lo que 
+conlleva posibles riesgos en la fiabilidad, trazabilidad de los datos y en el 
+cálculo de las emisiones. Esta situación hace más difícil el cumplimiento 
+con la nueva normativa (RD 214/2025). 
+ 
+3. ALCANCE 
+En este apartado se describen los servicios mínimos, características y 
+requisitos que conforman el objeto del contrato y que el adjudicatario 
+deberá ofrecer, cubriendo los requisitos que se describen a continuación, 
+que tienen carácter de mínimos de los servicios objeto de la licitación. 
+Todos los requisitos enumerados son de cumplimiento obligatorio. Las 
+ofertas que ofrezcan características que no se ajusten a estos requisitos 
+no serán tomadas en consideración en el presente procedimiento de 
+licitación. 
+
+--- página 4 ---
+ 
+ 
+ 
+ 
+P á g i n a  4 | 18 
+ 
+ 
+3.1. Requerimientos de la solución. 
+La herramienta debe cumplir con: 
+Plan de formación inicial al equipo y acompañamiento, soporte continuo 
+(L-V 8-17h) ante incidencias y actualización automática de los factores 
+de emisión oficiales. 
+La empresa contratista deberá ofrecer la formación necesaria para que 
+el personal de Informa pueda usar la herramienta y a su vez, 
+acompañamiento continuo para resolución de dudas y problemas que 
+puedan surgir entorno a dicha herramienta. Esta formación debe incluir 
+asistencia para el inicio del uso de la aplicación y la introducción de los 
+primeros datos, es decir, carga inicial y “onboarding”. Los usuarios 
+principales será el Departamento de Calidad y MA, Servicios generales y 
+el departamento Financiero. 
+Cálculo bajo GHG Protocol e ISO 14064 . Se requiere que la herramienta 
+permita calcular la huella de carbono mediante los principales métodos 
+de cálculo, GHG Protocol o ISO 14064 y a su vez, tener la capacidad de 
+modificarse y adaptarse a las necesidades de Informa en cuanto a 
+nuevas categorías de cálculo de emisiones. 
+ 
+Encuestas de movilidad 
+La herramienta deberá permitir el diseño y lanzamiento de encuestas de 
+movilidad específicas para Informa. De tal forma que nos permita 
+calcular las emisiones que producen los trabajadores de Informa al acudir 
+a sus respectivas oficinas.  
+ 
+Presencia de Dashboard que permita visualizar los datos y métricas más 
+relevantes para la compañía. 
+ 
+Capacidad de importación masiva. Integración de datos a gran escala 
+(Excel/CSV), conectividad vía API con ERPs y módulos de lectura de 
+documentos/facturas (PDF) para reducir errores humanos. 
+Integración de datos en distintos formatos . La solución tendrá la 
+capacidad de ingresar múltiples datos en diferentes formatos necesarios 
+para la recopilación de todo lo necesario para el cálculo. Permitir 
+procesar facturas digitalizadas, certificados de control de fugas de gases 
+refrigerantes, documentos de identificación de residuos, facturas de 
+repostaje de vehículos y otros documentos relevantes en distintos 
+formatos, (Excel y PDF, principalmente). Dichos registros permanecerán 
+accesibles en todo momento. 
+
+--- página 5 ---
+ 
+ 
+ 
+ 
+P á g i n a  5 | 18 
+ 
+Gestión de datos de filiales 
+La herramienta debe contar con la posibilidad de gestionar los datos de 
+las filiales con las que cuenta Informa en España y fuera de España. Uso 
+de unidades internacionales. Los datos y consumos de Informa España 
+están centralizados en la sede de Madrid, además, Informa cuenta con 
+una filial en Portugal y otra filial en Colombia. 
+ 
+Facilidad de uso de la plataforma . La herramienta tendrá incluir 
+documentación de usuario en español y permitir que los usuarios realicen 
+de forma autónoma las tareas habituales de administración, captura de 
+datos, consulta y generación de informes, sin necesidad de 
+conocimientos técnicos especializados ni desarrollos adicionales. Los 
+usuarios dispondrán de una persona que les asiste en resolver las dudas o 
+problemas encontrado en el uso de la plataforma. 
+Plan de reducción con seguimiento. Debe incluir la posibilidad de crear y 
+realizar seguimiento de un plan de reducción tal y como exige el RD 
+214/2025. 
+Entregables e informes 
+La herramienta elaborará informes de manera automática a partir de los 
+datos de Informa. 
+El informe tiene que ajustarse, como mínimo, a los requerimientos para la 
+Inscripción en el Registro de huella, compensación y proyectos de 
+absorción de CO2. 
+Los informes generados deben tener el formato GHG Protocol e ISO 
+14064. Los informes tienen que estar alineados con la CSRD (Corporate 
+Sustainability Reporting Directive) con el fin de cumplir con lo exigido por 
+la directiva europea ESRS (European Sustainability Reporting Standards) y 
+la generación de informes bajo el estándar voluntario VSME. 
+Dichos informes serán presentados en soporte digital y en formato 
+compatible con el paquete Microsoft Office y en PDF. 
+ 
+Inscripción de la huella de carbono en el MITERD (Ministerio para la 
+Transición Ecológica y el Reto Demográfico) 
+En caso de que Informa lo solicite, el proveedor debe tener la capacidad 
+de registrar la huella de carbono conforme a lo establecido en el RD 
+214/2025. Asimismo, deberán gestionarse, si procede, las subsanaciones 
+requeridas dentro del plazo legal aplicable. 
+ 
+Posibilidad de incluir usuarios ilimitados.  La plataforma tiene que contar 
+con la posibilidad de incluir usuarios ilimitados para ajustarse a las 
+necesidades de Informa y sus filiales. Los usuarios deben contar con la 
+posibilidad de tener diferentes permisos o roles dentro de la aplicación. 
+ 
+ 
+
+--- página 6 ---
+ 
+ 
+ 
+ 
+P á g i n a  6 | 18 
+ 
+La solución deberá incorporar funcionalidades de inteligencia artificial 
+que permitan, como mínimo, consultas en lenguaje natural sobre los 
+datos almacenados, generación automática de informes y detección de 
+anomalías o desviaciones en los indicadores ambientales. 
+ 
+Portabilidad y recuperación de la información. Todos los datos, registros, 
+documentos, informes, configuraciones y cualquier otra información 
+introducida o generada en la plataforma durante la ejecución del 
+contrato serán propiedad exclusiva de INFORMA D&B, S.A.U. (S.M.E.). 
+ 
+A la finalización del contrato, por cualquier causa, el adjudicatario 
+deberá facilitar, sin coste adicional, la exportación y entrega de toda la 
+información almacenada en la plataforma en formatos abiertos, 
+estructurados y de uso común en el mercado (tales como Excel, CSV, XML 
+o equivalentes), garantizando su integridad, accesibilidad y reutilización. 
+ 
+La entrega de la información y, en su caso, las tareas de apoyo a la 
+migración deberán completarse antes de la desactivación del servicio y 
+sin que ello suponga limitación alguna para el acceso y utilización 
+posterior de los datos por parte de INFORMA. 
+ 
+ 
+ 
+4. CONTENIDO OFERTA TÉCNICA 
+ 
+La oferta técnica deberá contener como mínimo: 
+ 
+ Descripción detallada de la solución ofertada. 
+ Plan detallado y apoyo inicial de uso de la plataforma. 
+ Indicación expresa de plazos de la ejecución del proyecto. 
+ 
+5. TRATAMIENTO DE DATOS PERSONALES EN LA PRESTACIÓN DEL SERVICIO 
+OBJETO DE LICITACIÓN. 
+ 
+Conforme a lo dispuesto en la normativa aplicable en materia de 
+protección de datos, el adjudicatario de este contrato va a tratar datos 
+personales por cuenta de Informa en calidad de encargado del 
+tratamiento, por lo que estará a lo dispuesto en el Acuerdo de Encargo 
+de Tratamiento de Datos, que se adjunta como Anexo I, y que vincula al 
+encargado respecto del responsable del tratamiento, estableciendo el 
+objeto, la duración, la naturaleza, la finalidad del tratamiento, el tipo de 
+
+--- página 7 ---
+ 
+ 
+ 
+ 
+P á g i n a  7 | 18 
+ 
+datos personales tratados, categorías de interesados, así como las 
+obligaciones del encargado. 
+Asimismo, el adjudicatario deberá cumplir con lo dispuesto en el Real 
+Decreto Ley 14/2019, de 31 de octubre, por el que se adoptan medidas 
+urgentes por razones de seguridad pública en materia de administración 
+digital, contratación del sector público y telecomunicaciones”. 
+ 
+ 
+ 
+Anexo I - Acuerdo de encargo de tratamiento de datos 
+1. El cumplimiento del objeto de este Pliego conllevará el 
+tratamiento de datos personales de los que Informa es Responsable 
+del Tratamiento (o respecto de los cuales actúe en calidad de 
+encargados del tratamiento), actuando el adjudicatario en 
+calidad de Encargado del Tratamiento (o subencargado, en su caso), 
+por lo que éste queda sujeto en todo caso, y tiene la obligación de 
+respetar y cumplir, la normativa vigente aplicable en materia de 
+protección de datos personales – RGPD, LOPDGDD y restante 
+normativa de protección de datos personales en vigor- debiendo 
+someterse en sus actuaciones y en la ejecución del contrato tanto a 
+la normativa nacional como de la Unión Europea en esta materia, así 
+como garantizar, en todo momento, la seguridad, confidencialidad, 
+integridad y disponibilidad de los Datos Personales a los que acceda. 
+Ello conlleva que, si el adjudicatario destinase los datos personales a 
+otra finalidad, los comunicara o los utilizara incumpliendo las 
+estipulaciones del contrato y/o la normativa vigente, será considerado 
+también como Responsable del Tratamiento, respondiendo de las 
+infracciones en que hubiera incurrido personalmente.  
+2. Se incorpora a este Pliego descripción en detalle de los Datos 
+Personales objeto de tratamiento (Descripción del Tratamiento de 
+Datos Personales), así como el tratamiento a realizar y las medidas 
+técnicas y organizativas aplicables para garantizar un nivel de 
+seguridad adecuado al riesgo a implementar por el adjudicatario.  
+Informa estará facultada, en todo caso, para instar del adjudicatario 
+la adopción de medidas adicionales o complementarias que sean 
+apropiadas a dichos fines, de acuerdo con lo previsto en el artículo 32 
+del RGPD. 
+Asimismo, en caso de que como consecuencia de la ejecución del 
+contrato resultara necesaria en algún momento la modificación de lo 
+previsto en la Descripción del Tratamiento de Datos Personales, la 
+parte del Contrato que así lo considerara lo pondrá en conocimiento 
+de la otra parte, indicándole las modificaciones que solicita. En caso 
+de que dichas modificaciones sean propuestas por Informa o, 
+habiéndolas propuesto el adjudicatario, ésta estuviera conforme con 
+
+--- página 8 ---
+ 
+ 
+ 
+ 
+P á g i n a  8 | 18 
+ 
+las mismas, se modificará y actualizará la Descripción del Tratamiento 
+de Datos Personales, de modo que el mismo siempre recoja fielmente 
+el detalle del tratamiento y de las medidas de seguridad a adoptar en 
+todo momento por el adjudicatario.  
+3. De conformidad con lo previsto en los artículos 28 y ss. del RGPD y 
+los artículos 31, 32 y 33 de la LOPDGDD, el adjudicatario garantiza el 
+cumplimiento de las siguientes obligaciones, complementadas con lo 
+detallado en la Descripción del Tratamiento de Datos Personales, y sin 
+perjuicio de las instrucciones escritas adicionales que pudiera 
+proporcionar Informa al adjudicatario: 
+ 
+Tratar los Datos Personales de conformidad con los criterios de 
+seguridad y el contenido previsto en el artículo 32 del RGPD y en la 
+legislación española aplicable y en vigor en cada momento, así como 
+observar y adoptar las medidas técnicas y organizativas de seguridad 
+necesarias o convenientes para asegurar la confidencialidad, 
+integridad, disponibilidad, autenticidad y trazabilidad de los Datos 
+Personales a los que tenga acceso. 
+En particular, y sin carácter limitativo, se obliga a aplicar las medidas 
+de seguridad que constan en la Descripción del Tratamiento de Datos 
+Personales. 
+Tratar los Datos Personales conforme a las instrucciones 
+documentadas en el presente Pliego o demás documentos 
+contractuales aplicables a la ejecución del contrato y aquellas que, 
+en su caso, reciba de Informa en cada momento. 
+El adjudicatario informará inmediatamente a Informa cuando, en su 
+opinión, una instrucción sea contraria a la normativa de protección de 
+Datos Personales aplicable en cada momento. 
+No utilizar ni aplicar los Datos Personales con una finalidad distinta a la 
+ejecución del Contrato. 
+Mantener la más absoluta confidencialidad sobre los Datos Personales 
+a los que tenga acceso para la ejecución del contrato, así como 
+sobre los que resulten de su tratamiento, cualquiera que sea el soporte 
+en el que se hubieren obtenido. Esta obligación se extiende a toda 
+persona que pudiera intervenir en cualquier fase del tratamiento por 
+cuenta del adjudicatario, siendo deber del adjudicatario instruir a las 
+personas que de él dependan de este deber de secreto, y del 
+mantenimiento de dicho deber de manera indefinida aún 
+después de la terminación de la prestación del servicio o de su 
+desvinculación, por cualquier motivo, así como de mantener a 
+disposición de Informa la documentación acreditativa de dicho 
+compromiso de confidencialidad.  
+Llevar un listado de personas autorizadas para tratar los Datos 
+Personales objeto de este pliego y garantizar que las mismas se 
+
+--- página 9 ---
+ 
+ 
+ 
+ 
+P á g i n a  9 | 18 
+ 
+comprometen, de forma expresa y por escrito, a respetar la 
+confidencialidad, y a cumplir con las medidas de seguridad 
+correspondientes, de las que les debe informar convenientemente, así 
+como a mantener a disposición de Informa la documentación 
+acreditativa del cumplimiento de dicha obligación. 
+Garantizar la formación necesaria en materia de protección de Datos 
+Personales de las personas autorizadas para tratar los Datos Personales 
+y mantener a disposición de Informa la documentación acreditativa 
+de dicho extremo. 
+Salvo que cuente en cada caso con la autorización expresa y por 
+escrito del Responsable del Tratamiento, tal como se defina en la 
+Descripción del Tratamiento de Datos Personales, a no comunicar 
+(ceder) ni difundir los Datos Personales a terceros, ni siquiera para su 
+conservación. 
+Mantener puntualmente informado al Delegado de Protección de 
+Datos de Informa (protecciondedatos@informa.es) de la identidad y 
+datos de contacto de la(s) persona(s) física(s) designada(s) por el 
+adjudicatario como sus representante(s) a efectos de protección de 
+Datos Personales (representantes del Encargado de Tratamiento), 
+responsable(s) del cumplimiento de Datos Personales, en las vertientes 
+legales/formales y en las de seguridad, así como, en caso de estar 
+designado, de la identidad y datos de contacto del 
+Delegado de Protección de Datos.  
+Una vez finalizada la prestación contractual objeto del presente 
+Pliego, se compromete, según corresponda y se indique en la 
+Descripción del Tratamiento de Datos Personales, a devolver o destruir 
+(i) los Datos Personales a los que haya tenido acceso; (ii) los Datos 
+Personales generados por el adjudicatario por causa del tratamiento; 
+y (iii) los soportes y documentos en que cualquiera de estos datos 
+consten, sin conservar copia alguna, salvo que el adjudicatario viniera 
+obligado legamente a ello, en cuyo caso deberá informar al respecto 
+a Informa antes de la formalización del contrato y sin que pueda, en 
+ningún caso, conservarlos por más tiempo del que viniera obligado a 
+ello. El encargado del tratamiento podrá, no obstante, conservar los 
+datos durante el tiempo que puedan derivarse responsabilidades de 
+su relación con Informa. En este último caso, los Datos Personales se 
+conservarán bloqueados, adoptando medidas técnicas y 
+organizativas que impidan su tratamiento, y por el tiempo mínimo, 
+destruyéndose de forma segura y definitiva al final de dicho plazo. En 
+la Descripción del Tratamiento de Datos Personales se indicará si es 
+necesario certificar la destrucción de los datos personales. 
+Según corresponda y se indique en la Descripción del Tratamiento de 
+Datos Personales, el adjudicatario se obliga a llevar a cabo el 
+tratamiento de los Datos Personales en los 
+sistemas/dispositivos de tratamiento (manuales y/o automatizados) y 
+
+--- página 10 ---
+ 
+ 
+ 
+ 
+P á g i n a  10 | 18 
+ 
+en las ubicaciones que en la referida descripción se especifican, 
+equipamiento que podrá estar bajo el control de Informa o bajo el 
+control directo o indirecto del adjudicatario, u otros equipamientos 
+que hayan sido expresamente autorizados por escrito por Informa, 
+según se establezca en la referida Descripción y únicamente por los 
+usuarios o perfiles de usuarios asignados a la ejecución del contrato. 
+A tratar, salvo que se indique otra cosa en la Descripción del 
+Tratamiento de Datos Personales, los Datos Personales dentro del 
+Espacio Económico Europeo u otro espacio considerado por la 
+normativa aplicable o autoridades competentes como de seguridad 
+equivalente al RGPD, no tratándolos fuera de este espacio ni 
+directamente ni a través de cualesquiera de los subcontratistas 
+autorizados, salvo que esté obligado a ello en virtud del Derecho de la 
+Unión o del Estado miembro que le resulte de aplicación, en cuyo 
+caso deberá informar al respecto a Informa previamente y por escrito. 
+Como excepción, y únicamente cuando así lo indique o autorice 
+expresamente Informa, contando con el debido visto bueno del 
+Delegado de Protección de Datos de Informa, el adjudicatario podrá 
+realizar transferencias internacionales de los datos personales y, en ese 
+caso, seguirá las instrucciones debidamente documentadas y 
+facilitadas por Informa con respecto a las transferencias de Datos 
+Personales a un tercer país o una organización internacional.  
+En el caso de que por causa de Derecho aplicable en España el 
+adjudicatario se vea obligado a llevar a cabo alguna transferencia 
+internacional de datos, el adjudicatario informará por escrito a 
+Informa de esa exigencia legal, con antelación suficiente y siempre 
+con un preaviso mínimo de un (1) mes antes de efectuar el 
+tratamiento, y garantizará el cumplimiento de cualesquiera requisitos 
+legales que sean aplicables a Informa, salvo que el Derecho aplicable 
+lo prohíba por razones importantes de interés público. 
+ Comunicar a Informa, de forma inmediata y a más tardar en el 
+plazo de 48 horas, cualquier violación de la seguridad que afecte a 
+los datos personales objeto de tratamiento de la que tuviese 
+conocimiento. La comunicación incluirá, como mínimo, la siguiente 
+información: i) descripción de la naturaleza del incidente, inclusive, 
+cuando sea posible, las categorías y el número aproximado de 
+interesados afectados, y las categorías y el número aproximado de 
+registros de datos personales afectados, las categorías y número 
+aproximado; ii) nombre y los datos de contacto del delegado de 
+protección de datos o de otro punto de contacto en el que pueda 
+obtenerse más información; iii) posibles consecuencias del incidente y 
+iv) medidas adoptadas o propuestas para remediar o mitigar dicho 
+incidente de seguridad. La comunicación se efectuará tanto al gestor 
+del contrato de Informa como al Delegado de Protección de Datos 
+de Informa. 
+
+--- página 11 ---
+ 
+ 
+ 
+ 
+P á g i n a  11 | 18 
+ 
+ Si los interesados ejercieran sus derechos de acceso, rectificación, 
+supresión, oposición, portabilidad de los datos, limitación del 
+tratamiento, y/o no ser objeto de decisiones individualizadas 
+automatizadas, ante el adjudicatario, éste se compromete a ponerlo 
+en conocimiento de Informa, en un plazo no superior a dos días 
+hábiles, para lo que enviará un correo electrónico a la siguiente 
+dirección: protecciondedatos@informa.es  con el asunto: “Ejercicio 
+derechos INTERESADOS”. Dicha comunicación podrá incluir otras 
+informaciones y documentación que pudieran ser relevantes para 
+resolver dicha solicitud. 
+El adjudicatario asistirá a Informa, para que ésta pueda cumplir y dar 
+respuesta a los ejercicios de Derechos. 
+ 
+ Colaborar con Informa en el cumplimiento de sus obligaciones en 
+materia de(i) medidas de seguridad, (ii) comunicación y/o 
+notificación de brechas de seguridad a las autoridades competentes 
+o los interesados, y (iii) colaborar en la 
+realización de evaluaciones de impacto relativas a la 
+protección de datos personales y consultas previas al respecto a las 
+autoridades competentes; teniendo en cuenta la naturaleza del 
+tratamiento y la información de la que disponga. 
+ Asimismo, pondrá a disposición de Informa toda la información 
+necesaria para demostrar el cumplimiento tanto de las obligaciones 
+legales como de las previstas en este Pliego y demás documentos 
+contractuales y colaborará en la realización de auditorías e 
+inspecciones, que podrán ser llevadas a cabo por Informa o por los 
+terceros que ésta designe. 
+A este respecto el adjudicatario permitirá a Informa la realización de 
+inspecciones o auditorías que permitan verificar su cumplimiento del 
+presente acuerdo en materia de protección de datos personales.  
+Las inspecciones podrán realizarse durante la jornada laboral normal 
+de trabajo del adjudicatario, con un preaviso de 3 días hábiles antes 
+de la inspección, y en casos de extrema y justificad urgencia, se 
+podrán realizar sin previo aviso. 
+Cuando la normativa así lo exija, llevar por escrito un registro, que 
+mantendrá a disposición de Informa, de todas las categorías de 
+actividades de tratamiento efectuadas por cuenta de Informa de 
+conformidad con lo previsto en el artículo 30.2 del RGPD y en el artículo 
+31 de la LOPDGDD. 
+ Disponer de evidencias que demuestren su cumplimiento de la 
+normativa de protección de Datos Personales y con el deber de 
+responsabilidad activa, como, a título de ejemplo, certificados previos 
+sobre el grado de cumplimiento o resultados de auditorías, las cuales 
+deberán ser puestos a disposición de Informa en el plazo máximo de 
+
+--- página 12 ---
+ 
+ 
+ 
+ 
+P á g i n a  12 | 18 
+ 
+15 días hábiles desde su requerimiento. Asimismo, durante la vigencia 
+del contrato, pondrá a disposición de Informa toda información, 
+certificaciones y auditorías realizadas en cada momento. 
+ Comunicar y hacer cumplir a sus empleados y personas a su cargo 
+las obligaciones establecidas en los apartados anteriores y, en 
+particular, las relativas al deber de confidencialidad, el cumplimiento 
+de medidas de seguridad y las instrucciones y medidas de seguridad 
+específicas recibidas de Informa por el adjudicatario. El adjudicatario 
+pondrá a disposición de Informa copia del documento donde consten 
+dichas comunicaciones y el enterado de cada empleado asignado. 
+ Derecho de información: en el caso de que para la prestación del 
+servicio el adjudicatario recabase datos por cuenta de Informa, 
+facilitará información relativa al tratamiento que se vaya a realizar. 
+Esta información de datos será la que determine Informa, antes del 
+inicio de la recogida de los datos. 
+4. Las obligaciones antes establecidas constituyen el contrato de 
+encargo de tratamiento entre Informa y el adjudicatario, no son 
+retribuibles de forma distinta de lo previsto en el Pliego y demás 
+documentos contractuales y tendrán la misma duración que la 
+prestación de Servicio objeto de este Pliego y su contrato. No 
+obstante, a la finalización del contrato, el deber de secreto 
+continuará vigente, sin límite de tiempo, para todas las personas 
+involucradas en la ejecución del contrato. 
+5. Para el cumplimiento del objeto de este pliego no se requiere que 
+el adjudicatario acceda a ningún otro Dato Personal salvo los 
+especificados en la Descripción del Tratamiento de Datos Personales, 
+de cuyo tratamiento Informa sea responsable, y por tanto queda 
+prohibido al adjudicatario en todo caso el acceso o tratamiento de 
+cualquier otro Dato Personal. A dichos efectos, además de la 
+prohibición de acceso citada, el adjudicatario deberá garantizar y 
+mantener a disposición de Informa documentación acreditativa de 
+que el personal a su cargo ha sido suficientemente instruido de la 
+prohibición de acceder a otros Datos Personales y de la obligación de 
+secreto respecto a los datos personales que dicho personal pudiera 
+conocer con motivo de su ejecución, incluso tras la finalización del 
+servicio y/o desvinculación. 
+Si se produjera una incidencia durante la ejecución del contrato que 
+conllevara un acceso accidental o incidental a Datos Personales no 
+contemplados en la Descripción del Tratamiento de Datos Personales 
+responsabilidad de Informa, el adjudicatario deberá ponerlo en 
+conocimiento de Informa, en concreto de su Delegado de Protección 
+de Datos, fehacientemente y con la mayor diligencia y a más tardar 
+en el plazo de 48 horas desde que tuviera conocimiento o sospechas 
+de dicho acceso accidental o incidental. 
+
+--- página 13 ---
+ 
+ 
+ 
+ 
+P á g i n a  13 | 18 
+ 
+6.   Cuando el pliego permita la subcontratación de las actividades 
+objeto del mismo y el adjudicatario pretenda recurrir a un tercero para 
+la ejecución de este contrato y esta subcontratación implique que el 
+tercero subcontratado llevará a cabo determinadas actividades del 
+tratamiento por cuenta de Informa, deberá estarse a lo regulado en 
+esta cláusula  
+Para ello, el adjudicatario lo pondrá en conocimiento previo del 
+Delegado de Protección de Datos de Informa y del gestor del contrato 
+de Informa, identificando qué tratamiento de Datos Personales 
+requiere la subcontratación propuesta, sistemas externalizados en su 
+caso y medidas de seguridad técnicas y organizativas de protección, 
+así como los datos que identifiquen a la empresa subcontratada para 
+que Informa decida, en su caso, si otorgar su autorización a dicho sub-
+encargo. 
+ 
+En los casos anteriores, en que pueda solicitarse por el adjudicatario 
+autorización de Informa para suscribir sub-encargos, es requisito 
+imprescindible que se cumplan las siguientes condiciones: 
+Que el tratamiento de Datos Personales por parte del subcontratista 
+se ajuste a lo contemplado en este Pliego, a las 
+instrucciones de Informa y a la legalidad vigente, estando el 
+subcontratista obligado a someterse, en todo caso, a la normativa 
+española y de la Unión Europea en materia de protección de datos, 
+circunstancia que deberá quedar recogida en el contrato de 
+encargo del tratamiento que deberá suscribirse entre el adjudicatario 
+y el subcontratista. 
+Que el adjudicatario y el subcontratista formalicen un contrato de 
+encargo  de  tratamiento de datos en términos no menos restrictivos a 
+los previstos en el presente Pliego y, en todo caso, comprometiéndose 
+el subcontratista, expresamente y por escrito, a asumir obligaciones 
+idénticas a las establecidas en materia de protección de datos para 
+el adjudicatario en el presente pliego, en particular, en lo que 
+respecta a la prestación de garantías suficientes de aplicación de las 
+medidas técnicas y organizativas apropiadas. 
+Que el contrato suscrito entre el adjudicatario y el subcontratista sea 
+puesto a disposición de Informa a su mera solicitud para verificar y 
+validar su existencia y contenido. 
+En todo caso, corresponde a Informa en exclusiva la decisión de si 
+otorgar o no dicha autorización, la cual deberá ser expresa y por 
+escrito, entendiéndose no otorgada si Informa no contestara en un 
+plazo de 15 días naturales, a contar desde la recepción de la solicitud. 
+Tras la citada autorización, el adjudicatario informará a Informa de 
+cualquier cambio que prevea realizar en la incorporación o sustitución 
+de otros subcontratistas, correspondiendo a Informa la decisión de si 
+
+--- página 14 ---
+ 
+ 
+ 
+ 
+P á g i n a  14 | 18 
+ 
+otorgar la autorización prevista en esta cláusula. La no respuesta de 
+Informa a dicha solicitud transcurridos 15 días naturales, desde que 
+fuera solicitada por el adjudicatario, equivale a oponerse a dichos 
+cambios y a la denegación de la autorización. 
+Informa puede revocar el consentimiento para que el adjudicatario 
+pueda subcontratar a un tercero, que conlleve el tratamiento de los 
+Datos Personales, en cualquier momento por causa justificada, en 
+especial, como consecuencia de un incumplimiento de las 
+obligaciones contractuales o legales y reglamentarias por parte del 
+adjudicatario o del subcontratista. 
+En caso de incumplimiento del subcontratista, este quedará obligado 
+solo ante el adjudicatario que asumirá, por tanto, la total 
+responsabilidad de la ejecución de este contrato frente a Informa. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 15 ---
+ 
+ 
+ 
+ 
+P á g i n a  15 | 18 
+ 
+Descripción del Tratamiento de Datos Personales 
+Descripción general del tratamiento de Datos Personales a efectuar 
+      Se tratarán datos personales con motivo de la contratación de una 
+plataforma para el cálculo de la huella de carbono de INFORMA D&B 
+S.A.U. (S.M.E.) (en adelante, INFORMA). 
+       El personal adscrito por el adjudicatario para la prestación de los servicios 
+recogidos en el Pliego puede tratar datos personales responsabilidad de 
+INFORMA D&B, S.A.U. (S.M.E.). Los datos personales se tratarán únicamente 
+por el personal adscrito y al único efecto de ejecutar el contrato. 
+       En caso de que como consecuencia de la ejecución del contrato fuera 
+necesario, en algún momento, la modificación de lo estipulado en esta 
+Descripción del Tratamiento de Datos Personales, el adjudicatario lo 
+requerirá razonadamente y señalará los cambios solicitados. En caso de 
+conformidad con la solicitud, INFORMA D&B, S.A.U. (S.M.E.) emitiría una 
+Descripción del Tratamiento de Datos Personales actualizada, que recoja 
+fielmente el detalle del tratamiento. 
+Colectivos y Datos Tratados 
+Los colectivos de interesados y Datos Personales tratados a las que puede tener 
+acceso el adjudicatario son: 
+Tratamientos y principales 
+colectivos de interesados 
+Datos Personales del tratamiento a los que 
+se puede acceder 
+ 
+- Empleados 
+- Visitas 
+- Otros interesados 
+ 
+ 
+ 
+ 
+- Datos identificativos y de contacto. 
+- Datos de navegación 
+- Datos personales contenidos incidentalmente en 
+documentación soporte 
+  
+Elementos del tratamiento 
+El tratamiento de los Datos Personales comprenderá: 
+PROCESAMIENTO (manejo de datos) 
+
+--- página 16 ---
+ 
+ 
+ 
+ 
+P á g i n a  16 | 18 
+ 
+ Recogida 
+(captura de datos 
+diversos) 
+ Registro 
+ (grabación en 
+los sistemas 
+de 
+tratamiento 
+del asesor)  
+ Estructuración  Modificación 
+Conservació
+n (durante 
+tiempo de 
+prueba) 
+ Extracción 
+ (retrieval) 
+ Consulta  Cesión 
+ Difusión  Interconexión 
+(cruce) 
+ Cotejo 
+ 
+ Limitación 
+ Supresión 
+(de sus sistemas de 
+información) 
+ 
+Destrucción 
+(de sus sistemas 
+de información) 
+ Conservación 
+(en sus sistemas 
+de 
+información y 
+durante la 
+prueba) 
+ Otros: 
+ Correlación 
+(Análisis y 
+estudios de 
+los datos 
+recibidos) 
+OPERACIONES TÉCNICAS 
+ Duplicado Copia  
+(Copias 
+temporales) 
+ Copia de 
+seguridad 
+(de sus sistemas 
+de 
+información) 
+ Recuperación 
+(de sus sistemas de 
+información) 
+ 
+ 
+Disposición de los datos al terminar el servicio 
+Una vez finalice el encargo, el adjudicatario debe:  
+Destruir los Datos Personales una vez cumplida la prestación. Una vez 
+destruidos, el Adjudicatario certificará por escrito la completa destrucción 
+de los datos personales y entregará dicho certificado a Informa.   
+
+--- página 17 ---
+ 
+ 
+ 
+ 
+P á g i n a  17 | 18 
+ 
+No obstante, el Adjudicatario puede conservar una copia, con los datos 
+debidamente bloqueados, mientras puedan derivarse responsabilidades 
+de la ejecución de la prestación. 
+ 
+Sistemas de tratamiento 
+El adjudicatario podrá tratar los datos en los siguientes sistemas de tratamiento: 
+-Sistemas informáticos 
+Los datos responsabilidad de INFORMA han de permanecer, en todo 
+momento, dentro del Espacio Económico Europeo, no admitiéndose, en 
+ningún caso, la realización de transferencias internacionales de datos. 
+ 
+Medidas de protección 
+Los datos deben protegerse empleando las medidas técnicas y organizativas 
+oportunas que impidan que dichos datos pierdan su confidencialidad, integridad y 
+disponibilidad. Por ello, el adjudicatario debe comprometerse por escrito a cumplir 
+con las medidas técnicas y organizativas recogidas en el Anexo IV del PCAP. 
+Adicionalmente, se deberá contar con las medidas de protección siguientes: 
+PERSONAL 
+· Nombramiento de un responsable en materia de protección de datos, quien 
+asegurará el cumplimiento de la normativa aplicable. 
+· Establecimiento de funciones y responsabilidades del personal que trate datos 
+de carácter personal. 
+· Comunicación entre el personal de las funciones y responsabilidades definidas 
+asociadas al cumplimiento de la normativa en materia de protección de 
+datos. 
+ PROCEDIMIENTOS 
+· Procedimientos de detección, evaluación y notificación, en caso de ser 
+necesario, de incidentes de seguridad que puedan afectar a los derechos y 
+libertades de los interesados. 
+El adjudicatario no podrá no implementar o suprimir dichas medidas mediante el 
+empleo de un análisis de riesgos o evaluación de impacto, salvo aprobación 
+expresa de INFORMA. 
+A estos efectos, el personal de adjudicatario debe seguir las medidas de seguridad 
+establecidas por INFORMA, no pudiendo efectuar tratamientos distintos de los 
+definidos por INFORMA. 
+ 
+ 
+
+--- página 18 ---
+ 
+ 
+ 
+ 
+P á g i n a  18 | 18 
+ 
+ANEXO (A) 
+Anexo para la declaración de ubicación de servidores y subcontratistas 
+En atención al apartado 2 del artículo 122 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector 
+Público, el ofertante reconoce su obligación de someterse, en todo caso, a la normativa nacional y de la 
+Unión Europea en materia de protección de datos y declara, mediante la cumplimentación del presente 
+formulario, la finalidad del tratamiento de los datos, dónde van a estar ubicados los servidores y los servicios 
+asociados a estos servidores, así como si va a utilizar subcontratistas (a los que identificará, en su caso).  
+Finalidad para la que se accede a los 
+datos objeto del Encargo de Tratamiento  
+Complete aquí   
+    
+Sí/No  
+Ubicación  
+(a completar en caso 
+afirmativo)  
+Garantías /mecanismo para 
+la regulación de la 
+transferencia internacional 
+(a completar en caso de TI)  
+¿Utiliza servidores propios?          
+¿Utilizan servidores de terceros? 
+Denominación social del subcontratista:  
+…................. Complete aquí...............  
+      
+  
+  
+Sí/No  
+Ubicación  
+(a completar en caso 
+afirmativo)  
+Garantías /mecanismo para 
+la regulación de la 
+transferencia internacional 
+(a completar en caso de TI)  
+¿Los servicios asociados a los servidores son 
+propios?  
+      
+  
+¿Los servicios asociados a los servidores 
+serán prestados por un tercero? 
+Denominación social del subcontratista:  
+…................. Complete aquí...............  
+      
+  
+ 
+El ofertante se compromete, en caso de adjudicación, a comunicar cualquier cambio que se produzca, a lo 
+largo de la vida del contrato, en la información declarada en el presente formulario. 
+Y para que conste y surta efectos oportunos, se expide y firma la presente declaración, en _____________, 
+a___de___________________de 202_.   
+Firma y sello del ofertante 
+ 
+ 

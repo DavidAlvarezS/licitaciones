@@ -1,0 +1,1985 @@
+
+
+--- página 1 ---
+ 
+       - PROCEDIMIENTO ABIERTO - 
+ 
+ 
+ PLIEGO DE CLÁUSULAS ADMINISTRATIVAS 
+ 
+ 
+“Contrato Mixto de suministro de una plataforma 
+(SaaS) para el cálculo y registro de la huella de 
+carbono para Informa D&B S.A.U. (S.M.E.) así como los 
+servicios para implantación, formación, soporte y 
+mantenimiento” 
+ 
+ 
+ 
+Número de Expediente: 2026-022 
+ 
+ 
+PLAZO DE PRESENTACIÓN: FECHA LÍMITE EL  24 DE NOVIEMBRE A LAS 15:00 HORAS 
+ 
+ 
+FORMA DE PRESENTACION: De forma electrónica a través de la PLATAFORMA DE 
+CONTRATACION DEL SECTOR PÚBLICO accesible mediante el siguiente enlace 
+https://contrataciondelestado.es/wps/portal/plataforma 
+ 
+ 
+Las notificaciones electrónicas derivadas de este procedimiento de contratación se realizarán 
+mediante la dirección electrónica habilitada para la práctica de las notificaciones electrónicas. 
+ 
+ 
+ 
+ 
+ 
+ 
+Fecha Publicación: 10 DE NOVIEMBRE DE 2026 
+
+--- página 2 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ÍNDICE 
+ 
+1. INTRODUCCIÓN ..................................................................................................................... 3  
+1.1. Poder no Adjudicador .................................................................................................................. 3 
+1.1.1. Direcciones Internet ..................................................................................................... 3 
+1.1.2. Consultas ........................................................................................................................ 3 
+1.2. Régimen Jurídico .......................................................................................................................... 3 
+1.2.1. Órgano de Contratación ............................................................................................ 4 
+1.3. Procedimiento y forma de Licitación .......................................................................................... 5 
+1.4. Plazo de duración del contrato .................................................................................................... 5 
+1.5. Documentos a Presentar por los Licitadores. Forma y contenido de las Proposiciones. .... 6 
+1.5.1. Aptitud para contratar ................................................................................................ 6 
+1.5.2. Requisitos de Solvencia Económica y Técnica del Licitador  .................................. 6 
+1.5.2.1. Solvencia Económica y Financiera ............................................................ 6 
+1.5.2.2. Solvencia Técnica o Profesional ................................................................. 6 
+1.5.3. Medios de acreditación .............................................................................................. 7 
+1.5.3.1. Solvencia Económica y Financiera ............................................................ 7 
+1.5.3.2. Solvencia Técnica o Profesional ................................................................. 7 
+1.5.4. Presentación de Ofertas .............................................................................................. 8 
+1.6. Presupuesto Base de Licitación, Valor estimado y Pago del Precio ....................................... 11 
+1.7. Revisión de Precios ....................................................................................................................... 13 
+2. CRITERIOS DE VALORACIÓN ................................................................................................. 13  
+2.1. Pesos y puntuación de los distintos criterios de valoración ................................................... 13 
+3. ADJUDICACIÓN .................................................................................................................... 13  
+4. CONTRATO ............................................................................................................................. 15  
+4.1. Formalización del Contrato ......................................................................................................... 15 
+4.2. Ejecución del contrato ................................................................................................................. 16 
+5. ANEXOS ................................................................................................................................. 26  
+ 
+ 
+
+--- página 3 ---
+ 
+1. INTRODUCCIÓN 
+ 
+El objeto del contrato es la contratación de una solución tecnológica en modalidad 
+SaaS para la gestión integral de la huella de carbono corporativa de INFORMA D&B 
+S.A.U. (S.M.E.) (en adelante, INFORMA) y sus filiales, que permita la recopilación e 
+integración de datos, el cálculo, seguimiento, análisis y reporte de las emisiones de 
+gases de efecto invernadero, así como la elaboración y seguimiento de planes de 
+reducción, incluyendo los servicios de implantación, formación, soporte, 
+mantenimiento y actualización de la plataforma, en los términos establecidos en los 
+Pliegos. 
+ 
+Contrato mixto de servicios y suministro, siendo la prestación principal el suministro de una 
+solución tecnológica en modalidad SAAS 
+ 
+Suministros:   67% 
+Servicios:  33% 
+ 
+CLASIFICACIÓN CPV: 
+ 
+CPV PRINCIPAL 
+ 
+48461000  Paquetes de software de analítico o científico. 
+ 
+CPV SECUNDARIO 
+ 
+72263000  Servicios de implementación de software 
+90731700 Servicios  de seguimiento del dióxido de carbono 
+Entidad sin carácter de poder Adjudicador 
+ 
+INFORMA D&B, S.A.U. (S.M.E.)  
+Avenida Europa,19 
+28108 Alcobendas MADRID (ESPAÑA) 
+A la atención de: Área de Compras 
+Correo electrónico: proveedores@informa.es 
+ 
+1.1.1. Direcciones Internet  
+Acceso al perfil del contratante y dirección de la entidad sin carácter de poder adjudicador:  
+https://www.informa.es/quienes-somos/politica-de-contratacion 
+ 
+1.1.2. Consultas  
+ 
+Durante los 10 primeros días desde la fecha de publicación.  
+ 
+ 
+1.2. Régimen Jurídico 
+ 
+ 
+
+--- página 4 ---
+ 
+La contratación del servicio se regirá por lo establecido en este pliego, el Pliego de 
+Prescripciones Técnicas (los Pliegos) y sus Anexos, lo contenido en las “Instrucciones internas de 
+procedimiento aplicables a la adjudicación de contratos” aprobadas por Consejo de 
+Administración de fecha 27 de febrero de 2024 y publicadas en la página web de INFORMA y 
+subsidiariamente en la medida que sea aplicable la ley 9/2017, de 8 de noviembre de 
+Contratos del Sector Público (en adelante LCSP) teniendo en cuenta el carácter de “Entidad 
+no Poder  adjudicador”, la aplicación del artículo 321 de la LCSP, y en la Instrucción nº 3/2018 
+de 6 de marzo de la Abogacía General del Estado- Dirección del Servicio Jurídico del Estado 
+sobre “Contratación de Entidades del sector público que no tengan carácter de poder 
+adjudicador”. 
+ 
+El régimen jurídico aplicable al Contrato es el propio de Derecho privado y tiene carácter 
+mercantil. En su consecuencia, la relación contractual entre INFORMA y el adjudicatario 
+seleccionado se regirá por el presente pliego y sus Anexos, por la oferta técnica y económica 
+de precios presentada por el adjudicatario y seleccionada por INFORMA y por el contrato -
+que se ajustará al contenido de los Pliegos-, cuyas cláusulas prevalecerán en caso de duda y, 
+con carácter supletorio, lo dispuesto en la legislación civil y mercantil españolas y demás leyes 
+especiales. En todo caso, en la interpretación, integración, cumplimiento y desenvolvimiento 
+del Contrato, se tendrán necesariamente presente y deberá tenderse siempre a la efectiva 
+consecución y satisfacción de las expectativas, requerimientos y satisfacción de las 
+necesidades de INFORMA de recibir un soporte, asesoramiento y consultoría completo y de 
+alta calidad. 
+ 
+ 
+Las cuestiones relativas a la preparación y adjudicación de los contratos de las entidades del 
+sector público se someterán a impugnación en vía administrativa de conformidad con lo 
+dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las 
+Administraciones Públicas ante el titular del departamento, órgano, ente un organismo al que 
+está adscrita esa sociedad o al que corresponda su tutela, en este caso el Ministerio de 
+Economía, Comercio y Empresa. 
+ 
+Los Pliegos tendrán carácter contractual, siendo por tanto de obligado cumplimiento. La mera 
+presentación a la licitación supone la aceptación incondicional de sus términos y condiciones. 
+ 
+1.2.1. Órgano de Contratación  
+ 
+De conformidad con el artículo 61 de la LCSP la representación de las entidades del Sector 
+Público en materia contractual corresponde a los órganos de contratación que tengan 
+atribuida la facultad de celebrar contratos en su nombre. El órgano de contratación puede 
+delegar y desconcentrar sus competencias y facultades en esta materia mediante el 
+otorgamiento de poderes. 
+ 
+Así mismo, y en virtud de lo establecido en el artículo 323.6 de la LCSP, la capacidad de los 
+representantes legales de las sociedades del Sector Público se rige por sus Estatutos y las 
+normas de derecho privado que le sean de aplicación.  
+ 
+La adjudicación del Contrato recae en el Órgano de Contratación que actuará asistido de 
+una Mesa de Contratación. Se constituirá una Mesa de Contratación de conformidad con lo 
+previsto en el artículo II.1. de las Instrucciones Internas de Procedimiento Aplicables a la 
+Adjudicación de Contratos aprobadas por la Compañía. Dicha mesa estará compuesta por: 
+ 
+
+--- página 5 ---
+ 
+ PRESIDENTE: 
+ 
+El Director General Comercial. 
+Suplente: El Director General Adjunto de Tecnología y Operaciones. 
+ 
+ VOCAL JURIDICO: 
+Un letrado de los Servicios Jurídicos de Cesce. 
+Suplente: La Directora Jurídica de INFORMA. 
+ 
+ VOCAL: 
+ 
+El Director de Marketing. 
+Suplentes: El Director de Tecnología, El Director de Einforma, Comunicación y Clientes y 
+Chief Data Officer, que podrán sustituir indistintamente al vocal titular. 
+ 
+La Mesa estará asistida por una Secretaria. 
+ 
+Cuando así lo estime el Presidente, podrán asistir a la Mesa en calidad de invitados con voz, 
+pero sin voto otros miembros de la organización. 
+ 
+ 
+1.3. Procedimiento y forma de Licitación  
+ 
+El procedimiento de licitación del contrato se realizará mediante un procedimiento abierto 
+definido en las “Instrucciones internas de procedimiento aplicables a la adjudicación de 
+contratos” publicadas en el área de Contratación de Proveedores de la página web de 
+INFORMA (www.informa.es ), con base en lo previsto en el artículo 321 de la LCSP, atendiendo 
+a una pluralidad de criterios de calidad-precio, reflejados en en los Pliegos, y teniendo como 
+referencia las citadas “Instrucciones internas de procedimiento aplicables a la adjudicación 
+de contratos“.  
+ 
+INFORMA podrá requerir al licitador las aclaraciones que considere necesarias y solicitar los 
+documentos que considere convenientes siempre que con ello no se modifiquen las 
+condiciones básicas y esenciales de la oferta inicialmente presentada y sin que ello signifique 
+que se está requiriendo la presentación de una nueva oferta o que se esté aceptando tácita 
+o expresamente la presentada. 
+ 
+El Órgano de contratación se reserva el derecho de rechazar aquellas Ofertas que a su juicio 
+no cumplan las condiciones solicitadas. 
+INFORMA no tendrá ninguna responsabilidad por la recepción o preparación de una Oferta, 
+por lo que todos los Oferentes deberán asumir los costes y gastos asociados a la misma. La 
+decisión de no adjudicar o celebrar el contrato por desistimiento del procedimiento, se ajustará 
+a lo previsto en el artículo 152 de la LCSP. 
+ 
+A los efectos previstos en el artículo 99.3. de la LCSP se hace constar la no división del contrato 
+en Lotes dada la naturaleza del contrato.  
+ 
+ 
+1.4. Plazo de duración del contrato 
+ 
+
+--- página 6 ---
+El plazo de vigencia del contrato para la ejecución del servicio será de 3 años, a contar desde 
+la firma del mismo. 
+ 
+ 
+1.5. Documentos a Presentar por los Licitadores. Forma y contenido de las 
+Proposiciones. 
+ 
+Requisitos Previos: 
+ 
+1.5.1. Aptitud para contratar 
+ 
+De conformidad con el artículo 65 de la LCSP, podrán optar a la adjudicación del presente 
+Contrato las personas naturales o jurídicas, españolas o extranjeras, a título individual o en UTE, 
+que tengan plena capacidad de obrar y que acrediten su solvencia económica, financiera 
+y técnica, o se encuentren debidamente clasificadas (ROLECE)  y no se encuentren en 
+ninguna de las prohibiciones que menciona el artículo 71 de la LCSP 
+ 
+En relación con las empresas comunitarias será de aplicación lo previsto en los artículos 67 y 
+84.2. de la LCSP. Las empresas no comunitarias se ajustarán a los artículos 68 y 84.3 de la LCSP. 
+ 
+En relación a la presentación de licitadores en forma de UTEs se estará a lo dispuesto en el 
+artículo 69 de la LCSP. 
+ 
+Las personas jurídicas solo podrán ser adjudicatarias de contratos cuyas prestaciones estén 
+comprendidas dentro de los fines, objeto o ámbito de actividad que a tenor de sus estatutos 
+o reglas fundacionales les sean propios. Los empresarios deberán contar, asimismo, con la 
+habilitación empresarial o profesional que, en su caso, sea exigible para la realización de la 
+actividad o prestación del objeto del contrato. 
+ 
+ Las ofertas o proposiciones se ajustarán a lo dispuesto en los artículos 139 y 140 de la LCSP. 
+ 
+Ningún licitador podrá presentar más de una proposición. Tampoco podrá suscribir ninguna 
+propuesta en agrupación temporal con otros si lo ha hecho individualmente, ni figurar en más 
+de una unión temporal. La contravención de lo anterior dará lugar a la no admisión de todas 
+las propuestas por él suscritas.  
+ 
+1.5.2. Requisitos de Solvencia Económica y Técnica del Licitador  
+ 
+Las empresas licitadoras acreditarán, por los medios fijados a continuación, los siguientes 
+requisitos de solvencia económica y financiera y de solvencia técnica o profesional, 
+conforme a los artículos 86, 87 y 90 de la LCSP. 
+ 
+ 
+1.5.2.1. Solvencia Económica y Financiera 
+  
+ Acreditar un volumen de negocios correspondiente al mejor de los tres últimos 
+ejercicios disponibles por un importe mínimo de 32.400 €. 
+ 
+ 
+1.5.2.2. Solvencia Técnica o Profesional 
+ 
+
+--- página 7 ---
+ Haber realizado tres suministros en los últimos tres años, de igual o similar 
+naturaleza en importe y duración a los que constituyen el objeto del contrato, 
+que incluya importe, fechas y el destinatario de estos. 
+ 
+ ISO 9001 en vigor y cuyo alcance comprenda actividades relacionadas con el 
+objeto del contrato o contestar al cuestionario IV “Cuestionario de calidad para 
+proveedores” 
+ 
+ Certificado ISO 27001 en vigor y cuyo alcance comprenda actividades 
+relacionados con el objeto del contrato o contestar al cuestionario V “Medidas 
+Organizativas Seguridad a proveedores C-2” 
+ 
+ Oferta técnica, que contenga todo lo indicado en el apartado 4 del PPT. 
+ 
+ Disponer de una organización de elementos materiales y personales suficientes 
+para la ejecución del trabajo, según anexo ab. 
+ 
+1.5.3. Medios de acreditación 
+ 
+1.5.3.1. Solvencia Económica y Financiera 
+ 
+La solvencia económica y financiera del empresario deberá acreditarse por los 
+siguientes medios: 
+ 
+a) Las cuentas anuales presentadas en el Registro Mercantil o en el Registro oficial que 
+corresponda.  
+Los empresarios no obligados a presentar las cuentas en Registros oficiales podrán 
+aportar, como medio alternativo de acreditación, los libros de contabilidad 
+debidamente legalizados. 
+ 
+ 
+ 
+ESTA DOCUMENTACIÓN DEBE INCLUIRSE EN EL SOBRE “A” DOCUMENTACIÓN ADMINISTRATIVA, 
+REFLEJADO EN EL PUNTO 1.5.4. 
+ 
+1.5.3.2. Solvencia Técnica o Profesional 
+ 
+La solvencia técnica o profesional del empresario deberá acreditarse por los siguientes 
+medios:  
+ 
+ Los suministros efectuados se acreditarán mediante certificados expedidos o 
+visados por el órgano competente, cuando el destinatario sea una entidad del 
+sector público o, cuando el destinatario sea un sujeto privado, mediante un 
+certificado expedido por éste.  
+ 
+ 
+ ISO 9001 en vigor y cuyo alcance comprenda actividades relacionadas con el 
+objeto del contrato o contestar al cuestionario IV “Cuestionario de calidad para 
+proveedores” 
+ 
+
+--- página 8 ---
+ Certificado ISO 27001 en vigor y cuyo alcance comprenda actividades 
+relacionados con el objeto del contrato o contestar al cuestionario V “Medidas 
+Organizativas Seguridad a proveedores C-2” 
+ 
+ Oferta técnica, que contenga todo lo indicado en el apartado 4 del PPT. 
+ 
+ Se deberá documentar con la firma del representante legal que se dispone de una 
+organización de elementos materiales y personales suficientes para la ejecución 
+del trabajo, según anexo ab. 
+ 
+ 
+ 
+ 
+ESTA DOCUMENTACIÓN DEBE INCLUIRSE EN EL SOBRE “A” DOCUMENTACIÓN ADMINISTRATIVA, 
+REFLEJADO EN EL PUNTO 1.5.4. 
+ 
+ 
+Cuando el contratista sea una empresa de nueva creación, entendiendo por tal aquella que 
+tenga una antigüedad inferior a cinco años, su solvencia técnica se acreditará por uno o varios 
+de los medios a que se refieren las letras b) a i) del artículo 90 de la LCSP, sin que en ningún 
+caso sea aplicable lo establecido en la letra a), relativo a la ejecución de un número 
+determinado de servicios. 
+ 
+En este procedimiento el órgano de contratación ha determinado que únicamente puede 
+quedar acreditada la solvencia técnica, para las empresas de nueva creación, cumpliendo 
+con lo establecido en el apartado e) de dicho artículo: 
+ 
+Art. 90: 
+ 
+e) Títulos académicos y profesionales del empresario y de los directivos de la empresa y, en 
+particular, del responsable o responsables de la ejecución del contrato, así como de los 
+técnicos encargados directamente de la misma, siempre que no se evalúen como un criterio 
+de adjudicación 
+ 
+En el caso de concurrencia en forma de UTE, los requisitos de solvencia económica y de 
+solvencia técnica o profesional deberán ser cumplidos al menos por uno de miembros 
+integrantes de la UTE. 
+ 
+ 
+1.5.4. Presentación de Ofertas 
+ 
+La presentación de proposiciones supone por parte del licitador la aceptación incondicional 
+de las condiciones de los Pliegos y demás documentación, así como la declaración 
+responsable implícita de que reúne todas y cada una de las condiciones exigidas para 
+contratar con INFORMA, una sociedad mercantil estatal del Sector Público Estatal.  
+ 
+ 
+Los empresarios que participen en la presente licitación deberán presentar su oferta de forma 
+electrónica a través de la PLATAFORMA DE CONTRATACION DEL SECTOR PÚBLICO accesible 
+mediante el siguiente enlace https://contrataciondelestado.es/wps/portal/plataforma   
+antes del 24 de noviembre a las 15:00 horas. 
+ 
+
+--- página 9 ---
+NOTIFICACIONES ELECTRÓNICAS 
+ 
+Las notificaciones electrónicas derivadas de este procedimiento de contratación, conforme 
+a lo establecido en la disposición adicional decimoquinta de la Ley 9/2017, de 8 de 
+noviembre, de Contratos del Sector público y con arreglo a los artículos 14 y 43 de la Ley 
+39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones 
+Publicas, se realizarán mediante la dirección electrónica habilitada para la práctica de las 
+notificaciones electrónicas o mediante comparecencia electrónica. 
+ 
+Con los efectos previstos en el artículo 43 de la Ley 39/2015, tras el acceso al contenido de la 
+notificación, ésta se entenderá por practicada. Si transcurren dos días naturales desde 
+su puesta a disposición sin que se acceda al contenido de la misma, se tendrá por rechazada. 
+ 
+Todo ello sin perjuicio de lo establecido en la disposición adicional decimoquinta de la 
+Ley 9/2017 relativa al cómputo de plazos. En base a ello, los plazos a contar desde 
+la notificación se computarán desde la fecha de envío de la misma o del aviso de 
+notificación, si fuera mediante comparecencia electrónica, siempre que el acto objeto de 
+notificación se haya publicado el mismo día en el Perfil del Contratante del órgano de 
+contratación alojado en la Plataforma de Contratación del Sector Público. En caso contrario 
+los plazos se computarán desde la recepción de la notificación por el interesado. 
+ 
+HUELLA ELECTRÓNICA 
+ 
+Una vez enviada la documentación, el licitador deberá comprobar si el justificante de envío 
+que le facilita la Plataforma es un justificante de presentación de huella electrónica. Esto 
+significa que han surgido problemas durante el envío y deberá procederse según indica en el 
+punto 4.7 de la Guía de los Servicios de Licitación Electrónica para Empresas accesible en el 
+enlace siguiente ( https://contrataciondelestado .es/wps/portal/guiasInfo) 
+ 
+Los documentos se presentarán en castellano. Las empresas extranjeras que contraten en 
+España presentarán la documentación traducida de forma oficial al castellano y con los 
+requisitos exigidos en la normativa vigente para ser fehacientes. 
+ 
+Se presentarán 2 sobres con la siguiente documentación: 
+ 
+ Sobre A): Documentación administrativa 
+ 
+Deberá presentarse firmado con los documentos acreditando el cumplimiento de los 
+requisitos previos que se relacionan seguidamente: 
+ 
+ 
+a) Declaración responsable según modelo del Anexo I que deberá estar firmada y con la 
+correspondiente identificación en la que el licitador ponga de manifiesto lo siguiente:  
+ 
+I. Que la sociedad está válidamente constituida y que conforme a su objeto social 
+puede presentarse a la licitación, así como que el firmante de la declaración 
+ostenta la debida representación de ésta para la presentación de la proposición. 
+II. Que cuenta, en su caso, con la correspondiente clasificación. 
+III. Que no está incurso en prohibición de contratar por sí mismo ni por extensión como 
+consecuencia de la aplicación del artículo 71 de la LCSP. 
+b) Cuando dos o más empresas acudan a una licitación agrupadas en UTE, cada uno de 
+los empresarios que la componen deberán aportar una declaración responsable por 
+
+--- página 10 ---
+cada empresa participante en la que figurará la información requerida en el artículo 
+140.1 de la LCSP, debiendo indicar en documento privado los nombres y circunstancias 
+de los empresarios que la suscriban, la participación de cada uno de ellos, el 
+compromiso de constituirse formalmente en unión temporal de conformidad con lo 
+exigido en el apartado 3 del artículo 69 de la LCSP, caso de resultar adjudicatarios, y la 
+persona o entidad que, durante la vigencia del contrato, haya de ostentar la plena 
+representación de todos ellos frente a INFORMA. (En su caso, ver modelo Anexo AC) 
+ 
+c) En los casos en que el licitador recurra a la solvencia y medios de otras empresas de 
+conformidad con el artículo 75 de la LCSP, cada una de ellas también deberá presentar 
+una declaración responsable en la que figure la información solicitada en el Anexo AD) 
+d) Aquellas personas jurídicas que hayan inscrito en el Registro Oficial de Licitadores y 
+Empresas Clasificadas (ROLECE) los actos correspondientes a su personalidad y 
+capacidad de obrar, podrán aportar certificación expedida por el citado Registro en la 
+que se acredite la capacidad de obrar, acompañada de una declaración responsable 
+formulada por el licitador en la que manifieste que las circunstancias reflejadas en el 
+certificado no han experimentado variación alguna. 
+e) Además de la declaración responsable, las empresas extranjeras, en los casos en que el 
+contrato vaya a ejecutarse en España, deberán aportar una declaración de 
+sometimiento a la jurisdicción de los juzgados y tribunales españoles de cualquier orden, 
+para todas las incidencias que de modo directo o indirecto pudieran surgir del contrato, 
+con renuncia, en su caso, al fuero jurisdiccional extranjero que pudiera corresponder al 
+licitante.  
+f) Certificaciones acreditativas de estar al corriente en el cumplimiento de las 
+Obligaciones Tributarias y de la Seguridad Social. La fecha de expedición de estos 
+certificados no podrá ser anterior a la fecha de publicación de este pliego. 
+g) En su caso, Certificación de haber adaptado un Sistema de Gestión de Cumplimiento 
+mediante un Código Ético, Plan de Prevención de riesgos penales o similar. Y 
+declaración de conocer y aceptar el Código Ético del Grupo Cesce. 
+ 
+https://www.cesce.es/documents/20122/11251859/C%C3%B3digo+%C3%89tico+Ce
+sce.pdf/6e30cbc6-7680-d23c-6823-e26d0e23f3f8?t=1752229221782 
+(Ver modelo Anexo AI)  
+h) Declaración responsable relativa al compromiso de tener contratados trabajadores con 
+discapacidad y plan de igualdad (ver modelo AJ), junto con copia de la inscripción de 
+este último en el registro laboral correspondiente. 
+i) Documentación solicitada en el punto 1.5.3.1 y 1.5.3.2. 
+j) Anexo III del PCAP “Declaración responsable del cumplimiento de las condicione 
+exigidas legalmente en materia de protección de datos”. 
+k) Anexo A del PPT (Anexo para la declaración de ubicación de servidores y 
+subcontratistas) 
+ 
+Las circunstancias relativas a la capacidad, solvencia y ausencia de prohibiciones de 
+contratar deberán concurrir en la fecha final de presentación de ofertas y subsistir en el 
+momento de perfección del contrato. 
+
+--- página 11 ---
+ 
+ Sobre B): Oferta económica 
+ 
+ 
+Deberá presentarse firmado.  
+ 
+ Se presentará la oferta económica tal y como se indica en el Anexo II – Modelo de  
+Proposición Económica, expresando el precio de su oferta, IVA excluido. 
+ 
+ Cualquier oferta que supere el importe máximo de licitación no será tomada en 
+consideración en el procedimiento de adjudicación. 
+ 
+ Los precios ofertados deberán expresarse sin IVA. 
+ 
+ Cada licitador no podrá presentar más de una proposición, la cual deberá cumplir los 
+requerimientos indicados en el Pliego de Prescripciones Técnicas. 
+ 
+ La proposición económica se presentará en caracteres claros o escrita a ordenador, 
+expresada en número y en letra, y no se aceptarán aquéllas que contengan omisiones, 
+errores o tachaduras que impidan conocer claramente su contenido. Si existiese 
+discrepancia entre la cantidad escrita en número y la escrita en letra, se estará a esta 
+última. Los precios ofertados incluyen todos los conceptos, así como todos los gastos 
+derivados del contrato, incluso los gastos asociados a la entrega y prestación de los 
+servicios en el lugar convenido. 
+ 
+ 
+La oferta Económica NO podrá ser incluida en ningún otro sobre, de hacerse, el licitador 
+quedará excluido automáticamente. 
+ 
+Las ofertas se ajustarán estrictamente al modelo y formato indicado en el Anexo II – Modelo 
+de Proposición Económica. 
+ 
+ 
+1.6. Presupuesto Base de Licitación, Valor estimado y Pago del Precio 
+ 
+El presupuesto base de licitación, IVA excluido, para el plazo de duración del contrato 
+asciende a 18.000 € (dieciocho mil €), que más el 21% de IVA, hace un TOTAL 21.780 € (Veintiún 
+mil setecientos ochenta €), IVA incluido, entendido como límite de gasto que puede 
+comprometer el Órgano de Contratación. 
+ 
+En este precio se incluyen todos los gastos que el adjudicatario deba realizar para el 
+cumplimiento de las prestaciones contratadas, sin que puedan ser repercutidos como partida 
+independiente otros conceptos. 
+ 
+El Valor Estimado del contrato, de conformidad con lo establecido en el artículo 101 de la LCSP 
+para un periodo máximo del contrato asciende a 18.000 € euros, sin IVA, a lo que se suma hasta 
+3.600 € euros más en el caso de modificación del contrato, lo que hace un total de 21.600 €.  
+ 
+La forma de pago, en su caso, será mediante transferencia bancaria a la cuenta que aporte 
+el adjudicatario, pagadera a 30 días fecha factura, el día 20 de cada mes.  
+ 
+
+--- página 12 ---
+La adjudicataria remitirá las facturas a INFORMA, por los servicios realmente prestados, y el 
+informe de facturación al Área de Compras de INFORMA, incluyendo el número de expediente 
+“2026-022” como referencia. A dicha factura se le añadirá el IVA correspondiente. 
+ 
+Las facturas no validadas se remitirán a la empresa adjudicataria para la resolución de 
+incidencias, no procediéndose al abono de la citada factura hasta la resolución de la 
+incidencia. 
+ 
+En las ofertas que formulen los licitadores, se entenderán comprendidos a todos los efectos, 
+todos los tributos que graven los diversos conceptos, a excepción del Impuesto Sobre el Valor 
+Añadido (IVA), que se expresará de forma independiente. 
+Se considerará inicialmente como desproporcionada o con valores anormales aquella oferta 
+que se encuentre en alguno de los siguientes supuestos:  
+1. Cuando, concurriendo un solo licitador, sea inferior al presupuesto base de licitación en más 
+de 25 unidades porcentuales. 
+2. Cuando concurran dos licitadores, la que sea inferior en más de 20 unidades porcentuales 
+a la otra oferta. 
+3. Cuando concurran tres licitadores, las que sean inferiores en más de 10 unidades 
+porcentuales a la media aritmética de las ofertas presentadas. No obstante, se excluirá para 
+el cómputo de dicha media la oferta de cuantía más elevada cuando sea superior en más de 
+10 unidades porcentuales a dicha media. En cualquier caso, se considerará desproporcionada 
+la baja superior a 25 unidades porcentuales. 
+4. Cuando concurran cuatro o más licitadores, las que sean inferiores en más de 10 unidades 
+porcentuales a la media aritmética de las ofertas presentadas. No obstante, si entre ellas 
+existen ofertas que sean superiores a dicha media en más de 10 unidades porcentuales, se 
+procederá al cálculo de una nueva media sólo con las ofertas que no se encuentren en el 
+supuesto indicado. En todo caso, si el número de las restantes ofertas es inferior a tres, la nueva 
+media se calculará sobre las tres ofertas de menor cuantía. 
+ 
+Igualmente, para la valoración de las ofertas como desproporcionadas, la Mesa de 
+Contratación podrá considerar la relación entre la solvencia de la empresa y la oferta 
+presentada (art. 85.6 Reglamento General de la Ley de contratos de las Administraciones 
+Públicas). 
+ 
+INFORMA solicitará a los licitadores que expliquen el precio o los costes propuestos en la oferta 
+cuando las ofertas parezcan desproporcionadas o anormales para los servicios que se trate. 
+Las aclaraciones y justificaciones de los licitadores deberán presentarse en un plazo de 
+audiencia no superior a 2 días hábiles. 
+ 
+Los contratos solo podrán ser modificados en los casos y en la forma prevista en la Subsección 
+4ª de la Sección 3ª del capítulo I del Título I del Libro segundo de la LCSP. 
+ 
+Procederá la modificación del contrato en la forma y contenido señalado en el artículo 204 
+pudiendo afectar hasta un 20% del precio inicial del contrato (excluyendo las posibles 
+prórrogas) en el supuesto de que sea necesario, incrementar el número de nuevas filiales, 
+nuevas categorías de cálculo de emisiones, cambios o adaptaciones normativos, así como la 
+
+--- página 13 ---
+incorporación de nuevas funcionalidades que resulten necesarias para garantizar la 
+adecuada prestación del contrato, sin que las modificaciones puedan alterar la naturaleza 
+global del contrato. En cuanto a las modificaciones no previstas se estará al artículo 205 de la 
+LCSP.  
+ 
+1.7. Revisión de Precios 
+ 
+Con carácter general en el presente contrato no procederá la revisión de precios. 
+ 
+ 
+ 
+2. CRITERIOS DE VALORACIÓN 
+ 
+Los criterios de adjudicación son los señalados en el cuadro establecido a continuación, con la 
+ponderación atribuida a cada uno de ellos. 
+ 
+2.1. Pesos y puntuación de los distintos criterios de valoración  
+ 
+A los efectos de lo previsto en el artículo 145 de la LCSP, la valoración de las ofertas recibidas 
+se realizará de acuerdo con la siguiente tabla de pesos y puntos. 
+ 
+ 
+Concepto Peso Factores Puntos 
+Criterios evaluables mediante fórmulas matemáticas 
+Oferta económica 100% Precio 100 
+TOTAL 100 
+ 
+ 
+Precio (hasta 100 puntos) 
+ 
+Se asignará la puntuación máxima a la oferta más baja, y el resto de las ofertas, se puntuará 
+en proporción inversa a aquella, según la fórmula: 
+ 
+P=PM x OMB/O 
+ 
+donde P es la puntuación de cada oferta, PM es la puntuación máxima, OMB la cantidad a la 
+que asciende la oferta más baja y O es la oferta a puntuar. 
+ 
+3. ADJUDICACIÓN   
+ 
+Reunida la Mesa de Contratación, se adjudicará en el plazo máximo de 30 días naturales, 
+desde el cierre del plazo de presentación. La adjudicación recaerá en la oferta más ventajosa 
+de acuerdo con los criterios de adjudicación establecidos en el punto anterior. 
+ 
+La adjudicación podrá no recaer en la oferta más ventajosa calidad/precio si, a la vista del 
+informe técnico, se considera que contiene valores desproporcionados o anormales. 
+
+--- página 14 ---
+ 
+En el caso en que el órgano de contratación desista del procedimiento de adjudicación o 
+decida no adjudicar o celebrar un contrato para el que se haya efectuado la correspondiente 
+convocatoria, lo notificará a los candidatos o licitadores, informando también a la Comisión 
+Europea de esta decisión cuando el contrato haya sido anunciado en el «Diario Oficial de la 
+Unión Europea». 
+ 
+La decisión de no adjudicar o celebrar el contrato o el desistimiento del procedimiento podrán 
+acordarse por el órgano de contratación antes de la formalización. En estos casos se 
+compensará a los candidatos aptos para participar en la licitación o licitadores por los gastos 
+en que hubiesen incurrido en la forma prevista en el anuncio o en el pliego. 
+ 
+La licitación podrá declararse desierta si ninguna de las proposiciones presentadas fuera 
+admisible con arreglo a la propuesta técnica y a los criterios de capacidad y solvencia del 
+presente pliego, o si ninguna de las proposiciones presentadas se considera adecuada. 
+ 
+PROPUESTA DE ADJUDICACIÓN 
+ 
+Si alguna proposición no guardase concordancia con la documentación presentada y 
+admitida, excediese el importe del Presupuesto de la licitación, variara sustancialmente el 
+modelo establecido, comportase error manifiesto en el importe de la proposición, tenga 
+errores, omisiones o tachaduras que impidan conocer en qué términos en los que está 
+formulada o existiese reconocimiento por parte del licitador de que adolece de error o 
+inconsistencia que la hagan inviable, será desechada mediante resolución motivada por la 
+Mesa de Contratación.   
+ 
+A la vista de todo lo actuado, la Mesa de Contratación, si hubiere detectado alguna oferta en 
+situación de anormalidad elaborará el correspondiente informe. Los parámetros objetivos que 
+deberán permitir identificar los casos en que una Oferta se considere anormal están previstos 
+en el presente Pliego, considerándose indiciaria de anormalidad cualquier oferta de la que se 
+presuma su inviabilidad en su conjunto, o por haber sido formulada en términos que la hacen 
+anormalmente baja. Dichas ofertas podrán ser excluidas del procedimiento de licitación previa 
+tramitación del procedimiento del artículo 149 de la LCSP. 
+ 
+Seguidamente procederá al análisis y ponderación de las proposiciones finalmente admitidas, 
+clasificando por orden decreciente las proposiciones y formulando la propuesta a fin de que 
+el órgano de Contratación decida lo que estime procedente. 
+ 
+El desempate, caso de producirse, se tramitará conforme a lo establecido en la LCSP. 
+ 
+Una vez aceptada la propuesta de la Mesa por el Órgano de Contratación, el licitador que 
+haya presentado la mejor oferta, será requerido, en su caso, para que en el plazo máximo de 
+10 días hábiles presente la documentación justificativa a las que se refiere el artículo 140 de la 
+LCSP y de disponer de los medios que fueran razonables y que se hubiera comprometido a 
+aportar para la ejecución del contrato conforme al artículo 76.2 
+ 
+En particular el licitador que haya presentado la mejor oferta, así como todas las empresas 
+integrantes de la UTE si hubiera sido ésta la adjudicataria, cuando INFORMA así lo requiera, 
+deberán presentar la documentación acreditativa de las circunstancias referidas en la 
+declaración responsable: 
+ Si fuera persona jurídica, la escritura de constitución, estatutos o acto fundacional por 
+el que se regule su actividad. Inscritos en el Registro que corresponda y el NIF. 
+
+--- página 15 ---
+ Si se trata de empresario individual el DNI. 
+ La capacidad de obrar de los empresarios no españoles (UE) por la inscripción en el 
+registro que proceda conforme a la legislación del Estado donde estén domiciliados. 
+ Poderes de las personas que comparezcan acompañados de las Escrituras en las que 
+se otorgaron, junto a los DNIs de los representantes. 
+ El cumplimiento de sus obligaciones tributarias y con la Seguridad Social, si no lo 
+hubiesen hecho previamente. 
+ La designación del responsable del contrato designado por el adjudicatario. 
+ 
+Si el licitador no cumpliera con los anteriores requisitos o cualesquiera otros exigibles, resultando 
+defectos subsanables, el órgano de Contratación le requerirá para que los subsane en el plazo 
+improrrogable de dos días. Incumplido dicho plazo el Órgano de Contratación se entenderá 
+que el licitador ha retirado su oferta, procediéndose a recabar la documentación al siguiente 
+licitador por el orden en que hayan quedado clasificadas las Ofertas. 
+ 
+Si el adjudicatario no hubiera presentado los documentos que en su casos se le hubiesen 
+podido requerir en los términos previstos anteriormente en este Pliego y no comparece en el 
+lugar, día y hora previstos para la formalización del contrato, podrá adjudicarse el contrato al 
+licitador o licitadores siguientes por el orden en que hayan quedado clasificadas su ofertas, 
+siempre que el nuevo adjudicatario preste su conformidad y presente los documentos en el 
+plazo que se le señale para la formalización. 
+ 
+Publicidad de la Adjudicación 
+ 
+La adjudicación del presente concurso se comunicará a través de la Plataforma de 
+Contratación del Sector Público. 
+ 
+El Órgano de Contratación notificará a los licitadores por medios electrónicos la adjudicación 
+del contrato, debiendo publicarse en la Plataforma de Contratación. 
+ 
+4. CONTRATO 
+ 
+El contrato tiene carácter privado y la naturaleza propia de un contrato mixto de prestación 
+de suministros y servicios. El contrato se regirá en su preparación y adjudicación por el presente 
+pliego de condiciones, por el pliego de prescripciones técnicas, por las Instrucciones de 
+Contratación aprobadas por INFORMA y por la normativa mercantil y administrativa aplicable. 
+Los efectos, modificación y extinción del contrato se regularán por las normas de derecho 
+privado que resulten de aplicación.  
+ 
+INFORMA firmará un contrato con el adjudicatario en un plazo no superior a 30 días naturales 
+desde la adjudicación, que contendrá las condiciones reflejadas en los Pliegos de licitación 
+junto con la propuesta que resultare adjudicada.  
+ 
+4.1. Formalización del Contrato 
+ 
+El contrato se formalizará en documento privado o, cuando así lo exija el adjudicatario, en 
+escritura pública, en cuyo caso serán de cuenta del adjudicatario los gastos derivados de la 
+formalización del contrato, incluidos los tributos y todos los demás exigibles por las disposiciones 
+vigentes que origine la adjudicación. 
+ 
+
+--- página 16 ---
+La firma del contrato se realizará preferentemente electrónicamente a través de una 
+plataforma de firma electrónica debidamente acreditada. 
+ 
+Sin el requisito de la formalización no podrá iniciarse la ejecución del contrato. 
+ 
+4.2. Ejecución del contrato 
+ 
+1.- El contrato se ejecutará con sujeción a lo previsto en su clausulado, en los Pliegos, de 
+acuerdo con las instrucciones que, en su caso, para su interpretación diere al adjudicatario el 
+órgano de contratación. A todos los efectos, el Adjudicatario queda obligado a prestar los 
+Servicios de acuerdo con los niveles de calidad, eficacia, tiempos de ejecución y de respuesta 
+y disponibilidad o entrega contractualmente exigibles y asume que la observancia de la 
+planificación fijada tiene carácter esencial en la prestación de los servicios.  
+ 
+Se establece como condición especial de ejecución en los contratos cuya ejecución implique 
+la cesión de datos por las entidades del sector público al contratista , la obligación de 
+someterse a la normativa nacional y de la Unión Europea en materia de protección de datos, 
+teniendo esta obligación carácter de obligación esencial, de conformidad con lo dispuesto 
+en la letra f) del apartado 1 del artículo 211 de la LCSP. 
+ 
+ 
+2.- La ejecución del contrato se realizará a riesgo y ventura del adjudicatario. El adjudicatario 
+será responsable de la calidad de los servicios, así como de las consecuencias que se 
+deduzcan para INFORMA o para terceros de las omisiones, errores, métodos inadecuados o 
+conclusiones incorrectas en la ejecución del contrato.  
+ 
+3.- Será obligación del adjudicatario indemnizar todos los daños y perjuicios que se causen a 
+terceros como consecuencia de las operaciones que requiera la ejecución del contrato, de 
+acuerdo con lo dispuesto en el artículo 196 de la LCSP.  
+ 
+ 
+4,-El contrato se ejecutará con sujeción a lo previsto en su clausulado, en los 
+Pliegos, de acuerdo con las instrucciones que, en su caso, para su interpretación 
+diere al adjudicatario el órgano de contratación. A todos los efectos, el 
+Adjudicatario queda obligado a prestar el suministro de acuerdo con los niveles de 
+calidad, eficacia, tiempos de ejecución y de respuesta y disponibilidad o entrega 
+contractualmente exigibles. 
+ 
+5.-  Garantía. Si los bienes se encuentran en buen estado y con arreglo a las prescripciones 
+técnicas, la persona designada por INFORMA los dará por recibidos, levantándose la 
+correspondiente acta, que deberá ser firmada por los concurrentes a la recepción, 
+comenzando entonces el plazo de garantía.  
+ 
+Si los bienes no se hallan en estado de ser recibidos se hará constar así en el acta de recepción 
+y se darán las instrucciones precisas al adjudicatario para que se subsane los defectos 
+observados o proceda a un nuevo suministro de conformidad con lo pactado.  
+ 
+5.1. El plazo de garantía comenzará a contar desde la fecha de la recepción de los bienes 
+dada la conformidad del suministro objeto del contrato. 
+ 
+
+--- página 17 ---
+5.2. Si durante el plazo de garantía se acreditase la existencia de vicios o defectos en los bienes 
+suministrados, INFORMA tendrá derecho a reclamar del adjudicatario la reposición de los que 
+resulten inadecuados o la reparación de los mismos fuese suficiente. Durante este plazo de 
+garantía tendrá derecho el adjudicatario a conocer y ser oído sobre la aplicación de los bienes 
+suministrados. 
+ 
+En el supuesto de que INFORMA estimase, durante el plazo de garantía, que los bienes 
+suministrados no son aptos para el fin pretendido, como consecuencia de los vicios o defectos 
+observados en ellos e imputables al adjudicatario y exista la presunción de que la reposición o 
+reparación de dichos bienes no serán bastantes para lograr aquel fin, podrá, antes de expirar 
+dicho plazo, rechazar los bienes dejándolos de cuenta del contratista y quedando INFORMA 
+exenta de la obligación del pago o, teniendo derecho, en su caso, a la recuperación del 
+precio satisfecho.  
+ 
+Terminado el plazo de garantía sin que INFORMA haya formalizado alguno de los reparos o la 
+denuncia a que se refieren los apartados 1 y 3 del artículo 305 LCSP, el adjudicatario quedará 
+exento de responsabilidad por razón de los bienes suministrados 
+ 
+4.- Ejecución defectuosa 
+ 
+4.1.- En el caso de cumplimiento defectuoso de la prestación objeto del contrato o por la baja 
+en el rendimiento convenido, se requerirá la realización de las prestaciones contratadas y la 
+subsanación de los defectos observados, sin perjuicio de la aplicación de las penalizaciones 
+económicas que se convengan y/o de la eventual resolución del contrato a instancias de 
+INFORMA con indemnización de daños y perjuicios causados en todo caso.  
+ 
+4.2.- En caso de incumplimiento, por causa imputable al adjudicatario, INFORMA podrá 
+rechazar la prestación efectuada quedando exenta de la obligación de pago y tendrá 
+derecho a la recuperación del precio satisfecho y a la indemnización de los daños y perjuicios 
+causados para el caso de resolución. 
+ 
+4.3- Cualquiera que sea el tipo de suministro, el adjudicatario no tendrá derecho a 
+indemnización por causa de pérdidas, averías o perjuicios ocasionados en los bienes antes 
+de su entrega a INFORMA, salvo que éste hubiese incurrido en mora al recibirlos. 
+Cuando el acto formal de la recepción de los bienes sea posterior a su entrega, 
+INFORMA será responsable de la custodia de los mismos durante el tiempo que medie 
+entre una y otra. 
+ 
+ 
+
+--- página 18 ---
+ 
+                                                                                                          
+ 
+5.- Obligaciones de las partes 
+5.1.- Además de los derechos y obligaciones generales derivados del régimen jurídico 
+del contrato y de los Pliegos, se atenderá especialmente a las siguientes obligaciones:  
+5.1.1.- El adjudicatario queda obligado, con respecto al personal que emplee a su 
+costa para atender a sus obligaciones en la ejecución del contrato, al cumplimiento 
+de las disposiciones legales y de las que puedan promulgarse durante la ejecución 
+del mismo. Dicho personal dependerá exclusivamente del adjudicatario, el cual 
+tendrá todos los derechos y deberes inherentes a su calidad de empleador respecto 
+del mismo, siendo las sociedades auditadas totalmente ajenas a dichas relaciones 
+laborales.  
+5.1.2.- El adjudicatario se obliga, bajo su exclusiva responsabilidad, al cumplimiento 
+de las disposiciones legales vigentes en materia tributaria, relaciones laborales, 
+Seguridad Social, de protección de datos de carácter personal y cualesquiera otras 
+de carácter general.  
+5.1.3.- Prestar los Servicios con la diligencia de un profesional experto en el objeto 
+del contrato, conforme a los estándares, calidad, acuerdos de nivel de servicio y 
+plazos, en su caso, previstos en el contrato, siendo responsable de la observancia 
+de dicha diligencia en cuantos trabajos, documentos y entregables sean realizados 
+en ejecución del mismo. 
+5.1.4.- Asignar a la ejecución del contrato personal cualificado, con conocimientos 
+en la materia y la competencia profesional necesaria, y si se hubiera determinado 
+en los Pliegos o en la Oferta, los profesionales establecidos 
+5.1.5.- Cumplir con la normativa de toda índole que resulte de aplicación a la 
+ejecución del contrato.  
+Cumplir con la normativa de seguridad de la información de INFORMA que se 
+ponga a disposición del adjudicatario. 
+5.1.6.- El Adjudicatario deberá recabar, con carácter previo a la publicación en 
+medios de cualquier noticia relativa a la adjudicación y firma del contrato, la 
+conformidad de INFORMA a la misma. 
+ 
+ 
+6.- Reglas especiales respecto del personal del adjudicatario 
+Corresponde exclusivamente al adjudicatario la selección del personal que, formará 
+parte de los respectivos equipos de trabajo adscritos a la ejecución del contrato, sin 
+perjuicio de la verificación por INFORMA del cumplimiento de los requisitos exigidos en 
+los Pliegos. INFORMA podrá en todo caso exigir la participación de un determinado 
+nivel de servicio para una actuación concreta. 
+Dicho personal dependerá exclusivamente del adjudicatario, el cual tendrá todos los 
+derechos y deberes inherentes a su calidad de empleador respecto al mismo, siendo 
+la Administración contratante del todo ajena a dichas relaciones laborales.  
+El adjudicatario procurará que exista estabilidad en el equipo de trabajo, y que las 
+variaciones en su composición sean puntuales y obedezcan a razones justificadas, en 
+orden a no alterar el buen funcionamiento del Servicio, informando en todo momento 
+a INFORMA. 
+
+--- página 19 ---
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES 
+  
+ 
+ 
+ 19 
+En el caso que se haya exigido la adscripción de medios personales con un 
+determinado perfil profesional a la ejecución del contrato, INFORMA se reserva el 
+derecho de efectuar, durante su vigencia, entrevistas personales o pruebas de 
+cualificación escritas y/o a solicitar al adjudicatario cuanta documentación adicional 
+estime necesaria con la finalidad de comprobar  el cumplimiento de los requisitos 
+establecidos en el Pliego de Prescripciones Técnicas en materia de modificación  de 
+los recursos asignados. 
+El adjudicatario asume la obligación de ejercer de modo real, efectivo y continuo, 
+sobre el personal integrante del equipo de trabajo encargado de la ejecución del 
+contrato, el poder de dirección inherente a todo empresario. En particular, asumirá la 
+negociación y pago de los salarios, la concesión de permisos, licencias y vacaciones, 
+la sustitución de los trabajadores en casos de baja o ausencia, las obligaciones legales 
+en materia de Seguridad Social, incluido el abono de cotizaciones y el pago de 
+prestaciones, cuando proceda, las obligaciones legales en materia de prevención de 
+riesgos laborales, el ejercicio de la potestad disciplinaria, así como cuantos derechos 
+y obligaciones se deriven de la relación contractual entre el empleado y el 
+empleador. A estos efectos la empresa adjudicataria declara que mantiene y 
+mantendrá a todos sus trabajadores en alta en la Seguridad Social y que está y estará 
+al corriente de pago de las cuotas correspondientes, asumiendo cualquier 
+responsabilidad que se pueda derivar en materia de Seguridad Social o de infracción 
+laboral. 
+El adjudicatario garantiza la más absoluta indemnidad frente a INFORMA por 
+cualquier responsabilidad que pudiera derivarse de las relaciones con su personal y, 
+en su caso, con el personal subcontratado. No obstante, si por incumplimiento de 
+estos compromisos se derivara alguna responsabilidad para INFORMA, el 
+adjudicatario responderá por dichas responsabilidades, incluidos cualesquiera gastos 
+y/o costas judiciales que ocasionare la defensa. 
+El adjudicatario velará especialmente porque los trabajadores adscritos a la 
+ejecución del contrato desarrollen su actividad sin extralimitarse en las funciones 
+desempeñadas respecto de la actividad delimitada en los Pliegos como objeto del 
+contrato.  
+El personal del adjudicatario que se desplace a las dependencias de INFORMA se 
+someterá a las normas de seguridad en el trabajo y de prevención de riesgos laborales 
+establecidas por este último. INFORMA quedará exonerado de cualquier 
+responsabilidad sobre el personal de la empresa contratante en materia de riesgos 
+laborales por la inobservancia por parte de dicho personal de las normas de 
+seguridad en el trabajo y de prevención de riesgos laborales establecidas por 
+INFORMA para sus propias dependencias. Este personal desplazado mantendrá los 
+horarios de trabajo internos del adjudicatario excepto en aquellos tramos en los que 
+INFORMA considerara que no puede garantizar una correcta seguridad en sus puestos 
+de trabajo por la razón que fuera. 
+El adjudicatario deberá designar un Coordinador del Servicio, integrado en su propia 
+plantilla, que tendrá, entre sus obligaciones, las siguientes: 
+ Actuar como interlocutor del adjudicatario frente a INFORMA, canalizando la 
+comunicación entre el adjudicatario y el personal integrante del equipo de 
+trabajo adscrito al contrato, por un lado, y INFORMA, de otro lado, en todo lo 
+relativo a las cuestiones derivadas de la ejecución del contrato.  
+
+--- página 20 ---
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES 
+  
+ 
+ 
+ 20 
+ Distribuir el trabajo entre el personal encargado de la ejecución del contrato, e 
+impartir a dichos trabajadores las órdenes e instrucciones de trabajo que sean 
+necesarias en relación con la prestación del Servicio contratado. 
+ Supervisar el correcto desempeño por parte del personal integrante del equipo 
+de trabajo de las funciones que tiene encomendadas, así como controlar la 
+asistencia de dicho personal al puesto de trabajo. 
+ Organizar el régimen de vacaciones del personal adscrito a la ejecución del 
+contrato, debiendo a tal efecto coordinarse adecuadamente el adjudicatario 
+con INFORMA, a efectos de no alterar el buen funcionamiento del Servicio. 
+ Informar a INFORMA acerca de las variaciones, ocasionales o permanentes, en 
+la composición del equipo de trabajo adscrito a la ejecución del contrato. 
+El adjudicatario mantendrá indemne a INFORMA de cuantas consecuencias se 
+deriven del incumplimiento de lo establecido en el presente apartado. 
+En el caso de que el servicio se preste de manera continuada en las dependencias 
+de INFORMA el adjudicatario deberá, en su caso, garantizar el cumplimiento de las 
+obligaciones que le correspondan en caso de que asigne a la prestación de los 
+Servicios a trabajadores autónomos que ostenten la condición de económicamente 
+dependientes del adjudicatario, debiendo facilitar a INFORMA copia de la 
+documentación justificativa del cumplimiento de tales obligaciones con carácter 
+previo al inicio de la ejecución Contrato.  
+ Ocupar espacios de trabajo diferenciados de los empleados de INFORMA.  
+ Utilizar distintivos que identifiquen a su personal. 
+ 
+7.- Seguridad y confidencialidad.  
+7.1.- El adjudicatario queda obligado a tratar de forma confidencial y reservada la 
+información recibida, así como a tratar los datos conforme a las instrucciones y 
+condiciones de seguridad que dicte el responsable del contrato.  
+El adjudicatario deberá respetar el carácter confidencial de aquella información a la 
+que tenga acceso con ocasión de la ejecución del contrato a la que se le haya dado 
+el referido carácter o que, por su propia naturaleza, deba ser tratada como tal y 
+estará obligado a guardar sigilo respecto a los datos o antecedentes que, no siendo 
+públicos o notorios, estén relacionados con el objeto del contrato, de los que tenga 
+conocimiento con ocasión del mismo, durante la vigencia del contrato y los cinco 
+años posteriores al vencimiento de éste en los términos del artículo 133.2 de la LCSP.  
+7.2.- El adjudicatario no podrá utilizar para sí ni proporcionar a terceros dato alguno 
+de los trabajos contratados ni publicar, total o parcialmente, el contenido de los 
+mismos sin autorización escrita del órgano de contratación.  
+El adjudicatario adquiere, igualmente, el compromiso de la custodia fiel y cuidadosa 
+de la documentación que se le entregue para la realización del trabajo y, con ello, la 
+obligación de que ni la documentación ni la información que ella contiene o a la que 
+acceda como consecuencia del trabajo llegue, en ningún caso, a poder de terceras 
+personas.  
+7.3.- El órgano de contratación no podrá divulgar la información facilitada por los 
+empresarios que éstos hayan designado como confidencial, carácter que afecta, en 
+
+--- página 21 ---
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES 
+  
+ 
+ 
+ 21 
+particular, a los secretos técnicos o comerciales y a los aspectos confidenciales de las 
+ofertas.  
+ 
+Los licitadores deberán indicar que documentos (o parte de los mismos) o datos de 
+los incluidos en las ofertas tienen la consideración de “confidenciales”, sin que resulten 
+admisibles las declaraciones genéricas de confidencialidad de todos los documentos 
+o datos de la oferta. La condición de confidencial deberá reflejarse claramente 
+(sobreimpresa, al margen o de cualquier otra forma identificable) en el propio 
+documento que tenga tal condición, señalando además los motivos que justifican tal 
+consideración. No se considerarán confidenciales documentos que no hayan sido 
+expresamente calificados como tales por los licitadores. 
+ 
+ 
+7.4.- La infracción de estos deberes por parte del adjudicatario generará, además de 
+responsabilidad contractual, la responsabilidad de índole civil, penal o administrativa 
+que corresponda con arreglo a la legislación vigente. En todo caso, el adjudicatario 
+será responsable de los daños y perjuicios que se deriven del incumplimiento de esta 
+obligación.  
+ 
+8.-Protección de datos personales 
+ 
+_8_.1 Tratamiento de los datos personales aportados en las propuestas o en el marco de la 
+relación que, en su caso, se derive de la formalización del correspondiente contrato. 
+ 
+INFORMA tratará, para la resolución de la presente licitación y para la eventual posterior 
+formalización del correspondiente contrato, los datos personales suministrados por los 
+licitadores, entre ellos, los del representante legal y/o de las personas de contacto que se 
+señalen en la propuesta, así como cualquier otro dato que pueda ser comunicado por el 
+adjudicatario. 
+INFORMA es responsable de dicho tratamiento y garantiza el cumplimiento de las 
+obligaciones derivadas del régimen normativo en vigor en cada momento. En cumplimiento 
+con la normativa de protección de datos vigente -Reglamento (UE) 2016/679 del Parlamento 
+Europeo y del Consejo, de 27 de abril de 2016 (en adelante, RGPD), la Ley Orgánica 3/2018, 
+de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales 
+(en adelante, LOPDGDD) y restante normativa de protección de datos personales en vigor- 
+INFORMA informa de que: 
+ 
+- El responsable del tratamiento es INFORMA D&B, S.A.U. (S.M.E.) con CIF A-80192727 y 
+domicilio social en Avenida de Europa, 19 - 28108 Alcobendas (Madrid). 
+ 
+- El tratamiento encuentra sus bases legitimadoras en: 
+- La obligación legal de INFORMA de cumplimiento de sus Normas de 
+contratación aprobadas de acuerdo con la normativa de contratación 
+pública, así como 
+
+--- página 22 ---
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES 
+  
+ 
+ 
+ 22 
+- En el interés legítimo de INFORMA en adjudicar el contrato por la presente 
+licitación y la libertad de los licitadores que tienen interés en resultar 
+adjudicatarios, lo cual se enmarca en el inicio de una relación pre-negocial que 
+puede transformarse en relación negocial. 
+- Las finalidades del tratamiento son permitir la gestión del procedimiento de licitación; y 
+en su caso, la formalización del contrato, en cuyo caso, el tratamiento de datos 
+asociado a la ejecución del mismo, incluidos los plazos de conservación, quedará 
+estipulado en el mismo.  
+- La adjudicación será publicada en la Plataforma de Contratación del Sector Público, 
+de acceso público, de manera que los datos personales antes indicados podrán ser 
+consultados por todo tercero que acceda a la misma.  
+- Igualmente, de conformidad con la legislación vigente, INFORMA tiene la obligación 
+legal de comunicar bajo requerimiento formal para los fines legalmente establecidos, 
+la información y datos obrantes en el expediente de contratación a los siguientes 
+destinatarios (Organismos y terceros): Jueces y Tribunales, Junta Consultiva de 
+Contratación Administrativa del Ministerio de Hacienda y Función Pública, Intervención 
+General de la Administración del Estado (IGAE), el Tribunal de Cuentas, Fuerzas y 
+Cuerpos de Seguridad, Autoridades con competencia en la materia, así como en 
+general a letrados, abogados, auditores y a cualesquiera otros terceros a quienes 
+INFORMA tuviese la obligación o el interés legítimo de comunicar los datos para poder 
+cumplir con la normativa vigente que sea de aplicación a INFORMA, incluidos aquellos 
+derivados de obligaciones de transparencia. 
+- No está prevista la transferencia internacional de Datos Personales, esto es, a países 
+ubicados fuera del Espacio Económico Europeo o sin un nivel de protección 
+equivalente reconocido. 
+- El tratamiento no conlleva la toma de decisiones automatizas, ni elaboración de perfiles.  
+- El plazo durante el cual se conservarán los Datos Personales, en relación con las 
+finalidades indicadas, es el de prescripción de las correspondientes acciones que 
+pudieran derivarse.  
+- Los interesados tienen derecho a solicitar a INFORMA el ejercicio de sus derechos en 
+ relación a sus Datos Personales, dirigiéndose por escrito a la siguiente dirección postal: 
+INFORMA (“Protección de Datos”), Avda. de Europa, 19 -28108 Alcobendas 
+(Madrid) o  mediante correo electrónico a: dpo@informa.es, dónde también podrán 
+contactar con su Delegado de Protección de Datos . En este sentido, INFORMA, como 
+responsable del  tratamiento, garantiza a los interesados el ejercicio de los 
+derechos de protección de  datos legalmente establecidos, entre los que se 
+incluyen los derechos de acceso,  rectificación, supresión, limitación de 
+tratamiento, oposición, portabilidad y exclusión  de decisiones automatizadas.  
+- La presentación de una oferta o proposición bajo el presente Pliego que incluya la 
+ entrega a INFORMA de documentación en la que se hagan constar Datos Personales 
+ del representante legal y/o de las personas de contacto que se señalen en la 
+ propuesta y/o de los comunicados por el adjudicatario para la formalización del 
+ contrato conlleva: 
+ Que los interesados han sido debidamente informados sobre el tratamiento de sus 
+datos personales por parte de INFORMA. 
+
+--- página 23 ---
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES 
+  
+ 
+ 
+ 23 
+ Que en el caso de que en la propuesta de los licitadores se incluyan Datos 
+Personales, o se suministren en fase de preparación del contrato, de otras personas 
+(bien personas integrantes de la entidad oferente, bien de otras empresas que 
+forman parte de la propuesta presentada, u otras), es aplicable todo lo 
+anteriormente indicado a las mismas. El licitador deberá informar a todas ellas del 
+tratamiento de sus Datos Personales de conformidad con lo establecido 
+anteriormente y, en su caso, recoger su aceptación para su inclusión en la licitación, 
+exonerando de toda responsabilidad a INFORMA. 
+ 
+_8_.2 Tratamiento de datos personales en la prestación del servicio objeto de licitación. 
+ 
+Sin perjuicio de lo estipulado de manera particular en materia de protección de datos, en el 
+Pliego de Prescripciones Técnicas Particulares, el contratista deberá respetar la Ley Orgánica 
+3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos 
+digitales, el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril 
+de 2016, así como las disposiciones que en materia de protección de datos se encuentren 
+en vigor a la adjudicación del contrato o que puedan estarlo durante su vigencia. 
+ 
+ En el supuesto de que el adjudicatario trate datos personales por cuenta propia, 
+como consecuencia de la prestación del servicio objeto del contrato, actuará en 
+calidad de responsable del tratamiento y así constará en el Pliego de Prescripciones 
+Técnicas. 
+ En el supuesto de que el adjudicatario trate datos personales por cuenta de INFORMA 
+y siguiendo sus instrucciones, como consecuencia de la prestación del servicio objeto 
+de la licitación, actuará en calidad de encargado del tratamiento y estará a lo 
+dispuesto en el correspondiente Acuerdo de Encargo de Tratamiento, en los términos 
+recogidos en el Anexo I del Pliego de Prescripciones Técnicas Particulares.  
+ 
+En los dos supuestos anteriores, se deberá tener en cuenta lo dispuesto en el presente Pliego 
+en lo que respecta a las condiciones especiales de ejecución, subcontratación, resolución, 
+finalidad de la cesión de datos y obligaciones del contratista.  
+ 
+El deber de secreto sobre la información que se obtenga durante la duración del objeto del 
+contrato, por lo que respecta al cumplimiento de la normativa en materia de protección de 
+datos personales, se mantendrá por tiempo indefinido. 
+ 
+ 
+9.- Imposibilidad de cesión del contrato y subcontratación 
+ 
+El adjudicatario no podrá ceder el contrato en todo o en parte, ni los derechos 
+derivados del mismo, ni podrá subcontratar su cumplimento o ejecución sin 
+autorización previa y por escrito de INFORMA. 
+ 
+A estos efectos no tendrá la consideración de subcontratación los trabajos realizados 
+por terceras empresas que formen parte del grupo empresarial al que pertenezca el 
+adjudicatario. La empresa adjudicataria del contrato será, en todo momento, ante 
+INFORMA, la responsable y la interlocutora de las actividades ejecutadas. 
+ 
+Por otra parte, en cualquier momento y sin otro requisito que la comunicación al 
+Adjudicatario con 15 días de antelación junto con la aceptación por escrito por parte 
+
+--- página 24 ---
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES 
+  
+ 
+ 
+ 24 
+del cesionario de los términos y condiciones de este Contrato, INFORMA podrá ceder 
+su posición jurídica y los derechos y obligaciones derivados del Contrato a cualquier 
+Sociedad en la que Informa, S.A.U. (S.M.E.) ostente directa o indirectamente una 
+participación mayoritaria en su capital social. 
+ 
+ 
+10.- Resolución del Contrato 
+ 
+ 
+ El contrato con el adjudicatario podrá terminar en los siguientes casos: 
+  
+10.1. Extinción por vencimiento del plazo contractual. El Contrato se extinguirá a la 
+conclusión del período de duración. 
+ 
+10.2. Resolución por incumplimiento del PROVEEDOR y con otra justa causa. Serán 
+motivos de resolución anticipada del contrato a instancias de INFORMA, además de 
+los señalados anteriormente en el Pliego de cláusulas administrativas y de 
+prescripciones técnicas, los siguientes: 
+ 
+a) La inobservancia grave y/o reiterada por parte del adjudicatario de 
+cualesquiera obligaciones previstas a su cargo en el Pliego de 
+Prescripciones Técnicas y cláusulas Administrativas y sin que la misma sea 
+subsanada e indemnizada en los plazos que INFORMA indique. 
+ 
+b) La circunstancia de hallarse el adjudicatario en causa de disolución, o 
+haya cesado o tenga intención de cesar en el ejercicio de su actividad o 
+el caso en que un tercero ejecutara una garantía real o derecho sobre la 
+totalidad o una parte sustancial de los activos del PROVEEDOR. 
+c) En el caso de cambio de control, fusión, absorción, escisión, transmisión de 
+rama de actividad, segregación o cualquier otra reorganización 
+societaria o modificación estructural que afectara/involucrara al 
+adjudicatario, éste deberá comunicar a INFORMA dichas circunstancias 
+antes de que se produzcan y INFORMA podrá optar por la continuidad o 
+la resolución anticipada y con justa causa. A tales efectos: 
+ 
+(i) Si la entidad resultante o cualquiera de las involucradas en esas 
+modificaciones estructurales o cambio de control no reuniera los requisitos 
+de capacidad y de solvencia económica y técnica definidos en este 
+Pliego o fuera una entidad cuyo objeto social fuera competencia de 
+INFORMA o de las compañías de su Grupo, INFORMA podrá resolver con 
+justa causa el contrato, siendo esta resolución por causa imputable al 
+adjudicatario. 
+ 
+(ii) INFORMA tendrá derecho a exigir las justificaciones y acreditaciones 
+oportunas acerca de la capacidad y solvencia económica y técnica. 
+(iii) La entidad resultante deberá comprometerse a continuar prestando los 
+Servicios en las mismas condiciones pactadas, así como a prestar cuantas 
+garantías puedan exigirse por INFORMA en atención al riesgo derivado de 
+la modificación o reorganización societaria y/o del cambio de control. 
+
+--- página 25 ---
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES 
+  
+ 
+ 
+ 25 
+ 
+No afectará a la continuidad del Contrato ni a sus condiciones pactadas ningún 
+supuesto de cambio de control, fusión, absorción, escisión, transmisión de rama de 
+actividad, segregación, adquisición de nuevas empresas en el Grupo o cualquier otra 
+reorganización societaria de INFORMA ni de las empresas de Grupo. 
+ 
+a) La concurrencia sobrevenida de una situación de conflicto de intereses 
+en el adjudicatario que comprometa o pudiera comprometer su 
+necesaria imparcialidad, objetividad e independencia. 
+b) La falsedad de cualquiera de las manifestaciones otorgadas en el proceso 
+de contratación y/o en el Contrato. 
+ 
+Como reglas comunes a los supuestos de resolución a instancias de INFORMA por 
+incumplimiento del PROVEEDOR o por otra justa causa: 
+ 
+ En el caso de que INFORMA resuelva el presente Contrato debido al 
+incumplimiento del adjudicatario o por otra justa causa, éste queda obligado a 
+indemnizar tanto a INFORMA por los daños y perjuicios causados en cualquiera 
+que sea su naturaleza, que se deriven directa o indirectamente de la prestación 
+de los Servicios o tengan causa en el incumplimiento o cumplimiento defectuoso 
+o extemporáneo.  
+ 
+ El anterior deber indemnizatorio es adicional y no se verá compensado ni 
+minorado con las penalizaciones económicas previstas en el Pliego de 
+Prescripciones Técnicas que INFORMA pudiera aplicar o hubiera aplicado por el 
+hecho que motiva la resolución contractual. 
+ 
+10.3. Resolución a instancias del Adjudicatario: A instancias del adjudicatario, será 
+causa de resolución la falta de pago por parte de INFORMA con mora superior a 3 
+meses, siempre que el retraso en el pago no sea debido a objeciones y disputas sobre 
+las facturas planteadas de buena fe por INFORMA y se haya otorgado un plazo no 
+inferior a 30 días para subsanar el incumplimiento, sin haberse subsanado el mismo.  
+ 
+A tales efectos, no se considerará en ningún caso retraso ni incumplimiento por parte 
+de INFORMA de su obligación de pago la negativa o demora en el pago de facturas 
+por razón de objeciones y disputas planteadas de buena fe acerca de los informes de 
+facturación o eventualmente facturación emitida. 
+ 
+ 
+10.4. Extinción por Caso Fortuito o Fuerza Mayor que afecte al Adjudicatario. Cuando 
+el Adjudicatario vea imposibilitado el cumplimiento de sus obligaciones a causa de 
+caso fortuito o fuerza mayor, deberá continuar realizando con empeño y buena fe 
+todos los esfuerzos comercial y técnicamente razonables y suficientes para el 
+restablecimiento de la prestación, así como deberá adoptar aquellas otras medidas 
+que sean conducentes para reanudar el cumplimiento de las obligaciones, para 
+minimizar el impacto de cualquier situación de desastre o de incapacidad de 
+prestación a causa de acontecimientos que supongan caso fortuito o fuerza mayor y 
+para restaurar la prestación de los servicios, asumiendo a su exclusiva cuenta el coste 
+de dichas medidas. 
+ 
+ 
+
+--- página 26 ---
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES 
+  
+ 
+ 
+ 26 
+ 
+10.5. Terminación a conveniencia. En cualquier momento durante la vigencia del 
+Contrato, INFORMA podrá cancelar el Contrato, sin necesidad de justa causa y a su 
+conveniencia, mediante preaviso escrito dirigido al adjudicatario con una antelación 
+mínima de 60 días naturales a la fecha en la que la terminación a conveniencia deba 
+tener lugar.  
+ 
+En este supuesto, INFORMA no quedará obligada a satisfacer al PROVEEDOR ninguna 
+indemnización por dicho desistimiento, quedando limitadas sus obligaciones 
+económicas a pagar al PROVEEDOR la totalidad de los pagos pendientes y gastos del 
+Servicio prestado debidamente acreditados y aprobados por INFORMA hasta la fecha 
+efectiva de terminación. 
+ 
+ 
+ 
+11. Miscelánea 
+ 
+11.1. Renuncia. Suscrito el contrato, no se entenderá que existe renuncia de las Partes 
+a alguno de los derechos reconocidos en el mismo o derivados del incumplimiento 
+salvo cuando dicha renuncia se haga de forma expresa y por escrito. Si alguna de las 
+Partes renunciara a alguno de los derechos derivados del Contrato o de cualquier 
+incumplimiento de la otra Parte de conformidad con el párrafo anterior, dicha renuncia 
+no podrá en modo alguno interpretarse como renuncia a cualquier otro derecho 
+derivado del Contrato o de cualquier incumplimiento de la otra Parte, aun cuando 
+sean similares.  
+ 
+11.2. Ineficacia parcial. Suscrito el Contrato, la ilicitud, invalidez o ineficacia de 
+cualquiera de las cláusulas del Contrato no afectará a la eficacia del resto. Dichas 
+cláusulas deberán reemplazarse o integrarse con otras que, siendo conformes a la ley, 
+respondan a la finalidad de las sustituidas, a los finales y requerimientos del servicio con 
+los que INFORMA ha concebido la licitación y al cumplimiento de la normativa 
+reguladora que afecta a INFORMA. 
+ 
+11.3. Comunicaciones contractuales. Suscrito el Contrato, todas las comunicaciones y 
+notificaciones que deban realizarse las Partes en virtud del Contrato o que estén 
+relacionadas con el mismo deberán efectuarse por escrito, en español y mediante 
+cualquier medio que acredite su recepción por la otra parte. 
+ 
+ 
+ 
+ 
+12. Jurisdicción Competente  
+ 
+ 
+El Contrato que firme el Adjudicatario contemplará la siguiente estipulación: 
+  
+Las Partes manifiestan expresa y formalmente su voluntad de aceptar el arbitraje como 
+único procedimiento para dirimir toda controversia acerca de la aplicación, ejecución 
+e interpretación del Contrato y sus Anexos 
+ 
+A estos efectos, convienen explícitamente que, con renuncia a ejercitar su derecho 
+ante la jurisdicción ordinaria, se someterán al arbitraje de Derecho de uno o más 
+
+--- página 27 ---
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES 
+  
+ 
+ 
+ 27 
+árbitros, en el marco de la Corte Española de Arbitraje con sede en Madrid, de 
+conformidad con su reglamento y Estatuto, y con arreglo al procedimiento en ellos 
+establecido. Queda estipulado asimismo que encomendarán a dicha Corte la 
+administración del arbitraje y la designación del árbitro o del tribunal arbitral y se 
+obligarán a cumplir tanto las resoluciones interlocutorias como el laudo que finalmente 
+se dicte. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Advertencia Importante para Licitadores 
+Se advierte a todos los participantes en este proceso de licitación que PLACSP solo envía correos a 
+los operadores económicos desde alguna de sus cuentas oficiales, bajo dominio vinculado al 
+Ministerio de Hacienda, en la actualidad @hacienda.gob.es. Asimismo, la cuenta oficial de 
+INFORMA como Poder no Adjudicador es proveedores@informa.es 
+Bajo ninguna circunstancia se solicitará que realice un pago para concurrir a la licitación, ni para la 
+presentación de ofertas, ni para la adjudicación o formalización del contrato. 
+ 
+Cualquier comunicación que no provenga de los canales oficiales o que solicite un pago debe 
+considerarse fraudulenta. En caso de recibir una comunicación de ese tipo, debe ignorarla y reportarla a 
+las autoridades competentes. 
+
+--- página 28 ---
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES 
+  
+ 
+ 
+ 28 
+ 
+5. ANEXOS 
+ 
+ 
+ANEXO I 
+MODELO DECLARACIÓN RESPONSABLE DEL CUMPLIMIENTO DE LAS CONDICIONES 
+EXIGIDAS LEGALMENTE PARA PODER CONTRATAR DE CONFORMIDAD CON LA LCSP 
+ 
+ 
+DON/DOÑA___________________________________________________ con D.N.I. número 
+______________________, domiciliado en _______________ calle de 
+________________________________, en representación de la Empresa 
+________________________________ domiciliada en ___________________ calle 
+de__________________________________ con C.I.F. _________________ constituida mediante 
+escritura ante el notario de 
+____________________________Don/ña_____________________________________ y con poderes 
+suficientes y vigentes, según escritura autorizada por el Notario_________________, del 
+día______________ núm de protocolo______________ con relación al expediente para la 
+contratación de _______________________.  
+ 
+ 
+DECLARO RESPONSABLEMENTE, que la empresa que represento:  
+ 
+1) Que la sociedad está válidamente constituida y que conforme a su objeto social 
+puede presentarse a la licitación, así como que el firmante de la declaración 
+ostenta la debida representación de aquella, así como para la presentación de 
+esta proposición. 
+2) Que cuenta, en su caso, con la correspondiente clasificación.  
+3) Que no está incurso en prohibición de contratar por sí mismo ni por extensión como 
+consecuencia de la aplicación del artículo 71 de la LCSP. 
+ 
+ 
+ 
+Y para que conste y surta efectos oportunos, se expide y firma la presente declaración, en 
+_____________, a___de___________________de 202_.  
+ 
+ 
+ 
+Firma y sello del licitador 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 29 ---
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES 
+  
+ 
+ 
+ 29 
+ANEXO II 
+ 
+MODELO DE PROPOSICIÓN ECONÓMICA  
+ 
+Las proposiciones económicas que presenten los licitadores se ajustarán al siguiente 
+modelo: 
+ 
+D/Dª. .........................................................., domiciliado en ............................ 
+C/............................................................................., nº ........., distrito postal................. con DNI Nº 
+........................ expedido en ................................ actuando (en nombre propio o en 
+representación de) .........................................................................., con CIF Nº ........................... se 
+compromete a realizar el contrato mixto de suministros y servicios a que se refiere el pliego 
+con nº de Expediente 2026-022 de fecha 10 de noviembre 2026, con sujeción a las 
+condiciones y requisitos que se determinan en dicho pliego, todo ello desglosado por los 
+conceptos e importes siguientes: 
+ 
+ 
+1. PRECIO 
+ 
+ 
+Concepto Año 1 (€) Año 2 (€) Año 3 (€) Total (€) 
+Implantación y puesta en marcha  No procede No procede  
+Licencia de uso de la plataforma SaaS     
+Soporte y mantenimiento     
+Importe total por año     
+IMPORTE TOTAL CONTRATO  
+ 
+ 
+ 
+*Todos los importes se indicarán sin IVA. 
+ 
+El importe total de la oferta económica será el resultado de sumar los importes ofertados 
+para los tres años de duración del contrato e incluirá la totalidad de las prestaciones 
+necesarias para su correcta ejecución. 
+El coste no podrá superar el presupuesto base de licitación que asciende a 18.000€ sin IVA . 
+ 
+ 
+ 
+ 
+En ..................., a.........................de .................. de 2.02_ 
+ 
+(Firma y sello de la empresa) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 30 ---
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES 
+  
+ 
+ 
+ 30 
+ANEXO III 
+ 
+MODELO DECLARACIÓN RESPONSABLE DEL CUMPLIMIENTO DE LAS CONDICIONES EXIGIDAS 
+LEGALMENTE EN MATERIA DE PROTECCIÓN DE DATOS 
+ 
+DON/DOÑA___________________________________________________ con D.N.I. número 
+______________________, domiciliado en calle de ________________________________, en 
+representación de la Empresa ___________                                 domiciliada en calle 
+de__________________________________ con C.I.F. _________________ constituida mediante 
+escritura ante el notario de Don/ña_____________________________________ y con poderes 
+suficientes y vigentes, según escritura autorizada por el Notario_________________, del 
+día______________ núm de protocolo______________ con relación al expediente para la 
+contratación de _______________________.  
+Sin perjuicio de lo estipulado de manera particular en el presente pliego en materia de 
+protección de datos, DECLARO RESPONSABLEMENTE, que la empresa que represento:  
+1) Cumple con las obligaciones impuestas por el RGPD y la LOPDGDD, así como con 
+cualquier otra obligación establecida por la normativa aplicable en materia de 
+protección de datos vigente en cada momento. 
+ 
+2) A título enunciativo y con independencia de la posición que ocupe respecto al 
+tratamiento de datos como consecuencia de la prestación del servicio objeto del 
+presente Pliego, respecto a los datos de los que es responsable: 
+- Cumple con los principios previstos en el artículo 5 del RGPD. 
+- Atiende las solicitudes de ejercicio de los derechos de los interesados previstos 
+en los art. 15 a 22 del RGPD. 
+- Cuenta con una política de privacidad y/o aplica otras medidas de 
+responsabilidad proactiva, en los términos previstos en el art. 24 del RGPD. 
+- Cumple los principios de privacidad desde el diseño y por defecto, en los 
+términos del art. 25 del RGPD. 
+- Adopta las medidas de seguridad a las que se refiere el artículo 32 del RGPD. 
+- Dispone de un protocolo de actuación/remediación y mitigación ante brechas 
+de seguridad que afecten a datos personales. 
+ 
+ 
+ 
+Y para que conste y surta efectos oportunos, se expide y firma la presente declaración, en 
+____________, a___de___________________de 202_.  
+ 
+Firma y sello del Licitador. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 31 ---
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES 
+  
+ 
+ 
+ 31 
+ 
+ 
+ANEXO IV CUESTIONARIO DE GESTIÓN DE LA CALIDAD PARA PROVEEDORES 
+ 
+Ámbito de Aplicación del Cuestionario. 
+ 
+Se solicita información al proveedor de la gestión de la calidad referida a sus procesos para 
+poder evaluar su gestión respecto a la calidad de los productos o servicios prestados. 
+ 
+Cuestionario. 
+ 
+1. ¿La empresa dispone de una estructura organizativa definida? 
+Proporcionar un resumen. 
+2. ¿Dispone de política empresarial, o bien de una declaración definida, 
+donde se indiquen aspectos sobre la gestión de la calidad? Proporcionar. 
+3. ¿Existe la figura de responsable de calidad o similar? Indicar contacto 
+4. ¿Disponen de un esquema o enumeración de procesos que describa sus 
+actividades de empresa? Proporcionar resumen. 
+5. ¿Determinan los riesgos derivados de su actividad empresarial? 
+Proporcionar una breve descripción del proceso 
+6. ¿Disponen de un sistema de gestión de no conformidades o incidencias en 
+el servicio prestado? Proporcionar una breve descripción del proceso 
+7. Ante incumplimientos en requisitos de sus productos/servicios, ¿Disponen 
+de un proceso de acciones correctivas que eliminen las causas de estos? 
+Proporcionar una breve descripción del proceso 
+8. ¿Disponen de un sistema de gestión de reclamaciones de clientes? 
+Proporcionar una breve descripción del proceso 
+ 
+Riesgo: Evento del que existe una incertidumbre sobre si ocurrirá o no, y que puede afectar 
+al logro de objetivos. Por ejemplo: cumplimiento de plazos, etc. 
+ 
+Acción correctiva: cualquier actividad orientada a eliminar las causas de incumplimientos 
+de requisitos en los productos o servicios prestados. 
+ 
+
+--- página 32 ---
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES 
+  
+ 
+ 
+ 32 
+ 
+ 
+ANEXO V MEDIDAS TÉCNICAS Y ORGANIZATIVAS DE SEGURIDAD c-2 
+ 
+ 
+1- Se deberá comunicar a INFORMA el contacto en materia de seguridad del proveedor 
+ 
+Nombre del responsable de seguridad: 
+Mail: 
+ 
+2- Toda la información que se procese, trasmita o acceda durante la prestación del 
+servicio es propiedad de INFORMA y no podrá ser cedida a terceros. 
+ 
+3- Al finalizar la prestación del servicio contratado, el proveedor se compromete a la 
+portabilidad de toda la información propiedad de INFORMA. 
+ 
+4- El proveedor debe disponer de un procedimiento documentado que garantice el 
+control de los accesos forma inequívoca y personalizada; los derechos de acceso, el 
+alta y baja de usuarios y la prevención de los accesos no autorizados.  
+ 
+5- El proveedor deberá garantizar que las contraseñas utilizadas en los sistemas donde 
+se procesen o puedan procesarse activos de información propiedad de INFORMA 
+cumplan con las mejores prácticas de seguridad establecidas en el sector. Estas 
+deberán cumplir, al menos, con los siguientes requisitos: 
+ 
+a) Longitud y complejidad: Las contraseñas deberán tener un mínimo de 14 
+caracteres e incluir al menos tres de las siguientes cuatro categorías: 
+ Minúsculas 
+ Mayúsculas 
+ Números 
+ Símbolos 
+ 
+b) Expiración periódica: Las contraseñas deberán renovarse en un período 
+máximo de 90 días. 
+ 
+c) Protección contra ataques de fuerza bruta: Se deberá implementar un 
+mecanismo de bloqueo temporal tras un máximo de 5 intentos fallidos de 
+autenticación. 
+ 
+
+--- página 33 ---
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES 
+  
+ 
+ 
+ 33 
+d) Autenticación multifactor (MFA): Se deberá implementar MFA obligatorio para 
+el acceso a sistemas que procesen información de INFORMA. Como mínimo, el 
+segundo factor deberá ser uno de los siguientes: 
+ Código de un solo uso (OTP) enviado por SMS, correo electrónico o 
+aplicación de autenticación. 
+ Dispositivo físico de seguridad (token o llave de hardware). 
+ Biometría (huella digital, reconocimiento facial, etc.). 
+ 
+6- La comunicación entre el proveedor e INFORMA y la trasferencia de los datos objeto 
+del contrato, se realizará de forma cifrada. 
+ 
+7- El almacenamiento de los datos objeto del contrato, en caso de existir, se realizará de 
+forma segura y cifrada 
+ 
+8- Las redes y recursos de tratamiento utilizados por el proveedor deberán estar 
+protegidas, mantenidas y controladas. 
+ 
+9- El proveedor debe garantizar que los equipos informáticos utilizados para la 
+prestación del servicio se mantengan en condiciones óptimas. Todos los equipos 
+deberán contar con antivirus actualizado y protección contra malware. 
+ 
+Indicar tipo de antivirus/ EDR: 
+ 
+10- Dispone de los procedimientos de gestión necesarios para garantizar una respuesta 
+rápida, efectiva y adecuada a los incidentes de seguridad de la información 
+incluyendo las responsabilidades requeridas. Los incidentes de seguridad serán 
+reportados a INFORMA sin retrasos indebidos y en un plazo máximo de 24h. 
+ 
+11- Disponer de la políticas y procedimiento necesarios que garanticen el cumplimiento 
+de los requisitos contractuales, legales y normativos necesarios. 
+ 
+ 
+CONFIRMACIÓN Y FIRMA DEL PROVEEDOR 
+Empresa: _______________________________________ 
+Nombre y cargo del firmante: _____________________ 
+Fecha: ___ / ___ / _____ 
+ 
+Firma y sello: 
+ 
+ 
+ 
+
+--- página 34 ---
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES 
+  
+ 
+ 
+ 34 
+ 
+ 
+ANEXO Ab 
+ 
+ 
+MODELO DE DECLARACIÓN RESPONSABLE RELATIVA AL CUMPLIMIENTO DEL COMPROMISO DE 
+ADSCRIPCIÓN DE LOS MEDIOS PERSONALES Y MATERIALES EXIGIDOS PARA LA EJECUCIÓN DEL 
+CONTRATO. 
+ 
+D./Dña………………… , en nombre propio o en representación de la empresa ………… con 
+N.I.F. nº , 
+en calidad de …………………………………………………..... 
+DECLARA y CERTIFICA bajo su personal responsabilidad: 
+Que el licitador al que representa se compromete a contar con todos los medios personales 
+y materiales (incluidos herramientas, útiles y equipos) necesarios para el correcto 
+cumplimiento y ejecución del objeto de cada contrato y que cumplen las habilitaciones, 
+experiencia y requerimientos indicados en el Pliego de Prescripciones Técnicas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+En .............................,a ....... de 20.. 
+Firma y sello del licitador 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 35 ---
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES 
+  
+ 
+ 
+ 35 
+ 
+ 
+ANEXO Ac (EN CASO DE EMPRESAS CON COMPROMISO DE UTE) 
+ 
+ 
+MODELO DE DECLARACIÓN DE UTE 
+ 
+ 
+D/Dña. ................................................................................ con domicilio 
+en........................................................................................., y D.N.I. nº.......................................... en 
+nombre propio o como ...................... (señalar las facultades de representación: 
+administrador/a único, apoderado/a) en representación de la empresa 
+............................................................ con domicilio social en 
+............................................................................................., y C.I.F nº ............................... Y  
+ 
+ 
+D/Dña. .................................................................................. con domicilio en 
+....................................................................................., y D.N.I. nº........................................ en 
+nombre propio o como ....................... (señalar las facultades de representación: 
+administrador/a único, apoderado/a) en representación de la empresa 
+............................................................ con domicilio social en 
+............................................................................................, y C.I.F nº ...............................  
+ 
+DECLARAN  
+ 
+Que asumen el compromiso de constituirse formalmente en Unión Temporal de Empresas, 
+con las participaciones respectivas de..........% y de.........% y que nombran representante o 
+apoderado único de la unión con poderes bastantes para ejercitar los derechos y cumplir 
+las obligaciones que del contrato se deriven hasta la extinción del mismo a D./Dña. 
+..........................................................................................con domicilio a efectos de 
+notificaciones para esta licitación en 
+………………………………………………………………………  
+ 
+ 
+ 
+Y como prueba de conformidad de esta declaración, la firmamos en ........................, a ........ 
+de ......................... de 202…..  
+ 
+Firma y sello del licitador 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 36 ---
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES 
+  
+ 
+ 
+ 36 
+ANEXO Ad  
+ 
+DECLARACION DE INTEGRACION DE SOLVENCIA 
+ 
+DECLARACIÓN A EFECTOS DE INTEGRAR LA SOLVENCIA exigida para la licitación del contrato 
+que tiene por objeto………………………………………………………….…………… 
+ 
+EL LICITADOR:  
+D/Dña. ..................................................................................... con domicilio en 
+..............................................................................., y D.N.I. nº......................................... en nombre propio o 
+como ....................... (señalar las facultades de representación: administrador/a único, apoderado/a) 
+en representación de la empresa ......................................................... con domicilio social en 
+............................................................., y C.I.F nº ..............................., DECLARA  
+ 
+Que para la acreditación de la solvencia exigida para la presente licitación se va a basar en las 
+capacidades y medios de la entidad …………………………  
+ 
+LA ENTIDAD 
+D/Dña. ............................................................................... con domicilio en 
+....................................................................................., y D.N.I. nº......................................... en nombre propio 
+o como ....................... (señalar las facultades de representación: administrador/a único, 
+apoderado/a) en representación de la empresa ......................................................... con domicilio social 
+en .............................................................., y C.I.F nº ..............................., DECLARA  
+ 
+(Para el caso de integración de solvencia económica y financiera) 
+ 
+a) La empresa con la que se integra la solvencia no está incursa en prohibición de contratar. 
+b) Que conoce el Pliego de Prescripciones Técnicas, el Pliego de Cláusulas Administrativas 
+Particulares, su Carátula y demás documentación que debe regir el presente contrato.  
+c) Que cumple las condiciones de solvencia económica financiera exigida en este pliego y se 
+compromete a aportar los documentos acreditativos del cumplimiento de dichos requisitos en 
+cualquier momento que así lo solicite el órgano de contratación y en todo caso, en el supuesto 
+de que la propuesta de adjudicación recaiga a favor del licitador arriba indicado. 
+d) Que pone a disposición del licitador arriba indicado, los medios económicos financieros 
+necesarios para garantizar la ejecución del contrato, respondiendo solidariamente frente a 
+INFORMA.  
+ 
+(Para el caso de integración de solvencia técnica y profesional) 
+ 
+a) La empresa con la que se integra la solvencia no está incursa en prohibición de contratar. 
+b) Que conoce el Pliego de Prescripciones Técnicas, el Pliego de Cláusulas Administrativas Particulares 
+y demás documentación que debe regir el presente contrato.  
+c) Que cumple las condiciones de solvencia técnica profesional exigida en este pliego y se 
+compromete a aportar los documentos acreditativos del cumplimiento de dichos requisitos en 
+cualquier momento que así lo solicite el órgano de contratación y en todo caso, en el supuesto de 
+que la propuesta de adjudicación recaiga a favor del licitador arriba indicado.  
+d) Que pone a disposición del licitador arriba indicado, los siguientes medios técnicos profesionales 
+necesarios para garantizar la ejecución del contrato frente a INFORMA:  
+ 
+Y como prueba de conformidad de esta declaración, la firmamos, en.................., a........ de................. 
+de 202…. 
+ 
+ 
+Firma y sello del licitador       Firma y sello de la entidad 
+ 
+
+--- página 37 ---
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES 
+  
+ 
+ 
+ 37 
+ 
+ 
+ 
+ANEXO Ai - MODELO DE DECLARACIÓN RESPONSABLE RELATIVA A CONOCER Y ACEPTAR EL CÓDIGO 
+ÉTICO DE GRUPO CESCE  
+ 
+D./Dña………………… , en nombre propio o en representación de la empresa ………… con N.I.F. nº 
+….………………, en calidad de …………………………………………………..... DECLARA: 
+ 
+Que, conocen y aceptan el Código Ético del Grupo 
+Cescehttps://www.cesce.es/documents/20122/11251859/C%C3%B3digo+%C3%89tic
+o+Cesce.pdf/6e30cbc6-7680-d23c-6823-e26d0e23f3f8?t=1752229221782 
+ 
+ 
+ 
+ En .............................,a ....... de ....................202….. 
+ 
+Firma y sello del licitador 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 38 ---
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES 
+  
+ 
+ 
+ 38 
+ 
+ 
+ANEXO Aj 
+ 
+MODELO DE DECLARACIÓN RESPONSABLE RELATIVA AL COMPROMISO DE TENER 
+CONTRATADOS TRABAJADORES CON DISCAPACIDAD Y PLAN DE IGUALDAD.  
+ 
+ 
+D./Dña………………… , en nombre propio o en representación de la empresa ………… con 
+N.I.F. nº ….………………, en calidad de …………………………………………………..... DECLARA: 
+ 
+Que, de resultar adjudicatario del contrato, y durante la vigencia del mismo, asume la 
+obligación de tener empleados trabajadores con discapacidad en un 2 por 100, al menos, 
+de la plantilla de la empresa, si ésta alcanza un número de 50 o más trabajadores, de 
+acuerdo con el artículo 42 del Texto Refundido de la Ley General de derechos de las 
+personas con discapacidad y de su inclusión social, aprobado por Real Decreto Legislativo 
+1/2013, de 29 de noviembre, o la de adoptar las medidas alternativas establecidas en el Real 
+Decreto 364/2005, de 8 de abril. Asimismo, se compromete a acreditar el cumplimiento de 
+la referida obligación ante el órgano de contratación cuando sea requerido para ello, en 
+cualquier momento durante la vigencia del contrato. 
+Igualmente, si se trata de una empresa de 50 o más trabajadores, asume la obligación de 
+contar con un plan de igualdad conforme a lo dispuesto en el artículo 45 de la Ley Orgánica 
+3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, y se compromete 
+a acreditar el cumplimiento de la referida obligación ante el órgano de contratación 
+cuando sea requerido para ello. 
+ 
+ 
+¿La empresa tiene más de 50 trabajadores?   SI                  NO     
+Si la empresa tiene más de 50 trabajadores se deberá adjuntar copia de la inscripción del 
+plan de igualdad en el registro laboral correspondiente. 
+ 
+ 
+ 
+ En ............................., a ....... de ....................202… 
+ 
+Firma y sello del licitador 
+ 
+  

@@ -1,0 +1,780 @@
+
+
+--- página 1 ---
+Plaza de las Cortes de Castilla y León, 1
+47015 - Valladolid
+informatica@ccyl.es 1 de 19
+
+
+--- página 2 ---
+Plaza de las Cortes de Castilla y León, 1
+47015 - Valladolid
+informatica@ccyl.es 2 de 19
+1. Objeto del Contrato.........................................................................................3
+2. Sistemas objeto del contrato ...........................................................................3
+3. Licencias sobre el equipamiento .....................................................................4
+4. Servicios a prestar ..........................................................................................4
+4.1. Personal técnico especializado ............................................................4
+4.2. Garantía sobre el equipamiento de red y seguridad .............................5
+4.3. Stock de sustitución .............................................................................6
+4.4. Convenios de Colaboración .................................................................6
+4.5. Custodia de copias de seguridad en soporte físico fuera de la sede de 
+las Cortes de Castilla y León ...............................................................6
+4.6. Servicios de asistencia técnica .............................................................8
+4.6.1. Operación de los sistemas .......................................................8
+4.6.2. Supervisión de los sistemas durante las sesiones plenarias.....8
+4.6.3. Asesoramiento especializado en la arquitectura de la red y 
+seguridad ..........................................................................................9
+4.6.4. Mantenimiento de las instalaciones y los sistemas...................9
+5. Planificación, dirección, seguimiento y control de los servicios .....................13
+5.1. Plan de mantenimiento ......................................................................13
+5.1.1. Planificación y ejecución de tareas ......................................... 13
+5.1.2. Documentación e informes .....................................................14
+5.2. Plan de continuidad de servicios ........................................................14
+5.3. Niveles de calidad de servicio (Service-Level Agreements) ............... 15
+5.4. Plan de Calidad..................................................................................17
+5.4.1. Equipo de seguimiento del proyecto.......................................17
+5.4.2. Equipo técnico ........................................................................17
+5.4.3. Gestión de incidencias ...........................................................18
+5.4.4. Gestión de la configuración ....................................................18
+5.4.5. Transferencia tecnológica.......................................................19
+5.5. Recursos puestos a disposición del adjudicatario .............................. 19
+
+--- página 3 ---
+Plaza de las Cortes de Castilla y León, 1
+47015 - Valladolid
+informatica@ccyl.es 3 de 19
+La presente licitaci ón ti ene por objeto la contratación del servicio de 
+mantenimiento, operación, gestión y licenciamiento de los elementos de seguridad 
+informática y de red del sistema información de las Cortes de Castilla y León, así como 
+la adquisición de las licencias necesarias para su correcto nivel de atención.
+En concreto dichos servicios incluirán:
+La operación habitual de los sistemas que lo requieran.
+El mantenimiento de los sistemas de red y seguridad informática. En particular 
+el mantenimiento preventivo (revisiones y chequeos), el mantenimiento 
+correctivo (reparación de averías), y el mantenimiento adaptativo 
+(reconfiguraciones, actualizaciones de firmware y software).
+La asistencia técnica de personal especializado, que se prestará en remoto con 
+carácter general, así como la asistencia en la propia sede de las Cortes de 
+Castilla y León, tanto durante las sesiones plenarias como en operaciones que 
+así lo requieran.
+La gestión de las garantías sobre el equipamiento instalado.
+El servicio de custodia de cintas correspondientes a las copias de seguridad.
+Con la finalidad de poder definir los servicios objeto de la presente licitación se 
+especifican a continuación las características técnicas de la red y de la seguridad 
+informática implantadas actualmente en las CCyL, formadas por los equipos 
+informáticos, el software y las licencias correspondientes que permiten su correcto 
+funcionamiento.
+La instalación global del sistema de seguridad y de la red a mantener se dividirá a 
+su vez en los siguientes sistemas:
+A) Sistemas de red de área local.
+B) Sistemas de seguridad informática.
+C) Sistema de copias de seguridad.
+D) Sistemas de monitorización de red.
+A) Sistemas de red de área local. Los sistemas que actualmente configuran la red 
+de área local de las CCyL son :
+- Enrutadores de red centralizados.
+- Conmutadores de red Ethernet.
+- Puntos de acceso inalámbricos y dispositivos para su administración 
+y gestión centralizados.
+- Cableado que involucre el funcionamiento de los elementos 
+centralizados, tanto eléctrico como de red .
+B) Sistemas para la seguridad informática: La red de las Cortes de Castilla y
+León consta de un sistema de protección para mantener los servicios y la 
+información a salvo de ataques de carácter informático. Los sistemas a mantener 
+son:
+- Sistemas unificados para la gestión de amenazas.
+- Sistemas para el filtrado de correo electrónico.
+
+--- página 4 ---
+Plaza de las Cortes de Castilla y León, 1
+47015 - Valladolid
+informatica@ccyl.es 4 de 19
+- Sistemas de protección de los endpoints.
+- Sistemas para establecimiento de conexiones remotas seguras.
+- Sistema de control de acceso a la red (NAC).
+C) Sistema de copia de seguridad de la información: las Cortes de Castilla y 
+León disponen de un sistema de copia de seguridad del sistema de información.
+Este sistema consta de:
+- Software de copia de seguridad.
+- Repositorio hardware centralizado de copia de seguridad.
+- Robot de cintas LTO de copia de seguridad.
+D) Sistemas de monitorización de servicios centrales : así mismo las Cortes de
+Castilla y León cuentan con sistemas de supervisión de la red y de la seguridad 
+informática:
+- Sistema de monitorización centralizada de electrónica activa de red .
+- Sistemas de monitorización, análisis e informes para sistemas unificados 
+para la gestión de amenazas.
+Los componentes concretos de los sistemas de información se remitirán a los 
+potenciales licitadores que muestren su interés en recibirlo previa firma de documento 
+de confidencialidad.
+Para todos los sistemas descritos anteriormente se prestarán los servicios 
+indicados en la prescripción 4. Servicios a prestar, del presente pliego, con la
+excepción d el sistema para establecimiento de conexiones remotas seguras, para el 
+que se realizarán únicamente labores de operación y configuración.
+Todo el equipamiento que lo requiera contará con licencias de uso y soporte 
+técnico del fabricante y/o del proveedor del servicio durante toda la vigencia del contrato.
+Estas licencias serán provistas por Cortes de Castilla y León y no forman parte del 
+alcance del presente contrato.
+El adjudicatario podrá hacer uso de las licencias en cuestión para cumplir con los 
+objetivos del presente contrato y, en particular, podrá hacer uso de los servicios de 
+sustitución de hardware en caso de avería, así como abrir casos de soporte técnico con 
+el fabricante de los equipos o el proveedor de los servicios.
+El documento con las licencias concretas con las que cuentan actualmente las 
+Cortes de Castilla y León se remitirán a los potenciales licitadores que muestren su 
+interés en recibirlo previa firma de documento de confidencialidad.
+El adjudicatario pondrá a disposición de las CCyL el personal técnico necesario 
+para la realización de tareas de mantenimiento sobre los sistemas descritos en la 
+prescripción 2. Sistemas objeto del contratode este pliego.
+Con carácter general el adjudicatario pondrá a disposición de las CCyL un técnico 
+que prestará sus servicios en remoto en horario de 9 a 15 horas. Sólo será necesaria la 
+
+--- página 5 ---
+Plaza de las Cortes de Castilla y León, 1
+47015 - Valladolid
+informatica@ccyl.es 5 de 19
+asistencia en modo presencial para aquellas actuaciones que así lo requieran (patcheos, 
+sustitución de equipos, recogida o entrega de cintas, etc). Del mismo modo, cuando las 
+CCyL celebren una Sesión Plenaria el adjudicatario comprometerá la asistencia técnica 
+presencial necesaria desde media hora antes del inicio hasta la finalización de dichas 
+sesiones, independientemente de su duración. 
+El horario establecido con carácter general se podrá modificar de acuerdo con las 
+instrucciones dadas por el servicio de Informática de CCyL cuando los mantenimientos 
+u otras operaciones a realizar hayan de llevarse a cabo fuera del horario habitual.
+Las Cortes de Castilla y León proporcionarán el mecanismo remoto de conexión 
+que permitirá realizar las operaciones técnicas requeridas por el contrato. Todo el 
+equipamiento y los medios materiales necesarios para la ejecución del contrato, 
+incluyendo los necesarios para la conexión remota, correrán por cuenta del 
+adjudicatario. A este respecto, se considerarán obligatorios al menos un ordenador con 
+sistema operativo Windows 11 o superior y un Smartphone compatible con las tiendas 
+de aplicaciones Google Play o Apple Store.
+El adjudicatario asumirá todas las medidas de seguridad y protección que las 
+Cortes de Castilla y León dispongan para la prestación efectiva del servicio, que en todo 
+caso serán proporcionadas a la importancia de los elementos a proteger y a los riesgos 
+estimados.
+El adjudicatario ofrecerá garantía extendida sobre todos los equipos e 
+instalaciones objeto de la presente licitación. 
+La garantía extendida supondrá que, en caso de fallo de cualquier equipo, 
+infraestructura o parte integrante de los mismos, se sustituirán o repararán los 
+elementos necesarios en los plazos especificados en la oferta, sin coste alguno para las 
+CCyL y sin que ello afecte al normal funcionamiento de dichos sistemas. El adjudicatario 
+podrá emplear las licencias en vigor con las que cuente CCyL para cumplir esta 
+prescripción. El licitador podrá suponer al realizar su oferta que dichas licencias u otras 
+equivalentes estarán en vigor durante toda la vigencia del contrato. La no renovación 
+por parte de CCyL de las licencias correspondientes eximirá al licitador de cualquier 
+responsabilidad respecto de la obligación de garantía extendida del presente apartado
+sobre el equipamiento no licenciado.
+El licitador podrá, con el objeto de prestar un mejor servicio, complementar dichas 
+licencias de varias maneras:
+1. Ampliando las licencias de CCyL a un nivel de cobertura superior.
+2. Contando con sus propias licencias o contratos con el fabricante de los equipos 
+o con un tercero.
+3. Dotando al presente contrato de un stock de equipos de sustitución .
+En todo caso, si se optase por uno o varios de los mecanismos anteriores, su 
+coste correrá por cuenta del licitador y se considerará incluido en el importe de la oferta.
+
+--- página 6 ---
+Plaza de las Cortes de Castilla y León, 1
+47015 - Valladolid
+informatica@ccyl.es 6 de 19
+Los reemplazos de hardware en caso de avería se realizarán por equipamiento 
+original del mismo fabricante siempre que esto resulte posible. Solo en el caso de 
+equipamiento descatalogado y sin reemplazo viable por equipos del mismo fabricante 
+se admitirán r eemplazos por equipos de diferente fabricante. En cualquier caso, el 
+equipamiento reemplazado habrá de ser 100% compatible con el sistema donde se va 
+a instalar.
+El adjudicatario presentará en su oferta los compromisos de tiempo máximo de 
+reparación o sustitución sobre distintos tipos de equipos, tal como se menciona en la 
+prescripción 5.3. Niveles de calidad de servicio (Service-Level Agreements) del 
+presente pliego.
+. 
+A fin de agilizar las reparaciones y el restablecimiento del servicio cuando haya 
+una avería, el adjudicatario podrá contar con un stock de piezas y componentes para 
+sustituir los elementos averiados. Este stock de sustitución se almacenará en las 
+dependencias habilitadas al efecto en la propia sede de las CCyL. 
+El licitador incluirá en su oferta un inventario del stock del que dispondrá .
+Dicho inventario se valorará teniendo en cuenta la criticidad de los equipos a reparar 
+con este stock y el incremento de tiempos de resolución de las averías en ausencia de l 
+mismo, de acuerdo con lo dispuesto en el Pliego de Cláusulas Administrativas 
+Particulares en la cláusula correspondiente a Criterios no evaluables mediante la mera 
+aplicación de fórmulas, apartado Plan de continuidad y calidad de servicio.
+De cara a garantizar y agilizar el suministro de repuestos y elementos temporales 
+de sustitución, así como el acceso al servicio técnico directo del fabricante, el licitador 
+incluirá en su oferta los convenios de colaboración o apoyo técnico con las 
+empresas del sector prestadoras de dichos servicios con los que cuente . Se 
+valorarán especialmente los convenios de los que disponga el licitador con los 
+fabricantes de los sistemas objeto del contrato instalados en las CCyL, de acuerdo con 
+lo dispuesto en el Pliego de Cláusulas Administrativas Particulares en la cláusula
+correspondiente a criterios evaluables mediante la mera aplicación de fórmulas . A 
+estos efectos los licitadores podrán solicitar información acerca de la instalación 
+conforme a lo dispuesto en el presente pliego en la prescripción “2 Sistemas objeto del 
+contrato”.
+El adjudicatario, como parte de su oferta, habilitará en las dependencias que 
+considere oportunas – que en todo caso estarán fuera del edificio que alberga la sede 
+de las Cortes de Castilla y León – un almacén para la custodia de las copias de 
+seguridad en soporte físico actualmente existentes, así como las que se vengan 
+realizando en el marco del presente contrato.
+
+--- página 7 ---
+Plaza de las Cortes de Castilla y León, 1
+47015 - Valladolid
+informatica@ccyl.es 7 de 19
+El adjudicatario, como parte de su oferta, se encargará de la recogida, custodia y 
+entrega de soportes físicos extraíbles (en concreto, cintas tipo LTO) que contienen 
+copias de seguridad de datos de Cortes de Castilla y León.
+En todo caso, se consideran incluidos en el contrato:
+a) Una primera recogida de todos los soportes con copias de seguridad que se 
+desean custodiar.
+b) La recogida periódica mensual de los soportes con copias de seguridad que 
+se vayan generando.
+c) La custodia de los soportes en condiciones idóneas de conservación y 
+seguridad en una ubicación exterior a la sede de las Cortes de Castilla y 
+León.
+d) Cuantas entregas de soportes en la sede sean necesarias para realización 
+de recuperaciones de copias de seguridad o validaciones de las mismas.
+e) Una entrega final de todos los soportes custodiados a la finalización de la 
+prestación del servicio por cualquier causa.
+El adjudicatario se compromete a realizar la primera recogida de los soportes lo 
+antes posible en horario laborable. Los detalles de dicha recogida, así como de las 
+entregas y recogidas posteriores se acordarán con los responsables técnicos 
+designados por Cortes de Castilla y León.
+El adjudicatario se compromete a realizar a la mayor brevedad posible cuantas 
+entregas de soportes los responsables técnicos de Cortes de Castilla y León indiquen 
+como urgentes, sin que dichas entregas puedan demorarse más de cuatro horas desde 
+su solicitud. Esta obligación es condición esencial del contrato a los efectos previstos en 
+la LCSP.
+El adjudicatario se compromete a garantizar la confidencialidad, integridad y 
+disponibilidad de las copias de seguridad almacenadas en las dependencias citadas 
+empleando para ello los medios que resulten necesarios. En todo caso, garantizará que:
+a) La conservación se realiza en un área con control de acceso donde solo podrá 
+acceder el personal autorizado por el adjudicatario.
+b) El recinto cuenta con las medidas apropiadas de protección contra robos e 
+incendios.
+Tras la finalización del presente contrato, el adjudicatario entregará todas las 
+copias de seguridad que esté custodiando sin que pueda quedarse con ninguno de los 
+soportes ni con ninguna información en ellos contenidos.
+Las CCyL se reservan el derecho a prescindir del servicio indicado en el presente 
+apartado en cualquier momento y a recuperar todas las copias que obren en poder del 
+adjudicatario.
+A efectos de configurar sus ofertas , los licitadores podrán tener en cuenta las 
+siguientes estimaciones:
+1. La transferencia inicial de soportes será de unas ciento veinticinco cintas LTO.
+2. Se realizará una entrega mensual en la sede de unas dos cintas LTO para 
+pruebas de restauración y/o reutilización de soportes.
+
+--- página 8 ---
+Plaza de las Cortes de Castilla y León, 1
+47015 - Valladolid
+informatica@ccyl.es 8 de 19
+3. Se realizará una recogida mensual en la sede de unas dos cintas LTO para 
+su custodia. Esta recogida se realizará en fecha diferente de la de la entrega 
+anterior.
+4. Se estima que el número máximo de cintas custodiadas no superará las ciento 
+sesenta durante la vigencia del contrato.
+Estas estimaciones son para facilitar la elaboración de las ofertas de los 
+licitadores. No suponen términos contractuales y no resultan vinculantes para Cortes de 
+Castilla y León. Los excesos que sobre estas estimaciones pudieran darse en la 
+ejecución del contrato, ya sea en el número de entregas o en el volumen de las mismas, 
+no conllevarán contraprestación alguna en favor del adjudicatario, y se consideran 
+incluidas en el riesgo y ventura del contratista. Los licitadores, como parte de sus ofertas, 
+detallarán las características del espacio de custodia de las copias , así como del 
+procedimiento de manipulación de las mismas. Se detallará la ubicación del espacio, las 
+medidas de protección contra accesos no autorizados, las medidas de protección contra 
+daños ambientales y cualquier otra información que consideren releva nte.
+Los servicios a prestar por el adjudicatario a través del personal técnico 
+especializado abarcan la supervisión de los sistemas de red y de seguridad durante el 
+horario indicado , asesoramiento especializado en cuestiones de diseño que afecten a 
+esos sistemas, así como su mantenimiento.
+4.6.1. Operación de los sistemas
+El adjudicatario realizará la operación de los sistemas que lo requieran. Esto 
+incluirá en todo caso las siguientes tareas:
+Revisión habitual de los filtros antispam para detectar y liberar falsos 
+positivos.
+Comunicación de alertas o detecciones de los sistemas de seguridad.
+Revisión de la correcta realización de copias de seguridad programadas.
+Reprogramación de las mismas de ser requerido para ello.
+Elaboración manual o restauración de copias de seguridad de ser 
+requerido para ello.
+4.6.2.
+El adjudicatario se encargará de la revisión, puesta a punto y prueba de los 
+sistemas de red implicados en la celebración de las sesiones plenarias. Estas 
+actuaciones irán encaminadas a garantizar el correcto desarrollo de dicha actividad con 
+las mayores garantías posibles, y al correcto funcionamiento de los servicios de 
+telecomunicaciones que ofrece la sede durante la actividad.
+El adjudicatario realizará las actuaciones de preparación y puesta a punto con la 
+antelación que sea más conveniente en cada caso de cara a contar con tiempo 
+suficiente para poder tomar medidas correctivas sobre los sistemas en caso de detectar 
+incidentes que pudieran dificultar los accesos a la red y/o a internet durante la 
+celebración de la sesión, con los criterios de seguridad definidos y acordados por los 
+técnicos de las CCyL.
+
+--- página 9 ---
+Plaza de las Cortes de Castilla y León, 1
+47015 - Valladolid
+informatica@ccyl.es 9 de 19
+En todo caso, la supervisión de los sistemas desde media hora antes del comienzo 
+de la sesión plenaria hasta su finalización se realizará presencialmente desde la propia 
+sede de las CCyL.
+En caso de manifestarse dichos incidentes, el adjudicatario se pondrá en contacto 
+con los responsables técnicos de las CCyL de manera inmediata, y de acuerdo con ellos 
+ejecutará las tareas necesarias para la resolución del problema de manera eficaz, de 
+forma que afecte lo mínimo posible a los usuarios de los servicios de 
+telecomunicaciones, así como a los sistemas que puedan verse influidos por el mal
+funcionamiento de la red hasta el punto de impedir el correcto desarrollo de la sesión.
+En caso de ser requerido para ello, el adjudicatario deberá asesorar al personal
+técnico de las CCyL en materias de arquitectura, configuración y optimización de redes, 
+seguridad de los datos y las comunicaciones y protección de sistemas informáticos en 
+general.
+El licitador incluirá en su oferta , las tareas de mantenimiento que se realizarán 
+sobre los sistemas de red y de seguridad durante la vigencia del contrato.
+El adjudicatario acepta los equipos e instalaciones existentes en las condiciones 
+actuales de todos y cada uno de sus elementos, así como cuantas modificaciones e 
+incorporaciones puedan introducirse durante la vigencia del contrato, haciéndose cargo 
+de las mismas.
+Todos los elementos que formen parte de los sistemas objeto de la presente 
+licitación estarán sometidos a mantenimiento. En particular, se considerarán objeto de 
+mantenimiento el cableado, los conectores, paneles, elementos estructurales, 
+mecánicos, electrónica activa y/o pasiva, elementos hardware y software, etc.
+El mantenimiento de los sistemas incluirá en todos los casos tanto el 
+funcionamiento individual de cada uno de los elementos que lo componen, las 
+interacciones entre los diversos componentes del sistema entre sí y con otros sistemas 
+de su entorno, así como los sistemas y subsistemas en su conjunto.
+Cuando se trate de servidores, estaciones de trabajo, ordenadores y demás 
+elementos informáticos, el mantenimiento incluirá todos sus componentes internos, 
+periféricos, dispositivos de alimentación eléctrica, dispositivos de comunicación por 
+cualquier medio, firmware, sistema operativo y software necesario para el óptimo 
+desempeño de sus cometidos.
+El adjudicatario se compromete a ejecutar las tareas de mantenimiento, 
+conservación y reparación en los términos, tiempos y formas exigidos en el presente 
+pliego. 
+Se considerarán incluidos en el importe de la oferta los costes de desplazamiento 
+de los técnicos, la mano de obra de la intervención y los portes de material y equipo 
+desde y hasta la sede de las CCyL.
+
+--- página 10 ---
+Plaza de las Cortes de Castilla y León, 1
+47015 - Valladolid
+informatica@ccyl.es 10 de 19
+El adjudicatario deberá poner a disposición del personal que realizará las labores 
+de mantenimiento cuanto equipamiento y material sea necesario para su realización. 
+Los costes de provisión de este material correrán por cuenta del adjudicatario.
+En caso de actuaciones de mantenimiento sobre equipamiento propiedad de las 
+CCyL en instalaciones ajenas a las CCyL, el adjudicatario correrá con los costes de 
+envío del equipamiento a dichas instalaciones y de su devolución a las CCyL, así como 
+del importe íntegro de la reparación o cualquier otro gasto ocasionado. 
+Todas las salidas de equipamiento propiedad de las CCyL de la sede deberán ser 
+previamente autorizadas por los responsables técnicos de las CCyL. El adjudicatario 
+deberá conservar y mantener actualizada en todo momento una relación de las salidas 
+de equipamiento de la s ede de las CCyL. Dicha relación deberá estar a disposición de 
+los responsables técnicos de las CCyL y contener los identificadores del equipamiento, 
+la dirección y empresa a las que se envió, el motivo del envío y la fecha de salida y 
+posterior entrada del equipo en la sede de las CCyL. 
+El mantenimiento preventivo consistirá en las tareas efectuadas específicamente 
+para evitar que se produzcan fallos.
+El adjudicatario incluirá en su oferta las actuaciones de mantenimiento preventivo 
+a realizar sobre cada uno de los sistemas, detallando su alcance y frecuencia. El 
+personal técnico responsable de las CCyL podrá incluir actuaciones adicionales, así 
+como variar el alcance y la frecuencia en caso de considerarse pertinente.
+Las anomalías y problemas detectados serán notificados al personal técnico 
+responsable de las CCyL. La corrección de los mismos se incluirá en las labores de 
+mantenimiento correctivo.
+El adjudicatario deberá realizar en cada uno de los sistemas objeto de la presente 
+licitación las siguientes tareas, de acuerdo con el Plan de Mantenimiento:
+Revisiones periódicas del estado general de los sistemas. Cada sistema deberá 
+ser objeto de revisión al menos una vez a la semana.
+Revisiones pormenorizadas y detalladas del estado de funcionamiento, 
+problemas efectivos y potenciales de cada componente significativo de dichos 
+sistemas, así como de su integración y funcionamiento global. Cada sistema 
+deberá ser objeto de una de estas revisiones al menos una vez al año.
+Revisiones extraordinarias de los sistemas críticos previas a la realización de 
+actividades de especial relevancia por parte de las CCyL.
+Monitorización y revisión de alertas automáticas de los sistemas que cuenten 
+con esta posibilidad.
+Obtención periódica de copias de seguridad y/o información de la configuración 
+de cada uno de los sistemas con componentes informáticos o electrónicos en los 
+que esto sea posible.
+
+--- página 11 ---
+Plaza de las Cortes de Castilla y León, 1
+47015 - Valladolid
+informatica@ccyl.es 11 de 19
+Elaboración de informes de estado de los sistemas y de problemas o incidencias 
+detectados con motivo de las revisiones realizadas. Asimismo, elaboración de 
+los mismos informes en caso de detección de malfuncionamiento o problemas 
+serios durante actuaciones de cualquier otra índole, o cuando le sean 
+expresamente solicitados. 
+El mantenimiento correctivo estará destinado a corregir las averías y problemas 
+de funcionamiento que no permitan a los sistemas cumplir sus funciones de manera 
+óptima. Las averías o problemas detectados en los sistemas se repararán siempre que 
+sea posible en la propia sede de las CCyL.
+De no ser posible efectuar la reparación del elemento averiado en la propia sede, 
+el adjudicatario se encargará, previa autorización del personal técnico responsable de 
+las CCyL, de gestionar su reparación en las instalaciones apropiadas, debiendo ejecutar 
+la reparación preferentemente personal técnico acreditado por el fabricante.
+En el caso de existir material de sustitución para el averiado en el stock de la sede 
+y no poder repararse la aver ía en su propio emplazamiento, el adjudicatario acordará 
+con los técnicos responsables de las CCyL su reemplazo provisional si procediera. 
+Los licitadores incluirán en su oferta las instalaciones de reparación con las que 
+cuenten, indicando su proximidad a la sede de las CCyL. También indicarán si cuentan 
+con servicio propio de reparaciones de equipos eléctricos, electrónicos e informáticos.
+El adjudicatario se encargará de la gestión de las garantías que el equipamiento 
+pueda tener frente a terceros de ser requerido para ello por los responsables técnicos 
+de las CCyL.
+El adjudicatario deberá realizar en cada uno de los sistemas objeto de la presente 
+licitación las siguientes tareas, de acuerdo con el Plan de Mantenimiento:
+Actuaciones de resolución de mal funcionamiento de los sistemas objeto de la 
+presente licitación, sea éste debido al propio sistema o a su interacción con otros 
+sistemas de las CCyL.
+Actuaciones correctivas destinadas a garantizar el funcionamiento de todas las 
+características o servicios incluidos en la oferta o acordados a posteriori con las 
+CCyL.
+Revisión y corrección bajo demanda de los responsables de las CCyL de 
+aquellos comportamientos de los sistemas que dificultasen o impidiesen el 
+completo y óptimo funcionamiento de los sistemas de las CCyL.
+Tareas de reparación o sustitución de elementos hardware incluidos en las 
+coberturas del presente pliego o en la oferta presentada por el adjudicatario.
+Tareas de reparación, reinstalación y/o reconfiguración de los elementos 
+software incluidos en las coberturas del presente pliego o en la oferta presentada 
+por el adjudicatario.
+Tareas de recuperación de las copias de seguridad obtenidas en caso de ser 
+requerido para ello por los responsables de las CCyL.
+Soporte y asistencia técnica directa a usuarios finales de los sistemas en caso 
+de ser requerido para ello por los responsables de las CCyL.
+
+--- página 12 ---
+Plaza de las Cortes de Castilla y León, 1
+47015 - Valladolid
+informatica@ccyl.es 12 de 19
+El mantenimiento adaptativo es el destinado a adaptar el sistema a circunstancias 
+y necesidades cambiantes. Incluirá las incorporaciones, modificaciones y eliminaciones 
+necesarias en los sistemas para cubrir dicho fin.
+El adjudicatario deberá mantener el óptimo funcionamiento de los sistemas, 
+entendiendo por óptimo a aquel que sea más adecuado en cada momento de la 
+ejecución del contrato. Para ello, deberá realizar las tareas que sean necesarias para
+alinear el funcionamiento de los sistemas con los objetivos y requisitos que las CCyL 
+requieran de los mismos.
+El adjudicatario deberá realizar en cada uno de los sistemas objeto de la presente 
+licitación las siguientes tareas, de acuerdo con el Plan de Mantenimiento:
+Reconfiguración y optimización de los sistemas objeto del contrato durante el 
+periodo de vigencia del mismo, con independencia de la causa que motivó la 
+necesidad de la reconfiguración.
+Integración de los sistemas con elementos incorporados a las infraestructuras 
+de las CCyL.
+Adecuación de los elementos objeto de mantenimiento a los criterios expresados 
+por los responsables técnicos de las CCyL, sean estos criterios de identificación, 
+nomenclatura, conectividad, seguridad, configuración, documentación o de 
+cualquier otra índole.
+Implantación y puesta en marcha de toda nueva versión o actualización de 
+producto a la que las CCyL tengan derecho en virtud de las licencias y coberturas 
+incluidas en la oferta.
+Preparación de los prototipos o maquetas de sistemas que sean necesarias con 
+objeto de permitir evaluar el impacto y la viabilidad de las actualizaciones e 
+implantaciones que afecten a los sistemas objeto de la presente licitación.
+Retirada a almacén de cualquier elemento objeto de mantenimiento, así como 
+su reincorporación a su ubicación original o a otra distinta.
+Actualización de planimetría, documentación y/u otros elementos de 
+configuración que las CCyL posean para que éstos reflejen fielmente el estado 
+de los sistemas en cada momento.
+Elaboración y/o actualización de inventarios de elementos técnicos que formen 
+parte de los sistemas objeto de la presente licitación.
+Elaboración de informes de degradación de los sistemas objeto de la presente 
+licitación, incluyendo relaciones de dispositivos que est én llegando o hayan 
+llegado al final de su vida útil, que esté n cerca de superar o hayan superado su 
+vida media, que presenten averías recurrentes o cuya tecnología ha ya quedado 
+o esté cerca de quedar obsoleta.
+En aquellos casos en los que sea previsible que las capacidades y funciones de 
+los sistemas no puedan cubrir los objetivos presentes o futuros, los responsables 
+técnicos de las CCyL podrán solicitar al adjudicatario informes de evolución. Dichos 
+informes i ncluirán la situación actual del sistema, la evolución de las tecnologías 
+relacionadas y los problemas presentes o previsibles. 
+
+--- página 13 ---
+Plaza de las Cortes de Castilla y León, 1
+47015 - Valladolid
+informatica@ccyl.es 13 de 19
+Los informes de evolución podrán incluir también propuestas de implantación de 
+nuevo equipamiento y/o de sustitución de equipamiento existente. 
+El adjudicatario podrá elaborar informes de evolución por iniciativa propia que 
+pondrá a disposición de los responsables técnicos de las CCyL .
+El licitador detallará en su oferta la planificación propuesta, de acuerdo con lo 
+dispuesto en el presente apartado, para la realización de las prestaciones objeto del 
+presente contrato.
+Todos los planes presentados se discutirán con los responsables técnicos de las 
+CCyL de cara a su adaptación y adecuación a las circunstancias particulares de las 
+CCyL.
+Los responsables técnicos de las CCyL podrán requerir del adjudicatario informes 
+sobre el cumplimiento de los planes acordados, así como la celebración de reuniones 
+para la evaluación, revisión y mejora continua de dichos planes durante el periodo de 
+vigencia del contrato.
+El licitador incluirá en su oferta un plan de mantenimiento detallado , 
+atendiendo a las condiciones particulares expuestas en el presente apartado. Este plan 
+de mantenimiento tiene por objeto planificar las tareas y servicios que se indican en el 
+apartado “4.6 Servicios de asistencia técnica” del presente pliego.
+Dicho plan se valorará conforme a lo dispuesto en el Pliego de Cláu sulas 
+Administrativas Particulares en la cláusula correspondiente a Criterios no evaluables 
+mediante la mera aplicación de fórmulas, apartado Plan de Mantenimiento .
+Las actividades de mantenimiento y soporte deberán ser coordinadas con los 
+servicios técnicos de las CCyL y aprobadas por los responsables técnicos de las CCyL. 
+Se realizarán siempre dentro de unos límites de tiempo acordados a priori con dichos 
+servicios técnicos.
+En caso de tareas que pudieran producir pérdida de datos, el adjudicatario se 
+compromete a comunicar previamente dicha posibilidad a los responsables técnicos de 
+las CCyL, con objeto de realizar las copias de seguridad o transferencia de datos que 
+sean necesarios. La realización a priori de cualquier copia de seguridad no exime al 
+adjudicatario de la obligación descrita anteriormente.
+En el caso de tareas que conlleven la posibilidad de interrupciones en la 
+disponibilidad o funcionamiento normal de los sistemas de las CCyL, el adjudicatario 
+comunicará previamente dicha posibilidad a los responsables técnicos de las CCyL, a 
+fin de planificar y programar su ejecución en tiempo y forma con el fin de minimizar su 
+impacto.
+En el caso de tareas que modifiquen el funcionamiento o la configuración de los 
+sistemas, los responsables técnicos de las CCyL podrán solicitar si lo consideran 
+
+--- página 14 ---
+Plaza de las Cortes de Castilla y León, 1
+47015 - Valladolid
+informatica@ccyl.es 14 de 19
+pertinente un informe de impacto de la ejecución de las citadas tareas. El adjudicatario 
+acordará con los responsables técnicos de las CCyL la conveniencia de su ejecución en 
+los términos expuestos o su replanteamiento. Se facilitará a los responsables téc nicos 
+de las CCyL, de manera previa a la ejecución de la tarea, los mecanismos de vuelta 
+atrás que permitan la restauración del estado del sistema al inmediatamente anterior a 
+la ejecución de la citada tarea.
+Los responsables técnicos de las CCyL podrán solicitar del adjudicatario informe 
+sobre el desarrollo de este plan, sobre las incidencias y variaciones en el mismo y sobre 
+los resultados conseguidos en cada tarea propuesta. De igual forma, se podrán solicitar 
+la celebración de reuniones en las que se evalúe la situación y resultados de cada 
+momento y se realicen las oportunas modificaciones correctoras al mismo.
+Se generará documentación de todas las intervenciones realizadas, que será 
+puesta a disposición de los responsables técnicos de las CCyL. Se acordará con los 
+mismos el contenido de dicha documentación en función de la tipología de la 
+intervención a realizar.
+Se presentará informe por escrito a los responsables técnicos de las CCyL de las 
+cuestiones detectadas como consecuencia de los análisis periódicos de los sistemas, 
+durante la operación de los mismos o en la realización de las tareas relativas a las 
+prestaciones objeto del contrato. Se presentarán también propuesta s de medidas 
+correctivas o cualquier otra cuestión de interés para el mejor funcionamiento de los 
+sistemas.
+Con periodicidad mensual se presentará un informe de las actuaciones realizadas 
+con motivo de la ejecución del contrato. El contenido de dichos informes se acordará 
+con los responsables técnicos de las CCyL.
+Todos los inventarios de material, planos, planes de mantenimiento, manuales de 
+equipamiento, copias de seguridad, datos de configuración, informes y demás 
+documentos producidos y/o empleados en el curso de la ejecución del contrato se 
+mantendrán en un sistema telemático que permita su consulta en cualquier momento
+tanto al personal del adjudicatario como a los responsables técnicos de las CCyL.
+El licitador incluirá en su oferta los planes de contingencia, recuperación ante 
+catástrofes o continuidad de los serviciosque se pondrán en práctica en caso de ser 
+necesario paragarantizar el funcionamiento de los sistemas o la prestación del servicio 
+en caso de problemas severos. 
+Dichos planes deberán incluir, al menos, las operaciones a realizar para la 
+restauración de los servicios afectadosy un tiempo estimado de ejecución. Los planes 
+deberán ser concordantes con el resto de la oferta en lo que se refiere a compromisos 
+de disponibilidad de servicio y tiempos de recuperación, personal destacado en el 
+edificio y stock de sustitución a suministrar.
+
+--- página 15 ---
+Plaza de las Cortes de Castilla y León, 1
+47015 - Valladolid
+informatica@ccyl.es 15 de 19
+En aquellos casos en los que el plan incluido no permita la restauración del servicio 
+al 100%, éste deberá explicitar qué funciones del sistema o servicio no estarán 
+disponibles durante el tiempo que el sistema esté funcionando mediante el plan de 
+continuidad.
+El licitador incluirá asimismo la periodicidad de los ensayos y pruebas de los 
+planes incluidos. En los casos en los que, por el impacto de la aplicación de los planes 
+en los servicios de las CCyL, sea desaconsejable su ensayo sobre las instalaciones, se 
+proporcionará adicionalmente un plan de prueba con los conjuntos de operaciones de 
+verificación que permitan tener una certeza razonable de la correcta ejecución del plan 
+de continuidad.
+El adjudicatario deberá mantener y actualizar los planes según los resultados de 
+los ensayos, los cambios en las infraestructuras o equipos implicados o las directrices 
+de las CCyL. Del mismo modo, en aquellos casos en los que los responsables técnicos 
+de las CCyL así lo requieran, elaborará nuevos planes de continuidad y nuevos planes 
+de prueba de los mismos.
+El adjudicatario deberá obtener la autorización explícita de los responsables 
+técnicos de las CCyL antes de poner en práctica cualquiera de los planes de 
+continuidad.
+Este plan se valorará conforme a lo dispuesto en el Pliego de Cláu sulas 
+Administrativas Particulares en la cláusula correspondiente a Criterios no evaluables 
+mediante la mera aplicación de fórmulas, apartado Plan de continuidad y calidad 
+de servicio.
+El adjudicatario presentará en su oferta los compromisos de tiempo máximo de 
+reparación o sustitución sobre distintos tipos de equipos, tal como se menciona en la 
+prescripción 4.2 Garantía sobre el equipamiento de red y seguridad. del presente 
+pliego.
+El licitador incluirá los compromisos de calidad de servicio en cada uno de los 
+sistemas y servicios incluidos en su oferta. Dichos compromisos incluirán el tiempo de 
+primera respuesta y el tiempo de resolución de incidencias.
+Se deberán incluir al menos dos niveles de calidad de servicio: los comprometidos 
+para servicios y acciones correctivas sobre elementos críticos y los comprometidos para 
+servicios y acciones correctivas sobre elementos ordinarios.
+Se considerará elemento o servicio crítico aquél cuyo mal funcionamiento o no 
+disponibilidad:
+a) dificulte severamente o imposibilite la celebración normal de una sesión 
+parlamentaria o actividad institucional,
+b) o afecte al 10% de los usuarios de las CCyL,
+c) o dificulte severamente o imposibilite el funcionamiento de otros 
+sistemas de las CCyL que tengan a su vez la consideración de críticos,
+d) o exponga a las CCyL a serias amenazas contra la seguridad o 
+integridad de su personal, sus instalaciones, sus sistemas o sus datos.
+
+--- página 16 ---
+Plaza de las Cortes de Castilla y León, 1
+47015 - Valladolid
+informatica@ccyl.es 16 de 19
+Todos los elementos o servicios que no tengan la consideración de críticos se 
+considerarán ordinarios.
+La empresa licitadora se compromete a prestar, al menos, los siguientes niveles 
+de calidad de servicio:
+Sobre sistemas críticos:
+a) Cobertura asistencial: 24 horas al día los 365 días del año.
+b) Tiempo de primera respuesta ante incidencias: inferior a 30 minutos 
+desde la comunicación de la incidencia hasta que se facilita la evaluación 
+preliminar de estado a los técnicos responsables de las CCyL.
+c) Tiempo de restauración del servicio tras incidencia: inferior a 4 horas 
+desde la comunicación de la incidencia.
+d) Tiempo de resolución de la incidencia: inferior a 7 días desde la 
+comunicación de la incidencia.
+e) Tiempo de no disponibilidad al año: no superior a 20 horas/año para cada 
+elemento, considerando tanto paradas programadas como no 
+programadas. P odrá extenderse el tiempo total para paradas 
+programadas previo acuerdo con los responsables técnicos de las CCyL.
+f) Tiempo de ejecución de tareas de mantenimiento : dentro de los 
+márgenes de tiempo acordados con los responsables técnicos de las 
+CCyL. El servicio deberá estar totalmente operativo al concluir dicho 
+margen.
+Sobre sistemas ordinarios:
+a) Cobertura asistencial: la especificada en el apartado correspondiente del 
+presente pliego.
+b) Tiempo de primera respuesta ante incidencias: inferior a 24 horas desde 
+la comunicación de la incidencia.
+c) Tiempo de restauración del servicio tras incidencia: inferior a 72 horas 
+desde la comunicación de la incidencia.
+d) Tiempo de resolución de la incidencia: inferior a 7 días desde la 
+comunicación de la incidencia.
+e) Tiempo de no disponibilidad al año: no superior a 96 horas/año para cada 
+elemento, considerando tanto paradas programadas como no 
+programadas. P odrá extenderse el tiempo total para paradas 
+programadas previo acuerdo con los responsables técnicos de las CCyL.
+El licitador podrá mejorar en su oferta los compromisos de calidad de servicio 
+descritos anteriormente, que serán considerados mínimos y de obligado cumplimiento 
+con independencia de los ofertados por el adjudicatario. Estos compromisos se 
+valorarán conforme a lo dispuesto en el Pliego de CláusulasAdministrativas Particulares 
+en la cláusula correspondiente a Criterios no evaluables mediante la mera aplicación 
+de fórmulas, apartado Plan de continuidad y calidad del servicio.
+
+--- página 17 ---
+Plaza de las Cortes de Castilla y León, 1
+47015 - Valladolid
+informatica@ccyl.es 17 de 19
+Las CCyL designarán a los responsables técnicos que se constituirán en equipo 
+de trabajo con los técnicos que designe la empresa adjudicataria a efectos de gestión y 
+seguimiento del mantenimiento de los sistemas objeto del contrato.
+Dentro de este equipo de seguimiento, el adjudicatario y las CCyL designarán los 
+responsables de comunicación entre ambas organizaciones y aquellos que tendrán las 
+responsabilidades de coordinar las actuaciones y establecer metodologías para las 
+mismas.
+Este equipo tomará decisiones, de acuerdo con lo establecido en este pliego, 
+sobre la ejecución de la oferta del adjudicatario, para lograr la máxima eficacia y corregir 
+posibles desviaciones y problemas que pudieran surgir.
+El adjudicatario notificará los cambios que puedan efectuarse en el equipo 
+mencionado en el presente apartado.
+La empresa licitadora detallará en su oferta el equipo humano que prestará los 
+servicios objeto del presente contrato, indicados en el apartado 4.Servicios a prestar
+del presente pliego . Deberá estar formado al menos por un responsable y cuanto 
+personal estime necesario para cumplir con las prescripciones del presente pliego y de 
+su oferta.
+El licitador detallará explícitamente el equipo humano que estará dedicad o a 
+prestar la asistencia exigida en el presente pliego, así como el grado de dedicación 
+temporal de cada uno. Este equipo se valorará según lo establecido en el Pliego de 
+Cláusulas Administrativas, correspondiente a Criterios no evaluables mediante la 
+mera aplicación de fórmulas apartado Equipo técnico.
+El adjudicatario designará un interlocutor único que actuará como responsable del 
+proyecto por su parte y que se responsabilizará del seguimiento del proyecto al objeto 
+de evaluar la calidad de los trabajos y el cumplimiento de los objetivos, adoptando las
+medidas correctoras que, en su caso, procedan.  Este responsable representa al 
+adjudicatario ante las CCyL en todo lo que concierne a la prestación de los servicios.
+Si, durante la ejecución del contrato, la empresa adjudicataria tuviese necesidad 
+de cambiar parte del personal técnico propuesto en la oferta, lo comunicará previamente 
+a los responsables técnicos de las CCyL, con el fin de que pueda autorizarse en su caso 
+dicha sustitución, sin que ello suponga menoscabo en la calidad de los trabajos o de las 
+fechas comprometidas, ni pueda suponer un detrimento en el perfil profesional respecto 
+del incluido en la oferta. 
+Así mismo las CCyL se reservan el derecho a solicitar la sustitución de alguno o 
+de todos los miembros del equipo cuando exista razón justificada para ello. 
+
+--- página 18 ---
+Plaza de las Cortes de Castilla y León, 1
+47015 - Valladolid
+informatica@ccyl.es 18 de 19
+Las CCyL podrán comunicar al adjudicatario incidencias relativas a los sistemas 
+objeto de la presente licitación. Dichas incidencias incluirán información sobre 
+cuestiones detectadas por las CCyL en materia de funcionamiento, rendimiento, 
+adecuación a los planes de mantenimiento o cualquier otra que se considere relevante.
+El licitador incluirá en su oferta su propuesta para la gestión de incidencias. El 
+procedimiento de resolución de incidencias será coherente con los planes de 
+mantenimiento y permitirá el cumplimiento de los niveles de calidad de servicio referidos 
+en el presente pliego.
+En todo caso, el procedimiento cubrirá las siguientes fases:
+1. Detección y comunicación de la incidencia. 
+2. Registro de la incidencia. 
+3. Resolución de la incidencia. 
+4. Comunicación de la resolución de la incidencia y cierre de la misma.
+El cierre será efectivo por comunicación expresa de los Servicios técnicos de las 
+CCyL, en la misma se indicará si la resolución de la incidenciaha sido completa o parcial 
+y si son necesarias actuaciones posteriores. El adjudicatario informará detalle del 
+cambio o la incidencia detectada, los efectos provocados, el tiempo empleado en su 
+resolución y los trabajos realizados por parte del personal propio para lograr devolver el 
+servicio a su correcto funcionamiento. 
+El licitador empleará para la gestión de las incidencias y las operaciones el 
+software de gestión de incidencias que las Cortes de Castilla y León proporcionen para 
+tal fin.
+El sistema de gestión de incidencias que las Cortes pondrán a su disposición
+permitirá en todo caso:
+a) La introducción, modificación y cierre de incidencias por parte de los 
+responsables técnicos de las CCyL y por el personal destinado al 
+proyecto por la empresa adjudicataria.
+b) La supervisión del estado de resolución de cualquier incidencia por parte 
+de los responsables técnicos de las CCyL y de la empresa adjudicataria.
+c) El envío automático de correo electrónico en caso de introducción de 
+una nueva incidencia o de cambios en el estado de una incidencia.
+d) La obtención de informes -resumen de estado de las incidencias y de 
+incidencias recibidas/resueltas por categoría de incidencia y/o sistema 
+afectado.
+Los servicios técnicos de las CCyL podrán establecer mecanismos de versionado 
+de la configuración de los sistemas objeto del presente contrato.
+El adjudicatario deberá entregar puntualmente a los responsables técnicos de las 
+CCyL toda la información de configuración de los sistemas obtenida como consecuencia 
+de la ejecución de las tareas objeto del presente contrato. Del mismo modo, deberá 
+
+--- página 19 ---
+Plaza de las Cortes de Castilla y León, 1
+47015 - Valladolid
+informatica@ccyl.es 19 de 19
+entregar puntualmente todas las copias de respaldo realizadas durante el desarrollo del 
+contrato.
+El adjudicatario podrá establecer en sus dependencias sus propios sistemas de 
+almacenamiento y versionado de copias de respaldo e información de configuración, 
+siempre atendiendo a las cuestiones de confidencialidad de la información incluidas en 
+la cláusula correspondiente del Pliego de Cláusulas Administrativas Particulares y en la 
+legislación vigente. En ningún caso podrá facilitar dicha información a terceros sin 
+autorización por escrito de las CCyL.
+El adjudicatario se compromete a entregar a los responsables técnicos de las 
+CCyL toda la información almacenada en sus dependencias al término del presente 
+contrato, no pudiendo guardar copia alguna por ningún motivo.
+Durante la ejecución de los trabajos objeto del contrato, el adjudicatario se 
+compromete a facilitar en todo momento a los responsables técnicos de las CCyL, la 
+información y documentación que éstas soliciten para disponer de un pleno 
+conocimiento de las c ircunstancias en que se desarrollan los trabajos, así como de los 
+eventuales problemas que puedan plantearse y de las tecnologías, métodos, 
+herramientas y otros recursos utilizados para resolverlos.
+Esta transferencia se realizar á de acuerdo con los responsables técnicos de las 
+CCyL.
+Las CCyL pondrán a disposición del adjudicatario un almacén cercano al área 
+técnica para el almacenamiento del stock comprometido y del resto de equipamiento y 
+material necesarios para la ejecución del contrato.
+Los recursos cedidos por las CCyL al adjudicatario no son para su uso exclusivo, 
+debiendo compartir dichos espacios cuando así sea necesario. En todo caso, las CCyL 
+procurarán que el almacén de equipamiento y material técnico sea de uso exclusivo y 
+cerrado con llave.

@@ -1,0 +1,371 @@
+
+
+--- página 1 ---
+CONSEJERÍA DE PRESIDENCIA Y GOBERNACIÓN 
+ 
+ 
+ 
+Ciudad Autónoma de Ceuta – Plaza de África s/n, 3ª planta - 51001 - CEUTA: Teléfono de Información: 956528115/956528222 – 
+ 
+ 
+ 
+CONSEJERÍA DE PRESIDENCIA Y GOBERNACIÓN 
+Ciudad Autónoma de Ceuta. 
+ 
+ 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS QUE HA DE REGIR LA 
+CONTRATACIÓN DEL SERVICIO DE MANTENIMIENTO DEL SISTEMA DE 
+GESTION DE SANCIONES DE LA CIUDAD AUTONOMA DE CEUTA 
+ 
+ 
+1.- Finalidad del contrato: 
+El objeto del presente pliego consiste en la definición del contenido para contratación por parte de la Ciudad 
+Autónoma de Ceuta de un servicio de soporte, mantenimiento del sistema informático de gestión de sanciones 
+propuestas por la Policía Local de Ceuta, además de un sistema completo de tramitación y seguimiento de los 
+expedientes generados. El servicio constara de diferentes modalidades que serán descritas en los apartados 
+siguientes, siendo de aplicación de forma integral al propio software de gestión y a los dispositivos de movilidad y 
+control usados por la Policía Local de Ceuta que sean definidos en este pliego. 
+El fin del contrato será la prestación del mantenimiento técnico, el soporte, ampliación, actualización y adecuación 
+de funcionalidades y la formación a usuario necesaria para el óptimo rendimiento de los distintos componentes de 
+los servicios implicados en el uso de la plataforma de gestión de sanciones. 
+ 
+ 
+2.- Antecedentes: 
+La Ciudad Autónoma de Ceuta, durante el año 2023, efectuó una campaña de modernización del sistema de 
+gestión sanciones de la Policía Local de Ceuta y de los servicios involucrados en el procedimiento por medio de la 
+implementación de un sistema de gestión digital de expedientes sancionadores ( GESSAN), esto ha supuesto una 
+mejora sustancial en la eficacia de la gestión de expedientes sancionadores propuestos por la Policía Local, 
+ofreciendo mayor transparencia y control sobre los expedientes. 
+El escenario actual requiere que exista una continuidad de los servicios de mantenimiento y soporte ofrecidos por la 
+empresa adjudicataria del anterior contrato, que quedarán extintos a la finalización del periodo de adjudicación; siete 
+de octubre de 2026. Para garantizar el funcionamiento optimo de la plataforma y que continue siendo actualizado 
+tecnológica y normativamente, se hace necesaria la contratación de un servicio de mantenimiento integral de esta 
+plataforma. 
+ 
+ 
+3.- Componentes objeto del servicio: 
+El sistema de gestión está formado por un grupo de aplicaciones que serán afectados por este pliego y serán 
+descritas a continuación. 
+ 
+ 
+3.1.- Software: 
+ 
+Código Seguro de Verificación: EXP-F4FCF1A3684C3FE8694834207B89A51A | Este CSV asegura la integridad de esta información, que puede ser contrastada mediante el servicio de
+validación de documentos de la Ciudad Autónoma de Ceuta disponible en su Carpeta Ciudadana o en http://www.ceuta.es/validacion. | Documento incorporado en fecha 29/10/2026 13:02:13
+
+
+--- página 2 ---
+CONSEJERÍA DE PRESIDENCIA Y GOBERNACIÓN 
+ 
+ 
+ 
+Ciudad Autónoma de Ceuta – Plaza de África s/n, 3ª planta - 51001 - CEUTA: Teléfono de Información: 956528115/956528222 – 
+ 
+El conjunto de aplicaciones software que son objeto de este contrato lo forman todos aquellos programas implicados 
+exclusivamente en el proceso de gestión de las sanciones y que sirven de apoyo al mismo. Según su denominación 
+son: 
+- GESSAN MOBILE: aplicación con integración total con los servicios de consulta de la Dirección General de 
+Tráfico, desde la que los agentes de la policía local consultan datos de vehículos y rellenan boletines de 
+forma totalmente digital. 
+- MCam IA: software de control masivo de reconocimiento de matrículas usado para las campañas de 
+detección y prevención en seguridad vial. 
+- MPP: el manual práctico policial ofrece a los agentes un sistema de sencillo de consulta de normativa y 
+cumplimentación de actas. 
+- GESSAN WEB: plataforma integral de gestión de expedientes sancionadores derivados de un 
+procedimiento sancionador de tráfico o una ordenanza municipal. 
+El coste del mantenimiento de la infraestructura y las licencias que soportan el software corre a cargo de la empresa 
+ofertante, en modalidad SaaS (Software as a Service). A petición de la Ciudad Autónoma de Ceuta, el sistema será 
+instalado en la infraestructura de la ciudad, siendo los costes de licenciamiento de los servidores (BBDD, 
+Virtualización) a cargo de esta. 
+ 
+3.2.- Hardware: 
+ 
+Será objeto del contrato el mantenimiento, en los términos del apartado 4.3, de los dispositivos de dotación de la 
+Policía Local relacionados en el Anexo I de este pliego, que constituye la relación cerrada del equipamiento incluido 
+en el contrato. 
+El hardware que quedará suscrito al mantenimiento de este contrato: 
+ 
+1. Dispositivos en Movilidad: 
+ Tabletas Profesionales. 
+ Móviles Profesionales. 
+ Impresoras Térmicas Portátiles. 
+ Dispositivos móviles con alta capacidad de reconocimiento óptico. 
+2. Cinemómetros 
+3. UCIs: Unidades de Captura Inteligentes mediante visión artificial (salto semafórico, zonas de 
+acceso restringido de circulación). 
+4. Unidades RPAS. 
+5. Dispositivos de análisis para controles de drogas o alcohol. 
+ 
+Los elementos de interconexión y de control requeridos para su funcionamiento por los radares, las UCIs y los 
+dispositivos de análisis de sustancias relacionados en el Anexo I (ordenadores, concentradores, enrutadores y 
+cámaras asociados a dichos equipos) quedan incluidos en el mantenimiento. 
+Los dispositivos y sus elementos que deben ser mantenidos quedarán reflejados en el Anexo I de este documento. 
+ 
+4.- Descripción del servicio: 
+Mantenimiento del software. Soporte a usuarios.  
+4.1.- Mantenimiento del software: 
+Será de aplicación de forma general al software enumerado en el punto 3.1 y deberá consistir en la realización de las 
+Código Seguro de Verificación: EXP-F4FCF1A3684C3FE8694834207B89A51A | Este CSV asegura la integridad de esta información, que puede ser contrastada mediante el servicio de
+validación de documentos de la Ciudad Autónoma de Ceuta disponible en su Carpeta Ciudadana o en http://www.ceuta.es/validacion. | Documento incorporado en fecha 29/10/2026 13:02:13
+
+
+--- página 3 ---
+CONSEJERÍA DE PRESIDENCIA Y GOBERNACIÓN 
+ 
+ 
+ 
+Ciudad Autónoma de Ceuta – Plaza de África s/n, 3ª planta - 51001 - CEUTA: Teléfono de Información: 956528115/956528222 – 
+ 
+siguientes tareas: 
+ Mantenimiento correctivo: Corrección de las incidencias y problemas que se presenten imputables 
+al software, incluyendo la recuperación de datos erróneos generados por el mal funcionamiento 
+de la aplicación. 
+ Mantenimiento evolutivo: Actualización e inclusión de nuevas funcionalidades o mejoras que el 
+producto contemple durante su evolución. Este concepto incluye la implantación de nuevas 
+versiones de la aplicación    y documentación. 
+ Mantenimiento adaptativo: Adaptación del software a los cambios motivados por modificaciones 
+de la normativa legal o de procedimiento. 
+El adjudicatario será responsable y deberá mantener actualizadas las aplicaciones en todos sus ámbitos a la 
+normativa aplicable actualmente y adaptarlas a las posibles modificaciones u otras disposiciones legales futuras. 
+El adjudicatario es responsable de los servidores y resto de hardware relacionado con el funcionamiento, 
+conectividad, rendimiento y almacenamiento de la plataforma de sanciones y todos los datos que está almacene. 
+ 
+ 
+4.1.1.- Otras tareas que deben ser cubiertas en los servicios: 
+ 
+Si bien, las aplicaciones pertenecientes a los sistemas corporativos de la Ciudad Autónoma de Ceuta quedan fuera del 
+alcance de este contrato, el adjudicatario deberá; si fuese necesario; a petición de los servicios de la Ciudad 
+Autónoma de Ceuta tener capacidad suficiente para la realización de la integración del software recogido en el 
+mantenimiento del presente pliego con las herramientas de gestión informática que operan actualmente en esta 
+administración. 
+Las tareas de integración se realizarán en coordinación con el servicio de informática de la Ciudad Autónoma de 
+Ceuta y no supondrá incremento en la cuantía del contrato. 
+El adjudicatario velara por la continua conexión y las modificaciones necesarias para mantener el sistema 
+interconectado con los sistemas estatales de información necesarios ( DGT). 
+ 
+ 
+4.1.2.- Incorporación de funcionalidades: 
+ 
+El adjudicatario deberá realizar las tareas necesarias para modificar en la plataforma la gestion de los expedientes 
+sancionadores por infracción de las ordenanzas municipales de la Ciudad Autónoma de Ceuta cuya denuncia 
+corresponda a la Policía Local.  
+ 
+La incorporación comprenderá, para cada ordenanza, la carga del catálogo de infracciones y sanciones, la formulación 
+de la denuncia desde los terminales de los agentes y la tramitación del expediente en GESSAN WEB con los mismos 
+trámites, modelos y flujos de trabajo ya disponibles para los expedientes de tráfico. Esta incorporación deberá 
+integrarse estructuralmente dentro del software ya existente, no debiendo implicar ningún cambio en el entorno de 
+trabajo de la aplicación. 
+ 
+Además, se deberá incluir como funciones adicionales en la plataforma existente: 
+ 1.- Geolocalización de la infracción mediante posicionamiento GPS o alternativamente selección manual en 
+callejero urbano desde los terminales de dotación de los agentes. 
+ 2.- Captura de datos mediante NFC de documentos DNI y NIE. 
+ 
+4.2.- Soporte a usuarios: 
+ 
+El adjudicatario deberá atender la resolución de consultas en cuanto a la operativa de las aplicaciones, tanto por vía 
+Código Seguro de Verificación: EXP-F4FCF1A3684C3FE8694834207B89A51A | Este CSV asegura la integridad de esta información, que puede ser contrastada mediante el servicio de
+validación de documentos de la Ciudad Autónoma de Ceuta disponible en su Carpeta Ciudadana o en http://www.ceuta.es/validacion. | Documento incorporado en fecha 29/10/2026 13:02:13
+
+
+--- página 4 ---
+CONSEJERÍA DE PRESIDENCIA Y GOBERNACIÓN 
+ 
+ 
+ 
+Ciudad Autónoma de Ceuta – Plaza de África s/n, 3ª planta - 51001 - CEUTA: Teléfono de Información: 956528115/956528222 – 
+ 
+telefónica como por cualquier medio telemático, tanto de aspectos de tipo conceptual como de tipo informático y 
+resolución de incidencias del entorno de explotación directamente relacionadas con el producto, siempre que deriven 
+de su mal funcionamiento. 
+Para ello el adjudicatario deberá disponer del equipo humano necesario para poder prestar el servicio en horario de 
+8:00 a 15:00 de lunes a viernes y un medio de contacto fuera de este horario para urgencias. 
+Se proporcionará servicio de Asistencia Técnica remota bajo demanda, pudiendo ser telefónica (hotline) o por 
+cualquier otro medio de comunicación para la intervención o resolución de cuestiones relativas al funcionamiento del 
+Sistema, tanto para el equipamiento como las aplicaciones informáticas. 
+El adjudicatario ofrecerá la formación necesaria para el correcto uso tanto de aplicaciones como de hardware, 
+cuando sea necesario por motivos derivados de modificaciones de las aplicaciones, del hardware o por 
+incorporaciones de nuevos usuarios. 
+ 
+4.3.- Mantenimiento del hardware: 
+ 
+El mantenimiento del hardware objeto de este contrato incluye todas aquellas acciones preventivas, correctivas, 
+evolutivas y de asistencia tecnológica dirigidas a conseguir que el software funcione correctamente y ofrezca el 
+rendimiento adecuado. El adjudicatario deberá siempre que sea necesario mantener el software de los dispositivos 
+actualizado y mantener la compatibilidad hardware-software. 
+El adjudicatario deberá realizar un servicio general de mantenimiento del hardware descrito en el Anexo I, ofreciendo 
+el soporte requerido. 
+La configuración, puesta en marcha e integración de los dispositivos que, en su caso, sustituyan a los relacionados 
+en el Anexo I por avería o fin de su vida útil será responsabilidad del adjudicatario. 
+En referencia a radares, drones, drogotest, alcotest y unidades de captura inteligente, el adjudicatario deberá 
+hacerse cargo de las revisiones, controles y actuaciones necesarias sobre los dispositivos para la obtención o 
+mantenimiento de las certificaciones precisas para su operativa dentro del marco legal. También será a cargo del 
+adjudicatario los costes de certificación que se requieran del Centro Nacional de Metrología u otras entidades. 
+El adjudicatario será responsable y deberá mantener actualizados los dispositivos a la normativa aplicable 
+actualmente y adaptarlas a las posibles modificaciones legales. 
+ 
+4.4.- Elaboración de informes y estadísticas: 
+ 
+Comprende los trabajos necesarios para la elaboración de informes y estadísticas sobre las actividades realizadas 
+que deberá presentarse de forma mensual al responsable del contrato. El informe se realizará indicando el número 
+total de incidencias resueltas, indicando el origen y detalle de la incidencia, si ha sido resuelta exitosamente y el 
+tiempo de resolución. Se realizarán todos aquellos informes referentes al uso de las aplicaciones que sean 
+solicitados por el responsable del contrato. 
+4.5.- Niveles de servicio: tiempos de respuesta y resolución: 
+ 
+Las incidencias serán clasificadas por el responsable del contrato, al comunicarlas, en los siguientes niveles: 
+Incidencia crítica: la que impide el funcionamiento de la plataforma o de alguna de sus aplicaciones 
+(GESSAN MOBILE, GESSAN WEB, MCam IA o MPP) para la generalidad de los usuarios, o 
+interrumpe la interconexión con la Dirección General de Tráfico. 
+ 
+Incidencia grave:  la que afecta a una funcionalidad relevante o a un grupo de usuarios o 
+dispositivos, sin impedir el funcionamiento general del servicio. 
+Código Seguro de Verificación: EXP-F4FCF1A3684C3FE8694834207B89A51A | Este CSV asegura la integridad de esta información, que puede ser contrastada mediante el servicio de
+validación de documentos de la Ciudad Autónoma de Ceuta disponible en su Carpeta Ciudadana o en http://www.ceuta.es/validacion. | Documento incorporado en fecha 29/10/2026 13:02:13
+
+
+--- página 5 ---
+CONSEJERÍA DE PRESIDENCIA Y GOBERNACIÓN 
+ 
+ 
+ 
+Ciudad Autónoma de Ceuta – Plaza de África s/n, 3ª planta - 51001 - CEUTA: Teléfono de Información: 956528115/956528222 – 
+ 
+ 
+Incidencia leve: cualquier otra incidencia, consulta o petición que no afecte al funcionamiento del 
+servicio. 
+ 
+Los tiempos máximos de respuesta y de resolución, computados desde la comunicación de la incidencia por 
+cualquiera de los medios previstos en el apartado 4.2, serán los siguientes: 
+ 
+Incidencia crítica: tiempo de respuesta, 1 hora; tiempo de resolución, 4 horas. 
+Incidencia grave: tiempo de respuesta, 4 horas; tiempo de resolución, 1 días hábiles. 
+Incidencia leve: tiempo de respuesta, 1 día hábil; tiempo de resolución, 5 días hábiles. 
+ 
+Las averías del hardware relacionado en el Anexo I que dejen el dispositivo inoperativo deberán resolverse en un 
+plazo máximo de 5 días hábiles, mediante su reparación o la puesta a disposición de un equipo equivalente 
+mientras dure esta. 
+ 
+Se entiende por tiempo de respuesta el que transcurre hasta que el adjudicatario confirma la recepción de la 
+incidencia e inicia su atención, y por tiempo de resolución el que transcurre hasta que la incidencia queda resuelta o 
+se aplica una solución alternativa que permita continuar el servicio. Los tiempos de las incidencias críticas se 
+computan en horas naturales, a cuyo efecto se utilizará el medio de contacto para urgencias del apartado 4.2; los 
+del resto de incidencias, dentro del horario de atención fijado en dicho apartado. 
+ 
+El cumplimiento de estos tiempos se acreditará en los informes mensuales del apartado 4.4, y su incumplimiento 
+dará lugar a las penalidades previstas en el Pliego de Cláusulas Administrativas Particulares. 
+ 
+ 
+5.- Requisitos de los licitadores: 
+Los licitadores deberán acreditar tener acceso a la realización de modificaciones, actualizaciones y correcciones en 
+las aplicaciones. 
+Los servicios de alojamiento y ejecución deberán presentarse en un entorno “cloud” ( Private Cloud), no implicando 
+costes adicionales. A petición del cliente, el sistema debe poder ser instalado en la infraestructura de la Ciudad 
+Autónoma de Ceuta, siendo los costes de licenciamiento de los servidores a cargo de esta. Los licitadores siempre 
+facilitaran la transferencia de datos, la migración a otros sistemas y la cooperación con otros servicios a 
+requerimiento de la Ciudad Autónoma de Ceuta. 
+ 
+6.- Normativa aplicable: 
+El servicio a prestar deberá proteger la confidencialidad, integridad y disponibilidad de la información y contará con 
+todos los elementos necesarios para garantizar en todo momento la seguridad de la información, debiendo informar 
+al responsable de este contrato de todas aquellas modificaciones, actualizaciones o mejoras desarrolladas en virtud 
+del marco normativo aplicable, así mismo informará de forma inmediata ante cualquier evento que tenga incidencia 
+sobre la seguridad de la información. 
+El adjudicatario cumplirá con lo dispuesto en el Real Decreto 311/2022, de 3 de mayo, por el que se regula el 
+Esquema Nacional de Seguridad, y en el Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema 
+Nacional de Interoperabilidad en el ámbito de la Administración Electrónica, en lo que a la adopción de medidas de 
+seguridad e interoperabilidad de los servicios de administración electrónica se refiere, así como en las 
+modificaciones que pudieran producirse durante la vigencia de este contrato. Los sistemas de información que 
+Código Seguro de Verificación: EXP-F4FCF1A3684C3FE8694834207B89A51A | Este CSV asegura la integridad de esta información, que puede ser contrastada mediante el servicio de
+validación de documentos de la Ciudad Autónoma de Ceuta disponible en su Carpeta Ciudadana o en http://www.ceuta.es/validacion. | Documento incorporado en fecha 29/10/2026 13:02:13
+
+
+--- página 6 ---
+CONSEJERÍA DE PRESIDENCIA Y GOBERNACIÓN 
+ 
+ 
+ 
+Ciudad Autónoma de Ceuta – Plaza de África s/n, 3ª planta - 51001 - CEUTA: Teléfono de Información: 956528115/956528222 – 
+ 
+soportan la prestación deberán ser conformes con el Esquema Nacional de Seguridad en la categoría MEDIA, lo 
+que el adjudicatario acreditará antes del inicio de la ejecución mediante la Declaración o Certificación de 
+Conformidad que corresponda a dicha categoría, y mantendrá durante toda la vigencia del contrato. El adjudicatario 
+garantizará los principios básicos y requisitos mínimos de protección requeridos en el Esquema Nacional de 
+Seguridad, para una protección adecuada de la información. 
+Si cualquiera de los productos incorporados en este contrato, o sus actualizaciones o nuevos módulos que se 
+incorporasen durante la duración del mismo, presentasen entornos de trabajo afectados por el Real Decreto 
+1112/2018, sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público, la 
+empresa adjudicataria tendrá la obligación de realizar las adaptaciones oportunas para cumplir con los requisitos que 
+en cada momento les sean exigibles por la mencionada normativa. 
+El tratamiento de datos personales derivado de la ejecución del contrato se someterá al Reglamento (UE) 2016/679, 
+General de Protección de Datos, y a la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales 
+y garantía de los derechos digitales. La finalidad del tratamiento es la gestión de los expedientes sancionadores de 
+la Policía Local y de los servicios municipales implicados. El adjudicatario tendrá la condición de encargado del 
+tratamiento y suscribirá el contrato de encargo previsto en el artículo 28 del Reglamento (UE) 2016/679 antes del 
+inicio de la ejecución. 
+ 
+ 
+ 
+7.- Presupuesto, forma de pago y duración del contrato: 
+El presupuesto base de licitación asciende a cincuenta y dos mil ochocientos euros (52.800,00 €), de los que 
+cincuenta mil setecientos sesenta y nueve euros con veintitrés céntimos (50.769,23 €) corresponden al precio sin 
+impuestos y dos mil treinta euros con setenta y siete céntimos (2.030,77 €) al IPSI (4 %). El valor estimado del 
+contrato, IPSI excluido, asciende a 50.769,23 €. 
+La duración del contrato será de un año a contar desde el día siguiente a su formalización. 
+ 
+El precio se abonará por trimestres vencidos, previa presentación de factura electrónica y de los informes 
+mensuales del apartado 4.4 de este pliego, conformados por el responsable del contrato. 
+Ceuta, 29 de octubre de 2026 
+ 
+ 
+ 
+ 
+Francisco Javier Marfil Lugo 
+ Programador – Operador 
+Consejería de Presidencia y Gobernación 
+ 
+ANEXO I 
+ 
+ 
+ 
+ 
+ 
+ 
+30 Tabletas profesionales IP68. SAMSUNG SM-T575 
+65 Móviles profesionales IP68. ARMOR 8 PRO 
+95 Impresoras térmicas portátiles. ALTRAFFIC MOBILE 
+PRINTER BLUETOOTH 
+Código Seguro de Verificación: EXP-F4FCF1A3684C3FE8694834207B89A51A | Este CSV asegura la integridad de esta información, que puede ser contrastada mediante el servicio de
+validación de documentos de la Ciudad Autónoma de Ceuta disponible en su Carpeta Ciudadana o en http://www.ceuta.es/validacion. | Documento incorporado en fecha 29/10/2026 13:02:13
+
+
+--- página 7 ---
+CONSEJERÍA DE PRESIDENCIA Y GOBERNACIÓN 
+ 
+ 
+ 
+Ciudad Autónoma de Ceuta – Plaza de África s/n, 3ª planta - 51001 - CEUTA: Teléfono de Información: 956528115/956528222 – 
+ 
+4 Dispositivos móviles de alta capacidad de reconocimiento 
+óptico. REALME 9 
+4 Alco-test. 
+2 Drogotest. 
+1 Radar. 
+4 Unidades de Captura Inteligentes mediante visión artificial 
+(salto semafórico, zonas de acceso restringido de 
+circulación) 
+2 Drones RPAS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Código Seguro de Verificación: EXP-F4FCF1A3684C3FE8694834207B89A51A | Este CSV asegura la integridad de esta información, que puede ser contrastada mediante el servicio de
+validación de documentos de la Ciudad Autónoma de Ceuta disponible en su Carpeta Ciudadana o en http://www.ceuta.es/validacion. | Documento incorporado en fecha 29/10/2026 13:02:13

@@ -1,0 +1,537 @@
+
+
+--- página 1 ---
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+HERRAMIENTA REGISTRO DE LA 
+JORNADA DIARIA 
+Madrid, noviembre de 2026 
+
+--- página 2 ---
+ 
+pág. 2  
+ 
+ 
+Cláusula 1. Objeto 
+ 
+El objeto del contrato consiste en la contratación por parte de SAREB de los servicios de la herramienta de 
+Registro de la Jornada Diaria de sus empleados, de acuerdo con las necesidades que se plantean y definen en 
+el Pliego de Prescripciones Técnicas (en adelante “los Servicios”).  
+ 
+Los Servicios se referirán a la presentación de un proyecto o programa de servicios durante el periodo 
+comprendido entre las 00:00 horas del 1 de enero de 2027 a las 24:00h del 27 de noviembre de 2027, para dar 
+Cumplimiento a lo establecido en el art. 34.9 del Estatuto de los Trabajadores según Real Decreto -ley 8/2019 
+de 8 de marzo y así medir la productividad de sus empleados, SAREB implementando un sistema de registro de 
+jornada diaria en sus oficinas. 
+ 
+Cláusula 2. Duración del Contrato 
+ 
+La duración del contrato será desde las 00:00 horas del 1 de enero de 2027 a las 24:00h del 27 de noviembre 
+de 2027.  
+ 
+ 
+Cláusula 3. Contenido del Servicio  
+ 
+La herramienta de fichaje garantizará el registro diario de la jornada diaria, gestionando la flexibilidad 
+horaria, así como posibles solicitudes de horas extraordinarias y disponer de instrumentos para la medición 
+del cumplimiento de la jornada y horario por parte de los trabajadores de SAREB. 
+ 
+Los distintos interlocutores (Departamento de Personas y Cultura, Managers y empleados) podrán registrar las 
+actividades / solicitudes en el programa, así como aportar información relevante al registro de jornada en tiempo 
+real y con todo el detalle necesario.  
+ 
+También se definirán flujos de trabajo a seguir y avisos automatizados para los distintos interlocutores para 
+poder gestionar de forma eficaz las solicitudes que vayan surgiendo.  
+ 
+1.-  DESCRIPCIÓN TÉCNICA 
+ 
+Procedimiento Interno 
+ 
+1.1- Registro de inicio y finalización de jornada . El registro de la jornada diaria se lleva a cabo mediante un 
+sistema de fichajes digital, en el que cada persona trabajadora registra el inicio y la finalización de su jornada 
+diaria a través de la aplicación informática a tal efecto, que se instala o a la que se accede desde los dispositivos 
+corporativos puestos a disposición de cada persona trabajadora (ej. portátil, móvil, iPad, etc.). Las personas 
+trabajadoras tienen la obligación de registrar, de forma veraz, el inicio y la finalización de su jornada diaria de 
+trabajo, así como el tiempo dedicado a la pausa para la comida, dentro de los márgenes de flexibilidad y del 
+tiempo de trabajo establecidos para cada periodo del año. Si la persona trabajadora olvida registrar la hora de 
+salida, el sistema registrará como hora de finalización de la jornada diaria aquella en la que se haya alcanzado 
+el tiempo de trabajo diario establecido para cada periodo del año, asumiendo automáticamente, c uando 
+corresponda, que la pausa para la comida ha tenido una duración de 1 hora.  
+ 
+1.2- Valoración de necesidad de realización horas extraordinarias. Cada persona trabajadora es responsable 
+de administrar su horario de trabajo en los márgenes establecidos de flexibilidad. En consecuencia, cada 
+persona trabajadora ajustará sus entradas y salidas dentro de dichos márgenes a fin de cumplir diariamente 
+con el total del tiempo de trabajo establecido, sin excesos ni defectos. Las personas trabajadoras de Sareb no 
+están autorizadas a anticipar o retrasar por su voluntad su hora de entrada o salida, ni ampliar ni reducir su  
+
+--- página 3 ---
+ 
+pág. 3  
+ 
+ 
+ 
+pausa para la comida, más allá de las flexibilidades previstas en el procedimiento  interno. Si la persona 
+trabajadora pretende registrar un inicio o finalización de jornada excediendo el tiempo de trabajo establecido 
+y/o fuera de los márgenes de flexibilidad diaria establecidos tendrá que contar previamente con el formulario 
+de autorización por el departamento de Personas y Cultura, el sistema registrará como: Hora de inicio de la 
+jornada (si se pretende el registro antes de las 8:00): las 8:00. Hora de finalización de la jornada: aquella en la 
+que se haya alcanzado el tiempo de trabajo diario establecido para cada periodo del año, teniendo en cuenta 
+(i) la hora de entrada de la persona trabajadora registrada ese día y, de lunes a jueves entre el 1 de septiembre 
+y el 30 de junio, y (ii) el tiempo dedicado a la pausa de comida y registrado dicho día por el empleado. 
+ 
+Descripción de la Funcionalidad 
+ 
+La herramienta tiene que cubrir las necesidades de controlar los horarios de entrada y salida de la jornada 
+laboral de cada uno de los empleados.  
+ 
+Entendemos por “fichar” como el registro de jornada de un empleado en el software existente. El fichaje puede 
+producirse en el Portal Web del Empleado, App Android, Apps iOs.  
+ 
+El contrato tiene como objetivo la implantación de un sistema de control horario adaptado a las necesidades 
+de Sareb, el cual requiere de un sistema Cloud de fichaje, independiente del servidor que utilizamos  
+actualmente para la gestión de servicios. Es por ello que existirá un servidor independiente para  evitar 
+dependencias.  
+ 
+El sistema registrará los fichajes de los trabajadores dentro unos determinados tramos especificados de entrada 
+y salida (flexibilidad horaria), dándoles la posibilidad de ampliar estos tramos a través de una solicitud de 
+permisos de ampliación de jornada que deben realizarse con anterioridad. En caso de no encontrarse dentro 
+de estos tramos aprobados, el sistema hará el cómputo de jornada con la hora teórica de entrada/salida que 
+corresponda según horario.  
+ 
+Los empleados tendrán asignado un horario teórico de entrada y de salida que puede variar según las horas de 
+extensión de jornada aprobadas por el Departamento de Personas y Cultura para determinados días.  
+ 
+La hora teórica de salida dependerá, además de los permisos de ampliación de jornada aprobados, de la 
+imputación de horas para comer que realizará el trabajador durante su jornada laboral. El sistema no dejará 
+fichar la salida sin haberse indicado el tiempo de comida.  
+La carga de la información de los empleados y responsables se realizará a través de una integración mediante 
+ADFS.  
+ 
+El sistema permitirá la generación de informes de registro de jornada basados en las reglas especificadas. 
+ 
+Somos conscientes que la normativa puede suponer cambios sobre la petición realizada en el pliego y q ue el 
+adjudicatario siempre tendrá q ue actualizar el servicio en función de los requerimientos q ue el cambio de la 
+norma pueda suponer ahora o en cualquier momento durante la vigencia del contrato o sucesivas prórrogas. 
+ 
+ 
+Alcance y Objetivos de la Herramienta 
+ 
+Esta herramienta tiene como objetivo la implantación de un sistema de control horario adaptado a las 
+necesidades de Sareb.  
+Se establecen las bases de la implantación del sistema de registro de jornada, acordándose lo siguiente:  
+ 
+
+--- página 4 ---
+ 
+pág. 4  
+ 
+ 
+1. INSTALACIÓN Y ACCESO 
+ 
+La instalación estará incluida dentro de un modelo como servicio, SaaS. Debiéndose garantizar en todo 
+momento la independencia de datos y acceso con la información de otros posibles clientes, es decir Sareb 
+deberá disponer de un espacio dedicado. 
+ 
+No será requerida en ningún caso instalación de software o complementos en los sistemas cliente. 
+ 
+La aplicación deberá ser responsive, es decir soportar multi-plataforma y multi-dispositivo. 
+ 
+El acceso, será por tanto realizado a través de navegador web. Se deberá soportar los navegadores principales 
+de mercado y deberá ser utilizado siempre el modo seguro de comunicación. 
+El proveedor deberá garantizar un acceso vía internet, con filtraje de direccionamientos IP. 
+ 
+ 
+2. INTEGRACIÓN  
+ 
+Se realizará una integración con el SSO (Single Sign On) a través de ADFS (Active Directory Federation Services), 
+tanto para el acceso on-line, como para la carga de información. 
+La BBDD (Base de datos)  de la Herramienta de Registro de la Jornada, contará al menos  con los siguientes 
+campos:  
+• Empleado: código UBF y nombre completo  
+• Manager: código y nombre completo  
+• Departamento: código y nombre completo  
+• Sede: código y nombre completo  
+ 
+3. INTERLOCUTORES  
+ 
+Los principales interlocutores se detallan a continuación. Cada uno de ellos tendrá un rol asignado que les 
+permitirá gestionar, consultar y analizar la información de acuerdo a sus necesidades.  
+- Departamento de Personas y Cultura.  
+- Responsables de departamento (Managers).  
+- Empleados.  
+ 
+Será posible incorporar en cualquier momento nuevos roles y usuarios. 
+ 
+4. REQUISITOS SAREB  
+ 
+El método de registro de jornada podrá realizarse de estas dos maneras a elección de Sareb, una vez se publique 
+el Real Decreto de Desarrollo de la normativa de registro prevista para finales de 2026:   
+ 
+A) Se realizarán en la herramienta de fichaje cuatro movimientos diarios por cada empleado: 1.-registro hora 
+de entrada, 2.- registro hora de salida para comer, 3.- registro de hora de entrada después de comer y 4. - 
+registro de hora de salida.  O bién 
+ 
+B) Se realizarán dos movimientos diarios en la herramienta por cada empleado: registro hora de entrada y 
+registro hora de salida (el tiempo invertido para comer o cualquier otra ausencia se indicará cuando se 
+realice el registro de salida, en un apartado/opción llamado “MO TIVO)” eligiendo entre estos motivos, los 
+3 últimos de dedicación al tiempo de comida: 
+
+--- página 5 ---
+ 
+pág. 5  
+ 
+ 
+ 
+ 
+ 
+Si el trabajador quiere fichar antes de la hora de inicio de la jornada deberá obligatoriamente 
+seleccionar entre varias opciones de un apartado que se  llamará “MOTIVO” ,  La opción denominada 
+OTROS MOTIVOS. 
+ 
+ 
+Cuando se realice el registro de salida fuera del horario/jornada de Sareb, S.A. , se tendrá que seleccionar 
+obligatoriamente dentro del apartado de “MOTIVO” eligiendo entre estas opciones: 
+ 
+ 
+- OTROS MOTIVOS 
+- PERMISO RETRIBUIDO 
+ 
+ 
+Definiciones:  
+ 
+Horario de entrada teórica: es el tramo horario en el que el trabajador tiene libertad para fichar su entrada 
+según la jornada laboral asociada.  
+ 
+Hora de entrada real: es la hora de inicio del horario de entrada registrada. Se podrá ampliar (hacia atrás) 
+mediante una solicitud previa de ampliación de jornada.  
+ 
+Horas de comida: son las horas que el trabajador imputa en el sistema como dedicado a comer. En caso de no 
+indicar las horas dedicadas a la comida (el trabajador se ha olvidado de fichar al salir), se tomará por defecto 1 
+hora.  
+ 
+Hora teórica de salida: es la hora a finalización o salida según la jornada laboral asociada. La hora teórica de 
+salida depende de la hora real de entrada, la jornada laboral asociada y las horas de comida. Se podrá ampliar 
+mediante una solicitud previa de ampliación de jornada. 
+  
+Hora real de salida: es la hora en la que el trabajador realiza el fichaje de salida.  
+ 
+Horario laboral: tanto el horario laboral estándar como las jornadas reducidas se parametrizará directamente 
+desde la web. 
+ 
+ 
+ 
+ 
+
+
+--- página 6 ---
+ 
+pág. 6  
+ 
+ 
+SAREB, S.A. 
+LUNES A JUEVES excepto Miércoles de 
+Semana Santa y 5 de Enero 
+VIERNES + 
+Miércoles de Semana Santa y 5 de Enero 
+TRAMO 
+HORARIO DE 
+ENTRADA 
+FLEXIBLE 
+TRAMO 
+TIEMPO DE 
+COMIDA 
+FLEXIBLE 
+JORNADA 
+LABORAL 
+TRAMO 
+HORARIO DE 
+ENTRADA 
+FLEXIBLE 
+TRAMO 
+TIEMPO DE 
+COMIDA 
+FLEXIBLE 
+JORNADA 
+LABORAL 
+Del 1 de Enero al 
+30 de Junio 8:00 - 10:00 min. 1 hora - max. 2 horas 8,5 horas 8:00 - 9:00 Jornada Intensiva 7 horas 
+Del 1 de Julio al 
+31 de Agosto 8:00 - 9:00 Jornada Intensiva 7 horas 8:00 - 9:00 Jornada Intensiva 7 horas 
+Del 1 de 
+Septiembre al 31 
+de Diciembre 
+8:00 - 10:00 min. 1 hora - max. 2 horas 8,5 horas 8:00 - 9:00 Jornada Intensiva 7 horas 
+       
+ 
+JORNADA 
+SEMANAL 
+INVIERNO 
+41 Horas Semanales 
+JORNADA 
+SEMANAL 
+VERANO 
+35 Horas Semanales 
+ 
+ 
+ 
+Este horario podrá estar sujeto a modificaciones en función de cambios en la política y procedimiento interno de 
+Sareb y en función de cambio externos legales. 
+ 
+Cómputo de las horas de entrada y salida  
+ 
+- Si el trabajador desea realizar el fichaje antes de su hora teórica de entrada, el sistema realizará el cómputo de 
+horas con la hora teórica entrada/salida de su jornada laboral asociada, salvo que se haya realizado una solicitud  
+previa de ampliación de jornada, y esté aceptada. Si el trabajador realiza el fichaje a su hora teórica de entrada o 
+después de su hora teórica de entrada, el sistema realizará el cómputo de horas con ese fichaje de entrada.  
+ 
+- Si el trabajador desea realizar el fichaje pasado su hora teórica de salida, el sistema realizará el cómputo de horas 
+con la hora teórica de salida correspondiente a su jornada laboral asociada (salvo que tenga aprobada ampliación 
+de jornada). 
+ 
+ 
+Cómputo de las horas de comida en jornada no intensiva 
+  
+Se podrá computar a elección de Sareb, una vez se publique el Real Decreto de Desarrollo de la normativa de 
+registro prevista para finales de 2026, según las 2 siguientes opciones: 
+ 
+ 
+ 
+
+--- página 7 ---
+ 
+pág. 7  
+ 
+ 
+OPCIÓN 1 
+- Se podrá establecer el no fichar la salida para comer ni para volver de la comida. Se establece un tiempo para 
+comer por defecto de 1h (60 minutos).  
+ 
+- El trabajador podrá indicar el tiempo invertido en la comida al finalizar su jornada laboral eligiendo entre ( 60 
+minutos, 90 minutos o 120 minutos) según el tiempo dedicado para comer, no pudiendo fichar la hora de salida 
+sin haber elegido entre las 3 opciones. Esta opción se realizará tanto en el portal web como en la APP de móvil. 
+ 
+-El tiempo invertido en la comida afectará a la hora teórica y real de salida. Por ejemplo, si el empleado indica que 
+ha invertido una hora para comer, la hora límite de salida sería una hora antes que si hubiera invertido 2 horas.  
+ 
+ 
+OPCIÓN 2 
+-Se podrá establecer que el empleado tenga que fichar la salida para comer y fichar la vuelta de la comida, que no 
+podrá ser inferior a 1 hora ni superior a 2 horas. 
+ 
+-El tiempo invertido en la comida afectará a la hora teórica y real de salida. Por ejemplo, si el empleado indica que 
+ha invertido una hora para comer, la hora límite de salida sería una hora antes que si hubiera invertido 2 horas.  
+ 
+  
+Solicitud de ampliación de jornada  
+ 
+- Existirá una opción de solicitud de ampliación previa del tiempo de trabajo.  
+ 
+- Consistirá en un formulario de solicitud que llegará al departamento de Personas y Cultura a través de un correo 
+electrónico.  
+ 
+- El formulario estará colgado en el portal del empleado para que el empleado lo pueda descargar cuando lo 
+necesite y así poder hacer la solicitud de ampliación de jornada. Una vez cumplimentado lo enviará al buzón de 
+correo del Dpto. de Personas y Cultura facilitado por SAREB (personasycultura@sareb.es) adjuntándolo.  
+ 
+- Posteriormente dicho departamento se lo reenviará a su Manager y éste contestará indicando si lo acepta o 
+rechaza, poniendo en copia en dicho email al empleado.  
+ 
+- Cuando el responsable de departamento reciba la solicitud por correo, si se aprueba la solicitud se ingresará en 
+la Herramienta y se registrará la extensión de jornada. Posteriormente enviará un correo al empleado indicando la 
+aprobación de su solicitud de extensión del horario.  
+ 
+- En caso de que no se apruebe la solicitud de extensión de jornada el responsable de departamento enviará un 
+correo al empleado indicando el rechazo y motivo de la solicitud.  
+ 
+ 
+Correo Electrónico aviso de fichaje 
+ 
+- El sistema o aplicativo de fichaje deberá enviar un email automáticamente a todos aquellos empleados que 
+llegada la hora límite de fichaje diario de entrada (teniendo en cuenta nuestro horario flexible) no hayan hecho el 
+registro de esta, avisando de tal hecho en lo términos que determinemos. 
+ 
+ 
+ 
+
+--- página 8 ---
+ 
+pág. 8  
+ 
+ 
+ 
+- El sistema o aplicativo de fichaje deberá enviar un email automáticamente a todos aquellos empleados que 
+transcurridas las horas reales de presencia (teniendo en cuenta nuestra jornada de invierno y de verano) durante  
+ 
+la jornada diaria no hayan realizado el fichaje diario de salida, avisando de tal hecho en lo s términos que 
+determinemos desde Personas y Cultura de Sareb. 
+ 
+Cómputo de la hora en caso de olvido de fichaje  
+ 
+- Si el trabajador olvida fichar la entrada, debe rá tener la opción dentro del portal de fichaje de poder 
+corregirlo/regularizarlo, con posterior aprobación de Personas y Cultura (para ello se deberá proporcionar al 
+equipo de Personas y Cultura la opción de poder realizar estas aprobaciones).  
+ 
+- Si el trabajador olvida fichar la salida, deberá tener la opción dentro del portal de fichaje de poder 
+corregirlo/regularizarlo, con posterior aprobación de Personas y Cultura (para ello se deberá proporcionar al 
+equipo de Personas y Cultura la opción de poder realizar estas aprobaciones).  Se computarán las horas 
+correspondientes según las reglas anteriores y según normativa legal.  
+ 
+Consulta de Fichajes 
+ 
+-Los trabajadores deberán poder tener la opción dentro del aplicativo de poder consultar los fichajes realizados al 
+menos del último mes desde la fecha de consulta. 
+ 
+-El Equipo de Personas y Cultura deberá poder tener la opción en el propio portal o en web de consultar los fichajes 
+realizados por todos los empleados de cualquier periodo de tiempo. 
+ 
+Leyenda  
+ 
+- Existirá una leyenda para que el trabajador vea el horario (será el mismo para todos los trabajadores, pero puede 
+variar según el día de la semana y la época del año). En esta leyenda se describirá el protocolo, indicando el horario 
+de trabajo y los pasos a seguir para pedir una solicitud de ampliación de jornada.  
+ 
+- Esta leyenda será visible cuando el empleado no pueda realizar el fichaje por las causas ya comentadas.  
+ 
+ 
+Informes para Personas y Cultura  
+ 
+La Herramienta deberá reportar diariamente a Personas y Cultura 5 tipos de informes, en formato Excel, que se 
+enviarán por email automáticamente (al email que se indique en su caso) previa programación: 
+ 
+- Informe de horas teóricas: Informe con hora de entrada y salida de todos los empleados que no sobrepase 
+las 8,5 horas diarias que hacemos de lunes a jueves y las 7 horas diarias que hacemos los viernes y en la 
+jornada intensiva de verano. Es decir, si alguien ficha   antes de   la hora   de entrada (compute como muy  
+pronto las 8:00 de la mañana), y que el cómputo total de horas realizadas, aunque el empleado haya hecho 
+más  horas, se  indique  en  el informe o  compute un total de las 8,5 horas  de  lunes  a  jueves  o  7  horas  
+respectivamente los viernes y en jornada intensiva . Este informe también tendrá una columna con las 
+horas totales, es decir 8,5 horas u 7 horas según proceda.  
+ 
+- Informe de horas reales: Informe que contenga la hora real de fichaje de entrada + hora real de fichaje de 
+salida + tiempo invertido para comer (60, 90 o 120 minutos) y el total de las horas de presencia de todos 
+los empleados. 
+
+--- página 9 ---
+ 
+pág. 9  
+ 
+ 
+- Informe de Fichaje Incompleto: Informe de aquellos empleados que no hayan fichado, alguno de los dos 
+fichajes o el de entrada o salida, incluso los dos fichajes. 
+ 
+ 
+- Informe de fichaje Empleado Horas Teóricas: Informe que contenga la información de horas teóricas de 
+cada uno de los empleados, por si alguno de ellos o algún manager  lo solicitara para un determinado 
+periodo en el tiempo, detallado por horas de entrada teórica + hora de salida teórica + tiempo invertido 
+para comer. 
+ 
+- Informe de fichaje Empleado Horas Reales: Informe que contenga la información de horas reales  de 
+presencia de cada uno de los empleados, por si alguno de ellos o algún manager lo solicitara para un 
+determinado periodo en el tiempo , detallado por horas de entrada real + hora de salida real + tiempo 
+invertido para comer. 
+ 
+ 
+Estos informes deberán poder ser descargados internamente desde la herramienta, en formato Pdf, Word, Excel 
+(xls y xlsx), Excel-xml,  csv y rtf. 
+ 
+ 
+ 
+2.-    OTROS REQUERIMIENTOS 
+ 
+2.1 Soporte Técnico 
+Sareb dispondrá de un equipo/persona de soporte técnico para cualquier tipo de incidencia que 
+pueda ocasionarse, así como para la reconfiguración de la herramienta si se requiere cualquier 
+tipo de cambio o mantenimiento en la misma. 
+ 
+2.2 Integración 
+La aplicación deberá integrarse con la web interna, intranet,  de  Sareb. Esto requerirá que se 
+adapte al look & field corporativo y que tenga una denominación de uso (nombre) definido por 
+Sareb. 
+ 
+2.3 Devolución del servicio 
+La devolución total o parcial de los Servicios a Sareb, o a un tercero designado por éste, es parte 
+integral de las actividades que el licitador debe considerar en su oferta. La duración de la Fase 
+de devolución del Servicio tendrá una duración máxima de dos semanas. 
+El licitador debe incorporar en sus servicios las actividades necesarias para definir y mantener  
+actualizado esta fase de Devolución de los Servicios a su cargo con el detalle del procedimiento 
+propuesto para su implantación, gestión, evolución y ejecución.  
+ 
+Sareb tendrá la facultad de decidir si la fase de Devolución es ejecutada por el adjudicatario en 
+servicio, por sí mismo o por un tercero. En cualquier caso, el adjudicatario se compromete a 
+seguir ejecutando los servicios conforme lo venía prestado hasta este momento y hasta 
+producirse la completa devolución, facturando en las mismas condiciones que lo venía haciendo.  
+ 
+
+--- página 10 ---
+ 
+pág. 10  
+ 
+ 
+En el caso que la ejecución del proyecto se realice por Sareb o por un tercero, el adjudicatario 
+deberá facilitar toda la ayuda y documentación razonable que le sea solicitada para completar 
+la devolución. 
+El adjudicatario deberá cumplir con los siguientes requisitos de seguridad de la información en 
+la fase de devolución: 
+• Confidencialidad de la información una vez finalizado el servicio. 
+• Devolución de toda la documentación y materiales generados durante el servicio. 
+• Devolución, borrado, y destrucción de la información posterior a la entrega a Sareb. 
+• Revocación de accesos y privilegios a todo su personal sobre los servicios de Sareb. 
+• Cancelación de la autorización en el uso de credenciales. 
+El adjudicatario deberá integrar en la facturación de esos meses de transferencia aquellos 
+trabajos de transferencia que fueran requeridos para una correcta transferencia. No habiendo 
+en ningún caso facturación extra. 
+El proceso y compromiso de transferencia no terminará hasta que Sareb y/o el nuevo 
+adjudicatario haya obtenido toda la información y documentación necesaria para la misma. 
+El adjudicatario enviará a Sareb en un medio legible toda la información recopilada y solicitada 
+por Sareb, Asegurándose de destruir cualquier traza de información una vez finalizado el 
+servicio. 
+ 
+2.4 Gestión del servicio 
+ 
+El servicio a nivel global contará con un responsable interno de Sareb, que durante la duración del servicio 
+ejecutará actividades de aseguramiento de Calidad, Seguimiento y Control del Servicio y del Proveedor. 
+ 
+La gestión de la mejora continua se revisará a través de su reflejo en los niveles de servicio estipulados en el ANS 
+y el grado de satisfacción de los usuarios. 
+ 
+ 
+El proveedor garantizará un contacto fluido dentro del horario de servicio especificado. Deberá proporcionar un 
+método o métodos de contacto que garanticen la atención de incidencias y demandas, permitiendo y 
+garantizando el cumplimiento de los SLAs.
+
+--- página 11 ---
+[Escriba aquí] 
+ 
+ 
+ 

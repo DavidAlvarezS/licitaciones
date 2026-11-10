@@ -1,0 +1,842 @@
+
+
+--- página 1 ---
+ 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA LA CONTRATACIÓN DEL SERVICIO DE 
+MIGRACIÓN DE DETERMINADAS PANTALLAS DE LA HISTORIA CLÍNICA DE MUTUALIA, 
+DESARROLLADAS EN PLEX, A TECNOLOGÍA ANGULAR, MEDIANTE EL USO DE 
+HERRAMIENTAS DE INTELIGENCIA ARTIFICIAL, PARA “MU TUALIA”, MUTUA 
+COLABORADORA CON LA SEGURIDAD SOCIAL N.º 2. 
+ 
+ 
+En Bilbao, a 29 de octubre de 2026 
+ 
+ 
+CLAUSULA 1ª.- OBJETO DEL CONTRATO 
+ 
+El presente Pliego tiene por objeto establecer las prescripciones técnicas que regirán la 
+contratación de un servicio integral de migración de determinadas pantallas de la aplicación de 
+historia clínica de Mutualia, denominada Gehitu, desarrolladas en Plex , a tecnología Angular, 
+mediante el uso de herramientas de inteligencia artificial. En adelante, las referencias a la 
+historia clínica de Mutualia se entenderán realizadas a dicha aplicación. 
+ 
+La actuación tendrá carácter de proyecto piloto y alcance limitado. Comprenderá el proceso 
+completo, desde la lectura, análisis y comprensión de los programas existentes hasta la 
+migración, las pruebas, la validación, el análisis de calidad y seguridad del  código mediante 
+SonarQube o herramienta equivalente, la corrección de las incidencias detectadas y la 
+implantación de las pantallas migradas en producción. La migración será exclusivamente 
+tecnológica: mantendrá las operaciones, reglas de negocio, validac iones, tratamiento de la 
+información, integraciones y resultados actuales, sin incorporar nuevas funcionalidades ni 
+suprimir o alterar las existentes. La inteligencia artificial se utilizará como apoyo al trabajo técnico 
+y no como una nueva funcionalidad d e la historia clínica. La prestación no podrá limitarse a 
+generar código o entregar una conversión parcial. El contrato no comprende la migración 
+completa de la historia clínica ni implica la contratación de actuaciones posteriores. 
+ 
+El incumplimiento de los requisitos mínimos establecidos en los pliegos podrá determinar la 
+exclusión de la oferta conforme a las condiciones que rijan el procedimiento. La falta o 
+insuficiencia de documentación se tratará conforme al régimen de subsanació n y aclaración 
+aplicable, sin que pueda modificarse la oferta inicialmente presentada. 
+ 
+ 
+CLAUSULA 2ª.- ESPECIFICACIONES TÉCNICAS 
+ 
+2.1. Delimitación del piloto 
+ 
+El piloto comprenderá la migración a Angular de una funcionalidad acotada de Gehitu, la 
+aplicación de historia clínica de Mutualia, integrada por aproximadamente 20 pantallas.  
+El alcance funcional de las pantallas objeto del piloto comprenderá la búsqueda de 
+historias clínicas mediante filtros por distintos conceptos, como el nombre y la fecha, 
+conforme al diseño que facilite Mutualia. Al seleccionar una historia clínica de la lista de 
+resultados filtrada, se accederá a la consulta de los gastos asociados a dicha historia, 
+con posibilidad de realizar altas, bajas y modificaciones, así como de consultar y 
+gestionar el estado de cada gasto. Estas funcionalidades se enmarcan en la m igración 
+
+--- página 2 ---
+ 
+ 
+del frontal de Plex a Angular y deberán mantener las reglas de negocio y el 
+comportamiento de la aplicación de origen. 
+Las operaciones de alta, baja y modificación de gastos deberán partir de las asistencias 
+sanitarias correspondientes a la historia clínica seleccionada, manteniendo la 
+vinculación de cada gasto con la asistencia que lo origina. Para ello, se dispondrá de 
+una búsqueda de asistencias de dicha historia con filtros y con las validaciones 
+necesarias para determinar si procede o no el gasto, de acuerdo con las reglas 
+existentes. Asimismo, la relación de asistencias, tanto con gastos asociados como sin 
+ellos, podrá exportarse a Excel. 
+El piloto incluirá la generación de un documento PDF precargado con el detalle de los 
+gastos que deban abonarse al paciente, para que este los valide y complete el 
+documento con su número de cuenta. También comprenderá las operaciones de alta, 
+baja y modificación de los datos del paciente necesarios para efectuar el pago, incluido 
+el número de cuenta bancaria.  
+Estas operaciones describen las funcionalidades de las pantallas que utilizará el 
+personal autorizado de Mutualia y no implican el acceso de la adjudicataria a datos 
+personales reales, manteniéndose las condiciones de pruebas con datos anonimizados 
+e implantación previstas en el punto 3. 
+La descripción anterior constituye una aproximación al alcance de los trabajos, 
+destinada a que las empresas licitadoras puedan estimar el esfuerzo necesario y 
+preparar su oferta. La adjudicataria deberá obtener el detalle de las pantallas, las 
+validaciones, las reglas de negocio y las funcionalidades existentes mediante la lectura, 
+el análisis y la comprensión del código de los programas actuales en Plex  
+correspondientes al piloto. Mutualia no garantiza la disponibilidad de documentación 
+completa de dichos programas, por lo que la documentación que se facilite tendrá 
+carácter complementario y no sustituirá la revisión del código de origen. Esta labor de 
+análisis y comprensión formará parte de los trabajos incluidos en el contrato y será 
+necesaria para garantizar que la migración conserve el comportamiento y la equivalencia 
+funcional de la aplicación actual. 
+ 
+La solución de origen dispone de un frontal en C++ generado mediante Plex. El objetivo será 
+que la funcionalidad seleccionada pueda utilizarse en Angular con las mismas operaciones, 
+reglas de negocio, validaciones, tratamiento de la información y resultado s que en la solución 
+actual, sin incorporar nuevas funcionalidades ni suprimir o alterar las existentes. 
+La migración no se limitará a la adaptación visual de las pantallas. Incluirá, cuando formen parte 
+de la funcionalidad seleccionada, la generación de documentos Word o archivos Excel con sus 
+datos, conservando su contenido y comportamiento actuales. Tambié n comprenderá las 
+actuaciones de adaptación, migración e integración de los programas, componentes, llamadas 
+y demás dependencias que se identifiquen durante el análisis y resulten necesarias para que el 
+piloto funcione en Angular de forma equivalente a la solución actual en C++. Estas actuaciones 
+estarán incluidas en la prestación y no se considerarán una ampliación del alcance funcional, 
+siempre que sean necesarias para conservar el funcionamiento de la funcionalidad 
+seleccionada. No quedará incluida la migración de otras funcionalidades ajenas al piloto. 
+ 
+La adjudicataria analizará los modelos y programas Plex correspondientes a la funcionalidad 
+seleccionada, el código C++ generado y sus dependencias, e identificará las operaciones, reglas 
+
+--- página 3 ---
+ 
+ 
+de negocio, validaciones, datos de entrada y salida, generación de documentos y archivos, 
+llamadas e integraciones necesarias. Documentará la correspondencia entre la solución de 
+origen y la migrada y comprobará mediante pruebas el funcionamiento completo de la 
+funcionalidad en Angular, incluidas sus salidas Word o Excel y las dependencias afectadas. Será 
+responsable de realizar este análisis y estas comprobaciones, sin trasladar su elaboración a 
+Mutualia ni condicionar el avance a la aprobación de sus análisis o procedimientos internos. 
+ 
+2.2. Disponibilidad obligatoria de Plex, generación, compilación y personal especializado 
+ 
+Personal especializado en Plex: requisito mínimo obligatorio y excluyente.  El equipo 
+propuesto por la empresa licitadora deberá incluir, como mínimo, una persona con 
+conocimientos y experiencia práctica acreditada en el entorno de desarrollo Plex , capacitada 
+para realizar la lectura y el análisis de modelos y programas, la generación de código fuente y 
+la compilación de los componentes correspondientes al piloto. La disponibilidad de esta persona 
+constituye un requisito mínimo de la oferta, no una  mejora ni un criterio de valoración. Su 
+incumplimiento determinará la exclusión de la oferta, sin perjuicio del régimen de subsanación y 
+aclaración de la documentación previsto en los pliegos, que no permitirá modificar la oferta 
+inicialmente presentada. La mera disponibilidad de licencias, herramientas de IA o del entorno 
+Plex no sustituirá este requisito de personal. 
+ 
+La oferta técnica, incluida en el sobre electrónico B, identificará a la persona propuesta para este 
+perfil e incorporará su currículum, con descripción de los trabajos realizados en Plex , las 
+funciones desempeñadas y los periodos de participación, así como el compromiso de 
+adscripción al contrato. La adjudicataria mantendrá cubierto este perfil desde el inicio y durante 
+toda la ejecución, con la dedicación necesaria para realizar las tare as que le correspondan. 
+Cualquier sustitución deberá realizarse por una persona que cumpla el mismo requisito, 
+acreditándolo ante Mutualia y sin interrumpir la prestación. 
+ 
+La empresa adjudicataria deberá disponer, desde el inicio y durante toda la ejecución del 
+contrato, del entorno de desarrollo Plex , con las licencias y derechos de uso necesarios y en 
+una versión compatible con los modelos y programas de Mutualia objeto del piloto. Asimismo, 
+deberá disponer de los generadores, compiladores, bibliotecas, dependencias y demás 
+herramientas necesarias para abrir y consultar los modelos, analizar la lógica de los programas, 
+generar su código fuente y compilar los componentes correspondientes. 
+ 
+La adjudicataria será responsable de instalar, configurar y mantener operativo dicho entorno y 
+de realizar las operaciones de lectura, análisis, generación y compilación necesarias. No será 
+suficiente disponer de un visor, documentación funcional o archivo s fuente aislados si estos 
+medios no permiten realizar las actuaciones exigidas. 
+ 
+A partir de los modelos y elementos de origen facilitados por Mutualia, la adjudicataria obtendrá 
+los archivos fuente y demás materiales técnicos necesarios para comprender los programas y 
+utilizarlos como entrada del agente o de las herramientas de inteligencia artificial empleados en 
+la migración. Se incluirán, cuando correspondan al generador y entorno utilizados, los archivos 
+de código fuente C++ y de cabecera —como los archivos .cpp  y .h—, así como los restantes 
+archivos generados, definiciones, recursos y dependencias necesarios. Esta relación no tendrá 
+carácter limitativo. 
+ 
+
+--- página 4 ---
+ 
+ 
+La generación del código fuente y su compilación se tratarán como operaciones diferenciadas. 
+La adjudicataria realizará ambas cuando correspondan a los componentes del piloto, 
+comprobará sus resultados y resolverá las incidencias de configuración, generaci ón o 
+compilación que le sean imputables. El material preparado para el agente de IA conservará la 
+correspondencia con los programas de origen e incluirá el contexto necesario para interpretar 
+reglas de negocio, validaciones, llamadas, dependencias e integraciones. La migración no podrá 
+basarse exclusivamente en capturas o descripciones funcionales que omitan la lógica existente. 
+ 
+Mutualia únicamente facilitará los modelos necesarios para el alcance contratado, conforme a 
+sus procedimientos de seguridad. No corresponderá a Mutualia aportar las licencias o el entorno 
+de desarrollo de la adjudicataria excepto en lo relativo al back -end alojado en IBM Power i, ni 
+generar, compilar o preparar por cuenta de esta los archivos que necesite su agente de IA. Los 
+costes de Plex , compiladores, herramientas de IA y restantes medios necesarios estarán 
+incluidos en el precio del contrato y no podrán repercutirse adicionalmente. 
+ 
+2.3. Migración a Angular asistida por inteligencia artificial 
+ 
+La adjudicataria migrará las pantallas a Angular y realizará las adaptaciones técnicas necesarias 
+para su funcionamiento en la historia clínica de Mutualia, respetando la arquitectura, interfaces 
+y normas técnicas facilitadas. La propuesta explicará cómo s e empleará el agente de IA en la 
+comprensión de los modelos y fuentes generados, la migración y las comprobaciones, y cómo 
+se revisarán y corregirán sus resultados. La utilización de IA no reducirá la responsabilidad sobre 
+el código ni sobre el funcionamie nto de las pantallas. No se aceptará código pendiente de 
+integrar, revisar, probar o corregir como resultado final. 
+La oferta identificará las herramientas y modelos de inteligencia artificial utilizados, su 
+intervención en cada fase y los mecanismos de revisión y corrección de sus resultados. Indicará 
+expresamente si, al finalizar el piloto, se entregará o se pondrá a disposición de Mutualia el 
+programa, herramienta o agente utilizado para la migración, de modo que pueda utilizarlo con 
+sus propios medios en futuras migraciones. En caso afirmativo, precisará los componentes 
+entregados, las condiciones de propiedad o licencia, los derechos de uso y las dependencias de 
+terceros, distinguiendo la herramienta o agente de los modelos de IA que utilice. 
+La información relativa a la entrega o puesta a disposición de la herramienta o agente de 
+migración, y a sus costes de uso posterior, tiene carácter informativo y no será objeto de 
+valoración. 
+Todos los costes necesarios para ejecutar la migración objeto del piloto, incluidos los de las 
+herramientas y el consumo de IA, estarán incluidos en el precio del contrato. No se solicita su 
+desglose en este apartado. La información económica relativa a la  entrega o puesta a 
+disposición y al uso posterior por Mutualia indicará si estos están incluidos sin coste adicional o, 
+en caso contrario, cuantificará los costes iniciales y recurrentes. Diferenciará el coste del 
+consumo de tokens de IA, indicando los modelos, las tarifas por tokens de entrada y salida y la 
+base de cálculo de las estimaciones, de cualquier coste adicional de la herramienta o agente, 
+como licencias, suscripciones, instalación, infraestructura, mantenimiento, soporte o formación, 
+especificando cuáles son obligatorios y cuáles opcionales. Si el único coste de uso posterior es 
+el consumo de tokens de IA, deberá declararlo expresamente. Esta información no supondrá la 
+contratación de servicios posteriores ni alterará el precio del piloto. 
+ 
+
+--- página 5 ---
+ 
+ 
+2.4. Equivalencia funcional y pruebas 
+ 
+Las pantallas migradas mantendrán las operaciones, reglas de negocio, validaciones, 
+tratamiento y persistencia de la información, integraciones y resultados de las versiones Plex , 
+incluidos los comportamientos ante errores y situaciones alternativas existentes. Las 
+adaptaciones de presentación inherentes al cambio tecnológico no alterarán el significado de los 
+datos ni las operaciones. La adjudicataria definirá y ejecutará pruebas  funcionales y de 
+integración con correspondencia entre origen y destino, documentando casos, datos de prueba, 
+resultados esperados y obtenidos, diferencias y comprobaciones tras su corrección. Realizará 
+sus propias comprobaciones antes de presentar los re sultados a Mutualia. La revisión de 
+Mutualia no sustituirá las obligaciones de análisis, pruebas y corrección de la adjudicataria. 
+La oferta describirá las pruebas unitarias, de integración, de equivalencia funcional, de regresión 
+y de seguridad previstas, su cobertura y las evidencias de resultados que se entregarán. La 
+adjudicataria ejecutará las comprobaciones correspondientes, doc umentará los defectos 
+detectados y su corrección y repetirá las pruebas afectadas antes de presentar el resultado a 
+Mutualia. 
+ 
+2.5. Calidad y seguridad del código 
+ 
+La empresa adjudicataria se compromete a que el código resultante se someterá a análisis de 
+calidad y seguridad mediante SonarQube o herramienta equivalente, para que no se implante 
+código con vulnerabilidades existentes o que pongan en riesgo la seguridad  de Mutualia.  La 
+adjudicataria revisará los resultados, corregirá las incidencias y repetirá los análisis para 
+acreditar su subsanación. Las alertas consideradas no aplicables se justificarán y documentarán; 
+no se considerarán corregidas por su mera ocultación o exclusión. Los análisis no sustituirán la 
+revisión técnica ni las pruebas funcionales y de integración. Se entregarán los informes iniciales, 
+las actuaciones correctoras y los resultados posteriores. 
+ 
+El código generado o modificado en el marco del contrato, incluidos los componentes y 
+dependencias incorporados a la solución, deberá cumplir las políticas, normas, procedimientos 
+y requisitos de desarrollo seguro de Mutualia aplicables a la prestación y c omunicados a la 
+adjudicataria. Su cumplimiento será obligatorio con independencia de que el código se haya 
+obtenido mediante herramientas de inteligencia artificial y de los resultados de los análisis 
+automatizados. Mutualia se reserva el derecho de audita r el código, por medios propios o 
+mediante terceros designados sujetos a confidencialidad, durante la ejecución y antes de su 
+aceptación e implantación, para verificar el cumplimiento de dichos requisitos. La adjudicataria 
+facilitará el código fuente, la d ocumentación, las configuraciones y las evidencias necesarias y 
+colaborará en las comprobaciones. Los incumplimientos detectados deberán corregirse sin 
+coste adicional para Mutualia, repitiendo las pruebas y aportando evidencias de su subsanación. 
+No se im plantará el código afectado mientras no se haya acreditado el cumplimiento de los 
+requisitos de seguridad exigibles. Las auditorías, su eventual ausencia o la revisión de Mutualia 
+no eximirán a la adjudicataria de su responsabilidad sobre la seguridad del resultado entregado. 
+ 
+La oferta identificará la arquitectura de destino, componentes, dependencias y requisitos de 
+integración, compilación y despliegue, diferenciando los medios propios de la adjudicataria de 
+los accesos e información requeridos de Mutualia. La disponibilidad de Plex y de los medios de 
+generación y compilación constituye un requisito obligatorio de ejecución, no una prestación 
+adicional valorable. 
+
+--- página 6 ---
+ 
+ 
+ 
+2.6. Entregables y comprobación del resultado 
+ 
+La adjudicataria entregará el código fuente migrado y los elementos necesarios para integrarlo, 
+compilarlo y desplegarlo; la documentación del análisis y su correspondencia con el origen, los 
+casos y resultados de pruebas; los informes de calidad y segurid ad y sus correcciones; la 
+documentación de instalación, configuración, despliegue y reversión; y la relación de incidencias 
+y su resolución. 
+ 
+El informe final recogerá las actuaciones, dificultades, tiempos de ejecución y esfuerzo de 
+revisión, corrección, validación e implantación, diferenciando el apoyo de la IA del resto del 
+trabajo técnico. Para comprobar la finalización deberán estar migrada s las pantallas incluidas, 
+mantenerse su funcionamiento y haberse corregido las incidencias detectadas, con las 
+evidencias y documentación exigidas. La mera generación de código o entrega de 
+documentación no constituirá la finalización. 
+Al inicio del proyecto, y antes de ejecutar las actividades correspondientes, la adjudicataria 
+presentará la planificación detallada, el plan de calidad y pruebas y los criterios de aceptación 
+propuestos. La documentación identificará el contenido de cada entregable, su momento de 
+presentación y los puntos de revisión y conformidad de Mutualia. 
+Antes de la implantación se entregarán para su revisión los informes de calidad y seguridad, los 
+resultados de las pruebas y las evidencias de corrección, junto con la documentación técnica, 
+funcional y de implantación actualizada. Para la aceptación final , la documentación deberá 
+corresponderse con la versión efectivamente implantada. 
+Cuando la oferta adjudicataria incluya la entrega o puesta a disposición del programa, 
+herramienta o agente de migración, se entregarán también los componentes, documentación y 
+condiciones de uso comprometidos. La revisión y conformidad de Mutualia no sust ituirán las 
+comprobaciones de la adjudicataria ni la eximirán de sus responsabilidades. 
+ 
+ 
+CLAUSULA 3ª.- EJECUCIÓN DE LOS TRABAJOS 
+ 
+ 
+3.1. LUGAR DE REALIZACIÓN DE LOS TRABAJOS 
+ 
+Los trabajos se realizarán principalmente en remoto, sin perjuicio de las actuaciones 
+presenciales necesarias para la integración, pruebas, implantación, coordinación o seguimiento 
+del piloto. Las reuniones de seguimiento administrativo se realizarán de ma nera presencial en 
+las instalaciones de Mutualia; las de seguimiento técnico podrán ser presenciales o por 
+videoconferencia, conforme al apartado 5.2.  
+ 
+Los gastos de desplazamiento y manutención derivados de estas ocasionales tareas serán a 
+cargo de la empresa adjudicataria, no pudiendo repercutirse los mismos a Mutualia. 
+ 
+3.2. Plazo, responsabilidad y finalización 
+ 
+
+--- página 7 ---
+ 
+ 
+El plazo máximo de ejecución será de cuatro (4) meses desde la formalización del contrato, o el 
+inferior ofertado por la adjudicataria, que tendrá carácter vinculante, e incluirá la totalidad del 
+piloto: preparación del entorno Plex , lectura y análisis, generación y compilación de los 
+componentes de origen, preparación de materiales para el agente de IA, migración, pruebas, 
+análisis de calidad y seguridad, correcciones, documentación e implantación en producción. La 
+adjudicataria organizará y ejecutará los trabajos con autonomía técnica y medios suficientes, 
+identificando los accesos, información y comprobaciones de resultado que requiera de Mutualia, 
+sin trasladarle tareas propias. La finalización requerirá la entrega y comprobación del resultado 
+completo, incluida la implantación. Se realizará un único pago al finalizar la migración, conforme 
+a las condiciones de certificación y pago de la documentación contractual. 
+ 
+Si la ejecución se retrasase por causas no imputables a la adjudicataria (disponibilidad de 
+accesos, entornos o ventanas de implantación, o conformidades de Mutualia), el plazo se 
+ampliará por un tiempo equivalente al retraso producido, previa solicitud ju stificada de la 
+adjudicataria y conformidad del responsable del contrato. 
+ 
+ 
+ 
+CLAUSULA 4ª.- METODOLOGÍA EN LA ELABORACIÓN DE LOS TRABAJOS 
+ 
+ 
+4.1 - METODOLOGÍA DE DESARROLLO 
+ 
+La metodología abarcará la preparación del entorno Plex  compatible, lectura de los modelos y 
+programas, generación y compilación, preparación trazable de los materiales para el agente de 
+IA, migración, revisión del código, pruebas, correcciones e implantación. La oferta identificará la 
+herramienta o agente de migración que se utilizará y explicará su funcionamiento y su 
+intervención en cada fase, las entradas y resultados previstos y las tareas automatizadas y las 
+que requieren intervención técnica, incluidos los mecanismos de revisión y corrección, en 
+coherencia con lo exigido en el apartado 2.3. La planificación identificará actividades, 
+dependencias, resultados y necesidades concretas de colaboración de Mutualia. Se respetarán 
+sus procedimientos y normas técnicas y de seguridad, sin condicionar la ejecución a  la 
+aprobación de los análisis internos de la adjudicataria. 
+ 
+La oferta incluirá un cronograma de fases, hitos y entregables, elaborado sobre el plazo máximo 
+de ejecución, que comprenda el proceso completo hasta la validación e implantación en 
+producción, y justificará su viabilidad atendiendo a los medios asignados,  las dependencias y 
+las colaboraciones requeridas de Mutualia, sin reducir las comprobaciones necesarias. El 
+cronograma se valorará en el subcriterio B1.2 de los criterios de adjudicación. La reducción del 
+plazo de ejecución se ofertará exclusivamente en e l sobre C (criterio C2) y no podrá indicarse 
+en la oferta técnica. La adjudicataria presentará al inicio del contrato el cronograma ajustado al 
+plazo ofertado, que tendrá carácter vinculante. 
+Para cada una de las fases de diseño, programación y pruebas, identificará y justificará las 
+colaboraciones imprescindibles de Mutualia, especificando las tareas concretas, los perfiles 
+necesarios, la dedicación estimada en horas, el momento de intervenció n y las dependencias 
+asociadas, así como la dedicación total prevista. La adjudicataria asumirá el análisis y 
+comprensión de los programas existentes, el diseño, la programación, la documentación, la 
+ejecución de las pruebas y la corrección de incidencias hasta la implantación. La identificación 
+
+--- página 8 ---
+ 
+ 
+de colaboraciones de Mutualia no podrá utilizarse para trasladarle tareas de ejecución que 
+correspondan a la adjudicataria. 
+ 
+El personal de Mutualia proporcionará a la persona coordinadora de la empresa adjudicataria 
+los procedimientos, normas de buenas prácticas y de seguridad que deberán aplicarse en todas 
+las tareas realizadas. 
+ 
+ 
+4.2 - CALIDAD 
+ 
+Durante el desarrollo de los trabajos y la ejecución de las diferentes fases del proyecto, la 
+persona responsable del contrato de Mutualia o las designadas por esta persona, podrán 
+establecer controles de calidad mediante las auditorías internas correspond ientes sobre la 
+actividad desarrollada y los productos obtenidos, previa comunicación de su ejecución a la 
+persona coordinadora de la empresa adjudicataria. La oferta contendrá una propuesta del Plan 
+de control de calidad, dentro de la documentación correspondiente a las Prestaciones Técnicas. 
+ 
+La adjudicataria establecerá controles durante todo el proceso: verificación de los materiales 
+generados desde Plex y utilizados por el agente de IA, revisión del código migrado, pruebas de 
+equivalencia e integración y análisis mediante SonarQube o herramienta equivalente. Describirá 
+cómo detectará y corregirá diferencias y defectos y las evidencias de comprobación. Los 
+controles y auditorías de Mutualia no sustituirán los que corresponden a la adjudicataria. 
+El plan de calidad identificará los controles sobre mantenibilidad, legibilidad, duplicidad, 
+complejidad, defectos y vulnerabilidades del código mediante SonarQube o herramienta 
+equivalente, las métricas y criterios de aceptación propuestos y el procedimiento de corrección 
+y nueva comprobación. Distinguirá la documentación presentada con la oferta de la que se 
+elaborará durante la ejecución y precisará, para cada entregable, su contenido, momento de 
+presentación y punto de revisión y conformidad de Mutualia, conforme al apartado 2.6. 
+ 
+En su oferta técnica, incluida en el Sobre electrónico B, tendrán que desarrollar la metodología 
+y herramientas que disponen para llevar a cabo los trabajos descritos en el presente pliego. 
+ 
+Las licitadoras realizarán una sesión de demostración y explicación de su propuesta en los 
+términos que establezca el Pliego de Condiciones Particulares. La sesión servirá exclusivamente 
+para contrastar el contenido de la oferta técnica, no tendrá puntuaci ón independiente y no 
+permitirá incorporar o modificar compromisos ni subsanar omisiones. 
+ 
+ 
+4.3 - GARANTÍA DE LOS TRABAJOS 
+ 
+Durante la ejecución, la adjudicataria corregirá los errores, diferencias funcionales, defectos de 
+generación, compilación o integración y deficiencias de calidad o seguridad imputables a sus 
+trabajos, repitiendo las pruebas y análisis afectados. 
+ 
+Tras la recepción, la adjudicataria prestará garantía durante un plazo mínimo de tres (3) meses, 
+durante el cual corregirá sin coste para Mutualia los errores, diferencias funcionales, defectos y 
+vulnerabilidades imputables a sus trabajos que se detecten en producción, en los plazos que 
+indique Mutualia según su criticidad, repitiendo las pruebas y análisis afectados. 
+ 
+
+--- página 9 ---
+ 
+ 
+La garantía comprenderá la actualización de la documentación incompleta o incorrecta. El 
+régimen posterior a la recepción será el establecido en el Pliego de Condiciones Administrativas 
+Particulares y en el contrato. El presente pliego no incorpora la cont ratación de mantenimiento 
+recurrente ni de una suscripción de uso de herramientas de IA. Ello no impedirá la entrega o 
+puesta a disposición de la herramienta o agente de migración cuando se haya incluido en la 
+oferta adjudicataria, en las condiciones compr ometidas y con la identificación expresa de los 
+costes de uso posterior prevista en el apartado 2.3. 
+ 
+4.4 - DOCUMENTACIÓN DE LOS TRABAJOS 
+ 
+La documentación corresponderá a la versión efectivamente entregada e implantada y permitirá 
+comprender, revisar, mantener y desplegar los resultados. Incluirá los entregables de la cláusula 
+2.6. 
+ 
+Para la gestión de las tareas y documentación generada a lo largo del contrato, Mutualia podrá 
+facilitar, cuando proceda, el uso de herramientas corporativas de Microsoft 365 de las que es 
+licenciataria. Ello se entenderá sin perjuicio de que sea responsab ilidad de la empresa 
+adjudicataria disponer de las licencias, medios, accesos y herramientas propias que resulten 
+necesarios para la correcta prestación del servicio. 
+ 
+ 
+CLAUSULA 5ª.- COORDINACION, CONTROL Y SEGUIMIENTO DE LAS TAREAS  
+ 
+La oferta detallará la sistemática y dedicación para la coordinación, control y seguimiento de las 
+tareas. 
+  
+5.1 - COORDINACIÓN 
+ 
+Se designará una persona coordinadora del equipo propuesto por parte de la empresa 
+adjudicataria que será la interlocutora a todos los efectos entre Mutualia y la empresa, y: 
+• Planificará y coordinará el piloto, asignará las tareas y garantizará la disponibilidad y 
+operatividad del entorno Plex , licencias, generadores, compiladores y medios de IA. 
+Precisará las necesidades de información y acceso, sin trasladar a Mutualia el análisis, la 
+generación, la compilación ni las pruebas que corresponden a la adjudicataria. 
+• Garantizará la seguridad y confidencialidad de la información. 
+• Utilizará las herramientas de seguimiento que se acuerden para informar del avance, hitos, 
+incidencias y evidencias de la prestación, incluidas la generación, compilación, migración, 
+pruebas e implantación. 
+• Informará a la persona responsable del contrato de Mutualia periódicamente del estado de 
+las tareas, desviaciones, incidentes de seguridad, riesgos detectados, etc. 
+ 
+ 
+5.2 - CONTROL Y SEGUIMIENTO DE LAS TAREAS 
+ 
+Corresponde al responsable del contrato de Mutualia la supervisión del desarrollo del contrato 
+para lograr los objetivos en base a las especificaciones del presente Pliego, dictar las 
+instrucciones necesarias para asegurar la correcta realización de la pre stación, sin que ello 
+suponga modificación del contrato, que solo podrá producirse en los supuestos previstos en los 
+
+--- página 10 ---
+ 
+ 
+artículos 203 a 205 de la LCSP o, en su caso, proponer la suspensión de los trabajos si existiese 
+causa suficientemente motivada.  
+ 
+Seguimiento administrativo 
+ 
+La propuesta describirá un seguimiento proporcionado al plazo de ejecución propuesto, con 
+reuniones e informes para conocer el avance, cumplimiento de hitos, desviaciones, medidas 
+correctoras y obtención del resultado. La prestación no se configurará como una bolsa de horas 
+ni como un paquete de consumo de herramientas de IA. Los costes de los medios de trabajo 
+necesarios estarán incluidos en el precio. 
+ 
+Estas reuniones se llevarán a cabo entre la persona coordinadora de la empresa adjudicataria y 
+la persona responsable del contrato de Mutualia o las personas que designe dicha responsable, 
+en los locales de Mutualia de forma presencial, sin que las mismas supongan ningún coste 
+adicional. El calendario de estas reuniones de seguimiento será planificado y ajustado 
+periódicamente. 
+ 
+Seguimiento técnico 
+ 
+La intervención técnica de Mutualia comprenderá la revisión y conformidad de los entregables 
+en los puntos previstos en los apartados 2.6 y 4.2, la comprobación de que la funcionalidad 
+migrada funciona en Angular de forma equivalente a la solución de orige n y la verificación del 
+cumplimiento de sus requisitos de seguridad. Estas actuaciones se realizarán sobre los 
+documentos y resultados presentados por la adjudicataria después de sus propias pruebas y 
+verificaciones, incluidas la generación de documentos W ord o archivos Excel cuando formen 
+parte del piloto y las integraciones comprendidas en su alcance. 
+No corresponderá a Mutualia ejecutar ni asumir el control interno de la preparación del entorno 
+Plex, la lectura de modelos, la generación y compilación, la preparación de materiales para el 
+agente de IA ni los procedimientos internos de migración y pruebas. La adjudicataria mantendrá 
+un registro de incidencias, correcciones y evidencias de cierre. La revisión, conformidad, 
+supervisión o auditoría de Mutualia no reducirán la responsabilidad de la adjudicataria ni 
+trasladarán sus tareas a Mutualia. 
+ 
+El calendario de reuniones de seguimiento técnico será planificado y ajustado periódicamente, 
+bajo la iniciativa y coordinación de Mutualia. 
+ 
+Estas reuniones serán entre la persona coordinadora de la empresa adjudicataria y las personas 
+de Mutualia de forma presencial o remota (videoconferencia), sin que las mismas supongan 
+ningún coste adicional. En caso de necesidad, se podrán incorporar a estas reuniones parte del 
+equipo técnico asignado. El calendario de estas reuniones de seguimiento será planificado y 
+ajustado periódicamente. 
+ 
+La supervisión y control de las tareas asignadas la realizará Mutualia, pudiendo realizar 
+auditorías para verificar su calidad y cumplimiento. 
+  
+Durante estas reuniones de seguimiento o tras las revisiones técnicas, Mutualia podrá rechazar 
+en todo o en parte los trabajos realizados, en la medida que no respondan a lo especificado o 
+no superasen los controles de calidad acordados, en cuyo caso se levantará la correspondiente 
+acta. 
+ 
+
+--- página 11 ---
+ 
+ 
+ 
+CLAUSULA 6ª.- PROPIEDAD INTELECTUAL 
+ 
+Los componentes preexistentes propios o de terceros conservarán la titularidad de sus 
+respectivos titulares. La adjudicataria los identificará, junto con sus licencias y restricciones, 
+garantizando los derechos necesarios para utilizar, revisar, mantener y  desplegar el resultado 
+en las condiciones contractuales. La utilización de Plex o de herramientas de IA no podrá impedir 
+la entrega del código fuente migrado ni introducir restricciones incompatibles con dichos 
+derechos. La adquisición de licencias o medios de trabajo de la adjudicataria no constituye el 
+objeto del contrato. 
+ 
+Mutualia conservará los derechos que le correspondan sobre los modelos y programas Plex , 
+código fuente, información y documentación facilitados. Los derechos sobre el código migrado, 
+documentación y materiales específicos obtenidos se regirán por el Pliego de Condiciones 
+Administrativas Particulares y el contrato, debiendo permitir su utiliz ación, revisión, 
+mantenimiento y despliegue. La adjudicataria identificará las dependencias de herramientas, 
+servicios o licencias de terceros necesarias para el funcionamiento del resultado entregado. 
+La entrega del código migrado y de los materiales específicos del piloto se distinguirá de la 
+eventual entrega o puesta a disposición del programa, herramienta o agente empleado para 
+realizar la migración y de los modelos de IA utilizados por este. La oferta indicará expresamente 
+si incluye dicha entrega o puesta a disposición y, en caso afirmativo, identificará sus 
+componentes, titularidad, licencias, derechos de uso, dependencias de terceros y condiciones 
+de utilización posterior por Mutualia con sus prop ios medios, conforme al apartado 2.3. Estas 
+condiciones no limitarán los derechos exigidos sobre el código migrado ni supondrán por sí 
+mismas la contratación de futuras migraciones. 
+ 
+ 
+CLAUSULA 7ª.- CONFIDENCIALIDAD Y SEGURIDAD DE LA INFORMACIÓN 
+ 
+La confidencialidad comprenderá los modelos Plex, fuentes generadas , reglas de negocio, 
+arquitectura, documentación, credenciales, configuraciones y resultados. Los accesos serán los 
+mínimos necesarios y se realizarán mediante mecanismos autorizados, con protección de 
+credenciales, comunicaciones seguras y trazabilidad. La adjudicataria identificará herramientas 
+y proveedores de IA, ubicaciones, terceros con acceso y plazos de retención. El código y la 
+información de Mutualia no se utilizarán para entrenar, reentrenar, ajustar o mejorar modelos ni 
+para otros clientes o fin es ajenos al contrato. Se comunicarán sin dilación los incidentes, se 
+conservarán evidencias y se verificará su corrección. Al finalizar se entregarán los resultados y 
+se eliminarán las copias que no deban conservarse conforme a las obligaciones aplicables. 
+Conforme a la memoria justificativa, la ejecución se plantea sin tratamiento de datos personales 
+por la adjudicataria. El análisis y las pruebas se organizarán con código y documentación sin 
+datos personales y con datos sintéticos o anonimizados que no per mitan identificar a las 
+personas. La implantación se organizará manteniendo esta condición.  
+ 
+Las empresas participantes en el presente expediente de contratación,  y especialmente la 
+empresa adjudicataria  en la ejecución del contrato, se deberán comprometer a un  estricto 
+cumplimiento de la normativa vigente (estatal y de la Unión Europea), en materia de protección 
+de datos de carácter personal  y, muy especialmente, a la confidencialidad sobre los datos de 
+carácter personal a los que pueda tener acceso con ocasión de la prestación del servicio.   
+ 
+
+--- página 12 ---
+ 
+ 
+En concreto, se deberá cumplir lo dispuesto en el REGLAMENTO (UE) 2016/679 DEL 
+PARLAMENTO EUROPEO Y DEL CONSEJO de 27 de abril de 2016 General de Protección de 
+Datos (RGPD), en la Ley Orgánica 3/2018 de 5 de diciembre, de Protección de Datos Personales 
+y garantía de los derechos digitales (LOPDGDD;  y demás normativa complementaria o que le 
+sea de aplicación vigente o que se apruebe en un futuro, advirtiéndose que esta obligación tiene 
+el carácter de obligación contractual ESENCIAL a los efectos del art. 211.1 f) de la Ley  9/2017 
+de Contratación del Sector Público  como causa de resolución  por incumplimiento de la 
+obligación principal del contrato  
+ 
+Conforme al art.  116.1 Ley 9/2017  de Contratación del Sector Público, en aquellos contratos 
+cuya ejecución requiera de la cesión de datos por parte de entidades del sector público al 
+contratista, el órgano de contratación en todo caso deberá especificar en  el expediente de 
+contratación cuál será la  FINALIDAD del tratamiento de los datos que vayan a ser cedidos.  A 
+este respecto, la FINALIDAD del tratamiento de datos  de este expediente  queda explicitado 
+en el presente Pliego de Prescripciones Técnicas, en el Pliego de Condiciones Administrativas 
+Particulares y/o en el Contrato que se suscriba por Mutualia con la empresa adjudicataria.    
+ 
+Conforme a lo dispuesto en el art. 122.2 de la Ley 9/2017 de Contratación del Sector Público, sin 
+perjuicio de lo establecido en el artículo 28.2 del  RGPD, en aquellos contratos cuya ejecución 
+requiera el tratamiento por el contratista de datos personales por cuenta del responsable del 
+tratamiento, adicionalmente en este pliego o en el de condiciones administrativas particulares se 
+hará constar:  
+ 
+a) La finalidad para la cual se cederán dichos datos.  
+b) La obligación del futuro contratista de someterse en todo caso a la normativa nacional y de la 
+Unión Europea en materia de protección de datos, sin perjuicio de lo establecido en el último 
+párrafo del apartado 1 del artículo 202.  
+c) La obligación de la empresa adjudicataria de presentar antes de la formalización del contrato 
+una declaración en la que ponga de manifiesto dónde van a estar ubicados los servidores y 
+desde dónde se van a prestar los servicios asociados a los mismos.  
+d) La obligación de comunicar cualquier cambio que se produzca, a lo largo de la vida del 
+contrato, de la información facilitada en la declaración a que se refiere la letra c) anterior.  
+e) La obligación de los licitadores de indicar en su oferta, si tienen previsto subcontratar los 
+servidores o los servicios asociados a los mismos, el nombre o el perfil empresarial, definido por 
+referencia a las condiciones de solvencia profesional o técnica, de los subcontratistas a los que 
+se vaya a encomendar su realización.  
+ 
+En el supuesto que esta relación contractual exija el tratamiento por la empresa adjudicataria de 
+datos personales  por cuenta de  Mutualia de los que  esta sea RESPONSABLE, la empresa 
+adjudicataria ostentará la condición jurídica de ENCARGADO de Tratamiento, tal y como señala 
+la vigente normativa de protección de datos personales (salvo que la empresa adjudicataria, por 
+su especial naturaleza jurídica y en base a su normativa sectorial, también tenga la condición de 
+RESPONSABLE en cuyo caso tanto Mutualia como la adjudicataria tendrán la consideración de 
+corresponsables en el tratamiento de los datos personales objeto del contrato).   
+ 
+En el supuesto de que la empresa adjudicataria sea ENCARGADO DE 
+TRATAMIENTO, conforme a lo  también previsto en el PLIEGO DE 
+CONDICIONES ADMINISTRATIVAS PARTICULARES de este expediente de contratación, 
+se deberá firmar entre ambas partes  el correspondiente CONTRATO DE 
+CONFIDENCIALIDAD, SEGURIDAD EN LA INFORMACIÓN Y CUMPLIMIENTO NORMATIVO 
+
+--- página 13 ---
+ 
+ 
+DE TRATAMIENTO DE DATOS PERSONALES  según regula el art. 28  RGPD y los arts. 28 y 
+33 LOPDGDD  
+ 
+En el caso que la ejecución del contrato principal exija de su tratamiento, los sistemas de 
+información y comunicaciones para la recogida, almacenamiento, procesamiento y gestión de 
+datos de usuarios del Sistema Nacional de Salud, así como los correspondie ntes tratamientos 
+de sus datos personales, deberán ubicarse y prestarse dentro del territorio de la Unión Europea, 
+conforme dispone el art. 46 bis de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del 
+Sector Público. Estos datos no podrán ser objeto de transferencia a un tercer país u organización 
+internacional, con excepción de los que hayan sido objeto de una decisión de adecuación de la 
+Comisión Europea o cuando así lo exija el cumplimiento de las obligaciones internacionales; 
+advirtiéndose de que esta obligación tiene el carácter de obligación contractual esencial.   
+ 
+Asimismo, en caso de que la empresa adjudicataria esté legal o contractualmente habilitada, o 
+sea expresamente autorizada por Mutualia, para subcontratar algún servicio objeto de este 
+contrato que implique el tratamiento por la empresa subcontratista de da tos personales de los 
+que Mutualia sea responsable, la empresa adjudicataria deberá exigir y supervisar que dicha 
+subcontratista, en su condición de subencargada  del tratamiento, cumpla la normativa vigente 
+en materia de protección de datos personales y las condiciones establecidas en el Pliego de 
+Condiciones Administrativas Particulares. En estos casos, conforme al artículo 215.2 b) de la 
+Ley 9/2017, de Contratos  del Sector Público, la empresa adjudicataria deberá comunicar por 
+escrito al órgano de contratación, tras la adjudicación del contrato y, a más tardar, cuando inicie 
+su ejecución, la intención de celebrar los subcontratos, indicando la parte de la prestac ión que 
+se pretende subcontratar, la identidad, datos de contacto y representante o representantes 
+legales de la empresa subcontratista, y justificando suficientemente su aptitud para ejecutarla 
+mediante referencia a los medios técnicos y humanos de que di spone, su experiencia y la 
+acreditación de que no se encuentra incursa en prohibición de contratar conforme al artículo 71 
+de dicha Ley. 
+ 
+Conforme al artículo 215.4 de la LCSP, las empresas subcontratistas quedarán obligadas 
+únicamente frente a la empresa contratista principal, que asumirá la total responsabilidad de la 
+ejecución del contrato frente a Mutualia, en su condición de poder adjudicador no Administración 
+Pública, de conformidad con lo establecido en los pliegos, en la oferta adjudicataria y en el 
+contrato. Esta responsabilidad comprenderá, entre otras, las obligaciones en materia 
+medioambiental, social, laboral y de protección de d atos personales previstas en los artículos 
+201 y 202 de la LCSP, así como cualquier otra obligación legal o contractual que resulte 
+aplicable. El conocimiento por parte de Mutualia de los subcontratos comunicados, o la 
+autorización que, en su caso, pudiera otorgarse, no alterará en ningún caso la responsabilidad 
+exclusiva de la empresa contratista principal frente a Mutualia. 
+ 
+ 
+CLÁUSULA 8ª.- USO DE INTELIGENCIA ARTIFICIAL EN LA MIGRACIÓN Y CUMPLIMIENTO 
+NORMATIVO 
+ 
+La IA se utilizará como apoyo técnico para comprender los programas de origen y ejecutar su 
+migración; no se incorporará como nueva funcionalidad de la historia clínica. La adjudicataria 
+identificará las herramientas, su finalidad y los modelos, archivos f uente generados y demás 
+información que reciban. Deberá cumplir las obligaciones normativas que resulten aplicables y 
+exigibles durante la ejecución atendiendo al uso efectivo, la clasificación de las herramientas, el 
+
+--- página 14 ---
+ 
+ 
+rol jurídico asumido y el calendario vigente. No se atribuirá a Mutualia la condición de 
+responsable del despliegue de un sistema de IA por el mero hecho de recibir código migrado. 
+ 
+• Documentar las herramientas y el procedimiento para preparar desde Plex las entradas del 
+agente de IA, manteniendo la correspondencia entre modelos, programas, fuentes 
+generadas y resultado migrado. 
+• Revisar técnicamente los resultados y someterlos a pruebas funcionales, de integración y 
+análisis de calidad y seguridad antes de su entrega e implantación, detectando y corrigiendo 
+errores, omisiones y alteraciones del comportamiento original. 
+• Garantizar que el uso de las herramientas respeta sus licencias y las obligaciones de 
+seguridad, confidencialidad y no reutilización del código y la información de Mutualia. La IA 
+no justificará errores, diferencias funcionales o incumplimientos. 
+• Comunicar antes de su utilización los cambios relevantes de herramienta o de las 
+condiciones de procesamiento del código y la información, describiendo su impacto sobre 
+la seguridad, confidencialidad y metodología del piloto. 
+• La adjudicataria conservará las evidencias técnicas necesarias para comprobar el proceso 
+de migración y los controles realizados, respetando los plazos y condiciones contractuales 
+y la confidencialidad de la información. 
+ 
+Este listado no es exhaustivo ni limitativo respecto de las obligaciones que resulten aplicables y 
+exigibles conforme al Reglamento Europeo de Inteligencia Artificial, en adelante RIA, y a su 
+calendario de aplicación. 
+ 
+Asimismo, en el marco del presente contrato, queda expresamente prohibido que el contratista 
+desarrolle, integre o utilice sistemas de inteligencia artificial que se correspondan con categorías 
+prohibidas conforme a dicho Reglamento (RIA). 
+ 
+Mutualia podrá solicitar evidencias y una justificación de las obligaciones normativas aplicables 
+a las herramientas de IA utilizadas y de las medidas adoptadas para cumplirlas. La prestación 
+seguirá consistiendo en la migración completa y verificada, no en la puesta a disposición de un 
+producto de IA para uso asistencial. 
+ 
+En cualquier caso, el incumplimiento de dichas obligaciones, o de cualquier otra legalmente 
+exigible, podrá ser considerado causa de resolución del contrato por incumplimiento grave. 
+ 
+ 
+CLAUSULA 9ª.- APROBACIÓN  
+ 
+Visto el presente Pliego de Prescripciones Técnicas para la contratación del servicio de 
+migración de determinadas pantallas de la historia clínica de Mutualia, desarrolladas en Plex, a 
+tecnología Angular mediante el uso de herramientas de inteligencia artificial, para “MUTUALIA”, 
+Mutua Colaboradora con la Seguridad Social n.º 2, junto con el Pliego de Condiciones 
+Administrativas Particulares que integra la documentación del expedient e, el Órgano de 
+Contratación ha tenido a bien dar su aprobación. 
+ 
+En Bilbao, a 29 de octubre de 2026 
+ 
+MARÍA LOURDES GONDRA EGUSQUIZA 
+DIRECTORA GERENTE  
+
+--- página 15 ---
+ 
+ 
+ANEXO I: DOCUMENTACIÓN OBLIGATORIA SOBRE SEGURIDAD DE LA INFORMACIÓN A 
+INCLUIR EN EL SOBRE ELECTRÓNICO B 
+ 
+ 
+N.º Información que debe aportar la empresa Respuesta de 
+la empresa 
+Evidencia que 
+debe adjuntar 
+1 Herramientas y proveedores de IA: seguridad 
+de la información. Identificar las herramientas y 
+proveedores que recibirán código o información de 
+Mutualia, la información a la que tendrán acceso y 
+sus condiciones de alojamiento y seguridad. No se 
+requiere describir el análisis de modelos ni la 
+preparación o funcionamiento interno del agente. 
+Herramientas, 
+proveedores, 
+información 
+accesible y 
+garantías de 
+seguridad. 
+Condiciones de 
+seguridad y 
+tratamiento de 
+la información 
+de los 
+proveedores. 
+2 Confidencialidad y no reutilización. Explicar 
+garantías que impiden entrenar, reentrenar, ajustar 
+o mejorar modelos con código o información de 
+Mutualia o reutilizarlos para otros clientes o fines. 
+Identificar retenciones. 
+Garantías 
+técnicas, 
+contractuales y 
+retenciones. 
+Condiciones de 
+proveedores y 
+compromiso 
+contractual. 
+3 Recorrido, acceso y eliminación de la 
+información. Identificar ubicaciones, terceros, 
+conservación, controles de acceso, protección de 
+credenciales, comunicaciones seguras y borrado. 
+Explicar cómo se ejecutará sin datos personales. 
+Flujo de 
+información, 
+entidades, 
+medidas y 
+plazos. 
+Descripción de 
+seguridad, 
+conservación y 
+eliminación. 
+4 Seguridad del código y cumplimiento de las 
+normas de Mutualia. Comprometer el 
+cumplimiento de los requisitos de seguridad de 
+Mutualia aplicables y comunicados; identificar 
+SonarQube o herramienta equivalente para detectar 
+vulnerabilidades; y acreditar su corrección. 
+Reconocer el derecho de Mutualia a auditar el 
+código y facilitar las evidencias necesarias, sin 
+exigir a Mutualia el seguimiento del proceso 
+interno de migración. 
+Compromisos 
+de seguridad, 
+herramienta de 
+análisis, 
+subsanación y 
+colaboración 
+en auditorías. 
+Compromiso de 
+cumplimiento y 
+auditoría; 
+modelo de 
+informe de 
+seguridad y 
+evidencias de 
+corrección. 
+Justificación de 
+equivalencia, si 
+procede. 
+5 Incidentes de seguridad y cambios que afecten a 
+la información. Describir la comunicación sin 
+dilación de incidentes, las medidas de contención y 
+corrección y la conservación de evidencias. 
+Comprometer la comunicación previa de cambios 
+de proveedor, ubicación, acceso o condiciones de 
+procesamiento que afecten a la seguridad o 
+confidencialidad. 
+Canal e 
+interlocución 
+de seguridad, 
+gestión de 
+incidentes y 
+comunicación 
+de cambios. 
+Procedimiento 
+de notificación 
+y respuesta a 
+incidentes y 
+compromiso de 
+comunicación 
+de cambios. 
+ 
+La información de este anexo es de presentación obligatoria en el sobre electrónico B y no será 
+objeto de valoración. Su falta o insuficiencia se tratará conforme al régimen de subsanación del 
+Pliego de Condiciones Particulares. 

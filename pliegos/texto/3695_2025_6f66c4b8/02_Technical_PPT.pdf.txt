@@ -1,0 +1,594 @@
+
+
+--- página 1 ---
+Nº de expediente: 3695/2025
+Procedimiento: Abierto simplificado abreviado
+Asunto: Suministro de tótem y sistemas de aviso, derecho de uso de software y servicios 
+asociados
+Tipo de contrato: Mixto de suministro y servicios
+Concejalía y área: Nuevas Tecnologías
+PLIEGO DE PRESCRIPCIONES TÉCNICAS  
+PARTICULARES  PARA  LA  GESTIÓN  DE 
+COLAS Y CITA PREVIA EN MODALIDAD  
+SAAS
+SERVICIO DE INFORMÁTICA DEL AYUNTAMIENTO DE LA UNIÓN
+Página 1 / 15
+Cód. Validación: 79CQPGL9YZ2SCCGKMAFXM9SDH 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 1 de 15 
+
+--- página 2 ---
+TABLA DE CONTENIDO
+1 OBJETO Y ALCANCE                                                                                                                                 ...........................................................................................................  4  
+2 PRESUPUESTO Y DURACIÓN                                                                                                                 ..............................................................................................  4  
+3 PRESTACIONES FUNCIONALES MÍNIMAS                                                                                           ...........................................................................  5  
+3.1 ADMINISTRACIÓN, USUARIOS Y PUESTOS................................................................................ 5
+3.2 PORTAL Y GESTIÓN DE CITA PREVIA....................................................................................... 5
+3.3 CAPACIDAD DE NOTIFICACIÓN MEDIANTE SMS........................................................................ 5
+3.4 LLEGADA Y EXPEDICIÓN DE TURNOS....................................................................................... 6
+3.5 ATENCIÓN Y AVISOS.......................................................................................................... 6
+3.6 ESTADÍSTICAS Y EXPORTACIÓN............................................................................................. 7
+4 EQUIPAMIENTO OBLIGATORIO                                                                                                            .........................................................................................  7  
+4.1 TÓTEM DE AUTOSERVICIO................................................................................................... 7
+4.2 SISTEMA DE AVISOS EN DOS PANTALLAS................................................................................. 8
+5 ARQUITECTURA Y SEGURIDAD DEL SERVICIO                                                                                   ....................................................................  8  
+5.1 ARQUITECTURA Y CONECTIVIDAD.......................................................................................... 8
+5.2 ESQUEMA NACIONAL DE SEGURIDAD..................................................................................... 9
+5.3 DISPONIBILIDAD, COPIAS Y RECUPERACIÓN..............................................................................9
+6 PROTECCIÓN DE DATOS Y ACCESIBILIDAD                                                                                      .......................................................................  10  
+6.1 TRATAMIENTO DE DATOS PERSONALES................................................................................. 10
+6.2 ACCESIBILIDAD............................................................................................................... 10
+7 IMPLANTACIÓN Y TRANSICIÓN                                                                                                          ........................................................................................  11  
+8 FORMACIÓN Y DOCUMENTACIÓN                                                                                                    ...................................................................................  11  
+9 SOPORTE Y MANTENIMIENTO                                                                                                           .........................................................................................  12  
+10 PRUEBAS Y PUESTA EN SERVICIO                                                                                                    ...................................................................................  12  
+11 DOCUMENTACIÓN TÉCNICA Y EVIDENCIAS DE LA OFERTA                                                       ............................................  13  
+Página 2 / 15
+Cód. Validación: 79CQPGL9YZ2SCCGKMAFXM9SDH 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 2 de 15 
+
+--- página 3 ---
+11.1 SOLVENCIA Y CONFORMIDAD TÉCNICA................................................................................ 13
+11.2 CONTENIDO DE LA DOCUMENTACIÓN................................................................................. 13
+11.3 FORMATO DE LAS EVIDENCIAS.......................................................................................... 14
+12 FINALIZACIÓN Y DEVOLUCIÓN DE LA INFORMACIÓN                                                                 ....................................................  14  
+Página 3 / 15
+Cód. Validación: 79CQPGL9YZ2SCCGKMAFXM9SDH 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 3 de 15 
+
+--- página 4 ---
+1 OBJETO Y ALCANCE
+El contrato tiene por objeto la puesta a disposición de una aplicación de gestión de colas y cita  
+previa  en  modalidad  SaaS  para  la  Oficina  de  Atención  al  Ciudadano  y  Estadística  del 
+Ayuntamiento de La Unión, el suministro de un tótem de autoservicio y del sistema de avisos  
+en dos pantallas, y los servicios de instalación, configuración, formación, alojamiento, soporte  
+y mantenimiento.
+El alcance comprende una oficina, cinco puestos de atención simultáneos y los perfiles de  
+administración y supervisión necesarios. Se atenderá, mediante un circuito integrado, a las  
+personas con cita previa y a las que acudan sin cita.
+El adjudicatario suministrará un tótem nuevo, completo y operativo. Podrán reutilizarse los  
+dos monitores municipales existentes cuando sean compatibles. Se incluirán en el precio todos  
+los controladores, reproductores, adaptadores, conexiones, soportes y licencias necesarios. Si  
+no fuera posible reutilizar los monitores, se suministrarán las pantallas necesarias sin coste  
+adicional. Los equipos nuevos serán de titularidad municipal desde la formalización del acta de  
+puesta en servicio del sistema, definida en el apartado 10 de este pliego.
+Las prescripciones de este pliego tienen carácter obligatorio. Se admitirán soluciones técnicas  
+equivalentes que acrediten las prestaciones exigidas. No se exige una marca, un procesador ni  
+un  sistema  operativo  determinado.  Los  criterios  de  adjudicación  y  su  ponderación  se 
+establecerán en el PCAP.
+2 PRESUPUESTO Y DURACIÓN
+El presupuesto base de licitación asciende a 14.000,00 euros sin IVA. El IVA, al 21 %, asciende a  
+2.940,00  euros,  resultando  un  importe  total  de  16.940,00  euros.  El  valor  estimado  es  de 
+14.000,00 euros, sin prórrogas ni modificaciones previstas que incrementen su importe. Estos  
+datos se recogen como referencia económica del alcance; su regulación administrativa y la  
+facturación se establecerán en el PCAP.
+Anualidad Sin IVA IVA (21 %) Con IVA
+Primera 6.800,00 € 1.428,00 € 8.228,00 €
+Segunda 2.400,00 € 504,00 € 2.904,00 €
+Tercera 2.400,00 € 504,00 € 2.904,00 €
+Cuarta 2.400,00 € 504,00 € 2.904,00 €
+TOTAL 14.000,00 € 2.940,00 € 16.940,00 €
+El  precio  comprenderá  la  totalidad  de  las  prestaciones  obligatorias  y  de  las  prestaciones 
+adicionales  incorporadas  a  la  adjudicación,  sin  suplementos  por  equipos,  licencias, 
+alojamiento, instalación, funcionamiento de las dos pantallas, formación, actualizaciones o  
+mantenimiento.
+La implantación tendrá un plazo máximo de dos meses desde la formalización. El servicio SaaS  
+y el mantenimiento se prestarán durante cuatro años desde la fecha del acta de puesta en  
+servicio del sistema. Las cuotas periódicas se devengarán a partir de dicha acta, conforme al  
+PCAP. Cada anualidad de servicio comprenderá doce meses desde la puesta en servicio o su  
+Página 4 / 15
+Cód. Validación: 79CQPGL9YZ2SCCGKMAFXM9SDH 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 4 de 15 
+
+--- página 5 ---
+aniversario. La imputación a ejercicios presupuestarios se ajustará al calendario contractual  
+establecido en el PCAP.
+3 PRESTACIONES FUNCIONALES MÍNIMAS
+3.1 ADMINISTRACIÓN, USUARIOS Y PUESTOS
+ Administración  desde  navegador  de  oficinas,  servicios,  colas,  agendas,  horarios, 
+festivos,  puestos,  usuarios,  perfiles,  plantillas  y  mensajes,  dentro  del  ámbito 
+contratado. La creación de agendas y servicios no dará lugar a cuotas adicionales.
+ Cuentas  nominales  y  permisos  diferenciados  para  administración,  supervisión  y 
+atención.  Los  usuarios  podrán  ser  dados  de  baja  y  sus  permisos  modificados  sin 
+intervención obligatoria del proveedor.
+ Funcionamiento  concurrente  de  cinco  puestos,  con  asignación  de  uno  o  varios 
+servicios a cada puesto y prioridades configurables para atención con cita y sin cita.
+ Consulta en tiempo real del estado de colas y puestos y registro de cambios relevantes  
+de configuración. Apertura y cierre programado de la expedición de turnos.
+3.2 PORTAL Y GESTIÓN DE CITA PREVIA
+ Portal en castellano, adaptable a ordenador, tableta y móvil, enlazable desde la web  
+municipal. Permitirá seleccionar servicio, consultar fechas y horas disponibles, reservar  
+y obtener un localizador. No será obligatorio crear una cuenta.
+ Agendas configurables por servicio, día y tramo horario, con duración o capacidad de  
+citas, festivos, cierres, periodos especiales y antelación mínima y máxima. Se impedirá  
+la reserva por encima de la capacidad publicada.
+ Consulta y cancelación por la persona interesada mediante localizador y verificación  
+proporcionada.  El personal autorizado  podrá  crear, modificar,  reasignar  y  cancelar 
+citas, incluidas las solicitadas por teléfono o presencialmente.
+ Confirmación,  aviso  de  modificación  y  cancelación  y  recordatorio  configurable  por 
+correo electrónico, incluidos en el precio sin cargos por mensaje. Los correos utilizarán  
+la identificación municipal y no tendrán finalidad comercial.
+ Campos de identidad y contacto configurables y aviso de privacidad editable. Solo se  
+recogerán los datos que determine el Ayuntamiento como necesarios para el servicio.
+ Medidas proporcionadas frente a reservas automatizadas, abuso y duplicidades, con  
+mensajes comprensibles y alternativas accesibles de verificación.
+3.3 CAPACIDAD DE NOTIFICACIÓN MEDIANTE SMS
+La plataforma permitirá configurar, activar y desactivar notificaciones SMS relacionadas con las 
+citas y los turnos. La licencia o módulo, su configuración y su mantenimiento estarán incluidos  
+en el precio, sin cuotas adicionales por habilitar esta capacidad.
+Página 5 / 15
+Cód. Validación: 79CQPGL9YZ2SCCGKMAFXM9SDH 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 5 de 15 
+
+--- página 6 ---
+El  consumo  y  envío  efectivo  de  SMS  no  forman  parte  de  las  prestaciones  económicas 
+contratadas y permanecerán desactivados. La adjudicación no autoriza cargos por mensajes. La 
+contratación posterior del envío requerirá el procedimiento que corresponda y no se realizará  
+mediante la mera aceptación de una tarifa comunicada por el adjudicatario.
+La oferta identificará al prestador o pasarela de envío, la compatibilidad con pasarelas que  
+pudiera contratar el Ayuntamiento y todos los costes asociados a su uso: cuotas, precio por  
+mensaje o segmento, mínimos de consumo y otras dependencias. Esta información tendrá  
+carácter descriptivo y no constituirá una oferta de consumo aceptada dentro del presente  
+contrato. No se exige compatibilidad universal con cualquier pasarela.
+3.4 LLEGADA Y EXPEDICIÓN DE TURNOS
+ Selección  de  servicio  y  emisión  de  ticket  físico  para  personas  sin  cita.  El  ticket 
+contendrá identificador de turno, fecha, hora y destino o denominación pública del  
+servicio.
+ Obtención  de  un  comprobante  digital  presencial  mediante  QR  u  otro  medio 
+electrónico equivalente, sin exigir el envío de un SMS. Se evitará la emisión de dos  
+turnos para una misma solicitud.
+ Registro de llegada de personas con cita mediante localizador y lectura del QR emitido  
+por la plataforma. Los márgenes de llegada anticipada y retraso serán configurables.
+ Vinculación del turno a la cita, control de duplicados y diferenciación en el puesto  
+entre citas previstas, personas llegadas y visitantes sin cita.
+ Asignación atendida de turnos y registro manual de llegada cuando se averíe el tótem,  
+mediante un procedimiento documentado que no dependa de una segunda impresora  
+no suministrada.
+ Tickets  y  avisos  públicos  sin  nombres,  documentos  de  identidad  ni  información 
+sensible sobre el trámite. Las denominaciones de servicio se configurarán para evitar  
+revelar circunstancias personales.
+3.5 ATENCIÓN Y AVISOS
+ Consola de atención desde navegador: consulta de las colas autorizadas y hora de las  
+citas; llamada del siguiente turno o selección autorizada; repetición de llamada, inicio y 
+cierre de atención, incomparecencia y redirección.
+ Corrección del servicio y registro de tiempos de llegada, espera, llamada y atención. La  
+redirección conservará la trazabilidad del turno.
+ Interfaces de administración, recepción y supervisión adaptables a ordenador, tableta  
+y móvil. No se exigirá instalar una aplicación de escritorio en los cinco puestos.
+ Avisos simultáneos en las dos pantallas, con identificador de turno y puesto, alerta  
+visual  y  señal  sonora  perceptible,  historial  breve  de  llamadas  y  personalización 
+municipal. El visor arrancará automáticamente y recuperará su funcionamiento tras un  
+reinicio.
+Página 6 / 15
+Cód. Validación: 79CQPGL9YZ2SCCGKMAFXM9SDH 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 6 de 15 
+
+--- página 7 ---
+ Control de permisos de los comentarios internos. La información restringida no se  
+mostrará en las pantallas públicas.
+3.6 ESTADÍSTICAS Y EXPORTACIÓN
+ Indicadores  de  turnos  totales,  impresos,  atendidos,  redirigidos  y  no  presentados; 
+número de atenciones; citas reservadas, canceladas y atendidas; tiempos de espera y  
+atención, con filtros por fecha, servicio, cola y puesto según permisos.
+ Definición documentada de cada indicador y de los filtros aplicados. Los turnos y las  
+atenciones se identificarán separadamente para evitar duplicidades en los resultados.
+ Exportación de tablas e información municipal a CSV u otro formato abierto utilizable  
+sin  licencia  del  proveedor,  con  diccionario  de  campos.  Los  informes  se  podrán 
+descargar.
+ Configuración  de  conservación,  anonimización  y  supresión  según  instrucciones  del 
+Ayuntamiento. Disponibilidad de los datos y configuración para su devolución durante  
+el contrato y a su finalización.
+4 EQUIPAMIENTO OBLIGATORIO
+4.1 TÓTEM DE AUTOSERVICIO
+Se  suministrará  una  unidad  nueva,  de  pie  o  sobre  soporte  estable,  diseñada  para  uso 
+continuado en espacios de atención al público y con aptitud documentada para ocho horas  
+diarias, cinco días por semana. Se entregará instalada, fijada, configurada y con todos sus  
+componentes.
+Elemento Prestación mínima Evidencia
+Construcción Carcasa rígida de metal o resistencia equivalente; superficies  
+lavables;  estabilidad  y  fijación  o  solución  anticaída;  
+compartimentos con cerradura y cableado y puertos fuera del  
+alcance del público.
+Ficha, fotografías y manual 
+del modelo.
+Pantalla Pantalla táctil de al menos 10 pulgadas, con controles legibles y  
+aptitud para uso continuado. Se acreditarán resolución, brillo,  
+ángulo de visión y condiciones de funcionamiento.
+Ficha del componente y 
+capturas de la interfaz.
+Impresora Impresora  térmica  integrada,  tickets  legibles  con  texto  y 
+códigos,  reposición  de  papel  sin  herramientas  especiales  y 
+aptitud para al menos 150 tickets diarios.
+Modelo, ficha, consumibles 
+y prueba de impresión.
+Avisos de papel Detección  de  papel  agotado  y  alerta  de  papel  próximo  a 
+agotarse  visible desde  la interfaz  del  personal  antes  de que 
+cese la impresión. El aviso se actualizará al reponer el rollo. Se  
+admite sensor o método equivalente fiable.
+Ficha o descripción del 
+método y vídeo de la alerta 
+y reposición.
+Identificación Teclado  en  pantalla  para  localizador  y  lector  integrado  de 
+códigos  2D,  incluidos  QR,  compatible  con  el  código  de  cita 
+emitido por la plataforma.
+Ficha del lector y 
+demostración.
+Página 7 / 15
+Cód. Validación: 79CQPGL9YZ2SCCGKMAFXM9SDH 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 7 de 15 
+
+--- página 8 ---
+Elemento Prestación mínima Evidencia
+Proceso y red Recursos dimensionados para el servicio, conexión Ethernet y  
+soporte  de  seguridad  de  sus  componentes  durante  toda  la 
+vigencia.  Arranque  automático  y  recuperación  tras  corte 
+eléctrico.
+Ficha, versiones, soporte y 
+esquema de red.
+Seguridad y 
+acceso
+Protecciones eléctricas, declaración UE de conformidad según  
+la  normativa  aplicable  y  acceso  restringido  a  componentes. 
+Controles y disposición física compatibles con el uso accesible.
+Declaración de 
+conformidad y manual.
+Mantenimiento Cuatro  años  de  cobertura  in situ de  piezas,  mano  de  obra, 
+desplazamientos  y  reparación  o  sustitución  equivalente. 
+Disponibilidad de recambios y consumibles compatibles.
+Compromiso y 
+procedimiento de 
+mantenimiento.
+El  suministro  incluirá  identificación  municipal,  instrucciones  de  reposición  y  papel  inicial 
+suficiente para imprimir al menos 2.000 tickets del diseño implantado, con su rendimiento  
+documentado. La oferta indicará ancho, diámetro, mandril y longitud útil de los rollos, si son  
+genéricos o exclusivos, su disponibilidad y los posibles proveedores. No se impondrá un ancho  
+de rollo determinado.
+El diseño del ticket será configurable y permitirá incluir los datos obligatorios, con texto y QR  
+legibles, en una longitud no superior a 100 mm, incluido el avance y corte. Podrán configurarse  
+tickets de mayor longitud cuando el Ayuntamiento lo solicite.
+4.2 SISTEMA DE AVISOS EN DOS PANTALLAS
+Se suministrarán los equipos necesarios para gestionar las dos pantallas. Podrán emplearse  
+controladores  individuales  o  un  equipo  común  con  dos  salidas  y  tendido  adecuados  a  su 
+ubicación. La solución deberá dar señal a ambas pantallas durante el funcionamiento ordinario  
+y permitir su mantenimiento.
+ Comprobación de entradas, resolución, ubicación, distancias y estado de los monitores  
+municipales  durante  el  replanteo.  Suministro  de  adaptadores,  cables,  soportes, 
+alimentación y licencias necesarios.
+ Texto legible desde la zona de espera y señal digital compatible; arranque automático,  
+recuperación tras reinicio y diagnóstico de incidencias.
+ Actualizaciones y soporte de seguridad durante cuatro años, fijación segura y acceso  
+administrativo restringido.
+ Cuando se suministren pantallas, serán aptas para el horario de atención continuado,  
+tendrán tamaño y resolución adecuados a la distancia de lectura y quedarán incluidas  
+en  el  mantenimiento.  Las  averías  de  monitores  municipales  reutilizados  se 
+identificarán  y  comunicarán  al  Ayuntamiento;  no  se  incluyen  en  la  reparación  de 
+equipos suministrados.
+Página 8 / 15
+Cód. Validación: 79CQPGL9YZ2SCCGKMAFXM9SDH 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 8 de 15 
+
+--- página 9 ---
+5 ARQUITECTURA Y SEGURIDAD DEL SERVICIO
+5.1 ARQUITECTURA Y CONECTIVIDAD
+El  alojamiento,  operación,  base  de  datos,  copias,  monitorización  y  actualizaciones  serán 
+responsabilidad  del  adjudicatario.  El  Ayuntamiento  no  aportará  servidores  ni  licencias  de 
+sistema operativo o base de datos para la plataforma SaaS. Los equipos de pantalla y tótem  
+podrán ejecutar los componentes locales necesarios.
+El servicio no requerirá publicar puertos de entrada hacia la red municipal desde Internet. El  
+adjudicatario  documentará los destinos, protocolos y puertos de salida necesarios, que se  
+limitarán al funcionamiento y soporte autorizados. El acceso remoto de mantenimiento será  
+cifrado, identificado, registrado y autorizado por el Ayuntamiento.
+Las interfaces web serán compatibles con versiones mantenidas de los navegadores de uso  
+general.  Las  comunicaciones  y  credenciales  se  protegerán  mediante  cifrado  vigente.  Los 
+cambios técnicos no obligarán al Ayuntamiento a adquirir licencias o equipos adicionales para  
+mantener las prestaciones contratadas.
+5.2 ESQUEMA NACIONAL DE SEGURIDAD
+El sistema que soporta la solución SaaS ofertada acreditará su conformidad con el Esquema  
+Nacional de  Seguridad, como mínimo  para la categoría  BÁSICA, conforme  al Real Decreto 
+311/2022.  Se admitirá  una  declaración de  conformidad sustentada en  una  autoevaluación 
+documentada o una certificación vigente de categoría BÁSICA, MEDIA o ALTA. Los sistemas de  
+categoría MEDIA o ALTA deberán acreditar su conformidad mediante certificación.
+El alcance comprenderá la aplicación ofertada y los servicios e infraestructura que la soportan.  
+La conformidad del alojamiento por sí sola no acredita el servicio completo. Se aportará la  
+declaración o certificado, con identificación del titular del sistema, servicio, alcance, fecha y  
+vigencia  o  revisión  correspondiente.  Cuando  existan  varios  documentos,  se  acreditará  su 
+cobertura  conjunta.  En  caso  de  declaración,  se  identificarán  la  fecha  y  el  alcance  de  la 
+autoevaluación y se facilitarán las evidencias necesarias para su comprobación municipal, con  
+protección de la información de seguridad. La conformidad se mantendrá durante toda la  
+vigencia y se comunicarán las renovaciones, revisiones y cambios de alcance.
+El  proveedor  facilitará  la  arquitectura,  responsabilidades,  declaración  de  aplicabilidad  e 
+información necesaria para la categorización y el análisis de riesgos municipales. Se aplicarán  
+las medidas que correspondan a las dimensiones y categoría del sistema. Las cuentas serán  
+nominales,  con  control  de  permisos,  registros  protegidos  de  acceso  y  administración  y 
+autenticación multifactor para accesos administrativos.
+5.3 DISPONIBILIDAD, COPIAS Y RECUPERACIÓN
+La disponibilidad mensual mínima del portal, la gestión interna y el servicio de colas será del  
+99%. Se calculará como 100 × (T − I) / T, siendo T los minutos del mes menos las ventanas de  
+mantenimiento  previamente  aceptadas  e  I  los  minutos  de  indisponibilidad  imputable  al 
+servicio. Se excluirán las interrupciones acreditadas de conectividad o energía municipales. Se  
+entregarán los registros de disponibilidad a petición del Ayuntamiento.
+Página 9 / 15
+Cód. Validación: 79CQPGL9YZ2SCCGKMAFXM9SDH 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 9 de 15 
+
+--- página 10 ---
+Las ventanas programadas se comunicarán al menos con 48 horas de antelación y se realizarán  
+fuera  del  horario  de  atención,  salvo  autorización  expresa.  Las  actuaciones  urgentes  de 
+seguridad se comunicarán con la antelación posible y se documentarán.
+Se realizarán copias de seguridad al menos diarias, protegidas frente a accesos y alteraciones  
+no autorizados, con una retención mínima de 30 días y prueba documentada de recuperación  
+al menos anual. Se dispondrá de un procedimiento de recuperación y continuidad ajustado al  
+análisis de riesgos y al ENS. Los plazos de conservación de copias no permitirán reutilizar datos  
+cuya supresión haya sido ordenada.
+6 PROTECCIÓN DE DATOS Y ACCESIBILIDAD
+6.1 TRATAMIENTO DE DATOS PERSONALES
+El Ayuntamiento será responsable del tratamiento y el adjudicatario actuará como encargado  
+respecto  de  los  datos  tratados  por  su  cuenta.  La  finalidad  será  gestionar  reservas, 
+comunicaciones  de  servicio,  llegada,  turnos, atención  y  estadísticas  municipales, y prestar 
+soporte técnico autorizado.  No se incluirá  información  sobre el contenido  de  expedientes 
+administrativos ni documentación sensible en los campos de cita.
+Antes de acceder a datos personales se formalizará el encargo de tratamiento del artículo 28  
+del  RGPD.  Comprenderá  objeto,  duración,  finalidad,  categorías  de  personas  y  datos, 
+instrucciones, confidencialidad, medidas de seguridad, subencargados, asistencia en derechos  
+y evaluaciones, auditorías y devolución o supresión. El proveedor no utilizará los datos para  
+publicidad, fines propios ni entrenamiento de sistemas ajenos al servicio contratado.
+Los datos operativos y las copias se alojarán en el Espacio Económico Europeo. Se identificarán  
+las ubicaciones, desde dónde se presta el servicio y los posibles accesos desde terceros países.  
+Cualquier  transferencia  internacional  o  acceso  que  la  implique  quedará  sujeto  a  las 
+instrucciones del Ayuntamiento y a las garantías del capítulo V del RGPD. La ubicación en el  
+EEE no dispensa de controlar los accesos y subencargados.
+Los subencargados requerirán autorización previa específica o general en los términos del  
+encargo. Se comunicarán los cambios y se impondrán obligaciones equivalentes. Antes de la  
+formalización se presentará la declaración de ubicación de servidores y prestación de servicios  
+exigida por el artículo 122.2 de la LCSP; los cambios se comunicarán durante el contrato.
+El Ayuntamiento determinará la base jurídica, los campos imprescindibles y la conservación,  
+con asesoramiento del DPD. Los avisos informativos cumplirán los artículos 12 y 13 del RGPD.  
+No se confundirá la información sobre privacidad con un consentimiento obligatorio cuando la  
+base jurídica sea otra.
+El proveedor asistirá al Ayuntamiento en el análisis de riesgos y, si resulta exigible, en la  
+evaluación de impacto del artículo 35 del RGPD, antes de iniciar el tratamiento afectado. Las  
+pruebas se harán con datos ficticios. Las citas futuras solo se transferirán una vez formalizado  
+el encargo y completadas las actuaciones previas exigibles.
+Los incidentes que afecten al servicio o los datos se comunicarán sin demora indebida. El  
+primer aviso se remitirá, como máximo contractual, dentro de las 24 horas siguientes a su  
+conocimiento, con actualizaciones posteriores. Este plazo no sustituye la comunicación sin  
+Página 10 / 15
+Cód. Validación: 79CQPGL9YZ2SCCGKMAFXM9SDH 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 10 de 15 
+
+--- página 11 ---
+demora indebida del artículo 33.2 del RGPD. Se facilitarán hechos, datos afectados, impacto,  
+medidas y contacto para su seguimiento.
+6.2 ACCESIBILIDAD
+El portal ciudadano, sus formularios y documentos cumplirán el Real Decreto 1112/2018 y la  
+norma armonizada aplicable conforme a su artículo 6, en su versión vigente. Se facilitarán la  
+evaluación de accesibilidad, los resultados y la información necesaria para elaborar y mantener 
+la declaración de accesibilidad del Ayuntamiento.
+El tótem se instalará con acceso y controles utilizables por personas con discapacidad, con  
+legibilidad, contraste y tamaño de elementos adecuados. Se mantendrá una alternativa de  
+atención asistida. La reserva no dependerá exclusivamente de un teléfono inteligente ni de  
+canales con coste para la persona.
+7 IMPLANTACIÓN Y TRANSICIÓN
+En los diez días hábiles siguientes a la formalización se presentará el plan de implantación:  
+inventario, replanteo, instalación, configuración, pruebas, formación, transición, responsables  
+y reversión.
+Se  replicará  la  configuración  operativa  vigente  que  facilite  el  Ayuntamiento:  oficinas  y 
+ubicaciones del ámbito contratado, servicios, colas, agendas, horarios, festivos, capacidades,  
+prioridades,  puestos,  usuarios  y  perfiles,  kioscos,  reglas  de  llegada,  avisos,  pantallas  y 
+plantillas. La réplica se verificará antes de publicar las nuevas agendas. No se exige reproducir  
+la arquitectura técnica ni las particularidades propietarias del sistema anterior.
+No  es  obligatoria  la  migración  del  histórico  de  turnos,  atenciones  o  citas  consumidas.  Se 
+inventariarán las citas futuras vigentes y se garantizará su atención mediante importación  
+selectiva comprobada o un procedimiento coordinado con el sistema anterior hasta agotarlas.  
+El Ayuntamiento  facilitará  las  exportaciones  o  consultas  disponibles.  El  plan  no  impondrá 
+acceso a funciones propietarias ni la adquisición de licencias adicionales no incluidas para el  
+nuevo sistema.
+Se fijarán por separado la fecha de cierre de nuevas reservas en el sistema anterior y la de  
+inicio de atención en la nueva plataforma. Se coordinarán los huecos disponibles para evitar  
+reservas duplicadas, se cambiarán los enlaces municipales y se informará del canal válido. El  
+plan identificará cómo se consultan y atienden las citas anteriores sin pérdida de información.
+Antes del cambio se probará el circuito completo, se validarán la configuración y las citas  
+futuras y se documentará el procedimiento de contingencia y reversión. La puesta en servicio  
+se realizará dentro de los dos meses desde la formalización, previa conformidad municipal con  
+las comprobaciones previstas en el apartado 10, y quedará documentada mediante el acta de  
+puesta en servicio del sistema.
+8 FORMACIÓN Y DOCUMENTACIÓN
+Se impartirán, al menos, una sesión para administración y supervisión y otra para los cinco  
+agentes.  Incluirán  práctica  de  configuración,  reserva,  llegada,  llamada,  redirección,  
+incomparecencias, estadísticas, reposición y avisos de papel y contingencias. Se entregarán los  
+materiales y el registro de las sesiones.
+Página 11 / 15
+Cód. Validación: 79CQPGL9YZ2SCCGKMAFXM9SDH 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 11 de 15 
+
+--- página 12 ---
+Se  entregarán  manuales  de  administración  y  atención,  instrucciones  de  instalación  y 
+conexiones,  procedimiento  de  mantenimiento  y  reposición  de  papel  y  una  guía  básica 
+ciudadana  con  los  pasos  de  reserva,  cancelación  y  llegada.  La  documentación  estará  en 
+castellano  y  corresponderá  a  la  versión  implantada.  Se  actualizará  cuando  un  cambio  del 
+producto altere las instrucciones.
+La guía básica y los avisos de transición se facilitarán en un formato digital accesible y editable.  
+El Ayuntamiento dispondrá de autorización suficiente para su publicación y reproducción en  
+sus canales municipales.
+9 SOPORTE Y MANTENIMIENTO
+El soporte  y  mantenimiento  de  la  plataforma  y  de  todo  el equipamiento  suministrado  se 
+prestarán durante cuatro años. Se incluirán actualizaciones, diagnóstico, asistencia, piezas,  
+mano de obra, desplazamientos y reparación o sustitución equivalente, sin suplementos. El  
+papel posterior al suministro inicial no está incluido entre los mínimos.
+El soporte estará disponible los días laborables de lunes a viernes, excluidos festivos de la  
+oficina, al menos de 9:00 a 13:30. Se habilitarán teléfono y un canal electrónico trazable, con  
+número,  estado  y  registro  de  las  actuaciones.  Las  horas  y  días  hábiles  siguientes  se 
+computarán dentro de esa cobertura.
+Incidencia Respuesta máxima Restablecimiento o alternativa
+Crítica: servicio general o toma de turnos  
+detenidos
+4 horas hábiles Procedimiento  operativo  alternativo  en 1 
+día hábil.
+Alta: avería de tótem o pantalla; portal de 
+reservas no disponible
+1 día hábil Reparación  o  alternativa  funcional  en  2 
+días hábiles.
+Ordinaria:  defecto  sin  interrupción  de 
+atención
+2 días hábiles Diagnóstico, plazo de solución comunicado  
+y seguimiento hasta cierre.
+La respuesta comprenderá contacto técnico y comienzo del diagnóstico. La alternativa deberá  
+permitir  continuar  la  función  afectada;  cuando  se  utilice  un  equipo  provisional,  sus 
+prestaciones serán suficientes para el servicio. La incidencia permanecerá abierta hasta la  
+reparación o solución definitiva.
+10 PRUEBAS Y PUESTA EN SERVICIO
+Las pruebas se realizarán con datos ficticios y con participación municipal. Se comprobarán los  
+siguientes resultados:
+Prueba Resultado a verificar
+Agendas y reserva Configuración  de  horarios,  cierres  y  capacidades;  reserva,  correo,  consulta  y 
+cancelación; ausencia de doble reserva.
+Llegada y turnos Visitante con cita por localizador y QR; visitante sin cita; ticket físico y digital presencial;  
+control de duplicados.
+Atención Cinco puestos concurrentes; llamada, repetición, redirección, incomparecencia y cierre;  
+trazabilidad.
+Página 12 / 15
+Cód. Validación: 79CQPGL9YZ2SCCGKMAFXM9SDH 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 12 de 15 
+
+--- página 13 ---
+Prueba Resultado a verificar
+Avisos Señal en ambas pantallas, identificador  y puesto,  alerta  visual y sonora,  arranque  y 
+recuperación.
+Papel y tótem Estabilidad, acceso restringido, impresión, alerta antes del agotamiento, detección de  
+fin de papel y actualización tras reposición.
+Informes Indicadores separados de turnos y atenciones; filtros, descarga y exportación abierta.
+Seguridad y datos Permisos, MFA administrativa, cifrado, declaración o certificado ENS y alcance, copias y  
+procedimiento de recuperación.
+Transición Configuración  replicada, citas  futuras  conservadas,  enlaces y agendas  coordinados  y 
+contingencia documentada.
+Se verificarán también las prestaciones adicionales incorporadas a la adjudicación que deban  
+entregarse  o  estar  operativas  en  el  momento  de  la  puesta  en  servicio,  conforme  a  sus 
+condiciones contractuales. Se entregarán el inventario de equipos, las versiones, las licencias,  
+la configuración, la documentación, los registros de formación y los resultados de las pruebas.
+Finalizadas satisfactoriamente las comprobaciones, se formalizará el acta de puesta en servicio  
+del  sistema.  Esta  acta  documentará  la  entrega  y  recepción  conforme  del  equipamiento 
+suministrado y la conformidad municipal con la implantación y las prestaciones exigibles en  
+ese  momento.  Recogerá  las comprobaciones  efectuadas, sus resultados  y, en su caso, las 
+incidencias detectadas y su subsanación.
+Desde  la  fecha  de  dicha  acta  comenzarán  los  cuatro  años  de  servicio  SaaS,  soporte  y 
+mantenimiento, y los equipos suministrados serán de titularidad municipal. La formalización  
+del acta no supondrá la finalización del contrato ni extinguirá las obligaciones pendientes,  
+incluidos  el mantenimiento integral del equipamiento y los suministros y compromisos de  
+ejecución sucesiva.
+La recepción final del contrato se realizará una vez completada la totalidad de las prestaciones,  
+conforme a lo establecido en el PCAP.
+11 DOCUMENTACIÓN TÉCNICA Y EVIDENCIAS DE LA OFERTA
+11.1 SOLVENCIA Y CONFORMIDAD TÉCNICA
+La solvencia del licitador se regula en el PCAP. En el procedimiento previsto, el artículo 159.6.b  
+de la LCSP exime de acreditar la solvencia económica y financiera y técnica o profesional. La  
+documentación de este apartado acredita las características de la solución, equipos y servicio;  
+no constituye una exigencia de contratos previos, experiencia o volumen de negocio.
+11.2 CONTENIDO DE LA DOCUMENTACIÓN
+ Memoria  técnica  con  identificación  del  producto,  versión,  licencias,  alojamiento, 
+arquitectura y funcionamiento de los cinco puestos y las dos pantallas.
+Página 13 / 15
+Cód. Validación: 79CQPGL9YZ2SCCGKMAFXM9SDH 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 13 de 15 
+
+--- página 14 ---
+ Marca  y  modelo  exacto  de  tótem,  impresora,  lector,  controladores  y  pantallas 
+suministradas;  fichas,  fotografías,  declaración  de  conformidad,  consumibles  y 
+compromiso de mantenimiento de cuatro años.
+ Declaración  o  certificado  de  conformidad  ENS  y  documentación  del  apartado  5.2; 
+ubicaciones  y  subcontratación  de  infraestructura  o  servicios  asociados,  con  el 
+contenido que establezca el PCAP conforme al artículo 122.2 de la LCSP.
+ Relación de requisitos con referencia al documento y página o fichero y minuto que los 
+acredita. Información descriptiva de las dependencias y costes de SMS.
+ Evidencias de las funciones y equipos efectivamente ofertados. No bastará describir  
+una  gama  o  un  modelo  diferente  ni  declarar  que  se  desarrollará  la  función 
+posteriormente.
+11.3 FORMATO DE LAS EVIDENCIAS
+Los manuales, fichas y capturas se presentarán en PDF legible, con búsqueda de texto cuando  
+el original lo permita. Las capturas irán numeradas y mostrarán la secuencia y sus resultados.  
+Los ejemplos de exportación se aportarán en CSV u otro formato abierto, sin datos personales  
+reales.
+Los vídeos se aportarán en MP4, con resolución mínima de 1280 × 720, sin aceleración de las  
+operaciones  que  impida  su  comprobación.  Identificarán  producto  y  versión  y  mostrarán 
+secuencias continuas por operación, desde su inicio hasta el resultado. Incluirán sonido cuando 
+se demuestre una  función audible.  Podrán emplearse  grabaciones  existentes  de  la misma 
+versión y función.
+Para  operaciones  visuales  de  software  se  admitirán  manuales  y  secuencias  completas  de 
+capturas como evidencia equivalente si permiten comprobar todos los pasos y resultados. Las  
+alertas físicas de papel y las funciones de voz se acreditarán mediante vídeo con la prueba  
+correspondiente, además de la documentación técnica.
+Las demostraciones podrán  realizarse  en  entornos  reales  o  de  prueba, sin conexión a los 
+sistemas  municipales  y  sin  datos  personales  reales.  Se  distinguirán  las  condiciones  de 
+configuración de las prestaciones disponibles.
+Los ficheros se incorporarán al archivo electrónico de la oferta. Solo cuando los límites de la  
+plataforma lo impidan y el PCAP lo permita, se aportará un enlace de descarga estable, sin  
+registro externo, junto con identificación de archivos, tamaño y huella SHA-256. El contenido  
+quedará fijado al finalizar el plazo de presentación y no podrá sustituirse posteriormente. La  
+forma de presentación y los trámites de aclaración se regirán por el PCAP.
+Código Evidencia funcional mínima
+F01 Crear agenda, horario, cierre, capacidad y perfil de usuario.
+F02 Reservar, confirmar, consultar y cancelar cita y mostrar el correo recibido.
+F03 Llegada por QR y localizador; turno sin cita; impresión y comprobante digital presencial.
+F04 Llamar, repetir, marcar ausencia, redirigir y cerrar atención desde el puesto.
+Página 14 / 15
+Cód. Validación: 79CQPGL9YZ2SCCGKMAFXM9SDH 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 14 de 15 
+
+--- página 15 ---
+Código Evidencia funcional mínima
+F05 Funcionamiento simultáneo de avisos en ambas pantallas: esquema y evidencia del visor.
+F06 Indicadores, filtros y fichero de exportación de ejemplo.
+F07 Vídeo de aviso previo de papel, agotamiento y reposición, del modelo o método ofertado.
+F08 Capacidad de configuración de SMS desactivada, prestador y dependencias identificadas.
+12 FINALIZACIÓN Y DEVOLUCIÓN DE LA INFORMACIÓN
+Antes de la finalización se facilitará al Ayuntamiento una exportación completa de los datos  
+municipales y de la configuración disponibles, con diccionario de campos, formatos abiertos y  
+documentación  necesaria  para  su  lectura.  La  información  incluirá  citas  futuras,  servicios, 
+agendas, colas, puestos y trazabilidad conservada conforme a los plazos autorizados.
+Se proporcionará una exportación final actualizada al cierre y asistencia para comprobar su  
+integridad, sin coste  adicional. El Ayuntamiento  conservará acceso  a sus  datos  durante la 
+vigencia. No se condicionará su entrega al pago de una licencia de exportación.
+Una vez confirmada la devolución, se suprimirán los datos y copias según el encargo, salvo  
+conservación legal obligatoria. Se emitirá certificado de supresión que identifique también el  
+ciclo de eliminación de las copias. Los equipos municipales quedarán libres de credenciales del  
+proveedor y se entregarán sus accesos y documentación; ello no implica cesión del código  
+fuente de la plataforma SaaS.
+En La Unión, a fecha de la firma.
+El Ingeniero Técnico municipal en Informática, Javier Castejón Garrido.
+Documento firmado electrónicamente
+Página 15 / 15
+Cód. Validación: 79CQPGL9YZ2SCCGKMAFXM9SDH 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 15 de 15 

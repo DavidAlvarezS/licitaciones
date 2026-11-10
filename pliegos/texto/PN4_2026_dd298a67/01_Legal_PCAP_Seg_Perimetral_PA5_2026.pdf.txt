@@ -1,0 +1,1951 @@
+
+
+--- página 1 ---
+CORTES DE CASTILLA Y LE ÓN
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES 
+CONTRATO DE SERVICIO
+PROCEDIMIENTO ABIERTO no sujeto a regulación armonizada
+Expediente PA5/2026
+SERVICIO DE MANTENIMIENTO Y OPERACIÓN DE LOS SISTEMAS DE 
+SEGURIDAD INFORMÁTICA Y DE RED DE LAS CORTES DE CASTILLA Y 
+LEÓN
+
+--- página 2 ---
+2
+CORTES DE CASTILLA Y LE ÓN
+CUADRO RESUMEN
+Objeto del contrato: contratación del servicio de mantenimiento, operación, de seguridad 
+informática y de red de las Cortes de Castilla y León. El contrato que actualmente cubre este 
+servicio finaliza el 22 de enero de 2027.
+En concreto los servicios a prestar son:
+El mantenimiento de los sistemas de red y de seguridad perimetral. 
+1. Mantenimiento preventivo (revisiones y chequeos)
+2. Mantenimiento correctivo (reparación de averías)
+3. Mantenimiento adaptativo (reconfiguraciones, actualizaciones de firmware y 
+software).
+La asistencia técnica de personal especializado.
+La gestión de las garantías sobre el equipamiento instalado.
+El servicio de custodia de cintas correspondientes a las copias de seguridad.
+Presupuesto base de licitación: 71.579,55 € + IVA (15.031,71 €), total 86.611,26 €.
+Valor estimado del contrato: 214.738,65 €, en virtud de su presupuesto base de licitación 
+sin IVA yteniendo en cuenta la duración del contrato de un año y sus dos posibles 
+prórrogas, tal como establece el artículo 101 de la LCSP.
+Duración inicial del contrato: un año. Dos posibles prórrogas anuales.
+Clasificación CPV : 72267100-0 “Mantenimiento de software de tecnología de la 
+Información”. 50312300-8 “Mantenimiento y reparación de equipos de redes de datos”.  
+50312600-1 “Mantenimiento y reparación de equipo de tecnología de la información”.
+Tipo de contrato: servicio.
+PROCESO DE LICITACIÓN
+Procedimiento: Abierto no sujeto a regulación armonizada.
+Tramitación: ordinaria.
+Presentación de oferta: electrónica.
+Detalle de la licitación: Plataforma de Contratación del Sector Público
+
+--- página 3 ---
+3
+CORTES DE CASTILLA Y LE ÓN
+ENTIDAD ADJUDICADORA
+Mesa de las Cortes de Castilla y León.
+Tipo de entidad adjudicadora: Órgano de contratación.
+Sitio web: http://www.ccyl.es/
+Perfil del contratante: https://www.ccyl.es/Transparencia/PerfilContratante
+Dirección postal: Plaza de las Cortes de Castilla y León, 47015, Valladolid, España.
+Teléfono: +34983421522. 983420150.
+Correo electrónico: contratacion@ccyl.es
+PROVEEDOR DE PLIEGOS Y DE INFORMACIÓN ADICIONAL
+Sección de Contratación, Obras, Mantenimiento y Suministros. Secretaría General de las 
+Cortes de Castilla y León.
+Recepción de ofertas: Mesa de las Cortes de Castilla y León.
+Dirección postal: Plaza de las Cortes de Castilla y León, 47015, Valladolid, España.
+CONDICIONES DE LICITACIÓN
+Las indicadas en los pliegos de c láusulas administrativas particulares y el p liego de 
+prescripciones técnicas.
+Garantía requerida definitiva: 5%del importe de adjudicación.
+
+--- página 4 ---
+4
+CORTES DE CASTILLA Y LE ÓN
+ÍNDICE
+CAPÍTULO I. DISPOSICIONES GENERALES ................................................................. 6
+1.- OBJETO DEL CONTRATO ............................................................................................ 6
+2.- ÓRGANO DE CONTRATACIÓN................................................................................... 7
+3.- RÉGIMEN JURÍDICO Y JURISDICCIÓN ..................................................................... 7
+4.- CAPACIDAD PARA CONTRATAR .............................................................................. 8
+5.- PRESUPUESTO DE LICITACIÓN Y VALOR ESTIMADO DEL CONTRATO ......... 9
+6.- EXISTENCIA DE CRÉDITO PRESUPUESTARIO ..................................................... 10
+7.- REVISIÓN DE PRECIOS .............................................................................................. 11
+8.- DURACIÓN DEL CONTRATO. PLAZO DE EJECUCIÓN ........................................ 11
+CAPÍTULO II. LICITACIÓN Y ADJUDICACIÓN.......................................................... 11
+9.- PROCEDIMIENTO DE ADJUDICACIÓN ................................................................... 11
+10.- CRITERIOS DE ADJUDICACIÓN ............................................................................. 11
+11.- PLAZO Y PRESENTACIÓN DE PROPOSICIONES................................................. 19
+12.- CONTENIDO DE LAS PROPOSICIONES................................................................. 21
+13.- MESA DE CONTRATATACIÓN................................................................................ 23
+14.- CALIFICACIÓN DE LA DOCUMENTACIÓN Y ACTOS PÚBLICOS DE 
+APERTURA DE OFERTAS................................................................................................ 24
+15.- CONSTITUCIÓN DE LA GARANTÍA DEFINITIVA ............................................... 25
+16.- DOCUMENTACIÓN A PRESENTAR POR EL LICITADOR SELECCIONADO... 26
+17.- ADJUDICACIÓN Y NOTIFICACIÓN........................................................................ 32
+18.- FORMALIZACIÓN DEL CONTRATO ...................................................................... 33
+CAPITULO III. EJECUCIÓN DEL CONTRATO ............................................................ 34
+19.- RESPONSABLE SUPERVISOR DE LOS TRABAJOS OBJETO DEL CONTRATO
+.............................................................................................................................................. 34
+20.- OBLIGACIONES DEL CONTRATISTA.................................................................... 35
+21.- OBLIGACIONES DE SEGURIDAD DE LA INFORMACIÓN Y CIBERSEGURIDAD
+.............................................................................................................................................. 36
+22.- OTRAS OBLIGACIONES CONTRACTUALES ESENCIALES DEL CONTRATO Y 
+CONDICIONES ESPECIALES DE EJECUCIÓN EN MATERIA MEDIOAMBIENTAL, 
+SOCIAL O LABORAL ........................................................................................................ 37
+23.- CONFIDENCIALIDAD Y TRATAMIENTO DE DATOS DE CARÁCTER 
+PERSONAL.......................................................................................................................... 38
+
+--- página 5 ---
+5
+CORTES DE CASTILLA Y LE ÓN
+24.- GASTOS E IMPUESTOS POR CUENTA DEL CONTRATISTA ............................. 41
+25.- ABONOS AL CONTRATISTA ................................................................................... 41
+26.- CUMPLIMIENTO DE LOS PLAZOS DE LA EJECUCIÓN DEL OBJETO DEL 
+CONTRATO, PENALIDADES........................................................................................... 42
+27.- CUMPLIMIENTO DEFECTUOSO O INCUMPLIMIENTOPARCIAL. IMPOSICIÓN 
+DE PENALIDADES ............................................................................................................ 44
+CAPÍTULO IV. SUBCONTRATACIÓN ............................................................................ 45
+28.- SUBCONTRATACIÓN................................................................................................ 45
+CAPÍTULO V. MODIFICACIÓN DEL CONTRATO...................................................... 45
+29.- MODIFICACIÓN DEL CONTRATO.......................................................................... 45
+30.- SUSPENSIÓN DEL CONTRATO ............................................................................... 45
+CAPÍTULO VI. FINALIZACIÓN DEL CONTRATO...................................................... 45
+31.- CUMPLIMIENTO DEL CONTRATO......................................................................... 45
+32.- RESOLUCIÓN Y EXTINCIÓN DEL CONTRATO................................................... 46
+33.- PLAZO DE GARANTÍA Y DEVOLUCIÓN O CANCELACIÓN DE LA GARANTÍA
+.............................................................................................................................................. 46
+ANEXO I................................................................................................................................. 47
+ANEXO II ............................................................................................................................... 49
+ANEXO III.............................................................................................................................. 50
+ANEXO IV.............................................................................................................................. 51
+ANEXO V................................................................................................................................ 53
+ANEXO VI .............................................................................................................................. 54
+ANEXO VII ............................................................................................................................ 55
+
+--- página 6 ---
+6
+CORTES DE CASTILLA Y LE ÓN
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES QUE RIGEN EN 
+LA CONTRATACIÓN DEL “SERVICIO DE MANTENIMIENTO Y OPERACIÓN DE 
+LOS SISTEMAS DE SEGURIDAD INFORMÁTICA Y DE LA RED DE LAS CORTES 
+DE CSTILLA Y LEÓN”. PROCEDIMIENTO ABIERTO NO SUJETO A 
+REGULACIÓN ARMONIZADA (Expediente PA5/2026).
+CAPÍTULO I. DISPOSICIONES GENERALES
+1.- OBJETO DEL CONTRATO
+1.1.- La presente licitación tiene por objeto la contratación del servicio de mantenimiento, 
+operación, gestión y licenciamiento de los elementos de seguridad informática y de red del 
+sistema información de las Cortes de Castilla y León.
+En concreto dichos servicios incluirán:
+Labores de monitorización diaria sobre los equipos informáticos que permitan 
+diagnosticar su estado y adoptar las decisiones que correspondan.
+El mantenimiento de los sistemas de red y seguridad informática. En particular el 
+mantenimiento preventivo (revisiones y chequeos), el mantenimiento correctivo 
+(reparación de averías), y el mantenimiento adaptativo (reconfiguraciones, 
+actualizaciones de firmware y software).
+La asistencia técnica de personal especializado, que se prestará en remoto con carácter 
+general, así como la asistencia en la propia sede de las Cortes de Castilla y León, tanto 
+durante las sesiones plenarias como en operaciones que así lo requieran.
+La gestión de las garantías sobre el equipamiento instalado.
+El servicio de custodia de cintas correspondientes a las copias de seguridad 
+El presente contrato responde a la necesidad de garantizar la protección y la disponibilidad de
+una infraestructura de red que las Cortes de Castilla y León tienen desplegada en el edificio y
+que permite la comunicación de los ordenadores corporativos y otro tipo de equipamiento con 
+el CPD (Centro de Proceso de Datos), y a su vez con el exterior. Asimismo,esa misma garantía 
+es necesaria debido a que las Cortes de Castilla y León proporcionan servicios al exterior, 
+comprometiendo el sistema al completo a vulnerabilidades por el mero hecho de estar expuesto.
+1.2.- La codificación correspondiente según la nomenclatura del Vocabulario Común de 
+Contratos (CPV) del Reglamento (CE), número 213/2008 de la Comisión por el que se modifica 
+el Reglamento (CE) n.º 2195/2002 del Parlamento Europeo y el Consejo, de 5 de noviembre de 
+2002, por el que se aprueba el Vocabulario Común de Contratos (CPV) es 72267100-0 
+“Mantenimiento de software de tecnología de la Información” y 50312300-8 “Mantenimiento 
+
+--- página 7 ---
+7
+CORTES DE CASTILLA Y LE ÓN
+y reparación de equipos de redes de datos”.  50312600 -1 “Mantenimiento y reparación de 
+equipo de tecnología de la información”.
+1.3.- La ejecución del objeto del contrato deberá adecuarse a las prescripciones técnicas anexas, 
+que tienen carácter contractual.
+1.4.- La presente licitación no se divide en lotes puesto que lo mismo dificultaría su correcta 
+ejecución técnica debido a la íntima conexión existente entre los sistemas de protección 
+informática y la protección de las comunicaciones en red. Es esencial proteger la seguridad de 
+los datos, los servicios y las comunicaciones en el entorno de Cortes de Castilla y León de una 
+manera común, requiriéndose conservar la visibilidad de todos los elementos que la conforman. 
+Dividir la prestación del presente contrato en diferentes lotes provocaría que se perdiese esa
+visibilidad global de todos los elementos de comunicaciones ycausaría una compartimentación 
+en la respuesta ante incidentes de seguridad, que sería muy perjudicial. Por lo tanto, es 
+necesario no dividir la prestación en lotes de cara a garantizar la correcta ejecución del mismo 
+desde el punto de vista técnico.
+Existen pues razones de indivisibilidad técnica y operativa, ya que se trata de un único objeto 
+indivisible técnicamente, de conformidad con el artículo 99.3 b) de la Ley 9/2017, de 8 de 
+noviembre, de Contratos del Sector Público (LCSP).
+2.- ÓRGANO DE CONTRATACIÓN
+2.1.- El órgano de contratación, que actúa en nombre de las Cortes de Castilla y León, es la 
+Mesa de las Cortes de Castilla y León, según se establece en las Normas sobre procedimiento 
+presupuestario, control, contabilidad y contratación de las Cortes de Castilla y León aprobadas 
+por Resolución de la Mesa de la Cámara de 2 de julio de 2018.
+2.2.- El mencionado órgano tiene facultad para adjudicar el correspondiente contrato y, en 
+consecuencia, ostenta las prerrogativas de interpretarlo, resolver las dudas que ofrezca su 
+cumplimiento, modificarlo por razones de interés público, acordar su resolució n y determinar 
+los efectos de esta, con sujeción a la normativa aplicable. Los acuerdos que a este respecto dicte 
+serán ejecutivos, sin perjuicio del derecho del contratista a su impugnación ante la jurisdicción 
+competente.
+3.- RÉGIMEN JURÍDICO Y JURISDICCIÓN
+3.1.- El presente contrato contiene prestaciones correspondientes a contrato de servicio, previsto 
+en el artículo 17 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP),
+es de carácter administrativo no sujeto a regulación armonizada de acuerdo con los dispuesto 
+en el artículo 22.1.b de la LCSPy se regirá por lo dispuesto en el presente pliego, en el pliego 
+de prescripciones técnicas, que, junto con la propuesta económica, técnica y documentos anexos 
+formarán parte del contrato. 
+
+--- página 8 ---
+8
+CORTES DE CASTILLA Y LE ÓN
+El régimen jurídico del presente contrato es el establecido en las Normas sobre procedimiento 
+presupuestario, control, contabilidad y contratación de las Cortes de Castilla y León aprobadas 
+por Resolución de la Mesa de la Cámara de 2 de julio de 2018; así como en la Ley 9/2017, de 
+8 de noviembre, de Contratos del Sector Público, y sus normas reglamentarias en materia de 
+contratación del sector público, con las adaptaciones exigidas por las peculiaridades y 
+características propias del Parlamento.
+De conformidad con lo estipulado en los artículos 19 y 22 de la LCSP el contrato no está sujeto 
+a regulación armonizada.
+3.2.- El presente pliego de cláusulas administrativas particulares y el pliego de prescripciones 
+técnicas, junto con la propuesta económica, técnica y documentos anexos formarán parte del 
+contrato. Por ello, dichos documentos deberán ser firmados por el adjudicatario, en prueba de 
+conformidad, en el acto mismo de la formalización del contrato.
+3.3.- En caso de discordancia entre el presente pliego y el resto de documentos contractuales 
+prevalecerá el pliego de cláusulas administrativas particulares, en el que se contienen los 
+derechos y obligaciones que asumirán las partes del contrato.
+3.4.- Las cuestiones litigiosas surgidas sobre la preparación, adjudicación, efectos y extinción 
+del contrato serán resueltas por el órgano de contratación, cuyos acuerdos pondrán fin a la vía 
+administrativa y serán inmediatamente ejecutivos, pudiendo ser impugn ados mediante recurso 
+contencioso-administrativo, conforme a lo dispuesto en la ley reguladora de dicha jurisdicción, 
+sin perjuicio de la posibilidad prevista, con carácter potestativo, de la interposición previa del 
+recurso especial en materia de contratación, según lo establecido en el artículo 44 y siguientes 
+de la LCSP, ante el Tribunal de Recursos Contractuales de las Cortes de Castilla y León.
+3.5.- Cualquier referencia en las anteriores normas a la Administración Pública se entenderá 
+referida a las Cortes de Castilla y León.
+3.6.- Las referencias que en la LCSP se efectúan a la Caja General de Depósitos, en relación 
+con la presentación de garantías, se entenderán hechas a la Caja de las Cortes de Castilla y León, 
+integrada en el Servicio de Intervención, Contabilidad, Tesorería y Caja.
+3.7.- Los pliegos y la documentación relativa a la presente contratación se encuentran en el 
+Perfil del Contratante de las Cortes de Castilla y León, así como en la Plataforma de 
+Contratación del Sector Público, en cumplimiento de las previsiones establecidas en la LCSP, 
+y la forma de acceso a los mismos es a través del siguiente enlace:
+Plataforma de Contratación del Sector Público
+4.- CAPACIDAD PARA CONTRATAR
+4.1.- Conforme al artículo 65 LCSP, solo podrán optar a la adjudicación del presente contrato 
+las personas naturales o jurídicas, españolas o extranjeras a título individual o en unión temporal 
+de empresas, que tengan plena capacidad de obrar, que no se hallen comprendidas en alguna de 
+
+--- página 9 ---
+9
+CORTES DE CASTILLA Y LE ÓN
+las circunstancias previstas en el artículo 71 de la LCSP, extremo que se podrá acreditar, en su 
+caso, por cualquiera de los medios establecidos en el artículo 85 de la LCSP.
+4.2.- Las empresas deberán ser personas físicas o jurídicas cuya finalidad o actividad tenga 
+relación directa con el objeto del contrato, según resulte de sus respectivos estatutos o reglas 
+fundacionales y dispongan de una organización con elementos personale s y materiales 
+suficientes para la debida ejecución del contrato . Asimismo, las empresas deberán contar con
+certificado de conformidad con el Esquema Nacional de Seguridad (ENS) en la categoría de 
+MEDIA o ALTA.
+4.3.- Las empresas comunitarias o de Estados signatarios del Acuerdo sobre el Espacio 
+Económico Europeo deberán acreditar su capacidad de obrar en cumplimiento del artículo 67 
+de la LCSP, mediante certificación de inscripción en uno de los registros profesion ales o 
+comerciales que se indican en el Anexo I del Real Decreto 1098/2001, de 12 de octubre, por el 
+que se aprueba el Reglamento General de la Ley de Contratos de las Administraciones Públicas 
+(en adelante RGLCAP).
+4.4.- Las restantes empresas no comunitarias deberán acreditar su capacidad de obrar mediante 
+informe expedido por la Misión Diplomática Permanente u Oficina Consular de España del 
+lugar del domicilio de la empresa, en el que se haga constar, previa acreditaciónpor la empresa, 
+que figuran inscritas en el Registro local profesional, comercial o análogo o, en su defecto, que 
+actúan con habitualidad en el tráfico local en el ámbito de las actividades a las que se extiende 
+el objeto del contrato así como el informe de reciprocidad a que se refiere el artículo 68 de la 
+LCSP o, en su caso, que dicho Estado es signatario del Acuerdo sobre Contratación Pública de 
+la Organización Mundial del Comercio, sin perjuicio de lo dispuesto en dicho precepto al 
+señalar que en los contratos sujetos a regulación armonizada se prescindirá de dicho informe en 
+relación con las empresas de Estados signatarios del Acuerdo anteriormente referido.
+5.- PRESUPUESTO DE LICITACIÓN Y VALOR ESTIMADO DEL 
+CONTRATO
+5.1.- Presupuesto base de licitación: 71.579,55 € + IVA (15.031,71 €), total 86.611,26 €. Se 
+financiará con cargo al presupuesto de las Cortes de Castilla y León. Cualquier oferta 
+económica que, al incluir los impuestos, se encuentre por encima del presupuesto de licitación 
+quedará automáticamente descartada.
+Para calcular el coste del servicio “Mantenimiento y operación diaria” se ha tenido en cuenta 
+los salarios, remuneraciones y demás condiciones laborales de los trabajadores dispuestos en el 
+XIX Convenio colectivo estatal de empresas de consultoría y estudios de mercado y de la 
+opinión pública, BOE núm.100 de 24 de abril de 2026. 
+En él se han reflejado tres tipos de perfiles: técnico de operación y supervisión, ingeniería y de 
+jefe de proyecto, que se han estimado de la siguiente manera:
+
+--- página 10 ---
+10
+CORTES DE CASTILLA Y LE ÓN
+Perfil Área Convenio Categoría Dedicación Estimación de coste (sin IVA)
+Jefe de proyecto 3. Sistemas A 5% 3.244,78 € 
+Soporte ingeniería 3. Sistemas B I 35% 22.032,87 € 
+Operación y 
+supervisión 3. Sistemas C I 60% 32.917,10 €
+Totales costes de personal 58.194,75 €
+Atendiendo a los costes directos e indirecto se obtiene la siguiente tabla: 
+Concepto Anual Tres años
+Costes directos
+Costes de personal 58.194,75 € 174.584,25 €
+Costes de adquisición de 
+licencias 0 € 0 €
+Totales costes directos 58.194,75 € 174.584,25 €
+Costes indirectos 
+Costes de estructura 9.893,11 € 29.679,33 € 
+Beneficio industrial 3.491,69 € 10.475,07 € 
+Totales costes indirectos 13.384,80 € 40.154,40 € 
+Estimación total del coste del contrato (sin IVA) 71.579,55 € 214.738,65 € 
+Impuesto sobre el valor añadido (IVA) 15.031,71 € 45.095,13 € 
+Estimación total del coste del contrato (con IVA) 86.611,26 € 259.833,78 €
+5.2.- Valor estimado del contrato: de acuerdo con el artículo 101 de la LCSP el valor estimado 
+del contrato ascendería a 214.738,65 €, en virtud de su presupuesto de licitación sin IVA. 
+Tanto el cálculo del presupuesto de licitación como el del valor estimado del contrato proceden 
+del análisis de los precios del mercado y del contrato en vigor.  
+6.- EXISTENCIA DE CRÉDITO PRESUPUESTARIO
+La tramitación de la presente licitación es anticipada, quedando condicionado el gasto 
+proyectado del ejercicio en que se iniciaría la ejecución del contrato y los ejercicios 
+presupuestarios futuros a la existencia de crédito adecuado y suficiente en los presupuestos de 
+las Cortes de Castilla y León de dichos ejercicios.
+El desglose de este presupuesto por años es el siguiente: 
+
+--- página 11 ---
+11
+CORTES DE CASTILLA Y LE ÓN
+Anualidades Importe con IVA
+2027 81.489,14 €
+2028 5.122,12 €
+7.- REVISIÓN DE PRECIOS
+En el presente contrato no podrá haber revisión de precios.
+8.- DURACIÓN DEL CONTRATO. PLAZO DE EJECUCIÓN
+El contrato tendrá un plazo de ejecución de UN AÑO, con dos posibles prórrogas anuales.
+CAPÍTULO II. LICITACIÓN Y ADJUDICACIÓN
+9.- PROCEDIMIENTO DE ADJUDICACIÓN
+9.1.- La adjudicación del contrato se realizará por el órgano de contratación mediante 
+procedimiento abierto no sujeto a regulación armonizada en cumplimiento del artículo 22.1. b
+en relación al artículo 156 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público.
+9.2.- El contrato se adjudicará al licitador que presente la mejor oferta, atendiendo a los criterios 
+de adjudicación en base a l mejor precio, conforme a los términos y requisitos establecidos en 
+la LCSP.
+10.- CRITERIOS DE ADJUDICACIÓN
+10.1.- El contrato se adjudicará, tomando como base los siguientes criterios y que tendrán la 
+ponderación y características que se fijan a continuación:
+Cuestiones generales relativas a los criterios
+La puntuación se valorará sobre 100 puntos. Todas las puntuaciones se redondearán a dos 
+decimales.
+Los baremos mencionados en los criterios de valoración no basados en fórmulas se describen 
+en orden decreciente de importancia salvo que explícitamente se indique lo contrario.
+La forma en que se presentarán las ofertas evaluables matemáticamente será según el modelo 
+que figura como ANEXO I: PROPOSICIÓN EVALUABLE MATEMÁTICAMENTE del 
+presente pliego, y para ello se deberá tener en cuenta lo siguiente:
+Aquellas ofertas cuyo valor sea superior al precio de licitación serán descartadas.
+
+--- página 12 ---
+12
+CORTES DE CASTILLA Y LE ÓN
+El precio ofertado incluirá cualquier tipo de tributo, carga o arbitrio fiscal de carácter 
+europeo, estatal, autonómico o local, excepción hecha del impuesto sobre el valor 
+añadido (IV A).
+Si en alguna proposición, suANEXO I, variase sustancialmente el modelo establecido, 
+comportase error manifiesto en el importe de la proposición, o existiese 
+reconocimiento por parte del licitador de que adolece de error o inconsistencia que la 
+hagan inviable, y así lo interpreta la mesa de contratación, la oferta será desechada 
+mediante resolución motivada, sin que sea causa bastante para el rechazo el cambio u 
+omisión de algunas palabras del modelo si ello no altera su sentido.
+En caso de que, en alguno de los apartados a ofertar, el valor presentado por la empresa 
+no corresponda con lo que debe ofertar, es decir, si se indica un precio y no se indica 
+un valor, o si lo que se indica no está en las unidades en las que se solicita (en lugar de 
+céntimos de euro, son euros), o si se debe ofertar “Sí” o “No”, y se oferta otra cosa, 
+“X” por ejemplo, la oferta será calificada con cero puntos en dicho apartado.
+10.2.- EVALUACIÓN DE LA OFERTA MEDIANTE CRITERIOS EVALUABLES 
+MATEMÁTICAMENTE
+En el presente apartado se detallan los aspectos que serán de aplicación y se definen los términos 
+que se emplean. Para cada criterio se detalla la información relevante y los límites entre los que 
+deben estar incluidos los valores de las ofertas para cada criterio y cuál es la proporcionalidad 
+con la que se aplica la fórmula.
+10.2.1.- Cuestiones generales de la asignación de puntuación
+Todas las puntuaciones se redondearán a dos decimales.
+En todos los criterios donde el concepto a valorar sea un precio, se entenderá que el criterio a
+valorar es el precio sin IVA.
+10.2.2- Términos empleados para describir un criterio
+Descripción: explicación textual del criterio que se valora.
+Puntuación: cantidad máxima de puntos que puede recibir una oferta en dicho criterio.
+Proporcionalidad:
+o Directa: la oferta más ventajosa en lo referente a un criterio con proporcionalidad 
+directa es aquella con mayor valor numérico.
+o Inversa: la oferta más ventajosa en lo referente a un criterio con proporcionalidad 
+inversa es aquella con menor valor numérico.
+
+--- página 13 ---
+13
+CORTES DE CASTILLA Y LE ÓN
+Unidad de medida:  unidad en la que se medirán las ofertas y se aplicarán las fórmulas 
+para dicho criterio.
+Umbral de cumplimiento imprescindible: 
+En criterios con proporcionalidad directa, valor por debajo del cual la oferta no cumple 
+las especificaciones de los pliegos.
+En criterios con proporcionalidad inversa, valor por encima del cual la oferta no cumple 
+las especificaciones de los pliegos.
+Umbral de máxima satisfacción:  
+En criterios con proporcionalidad directa, valor máximo que proporciona un beneficio 
+real. Las ofertas con valores por encima de dicho umbral máximo puntuarán igual que 
+si hubiesen ofertado exactamente por el umbral de máxima satisfacción. 
+En criterios con proporcionalidad inversa, valor mínimo que proporciona un beneficio 
+real. Las ofertas con valores por debajo de dicho umbral mínimo puntuarán igual que si 
+hubiesen ofertado exactamente por el umbral de máxima satisfacción.
+Los umbrales de máxima satisfacción escogidos tienen como objeto por un lado asegurar 
+la obtención de la mejor relación calidad-precio, asegurando que las ofertas presentadas 
+tengan un equilibrio entre los distintos criterios de valoración y no puedan igno rar 
+algunos de ellos en favor de solo unos pocos. Por otro lado, pretenden asegurar que no 
+se bonifica con puntuación adicional a ofertas que puedan ser anormalmente bajas. 
+Fórmula: expresión matemática que permite obtener la puntuación de una oferta en un 
+criterio dado el valor de dicha oferta para el criterio en cuestión.
+Fórmula a aplicar: 
+=
+Donde:
+:  Puntuación del criterio. 
+: Puntuación máxima del criterio.
+: Valor de la oferta para el criterio.
+: Umbral de cumplimiento imprescindible para el criterio.
+: Umbral de máxima satisfacción para el criterio.
+
+--- página 14 ---
+14
+CORTES DE CASTILLA Y LE ÓN
+10.2.3.- Descripción de criterios evaluables matemáticamente
+Tabla de criterios a valorar (hasta 55 puntos):
+1. Precio de la oferta.
+Puntuación ( ) 40
+Proporcionalidad Inversa
+Unidad de medida Euros
+Umbral de cumplimiento imprescindible ( ) Presupuesto base de licitación, sin IVA
+Umbral de máxima satisfacción ( )
+80% del 
+presupuesto base de 
+licitación, sin IVA
+2. Inclusión de certificado 
+de partner de fabricante 
+de Firewall de la capa 
+externa.
+Puntuación ( ) 2,5
+Proporcionalidad Directa
+Unidad de medida Unidades
+Umbral de cumplimiento imprescindible ( ) 0
+Umbral de máxima satisfacción ( ) 1
+3. Inclusión de certificado 
+de partner de fabricante 
+de Firewall de la capa 
+interna.
+Puntuación ( ) 2,5
+Proporcionalidad Directa
+Unidad de medida Unidades
+Umbral de cumplimiento imprescindible ( ) 0
+Umbral de máxima satisfacción ( ) 1
+4. Inclusión de certificado 
+de partner de fabricante 
+del equipamiento 
+principal de la red actual.
+Puntuación ( ) 2
+Proporcionalidad Directa
+Unidad de medida Unidades
+Umbral de cumplimiento imprescindible ( ) 0
+Umbral de máxima satisfacción ( ) 1
+Puntuación ( ) 2
+
+--- página 15 ---
+15
+CORTES DE CASTILLA Y LE ÓN
+5. Inclusión de certificado 
+de partner de fabricante 
+del equipamiento 
+principal de la red 
+cableada a implantar.
+Proporcionalidad Directa
+Unidad de medida Unidades
+Umbral de cumplimiento imprescindible ( ) 0
+Umbral de máxima satisfacción ( ) 1
+6. Inclusión de certificado 
+de partner de fabricante 
+del equipamiento 
+principal de la red wifi a 
+implantar.
+Puntuación ( ) 2
+Proporcionalidad Directa
+Unidad de medida Unidades
+Umbral de cumplimiento imprescindible ( ) 0
+Umbral de máxima satisfacción ( ) 1
+7. Inclusión de certificado 
+de partner de fabricante 
+del sistema de protección 
+de los endpoints
+Puntuación ( ) 2
+Proporcionalidad Directa
+Unidad de medida Unidades
+Umbral de cumplimiento imprescindible ( ) 0
+Umbral de máxima satisfacción ( ) 1
+8. Inclusión de certificado 
+de partner de fabricante 
+del sistema de copias.
+Puntuación ( ) 2
+Proporcionalidad Directa
+Unidad de medida Unidades
+Umbral de cumplimiento imprescindible ( ) 0
+Umbral de máxima satisfacción ( ) 1
+Nota aclaratoria de importancia sobre los criterios mencionados
+En relación a los criterios “Inclusión de certificado de partner de fabricante de…”, se 
+puntuará la puntuación máxima a los licitadores que incluyan en su sobre correspondiente 
+copia del certificado sellado por el fabricante en cuestión que les acredite como partner, 
+reseller, distribuidor oficial, mantenedor o servicio técnico de dicho fabricante para el 
+producto indicado en el criterio; y cero puntos a quien no lo incluya o incluya un 
+certificado no sellado, que no esté emitido a nombre de la empresa licitadora o que no se 
+refiera al producto indicado en el criterio.
+
+--- página 16 ---
+16
+CORTES DE CASTILLA Y LE ÓN
+Los productos que se indican en los criterios, son los genéricos, y los certificados se referirán a 
+los fabricantes especificados en el anexo que el licitador habrá solicitado previo compromiso 
+de confidencialidad.
+10.3.- CRITERIOS NO EVALUABLES MATEMÁTICAMENTE
+De conformidad con el artículo 146.3 de la LCSP, aquellas ofertas que no superen como mínimo 
+el 50% de la puntuación de los criterios no evaluables matemáticamente serán excluidas.
+Descripción de criterios no evaluables matemáticamente
+10.3.1. Plan de Mantenimiento
+Descripción: planteamiento de la operación, tareas y actuaciones a llevar a cabo como 
+consecuencia del mantenimiento de los sistemas de los que es objeto la licitación, plan que 
+tendrá que tener en cuenta lo especificado en la prescripción 5.1 Plan de Mantenimiento del 
+Pliego de Prescripciones Técnicas.
+Puntuación: 15 puntos.
+Baremos:
+Se valorarán la estructuración del plan de mantenimiento, las tareas planteadas, la idoneidad de 
+la frecuencia de realización de dichas tareas, la descripción y granularidad de las mismas, la 
+cobertura que con las mismas se realice del objeto del contrato,la estructuración de las mismas, 
+la descripción de los procedimientos que se describan para su ejecución y cualquier otra 
+cuestión que permita valorar la adecuación del plan y las tareas planteados al objeto del contrato.
+Se otorgará la puntuación completa en este criterio a las ofertas con planes que se adecúen a los 
+requisitos del pliego de prescripciones técnicas y cumplan completamente sus exigencias, con 
+gran calidad técnica, un elevado nivel de detalle, altamente orientados al cumplimiento total del 
+objeto del proyecto, que aseguren un nivel de calidad para la ejecución del contrato.
+Se otorgarán cero puntos a aquellas ofertas con planes que no se adecúen a los requisitos del 
+pliego de prescripciones técnicas, no alcancen un mínimo de calidad imprescindible, cuyos 
+contenidos sean vagos o esquemáticos, sin una relación clara con el objeto del proyecto.
+Se otorgarán puntuaciones intermedias a las ofertas con planes cuya adecuación a las exigencias 
+del pliego de prescripciones técnicas, calidad técnica, completitud y adecuación al objeto del 
+contrato estén entre estos dos límites de calidad, siendo tanto mayor la puntuación cuanto más 
+se acerquen éstos a los niveles expresados en el apartado de puntuación completa.
+El plan de mantenimiento habrá de incluir:
+Plan de mantenimiento Preventivo: 5 puntos
+Plan de mantenimiento Adaptativo: 5 puntos
+
+--- página 17 ---
+17
+CORTES DE CASTILLA Y LE ÓN
+Plan de mantenimiento Correctivo: 5 puntos
+Cada plan habrá de tener en consideración cada uno de los subsistemas de la instalación. 
+10.3.2. Plan de continuidad y calidad de servicio
+Descripción: de acuerdo con los apartados del Pliego de Prescripciones Técnicas, 5.2 Plan de 
+Continuidad de servicios y 5.3 Niveles de calidad de servicio, el adjudicatario deberá indicar 
+cuáles son los niveles de calidad de servicio a los que se va a comprometer (tiempo de primera 
+respuesta, tiempo de resolución, compromiso de disponibilidad de los sistemas, etc.). También 
+ha de indicar cuales son los planes de actuación ante fallo de un equipo objeto del contrato, y 
+cuál es el equipamiento de sustitución que hubiese incluido en su oferta, tal y como se indica 
+en el apartado 4.2. Garantía sobre el equipamiento de red y seguridad del Pliego de 
+Prescripciones Técnicas.
+Puntuación: 14 puntos.
+Baremos:
+Se valorará la adecuación, la completitud y la calidad técnica y expositiva de los planes de 
+contingencia, así como su coherencia con los niveles de calidad de servicio comprometidos.
+Obtendrán mayor puntuación aquellas ofertas cuyos niveles de calidad de servicio sean 
+superiores y vengan respaldados con planes de continuidad que permitan entender cómo van a 
+alcanzarse dichos niveles de calidad de servicio.
+En concreto:
+Plan de continuidad ante fallos de cada uno de los sistemas objeto del contrato: 5 
+puntos
+Niveles de calidad de servicio para los sistemas críticos, según lo especificado en el 
+punto 5.3 del PPT: 4 puntos
+Niveles de calidad de servicio para los sistemas no críticos, según lo especificado en 
+el punto 5.3 del PPT: 3 puntos
+Extensiones de licencias, contratos con terceros y/o equipamiento de sustitución: 2 
+puntos
+Dentro de cada categoría, se valorarán con mayor puntuación máxima los compromisos de 
+restauración de servicio y los tiempos de disponibilidad que el resto de compromisos.
+10.3.3. Equipo técnico
+Descripción: perfiles profesionales dedicados a la prestación del servicio objeto del presente 
+contrato.
+Puntuación: 13 puntos.
+
+--- página 18 ---
+18
+CORTES DE CASTILLA Y LE ÓN
+Baremos:
+Se valorarán las acreditaciones profesionales, en concreto para cada perfil se valorará la 
+experiencia profesional en el ámbito de este proyecto, las titulaciones académicas reconocidas 
+por el Ministerio de Educación y los cursos de formación relativos a los fabricantes de hardware 
+y software mencionados en el Pliego de Prescripciones Técnicas, en el apartado 5.4.2. Equipo 
+Técnico, y otros que pudieran ser de relevancia para el objeto del contrato.
+Se ponderará cada uno de estos aspectos en función de la dedicación de cada perfil al proyecto 
+y de su adecuación al objeto del contrato de la siguiente manera:
+- Perfil de operación: 8 puntos
+- Perfil de ingeniería: 4 puntos
+- Perfil de jefe de proyecto: 1 punto
+La dedicación ofertada no podrá ser inferior a los siguientes porcentajes para cada perfil:
+- Perfil de operación: 30%
+- Perfil de ingeniería: 17%
+- Perfil de jefe de proyecto: 2%
+10.3.4. Custodia de copias de seguridad.
+Descripción: características del servicio de custodia fuera de la sede de las Cortes de Castilla 
+y León de soportes físicos de copia de seguridad.
+Puntuación: 3 puntos.
+Baremos:
+Se valorará la propuesta de servicio para la custodia de los soportes de copias de seguridad.
+Se valorarán la idoneidad del espacio de custodia, las medidas de protección con las que cuente 
+(tanto contra accesos no autorizados, contra daños ambientales, así como contra cualquier otra 
+amenaza a su integridad, confidencialidad o disponibilidad) así como los compromisos de 
+recogida, entrega y cualquier otra característica del servicio que redunde en beneficio de Cortes 
+de Castilla y León.
+10.4.- OFERTAS ANORMALMENTE BAJAS
+Las ofertas presentadas se presumirán anormalmente bajas a los efectos previstos en el artículo 
+149 de la LCSP cuando se cumplan alguna de las siguientes condiciones:
+1. Respecto al criterio precio, aquellas ofertas que sobrepasen el umbral de máxima 
+satisfacción en más de diez unidades porcentuales respecto del mismo.
+
+--- página 19 ---
+19
+CORTES DE CASTILLA Y LE ÓN
+2. Si el criterio es un compromiso temporal de nivel de calidad de servicio, aquellas ofertas 
+que consignen un valor de exactamente cero para dicho criterio.
+10.5.- CRITERIOS DE PREFERENCIA EN LA ADJUDICACIÓN EN CASO DE 
+EMPATE
+10.5.1.- En caso de empate en cuanto a la proposición que presente al mejor precio, tendrá 
+preferencia en la adjudicación aquel licitador que a la fecha de finalización del plazo de 
+presentación de ofertas tenga en su plantilla mayor número de trabajadores fij os con 
+discapacidad superior al 2% y que se comprometa a mantenerlo durante la vida del contrato.
+10.5.2.- Si no fuere posible o no resultare eficaz la aplicación de la preferencia anteriormente 
+citada para determinar la adjudicación, está se decidirá en los términos señalados en el artículo
+147.2 de la LCSP.
+11.- PLAZO Y PRESENTACIÓN DE PROPOSICIONES
+11.1.- Perfil del contratante
+Las Cortes de Castilla y León difunden exclusivamente a través de Internet su perfil de 
+contratante, como elemento que agrupa la información y documentos relativos a su actividad 
+contractual, al objeto de asegurar la transparencia y el acceso público a losmismos. El perfil de 
+contratante de las Cortes de Castilla y León se encuentra alojado en la Plataforma de 
+Contratación del Sector Público (www.contrataciondelestado.es).
+11.2.- Licitación electrónica
+La presente licitación se tramitará electrónicamente, de manera que la presentación de las 
+proposiciones, la aportación de documentos y las comunicaciones y notificaciones entre las 
+Cortes de Castilla y León y los licitadores se efectuarán a través de los servicios y herramientas 
+electrónicas, informáticas o telemáticas que, a estos efectos, proporciona a órganos de 
+contratación y licitadores la Plataforma de Contratación del Sector Público, la cual actuará a 
+todos los efectos como registro de la Cámara.
+El licitador deberá registrarse en la Plataforma a través del siguiente enlace:
+https://contrataciondelestado.es/wps/portal/registrarse
+Una vez registrado, el licitador tendrá acceso gratuito a la herramienta de preparación y 
+presentación de ofertas y a todos los demás servicios personalizados que la Plataforma de 
+Contratación del Sector Público ofrece a las empresas para facilitar su contratación con los 
+organismos del Sector Público.
+Para poder recibir las notificaciones y comunicaciones que se deriven del procedimiento por 
+correo electrónico, el licitador, una vez registrado en la Plataforma, deberá acceder a su perfil 
+de usuario y suministrar su email a efectos de notificaciones en el campo establecido a tal efecto.
+
+--- página 20 ---
+20
+CORTES DE CASTILLA Y LE ÓN
+Los licitadores son responsables de la veracidad y exactitud de los documentos que presenten.
+En virtud de lo establecido en el artículo 28.5 de la Ley 39/2015, de 1 de octubre, del 
+Procedimiento Administrativo Común de las Administraciones Públicas, excepcionalmente, 
+cuando la relevancia del documento en el procedimiento lo exija o existan dudas derivadas de 
+la calidad de la copia, las Cortes de Castilla y León podrán solicitar de manera motivada el 
+cotejo de las copias aportadas por el licitador, para lo que podrá requerir la exhibición del 
+documento o de la información original.
+La preparación y presentación de las proposiciones se realizará exclusivamente de forma 
+electrónica a través de la herramienta de preparación y presentación de ofertas que la Plataforma 
+de Contratación del Sector Público pone a disposición de los licitadores para tal fin.
+Durante el proceso de presentación de la proposición, la propia herramienta de preparación y 
+presentación de ofertas requerirá al licitador que firme electrónicamente todos los sobres que la 
+conforman.
+En relación con el tamaño de los archivos que conforman las ofertas, deberán seguirse las 
+indicaciones facilitadas en las correspondientes guías que dicha Plataforma pone a disposición 
+de los licitadores.
+Para garantizar la confidencialidad del contenido de los sobres hasta el momento de su apertura, 
+la herramienta cifrará dichos sobres en el envío.
+Una vez realizada la presentación, la herramienta proporcionará al licitador un justificante de 
+envío, susceptible de almacenamiento e impresión, con el sello de tiempo de la Plataforma de 
+Contratación del Sector Público.
+Terminado el plazo de presentación de proposiciones, la documentación quedará custodiada en 
+los servidores de la Dirección General de Patrimonio del Estado.
+La Plataforma de Contratación del Sector Público pone a disposición de los licitadores el 
+siguiente correo electrónico para consultas sobre el uso de la herramienta de preparación y 
+presentación de ofertas: licitacionE@hacienda.gob.es
+En la plataforma de licitación se indicará el plazo para la presentación de proposiciones.
+La presentación de la oferta presupone que el interesado acepta de modo incondicional las 
+cláusulas del presente pliego y del contenido del pliego de prescripciones técnicas sin reserva o 
+salvedad alguna, documentos que tienen carácter contractual. 
+El importe de la proposición económica no deberá superar en ningún caso el presupuesto base 
+de licitación establecido en la cláusula 5 del presente pliego, quedando si así sucediera 
+automáticamente descartada.
+
+--- página 21 ---
+21
+CORTES DE CASTILLA Y LE ÓN
+12.- CONTENIDO DE LAS PROPOSICIONES
+Las proposiciones constarán de tres sobres electrónicos, según lo establecido a continuación:
+SOBRE ELECTRÓNICO NÚMERO 1 (documentación administrativa). Según cláusula 12.1.
+SOBRE ELECTRÓNICO NÚMERO 2 ( criterios no evaluables matemáticamente). Según 
+cláusula 12.2.
+SOBRE ELECTRÓNICO NÚMERO 3 (criterios evaluables matemáticamente). Según 
+cláusula 12.3.
+Los licitadores habrán de presentar sus proposiciones referidas a la totalidad del objeto del 
+contrato.
+Cada licitador podrá presentar solo una proposición en relación con el objeto del contrato, sin 
+que se puedan presentar variantes o alternativas.
+El empresario que haya licitado en unión temporal con otros empresarios no podrá, a su vez, 
+presentar proposiciones individualmente ni figurar en más de una unión temporal participante 
+en la licitación. El incumplimiento de esta prohibición dará lugar a la no admisión de todas las 
+proposiciones por él suscritas.
+Los licitadores deberán tener en cuenta que la fecha límite en la que deben estar en posesión de 
+los requisitos que se exigen es la del fin del plazo de presentación de proposiciones.
+Cualquier referencia indirecta a criterios evaluables matemáticamente en un sobre distinto al 
+que le corresponde determinará la exclusión de la oferta, salvo si dicha referencia no alterase 
+sustancialmente el estudio de las evaluaciones, ni permitiese la inferencia de criterios evaluables 
+matemáticamente. 
+El licitador deberá presentar toda la documentación de los sobres electrónicos, en formato PDF, 
+debidamente firmado por el licitador. Será causa de exclusión la presentación en un formato 
+diferente, o la no presentación de toda la documentación, si tras solicitar su presentación antes 
+de tres días hábiles siempre que su falta sea subsanable, esta no se produjera, por la persona que 
+lo represente con un certificado electrónico reconocido por la Plataforma de Contratación del 
+Sector Público y en vigor. 
+Para poder presentar ofertas al presente contrato, será condición imprescindible solicitar, 
+durante el plazo de presentación de proposiciones y antes de que finalice el mismo, el Anexo 
+de equipamiento relativo al servicio de mantenimiento y operación de la infraestructura 
+centralizada y los servidores de las Cortes de Castilla y León, el cual tiene carácter confidencial.
+A tal fin, será necesario firmar la correspondiente solicitud que se les remitirá por parte de las 
+Cortes de Castilla y León. Las solicitudes se deberán dirigir al correo electrónico: 
+contratacion@ccyl.es
+
+--- página 22 ---
+22
+CORTES DE CASTILLA Y LE ÓN
+Tras recibir la solicitud, se les enviará el Anexo citado junto con un certificado firmado por el 
+responsable del Servicio de Informática acreditativo de haber cursado la solicitud y su 
+compromiso de confidencialidad (Anexo VI), dicho certificado se deberá adjuntar en el sobre 
+1.
+12.1.- SOBRE ELECTRÓNICO NÚMERO 1: documentación general 
+12.1.1.- Hoja resumen de los datos del licitador. ANEXO II.
+Datos de identificación personal del firmante de la solicitud, donde figuren también dirección 
+postal, teléfono, correo electrónico y persona de contacto en la empresa.
+12.1.2.- Empresas vinculadas. ANEXO III.
+Declaración expresa responsable de la empresa licitadora relativa , en su caso, al grupo 
+empresarial al que pertenece y acompañada de la relación comprensiva de todas las Sociedades 
+pertenecientes al mismo grupo, según los criterios a que se refiere el artículo 42 del Código de 
+Comercio, a los efectos de dar cumplimiento a lo establecido en el artículo 86 del RGLCAP.
+12.1.3.- Declaración responsable del cumplimiento de los requisitos previos ANEXO IV.
+En el ANEXO IV del presente pliego se facilita el modelo de declaración responsable que en 
+cumplimiento de la LCSP debe presentar el licitador debidamente cumplimentado. Los 
+licitadores que deseen concurrir integrados en una unión temporal de empresas deberán 
+presentar dicho ANEXO IV por separado. La falta de presentación de este Anexo IV no será 
+subsanable.
+12.1.4.- Declaración responsable del cumplimiento de la solvencia técnica y profesional. 
+ANEXO V.
+En el ANEXO V del presente pliego se facilita el modelo que l as empresas deberán presentar 
+como declaración responsable del cumplimiento de la cláusula 16.12 relativa a la acreditación 
+de la solvencia técnica y profesional.
+12.1.5.- Compromiso de confidencialidad ANEXO VI.
+12.1.6.- Modelo de designación como confidencial de informaciones facilitadas por la 
+empresa. ANEXO VII.
+Las empresas podrán presentar el Anexo debidamente rellenado y firmado al objeto de designar 
+como confidencial alguna de las informaciones facilitadas por la empresa.
+Dicha designación no será vinculante, sino que será objeto de estudio por parte de los servicios 
+técnicos competentes.
+
+--- página 23 ---
+23
+CORTES DE CASTILLA Y LE ÓN
+Rellenar este anexo no es obligatorio, únicamente si la empresa lo considera imprescindible. 
+No podrá declararse como confidencial la totalidad de la oferta, especialmente si se trata de 
+información sujeta a valoración que debe ser de conocimiento del resto de licitadores en caso 
+de así solicitarlo.
+12.1.7.- Presentación de certificación de conformidad con el Esquema Nacional de 
+Seguridad (ENS) en la categoría de MEDIA o ALTA, emitida por una entidad debidamente 
+acreditada por ENAC. En su defecto, se admitirá certificación bajo la norma ISO/ IEC27001 
+acompañada de un informe de correspondencia y brecha que demuestra el cumplimiento estricto 
+de la medida del artículo 21 de la Directiva NIS2.
+La no disposición del presente certificado a fecha final de presentación de ofertas origina la 
+exclusión de la empresa de la licitación de acuerdo con lo establecido en el artículo 140.4 de la 
+LCSP.
+12.2.- SOBRE ELECTRÓNICO NÚMERO 2: criterios no evaluables matemáticamente
+Su contenido será el siguiente:
+Índice resumen de su contenido.
+Toda la documentación vinculada a la valoración de cada criterio de adjudicación de los 
+relacionados en la cláusula 10.3 del presente pliego.
+Si algún licitador no aporta la documentación relativa a alguno de los criterios a que se refiere 
+este apartado, o la misma no contiene todos los requisitos exigidos en los párrafos anteriores, la 
+proposición de dicho licitador no será valorada respecto del criterio de que se trate. 
+De conformidad con lo previsto en el art. 146.3 de la LCSP, se establece un umbral mínimo 
+del 50 por ciento de la puntuación en el conjunto de los criterios cualitativos para continuar en 
+el proceso selectivo.
+12.3.- SOBRE ELECTRÓNICO NÚMERO 3: criterios evaluables matemáticamente
+Presentado conforme el ANEXO I. Su contenido será el siguiente:
+Índice resumen de su contenido.
+Toda la documentación vinculada a la valoración de cada criterio de adjudicación de 
+los relacionados en la cláusula 10.2 del presente pliego.
+Si algún licitador no aporta la documentación relativa a alguno de los criterios a que se refiere 
+este apartado, o la misma no contiene todos los requisitos exigidos en los párrafos anteriores, la 
+proposición de dicho licitador no será valorada respecto del criterio de que se trate. 
+13.- MESA DE CONTRATATACIÓN
+La Mesa de Contratación que asiste al órgano de contratación estará integrada por:
+
+--- página 24 ---
+24
+CORTES DE CASTILLA Y LE ÓN
+Presidencia: El vicepresidente primero de las Cortes de Castilla y León. En caso de vacante, 
+ausencia, enfermedad u otra causa legal, la Presidencia de la Mesa de contratación le 
+corresponderá a la Vicepresidencia Segunda de las Cortes de Castilla y León.
+Vocales:
+La secretaria tercerade la Mesa de las Cortes de Castilla y León. 
+La secretaria general-letrada mayor o letrado en quien delegue.
+La interventora que podrá ser suplid a, en caso necesario, por otro funcionario que tenga
+encomendado el control económico-presupuestario en las Cortes de Castilla y León.
+El jefe de la Sección de Contratación, Obras, Mantenimiento y Suministros.
+Secretario: el técnico de apoyo del servicio de gestión administrativa, con voz, pero sin voto.
+14.- CALIFICACIÓN DE LA DOCUMENTACIÓN Y ACTOS PÚBLICOS 
+DE APERTURA DE OFERTAS
+14.1.- Concluido el plazo de presentación de proposiciones, la mesa de contratación procederá 
+a la calificación de la documentación general contenida en los sobres n.º 1 presentados por los 
+licitadores y, si observase defectos materiales en la documentación presentada, lo notificará a 
+través del buzón de notificaciones de la P lataforma de Contratación del Sector Público al 
+licitador correspondiente, dejando constancia de dicha notificación en el expediente, 
+concediéndole un plazo no superior a tres días hábiles para que se proceda a su subsanación. 
+Ahora bien, si la documentación de un licitador contuviese defectos sustanciales o deficiencias 
+materiales no subsanables será excluido de la licitación.
+14.2.- Al margen de la subsanación a que se refiere el párrafo anterior, la mesa de contratación, 
+a efectos de completar la acreditación de la solvencia de los licitadores, podrá recabar de estos 
+las aclaraciones que estime oportunas sobre las certificaciones y documentos presentados, así 
+como requerirlos para la presentación de otros docu mentos complementarios, requerimiento 
+que deberá ser cumplimentado en el plazo máximo de cinco días naturales.
+14.3.- En el mismo acto, la mesa de c ontratación, una vez calificada la documentación de los 
+sobres n.º 1, considerando, en caso de que sea necesaria, la admisión provisional de aquellos 
+licitadores pendientes de subsanaciones, llevará a cabo la apertura de las proposiciones relativas 
+al sobre n.º 2, relativo a los criterios no evaluables mediante la mera aplicación de fórmulas de 
+los licitadores no excluidos, dando lectura a las ofertas de las empresas.
+En su caso, será causa de exclusión la presentación de las ofertas en un formato diferente al 
+solicitado en el presente pliego, tras solicitar su subsanación antes de tres días hábiles.
+La mesa de c ontratación, en casos de especial complejidad técnica, requerirá asesoramiento 
+técnico.
+
+--- página 25 ---
+25
+CORTES DE CASTILLA Y LE ÓN
+Concluida la apertura de los sobres n.º 2, el Presidente de la Mesa invitará a los licitadores 
+asistentes a que expongan cuantas observaciones o reservas estimen oportunas en relación con 
+el acto celebrado, informándoles, en el caso de producirse estas, de la posibilidad de presentar 
+reclamaciones escritas ante el órgano de contratación, en el plazo máximo de tres días hábiles.
+A continuación, se dará por concluido el acto público de apertura de los sobres n.º 2, de cuyo 
+desarrollo se dejará constancia en el acta de la reunión de la mesa de contratación.
+14.4.- Realizada por la mesa de c ontratación la evaluación de los criterios no evaluables 
+matemáticamente, se reunirá para la apertura y evaluación de los criterios evaluables 
+matemáticamente (sobre n.º3) en la fecha señalada en el anuncio de licitación, e iniciado el acto 
+público, el presidente dará cuenta del resultado de la evaluación relativa a las propos iciones 
+contenidas en el sobre n.º 2, así como en su caso, de las exclusiones y su motivo, invitando a 
+los asistentes a que formulen las observaciones que estimen oportunas, que serán reflejadas en 
+el acta.
+La mesa de contratación procederá a la apertura de los sobres n.º 3, dando lectura a las ofertas 
+presentadas por los licitadores.
+Concluida la apertura de los sobres n.º 3, el presidente de la Mesa invitará a los licitadores 
+asistentes a que expongan cuantas observaciones o reservas estimen oportunas en relación con 
+el acto celebrado, informándoles, en el caso de producirse estas, de la posibilidad de presentar 
+reclamaciones escritas ante el órgano de contratación, en el plazo máximo de tres días hábiles.
+A continuación, se dará por concluido el acto público de apertura de los sobres n.º 3, de cuyo 
+desarrollo se dejará constancia en el acta de la reunión de la mesa de contratación.
+Tras el acto público la mesa de c ontratación procederá, previa exclusión, en su caso de las 
+ofertas que no cumplan los requerimientos del pliego, a evaluar y clasificar las ofertas y a 
+realizar la propuesta de adjudicación al órgano de contratación, en favor del licitador que 
+presente la mejor oferta.
+La propuesta de adjudicación de la mesa de contratación al órgano de contratación incluirá en 
+todo caso la ponderación de los criterios indicados en la cláusula 10 del presente pliego, 
+acompañada de las actas de sus reuniones y la documentación generada en sus actuaciones y, 
+en su caso, de los informes emitidos. 
+La propuesta de adjudicación que realice el órgano de contratación deberá acomodarse a la 
+propuesta de la mesa de c ontratación, salvo que expresamente se justifiquen los motivos para 
+apartarse de tal propuesta o que ésta se haya efectuado con infracción del ordenamiento jurídico, 
+en cuyo caso la propuesta quedará sin efecto
+15.- CONSTITUCIÓN DE LA GARANTÍA DEFINITIVA
+15.1.- El licitador que haya presentado la oferta más ventajosa deberá acreditar la constitución 
+de la garantía definitiva por importe del 5% del importe de adjudicación del contrato excluido 
+
+--- página 26 ---
+26
+CORTES DE CASTILLA Y LE ÓN
+el IVA en el plazo de diez días hábiles desde que haya sido requerido por el órgano de 
+contratación para ello, debiendo depositarse su importe, o la documentación acreditativa 
+correspondiente en la Tesorería de las Cortes de Castilla y León.
+15.2.- La garantía podrá constituirse en alguna de las formas previstas en el artículo 108 de la 
+LCSP, debiendo depositarse su importe, o la documentación acreditativa correspondiente, en la 
+Tesorería de las Cortes de Castilla y León. En el caso de que la garantía se constituya en forma 
+de aval bancario, deberá presentarse manualmente en la Tesorería de las Cortes de Castilla y 
+León o digitalmente incluyendo obligatoriamente, en este último caso, el Código Seguro de 
+Verificación.
+15.3.- Cuando, a consecuencia de la modificación del contrato, experimente variación su precio, 
+se reajustará la garantía en el plazo de quince días, contados desde la fecha en que se notifique 
+al adjudicatario la resolución de modificación del contrato, de acuer do con lo dispuesto en el 
+artículo 109.3 de la LCSP.
+15.4.- La garantía definitiva responderá de los conceptos a los que se refiere el artículo 110 de 
+la LCSP. En el plazo de quince días, contado desde la fecha en que se hagan efectivas, en su 
+caso, las penalidades o indemnizaciones, el adjudicatario deberá reponer o ampliar la garantía 
+constituida en la cuantía que corresponda, incurriendo, en caso contrario, en causa de 
+resolución.
+16.- DOCUMENTACIÓN A PRESENTAR POR EL LICITADOR 
+SELECCIONADO
+Una vez aceptada la propuesta de la mesa de contratación por el órgano de contratación, el 
+servicio de gestión administrativa requerirá al licitador propuesto para que, en el plazo máximo 
+de diez días hábiles, presente la documentación relativa a la información proporcionada en la 
+declaración responsable del ANEXO IV acreditativa del cumplimiento de los requisitos previos, 
+que se relaciona en los siguientes apartados de esta cláusula, sin perjuicio de que esa 
+acreditación pueda hacerse efectiva según lo establecido en el segundo párrafo del apartado 3 
+del artículo 140 de la LCSP.
+Las consecuencias de la no presentación de la citada documentación, así como de aquélla 
+acreditativa de disponer de los medios comprometidos para la ejecución del contrato, y de la no
+constitución de la garantía definitiva a la que se refiere la cláusula precedente, serán las previstas
+en el artículo 150.2 de la LCSP, entendiéndose que el licitador ha retirado su oferta. Se 
+procederá, en ese caso, a recabar la misma documentación al licitador siguiente, por el orden en 
+que hayan quedado clasificadas las ofertas.
+El licitador seleccionado deberá tener en cuenta que la fecha límite en la que deben estar en 
+posesión de los requisitos que se exigen en el sobre n.º 1 para la formalización del contrato es 
+la del fin del plazo de presentación de proposiciones. Toda la documentación relacionada en 
+este apartado que tenga carácter de periódica, habrá de referirse a los doce últimos meses.
+
+--- página 27 ---
+27
+CORTES DE CASTILLA Y LE ÓN
+16.1.- Documento justificativo de la constitución de la garantía definitiva .
+El licitador seleccionado deberá presentar la documentación requerida según la cláusula 15.
+16.2.- Capacidad de obrar y documentos acreditativos de la representación.
+Si la empresa fuera persona jurídica, la escritura o documento de constitución, los estatutos o 
+acto fundacional en los que consten las normas por las que se regula su actividad, el objeto de 
+la empresa, el administrador de la misma y los poderes de repres entación de este. Estos 
+documentos deberán recoger el exacto régimen jurídico del licitador en el momento de la 
+presentación de la proposición.
+El licitador seleccionado cuya oferta haya sido presentada mediante representante, deberá 
+solicitar y obtener de los Servicios Jurídicos de las Cortes de Castilla y León acto expreso y 
+formal de bastanteo de la escritura pública de otorgamiento del poder de representación.
+Si el licitador es una persona jurídica, el poder general y las delegaciones de facultades deberán 
+figurar inscritos, en su caso, en el Registro Mercantil.
+En la documentación aportada se deberá acreditar debidamente que las prestaciones objeto del 
+contrato están comprendidas dentro de los fines, objeto o ámbito de actividad, según resulte de 
+sus respectivos estatutos o reglas fundacionales.
+También se podrá acreditar la representacióny la capacidad de obrarmediante la aportación del 
+certificado expedido por el Registro Oficial de Licitadores y Empresas Clasificadas del Sector 
+Público o del Registro de Licitadores de la Comunidad Autónoma de Castilla y León , 
+acompañado de una declaración de la vigencia de los datos que figuran en el mismo. En todo 
+caso, siempre podrá ser solicitada la documentación acreditativa de la capacidad de obrar y la 
+representación.
+16.3.- Código de Identificación Fiscal (CIF) de la empresa.
+La empresa deberá presentar copia compulsada del Código de Identificación Fiscal (CIF).
+16.4.- Documento identificativo del empresario o del representante de la empresa.
+La empresa deberá presentar copia compulsada del DNI o documento que, en su caso, le 
+sustituya reglamentariamente, del empresario individual o del representante de la empresa.
+16.5.- Declaración responsable de vigencia de poderes.
+La empresa deberá presentar una declaración responsable de vigencia de poderes del firmante 
+de la oferta al día de entrega de la oferta.
+
+--- página 28 ---
+28
+CORTES DE CASTILLA Y LE ÓN
+16.6.- Declaración responsable de disposición de habilitaciones, licencias o permisos.
+La empresa deberá presentar una declaración responsable en la que se acredite disponer de las 
+habilitaciones, licencias o permisos legalmente necesarios que precisen las actividades objeto 
+del contrato, ya sean de carácter estatal, autonómico o local, acreditándose esta circunstancia 
+mediante la aportación de los correspondientes certificados emitidos por la autoridad 
+competente.
+16.7.- Declaración responsable acreditativa en relación a que la información aportada 
+sigue en vigor.
+En caso de que la documentación aportada sea de una antigüedad superior a tres meses desde 
+la fecha de finalización del plazo de entrega de documentación de la licitación el licitador 
+seleccionado deberá aportar declaración jurada firmada con antigüedad nosuperior a tres meses 
+desde la finalización del plazo de entrega de documentación de la licitación en la que se asegure 
+que la información aportada sigue en vigor.
+16.8.- Declaración responsable relativa a no estar incursos en prohibiciones e 
+incompatibilidades.
+Declaración responsable o documentación relativa a no estar incurso en prohibiciones e 
+incompatibilidades para contratar con la Administración previstas en el artículo 71 de la LCSP.
+16.9.- Documentación relativa a estar al corriente de las obligaciones tributarias.
+El licitador seleccionado deberá acreditar, que se encuentra al corriente en el cumplimiento de 
+sus obligaciones tributarias. Las certificaciones que se presenten tendrán una validez de un mes 
+desde la fecha de la expedición.
+16.9.1- La acreditación de estar al corriente en el cumplimiento de las obligaciones tributarias 
+se realizará presentando la siguiente documentación, de acuerdo con los artículos 13 y 15 del 
+RGLCAP:
+Último recibo del impuesto sobre actividades económicas o el documento de alta en el 
+mismo, cuando ésta sea reciente y no haya surgido aún la obligación de pago. El alta deberá 
+adjuntarse en todo caso cuando en el recibo aportado no conste el epígrafe de la actividad. 
+Esta documentación deberá estar referida al epígrafe correspondiente al objeto del contrato 
+que les faculte para su ejercicio en el ámbito territorial en que las ejercen, debiendo 
+complementarse con una declaración responsable del licitador de no haberse dado de baja 
+en la matrícula del citado impuesto.
+Certificación administrativa expedida por el órgano competente de la Administración del 
+Estado por lo que respecta a las obligaciones tributarias con este último.
+
+--- página 29 ---
+29
+CORTES DE CASTILLA Y LE ÓN
+El licitador que no esté obligado a presentar todas o alguna de las declaraciones o documentos 
+correspondientes a las obligaciones tributarias que se relacionan en el artículo 13 del RGLCAP
+habrá de acreditar tal circunstancia mediante declaración responsable.
+16.9.2.- Las certificaciones a que se refieren las cláusulas anteriores deberán ser expedidas de 
+acuerdo con lo dispuesto en el artículo 15 del RGLCAP.
+16.9.3.- Los extranjeros, sean personas físicas o jurídicas, pertenecientes o no a Estados 
+miembros de la Unión Europea, que no tengan domicilio fiscal en España, deberán presentar 
+certificación expedida por autoridad competente en el país de procedencia a creditativa de 
+hallarse al corriente en el cumplimiento de las correspondientes obligaciones tributarias. Así 
+mismo, habrán de presentar certificación, también expedida por autoridad competente, en la 
+que se acredite que se hallan al corriente en el cumplimiento de las obligaciones sociales que se 
+exijan en el país de su nacionalidad. 
+16.10.- Documentación relativa a estar al corriente de las obligaciones con la Seguridad 
+Social.
+De acuerdo con el artículo 14 del RGLCAP, el licitador seleccionado deberá acreditar, que se 
+encuentra al corriente en el cumplimiento de sus obligaciones con la Seguridad Social. Las 
+certificaciones que se presenten tendrán una validez de un mes desde la fecha de la expedición.
+16.10.1.- La acreditación de estar al corriente en el cumplimiento de las obligaciones con la 
+Seguridad Social se realizará mediante certificación expedida por la seguridad social con 
+antigüedad no superior a un mes. En el supuesto que haya de tenerse en cuenta alguna exención 
+se habrá de acreditar tal circunstancia mediante declaración responsable.
+16.10.2.- Las certificaciones a que se refieren la cláusula anterior deberán ser expedidas de 
+acuerdo con lo dispuesto en los artículos 14 y 15 del RGLCAP.
+16.10.3.- Los extranjeros, sean personas físicas o jurídicas, pertenecientes o no a Estados 
+miembros de la Unión Europea, que no tengan domicilio fiscal en España, deberán presentar 
+certificación expedida por autoridad competente en el país de procedencia acreditativa de 
+hallarse al corriente en el cumplimiento de las correspondientes obligaciones tributarias. Así 
+mismo, habrán de presentar certificación, también expedida por autoridad competente, en la 
+que se acredite que se hallan al corriente en el cumplimiento de las obligaciones sociales que se 
+exijan en el país de su nacionalidad. 
+16.11.- Acreditación de la solvencia económica y financiera.
+Se acreditará, según lo dispuesto en el artículo 87 de la LCSP, a través de los siguientes medios:
+Acreditación relativa al volumen anual de negocios del licitador referido al año de mayor 
+volumen de negocio de los tres últimos concluidos en el ámbito del objeto del presente 
+contrato, que sea al menos el presupuesto base de licitación, IV A excluido. Se acreditará 
+mediante cuentas anuales y declaración responsable del empresario.
+
+--- página 30 ---
+30
+CORTES DE CASTILLA Y LE ÓN
+Se requerirá igualmente un seguro de responsabilidad civil que cubra los posibles riesgos 
+profesionales que asume bajo este contrato por importe igual o superior al presupuesto base 
+de licitación, IV A excluido. Se acreditará mediante certificado de la entidad aseguradora o, 
+en caso de que no fuera posible, mediante la póliza correspondiente. El seguro deberá 
+mantenerse durante toda la duración del contrato, y el adjudicatario justificará su vigencia 
+mediante el recibo de pago cuando sea requerido (en el recibo deberá especificarse el 
+número de la póliza y el periodo que contempla).
+Si por una razón justificada el empresario no está en condiciones de acreditar dicha solvencia 
+por los medios anteriormente mencionados se le autorizará a acreditar su solvencia económica 
+y financiera por medio de cualquier otro documento que se considere apropiado por el órgano 
+de contratación, según la normativa legal vigente.
+Sin perjuicio de lo dispuesto en el artículo 97 de la LCSP los empresarios no españoles de la 
+Unión Europea, podrán acreditar ante el órgano de contratación la solvencia financiera, 
+económica, así como que se encuentran habilitadas para realizar la prestación que constituye el 
+objeto del contrato con arreglo a la legislación del Estado de procedencia.
+16.12.- Acreditación de la solvencia técnica y profesional.
+Para acreditar la solvencia técnica o profesional se exigirá acreditar:
+Una relación de los principales servicios y/o suministros realizados de igual o similar 
+naturaleza que los que constituyen el objeto del contrato en el curso de los tres últimos años 
+que incluya importe, fechas y el destinatario, público o privado, de los mismos, acreditados 
+mediante un certificado del órgano competente o de una declaración de la empresa, en su 
+caso, conforme a lo dispuesto en el artículo90 de la LCSP, de modo que el referido al mejor 
+ejercicio dentro de ese período de tiempo sea al menos el presupuesto base de licitació n, 
+IV A excluido.
+Declaración responsable que indique que la empresa cuenta con los recursos humanos y 
+medios materiales mínimos indicados en el pliego de prescripciones técnicas.
+En el caso de que el adjudicatario sea una empresa de nueva creación, es decir, que cuente 
+con una antigüedad inferior a cinco años, deberá acreditar el cumplimiento del pliego de 
+prescripciones técnicas para poder realizar la prestaciónpor los medios siguienteque señala 
+el artículo 90.4 c y h de la LCSP, que se indican:
+o c) Descripción de las instalaciones técnicas, de las medidas empleadas por el 
+empresario para garantizar la calidad y de los medios de estudio e investigación 
+de la empresa.
+o h) Declaración indicando la maquinaria, material y equipo técnico del que se 
+dispondrá para la ejecución de los trabajos o prestaciones, a la que se adjuntará 
+la documentación acreditativa pertinente cuando le sea requerido por los 
+servicios dependientes del órgano de contratación.
+
+--- página 31 ---
+31
+CORTES DE CASTILLA Y LE ÓN
+A los efectos de lo previsto en el párrafo anterior, las certificaciones de clasificación o 
+documentos similares que hayan sido expedidos por Estados miembros de la Unión Europea a 
+favor de sus propios empresarios constituirán una presunción de aptitud en los términos 
+señalados en el artículo 97 de la LCSP.
+Los medios de acreditación de la solvencia económica, financiera y técnica podrán ser 
+sustituidos por los que consten en el certificado de inscripción en el Registro Oficial de 
+Licitadores y Empresas Clasificadas del Estado o en el Certificado de Inscripción en el Registro 
+de Licitadores de la Comunidad Autónoma de Castilla y León que el licitador aporte. Para que 
+surta los efectos señalados, el certificado deberá ir acompañado de una declaración responsable 
+formulada por el licitador en la que se manifieste que las circunstancias reflejadas en el 
+certificado no han experimentado variación.
+16.13.- Declaración responsable de compromiso de adscripción a la ejecución del contrato 
+de medios personales o materiales.
+El licitador seleccionado deberá incluir, acompañando a los documentos acreditativos de la 
+solvencia exigida, una declaración responsable del compromiso de adscripción o dedicación de 
+los medios personales y materiales suficientes para la ejecución del contrato, de acuerdo con lo 
+dispuesto en el pliego de prescripciones técnicas.
+El licitador seleccionado deberá aportar la documentación acreditativa de que el personal 
+ofertado y por el que se le ha asignado puntuación dispone de la experiencia necesaria. En caso 
+de que se considere necesario se solicitarán certificados expedidos por quien se considere como 
+suficiente que la acrediten.
+Este compromiso de adscripción constituye una obligación contractual esencial.
+16.14.- Declaración responsable en relación a la acreditación del cumplimiento de las 
+condiciones especiales de ejecución.
+El licitador seleccionado deberá aportar una declaración responsable o la documentación 
+acreditativa de que dispone de manera efectiva de las medidas para garantizar el cumplimiento, 
+en relación con la prestación del presente contrato, de alguna de las con diciones especiales de 
+ejecución de tipo social de las enumeradas en la cláusula 22.2 del presente pliego.
+16.15.- Uniones temporales de empresarios.
+En caso de unión temporal de empresarios, para que en la fase previa a la adjudicación sea 
+eficaz, todos los empresarios deberán presentar individualmente los documentos exigidos en la 
+presente cláusula, además de un escrito de compromiso en el que se indicarán: los nombre s y 
+circunstancias de los que la constituyan; la participación de cada uno de ellos, así como la 
+asunción del compromiso de constituirse formalmente en unión temporal en caso de resultar 
+adjudicatario. El citado documento deberá estar firmado por los repre sentantes de cada una de 
+las empresas que compondrán la Unión Temporal de Empresas. Los empresarios que concurran 
+
+--- página 32 ---
+32
+CORTES DE CASTILLA Y LE ÓN
+agrupados en Unión Temporal de Empresas quedarán obligados solidariamente. Respecto a la 
+determinación de la solvencia económica y financiera y técnica o profesional de la unión 
+temporal y a sus efectos, se acumularán las características acreditadas para c ada uno de los 
+integrantes de la misma.
+En el supuesto de que el contrato se adjudicase a una Unión Temporal de Empresarios, esta 
+acreditará su constitución en escritura pública, así como el CIF asignado a dicha unión, antes 
+de la formalización del contrato. En todo caso, la duración de la unión será coincidente con la 
+del contrato hasta su extinción.
+16.16.- Empresas extranjeras.
+16.16.1.- Acreditación de la capacidad para contratar de empresas no españolas. Las empresas 
+no españolas de Estados miembros de la Unión Europea y las restantes empresas extranjeras 
+deberán acreditar su capacidad para contratar en cumplimiento de los artículos 67 y 68 de la 
+LCSP según los medios establecidos en el artículo 84 de la LCSP Las empresas extranjeras 
+presentarán su documentación traducida de forma oficial al español.
+16.16.2.- Jurisdicción de empresas extranjeras.
+Las empresas extranjeras deberán presentar declaración de someterse a la jurisdicción de los 
+Juzgados y Tribunales españoles de cualquier orden, para todas las incidencias que de modo 
+directo o indirecto pudieran surgir del contrato, con renuncia, en su caso al fuero jurisdiccional 
+extranjero que pudiera corresponderles.
+Toda la documentación deberá presentarse en original o copia que tenga el carácter de auténtica 
+conforme a la legislación vigente, copia notarial original o fotocopia compulsada por 
+funcionario habilitado para ello.
+17.- ADJUDICACIÓN Y NOTIFICACIÓN
+17.1.- La Mesa de las Cortes de Castilla y León, como órgano de contratación, delega la 
+adjudicación del contrato en el presidente de las Cortes de Castilla y Leon una vez constituida 
+la garantía que señala la cláusula 15 y diligenciada y bastanteada la documentación que señala 
+la cláusula 16 del presente pliego. 
+La adjudicación deberá dictarse en todo caso, siempre que alguna de las proposiciones 
+presentadas reúna los requisitos exigidos en el pliego de cláusulas administrativas particulares, 
+no pudiendo en tal caso declararse desierta la licitación. No obstante, en los términos previstos 
+en el artículo 152 de la LCSP, las Cortes de Castilla y León, antes de dictar la adjudicación, 
+podrá renunciar a celebrar el contrato por razones de interés público, o desistir del 
+procedimiento tramitado, cuando este adolezca de defectos no subsanables, debiendo 
+indemnizar a los licitadores, en ambos casos, de los gastos que su participación en la licitación 
+les hubiese efectivamente ocasionado.
+
+--- página 33 ---
+33
+CORTES DE CASTILLA Y LE ÓN
+17.2.- La adjudicación del contrato deberá ser motivada de acuerdo con lo dispuesto en el 
+artículo 151 de la LCSP, se notificará a los candidatos o licitadores y se publicará en el perfil 
+del contratante.
+La notificación deberá contener, en todo caso, la información necesaria que permita al licitador 
+excluido o candidato descartado interponer, conforme al artículo 44 de la LCSP, recurso 
+suficientemente fundado contra la decisión de adjudicación. En particular expresará los 
+siguientes extremos:
+a) La relación de los candidatos descartados, la exposición resumida de las razones por las 
+que se haya desestimado su candidatura.
+b) Con respecto de los licitadores excluidos del procedimiento de adjudicación, los motivos 
+por los que no se haya admitido su oferta.
+c) En todo caso, el nombre del adjudicatario, las características y ventajas de la proposición 
+del adjudicatario determinantes de que haya sido seleccionada la oferta de este con 
+preferencia a las que hayan presentado los restantes licitadores cuyas ofertas hayan sido 
+admitidas.
+En todo caso, en la notificación y en el perfil del contratante se indicará el plazo en que debe 
+procederse a la formalización del contrato, conforme al artículo 153 de la LCSP. La notificación 
+podrá efectuarse por correo electrónico en la dirección que los licitadores o candidatos hubieran 
+designado al presentar sus proposiciones.
+17.3.- Las proposiciones presentadas, tanto las declaradas admitidas como las rechazadas sin 
+abrir o las desestimadas una vez abiertas, serán archivadas en el expediente. Adjudicado el 
+contrato y transcurridos los plazos para la interposición de recursos sin que se hayan interpuesto, 
+la documentación que acompaña a las proposiciones quedará a disposición de los interesados.
+18.- FORMALIZACIÓN DEL CONTRATO
+18.1.- De conformidad con lo establecido en el artículo 153.3 de la LCSP, el contrato será 
+formalizado una vez transcurrido el plazo de 15 días hábiles a contar desde la remisión de la 
+notificación de la adjudicación a los licitadores y candidatos, siempre que en dicho plazo no se 
+hubiera interpuesto recurso que lleve aparejada la suspensión de la formalización del contrato.
+Para la formalización, el adjudicatario queda obligado a suscribir el contrato dentro del plazo 
+de 5 días hábiles desde que reciba el requerimiento del órgano de contratación al respecto . El 
+Servicio de Gestión Administrativa requerirá al adjudicatario para que formalice el contrato en 
+plazo no superior a cinco días a contar dese el siguiente a aquel en que hubiera recibido el 
+requerimiento, una vez transcurrido el plazo mencionado en el párrafo anterior sin que se 
+hubiera interpuesto recurso que lleve aparejada la suspensión de la formalización del contrato. 
+De igual forma procederá cuando el órgano competente para la resolución del recurso hubiera 
+levantado la suspensión.
+
+--- página 34 ---
+34
+CORTES DE CASTILLA Y LE ÓN
+Al contrato se unirán como anexos, formando parte del mismo, la oferta económica y/o técnica 
+del adjudicatario, así como un ejemplar del pliego de cláusulas administrativas particulares y 
+del pliego de prescripciones técnicas . Todos los anexos del contrato serán aceptados por el 
+adjudicatario con la firma del documento de formalización del contrato.
+Cuando el adjudicatario sea una Unión Temporal de Empresarios, dentro del mismo plazo y 
+con anterioridad a la firma del contrato, deberá aportar escritura pública de constitución como 
+tal.
+La formalización del contrato se publicará según lo establecido en el artículo 154 de la LCSP.
+18.2.- Si no pudiera formalizarse el contrato dentro del plazo indicado, tendrá los efectos 
+regulados en el artículo 153 apartados 4 y 5 de la LCSP.
+CAPITULO III. EJECUCIÓN DEL CONTRATO
+19.- RESPONSABLE SUPERVISOR DE LOS TRABAJOS OBJETO DEL 
+CONTRATO
+La supervisión técnica de la ejecución del presente contrato será realizada por el Servicio de 
+Informática, la supervisión administrativa de la ejecución del presente contrato será realizada 
+por el Servicio de Gestión Administrativa de las Cortes de Castilla y León bajo la dirección de 
+la Secretaría General de las Cortes de Castilla y León, quien realizará la designación de los 
+responsables, que será notificada al comienzo de la vida del contrato al adjudicatario del mismo 
+Son funciones del responsable de la supervisión técnica del contrato, entre otras, las siguientes: 
+1) Velar por el cumplimiento del contrato. Para ello el responsable tendrá la facultad de 
+inspeccionar y de ser informado del proceso de ejecución del mismo, debiéndose 
+establecer sistemas de coordinación, de comunicación y de control de calidad necesarios 
+para la consecución de los fines del mismo, así como dictar cuantas disposiciones estime 
+oportunas para el estricto cumplimiento de lo convenido. 
+2) Proponer y aprobar modificaciones a los Planes incluidos por el adjudicatario en su 
+oferta. En especial, ajustar temporalmente dichos Planes conforme a la actividad 
+prevista de las Cortes y subsanar sus incertidumbres u omisiones.
+3) Dar la conformidad a las facturas periódicas o justificantes de los servicios y/o 
+suministros realizados.
+4) Apercibir al adjudicatario por incumplimientos, así como informar y proponer 
+penalizaciones que fueran de aplicación en el periodo.
+5) Informar al adjudicatario de cualquier deficiencia que observe, así como solicitar su 
+subsanación en los plazos estipulados.
+
+--- página 35 ---
+35
+CORTES DE CASTILLA Y LE ÓN
+6) Adoptar las medidas que fueran precisas, dentro de lo posible, con el fin de facilitar la 
+realización y entrega del objeto del contrato.
+7) Convocar cuantas reuniones estime pertinentes para el buen desarrollo del contrato y su 
+supervisión, a las que estará obligada a asistir la representación de la empresa 
+adjudicataria.
+8) Comunicar y exigir al adjudicatario las medidas evolutivas en materia de diseño, 
+composición y tecnología en beneficio de la ejecución del contrato, así como las 
+modificaciones que se deban introducir en la ejecución del servicio de acuerdo a lo 
+recogido en el pliego de prescripciones técnicas. 
+9) Dar apoyo a la Mesa de las Cortes de Castilla y León al interpretar el pliego de 
+prescripciones técnicas y demás condiciones técnicas establecidas en el contrato.
+10) Proponer la resolución del contrato como consecuencia de incumplimientos o mala 
+ejecución del contrato.
+20.- OBLIGACIONES DEL CONTRATISTA
+20.1.- El contrato se ejecutará con estricta sujeción a las estipulaciones contenidas en el presente 
+pliego de cláusulas administrativas particulares, observando fielmente lo establecido en el 
+pliego de prescripciones técnicas, la oferta presentada a efectos de licitación por la empresa 
+adjudicataria, así como las instrucciones que, en su caso, le diere el responsable del contrato 
+designado por el órgano de contratación.
+20.2.- El adjudicatario asume plena responsabilidad sobre la idoneidad técnica, legal y 
+económica de la oferta presentada para conseguir el objeto del contrato y cumplir estrictamente 
+todas las normas aplicables.
+En la planificación y el desarrollo de los trabajos objeto del contrato, es responsabilidad del 
+adjudicatario atenerse a toda la normativa de obligado cumplimiento y a la buena práctica que 
+en cada momento sea aplicable a la actividad que ejecuta, tanto en sus aspectos técnicos como 
+administrativos, tributarios, mercantiles, de prevención de riesgos laborales, etc.
+20.3.- La ejecución del contrato se realizará a riesgo y ventura del contratista. El contratista 
+actuará en su propio nombre y por su propia cuenta y riesgo, asumiendo plena responsabilidad 
+de su gestión del personal y los recursos materiales.
+20.4.- El contratista deberá guardar sigilo respecto a los datos o antecedentes que, no siendo 
+públicos o notorios, estén relacionados con el objeto del contrato y hayan llegado a su 
+conocimiento con ocasión del mismo.
+20.5.- El contratista facilitará el examen de cualquier proceso o fase de los trabajos propios de 
+la prestación objeto del contrato, así como de los medios que utilicen o pretendan utilizar para 
+prestarlos, informando de forma continuada, por los canales establecidos, de sus actuaciones.
+
+--- página 36 ---
+36
+CORTES DE CASTILLA Y LE ÓN
+20.6.- La designación desde el inicio de la ejecución del contrato de una persona como 
+encargado del contrato. Esta persona será la responsable de la gestión administrativa del 
+contrato, del seguimiento del mismo, de las facturaciones, y de proporcionar al responsable 
+designado por parte de las Cortes de Castilla y León la documentación relativa al seguimiento 
+del contrato establecida en el pliego de prescripciones técnicas.
+20.7.- Tanto los licitadores como el adjudicatario quedan expresamente obligados a mantener 
+absoluta confidencialidad y reserva sobre cualquier dato que pudieran conocer con ocasión del 
+procedimiento de contratación, especialmente los de carácter personal, que no podrán copiar o 
+utilizar con fines distintos de los que figuran en este pliego, ni ceder a otros, ni a los solos 
+efectos de conservación. Esta obligación se desarrolla en la cláusula correspondiente del 
+presente pliego.
+21.- OBLIGACIONES DE SEGURIDAD DE LA INFORMACIÓN Y 
+CIBERSEGURIDAD
+Se establecen las siguientes obligaciones esenciales respecto a la seguridad de información y 
+ciberseguridad sin perjuicio de las especificadas en la cláusula 23 relativa a la confidencialidad 
+y el tratamiento de datos de carácter personal:
+21.1.- Certificación ENS : el adjudicatario deberá mantener, durante toda la vigencia del 
+contrato, la certificación del Esquema Nacional de Seguridad (ENS) en la categoría MEDIA o 
+ALTA para los sistemas empleados en la prestación del servicio objeto del presente contrato,al 
+ser exigida de acuerdo con el artículo 65.2 de la LCSP como habilitación profesional para la 
+realización de la prestaciones del presente contrato, garantizan así en todo momento los 
+principios de confidencialidad, integridad, disponibilidad, trazabilidad y autenticidad.
+Esta certificación deberá ser presentada nuevamente en el caso de que el contrato fuese 
+prorrogado. 
+21.2.- En cumplimiento del artículo 13 del Real Decreto 311/2022 (Esquema Nacional de 
+Seguridad), el adjudicatario deberá designar un PoC (Punto o Persona de contacto) para la 
+seguridad de la información tratada y el servicio prestado, que cuente con el apoyo de los 
+órganos de dirección, y que canalice y supervise, tanto el cumplimiento de los requisitos de 
+ciberseguridad y las comunicaciones relativas a la seguridad de la información y la gestión de 
+los incidentes para el ámbito de dicho servicio.
+El adjudicatario deberá cumplir con la política de acceso remoto que aplique en el organismo 
+durante todo el periodo de vigencia del contrato.
+21.3.- Notificación de incidentes: en caso de incidente de seguridad que afecte a los sistemas 
+o datos de las Cortes de Castilla y León, el adjudicatario notificará a esta en un plazo máximo 
+de 4 horas desde su detección, facilitando los indicadores de compromiso disponibles y las 
+medidas de contención adoptadas. Las Cortes realizarán la notificación al Equipo de Respuesta 
+a Incidentes de Seguridad Informática (CSIRT) de referencia conforme a la normativa NIS2 
+
+--- página 37 ---
+37
+CORTES DE CASTILLA Y LE ÓN
+aplicable (Directiva UE 2022/2555 del Parlamento Europeo y del Consejo relativa a las medidas 
+destinadas a garantizar un elevado nivel común de ciberseguridad en toda la Unión).
+21.4.- Auditorías y derecho de inspección: las Cortes de Castilla y León, o la entidad que esta 
+designe, podrá realizar auditorías técnicas de seguridad sobre los sistemas del adjudicatario con 
+un preaviso mínimo de 5 días hábiles. El adjudicatario facilitará el acceso a logs, 
+configuraciones de seguridad y los últimos informes de pruebas de penetración (pentesting).
+21.5.- Penalizaciones y resolución : el incumplimiento de las obligaciones previstas en la 
+presente cláusula facultará a las Cortes de Castilla y León para imponer penalizaciones 
+proporcionales al incumplimiento y, en su caso, resolver el contrato por causa imputable al 
+adjudicatario, con derecho a indemnización por daños y perjuicios.
+22.- OTRAS OBLIGACIONES CONTRACTUALES ESENCIALES DEL 
+CONTRATO Y CONDICIONES ESPECIALES DE EJECUCIÓN EN 
+MATERIA MEDIOAMBIENTAL, SOCIAL O LABORAL
+22.1.- Obligaciones contractuales esenciales.
+Son obligaciones contractuales esenciales a los efectos previstos en los artículos 76.2, y 211 de 
+la LCSP las siguientes: 
+Ejecutar el contrato con estricta sujeción a lo previsto en el pliego de prescripciones 
+técnicas y en el pliego de c láusulas administrativas particulares, y de acuerdo con las 
+con las decisiones que se adopten y las instrucciones que se dicten por las Cortes de 
+Castilla y León. 
+Cumplir los plazos establecidos para garantizar los niveles de calidad indicados en el 
+pliego de prescripciones técnicas.
+La adscripción de los medios materiales y personales adecuados para la ejecución del 
+contrato.
+El cumplimiento de la obligación de asistencia presencial según lo indicado en la 
+prescripción 4 del pliego de prescripciones técnicas.
+El cumplimiento del procedimiento de sustitución permanente o temporal de larga 
+duración del personal conforme a lo detallado en el pliego de prescripciones técnicas.
+El cumplimiento de compromisos asumidos a través de la oferta que se han tomado en 
+consideración como criterio de valoración.
+Entregar en la sede de las Cortes de Castilla y León las copias de seguridad que sean 
+solicitadas con carácter urgente en un plazo no superior a las cuatro horas desde que se 
+produzca su solicitud.
+
+--- página 38 ---
+38
+CORTES DE CASTILLA Y LE ÓN
+En el caso de que hubiera habido empate en el proceso de licitación, el mantenimiento 
+del porcentaje de trabajadores con discapacidad durante toda la duración del contrato si 
+así se ofertó.
+El incumplimiento de las obligaciones contractuales esenciales constituye infracción grave a 
+efectos del art. 71.2 c de la LCSP.
+22.2.- Condiciones especiales de ejecución. Otras obligaciones en materia medioambiental, 
+social o laboral.
+Las siguientes obligaciones en materia social y laboral serán consideradas condiciones 
+especiales de ejecución a los efectos previstos en los artículos 122.2 y 202.1 de la LCSP: la 
+empresa adjudicataria debe garantizar la igualdad en el acceso al empleo, la retribución, la 
+promoción, la formación y la permanencia, así como la prevención del acoso sexual en el 
+trabajo, y medidas que favorezcan la conciliación de la vida personal, fa miliar y laboral de las 
+personas trabajadores adscritas a la ejecución del presente contrato.
+23.- CONFIDENCIALIDAD Y TRATAMIENTO DE DATOS DE 
+CARÁCTER PERSONAL
+23.1.- Confidencialidad 
+La empresa adjudicataria y su personal tienen obligación de secreto respecto a los datos 
+personales que hubieran podido conocer con motivo de la prestación del contrato (artículo 5 de 
+la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los 
+derechos digitales), que no impliquen su tratamiento.
+La información, datos o especificaciones facilitadas por las Cortes de Castilla y León al 
+adjudicatario y al personal a su servicio o a los que hayan accedido en ejecución del contrato, 
+deberán ser consideradas por estos como confidenciales, no pudiendo ser objeto, total o parcial, 
+de publicaciones, copia, utilización, cesión o préstamos a terceros.
+El adjudicatario, no realizará ningún tipo de actuación encaminada a la recopilación de datos 
+de las instalaciones del edificio o de facturación por parte de empresas externas a las Cortes de 
+Castilla y León, salvo permiso expreso del responsable del contrato.
+Se prohíbe a la empresa adjudicataria el acceso a todo tipo de información confidencial y, en 
+concreto, a los datos de carácter personal que obraran en poder de las Cortes de Castilla y León. 
+En el supuesto de que se llegara a conocer cualquier tipo de información confidencial con 
+ocasión de la prestación del contrato el adjudicatario deberá guardar secreto respecto de la 
+misma, sin que pueda divulgarla o publicarla, bien directamente, bien a través de terceras 
+personas o empresas, o ponerlas a disposición de terceros. Esta obligación de confidencialidad 
+
+--- página 39 ---
+39
+CORTES DE CASTILLA Y LE ÓN
+tiene carácter de indefinido, subsistiendo a la finalización del presente contrato por cualquier 
+causa, sin que se pueda divulgar o publicar.
+La empresa adjudicataria se compromete a comunicar y a hacer cumplir al personal a su cargo 
+y contratado por su cuenta, las obligaciones establecidas en el presente contrato.
+Ninguna de las partes asume responsabilidad alguna por cualquier incumplimiento de la 
+normativa vigente de protección de datos por la otra parte. En el caso de que la empresa 
+adjudicataria comunique los datos o los utilice incumpliendo las estipulaciones del presente 
+contrato responderá de las acciones en que hubiera incurrido personalmente. Bajo ninguna 
+circunstancia el contratista podrá suministrar a terceros, ni tan siquiera a efectos de 
+conservación, ni utilizar para sí ni para otros, los datos facilita dos por las Cortes de Castilla y 
+León para fines distintos a los contemplados en el objeto del presente contrato.
+El contratista estará obligado de conformidad con lo establecido en la cláusula 21 a poner en 
+conocimiento de las Cortes de Castilla y León inmediatamente después de ser detectado, 
+cualquier eventual fallo o error que se pueda producir en el sistema de seguridad de la 
+información.
+El contratista será responsable de los costes derivados de posibles reclamaciones ocasionadas 
+por negligencia o falta de confidencialidad por su actuación o la de cualquier persona que actúe 
+por su cuenta (del contratista).
+El incumplimiento de las obligaciones señaladas anteriormente posibilitará que las Cortes de 
+Castilla y León pueda llevar a cabo las acciones oportunas para exigir las responsabilidades de 
+tipo civil y penal a que hubiere lugar.
+El contratista antes de comenzar la ejecución del contrato deberá notificar a las Cortes de 
+Castilla y León el nombre de la persona o personas que, sin perjuicio de la responsabilidad 
+propia de la empresa, estarán autorizadas en las relaciones con las Cortes de Castilla y León, a 
+efectos del uso correcto del material y de la información a manejar.
+23.2.- Protección de datos de carácter personal
+El adjudicatario deberá cumplir expresamente la obligación de respetar la normativa vigente en 
+materia de protección de datos y cumplir íntegramente lo expresado en relación a la protección 
+de datos en toda la LCSP y en especial, en los artículos 35, 122.2, 133, 202, y 215 de dicha Ley.
+De conformidad con la Disposición adicional 25ª de la Ley 9/2017, de 8 de noviembre, de 
+Contratos del Sector Público (LCSP), por la que se transponen al ordenamiento jurídico español 
+las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de 
+febrero de 2014, los contratos que impliquen el tratamiento de datos de carácter personal 
+deberán respetar en su integridad el Reglamento (UE) 2016/679 del Parlamento Europeo y del 
+Consejo, de 27 de abril de 2016,relativo a la protección de las personas físicas en lo que respecta 
+al tratamiento de datos personales (RGPD), y la normativa complementaria, en particular, la 
+
+--- página 40 ---
+40
+CORTES DE CASTILLA Y LE ÓN
+LO 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos 
+digitales.
+Para el caso de que la contratación implique el acceso del contratista a datos de carácter personal 
+de cuyo tratamiento sea responsable la entidad contratante (Cortes de Castilla y León) aquél 
+tendrá la consideración de encargado del tratamiento.
+En todo caso el contratista deberá tener en cuenta las siguientes reglas:
+Los datos personales objeto del tratamiento serán utilizados, única y exclusivamente, para la 
+realización del objeto del contrato, no pudiendo ser destinados a finalidad distinta a la señalada.
+El Contratista únicamente tratará los datos conforme a las instrucciones del responsable del 
+tratamiento. A estos efectos deberá, en su caso:
+a) Tratar los Datos Personales de conformidad con los criterios de seguridad y el contenido 
+previsto en el artículo 32 del RGPD, así como observar y adoptar las medidas técnicas y 
+organizativas de seguridad necesarias o convenientes para asegurar la confidencialidad, 
+secreto e integridad de los Datos Personales a los que tenga acceso.
+b) Mantener la más absoluta confidencialidad sobre los Datos Personales a los que tenga 
+acceso para la ejecución del contrato, así como sobre los que resulten de su tratamiento, 
+cualquiera que sea el soporte en el que se hubieren obtenido. Esta obligación se extiende a 
+toda persona que pudiera intervenir en cualquier fase del tratamiento por cuenta del 
+adjudicatario, siendo deber del adjudicatario instruir a las personas que de él dependan, de 
+este deber de secreto, y del mantenimiento de dicho deber aún después de la terminación 
+de la prestación del suministro o de su desvinculación.
+c) Garantizar la formación necesaria en materia de protección de Datos Personales de las 
+personas autorizadas a su tratamiento.
+d) Salvo que cuente en cada caso con la autorización expresa del responsable del Tratamiento, 
+no comunicar, ceder, ni difundir los Datos Personales a terceros, ni siquiera para su 
+conservación.
+Una vez finalizada la prestación contractual objeto del presente Pliego, el contratista se 
+compromete, según corresponda y se instruya, a devolver o destruir los Datos Personales a los 
+que haya tenido acceso; los Datos Personales generados por el adjudicatario por causa del 
+tratamiento; y los soportes y documentos en que cualquiera de estos datos conste, sin conservar 
+copia alguna; salvo que se permita o requiera por ley o por norma de derecho comunitario su 
+conservación, en cuyo caso no procederá la destrucción. El Encargado del Tratamiento podrá, 
+no obstante, conservar los datos durante el tiempo que puedan derivarse responsabilidades de 
+su relación con el responsable del Tratamiento. En este último caso, los Datos Personales se 
+conservarán bloqueados y por el tiempo mínimo, destruyéndose de forma segura y definitiva al 
+final de dicho plazo.
+
+--- página 41 ---
+41
+CORTES DE CASTILLA Y LE ÓN
+El adjudicatario deberá informar a sus trabajadores de que el sistema de videovigilancia puede 
+llegar a usarse al objeto de verificación del horario de trabajo.
+El adjudicatario faculta a las Cortes de Castilla y León a realizar controles, por sí misma, o 
+mediante la empresa adjudicataria del contrato de seguridad, durante el periodo de vigencia del 
+contrato para verificar el horario de trabajo, y el cumplimiento de las medidas de seguridad 
+establecidas. 
+El adjudicatario autoriza a las Cortes de Castilla y León a ceder a terceros los datos de los 
+horarios de los trabajadores que realicen labores en la Sede.
+24.- GASTOS E IMPUESTOS POR CUENTA DEL CONTRATISTA
+24.1.- Son de cuenta del contratista todos los gastos derivados de formalización del contrato, si 
+éste se elevare a escritura pública. Los citados gastos se descontarán en el primer pago efectuado 
+a favor del contratista, salvo que el mismo acredite el ingreso del coste de aquellos en la 
+Tesorería de las Cortes de Castilla y León.
+24.2.- Tanto en las proposiciones presentadas por los licitadores, como en los presupuestos de 
+adjudicación se entienden comprendidos todas las tasas e impuestos, directos e indirectos, y 
+arbitrios municipales que graven la ejecución del contrato, que correrán por cuenta del 
+contratista.
+Se consideran también incluidos en la proposición del adjudicatario y en el precio del contrato 
+todos los gastos que resultaren necesarios para la ejecución del contrato.
+25.- ABONOS AL CONTRATISTA
+25.1.- Las facturas se abonarán mensualmente, una vez que seacredite por parte del responsable 
+del contrato la prestación y/o suministros objeto de la presente licitación, requiriendo, cuando 
+corresponda, la realización de las prestaciones contratadas y la subsanación de los defectos 
+observados con ocasión de la ejecución, requiriéndose la conformidad del responsable del 
+contrato para su tramitación.
+El pago del precio se realizará previa presentación de la correspondiente factura, expedida de 
+acuerdo con la normativa vigente, en el Registro General de las Cortes de Castilla y León, o en 
+el punto general de entrada de facturas electrónicas del registro contable de las Cortes de 
+Castilla y León. 
+Asimismo, el responsable del contrato podrá requerir la presentación del certificado de estar al 
+corriente de pagos de los Seguros Sociales de los trabajadores con la Tesorería General de la 
+Seguridad Social así como de estar al corriente de pagos con la Agencia Tributaria.
+25.2.- La factura será expedida de acuerdo con la normativa vigente, debidamente conformada 
+por el responsable del contrato. Las Cortes de Castilla y León deberán abonar el importe de las 
+
+--- página 42 ---
+42
+CORTES DE CASTILLA Y LE ÓN
+facturas dentro de los treinta días siguientes a la fecha de expedición de los documentos que 
+acrediten la realización del contrato.
+25.3.- El adjudicatario podrá ceder a un tercero, por cualquiera de los medios legalmente 
+establecidos, su derecho a cobrar el precio del contrato, pero para que dicha cesión surta efectos, 
+y las Cortes de Castilla y León expidan el mandamiento de pago a favor d el cesionario, es 
+preciso que se le notifique fehacientemente a esta última el acuerdo de cesión.
+25.4.- Facturación electrónica
+25.4.1.- El punto general de entrada de facturas electrónicas será la plataforma FACe.
+25.4.2.- A los efectos del cumplimiento de lo previsto en la disposición adicional trigésima 
+segunda de la LCSP, en relación con la facturación de los contratos, a continuación, se 
+identifican las unidades administrativas:
+La identificación del órgano administrativo con competencias en materia de contabilidad: 
+Intervención General de las Cortes de Castilla y León. 
+La identificación del órgano de contratación: Mesa de las Cortes de Castilla y León.
+Unidad tramitadora: Secretaría General.
+La identificación del destinatario: responsable del contrato nombrado según establece el 
+presente pliego.
+Siendo el Código DIR3: I00000228.
+25.4.3.- Podrán expedir y remitir factura electrónica en sus relaciones con las Cortes de Castilla 
+y León todas las empresas con contrato con las Cortes de Castilla y León, estando obligados, 
+en todo caso, al uso de la factura electrónica, las entidades a las que se refiere el artículo 4 de 
+la Ley 25/2013, salvo para las facturas cuyo importe sea igual o inferior a 5.000 euros, que 
+podrán seguir siendo emitidas en soporte papel.
+25.4.4.- La presentación de facturas por el proveedor a través de este servicio podrá realizarse 
+mediante un representante del proveedor si así lo permite la normativa específica, o, en su 
+defecto, la normativa reguladora de las obligaciones de facturación, y, en todo caso, de 
+conformidad con lo previsto en la normativa que resulte de aplicación.
+26.- CUMPLIMIENTO DE LOS PLAZOS DE LA EJECUCIÓN DEL 
+OBJETO DEL CONTRATO, PENALIDADES
+El contratista está obligado a cumplir los plazos de ejecución derivados de la sustanciación de 
+los compromisos que incluya en su oferta, debidamente ajustados conforme a lo indicado en los 
+Pliegos. A estos efectos, los compromisos de tiempo de respuesta ante incidencias detallados 
+en los Pliegos e incluidos en la oferta se consideran plazos de ejecución del contrato.
+
+--- página 43 ---
+43
+CORTES DE CASTILLA Y LE ÓN
+Cada vez que las penalidades por demora alcancen un múltiplo del 5 por 100 del precio del 
+contrato, el órgano de contratación estará facultado para proceder a la resolución del mismo 
+según lo dispuesto en el artículo 211.1 d) de la LCSP o acordar la continuidad de su ejecución 
+con imposición de nuevas penalidades.
+La opción por la imposición de penalidad no impide que, posteriormente, si persiste el retraso 
+se opte por la resolución del contrato.
+Si se produjera retraso en el cumplimiento de los plazos por causas no imputables al contratista, 
+las Cortes de Castilla y León podrán a petición de éste o de oficio, conceder la prórroga por un 
+tiempo igual al tiempo perdido, salvo que el contratista solicite otro menor, de acuerdo con lo 
+dispuesto en el artículo 195 de la LCSP.
+Las Cortes de Castilla y León podrán excepcionar el cumplimiento de ciertos plazos siempre 
+que estos se deriven de causas de fuerza mayor no imputables al contratista y que éste 
+proporcione las alternativas y los medios para paliar las consecuencias de dichos 
+incumplimientos.
+Tras realizar una comunicación por escrito mediante E -mail solicitando una intervención, sin 
+que esta tenga lugar, o no se realice adecuadamente corresponderá la siguiente tabla de 
+penalizaciones:
+INCUMPLIMIENTO PENALIZACIÓN
+Incumplimiento de plazos comprometidos 
+en lo referente a niveles de calidad de 
+servicio sobre sistemas críticos, siempre 
+que conlleven la suspensión o el 
+aplazamiento a otra jornada de actividad 
+de índole parlamentaria ya convocada.
+Penalización de hasta el 0,5% del importe 
+de adjudicación por cada hora completa de 
+suspensión de la actividad posterior al 
+incumplimiento del nivel de calidad de 
+servicio aplicable.
+Incumplimiento de plazos comprometidos 
+en lo referente a niveles de calidad de 
+servicio sobre sistemas críticos, siempre 
+que no conlleven la suspensión o el 
+aplazamiento a otra jornada de actividad 
+de índole parlamentaria ya convocada.
+Penalización de hasta el 0,5% del importe 
+de adjudicación por cada ocho horas de 
+incumplimiento del compromiso del nivel 
+de calidad de servicio aplicable.
+Incumplimientos reiterados de plazos 
+comprometidos en lo referente a niveles 
+de calidad de servicio sobre sistemas 
+ordinarios.
+Penalización de hasta el 0,25% del 
+importe de adjudicación por cada día de 
+incumplimiento, con un máximo del 1% 
+por cada incidente distinto, habiendo 
+mediado apercibimiento por escrito en dos 
+incumplimientos anteriores.
+Incumplimientos reiterados de los plazos 
+de comprometidos en lo referente a 
+Resolución del contrato en base al artículo 
+211 1 d) de la LCSP o aceptación por el 
+
+--- página 44 ---
+44
+CORTES DE CASTILLA Y LE ÓN
+niveles de calidad de servicio que 
+acumuladamente hayan supuesto 
+penalizaciones de hasta el 5% del importe 
+de la adjudicación durante la vigencia del 
+contrato o sus posibles prórrogas.
+adjudicatario de compromisos adicionales 
+que permitan asegurar, a juicio de Cortes 
+de Castilla y León, que los 
+incumplimientos no seguirán 
+produciéndose.
+27.- CUMPLIMIENTO DEFECTUOSO O INCUMPLIMIENTO
+PARCIAL. IMPOSICIÓN DE PENALIDADES
+Sin perjuicio de la obligación de reparación de defectos e indemnización por daños y perjuicios 
+que legalmente incumbe a la adjudicataria y de la posibilidad de resolver el contrato prevista en 
+la LCSP, el órgano de contratación podrá imponer al contratista penalidades por cumplimiento 
+defectuoso o incumplimiento parcial, con los importes y mediante el procedimiento más abajo 
+regulado.
+27.1.- Causas e importes
+El incumplimiento de compromisos asumidos a través de la oferta que se han tomado en 
+consideración como criterio de valoración conllevará la imposición de penalidades entre el 1 % 
+y el 10 % del precio cierto del contrato, en función de la gravedad del incumplimiento y, en su 
+caso, su reiteración.
+El incumplimiento de las obligaciones contractuales esenciales o de las condiciones especiales 
+de ejecución definidas en el presente pliego conllevará la resolución del contrato según lo 
+dispuesto en el artículo 211.1.f) de la LCSP o bien la imposición depenalidades entre un 1 % y 
+10 % del precio cierto del contrato, en función de la gravedad del incumplimiento y, en su caso,
+de su reiteración.
+Los importes de las penalidades se harán efectivos mediante deducción de los mismos en la 
+factura en que se produzca el incumplimiento. La garantía definitiva responderá también de la 
+efectividad de aquellos.
+27.2.- Procedimiento
+La imposición de penalidades se acordará mediante resolución del órgano de contratación y el 
+procedimiento para acordarla incluye las siguientes actuaciones:
+Informe del responsable del contrato en el que se identifiquen los incumplimientos
+detectados y se proponga el importe de la penalidad.
+Audiencia al contratista por espacio de 5 días hábiles para que formule las alegaciones que 
+considere oportunas.
+Resolución del órgano de contratación.
+
+--- página 45 ---
+45
+CORTES DE CASTILLA Y LE ÓN
+Recaudación de las cantidades mediante su deducción de las cantidades que, en concepto 
+de pago total o parcial, deban abonarse al contratista o sobre la garantía que, en su caso, se 
+hubiese constituido, cuando no puedan deducirse de los mencionados pagos.
+CAPÍTULO IV. SUBCONTRATACIÓN
+28.- SUBCONTRATACIÓN
+En la presente contratación no será posible la subcontratación de la ejecución total o parcial de 
+las prestaciones objeto del contrato.
+CAPÍTULO V. MODIFICACIÓN DEL CONTRATO
+29.- MODIFICACIÓN DEL CONTRATO
+No se prevé la modificación de contrato en esta licitación.
+30.- SUSPENSIÓN DEL CONTRATO
+30.1.- Si las Cortes de Castilla y León acordasen la suspensión del contrato se levantará un acta 
+en la que se consignarán las circunstancias que la han motivado y la situación de hecho en la 
+ejecución de aquel.
+30.2.- Acordada la suspensión, las Cortes de Castilla y León abonarán al contratista, en su caso, 
+los daños y perjuicios efectivamente sufridos por este, los cuales se cifrarán con arreglo a lo 
+dispuesto en el artículo 208 de la LCSP.
+CAPÍTULO VI. FINALIZACIÓN DEL CONTRATO
+31.- CUMPLIMIENTO DEL CONTRATO
+31.1.- El contrato se entenderá cumplido por el contratista cuando este haya realizado la 
+totalidad de su objeto, de conformidad con lo establecido en este pliego y en el pliego de 
+prescripciones técnicas y a satisfacción de las Cortes de Castilla y León, cuya conformidad se 
+hará constar de forma expresa mediante acto formal y positivo de recepción o conformidad 
+dentro del plazo de un mes desde la realización del objeto del contrato, de acuerdo con lo 
+establecido en el artículo 210 de la LCSP.
+31.2.- Si el objeto del contrato no se ha realizado a satisfacción de las Cortes de Castilla y León, 
+se dejará constancia expresa de tal circunstancia y se darán las instrucciones precisas al 
+contratista para que subsane los defectos observados o proceda a una nu eva ejecución de 
+conformidad con lo pactado, en el plazo de 15 días hábiles. Si pese a ello los trabajos efectuados 
+no se adecuan a la prestación contratada, como consecuencia de vicios o defectos imputables al 
+contratista, las Cortes de Castilla y León podrán rechazarla, quedando exenta de la obligación 
+de pago y teniendo derecho, en su caso, a la recuperación del precio satisfecho hasta entonces.
+
+--- página 46 ---
+46
+CORTES DE CASTILLA Y LE ÓN
+32.- RESOLUCIÓN Y EXTINCIÓN DEL CONTRATO
+Además de en los supuestos de cumplimiento, el contrato se extinguirá por su resolución, 
+acordada por la concurrencia de alguna de las causas previstas en los artículos 211 y 306 y 308
+o 313.1 de la LCSP, según se trate de suministros o servicios, de acuerdo con lo dispuesto en el 
+artículo 212 de la LCSP y dando lugar a los efectos previstos en el artículo 213 y 307 o 313 
+según se trate de suministros o servicios de la LCSP.
+Producirá igualmente la resolución del contrato el incumplimiento por el contratista de la 
+obligación de guardar sigilo respecto a los datos o antecedentes que, no siendo públicos o 
+notorios, estén relacionados con el objeto del contrato y hayan llegado a su conocimiento con 
+ocasión del mismo.
+33.- PLAZO DE GARANTÍA Y DEVOLUCIÓN O CANCELACIÓN DE LA
+GARANTÍA
+En relación con las prestaciones objeto del presente contrato y en lo que se refiere al plazo de 
+garantía, se establece en tres meses desde la finalización del contrato. La devolución de la 
+garantía se hará efectiva una vez transcurrido el plazo de garantía fijado y cumplida la totalidad 
+de las prescripciones del pliego de prescripciones técnicas en su totalidad y de conformidadcon 
+lo previsto en el artículo 111 de LCSP.
+
+--- página 47 ---
+47
+CORTES DE CASTILLA Y LE ÓN
+ANEXO I
+CONTRATO DE SERVICIO
+MODELO DE PROPOSICIÓN ECONÓMICA
+A: MESA DE LAS CORTES DE CASTILLA Y LEÓN
+Don _______________________________________, con DNI o documento que lo sustituya 
+número _____________, con domicilio en ______________, número _______, población 
+______________ y provincia ___________________, ( en el caso de actuar en representación , 
+como apoderado de _____________________________________________________, con 
+domicilio en _________________________________________, número _______, población 
+_________________________ y provincia ______________, y CIF __________), invitado para 
+participar en el procedimiento _______________________ y enterado de las condiciones y 
+requisitos para concurrir al procedimiento abierto para la contratación del “ Servicio de 
+mantenimiento y operación de los sistema s de seguridad informática y de red de las Cortes 
+de Castilla y León”, con número de expediente PA5/2026, y aceptando íntegramente el contenido 
+de los mismos, en nombre de _______________________________________ (propio o de la/s 
+persona/s o entidad/es que representa especificando en este último caso sus circunstancias), se 
+compromete a ejecutar el contrato de referencia con la siguiente oferta:
+Oferta económica:
+IMPORTE sin impuestos 
+1.- Precio de la oferta (un año)
+SÍ o NO
+2. Inclusión de certificado de partner de fabricante de Firewall de la capa externa.
+3. Inclusión de certificado de partner de fabricante de Firewall de la capa interna.
+4. Inclusión de certificado de partner de fabricante del equipamiento principal de 
+la red actual.
+5. Inclusión de certificado de partner de fabricante del equipamiento principal de 
+la red cableada a implantar.
+
+--- página 48 ---
+48
+CORTES DE CASTILLA Y LE ÓN
+6. Inclusión de certificado de partner de fabricante del equipamiento principal de 
+la red wifi a implantar.
+7. Inclusión de certificado de partner de fabricante del sistema de protección de 
+los endpoints. 
+8. Inclusión de certificado de partner de fabricante del sistema de copias. 
+Nota: Las cantidades deberán indicarse de forma clara y sin que se pueda dar cualquier tipo de 
+duda en cuanto al significado de ningún término. En caso de producirse dicha duda, esto 
+implicará el rechazo de la oferta.
+Firma electrónica
+
+--- página 49 ---
+49
+CORTES DE CASTILLA Y LE ÓN
+ANEXO II
+DATOS IDENTIFICATIVOS DEL LICITADOR A EFECTOS DE 
+REQUERIMIENTOS, NOTIFICACIONES Y COMUNICACIONES
+D/Dña. _______________________________________ con DNI ______________ en nombre 
+propio o de la persona física / jurídica a la que representa _____________________ (póngase 
+la razón social de la empresa), con NIF _______________, lo que acredito en la forma prevista 
+en el pliego de cláusulas administrativas particulares en la licitación del expediente “Servicio 
+de mantenimiento y operación de los sistemas de seguridad informática y de red de las 
+Cortes de Castilla y León ”, con número de expediente PA5/2026 de las Cortes de Castilla y 
+León, manifiesta que los datos para practicar en esta licitación toda clase de requerimientos, 
+comunicaciones y notificaciones con los efectos jurídicos establecidos por la LCSP, son los 
+siguientes:
+Nombre de la empresa:
+Nombre del representante de la empresa:
+DNI del representante de la empresa:
+Dirección sede social de la empresa (calle, n.º, 
+piso, código postal, población y provincia):
+C.I.F. de la empresa:
+Correo electrónico a efectos de notificaciones:
+Teléfono de contacto:
+Teléfono móvil de contacto:
+Nota: Téngase en cuenta que los requerimientos, comunicaciones y notificaciones, se 
+efectuarán a la dirección de correo electrónico por Vd. indicada. En cualquier momento podrá 
+renunciar a estos medios de comunicación preferentes según establece la Ley 39/2015 de 
+Procedimiento Administrativo Común de las Administraciones Públicas.
+Lugar, fecha y firma.
+Nota: En caso de tener intención de formar una UTE, se deberá presentar un Anexo II, por cada 
+una de las empresas que formarían dicha unión.
+
+--- página 50 ---
+50
+CORTES DE CASTILLA Y LE ÓN
+ANEXO III
+DECLARACIÓN EXPRESA RESPONSABLE DE EMPRESAS VINCULADAS
+D./Dña. ______________________________________________________, con domicilio en 
+_______________, calle _________________________________________________, y con 
+DNI ______________, en nombre _____________________________ (propio o de la persona, 
+entidad o empresa que representa), con domicilio a efectos de notificaciones en 
+_____________________, calle _____________________, CP _______ , teléfono _________
+y CIF _______________
+DECLARA
+Que, en relación con el expediente de referencia (PA5/2026), manifiesta y declara
+responsablemente:
+Señalar con una “X”
+Que las empresas o sociedades a las que represento no 
+pertenecen a un grupo empresarial, según los criterios a que se 
+refiere el artículo 42 del código de comercio a los efectos de 
+dar cumplimiento a lo establecido en el artículo 86 del 
+Reglamento general de la Ley de Contratos de las 
+Administraciones Públicas. Real Decreto 1098/2001, de 12 de 
+octubre.
+Señalar con una “X”
+Que las empresas o sociedades a las que represento pertenecen 
+a un grupo empresarial, según los criterios a que se refiere el 
+artículo 42 del código de comercio a los efectos de dar 
+cumplimiento a lo establecido en el artículo 86 del Reglamento 
+general de la Ley de Contratos de las Administraciones 
+Públicas. Real Decreto 1098/2001, de 12 de octubre.
+(Lugar, fecha y firma)
+
+--- página 51 ---
+51
+CORTES DE CASTILLA Y LE ÓN
+ANEXO IV
+(D.E.U.C)
+DECLARACIÓN RESPONSABLE DEL CUMPLIMIENTO DE LOS REQUISITOS 
+PREVIOS
+Don/Doña                                                                                                       mayor de edad, con 
+domicilio en __________________________________ y DNInúmero                             actuando 
+en su propio nombre y derecho o en representación de ___________________________ en su 
+calidad de ____________________, con domicilio a efectos de notificaciones en el siguiente 
+correo electrónico ____________________.
+En relación con el expediente del “ Servicio de mantenimiento y operación de los sistemas 
+de seguridad informática y de red de las Cortes de Castilla y León ”, con número de 
+expediente PA5/2026, manifiesta: 
+1º Que la sociedad está válidamente constituida y que conforme a su objeto social puede 
+presentarse a la licitación, así como que el firmante de la declaración ostenta la debida 
+representación para la presentación de la proposición y de aquella.
+2º Que ostenta la capacidad exigida en el pliego de cláusulas administrativas particulares que 
+rigen el presente contrato.
+3º Que no está incursa en prohibición de contratar por sí misma ni por extensión como 
+consecuencia de la aplicación del artículo 71.3 de la Ley de Contratos del Sector Público.
+DECLARO BAJO MI RESPONSABILIDAD
+1.- Estar inscrito en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector 
+Público, o cuando proceda de conformidad con los establecido en el apartado 2 del artículo 96 
+de la Ley de Contratos del Sector Público en el Registro oficial de la Comunidad Autónoma, 
+sin perjuicio de lo dispuesto en la disposición transitoria tercera de la LCSP.
+Sí No
+2.- Declara ostentar la representación de la sociedad que representa, contar con la adecuada 
+solvencia económica, financiera y técnica exigidos, en las condiciones que establece el pliego 
+de cláusulas administrativas particulares y de conformidad con lo establecido en el artículo 141 
+Ley de Contratos del Sector Público o, en su caso, la clasificación correspondiente; contar con 
+las autorizaciones necesarias para ejercer la actividad; y no estar incurso en prohibición de 
+contratar alguna.
+3.- Que la empresa se encuentra al corriente del cumplimiento de las obligaciones tributarias, 
+con la Seguridad Social y la Hacienda Local impuestas por las disposiciones vigentes, 
+autorizando para el supuesto de que resulte seleccionado como licitador clasificado la 
+
+--- página 52 ---
+52
+CORTES DE CASTILLA Y LE ÓN
+incorporación de oficio de certificados telemáticos relativos a estar al corriente del pago en 
+obligaciones tributarias y con la Hacienda Local. 
+4. Cumplir las normas y condiciones fijadas en el convenio colectivo de aplicación, en su caso.
+5.- Haber tenido en cuenta en la elaboración de la oferta las obligaciones derivadas de las 
+disposiciones vigentes en materia de fiscalidad, protección del medio ambiente, protección del 
+empleo, igualdad de género, condiciones de trabajo, prevención de riesgos laborales e inserción 
+socio laboral de las personas con discapacidad, conforme a las exigencias del artículo 129 de la 
+LCSP.
+6.- Que para el caso de ser empresa con 50 o más trabajadores cumple el requisito de que al 
+menos el 2 % de sus empleados son trabajadores con discapacidad.
+7.- Que de conformidad con lo establecido en el artículo 71 de la Ley de Contratos del Sector 
+Público para el caso de ser empresa con 50 o más trabajadores cumple el requisito de contar 
+con un plan de igualdad conforme a lo dispuesto en el artículo 45 de la Ley Orgánica 3/2007, 
+de 22 de marzo, para la igualdad de mujeres y hombres.
+8.- Que de conformidad con lo establecido en el artículo 86.3 del RGLCAP la empresa a la que 
+represento pertenece al siguiente grupo empresarial ________________________ (Solo 
+rellenar en caso afirmativo).
+9.- Que para el caso de empresas extranjeras se someten a la jurisdicción de los juzgados y 
+tribunales españoles de cualquier orden, para todas las incidencias que de modo directo o 
+indirecto le pudiera corresponder.
+10.- El representante de la empresa SE COMPROMETE a mantener absoluta confidencialidad 
+y reserva sobre cualquier dato que pudiera conocer con ocasión de este procedimiento de 
+licitación.
+11.- ¿Es el operador económico una microempresa, una pequeña o una mediana empresa?
+Sí No
+Para que conste, firmo todas las páginas de la presente declaración en
+(Lugar, fecha y firma)
+
+--- página 53 ---
+53
+CORTES DE CASTILLA Y LE ÓN
+ANEXO V
+DECLARACIÓN RESPONSABLE DEL CUMPLIMIENTO DE LA SOLVENCIA 
+TÉCNICA Y PROFESIONAL
+D./Dña. ______________________________________________________, con domicilio en 
+________________, calle _______________________________________________, y con 
+DNI ____________________, en nombre _______________________________ (propio o de 
+la persona, entidad o empresa que representa), con domicilio a efectos de notificaciones en 
+___________________________________, calle __________________________________, 
+CP ___________, teléfono ____________________ y CIF _____________
+DECLARA
+Que cumple la solvencia técnica y profesional en relación tal y como indica la cláusula 16. 12
+del pliego de cláusulas administrativas particulares que rigen en la licitación del “Servicio de 
+mantenimiento y operación de los sistemas de seguridad informática y de red de las Cortes 
+de Castilla y León”, con número de expediente PA5/2026.
+Lugar, fecha y firma.
+
+--- página 54 ---
+54
+CORTES DE CASTILLA Y LE ÓN
+ANEXO VI
+COMPROMISO DE CONFIDENCIALIDAD
+D./Dª. ________________________________, en representación de la mercantil 
+__________________, en lo relativo a la licitación del “ Servicio de mantenimiento y 
+operación de los sistemas de seguridad informática y de red de las Cortes de Castilla y 
+León”, expediente PA5/2026, manifiesta su interés en recibir la información complementaria 
+que, en su caso, pudiera ponerse a disposición de los potenciales licitadores.
+En consecuencia, se compromete a:
+1) Mantener absoluta confidencialidad y reserva sobre cualquier dato - especialmente los 
+de carácter personal y los relativos a la seguridad de las instalaciones, las personas, los 
+servicios y los datos - que pudiera conocer con ocasión de dicho procedimiento de 
+contratación, de la visita a las instalaciones y/o de la entrega de la documentación 
+complementaria que, en su caso, se le pudiera facilitar.
+2) Utilizar los datos y documentación obtenidos únicamente a los efectos de poder realizar 
+la oferta correspondiente a la licitación mencionada.
+3) Destruir todos los datos y la información obtenidos una vez cumplido el propósito para 
+el que fueron recabados.
+Como muestra de los citados compromisos que, en caso de incumplimiento, podrá conllevar la 
+exigencia de las correspondientes responsabilidades en las que se incurra, firma la presente
+En ______________, a ___ de _____________ de _____
+Fdo.
+Lugar, fecha y firma.
+
+--- página 55 ---
+55
+CORTES DE CASTILLA Y LE ÓN
+ANEXO VII
+MODELO DE DESIGNACIÓN COMO CONFIDENCIAL DE INFORMACIONES 
+FACILITADAS POR LA EMPRESA
+D./Dña.______________________________________________________,  con domicilio en 
+________________, calle  ______________________________________, y con DNI 
+____________________, en nombre _______________________________ (propio o de la 
+persona, entidad o empresa que representa), con domicilio a efectos de notificaciones en 
+_____________________________, calle __________________________________, CP 
+___________, teléfono ____________________ y CIF _____________
+DECLARA
+Que, en relación con la documentación aportada en el sobre _______ (indicar el sobre al que se 
+refiere) del expediente número PA5/2025, se consideran confidenciales las siguientes 
+informaciones y aspectos de la oferta por razón de su vinculación a secretos técnicos o 
+comerciales: indicar documentos y razones que justifican el carácter confidencial.
+o (indicar documentos y razones que justifican el carácter confidencial).
+Lugar, fecha y firma electrónica.
+
+--- página 56 ---
+56
+CORTES DE CASTILLA Y LE ÓN
+PROPUESTA DEL SERVICIO DE GESTIÓN ADMINISTRATIVA
+Propuesta de aprobación del pliego de c láusulas administrativas particulares y del pliego de 
+prescripciones t écnicas que regirán en el expediente de contratación del “ Servicio de 
+mantenimiento y operación de los sistemas de seguridad informática y de red de las Cortes 
+de Castilla y León ”, con número de expediente PA5/2026, procedimiento abierto, NO sujeto 
+a regulación armonizada.
+En la sede de las Cortes de Castilla y León, Valladolid
+Firmado por:
+El jefe de la Sección de Contratación, Obras, Mantenimiento y Suministros, Tomás de 
+las Heras Alonso.
+La secretaria general – letrada mayor, Laura Seseña Santos.
+(Documento fechado y firmado electrónicamente en los márgenes)
