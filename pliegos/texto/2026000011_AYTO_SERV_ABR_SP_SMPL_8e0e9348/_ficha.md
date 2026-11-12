@@ -12,6 +12,6 @@
 
 - [Legal] SERVICIOS PASA PCAP.pdf: 01_Legal_SERVICIOS_PASA_PCAP.pdf (433 KB)
 - [Technical] pliego tecnico.pdf: 02_Technical_pliego_tecnico.pdf (174 KB)
-- [Additional] Anexo 2 Declaracion responsable.docx: error HTTP Error 500: Internal Server Error
-- [Additional] Anexo 1.pdf: error HTTP Error 500: Internal Server Error
-- [Additional] Anexo 2 Oferta evaluable automaticamente.docx: error HTTP Error 500: Internal Server Error
+- [Additional] Anexo 2 Declaracion responsable.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] Anexo 1.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Additional] Anexo 2 Oferta evaluable automaticamente.docx: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
