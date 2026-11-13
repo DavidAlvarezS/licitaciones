@@ -1,68 +1,66 @@
-== Prueba de conexión 2026-11-12T15:19:59Z ==
+== Prueba de conexión 2026-11-13T14:38:57Z ==
 HTTP/1.1 200 OK
 Connection: Keep-Alive
-Date: Thu, 12 Nov 2026 15:19:59 GMT
-Last-Modified: Wed, 11 Nov 2026 19:18:20 GMT
-ETag: "376096-660050ed31607"
+Date: Fri, 13 Nov 2026 14:38:57 GMT
+Last-Modified: Thu, 12 Nov 2026 19:18:48 GMT
+ETag: "2cd291-660192e5e71c3"
 Vary: Accept-Encoding
 Content-Type: application/atom+xml
-Set-Cookie: TS0177f194=01448a881b44cbc4da2def6c792e43a8bbfe99c76fd34d28361fa7f22c1023d9e282d168625669c4db51dfd9d905b76b9b2aa4de17; Path=/; Domain=.contrataciondelestado.es
+Set-Cookie: TS0177f194=01448a881bd32dc0fa601b01315e04c64acc44d78d908d917ffdea48c08e511dbaee9de2d0e62afbebc0fe97b121371ef91a7d5bc1; Path=/; Domain=.contrataciondelestado.es
 Transfer-Encoding: chunked
 
-Historial previo: 1448 licitaciones. Modo incremental: se recorre el feed hasta 2026-11-09 20:10.
+Historial previo: 1530 licitaciones. Modo incremental: se recorre el feed hasta 2026-11-10 20:07.
 Descargando página 1 ...
-  página 1: 3544 KB en 16.7s, 136 entradas, fecha más antigua 2026-11-11 16:44
+  página 1: 2868 KB en 4.4s, 109 entradas, fecha más antigua 2026-11-12 16:49
 Descargando página 2 ...
-  página 2: 13960 KB en 60.0s, 635 entradas, fecha más antigua 2026-11-11 13:53
+  página 2: 13978 KB en 26.7s, 607 entradas, fecha más antigua 2026-11-12 14:03
 Descargando página 3 ...
-  página 3: 15830 KB en 62.5s, 1134 entradas, fecha más antigua 2026-11-11 12:40
+  página 3: 13577 KB en 13.2s, 1107 entradas, fecha más antigua 2026-11-12 12:56
 Descargando página 4 ...
-  página 4: 13617 KB en 54.8s, 1632 entradas, fecha más antigua 2026-11-11 11:15
+  página 4: 15710 KB en 27.7s, 1607 entradas, fecha más antigua 2026-11-12 11:28
 Descargando página 5 ...
-  página 5: 13153 KB en 48.4s, 2132 entradas, fecha más antigua 2026-11-11 10:08
+  página 5: 13846 KB en 20.7s, 2107 entradas, fecha más antigua 2026-11-12 10:06
 Descargando página 6 ...
-  página 6: 16467 KB en 56.4s, 2632 entradas, fecha más antigua 2026-11-11 09:04
+  página 6: 15343 KB en 21.5s, 2607 entradas, fecha más antigua 2026-11-12 08:58
 Descargando página 7 ...
-  página 7: 15228 KB en 60.8s, 3129 entradas, fecha más antigua 2026-11-10 18:52
+  página 7: 13972 KB en 15.0s, 3097 entradas, fecha más antigua 2026-11-11 16:44
 Descargando página 8 ...
-  página 8: 14469 KB en 46.5s, 3575 entradas, fecha más antigua 2026-11-10 14:21
+  página 8: 13963 KB en 16.8s, 3557 entradas, fecha más antigua 2026-11-11 13:53
 Descargando página 9 ...
-  página 9: 14656 KB en 50.6s, 4034 entradas, fecha más antigua 2026-11-10 13:25
+  página 9: 15830 KB en 11.9s, 4010 entradas, fecha más antigua 2026-11-11 12:40
 Descargando página 10 ...
-  página 10: 15843 KB en 55.9s, 4483 entradas, fecha más antigua 2026-11-10 12:17
+  página 10: 13617 KB en 18.3s, 4461 entradas, fecha más antigua 2026-11-11 11:15
 Descargando página 11 ...
-  página 11: 13776 KB en 41.2s, 4943 entradas, fecha más antigua 2026-11-10 10:45
+  página 11: 13153 KB en 18.3s, 4934 entradas, fecha más antigua 2026-11-11 10:08
 Descargando página 12 ...
-  página 12: 15462 KB en 52.7s, 5391 entradas, fecha más antigua 2026-11-10 09:26
+  página 12: 16467 KB en 19.7s, 5385 entradas, fecha más antigua 2026-11-11 09:04
 Descargando página 13 ...
-  página 13: 15000 KB en 87.5s, 5852 entradas, fecha más antigua 2026-11-10 08:04
-Descargando página 14 ...
-  página 14: 14463 KB en 79.0s, 6280 entradas, fecha más antigua 2026-11-09 14:03
+  página 13: 15228 KB en 11.5s, 5854 entradas, fecha más antigua 2026-11-10 18:52
 Se alcanzó la fecha objetivo.
-Historial guardado: 1530 licitaciones. Cobertura desde 2026-10-21T10:33:44.716000+02:00.
-Entradas leídas: 6280
+Historial guardado: 1597 licitaciones. Cobertura desde 2026-10-21T10:33:44.716000+02:00.
+Entradas leídas: 5854
 --- Diagnóstico ---
-Fechas 'updated': de 2026-11-09T14:03:48.300+01:00 a 2026-11-11T20:07:06.443+01:00
-Por estado: {'ADJ': 1018, 'EV': 1766, 'PUB': 1411, 'RES': 2052, 'ANUL': 9, 'PRE': 24}
-Sin CPV: 24 | Sin NUTS: 12 | Sin importe: 0 | Sin fin de plazo: 492
-CPV ['72']: 304 | NUTS []: 0 | ambos: 0
-Ejemplos de NUTS: [('ES300', 976), ('ES523', 412), ('ES618', 251), ('ES521', 237), ('ES617', 221), ('ES', 214), ('ES612', 185), ('ES620', 175)]
-Entradas con documentos: 5672 de 6280; ejemplo: [{'tipo': 'Legal', 'nombre': '675136-PliegodeClusulasAdmini-001001PCA_STD_CA.pdf', 'uri': 'https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=gY2RF%2BtBqCFNj4UMEWzq3M207hAnNVndrLUV1eC92x2VWpId5b0NixSWLA1i7X%2BOQmGzBm6aruxOYIhCGsg%2Bb0D/OFQ9jayxlJHdCtBi%2B9XVTD3T98KC0nSgQFM0q%2B5s'}, {'tipo': 'Technical', 'nombre': '673419-PliegodePrescripciones-001001PPT_STD_OE.pdf', 'uri': 'https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=I8voOPC1ZakYtvTLSE2tha9OgWXHMmBYvUHIS1zMP7DS7HcQsXM9S3DMh4ik7dZUS%2BSlUqR6%2BDhS7TgdvYDOFCXxc%2BlNz7cV5%2B/urkR5XhV45ClyWkoJ44mKM70IFcOu'}]
-Ejemplos de fin_plazo: ['2026-09-29 10:00:00', '2026-11-08 23:59:00', '2026-11-25 23:59:00', '2026-11-03 23:59:00']
-Ejemplo de entrada: {'expediente': '34-05/26O', 'estado': 'ADJ', 'cpv': '45000000,45310000,45331200,45421100', 'lugar_nuts': 'ES709', 'importe_sin_iva': '530386.33', 'fin_plazo': '2026-09-29 10:00:00'}
+Fechas 'updated': de 2026-11-10T18:52:30.581+01:00 a 2026-11-12T19:57:52.639+01:00
+Por estado: {'PUB': 1322, 'RES': 1961, 'EV': 1545, 'ANUL': 5, 'ADJ': 995, 'PRE': 26}
+Sin CPV: 25 | Sin NUTS: 6 | Sin importe: 0 | Sin fin de plazo: 511
+CPV ['72']: 277 | NUTS []: 0 | ambos: 0
+Ejemplos de NUTS: [('ES300', 1042), ('ES523', 385), ('ES618', 237), ('ES521', 228), ('ES', 219), ('ES617', 208), ('ES120', 162), ('ES612', 155)]
+Entradas con documentos: 5228 de 5854; ejemplo: [{'tipo': 'Legal', 'nombre': 'PCAP.pdf', 'uri': 'https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=ppUPDR1oltHrHXobsXds2GSO5edGzgOu9lFRdiEHkXNALvdA6tl5WODK6K/8nsD68ovyx/NsQ499CS0BKv5LvkUOLwMAkEKLFosLW168BSAZyAJWGsSt0OzTSTyw9JAs'}, {'tipo': 'Technical', 'nombre': 'MovementoTerrasPIparcela11A.pdf', 'uri': 'https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=XHqfdeAeRuR%2Bs5z5svdDxXZf2Br8ZKeWEBtJEVD9GiOnyIqqqhlIr4ojcq4I0PZpndXekGw89teT9Wqat/0WwPvPEN0tRVwmVR%2B6xvUgobmCx2e6p7hqtlp2aFupgHMr'}]
+Ejemplos de fin_plazo: ['2026-12-02 23:59:00', '2026-11-09 13:00:00', '2026-11-27 23:59:00', '2026-09-28 14:01:00']
+Ejemplo de entrada: {'expediente': '2026/C003/000010', 'estado': 'PUB', 'cpv': '45112500', 'lugar_nuts': 'ES111', 'importe_sin_iva': '97266.05', 'fin_plazo': '2026-12-02 23:59:00'}
 Muestra guardada en muestra_entradas.csv
-Licitaciones que cumplen los filtros: 86 -> licitaciones_filtradas.csv
-[menores] primera página: 403 entradas
-[menores] fin: 5 páginas, 2400 entradas, 54 TIC nuevas/actualizadas, enlazado=True
-[cpm] primera página: 474 entradas
-[cpm] fin: 1 páginas, 474 entradas, 60 TIC nuevas/actualizadas, enlazado=True
-[agregadas] primera página: 191 entradas
-[agregadas] fin: 3 páginas, 1138 entradas, 104 TIC nuevas/actualizadas, enlazado=True
-  contratos_menores_software.csv: 1466 filas
+Licitaciones que cumplen los filtros: 89 -> licitaciones_filtradas.csv
+[menores] primera página: 399 entradas
+[menores] fin: 5 páginas, 2395 entradas, 63 TIC nuevas/actualizadas, enlazado=True
+[cpm] primera página: 477 entradas
+[cpm] fin: 1 páginas, 477 entradas, 60 TIC nuevas/actualizadas, enlazado=True
+[agregadas] primera página: 502 entradas
+[agregadas] fin: 3 páginas, 1411 entradas, 121 TIC nuevas/actualizadas, enlazado=True
+  contratos_menores_software.csv: 1508 filas
   ranking_menores_galicia.csv: 14 filas
   consultas_preliminares_tic.csv: 60 filas
-  licitaciones_autonomicas.csv: 68 filas
-Licitaciones a procesar: 86
+  licitaciones_autonomicas.csv: 65 filas
+Licitaciones a procesar: 89
 Sesión iniciada, cookies: ['JSESSIONID', 'TS0177f194']
   ERR 62/26-C                   https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
   ERR 62/26-C                   https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
@@ -76,19 +74,25 @@ Sesión iniciada, cookies: ['JSESSIONID', 'TS0177f194']
   ERR SC/12/2026                https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
   ERR SC/12/2026                https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
   ERR SC/12/2026                https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
+  ERR 26 042 SR RR NE AB21      https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
+  ERR 26 042 SR RR NE AB21      https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
+  ERR 1354/2026                 https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
+  ERR 1354/2026                 https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
   ERR 2026/EA14/00003860E       https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
   ERR 2026/EA14/00003860E       https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
   ERR PN4/2026                  https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
   ERR PN4/2026                  https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
+  ERR CVA 22/26 Prevención      https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
+  ERR CVA 22/26 Prevención      https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
+  ERR CVA 22/26 Prevención      https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
+  ERR SE/037/26                 https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
+  ERR SE/037/26                 https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
   ERR 68-018255-A0              https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
   ERR 68-018255-A0              https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
   ERR 68-018255-A0              https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
   ERR 68-018255-A0              https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
   ERR 68-018255-A0              https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
   ERR 68-018255-A0              https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
-  ERR 2026000011/AYTO/SERV/ABR_ https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
-  ERR 2026000011/AYTO/SERV/ABR_ https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
-  ERR 2026000011/AYTO/SERV/ABR_ https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
   ERR 033-2026-0329             https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
   ERR 033-2026-0329             https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
   ERR 345/2026                  https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
@@ -97,6 +101,8 @@ Sesión iniciada, cookies: ['JSESSIONID', 'TS0177f194']
   ERR PASA/2026/040/CND         https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
   ERR PASA/2026/040/CND         https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
   ERR PASA/2026/040/CND         https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
+  ERR 033-2026-0344             https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
+  ERR 033-2026-0344             https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
   ERR 4352/2026                 https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
   ERR 4352/2026                 https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
   ERR 6498/2026                 https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
@@ -107,4 +113,18 @@ Sesión iniciada, cookies: ['JSESSIONID', 'TS0177f194']
   ERR 6498/2026                 https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
   ERR 6498/2026                 https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
   ERR 6498/2026                 https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
-Documentos descargados: 0 | con error: 43 | licitaciones sin documentos en el feed: 0
+  ERR 374/2026                  https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
+  ERR 374/2026                  https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
+  ERR 374/2026                  https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
+  ERR 374/2026                  https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
+  ERR 374/2026                  https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
+  ERR 111/2026                  https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
+  ERR 111/2026                  https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
+  ERR N202600610                https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
+  ERR N202600610                https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
+  ERR N202600610                https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
+  ERR N202600610                https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
+  ERR 2026/SP02004000/00000496E https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
+  ERR 2026/SP02004000/00000496E https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
+  ERR 2027-A-05                 https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: [Go Back]»
+Documentos descargados: 0 | con error: 65 | licitaciones sin documentos en el feed: 0
