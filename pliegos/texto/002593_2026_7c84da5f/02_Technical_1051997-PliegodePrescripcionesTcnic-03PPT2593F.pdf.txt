@@ -1,0 +1,619 @@
+
+
+--- página 1 ---
+Carrer de Joan Maragall, 3. 07006 Palma, Illes Balears. www.emaya.es
+EMAYA, Empresa Municipal d’Aigües i Clavegueram S.A. NIF: A-07000029
+Registre Mercantil de Palma, Llibre de Societats, Tom 229, Foli 59, Full 4499. Data: 30 Setembre 1974
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA EL SERVICIO DE RENOVACIÓN DE LICENCIAS Y 
+SOPORTE FORTINET 
+1. Antecedentes.
+EMAYA tiene múltiples puntos de su red en los que hay instalados equipos Fortinet para garantizar la 
+seguridad TI de toda la empresa. Se usan tanto para la protección de la conexión hacia/desde internet como 
+en la parte de protección de servidores internos, redes industriales u oficinas remotas. 
+Para que estos equipos hagan las funciones necesarias y protejan correctamente a los equipos y a la red de 
+EMAYA, manteniéndose actualizados, protegiendo contra amenazas recientes y recibiendo soporte del 
+fabricante en caso de problemas hardware o software de los equipos, EMAYA pretende renovar/contratar 
+las licencias necesarias de todos los equipos del  fabricante Fortinet que ya posee, así como el soporte 
+hardware  y  software  por  parte  del  fabricante  (Fortinet)  para  poder  solventar  posibles  problemas  de 
+configuración, funcionamiento del hardware, licencias, etc
+2. Objeto
+EMAYA pretende renovar las licencias necesarias de todos los equipos del fabricante Fortinet que ya 
+posee, así como el soporte hardware y software por parte del fabricante (Fortinet) para poder solventar 
+posibles problemas de configuración, funcionamiento del hardware, licencias, etc.
+3. Duración del contrato.
+El presente contrato tendrá una duración hasta  el 03/01/2029.
+Por tanto, todos los equipos tendrán una duración del Servicio desde la fecha de inicio contrato indicada 
+para cada equipo en el punto 4 hasta el 03/01/2029.
+4. Características técnicas y calidades del servicio.
+A continuación, se detallan los equipos que tiene EMAYA y las licencias y soportes que se quieren renovar 
+para cada uno de ellos:
+Firmado por: JAIME JIMENEZ
+Cargo: Jefe de infraestructuras DTIC
+Fecha: 06-11-2026 07:37:01
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://compras.emaya.es/licitacion/verificadorCopiaAutentica.do
+Página: 1 de 12
+Código de verificación  : 2fcbec5f12cbf37a
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+https://compras.emaya.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=2fcbec5f12cbf37a
+
+--- página 2 ---
+002593
+Descripcion Cantidad
+Fecha Incio
+Contrato
+Fecha Fin
+Contrato
+Enhanced Support Premium, Telephone Support Premium, Firmware & General Updates 1 20.03.2027 03.01.2029
+Numero serie : FAZ-VM0000089782
+Advanced Malware Protection, FortiGuard IPS Service, FortiGuard URL, DNS & Video Filtering Service, AntiSpam, Enhanced Support Premium, Telephone Support Premium, Hardware Premium, Firmware & General 
+Updates 1 05.02.2027 03.01.2029
+Numero serie : FG120GTK25029332
+Advanced Malware Protection, FortiGuard IPS Service, FortiGuard URL, DNS & Video Filtering Service, AntiSpam, Enhanced Support Premium, Telephone Support Premium, Hardware Premium, Firmware & General 
+Updates 7 10.02.2027 03.01.2029
+Numero serie : FG120GTK25029533,FG120GTK25029571,FG120GTK25029629,FG120GTK25029660,FG120GTK25029717,FG120GTK25029791,FG120GTK25031843
+Advanced Malware Protection, FortiGuard IPS Service, FortiGuard URL, DNS & Video Filtering Service, AntiSpam, Enhanced Support Premium, Telephone Support Premium, Hardware Premium, Firmware & General 
+Updates 2 11.02.2027 03.01.2029
+Numero serie : FG4H0FT925900223,FG4H0FT925900275
+Enhanced Support Essential Service, Hardware 8x5, Firmware & General Updates 2 20.03.2027 03.01.2029
+Numero serie : FGT60FTK20063711,FGT60FTK2209GSPX
+Enhanced Support Essential Service, Hardware 8x5, Firmware & General Updates 1 25.03.2027 03.01.2029
+Numero serie : FGT60FTK20099DQK
+Enhanced Support Essential Service, Hardware 8x5, Firmware & General Updates 1 07.10.2026 03.01.2029
+Numero serie : FGT60FTK2309BYJ9
+Enhanced Support Essential Service, Hardware 8x5, Firmware & General Updates 1 03.01.2027 03.01.2029
+Numero serie : FGT60FTK24058169
+Enhanced Support Essential Service, Hardware 8x5, Firmware & General Updates 1 10.02.2027 03.01.2029
+Numero serie : FGT60FTK25016088
+Enhanced Support Essential Service, Hardware 8x5, Firmware & General Updates 1 09.02.2027 03.01.2029
+Numero serie : FGT60FTK25016131
+Enhanced Support Essential Service, Hardware 8x5, Firmware & General Updates 1 19.01.2027 03.01.2029
+Numero serie : FGT60FTK25021867
+Enhanced Support Essential Service, Hardware 8x5, Firmware & General Updates 1 03.09.2026 03.01.2029
+Numero serie : FGT60FTK25026667
+Advanced Malware Protection, FortiGuard IPS Service, FortiGuard URL, DNS & Video Filtering Service, AntiSpam, Enhanced Support Premium, Telephone Support Premium, Hardware Premium, Firmware & General 
+Updates 2 10.02.2027 03.01.2029
+Numero serie : FGT80FTK25021706,FGT80FTK25022544
+Enhanced Support Premium, Telephone Support Premium, Firmware & General Updates 1 11.01.2027 03.01.2029
+Numero serie : FMG-VMTM26000566
+Enhanced Support Essential Service, Hardware 8x5, Firmware & General Updates 9 17.07.2027 03.01.2029
+Numero serie : FWF60FTK23002623,FWF60FTK23002667,FWF60FTK23002673,FWF60FTK23002684,FWF60FTK23002719,FWF60FTK23002721,FWF60FTK23002742,FWF60FTK23002779,FWF60FTK23002796
+Enhanced Support Essential Service, Hardware 8x5, Firmware & General Updates 1 08.07.2027 03.01.2029
+Numero serie : FWF60FTK24005146
+Enhanced Support Premium, Telephone Support Premium, Hardware Premium, Firmware & General Updates 1 03.09.2026 03.01.2029
+Numero serie : FX511FTQ22018129
+Enhanced Support Premium, Telephone Support Premium, Hardware Premium, Firmware & General Updates 2 17.07.2027 03.01.2029
+Numero serie : S124EPS223001757,S124EPS223001789
+Enhanced Support Essential Service, Hardware 8x5, Firmware & General Updates 1 19.03.2027 03.01.2029
+Numero serie : S124FFTF25022499
+Enhanced Support Essential Service, Hardware 8x5, Firmware & General Updates 2 19.03.2027 03.01.2029
+Numero serie : S148FFTF25019107,S148FFTF25019138
+Enhanced Support Premium, Telephone Support Premium, Hardware Premium, Firmware & General Updates 4 10.02.2027 03.01.2029
+Numero serie : S424ENTF25003815,S424ENTF25003816,S424ENTF25003856,S424ENTF25003870
+Enhanced Support Premium, Telephone Support Premium, Hardware Premium, Firmware & General Updates 2 10.02.2027 03.01.2029
+Numero serie : SR16FPTD25003705,SR16FPTD25003787
+5. Condiciones en que debe ejecutarse el servicio.
+5.1. Condiciones generales. 
+ El adjudicatario tendrá que suministrar las licencias objeto de este contrato y garantizará que el 
+fabricante (Fortinet) dará el soporte hardware y software por problemas de configuración, mal 
+funcionamiento del hardware, licencias, etc. durante toda la duración del contrato. Adicionalmente 
+el adjudicatario asesorará a EMAYA en materias técnicas como configuraciones, arquitectura de 
+red, recomendaciones de productos, etc.
+ El licitador deberá ser partner de Fortinet. De este modo, se garantiza a EMAYA que el proveedor 
+de las licencias está acreditado por el fabricante y que pueda asesorar a EMAYA en materias 
+técnicas relacionadas con estos productos.
+ El adjudicatario hará las gestiones oportunas con el fin de que sea suscrito Acuerdo de 
+Confidencialidad por parte del fabricante – Fortinet, con carácter previo a la entrada en vigor del 
+contrato.
+Firmado por: JAIME JIMENEZ
+Cargo: Jefe de infraestructuras DTIC
+Fecha: 06-11-2026 07:37:01
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://compras.emaya.es/licitacion/verificadorCopiaAutentica.do
+Página: 2 de 12
+Código de verificación  : 2fcbec5f12cbf37a
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+https://compras.emaya.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=2fcbec5f12cbf37a
+
+--- página 3 ---
+002593
+Plan de trabajo: 
+ El plazo de entrega de las licencias será de 10 días hábiles a contar desde la petición formal por 
+parte de EMAYA.
+6. Requisitos  técnicos de  arquitectura  y  seguridad  para  la  adquisición  e  implantación  de  nuevos 
+sistemas o dispositivos.
+Los apartados 6 y 7 del presente Pliego de Prescripciones Técnicas tiene como objeto definir los requisitos 
+técnicos de arquitectura y ciberseguridad para la contratación e implantación de nuevos sistemas, servicios 
+o dispositivos en local (solución on premise), en la red corporativa de EMAYA o como servicio en la nube 
+(solución  cloud  Saas),  así  como  también  la  normativa  de  seguridad  TIC  para  externos  y  empresas 
+adjudicatarias de servicios, respectivamente. De esta forma, en aquellos expedientes de contratación cuyo 
+objeto  contractual  así  lo  requiera,  los  licitadores  deberán  presentar  debidamente  cumplimentado  el 
+correspondiente Anexo IV del Pliego de Cláusulas Particulares.
+6.1. Soluciones on premise
+En este apartado se contemplan las necesidades en cuanto a la adquisición e implantación de nuevos 
+sistemas, plataformas, dispositivos, etc. que deban estar alojados en la red interna de EMAYA.
+6.1.1. Arquitectura y operación
+6.1.1.1. Dispositivos en red IT, OT o IOT
+Aquellos dispositivos hardware que deban ser conectados a la red de comunicaciones corporativa deberán 
+cumplir las siguientes premisas:
+• La conexión del dispositivo a la red de comunicaciones de EMAYA se deberá realizar de forma preferente 
+mediante protocolo TCP/IP y cable Ethernet. Una vez conectado a la red corporativa se le asignará una IP 
+interna de la VLAN que le corresponda.
+• En caso que la opción cableada no sea posible, se puede plantear de forma alternativa la conexión del 
+dispositivo por medios inalámbricos (wifi corporativa, red de datos 4G o red de datos privada de dispositivos 
+M2M). En todos los casos la configuración de red y las medidas de seguridad deberán ceñirse a los 
+protocolos marcados por EMAYA.
+• Si el dispositivo cuenta con conexión inalámbrica, y esta no se requiere para el funcionamiento del mismo, 
+deberá ser desactivada.
+• Si el dispositivo alojado en la red de EMAYA debe comunicarse con sistemas remotos fuera del perímetro 
+de EMAYA, la conexión deberá realizarse de forma segura y cifrada. Por ello, se deberá permitir establecer 
+una conexión VPN IPSEC entre los firewalls perimetrales y los sistemas de seguridad del sitio remoto de 
+conexión.
+• Se debe garantizar el soporte técnico y mantenimiento por parte del fabricante durante todo el ciclo de vida 
+del mismo.
+6.1.1.2 Sistemas o servicios sobre servidores (físicos o virtuales)
+En el caso de sistemas que vayan a ser instalados sobre la infraestructura de servidores de EMAYA, se 
+deben cumplir los siguientes requisitos:
+• La capa de datos y la capa de aplicación deben poder separarse en servidores independientes.
+Firmado por: JAIME JIMENEZ
+Cargo: Jefe de infraestructuras DTIC
+Fecha: 06-11-2026 07:37:01
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://compras.emaya.es/licitacion/verificadorCopiaAutentica.do
+Página: 3 de 12
+Código de verificación  : 2fcbec5f12cbf37a
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+https://compras.emaya.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=2fcbec5f12cbf37a
+
+--- página 4 ---
+002593
+• La capa de base de datos tiene que ser SQL Server.
+• La capa de aplicación debe funcionar sobre IIS + .NET.
+• Debe soportarse en S.O. Windows Server (2019 o superior).
+• Debe proporcionarse un mecanismo de actualización de la solución para la aplicación de parches que 
+permitan la corrección de vulnerabilidades (al menos una vez al año).
+• En caso de sistemas virtualizados, debe ser compatible con la plataforma VMWare.
+• El sistema debe poder disponer de contrato de soporte y mantenimiento del producto durante todo el ciclo 
+de  vida  del  mismo.  En  concreto,  se  debe  asegurar  que  el  producto  ofertado  y  cualquiera  de  los 
+componentes que éste requiera para su funcionamiento dispongan de actualizaciones de seguridad en toda 
+la plataforma.
+6.1.2 Seguridad
+En  el  proceso  de  adquisición  de  nuevos  sistemas o  dispositivos que  deban  ser  conectados  a  la  red 
+corporativa de EMAYA se tienen que contemplar estas directrices generales para garantizar la seguridad y 
+evitar riesgos provocados por una mala configuración de los mismos:
+1. Aplicación de la política de contraseñas corporativa: 
+- Cualquier nuevo dispositivo o sistema conectado a red debe permitir contraseñas robustas según la política 
+de contraseñas definida. No se podrán mantener dispositivos en la red corporativa con las credenciales por 
+defecto, deberán permitir el cambio de la misma.
+2. Usuarios de acceso: 
+- No se podrá hacer uso de usuarios genéricos y se deberán utilizar en su lugar usuarios nominales, a fin de 
+permitir la trazabilidad de los mismos.
+3. Protocolos encriptados: 
+- Cualquier nuevo dispositivo o sistema que se conecte a la red corporativa debe utilizar protocolos seguros 
+para la comunicación, principalmente HTTPS y SSH, y todos aquellos requeridos para sus funciones.
+4. Antivirus: 
+- Cualquier nuevo equipo con sistema operativo Windows o Linux debe permitir la instalación del antivirus 
+corporativo de EMAYA, y no se admitirá su desactivación total o parcial o desinstalación posterior.
+5. Se aplicarán reglas de mínima funcionalidad:
+- El dispositivo o sistema debe ser proporcionado por parte del proveedor únicamente con la funcionalidad 
+requerida para conseguir sus objetivos, y ninguna otra adicional.
+- No se deben activar funcionalidades extra que no sean necesarias, ni abrir más puertos de los estrictamente 
+necesarios.
+- La configuración del dispositivo deberá permitir desactivar las funcionalidades que vienen activadas de serie 
+pero que no son necesarias.
+Firmado por: JAIME JIMENEZ
+Cargo: Jefe de infraestructuras DTIC
+Fecha: 06-11-2026 07:37:01
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://compras.emaya.es/licitacion/verificadorCopiaAutentica.do
+Página: 4 de 12
+Código de verificación  : 2fcbec5f12cbf37a
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+https://compras.emaya.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=2fcbec5f12cbf37a
+
+--- página 5 ---
+002593
+6. Actualizaciones: 
+- Los dispositivos o sistemas deberán permitir la instalación de nuevo firmware y/o actualizaciones de sistema 
+operativo. Además, contarán con el compromiso del fabricante de ir publicando actualizaciones periódicas. 
+Las actualizaciones estarán a disposición de los técnicos de EMAYA independientemente del proveedor 
+adjudicatario del concurso.
+- Cualquier producto o componente del mismo que durante el transcurso de su vida útil deje de disponer de 
+actualizaciones de seguridad deberá ser desinstalado de la infraestructura de EMAYA.
+7. Accesos:
+- Cualquier dispositivo o sistema deberá permitir acceso, local o remoto, por parte de los técnicos de EMAYA 
+para poder ser configurado internamente. No se admitirán aquellos que no puedan ser modificados con 
+permisos de administración por parte de los técnicos de EMAYA.
+8. Sistemas industriales:
+- En el caso de sistemas en entorno industrial (PLC, RTU, HMI, PC en red SCADA, etc.), las credenciales 
+necesarias para acceder con privilegios de administrador y poder:
+• Modificar los parámetros de conexión a la red (IP, DNS etc.)
+• Habilitar/deshabilitar funcionalidades de comunicación
+• Aplicar actualizaciones de firmware/software
+- Deberán facilitarse a EMAYA en el momento de la entrega o puesta en marcha junto con la documentación 
+final del proyecto, que incluirá el código fuente de cada equipo.
+6.2. Soluciones en la nube
+En este caso se contempla la implantación de una solución en formato Saas (Software as a Service) alojada 
+en el cloud, y por tanto fuera de la red corporativa y accesible de forma remota. 
+6.2.1. Arquitectura y operación
+La  arquitectura  del  sistema  debe  contemplar,  al  menos,  los  entornos  de  desarrollo,  preproducción  y 
+producción. En los sistemas en los que el desarrollo de la solución no dependa directamente de EMAYA se 
+aceptará que la arquitectura sólo conste de preproducción y producción. La arquitectura debe garantizar la 
+escalabilidad, disponibilidad, continuidad, integridad y seguridad de todo el entorno.
+Todo sistema en formato SaaS debe cumplir las siguientes características y/o acuerdos de nivel de servicio:
+1. Garantía del nivel de servicio:
+- El dimensionamiento del entorno tecnológico debe tener en cuenta que los sistemas en el entorno de 
+producción tengan un nivel de servicio 24h x 7d, mientras que en los sistemas de desarrollo y preproducción 
+el nivel de servicio deberá ser de 12h x 5d.
+2. Disponibilidad:
+- Disponibilidad del 99.5%.
+Firmado por: JAIME JIMENEZ
+Cargo: Jefe de infraestructuras DTIC
+Fecha: 06-11-2026 07:37:01
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://compras.emaya.es/licitacion/verificadorCopiaAutentica.do
+Página: 5 de 12
+Código de verificación  : 2fcbec5f12cbf37a
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+https://compras.emaya.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=2fcbec5f12cbf37a
+
+--- página 6 ---
+002593
+3. Gestión de la capacidad:
+- El proveedor deberá supervisar y ajustar la utilización de los recursos, así como realizar proyecciones de los 
+requisitos futuros de capacidad, para garantizar el rendimiento requerido por EMAYA, S.A.
+4. Gestión de usuarios:
+- El  sistema  deberá  realizar  la  autenticación  de  usuarios  mediante  el  tenant  de  EMAYA  en  Office365 
+(plataforma cloud de Microsoft), integrándose con el servicio Azure ADDS de esta plataforma.
+- La aplicación deberá disponer de un registro de altas y bajas de usuarios.
+- La aplicación deberá disponer de mecanismos de control para la asignación de los derechos de acceso, así 
+como registro de los derechos asignados.
+- La aplicación deberá facilitar la revisión de los derechos de accesos por parte de los responsables de 
+EMAYA, S.A.
+5. Exportación de datos:
+- La aplicación y/ o procesos complementarios, deberá facilitar la exportación de datos en formato tratable de 
+manera que a la finalización de contrato EMAYA, S.A., como responsable, pueda disponer de toda la 
+información.
+- La aplicación y/ o procesos complementarios, deberá facilitar la exportación de datos en formato tratable de 
+forma periódica para poder ser incorporados en los sistemas de BI corporativos.
+6. Gestión de cambios:
+- El  proveedor  deberá  realizar  el  mantenimiento  preventivo,  correctivo  y  evolutivo  de  la  aplicación,  en 
+consonancia con la evolución tecnológica de los medios y componentes necesarios para su ejecución y el 
+tratamiento de la información.
+- Los cambios aplicables a la aplicación deberán haberse sometido a pruebas que garanticen su aplicación 
+segura.
+- Se deberá establecer un procedimiento formal de comunicación y aprobación de los cambios propuestos, 
+previamente a su aplicación, en coordinación con los responsables de EMAYA, S.A.
+- Disponer  de  procedimientos  de  vuelta  atrás  que  faciliten  la  recuperación  a  la  situación  previa  a  la 
+implantación de un cambio infructuoso.
+- La posibilidad de un proceso de cambio de urgencia que habilite la implantación rápida y controlada de los 
+cambios necesarios para resolver incidentes.
+7. Gestión de licencias:
+- El adjudicatario será responsable de tramitar el alta a nombre de EMAYA ante el fabricante y de suministrar 
+las licencias objeto de este contrato.
+6.3. Seguridad
+La solución propuesta deberá cumplir las siguientes directrices en materia de seguridad:
+1. Conformidad con el Esquema Nacional de Seguridad:
+Firmado por: JAIME JIMENEZ
+Cargo: Jefe de infraestructuras DTIC
+Fecha: 06-11-2026 07:37:01
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://compras.emaya.es/licitacion/verificadorCopiaAutentica.do
+Página: 6 de 12
+Código de verificación  : 2fcbec5f12cbf37a
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+https://compras.emaya.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=2fcbec5f12cbf37a
+
+--- página 7 ---
+002593
+- Cuando EMAYA utilice servicios en la nube suministrados por terceros, estos deberán ser conformes al ENS 
+o cumplir con las medidas desarrolladas en las guías CCN-STIC acorde a los perfiles de cumplimiento del 
+modelo de servicio ofrecido: SaaS, PaaS, o IaaS. 
+2. Certificación del proveedor cloud:
+- Se le requiere al proveedor Cloud que los servicios suministrados deben estar certificados bajo alguna de 
+las metodologías reconocidas por el Organismo de Certificación del Esquema Nacional de Evaluación y 
+Certificación de Seguridad de las Tecnologías de la Información. Si el servicio suministrado es un servicio 
+de seguridad  debe estar acreditado  y recogido  en  el CPSTIC (Catálogo  de  Productos y Servicios de 
+Seguridad TIC) del Centro Criptológico Nacional.
+3. Seguridad física:
+- El proveedor deberá garantizar la seguridad física en sus centros de procesos de datos.
+4. Política de seguridad de la información: 
+- El proveedor deberá disponer de un conjunto de políticas de seguridad de la información aprobadas y 
+comunicadas a los miembros de su organización. 
+5. Guía de seguridad del entorno cloud:
+- El proveedor deberá disponer y entregar un documento descriptivo de las medidas y/o estándares de 
+seguridad que se aplican en el entorno cloud donde se alojan los sistemas objeto del contrato.
+6. Aquellos empleados del proveedor que actúen en la ejecución del contrato se obligan expresamente a: 
+- Cumplir las instrucciones particulares que pudiera recibir del responsable de EMAYA, S.A. designado para 
+la ejecución del contrato.
+- Acceder únicamente a los recursos necesarios para la realización de sus cometidos.
+- Comunicar de inmediato a EMAYA, S.A. cualquier incidencia, indicador de ataque, brecha o vulnerabilidad, 
+en materia de seguridad de la información.
+- No extraer, ni copiar, contenidos propiedad de EMAYA, S.A.
+- Cumplir con la normativa general de protección de datos de carácter personal.
+7. Gestión de vulnerabilidades:
+- El proveedor deberá disponer de un procedimiento de identificación y gestión de vulnerabilidades que 
+puedan afectar a la aplicación y sus recursos técnicos.
+8. Gestión de incidencias: 
+- El proveedor deberá establecer junto con el responsable de EMAYA, S.A. el procedimiento de gestión de 
+incidencias. 
+- Si el proveedor, con motivo de sus actuaciones, identificase algún punto débil de seguridad, lo deberá poner 
+en conocimiento de los responsables de EMAYA, S.A. a la mayor brevedad posible.
+Firmado por: JAIME JIMENEZ
+Cargo: Jefe de infraestructuras DTIC
+Fecha: 06-11-2026 07:37:01
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://compras.emaya.es/licitacion/verificadorCopiaAutentica.do
+Página: 7 de 12
+Código de verificación  : 2fcbec5f12cbf37a
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+https://compras.emaya.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=2fcbec5f12cbf37a
+
+--- página 8 ---
+002593
+9. Copias de seguridad y recuperación:
+- Deberá establecerse la política de copias de seguridad, periodicidad de copias, su conservación y retención, 
+conforme a los requisitos de EMAYA, S.A.
+- Asimismo, se deberá disponer de planes de recuperación, probados. 
+10. Registro de actividad:
+- La aplicación deberá disponer de registros de actividad de los usuarios, excepciones, fallos y eventos de 
+seguridad de la información. Dichos registros deberán estar protegidos contra manipulaciones indebidas y 
+no autorizadas. 
+11. Capacidades para el seguimiento de la actividad:
+- El proveedor deberá facilitar a EMAYA, S.A. las capacidades necesarias para revisar el cumplimiento, por 
+su  parte,  de  los  requisitos  de  seguridad.  Verificación  de  copias  de  seguridad,  usuarios,  actividad  de 
+usuarios, aislamiento e integridad de la información.
+12. Tecnología compartida: 
+- Si la infraestructura utilizada por EMAYA, S.A. fuese compartida por otros clientes del proveedor deberá 
+garantizar que no puedan acceder, en caso de fallos, a la información de EMAYA, S.A.
+13. Protección anti-malware: 
+- Los equipos informáticos que actúen en la ejecución del contrato, deberán disponer de mecanismos de 
+protección frente a código maligno (MALWARE) y ataques a través de la red. 
+14. Comunicaciones:
+- Tanto la red del proveedor como las conexiones habilitadas a EMAYA, S.A. deberán garantizar, la integridad 
+y confidencialidad  de los mensajes, así  como  el “no  repudio” garantizando  el origen y destino de los 
+mensajes.
+6.4. Común a todas las soluciones
+Independientemente del tipo de arquitectura, la solución y el servicio prestado por el proveedor de la misma 
+deben cumplir los siguientes puntos:
+- Se debe incluir, al menos, un servicio de soporte técnico de primer nivel durante la duración del contrato.
+- La  solución  propuesta  cumplirá  con  los  requisitos  definidos  en  el  Esquema  Nacional  de  Seguridad, 
+cumpliendo  los  requisitos  en  materia  de  integridad,  disponibilidad,  autenticidad,  trazabilidad, 
+confidencialidad de la información y los servicios.
+- La solución propuesta deberá cumplir el ENI (Esquema Nacional de Interoperabilidad - Régimen Jurídico del 
+Sector Público) que garantice la interoperabilidad con otros programas, de forma que si en el futuro fuese 
+necesario trasladar toda la documentación a otra plataforma esta migración se pudiera llevar a cabo de 
+forma fácil y ordenada.
+- En el caso de soluciones que generen información, toda la información recogida o generada por el sistema 
+será totalmente accesible en formato entendible y estructurado, sin limitaciones, ya sea desde las propias 
+Firmado por: JAIME JIMENEZ
+Cargo: Jefe de infraestructuras DTIC
+Fecha: 06-11-2026 07:37:01
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://compras.emaya.es/licitacion/verificadorCopiaAutentica.do
+Página: 8 de 12
+Código de verificación  : 2fcbec5f12cbf37a
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+https://compras.emaya.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=2fcbec5f12cbf37a
+
+--- página 9 ---
+002593
+interfaces del sistema y/o a través de APIs y/o acceso directo a la base de datos o equivalente. El sistema 
+de acceso a la información generada debe estar probado y documentado para garantizar el acceso a la 
+información desde otros sistemas externos.
+Soluciones de software
+- Las soluciones de software deben ser multiidioma.
+- Se debe garantizar la compatibilidad con Microsoft Office.
+- El sistema ha de cumplir con los estándares de accesibilidad AA o superior, o en todo caso, alto grado de 
+usabilidad.
+- Cualquier desarrollo nuevo o adaptación de las soluciones de software que implique el uso de librerías o 
+soluciones de terceros deberá garantizar, en la medida de los posible, el uso de software libre.
+- En el caso de soluciones web se deberá garantizar que la solución sea responsiva.
+- En el caso de soluciones web se deberá garantizar la compatibilidad con Google Chrome, Mozilla, Microsoft 
+Edge y Safari.
+Licencias
+Las licencias ofertadas tendrán que incluir, como mínimo, lo siguiente:
+- Derecho de utilización del sistema ofertado, para el fin establecido en la propia Licencia, que no será menor 
+al aquí solicitado, y con las condiciones de uso indicadas por el fabricante, y nadie más.
+- Derecho de utilización de todas las actualizaciones, correcciones, y nuevas versiones del producto, de 
+cualquier tipo, que el fabricante del producto ponga en el mercado.
+- Derecho a la utilización de toda la documentación técnica, en cualquier formato mediante cualquier canal, 
+que el fabricante ponga a disposición de los clientes usuarios de sus licencias.
+- Derecho al soporte directo del fabricante, mediante cualquiera de los canales que éste tenga habilitado para 
+los usuarios de su producto, para la atención de peticiones por parte de EMAYA relacionadas con el mal 
+funcionamiento  del producto  licenciado,  y  concretamente  cuando  el sistema  adquirido  no  responda  al 
+comportamiento esperado.
+6.5. Propiedad intelectual
+Toda la información recogida o generada por el sistema será propiedad exclusiva de EMAYA.
+En relación a los productos protegidos, sin perjuicio de lo que disponga la legislación vigente en materia de 
+propiedad intelectual y de protección jurídica de los sistemas de información, los derechos de propiedad 
+intelectual se basarán en las siguientes cláusulas:
+- En  caso  de que  las ofertas pongan  a disposición  productos protegidos por un derecho  de propiedad 
+intelectual o industrial, la ejecución del contrato lleva aparejada la cesión a EMAYA del derecho de uso de 
+dichos productos.
+ 
+- El licitador especificará en su oferta el régimen aplicable de protección y cesión de derechos de explotación 
+o uso relativos a la propiedad intelectual o industrial de los productos ofertados en su propuesta.
+Firmado por: JAIME JIMENEZ
+Cargo: Jefe de infraestructuras DTIC
+Fecha: 06-11-2026 07:37:01
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://compras.emaya.es/licitacion/verificadorCopiaAutentica.do
+Página: 9 de 12
+Código de verificación  : 2fcbec5f12cbf37a
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+https://compras.emaya.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=2fcbec5f12cbf37a
+
+--- página 10 ---
+002593
+- EMAYA reconocerá los derechos derivados de la Ley de Propiedad Intelectual a favor del adjudicatario, 
+tanto  del componente  software  protegido,  como  del conjunto  de  documentos,  diagramas,  esquemas y 
+demás elementos previos que lo conforman.
+- El adjudicatario deberá garantizar a EMAYA que el producto protegido es absolutamente original, por lo que 
+puede garantizar que todo el software y las herramientas utilizadas no vulneran ninguna normativa, contrato, 
+derecho, interés o propiedad de terceros.
+Para todos los servicios de desarrollo de software EMAYA adquirirá la propiedad intelectual de los trabajos 
+realizados para cubrir las necesidades indicadas en cada proyecto desde su inicio, siendo responsabilidad 
+del adjudicatario los perjuicios que se puedan derivar contra tal derecho de propiedad por actuaciones a él 
+imputables y se regirán conforme a las siguientes cláusulas:
+- En el caso de compra de licencias en propiedad por parte de EMAYA, el adjudicatario cederá los derechos 
+derivados  de  la  Ley  de  Propiedad  Intelectual  a  favor  de  EMAYA,  tanto  del  componente  software 
+desarrollado, como de los subsistemas que lo integren, así como de todos los productos y subproductos 
+elaborados por el adjudicatario como consecuencia de la ejecución del presente contrato, cediendo todos 
+los derechos de explotación y propiedad de los mismos. Estos derechos comprenderán la reproducción, 
+distribución, comunicación pública y transformación, total o parcialmente, a favor de EMAYA sin que pueda 
+oponerse a ello el adjudicatario autor material de los trabajos.
+- En el caso de pago por uso, los desarrollos hechos a medida como las integraciones implementadas en 
+cualquier sistema para EMAYA serán propiedad de ésta.
+- La titularidad de estos derechos afectará, a título enunciativo y no limitativo, al conjunto de la documentación 
+técnica de análisis y diseño, documentación de planificación y pruebas, documentación de usuario y, en 
+conjunto, todos y cada uno de los trabajos, informes y documentos susceptibles de ser objeto de propiedad 
+intelectual.
+- El adjudicatario garantizará a EMAYA que todo desarrollo realizado es absolutamente original, por lo que 
+podrá garantizar que todo el software y las herramientas utilizadas no vulneran ninguna normativa, contrato, 
+derecho, interés o propiedad de terceros.
+- El adjudicatario renunciará expresamente a cualquier derecho que pueda corresponderle sobre los trabajos 
+realizados como consecuencia de la ejecución del concurso de implantación y no podrá hacer ningún uso o 
+divulgación  de  los  estudios  y  documentos  utilizados  o  elaborados  sobre  la  base  de  este  pliego  de 
+condiciones, bien sea en forma total o parcial, directa o extractada, original o reproducida, sin autorización 
+expresa de EMAYA.
+7. Normativa de seguridad TIC para externos y empresas adjudicatarias de servicios.
+7.1. Acceso a los sistemas de información de EMAYA.
+7.1.1. Intercambio de información.
+EMAYA intercambiará información en el ámbito de la prestación de servicios por parte de terceros a través 
+de los canales que se determinen para cada proyecto concreto, correctamente configurados, protegidos y 
+controlados.
+Firmado por: JAIME JIMENEZ
+Cargo: Jefe de infraestructuras DTIC
+Fecha: 06-11-2026 07:37:01
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://compras.emaya.es/licitacion/verificadorCopiaAutentica.do
+Página: 10 de 12
+Código de verificación  : 2fcbec5f12cbf37a
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+https://compras.emaya.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=2fcbec5f12cbf37a
+
+--- página 11 ---
+002593
+Todo intercambio de información será realizado según las directrices marcadas por el DTIC. Además, todos 
+los intercambios deben ser autorizados y documentados explícitamente: las características de la conexión, 
+los requisitos de seguridad y protección de datos y la naturaleza de la información intercambiada.
+7.1.2. Requisitos técnicos para la conexión a los sistemas de información corporativos.
+Por norma general se van a seguir las siguientes directrices:
+• Los sistemas de información de EMAYA publicados en Internet, a través de su infraestructura on 
+premise o a través de servicios Saas, serán accedidos por las empresas subcontratadas a través de sus 
+propios medios de acceso vía Internet. EMAYA definirá el método de autenticación y autorización y proveerá 
+las credenciales para su acceso.
+• El acceso remoto a los sistemas de información corporativos ubicados en la infraestructura interna 
+de EMAYA se llevará a cabo atendiendo a las siguientes premisas:
+o Siempre  que  sea  posible  se  establecerá  entre  los sistemas de  la  empresa  adjudicataria  y los 
+sistemas de seguridad perimetrales de EMAYA un túnel seguro VPN IPSEC extremo a extremo. A través de 
+este túnel se llevarán a cabo las conexiones que se permitan por política en los equipos de ambos extremos 
+del túnel.
+o Los parámetros de establecimiento del túnel se basarán en algoritmos de cifrado y autenticación 
+seguros.  EMAYA  y  el  departamento  TIC  de  la  empresa  externa  acordarán  dichos  parámetros  para 
+establecer correctamente y de forma conjunta el túnel.
+o En el caso que no sea posible el establecimiento de un túnel VPN IPSEC y sea debidamente 
+justificado, se podrá utilizar de forma alternativa un cliente de conexión VPN-SSL. También en aquellos 
+casos en los que por las necesidades del servicio se considere mejor alternativa el uso del cliente. En 
+cualquier caso, deberán tenerse en cuenta los requisitos obligatorios de autenticación de doble factor, así 
+como los métodos de autenticación que EMAYA ofrece para ello.
+• Una vez establecido el canal de comunicación adecuado para el acceso remoto del proveedor, se 
+acordarán con el DTIC los permisos y privilegios de acceso a los sistemas corporativos según necesidad, 
+siempre siguiendo criterios de mínimo privilegio.
+• En  el  caso  de  necesidad  de  conexión  directa  de  forma  presencial  a  la  red  corporativa,  los 
+dispositivos  se  ceñirán  a  las  medidas  de  seguridad  e  indicaciones  que  el  personal  técnico  del  DTIC 
+comunique.
+• Por norma general, a cualquier persona externa ubicada en las dependencias de EMAYA que 
+necesite conexión a Internet y así lo solicite se le facilitará acceso a una red Wifi de sólo salida a Internet, 
+sin privilegios de acceso a los recursos internos. En caso de necesidad excepcional de acceso interno se 
+deberá solicitar al DTIC, que deberá dar su aprobación y solución específica para cada caso.
+7.1.3. Normativa de acceso a la información y sistemas de EMAYA
+La normativa general de uso de los sistemas de información, destinada a los trabajadores de EMAYA, 
+también será de aplicación a terceros y externos, especialmente en los apartados de confidencialidad y 
+salida de la información.
+En el caso de tener que disponer de acceso a cualquier activo de información propiedad de EMAYA se 
+deberá prestar especial atención a les siguientes normas:
+• Previamente a la prestación del servicio, en la fase de formalización del contrato, se firmará el 
+acuerdo de confidencialidad entre EMAYA y la empresa adjudicataria del mismo.
+• El personal externo que deba trabajar con recursos TI propiedad de EMAYA aceptará y firmará la 
+normativa de uso de recursos, sistemas y tecnologías de la Información.
+• El personal externo que temporalmente deba acceder a los sistemas de información lo deberá hacer 
+siempre bajo la aprobación y supervisión de algún miembro acreditado de EMAYA, y previa autorización por 
+parte del departamento TIC (DTIC).
+Firmado por: JAIME JIMENEZ
+Cargo: Jefe de infraestructuras DTIC
+Fecha: 06-11-2026 07:37:01
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://compras.emaya.es/licitacion/verificadorCopiaAutentica.do
+Página: 11 de 12
+Código de verificación  : 2fcbec5f12cbf37a
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+https://compras.emaya.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=2fcbec5f12cbf37a
+
+--- página 12 ---
+002593
+• La eventual alta de identificadores de usuario para personal externo, así como la dotación de 
+privilegios de acceso a los diferentes sistemas de información, se realizará de acuerdo al procedimiento de 
+gestión de usuarios y permisos establecido por parte del DTIC.
+• Siempre que sea posible se crearán usuarios temporales para los accesos de externos, que serán 
+eliminados una vez acabe su trabajo. Si de forma excepcional se debiesen utilizar identificadores de usuario 
+ya existentes, una vez finalizadas las tareas se procederá al cambio inmediato de las contraseñas de dichos 
+usuarios.
+• Para la ejecución de un proyecto por parte de un proveedor externo que debe disponer de acceso 
+para un conjunto de sus trabajadores, inicialmente se definirá el listado de personas del proveedor a las que 
+se debe dar acceso nominal, junto con los permisos correspondientes. Si algún trabajador causa baja en la 
+empresa  proveedora  o  deja  de  estar  asignado  al  proyecto,  la  empresa  externa  debe  comunicarlo 
+inmediatamente al responsable del proyecto en EMAYA, para que se pueda dar de baja el acceso del 
+usuario  y  los  permisos  asociados.  Ante  la  no  comunicación  de  dicha  baja  y  que  se  produzca  un 
+ciberincidente causado por este hecho EMAYA se reserva el derecho de solicitar daños y perjuicios. 
+• Cualquier ciberincidente producido en los sistemas TIC del proveedor debe ser comunicado de 
+inmediato a EMAYA, de manera que se pueda actuar diligentemente y protegerse de que éste pueda afectar 
+a los sistemas TIC de EMAYA.
+• El personal de externos prestando servicios para EMAYA será informado y concienciado en buenas 
+prácticas, uso responsable de los sistemas de información corporativos y en los mecanismos existentes en 
+EMAYA para la apertura, en caso necesario, de incidencias de seguridad relacionadas con dichos sistemas.
+7.2. Identificación de riesgos causados por externos.
+EMAYA es conocedora de los riesgos del acceso de externos a la información y, en consecuencia, se 
+definen medidas de seguridad aplicables y exigibles a estos. 
+EMAYA se reserva el derecho de verificar, mediante auditorías periódicas, el cumplimiento de toda medida 
+de seguridad adicional no recogida en la presente normativa e incluida en las cláusulas particulares de los 
+contratos subscritos con externos. 
+Adicionalmente,  los  análisis  de  riesgos  periódicos  realizados  por  EMAYA  recogerán  las  amenazas 
+detectadas en servicios prestados por externos.
+7.3 Retirada de material por externos.
+El desplazamiento de activos hardware, software o información fuera de les instalaciones de EMAYA debe 
+ser previamente autorizado por parte del DTIC.
+Toda salida de material deberá ser consignada en un registro de salida. Dicho registro se guardará en el 
+sistema de información que determine el DTIC, y se comprobará periódicamente para garantizar el retorno 
+de los activos extraídos, especialmente a la finalización de la relación contractual del externo.
+7.4 Supervisión y revisión de acuerdos.
+EMAYA  podrá  requerir  la  firma  de  acuerdos  de  nivel  de  servicio  (SLA)  para  aquellos  servicios  que 
+presenten  condicionantes  especiales  en  lo  referente  a  confidencialidad,  disponibilidad,  integridad, 
+autenticidad  o  trazabilidad  de  la  información  manejada.  Esos  acuerdos  se  supervisarán  y  auditarán 
+periódicamente para garantizar el adecuado cumplimiento de las condiciones contractuales pactadas.
+ 
+EMAYA  se  reserva  el  derecho  a  realizar  un  seguimiento  de  los  servicios  contratados  mediante  las 
+correspondientes auditorías, con el objetivo de verificar el cumplimiento de los acuerdos firmados. Este 
+derecho se plasmará tanto en los pliegos de las licitaciones como en los contratos firmados con externos.
+Firmado por: JAIME JIMENEZ
+Cargo: Jefe de infraestructuras DTIC
+Fecha: 06-11-2026 07:37:01
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://compras.emaya.es/licitacion/verificadorCopiaAutentica.do
+Página: 12 de 12
+Código de verificación  : 2fcbec5f12cbf37a
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+https://compras.emaya.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=2fcbec5f12cbf37a

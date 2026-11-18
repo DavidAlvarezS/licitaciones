@@ -1,0 +1,350 @@
+
+
+--- página 1 ---
+ 
+Servicio de Presidencia 
+Oficina de Transformación Digital 
+ 
+Gerencia de Urbanismo del Excmo. Ayuntamiento de Córdoba 
+Av. Medina Azahara s/n – 14071-CÓRDOBA. – Telf. 957 222 750/51 – Fax: 957 237 072 – informatica@gmu.cordoba.es 
+ 
+Código RAEL JA01140214 -- www.gmucordoba.es 
+PLIEGO DE CONDICIONES TÉCNICAS PARA LA CONTRATACIÓN DEL 
+MANTENIMIENTO DE LAS APLICACIONES CORPORATIVAS DE LA GERENCIA 
+MUNICIPAL DE URBANISMO DE CÓRDOBA. 
+ 
+CLÁUSULAS 
+ 
+1. Objeto. 
+Es objeto del presente Pliego de Condiciones la contratación de un servicio de 
+mantenimiento correctivo y evolutivo de las aplicaciones corporativas de esta Gerencia 
+Municipal de Urbanismo, así como el mantenimiento integral de las bases de datos y 
+sistemas que las soportan. Asimismo, se incluirá en dicho mantenimiento el suministro  de 
+licencias de software necesario de terceros para el funcionamiento de las mismas (como es 
+el caso de certificados SSL). El porcentaje de gasto del citado suministro supondrá como 
+máximo un 2% del precio estimado del contrato . Las aplicaciones corporativas susceptibles 
+de mantenimiento,  desarrolladas en PowerBuilder, Java y Django, se detallan a 
+continuación: 
+ 
+Al-mulk. Aplicación (WEB) de Gestión de carta de riesgo arqueológica. desarrollada 
+en Django con Sistema de Base de Datos Postgres y alojada en máquina virtual con Sistema 
+Operativo Ubuntu. 
+ 
+GMU-Rescat. Aplicación de registro administrativo, seguimiento de expedientes y 
+archivo, desarrolladas en PowerBuilder, así como sus diferentes módulos: 
+• Módulos de Gestión y seguridad. 
+• Módulos de registro entrada y salida. Conexión CORE. 
+• Módulo de gestión de expedientes. 
+• Módulo de mapa. 
+• Módulo de Visado Electrónico. 
+• Módulo de archivo. 
+• Módulo de cuadro de mandos. Metabase. 
+• Módulo de Autoliquidaciones. 
+ 
+FIRMANTE NIF/CIF FECHA Y HORA
+MIGUEL ANGEL PERICET BLANCO ****585** 01/10/2026 17:04:25 CEST
+CÓDIGO CSV URL DE VALIDACIÓN
+uVOFmRvVV7BFNYMTUPuyrjzqsdwKNx https://verifica.cordoba.es/
+Hash: 7e6fd2b1d992bb5a698ea9e8e7703175785da1cb | PÁG. 1 DE 8
+
+
+--- página 2 ---
+ 
+ Innova. Aplicación Inventario de Patrimonio, Gestión de obras, Inventario soportes de 
+Planeamiento. Desarrollada en PowerBuilder alojada en máquina virtual con Sistema 
+Operativo Linux. 
+Teniendo en cuenta la antigüedad de la s aplicaciones citadas, el presente contrato 
+de mantenimiento, en la medida de lo posible, contribuirá a la evolución tecnológica de 
+dichas aplicaciones. Especialmente de interés la integración con aplicaciones municipales a 
+través de web services, así com o adaptación a las necesidades de la nueva Ley de 
+Procedimiento Administrativo. 
+El sistema de Gestión de Base de datos sobre el que se soportan las an teriores 
+aplicaciones es Sybase 15 Y Postgres, sobre plataformas Linux. 
+ 
+2. Solvencia Técnica 
+De conformidad con lo dispuesto en el artículo 90.1.a de la LCSP, se requiere una 
+relación de los principales servicios realizados de igual o similar naturaleza que los que 
+constituyen el objeto del contrato en el curso de los tres últimos años en la que se indique el 
+importe, la fecha y el destinatario, público o privado de los mismos. El importe anual 
+acumulado en el año de mayor ejecución deberá ser igual o superior al valor estimado del 
+contrato, IVA excluido. Los servicios o trabajos efectuados se acredit arán mediante 
+certificados expedidos o visados por el órgano competente, cuando el destinatario sea una 
+entidad del sector público o, cuando el destinatario sea un sujeto privado, mediante la 
+declaración del empresario. Serán necesarios al menos tres (3) c ertificados correspondientes 
+a servicios o trabajos ejecutados en los últimos tres años. La falta de presentación de estos 
+certificados podrá determinar la exclusión de este procedimiento del licitador 
+correspondiente. 
+Cuando el contratista sea una empresa de nueva creación, entendiendo por tal 
+aquella que tenga una antigüedad inferior a cinco años, su solvencia técnica se acreditará 
+por medio de un Certificado de gestión de la calidad UNE-ES-ISO 9001, o equivalente. 
+ 
+3.- Adscripción de medios personales 
+En cuanto al personal técnico o de las unidades técnicas participantes en el contrato 
+y a sus titulaciones académicas y profesionales, de acuerdo al artículo 76 de la LCSP, los 
+licitadores se comprometerán a dedicar o adscribir a la ejecución del contrato lo s medios 
+personales indicados en el ANEXO I del Presente Pliego de condiciones Técnicas. 
+ 
+ 
+FIRMANTE NIF/CIF FECHA Y HORA
+MIGUEL ANGEL PERICET BLANCO ****585** 01/10/2026 17:04:25 CEST
+CÓDIGO CSV URL DE VALIDACIÓN
+uVOFmRvVV7BFNYMTUPuyrjzqsdwKNx https://verifica.cordoba.es/
+Hash: 7e6fd2b1d992bb5a698ea9e8e7703175785da1cb | PÁG. 2 DE 8
+
+
+--- página 3 ---
+ 
+Servicio de Presidencia 
+Oficina de Transformación Digital 
+ 
+Gerencia de Urbanismo del Excmo. Ayuntamiento de Córdoba 
+Av. Medina Azahara s/n – 14071-CÓRDOBA. – Telf. 957 222 750/51 – Fax: 957 237 072 – informatica@gmu.cordoba.es 
+ 
+Código RAEL JA01140214 -- www.gmucordoba.es 
+4. Modo de presentación de las proposiciones. 
+Las ofertas deberán de presentar por separado: 
+• Precio hora para técnico de Desarrollo y mantenimiento presencial (IVA n o 
+Incluido).  
+• Precio hora para técnico de Desarrollo y mantenimiento  online (IVA no 
+Incluido).  
+• Precio hora para técnico de sistemas presencial (IVA no Incluido).  
+• Precio hora para técnico de sistemas online (IVA no Incluido).  
+• Precio por desplazamientos (IVA no Incluido).  Se considerará un precio fijo por 
+día en concepto de desplazamientos tanto para técnicos de desarrollo como 
+para técnicos de sistemas. 
+• Se valorarán los siguientes criterios: 
+ 
+CONTENIDO DE LAS OFERTAS. 
+Las ofertas deberán de presentar por separado: 
+• Precio hora para técnico de Desarrollo y mantenimiento presencial (IVA no 
+Incluido) 
+• Precio hora para técnico de Desarrollo y mantenimiento online (IVA  no 
+Incluido). Indicar si admite para este concepto fracciones de media hora y si es 
+el caso su precio (IVA no Incluido) 
+• Precio hora para técnico de sistemas presencial (IVA no Incluido) 
+• Precio hora para técnico de sistemas online (IVA no Incluido). Indicar si admite 
+para este concepto fracciones de media hora y si es el caso su precio  (IVA no 
+Incluido) 
+• Precio por desplazamientos (IVA no Incluido).  Se considerará un precio fijo por 
+día en concepto de desplazamientos tanto para técnicos de desarrollo como 
+para técnicos de sistemas. 
+• Se valorarán como mejoras: 
+o Horas de formación gratuitas.  
+o Elaboración de manuales por aplicación definida en el Pliego de 
+condiciones con revisión anual. 
+o Notas de cambios en versiones  
+o Plataforma de control de versiones 
+o Entrega de Plan anual de transferencia tecnológica. Que contenga al 
+menos los siguientes conceptos:  
+ Descripción de formato y soporte de transmisión de software. 
+FIRMANTE NIF/CIF FECHA Y HORA
+MIGUEL ANGEL PERICET BLANCO ****585** 01/10/2026 17:04:25 CEST
+CÓDIGO CSV URL DE VALIDACIÓN
+uVOFmRvVV7BFNYMTUPuyrjzqsdwKNx https://verifica.cordoba.es/
+Hash: 7e6fd2b1d992bb5a698ea9e8e7703175785da1cb | PÁG. 3 DE 8
+
+
+--- página 4 ---
+ 
+ Descripción actualizada de entornos de desarrollo y producción. 
+ Definición de tareas de instalación y actualización.  
+ Descripción actualizada de modelos de datos empleados.  
+ Descripción de procedimientos de mantenimiento y 
+actualizaciones de sistemas.  
+ Al menos 2 reuniones formativas a personal GMU sobre puntos 
+anteriores. 
+Así mismo, de cara a detallar la aportación de medios, deberá presentar de forma 
+anonimizada, el ANEXO I debidamente cumplimentado. 
+ 
+3. Tipo de licitación. 
+El tipo de licitación para el presente contrato se estable por precios unitarios, para 
+cada uno de los servicios que a continuación se detallan: 
+ 
+• Mano de Obra Técnico de desarrollo y m antenimiento presencial. (38,16 € Precio 
+hora) (IVA no Incluido).   
+• Mano de Obra Técnico de desarrollo y m antenimiento online. (38,16€ Precio hora) 
+(IVA no Incluido).   
+• Mano de Obra Técnico Sistemas presencial. (38,16€ Precio hora) (IVA no Incluido).   
+• Mano de Obra Técnico Sistemas online. (38,16€ Precio) (IVA no Incluido).   
+• Fijo por desplazamiento diario. (30€ Precio por desplazamiento) (IVA no Incluido).   
+ 
+ El precio tipo para fracciones de ½ hora, si fuera el caso, no podrá superar la mitad 
+del precio tipo por hora. 
+Las ofertas se realizarán a la baja respecto a la cuantía de los tipos indicados. El precio 
+del contrato, que incluirá el I.V.A., será el contenido en la oferta que resulte  adjudicataria 
+del mismo. 
+ En ningún caso, el coste total anual de este contrato de mantenimiento, superará la 
+cantidad de 14.500,80€ (I.V.A no incluido) 
+ 
+3. Duración del contrato. 
+La duración del contrato será de un año, con posibilidad de una prórroga de duración 
+de un año adicional. 
+ 
+4. Control y revisión de encargos. 
+Los trabajos realizados serán revisados por el Director -Coordinador del presente 
+contrato, al objeto de comprobar su adecuación a las características del servicio 
+adjudicado. En caso de no ajustarse a lo requerido por la Gerencia Municipal de Urbanismo, 
+el adjudicatario estará obligado a subsanar las deficiencias observadas. 
+La empresa adjudicataria se comprometerá a suministrar un sistema telemático para 
+la notificación y seguimiento de incidencias. 
+ 
+5. Plazos de realización del servicio. 
+Esta Gerencia Municipal de Urbanismo suministrará los medios telemáticos oportunos a 
+la empresa adjudicataria para la realización de las tareas de mantenimiento en remoto, a 
+FIRMANTE NIF/CIF FECHA Y HORA
+MIGUEL ANGEL PERICET BLANCO ****585** 01/10/2026 17:04:25 CEST
+CÓDIGO CSV URL DE VALIDACIÓN
+uVOFmRvVV7BFNYMTUPuyrjzqsdwKNx https://verifica.cordoba.es/
+Hash: 7e6fd2b1d992bb5a698ea9e8e7703175785da1cb | PÁG. 4 DE 8
+
+
+--- página 5 ---
+ 
+Servicio de Presidencia 
+Oficina de Transformación Digital 
+ 
+Gerencia de Urbanismo del Excmo. Ayuntamiento de Córdoba 
+Av. Medina Azahara s/n – 14071-CÓRDOBA. – Telf. 957 222 750/51 – Fax: 957 237 072 – informatica@gmu.cordoba.es 
+ 
+Código RAEL JA01140214 -- www.gmucordoba.es 
+efectos de poder obtener un servicio permanente durante las 24 horas de los días del 
+periodo de vigencia del contrato, sin que esto imposibilite el traslado del adjudicatario a las 
+instalaciones del cliente cuantas veces sea necesario. 
+ 
+6. Forma de pago. 
+La facturación del citado mantenimiento se realizará atendiendo a los encargos 
+solicitados en relación c on el número de horas empleadas y precio de renovación de 
+licencias de software si fuese el caso. Con respecto a las posibles mejoras, previo a su 
+implantación, se realizará con antelación una valoración de las horas a emplear para su 
+realización, permitiendo así controlar el posible gasto. De la misma forma previamente a la 
+adquisición o renovación de licencias de software debe de aceptarse presupuesto 
+facilitado con anterioridad por el responsable del contrato. Todo ello sin superar el 
+presupuesto de gasto del contrato. 
+ 
+7. Otras obligaciones del contratista. 
+La empresa adjudicataria se compromete a cumplir con lo dispuesto en el marco de 
+disposiciones legales al efecto y en especial con el nuevo reglamento general de 
+protección de datos, que establece las  Medidas de Seguridad en el tratamiento de los 
+datos de carácter personal. 
+ 
+Por la oficina de Transformación Digital 
+Fdo: Miguel Ángel Pericet Blanco 
+Jefe de la Oficina de Informática 
+(Firma digital) 
+  
+FIRMANTE NIF/CIF FECHA Y HORA
+MIGUEL ANGEL PERICET BLANCO ****585** 01/10/2026 17:04:25 CEST
+CÓDIGO CSV URL DE VALIDACIÓN
+uVOFmRvVV7BFNYMTUPuyrjzqsdwKNx https://verifica.cordoba.es/
+Hash: 7e6fd2b1d992bb5a698ea9e8e7703175785da1cb | PÁG. 5 DE 8
+
+
+--- página 6 ---
+ 
+ 
+ 
+ 
+ANEXO I. COMPROMISO DE ADSCRIPCIÓN DE MEDIOS 
+ 
+La presentación de los perfiles técnicos deberá realizarse de forma anonimizada y solo 
+serán requeridas las certificaciones personales de los perfiles técnico al licitador propuesto 
+para adjudicación. 
+El servicio deberá ser prestado por un equipo profesional integrado por  al menos  2 
+técnicos. La experiencia y certificaciones detalladas a continuación se exigirán al equipo 
+técnico de manera que entre ambos deberán cumplir el conjunto de los requisitos. 
+ 
+PERFIL DEL PERSONAL TÉCNICO DE DEARROLLO: 
+• Titulación: Analista programador Senior (5 años de experiencia) (técnico Superior o  
+equivalente). 
+• Certificaciones oficiales: Estar en posesión de certificaciones oficiales  
+◦ Título académico. 
+Deberá contar con experiencia mínima de 5  años en los siguientes entorn os 
+operativos: 
+• Gestión de Proyectos de desarrollo informático. 
+• Implantación, gestión y administración de entornos de desarrollo. 
+• Gestión de entornos de control de versiones para desarrollos. 
+• Lenguajes de programación: Power Builder, Java y .net 
+• Configuración de paneles de consulta Metabase. 
+• Experiencia en gestión de bases de datos: Postgres y Sybase. 
+ 
+PERFIL DEL PERSONAL TÉCNICO DE SISTEMAS: 
+• Titulación: Analista programador Senior (5 años de experiencia) (técnico Superior o 
+equivalente). 
+• Certificaciones oficiales: Estar en posesión de certificaciones oficiales  
+◦ Título académico. 
+Deberá contar con experiencia mínima de 5 años en los siguientes entornos 
+operativos: 
+• Gestión de Proyectos de desarrollo informático. 
+• Instalación y gestión Metabase. 
+ 
+FIRMANTE NIF/CIF FECHA Y HORA
+MIGUEL ANGEL PERICET BLANCO ****585** 01/10/2026 17:04:25 CEST
+CÓDIGO CSV URL DE VALIDACIÓN
+uVOFmRvVV7BFNYMTUPuyrjzqsdwKNx https://verifica.cordoba.es/
+Hash: 7e6fd2b1d992bb5a698ea9e8e7703175785da1cb | PÁG. 6 DE 8
+
+
+--- página 7 ---
+ 
+Servicio de Presidencia 
+Oficina de Transformación Digital 
+ 
+Gerencia de Urbanismo del Excmo. Ayuntamiento de Córdoba 
+Av. Medina Azahara s/n – 14071-CÓRDOBA. – Telf. 957 222 750/51 – Fax: 957 237 072 – informatica@gmu.cordoba.es 
+ 
+Código RAEL JA01140214 -- www.gmucordoba.es 
+• Análisis, soporte técnico y configuración de Sistemas Linux y Windows. 
+• Dirección de Proyectos de infraestructura TIC. 
+• Análisis y gestión de Seguridad en Redes TCP/IP en entornos Windows y Linux 
+• Administración de sistemas servidores Linux. 
+• Configuración y despliegue de equipos y redes Linux Ubuntu. 
+• Análisis y administración de sistemas de acceso remoto. 
+ 
+El personal técnico de ocupará de la realización de las siguientes tareas: 
+• Soporte técnico y análisis de sistemas servidores. 
+• Sistemas operativos y aplicaciones informáticas. 
+• Sistemas de seguridad informática. 
+• Administración de redes de comunicación. 
+• Otros trabajos técnicos que requieran habilidades y conocimientos avanzados de 
+entornos de informática, seguridad de la información y telecomunicaciones. 
+Aceptación de realización de tareas de mantenimiento tanto en presencial como on-
+line a través de VPN facilitada por esta GMU. 
+El equipo técnico adscrito al contrato dependerá laboral y orgánicamente de la 
+empresa adjudicataria, que asume el cumplimiento de la legislación laboral, de Seguridad 
+Social y de Prevención de Riesgos Laborales, siendo responsable de los daños y perjuicios 
+que pudieran sobrevenir en el transcurso del servicio debido al incumplimiento de las 
+disposiciones legales vigentes. 
+ 
+FIRMANTE NIF/CIF FECHA Y HORA
+MIGUEL ANGEL PERICET BLANCO ****585** 01/10/2026 17:04:25 CEST
+CÓDIGO CSV URL DE VALIDACIÓN
+uVOFmRvVV7BFNYMTUPuyrjzqsdwKNx https://verifica.cordoba.es/
+Hash: 7e6fd2b1d992bb5a698ea9e8e7703175785da1cb | PÁG. 7 DE 8
+
+
+--- página 8 ---
+ 
+ 
+ 
+DOCUMENTO ELECTRÓNICO
+ 
+CÓDIGO DE VERIFICACIÓN DEL DOCUMENTO ELECTRÓNICO
+uVOFmRvVV7BFNYMTUPuyrjzqsdwKNx
+ 
+Dirección de verificación del documento: https://verifica.cordoba.es/
+Hash del documento: 7e6fd2b1d992bb5a698ea9e8e7703175785da1cb
+ 
+METADATOS ENI DEL DOCUMENTO:
+ 
+Versión NTI: http://administracionelectronica.gob.es/ENI/XSD/v1.0/documento-e
+Identificador: ES_LA0017603_2026_uVOFm4113365209452446452986644
+Órgano: LA0017603 - GMU–Personal y Recursos
+Fecha de captura: 01/10/2026 17:00:04
+Origen: Administracion
+Estado elaboración: EE01 - Original
+Formato: PDF
+Tipo Documental: TD_13 - Informe
+Tipo Firma: PAdES internally attached signature
+Valor CSV: uVOFmRvVV7BFNYMTUPuyrjzqsdwKNx
+Código QR para validación en sede
+Hash: 7e6fd2b1d992bb5a698ea9e8e7703175785da1cb | PÁG. 8 DE 8

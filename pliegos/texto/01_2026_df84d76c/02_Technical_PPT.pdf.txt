@@ -1,0 +1,189 @@
+
+
+--- página 1 ---
+Pliego  de  prescripciones  técnicas  particulares  que  ha  de  regir el  contrato  de
+servicios informáticos del Consorcio de la red intermunicipal JOVES.net
+1. Objeto del contrato
+Constituye  el  objeto  del  contrato  la  prestación  de  los  servicios  informáticos  que  nos
+permitan disponer de la web corporativa  www.joves.net y de la web Prejudice Collection
+(actualmente  https://prejudicecollection.joves.net/ ) con los contenidos actuales (con su
+dominio, alojamiento y mantenimiento) y disponga de un sistema de autogestión de los
+mismos. Los proyectos han de ser mantenidos en la nube por el proveedor.
+2. Duración del contrato
+El periodo de contratación será de 1 año, a contar desde el día 1 de enero de 2027, o si la
+formalización  del  contrato  en  documento  administrativo  fuese  posterior  a  dicha  fecha,
+desde el día siguiente a la formalización del contrato en documento administrativo.
+El  contrato  podrá  prorrogarse,  a  año  a  año,  por  otros  tres  años  más,  de  manera
+consecutiva,  sin  que  la  duración  total  del contrato,  incluida  las  tres  prórrogas,  pueda
+exceder  de  cuatro años,  quedando  supeditado  a la  existencia  de  crédito  adecuado  y
+suficiente, en el ejercicio presupuestario correspondiente.
+Las  prórrogas  se  acordarán  por  el  órgano  de  contratación  y  será  obligatoria  para  la
+persona o entidad contratista, siempre que su preaviso se produzca al menos con dos
+meses de antelación a la finalización del plazo de duración del contrato.
+3. Alcance
+1 Web www.joves.net. El proyecto consistirá en mantener la web ya existente y cuya
+estructura está realizada usando la herramienta Open Source, Drupal.
+2 Migración de la https://prejudicecollection.joves.net (actualmente la web está realizada en
+wordpress),  conservando  un aspecto  similar al actual,  a  la herramienta  Open Source,
+Drupal
+3 Web https://prejudicecollection.joves.net/  El  proyecto  consistirá  en  mantener  la  web,
+después de la migración indicada anteriormente, con una estructura realizada usando la
+herramienta Open Source, Drupal. (actualmente la web está realizada en wordpress)
+4 Una  bolsa  de  20 horas  cada  año  para  mejoras  técnicas  de  todos  los  servicios
+contratados.
+4. Niveles de Servicio
+Para garantizar lo establecido en el RD 3/2010 del Esquema Nacional de Seguridad y
+según la Guía CCN-STIC 823 para dicho cumplimiento, las entidades públicas han de
+garantizar niveles de servicio.
+La prestación del servicio puede estar sujeta a incidentes que pueden comprometer el
+
+--- página 2 ---
+mantenimiento de unos niveles de servicio adecuados. En este sentido, y para evitar que
+estos incidentes impacten en la menor medida posible en la prestación del servicio, se
+establecen unos criterios de priorización de incidentes que permitan ofrecer unos tiempos
+de respuesta y resolución correctos. Estos criterios de priorización quedan recogidos en 2
+tipos: Normal y críticos, según visto en el punto anterior.
+4.1. Gestión de incidencias.
+La gestión de las incidencias será impulsada de oficio por el personal técnico del consorcio
+intermunicipal de la Xarxa JOVESnet responsable de la supervisión de la gestión de las
+dos webs.
+4.2. Organización y ejecución del proyecto
+La organización del proyecto y su ejecución tendrán que ser de tal manera que permita
+obtener  un  seguimiento  formal  del  mismo,  estableciendo  periodos  de  evaluación  del
+rendimiento de los trabajos realizados. Se especificará la persona o personas que, sin
+perjuicio  de  la  responsabilidad  propia  de  la  empresa,  estarán  autorizadas  para  las
+relaciones  con  el  consorcio  intermunicipal  de  la  Xarxa  JOVESnet.  a  efectos  del  uso
+correcto  del  material  y  de  la  información  a  manejar.  Esta  obligación  de  guardar  la
+confidencialidad subsistirá, aunque se extinga el contrato, hasta que dicha información
+pierda tal carácter, o bien si se produzca la debida autorización por parte del consorcio
+intermunicipal de la Xarxa JOVESnet.
+4.3. Confidencialidad de la información y Seguridad
+La información, datos o especificaciones facilitadas por el consorcio intermunicipal de la
+Xarxa JOVESnet al adjudicatario o al personal de su servicio, así como a los que hayan
+accedido  en  ejecución  del  contrato,  deberán  ser  consideradas  por  éstos  como
+confidenciales, no pudiendo ser objeto, total o parcial, de publicaciones, copia, utilización,
+cesión o préstamo a terceros.
+El  adjudicatario  y  el  personal  a  su  servicio  adquieren  la  obligación  fiel  de  custodiar
+cuidadosamente la información, documentación o datos de los que se le haga entrega para
+la realización de los trabajos objeto del servicio, y con ello el compromiso de que los
+mismos no lleguen bajo ningún concepto a poder de distintas personas.
+El adjudicatario y el personal a su servicio no podrán acceder a aquellas informaciones,
+datos y documentos no directamente relacionados con el objeto del contrato.
+5. Precio y facturación
+El precio máximo de licitación, con IVA incluido, será el siguiente:
+Inicio del contrato - Año 2027: 4000 € (incluirá las tareas 1, 2, 3 y 4 del apartado 3 de este
+pliego)
+Primera prórroga - Año 2028: 3000 € (incluirá las tareas 1, 3 y 4 del apartado 3 de este
+pliego)
+Segunda prórroga - Año 2029: 3000 € (incluirá las tareas 1, 3 y 4 del apartado 3 de este
+pliego)
+Tercera prórroga - Año 2030: 3000 € (incluirá las tareas 1, 3 y 4 del apartado 3 de este
+pliego)
+
+--- página 3 ---
+La facturación se realizará de forma trimestral y una vez finalizado cada periodo.
+6. Protección de datos
+6.1. Datos personales
+Los datos personales facilitados, para los casos en que se trate de personas físicas, o en
+el caso de ser representantes de una persona jurídica, así como la curricular y otras de
+índole laboral, los trabajadores que realizarán el servicio, serán tratados por el consorcio
+intermunicipal de la Xarxa JOVESnet en calidad de Responsable de Tratamiento.
+La base jurídica que legitima el tratamiento de los datos es la gestión de la adjudicación del
+pliego, para la formalización y ejecución del mismo en el supuesto de ser asignado al
+adjudicatario.
+La finalidad de la recogida y tratamiento de la información es la valoración de su idoneidad
+en el proceso de selección o adjudicación del servicio de aplicación de entorno integrado
+de  inscripciones  para  actividades  y  servicios  así  como  (en  el  caso  de  que  resulte
+adjudicatario) su utilización para mantener la relación contractual con la Administración
+Pública, en los aspectos económicos y técnicos derivados, así como el control de los
+bienes y servicios contratados y, en su caso, remisión de información sobre las incidencias
+relacionadas con aquéllos. Se informa que los datos personales podrán ser cedidos o
+comunicados a las entidades públicas, estatales o autonómicas, competentes y en los
+supuestos previstos, según Ley. Asimismo, podrán ser publicados en los tablones y diarios
+o boletines oficiales de las Administraciones Públicas correspondientes. De conformidad
+con el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de
+2016  (Reglamento  General  de  Protección  de  Datos),  podrá  ejercitar  los  derechos  de
+acceso, rectificación, cancelación, olvido, oposición y portabilidad, respecto de sus datos
+personales,  enviando  un  escrito  acompañado  de  su  DNI,  dirigida  al  CONSORCI
+INTERMUNICIPAL  XARXA  JOVES.net,  Plaça  Enginyer  Castells,  1,  46980  Paterna,
+(Valencia) CIF V97197289. De igual manera se puede ejercer dicho derecho a través del
+correo gestio@joves.net   dentro del trámite de Ejercicio de Derechos y Protección de Datos
+6.2. Cumplimiento por parte de la entidad adjudicataria
+La entidad adjudicataria y el personal a su servicio deberá cumplir con el Reglamento (UE)
+2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 (Reglamento
+General de Protección de Datos) y con la normativa que se cree para su desarrollo, así
+como de las disposiciones que en materia de protección de datos encuentren en vigor a la
+adjudicación del contrato o que puedan estarlo a su vigencia.
+De conformidad con el artículo 5 RGPD, el personal de la entidad adjudicataria deberá
+guardar  la  debida  confidencialidad  y  secreto  sobre  los  hechos,  informaciones,
+conocimientos, documentos y otros elementos a los que tenga acceso con motivo de la
+prestación del servicio.
+Es obligación de la entidad adjudicataria comunicar este deber a su personal, así como
+cuidar de su cumplimiento.
+Si por el tipo de  servicio  objeto  de  adjudicación, no comporta  un acceso a datos de
+carácter personal, los empleados de la entidad  adjudicataria tendrán la prohibición de
+acceder a los tratamientos, informáticos y en papel, propiedad del consorcio intermunicipal
+
+--- página 4 ---
+de la Xarxa JOVESnet.
+Para el caso que la prestación del servicio pueda comportar un acceso o tratamiento de
+datos  de  carácter  personal  contenidos  en  tratamientos,  informáticos  y/o  en  papel,
+titularidad del consorcio intermunicipal de la Xarxa JOVESnet, la entidad adjudicataria, en
+su calidad de Encargado del Tratamiento se obliga especialmente a lo siguiente:
+• No aplicar o utilizar la información de carácter personal con un fin distinto al previsto
+en el presente pliego, así como su cesión o comunicación a terceros, ni siquiera
+para su conservación.
+• En  el  caso  de  que  la  entidad  adjudicataria  sometiera  a  tratamiento  o
+almacenamiento,  de  cualquier  modo,  datos  personales  de  los  tratamientos
+titularidad del consorcio intermunicipal de la Xarxa JOVESnet, se compromete a
+adoptar las medidas técnicas y organizativas apropiadas para garantizar un nivel de
+seguridad adecuado al riesgo, teniendo en cuenta el estado de la técnica, los costes
+de aplicación, y la naturaleza, el alcance, el contexto y los fines del tratamiento, así
+como riesgos de probabilidad y gravedad variables para los derechos y libertades de
+las personas físicas.
+• Asimismo, para el caso en que el servicio implique tratamiento de datos personales
+en las propias instalaciones de la entidad adjudicataria (Encargado de Tratamiento),
+pondrá a disposición del responsable toda la información necesaria para demostrar
+el  cumplimiento  de  las  obligaciones  establecidas  en  el  RGPD,  así  como  para
+permitir y contribuir a la realización de auditorías, incluidas inspecciones, por parte
+del responsable o de otro auditor autorizado por dicho responsable.
+• El  consorcio  intermunicipal  de  la  Xarxa  JOVESnet  (Responsable  de  Fichero  o
+Tratamiento) tendrá la facultad de exigir a la entidad adjudicataria (Encargado de
+Tratamiento),  prueba  de  su  cumplimiento  de  las  obligaciones  impuestas  por  la
+legislación de protección de datos, solicitando copia del informe de Auditoría, o de
+cualquier otro documento que estime conveniente siempre que se refiera a datos
+personales  que  trata  por  cuenta  de  aquél.  En  el  supuesto  de  que  no  quede
+acreditada,  a  juicio  del  consorcio  intermunicipal  de  la  Xarxa  JOVESnet,  el
+cumplimiento  de  las  obligaciones  que  como  Encargado  de  Tratamiento  le
+corresponden, el primero podrá rescindir unilateralmente el contrato.
+• Una vez finalizada la prestación contractual, debe ser devuelto cualquier soporte o
+documentos en que conste algún dato de carácter personal objeto de tratamiento al
+consorcio  intermunicipal  de  la  Xarxa  JOVESnet,  excepto  cuando  exista  una
+previsión legal que exija su conservación, en cuyo caso deberá procederse a la
+devolución  de  los mismos garantizando  al consorcio  intermunicipal  de  la  Xarxa
+JOVESnet  dicha  conservación.  Aquellos  datos  que  no  se  devuelvan,  deberán
+destruirse adoptando las medidas de seguridad para evitar el acceso por parte de
+terceros.  También  podrá  el  Encargado  del  Tratamiento  conservar,  debidamente
+bloqueados los datos, en tanto pudieran derivarse responsabilidades de su relación
+con el Responsable del Fichero o Tratamiento.
+• El incumplimiento  por parte  del  adjudicatario  de  las estipulaciones  del  presente
+contrato lo convierten en Responsable del Tratamiento, respondiendo directamente
+
+--- página 5 ---
+de las infracciones en que hubiera incurrido, así como al pago del importe íntegro de
+cualquier sanción que, en materia de protección de datos de carácter personal,
+pudiera ser impuesta al consorcio intermunicipal de la Xarxa JOVESnet, así como
+de la totalidad de los gastos, daños y perjuicios que sufra el consorcio intermunicipal
+de la Xarxa JOVESnet, como consecuencia de dicho incumplimiento.
+7. Propiedad intelectual
+Los  derechos  de  explotación  de  todos  los  documentos  y  resultados  de  los  trabajos
+realizados al amparo del presente contrato y en relación a las dos web referenciadas serán
+propiedad del consorcio intermunicipal de la Xarxa JOVESnet, con exclusividad y a todos
+los efectos.
+El  consorcio  intermunicipal  de  la  Xarxa  JOVES.net  adquirirá  la  propiedad  de  todo  el
+material, documentos y el resultado del I+D+i elaborado por el adjudicatario en relación a
+las dos web referenciadas o sus empleados, en la ejecución del contrato y, en particular,
+todos los derechos de propiedad intelectual que deriven de los mismos en relación a las
+dos web referenciadas 
+El consorcio intermunicipal de la Xarxa JOVESnet es el propietario de la base de datos y
+del código fuente de las dos web referenciadas.

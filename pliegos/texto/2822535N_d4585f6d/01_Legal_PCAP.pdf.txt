@@ -1,0 +1,2322 @@
+
+
+--- página 1 ---
+ 
+1 
+ 
+Expte.  64/2026-2822535N 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS QUE JUNTO CON EL DE PRESCRIPCIONES TÉCNICAS HAN 
+DE REGIR EL CONTRATO DEL SERVICIO DE SOPORTE Y MANTENIMIENTO DE LA PLATAFORMA WEB 
+DE MEMORIA HISTÓRICA PARA EL MUSEU DE LA RAJOLERIA DEL AYUNTAMIENTO DE PAIPORTA. 
+ 
+I-DISPOSICIONES GENERALES 
+ 
+ 
+I.-OBJETO DEL CONTRATO  
+ 
+Constituye el objeto del contrato el servicio de soporte y mantenimiento de la plataforma web de 
+memoria histórica para el Museu de la Rajolería del Ayuntamiento de Paiporta. 
+ 
+A efectos informáticos, el sistema consta de un entorno doble:  
+ 
+• Un entorno de gestión y trabajo interno privado con acceso autenticado para la ingesta, 
+transcripción, traducción e indexación de material audiovisual.  
+• Un entorno web público de difusión y consulta abierta para los ciudadanos, con arquitectura 
+multilingüe (castellano y valenciano). 
+ 
+Las condiciones detalladas a las que ha de ajustarse el servicio, se desglosan en el Pliego de 
+Prescripciones Técnicas, que se anexa al presente Pliego de Cláusulas, teniendo ambos documentos 
+carácter contractual. 
+ 
+La codificación que corresponde a la nomenclatura del Vocabulario Común de Contratos (CPV) según 
+el Reglamento (CE) núm. 213/2008 de la Comisión de 28 de noviembre de 2007 por el que se modifica 
+el Reglamento (CE) núm. 2195/2002 del Parlamento Europeo y del Consejo es la siguiente: 
+ 
+CPV del contrato  
+ 
+72267000-4. Servicios de mantenimiento y reparación de software.  
+72415000-2. Servicios de alojamiento de páginas web (hosting).  
+72212224-5. Servicios de desarrollo de software de edición de páginas web. 
+ 
+El contrato definido tiene la calificación de contrato administrativo de servicios, regulado en el artículo 
+17 de la Ley 9/2017 de 8 de noviembre de Contratos del sector público, por las que se trasponen la 
+Ordenamiento jurídico español las Directivas del Parlamento europeo y el Consejo 2014/23/UE y 
+2014/24 UE, de 26 de febrero de 2014, (en adelante LCSP). 
+ 
+Dado el objeto y características del contrato no se dividirá en lotes , puesto que el servicio exige una 
+intervención coordinada, homogénea y continua, dado que el hosting y el mantenimiento del software 
+están técnicamente vinculados. La fragmentación del contrato generaría un riesgo inasumible de 
+ejecución deficiente e indefinición de responsabilidades ante incidencias críticas o caídas del sistema 
+web. La necesidad de coordinar múltiples contratistas para una única plataforma web resultaría 
+excesivamente difícil y onerosa para los recursos técnicos de este Ayuntamiento. 
+ 
+ 
+II.- NECESIDAD E IDONEIDAD DEL CONTRATO 
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 1 de 29
+
+--- página 2 ---
+ 
+2 
+ 
+ 
+A efectos de lo dispuesto en el art 28 de la LCSP, la presente contratación se considera necesaria 
+puesto que desde el año 2016 está en marcha el proyecto de memoria histórica, como resultado de 
+dicho proyecto se creó una web donde se han depositado todas las entrevistas realizadas a lo largo de 
+estos años, así como todo el material correspondiente a los expedientes de los encausados. Con toda 
+esta información se ha configurado el archivo de la Memoria Histórica de Paiporta, disponible para los 
+usuarios en general, así como para los investigadores.  
+ 
+Por otro lado, indicar que ya se inició expediente relativo a la licitación mediante el procedimiento de 
+negociado sin publicidad del Servicio de soporte y mantenimiento de la Plataforma Web de Memoria 
+Histórica que quedó desierto. En la actualidad, dicho servicio se está prestando mediante un contrato 
+puente hasta que se adjudiquen los servicios a una empresa a través de una nueva licitación. El 
+servicio de soporte y mantenimiento de la Plataforma Web de Memoria Histórica no puede quedar 
+interrumpido, dado que afecta a la operatividad de un recurso municipal de carácter público y 
+cultural. 
+ 
+Es por todo ello que se hace precisa la licitación para contratar una empresa que desarrolle este 
+servicio, aportando para ello la dotación humana y material necesarios para garantizar su correcta 
+puesta en marcha, dado que el Ayuntamiento de Paiporta no dispone del personal necesario para 
+hacer frente a este proyecto.  
+ 
+A tal efecto consta en el expediente Memoria justificativa de la necesidad emitida por la técnica del 
+Museu en fecha 29 de mayo de 2026.  
+ 
+Por otro lado, y al calificarse el contrato de servicios se ha justificado por la técnica informática y por la 
+técnica de Museu la insuficiencia de medios materiales y personales por parte del Ayuntamiento, 
+mediante informe emitido en fecha 25 de junio de 2026.  
+ 
+ 
+III.- ÓRGANO DE CONTRATACIÓN Y PRERROGATIVAS DE LA ADMINISTRACIÓN  
+ 
+Conforme dispone el art. 190 de la LCSP, dentro de los límites y con sujeción a los requisitos y efectos 
+señalados en la presente Ley, el órgano de contratación ostenta la prerrogativa de interpretar los 
+contratos administrativos, resolver las dudas que ofrezca su cumplimiento, modificarlos por razones 
+de interés público, declarar la responsabilidad imputable al contratista a raíz de la ejecución del 
+contrato, suspender la ejecución del mismo, acordar su resolución y determinar los efectos de esta. 
+ 
+Igualmente, el órgano de contratación ostenta las facultades de inspección de las actividades 
+desarrolladas por los contratistas durante la ejecución del contrato, en los términos y con los límites 
+establecidos en la Ley para cada tipo de contrato. En ningún caso dichas facultades de inspección 
+podrán implicar un derecho general del órgano de contratación a inspeccionar las instalaciones, 
+oficinas y demás emplazamientos en los que el contratista desarrolle sus actividades, salvo que talas 
+emplazamientos y sus condiciones técnicas sean determinantes para el desarrollo de las prestaciones 
+objeto del contrato. En tal caso, el órgano de contratación deberá justificarlo de forma expresa y 
+detallada en el expediente administrativo. El procedimiento de ejercicio de dichas prerrogativas se 
+ajustará a lo dispuesto en el art. 191 de la LCSP . 
+ 
+El órgano competente para efectuar la presente contratación es la Junta de Gobierno por delegación 
+de la Alcaldía, según Resolución de la Alcaldía nº 1875/2025 de fecha 31 de julio de 2025, modificada 
+por Resolución de la Alcaldía nº 1928/2025 de fecha 4 de agosto de 2025. 
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 2 de 29
+
+--- página 3 ---
+ 
+3 
+ 
+ 
+IV.- RÉGIMEN JURÍDICO Y JURISDICCIÓN 
+ 
+Este contrato tiene carácter administrativo y se regirá por lo establecido en este Pliego y el Pliego de 
+Prescripciones Técnicas, y para lo no previsto en ellos, será de aplicación la Ley 9/2017, de 8 de 
+noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico 
+español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de 
+febrero de 2014, por el Reglamento General de la Ley de Contratos de las Administraciones Públicas, 
+aprobado por Real Decreto 1098/2001, de 12 de Octubre y por el Real Decreto 817/2009, de 8 de 
+mayo, por el que se desarrolla parcialmente la Ley 30/2007, de 30 de octubre, de Contratos del 
+Sector Público, en cuanto no se opongan a lo establecido en la LCSP, supletoriamente se aplicarán las 
+restantes normas de derecho administrativo y, en su defecto, las normas de derecho privado. 
+ 
+Todas las incidencias que surjan sobre interpretación, cumplimiento y ejecución del contrato, se 
+someterán a resolución de los Tribunales que tengan jurisdicción en el territorio de Paiporta, a cuya 
+competencia se someten las partes contratantes.  
+ 
+Contra todos los acuerdos que pongan fin a la vía administrativa procederá el recurso contencioso-
+administrativo, conforme a lo dispuesto en la Ley 29/1998, de 13 de julio, Reguladora de la 
+Jurisdicción Contencioso-administrativa. 
+ 
+Conforme el art. 44 de la LCSP, el presente contrato NO es susceptible de recurso especial en materia 
+de contratación, por ser su valor estimado inferior a 100.000 €. 
+ 
+V.- DURACIÓN DEL CONTRATO 
+ 
+La duración del contrato será de 2 años (24 meses), fijándose el inicio de la ejecución el 1 de enero de 
+2027 y su finalización inicial el 31 de diciembre de 2028.  
+ 
+El contrato será prorrogable de forma expresa y por mutuo acuerdo anualmente hasta un máximo de 
+2 prórrogas (anualidades 2029 y 2030). 
+ 
+VI.- PRESUPUESTO BASE DE LICITACIÓN Y VALOR ESTIMADO 
+ 
+ 
+De conformidad con el artículo 100 de la LCSP, el presupuesto base de licitación del contrato en su 
+totalidad para los dos (2) años de duración inicial asciende a la cantidad de DIEZ MIL OCHOCIENTOS 
+(10.800,00 €) más DOS MIL DOSCIENTOS SESENTA Y OCHO EUROS (2.268,00€) en concepto de IVA 
+(21%), resultando un total de TRECE MIL SESENTA Y OCHO EUROS (13.068,00€), IVA incluido.  
+ 
+El valor estimado total del contrato, teniendo en cuenta la duración inicial de 2 años y sus dos (2) 
+posibles prórrogas anuales, asciende a VEINTE Y UN MIL SEISCIENTOS EUROS (21.600,00€) (IVA 
+excluido). 
+ 
+ 
+ 
+ 
+VII.-FINANCIACIÓN DEL CONTRATO 
+ 
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 3 de 29
+
+--- página 4 ---
+ 
+4 
+ 
+El contrato se financiará con cargo a la partida presupuestaria nº 33420 22799, por importe de 
+13.068,00 € (RC nº 220269000071 a Ejercicios Futuros) del Presupuesto municipal, con el siguiente 
+desglose: año 2027.-6.534,00 €, año 2028.- 6.534,00 €, consignación suficiente para atender los gastos 
+derivados del contrato. 
+ 
+ 
+VIII.-REVISIÓN DE PRECIOS 
+ 
+En el presente contrato, que se ejecuta a riesgo y ventura del adjudicatario, no se incluye la revisión 
+de precios. Tampoco se admite variantes 
+ 
+ 
+IX.- PERFIL DE CONTRATANTE 
+ 
+Con el fin de asegurar la transparencia y el acceso público a la información relativa a su actividad 
+contractual, y sin perjuicio de la utilización de otros medios de publicidad, y en cumplimento del art. 
+63 de la LCSP, este Ayuntamiento cuenta con el Perfil de Contratante (insertado en la Plataforma de 
+Contratos del Sector Público) al que se tendrá acceso según las especificaciones que se regulan en la 
+página web siguiente: “www.paiporta.es ”  
+ 
+ 
+X- ACREDITACIÓN DE LA APTITUD PARA CONTRATAR  
+ 
+A tenor de lo dispuesto en el art. 65 de la LCSP, podrán presentar ofertas las personas naturales o 
+jurídicas, españolas o extranjeras, que tengan plena capacidad de obrar, no estén incursas en 
+prohibiciones de contratar previstas en el art. 71 de la LCSP 2017, y acrediten su solvencia económica 
+y técnica.  
+ 
+Las personas jurídicas sólo podrán ser adjudicatarias de contratos cuyas prestaciones estén 
+comprendidas dentro de los fines, objeto o ámbito de actividad que, a tenor de sus estatutos o reglas 
+fundacionales, les sean propios. 
+ 
+Los contratistas deberán contar, asimismo, con la habilitación empresarial o profesional que, en su 
+caso, sea exigible para la realización de las prestaciones que constituyan el objeto del contrato. 
+ 
+1.- La capacidad de obrar  de los empresarios se acreditará: 
+ 
+a)  Personalidad Jurídica 
+ 
+a.1) Los empresarios individuales deberán presentar el Documento Nacional de Identidad o, en su 
+caso, el documento que haga sus veces y los que comparezcan o firmen proposiciones en nombre de otro 
+acompañarán también poder bastante al efecto. 
+ 
+a.2) Las personas jurídicas: La capacidad de obrar de los empresarios que fueren personas jurídicas 
+se acreditará mediante la escritura o documento de constitución, los estatutos o el acta fundacional, 
+en los que consten las normas por las que se regula su actividad, debidamente inscritos, en su caso, en 
+el Registro público que corresponda, según el tipo de persona jurídica de que se trate. 
+ 
+La capacidad de obrar de los empresarios no españoles que sean nacionales de Estados miembros 
+de la Unión Europea o de Estados signatarios del Acuerdo sobre el Espacio Económico Europeo se 
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 4 de 29
+
+--- página 5 ---
+ 
+5 
+ 
+acreditará por su inscripción en el registro procedente de acuerdo con la legislación del Estado donde 
+están establecidos, o mediante la presentación de una declaración jurada o un certificado, en los 
+términos que se establezcan reglamentariamente, de acuerdo con las disposiciones comunitarias de 
+aplicación.  
+ 
+b)  Documentos que acrediten la representación. 
+ 
+— Los que comparezcan o firmen ofertas en nombre de otro, presentarán copia notarial del 
+poder de representación. 
+ 
+— Si el candidato fuera persona jurídica, este poder deberá figurar inscrito en el Registro 
+Mercantil, cuando sea exigible legalmente. 
+ 
+— Igualmente la persona con poder bastante a efectos de representación, deberá acompañar 
+fotocopia compulsada administrativamente o testimonio notarial de su documento nacional de 
+identidad. 
+ 
+2.- Declaración responsable  de no estar incurso en ninguna causa de prohibición para contratar  de 
+las recogidas en el artículo 71 de la LCSP, de 8 de noviembre. 
+ 
+Esta declaración incluirá la manifestación de hallarse al corriente del cumplimiento de las 
+obligaciones tributarias y con la Seguridad Social impuestas por las disposiciones vigentes, sin perjuicio 
+de que la justificación acreditativa de tal requisito deba presentarse, antes de la adjudicación 
+definitiva, por el empresario a cuyo favor se vaya a efectuar ésta. 
+ 
+3.- Documentos que justifiquen el cumplimiento de los requisitos de solvencia económica, 
+financiera y técnica : 
+ 
+3.1 La solvencia económica y financiera  del empresario se acreditará por los medios 
+siguientes: 
+ 
+Declaración sobre el volumen anual de negocios de los tres últimos años, que referido al año de mayor 
+volumen de negocio deberá ser al menos de 8.100 euros, que corresponde con una vez y media la 
+anualidad media del contrato.  
+ 
+Para la acreditación de dichos datos se aportarán las cuentas anuales presentadas en el Registro 
+Mercantil o en el Registro oficial que corresponda de los dos últimos ejercicios. Los empresarios no 
+obligados a presentar las cuentas en Registros oficiales podrán aportar, como medio alternativo de 
+acreditación, los libros de contabilidad debidamente legalizados.  
+ 
+3.2. La  solvencia técnica  se acreditará, por el medio siguiente:  
+ 
+a.- Relación de los trabajos efectuados, en los últimos 3 años, de igual o similar naturaleza que los que 
+constituyen el objeto del contrato, cuyo importe anual acumulado en el año de mayor ejecución sea 
+igual o superior a 3.780,00 euros, que corresponde con el 70 por ciento de la anualidad media del 
+contrato.  
+ 
+Los servicios o trabajos efectuados se acreditarán mediante certificados expedidos o visados por el 
+órgano competente, cuando el destinatario sea una entidad del sector público; cuando el destinatario 
+sea un sujeto privado, mediante un certificado expedido por este o, a falta de este certificado, 
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 5 de 29
+
+--- página 6 ---
+ 
+6 
+ 
+mediante una declaración del empresario acompañado de los documentos obrantes en poder del 
+mismo que acrediten la realización de la prestación. 
+ 
+La anualidad media del contrato, cuyo importe es de 5.400,00 €, se ha calculado de acuerdo con lo 
+dispuesto en el art. 36 apdo. 6 del RD 1098/2001 de 12 de octubre, que aprueba el Reglamento de la 
+Ley de Contratos de las Administraciones Públicas. 
+ 
+4.- Certificado acreditativo del alta en el Impuesto de Actividades Económicas  en el epígrafe 
+correspondiente a la prestación de cada contrato y en su caso, declaración de vigencia de la misma. 
+ 
+A efectos de la licitación, los empresarios que deseen concurrir integrados en una Unión Temporal 
+deberán indicar los nombres y circunstancias de los que la constituyan y la participación de cada uno, 
+así como que asumen el compromiso de constituirse formalmente en unión temporal en caso de 
+resultar adjudicatarios del contrato. La duración de las uniones temporales de empresarios será 
+coincidente, al menos, con la del contrato hasta su extinción. 
+ 
+En todos los supuestos en que varios empresarios concurran agrupados en una Unión Temporal, se 
+aportará una declaración responsable por cada empresa participante. 
+ 
+En caso de pertenecer a un grupo de empresas, en el sentido del artículo 42.1 del Código de Comercio, 
+se aportará declaración responsable indicando las empresas que la forman y cuántas de estas se 
+presentan a la licitación (modelo ANEXO III). 
+ 
+Según dispone el art. 96 de la LCSP, la inscripción en el Registro Oficial de Licitadores y Empresas 
+Clasificadas del Sector Público acreditará frente a todos los órganos de contratación del sector público, 
+a tenor de lo en él reflejado y salvo prueba en contrario, las condiciones de aptitud del empresario en 
+cuanto a su personalidad y capacidad de obrar, representación, habilitación profesional o empresarial, 
+solvencia económica y financiera y técnica o profesional, clasificación y demás circunstancias inscritas, 
+así como la concurrencia o no concurrencia de las prohibiciones de contratar que deban constar en el 
+mismo. 
+ 
+La inscripción en el Registro de Licitadores de una Comunidad Autónoma acreditará idénticas 
+circunstancias a efectos de la contratación con la misma, con las entidades locales incluidas en su 
+ámbito territorial, y con los restantes entes, organismos o entidades del sector público dependientes 
+de una y otras. 
+ 
+II.- ADJUDICACIÓN DEL CONTRATO 
+ 
+ 
+XI.-PROCEDIMIENTO DE ADJUDICACIÓN 
+ 
+El contrato se adjudica mediante procedimiento abierto, a tenor de lo dispuesto en el art 156 de la Ley 
+9/2017, de 8 de noviembre, de Contratos del Sector Público, cuyo criterio de adjudicación será el 
+precio. 
+ 
+La tramitación del expediente será ordinaria. 
+ 
+XII.- CONDICIONES ESPECIALES DE EJECUCIÓN 
+ 
+De carácter social:  
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 6 de 29
+
+--- página 7 ---
+ 
+7 
+ 
+ 
+Conforme a lo dispuesto en el art 202 de la LCSP, en la ejecución del contrato, se deberá cumplir las 
+siguientes condiciones especiales en materia de igualdad:  
+ 
+En la ejecución del contrato, la empresa contratista o subcontratista, garantizará la igualdad entre 
+mujeres y hombres en el trato, el acceso a la ocupación, clasificación profesional, promoción, 
+permanencia, formación, extinción, retribuciones, calidad y estabilidad laboral, duración y ordenación 
+de la jornada laboral. Así mismo, durante la ejecución del contrato la empresa contratista o 
+subcontratista, mantendrá medidas que favorezcan la conciliación de la vida personal, familiar y 
+laboral de las personas adscritas a la ejecución del contrato.  
+ 
+En cualquier caso, Las empresas con más de 50 trabajadores deben tener un Plan de Igualdad que 
+cumple los requisitos mínimos del art. 46 de la LOI, visado y evaluado anualmente por una entidad 
+experta  
+ 
+Las obligaciones previstas en la presente Cláusula tendrán el carácter de esenciales. 
+ 
+Una vez adjudicado el contrato y con anterioridad a la efectividad del primer pago, o en todo caso 
+antes del cumplimiento del 50% del plazo previsto para la ejecución, el órgano contratante podrá 
+comprobar el cumplimiento de lo declarado responsablemente. Para ello podrá requerir los 
+documentos que lo acrediten, quedando facultado igualmente el órgano contratante para recabar de 
+las autoridades competentes informes relativos a dicho cumplimiento.  
+ 
+En el supuesto de incumplimiento de las condiciones especiales de ejecución previstas en el pliego o 
+cumplimiento defectuoso de las mismas, el órgano contratante podrá llevar a cabo, atendiendo el 
+grado de incumplimiento, la resolución del contrato o la imposición de penalizaciones. Estas 
+penalizaciones deberán ser proporcionales a la gravedad del incumplimiento y su cuantía no podrá ser 
+superior al 10% del precio del contrato, IVA excluido, ni el total de las mismas superar el 50 por cien 
+del precio del contrato. (art 192 LCSP). 
+ 
+ 
+XIII.- LICITACIÓN POR MEDIOS ELECTRÓNICOS  
+ 
+La presente licitación tiene carácter electrónico. Los licitadores deberán preparar y presentar sus 
+ofertas obligatoriamente de forma electrónica a través de la herramienta de preparación y 
+presentación de ofertas de la Plataforma de Contratación del Sector Público  
+ 
+La utilización de estos servicios supone: 
+ 
+• La preparación y la presentación de ofertas de forma telemática por el licitador.  
+• La custodia electrónica de ofertas por el sistema.  
+• La apertura y valoración de la documentación a través de la Plataforma.  
+ 
+ 
+XIV.-PRESENTACIÓN DE PROPOSICIONES. 
+ 
+Cada licitador no podrá presentar más de una proposición. Tampoco podrá suscribir ninguna 
+proposición en unión temporal con otros empresarios si lo ha hecho individualmente o figurar en más 
+de una unión temporal. La infracción de estas normas dará lugar a la no admisión de todas las 
+proposiciones por él suscritas.  
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 7 de 29
+
+--- página 8 ---
+ 
+8 
+ 
+ 
+La presentación de proposiciones supone la aceptación incondicional por el licitador del contenido de la 
+totalidad de las cláusulas o condiciones previstas en los pliegos que rigen el contrato, sin salvedad o 
+reserva alguna; así como la autorización a la Mesa y al órgano de contratación para consultar los datos 
+recogidos en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público o en las listas 
+oficiales de operadores económicos de un Estado miembro de la Unión Europea que fueran accesibles 
+para el mismo. 
+ 
+Las proposiciones se presentarán con los plazos y las formalidades que se indican a continuación: 
+ 
+1.- Presentación Electrónica y plazo de proposiciones 
+ 
+1.1.- Presentación electrónica : Las proposiciones junto con la documentación preceptiva se 
+presentarán dentro del plazo previsto exclusivamente de forma electrónica a través de la Herramienta 
+de Preparación y Presentación de Ofertas que la Plataforma de Contratación del Sector Público pone a 
+disposición de candidatos y entidades licitadoras para tal fin. 
+ 
+Por este motivo, para participar en esta licitación, es importante que los licitadores interesados se 
+registren, en el supuesto de que no lo estén, en la Plataforma de Contratación del Sector Público y 
+cumplimenten tanto los datos básicos como los datos adicionales, según instrucciones de la 
+Plataforma de Contratación del Sector Público.  
+ 
+Todos los documentos que se adjunten deberán estar firmados electrónicamente  por alguno de los 
+métodos de firma admitidos por el artículo 10 de la Ley 39/2015, de 1 de octubre, de Procedimiento 
+Administrativo Común de las Administraciones Públicas. 
+ 
+Para garantizar la confidencialidad del contenido de los archivos electrónicos hasta el momento de su 
+apertura, la plataforma cifrará los mismos durante el envío.  
+ 
+Una vez realizada la presentación, la plataforma proporcionará a la entidad licitadora un justificante 
+de envío, susceptible de almacenamiento e impresión con el sello de tiempo.  
+ 
+Si los licitadores experimentan alguna incidencia técnica en la preparación o envío de las ofertas 
+deberán contactar con la debida antelación con el servicio de soporte de la Plataforma de 
+Contratación del Sector Público en el siguiente correo electrónico licitacionE@hacienda.gob.es o 
+cualquier otro que se determine por los servicios responsables de la plataforma.  
+ 
+Si se requiere la presentación de un número de documentos superior de los inicialmente previstos en 
+la “Herramienta de Preparación y Presentación de Ofertas”, es posible presentar varios documentos 
+comprimidos en un único archivo.zip en los sobres correspondientes.  
+ 
+Si se requiere el cifrado de las ofertas, éste se realizará a través de la “Herramienta de Preparación y 
+Presentación de Ofertas” En ningún caso se cifrará a través de otros medios que impidan a la Mesa de 
+Contratación conocer el contenido de las ofertas en el momento oportuno.  
+ 
+En el presente procedimiento de licitación no se admitirán aquellas ofertas que no sean presentadas a 
+través de los medios descritos y/o dentro del plazo señalado en el anuncio. 
+ 
+Todas las solicitudes de información y de aclaraciones relativas a la presente licitación se realizarán a 
+través del Perfil del contratante. 
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 8 de 29
+
+--- página 9 ---
+ 
+9 
+ 
+ 
+De acuerdo con la Disposición Adicional 16ª de la LCSP, el envío por medios electrónicos de las ofertas 
+podrá realizarse en dos fases, transmitiendo primero la huella electrónica de la oferta, con cuya 
+recepción se considerará efectuada su presentación a todos los efectos, y después la oferta 
+propiamente dicha en un plazo máximo de 24 horas. De no efectuarse esta segunda remisión en el 
+plazo indicado, se considerará que la oferta ha sido retirada.  
+ 
+1.2.-Plazo : El plazo de presentación de proposiciones es de quince días naturales , a contar 
+desde el siguiente a la publicación en el perfil del contratante del anuncio de licitación. Si el último día 
+del plazo señalado fuera inhábil, se considerará como fecha de vencimiento de la convocatoria el 
+siguiente día hábil. 
+ 
+2.- Formalidades 
+ 
+La oferta para formar parte en la licitación, se entregará en DOS archivos electrónicos, firmados por el 
+licitador, en los que se hará constar la denominación del archivo y el título “ Proposición para licitar a 
+la contratación del servicio de soporte y mantenimiento de la plataforma web de memoria histórica 
+para el Museu de la Rajolería del Ayuntamiento de Paiporta”. 
+ 
+La inclusión en el sobre/archivo electrónico nº1 de cualquier documento o información que permita 
+directa o indirectamente conocer los criterios objetivos de valoración mediante fórmulas, así como 
+aquellos otros documentos que permitan a la Mesa de Contratación valorar las condiciones de las 
+ofertas presentadas, según los criterios de adjudicación previstos, determinará la inmediata exclusión 
+de la oferta. 
+ 
+A los efectos de lo previsto en el artículo 133 de la LCSP, los licitadores deberán indicar cuáles de los 
+documentos incluidos en las ofertas tienen la consideración de confidenciales, sin que resulten 
+admisibles las declaraciones genéricas de confidencialidad de todos los documentos o datos de la 
+oferta. 
+ 
+La condición de confidencialidad deberá reflejarse claramente (sobreimpresa, al margen o de 
+cualquier otra forma claramente identificable) en el propio documento que tenga tal condición, 
+señalando además los motivos que justifican tal consideración, no se considerarán confidenciales 
+documentos que no hayan sido expresamente calificados como tales por los licitadores. 
+ 
+Los documentos/ficheros relativos a la información confidencial deberán ir separados a efectos de 
+facilitar la eventual consulta y acceso de la documentación no confidencial por el resto de licitadores.  
+ 
+Seguridad  
+ 
+De conformidad con lo dispuesto en el Real Decreto 311/2022, de 3 de mayo, por el que se regula el 
+Esquema Nacional de Seguridad (ENS), los operadores del sector privado que presten servicios o 
+provean soluciones tecnológicas a las entidades públicas están obligados al cumplimiento de las 
+medidas de seguridad correspondientes a la categoría del sistema que exploten.  
+ 
+Atendiendo a las características del servicio objeto de esta licitación, el cual incluye el alojamiento en 
+la nube, custodia de datos históricos y la gestión de un entorno web administrativo con material 
+multimedia de acceso restringido, se determina que el sistema de información requiere un nivel de 
+protección asociado a la categoría MEDIA.  
+ 
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 9 de 29
+
+--- página 10 ---
+ 
+10 
+ 
+Por tanto, se exigirá de forma obligatoria a las empresas licitadoras el cumplimiento de los siguientes 
+requisitos operacionales:  
+ 
+• Exhibición de Certificación: El adjudicatario deberá acreditar que se encuentra en posesión de la 
+Certificación de Conformidad con el Esquema Nacional de Seguridad (ENS) en categoría MEDIA (o 
+superior).  
+ 
+• Alcance de la Certificación: Dicha certificación debe cubrir explícitamente la infraestructura del 
+Centro de Procesos de Datos (CPD) o entorno de computación en la nube (SaaS/IaaS) donde se alojen 
+el software de gestión, las bases de datos de producción, los repositorios multimedia y los sistemas de 
+copias de seguridad de este Ayuntamiento.  
+ 
+• Vigencia: La citada Certificación de Conformidad deberá estar vigente en el momento de la 
+presentación de ofertas y mantenerse plenamente válida durante todo el periodo de ejecución del 
+contrato, incluidas sus prórrogas.  
+ 
+La no presentación de la correspondiente Certificación de Conformidad con el ENS de categoría 
+MEDIA del CPD de alojamiento será motivo de exclusión automática del procedimiento de licitación, 
+al considerarse un requisito técnico esencial y mínimo de la infraestructura.  
+ 
+Siendo la presentación del sobre del siguiente modo: 
+ 
+1.- SOBRE/ARCHIVO ELECTRÓNICO NÚMERO 1: DOCUMENTACIÓN ADMINISTRATIVA  
+ 
+Deberá incluir: 
+ 
+1º La DECLARACIÓN RESPONSABLE  que consta en el Anexo I del Pliego.  
+ 
+2º.  Exhibición de Certificación : El adjudicatario deberá acreditar que se encuentra en posesión de la 
+Certificación de Conformidad con el Esquema Nacional de Seguridad (ENS) en categoría MEDIA (o 
+superior): 
+ 
+• Alcance de la Certificación: Dicha certificación debe cubrir explícitamente la infraestructura 
+del Centro de Procesos de Datos (CPD) o entorno de computación en la nube (SaaS/IaaS) donde se 
+alojen el software de gestión, las bases de datos de producción, los repositorios multimedia y los 
+sistemas de copias de seguridad de este Ayuntamiento.  
+ 
+• Vigencia: La citada Certificación de Conformidad deberá estar vigente en el momento de la 
+presentación de ofertas y mantenerse plenamente válida durante todo el periodo de ejecución del 
+contrato, incluidas sus prórrogas.  
+ 
+La no presentación de la correspondiente Certificación de Conformidad con el ENS de categoría 
+MEDIA del CPD de alojamiento será motivo de exclusión automática del procedimiento de licitación, 
+al considerarse un requisito técnico esencial y mínimo de la infraestructura. 
+ 
+3º Compromiso de constitución de UTE, en su caso.   
+Se aportará el compromiso de constituir la unión temporal por parte de los empresarios que sean 
+parte de la misma de conformidad con lo exigido en el apartado 3 del artículo 69 LCSP, con una 
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 10 de 29
+
+--- página 11 ---
+ 
+11 
+ 
+duración que será coincidente, al menos, con la del contrato hasta su extinción, de acuerdo con el 
+modelo Anexo IV del presente pliego.  
+En el escrito de compromiso se indicará: los nombres y circunstancias de los que la constituyan; la 
+participación de cada uno de ellos, así como la asunción del compromiso de constituirse formalmente 
+en unión temporal en caso de resultar adjudicatarios del contrato.  
+El citado documento deberá estar firmado por los representantes de cada una de las empresas que 
+componen la unión. Respecto a la determinación de la solvencia económica y financiera y técnica o 
+profesional de la unión temporal y a sus efectos, se acumularán las características acreditadas para 
+cada uno de los integrantes de esta. En el supuesto de que el contrato se adjudicase a una unión 
+temporal de empresarios, ésta acreditará su constitución en escritura pública, así como el NIF 
+asignado a dicha unión, una vez efectuada la adjudicación del contrato a su favor. En todo caso, la 
+duración de la unión será coincidente con la del contrato hasta su extinción. 
+4º Especialidades a presentar por los empresarios extranjeros.   
+Los empresarios extranjeros deberán presentar además de la documentación señalada anteriormente, 
+la documentación específica que a continuación se detalla.  
+Todas las empresas no españolas deben aportar:  
+- Declaración de someterse a la jurisdicción de los Juzgados y Tribunales Españoles de 
+cualquier orden, para todas las incidencias que de modo directo o indirecto pudieran surgir del 
+contrato, renunciando en su caso, al fuero jurisdiccional extranjero que pudiera corresponder al 
+licitante. (modelo Anexo V)  
+Las empresas de Estados que no sean miembros de la Unión Europea o signatarios del Acuerdo sobre 
+el Espacio Económico Europeo deberán aportar:  
+- Informe que acredite la capacidad de obrar expedido por la Misión Diplomática Permanente 
+u Oficina Consular de España del lugar del domicilio de la empresa, en el que se haga constar, previa 
+acreditación por la empresa, que figuran inscritas en el Registro Local profesional, comercial o análogo 
+o, en su defecto que actúan con habitualidad en el tráfico local en el ámbito de las actividades a las 
+que se extiende el objeto del contrato.  
+- Informe de reciprocidad a que se refiere el artículo 68 de la LCSP. 
+En los contratos sujetos a regulación armonizada se prescindirá del informe sobre reciprocidad en 
+relación con las empresas de Estados signatarios del Acuerdo sobre Contratación Pública de la 
+Organización Mundial de Comercio.  
+Las empresas no españolas que sean nacionales de Estados miembros de la Unión Europea o de 
+Estados signatarios del Acuerdo sobre el Espacio Económico Europeo se acreditará por su inscripción 
+en el registro procedente de acuerdo con la legislación del Estado donde están establecidos, o 
+mediante la presentación de una declaración jurada o un certificado, en los términos que se 
+establezcan reglamentariamente, de acuerdo con las disposiciones comunitarias de aplicación. Todos 
+los documentos contractuales y toda la documentación necesaria para la preparación, adjudicación y 
+ejecución de los contratos deberá estar redactada en castellano.  
+ 
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 11 de 29
+
+--- página 12 ---
+ 
+12 
+ 
+2.- SOBRE/ARCHIVO ELECTRÓNICO NÚMERO 2: OFERTA ECONÓMICA  
+ 
+Deberá incluir: 
+ 
+- La Oferta económica conforme al modelo contenido en el Anexo II del Pliego. 
+ 
+El licitador a cuyo favor recaiga la propuesta de adjudicación, deberá acreditar ante el órgano de 
+contratación, previamente a la adjudicación del contrato, la posesión y validez de los documentos 
+exigidos. 
+ 
+En todo caso el órgano de contratación, en orden a garantizar el buen fin del procedimiento, podrá 
+recabar, en cualquier momento anterior a la adopción de la propuesta de adjudicación, que los 
+licitadores aporten documentación acreditativa del cumplimiento de las condiciones establecidas para 
+ser adjudicatario del contrato. 
+ 
+ 
+XV.- GARANTÍAS  
+ 
+El licitador que haya presentado la mejor oferta deberá constituir una garantía definitiva del 5% del 
+precio de atendiendo al presupuesto base de licitación, IVA excluido, tal como dispone el artículo 107, 
+apdo. 3 de la LCSP.  
+ 
+No procede la constitución de garantía provisional. 
+ 
+Esta garantía podrá prestarse en alguna de las formas previstas en el artículo 108 de la Ley 9/2017 de 
+8 de noviembre de Contratos del Sector Público. 
+ 
+ 
+XVI.- CRITERIOS DE ADJUDICACIÓN  
+ 
+De acuerdo a lo establecido en los artículos 145 y 146 de la Ley 9/2017, de 8 de noviembre, de 
+Contratos del Sector Público, las propuestas que se presenten a la licitación del servicio de grabación 
+de entrevistas, incorporación al sistema de gestión Dédalo, tanto de las imágenes como del 
+tratamiento de datos y gestión, para posterior visionado en la web de memoria del Ayuntamiento de 
+Paiporta, se valorarán hasta un máximo de 100 puntos de acuerdo al siguiente criterio: 
+ 
+A.- Criterios objetivos cuantificables automáticamente (PRECIO): Máximo 100 puntos 
+ 
+.- Menor precio (puntuación máxima 100) 
+ 
+Las ofertas económicas se puntuarán de acuerdo a la siguiente fórmula: 
+ 
+P = (100 x Omb/OF) 
+ 
+Siendo: P: Puntuación obtenida. 
+ Omb: Oferta más baja presentada 
+ OF: Oferta del licitador 
+ 
+ 
+ 
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 12 de 29
+
+--- página 13 ---
+ 
+13 
+ 
+XVII.- MESA DE CONTRATACIÓN 
+ 
+La Mesa de Contratación estará integrada o constituida del modo siguiente: 
+ 
+Presidente, que lo será el Alcalde de la Corporación o miembro en quien delegue. 
+ 
+Vocales: El Técnico del Área de Cultura, el Secretario de la Corporación y el Interventor o personas que 
+legalmente las sustituyan. 
+ 
+Secretaria: Funcionaria del Departamento de Contratación, o persona que legalmente la sustituya. 
+ 
+ 
+XVIII.- APERTURA DE PROPOSICIONES  
+ 
+Concluido el plazo de presentación de proposiciones, la Mesa procederá a la apertura del primer sobre 
+y comprobará que contiene la Declaración Responsable (Anexo I) de los licitadores indicando que 
+cumple las condiciones legalmente establecidas para contratar con la Administración. Si fuera 
+necesario, la Mesa concederá un plazo no superior a tres días hábiles para que el licitador corrija los 
+defectos u omisiones subsanables observados en la misma, según artículo 141.2 de la LCSP. De no 
+subsanarse en el plazo requerido, la Mesa de contratación entenderá que el licitador desiste de su 
+oferta. 
+ 
+Si la documentación contuviese defectos sustanciales o deficiencias materiales no subsanables se 
+rechazará la proposición. Una vez calificada la documentación general y/o subsanados los defectos u 
+omisiones, la Mesa procederá a determinar las empresas que se ajustan a los criterios de selección de 
+las mismas, con pronunciamiento expreso sobre las admitidas a la licitación, las rechazadas y causas 
+de su rechazo. 
+ 
+Posteriormente se realizará la apertura del segundo sobre las ofertas económicas. 
+ 
+Para la determinación de las ofertas desproporcionadas se estará a lo dispuesto en el artículo 85 del 
+Real Decreto 1098/2001 de 12 de octubre, que aprueba el Reglamento de la Ley de Contratos de las 
+Administraciones Públicas. Para su aplicación se estará a lo dispuesto en el art 149 de la LCSP. 
+ 
+El plazo máximo para que justifique su oferta desproporcionada el licitador no podrá superar los 10 
+días hábiles desde el envío de la correspondiente comunicación. 
+ 
+En caso de empate, se acudirá a lo dispuesto en el art 147 apdo. 2 de la LCSP.  
+ 
+De conformidad con el artículo 63 de la LCSP se procederá a la publicación en el perfil de contratante 
+de los informes sobre las ofertas incursas en presunción de anormalidad.  
+ 
+Por último, y conforme a la art. 150 de la LCSP, valorará la las ofertas admitidas conforme a los 
+criterios del Pliego y se clasificarán en orden decreciente, realizando por ultimo la propuesta de 
+adjudicación al órgano de contratación.  
+ 
+Las propuestas que no cumplan las condiciones exigidas en los pliegos no serán objeto de valoración, 
+quedando excluidas del procedimiento.  
+ 
+En todo caso la apertura de las proposiciones deberá efectuarse en el plazo máximo de veinte días 
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 13 de 29
+
+--- página 14 ---
+ 
+14 
+ 
+contado desde la fecha de finalización del plazo para presentar las mismas. 
+ 
+ 
+XIX.- REQUERIMIENTO DE DOCUMENTACIÓN 
+ 
+Tras el acto de apertura de ofertas, se requerirá a la empresa mejor clasificada, mediante 
+comunicación electrónica para que, en el plazo de 10 días hábiles a contar desde el día siguiente 
+al envío de la comunicación, presente la documentación siguiente: 
+ 
+.- Certificado ROLECE, escritura de constitución de la empresa y de poder, en caso de que se 
+actúe por representación, CIF de la empresa y DNI del representante 
+ 
+.- Certificados de estar al corriente con Hacienda y con la Seguridad Social y alta IAE 
+ 
+.- Solvencia económica y financiera 
+ 
+.- Solvencia técnica. 
+ 
+.- Declaración de no estar incurso en prohibiciones de contratar, art 71 LCSP, (si no consta en el 
+ROLECE) 
+ 
+.- Documento de compromiso de cumplimiento de todas y cada una (deberán ir desglosadas) de 
+las condiciones especiales de ejecución previstas en la Cláusula XII. 
+ 
+.- Justificante del depósito de la garantía definitiva 
+ 
+.- “Hoja de Terceros” cumplimentada en la sede electrónica del Ayuntamiento: Trámite TR011. 
+ 
+La Mesa calificará la documentación presentada por el licitador con la mejor oferta, si en la 
+documentación administrativa se hubiese observado alguna deficiencia u omisión subsanable, se 
+requerirá al licitador para que subsane, en su caso dentro de un plazo no superior a tres días 
+naturales, los defectos materiales observados en la misma. Esta función puede delegarse en el 
+Secretario de la Corporación. 
+ 
+De no cumplimentarse adecuadamente el requerimiento en el plazo señalado, se entenderá que el 
+licitador ha retirado su oferta, procediéndose a exigirle el importe del 3 por ciento del presupuesto 
+base de licitación, IVA excluido, en concepto de penalidad, que se hará efectivo en primer lugar contra 
+la garantía provisional, si se hubiera constituido, sin perjuicio de lo establecido en la letra a) del 
+apartado 2 del artículo 71. 
+ 
+En el supuesto señalado en el párrafo anterior, se procederá a recabar la misma documentación al 
+licitador siguiente, por el orden en que hayan quedado clasificadas las ofertas. 
+ 
+ 
+XX.- ADJUDICACIÓN DEL CONTRATO 
+ 
+Presentada la documentación y en los casos en que resulte preceptiva, previa fiscalización del 
+compromiso del gasto por la Intervención en los términos previstos en la Ley 47/2003, de 26 de 
+noviembre, General Presupuestaria, se procederá a adjudicar el contrato a favor del licitador mejor 
+clasificado, para ello se estará a lo dispuesto en artículo 158 de la LCSP. 
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 14 de 29
+
+--- página 15 ---
+ 
+15 
+ 
+ 
+La adjudicación deberá recaer en el plazo máximo de dos meses a contar desde el siguiente al de 
+apertura de las proposiciones. 
+ 
+Si se tratara de una UTE, su representante deberá presentar ante el órgano de contratación la 
+escritura pública de su constitución, CIF asignado y nombramiento de representante con poder 
+suficiente. 
+ 
+En ningún caso podrá declararse desierta una licitación cuando exija alguna oferta o proposición que 
+sea admisible de acuerdo con los criterios que figuren en el pliego.  
+ 
+La resolución de adjudicación deberá ser motivada y se notificará a los candidatos y licitadores, 
+debiendo ser publicada en el perfil de contratante. La notificación contendrá la información necesaria 
+que permita a los interesados interponer recurso suficientemente fundado contra la decisión de 
+adjudicación. La notificación se realizará por medios electrónicos de conformidad con lo establecido 
+en la disposición adicional decimoquinta de la LCSP.  
+ 
+III.- FORMALIZACIÓN DEL CONTRATO 
+ 
+XXI.- FORMALIZACIÓN DEL CONTRATO 
+ 
+El contrato se perfecciona con su formalización. 
+ 
+El adjudicatario queda obligado a suscribir, dentro del plazo de quince días hábiles desde la fecha de 
+la notificación de la adjudicación, el documento administrativo de formalización del contrato. 
+ 
+El documento en que se formalice el contrato será en todo caso administrativo, siendo título válido 
+para acceder a cualquier registro público. No obstante, el contrato se formalizará en escritura pública 
+cuando así lo solicite el contratista, siendo a su costa los gastos derivados de su otorgamiento. 
+ 
+La formalización del contrato se publicará, junto con el correspondiente contrato, en un plazo no 
+superior a quince días tras el perfeccionamiento, de conformidad con lo indicado en el art. 154 de la 
+LCSP. No podrá iniciarse la ejecución del contrato sin su previa formalización. 
+ 
+Cuando por causas imputables a la adjudicataria no se hubiese formalizado el contrato dentro del 
+plazo indicado se le exigirá el importe del 3% del presupuesto base de licitación, IVA excluido, en 
+concepto de penalidad, que se hará efectivo en primer lugar contra la garantía definitiva, si se hubiera 
+constituido, sin perjuicio de lo establecido en la letra b) del apartado 2 del artículo 71 de la LCSP. 
+ 
+Asimismo, y al haber incurrido en prohibición de contratar de conformidad con lo establecido en el 
+art. 71.2.b) de la LCSP, se remitirá oficio testimonio de la resolución en que se fije la duración y 
+alcance de la misma, al Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público y al 
+autonómico correspondiente, al objeto de su anotación en el mismo.  
+ 
+En este caso, el contrato se adjudicará a la siguiente persona licitadora por el orden en que hubieran 
+quedado clasificadas las ofertas, previa presentación de la documentación establecida en pliego. 
+ 
+ 
+XXII- EJECUCIÓN DEL CONTRATO 
+  
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 15 de 29
+
+--- página 16 ---
+ 
+16 
+ 
+El objeto del contrato en cuanto a su ejecución debe ajustarse a lo previsto en el presente Pliego de 
+Cláusulas y el Pliego de prescripciones técnicas En caso de contradicción entre el presente Pliego de 
+Cláusulas de Administrativas Particulares y el Pliego de prescripciones técnicas, prevalecerá lo 
+dispuesto en este pliego.  
+ 
+XXIII.- PAGO DEL PRECIO DE ADJUDICACIÓN 
+ 
+Según determina el Pliego de Prescripciones Técnicas se prevé que el pago se efecturará una vez 
+entregado el trabajo y comprobado por el personal del Museu de la Rajoleria.  
+ 
+Las facturas que se presenten serán electrónicas y deberán ser visadas por el Servicio de Cultura, se 
+incluirán, además de los datos y requisitos establecidos en el artículo 72 del Real Decreto 1098/2001, 
+de 12 de octubre, por el que se aprueba el Reglamento General de la Ley de Contratos de las 
+Administraciones Públicas, los siguientes extremos previstos en el apartado segundo de la Disposición 
+Adicional Trigésimo Tercera de la LCSP.  
+ 
+a)  Oficina Contable : L01461862 INTERVENCION 
+b)  Órgano gestor : L01461862 GESTOR PAIPORTA 
+c)  Unidad Tramitadora: L0146862 TRAMITADOR PAIPORTA 
+ 
+El Ayuntamiento de Paiporta está acogido al Punto General de Entrada de Facturas Electrónicas de la 
+Administración General del Estado, por lo que puede enviarse la factura electrónica a través 
+de https://face.gob.es. a través del enlace de la pagina web municipal  
+ 
+XXIV.- DERECHOS Y OBLIGACIONES DEL ADJUDICATARIO 
+ 
+A)  Obligaciones del adjudicatario: Además de las obligaciones generales derivadas del 
+régimen jurídico del presente contrato, y las descritas en el Pliego de Prescripciones Técnicas, son 
+obligaciones específicas del contratista las siguientes: 
+ 
+- Disponer del personal necesario y suficiente para mantener cubiertas todas las funciones derivadas 
+de la prestación del servicio, incluida la coordinación. 
+ 
+- Garantizar la calidad técnica de la prestación  de los servicios, mediante la adecuada supervisión y 
+control de la gestión, arbitrando las medidas oportunas por el seguimiento de la ejecución de los 
+servicios. 
+ 
+- Garantizar que el personal adscrito al servicio tiene la capacidad y formación necesaria conforme a la 
+normativa vigente que requiere la realización del servicio 
+ 
+- Prestar los servicios, en el tiempo y forma establecidos, bajo su exclusiva responsabilidad, y 
+garantizar el cumplimiento, por parte del personal a su cargo, del tiempo de permanencia establecido  
+para la prestación del servicio y de la realización adecuada de las tareas encomendadas. 
+ 
+.- Cumplir las disposiciones vigentes en materia fiscal, laboral, de seguridad social, de integración social de 
+personas con discapacidad, de prevención de riesgos laborales y de protección del medio ambiente que 
+se establezcan tanto en la normativa vigente 
+ 
+.- Dedicar o adscribir a la ejecución del contrato los medios personales o materiales suficientes para 
+ello. 
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 16 de 29
+
+--- página 17 ---
+ 
+17 
+ 
+ 
+-  Facilitar a requerimiento del ayuntamiento información acerca del servicio objeto de contrato. 
+ 
+- Obligación de confidencialidad: El contratista está obligado a guardar sigilo respecto a los datos o 
+antecedentes que, no siendo públicos o notorios, estén relacionados con el objeto del contrato, de 
+conformidad con lo establecido en la Ley Orgánica de Protección de Datos de Carácter Personal. 
+ 
+Protección de datos personales 
+ 
+De conformidad con lo dispuesto en el Reglamento (UE) 2016/679 del Parlamento Europeo y del 
+Consejo, de 27 de abril de 2016 (RGPD), y en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección 
+de Datos Personales y garantía de los derechos digitales (LOPDGDD), las partes reconocen que la 
+ejecución de los servicios objeto de este contrato implica el acceso y tratamiento de datos de carácter 
+personal (tales como registros de voz, imagen, testimonios orales de la memoria histórica, 
+expedientes digitalizados e información de usuarios de gestión).  
+ 
+Por tanto, la empresa adjudicataria tendrá formalmente la condición jurídica de Encargado del 
+Tratamiento. Para dar cumplimiento a las exigencias legales, el adjudicatario deberá suscribir 
+obligatoriamente el correspondiente "Acuerdo de Encargado de Tratamiento" de forma previa o 
+simultánea a la formalización del contrato.  
+ 
+El contratista se compromete formalmente a:  
+ 
+• Tratar los datos personales única y exclusivamente siguiendo las instrucciones por escrito del 
+responsable del contrato del Ayuntamiento de Paiporta, no utilizándolos para fines distintos a la 
+estricta ejecución del servicio.  
+ 
+• No comunicar, ceder ni transferir los datos a terceros, ni siquiera para su conservación, salvo que 
+cuente con la autorización expresa y por escrito del órgano de contratación.  
+ 
+• Implementar las medidas de seguridad técnicas y organizativas necesarias para garantizar la 
+integridad, confidencialidad y disponibilidad de los datos personales, de acuerdo con los riesgos 
+identificados y las exigencias del Esquema Nacional de Seguridad (ENS). 
+ 
+En virtud de lo dispuesto por la Disposición Adicional 25ª de la LCSP, los contratos que impliquen 
+tratamiento de datos personales de responsabilidad del AYUNTAMIENTO DE PAIPORTA tendrán la 
+consideración de encargados del tratamiento.  
+ 
+En este contexto, conforme al artículo 28 RGPD y al artículo 122 LCSP, el licitador deberá cumplir 
+obligatoriamente con las siguientes exigencias: 
+ 
+ • Cuestionario acreditativo del cumplimiento normativo en protección de datos, manifestando 
+que dispone de garantías técnicas y organizativas suficientes. (Ver ANEXO VI del presente pliego). 
+  
+ • Declaración de localización de los servidores. La no presentación en tiempo y forma 
+impedirá formalizar el contrato, procediéndose según lo previsto en el artículo 153.4 LCSP. (Ver 
+ANEXO VII del presente pliego)  
+ • Formalización del contrato como encargado de tratamiento conforme al artículo 28 RGPD y 
+al artículo 33 LOPDGDD, una vez perfeccionada la adjudicación.  
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 17 de 29
+
+--- página 18 ---
+ 
+18 
+ 
+ • Manifestación expresa sobre la posible subcontratación de servicios o servidores, 
+identificando claramente a los subcontratistas previstos.  
+ • Obligación de comunicar inmediatamente cualquier modificación en la información aportada 
+durante la ejecución del contrato. 
+ 
+ 
+Deber de Confidencialidad  
+ 
+El adjudicatario, así como todo el personal bajo su dirección que participe en cualquier fase de la 
+ejecución del contrato, queda sujeto al deber de secreto profesional y confidencialidad más estricto 
+respecto a los datos y antecedentes que conozcan en virtud del servicio. Esta obligación subsistirá de 
+forma indefinida, incluso tras la extinción del contrato. En caso de subcontratación autorizada, el 
+contratista principal deberá exigir por escrito idéntico compromiso de confidencialidad a la 
+subcontratata.  
+ 
+Confidencialidad de las Ofertas (Artículo 133 de la LCSP)  
+ 
+De acuerdo con el artículo 133 de la Ley 9/2017, de Contratos del Sector Público, el Ayuntamiento de 
+Paiporta no divulgará la información facilitada por las empresas licitadoras que estas hayan designado 
+de forma motivada como confidencial en el momento de presentar sus ofertas (tales como secretos 
+técnicos, comerciales o propiedad intelectual del software). El deber de confidencialidad del órgano 
+de contratación no podrá extenderse a la totalidad del contenido de la oferta del adjudicatario ni 
+impedir la divulgación pública de las partes no confidenciales. 
+ 
+Seguridad  
+ 
+De conformidad con lo dispuesto en el Real Decreto 311/2022, de 3 de mayo, por el que se regula el 
+Esquema Nacional de Seguridad (ENS), los operadores del sector privado que presten servicios o 
+provean soluciones tecnológicas a las entidades públicas están obligados al cumplimiento de las 
+medidas de seguridad correspondientes a la categoría del sistema que exploten.  
+ 
+Atendiendo a las características del servicio objeto de esta licitación, el cual incluye el alojamiento en 
+la nube, custodia de datos históricos y la gestión de un entorno web administrativo con material 
+multimedia de acceso restringido, se determina que el sistema de información requiere un nivel de 
+protección asociado a la categoría MEDIA.  
+ 
+Por tanto, se exigirá de forma obligatoria a las empresas licitadoras el cumplimiento de los siguientes 
+requisitos operacionales:  
+ 
+• Exhibición de Certificación: El adjudicatario deberá acreditar que se encuentra en posesión de la 
+Certificación de Conformidad con el Esquema Nacional de Seguridad (ENS) en categoría MEDIA (o 
+superior).  
+ 
+• Alcance de la Certificación: Dicha certificación debe cubrir explícitamente la infraestructura del 
+Centro de Procesos de Datos (CPD) o entorno de computación en la nube (SaaS/IaaS) donde se alojen 
+el software de gestión, las bases de datos de producción, los repositorios multimedia y los sistemas de 
+copias de seguridad de este Ayuntamiento.  
+ 
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 18 de 29
+
+--- página 19 ---
+ 
+19 
+ 
+• Vigencia: La citada Certificación de Conformidad deberá estar vigente en el momento de la 
+presentación de ofertas y mantenerse plenamente válida durante todo el periodo de ejecución del 
+contrato, incluidas sus prórrogas.  
+ 
+La no presentación de la correspondiente Certificación de Conformidad con el ENS de categoría 
+MEDIA del CPD de alojamiento será motivo de exclusión automática del procedimiento de licitación, 
+al considerarse un requisito técnico esencial y mínimo de la infraestructura. 
+ 
+- Gastos exigibles al contratista. Son de cuenta del contratista, los gastos e impuestos de la 
+formalización del contrato, de publicación de anuncios, así como cualesquiera otros que resulten de 
+aplicación, según las disposiciones vigentes en la forma y cuantía que éstas señalen 
+ 
+B)  Derechos del adjudicatario: 
+ 
+- Percibir la contraprestación económica por la prestación del servicio que se Indica en el presente 
+pliego y en el de prescripciones técnicas y, en su caso en el acuerdo de adjudicación. 
+ 
+- Recabar del Ayuntamiento de Paiporta la colaboración necesaria para la prestación del servicio. 
+ 
+ 
+XV - DERECHOS Y OBLIGACIONES DEL AYUNTAMIENTO. 
+ 
+A)   Derechos del Ayuntamiento: 
+ 
+- El Ayuntamiento gozará de las facultades de inspección y control necesarias para Asegurar que la 
+ejecución del contrato se realiza de conformidad con lo dispuesto en el Presente pliego y en el de 
+prescripciones técnicas. 
+ 
+- Interpretar y modificar el contrato en los supuestos y por el procedimiento y con el alcance 
+legalmente establecido. 
+ 
+B)   Obligaciones del Ayuntamiento: 
+ 
+- Otorgar al adjudicatario la colaboración necesaria para la realización del contrato. 
+ 
+- Abonar el precio del contrato. 
+ 
+ 
+XXVI – MODIFICACIÓN DEL CONTRATO  
+ 
+No está prevista la modificación del contrato, de forma que una vez perfeccionado el contrato, el 
+órgano de contratación sólo podrá introducir modificaciones por razones de interés público en los 
+casos y con los límites establecidos en los artículos 203 a 207 de la LCSP. Estas modificaciones no 
+podrán afectar a las condiciones esenciales de la licitación y adjudicación.  
+ 
+ 
+XXVII- SUBCONTRATACIÓN. CESIÓN DEL CONTRATO 
+ 
+En cuanto a la cesión y subcontratación del contrato se estará a lo dispuesto en los artículos 98 y 214 
+de la LCSP. 
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 19 de 29
+
+--- página 20 ---
+ 
+20 
+ 
+ 
+ 
+XXVIII-RESPONSABLE DEL CONTRATO 
+ 
+Conforme a lo dispuesto en el art. 62 apdo. 1) de la LCSP, se designa como responsable del contrato el 
+Técnico del Área de Cultura o funcionario de esta Área que designe la Corporación, al que le 
+corresponderá supervisar su ejecución y cumplimiento del contrato y en concreto del cumplimiento de las 
+condiciones especiales de ejecución previstas en el Cláusula XII. 
+ 
+ 
+V.- FINALIZACIÓN DEL CONTRATO 
+ 
+ 
+XXIX- RESOLUCIÓN Y EXTINCIÓN DEL CONTRATO. 
+ 
+Además de en los supuestos de cumplimiento, el contrato se extinguirá por su resolución, acordada 
+por la concurrencia de alguna de las causas y con los efectos previstos en el artículo 211 y 313 de la 
+LCSP, dando lugar a los efectos previstos en sus artículos 213 y 313. 
+ 
+Además de las indicadas podrán ser causa de resolución del contrato, el incumplimiento de las 
+condiciones especiales de ejecución a las que se les haya atribuido el carácter de obligaciones 
+contractuales esenciales. 
+ 
+ 
+XXX- CUMPLIMIENTO DEL CONTRATO  
+ 
+El contrato se entenderá cumplido por el contratista cuando éste haya realizado la totalidad de su 
+objeto, de conformidad con lo establecido en este pliego y en el de prescripciones técnicas y a 
+satisfacción de la Administración. 
+ 
+La recepción del contrato se regirá por lo establecido en los artículos 311, 312 y 314 de la LCSP. 
+ 
+Sin que se establezca plazo de garantía dada la naturaleza del contrato. 
+ 
+ 
+ 
+XXXI.- PENALIDADES POR INCUMPLIMIENTO  
+ 
+Se impondrán penalidades al contratista, conforme a lo establecido en los arts. 192 a 196 de la Ley de 
+Contratos del Sector Público, y en especial, cuando incurra en alguna de las causas previstas a 
+continuación:  
+ 
+- Incumplimiento de plazos: Cuando el contratista, por causas imputables al mismo, hubiere 
+incurrido en demora respecto al cumplimiento del plazo total, la Administración podrá optar 
+indistintamente por la resolución del contrato o por la imposición de las penalidades diarias en la 
+proporción de de 0,60 euros por cada 1.000 euros del precio del contrato, IVA excluido. Cada vez que 
+las penalidades por demora alcancen un múltiplo del 5% del precio del contrato, el órgano de 
+contratación estará facultado para proceder a la resolución del mismo o acordar la continuidad de su 
+ejecución con imposición de nuevas penalidades. 
+ 
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 20 de 29
+
+--- página 21 ---
+ 
+21 
+ 
+Cuando el contratista, por causas imputables al mismo, hubiere incumplido parcialmente la 
+ejecución de las prestaciones definidas en el contrato, la Administración podrá optar, atendidas las 
+circunstancias del caso, por su resolución o por la imposición de las penalidades que penalidades 
+establecidas anteriormente. 
+ 
+ - Incumplimiento de las condiciones especiales de ejecución. En el supuesto de 
+incumplimiento de las condiciones de ejecución previstas en el pliego o cumplimiento defectuoso de 
+las mismas, el órgano contratante podrá llevar a cabo, atendiendo el grado de incumplimiento, la 
+resolución del contrato o la imposición de penalizaciones. Estas penalizaciones deberán ser 
+proporcionales a la gravedad del incumplimiento y su cuantía no podrá ser superior al 10% del precio 
+del contrato, IVA excluido, ni el total de las mismas superar el 50 por cien del precio del contrato. (art 
+192 LCSP).  
+- El incumplimiento por parte del adjudicatario de cualquier otra de sus obligaciones 
+contractuales o su cumplimiento defectuoso, conllevará igualmente una penalización de entre el 1 y el 
+10 % del precio del contrato, en función de su mayor o menor gravedad y reincidencia.  
+ 
+ 
+Las penalizaciones que se impongan al adjudicatario son independientes de la obligación del 
+contratista de indemnizar por los daños y perjuicios que su incumplimiento ocasione al Ayuntamiento 
+o a terceros con derecho a repetir contra el Ayuntamiento.  
+ 
+Para la imposición de estas penalizaciones e indemnizaciones por incumplimientos contractuales se 
+seguirá un expediente contradictorio sumario, en el que se concederá audiencia al contratista. 
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 21 de 29
+
+--- página 22 ---
+ 
+22 
+ 
+ 
+ANEXO I 
+ 
+MODELO DE DECLARACIÓN RESPONSABLE 
+ 
+ 
+D. _________________________, con domicilio a efectos de notificaciones en _____________, c/ 
+____________________, n.º ___, con DNI n.º _________, en representación de la Entidad 
+___________________, con CIF n.º ___________, a efectos de su participación en la licitación del 
+contrato de_________________________________________________________, ante el 
+Ayuntamiento de Paiporta,  
+ 
+DECLARA BAJO SU RESPONSABILIDAD: 
+ 
+PRIMERO.- Que se dispone a participar en la licitación indicada, aceptando sin salvedad alguna los 
+Pliegos de Prescripciones Técnicas y de Clausulas administrativas  que rigen la misma. 
+ 
+SEGUNDO.- Que la empresa ___________________, con CIF ___________________, a la que 
+representa en calidad de ___________________, dispone de la documentación acreditativa de los 
+extremos señalados en las letras a) a c) del apartado 1 del artículo 140 de la Ley 9/2017 de 8 de 
+noviembre de Contratos del sector público y en concreto:  
+ 
+— Que la sociedad está válidamente constituida y que conforme a su objeto social puede presentarse 
+a la licitación, cuenta con las autorizaciones necesarias para ejercer la actividad, así como que el 
+firmante de la declaración ostenta la debida representación para la presentación de la proposición. 
+ 
+— Que esta dado de alta en el epígrafe del IAE correspondiente. 
+ 
+— Que cuenta con los requisitos de solvencia económica, financiera y técnica o profesional necesarios 
+para la ejecución del contrato exigidos en el Pliego de Cláusulas administrativas, disponiendo de la 
+siguiente solvencia:  
+ 
+Solvencia económica y financiera : Que el volumen anual de negocios de los tres últimos años, que 
+referido al año de mayor volumen de negocio deberá ser al menos una vez y media de la anualidad 
+media del contrato.  
+ 
+Solvencia técnica y profesional: Que los principales trabajos efectuados, en los últimos 3 años, de igual 
+o similar naturaleza que los que constituyen el objeto del contrato, suponen un importe anual 
+acumulado en el año de mayor ejecución igual o superior al 70 por ciento de la anualidad media del 
+contrato.  
+ 
+Pudiendo acreditar ambas solvencias del modo establecido en la Cláusula X del Pliego 
+ 
+ 
+TERCERO.- Que ni el firmante, ni la empresa a la que representa, ni los administradores ni 
+representantes de la misma, se encuentran incursos en ninguna limitación, incapacidad, prohibición o 
+incompatibilidad para contratar con la Administración, no concurriendo circunstancia alguna que le 
+incapacite para contratar con la misma, prevista en el artículos 71 de la LCSP y se halla al corriente del 
+cumplimiento de sus obligaciones tributarias y con la Seguridad Social impuestas por las disposiciones 
+vigentes. 
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 22 de 29
+
+--- página 23 ---
+ 
+23 
+ 
+ 
+ 
+CUARTO.- Que se compromete a aportar los documentos a que se hace referencia en  los  apartados 
+Segundo y Tercero de esta declaración, en caso de que sea propuesto como adjudicatario del contrato 
+o en cualquier momento en que sea requerido para ello 
+ 
+QUINTO.- Que asume el compromiso de cumplir las condiciones especiales de ejecución del contrato 
+indicadas en el Cláusula XII del Pliego. 
+ 
+SEXTO- Que para recibir notificaciones electrónicas y en cumplimento de lo previsto disposición 
+adicional decimoquinta de la LCSP 2017, se aporta la dirección de correo electrónico siguiente 
+______________________________________________  
+ 
+ 
+Y para que conste, firmo la presente declaración. 
+ 
+ 
+En ____________, a ___ de ________ de 20__. 
+ 
+ 
+(Fecha y firma electrónica del licitador)  
+  
+ 
+ 
+ 
+ 
+ 
+(Cuando la oferta se presente por una Unión Temporal de Empresarios, deberá incluir también el 
+compromiso de constitución de la unión y, se aportará una declaración responsable por cada empresa 
+participante ) 
+ 
+(En caso de pertenecer a un grupo de empresas, en el sentido del artículo 42.1 del Código de Comercio, 
+añadir declaración responsable indicando las empresas que la forman y cuántas de estas se presentan 
+a la licitación). 
+ 
+(Integración de la Solvencia con medios externos: Cuando se desee recurrir a las capacidades de otras 
+entidades, la  empresa deberá indicarlo  y aportar compromiso de dichas entidades de que van a 
+disponer de la solvencia requería, y no estar incursas en causa de prohibición de contratar conforme 
+dispone el art. 75 de la LCSP) 
+ 
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 23 de 29
+
+--- página 24 ---
+ 
+24 
+ 
+ANEXO II 
+ 
+MODELO DE OFERTA ECONÓMICA 
+ 
+ 
+ 
+D..................................................,con DNI nº ................., actuando en (nombre propio o representación 
+de)..............................................C.I.F. nº ........................................, con domicilio 
+en............................................,Teléfono:...............................,correo electrónico 
+.........................................., a efecto de notificaciones, enterado de las condiciones y requisitos 
+que se exigen para la adjudicación mediante procedimiento abierto DEL CONTRATO DE 
+SERVICIO DE SOPORTE Y MANTENIMIENTO DE LA PLATAFORMA WEB DE MEMORIA 
+HISTÓRICA PARA EL MUSEU DE LA RAJOLERIA DEL AYUNTAMIENTO DE PAIPORTA. 
+ 
+DECLARA : 
+ 
+Que se compromete a efectuar dicho contrato, por el precio de ( en letra y en número ) de 
+_______________ euros, más ______________ euros, en concepto de IVA, es decir un total de 
+________________ euros IVA incluido, con arreglo al Pliego de cláusulas administrativas y el 
+Pliego de Prescripciones Técnicas, cuyo contenido acepto íntegramente, sin salvedad alguna 
+para los DOS AÑOS de duración del contrato. 
+ 
+ 
+(Fecha y firma electrónica del licitador) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 24 de 29
+
+--- página 25 ---
+ 
+25 
+ 
+ 
+ANEXO III 
+ 
+DECLARACIÓN RESPONSABLE RELATIVA AL GRUPO EMPRESARIAL 
+ 
+ 
+D/Dª …………………………………… con DNI nº …………………………………. en nombre propio/en 
+representación de la empresa: ………………………………..........en calidad de:………………………....... 
+(Márquese lo que proceda) al objeto de participar en la licitación del contrato de servicios de soporte 
+y mantenimiento de la plataforma web de memoria histórica para el Museu de la Rajoleria del 
+Ayuntamiento de Paiporta , declaro bajo mi responsabilidad: 
+ 
+Que la empresa ……………………………………………………………………………  
+ 
+ No pertenece a ningún grupo de empresas. 
+ 
+ Pertenece al grupo de empresas denominado: ……………………………………………………………………., del 
+cual se adjunta listado de empresas vinculadas de conformidad con el artículo 42 del Código de 
+Comercio.  
+ 
+ 
+En _______________, a _________ de _______________de __________  
+ 
+ 
+(SELLO DE LA EMPRESA Y FIRMA DE LA EMPRESA AUTORIZADA)  
+ 
+Firmado____________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 25 de 29
+
+--- página 26 ---
+ 
+26 
+ 
+ANEXO IV 
+ 
+COMPROMISO CONSTITUCIÓN UNIÓN TEMPORAL DE EMPRESAS  
+ 
+D./Dña…………………………..…………………………………………………………………..… con DNI/PASAPORTE 
+……………………………………………mayor de edad, actuando en nombre propio/de la empresa que 
+represento:……………………………..………………………… (nombre empresa) con NIF núm …………………….,  
+ 
+Y, D./Dña…………………………..…………………………………………………………………..… con DNI/PASAPORTE 
+……………………………………………mayor de edad, actuando en nombre propio/de la empresa que 
+represento:……………………………..………………………… (nombre empresa) con NIF núm …………………….,  
+ 
+ 
+ 
+Enterados del expediente para el contrato de servicios de soporte y mantenimiento de la plataforma 
+web de memoria histórica para el Museu de la Rajoleria del Ayuntamiento de Paiporta, 
+ 
+MANIFIESTAN:  
+ 
+ 
+1. Su voluntad de constituir una Unión Temporal de Empresas (UTE) comprometiéndose, en caso de 
+resultar adjudicatarios del citado procedimiento, a formalizar la constitución de dicha UTE en 
+escritura pública.  
+2. Que la participación que cada empresa ostentará en la Unión Temporal de Empresas será la 
+siguiente (expresada en porcentaje): 
+ 
+• Empresa 1: ………………….%  
+• Empresa 2: ………………… % 
+ 
+3. Que, a los efectos mencionados, designan como representante único de dicha Unión Temporal de 
+Empresas a D./Dña. ……………………………………………. con DNI número ……………………., domicilio 
+…………………………..., C.P. ……………., teléfono ………………….., correo electrónico a efectos de 
+notificaciones …………………………...  
+ 
+En …………….., a fecha de la firma electrónica  
+ 
+(Firma de los representantes legales de todos los integrantes de la UTE) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 26 de 29
+
+--- página 27 ---
+ 
+27 
+ 
+ANEXO V 
+ 
+DECLARACIÓN DE SOMETIMIENTO DE LAS EMPRESAS EXTRANJERAS A LA JURISDICCIÓN DE LOS 
+JUZGADOS Y TRIBUNALES ESPAÑOLES 
+ 
+ 
+D./Dña…………………………..…………………………………………………………………..… con DNI/PASAPORTE 
+……………………………………………mayor de edad, actuando en nombre propio/de la empresa que 
+represento:……………………………..………………………… (nombre empresa) con NIF núm ……………………., 
+enterado del expediente para el contrato de servicios de soporte y mantenimiento de la plataforma 
+web de memoria histórica para el Museu de la Rajoleria del Ayuntamiento de Paiporta, 
+ 
+DECLARO:  
+ 
+Que me someto a la jurisdicción de los Juzgados y Tribunales españoles de cualquier orden para 
+todas las incidencias que de modo directo o indirecto pudieran surgir del contrato, con renuncia en 
+su caso, al fuero jurisdiccional extranjero que pudiera corresponderle como licitador.  
+ 
+ 
+En a fecha de la firma electrónica.  
+ 
+Documento firmado electrónicamente 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 27 de 29
+
+--- página 28 ---
+ 
+28 
+ 
+ANEXO VI 
+ 
+DECLARACIÓN RESPONSABLE SOBRE EL CUMPLIMIENTO DE LAS OBLIGACIONES EN MATERIA DE 
+PROTECCIÓN DE DATOS 
+ 
+ 
+D./Dña…………………………..…………… con DNI/PASAPORTE ……………………………………………mayor de edad, 
+actuando en nombre propio/nombre de la empresa a la que represento:……………………………..…… 
+(nombre empresa) con NIF núm…………………., enterado del expediente para el contrato de servicios 
+de soporte y mantenimiento de la plataforma web de memoria histórica para el Museu de la 
+Rajoleria del Ayuntamiento de Paiporta, 
+ 
+ 
+DECLARO RESPONSABLEMENTE:  
+ 
+1. El tratamiento consistirá en la realización de las prestaciones que se derivan del presente 
+contrato, sin que puedan emplearse los datos personales recabados por el contratista para ningún 
+tipo de fin comercial, corporativo, empresarial, de formación de bases de datos, de investigación de 
+mercados o cualesquiera otro que no se circunscriba única y exclusivamente a los estrictamente 
+necesarios para satisfacer, de manera suficiente, las prestaciones contractuales de la administración 
+contratante.  
+2. Que no ha dado lugar, por causa de la que hubiese sido declarado culpable, a la resolución 
+firme de cualquier contrato celebrado con una entidad de las comprendidas en el artículo 3 de la Ley 
+9/2017 por incumplimiento culpable de las obligaciones que los pliegos hubieren calificados como 
+esenciales de acuerdo con lo previsto en el artículo 211.1.f) de la citada Ley.  
+3. Que respetará, en caso de resultar adjudicatario y como contratista, la legislación vigente en 
+materia de protección de datos.  
+4. Que, si el contrato requiere el tratamiento por el contratista de datos personales por cuenta 
+del responsable del tratamiento, se obliga expresamente al cumplimiento de las siguientes 
+obligaciones de carácter esencial:  
+a) Respetar la finalidad para la cual se le puedan ceder datos.  
+b) Someterse en todo caso a la normativa nacional y de la Unión Europea en materia de 
+protección de datos, sin perjuicio de lo establecido en el último párrafo del apartado 1 del artículo 
+202 de la Ley 9/2017.  
+c) Presentar, antes de la formalización del contrato, una declaración en la que ponga de 
+manifiesto dónde van a estar ubicados los servidores y desde dónde se van a prestar los servicios 
+asociados a los mismos.  
+d) Comunicar cualquier cambio que se produzca, a lo largo de la vida del contrato, de la 
+información facilitada en la declaración a que se refiere la letra c) anterior.  
+e) Indicar en su oferta, si tienen previsto subcontratar los servidores o los servicios asociados a 
+los mismos, el nombre o el perfil empresarial, definido por referencia a las condiciones de solvencia 
+profesional o técnica, de los subcontratistas a los que se vaya a encomendar su realización.  
+ 
+ 
+En la fecha de la firma electrónica.  
+Documento firmado electrónicamente  
+ 
+ 
+ 
+ 
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 28 de 29
+
+--- página 29 ---
+ 
+29 
+ 
+ 
+ANEXO VIII 
+ 
+DECLARACIÓN RESPONSABLE SOBRE LA UBICACIÓN DE LOS SERVIDORES Y SOBRE LA UBICACIÓN 
+DEL LUGAR DESDE DONDE SE PRESTARÁN LOS SERVICIOS ASOCIADOS A LOS MISMOS. 
+ 
+ 
+De una parte_____________________________________, con DNI ________________, en 
+representación de la entidad _________________________, con NIF _______________ en calidad 
+de _________________________ y relacionado con el contrato de servicios de soporte y 
+mantenimiento de la plataforma web de memoria histórica para el Museu de la Rajoleria del 
+Ayuntamiento de Paiporta, 
+ 
+DECLARO, de conformidad a lo previsto en el artículo 122.2 de la Ley 9/2017, de 8 de noviembre, de 
+Contratos del Sector Público (LCSP) lo siguiente: 
+ 
+☐Que de acuerdo con las características de la prestación objeto de este contrato, no se realizará en 
+ningún caso, uso de servidores ni de servicios asociados a los servidores.  
+ 
+☐Declaro bajo mi responsabilidad, dónde van a estar ubicados los servidores y desde dónde se van a 
+prestar los servicios asociados a los mismos, a continuación: 
+ 
+ 
+ 
+Servidor 1 : 
+ 
+País: ___________________________ Localidad: _______________________  
+Subcontratación Empresa: ________________________ NIF: _____________________________  
+ 
+Servidor 2 :  
+ 
+País: ___________________________ Localidad: _______________________  
+Subcontratación Empresa: ________________________ NIF: _____________________________  
+ 
+Servidor 3 : 
+ 
+País: ___________________________ Localidad: _______________________  
+Subcontratación Empresa: ________________________ NIF: _____________________________  
+ 
+ 
+Cualquier variación que afecte a la información proporcionada en esta declaración durante la 
+vigencia del contrato deberá ser notificada sin demora al órgano de contratación.  
+ 
+En la fecha de la firma electrónica.  
+Documento firmado electrónicamente 
+ 
+ 
+ 
+ 
+Contractació
+Expediente 2822535N
+NIF: P4618800I
+PCAP 
+contrato 
+servicio 
+soporte 
+y 
+mantenimiento 
+de 
+plataforma 
+web 
+memoria 
+histórica 
+Museu 
+Rajoleria 
+-
+SEFYCU 
+8769228
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CPTQ 424U E4HR UDTF
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+El Secretario de Ayuntamiento de Paiporta
+AUGUSTO CASTELLOTE PIQUERAS
+26/10/2026
+Pág. 29 de 29

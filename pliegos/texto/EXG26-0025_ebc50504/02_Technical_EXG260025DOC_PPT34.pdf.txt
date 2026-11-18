@@ -1,0 +1,595 @@
+
+
+--- página 1 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : LUIS ORIA DOMÉNECH | FECHA : 27/10/2026 14:58 | NOTAS : F - (Sello de Tiempo:
+27/10/2026 14:58)
+ 
+ 
+ 
+ 
+Página 1 de 14 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA EL SERVICIO DE PLATAFORMA 
+DE GESTIÓN DE COORDINACIÓN DE ACTIVIDADES EMPRESARIALES Y 
+DOCUMENTACIÓN PRL 
+ 
+ÍNDICE 
+ 
+1. OBJETO.   
+2. ALCANCE DEL SERVICIO. 
+3. OBLIGACIONES DEL CONTRATO Y CARACTERISTICAS FUNCIONALES DE LAS 
+PLATAFORMAS. 
+3.1. MIGRACIÓN DE DOCUMENTACIÓN E INFORMACIÓN 
+3.2. REQUISITOS FUNCIONALES 
+4. FORMACIÓN. 
+5. SOPORTE AL FUNCIONAMIENTO DE LAS PLATAFORMAS. 
+6. IMPLANTACIÓN DE LA PLATAFORMA. 
+7. SERVICIO DE PLATAFORMAS. 
+7.1. ALOJAMIENTO DE LAS PLATAFORMAS Y GARANTIA DE DISPONIBILIDAD.  
+7.2. MANTENIMIENTO DE LAS PLATAFORMAS . 
+7.3. POSIBLE CONECTIVIDAD CON OTRAS APLICACIONES. 
+8. RESOLUCIÓN DE INCIDENCIAS. 
+9. PROPIEDAD DE LOS  DATOS. 
+10. DEVOLUCIÓN DEL SERVICIO. 
+11. MODELO DE RELACIÓN.   
+ 
+ 
+
+--- página 2 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : LUIS ORIA DOMÉNECH | FECHA : 27/10/2026 14:58 | NOTAS : F - (Sello de Tiempo:
+27/10/2026 14:58)
+ 
+ 
+ 
+ 
+Página 2 de 14 
+ 
+1. OBJETO. 
+El objeto del presente pliego es establecer los requisitos técnicos de la plataforma de 
+coordinación de actividades empresariales (CAE), en modelo SaaS (Software as a Service) que 
+permita a los contratistas de la Autoridad Portuaria de Castellón (en adelante APC) y a sus 
+subcontratas aportar la documentación e información requerida conforme a la legislación 
+vigente en materia de Coordinación de Actividades Empresariales, con el objetivo de qué los 
+trabajos se desarrollen con el estricto cumplimiento de la normativa de referencia en todos los 
+centros de trabajo de la APC. 
+Así mismo, también se pretende facilitar el trabajo de gestión del personal de la APC, 
+responsable de la revisión, validación de la documentación e información en materia de 
+Coordinación de Actividades Empresariales, al disponer en una plataforma centralizada que 
+permita consultarla en tiempo real y agilizar el proceso de revisión y validación de trabajos. 
+Como complemento de lo anterior el software CAE, se complementará con un módulo 
+adicional, que permita a la APC la gestión de la documentación de sus trabajadores, así como 
+la entrega de Epi´s, control de la formación e información PRL, etc. 
+La solución debe dar cumplimiento a lo establecido en el artículo 24 de la Ley 31/1995, de 8 de 
+noviembre, de Prevención de Riesgos Laborales, así como el Real Decreto 171/2004, de 
+Prevención de Riesgos Laborales, en materia de coordinación de actividades empresariales, y 
+adicionalmente el cumplimiento de la Ley 32/2006, de 18 de octubre, reguladora de la 
+subcontratación en el sector de la construcción y el Real Decreto 1627/1997, por el que se 
+establecen disposiciones mínimas de seguridad y de salud en las obras de construcción. 
+ 
+2. ALCANCE DEL SERVICIO. 
+Con el objetivo de garantizar la adecuada Gestión CAE de la documentación e información de 
+los contratistas de la APC y sus subcontratas, la APC dispondrá de una plataforma que les 
+permitirá, aportar la documentación e información necesaria para su revisión y aprobación, de 
+manera que se pueda garantizar que el personal de las empresas que acceden a los diferentes 
+centros de trabajo de pendientes de la APC, puedan realizarlo cumpliendo la legislación vigente 
+en materia de prevención de riesgos laborales. La aplicación deberá permitir como mínimo al 
+menos mil (1.000) elementos de coordinación (centros, empresas, trabajadores, maquinaria y 
+
+--- página 3 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : LUIS ORIA DOMÉNECH | FECHA : 27/10/2026 14:58 | NOTAS : F - (Sello de Tiempo:
+27/10/2026 14:58)
+ 
+ 
+ 
+ 
+Página 3 de 14 
+ 
+vehículos), no suponiendo coste alguno para las empresas contratistas y subcontratas. 
+Además, no se limitará el espacio o memoria de almacenamiento en el servidor. 
+Para la Gestión PRL de trabajadores, la herramienta deberá permitir la Gestión Integral de la 
+Seguridad y Salud de los trabajadores de la APC. 
+De forma general para las dos plataformas los servicios incluidos dentro del alcance son: 
+• La implantación de las plataformas, llevándose a cabo las tareas de configuración, 
+migración de datos, formación al personal de la APC y puesta en funcionamiento. 
+• El servicio de las plataformas debe incluir todo lo necesario para que sea accesible y 
+operativa 24x7 durante la vigencia del contrato.  
+• La empresa adjudicataria debe contar con un medio de comunicación tanto telefónico 
+como electrónico con las empresas contratistas de la APC y sus subcontratas. Deberá 
+contar con un módulo para la definición de nuevos usuarios externos y de gestión de 
+permisos. 
+• Debe garantizar un mantenimiento evolutivo a contar desde la implantación, de manera 
+que permita actualizaciones sin coste alguno, en función de las necesidades que la 
+legislación vigente exija. 
+ 
+3. OBLIGACIONES DEL CONTRATO Y CARACTERISTICAS FUNCIONALES DE LAS 
+PLATAFORMAS. 
+3.1. Migración de documentos e información. 
+Actualmente la APC gestiona toda la documentación CAE de contratistas y sus 
+subcontratas, además de la de sus propios trabajadores a través de la plataforma E-
+Coordina®, por lo que las plataformas a implantar por el futuro adjudicatario y que son 
+objeto del presente pliego, deben permitir la migración de toda la información almacenada 
+en dicha plataforma, de manera que permita a la APC seguir realizando la gestión CAE y de 
+gestión de PRL de manera eficaz. 
+ 
+ 
+ 
+ 
+
+--- página 4 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : LUIS ORIA DOMÉNECH | FECHA : 27/10/2026 14:58 | NOTAS : F - (Sello de Tiempo:
+27/10/2026 14:58)
+ 
+ 
+ 
+ 
+Página 4 de 14 
+ 
+3.2. Requisitos funcionales. 
+La plataforma web CAE deberá cumplir las siguientes condiciones: 
+• Estructuración de la información en la plataforma. 
+La plataforma CAE debe permitir la introducción de trabajos como entidad principal 
+en la gestión de la documentación e información. Es decir, la herramienta debe 
+permitir introducir documentación que permita la trazabilidad entre la APC, Empresa 
+Contratista, Subcontrata/s y Centro de Trabajo/s donde se realicen las actividades. 
+Adicionalmente debe tenerse en cuenta que los trabajos pueden desarrollarse en 
+varios Centros de Trabajo, a los que el personal externo debe acceder sin la 
+necesidad de volver a aportar la documentación e información que se encuentre ya 
+disponible en la plataforma. 
+• Permitir la gestión de usuarios y su perfilado. 
+La plataforma CAE permitirá definir diferentes perfiles internos sin límite, según las 
+necesidades de la APC, pudiendo tener permisos y funciones diferentes en el uso de 
+la plataforma, normalmente en modo edición, lectura o sólo acceso. Se identifican los 
+siguientes perfiles de usuarios: 
+• Usuarios administradores de la plataforma CAE. Serán el personal de la APC 
+o en quién delegue, el encargado de parametrizar y configurar la documentación 
+e información que se pida a las empresas contratistas de la APC y sus 
+subcontratas. 
+• Administrador de contratas. Será el personal de la APC o en quién delegue, 
+quien será responsable de dar de alta nuevos contratos, empresas contratistas 
+de la APC y sus subcontratas, y proporcionales sus credenciales para iniciar el 
+proceso de solicitud de la documentación e información a través de la 
+plataforma. La plataforma les proporcionará una visión global del estado en el 
+que se encuentra la información solicitada por contrato, por empresa contratista 
+y subcontrata y por sus trabajadores. 
+• Validadores de documentación e información. Serán el personal de la APC o 
+en quién delegue, quien poseerá la función de revisión y aprobación de la 
+documentación e información. 
+
+--- página 5 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : LUIS ORIA DOMÉNECH | FECHA : 27/10/2026 14:58 | NOTAS : F - (Sello de Tiempo:
+27/10/2026 14:58)
+ 
+ 
+ 
+ 
+Página 5 de 14 
+ 
+• Usuarios de consulta. Serán el personal de la APC o a quién autorice, quien 
+poseerá la función realizar consultas del estado en el que se encuentra la 
+documentación e información del personal de las empresas contratistas de la 
+APC y sus subcontratas que acceden a los centros de trabajo de la APC. 
+• Empresas contratistas de la APC y sus subcontratas. Se trata de las 
+empresas que trabajan en los diferentes centros de la APC, y que están sujetas 
+a una relación contractual con ésta. Éstas deben cumplir con la legislación 
+vigente, para la cual deberán aportar toda la documentación e información 
+establecida por ley. 
+• Visión general del estado de la documentación e información. La plataforma 
+CAE debe proporcionar una funcionalidad que permita conocer en todo momento la 
+documentación e información aportada y la pendiente de aportar por los contratistas 
+de la APC y sus subcontratas, a nivel de empresa y de trabajador. 
+La plataforma CAE debe proporcionar mecanismos para reclamar la documentación 
+pendiente o la que esté a punto de perder su vigencia durante la ejecución de su 
+respectivo contrato. 
+• Parametrización de los documentación e información en la plataforma: La 
+plataforma CAE será configurable y permitirá parametrizar la documentación e 
+información que las empresas contratistas de la APC y sus subcontratas. La 
+información mínima que debe recogerse será: 
+• Datos empresas. CIF, razón social, teléfono, email y persona de contacto. Estas 
+empresas posteriormente serán clasificadas por centros de trabajo.  
+•  Datos de centros de trabajo. Que permita tener detallada y organizada la 
+actividad de las diferentes contratas/proveedores, con nº ilimitado de centros de 
+trabajo.  
+• Petición documental. Requisitos documentales comunes a todas las contratas 
+y documentación específica que cada centro gestor necesite por su casuística. 
+Además de los documentos, tendrá que poderse definir categorías 
+(preselecciones), donde se marcarán qué documentos se solicitarán a cada una 
+de ellas.  
+
+--- página 6 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : LUIS ORIA DOMÉNECH | FECHA : 27/10/2026 14:58 | NOTAS : F - (Sello de Tiempo:
+27/10/2026 14:58)
+ 
+ 
+ 
+ 
+Página 6 de 14 
+ 
+• Biblioteca. Fondo documental destinado a aquellos documentos que la 
+APC, con fines informativos, deban ser descargados por las contratas 
+(evaluaciones de riesgos, planes de emergencia, etc.) y que estén asociados 
+a determinados centros de trabajo, en cumplimiento de los artículos 7 y 8 del 
+R.D. 171/2004 de CAE.  
+• Usuarios. Usuarios internos de la APC que vayan a utilizar el programa, 
+pudiéndose definir qué pueden hacer dentro del mismo (permisos) y que 
+cada uno de ellos vea su centro gestor específico con nº ilimitado de 
+usuarios.  
+• Criterios de validación. Deber permitir la inclusión de requisitos a cumplir 
+por los documentos que cargan las contratas para su validación. 
+A modo de ejemplo: 
+• Copia del Concierto con el servicio de prevención ajeno y último 
+recibo de pago del contrato con el SPA: 
+• Criterio de validación: 
+• Que el documento pertenece a la empresa.  
+• Que se cubren las 4 especialidades de prevención. 
+• Que está firmado por el SPA. 
+• La fecha de expedición es aquella en la que se firma el 
+documento o se renueva el contrato. 
+• Recibo que refleje período de liquidación y período que 
+abonan   o certificado que especifique esta validez y que 
+incluya el período para el que se encuentran al corriente de 
+pago.  
+• En caso de tener contratado el servicio con distintas 
+empresas, se presentarán los distintos recibos. 
+• Funcionalidad. Posibilidad de asignar la documentación e información por tipo de 
+contrato (obras y servicios) y por tipo de trabajo, pudiéndose asignar de forma 
+específica riesgos de especial peligrosidad, a los que se podrá asociar 
+documentación específica. 
+
+--- página 7 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : LUIS ORIA DOMÉNECH | FECHA : 27/10/2026 14:58 | NOTAS : F - (Sello de Tiempo:
+27/10/2026 14:58)
+ 
+ 
+ 
+ 
+Página 7 de 14 
+ 
+• Uso de plantillas. Debe permitir el uso de plantillas en formato pdf, .doc, .odt, etc., 
+para que puedan servir de guía a los contratistas de la APC y sus subcontratas, a la 
+hora de adjuntar la información. 
+• Subida de la documentación e información a la plataforma. Una vez dispongan 
+de sus credenciales de acceso a la plataforma CAE, la plataforma deberá permitir a 
+las empresas contratistas de la APC dar de alta a sus trabajadores y a su vez a los 
+de sus subcontratas para poder acceder a los centros de trabajo de la APC y 
+permitir subir toda la documentación e información solicitada para su validación. 
+• Revisión documental.  
+La plataforma debe permitir. 
+• Corrección de la documentación e información por parte de los 
+contratistas. En el caso de que la APC requiera la corrección de la 
+documentación, la plataforma debe proporcionar los mecanismos oportunos para 
+la comunicación de estas incidencias a los contratistas de la APC, con el fin de 
+que estos puedan adjuntar de nuevo la documentación e información a corregir. 
+Tanto los documentos validados, como los que estén en estado caducado 
+permanecerán en la plataforma, aunque ya no esté como activa, en el repositorio 
+documental. 
+• Validación de la documentación e información. La validación de la 
+documentación e información será realizada por personal autorizado de la APC o 
+en quién delegue. La plataforma debe contemplar diferentes flujos de aprobación 
+de la documentación condicionada a su tipología, pudiendo un documento ser 
+marcado como “No válido” o “Incompleto”, pudiéndose indicar de forma clara y 
+concisa el motivo del rechazo, quedando registrado y siendo visible para el 
+usuario. La plataforma enviará automáticamente una notificación al interlocutor 
+de la empresa externa en el momento del motivo del rechazo del documento. 
+Como parte de la validación de documentos e información, es necesario que 
+cada uno de los documentos definidos en la petición documental tenga 
+establecido unos criterios de validación de manera que sirvan de orientación al 
+usuario de lo necesario para su validación. Estos criterios serán establecidos con 
+ayuda del “Soporte a la APC”. 
+
+--- página 8 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : LUIS ORIA DOMÉNECH | FECHA : 27/10/2026 14:58 | NOTAS : F - (Sello de Tiempo:
+27/10/2026 14:58)
+ 
+ 
+ 
+ 
+Página 8 de 14 
+ 
+• Vigencia de la documentación. La plataforma CAE debe permitir establecer la 
+vigencia de la documentación e información. El fin de la vigencia se notificará 
+con la suficiente antelación a las empresas contratistas a través de la propia 
+plataforma. Dicha antelación, tendrá la posibilidad de ser parametrizada. 
+• Informes personalizados. La plataforma debe permitir obtener informes 
+relativos al cumplimiento documental, permitiendo obtener informes 
+pormenorizados relativos a la solicitud documental, como por ejemplo, de 
+cumplimiento documental o informes de situación del trabajo, donde se 
+especifique la autorización de trabajadores, vehículos, maquinaria y 
+subcontrataciones en función de la documentación validada. Deberá contar con 
+una herramienta para la elaboración de informes que podrán exportarse a 
+formato csv, xml, pdf. 
+• Notificación Resumen. Envío automático para las empresas externas y usuarios 
+de una notificación resumen con la documentación incidentada de forma periódica, 
+pudiéndose configurar este periodo. Este correo incluye la documentación que se 
+encuentre incidentada, caducada o próxima a caducar, no válida, incompleta y 
+pendiente de presentar.  
+• Notificaciones masivas. Posibilidad de realizar a los usuarios que se desee, 
+pudiendo incluir archivos adjuntos a las mismas.  
+• Panel de Estadísticas. De cumplimiento documental por porcentajes en función del 
+estado de los documentos solicitados, que permite agrupar datos de las 
+estadísticas asociadas a cada centro, trabajador, o empresa.  
+• Trazabilidad. La herramienta debe permitir controlar qué usuarios y qué acciones 
+han realizado dentro de la herramienta, siendo estos registros exportables, es decir, 
+un registro de eventos y acceso a la plataforma.  
+• Seguridad de la información. Cada una de las empresas contratistas de la APC 
+solo tendrá acceso a la documentación e información correspondientes a sus 
+contratos. La plataforma debe garantizar el cumplimiento del R.G.P.D. de manera 
+que únicamente podrán acceder a la documentación clasificada como alta aquellos 
+perfiles asociados con ese contrato, dejando rastro para posibles auditorías. 
+
+--- página 9 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : LUIS ORIA DOMÉNECH | FECHA : 27/10/2026 14:58 | NOTAS : F - (Sello de Tiempo:
+27/10/2026 14:58)
+ 
+ 
+ 
+ 
+Página 9 de 14 
+ 
+La plataforma Web CAE o el software adicional para el caso de la gestión de trabajadores 
+de la APC debe permitir: 
+• Gestión de trabajadores. Con configuración de puestos de trabajo, asignación de 
+centros de trabajo, equipos de trabajo, productos químicos. 
+• Gestión de entrega de Epi´s. Periodicidad de entrega y caducidad con alertar 
+definibles. 
+• Formación e información PRL. Gestión por trabajador. 
+• Almacenamiento ilimitado de documentos caducados o no activos. Durante la 
+duración del contrato. 
+• Envío de archivos a través de un portal de acceso. El trabajador podrá consultar 
+y firmar electrónicamente de documentos PRL por estos. 
+• Informes configurables. Por trabajador, Epi´s, fechas de entrega o caducidad, etc. 
+• Citas y aptos médicos. Con alertas definibles. 
+• Gestión de accidentes. 
+• Importación de planos configurables ajustados al ámbito de PRL. Ubicación de 
+extintores, pulsadores de alarma, señalética, etc… mediante iconos identificativos. 
+• Generación de Checklist. Para revisión de instalaciones. 
+• Importación de ficheros. 
+4. FORMACIÓN. 
+El adjudicatario de las plataformas llevará a cabo la formación necesaria para aquel personal 
+de la APC que considere necesario. La formación se organizará en función de las necesidades 
+según perfil. 
+Las sesiones formativas serán en formato online (mínimo de 2 horas y por videollamada) o 
+presencial (mínimo de 4 horas y en las instalaciones de la APC) con la duración suficiente para 
+la correcta utilización de las herramientas en función de sus necesidades. El adjudicatario será 
+el encargado de proporcionar todo el material necesario para impartir la formación.  
+ 
+ 
+ 
+ 
+
+--- página 10 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : LUIS ORIA DOMÉNECH | FECHA : 27/10/2026 14:58 | NOTAS : F - (Sello de Tiempo:
+27/10/2026 14:58)
+ 
+ 
+ 
+ 
+Página 10 de 14 
+ 
+5. SOPORTE AL FUNCIONAMIENTO DE LA PLATAFORMA. 
+El adjudicatario de la oferta deberá poder dar: 
+• Soporte a la APC. 
+El adjudicatario de la plataforma deberá proporcionar soporte referente a su 
+funcionamiento a los perfiles de la APC que acceden a la plataforma CAE o de Gestión 
+de trabajadores. 
+Se pondrá a disposición de la APC todo el material de ayuda (videos, manuales, FAQ…) 
+necesarios. El adjudicatario de las plataformas debe disponer de un canal de 
+comunicación que como mínimo dispondrá de: 
+• Teléfono de contacto 
+• Correo electrónico 
+Este servicio se tendrá que prestar en el horario de oficina de la APC, de lunes a viernes 
+de 8:00 a 16:00 horas, no utilizándose servicios de tarifación adicional. Este servicio 
+comenzará a prestarse una vez implantadas las plataformas. Adicionalmente, tendrá a 
+su disposición durante la fase inicial a un Técnico Superior/Máster Universitario en PRL 
+o bien Técnico en Riesgos Profesionales, para consulta de dudas documentales o 
+consultas respecto al funcionamiento de las plataformas. 
+• Soporte a las empresas contratistas. 
+El adjudicatario de la plataforma CAE pondrá a disposición de los contratistas de la APC 
+y sus subcontratas, en un sitio visible de la plataforma, el material de soporte, además 
+de un teléfono de ayuda específico, en horario de 08:00 a 18:00 horas, de lunes a 
+viernes, para gestionar las dudas que puedan surgir, no permitiéndose la utilización de 
+servicios de tarifación adicional. Este soporte debe estar disponible en varios idiomas, 
+entre los que se debe incluir el español y el inglés. 
+ 
+6. IMPLANTACIÓN DE LAS PLATAFORMAS. 
+Una vez firmado el contrato, se realizará una reunión con el equipo de trabajo que la APC 
+determine, para trasladar los requerimientos que debe tener la plataforma y que la empresa 
+adjudicataria de las plataformas que deberá configurar y parametrizar. El adjudicatario de las 
+
+--- página 11 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : LUIS ORIA DOMÉNECH | FECHA : 27/10/2026 14:58 | NOTAS : F - (Sello de Tiempo:
+27/10/2026 14:58)
+ 
+ 
+ 
+ 
+Página 11 de 14 
+ 
+plataformas entregará a la APC la planificación y la documentación que servirá de base para la 
+parametrización y configuración de la plataforma. 
+Se establecerá un plazo máximo de un (1) mes para que las plataformas se encuentren 
+completamente operativas a partir de la firma del contrato, con la información de los 
+contratistas y documentación propia de la APC migrada de la plataforma actual, así como la 
+documentación relacionada. Durante este plazo se podrán mantener cuantas reuniones sean 
+necesarias para hacer el seguimiento de la implantación de la plataforma. 
+Dentro de la implantación se incluye la formación al personal de la APC y la entrega de la 
+documentación de ayuda y soporte. 
+ 
+7. SERVICIO DE PLATAFORMAS. 
+7.1. Alojamiento de las plataformas y garantía de disponibilidad. 
+El adjudicatario de las plataformas se encargará de la gestión de los dispositivos de 
+comunicaciones, seguridad, almacenamiento y equipos técnicos de infraestructuras en los 
+que se hospede la plataforma. Además, será responsable de los servicios de operación y 
+explotación, copias de seguridad y todos los elementos que contribuyan a una gestión eficaz 
+de la misma. 
+La APC se reserva el poder realizar auditorías de verificación para comprobar el 
+cumplimiento por parte del adjudicatario del servicio ofertado en la propuesta. Por otra parte, 
+el contratista de las plataformas garantizará que los datos de la APC se encuentran 
+almacenados en instancias separadas de otros clientes y en CDPs de la Unión Europea. 
+Los componentes de la plataforma deberán permitir el servicio en condiciones de alta 
+disponibilidad (24 horas x 365 días). 
+La aplicación debe ser accesible y funcionar correctamente con las últimas versiones de los 
+navegadores del mercado. Todas las comunicaciones con la plataforma web se realizarán a 
+través del protocolo HTTPS. 
+7.2. Mantenimiento de la plataforma. 
+Una vez implantadas, el adjudicatario pondrá a disposición de la APC todas las 
+actualizaciones de software que sean necesarias para el correcto funcionamiento de ésta, 
+bien sea por necesidades de adaptación a evoluciones de los sistemas operativos, 
+
+--- página 12 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : LUIS ORIA DOMÉNECH | FECHA : 27/10/2026 14:58 | NOTAS : F - (Sello de Tiempo:
+27/10/2026 14:58)
+ 
+ 
+ 
+ 
+Página 12 de 14 
+ 
+exigencias normativas o a la introducción de mejoras funcionales de la aplicación. Toda 
+actualización no supondrá un coste adicional. 
+ 7.3. Conectividad con otras aplicaciones. 
+Las plataformas dispondrán de servicio web o APIs para conectarse con las otras 
+aplicaciones. Estos servicios serán compatibles con los estándares de interoperabilidad 
+disponibles en el mercado (SAP, WDSL, XML, etc.). La implantación de estos servicios se 
+realizará mediante el correspondiente mantenimiento evolutivo. 
+8. RESOLUCIÓN DE INCIDENCIAS. 
+Las incidencias técnicas reportadas serán evaluadas y resueltas en tiempo y forma de 
+atendiendo al nivel de criticidad: 
+• Nivel 1 (Alta): La pérdida de la operatividad es total y el impacto es crítico en la 
+continuidad del negocio. Son todas aquellas incidencias que suponen la imposibilidad 
+para realizar funciones básicas del servicio y que impide que el usuario final no pueda 
+continuar trabajando.  
+• Nivel 2 (Media): La pérdida de operatividad es parcial y el impacto es moderado en la 
+continuidad del negocio. Éstas afectan de forma limitada a una funcionalidad del 
+servicio, sin impedir las funciones principales o que lo hagan varios usuarios.  
+• Nivel 3 (Baja): La operatividad no se ve afectada, el impacto es mínimo en el servicio. 
+El usuario puede trabajar con normalidad al tratarse de dudas sobre el funcionamiento o 
+que afecten a funcionalidades marginales del servicio.  
+Siendo los tiempos de respuesta y resolución los siguientes: 
+Criticidad Tiempo máximo de respuesta Tiempo máximo de resolución 
+1 2-3 horas ≤ 8 horas 
+2 4-5 horas ≤ 2 días laborables 
+3 7-8 horas ≤ 1 semana 
+ 
+ 
+ 
+
+--- página 13 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : LUIS ORIA DOMÉNECH | FECHA : 27/10/2026 14:58 | NOTAS : F - (Sello de Tiempo:
+27/10/2026 14:58)
+ 
+ 
+ 
+ 
+Página 13 de 14 
+ 
+9. Propiedad de los datos. 
+Toda la documentación e información contenida en las plataformas son propiedad de la APC. 
+El adjudicatario del contrato, ni otros clientes suyos, podrán acceder ni usar los datos 
+almacenados por la APC en la herramienta. 
+El adjudicatario estará obligado al cumplimiento de la legislación vigente en materia de 
+protección de datos de carácter personal en todo lo relacionado con el presente proyecto.  
+Especialmente en: 
+• Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 
+2016 relativo a la protección de las personas físicas en lo que respecta al tratamiento de 
+datos personales y a la libre circulación de estos datos y por el que se deroga la 
+Directiva 95/46/CE (Reglamento general de protección de datos). 
+• Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía 
+de los derechos digitales. 
+De la misma manera, los contenidos y aplicaciones que formen parte del proyecto deberán 
+contemplar las medidas técnicas necesarias para garantizar la seguridad que garantice el 
+cumplimiento de la normativa indicada anteriormente. 
+Una vez cumplida la prestación contractual, los datos de carácter personal serán devueltos, al 
+igual que cualquier soporte o documento en que conste algún dato sensible. 
+En caso de incumplimiento de lo estipulado en este apartado, será responsabilidad del 
+adjudicatario y los responsables designados de las infracciones que se deriven del mismo. 
+El adjudicatario queda obligado a mantener absoluta confidencialidad sobre cualquier dato que 
+pueda ser objeto de cumplimiento de carácter sensible. Quedará totalmente prohibido el uso de 
+cualquier información que no sea objeto del presente PPT. 
+La APC dispone de un Sistema de Gestión de Seguridad de la Información, de acuerdo con el 
+Real Decreto 311/2022 de 3 de mayo, Esquema Nacional de Seguridad, y la Ley Orgánica 
+3/2018, de Protección de Datos Personales y garantía de los derechos digitales, disponiendo 
+de su propia Política de Seguridad y Normativa de Seguridad. Por ello, el desarrollo de trabajos 
+se ajustará a las medidas que sean de aplicación según lo establecido en este sistema. En todo 
+caso, siempre se deberá se deberá cumplir la Normativa de Seguridad de la APC. 
+ 
+
+--- página 14 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-98e8-5adb-6dd9-c156-d21a-324c-e376-537b
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : LUIS ORIA DOMÉNECH | FECHA : 27/10/2026 14:58 | NOTAS : F - (Sello de Tiempo:
+27/10/2026 14:58)
+ 
+ 
+ 
+ 
+Página 14 de 14 
+ 
+10. DEVOLUCIÓN DEL SERVICIO. 
+Esta fase tendrá una duración máxima de 1 mes desde la notificación de su inicio por parte de 
+la APC, y en todo caso se extenderá durante el último mes de contrato si se completa el tiempo 
+de vigencia de este y sus prórrogas. 
+Las tareas que se deben ejecutar en esta fase serán: 
+• Revisión de la documentación a entregar a LA APC descrita en la oferta del contratista. 
+• Elaboración de los ficheros con toda la documentación e información almacenada en las 
+plataformas por la APC. Estos ficheros estarán en un formato compatible con la nueva 
+plataforma. 
+• Elaboración de los documentos funcionales de la estructura de estos ficheros. 
+• Colaborar con el nuevo adjudicatario en la transferencia de los documentos e 
+información a la nueva plataforma garantizando la continuidad y normalidad en la 
+prestación del servicio hasta la finalización efectiva del proceso de devolución. 
+11. MODELO DE RELACIÓN. 
+El modelo de relación define las responsabilidades y mecanismos de comunicación entre el 
+adjudicatario y la APC en el marco de actuación de este contrato, que garantice el 
+cumplimiento de las obligaciones de ambas partes. 
+Por parte de la APC, el responsable del contrato será la persona de referencia para la gestión y 
+coordinación de las actividades derivadas de la ejecución del servicio. 
+El adjudicatario designará, de entre su personal, a una persona de referencia para las tareas 
+de gestión administrativa y de seguimiento operativo del contrato que se encargará de 
+centralizar el contacto con la APC y de asistirle en las dudas que puedan surgir durante la 
+vigencia del contrato. 
+ 
+En Castellón de la Plana, a fecha firma electrónica. 
+JEFE DE DIVISIÓN SEGURIDAD INTEGRAL 
+Fdo.: Luis Oria Doménech. 
+Vº Bº: JEFE DE ÁREA DE EXPLOTACIÓN 
+Fdo.: Antonio Velasco Gómez. 

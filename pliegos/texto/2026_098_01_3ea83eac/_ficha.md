@@ -10,7 +10,7 @@
 
 ## Documentos
 
-- [Legal] 202609801 Pliego de Condiciones Particulares.pdf: 01_Legal_202609801_Pliego_de_Condiciones_Particulares.pdf (850 KB)
+- [Legal] 202609801 Pliego de Condiciones Particulares.pdf: 01_Legal_202609801_Pliego_de_Condiciones_Particulares.pdf (851 KB)
 - [Technical] 202609801 Pliego de Prescripciones Tecnicas.pdf: 02_Technical_202609801_Pliego_de_Prescripciones_Tecnicas.pdf (314 KB)
 - [Additional] INSTRUCCIONES DEUC MUTUALIA.pdf: 03_Additional_INSTRUCCIONES_DEUC_MUTUALIA.pdf (678 KB)
 - [Additional] 202609801 Anexo Ib Oferta otros criterios cuantificables automaticamente.pdf: 04_Additional_202609801_Anexo_Ib_Oferta_otros_criterios_cuantifi.pdf (274 KB)

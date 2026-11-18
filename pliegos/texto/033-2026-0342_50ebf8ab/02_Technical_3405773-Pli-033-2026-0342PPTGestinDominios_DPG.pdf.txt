@@ -1,0 +1,569 @@
+
+
+--- página 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 1 de 8 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS QUE HA DE REGIR LA 
+CONTRATACIÓN MEDIANTE LICITACIÓN PÚBLICA (PROCEDIMIENTO 
+ABIERTO SIMPLIFICADO SUMARIO SEGÚN EL ARTÍCULO 159.6 LCSP) 
+Nº 033-2026-0342 PARA LA CONTRATACIÓN DEL SERVICIO DE 
+GESTIÓN INTEGRAL DE LA CARTERA CORPORATIVA DE DOMINIOS DE 
+INTERNET PARA MUTUA UNIVERSAL – MUGENAT, MUTUA 
+COLABORADORA CON LA SEGURIDAD SOCIAL Nº 10.  
+ 
+1. SITUACIÓN DE PARTIDA 
+ 
+Mutua Universal (en adelante MUTUA) tiene presencia en Internet mediante un conjunto de nombres de 
+dominio que tiene reservados en titularidad y que se renuevan anualmente. Sobre estos dominios se 
+realizan gestiones como cambios de configuración de servicio DNS u otros. Para todas las actividades 
+a realizar sobre los nombres de dominio de MUTUA, desde hace años la Entidad contrata el servicio de 
+gestión de dominios en Internet y el servicio de DNS para estos. 
+ 
+El vigente contrato para estas mismas prestaciones finaliza a 31 de enero de 2027. Dentro de esta 
+contratación, el actual contratista utiliza todas las herramientas de gestión a su disposición para actuar 
+en nombre de MUTUA, tras la autorización previa por parte del personal designado por la Entidad. 
+ 
+Para dar continuidad a la adecuada gestión de la cartera de dominios de titularidad de MUTUA, se 
+considera necesaria la contratación del servicio de gestión, registro, renovación y contratación de los 
+dominios de internet a partir de 1 de febrero de 2027.  
+ 
+ 
+2. OBJETO Y ALCANCE DEL CONTRATO 
+ 
+El objeto de este contrato es el servicio de gestión integral de la cartera corporativa de dominios de 
+Internet de MUTUA y el servicio de DNS correspondiente. 
+ 
+La titularidad de un nombre de dominio implica poder disponer de servicios públicos que se exponen en 
+Internet por parte de la Entidad. Por otro lado, la falta de la posesión y control (registro y reserva) de un 
+determinado dominio que pudiera vincularse con Mutua Universal, no siendo titularidad de ésta, implica 
+los siguientes riesgos: 
+ 
+ Ciberseguridad: Los grupos de interés de MUTUA se exponen a ataques cibernéticos como el 
+phishing o la suplantación de identidad en nombre de una “falsa Mutua Universal”), que pueden 
+generar importantes perjuicios en forma de graves incidentes de ciberseguridad. 
+ Reputacional y de Imagen: el hecho de que otra entidad posea un dominio que pueda vincularse 
+con Mutua Universal puede generar confusión en los usuarios que buscan información sobre la 
+Entidad, pudiendo dañar la imagen y reputación de MUTUA con acciones como la publicación 
+de una web falsa o con una redirección a sitios que puedan dañar la imagen corporativa. 
+ Financiero y Jurídico: la no posesión de un dominio determinado que pudiera vincularse con 
+Mutua Universal puede facilitar la comisión de estafas cibernéticas basadas, por ejemplo, en 
+envíos de correos electrónicos desde correos de dicho dominio, suplantando a Mutua Universal 
+frente a proveedores o frente a las empresas relacionadas. 
+ 
+Por todo ello, en el alcance del contrato también estará incluida la gestión de potenciales situaciones en 
+que MUTUA tenga la necesidad de proceder con el registro de nuevos nombres de dominio y su reserva 
+posterior (contratación de nuevos nombres de dominios). 
+ 
+ 
+3. DIVISIÓN EN LOTES (Sí/No) 
+ 
+
+--- página 2 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 2 de 8 
+ 
+No procede la división en lotes para este expediente, por imposibilidad de separación de los conceptos 
+implicados, que no pueden ejecutarse de forma independiente. El supuesto de dicha división complicaría 
+la correcta ejecución del contrato desde un punto de vista técnico. 
+ 
+ 
+4. SERVICIOS SUJETOS AL CONTRATO 
+ 
+El servicio de gestión de dominios de internet de MUTUA y de DNS incluye las siguientes actividades: 
+ 
+ Gestión administrativa y técnica sobre los dominios ya reservados (incluye solicitudes de 
+modificaciones en DNS) 
+o Gestión de las altas, bajas y renovaciones de los dominios del cliente. 
+o Gestión de las DNS de los dominios del cliente: 
+ Creación y gestión de registros tipo A, CNAME, TXT, etc. 
+ Creación y modificación de registros para validaciones (spf, dkim, etc.) 
+ Facilitar información relacionada con los dominios, y entradas DNS de los 
+mismos sin coste adicional. 
+ Renovación de la reserva de nombres de dominio en titularidad de Mutua Universal (de acuerdo 
+con detalle de volumetría proporcionado en este pliego) 
+ Registro de potenciales nuevas reservas 
+ Negociación con terceros para registro de nuevos dominios si procede 
+ Cuando proceda, dar de baja potenciales dominios en actual titularidad de MUTUA 
+ 
+Este conjunto de actividades se resumen en 3 tipos de prestaciones a contemplar en la propuesta por 
+parte de las empresas licitadoras: 
+ 
+ Gestión del servicio: dedicación necesaria por parte del adjudicatario para la gestión 
+administrativa y técnica durante toda la vigencia del contrato y para cualquier necesidad de 
+Mutua Universal en lo relativo a nombres de dominio, y negociación con terceros para registro 
+de nuevos dominios si procede 
+ Renovación de la reserva de nombres de dominio en titularidad de Mutua Universal 
+ Partida dedicada a negociación y reserva de nuevos nombres de dominio 
+ 
+ 
+5. REQUISITOS PARA LA EJECUCIÓN DE LAS PRESTACIONES 
+ 
+Previa autorización 
+ 
+La creación, adquisición de nuevos dominios o la baja de los existentes, deberán ser autorizadas 
+exclusivamente por el personal designado y atutorizado por parte de MUTUA. 
+ 
+Fase de transición al inicio del contrato 
+ 
+Como se ha indicado, en la actualidad (y hasta 31 de diciembre de 2026), MUTUA tiene una contratación 
+vigente para este mismo objeto de contrato, y en caso de cambio de contratista para el contrato derivado 
+de este nuevo expediente de contratación, se deberá garantizar una transición adecuada. Dentro del 
+contrato se considerarán incluidas, sin coste adicional, todas las gestiones necesarias por parte del 
+adjudicatario para realizar el traspaso desde el actual contratista, si se produce esta circunstancia. 
+ 
+El adjudicatario de esta licitación deberá de realizar las gestiones necesarias para el traslado efectivo de 
+los dominios propiedad de MUTUA, así como de los DNS asociados y las redirecciones de dominios 
+existentes, para la gestión del servicio. 
+ 
+El adjudicatario será responsable de la carga de todas las reservas de dominio actuales, y todas las 
+entradas de resolución de DNS correspondientes, y de activarlas en el panel de control incluido en su 
+propuesta, coordinando con MUTUA las actuaciones previas necesarias para obtener un tiempo de caída 
+nulo en el servicio y en la prestación del servicio durante la transición entre proveedor actual y el nuevo 
+adjudicatario. 
+
+--- página 3 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 3 de 8 
+ 
+ 
+El traspaso de la gestión de dominios de internet deberá ser completo y deberá de respetar todos los 
+datos registrados, incluido el período de tiempo por el que fue registrado. No deberá requerir cambios 
+en la fecha de renovación de dominios (dependientes de su fecha de expiración). Cualquier cambio que 
+realice el adjudicatario en este sentido, no supondrá coste adicional alguno. 
+ 
+En caso de  cambio de proveedor sobre el actual contratista del servicio de gestión de dominios, esto 
+tendrá como consecuencia el cambio en múltiples entradas DNS simultáneamente, así como la 
+modificación de las direcciones IP públicas de uno o varios servicios en diferentes dominios a la vez. 
+Cuando suceda uno de estos supuestos, y ante una eventual modificación que afecte simultáneamente 
+a múltiples IPs públicas, y por  lo tanto, a múltiples entradas de resolución DNS, el adjudicatario  deberá 
+realizar, sin coste adicional dentro del contrato, la correspondiente modificación masiva.  
+ 
+Panel de control para gestión de nombres de dominio 
+ 
+Las empresas licitadoras deberán contemplar la puesta a disposición de una herramienta única 
+consolidada de administración y gestión de todos los nombres de dominios incluidos en el alcance del 
+contrato (panel de control). 
+ 
+Para situaciones de urgencia y ante la imposibilidad de acceder al servicio, la herramienta se pondrá 
+también a disposición de personal designado y autorizado de MUTUA para que la Entidad pueda realizar 
+gestiones de forma autóonoma (gestión de solicitudes, alta de nuevos dominios y nombres bajo los 
+mismos, baja de dominios y nombres, modificación de nombres y su resolución a dirección IP; en 
+definitiva, la gestión del ciclo de vida de la resolución de nombres de los dominios). 
+ 
+Inventario de nombres de dominio y renovaciones 
+ 
+Respecto a las renovaciones de la reserva de los dominios implicados, el adjudicatario deberá mantener  
+un listado de los dominios y su caducidad, actualizado en todo momento, y puesto a disposición de 
+MUTUA con carácter periódico o a demanda. 
+ 
+El adjucatario deberá tambien proporcionar un sistema que alerte a MUTUA, con al menos un mes de 
+antelación, de la fecha de vencimiento de los dominios cuyo registro va a expirar o caducar. Las 
+renovaciones, salvo indicación contraria expresa, se realizarán de forma automática. 
+ 
+Representación en nombre de Mutua Universal 
+ 
+A los efectos de los apartados anteriores, el adjudicatario representará a MUTUA para obtener nuevos 
+registros de dominios en Internet. 
+ 
+De este modo, el adjudicatario actuará de intermediario entre las Entidades Registradoras de dominios 
+y MUTUA, realizando el registro, renovaciones e inventario de los nombres de dominio de MUTUA, y 
+presentando a ésta los informes del servicio que se precisen. 
+ 
+El adjudicatario se compromete a la presentación y tramitación de solicitudes para el registro, 
+modificación de datos y bajas de dominios, todo ello validado previamente por MUTUA. 
+ 
+Registro de nuevos dominios 
+ 
+Dada la excepcionalidad de esta potencial necesidad y a la disparidad de potenciales dominios de primer 
+nivel implicados, las empresas licitadoras deberán contemplar en sus propuestas las actividades 
+vinculadas a la negociación en nombre de MUTUA hasta el registro, pero no se cierra un importe concreto 
+por nombre de dominio, sino que se dedicará un presupuesto a esta necesidad, y se facturará esta parte 
+del servicio a partir de la demanda real. 
+ 
+Horario del servicio 
+ 
+Las peticiones habituales, así como cualquier solicitud de nuevo nombre de dominio, se realizarán en 
+horario habitual de oficina. 
+
+--- página 4 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 4 de 8 
+ 
+ 
+Para peticiones relacionadas con modificaciones en DNS, se deberá disponer de un servicio 24x7 para 
+atender urgencias o temas no planificados. 
+ 
+Es por ello que las empresas licitadoras deberán contemplar en sus propuestas el concepto de servicio 
+de gestión global, y no solo las renovaciones de las reservas de nombres de dominio. 
+ 
+Fase de transición al final del contrato 
+ 
+Del mismo modo, a la finalización del contrato derivado de este expediente, asumiendo que se haya 
+lanzado un nuevo expediente para entonces para el que se hubiera derivado un nuevo cambio de 
+contratista, el adjudicatario del presente expediente deberá asumir dentro del contrato las gestiones 
+necesarias para facilitar el traslado de los dominios titularidad de MUTUA hacia el nuevo contratista. 
+ 
+ 
+6. ÁMBITO GEOGRÁFICO 
+ 
+La prestación de los servicios incluidos en esta licitación se llevará a cabo desde las oficinas del 
+adjudicatario. 
+ 
+ 
+7. INICIO DE PRESTACIÓN DEL SERVICIO 
+ 
+No se dará inicio al servicio para las prestaciones contratadas hasta que se haya iniciado el contrato, 
+aunque la fecha de inicio estimada del contrato es de 1 de febrero de 2027. 
+ 
+ 
+8. VOLUMETRÍA DE DOMINIOS IMPLICADOS 
+ 
+La información proporcionada en este apartado es la que está vigente a fecha de redacción de este 
+pliego técnico, pero el número de nombres de dominio a renovar podría variar al alza o la baja desde el 
+momento de formalización y durante la vigencia del contrato según las necesidades de Mutua Universal. 
+El adjudicatario deberá obtener una validación formal de la relación de nombres de dominio a contemplar 
+en el alcance del contrato antes de formalizar ninguna renovación. 
+ 
+De acuerdo a lo establecido en el Pliego de Condiciones Particulares, esta parte del contrato estará 
+sujeta a precios unitarios. Como orientación para que los licitadores puedan cumplimentar el Anexo III 
+de “Proposición económica” para esta parte del contrato, y sin que esta información sea vinculante, se 
+indican las unidades solicitadas de servicio amparadas en este contrato y el importe unitario base 
+estimado de licitación (sin IVA). 
+ 
+Dominio primer nivel Cantidad Precio unitario Subtotal 
+.ai 1 170,00€ 170,00€ 
+.app 2 45,00 € 90,00 € 
+.com 13 25,00 € 325,00 € 
+.es 5 25,00 € 125,00 € 
+.eu 5 25,00 € 125,00 € 
+.info 3 25,00 € 75,00 € 
+.mobi 3 25,00 € 75,00 € 
+.net 11 25,00 € 275,00 € 
+.org 5 25,00 € 125,00 € 
+.tech 1 85,00 € 85,00 € 
+.website 1 25,00 € 45,00 € 
+.xxx 3 85,00 € 255,00 € 
+ 53  1.770,00 € 
+ 
+
+--- página 5 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 5 de 8 
+ 
+Destacar, como ya se ha mencionado anteriormente, que esta volumetría es la inicial de referencia, pero 
+ésta podría variar a fecha de firma del contrato (y durante la vigencia de éste) derivado de las 
+necesidades relativas a nombres de dominios (altas, bajas) en MUTUA. Para el inicio de contrato, se 
+consensuarán los datos finales con el adjudicatario. 
+ 
+Para la reserva de potenciales incorporaciones de nuevos nombres de dominio, se reservará una partida 
+de 1.500€ adicionales dentro del alcance del contrato, para las que se podrá activar facturación bajo 
+demanda real. 
+ 
+ 
+9. CONTROL Y SEGUIMIENTO DEL CONTRATO 
+ 
+El adjudicatario deberá nombrar a un responsable global del contrato para que coordine la ejecución y 
+seguimiento de toda las actividades vinculadas a las prestaciones recogidas en este Pliego de 
+Prescripciones Técnicas. Mutua Universal designará un interlocutor del contrato que tendrá acceso a 
+este responsable global para cualquier necesidad vinculada al contrato durante la vigencia de éste. 
+ 
+En el caso de identificarse deficiencias en el ejecución de las prestaciones contratadas con el personal 
+del adjudicatario, éste realizará todas las gestiones internas hasta llegar a disponer de las prestaciones 
+solicitadas en este Pliego de Prescripciones Técnicas. 
+ 
+ 
+10. REQUISITOS PARA EL CUMPLIMIENTO EN MATERIA DE SEGURIDAD 
+DE LA INFORMACIÓN 
+ 
+En general, cualquier actuación dentro de las prestaciones solicitadas se debe llevar a cabo por parte 
+del adjudicatario tomando en consideración las mejores prácticas de seguridad. 
+Lo descrito en los siguientes apartados se considera de obligado cumplimiento para el adjudicatario. 
+ 
+10.1. Cumplimiento de la normativa vigente de protección de datos 
+En aquellos casos en los que los servicios prestados impliquen el tratamiento de datos personales, será 
+necesario la implementación de funcionalidades que garanticen el cumplimiento de la normativa vigente 
+por parte del adjudicatario. 
+ 
+10.2. Política y Normativas de Seguridad 
+Los proveedores y entidades que mantengan relaciones contractuales con Mutua Universal aceptarán y 
+se comprometerán a cumplir la Política de Seguridad (https://www.mutuauniversal.net/es/mu-
+articulo/Politicas) y las Normativas de Seguridad y Procedimientos de Seguridad de la Información de 
+Mutua Universal que sean aplicables al objeto de la licitación. 
+ 
+10.3. Requerimientos generales de seguridad 
+El adjudicatario debe garantizar a Mutua Universal la seguridad de la información a la que tenga acceso 
+durante el desarrollo del servicio, observando las siguientes normas: 
+ 
+• Cumplir con los estándares y políticas de seguridad de la Entidad. 
+• Garantizar la confidencialidad, integridad y disponibilidad de la información almacenada y 
+transmitida por su red. 
+• Informar acerca de la política de seguridad propia, así como de su implementación y seguimiento 
+por parte de su organización. 
+• Informar por escrito, tan pronto como detecte riesgos reales o potenciales de seguridad en su 
+propia red, o en el equipamiento de cliente. 
+• Garantizar que la información, en su totalidad, no se almacena, duplica o intercepta, mientras 
+circula por su red. 
+• Establecer un control de acceso lógico a los equipamientos de red y/o sistemas de información, 
+garantizándolo únicamente a los usuarios autorizados. 
+• Garantizar que su equipo de trabajo aplica de forma estricta las normas de seguridad. 
+
+--- página 6 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 6 de 8 
+ 
+• Detallar los mecanismos y protocolos de encriptación de datos que usarán en las transmisiones. 
+ 
+El personal del adjudicatario que requiera acceso físico a las instalaciones de Mutua Universal será 
+identificado y deberá llevar visible en todo momento la acreditación asignada. 
+ 
+10.4. Requerimientos de la seguridad para la ejecución del servicio 
+En el caso de que el personal del adjudicatario detecte un incidente de seguridad durante la prestación 
+del servicio, debe notificarlo de inmediato al personal responsable del servicio designado por Mutua 
+Universal. 
+ 
+ Por consiguiente, el adjudicatario debe habilitar un canal de comunicación para potenciales incidentes 
+de seguridad en Mutua Universal, y presentar, en el plazo que se establezca, un informe de situación y 
+un plan de reparación o mitigación, si procede. 
+ 
+10.5. Intercambio seguro de información 
+El adjudicatario del servicio debe suministrar las herramientas necesarias para un intercambio seguro 
+de información entre ambas partes, que no requiera la instalación de aplicaciones en Mutua Universal, 
+asegurando el uso de un protocolo de cifrado robusto y de mercado. 
+ 
+En el caso de que el protocolo utilizado para el cifrado se vea públicamente comprometido a lo largo de 
+la ejecución del servicio, el adjudicatario deberá proporcionar una alternativa segura con la que trabajar 
+a partir de ese momento. 
+ 
+En el caso de que el protocolo criptográfico utilizado se vea comprometido o declarado obsoleto por parte 
+de organismos de referencia (CCN, ENISA, NIST), el adjudicatario deberá adoptar una alternativa segura 
+sin coste adicional para Mutua Universal, en un plazo máximo de 10 días hábiles desde su notificación. 
+ 
+Cualquier información de Mutua Universal que por normativa o recomendaciones de seguridad requiera 
+ser cifrada en su ubicación de almacenamiento, incluyendo todos los dispositivos extraíbles del tipo CD, 
+DVD, memorias USB, u otros de naturaleza análoga, deben seguir los estándares de seguridad, custodia 
+y protección de las claves  
+ 
+La transmisión por medios electrónicos considerará los mecanismos y protocolos de encriptación de la 
+información necesarios para evitar posibles fugas de información acorde a la sensibilidad de la 
+información transmitida. 
+ 
+10.6. Propiedad y utilización de los datos 
+La empresa adjudicataria y el personal encargado de la realización de las tareas, deben guardar secreto 
+profesional sobre todas las informaciones, documentos y asuntos a los que tengan acceso o 
+conocimiento durante la vigencia del contrato, estando obligados a no hacerlos públicos o enajenar 
+cuantos datos conozcan como consecuencia o con ocasión de su ejecución, por tiempo indefinido 
+después de la finalización del contrato. 
+ 
+ El adjudicatario se compromete a mantener estricta confidencialidad y a no revelar o ceder datos, ni aún 
+para su conservación, o documentos proporcionados por Mutua Universal, a terceros, para cualquier 
+otro uso no previsto como necesario para el desempeño de la prestación objeto de este contrato, 
+especialmente los datos de carácter personal. 
+ 
+La empresa adjudicataria será responsable de todos los daños y perjuicios directos o indirectos sufridos 
+por Mutua Universal como resultado del incumplimiento de la presente obligación de confidencialidad y 
+de protección de datos. En particular, la empresa adjudicataria será responsable de abonar a Mutua 
+Universal: 
+ 
+• Los gastos que le ocasione su defensa frente a eventuales procedimientos sancionadores o de 
+tutela de derechos incoados por la Agencia Española de Protección de Datos y sus recursos 
+ante los Tribunales competentes. 
+
+--- página 7 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 7 de 8 
+ 
+• El importe de la sanción que, en su caso, pudiera imponer la Agencia Española de Protección 
+de Datos. 
+• Los gastos que le ocasione su defensa frente a eventuales acciones legales que pudiesen 
+promover los titulares de datos o afectados. Dichos gastos incluirán, en todo caso, los honorarios 
+de los abogados y procuradores implicados en la defensa. 
+• El importe de las indemnizaciones a los titulares de los datos o afectados que, en su caso, 
+pudiera imponer a los tribunales. 
+ 
+10.7. Incidencias en materia de protección de datos 
+El adjudicatario del servicio deberá notificar en un plazo máximo de una hora desde su conocimiento 
+cualquier incidencia en los servicios prestados que pudiera afectar, potencialmente o de manera 
+confirmada, a datos de carácter personal de Mutua Universal. 
+ 
+En un plazo no superior a un día, deberá presentar un informe en el que se describa el impacto de la 
+incidencia, los motivos que la han causado, los procedimientos adoptados para protegerse de nuevas 
+ocurrencias, así como la totalidad de requisitos establecidos en el RLOPD. 
+ 
+10.8. Notificaciones y Gestión de Ciberincidentes 
+A los efectos de facilitar la notificación de cualquier aspecto de ciberseguridad y posibles incidentes con 
+afectación a los datos o sistemas informáticos de Mutua Universal, se facilitan los siguientes datos de 
+contacto: 
+ 
+Equipo de ciberseguridad (en adelante, Ciberseguridad Mutua) 
+E-mail: ciberseguridad@mutuauniversal.net 
+Teléfono: 935009232 (Horario: laborables 8h – 17h) 
+Dirección: Carrer de Muntades, 11 (08820 El Prat de Llobregat, Barcelona) 
+ 
+Independientemente del medio de comunicación empleado, se deberá dejar constancia a través de 
+correo electrónico para facilitar la trazabilidad y registro de todas las incidencias y notificaciones 
+reportadas. 
+ 
+El adjudicatario informará a Ciberseguridad Mutua, en el menor plazo de tiempo posible y con un plazo 
+máximo de 24 horas desde su identificación, de cualquier incidente de seguridad en su entorno 
+tecnológico que pudiera afectar o afecte a servicios proporcionados a Mutua Universal, al personal 
+implicado en la ejecución de servicios para Mutua Universal, o al establecimiento de conexiones desde 
+Mutua Universal de cualquier tipo con recursos publicados por el adjudicatario. 
+ 
+ Por otro lado, el adjudicatario colaborará en la resolución de cualquier incidente producido en el entorno 
+de Mutua Universal con los departamentos de Ciberseguridad y Tecnología de la Entidad, 
+proporcionando todas las evidencias requeridas que estén a su disposición por los servicios ejecutados 
+dentro del contrato. 
+ 
+Si el adjudicatario introduce cambios en su entorno tecnológico, después de la firma del contrato, que 
+pudieran implicar un incumplimiento de los requisitos establecidos en este documento, deberá notificarlo 
+a Ciberseguridad Mutua. Desde Ciberseguridad Mutua se evaluará si las nuevas medidas propuestas 
+garantizan la seguridad e integridad de los datos, las comunicaciones y demás aspectos relacionados, 
+asegurando el cumplimiento del objeto del contrato. En caso contrario, el adjudicatario estará obligado a 
+restablecer las medidas requeridas. 
+ 
+Por último, el adjudicatario deberá notificar cualquier incidente relacionado con sistemas de Inteligencia 
+Artificial (IA) que pueda afectar a los servicios proporcionados a Mutua Universal, siguiendo los mismos 
+procedimientos y plazos establecidos para otros incidentes de seguridad. 
+ 
+10.9. Propiedad y utilización 
+Todos los trabajos, incluidos en su caso los estudios y documentos elaborados en ejecución del contrato 
+serán propiedad de Mutua Universal, quien podrá reproducirlos, publicarlos y divulgarlos, total o 
+
+--- página 8 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Avda. Tibidabo, 17-19 (08022) Barcelona 
+ 
+ 
+                                                                                                                                                                             
+ 
+Página 8 de 8 
+ 
+parcialmente por tiempo indefinido sin nueva contraprestación, sin que pueda oponerse a ello el 
+adjudicatario autor de los trabajos, cediendo igualmente todos los derechos de uso. 
+ 
+El adjudicatario no podrá hacer ningún uso o divulgación de estos, bien sea en forma total o parcial, 
+directa o extractada, sin autorización expresa de Mutua Universal. 
+Si el contrato tiene por objeto el desarrollo y la puesta a disposición de productos protegidos por un 
+derecho de propiedad intelectual o industrial, este será cedido por el contratista a Mutua Universal. 
+ 
+La empresa adjudicataria y el personal encargado de la realización de las tareas asociadas al contrato 
+guardarán secreto profesional sobre todas las informaciones, documentos y asuntos a los que tengan 
+acceso o conocimiento durante la vigencia de éste, estando obligados a no hacerlos públicos o enajenar 
+cuantos datos conozcan como consecuencia o con ocasión de su ejecución, por tiempo indefinido 
+después de la finalización del contrato. 
+ 
+El adjudicatario se compromete a mantener estricta confidencialidad y a no revelar o ceder datos, ni aún 
+para su conservación, o documentos proporcionados por Mutua Universal, a terceros, para cualquier 
+otro uso no previsto como necesario para el desempeño de la prestación objeto de este contrato, 
+especialmente los datos de carácter personal. La divulgación no autorizada de información confidencial 
+podrá ser causa de responsabilidad y sanciones. 
+ 
+Salvo acuerdo expreso en contra, el adjudicatario se compromete a entregar a Mutua Universal todo el 
+código fuente desarrollado a medida para el contrato, así como las instrucciones para su correcta 
+compilación y versionado. 
+ 
+ 
+11. REQUERIMIENTOS DE CALIDAD Y MEDIO AMBIENTE DEL SERVICIO 
+ 
+El adjudicatario adoptará las medidas oportunas para el cumplimiento de la legislación ambiental en vigor 
+en relación a las actividades solicitadas en este pliego. Además, se deberá asegurar de que el personal 
+adscrito al servicio está debidamente formado en materia de buenas prácticas ambientales. 
+ 
+En concreto, el adjudicatario tendrá la obligación de: 
+ 
+ Desarrollar su actividad con una actitud responsable frente al Medio Ambiente 
+ Cumplir con la normativa ambiental en vigor y con los requisitos legales aplicables a su actividad 
+ Informar de todos los incidentes con repercusión ambiental que tengan lugar en el desarrollo de 
+las actividades del contrato en instalaciones de Mutua Universal 
+ Reutilizar todos los materiales que sea posible 
+ Apagar los equipos bajo su responsabilidad siempre que su funcionamiento no sea necesario 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+En Barcelona, a 21 de octubre de 2026  
+Área de Tecnología 
+Dominique Pérez González 
+ 

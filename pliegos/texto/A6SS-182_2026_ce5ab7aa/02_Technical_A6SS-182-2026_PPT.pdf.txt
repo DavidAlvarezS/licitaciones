@@ -1,0 +1,273 @@
+
+
+--- página 1 ---
+ 
+ 
+ 
+ Calle Tucumán, 8, 03005 Alicante – Teléfono (96) 598 89 00 - buengobierno@diputacionalicante.es 
+www.diputacionalicante.es 
+ 
+ 
+AREA DE INNOVACION Y AGENDA DIGITAL 
+SERVICIO DE INFORMÁTICA Y TELECOMUNICACIONES 
+Modernización 
+ 
+PLIEGO TÉCNICO PARA LA CONTRATACIÓN DE SERVICIOS DE 
+ASISTENCIA TÉCNICA DE PRIMER NIVEL EN MUNICIPIOS DE LA 
+PROVINCIA DE ALICANTE DE MENOS DE 20.000 HABITANTES 
+ 
+1. INTRODUCCIÓN 
+La Diputación de Alicante, en su ejercicio de asistencia y cooperación con los municipios de 
+la provincia de menos de 20.000 habitantes, requiere garantizar un funcionamiento eficiente 
+de los sistemas informáticos municipales.  
+Ante la creciente demanda de soporte técnico y la inexistencia de un contrato en vigor que 
+cubra estas intervenciones específicas, se hace necesaria la contratación externa de un 
+servicio de soporte de primer nivel. 
+ 
+2. ALCANCE Y OBJETO 
+El objeto del contrato es la prestación de servicios de asistencia técnica de primer nivel (L1) 
+para los Ayuntamientos de la provincia de Alicante de menos de 20.000 habitantes. El 
+servicio busca: 
+• Atender y clasificar incidencias técnicas básicas. 
+• Resolver consultas comunes de usuarios en aplicaciones y sistemas. 
+• Liberar recursos técnicos internos de la Diputación para tareas de mayor 
+complejidad. 
+• Homogeneizar los procedimientos de soporte y asegurar la trazabilidad de las 
+actuaciones. 
+ 
+3. CONDICIONES PARTICULARES 
+3.1 REQUISITOS FUNCIONALES  
+Cód. Validación: 6X9W75S74E226FK9S6Q5N7TXM 
+Verificación: https://diputacionalicante.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 1 de 6 
+
+--- página 2 ---
+ 
+ 
+ 
+ Calle Tucumán, 8, 03005 Alicante – Teléfono (96) 598 89 00 - buengobierno@diputacionalicante.es 
+www.diputacionalicante.es 
+ 
+ 
+AREA DE INNOVACION Y AGENDA DIGITAL 
+SERVICIO DE INFORMÁTICA Y TELECOMUNICACIONES 
+Modernización 
+ 
+• El contratista deberá ofrecer un canal de atención próximo y accesible para los 
+Ayuntamientos y el Departamento de Informática de la Diputación de Alicante. 
+• Los tiempos de respuesta deberán estar orientados a la resolución inmediata o 
+derivación rápida según la criticidad. 
+• Cada intervención deberá quedar registrada y documentada para su posterior 
+consulta y control por parte de la Diputación. Para ello se hará uso del sistema de 
+helpdesk de la Diputación (GLPI). Se facilitará al adjudicatario un acceso a dicho 
+sistema para registrar los partes de trabajo. 
+• Se deberá entregar un informe mensual de los trabajos realizados en ese mes, con 
+métricas detalladas (nombre del ayuntamiento, fechas y horas, descripción corta del 
+trabajo, tiempos de resolución, tiempos de desplazamiento, material utilizado, etc.) 
+• Horarios y días de intervención. La franja horaria mínima de actuación será de 9.00 a 
+14.00 de lunes a viernes. 
+• El adjudicatario deberá garantizar la continuidad del servicio ante bajas del personal 
+asignado. Se deberá notificar a la Diputación dicha situación en caso de producirse. 
+3.2 REQUISITOS TÉCNICOS 
+El servicio se prestará mediante la modalidad de precios unitarios por hora, diferenciándose 
+la hora de asistencia técnica y la hora en concepto de desplazamiento, con un tiempo 
+estimado total de unas 360 horas a lo largo de la duración del contrato. El contratista deberá 
+disponer de: 
+• Conexión remota segura para la resolución de incidencias no presenciales. 
+• Herramientas de ticketing o registro de actividad compatibles con los estándares de 
+la Diputación. 
+• Disponibilidad de Vehículo para desplazamiento en incidencias en las que se deba 
+acudir in situ 
+Se establecen los siguientes precios: 
+Hora de Asistencia Técnica 
+(Actuación) 
+53.7166 € / 
+hora (sin IVA) 
+Incluye el trabajo del técnico (remoto o in 
+situ) 
+Cód. Validación: 6X9W75S74E226FK9S6Q5N7TXM 
+Verificación: https://diputacionalicante.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 2 de 6 
+
+--- página 3 ---
+ 
+ 
+ 
+ Calle Tucumán, 8, 03005 Alicante – Teléfono (96) 598 89 00 - buengobierno@diputacionalicante.es 
+www.diputacionalicante.es 
+ 
+ 
+AREA DE INNOVACION Y AGENDA DIGITAL 
+SERVICIO DE INFORMÁTICA Y TELECOMUNICACIONES 
+Modernización 
+ 
+Hora de Desplazamiento 
+(Viaje) 
+28,1792 € / 
+hora (sin IVA) 
+Cubre el tiempo del técnico en carretera. 
+A contar desde la sede del contratista. 
+ 
+Todas las actuaciones se reflejarán en un parte de trabajo que detallará los trabajos 
+realizados y los tiempos empleados, tanto en el propio trabajo como en el desplazamiento, 
+si lo hubiera. Dicho parte deberá ser firmado por el técnico y por el responsable de la 
+Diputación. 
+ 
+Los niveles de servicio serán los siguientes: 
+• Crítica: (Ej.: Equipo trabajo no arranca, Red municipal/internet sin servicio, Sede 
+caída, falta de firma electrónica, etc.) 
+o Respuesta = 1h  
+• Urgente (Ej.: Usuario bloqueado, Lentitud severa en equipos, problemas con 
+impresoras, etc.) 
+o Respuesta entre 1h y 2h 
+• Normal (Ej.: Problemas en el uso y acceso a software, mantenimiento de hardware, 
+etc.) 
+o Respuesta entre 2h y 4h  
+ 
+3.3 TAREAS A REALIZAR 
+Las tareas de primer nivel incluirán, de manera enunciativa pero no limitativa: 
+• Recepción, registro, categorización y priorización de incidencias y peticiones en la 
+herramienta de ticketing facilitada por la Diputación. 
+• Atención multicanal al usuario (teléfono, correo, portal, presencial si aplica).  
+• Configuración básica de puestos: 
+o PCs/Portátiles con sistema operativo Windows, en sus versiones 10 y 
+posteriores en adelante o MAC en sus versiones macOS 10.12Sierra y 
+posteriores 
+Cód. Validación: 6X9W75S74E226FK9S6Q5N7TXM 
+Verificación: https://diputacionalicante.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 3 de 6 
+
+--- página 4 ---
+ 
+ 
+ 
+ Calle Tucumán, 8, 03005 Alicante – Teléfono (96) 598 89 00 - buengobierno@diputacionalicante.es 
+www.diputacionalicante.es 
+ 
+ 
+AREA DE INNOVACION Y AGENDA DIGITAL 
+SERVICIO DE INFORMÁTICA Y TELECOMUNICACIONES 
+Modernización 
+ 
+o Móviles con sistemas Android o Apple 
+o Periféricos (Impresoras, escáneres, tarjeteros, etc.) 
+o Instalación y configuración de software estándar. 
+o Configuración e instalación de herramientas de Microsoft Office / 365 o 
+Google Workspace 
+o Configuración básica de red (TCP/IP, Wifi, VPN) 
+o Herramientas de control remoto y soporte. 
+o Configuración básica de reglas de firewall. 
+• Escalado funcional y técnico al soporte L2/L3 del Servicio de Informatica de la 
+Diputación de Alicante, con toda la información necesaria (diagnóstico previo, 
+evidencias, logs).  
+• Seguimiento de incidencias escaladas y comunicación proactiva con el usuario.  
+• Validación con el usuario y cierre de tickets conforme a SLA.  
+• Gestión de incidencias recurrentes y propuestas de mejora/knowledge base.  
+• Mantenimiento y actualización de la base de conocimiento y FAQs.  
+• Soporte en campañas masivas (despliegues, actualizaciones, cambios de 
+contraseña, etc.).  
+• Elaboración de informes básicos de actividad (volumen, tiempos, cumplimiento SLA, 
+tipología).  
+ 
+3.4 DURACIÓN 
+El plazo de ejecución del contrato será de 2 años, con la posibilidad de prórroga por otros 2 
+años más a contar desde el día siguiente a la formalización de este. 
+ 
+3.5 REQUISITOS DEL ADJUDICATARIO Y PERFIL PROFESIONAL 
+Para la adecuada ejecución del contrato el adjudicatario designará un mínimo de un (1) 
+Técnico, cuya profesionalidad para la correcta ejecución de la prestación de este servicio 
+deberá cumplir los siguientes requisitos: 
+• Titulación: Técnico Superior en Sistemas Microinformáticos y Redes o equivalente. 
+Cód. Validación: 6X9W75S74E226FK9S6Q5N7TXM 
+Verificación: https://diputacionalicante.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 4 de 6 
+
+--- página 5 ---
+ 
+ 
+ 
+ Calle Tucumán, 8, 03005 Alicante – Teléfono (96) 598 89 00 - buengobierno@diputacionalicante.es 
+www.diputacionalicante.es 
+ 
+ 
+AREA DE INNOVACION Y AGENDA DIGITAL 
+SERVICIO DE INFORMÁTICA Y TELECOMUNICACIONES 
+Modernización 
+ 
+• Experiencia: Acreditar experiencia previa durante al menos 2 años en: 
+o Servicios de atención a usuarios (Helpdesk/Service Desk) y soporte técnico 
+o Entornos de administración pública o grandes organizaciones. 
+o Herramientas de ticketing y gestión de incidencias. 
+La titulación requerida se acreditará mediante la aportación de título o certificaciones 
+oficiales. La experiencia se acreditará mediante certificado de la Empresa/Entidad para la 
+que se haya realizado el servicio, indicando el personal que haya designado el proyecto, su 
+duración y el objeto del contrato.  
+La documentación acreditativa deberá aportarse antes del inicio de la ejecución del 
+contrato. 
+ 
+3.6 CUMPLIMIENTO NORMATIVO Y SEGURIDAD DE LA INFORMACIÓN  
+El contratista garantizará la seguridad de la información y la protección de datos bajo las 
+siguientes condiciones: 
+Confidencialidad (RGPD): El adjudicatario actuará como Encargado del Tratamiento, 
+firmando el correspondiente contrato de encargado, en los términos del art. 28 de RGPD. El 
+personal asignado tendrá prohibido el uso de datos municipales para fines distintos a los 
+mencionados en el presente pliego. 
+Seguridad Técnica (ENS): El servicio se alineará con el Esquema Nacional de Seguridad. Las 
+conexiones remotas serán cifradas y con identificación unívoca. Los equipos del técnico 
+deberán contar con medidas activas de protección (antivirus, cifrado y sistema actualizado), 
+en los términos acordes al nivel que corresponda del ENS (bajo, medio o alto) de la entidad. 
+Notificación: Cualquier brecha de seguridad detectada en los Ayuntamientos deberá ser 
+comunicada de forma inmediata al Servicio de Informática de la Diputación. 
+Cód. Validación: 6X9W75S74E226FK9S6Q5N7TXM 
+Verificación: https://diputacionalicante.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 5 de 6 
+
+--- página 6 ---
+ 
+ 
+ 
+ Calle Tucumán, 8, 03005 Alicante – Teléfono (96) 598 89 00 - buengobierno@diputacionalicante.es 
+www.diputacionalicante.es 
+ 
+ 
+AREA DE INNOVACION Y AGENDA DIGITAL 
+SERVICIO DE INFORMÁTICA Y TELECOMUNICACIONES 
+Modernización 
+ 
+ 
+ 
+ 
+PRESUPUESTO MÁXIMO LIMITATIVO: 19.999,92 €
+1 Asistencia Técnica 53,7166 € 250
+2 Desplazamiento 28,1792 € 110
+SUBTOTAL
+IVA
+TOTAL CON IVA
+* Los precios unitarios ofertados no podran rebasar el precio unitario máximo de licitación.
+* No se tendran en consideración las ofertas que no recojan la totalidad de las prestaciones.
+Criterio de valoración Minoración del tiempo de respuesta   Indicar SI/NO     
+Crítica 15 min. y             
+Urgente: 30
+Crítica 30 min. y    
+Urgente 1 hora
+Criterio de valoración Oferta - indicar:    SI/NO Horas de ampliación
+A3) Ampliación franja horaria mínima 
+A2) Minoración del tiempo de respuesta de las 
+incidencias “Crítica” y “Urgente” 
+* Las cantidades de horas referidas a los conceptos de "Asistencia Técnica" y "Desplazamiento" son estimadas, por 
+lo que la Diputación podrá variarlas en función de las necesidades, sin que el Importe total con IVA sobrepase el 
+Total con IVA. Todo ello sin que suponga ningún compromiso de realización para con el adjudicatario.
+PRECIO LICITACIÓN 
+SIN IVA (POR 
+HORAS 
+ORIENTATIVAS)
+* Se adjudicará por precios unitarios.
+ANEXO OFERTA TÉCNICO-ECONÓMICA
+Nº DESCRIPCIÓN HORAS ORIENTATIVAS PRECIO HORA MÁXIMO DE LICITACIÓN SIN IVA PRECIO HORA  ANUAL OFERTADO SIN IVA
+CONTRATO “SERVICIOS DE ASISTENCIA TÉCNICA DE PRIMER NIVEL EN MUNICIPIOS DE LA PROVINCIA DE ALICANTE 
+DE MENOS DE 20.000 HABITANTES"
+* El Total con IVA servirá para comparar las ofertas de los distintos licitadores.
+* El Total con IVA servirá para el cálculo de la baja temeraria en comparación con el presupuesto.
+Cód. Validación: 6X9W75S74E226FK9S6Q5N7TXM 
+Verificación: https://diputacionalicante.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 6 de 6 

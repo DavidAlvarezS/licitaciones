@@ -1,0 +1,417 @@
+
+
+--- página 1 ---
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+EA26 008 Contrato de suministro para el arrendamiento y mantenimiento de la aplicación TAYA o 
+equivalente para Extremadura Avante, S.L.U. 
+. Pág. 1 de 11 
+1. INTRODUCCIÓN Y NECESIDAD DE CONTRATACIÓN DEL 
+SUMINISTRO. 
+La Junta de Extremadura ha impulsado la creación de la empresa pública Extremadura 
+Avante, S.L.U., que nace de un proceso de coordinación de todas las medidas de atención 
+y apoyo a las empresas que realiza el sector público empresarial y en el que participan 
+Extremadura Avante Servicios Avanzados a Pymes, S.L.U., Fomento Extremeño de 
+Infraestructuras Industriales, S.A.U., Gestión y Estudios Mineros, S.A.U. y Sociedad Gestora 
+de la Ciudad de la Salud y la Innovación, S.A.U. 
+Tal proceso de concentración tiene su amparo en la Ley 20/2010, de 28 de diciembre, de 
+concentración empresarial pública en la Comunidad Autónoma de Extremadura, 
+publicada en el DOE nº 250 de 30 de diciembre de 2010, cuya disposición adicional 
+segunda describe dicho proceso. 
+Extremadura Avante, S.L.U., empresa cabecera del grupo, tiene como objeto social, a tenor 
+de lo dispuesto en el artículo 2 de sus Estatutos Sociales, el servicio a los empresarios y 
+al resto de agentes económicos que contribuyan al desarrollo económico y social de 
+Extremadura, y el acompañamiento a la Junta de Extremadura para la ejecución de su 
+política empresarial. 
+Extremadura Avante, S.L.U. tiene como objetivo estratégico fomentar la excelencia 
+administrativa mediante la gestión de tesorería, de modo que se facilite la aplicación de 
+mejores prácticas relativas a la gestión, control y administración de tesorería, 
+maximizando el valor que aporta esta área a la compañía. 
+La entidad trabaja desde enero de 2009 con el software de tesorería TAYA o equivalente. 
+Este software se encuentra implantado en los procesos internos de la organización y en 
+las operaciones financieras integradas con el ERP corporativo Microsoft Dynamics NAV. 
+Por ello, resulta necesario garantizar la continuidad del arrendamiento, mantenimiento, 
+soporte y actualización de una aplicación de tesorería con funcionalidades equivalentes 
+durante la vigencia del contrato. 
+El presente contrato está financiado con recursos propios de Extremadura Avante, S.L.U., 
+sin que exista cofinanciación europea. 
+2. TRABAJOS A REALIZAR Y CARACTERÍSTICAS TÉCNICAS 
+DEL SUMINISTRO. 
+El presente procedimiento tiene como objeto la contratación del suministro para el 
+arrendamiento y mantenimiento de la aplicación del sistema de procesos de tesorería 
+TAYA o equivalente para Extremadura Avante, S.L.U. La prestación comprende la 
+disponibilidad de licencia de uso, mantenimiento correctivo, adaptativo y evolutivo, 
+soporte técnico y funcional, actualizaciones, asistencia y demás trabajos necesarios para 
+asegurar el funcionamiento de la aplicación. 
+2.1. Software de tesorería. 
+El sistema de tesorería deberá permitir gestionar, como mínimo, los siguientes procesos 
+básicos: 
+- Extractos bancarios. 
+- Gestión de tesorería. 
+
+--- página 2 ---
+ Pág. 2 de 11 
+- Gestión de los riesgos financieros. 
+- Planificación de tesorería. 
+2.1.1. Proceso de extractos bancarios. 
+El objetivo es alcanzar la integración en el sistema de tesorería de los extractos bancarios 
+obtenidos en formatos normalizados, mediante comunicación diaria con las distintas 
+entidades financieras o de forma manual. 
+ 
+Esquema funcional del proceso de extractos bancarios. 
+Los ficheros de extractos recibidos se integrarán en el sistema para su consulta y análisis 
+posterior, así como para el cálculo de las liquidaciones de las cuentas bancarias. El 
+proceso deberá incluir controles para asegurar la coherencia de los datos y realizar 
+conversiones de códigos que preparen la información para su explotación en el resto de 
+procesos. 
+1. Lectura de ficheros: lectura de los extractos normalizados enviados por las 
+entidades financieras y almacenados en directorios predeterminados. 
+2. Transformación de la información: tratamiento de registros y campos de los 
+extractos normalizados y conversión de formatos para su integración. 
+3. Controles de integridad: verificación de la estructura del fichero normalizado 
+recibido y coherencia de la información. 
+4. Control de extractos duplicados: aplicación de controles sobre saldos y fechas de 
+operación para evitar integraciones duplicadas. 
+5. Control de integridad referencial: comprobación de la existencia de la cuenta 
+bancaria en el sistema y de los códigos de operación. 
+6. Control de estructura: validación de la correcta estructura del fichero recibido 
+conforme a la norma bancaria parametrizada. 
+
+
+--- página 3 ---
+ Pág. 3 de 11 
+7. Tratamiento manual de extractos: incorporación, modificación o eliminación 
+manual de extractos completos o movimientos concretos, incluyendo la posibilidad 
+de deshacer integraciones previas. 
+8. Tratamiento de movimientos rechazados: gestión de extractos con incidencias de 
+integración, permitiendo corregir errores y tratarlos sin reiniciar el proceso. 
+9. Incorporación a la posición de extractos: validación y conformidad de operaciones 
+bancarias añadidas a la posición de extractos. 
+10. Consultas, informes y gráficos: búsqueda de movimientos, diarios de operaciones, 
+saldos por fecha operación y valor, estadísticas y demás informes. 
+11. Liquidaciones de cuentas bancarias: cálculo automático periódico de 
+liquidaciones de intereses conforme a las condiciones parametrizadas con las 
+entidades financieras. 
+2.1.2. Proceso de gestión de tesorería. 
+El sistema deberá ofrecer un proceso para la elaboración y seguimiento de la posición 
+diaria de tesorería, resultado de combinar la realidad de los movimientos bancarios con 
+las operaciones previstas de cobros y pagos. La posición diaria deberá incluir estados de 
+previsión, códigos presupuestarios y códigos de tesorería. 
+ 
+Esquema funcional del proceso de gestión de tesorería. 
+Sobre el proceso de conciliación recae el control administrativo de la tesorería, 
+comprobando que las órdenes de ingresos y pagos comunicadas a las entidades 
+financieras se han ejecutado con exactitud y verificando que los movimientos registrados 
+en cuentas bancarias tienen reflejo real en dichas entidades. 
+1. Integración automática de previsiones y/o datos contables: incorporación de datos 
+de cobros y pagos con origen en sistemas contables, aplicaciones departamentales 
+u otros sistemas de información. 
+2. Transformación y homogeneización de datos contables: conversión de datos 
+recibidos en previsiones de tesorería con detalle de estados, códigos de tesorería y 
+códigos presupuestarios. 
+
+
+--- página 4 ---
+ Pág. 4 de 11 
+3. Entrada manual de previsiones: incorporación, mantenimiento, ajuste y baja de 
+previsiones manuales o estimaciones no recogidas previamente en contabilidad. 
+4. Entrada de comisiones bancarias: parametrización y generación de previsiones de 
+comisiones asociadas a los flujos de tesorería correspondientes. 
+5. Conciliación automática: conciliación entre apuntes bancarios y movimientos de 
+tesorería conforme a criterios parametrizables de fechas, importes, agrupaciones o 
+creación directa. 
+6. Conciliación manual: conciliación de apuntes que no hayan podido conciliarse 
+automáticamente. 
+7. Obtención de la posición de tesorería: análisis diario por cuentas, estados de 
+previsión, códigos, fechas valor y operación, con indicadores de coherencia. 
+8. Obtención de la posición contable: análisis de la posición contable con datos 
+validados mediante conciliación bancaria y control de coherencia de saldos. 
+9. Informes, indicadores y gráficos: explotación de la información de tesorería 
+mediante informes predefinidos. 
+10. Gestión de decisiones de tesorería: informes para gestión de liquidez, asignación 
+de bancos, traspasos, colocación de excedentes y cobertura de déficits temporales. 
+11. Contabilización de operaciones de tesorería: exportación de movimientos 
+conciliados para la generación de apuntes contables. 
+2.1.3. Proceso de gestión de riesgos financieros. 
+El proceso de gestión de riesgos financieros tendrá como objetivo normalizar la 
+elaboración y seguimiento de las distintas posiciones de activo y pasivo que mantiene la 
+organización con las entidades financieras, llegando a obtener una posición neta de 
+tesorería. 
+ 
+Esquema funcional del proceso de gestión de riesgos financieros. 
+1. Incorporación de la información de posición de bancos: recogida de saldos reales 
+procedentes del proceso de extractos bancarios. 
+2. Entrada y gestión de operaciones financieras y coberturas de tipos de interés: 
+registro de líneas u operaciones financieras contratadas y no vencidas, con sus 
+condiciones de comisiones, tipos y plazos. 
+3. Comparación con condiciones de mercado: actualización periódica de referencias 
+de mercado para conocer la exposición al riesgo por tipo de interés o divisa. 
+4. Generación de movimientos previstos en la posición de tesorería: registro de 
+previsiones confirmadas derivadas de operaciones financieras. 
+
+
+--- página 5 ---
+ Pág. 5 de 11 
+5. Indicadores y controles de coherencia: listados de errores básicos, cuadres e 
+informes de control. 
+6. Informes, gráficos e indicadores: informes de saldos, rentabilidades medias, 
+endeudamiento, seguimiento, resumen y cuadros de mando. 
+7. Vinculación a condiciones de mercado: posibilidad de conexión periódica a 
+sistemas de información de mercado para tipos de interés o divisas. 
+8. Contabilización de operaciones financieras: exportación de movimientos de 
+operaciones financieras conciliadas para generación de apuntes contables. 
+2.1.4. Proceso de planificación de tesorería. 
+El objetivo de este proceso es normalizar e informatizar la elaboración y seguimiento de 
+los presupuestos de tesorería mensualizados a un horizonte deslizante de, al menos, doce 
+meses. 
+- Presupuesto inicial: carga automática desde Excel al Cuadro de Mando de Tesorería 
+partiendo del presupuesto inicial de tesorería de las empresas. 
+- Presupuesto revisado: carga automática desde Excel tantas veces como sea necesario 
+para reflejar modificaciones del presupuesto económico en el presupuesto de tesorería. 
+- Presupuesto real: actualización mensual con operaciones reales confirmadas, importadas 
+desde el módulo de tesorería de la aplicación TAYA o equivalente. 
+2.1.5. Informes y cuadro de mando. 
+El Cuadro de Mando de Tesorería deberá configurarse como un conjunto de informes, 
+gráficos e indicadores para el diagnóstico y control permanente de la tesorería, así como 
+para la evaluación del desempeño de la función de tesorería. 
+ 
+Componentes de informes y cuadro de mando. 
+El sistema deberá permitir, como mínimo, la explotación mediante informes XLA 
+vinculados con la base de datos del sistema, informes predefinidos diseñados en estándar 
+y, en su caso, informes basados en herramientas de Business Objects o equivalentes. 
+
+
+--- página 6 ---
+ Pág. 6 de 11 
+ 
+Indicadores y funcionalidades de cuadro de mando operativo. 
+2.2. Licencia de uso para el software TAYA o equivalente. 
+Para el correcto desarrollo de las necesidades expuestas, se precisa el arrendamiento de 
+una licencia que incluya un conjunto de aplicaciones bajo el nombre de TAYA o 
+equivalente, con el siguiente alcance mínimo: 
+- TAYA Extractos o equivalente. 
+- TAYA Única Previsiones de Tesorería. Contabilización, o equivalente. 
+- TAYA Única Conciliación Contable, o equivalente. 
+- TAYA Decisiones L/P. Contabilización, o equivalente. 
+- Cuadro de Mando Operativo o equivalente. 
+- Presupuesto Tesorería XLA o equivalente. 
+La solución no deberá tener limitación en cuanto al número de usuarios que necesiten 
+utilizarla dentro de Extremadura Avante, S.L.U., siempre que compartan la misma base 
+de datos, parametrización y sistemas de información contables comunes. No estará 
+permitida la utilización de múltiples instalaciones con bases de datos, parametrizaciones 
+o sistemas contables diferentes salvo autorización expresa del órgano de contratación y 
+adecuada cobertura contractual. 
+2.3. Servicio de soporte y mantenimiento. 
+Las condiciones mínimas de soporte y mantenimiento serán las siguientes: 
+- Dar soporte telefónico y telemático, en horario laboral, a las personas que designe 
+Extremadura Avante, S.L.U., para la solución de dudas y aclaraciones sobre cuestiones 
+funcionales y técnicas de la aplicación. 
+- Corregir los posibles errores que se detecten en el normal funcionamiento del programa 
+en un plazo máximo de cinco (5) días hábiles desde su comunicación, salvo que el 
+adjudicatario haya ofertado un plazo inferior como criterio de adjudicación. 
+
+
+--- página 7 ---
+ Pág. 7 de 11 
+- Desplazar personal técnico cualificado, a petición de Extremadura Avante, S.L.U., a 
+aquellos centros cuyos errores detectados no puedan ser solventados en remoto en los 
+plazos anteriormente descritos. 
+- Proporcionar a Extremadura Avante, S.L.U. un servicio de mantenimiento técnico y 
+funcional de la aplicación a través de Internet o de los canales remotos seguros habilitados 
+para este fin. 
+- Realizar mantenimiento correctivo mediante entrega de nuevas versiones de la aplicación 
+como consecuencia de cambios en la legislación, cambios en la estructura de los ficheros 
+bancarios y, en general, cualquier cambio que pudiera afectar al normal funcionamiento 
+de la aplicación. 
+- Adaptar los manuales de usuario a las nuevas funcionalidades. 
+- Realizar mantenimiento en remoto de las aplicaciones aplicando los estándares de 
+seguridad adecuados. 
+- Realizar mantenimiento evolutivo mediante entrega periódica de nuevas versiones de la 
+aplicación, consecuencia tanto de la incorporación de nuevas funcionalidades como de la 
+evolución tecnológica del sistema. 
+- Priorizar el desarrollo de mejoras a realizar y ampliación de funcionalidades solicitadas 
+por Extremadura Avante, S.L.U. 
+- Revisar periódicamente el buen uso del sistema mediante la realización de informes 
+personalizados y reuniones de seguimiento periódicas con la finalidad de aprovechar 
+completamente el potencial de las aplicaciones. Se establece una bolsa de un máximo de 
+cien (100) horas anuales, no acumulables, para la realización de este tipo de actividades 
+presenciales o telemáticas de consultoría. 
+- Ajustar la parametrización de las aplicaciones de acuerdo con los cambios legales o de 
+operativa interna que se vayan produciendo. 
+- Analizar las propuestas de mejora y ampliación de funcionalidades a realizar por 
+Extremadura Avante, S.L.U. 
+2.4. Seguimiento del suministro. 
+Con el fin de garantizar el adecuado seguimiento del contrato, el adjudicatario deberá 
+adoptar las medidas organizativas necesarias para asegurar la correcta prestación del 
+suministro durante toda su vigencia, de conformidad con este Pliego y con las 
+instrucciones del órgano de contratación o de la persona responsable del contrato. 
+- Designar una persona interlocutora principal para la ejecución del contrato. 
+- Mantener un registro de incidencias, consultas, actualizaciones, actuaciones realizadas y 
+estado de resolución. 
+- Elaborar, cuando sea requerido, informes de seguimiento del servicio, incidencias y 
+actuaciones realizadas. 
+- Celebrar reuniones de seguimiento, presenciales o telemáticas, a requerimiento de 
+Extremadura Avante, S.L.U. 
+- Informar de forma inmediata de cualquier incidencia que pueda afectar a la continuidad 
+del servicio o a la seguridad de la información. 
+2.5. Otras condiciones de prestación del suministro. 
+- El adjudicatario deberá ejecutar el contrato con sus propios medios personales y 
+materiales, sin perjuicio de la subcontratación accesoria autorizada conforme a los pliegos. 
+- Deberá guardar confidencialidad respecto de toda la información, documentación, 
+expedientes, datos bancarios, datos económicos y datos personales a los que acceda 
+durante la ejecución del contrato. 
+
+--- página 8 ---
+ Pág. 8 de 11 
+- Deberá aplicar medidas de seguridad adecuadas en accesos remotos, transferencia de 
+ficheros, tratamiento de datos y custodia de credenciales. 
+- Deberá entregar o mantener a disposición de Extremadura Avante, S.L.U. la documentación 
+funcional y técnica necesaria para la adecuada utilización del sistema. 
+- La contratación no atribuye carácter exclusivo al adjudicatario respecto de otros servicios 
+tecnológicos o de consultoría que Extremadura Avante, S.L.U. pueda contratar, siempre 
+que no se solape el objeto esencial del presente contrato. 
+2.6. Disponibilidad de derechos de uso, mantenimiento y soporte 
+La empresa adjudicataria deberá garantizar, desde el inicio y durante toda la vigencia del 
+contrato, incluidas sus posibles prórrogas, la disponibilidad de los derechos de uso, 
+licencias, autorizaciones o acuerdos necesarios para suministrar, utilizar, mantener, 
+actualizar y prestar soporte técnico sobre la solución ofertada, ya sea TAYA o equivalente. 
+Cuando la empresa adjudicataria no sea titular de la solución, deberá disponer de los 
+correspondientes títulos o autorizaciones vigentes del titular de los derechos que 
+permitan ejecutar todas las prestaciones incluidas en el contrato. 
+Extremadura Avante, S.L.U. podrá requerir la documentación acreditativa de dichos 
+derechos durante la ejecución contractual. La adjudicataria deberá comunicar cualquier 
+circunstancia que pueda afectar a su vigencia o disponibilidad. 
+ 
+2.7. ADSCRIPCIÓN DE MEDIOS. 
+El adjudicatario queda obligado a aportar los medios que sean precisos para la buena 
+ejecución del contrato. Como mínimo, deberá contar con los siguientes perfiles y medios 
+materiales: 
+Medios personales  
+- Un (1) Responsable funcional del servicio, con experiencia mínima de dos años en 
+gestión de tesorería, conciliación bancaria, planificación financiera, soporte funcional 
+de aplicaciones financieras o sistemas financieros equivalentes, que actuará como 
+interlocutor principal con Extremadura Avante, S.L.U. 
+- Un (1) Técnico/a de soporte, mantenimiento e integración, con experiencia mínima 
+de dos años en aplicaciones financieras, bases de datos, ficheros bancarios, 
+integración con sistemas corporativos y soporte remoto seguro. 
+2.8. OTRAS ESPECIFICACIONES. 
+SUBCONTRATACIÓN Y LUCHA CONTRA LA MOROSIDAD. 
+Extremadura Avante, S.L.U. podrá comprobar el estricto cumplimiento de los pagos que 
+la persona contratista haya de realizar a subcontratistas o suministradores que participen 
+en el contrato. La persona contratista deberá respetar lo previsto en los artículos 216 y 
+217 de la LCSP 9/2017 y en la Ley 3/2004, de 29 de diciembre, en lo que resulte de 
+aplicación. 
+La subcontratación quedará limitada a prestaciones accesorias que no afecten al núcleo 
+funcional del suministro, mantenimiento, soporte y actualización de la aplicación TAYA o 
+equivalente. No podrán subcontratarse las prestaciones principales vinculadas a la 
+disponibilidad de licencia, mantenimiento esencial, soporte técnico-funcional nuclear, 
+acceso a versiones o resolución de incidencias críticas, salvo autorización expresa y 
+justificada del órgano de contratación. 
+
+--- página 9 ---
+ Pág. 9 de 11 
+ 
+3. PROGRAMACIÓN Y COORDINACIÓN. 
+Extremadura Avante, S.L.U. será la encargada de dirigir, coordinar y supervisar las 
+actuaciones a desarrollar por el adjudicatario especificadas en este Pliego desde el 
+momento de la formalización del contrato. 
+El órgano de contratación o la persona responsable del contrato podrá dictar 
+instrucciones necesarias para la correcta ejecución del suministro y para la adecuada 
+coordinación con Extremadura Avante, S.L.U., siempre que dichas instrucciones no alteren 
+el objeto del contrato ni modifiquen sus condiciones económicas en perjuicio del 
+equilibrio contractual. 
+Los gastos que debe satisfacer la empresa adjudicataria serán los derivados de todas las 
+acciones previstas en el presente pliego y cualesquiera otros que resulten necesarios para 
+el normal cumplimiento de las prestaciones contratadas, con excepción del IVA que 
+pudiera corresponder. 
+En caso de resultar técnicamente necesario cualquier traslado, adaptación o puesta en 
+marcha de componentes vinculados a la solución ofertada, la empresa adjudicataria 
+deberá asumir los gastos directos e indirectos derivados de dichas actuaciones, siempre 
+que formen parte del alcance del contrato y no impliquen una modificación contractual. 
+Para la coordinación de todas las actividades mencionadas, la empresa adjudicataria 
+deberá mantener reuniones periódicas con Extremadura Avante, S.L.U. cuando así sea 
+requerido. 
+4. PRESUPUESTO MÁXIMO DE LICITACIÓN Y VALOR ESTIMADO DEL 
+CONTRATO. 
+4.1. Presupuesto máximo de licitación. 
+El importe máximo anual de licitación asciende a QUINCE MIL EUROS (15.000,00 €), IVA 
+excluido, correspondiente al suministro para el arrendamiento y mantenimiento de la 
+aplicación TAYA o equivalente. 
+El presupuesto ofertado por el licitador deberá especificar el precio global del contrato, 
+expresado a tanto alzado, según se indica a continuación: 
+ 
+Concepto Importe anual IVA excluido 
+Arrendamiento, licencia de uso, mantenimiento y 
+soporte de la aplicación TAYA o equivalente 15.000,00 € 
+IVA estimado (21 %) 3.150,00 € 
+Presupuesto base anual de licitación, IVA incluido 18.150,00 € 
+ 
+Los licitadores deberán presentar oferta respetando el importe máximo de licitación. Por 
+este motivo, será motivo directo de exclusión: que las ofertas propuestas superen el 
+importe máximo de licitación. 
+ 
+
+--- página 10 ---
+ Pág. 10 de 11 
+Las ofertas económicas de los licitadores incluirán, separada y expresamente, el importe 
+del Impuesto sobre el Valor Añadido (IVA) que sea de aplicación. A todos los efectos, se 
+entenderá que el importe de adjudicación comprende todos los gastos necesarios para el 
+normal cumplimiento de las prestaciones contratadas, con excepción del IVA que pudiera 
+corresponder. 
+6.2. Valor estimado del contrato. 
+El valor estimado del contrato asciende a SETENTA Y CINCO MIL EUROS (75.000,00 €), 
+IVA excluido. El método de cálculo ha tomado como referencia lo previsto en el artículo 
+101 de la LCSP 9/2017, incluyendo el presupuesto máximo de licitación correspondiente a 
+la duración inicial de un año y la eventual prórroga anual hasta un máximo de cuatro 
+anualidades adicionales, por importe total de SESENTA Y CINCO MIL EUROS (75.000,00 €), 
+IVA excluido, sin perjuicio de la revisión de precios que proceda conforme a la fórmula 
+prevista en los pliegos y en la normativa aplicable. 
+7. FORMA DE PAGO Y EMISIÓN DE LA FACTURA. 
+El pago de la prestación objeto de la presente licitación se realizará mediante pagos 
+parciales con periodicidad mensual. El abono efectivo de cada factura emitida deberá 
+realizarse dentro de los 30 días siguientes a la fecha de validación de la factura por parte 
+de Extremadura Avante, S.L.U., previa expedición de los correspondientes documentos 
+que acrediten la realización parcial o total del contrato a plena satisfacción de 
+Extremadura Avante, S.L.U. 
+La empresa adjudicataria deberá remitir la factura a través de la web de Extremadura 
+Avante, www.extremaduraavante.es, en el apartado “Zona Empresas”, considerándose este 
+momento como fecha de entrada en la sociedad y cuyo documento será validado 
+posteriormente por Extremadura Avante, S.L.U. Cada factura será tramitada incluyendo el 
+número de pedido facilitado por el gestor del expediente de contratación. 
+- Un pago correspondiente a la parte proporcional de una mensualidad por la prestación 
+del suministro del periodo transcurrido desde el inicio de la prestación hasta la 
+finalización de dicho mes, considerando como mensualidad el importe resultante de 
+dividir el importe total de adjudicación entre los doce meses de duración de la 
+prestación. 
+- Once pagos mensuales consecutivos correspondientes a los ONCE meses siguientes, 
+por el importe resultante de dividir el importe total de adjudicación entre los DOCE 
+meses de duración de la prestación. 
+- Un pago correspondiente a la parte proporcional restante por el periodo transcurrido 
+desde el inicio del último mes de vigencia del contrato hasta el día de finalización de 
+la prestación. 
+A todos los efectos, se considerarán 30 días naturales por mensualidad. Las fechas de los 
+abonos correspondientes al primer pago parcial y al último, así como el número de pagos, 
+podrán verse alterados como consecuencia de la fecha de formalización del contrato. 
+El contratista deberá presentar factura en la que deberá constar, además de lo 
+establecido en la Ley 25/2013, de 27 de diciembre, al menos: número y, en su caso, serie; 
+nombre y apellido o denominación social, NIF y domicilio del expedidor; órgano que 
+celebra el contrato; descripción del objeto del contrato; precio; lugar y fecha de emisión. 
+El abono efectivo de las facturas emitidas por la entidad deberá realizarse dentro de los 
+30 días siguientes a la fecha de validación de la factura por parte del Departamento 
+Económico Financiero de Extremadura Avante previa expedición del correspondiente 
+documento que acredite la realización total o parcial del contrato a plena satisfacción de 
+
+--- página 11 ---
+ Pág. 11 de 11 
+Extremadura Avante Servicios Avanzados a Pymes, SLU (estas son las actas de recepción 
+positiva correspondientes. 
+ 
+8. FINANCIACIÓN. 
+La presente licitación está financiada con recursos propios de Extremadura Avante, S.L.U.,  
+En Mérida, a 16 de noviembre de 2026 
+El Órgano de Contratación de Extremadura Avante, S.L.U. 
+  P.P. 
+ 
+ 
+ 
+Fdo.: Cristina Yárritu Manso 

@@ -1,0 +1,679 @@
+
+
+--- página 1 ---
+1 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA EL CONTRATO DE SERVICIOS DE  
+SOPORTE Y MANTENIMIENTO DE L PROYECTO DE RECUPERACIÓN DE LA MEMORIA 
+HISTÓRICA DE PAIPORTA 
+ 
+ 
+Índice 
+Cláusula 1 - Objeto ........................................................................................................................ 2 
+Cláusula 2 – Especificaciones técnicas mínimas de la infraestructura .......................................... 2 
+Cláusula 3 – Servicio de migración, soporte y mantenimiento ..................................................... 5 
+Cláusula 4 – Presupuesto base de licitación ................................................................................. 6 
+Cláusula 5 – Duración .................................................................................................................... 7 
+Cláusula 6 – Protección de datos personales ................................................................................ 7 
+Cláusula 7 – Seguridad .................................................................................................................. 8 
+Cláusula 8 – Responsable del contrato ......................................................................................... 9 
+Cláusula 9 – Ejecución del contrato .............................................................................................. 9 
+ 
+ 
+ 
+  
+Innovació
+Expediente 2822535N
+NIF: P4618800I
+INF 
+- 
+Pliego 
+prescripciones 
+técnicas 
+soporte 
+página 
+web 
+de 
+memoria 
+histórica 
+Museu 
+- 
+SEFYCU 
+8328366
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CKQF FZPV VE4E J42Y
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+Técnica informática
+MARÍA SANCHIS VALERO
+23/06/2026
+FIRMADO POR
+TECNICA MUSEU
+EVA MARIA SANZ GISBERT
+23/06/2026
+Pág. 1 de 9
+
+--- página 2 ---
+2 
+ 
+Cláusula 1 - Objeto 
+El presente Pliego de Prescripciones Técnicas tiene por objeto definir las condiciones técnicas y 
+funcionales para la contratación del servicio de hosting dedicad o, el soporte y mantenimiento 
+correctivo, perfectivo y adaptativo de la plataforma web corporativa destinada al archivo y 
+difusión del proyecto de recuperación de la Mem oria Histórica y Oral del Ayuntamiento de 
+Paiporta. 
+A efectos informáticos, el sistema consta de un entorno doble: 
+• Un entorno de gestión y trabajo interno privado con acceso autenticado para la 
+ingesta, transcripción, traducción e indexación de material audiovisual. 
+• Un entorno web público de difusión y consulta abierta para los ciudadanos, con 
+arquitectura multilingüe (castellano y valenciano). 
+ 
+Con la implantación de dicho soporte se pretende lograr la mayor eficacia y seguridad en la 
+explotación de los servicios del Ayuntamiento. El presente documento tiene por finalidad 
+definir y especificar las características técnicas, así como para protocolizar la gestión de 
+mantenimiento del mismo minimizando los costes de operación y funcionamiento del sistema.  
+ 
+El objeto del proyecto comprende:  
+ 
+• Servicio de soporte y mantenimiento de la página web 
+https://memoriahistorica.paiporta.es/web/ 
+ 
+  
+Número CPV:  72267000-4. Servicios de mantenimiento y reparación de software. 
+72415000-2. Servicios de alojamiento de páginas web (hosting). 
+72212224-5. Servicios de desarrollo de software de edición de páginas web. 
+ 
+El contrato definido tiene la calificación de contrato administrativo  de servicios, de acuerdo 
+con el artículo 17 de la Ley 9/2017, de 8 noviembre, de Contratos del Sector Público, por la que 
+se transponen al ordenamiento  jurídico español las Directivas del Parlamento Europeo y del 
+Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014. 
+ 
+Cláusula 2 – Especificaciones técnicas mínimas de la infraestructura 
+ 
+Proyecto de recuperación de Memoria Oral / Memoria Histórica de Paiporta. Servidor de 
+contenido. 
+Detalle del proyecto: 
+El Ayuntamiento de Paiporta consciente de la importancia de la recuperación de la Memoria 
+Histórica, así como de la puesta en valor de todas las personas que se vieron inmersas dentro 
+del contexto de la República, Guerra Civil y Posguerra. Es por eso que desde 2016 se creó un 
+equipo de trabajo destinado a realizar proyectos encaminados a esta finalidad. 
+Se perfiló y configurar un proyecto global a la vez que integrador, que se ha ido concretándose 
+a lo largo de estos años con actividades y programas que han contado con el apoyo de la 
+Diputación de Valencia y de la Consejería de Justicia, Administración Pública, Reformas 
+Democráticas y Libertades Públicas. 
+Innovació
+Expediente 2822535N
+NIF: P4618800I
+INF 
+- 
+Pliego 
+prescripciones 
+técnicas 
+soporte 
+página 
+web 
+de 
+memoria 
+histórica 
+Museu 
+- 
+SEFYCU 
+8328366
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CKQF FZPV VE4E J42Y
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+Técnica informática
+MARÍA SANCHIS VALERO
+23/06/2026
+FIRMADO POR
+TECNICA MUSEU
+EVA MARIA SANZ GISBERT
+23/06/2026
+Pág. 2 de 9
+
+--- página 3 ---
+3 
+ 
+Es consciente  que la gente involucrada es muy mayor y muchos han muerto, con lo cual la 
+recuperación de la memoria oral es un elemento primordial para recuperar el testigo directo, 
+aunque en muchos casos se trata de testigos de segunda generación, es decir, los hijos e hijas 
+que vivieron el conflicto de la Guerra Civil en un segundo plano, y a los cuales agradecemos 
+nos hayan cedido su imagen para configurar este archivo. Paralelamente a su imagen se han 
+recuperado todos los expedientes de los encausados de Paiporta.  
+En el año 2025 el proyecto ha empezado a recuperar la memoria oral de las víctimas a causa 
+de la inundación de la DANA de día 29 de octubre de 2024. 
+La web del proyecto: 
+https://memoriahistorica.paiporta.es 
+ 
+Funcionamiento: 
+El proyecto consta de entrevistas audiovisuales en continuidad que son transcritas, analizadas 
+y publicadas siguiendo el método de investigación de la historio oral. 
+Para su implementación se ha utilizado el sistema de gestión de patrimonio cultural y memoria 
+oral de código  abierto Dédalo ( https://dedalo.dev) que permite el registro, gestión, a nálisis y 
+difusión de los registro audiovisuales, fragmentando en tiempo real las búsquedas de los 
+fragmentos temáticos de las entrevistas. 
+El servidor provee una instancia de Dédalo para el sistema de trabajo, que permite la gestión 
+de la información, con acceso privado y controlado, y una instancia pública, que es la web 
+visible a los visitantes. 
+En el sistema de trabajo se cargan las entrevistas en formato audiovisual, se hace el registro de 
+los datos relativos a las personas entrevistadas, se realiza la transcripción del contenido 
+haciendo referencia a los tiempos en los archivos audiovisuales, se generan tesauros 
+temáticos, onomásticos, cronológicos y se realizan las indexaciones temáticas fragmentando la 
+entrevista en unidades temáticas que son recup erables a través de los tesauros. Cuando el 
+proceso de indexación termina se realiza la traducción del contenido, del valenciano al 
+castellano o del castellano al valenciano. 
+Por último, se realiza su difusión al sistema de publicación y el resultado es visible en la página 
+pública. 
+Tanto el sistema de trabajo como la web publica trabaja en 2 idiomas castellano / valenciano. 
+ 
+Descripción de los menús de la web: 
+El sistema de trabajo Dédalo se estructura en 6 menús básicos: 
+ - Inventario: contenedor de las fichas de los catálogos / inventarios 
+- Actividades: fichas de actividades de la institución 
+Innovació
+Expediente 2822535N
+NIF: P4618800I
+INF 
+- 
+Pliego 
+prescripciones 
+técnicas 
+soporte 
+página 
+web 
+de 
+memoria 
+histórica 
+Museu 
+- 
+SEFYCU 
+8328366
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CKQF FZPV VE4E J42Y
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+Técnica informática
+MARÍA SANCHIS VALERO
+23/06/2026
+FIRMADO POR
+TECNICA MUSEU
+EVA MARIA SANZ GISBERT
+23/06/2026
+Pág. 3 de 9
+
+--- página 4 ---
+4 
+ 
+- Recursos: recursos asociados a las fichas de inventario (imágenes, audiovisuales, pdf…) 
+- Procesos: Herramientas específicas de cada uno de los procesos de trabajo (transcripción, 
+indexación, traducción…) 
+Tesauro: estructuras jerárquicas comunes a nuestros inventarios (descriptores temáticos, 
+topónimos, onomásticos, …) 
+ 
+Administración: usuarios, proyectos, perfiles… 
+La web pública: 
+- Inicio: Página principal de presentación. 
+- Búsqueda temática: Acceso a los contenidos audiovisuales a través de los tesauros y las 
+indexaciones realizadas en el sistema de trabajo. Provee de un buscador que permite obtener 
+la jerarquía de términos indexables así como los fragment os de las entrevistas donde las 
+personas entrevistadas han hablado de una temática concreta. 
+- Búsqueda libre: Permite realizar búsquedas dentro de las transcripciones de las entrevistas. 
+La búsqueda se realiza en cualquier parte de las entrevistas , ya sea  indexada o no y recupera 
+fragmentos de la entrevista relativos a los conceptos o frases buscadas. La recuperación de 
+información prioriza los fragmentos indexados temáticamente con los tesauros que coinciden 
+con el criterio de la búsqueda, ya que son fragmentos relevantes. 
+- Protagonistas: Acceso a las personas  entrevistadas y a la entrevista completa, así como un 
+resumen biográfico que se relaciona con las temáticas tratadas en la entrevista. 
+- Legal: Condiciones legales de acceso a la información 
+- Proyecto: Pagina de definió del proyecto. 
+- Actividades: Acceso a las actividades realizadas sobre memoria histórica como eventos, 
+presentaciones, jornadas, exposiciones, etc. 
+ 
+Para garantizar la compatibilidad absoluta y la continuidad del servicio sin pérdida de 
+integridad de la información acumulada, la infraestructura mínima obligatoria provista por el 
+adjudicatario deberá cumplir con los siguientes requisitos: 
+Arquitectura de Servidor: 
+• Sistema Operativo: Entorno corporativo basado en GNU/Linux (distribución Ubuntu 
+Server 24.04 LTS o equivalente plenamente compatible con el software de gestión). 
+• Capacidad de Procesamiento: Mínimo de 8 núcleos de procesamiento (vCPU o 
+procesadores físicos dedicados) con frecuencias de reloj base iguales o superiores a 3 
+GHz. 
+• Memoria RAM: Mínimo de 64 GB con tecnología de corrección de errores (ECC). 
+Innovació
+Expediente 2822535N
+NIF: P4618800I
+INF 
+- 
+Pliego 
+prescripciones 
+técnicas 
+soporte 
+página 
+web 
+de 
+memoria 
+histórica 
+Museu 
+- 
+SEFYCU 
+8328366
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CKQF FZPV VE4E J42Y
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+Técnica informática
+MARÍA SANCHIS VALERO
+23/06/2026
+FIRMADO POR
+TECNICA MUSEU
+EVA MARIA SANZ GISBERT
+23/06/2026
+Pág. 4 de 9
+
+--- página 5 ---
+5 
+ 
+• Almacenamiento: Mínimo de 1 TB de disco duro con tecnología NVMe estructurados 
+en configuración de tolerancia a fallos RAID 1 (Mirror/Espejo). El espacio en disco 
+asignado debe garantizar el alojamiento holgado del volum en de entrevistas en alta y 
+baja resolución del archivo histórico. 
+ 
+Conectividad y red: 
+• Ancho de Banda: Conexión a red simétrica con un mínimo de 500 Mbps garantizados. 
+• Dominio (facilitado por el ayuntamiento, no incluido en este contrato). 
+• Seguridad Web: Configuración y renovación anual de certificados de seguridad de capa 
+de transporte SSL/TLS para el dominio suministrado por el Ayuntamiento. 
+ 
+Copias de seguridad: 
+• Se ejecutarán copias de seguridad de carácter íntegro diariamente (Backups  diarios 
+incrementales y retenciones completas). 
+• Se mantendrán, de forma simultánea, un mínimo de dos (2) copias de retención 
+completas. 
+• Estas copias deberán almacenarse obligatoriamente en dos ubicaciones físicas 
+distintas y securizadas que se encuentren separadas del servidor principal. 
+ 
+Entorno de ejecución y librerías del sistema: 
+El sistema operativo del servidor deberá contar de forma nativa con los siguientes 
+componentes en versiones estables y actualizadas: 
+• Intérprete de comandos y Backend: PHP en versión 8.4 o superior compatible. 
+• Servidor Web: Apache HTTP Server en versión 2.4.6 o superior compatible. 
+• Motor de Base de Datos Interno (Trabajo): PostgreSQL en versión 17 o superior con 
+soporte nativo para almacenamiento de objetos estructurados de datos tipo JSONB. 
+• Motor de Base de Datos Externo (Publicación): MariaDB en versión 12 o superior 
+compatible para la explotación SQL de la web pública. 
+• Librerías Multimedia Obligatorias: El servidor web deberá integrar y tener 
+correctamente configuradas las herramientas ffmpeg (procesamiento audiovisual en 
+tiempo real), ImageMagick (tratamiento de imágenes de archivo) y poppler- utils / Xpdf 
+(indexación y renderizado de expedientes digitalizados en PDF).  Siguiendo las 
+especificaciones del repositorio oficial  o 
+equivalente. https://github.com/renderpci/dedalo 
+ 
+ 
+Cláusula 3 – Servicio de migración, soporte y mantenimiento 
+El adjudicatario asumirá las tareas de soporte desde el primer día de la formalización del 
+contrato, estructurándose en los siguientes bloques obligatorios: 
+ 
+Innovació
+Expediente 2822535N
+NIF: P4618800I
+INF 
+- 
+Pliego 
+prescripciones 
+técnicas 
+soporte 
+página 
+web 
+de 
+memoria 
+histórica 
+Museu 
+- 
+SEFYCU 
+8328366
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CKQF FZPV VE4E J42Y
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+Técnica informática
+MARÍA SANCHIS VALERO
+23/06/2026
+FIRMADO POR
+TECNICA MUSEU
+EVA MARIA SANZ GISBERT
+23/06/2026
+Pág. 5 de 9
+
+--- página 6 ---
+6 
+ 
+• Proceso de Migración Inicial e Implantación. 
+La empresa adjudicataria incluirá dentro de su oferta técnica los trabajos de 
+consultoría, adecuación técnica del espacio virtualizado, despliegue del software y 
+migración íntegra del repositorio de datos actual (BBDD PostgreSQL, MariaDB y 
+almacenamiento de archivos de vídeo/PDF) desde el antiguo servidor al nuevo 
+entorno. Se estimará una dedicación mínima de 10 horas de administración de 
+sistemas específicas para este fin, debiendo ejecutarse el traslado reduciendo al 
+mínimo la ventana de caída de servicio de la web pública. 
+ 
+ 
+• Soporte y Atención Telefónica Especializada.  
+El servicio de atención técnica resolverá las incidencias registradas mediante atención 
+telefónica especializada o soporte vía correo electrónico, con las siguientes ventanas 
+de disponibilidad: 
+− Incidencias Ordi narias / No Urgentes: Soporte telefónico operativo de lunes a 
+viernes laborables, en horario de mañana de 08:00 a 15:00 horas y en horario de 
+tarde de 16:30 a 20:00 horas. 
+− Incidencias Críticas / Urgencias (Caída total de servidor o pérdida de servicio web): 
+Soporte telefónico prioritario disponible de 08:00 a 24:00 horas, los 7 días de la 
+semana (365 días al año). 
+− Canal Digital: Buzón de soporte telemático (vía email o plataforma de ticketing) 
+operativo las 24 horas del día, los 7 días de la semana. 
+ 
+• Mantenimiento y plan de soporte.  
+− Mantenimiento Correctivo: Subsanación de cualquier error de infraestructura, 
+configuración del servidor o fallos internos del aplicativo que impidan la normal 
+explotación de los datos o corrompan la información. 
+− Mantenimiento Perfectivo: Aplicación periódica de actualizaciones de seguridad 
+del Sistema Operativo, optimizaciones del motor de bases de datos e inclusión de 
+nuevas versiones estables del software de gestión y su documentación. 
+− Mantenimiento Adaptativo: Modificaciones de configuración o maquetación web 
+necesarias para adaptar la plataforma a los cambios normativos vigentes de las 
+administraciones públicas (accesibilidad, avisos legales, etc.). 
+ 
+ 
+ 
+Cláusula 4 – Presupuesto base de licitación  
+El presupuesto base de licitación y precio máximo del contrato  (periodo inicial de 2 años sin 
+IVA) será de 10.800,00€ más 2.268,00€ de iva. En total son 13.068,00€ iva incluido. 
+El Valor Estimado del Contrato (VEC)  a efectos de su tram itación y publicación legal, 
+contemplando el periodo inicial de 2 años más la posibilidad de dos  (2) prórroga s anuales 
+adicional, asciende a la cantidad de 21.600,00 € (IVA excluido). 
+ 
+CONCEPTO 1ª anualidad 
+inicial 
+2ª anualidad 
+inicial 
+Primera 
+prorróga 
+Segunda 
+prorróga 
+Innovació
+Expediente 2822535N
+NIF: P4618800I
+INF 
+- 
+Pliego 
+prescripciones 
+técnicas 
+soporte 
+página 
+web 
+de 
+memoria 
+histórica 
+Museu 
+- 
+SEFYCU 
+8328366
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CKQF FZPV VE4E J42Y
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+Técnica informática
+MARÍA SANCHIS VALERO
+23/06/2026
+FIRMADO POR
+TECNICA MUSEU
+EVA MARIA SANZ GISBERT
+23/06/2026
+Pág. 6 de 9
+
+--- página 7 ---
+7 
+ 
+obligatoria obligatoria 
+ANUALIDAD 2027 2028 2029 2030 
+PERIODO 
+TEMPORAL 
+01/01/2027 
+al 
+31/12/2027 
+01/01/2028 
+al 
+31/12/2028 
+01/01/2029 
+al 
+31/12/2029 
+01/01/2030 
+al 
+31/12/2030 
+PRECIO 
+NETO SIN 
+IVA 
+5.400,00€ 5.400,00€ 5.400,00€ 5.400,00€ 
+IVA (21%) 1.134,00€ 1.134,00€ 1.134,00€ 1.134,00€ 
+IMPORTE 
+ANUAL (IVA 
+INCLUIDO) 
+6.534,00€ 6.534,00€ 6.534,00€  6.534,00€ 
+ 
+ 
+ 
+ 
+Cláusula 5 – Duración  
+La duración del contrato será de 2 años (24 meses),  fijándose el inicio de la ejecución el 1 de 
+enero de 2027 y su finalización inicial el 31 de diciembre de 202 8. El contrato será prorrogable 
+de forma expresa y por mutuo acuerdo anualmente hasta un máximo de 2 prórrogas 
+(anualidades 2029 y 2030). 
+ 
+Cláusula 6 – Protección de datos personales  
+De conformidad con lo dispuesto en el  Reglamento (UE) 2016/679 del Parlamento Europeo y 
+del Consejo, de 27 de abril de 2016 (RGPD) , y en la Ley Orgánica 3/2018, de 5 de diciembre, de 
+Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD), las partes 
+reconocen que la ejecución de los servicios objeto de este contrato implica el acceso y 
+tratamiento de datos de carácter personal (tales como re gistros de voz, imagen, testimonios 
+orales de la memoria histórica, expedientes digitalizados e información de usuarios de gestión).  
+Por tanto, la empresa adjudicataria tendrá formalmente la condición jurídica de  Encargado del 
+Tratamiento. Para dar cumplimiento a las exigencias legales, el adjudicatario deberá suscribir 
+obligatoriamente el correspondiente  "Acuerdo de Encargado de Tratamiento"  de forma previa 
+o simultánea a la formalización del contrato.  
+El contratista se compromete formalmente a:  
+• Tratar los datos personales única y exclusivamente siguiendo las instrucciones por escrito 
+del responsable del contrato del Ayuntamiento de Paiporta, no utilizándolos para fines 
+distintos a la estricta ejecución del servicio.  
+• No comunicar, ceder ni transferir lo s datos a terceros, ni siquiera para su conservación, 
+salvo que cuente con la autorización expresa y por escrito del órgano de contratación.  
+• Implementar las medidas de seguridad técnicas y organizativas necesarias para garantizar 
+la integridad, confidencialidad y disponibilidad de los datos personales, de acuerdo con los 
+riesgos identificados y las exigencias del Esquema Nacional de Seguridad (ENS).  
+ 
+Innovació
+Expediente 2822535N
+NIF: P4618800I
+INF 
+- 
+Pliego 
+prescripciones 
+técnicas 
+soporte 
+página 
+web 
+de 
+memoria 
+histórica 
+Museu 
+- 
+SEFYCU 
+8328366
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CKQF FZPV VE4E J42Y
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+Técnica informática
+MARÍA SANCHIS VALERO
+23/06/2026
+FIRMADO POR
+TECNICA MUSEU
+EVA MARIA SANZ GISBERT
+23/06/2026
+Pág. 7 de 9
+
+--- página 8 ---
+8 
+ 
+Deber de Confidencialidad 
+El adjudicatario, así como todo el personal bajo su dirección que participe en cualquier fase de 
+la ejecución del contrato, queda sujeto al deber de secreto profesional y confidencialidad más 
+estricto respecto a los datos y antecedentes que conozcan en virtud del servici o. Esta 
+obligación subsistirá de forma indefinida, incluso tr as la extinción del contrat o. En caso de 
+subcontratación autorizada, el contratista principal deberá exigir por escrito idéntico 
+compromiso de confidencialidad a la subcontratata.  
+ 
+Confidencialidad de las Ofertas (Artículo 133 de la LCSP) 
+De acuerdo c on el artículo 133 de la Ley 9/2017, de Contratos del Sector Público, el 
+Ayuntamiento de Paiporta no divulgará la información facilitada por las empresas licitadoras 
+que estas hayan designado de forma motivada como confidencial en el momento de presentar 
+sus ofertas (tales como secretos técnicos, comerciales o propiedad intelectual del software ). El 
+deber de confidencialidad del órgano de contratación no podrá extenderse a la totalidad del 
+contenido de la oferta del adjudicatario ni impedir la divulgación pública de las partes no 
+confidenciales.  
+ 
+ 
+Cláusula 7 – Seguridad  
+De conformidad con lo dispuesto en el  Real Decreto 311/2022, de 3 de mayo, por el que se 
+regula el Esquema Nacional de Seguridad (ENS) , los operadores del sector privado que presten 
+servicios o provean soluciones tecnológicas a las entidades públicas están  obligados al 
+cumplimiento de las medidas de seguridad correspondientes a la categoría del sistema que 
+exploten.  
+Atendiendo a las características del servicio objeto de esta licitación, el cual incluye el 
+alojamiento en la nube, custodia de datos históricos y la gestión de un entorno web 
+administrativo con material multimedia de acceso restringido, se determina que el sistema de 
+información requiere un nivel de protección asociado a la categoría MEDIA.  
+Por tanto, se exigirá de forma obligatoria a las empresas licitadoras el cumplimiento de los 
+siguientes requisitos operacionales: 
+• Exhibición de Certificación: El adjudicatario deberá acreditar que se encuentra en posesión 
+de la  Certificación de Conformidad con el Esquema Nacional de Seguridad (ENS) en 
+categoría MEDIA (o superior).  
+• Alcance de la Certificación:  Dicha certificación debe cubrir explícitamente la 
+infraestructura del Centro de Procesos de Datos (CPD) o entorno de computación en la 
+nube (SaaS/IaaS) donde se alojen el software de gestión, las bases de datos de producción, 
+los repositorios multimedia y los sistemas de copias de seguridad de este Ayuntamiento.  
+• Vigencia: La citada Certificación de Conformidad deberá estar vigente en el momento de la 
+presentación de ofertas y mantenerse plenamente válid a durante todo el periodo de 
+ejecución del contrato, incluidas sus prórrogas.  
+La no presentación de la correspondiente Certificación de Conformidad con el ENS de 
+categoría MEDIA del CPD de alojamiento será motivo de exclusión automática del 
+procedimiento de licitación, al considerarse un requisito técnico esencial y mínimo de la 
+infraestructura.  
+ 
+Innovació
+Expediente 2822535N
+NIF: P4618800I
+INF 
+- 
+Pliego 
+prescripciones 
+técnicas 
+soporte 
+página 
+web 
+de 
+memoria 
+histórica 
+Museu 
+- 
+SEFYCU 
+8328366
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CKQF FZPV VE4E J42Y
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+Técnica informática
+MARÍA SANCHIS VALERO
+23/06/2026
+FIRMADO POR
+TECNICA MUSEU
+EVA MARIA SANZ GISBERT
+23/06/2026
+Pág. 8 de 9
+
+--- página 9 ---
+9 
+ 
+Cláusula 8 – Responsable del contrato   
+Según lo dispuesto en el artículo 62.1 de la LCSP, se designa como responsable del contrato a 
+la Técnica Informática, a quien le corresponde supervisar su ejecución y adoptar las decisiones 
+y dictar las  instrucciones necesarias con el fin de asegurar la correcta realización de la 
+prestación pactada, dentro del ámbito de facultades que el órgano de contratación le atribuya. 
+ 
+Cláusula 9 – Ejecución del contrato   
+Según lo dispuesto en el artículo 311 de la LCSP, el contrato se ejecutará con sujeción a lo 
+establecido en su clausulado y en los pliegos, y de acuerdo con las instrucciones que para su 
+interpretación diere al contratista el responsable del contrato, en los casos en que se hubiere 
+designado. 
+El contratista será el responsable de la calidad técnica de los trabajos que desarrolle y de las 
+prestaciones y servicios realizados, así como de las consecuencias que se  deduzcan para la 
+Administración o para terceros de las omisiones, errores, métodos inadecuados o conclusiones 
+incorrectas en la ejecución del contrato. 
+La Administración determinará si la prestación realizada por el contratista se ajusta a las 
+prescripciones establecidas para su ejecución y cumplimiento, requiriendo, en su caso, la 
+realización de las prestaciones  contratadas y la subsanación de los defectos observados con 
+ocasión de su recepción. 
+El presente contrato, se ejecuta a riesgo y ventura del adju dicatario, según lo dispuesto en el 
+artículo 197 de la LCSP. 
+El precio del contrato será el que resulte de la adjudicación del mismo y deberá indicar como 
+partida independiente el IVA. En el precio del contrato se considerarán incluidos los tributos, 
+tasas y cánones de  cualquier índole que sean de aplicación, así como todos los gastos que se 
+originen para el adjudicatario  como consecuencia del cumplimiento de las obligaciones 
+contempladas en el pliego. 
+El pago del precio de contrato se realizará tras la pre sentación de la correspondiente factura  
+anual, que deberá ser visada por el servicio de Innovación. 
+El Ayuntamiento tendrá la obligación de abonar las facturas en los términos establecidos en el 
+artículo 198.4 de la LCSP, en relación a lo dispuesto en el artículo 199 del mencionado texto 
+legal. 
+En la factura se incluirán, además de los datos y requisitos establecidos en el artículo 72 del 
+Real Decreto 1098/2001, de 12 de octubre, por el que se aprueba el Reglamento General de la 
+Ley de Contratos de las  Administraciones Públicas, los siguientes extremos previstos en el 
+apartado segundo de la Disposición Adicional Trigésimo Segunda de la LCSP: 
+• Oficina Contable: L01461862 INTERVENCIÓN 
+• Órgano gestor: L01461862 GESTOR PAIPORTA 
+• Unidad Tramitadora: L0146862 TRAMITADOR PAIPORTA 
+El Ayuntamiento de Paiporta está acogido al Punto General de Entrada de Facturas 
+Electrónicas de la Administración General del Estado, por lo que puede enviarse la factura 
+electrónica a través de FACE (https://face.gob.es). 
+ 
+ 
+ 
+ 
+Innovació
+Expediente 2822535N
+NIF: P4618800I
+INF 
+- 
+Pliego 
+prescripciones 
+técnicas 
+soporte 
+página 
+web 
+de 
+memoria 
+histórica 
+Museu 
+- 
+SEFYCU 
+8328366
+La comprobación de la autenticidad de este documento y otra información está disponible en https://paiporta.sedipualba.es/
+Código Seguro de Verificación: JZAA CKQF FZPV VE4E J42Y
+AYUNTAMIENTO DE PAIPORTA
+FIRMADO POR
+Técnica informática
+MARÍA SANCHIS VALERO
+23/06/2026
+FIRMADO POR
+TECNICA MUSEU
+EVA MARIA SANZ GISBERT
+23/06/2026
+Pág. 9 de 9

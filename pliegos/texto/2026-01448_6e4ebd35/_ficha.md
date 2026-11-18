@@ -10,5 +10,6 @@
 
 ## Documentos
 
-- [Legal] 2026-01448_PCAP_signed.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
-- [Technical] 2026-01448_PPT_signed.pdf: error devuelve una página web, no un documento (tipo text/html, URL final https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjX): «Request Rejected The requested URL was
+- [Legal] 2026-01448_PCAP_signed.pdf: 01_Legal_2026-01448_PCAP_signed.pdf (2880 KB)
+- [Technical] 2026-01448_PPT_signed.pdf: 02_Technical_2026-01448_PPT_signed.pdf (2128 KB)
+- [Additional] Deuc2026-01448.zip: 03_Additional_Deuc2026-01448.zip (83 KB, sin texto extraído)
