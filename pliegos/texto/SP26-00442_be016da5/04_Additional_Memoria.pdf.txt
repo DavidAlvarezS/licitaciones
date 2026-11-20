@@ -1,0 +1,474 @@
+
+
+--- página 1 ---
+Madrid Destino
+Cultura, Turismo y Negocio S.A.
+Área de Gobierno de Cultura, Turismo y Deporte
+Ayuntamiento de Madrid
+www.madrid-destino.com
+1
+SP26-00442
+MEMORIA JUSTIFICATIVA CORRESPONDIENTE A LA CONTRATACIÓN DE HERRAMIENTAS DE 
+GOOGLE PARA MADRID DESTINO CULTURA TURISMO Y NEGOCIO S.A., A ADJUDICAR 
+MEDIANTE PROCEDIMIENTO ABIERTO SIMPLIFICADO
+1 JUSTIFICACIÓN DE LA NECESIDAD Y OBJETO DE LA CONTRATACIÓN.
+La sociedad mercantil municipal Madrid Destino, Cultura, Turismo y Negocio, S.A., (en adelante,
+formativas y artísticas, la organización, apoyo y difusión de las mismas, la prestación de todos los
+servicios e infraestructuras integrantes o complementarios de estos programas y actividades, la gestión 
+de cualesquiera centros, espacios, recintos, dependencias y/o servicios culturales, cuya gestión le fuera 
+encomendada temporal o indefinidamente, o cuyo uso le fuera cedido por el Ayuntamiento de Madrid,
+incluida la contratación y ejecución de las obras, instalaciones, servicios y       suministros para los mismos, 
+la gestión de las políticas municipales de promoción e información turística de la Ciudad de Madrid, la 
+proyección de su imagen a nivel nacional e internacional y la gestión y explotación de los derechos de 
+propiedad intelectual derivados de las obras susceptibles de generar tales derechos resultantes de las 
+anteriores actividades, así como la prestación por cuenta propia o ajena de todo tipo de servicios
+relacionados con la organización, dirección, producción y administración de eventos, ya sean
+deportivos, exposiciones, congresos, convenciones, seminarios, ferias, y cualquier otro evento de
+naturaleza similar.
+En este sentido, Madrid Destino desea contratar los siguientes servicios:
+API de Google Maps.
+Otros servicios de Google:
+o Google reCaptcha. 
+o DataStudio Pro.
+o BigQuery.
+o Workspace. 
+o Gemini. 
+o Otros servicios no identificados en la actualidad.
+Bolsa de horas de apoyo:
+o Gestión de almacenamiento.
+o Asesoramiento sobre la implantación o evolución de las herramientas objeto del 
+contrato.
+o Gestión de la cuenta Google Maps.
+
+--- página 2 ---
+Madrid Destino
+Cultura, Turismo y Negocio S.A.
+Área de Gobierno de Cultura, Turismo y Deporte
+Ayuntamiento de Madrid
+www.madrid-destino.com
+2
+o Activación y configuración de APIs.
+o Soporte funcional.
+o Consultoría de optimización.
+o Asesoramiento sobre arquitectura.
+o Seguimiento de consumo.
+2 JUSTIFICACIÓN DE LA ELECCIÓN DEL PROCEDIMIENTO, CARACTERÍSTICAS Y TIPO DE 
+CONTRATO.
+Teniendo en cuenta el valor estimado de este contrato y sus características, se considera que el
+procedimiento más adecuado para la licitación y contratación del servicio se tramite por el
+procedimiento abierto simplificado, al amparo de lo previsto en el artículo 159 dela Ley 9/2017, de 8
+de noviembre, de Contratos del Sector Público (en adelante LCSP), al ser inferior a 215.999,00 (IVA
+no    incluido).
+3 TIPO DE CONTRATO.
+Contrato de servicios de conformidad con lo establecido en el artículo 17 de la LCSP
+contrato de servicios aquellos cuyo objeto son prestaciones de hacer consistentes en el desarrollo de 
+una actividad o dirigidas a la obtención de un resultado distinto de una obra o suministro .
+Las prestaciones objeto del contrato no son separables por lo que se atenderá al carácter de la 
+prestación principal. 
+Tal y como se describe en la cláusula de esta memoria relativa a las condiciones económicas, se
+establece una cantidad máxima estimada de gasto anual, cuyo consumo estará subordinado a las
+necesidades reales que vayan surgiendo durante la ejecución del contrato.
+El presente contrato tiene carácter privado, al celebrarse por la mercantil MADRID DESTINO, entidad
+del Sector Público que, siendo poder adjudicador, no reúne la condición de Administración Pública de
+conformidad con lo dispuesto en los artículos 26, 316 y 319 de la LCSP.
+Para lo no previsto en los Pliegos y en el resto de documentación que revista carácter contractual
+habida cuenta de su naturaleza privada, el contrato se regirá por las normas de derecho privado con las
+particularidades previstas en el art. 319.1 de la LCSP sobre obligaciones en materia medioambiental,
+social o laboral (art. 201); condiciones especiales de ejecución (art. 202); supuestos de modificación
+del contrato (arts. 203 a 205); cesión y subcontratación (arts. 214 a 217);racionalización técnica de la
+contratación (arts. 218 a 228); así como sobre las condiciones de pago establecidas en los apartados
+4º del artículo 198, 4º del artículo 210 y 1º del artículo 243.
+En su defecto, se regirá por el Real Decreto 817/2009, de 8 de mayo, por el que se desarrolla
+parcialmente la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público (RD 817/2009); y al
+Reglamento General de la Ley de Contratos de las Administraciones Públicas, aprobado mediante Real 
+Decreto 1098/2001, de 12 de octubre (RGLCAP), en todo lo que no se oponga a la anterior y resulte 
+de aplicación.
+En todo caso, las normas legales y reglamentarias citadas anteriormente serán de aplicación en todo 
+lo que no se oponga a la LCSP.
+Durante todo el periodo de ejecución del contrato, la mercantil adjudicataria deberá cumplir con la
+
+--- página 3 ---
+Madrid Destino
+Cultura, Turismo y Negocio S.A.
+Área de Gobierno de Cultura, Turismo y Deporte
+Ayuntamiento de Madrid
+www.madrid-destino.com
+3
+normativa en materia de Prevención de Riesgos Laborales o, en su caso, lo quedeterminen sus 
+servicios de prevención, debiendo cumplir asimismo con las indicaciones que el personal de seguridad
+y técnicos de prevención de riesgos laborales de MADRID DESTINO, puedan                    darle.
+4 CODIFICACIÓN DEL CONTRATO.
+A los efectos de identificar las prestaciones que son objeto de los contratos regulados en la LCSP,se
+identifican los siguientes CPV (Vocabulario común de contratos públicos):
+48000000-8 Paquetes de software y sistemas de información.
+72260000-5 Servicios relacionados con el software.
+72600000-6 Servicios de apoyo informático y de consultoría.
+5 JUSTIFICACIÓN DE LA NO DIVISIÓN EN LOTES.
+De acuerdo con lo previsto en el artículo 99.3 b) de la LCSP, la realización independiente de las diversas 
+prestaciones comprendidas en el objeto del contrato dificulta la correcta ejecución del mismo desde el 
+punto de vista técnico. 
+Hay que tener en cuenta que el objeto del contrato es la prestación de un único servicio especializado 
+por lo que no tiene sentido la división en lotes debido a la propia naturaleza del objeto a contratar.
+6 MODIFICACIÓN DEL CONTRATO.
+Procede: no.
+7 JUSTIFICACIÓN DEL CÁLCULO DEL PRESUPUESTO BASE DE LICITACIÓN, ASÍ COMO DEL 
+VALOR ESTIMADO DEL CONTRATO.
+7.1 PRESUPUESTO BASE DE LICITACIÓN.
+Presupuesto base de licitación (en adelante PBL):
+más el IVA que resulte de aplicación.
+IVA aplicable:
+21%.
+Total, presupuesto base de licitación (IVA incluido): diecisiete mil doscientos setenta y ocho euros 
+.
+Tipo de presupuesto: máximo estimado.
+Forma de determinación del precio:
+El apartado 2.2.1 de la Instrucción 5/2016, relativa a los criterios de actuación en la contratación
+municipal, aprobada mediante Decreto de 15 de diciembre de 2016 del Delegado del Área de Gobierno 
+de Economía y Hacienda que señala que el estudio económico que se realice para la determinación
+del presupuesto de licitación del contrato deberá recoger de forma detallada, pormenorizada y motivada 
+los cálculos de costes sobre la base de las características, prestaciones y costes de mercado de la 
+actuación que se pretenda contratar, instando, con carácter general, a que dicho cálculo se realice a 
+partir de la definición de costes unitarios referidos a los distintos componentes de la prestación o a las
+unidades de la misma que se entreguen o ejecuten.
+Cuando por razones justificadas que deberán constar en el expediente no puedan determinarse los              
+
+--- página 4 ---
+Madrid Destino
+Cultura, Turismo y Negocio S.A.
+Área de Gobierno de Cultura, Turismo y Deporte
+Ayuntamiento de Madrid
+www.madrid-destino.com
+4
+costes de acuerdo con lo señalado en el párrafo anterior, podrá utilizarse el sistema de determinación 
+del precio a tanto alzado.
+el precio del contrato podrá formularse tanto en términos de 
+precios unitarios referidos a los distintos componentes de la prestación o a las unidades de la misma 
+que se entreguen o ejecuten, como en términos de precios aplicables a tanto alzado a la totalidad o
+parte de las prestaciones del contrato
+En el presente procedimiento, el sistema de determinación del presupuesto se ha establecido mediante
+precios unitarios, que son los correspondientes a todos y cada uno de los servicios objeto del contrato
+que forman parte de la relación que se indica a continuación, en base a las necesidades estimadas de
+cada uno de ellos que MADRID DESTINO precisa durante el periodo máximo de ejecución del servicio,
+que es el establecido en el Apartado 8 del Anexo I del PCAP.
+Para establecer el umbral máximo de consumo anual, se ha recurrido al histórico de facturación del 
+contrato SP22-00595, con estas cifras:
+por usar esta última cifra por resultar más realista. 
+Para los servicios profesionales se ha optado por un formato en modo bolsa de horas con 20 
+inferiores al máximo se obtienen más horas disponibles con el mismo presupuesto máximo. 
+Para los demás servicios del ecosistema Google que Madrid Destino pueda requerir durante la 
+vigencia del contrato, se ha elaborado la estimación que se detalla a continuación. Estos 
+servicios incluyen, entre otros, Google Workspace, Data Studio Pro, Google Cloud Platform, 
+BigQuery, servicios de seguridad y protección frente a tráfico automatizado y fraude, y servicios 
+de inteligencia artificial generativa mediante Gemini.
+A efectos de determinación y justificación del presupuesto se ha utilizado una cesta 
+representativa de servicios basada en las tarifas públicas de Google, considerando licencias de 
+estos productos.
+La distribución indicada tiene carácter exclusivamente estimativo y no constituye un compromiso 
+mínimo de utilización de cada servicio. El consumo efectivo podrá distribuirse entre los distintos 
+productos y servicios incluidos en el objeto del contrato de acuerdo con las necesidades de 
+Madrid Destino durante su ejecución, sin superar el presupuesto máximo establecido.
+Los servicios se facturarán conforme a su consumo o licenciamiento efectivo, tomando como 
+referencia las tarifas oficiales públicas vigentes de Google, sobre las que se aplicará, en su caso, 
+el porcentaje de descuento ofertado por el adjudicatario. 
+La estimación es la siguiente:
+Servicio
+Unidades/alcance 
+estimado
+Importe anual 
+estimado
+Google Workspace Business Standard 2 usuarios
+
+--- página 5 ---
+Madrid Destino
+Cultura, Turismo y Negocio S.A.
+Área de Gobierno de Cultura, Turismo y Deporte
+Ayuntamiento de Madrid
+www.madrid-destino.com
+5
+Servicio
+Unidades/alcance 
+estimado
+Importe anual 
+estimado
+Data Studio Pro (Looker Studio Pro) 5 usuarios
+reCAPTCHA / Google Cloud Fraud Defense Premium Servicio anual
+Google Cloud Platform, incluyendo BigQuery, Cloud Run, Cloud Storage, 
+Gemini API y otros servicios por consumo
+Bolsa de consumo
+TOTAL ANUAL
+La estimación de Google Workspace Business Standard se basa en la tarifa pública de Google de 14 
+USD por usuario y mes para el plan anual.
+Para Data Studio Pro, anteriormente denominado Looker Studio Pro, Google establece un modelo de 
+suscripción basado en licencias individuales y facturación mensual.
+Respecto a reCAPTCHA / Google Cloud Fraud Defense Premium, la tarifa pública establece actualmente 
+gratuidad para las primeras 10.000 evaluaciones mensuales y una tarifa fija de 8 USD mensuales para 
+consumos comprendidos entre 10.001 y 100.000 evaluaciones al mes.
+susceptible de aplicarse, en función de las necesidades efectivas durante la ejecución del contrato, a 
+servicios tales como BigQuery, Cloud Run, Cloud Storage, servicios de inteligencia artificial generativa 
+mediante Gemini API u otros servicios disponibles en Google Cloud. La facturación de estos servicios se 
+realiza principalmente en función de su consumo efectivo. Por ejemplo, BigQuery permite facturación 
+bajo demanda en función de los datos procesados y dispone de un nivel gratuito para el primer TiB de 
+consultas procesadas mensualmente. Cloud Run, por su parte, factura los recursos efectivamente 
+utilizados una vez aplicado el nivel sin coste correspondiente.
+La distribución recogida en la tabla anterior tiene carácter exclusivamente estimativo y se utiliza a efectos 
+de justificación y dimensionamiento económico del contrato, sin que constituya un compromiso de 
+adquisición de un número determinado de licencias ni de consumo mínimo de ninguno de los servicios 
+indicados. Durante la ejecución, el gasto podrá distribuirse entre los diferentes servicios Google incluidos 
+en el objeto del contrato en función de las necesidades efectivas de Madrid Destino, sin superar el importe 
+máximo anual de 2.700,00 euros.
+Los servicios efectivamente utilizados se facturarán conforme a las tarifas oficiales vigentes de Google, 
+aplicándose sobre estas, cuando corresponda, el porcentaje de descuento ofertado por el adjudicatario.
+
+--- página 6 ---
+Madrid Destino
+Cultura, Turismo y Negocio S.A.
+Área de Gobierno de Cultura, Turismo y Deporte
+Ayuntamiento de Madrid
+www.madrid-destino.com
+6
+Los precios oficiales pueden consultarse aquí 
+Google Workspace
+Google publica las tarifas de Business Starter, Business Standard y Business Plus. Para nuestra 
+estimación hemos utilizado Business Standard: 14 USD por usuario/mes con compromiso anual.
+https://workspace.google.com/pricing?hl=es
+Data Studio Pro / Looker Studio Pro
+La documentación oficial de Google confirma que la versión Pro funciona mediante licencias 
+individuales, que pueden asignarse a usuarios o equipos y que se facturan mensualmente.
+https://cloud.google.com/data-studio#pricing
+reCAPTCHA / Google Cloud Fraud Defense
+Google publica que Premium tiene hasta 10.000 evaluaciones mensuales gratuitas; entre 10.001 y 
+100.000 evaluaciones/mes aplica una tarifa fija de 8 USD/mes, y por encima de 100.000 se aplica 
+facturación por volumen. https://docs.cloud.google.com/recaptcha/docs/compare-tiers?hl=es-419
+Google Cloud Platform
+Para los servicios de Google Cloud no existe un único precio fijo, ya que dependen del producto y del 
+consumo. Google dispone de una calculadora oficial de precios, que además permite elaborar 
+estimaciones en euros. https://cloud.google.com/products/calculator
+BigQuery
+Google publica específicamente las tarifas de computación y almacenamiento de BigQuery. En 
+modalidad bajo demanda, el coste de las consultas depende de los datos procesados y existe un nivel 
+gratuito para el primer 1 TiB de consultas procesadas al mes.
+https://cloud.google.com/bigquery/pricing
+Cloud Run
+Google Cloud publica un modelo basado en recursos efectivamente utilizados, una vez aplicado el nivel 
+gratuito correspondiente. https://cloud.google.com/run/pricing?hl=es
+Gemini mediante Google Cloud
+Google publica las tarifas de utilización de sus modelos de IA generativa en función, entre otros 
+parámetros, de los tokens de entrada y salida.
+https://cloud.google.com/gemini-enterprise-agent-platform/generative-ai/pricing?hl=es
+Con estas cifras, el cuadro de cálculo de costes del presupuesto base de licitación (PBL) es el siguiente:
+
+--- página 7 ---
+Madrid Destino
+Cultura, Turismo y Negocio S.A.
+Área de Gobierno de Cultura, Turismo y Deporte
+Ayuntamiento de Madrid
+www.madrid-destino.com
+7
+Servicio Precio unitario Unidades Totales
+API Google Maps 
+                 
+24
+              
+Apoyo y consultoría
+                    
+40
+              
+Otros servicios Google
+              
+2
+              
+TOTAL
+           
+IVA
+              
+PBL + IVA
+           
+Siendo el presupuesto para las prórrogas como sigue 
+Servicio Precio unitario Unidades Totales
+API Google maps 
+                 
+36
+              
+Apoyo y consultoría
+                    
+60
+              
+Otros servicios Google
+              
+3
+              
+TOTAL
+           
+Valor Estimado de contrato
+           
+IVA
+              
+VEC + IVA
+           
+El IVA deberá estar desglosado en todo caso.
+A todos los efectos, se entenderá que el precio estipulado en las ofertas que se presenten comprende 
+todos los gastos en los que pueda incurrir el licitador adjudicatario durante la prestación del servicio, 
+entre ellos todos los costes que se deriven de los viajes, seguros, portes (así como los gastos de 
+empaquetado y etiquetado), gestión y mensajería que deban de efectuarse para la ejecución del objeto 
+del contrato, incluidos, en todo caso, los gastos de traslado, manutención y alojamiento del personal que 
+ejecute el suministro, no asumiendo MADRID DESTINO coste alguno  por dichos conceptos.
+Los costes directos e indirectos, así como el beneficio industrial ya van incluidos en el coste de los 
+contratos que se han tomado como referencia. 
+Cofinanciación: no.
+Crédito en el que se ampara: actividad directamente relacionada con el objeto social de MADRID 
+DESTINO, por lo que la parte correspondiente al valor estimado y al presupuesto base de licitación, se
+incluirá en los Presupuestos correspondientes al año 2027 y se tendrá en consideración para  elaborar
+los correspondientes al 2028, 2029, 2030 y 2031.
+Posibilidad de incrementar el número de unidades hasta el 10 % del precio del contrato: no.
+7.2 VALOR ESTIMADO DEL CONTRATO.
+Valor total estimado del Contrato: 
+resulte de aplicación.
+
+--- página 8 ---
+Madrid Destino
+Cultura, Turismo y Negocio S.A.
+Área de Gobierno de Cultura, Turismo y Deporte
+Ayuntamiento de Madrid
+www.madrid-destino.com
+8
+Para determinar el valor estimado del contrato se ha sumado el presupuesto correspondiente al 
+período inicial y el presupuesto estimado para las posibles prórrogas, calculados con los mismos 
+precios de referencia y atendiendo a la duración de cada período.
+Presupuesto para el coste del servicio: 
+Posibles prórrogas: Sí.
+Presupuesto para la prórroga: v
+resulte de aplicación.
+Porcentaje de IVA aplicable a la prórroga: cuatro mil cuatrocientos noventa y ocho euros con veinte 
+Total presupuesto máximo prórroga (IVA incluido): veinticinco mil novecientos dieciocho euros con 
+Valor global máximo de la presente contratación en caso de agotarse en su máximo tiempo de duración 
+Los precios indicados incluyen costes indirectos y beneficio industrial. 
+Este importe se corresponde con el siguiente desglose por anualidades y conceptos:
+Anualidad 2027: 7.140
+Anualidad 2028: 7.140 IVA no incluido.
+Anualidad 2029: 7.140 IVA no incluido.
+Anualidad 2030: 7.140 IVA no incluido.
+Anualidad 2031: 7.140 IVA no incluido.
+Sujeto a regulación armonizada: No.
+7.3 PRECIO DEL CONTRATO.
+El precio del contrato será aquél al que ascienda la adjudicación, si bien ésta no constituye una 
+obligación de pago, abonándose únicamente los servicios efectivamente prestados, cuyo importe será el 
+resultado de aplicar las tarifas unitarias ofertadas por la mercantil que resulte adjudicataria sobre el 
+número de los servicios prestados, durante el período de vigencia de la contratación, sin que pueda en 
+ningún caso sobrepasarse el importe de adjudicación. 
+En el caso de la bolsa de horas, el importe de adjudicación será el fijado en el PBL que será el máximo 
+posible de consumo de las mismas, por lo tanto, dependiendo de la tarifa ofertada por el adjudicatario, a 
+menor precio por hora, habrá más horas disponibles en la bolsa. 
+8 DURACIÓN DEL CONTRATO.
+Veinticuatro (24)        meses.
+9 PRÓRROGAS.
+Procede: sí.
+10 DURACIÓN DE LA PRÓRROGA
+
+--- página 9 ---
+Madrid Destino
+Cultura, Turismo y Negocio S.A.
+Área de Gobierno de Cultura, Turismo y Deporte
+Ayuntamiento de Madrid
+www.madrid-destino.com
+9
+Treinta y seis (36) meses.
+11 LUGAR DE PRESTACIÓN DEL SERVICIO.
+Al ser un servicio de apoyo en remoto, desde la sede que decida el adjudicatario. 
+12 JUSTIFICACIÓN DE LOS CRITERIOS DE SOLVENCIA.
+Tanto los criterios de solvencia económica y financiera como los criterios de solvencia técnica que se 
+recogen en el Anexo I del Pliego de Cláusulas Administrativas Particulares, se han establecido de 
+conformidad con lo establecido en la LCSP, y teniendo en cuenta las características del objeto del 
+presente contrato de servicios.
+Asimismo, las magnitudes, parámetros y umbrales de valores que van a determinar la admisión o
+exclusión de los licitadores o candidatos se han fijado de forma proporcional al objeto contractual de
+conformidad con lo establecido en el artículo 74.2 de la LCSP, de manera que, en ningún caso,
+representen un obstáculo a la participación de las pequeñas y medianas empresas.
+13 JUSTIFICACIÓN DE LOS CRITERIOS DE ADJUDICACIÓN.
+El precio y el descuento serán los únicos factores determinantes de la adjudicación, al tratarse de un 
+supuesto de los previstos en el artículo 145.3 g): las prestaciones están definidas técnicamente y no es 
+posible variar los plazos de entrega ni introducir modificaciones de ninguna clase en el contrato.
+Criterios valorables en cifras o porcentajes (documentación a incluir en el Sobre C)
+1. Descuento ofertado sobre los precios oficiales publicados por Google ........ 85 puntos
+2. Precio por hora ofertado ...........................................................................15 puntos
+Criterios valorables en cifras o porcentajes (Sobre C) 
+Descuento Ofertado sobre los precios oficiales publicados por Google. Máximo 85 puntos. 
+Los licitadores deberán indicar en su oferta el porcentaje único de descuento que se comprometen a 
+aplicar sobre las tarifas oficiales vigentes de Google correspondientes a los productos y servicios 
+incluidos en el objeto del contrato.
+Las propuestas obtendrán puntos siguiendo la siguiente fórmula: 
+Pi = 85 × (Di / Dmax), cuando Dmax sea mayor que 0. 
+Donde:
+Pi = puntuación obtenida por la oferta i.
+Di = porcentaje de descuento ofertado por el licitador sobre las tarifas oficiales de Google.
+Dmax = mayor porcentaje de descuento válido ofertado.
+85 = puntuación máxima del criterio.
+La fórmula otorga más puntos a las ofertas con descuentos mayores. 
+
+--- página 10 ---
+Madrid Destino
+Cultura, Turismo y Negocio S.A.
+Área de Gobierno de Cultura, Turismo y Deporte
+Ayuntamiento de Madrid
+www.madrid-destino.com
+10
+Las ofertas con un descuento del 0 % obtendrán 0 puntos en este criterio. Si todas las ofertas válidas 
+presentan un descuento del 0 %, no se aplicará la fórmula y todas obtendrán 0 puntos. 
+El porcentaje de descuento ofertado tendrá carácter vinculante durante la ejecución del contrato y se 
+aplicará sobre las tarifas oficiales de Google vigentes en cada momento, con independencia del 
+producto o servicio efectivamente consumido, salvo aquellos conceptos para los que el pliego establezca 
+expresamente un régimen económico diferente.
+Precio por hora ofertado. Máximo 15 puntos.
+Los licitadores deberán indicar el precio por hora de trabajo, expresado en euros y sin IVA. Quedarán
+excluidas las ofertas cuyo precio por hora supere el máximo establecido.
+Precio máximo por hora de trabajo: 60 IVA no incluido.
+El precio por hora ofertado se mantendrá durante el período inicial del contrato y sus posibles prórrogas.
+fórmula:
+Donde:
+Pi = puntuación obtenida por la oferta i en este criterio.
+Oi = precio por hora de la oferta i admitida, en euros y sin IVA, una vez aplicado, cuando 
+proceda, el redondeo previsto en los aspectos generales de las ofertas económicas.
+Omin = menor precio por hora entre las ofertas admitidas, en euros y sin IVA, determinado con 
+la misma regla de redondeo.
+60 = precio máximo por hora, en euros y sin IVA; 15 = puntuación máxima de este criterio.
+La fórmula asigna 15 puntos a la oferta de menor precio y 0 puntos a las ofertas que igualen el máximo 
+no se aplicará la fórmula y todas obtendrán 0 puntos. 
+Las puntuaciones se redondearán conforme a lo establecido en los aspectos generales de las ofertas 
+económicas.
+Aspectos generales de las ofertas económicas
+El precio por hora deberá expresarse en euros, sin IVA y sin decimales. Si se presenta con decimales, 
+se redondeará al número entero inmediatamente superior y la oferta se valorará tomando como referencia 
+dicho importe. El descuento sobre las tarifas oficiales de Google se expresará como un porcentaje único.
+Las puntuaciones obtenidas por los licitadores tendrán un máximo de dos decimales. En caso de que 
+resulten puntuaciones con más de dos decimales, se utilizará la regla de redondeo en la que si el tercer 
+decimal es igual o mayor que 5 se redondea al decimal superior y si es menor de 5 al inferior. 
+Los licitadores deberán presentar sus ofertas de conformidad con el modelo establecido en el Anexo III
+del Pliego de Cláusulas Administrativas Particulares.
+Los licitadores deberán introducir en la Plataforma de licitación electrónica de Madrid Destino el importe 
+correspondiente a la tarifa por hora ofertada. 
+
+--- página 11 ---
+Madrid Destino
+Cultura, Turismo y Negocio S.A.
+Área de Gobierno de Cultura, Turismo y Deporte
+Ayuntamiento de Madrid
+www.madrid-destino.com
+11
+14 JUSTIFICACIÓN DE LA CONSTITUCIÓN DE GARANTÍAS.
+De conformidad con lo previsto en el artículo 114 LCSP en relación con los artículos 106 a 109 de la 
+citada ley, el régimen de garantías establecido para la presente licitación se recoge en el Anexo I del
+Pliego de Cláusulas Administrativas Particulares.
+Tanto la forma para su constitución como el régimen para su devolución o cancelación han sido
+establecidos por el órgano de contratación del M ADRID DESTINO atendidas las circunstancias y
+características del contrato, y con estricta sujeción a los límites que se establecen en el art. 107 LCSP.
+15 RÉGIMEN DE PAGOS
+El régimen de pagos se recogerá en el Anexo I del Pliego de Cláusulas Administrativas Particulares.
+16 CONCLUSIÓN
+Por todo lo anterior, de conformidad con el carácter de servicio público de MADRID DESTINO y de
+acuerdo con los datos aportados en la presente memoria, se solicita la aprobación del gasto para
+convocar el procedimiento de CONTRATACIÓN DEL SERVICIO DE HERRAMIENTAS DE GOOGLE
+PARA MADRID DESTINO CULTURA TURISMO Y NEGOCIO S.A., A ADJUDICAR MEDIANTE 
+PROCEDIMIENTO ABIERTO SIMPLIFICADO , por el importe estimado de gasto. La convocatoria 
+deberá garantizar la concurrencia y la obtención de la mejor oferta para MADRID DESTINO sobre la
+base de criterios económicos, dejando constancia de todo ello en el presente expediente.
+En Madrid,
+Fdo. SUBDIRECTOR DE DESARROLLO TECNOLÓGICO

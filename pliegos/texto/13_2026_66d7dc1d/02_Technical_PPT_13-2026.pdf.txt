@@ -1,0 +1,570 @@
+
+
+--- página 1 ---
+    
+  
+ 
+ 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARTICULARES PARA LA 
+CONTRATACIÓN DEL SERVICIO DE DISEÑO, DESARROLLO, IMPLANTACIÓN Y 
+PUESTA EN MARCHA DE LA SEDE ELECTRÓNICA DE CECOSAM, ASÍ COMO 
+LA RENOVACIÓN PARCIAL DE SU PÁGINA WEB CORPORATIVA. 
+ (EXPEDIENTE NÚMERO 13/2026) 
+ 
+ 
+ 
+PROCEDIMIENTO ABIERTO 
+(Presentación electrónica de ofertas) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Expediente: 13/2026 
+Localidad: Córdoba 
+Título: Servicios de diseño, desarrollo, implantación y puesta en marcha de la sede 
+electrónica de Cecosam, así como la renovación parcial de su página web corporativa. 
+Código CPV: 72500000-0: Servicios informáticos; 72413000-8: Servicios de diseño de 
+sitios web WWW (World Wide Web); 72262000-9: Servicios de desarrollo de software 
+ 
+CONTENIDO 
+
+--- página 2 ---
+    
+1. OBJETO DEL CONTRATO 
+2. PRESTACIONES DEL SERVICIO 
+3. REQUISITOS FUNCIONALES 
+4. FLUJO Y ESTADOS DEL EXPEDIENTE 
+5. AVISOS Y COMUNICACIONES A LA CIUDADANÍA 
+6. REQUISITOS FUNCIONALES DEL PANEL DE GESTIÓN 
+7. REQUISITOS TÉCNICOS 
+8. DISEÑO, ACCESIBILIDAD, USABILIDAD E IDIOMAS 
+9. SEGURIDAD Y PROTECCIÓN DE DATOS 
+10. METODOLOGÍA Y PLANIFICACIÓN 
+11. PRUEBAS Y ACEPTACIÓN 
+12. ENTREGABLES, DOCUMENTACIÓN Y FORMACIÓN 
+13. GARANTÍA Y MANTENIMIENTO 
+14. EQUIPO DE TRABAJO 
+15. INFORMACIÓN Y MEDIOS A APORTAR POR CECOSAM 
+16. PROPIEDAD INTELECTUAL 
+17. AMPLIACIONES FUTURAS 
+18. CONFIDENCIALIDAD 
+19. SEGURO DE RESPONSABILIDAD CIVIL POR RIESGOS PROFESIONALES 
+ 
+ 
+ 
+1. OBJETO DEL CONTRATO 
+ 
+
+--- página 3 ---
+    
+El presente pliego tiene por objeto establecer las condiciones técnicas que regirán la 
+contratación del servicio de diseño, desarrollo, implantación y puesta en marcha de la 
+sede electrónica de Cecosam, así como la renovación parcial de su página web 
+corporativa. 
+La sede electrónica permitirá a la ciudadanía presentar por medios electrónicos los 
+trámites relativos a los servicios de cementerio, aportar documentación, consultar el 
+estado de sus expedientes, recibir notificaciones y abonar las tasas y precios públicos 
+correspondientes. Asimismo, dispondrá de un panel de gestión interno desde el que 
+el personal de Cecosam tramitará los expedientes. 
+2. PRESTACIONES DEL SERVICIO 
+ 
+El trabajo a desarrollar por la empresa que resulte adjudicataria en este contrato de 
+prestación del servicio de diseño, desarrollo, implantación y puesta en marcha de la 
+sede electrónica de Cecosam, así como la renovación parcial de su página web 
+corporativa, comprende los siguientes componentes, que la empresa adjudicataria 
+deberá entregar integrados y en funcionamiento: 
+ 
+Componente Descripción Usuarios 
+Portal web 
+corporativo 
+Renovación parcial de la web actual, con 
+migración de contenidos y acceso directo a la 
+sede electrónica 
+Ciudadanía en general 
+Sede electrónica 
+(portal del ciudadano) 
+Presentación de trámites, aportación de 
+documentos, carpeta electrónica, 
+notificaciones y pagos 
+Personas interesadas y 
+sus representantes 
+Panel de gestión Herramienta interna de tramitación, control de 
+plazos, pagos, registro y administración 
+Personal de Cecosam 
+Integraciones Certificado digital, AutoFirma, TPV virtual, 
+Bizum, sello electrónico, correo electrónico y 
+sistemas de Cecosam 
+— 
+Servicios asociados Análisis, pruebas, despliegue, documentación, 
+formación, garantía y soporte 
+Cecosam 
+ 
+Quedan incluidos todos los trabajos, licencias y elementos necesarios para el correcto 
+funcionamiento de la solución, aunque no se mencionen expresamente en este PPT. 
+
+--- página 4 ---
+    
+Queda excluido del objeto el suministro de equipamiento informático y la 
+infraestructura de alojamiento, que será la proporcionada por Cecosam (servidor con 
+panel Plesk). 
+ 
+3. REQUISITOS FUNCIONALES 
+3.1 De la sede electrónica 
+3.1.1 Catálogo de trámites incluidos 
+La sede electrónica incluirá, en su versión inicial, los ocho trámites siguientes. 
+Cada uno contará con su propio formulario, la relación de documentos 
+obligatorios y las validaciones correspondientes. 
+N.º Trámite Alcance 
+1 Solicitud de inhumación — 
+2 Solicitud de cremación — 
+3 Solicitud de traslado 
+interior 
+— 
+4 Solicitud de servicios de 
+tanatorio 
+— 
+5 Prestación de servicios Segunda adjudicación, ampliación, terrenos para panteón y prenecesidad 
+6 Prestación de servicios Modificaciones del título, inscripción de beneficiario, cotitular o 
+representante, duplicados y certificados, y colocación o reparación de 
+lápida 
+7 Inscripción como 
+cotitular 
+Con transmisión definitiva o provisional y declaración de parentesco 
+8 Servicio periódico de 
+limpieza de lápidas 
+— 
+ 
+Los modelos de formulario, la documentación exigida y las reglas de validación 
+de cada trámite se concretarán con Cecosam en la fase de análisis. 
+3.1.2 Acceso e identificación 
+
+--- página 5 ---
+    
+• Acceso mediante certificado electrónico reconocido (FNMT, DNI electrónico 
+y demás certificados cualificados), con comprobación de validez y 
+revocación. 
+• La arquitectura deberá permitir incorporar el sistema Cl@ve en una fase 
+posterior sin rediseño de la solución. 
+• En el primer acceso, el sistema tomará los datos del certificado y solicitará 
+correo electrónico, teléfono y dirección, así como la aceptación de la política 
+de privacidad y del consentimiento para recibir notificaciones electrónicas. 
+3.1.3 Presentación de solicitudes 
+• Información previa de cada trámite y de la documentación necesaria. 
+• Formularios con guardado automático como borrador. 
+• Aportación de documentos en formatos y tamaños configurables. 
+• Pantalla de resumen previa al envío. 
+• Firma electrónica de la solicitud mediante AutoFirma. 
+• Emisión automática del justificante de registro, con número, fecha y hora de 
+entrada. 
+3.1.4 Representación y autorizaciones de terceros 
+• La persona solicitante podrá actuar en nombre de otra, aportando el 
+documento de representación, que será validado por el personal de 
+Cecosam. 
+• Cuando un trámite requiera la conformidad de otros titulares o familiares, la 
+persona solicitante podrá aportar dicha autorización firmada. 
+3.1.5 Carpeta electrónica 
+Cada persona usuaria dispondrá de una carpeta electrónica con, al menos: 
+• Mis expedientes: consulta del estado de cada expediente mediante una 
+línea temporal, con los estados explicados en lenguaje claro. 
+• Buzón de notificaciones: acceso y lectura de las notificaciones 
+electrónicas. 
+• Mis documentos: descarga de todos los documentos presentados y 
+recibidos. 
+
+--- página 6 ---
+    
+• Autorizaciones: consulta de las representaciones y autorizaciones 
+vigentes. 
+3.1.6 Subsanación y desistimiento voluntario 
+• Cuando se requiera subsanar, la persona interesada verá únicamente la 
+documentación o los datos requeridos y podrá aportarlos desde la propia 
+sede. 
+• La persona interesada podrá retirar su solicitud en cualquier momento 
+anterior a la resolución. 
+3.1.7 Pago de tasas y precios públicos 
+• Pago de las tasas de la Ordenanza fiscal n.º 104 y de los precios públicos 
+asignados a cada expediente. 
+• Medios de pago: tarjeta bancaria de cualquier entidad, a través del TPV 
+virtual de Kutxabank, y Bizum. 
+• Emisión de justificante de cada pago. 
+ 
+3.2 Del portal web corporativo 
+La empresa adjudicataria renovará la página web corporativa conforme a los 
+siguientes requisitos: 
+1. Mantener la mayor parte de los contenidos informativos actuales, que serán 
+migrados y revisados en su estructura y presentación. 
+2. Adaptar el diseño a la imagen corporativa de Cecosam, con visualización 
+adecuada en ordenador, tableta y móvil. 
+3. Incorporar un acceso destacado y permanente a la sede electrónica. 
+4. Incluir un acceso a la solicitud de cita previa, enlazado con el sistema de 
+cita previa municipal (CIGES del Ayuntamiento). 
+5. Disponer de un gestor de contenidos que permita al personal de Cecosam 
+actualizar textos, imágenes, documentos y avisos sin conocimientos 
+técnicos. 
+6. Publicar las secciones legales obligatorias: aviso legal, política de 
+privacidad, política de cookies y declaración de accesibilidad. 
+ 
+
+--- página 7 ---
+    
+4. FLUJO Y ESTADOS DEL EXPEDIENTE 
+Todo expediente seguirá un flujo de ocho estados. El recorrido ordinario consta de 
+seis; los estados «Esperando documentación» y «Desistida» se activan según la 
+respuesta de la persona interesada. 
+ 
+Flujo de estados del expediente · 8 estados 
+Estado Responsable Descripción 
+Nueva Ciudadanía Solicitud presentada y firmada, con justificante de registro 
+En revisión Cecosam Comprobación de certificado, firma, representación, datos 
+y documentos 
+Esperando 
+documentación 
+Ciudadanía Requerimiento de subsanación; al aportar la 
+documentación, vuelve a En revisión 
+Pendiente de pago Ciudadanía Tasas asignadas, pendientes de abono en plazo 
+Pagado Sistema Pago registrado con su justificante 
+En curso Cecosam Servicio programado y en ejecución 
+
+
+--- página 8 ---
+    
+Estado Responsable Descripción 
+Desistida Cecosam Propuesta por el sistema al vencer el plazo de subsanación 
+o de pago, y confirmada por el personal 
+Cerrada Cecosam Aprobada, denegada, retirada o anulada, con su resolución 
+ 
+Si la documentación requerida se aporta antes de la confirmación del desistimiento, el 
+expediente volverá al estado «En revisión». 
+5. AVISOS Y COMUNICACIONES A LA CIUDADANÍA 
+El sistema deberá garantizar que ninguna persona interesada pierda un plazo por falta 
+de información. Para ello: 
+• La sede mostrará avisos destacados con los días restantes de cada plazo y un 
+botón de acceso directo a la acción pendiente. 
+• Los avisos se clasificarán en tres niveles visuales: Urgente (plazo próximo a 
+vencer), Pendiente (acción requerida con margen de tiempo) y Todo en orden 
+(sin acciones pendientes). 
+• Los días restantes se computarán conforme al calendario de festivos 
+configurado por Cecosam. 
+• Cada aviso se remitirá también por correo electrónico, con el siguiente 
+calendario mínimo: 
+Situación Momento del aviso por correo electrónico 
+Solicitud presentada Al momento, con el justificante 
+Cambio de estado Al momento 
+Notificación sin abrir Al enviarla, a los 5 días y a los 8 días 
+Documentación requerida Al requerirla, a mitad de plazo y 2 días antes del 
+vencimiento 
+Tasa pendiente de pago Al asignarla, a mitad de plazo y 2 días antes del 
+vencimiento 
+Documentación de herederos (plazo de 30 
+días) 
+Al aprobar, a los 15 días y 5 días antes del 
+vencimiento 
+Pago recibido Al momento 
+
+--- página 9 ---
+    
+Situación Momento del aviso por correo electrónico 
+Limpieza de lápida realizada Al momento, con fotografía 
+Renovación del servicio de limpieza Un mes antes del vencimiento 
+6. REQUISITOS FUNCIONALES DEL PANEL DE GESTIÓN 
+El panel de gestión reunirá en un único entorno todos los expedientes, plazos y pagos, 
+con trazabilidad completa de las actuaciones. Deberá incluir, como mínimo, las 
+siguientes funcionalidades: 
+Funcionalidad Requisitos 
+Acceso seguro Usuario, contraseña y segundo factor de autenticación 
+Pantalla de inicio Resumen de solicitudes nuevas, en revisión, documentación recibida, pagos y 
+plazos próximos a vencer 
+Bandeja de 
+expedientes 
+Vista en lista y en tablero (kanban); filtros; búsqueda por nombre, DNI, 
+número de expediente o unidad de enterramiento; avisos de plazo 
+Revisión Botón «Revisar solicitud» que asigna el expediente al empleado; verificación 
+de certificado, firma y representación; revisión por bloques con la lista de 
+documentos obligatorios; casilla de comprobación en el programa de gestión 
+de cementerios 
+Tramitación Requerimiento de subsanación generado a partir de la revisión; asignación de 
+tasas; denegación motivada; resolución mediante plantillas con sello 
+electrónico de Cecosam 
+Revisión de 
+subsanaciones 
+Visualización exclusiva de lo requerido y lo aportado 
+Desistimiento Propuesta automática al vencer el plazo y confirmación por el personal 
+Catálogo de tasas Por ejercicio, con o sin IVA; una o varias tasas por expediente y líneas 
+manuales motivadas 
+Pagos Listado, justificantes, registro de pagos realizados en ventanilla y exportación 
+a Excel 
+Notificaciones Puesta a disposición en sede con aviso por correo, plazo de 10 días y 
+justificante de cada notificación 
+Plazos y festivos Plazos legales y propios configurables; calendario de festivos 
+
+--- página 10 ---
+    
+Funcionalidad Requisitos 
+Registro 
+electrónico 
+Registro de entrada y salida numerado y exportable 
+Servicios en curso Seguimiento de los servicios programados y marcado como realizados 
+Limpieza de 
+lápidas 
+Listado mensual; marcado como realizada con fotografía que se remite a la 
+persona interesada; avisos de renovación 
+Descargas Documentos individuales, documentos generados y expediente completo en 
+ZIP con índice 
+Historial y notas Registro de todas las acciones, incluidas las descargas; notas internas 
+Administración Gestión de usuarios y roles, tasas, plazos, festivos, plantillas, textos y listas de 
+valores 
+7. REQUISITOS TÉCNICOS 
+7.1 Tecnología y entornos 
+• La aplicación se desarrollará en PHP con el framework Laravel, en versiones 
+con soporte vigente en el momento de la entrega. La elección de PHP y Laravel 
+obedece a su compatibilidad con el servidor de Cecosam y a la necesidad de 
+garantizar el mantenimiento y la ampliación posteriores de la solución (apartado 
+17). 
+• Dispondrá de roles diferenciados para ciudadanía y personal de Cecosam, con 
+permisos configurables. 
+• Se habilitarán, como mínimo, un entorno de pruebas y un entorno de 
+producción. 
+• El despliegue se realizará en el servidor de Cecosam gestionado mediante 
+Plesk. La empresa adjudicataria deberá verificar previamente su compatibilidad 
+y comunicar por escrito cualquier requisito adicional. 
+• El código fuente se entregará completo, documentado y en un repositorio de 
+control de versiones accesible para Cecosam. 
+7.2 Integraciones 
+
+--- página 11 ---
+    
+Integración Requisitos 
+Certificado electrónico Autenticación con FNMT, DNIe y demás certificados cualificados, con 
+comprobación de validez y revocación 
+AutoFirma Firma de solicitudes, probada con distintos certificados y 
+navegadores de uso común 
+TPV virtual de Kutxabank Pago con tarjeta y conciliación del estado del pago en el expediente 
+Bizum Pago a través de la pasarela de la entidad financiera 
+Sello electrónico Sellado de los documentos de salida con el sello electrónico de 
+Cecosam 
+Correo electrónico Envío automatizado de avisos, con registro de cada envío 
+Cita previa Enlace con el sistema de cita previa municipal (CIGES) 
+Programa de gestión de 
+cementerios 
+Verificación por el personal desde el panel; el grado de integración se 
+determinará en la fase de análisis 
+Cl@ve Arquitectura preparada para su incorporación posterior 
+7.3 Registro y documentos electrónicos 
+• Registro electrónico de entrada y salida, con numeración correlativa, fecha y 
+hora, y exportable. 
+• Documentos y expedientes conformes con las Normas Técnicas de 
+Interoperabilidad que resulten aplicables. 
+• Generación de justificantes, resoluciones y notificaciones a partir de plantillas 
+editables por Cecosam. 
+8. DISEÑO, ACCESIBILIDAD, USABILIDAD E IDIOMAS 
+• El portal web, la sede electrónica y el panel de gestión mantendrán la imagen 
+corporativa de Cecosam y tendrán diseño adaptable a ordenador, tableta y 
+móvil. 
+• La solución cumplirá el nivel AA de las pautas WCAG 2.1, conforme a la norma 
+UNE-EN 301 549 y al Real Decreto 1112/2018. La accesibilidad se incorporará 
+desde la fase de diseño. 
+• La empresa adjudicataria entregará un informe de revisión de accesibilidad y el 
+borrador de la declaración de accesibilidad. 
+
+--- página 12 ---
+    
+• Los textos dirigidos a la ciudadanía se redactarán en lenguaje claro y no 
+sexista. 
+• La solución se ofrecerá en castellano. 
+9. SEGURIDAD Y PROTECCIÓN DE DATOS 
+• La solución aplicará las medidas correspondientes, como mínimo, a la 
+categoría BÁSICA del Esquema Nacional de Seguridad, en particular en control 
+de accesos, copias de seguridad y registro de actividad. 
+• Todas las comunicaciones se cifrarán mediante protocolo HTTPS con TLS en 
+versión segura. 
+• Se registrarán todas las acciones realizadas sobre los expedientes, incluidas 
+las consultas y descargas, con identificación de la persona usuaria, fecha y 
+hora. 
+• La empresa adjudicataria aplicará los principios de privacidad desde el diseño 
+y por defecto, e incorporará los consentimientos, cláusulas informativas y 
+plazos de conservación que Cecosam determine. 
+• La empresa adjudicataria tendrá la condición de encargada del tratamiento y 
+suscribirá con Cecosam el correspondiente contrato conforme al artículo 28 del 
+RGPD. 
+• Antes de la puesta en producción se realizará un análisis de vulnerabilidades, 
+cuyo informe se entregará a Cecosam junto con la corrección de las 
+deficiencias detectadas. 
+10. METODOLOGÍA Y PLANIFICACIÓN 
+El plazo máximo de ejecución de los trabajos será de cuatro (4) meses, organizados 
+en cuatro fases. Cada fase concluirá con entregas verificables por Cecosam en el 
+entorno de pruebas. 
+Fase Semanas Contenido Hito de aceptación 
+1. Análisis 1–2 Validación con Cecosam de flujos, 
+formularios y plantillas 
+Documento de análisis 
+aprobado 
+2. Núcleo 3–9 Acceso, firma, pagos, registro, 
+notificaciones, panel de gestión y trámites 
+de titularidad y cotitularidad 
+Funcionalidades núcleo 
+operativas en pruebas 
+
+--- página 13 ---
+    
+Fase Semanas Contenido Hito de aceptación 
+3. Resto de 
+trámites 
+10–14 Seis trámites restantes (n.º 1 a 5 y 8 del 
+apartado 3.1.1), incluido el servicio 
+periódico de limpieza de lápidas 
+Catálogo completo 
+operativo en pruebas 
+4. Puesta en 
+marcha 
+15–16 Pruebas finales, publicación en producción y 
+formación 
+Acta de recepción 
+ 
+El plazo se computará desde el día siguiente a la formalización del contrato. Cecosam 
+facilitará la información y los medios indicados en el apartado 15 en los diez (10) días 
+siguientes a la formalización; los retrasos imputables a Cecosam en su entrega 
+ampliarán el plazo por un tiempo equivalente. 
+La empresa adjudicataria presentará, en el plazo de diez (10) días desde la 
+formalización del contrato, un plan de proyecto detallado. Se celebrarán reuniones de 
+seguimiento con periodicidad mínima quincenal, de las que la empresa adjudicataria 
+levantará acta. 
+11. PRUEBAS Y ACEPTACIÓN 
+• La empresa adjudicataria realizará pruebas unitarias, de integración, 
+funcionales, de rendimiento, de seguridad y de accesibilidad, y documentará 
+sus resultados. 
+• Las pruebas de firma y pago se realizarán con distintos certificados, 
+navegadores y dispositivos. 
+• Cecosam realizará pruebas de aceptación en el entorno de pruebas. Las 
+incidencias detectadas serán corregidas por la empresa adjudicataria antes del 
+paso a producción. 
+• La recepción se formalizará mediante acta, una vez comprobado el 
+cumplimiento de la totalidad de los requisitos de este PPT. 
+12. ENTREGABLES, DOCUMENTACIÓN Y FORMACIÓN 
+Entregable Momento 
+Plan de proyecto 10 días desde la 
+formalización 
+Documento de análisis funcional Fin de la fase 1 
+
+--- página 14 ---
+    
+Entregable Momento 
+Versiones funcionales en entorno de pruebas Fin de las fases 2 y 3 
+Plan e informe de pruebas, informe de accesibilidad e informe de 
+vulnerabilidades 
+Fase 4 
+Código fuente y documentación técnica (arquitectura, instalación, 
+despliegue y explotación) 
+Fase 4 
+Manual de usuario para la ciudadanía y manual del panel de gestión Fase 4 
+Formación al personal de Cecosam Fase 4 
+ 
+La formación se impartirá de forma presencial o en línea, según determine Cecosam, 
+y cubrirá la tramitación de expedientes y la administración del sistema. Toda la 
+documentación se entregará en castellano y en formato editable. 
+13. GARANTÍA Y MANTENIMIENTO 
+• La empresa adjudicataria prestará un periodo de garantía de [12] meses desde 
+la firma del acta de recepción, durante el cual corregirá sin coste cualquier 
+defecto de funcionamiento. 
+• Durante la garantía se prestará soporte en horario laboral de Cecosam, con los 
+siguientes tiempos máximos de respuesta: 
+Tipo de incidencia Tiempo de respuesta Tiempo de resolución 
+Crítica (sede o pagos no disponibles) 4 horas laborables 1 día laborable 
+Grave (funcionalidad afectada sin alternativa) 1 día laborable 3 días laborables 
+Leve 2 días laborables 10 días laborables 
+• Incluirá asimismo el mantenimiento adaptativo derivado de cambios normativos 
+y la actualización de componentes por motivos de seguridad. 
+14. EQUIPO DE TRABAJO 
+La empresa adjudicataria adscribirá a la ejecución del contrato, como mínimo, los 
+siguientes perfiles: 
+Perfil Funciones Experiencia mínima 
+Jefe/a de proyecto Interlocución con Cecosam, 
+planificación y seguimiento 
+[1] año en proyectos de 
+administración electrónica 
+
+--- página 15 ---
+    
+Perfil Funciones Experiencia mínima 
+Analista-
+programador/a 
+Desarrollo en PHP/Laravel e 
+integraciones 
+[1] año en PHP/Laravel 
+Diseñador/a UX/UI Diseño de interfaces y accesibilidad [1] año en diseño web accesible 
+ 
+La sustitución de cualquier miembro del equipo requerirá la autorización previa de 
+Cecosam y se realizará por otro de perfil equivalente o superior. 
+15. INFORMACIÓN Y MEDIOS A APORTAR POR CECOSAM 
+Cecosam facilitará a la empresa adjudicataria, en los diez (10) días siguientes a la 
+formalización del contrato: 
+• Acceso al servidor de alojamiento y al panel Plesk. 
+• Credenciales y documentación de integración del TPV virtual de Kutxabank y 
+de Bizum. 
+• Certificado de sello electrónico de Cecosam. 
+• Modelos de formulario, documentación exigida y plantillas de cada trámite. 
+• Catálogo de tasas y precios públicos vigente. 
+• Manual de identidad corporativa y contenidos de la web actual. 
+• Designación de una persona responsable del contrato como interlocutora. 
+16. PROPIEDAD INTELECTUAL 
+• Todos los desarrollos, el código fuente, la documentación y los contenidos 
+generados en ejecución del contrato serán propiedad de Cecosam, que podrá 
+utilizarlos, modificarlos y ampliarlos libremente. Se exceptuarán los 
+componentes de software libre empleados, que mantendrán sus licencias 
+originales. 
+• La solución no requerirá licencias de pago de terceros ni generará dependencia 
+tecnológica de la empresa adjudicataria. Cualquier excepción deberá 
+identificarse en la memoria técnica, sin indicar su importe, que se entenderá 
+incluido en el precio ofertado. 
+17. AMPLIACIONES FUTURAS 
+
+--- página 16 ---
+    
+La solución se diseñará de forma que Cecosam pueda incorporar nuevos trámites y 
+funcionalidades sin rediseño de la arquitectura. Entre las ampliaciones previstas se 
+encuentran: 
+• Solicitud de traslado de restos, esparcimiento de cenizas, cambios de 
+titularidad, renovación de concesiones, trámites generales y petición de 
+presupuestos. 
+• Acceso mediante el sistema Cl@ve. 
+Estas ampliaciones no forman parte del objeto del presente contrato. 
+18. CONFIDENCIALIDAD 
+ 
+CECOSAM y el contratista se someterán a la obligación de confidencialidad de la 
+información en los términos establecidos en la normativa de contratos del sector 
+público. 
+ 
+El contratista deberá respetar el carácter confidencial de aquella información a la que 
+tenga acceso con ocasión de la ejecución del contrato que por su propia naturaleza 
+deba ser tratada como tal. Este deber se mantendrá durante un plazo de cinco (5) 
+años desde el conocimiento de esa información. 
+ 
+19. SEGURO DE RESPONSABILIDAD CIVIL POR RIESGOS PROFESIONALES 
+ 
+El contratista deberá tener suscrito un seguro de responsabilidad civil por riesgos 
+profesionales por importe igual o superior al valor estimado del contrato. 
+ 
+ 
+Firmado en Córdoba, a fecha de firma electrónica 
+ 
+ 
+Antonio Álvarez Salcedo 
+Director-Gerente 
+                  Cementerios y Servicios Funerarios Municipales de Córdoba SA  

@@ -1,0 +1,897 @@
+
+
+--- página 1 ---
+1
+EXPEDIENTE Nº: SP26-00442
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARTICULARES QUE HAN DE REGIR LA 
+CONTRATACIÓN DE HERRAMIENTAS DE GOOGLE PARA LA SOCIEDAD MERCANTIL MUNICIPAL 
+MADRID DESTINO CULTURA TURISMO Y NEGOCIO, S.A., A ADJUDICAR MEDIANTE 
+PROCEDIMIENTO ABIERTO SIMPLIFICADO.
+ÍNDICE
+Contenido
+1 OBJETO ................................................................................................................................................3
+2 ESPECIFICACIONES TÉCNICAS ........................................................................................................5
+2.1 API DE GOOGLE MAPS .............................................................................................................5
+2.2 BOLSA DE HORAS.....................................................................................................................5
+2.2.1 Peticiones de trabajo .......................................................................................................5
+2.2.2 Perfiles asociados al trabajo ...........................................................................................6
+2.3 OTROS SERVICIOS DE GOOGLE.................................................................................................6
+2.3.1 Modelo de prestación y tarificación .................................................................................6
+2.4 ACREDITACIÓN DE PARTNER GOOGLE ......................................................................................7
+2.5 RESPONSABLE DEL SEGUIMIENTO DEL CONTRATO......................................................................7
+2.6 SEGURIDAD DE LA INFORMACIÓN ..............................................................................................8
+3 RESPONSABLE DEL SERVICIO / SUSTITUTO .................................................................................9
+4 RESPONSABLE DEL CONTRATO DE MADRID DESTINO ...............................................................9
+5 RESPONSABILIDAD ............................................................................................................................9
+6 OBLIGACIONES LABORALES Y SOCIALES.....................................................................................9
+7 CLÁUSULAS SOCIALES DE OBLIGADO CUMPLIMIENTO............................................................10
+8 CUMPLIMIENTO NORMATIVO ..........................................................................................................11
+9 SOLICITUD DE INFORMACIÓN.........................................................................................................14
+ANEXO I. DATOS PERSONALES A TENER EN CUENTA. ................................................................15
+...................................................................16
+ANEXO III MEDIDAS DE SEGURIDAD ................................................................................................18
+
+--- página 2 ---
+2
+
+
+--- página 3 ---
+3
+EXPEDIENTE Nº: SP26-00442
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARTICULARES QUE HAN DE REGIR LA 
+CONTRATACIÓN DEL SERVICIO DE GESTIÓN DE HERRAMIENTAS DE GOOGLE PARA LA 
+SOCIEDAD MERCANTIL MUNICIPAL MADRID DESTINO CULTURA TURISMO Y NEGOCIO, S.A., A 
+ADJUDICAR MEDIANTE PROCEDIMIENTO ABIERTO SIMPLIFICADO.
+1 OBJETO
+Madrid Destino Madrid Destino
+la gestión de programas y actividades culturales, formativas y artísticas, la organización, apoyo y difusión 
+de las mismas, la prestación de todos los servicios e infraestructuras integrantes o complementarios de 
+estos programas y actividades, la gestión de cualesquiera centros, espacios, recintos, dependencias y/o 
+servicios culturales, cuya gestión le fuera encomendada temporal o indefinidamente, o cuyo uso le fuera 
+cedido por el Ayuntamiento de Madrid, incluida la contratación y ejecución de las obras, instalaciones, 
+servicios y suministros para los mismos, la gestión de las políticas municipales de promoción e información 
+turística de la Ciudad de Madrid, la proyección de su imagen a nivel nacional e internacional y la gestión y 
+explotación de los derechos de propiedad intelectual derivados de las obras susceptibles de generar tales 
+derechos resultantes de las anteriores actividades, así como la prestación por cuenta propia o ajena de 
+todo tipo de servicios relacionados con la organización, dirección, producción y administración de eventos, 
+ya sean deportivos, exposiciones, congresos, convenciones, seminarios, ferias, y cualquier otro evento de 
+naturaleza similar. 
+En este contexto, Madrid Destino desea contratar lo siguiente: 
+API de Google Maps.
+Otros servicios de Google:
+o Google reCaptcha. 
+o Data Studio Pro.
+o BigQuery.
+o Workspace. 
+o Gemini. 
+o Otros servicios no identificados en la actualidad.
+Bolsa de horas de apoyo:
+o Gestión de almacenamiento.
+o Asesoramiento sobre la implantación o evolución de las herramientas objeto del 
+contrato.
+o Gestión de la cuenta Google Maps.
+o Activación y configuración de APIs.
+
+--- página 4 ---
+4
+o Soporte funcional.
+o Consultoría de optimización.
+o Asesoramiento sobre arquitectura.
+o Seguimiento de consumo.
+Serán de cuenta del adjudicatario los gastos de traslado y manutención del personal que preste el servicio
+en caso de ser necesario.
+REQUERIMIENTOS MÍNIMOS
+La necesidad de que las proposiciones de las empresas licitadoras se adecúen a los requisitos exigidos 
+con carácter de mínimos obligatorios en los pliegos, obedece a la propia finalidad de la contratación que 
+se quiere llevar a cabo y a las necesidades que con ella se pretende satisfacer. En consecuencia, las 
+ofertas de las empresas que no los cumplan, no pueden ser objeto de valoración y, por tanto, serán 
+excluidas de la licitación.
+La mera presentación de propuestas implica la aceptación sin reservas por parte del licitador y en todo 
+caso por el adjudicatario, de las condiciones establecidas en los Pliegos que rigen la presente contratación.
+
+--- página 5 ---
+5
+2 ESPECIFICACIONES TÉCNICAS
+2.1 API de Google maps
+El adjudicatario deberá garantizar la continuidad, administración y facturación de los servicios de Google 
+Maps Platform que MADRID DESTINO tenga activos o solicite durante la vigencia contractual. El alcance 
+podrá incluir, entre otros, Maps JavaScript API, Maps Static API, Street View, Geocoding, Places, Routes 
+y cualesquiera otros SKU disponibles en el catálogo oficial de Google Maps Platform.
+Gestión de la cuenta de facturación y de los proyectos asociados.
+Activación, desactivación y configuración de APIs y credenciales.
+Configuración de cuotas, restricciones de claves, alertas y límites de gasto.
+Seguimiento del consumo por proyecto, API y SKU.
+Apoyo en incidencias de facturación, consumo, cuotas, credenciales y funcionamiento.
+Recomendaciones de optimización técnica y económica.
+2.2 Bolsa de horas
+El contrato incluirá una bolsa económica destinada a servicios profesionales, que se ejecutará mediante 
+una bolsa de horas. El precio por hora ofertado por el adjudicatario no podrá superar los 60 euros, IVA no 
+incluido. El número de horas disponibles se obtendrá dividiendo el importe reservado a esta prestación 
+entre dicho precio por hora.
+Las horas podrán aplicarse, entre otras, a las siguientes actuaciones:
+Gestión de almacenamiento y consumos.
+Alta, baja, renovación y configuración de licencias y suscripciones.
+Administración de cuentas, proyectos, perfiles, grupos, roles y permisos.
+Activación y configuración de APIs, credenciales, cuotas, restricciones y alertas.
+Soporte funcional y técnico.
+Consultoría de optimización de costes y de uso.
+Asesoramiento sobre arquitectura cloud, integración, seguridad y gobierno.
+Configuración de informes y cuadros de mando de consumo.
+Apoyo en migraciones, pruebas, incidencias o cambios de configuración.
+Asistencia en la apertura y seguimiento de casos con el soporte del fabricante.
+2.2.1 Peticiones de trabajo  
+Las peticiones de trabajo con cargo a la bolsa de horas corresponderán a actuaciones puntuales, bajo 
+demanda, de los servicios profesionales. Su tramitación será la siguiente:
+Madrid Destino planteará las tareas a llevar a cabo con cargo a la bolsa. 
+
+--- página 6 ---
+6
+El adjudicatario elaborará una estimación del esfuerzo necesario y un calendario de trabajo. 
+Remitirá ambos por correo electrónico al responsable del contrato, quien los aprobará por escrito, 
+solicitará modificaciones o los rechazará.
+Una vez aprobados los trabajos, se llevarán a cabo y tras la aceptación de estos, se procederá a 
+facturar.
+Las horas consumidas se descontarán de la bolsa, quedando un saldo remanente. 
+En caso de no haber saldo suficiente, se informará del hecho al responsable del contrato que decidirá al 
+respecto.
+2.2.2 Perfiles asociados al trabajo 
+Los perfiles asociados a los trabajos deberán tener experiencia demostrada de al menos 5 años en gestión 
+de productos Google, en especial Google maps. 
+2.3 Otros servicios de Google
+El adjudicatario deberá poder suministrar, activar y gestionar licencias, suscripciones y consumos de 
+servicios Google distintos de Google Maps Platform. A título orientativo y no limitativo, podrán incluirse:
+Google Workspace, incluyendo las ediciones Business disponibles durante la ejecución.
+Data Studio Pro, anteriormente Looker Studio Pro.
+reCAPTCHA y Google Cloud Fraud Defense.
+Google Cloud Platform, incluyendo BigQuery, Cloud Run, Cloud Storage, Compute Engine, bases 
+de datos, redes, monitorización y otros servicios cloud.
+Servicios de inteligencia artificial generativa mediante Gemini API o servicios equivalentes 
+integrados en Google Cloud.
+Otros productos o servicios Google no identificados inicialmente que guarden relación directa con 
+el objeto contractual.
+La cesta utilizada en la memoria económica es exclusivamente estimativa. MADRID DESTINO podrá 
+redistribuir el gasto entre los servicios comprendidos en el objeto contractual, sin superar el presupuesto 
+máximo correspondiente y sin que exista obligación de adquirir un número concreto de licencias o alcanzar 
+un consumo mínimo.
+2.3.1 Modelo de prestación y tarificación
+Los productos y servicios Google se suministrarán conforme a las tarifas oficiales públicas vigentes en 
+cada momento. Sobre dichas tarifas se aplicará el porcentaje único de descuento ofertado por el 
+adjudicatario, cuando resulte aplicable. El descuento será vinculante durante el periodo inicial y las 
+posibles prórrogas.
+Cuando una tarifa oficial se publique en moneda distinta del euro, la factura identificará la tarifa de 
+origen, el tipo de cambio aplicado, su fuente y fecha, el descuento contractual y el importe resultante en 
+euros. No se admitirán recargos, comisiones de intermediación, gestión o cambio distintos de los 
+expresamente previstos en el contrato.
+
+--- página 7 ---
+7
+Las promociones, créditos, niveles gratuitos, descuentos automáticos por volumen, compromisos de uso 
+y demás ventajas comerciales aplicables deberán repercutirse íntegramente a MADRID DESTINO antes 
+de aplicar el descuento ofertado, salvo que la propia tarifa oficial establezca otra mecánica incompatible.
+Las peticiones de suministros serán cursadas por el responsable del contrato o por las personas 
+expresamente autorizadas por MADRID DESTINO, mediante correo electrónico o herramienta 
+corporativa de gestión. El adjudicatario no activará servicios que generen coste sin autorización previa y 
+trazable.
+Las cuentas, organizaciones, proyectos, dominios, activos, configuraciones y datos serán titularidad de 
+MADRID DESTINO. 
+MADRID DESTINO conservará al menos una cuenta administrativa con capacidad suficiente para 
+supervisar y recuperar los servicios. 
+Se aplicará el principio de mínimo privilegio y se utilizarán cuentas nominativas. No se emplearán 
+cuentas compartidas salvo autorización justificada. 
+El adjudicatario mantendrá inventario actualizado de licencias, proyectos, administradores, roles, 
+credenciales y servicios con coste. 
+Las claves y secretos no se remitirán en texto claro por correo y deberán gestionarse mediante 
+mecanismos seguros autorizados. 
+Las altas, bajas y cambios quedarán documentados con fecha, solicitante, ejecutor y resultado.
+2.4 Acreditación de Partner Google 
+Los licitadores deberán disponer de una de estas acreditaciones:
+Google Cloud Partner o
+Google Maps Platform Partner.
+2.5 Responsable del seguimiento del contrato
+Madrid Destino designará un responsable del seguimiento del contrato.
+Las funciones del responsable del seguimiento serán las siguientes:
+Se encargará de la planificación, seguimiento y control de los trabajos a realizar.
+Será el interlocutor válido con la función de coordinar el contrato.
+Velar por el cumplimiento de los trabajos contratados.
+Autorizar la entrega de documentación al Equipo de Trabajo del adjudicatario.
+
+--- página 8 ---
+8
+Autorizar el cambio de personas en el Equipo de Trabajo del adjudicatario.
+Solicitar el cambio de personas del Equipo de Trabajo del adjudicatario.
+Determinar cualquier otra decisión que sea necesario adoptar en relación con la marcha de los 
+trabajos.
+2.6 Seguridad de la información
+El adjudicatario se compromete a (es posible que por la naturaleza del contrato alguno de los epígrafes no 
+aplique): 
+No introducir software microinformático ajeno a Madrid Destino salvo autorización expresa por 
+parte de ésta.
+No divulgar las estructuras de carpetas ni los ficheros de información, así como los aplicativos 
+realizados a medida ni la información almacenada en ellos.
+No difundir ni publicar los sistemas de seguridad de la información existente o prevista.
+No revelar la información obtenida de los sistemas de información de Madrid Destino, ni la 
+documentación que se suministre o la que pudiera tener acceso, con independencia del soporte 
+en que se encuentre.
+Realizar buen uso del o los correos electrónicos de Madrid Destino que les fuesen 
+encomendados.
+Mantener las contraseñas que pudieran conocer en secreto, tanto las propias como las de los 
+sistemas. 
+Respetar y promover las medidas de seguridad implantadas o por implantar en Madrid Destino. 
+No conectarse a otras redes o sistemas que sean ajenos a las propias de Madrid Destino sin el 
+consentimiento previo y por escrito por parte de Madrid Destino.
+Las conexiones externas que deban realizarse por necesidades del servicio se realizarán
+mediante VPN controladas por Madrid Destino.
+No se podrán instalar dispositivos de comunicación del tipo que sean sin el permiso expreso y 
+por escrito de Madrid Destino. 
+No se podrá extraer información de los sistemas de Madrid Destino sin el consentimiento 
+expreso de ésta. 
+En caso de que el adjudicatario deba instalar equipamiento propio, aunque sea de forma 
+temporal, deberá borrar de forma permanente aquella información que se haya extraído de los 
+sistemas de Madrid Destino cuando se produzca la retirada del equipo. 
+Los equipos que se retiren propiedad de Madrid Destino serán formateados. Antes de realizar la 
+retirada de un equipo, ésta deberá ser aceptada por escrito por parte de Madrid Destino. 
+El adjudicatario y el personal que éste asigne al proyecto se comprometerán a la no divulgación 
+del sistema de instalaciones de cualquiera de los edificios objetos del contrato.
+
+--- página 9 ---
+9
+3 RESPONSABLE DEL SERVICIO / SUSTITUTO
+El adjudicatario estará obligado a nombrar un responsable del servicio y a designar un sustituto. El 
+responsable del servicio será el interlocutor entre el responsable de los servicios de Madrid Destino y el 
+personal de la empresa adjudicataria. Su función será actuar como interlocutor con Madrid Destino y 
+garantizar que la empresa adjudicataria cumple con sus obligaciones contractuales.
+4 RESPONSABLE DEL CONTRATO DE MADRID DESTINO
+Corresponderá de forma exclusiva al responsable del contrato de Madrid Destino la realización de 
+cualesquiera indicaciones relacionadas con la ejecución del contrato y que se encuadren dentro del 
+concepto de coordinación técnica.
+Dichas indicaciones se realizarán a las personas que hayan sido designadas por el adjudicatario como 
+responsable del servicio o su sustituto. Las indicaciones se trasladarán preferiblemente por escrito y en su 
+defecto, en caso de ser necesario, de forma verbal.
+El responsable del contrato de Madrid Destino, en general cualquier empleado de Madrid Destino que 
+intervenga durante la fase de ejecución del contrato, se abstendrá de realizar indicaciones de cualquier 
+tipo referidas a las condiciones de trabajo (horarios, turnos, jornada laboral, vacaciones, permisos y demás) 
+al personal de la empresa adjudicataria.
+Asimismo, se abstendrán de trasladar de forma directa al personal de la empresa adjudicataria distinto del 
+responsable del servicio o de su sustituto designado por ésta cualquier tipo de orden, instrucción o 
+indicación referida a la organización y dirección del trabajo, control, distribución de los tiempos y cuestiones 
+de análoga naturaleza. Estas cuestiones deberán trasladarse al responsable del contrato designado por 
+Madrid Destino para que proceda de acuerdo con lo establecido en la presente cláusula.
+5 RESPONSABILIDAD
+El adjudicatario será responsable de todos los daños y perjuicios directos e indirectos que se causen a 
+terceros y/o al personal de Madrid Destino, incluido el lucro cesante y el daño emergente, como 
+consecuencia de su culpa o negligencia y/o de las personas que, por cuenta de la misma, intervengan en 
+la ejecución material de la presente contratación. 
+Asimismo, el adjudicatario se compromete a satisfacer el importe de todos los desperfectos ocasionados 
+por culpa o negligencia imputable a la misma y/o al personal por cuenta de la misma y/o bajo su 
+responsabilidad, a los espacios o lugares donde el servicio sea prestado.
+La empresa adjudicataria deberá adoptar las medidas oportunas para evitar que de la ejecución del 
+contrato puedan derivarse daños al personal de Madrid Destino, a los empleados municipales y a los 
+ciudadanos en general. 
+6 OBLIGACIONES LABORALES Y SOCIALES
+El adjudicatario está obligado al cumplimiento de la normativa vigente en materia laboral, de seguridad 
+social, de integración social de discapacitados y de prevención de riesgos laborales, conforme a lo 
+dispuesto en la Ley 31/1995, de 8 de noviembre, sobre Prevención de Riesgos Laborales y en el 
+Reglamento de los Servicios de Prevención, aprobado por Real Decreto 39/1997, de 17 de enero, así 
+como las que se promulguen durante la ejecución del contrato.
+
+--- página 10 ---
+10
+La relación del organismo u organismos donde los licitadores podrán obtener información sobre la 
+fiscalidad, y sobre las disposiciones vigentes en materia de protección de empleo, condiciones de trabajo 
+y prevención de riesgos laborales, aplicables a los servicios prestados durante la ejecución del contrato, 
+serán los señalados en el Anexo III del PCAP.
+No existirá vinculación laboral alguna entre el personal que se destine a la ejecución del contrato y Madrid 
+Destino, por cuanto aquél queda expresamente sometido al poder direccional y de organización de la 
+empresa adjudicataria en todo ámbito y orden legalmente establecido y siendo, por tanto, ésta la única 
+responsable y obligada al cumplimiento de cuantas disposiciones legales resulten aplicables al caso, en 
+especial en materia de contratación, Seguridad Social, prevención de riesgos laborales y tributaria, por 
+cuanto dicho personal en ningún caso tendrá vinculación jurídico-laboral con Madrid Destino, y ello con 
+independencia de las facultades de Control e Inspección que legal o contractualmente correspondan al 
+mismo.
+A la extinción de los contratos de servicios, no podrá producirse en ningún caso la consolidación de las 
+personas que hayan realizado los trabajos objeto del contrato como personal de Madrid Destino.
+7 CLÁUSULAS SOCIALES DE OBLIGADO CUMPLIMIENTO
+De conformidad con lo establecido en el Decreto de 19 de enero de 2016 del Delegado del Gobierno de 
+Economía y Hacienda por el que se aprueba la Instrucción 1/2016, relativa a la incorporación de cláusulas 
+sociales en los contratos celebrados por el Ayuntamiento de Madrid, sus organismos autónomos y 
+entidades del sector público municipal, serán de obligado cumplimiento por el adjudicatario, las cláusulas 
+sociales establecidas en el presente pliego que se relacionan a continuación, sin perjuicio de lo establecido 
+en el pliego de cláusulas administrativas particulares.
+El adjudicatario estará obligado a que los bienes o servicios objeto del contrato hayan sido producidos o 
+se desarrollen respetando las normas socio laborales vigentes en España y en la Unión Europea o de la 
+Organización Internacional del Trabajo.
+En el cumplimiento del presente contrato se tendrá en cuenta lo establecido en la Convención de Naciones 
+Unidas sobre los derechos de las personas con diversidad funcional, así como los criterios de accesibilidad 
+universal y de diseño universal o de diseño para todas las personas, tal como son definidos estos términos 
+en el Texto Refundido de la Ley General de derechos de las personas con diversidad funcional y de su 
+inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre (TRLGDPD).
+En toda documentación, publicidad, imagen o materiales especiales que, en su caso, deban aportar los 
+licitadores o que sean necesarios para la ejecución del contrato, deberá hacerse un uso no sexista del 
+lenguaje, evitar cualquier imagen discriminatoria de las mujeres o estereotipos sexistas y fomentar con 
+valores de igualdad la presencia equilibrada, la diversidad y la corresponsabilidad.
+La empresa adjudicataria deberá aportar las medidas oportunas para evitar que de la ejecución del contrato 
+puedan derivarse daños al personal de Madrid Destino, a los empleados municipales y a los ciudadanos 
+en general.
+En materia de seguridad y salud laboral
+El adjudicatario tiene la obligación de adoptar las medidas de seguridad y salud en el trabajo que sean 
+obligatorias para prevenir de manera rigurosa los riesgos que puedan afectar a la vida, la integridad y la 
+salud de las personas trabajadoras.
+Asimismo, deberá acreditar el cumplimiento de las siguientes obligaciones:
+- La evaluación de los riesgos y planificación de la actividad preventiva correspondiente a la 
+actividad contratada.
+
+--- página 11 ---
+11
+- La formación e información en materia preventiva a las personas adscritas a la ejecución del 
+contrato.
+- El justificante de la entrega de equipos de protección individual que, en su caso, sean 
+necesarios.
+De conformidad con lo anterior, el adjudicatario está obligado a respetar y cumplir la normativa vigente en 
+materia laboral, de seguridad social, de integración social de minusválidos y de prevención de riesgos 
+laborales, conforme a lo dispuesto en la Ley 31/1995, de 8 de noviembre, sobre Prevención de Riesgos 
+Laborales y en el Reglamento de los Servicios de Prevención, aprobado por Real Decreto 39/1997, de 17 
+de enero. Igualmente es de aplicación el Real Decreto 773/1997, de 30 de mayo sobre disposiciones 
+mínimas de seguridad y salud relativas a la utilización por los trabajadores de equipos de protección 
+individual, así como el Real Decreto 171/2004, de 30 de enero, de coordinación de actividades 
+empresariales y toda aquella normativa que sea de aplicación y/o se promulguen durante la vigencia del 
+presente procedimiento de contratación.
+En materia de empleo
+Afiliación y alta en la Seguridad Social de las personas trabajadoras destinadas a la ejecución del contrato, 
+así como de todas las sucesivas incorporaciones que puedan producirse.
+El adjudicatario se compromete a tener asegurados a todos sus trabajadores que realicen el servicio, 
+cubriendo incluso la responsabilidad civil que cualquier accidente pudiera ocasionar así como dotar a las 
+personas que ejecuten el servicio de todos los medios materiales referidos a Seguridad y Salud Laboral 
+que ordena la legislación vigente.
+El adjudicatario deberá acreditar, mediante declaración responsable, la afiliación y el alta en la Seguridad 
+Social de las personas trabajadoras destinadas a la ejecución del contrato. Esta obligación se extenderá 
+a todo el personal subcontratado por la entidad adjudicataria principal destinado a la ejecución del contrato.
+Para el cumplimiento de esta obligación, la entidad adjudicataria aportará una declaración responsable al 
+efecto, al inicio del contrato, en la que se señale que las personas trabajadoras destinadas a la ejecución 
+del mismo se encuentran afiliadas y dadas de alta en la Seguridad Social.
+En todo caso, el responsable del contrato y/o en su caso el órgano de contratación podrá solicitar, cuando 
+lo considere oportuno, la aportación de la documentación que acredite el contenido de la declaración 
+responsable.
+CONTROL DE LA EJECUCIÓN DE LAS CLÁUSULAS SOCIALES
+El responsable del contrato de Madrid Destino supervisará el cumplimiento de las obligaciones que en 
+relación a las cláusulas sociales que sean impuestas al adjudicatario en el presente pliego y en el de 
+cláusulas administrativas particulares, así como las que se deriven de la legislación social y laboral vigente.
+Con carácter previo a la finalización del contrato, el adjudicatario deberá presentar un informe relativo al 
+cumplimiento de las obligaciones sociales que le fueran exigibles legal o contractualmente.
+El incumplimiento de las mismas generará la imposición de penalidades, de conformidad con lo establecido 
+en el apartado 28 del Anexo I del pliego de cláusulas administrativas particulares.
+8 CUMPLIMIENTO NORMATIVO
+La adjudicataria manifiesta que dispone en su organización interna de medidas suficientes de control, 
+prevención y detección de la comisión de cualquier tipo de conducta que pudiera ser considerada como 
+ilícito penal, cometida con los medios o bajo la cobertura de la propia compañía y/o a través de cualquier 
+persona física integrante o dependiente de la misma.
+
+--- página 12 ---
+12
+A los efectos de lo expuesto en el párrafo anterior, la adjudicataria manifiesta que su actuación en el ámbito 
+del presente contrato estará regida en todo momento por los principios de la buena fe contractual y 
+convenientemente sujeta a Derecho, de manera que en ningún momento participará ni colaborará en la 
+comisión de ninguna conducta que pudiera encontrarse tipificada penalmente en el ordenamiento jurídico.
+Asimismo, se compromete expresamente a denunciar en todo momento ante las autoridades policiales y/o 
+judiciales competentes, cualquier conducta que pudiera apreciar como consecuencia de la ejecución de 
+este contrato, y que puedan considerarse delictivas de conformidad con lo dispuesto en el Código Penal.
+En el caso previsto en el párrafo anterior, la Adjudicataria colaborará en lo posible con las autoridades 
+policiales y/o judiciales, para esclarecer las responsabilidades penales dimanantes de los hechos 
+denunciados.
+El ejercicio por cualquiera de las partes contratantes y/o cualquiera de las personas físicas integrantes o 
+dependientes de las mismas, de alguna de las conductas que pudieran ser calificadas como ilícitas y 
+constitutivas de responsabilidad penal, podrá constituir un incumplimiento contractual y, por tanto, erigirse 
+en causa de resolución del presente contrato, dando lugar a la indemnización que pudiera resultar 
+procedente en concepto de daños y perjuicios.
+Las partes manifiestan que la firma del presente contrato se ha realizado atendiendo a las condiciones 
+particulares de cada una, y únicamente, basándose en los criterios comerciales y/o de programación de 
+ambos, sin que el contrato se haya firmado como consecuencia de una promesa, ofrecimiento o concesión 
+por ninguna de las partes, de un beneficio o ventaja de cualquier naturaleza no justificados que pudieran 
+favorecer a las partes o a otros terceros.
+La Adjudicataria se compromete a prestar los servicios objeto del presente contrato de forma tal que los 
+sistemas de información de Madrid Destino queden en todo momento protegidos frente a posibles 
+intrusiones por parte de terceros, adoptando todas las medidas de precaución y protección que sean 
+necesarias para prevenir, evitar y detectar ataques de virus informáticos, troyanos, programas espía 
+desarrollo del presente contrato. Para ello, la Adjudicataria mantendrá actualizados, programas antivirus y 
+cualesquiera otros mecanismos de detección de intrusiones que monitoricen los posibles intentos de 
+introducirse en los sistemas sin la debida autorización y tendrá implementados procedimientos internos de 
+control para asegurar que los empleados de la Adjudicataria eviten situaciones que puedan implicar un 
+riesgo en los sistemas de información de la Madrid Destino. 
+La Adjudicataria se compromete a cumplir en todo momento los estándares de Madrid Destino en lo que 
+a requerimientos de seguridad de la información se refiere y sus posibles modificaciones, siempre y cuando 
+Madrid Destino le comunique por escrito cuáles son estos. Su inobservancia por parte de la Adjudicataria 
+podrá dar lugar a la resolución del contrato por parte de Madrid Destino conforme a lo estipulado en la 
+cláusula 43 del PCAP. 
+Igualmente, la Adjudicataria se compromete a comunicar de forma inmediata a Madrid Destino cualquier 
+incidente o anomalía relativa a las medidas de seguridad que puedan afectar a la misma o a sus clientes, 
+
+--- página 13 ---
+13
+así como cualquier posible incidencia que afecte o pueda afectar a los sistemas de información de la 
+Madrid Destino, a fin de que ésta pueda adoptar las medidas que considere oportunas en defensa de sus 
+propios intereses y de los de sus clientes. 
+Asimismo, si como consecuencia de la ejecución del presente contrato, los sistemas y aplicaciones 
+informáticos de Madrid Destino estuvieran, de cualquier forma, conectados a los sistemas de la 
+Adjudicataria, Madrid Destino se reserva el derecho de poder revocar el acceso o de interrumpir la 
+conexión entre los sistemas de ambas partes.
+
+--- página 14 ---
+14
+9 SOLICITUD DE INFORMACIÓN
+Para solicitar información más detallada sobre este expediente o ampliar información sobre plazo del 
+procedimiento de contratación, las empresas participantes podrán hacerlo a partir de la recogida de este 
+documento a la dirección roberto.guijarro@madrid-destino.com
+MADRID DESTINO se reserva el derecho de solicitar la ampliación de la información presentada por cada 
+una de las empresas en sus ofertas. 
+La mera presentación de propuestas implica la aceptación sin reservas de las condiciones establecidas en 
+el presente documento para la ejecución de los trabajos objeto del Contrato. 
+Por MADRID DESTINO, S.A. Por el ADJUDICATARIO
+Responsable del contrato
+Órgano de contratación
+
+
+--- página 15 ---
+15
+ANEXO I. Datos personales a tener en cuenta.
+Relación de datos personales relacionados con El suministro de productos Google:
+Nombre y apellidos. 
+Correos electrónicos.
+Teléfonos corporativos.
+Documentos de identidad.
+
+--- página 16 ---
+16
+Descripción general del tratamiento de Datos Personales a efectuar:
+El objeto de servicio consiste en el suministro de productos de para Madrid Destino. 
+El personal adscrito por la organización adjudicataria debe estar preparado para proporcionar los Servicios 
+establecidos en el Pliego mediante el tratamiento de datos personales. Los Datos Personales se tratarán 
+únicamente por el personal adscrito y al único fin de ejecutar las prestaciones comprendidas en el alcance 
+contratado.
+En caso de que como consecuencia de la ejecución del contrato resultara necesario en algún momento la 
+modificación de lo estipulado en este Anexo, el adjudicatario lo requerirá razonadamente y señalará los 
+cambios que solicita. En caso de que MADRID DESTINO estuviese de acuerdo con lo solicitado, MADRID 
+DESTINO emitiría un Anexo actualizado, de modo que el mismo siempre recoja fielmente el detalle del 
+tratamiento.
+Colectivos y Datos Tratados
+Los colectivos de interesados y Datos Personales tratados a las que puede tener acceso el adjudicatario 
+son: 
+Personal de Madrid Destino. 
+Personas de contacto de proveedores, colaboradores y entidades relacionadas.
+Elementos del tratamiento
+El tratamiento de los Datos Personales, en caso de producirse, comprenderá todos los siguientes: 
+Recogida (captura de 
+datos)
+Registro (grabación)
+Estructuración
+Modificación
+Conservación 
+(almacenamiento)
+Extracción (retrieval)
+Consulta 
+Interconexión (cruce)
+Cotejo 
+Limitación
+Supresión
+
+--- página 17 ---
+Madrid Destino Cultura Turismo y Negocio, S.A.: Contratación de herramientas de GOOGLE.
+17
+Disposición de los datos al terminar el Servicio
+Una vez finalice el encargo, el adjudicatario debe:
+a) Devolver al responsable del tratamiento los datos de carácter personal y, si procede, los soportes 
+donde consten, una vez cumplida la prestación. La devolución debe comportar el borrado total de los 
+datos existentes en los equipos informáticos utilizados por el encargado. No obstante, el encargado 
+puede conservar una copia, con los datos debidamente bloqueados, mientras puedan derivarse 
+responsabilidades de la ejecución de la prestación.
+No obstante, el Responsable del Tratamiento podrá requerir al encargado para que en vez de la 
+opción a), cumpla con la b) o con la c) siguientes:
+b) Devolver al encargado que designe por escrito el responsable del tratamiento, los datos de carácter 
+personal y, si procede, los soportes donde consten, una vez cumplida la prestación. La devolución 
+debe comportar el borrado total de los datos existentes en los equipos informáticos utilizados por el 
+encargado. No obstante, el encargado puede conservar una copia, con los datos debidamente 
+bloqueados, mientras puedan derivarse responsabilidades de la ejecución de la prestación.
+c) Destruir los datos, una vez cumplida la prestación. Una vez destruidos, el encargado debe certificar 
+su destrucción por escrito y debe entregar el certificado al responsable del tratamiento. No obstante, 
+el encargado puede conservar una copia, con los datos debidamente bloqueados, mientras puedan 
+derivarse responsabilidades de la ejecución de la prestación.
+
+--- página 18 ---
+Madrid Destino Cultura Turismo y Negocio, S.A.: Contratación de herramientas de GOOGLE.
+18
+ANEXO III MEDIDAS DE SEGURIDAD 
+El presente anexo establece las medidas técnicas y organizativas que deberá aplicar la entidad 
+adjudicataria cuando, para la ejecución del contrato, acceda o pueda acceder a datos personales, 
+sistemas de información, cuentas, proyectos, configuraciones, credenciales o recursos tecnológicos 
+cuya responsabilidad corresponda a MADRID DESTINO CULTURA TURISMO Y NEGOCIO, S.A., en 
+adelante, MADRID DESTINO.
+Estas medidas serán aplicables durante toda la vigencia del contrato, incluidas sus posibles prórrogas, 
+y deberán cumplirse por la entidad adjudicataria, por el personal adscrito a su ejecución y, cuando 
+proceda, por los subencargados de tratamiento o proveedores tecnológicos autorizados.
+Las medidas establecidas en este anexo tienen la consideración de requisitos mínimos. La entidad 
+adjudicataria deberá complementarlas con aquellas medidas adicionales que resulten necesarias 
+atendiendo a la naturaleza, alcance, contexto y fines del tratamiento, al estado de la técnica y a los 
+riesgos existentes para los derechos y libertades de las personas físicas.
+Normativa aplicable
+La entidad adjudicataria deberá cumplir, en todo momento, con la normativa vigente que resulte 
+aplicable y, en particular, con:
+El Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, 
+relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos 
+personales y a la libre circulación de estos datos, en adelante, RGPD.
+La Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de 
+los derechos digitales, en adelante, LOPDGDD.
+El Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de 
+Seguridad, cuando resulte aplicable a los sistemas, servicios o información afectados por el 
+contrato.
+Las instrucciones, políticas y procedimientos de seguridad y protección de datos de MADRID 
+DESTINO que sean comunicados a la entidad adjudicataria.
+Las disposiciones específicas que resulten aplicables a los servicios de Google utilizados 
+durante la ejecución del contrato.
+La entidad adjudicataria deberá adaptar sus medidas de seguridad a cualquier modificación normativa 
+que se produzca durante la vigencia del contrato, sin que ello suponga un coste adicional para 
+MADRID DESTINO cuando la adaptación sea necesaria para mantener el cumplimiento legal de las 
+prestaciones contratadas.
+Principios generales de seguridad
+La entidad adjudicataria adoptará medidas técnicas y organizativas apropiadas para garantizar un 
+nivel de seguridad adecuado al riesgo, conforme al artículo 32 del RGPD.
+Las medidas deberán orientarse, al menos, a garantizar:
+
+--- página 19 ---
+Madrid Destino Cultura Turismo y Negocio, S.A.: Contratación de herramientas de GOOGLE.
+19
+La confidencialidad de la información y de los datos personales.
+La integridad y exactitud de los datos y configuraciones.
+La disponibilidad y resiliencia de los sistemas y servicios.
+La autenticidad de los usuarios y de las operaciones realizadas.
+La trazabilidad de los accesos, cambios y actuaciones administrativas.
+La capacidad de restaurar la disponibilidad y el acceso a la información en caso de incidente 
+físico o técnico.
+La aplicación del principio de mínimo privilegio.
+La protección de los datos desde el diseño y por defecto.
+La revisión periódica de la eficacia de las medidas implantadas.
+La entidad adjudicataria deberá aplicar estas medidas tanto a sus propios sistemas como a los 
+sistemas, consolas, proyectos, cuentas y recursos de Google o de terceros a los que acceda durante 
+la ejecución del contrato.
+Análisis y gestión de riesgos
+Antes de iniciar cualquier tratamiento de datos personales o acceso a sistemas de MADRID 
+DESTINO, la entidad adjudicataria deberá identificar y evaluar los riesgos asociados a las actividades 
+que vaya a realizar.
+El análisis deberá considerar, al menos:
+Las categorías de datos personales tratados.
+El volumen aproximado de datos.
+Las personas o colectivos afectados.
+Las operaciones de tratamiento previstas.
+Los sistemas, aplicaciones, cuentas y servicios utilizados.
+La ubicación de los datos y de las infraestructuras.
+Los accesos administrativos o privilegiados.
+La intervención de proveedores y subencargados.
+Las posibles transferencias internacionales de datos.
+Las amenazas que puedan afectar a la confidencialidad, integridad, disponibilidad, 
+autenticidad y trazabilidad de la información.
+El impacto potencial sobre MADRID DESTINO y sobre las personas afectadas.
+
+--- página 20 ---
+Madrid Destino Cultura Turismo y Negocio, S.A.: Contratación de herramientas de GOOGLE.
+20
+Cuando MADRID DESTINO lo solicite, la entidad adjudicataria deberá aportar información suficiente 
+sobre su análisis de riesgos y sobre las medidas adoptadas, sin perjuicio de la protección de aquella 
+información interna cuya revelación pueda comprometer la seguridad de sus sistemas.
+Si, como consecuencia de un cambio en el servicio, se introducen nuevos tratamientos, productos, 
+integraciones, funcionalidades de inteligencia artificial, ubicaciones, subencargados o categorías de 
+datos, deberá revisarse previamente el análisis de riesgos y comunicarse el cambio a MADRID 
+DESTINO.
+Organización de la seguridad
+La entidad adjudicataria deberá contar con una estructura organizativa adecuada para garantizar el 
+cumplimiento de las obligaciones de seguridad y protección de datos.
+A estos efectos deberá:
+Designar una persona responsable de coordinar la seguridad del servicio.
+Comunicar a MADRID DESTINO sus datos de contacto.
+Definir y documentar las funciones y responsabilidades del personal con acceso a los 
+sistemas o datos.
+Mantener una relación actualizada del personal autorizado.
+Informar y formar al personal sobre sus obligaciones de confidencialidad, seguridad y 
+protección de datos.
+Revisar y retirar los permisos cuando una persona deje de participar en el servicio o cambie 
+de funciones.
+Establecer un procedimiento disciplinario o equivalente para los incumplimientos de las 
+medidas de seguridad.
+Comunicar a MADRID DESTINO cualquier cambio relevante en la estructura de 
+responsabilidad que pueda afectar a la ejecución del contrato.
+Todas las personas autorizadas deberán asumir por escrito un compromiso de confidencialidad, que 
+continuará vigente después de la finalización de su participación en el contrato.
+Control de acceso e identificación de usuarios
+El acceso a las cuentas, proyectos, consolas, datos y recursos tecnológicos deberá limitarse 
+exclusivamente a las personas que lo necesiten para ejecutar las tareas autorizadas.
+La entidad adjudicataria deberá aplicar, como mínimo, las medidas siguientes:
+Utilización de cuentas nominativas e individualizadas.
+Prohibición de cuentas compartidas, salvo autorización expresa y justificada de MADRID 
+DESTINO.
+Aplicación del principio de mínimo privilegio.
+
+--- página 21 ---
+Madrid Destino Cultura Turismo y Negocio, S.A.: Contratación de herramientas de GOOGLE.
+21
+Separación de funciones cuando resulte necesaria para reducir riesgos.
+Autorización previa de MADRID DESTINO para la concesión de accesos privilegiados o 
+administrativos.
+Revisión periódica de usuarios, roles y permisos.
+Revocación inmediata de accesos cuando dejen de ser necesarios.
+Bloqueo de cuentas tras intentos reiterados de acceso fallido.
+Protección frente a ataques automatizados de autenticación.
+Registro de las altas, bajas y modificaciones de permisos.
+Conservación de evidencias sobre la aprobación y ejecución de los cambios.
+Los accesos administrativos a Google Cloud, Google Maps Platform, Google Workspace, Looker 
+Studio Pro, reCAPTCHA, Gemini API u otros servicios incluidos en el contrato deberán realizarse 
+mediante cuentas individualizadas y con autenticación multifactor.
+MADRID DESTINO conservará, al menos, una cuenta administrativa propia con capacidad suficiente 
+para supervisar, recuperar y controlar los servicios contratados. El adjudicatario no podrá eliminar, 
+limitar o modificar esta cuenta sin autorización previa y escrita.
+Autenticación y credenciales
+La entidad adjudicataria deberá utilizar mecanismos de autenticación robustos y adecuados al nivel 
+de riesgo.
+Será obligatorio:
+Aplicar autenticación multifactor a las cuentas administrativas o privilegiadas y a aquellas que 
+permitan acceder a datos personales.
+Evitar la transmisión de contraseñas, claves API, tokens, certificados o secretos en texto claro 
+por correo electrónico u otros canales no seguros.
+Utilizar mecanismos seguros para el almacenamiento y la transmisión de credenciales.
+Cambiar las credenciales cuando existan indicios de compromiso.
+Revocar las credenciales cuando dejen de ser necesarias.
+Evitar la inclusión de claves y secretos en repositorios de código, documentación pública, 
+registros de actividad o archivos de configuración no protegidos.
+Aplicar restricciones de uso a las claves API, incluyendo, cuando proceda, limitaciones por 
+dominio, aplicación, dirección IP, servicio, cuota o entorno.
+Mantener un inventario actualizado de las credenciales utilizadas durante la ejecución del 
+contrato.
+
+--- página 22 ---
+Madrid Destino Cultura Turismo y Negocio, S.A.: Contratación de herramientas de GOOGLE.
+22
+La periodicidad de renovación de credenciales deberá determinarse atendiendo al riesgo, a las 
+capacidades técnicas del servicio y a las políticas de MADRID DESTINO, sin imponer cambios 
+periódicos arbitrarios cuando no exista una razón de seguridad que los justifique.
+Cifrado y protección de las comunicaciones
+Las comunicaciones que contengan datos personales, credenciales, configuraciones sensibles o 
+información confidencial deberán protegerse mediante mecanismos criptográficos adecuados.
+La entidad adjudicataria deberá:
+Utilizar protocolos de comunicación cifrados y actualizados.
+Aplicar cifrado de los datos en tránsito.
+Aplicar cifrado de los datos almacenados cuando resulte proporcionado al riesgo.
+Proteger las claves criptográficas frente a accesos no autorizados.
+Evitar el uso de protocolos, algoritmos o versiones obsoletas.
+Utilizar canales seguros autorizados para la transferencia de información.
+Garantizar que los dispositivos portátiles utilizados para la prestación del servicio dispongan 
+de cifrado y medidas de protección adecuadas.
+No se podrán almacenar datos personales o información confidencial de MADRID DESTINO en 
+dispositivos extraíbles, servicios de almacenamiento personal o repositorios no autorizados.
+Registro, monitorización y trazabilidad
+La entidad adjudicataria deberá mantener mecanismos de registro que permitan reconstruir las 
+actuaciones relevantes realizadas durante la prestación del servicio.
+Los registros deberán recoger, cuando resulte técnicamente posible:
+La identidad del usuario.
+La fecha y hora de la actuación.
+El recurso, cuenta, proyecto o sistema afectado.
+El tipo de acceso u operación realizada.
+Las modificaciones de configuración.
+Las altas, bajas y cambios de licencias, servicios, usuarios, permisos y credenciales.
+El resultado de la operación.
+Los intentos de acceso no autorizado.
+Los eventos de seguridad relevantes.
+Las activaciones de servicios que generen coste.
+
+--- página 23 ---
+Madrid Destino Cultura Turismo y Negocio, S.A.: Contratación de herramientas de GOOGLE.
+23
+Los registros deberán protegerse frente a su modificación, eliminación o acceso no autorizado y 
+conservarse durante el periodo que resulte necesario atendiendo a la finalidad, al riesgo, a las 
+obligaciones legales y a las políticas de seguridad de MADRID DESTINO.
+Cuando se detecten actividades anómalas o indicios de compromiso, la entidad adjudicataria deberá 
+analizarlos y comunicarlos sin dilación a MADRID DESTINO.
+Seguridad de equipos y entornos de trabajo
+Los equipos utilizados por el personal de la entidad adjudicataria para acceder a los sistemas o datos 
+de MADRID DESTINO deberán disponer de medidas de seguridad adecuadas.
+Como mínimo deberán contar con:
+Sistemas operativos y aplicaciones soportados por el fabricante.
+Actualizaciones y parches de seguridad.
+Protección frente a código malicioso.
+Cortafuegos o mecanismos equivalentes.
+Cifrado de los dispositivos.
+Bloqueo automático de sesión.
+Control de instalación de aplicaciones.
+Configuración segura.
+Separación adecuada entre el uso profesional y el personal.
+Mecanismos de borrado seguro.
+Capacidad de respuesta ante pérdida, robo o compromiso del dispositivo.
+No se podrá acceder a los sistemas de MADRID DESTINO desde dispositivos personales o no 
+gestionados, salvo autorización expresa y previa.
+Gestión de vulnerabilidades
+La entidad adjudicataria deberá mantener un proceso adecuado de identificación, análisis y corrección 
+de vulnerabilidades que puedan afectar a los sistemas utilizados para prestar el servicio.
+La gestión deberá incluir:
+Seguimiento de avisos de seguridad y vulnerabilidades relevantes.
+Aplicación de actualizaciones y parches dentro de plazos adecuados al riesgo.
+Priorización de las vulnerabilidades críticas o de alta severidad.
+Evaluación de las configuraciones de seguridad.
+Revisión de las integraciones, APIs, credenciales y permisos.
+
+--- página 24 ---
+Madrid Destino Cultura Turismo y Negocio, S.A.: Contratación de herramientas de GOOGLE.
+24
+Documentación de las vulnerabilidades identificadas y de las medidas correctoras.
+Comunicación a MADRID DESTINO de aquellas vulnerabilidades que puedan afectar a sus 
+datos, sistemas o servicios.
+Cuando no sea posible corregir inmediatamente una vulnerabilidad, deberán implantarse medidas 
+compensatorias y documentarse el riesgo residual.
+Copias de seguridad, continuidad y recuperación
+Cuando la naturaleza de los servicios o tratamientos lo requiera, la entidad adjudicataria deberá 
+garantizar que existan mecanismos adecuados de respaldo, continuidad y recuperación.
+Las medidas deberán incluir, según proceda:
+Definición de los datos y configuraciones objeto de respaldo.
+Realización de copias con una periodicidad adecuada.
+Protección y cifrado de las copias.
+Separación lógica o física respecto de los sistemas principales.
+Control de acceso a las copias.
+Pruebas periódicas de restauración.
+Procedimientos de recuperación ante incidentes.
+Conservación de configuraciones, inventarios y documentación necesarios para restaurar el 
+servicio.
+Eliminación segura de las copias cuando finalice su periodo de conservación.
+La existencia de mecanismos de recuperación propios de Google no eximirá al adjudicatario de 
+verificar que estos se encuentran correctamente configurados y son adecuados para las prestaciones 
+que gestione.
+Gestión de incidentes y violaciones de seguridad
+La entidad adjudicataria deberá disponer de un procedimiento documentado para detectar, analizar, 
+contener, resolver y comunicar incidentes de seguridad.
+Se considerará incidente de seguridad cualquier acontecimiento que pueda afectar a la 
+confidencialidad, integridad, disponibilidad, autenticidad o trazabilidad de los datos, sistemas o 
+servicios de MADRID DESTINO.
+Cuando el incidente afecte o pueda afectar a datos personales, la entidad adjudicataria deberá 
+comunicarlo a MADRID DESTINO sin dilación indebida y, en todo caso, dentro del plazo máximo de 
+cuarenta y ocho horas desde que tenga conocimiento de él.
+La comunicación se realizará al Delegado de Protección de Datos de MADRID DESTINO, a través de 
+la dirección dpd@madrid-destino.com, y al responsable del contrato.
+
+--- página 25 ---
+Madrid Destino Cultura Turismo y Negocio, S.A.: Contratación de herramientas de GOOGLE.
+25
+La notificación deberá incluir, en la medida en que se encuentre disponible:
+La fecha y hora de detección.
+La descripción del incidente.
+Los sistemas, servicios y datos afectados.
+Las categorías y el número aproximado de personas afectadas.
+Las categorías y el número aproximado de registros afectados.
+El posible origen y causa del incidente.
+Las consecuencias previsibles.
+Las medidas adoptadas para contenerlo y resolverlo.
+Las medidas propuestas para evitar su repetición.
+Los datos de contacto de la persona responsable de su gestión.
+Si no fuera posible facilitar toda la información simultáneamente, esta se proporcionará 
+progresivamente, sin dilaciones indebidas.
+La entidad adjudicataria conservará las evidencias necesarias para investigar el incidente y colaborará 
+con MADRID DESTINO en el cumplimiento de las obligaciones de notificación a la Agencia Española 
+de Protección de Datos y, cuando proceda, a las personas afectadas.
+La comunicación de un incidente no eximirá a la entidad adjudicataria de su obligación de adoptar 
+inmediatamente las medidas necesarias para contenerlo, reducir sus efectos y restaurar el servicio.
+Proveedores tecnológicos y subencargados
+La utilización de proveedores tecnológicos o subencargados que puedan acceder a datos personales 
+deberá contar con la autorización de MADRID DESTINO en los términos establecidos en el PCAP, el 
+PPT y el contrato de encargo de tratamiento.
+La entidad adjudicataria deberá:
+Identificar a los proveedores o subencargados que intervengan.
+Indicar los servicios que prestan.
+Informar de la ubicación desde la que se prestan los servicios.
+Informar de la ubicación o regiones en las que se almacenan o tratan los datos.
+Formalizar con ellos un contrato de encargo de tratamiento conforme al artículo 28 del RGPD.
+Imponerles obligaciones de protección de datos y seguridad equivalentes a las previstas en 
+el contrato.
+Verificar que ofrecen garantías suficientes.
+Mantener una relación actualizada de subencargados.
+
+--- página 26 ---
+Madrid Destino Cultura Turismo y Negocio, S.A.: Contratación de herramientas de GOOGLE.
+26
+Comunicar previamente cualquier incorporación o sustitución.
+La entidad adjudicataria seguirá siendo plenamente responsable frente a MADRID DESTINO del 
+cumplimiento de las obligaciones asumidas por los subencargados.
+La utilización de Google y de su infraestructura tecnológica para prestar los servicios incluidos en el 
+objeto del contrato deberá ajustarse a las condiciones de protección de datos, seguridad, ubicación, 
+subencargo y transferencias internacionales establecidas en el expediente.
+Transferencias internacionales
+Los datos personales deberán tratarse, con carácter general, dentro del Espacio Económico Europeo 
+o en territorios que dispongan de una decisión de adecuación aplicable.
+Cuando la prestación implique una transferencia internacional de datos, la entidad adjudicataria 
+deberá informar previamente a MADRID DESTINO e identificar:
+Los países de destino.
+Las categorías de datos transferidos.
+Los proveedores y subencargados intervinientes.
+La base jurídica de la transferencia.
+Las garantías aplicables.
+Las medidas complementarias implantadas.
+Los mecanismos disponibles para configurar la residencia o ubicación de los datos.
+No podrán realizarse transferencias internacionales sin que se cumplan los requisitos establecidos en 
+el capítulo V del RGPD y sin la correspondiente autorización o validación de MADRID DESTINO.
+Inteligencia artificial generativa
+Cuando los servicios incluyan la utilización de Gemini API u otros modelos de inteligencia artificial 
+generativa, la entidad adjudicataria no podrá introducir datos personales, información confidencial, 
+credenciales, documentos internos o contenidos de MADRID DESTINO en modelos o servicios que 
+no hayan sido previamente autorizados.
+Antes de activar un servicio de inteligencia artificial generativa deberá verificarse:
+Si los datos introducidos se utilizan para entrenar o mejorar los modelos.
+El periodo de conservación de las entradas y resultados.
+La ubicación del tratamiento.
+Los subencargados participantes.
+Los controles de acceso.
+Las posibilidades de aislamiento empresarial.
+
+--- página 27 ---
+Madrid Destino Cultura Turismo y Negocio, S.A.: Contratación de herramientas de GOOGLE.
+27
+Las opciones de desactivación del almacenamiento y del entrenamiento.
+Las garantías contractuales del proveedor.
+La necesidad de realizar una evaluación de impacto relativa a la protección de datos.
+La activación de servicios de inteligencia artificial que puedan tratar información de MADRID 
+DESTINO requerirá autorización previa y expresa del responsable del contrato.
+Conservación, devolución y supresión
+Los datos personales y la información de MADRID DESTINO no podrán conservarse durante más 
+tiempo del necesario para prestar los servicios o cumplir las obligaciones legales aplicables.
+Una vez finalizado el contrato, o cuando MADRID DESTINO lo solicite, la entidad adjudicataria 
+deberá:
+Devolver los datos y documentos facilitados.
+Devolver o transferir las configuraciones, proyectos, cuentas, inventarios y activos 
+gestionados.
+Revocar los accesos y credenciales del personal.
+Suprimir las copias que permanezcan en sus sistemas.
+Solicitar la supresión a los subencargados.
+Aplicar procedimientos de borrado seguro.
+Emitir, a requerimiento de MADRID DESTINO, un certificado de devolución y supresión.
+Cuando exista una obligación legal de conservación, los datos se mantendrán debidamente 
+bloqueados, sin que puedan utilizarse para ninguna finalidad distinta de atender las posibles 
+responsabilidades legales. Finalizado el periodo aplicable, deberán destruirse de forma segura.
+Evidencias, auditoría y verificación
+La entidad adjudicataria deberá conservar evidencias suficientes que permitan demostrar el 
+cumplimiento de las medidas establecidas en este anexo.
+MADRID DESTINO podrá solicitar:
+Políticas y procedimientos de seguridad.
+Certificaciones de seguridad y protección de datos.
+Informes de auditoría.
+Evidencias de formación y compromisos de confidencialidad.
+Inventarios de activos, usuarios, roles y credenciales.
+Registros de accesos y cambios.
+Resultados de análisis de riesgos.
+
+--- página 28 ---
+Madrid Destino Cultura Turismo y Negocio, S.A.: Contratación de herramientas de GOOGLE.
+28
+Información sobre incidentes.
+Relación de proveedores y subencargados.
+Evidencias de borrado o devolución.
+Planes de continuidad y pruebas de recuperación.
+MADRID DESTINO podrá realizar, directamente o mediante un tercero autorizado, las 
+comprobaciones razonables que resulten necesarias para verificar el cumplimiento contractual. Estas 
+actuaciones se realizarán respetando la confidencialidad y procurando no interferir de manera 
+injustificada en la actividad ordinaria de la entidad adjudicataria.
+Las certificaciones o auditorías aportadas no sustituirán la responsabilidad de la entidad adjudicataria 
+ni impedirán que MADRID DESTINO solicite evidencias adicionales cuando existan razones 
+justificadas.
+Incumplimiento
+El incumplimiento de las obligaciones establecidas en este anexo podrá dar lugar a la aplicación de 
+las penalidades previstas en el PCAP y, cuando revista carácter esencial o comprometa gravemente 
+la seguridad de los datos o sistemas de MADRID DESTINO, podrá constituir causa de resolución del 
+contrato.
+Sin perjuicio de lo anterior, la entidad adjudicataria deberá indemnizar los daños y perjuicios que se 
+deriven de un incumplimiento que le resulte imputable y colaborar en la adopción de las medidas 
+necesarias para limitar sus efectos.
+Revisión de las medidas
+Las medidas de seguridad se revisarán cuando:
+Se produzcan cambios significativos en los servicios contratados.
+Se incorporen nuevos productos, tecnologías o tratamientos.
+Se modifique la ubicación de los datos.
+Se incorporen nuevos proveedores o subencargados.
+Se produzca un incidente de seguridad relevante.
+Se identifiquen nuevas amenazas o vulnerabilidades.
+Se modifique la normativa aplicable.
+MADRID DESTINO actualice sus políticas de seguridad.
+Toda modificación que pueda afectar al nivel de riesgo, a la protección de los datos personales o a 
+las garantías inicialmente previstas deberá comunicarse previamente a MADRID DESTINO.
+
+--- página 29 ---
+Madrid Destino Cultura Turismo y Negocio, S.A.: Contratación de herramientas de GOOGLE.
+29

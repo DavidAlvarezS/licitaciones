@@ -1,0 +1,2052 @@
+
+
+--- página 1 ---
+PLIEGO  DE  CLÁUSULAS  ADMINISTRATIVAS  PARTICULARES  PARA   EL 
+SERVICIO    DE  PAQUETES  DE  SOFTWARE  PARA  DIFERENTES   
+DEPARTAMENTOS          DEL         AYUNTAMIENTO         DE         ISLA         CRISTINA  
+1.- RÉGIMEN JURÍDICO.
+El contrato para realizar se califica como contrato de servicios, de conformidad con lo 
+establecido en el artículo 17 de la Ley 9/2017, de 8 de noviembre, de Contratos del 
+Sector Público –LCSP, y la doctrina de la Junta Consultiva de Contratación Pública del 
+Estado, (Categoría 7 de servicios de tecnologías de la información):
+1. Prestación de servicios continuados en la nube (SaaS - Software as a 
+Service): El objeto principal no es la adquisición aislada o la entrega de un bien 
+físico/licencia  perpetua  en  propiedad,  sino  la  disponibilidad  continuada  de 
+plataformas alojadas en la nube en modo suscripción durante toda la vigencia del 
+contrato.
+2. Servicios  de  soporte,  mantenimiento  e  inmutabilidad: La  contratación 
+incluye  la  prestación  ininterrumpida  de  servicios  de  mantenimiento  correctivo, 
+adaptativo y evolutivo, actualización permanente de parches de seguridad, custodia 
+y respaldo inmutable de datos corporativos, soporte técnico directo a los usuarios 
+municipales y formación especializada.
+La presente contratación tiene carácter administrativo, y se regirá en todo lo no 
+previsto especialmente en este pliego, en el Pliego de Prescripciones Técnicas y en la 
+citada LCSP, por lo dispuesto en las siguientes normas:
+- El RD 817/2009, de 8 de mayo y por el RD 1098/2001, de 12 de octubre, por el 
+que  se  aprueba  el  Reglamento  General  de  la  Ley  de  Contratos  de  las 
+Administraciones Públicas, en su redacción dada por el Real Decreto 773/2015, de 28 
+de agosto, por el que se modifican determinados preceptos del Reglamento General 
+de  la  Ley  de  Contratos  de  las  Administraciones  Públicas,  aprobado  por  el  Real 
+Decreto 1098/2001, de 12 de octubre,  modificado a su vez por el Real Decreto 
+716/2019, de 5 de diciembre,  en todo aquello que no se contradiga o se oponga a la 
+LCSP.
+- Supletoriamente se aplicarán las restantes normas de derecho administrativo, y 
+en su defecto, las normas de derecho privado. 
+- La Ley 12/2007, de 26 de noviembre, para la promoción de la Igualdad de género 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 1 de 52 
+
+--- página 2 ---
+en Andalucía, y la Ley 1/2014, de 24 de junio de Transparencia Pública de Andalucía.
+- Además del presente Pliego de Cláusulas Administrativas  Particulares, tendrán 
+naturaleza  contractual,  el  Pliego  de  Prescripciones  Técnicas,  proyecto  y  planos, 
+programa de trabajo y la adjudicación y aceptación por el contratista. 
+Asimismo, de conformidad con el art. 122.2 LCSP, en su redacción dada por el Real 
+Decreto Ley 14/2019, de 31 de octubre, el futuro contratista está obligado a respetar 
+la normativa nacional y de la Unión Europea en materia de Protección de Datos. 
+En caso de discrepancia entre el Pliego de Cláusulas Administrativas Particulares y el 
+Pliego  de  Prescripciones  Técnicas,  prevalecerá  aquel  (P.C.A.P.),  siempre  que  la 
+contradicción  verse  sobre  un  contenido  propio  del  mismo,  en  caso  contrario, 
+prevalecerá el P.P.T., ello sin perjuicio de que se trate de un evidente error de hecho 
+o aritmético. 
+2.- CAPACIDAD DE CONTRATAR.
+Podrán  optar  a  la  adjudicación  del  presente  contrato  las  personas  naturales  o 
+jurídicas,  españolas  o  extranjeras,  a  título  individual  o  en  unión  temporal  de 
+empresarios, que tengan plena capacidad de obrar, que no se encuentran incursos 
+en  las  prohibiciones  e  incompatibilidades  para  contratar  con  la  Administración 
+establecidas  en  el  artículo  71  LCSP  2017  y  dispongan  de  solvencia  económica, 
+financiera y técnica.
+De conformidad con el art. 159.4.a) LCSP, todos los licitadores deberán estar inscritos 
+en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público, no 
+obstante, dada la complejidad y ralentización en la inscripción y para que no se vea 
+limitada la concurrencia, en aplicación de la Recomendación de la Junta Consultiva 
+de Contratación n.º 32, de 24 de septiembre de 2018, aquellas entidades que hayan 
+presentado  la  solicitud  de  inscripción  en  el  Registro  y   no  la  posean,  deberán 
+presentar  la  documentación  referida  en  la  cláusula  14  del  presente  Pliego  de 
+Cláusulas Administrativas.
+A los efectos del artículo 159.6.b) de la LCSP, no se exige la acreditación de la 
+solvencia económica y financiera, técnica y profesional. 
+Las empresas adjudicatarias deberán ser personas físicas o jurídicas cuya finalidad o 
+actividad  tenga  relación  directa  con  el  objeto  del  contrato  y  disponer  de  una 
+organización  con  elementos  personales  y  materiales  suficientes  para  la  debida 
+ejecución del contrato.
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 2 de 52 
+
+--- página 3 ---
+Los  empresarios  deberán  contar  asimismo  con  la  habilitación  empresarial  o 
+profesional  que,  en  su  caso,  sea  exigible  para  la  realización  de  la  actividad  o 
+prestación que constituya el objeto del contrato.
+Las  empresas  extranjeras  no  comunitarias  deberán  reunir  además  los  requisitos 
+establecidos en el artículo 68 LCSP 2017.
+3.- OBJETO.
+El presente contrato tiene por objeto la contratación de los servicios informáticos de 
+licenciamiento  en  modalidad  de  suscripción/SaaS  (Software  as  a  Service), 
+implantación,  parametrización,  migración  de  datos,  formación  del  personal 
+municipal,  soporte  técnico  continuado  y  mantenimiento  correctivo,  evolutivo  y 
+adaptativo 
+De conformidad con lo dispuesto en el artículo 99.3 de la Ley 9/2017, de 8 de 
+noviembre,  de  Contratos  del  Sector  Público  (LCSP),  la  regla  general  en  la 
+contratación pública es la división en lotes del objeto del contrato, con el objetivo de 
+fomentar la libre concurrencia, garantizar la neutralidad tecnológica y facilitar el 
+acceso de las Pequeñas y Medianas Empresas (PYMEs) a la licitación pública. En 
+cumplimiento de dicho mandato legal, el objeto del presente contrato de servicios se 
+articula en CUATRO (4) lotes independientes, cuya justificación técnica, funcional y 
+de mercado se fundamenta en los siguientes motivos: 
+1. Especialización técnica y diversidad del mercado tecnológico.
+ Cada  uno  de  los  módulos  de  software  requeridos  pertenece  a  un  sector  de 
+especialización tecnológica plenamente diferenciado en el mercado informático: 
+•  Lote  1 (Software  de  Gestión  Operativa  de  Protección  Civil):  Se  encarga  de la 
+gestión  de  emergencias,  voluntariado,  guardias,  planes  de  autoprotección, 
+geolocalización GIS y despacho CAD de intervenciones. 
+• Lote 2 (Software de Copias de Seguridad y Protección de Datos): Solución de 
+ciberseguridad  e  infraestructura  IT  orientada  al  backup  automatizado  con 
+almacenamiento  inmutable  (tecnología  WORM  /  Object  Lock  anti-ransomware)  y 
+recuperación ante desastres (ENS/RGPD).
+ • Lote 3 (Software de Gestión de la OMIC): Aplicación de gestión procedimental para 
+la  tramitación  de  reclamaciones  de  consumo,  mediaciones,  expedientes 
+sancionadores, citación previa e integración con la Sede Electrónica municipal. 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 3 de 52 
+
+--- página 4 ---
+• Lote 4: (Software de Control, Movilidad y Análisis de datos de la Policía Municipal). 
+Soluciona la identificación de vehículos para el posterior análisis de los datos
+2.Autonomía funcional e independencia operativa.
+ No existe un vínculo de dependencia técnica ni operativa entre los cuatro sistemas. 
+Cada software prestará servicio a departamentos municipales distintos (Protección 
+Civil, Área de Informática/Sistemas, Jefatura de la Policía y Oficina de Atención al 
+Consumidor), operando de forma autónoma sin necesidad de compartición de bases 
+de datos o arquitecturas propietarias comunes. 
+3. Fomento de la libre concurrencia y acceso de las PYMEs (Art. 99.3 LCSP) 
+Exigir la licitación del contrato en un único bloque forzaría a las empresas licitadoras 
+a acudir a grandes integradores generalistas o a recurrir a la subcontratación de 
+terceros  componentes,  lo  que  encarecería  artificialmente  el  coste  final  para  la 
+Administración. La división en cuatro lotes independientes permite que empresas 
+desarrolladoras altamente especializadas o distribuidores locales de software puedan 
+concurrir a cada lote en condiciones de máxima competitividad.
+ 4. Reglas de adjudicación por lotes:
+ • Los licitadores podrán presentar oferta a uno, a varios o a la totalidad de los lotes.
+ • La evaluación y adjudicación se efectuará de forma independiente para cada uno 
+de los Lotes. 
+• No se fijan límites al número de lotes que pueden ser adjudicados a un mismo 
+licitador.
+El objeto del contrato se ajusta a la siguiente codificación del Vocabulario Común de 
+Contratos (CPV):
+ CPV Principal:
+ 48000000-8: Paquetes de software y sistemas de información.
+ CPV Secundarios (Servicios de implantación, mantenimiento y soporte 
+Cloud/SaaS):
+ 72268000-1: Servicios de suministro de software.
+ 72261000-2: Servicios de asistencia para software y mantenimiento.
+ 72263000-6: Servicios de aplicación de software.
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 4 de 52 
+
+--- página 5 ---
+4.- CONDICIONES ECONÓMICAS.
+4.1. Valor estimado del contrato.
+Teniendo en cuenta lo dispuesto en los artículos 101 de la de la Ley 9/2017, de 8 de 
+noviembre, de Contratos del Sector Público, el valor estimado asciende a la cantidad 
+de 23.750,00 €, I.V.A. excluido.
+4.2. Presupuesto base de licitación.
+El Presupuesto Base de Licitación para la totalidad del suministro y servicios anexos 
+asciende a la cantidad máxima de VEINTITRÉS MIL SETECIENTOS CINCUENTA EUROS 
+(23.750,00  €),  más  CUATRO  MIL  NOVECIENTOS  OCHENTA  Y  SIETE  (4.987,50)  en 
+concepto de IVA (21 %), lo que suma un importe total acumulado de VEINTIOCHO MIL 
+SETECIENTOS TREINTA Y SIETE EUROS CON CINCUENTA CÉNTIMOS (28.737,50 €), IVA 
+incluido, desglosado por lotes de la siguiente forma:
+LOTE 1: Software de gestión.
+El presupuesto base de licitación del contrato, mejorable a la baja, es de 8.531,50 €, 
+I.V.A. incluido para el SOFTWARE DE GESTIÓN PARA PROTECCIÓN CIVIL durante 
+4 años naturales más 1 prorrogable, con el siguiente desglose:
+   1 AÑO 2 AÑO 3 AÑO 4 AÑO 5 AÑO TOTAL
+Base 
+Imponible 1.250 € 1.300 € 1.400 € 1.500 € 1.600 € 7.050 €
+I.V.A. 262,50 € 273,00 € 294,00 € 315,00 € 336,00 € 1.480,50 €
+Total… 1.512,50 € 1.573,00 € 1.694,00 € 1.815,00 € 1.936,00 € 8.530,50 €
+LOTE 2: Software de Almacenamiento y seguridad
+El presupuesto base de licitación del contrato, mejorable a la baja, es de 3.449,00 €, 
+I.V.A. incluido para el SOFTWARE DE ALMACENAMIENTO Y SEGURIDAD durante 
+3 años naturales, con el siguiente desglose: 
+  1 AÑO 2 AÑO 3 AÑO TOTAL
+Base Imponible 950,00 € 950,00 € 950,00 € 2.850 €
+I.V.A. 199,50 € 199,50 € 199,50 € 598,50 €
+Total… 1.149,50 € 1.149,50 € 1.149,50 € 3.448,50 €
+LOTE 3: Software de gestión OMIC
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 5 de 52 
+
+--- página 6 ---
+El presupuesto base de licitación del contrato, mejorable a la baja, es de 13.612,50 €, 
+I.V.A. incluido para el  SOFTWARE DE GESTIÓN PARA EL OMIC durante  4 años 
+naturales más 1 prorrogable, con el siguiente desglose: 
+1 AÑO 2 AÑO 3 AÑO 4 AÑO 5 AÑO TOTAL
+Base 
+Imponible 2.250 € 2.250 € 2.250 € 2.250 € 2.250 € 11.250 €
+I.V.A. 472,50 € 472,50 € 472,50 € 472,50 € 472,50 € 2.362,50 €
+Total… 2.722,50 € 2.722,50 € 2.722,50 € 2.722,50 € 2.722,50 € 13.612,50 €
+LOTE 4: Software de Control, Movilidad y Análisis de datos 
+de la Policía Municipal.
+El presupuesto base de licitación del contrato, mejorable a la baja, es de 3.146,00 €, 
+I.V.A. incluido para el  SOFTWARE DE CONTROL, MOVILIDAD Y ANÁLISIS DE 
+DATOS  DE  LA  POLICÍA  LOCAl  durante  4 años  naturales, con  el  siguiente 
+desglose: 
+  1 AÑO 2 AÑO 3 AÑO 4 AÑO TOTAL
+Base 
+Imponible 650 € 650 € 650 € 650 € 2.600 €
+I.V.A. 136,50 € 136,50 € 136,50 € 136,50 € 546,00 €
+Total 786,50 € 786,50 € 786,50 € 786,50 € 3.146,00 €
+4.3. Crédito Presupuesto 
+Existe crédito suficiente y adecuado para atender las obligaciones económicas del 
+presente  contrato  por  el  importe  del  precio  de  licitación  en  la  aplicación 
+presupuestaria del Presupuesto General municipal del año 2026.
+5.- PLAZO DE EJECUCIÓN.  
+5.1. Plazo de Implantación Inicial y Duración del Contrato por Lotes (Art. 29 
+LCSP) 
+De  conformidad  con  lo  dispuesto  en  el  artículo  29  de  la  Ley  9/2017,  de  8  de 
+noviembre,  de  Contratos  del  Sector  Público  (LCSP),  la  duración  del  contrato  se 
+establece atendiendo a la naturaleza de las prestaciones informáticas y al tiempo 
+estrictamente necesario para su correcta ejecución, estructurándose conforme a las 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 6 de 52 
+
+--- página 7 ---
+siguientes fases y plazos: 
+A.  Plazo  de  Implantación,  Parametrización  y  Puesta  en  Servicio  Inicial 
+(Común a los 4 Lotes):
+ El plazo máximo para el despliegue Cloud, entrega de licencias, parametrización 
+inicial y puesta en funcionamiento operativo de las plataformas en cada uno de los 
+cuatro Lotes será de DIEZ (10) DÍAS NATURALES, contados a partir del día siguiente a 
+la formalización del contrato o desde la fecha señalada en la orden de inicio expedida 
+por el Responsable del Contrato. En el supuesto de que la empresa adjudicataria 
+hubiera ofertado un plazo de implantación inferior en su proposición en aplicación de 
+los criterios de adjudicación del pliego, el plazo vinculante será el efectivamente 
+reducido y ofertado. 
+B) Plazo de Duración del Contrato y Mantenimiento por Lotes: 
+Una vez completada y recibida de conformidad la implantación inicial mediante la 
+firma de la correspondiente Acta de Recepción, la duración del contrato para la 
+prestación  de  las  licencias  SaaS,  soporte  técnico  y  mantenimiento  se  fija  de  la 
+siguiente forma:
+• Lote 1 (Software de Gestión Operativa de Protección Civil): Duración ordinaria de 
+CUATRO (4) AÑOS, a contar desde la firma del Acta de Recepción de la implantación 
+inicial. El contrato podrá ser prorrogado expresamente por UN (1) AÑO ADICIONAL 
+por acuerdo del Órgano de Contratación antes de la finalización del plazo inicial (art. 
+29.2 LCSP), previa notificación al contratista con una antelación mínima de dos (2) 
+meses, alcanzando una duración máxima total acumulada de CINCO (5) AÑOS.
+• Lote 2 (Software de Copias de Seguridad Inmutables): Duración de TRES (3) AÑOS 
+de soporte, licenciamiento y mantenimiento, a contar desde la firma del Acta de 
+Recepción de la implantación inicial, sin posibilidad de prórroga.
+• Lote 3 (Software de Gestión Integral de la OMIC): Duración ordinaria de CUATRO (4) 
+AÑOS, a contar desde la firma del Acta de Recepción de la implantación inicial. El 
+contrato podrá ser prorrogado expresamente por UN (1) AÑO ADICIONAL por acuerdo 
+del Órgano de Contratación antes de la finalización del plazo inicial (art. 29.2 LCSP), 
+previa  notificación  al  contratista  con  una  antelación  mínima  de  dos  (2)  meses, 
+alcanzando una duración máxima total acumulada de CINCO (5) AÑOS.
+• Lote 4 (Software de Control, Movilidad y Análisis de Datos de la Policía Local): 
+Duración  ordinaria  de  CUATRO  (4)  AÑOS,  a  contar  desde  la  firma  del  Acta  de 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 7 de 52 
+
+--- página 8 ---
+Recepción de la implantación inicial, sin posibilidad de prórroga.
+5.2. Lugar de entrega, despliegue e integración de los servicios. 
+Las  actuaciones  de  despliegue,  configuración,  acceso  a  plataformas  SaaS  e 
+integración técnica de los servicios se coordinarán con la siguiente dependencia del 
+Ayuntamiento de Isla Cristina:
+ •  Departamento  de  Informática  y  Nuevas  Tecnologías  •  Dirección:  Avda.  del 
+Carnaval, 35 - 21410 Isla Cristina (Huelva). 
+5.3. Examen, pruebas de conformidad y Acta de Recepción (Art. 310 LCSP) 
+Tras el despliegue e implantación inicial de las soluciones en cualquiera de los cuatro 
+lotes, el Responsable del Contrato o el personal técnico del Área de Informática 
+dispondrá de un plazo máximo de DIEZ (10) DÍAS NATURALES para examinar los 
+sistemas, verificar la migración de datos y  realizar las  pruebas de aceptación y 
+conformidad técnica correspondientes. De conformidad  con el artículo 310 de la 
+LCSP: 
+a)  Si  los  servicios  operan  satisfactoriamente  y  cumplen  la  totalidad  de  los 
+requerimientos funcionales del Pliego de Prescripciones Técnicas, se procederá a la 
+firma del Acta de Recepción y Conformidad. 
+b)  En  caso  contrario,  se  rechazarán  las  prestaciones  que  presenten  fallos  de 
+integración, inconsistencias de datos, errores de código, rendimiento insuficiente o 
+incumplimiento  de  exigencias  de  ciberseguridad  (ENS/RGPD),  requiriendo  a  la 
+contratista su subsanación inmediata sin coste adicional para la Administración.
+ 5.4. Gastos incluidos y revisión de precios (Arts. 102 y 103 LCSP) 
+Todos los gastos derivados del licenciamiento, alojamiento Cloud/SaaS, migración de 
+datos, soporte técnico, formación del personal, infraestructura tecnológica y tributos 
+aplicables serán de cuenta y cargo exclusivo de la empresa adjudicataria. Los precios 
+adjudicados  tendrán  el  carácter  de  precios  finales  cerrados,  no  procediendo  en 
+ningún caso la revisión de precios durante toda la vigencia del contrato (art. 103 
+LCSP).
+6.- PROCEDIMIENTO DE ADJUDICACIÓN.
+El presente contrato será adjudicado mediante Procedimiento Abierto Simplificado 
+abreviado y varios criterios de adjudicación, tramitación ordinaria, en los términos 
+del art. 159.6 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público.
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 8 de 52 
+
+--- página 9 ---
+7.- PERFIL DE CONTRATANTE.
+Con el fin de asegurar la transparencia y el acceso público a la información 
+relativa a su actividad contractual, y sin perjuicio de la utilización de otros medios de 
+publicidad, este Ayuntamiento cuenta con un Perfil de Contratante, alojado en la 
+Plataforma de contratación del Sector Público.
+8.-  PRESENTACIÓN  DE  PROPOSICIONES  Y  DOCUMENTACIÓN 
+ADMINISTRATIVA.
+8.1. Medio, plazo, y otras condiciones de presentación. -
+A) De conformidad con el Art.159 de la LCSP, las proposiciones deberán presentarse 
+necesaria y únicamente en la Plataforma de Contratación del Sector Público hasta las 
+23:59 horas del último día de presentación de ofertas. (Se recomienda que tengan en 
+cuenta el horario de soporte de la Plataforma: de lunes a jueves desde las 9:00 horas 
+a 19:00 horas, y viernes de 9:00 horas a 15:00 horas).
+B) Las proposiciones se presentarán dentro del plazo de  DIEZ DÍAS HÁBILES, a 
+contar desde el siguiente al de la publicación del Anuncio de Licitación en el Perfil del 
+Contratante alojado en la Plataforma de Contratación del Sector Público. De acuerdo 
+con la Disposición Adicional 16ª LCSP, el envío por medios electrónicos de las ofertas 
+podrá realizarse  en  dos  fases,  transmitiendo primero  la  huella electrónica  de  la 
+oferta, con cuya recepción se considerará efectuada su presentación a todos los 
+efectos, y después la oferta propiamente dicha, en un plazo máximo de 24 horas. De 
+no efectuarse esta segunda remisión en el plazo indicado, se considerará que la 
+oferta ha sido retirada.
+C) La presente licitación tiene carácter electrónico. Los licitadores deberán preparar y 
+presentar  sus  ofertas  obligatoriamente  de  forma  electrónica,  a  través  de  la 
+herramienta  de  preparación  y  presentación  de  ofertas  de  la  Plataforma  de 
+Contratación del Sector Público, de conformidad con lo previsto en las Disposiciones 
+Adicionales 16ª y 17ª LCSP. La utilización de estos servicios supone: - La preparación 
+y  presentación  de  ofertas  de  manera  telemática  por  el  licitador.  -  La  custodia 
+electrónica de ofertas por el sistema. - La apertura y evaluación de la documentación 
+a través de la plataforma. Por este motivo, para participar en esta licitación, es 
+importante que los licitadores interesados, se registren, en el supuesto de que no lo 
+estén, en la Plataforma de Contratación del Sector Público. La oferta electrónica, toda 
+la  documentación  administrativa  y  cualquier  otro  documento  que  la  acompañe, 
+deberán  estar  firmados  electrónicamente  por  alguno  de  los  sistemas  de  firma 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 9 de 52 
+
+--- página 10 ---
+admitidos  por el art. 10 de la Ley  39/2015, de 1 de octubre, de Procedimiento 
+Administrativo  Común  de  las  Administraciones  Públicas.  Para  garantizar  la 
+confidencialidad del contenido de los sobres hasta el momento de su apertura, la 
+herramienta cifrará dichos sobres en el envío. Una vez realizada la presentación, la 
+herramienta proporcionará a la entidad licitadora un justificante de envío, susceptible 
+de almacenamiento o impresión, con el sello de tiempo.
+D) Cada licitador no podrá presentar más de una proposición ni suscribir ninguna 
+propuesta en unión temporal con otros si lo ha hecho individualmente o figura en 
+más  de  una  unión  temporal. La  infracción  de  estas  normas  dará  lugar  a  la  no 
+admisión de todas las propuestas por él suscritas. (Art. 139 de la LCSP)
+E)  Las  proposiciones  de  los  interesados  deberán  ajustarse  a  los  pliegos  y 
+documentación que rigen esta licitación, y su presentación supone la aceptación 
+incondicionada por el empresario del contenido de la totalidad de sus cláusulas o 
+condiciones, sin salvedad o reserva alguna, así como la autorización a la mesa y al 
+órgano de contratación para consultar los datos recogidos en el Registro Oficial de 
+Licitadores y Empresas Clasificadas del Sector Público o en las listas oficiales de 
+operadores económicos de un Estado miembro de la Unión Europea. 
+F) Las personas licitadoras presentarán, en su caso, una declaración, designando qué 
+documentos  administrativos  y  técnicos  y  datos  presentados  son,  a  su  parecer, 
+constitutivos de ser considerados confidenciales, tal como se indica en el artículo 133 
+de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público. El carácter de 
+confidencial afecta, entre otros, a los secretos técnicos o comerciales, a los aspectos 
+confidenciales de las ofertas y a cualesquiera otras informaciones cuyo contenido 
+pueda ser utilizado para falsear la competencia, ya sea en ese procedimiento de 
+licitación  o  en  otros  posteriores.  El  deber  de  confidencialidad  del  órgano  de 
+contratación, así como de sus servicios dependientes no podrá extenderse a todo el 
+contenido de la oferta de la persona adjudicataria, ni a todo el contenido de los 
+informes  y  documentación  que,  en  su  caso,  genere  directa  o  indirectamente  el 
+órgano de contratación en el curso del procedimiento de licitación. Únicamente podrá 
+extenderse a documentos que tengan una difusión restringida, y en ningún caso a 
+documentos que sean públicamente accesibles.
+8.2. Formalidades. –
+Las proposiciones para tomar parte en la licitación se presentarán en UN SOBRE 
+ÚNICO en forma de archivo electrónico firmado por el licitador o persona que lo 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 10 de 52 
+
+--- página 11 ---
+represente, en los que se indicarán además de la razón social y denominación del 
+licitador, el título de la licitación.
+Toda  la  documentación  deberá  presentarse  redactada  en  castellano.  Las 
+traducciones deberán hacerse en forma oficial (artículo 23 RGLCAP).
+ SOBRE «ÚNICO»
+DOCUMENTACIÓN ADMINISTRATIVA Y CRITERIOS EVALUABLES DE FORMA 
+AUTOMÁTICA.
+La documentación para incluir será
+1.  DECLARACIÓN  RESPONSABLE  DEL  LICITADOR  (DEUC)  (Anexo  I), 
+comprensiva de: que cumple los requisitos previos de conformidad con el art. 140 
+LCSP, los requisitos de solvencia económica, financiera, técnica y profesional, no 
+estar incursas en las prohibiciones para contratar con la Administración conforme el 
+artículo 71 LCSP, 
+Dicha  declaración  responsable  deberá  estar  firmada  y  con  la  correspondiente 
+identificación, en la que el licitador declara cumplir lo siguiente:
+- Que la sociedad está válidamente constituida y que conforme a su objeto social 
+puede presentarse a la licitación, así como que el firmante de la declaración ostenta 
+la debida representación para la presentación de la proposición y de aquella.
+- Que cuenta con la correspondiente clasificación, en su caso, o que cumple con los 
+requisitos de solvencia económica, financiera y técnica o profesional exigidos. (en el 
+caso de que sólo hubiere presentado la solicitud de inscripción en el Registro.
+- Que no está incursa en prohibición de contratar por sí misma ni por extensión como 
+consecuencia de la aplicación del artículo 71.3 LCSP. 
+- Que cumple con la circunstancia de hallarse al corriente del cumplimiento de las 
+obligaciones tributarias y con la seguridad social impuestas por las disposiciones 
+vigentes (artículos 13 y 14 del RGLCAP). 
+Asimismo, en los casos en que el empresario recurra a la solvencia y medios de otras 
+empresas de conformidad con el artículo 75 LCSP, cada una de ellas también deberá 
+presentar una declaración responsable en la que figure la información pertinente 
+para estos casos con arreglo al formulario normalizado del documento europeo único 
+de contratación a que se refiere el artículo 141 LCS
+2.  En caso de licitar mediante Unión Temporal de Empresas, se presentará, además 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 11 de 52 
+
+--- página 12 ---
+de la declaración mencionada anteriormente referida a cada una de las empresas 
+que van a conformar la UTE, declaración responsable de compromiso para proceder a 
+constituirse en una Unión Temporal de Empresas (Anexo IV), debidamente firmada, 
+de conformidad con el artículo 69.1 de la LCSP, y formalizarse en Escritura Pública en 
+caso de ser adjudicatario, debiendo ser firmada por los representantes de cada una 
+de las empresas incluidas en la UTE.
+3.  Documento  de Confidencialidad,  debidamente  firmado,  indicando  aquellos 
+documentos administrativos, técnicos y datos presentados que, a su parecer, son 
+confidenciales (Anexo III).
+4. La OFERTA ECONÓMICA Y MEJORAS será formulada conforme al modelo que se 
+adjunta como Anexo II de este Pliego, formando parte inseparable del mismo. Las 
+ofertas de los contratantes deberán indicar, como partida independiente, el importe 
+del Impuesto sobre el Valor Añadido que deba ser repercutido, se acompañará del 
+listado de precios unitarios.
+El Órgano o la Mesa de Contratación podrán pedir a los candidatos o licitadores que 
+presenten  la  totalidad  o  una  parte  de  los  documentos  justificativos,  cuando 
+consideren  que  existen  dudas  razonables  sobre  la  vigencia  o  fiabilidad  de  la 
+declaración, cuando resulte necesario para el buen desarrollo del procedimiento y, en 
+todo caso, antes de adjudicar el contrato.
+No obstante lo anterior, cuando el empresario esté inscrito en el Registro Oficial de 
+Licitadores y Empresas Clasificadas del Sector Público o figure en una base de datos 
+nacional de un Estado miembro de la Unión Europea, como un expediente virtual de 
+la empresa, un sistema de almacenamiento electrónico de documentos o un sistema 
+de precalificación, y estos sean accesibles de modo gratuito para los citados órganos, 
+no  estará  obligado  a  presentar  los  documentos  justificativos  u  otra  prueba 
+documental de los datos inscritos en los referidos lugares. 
+Las circunstancias relativas a la capacidad, solvencia y ausencia de prohibiciones de 
+contratar a las que se refiere el art. 140 LCSP, deberán concurrir en la fecha final de 
+presentación de ofertas y subsistir en el momento de perfección del contrato.    
+Cada licitador no podrá presentar más de una proposición. Tampoco podrá suscribir 
+ninguna  proposición  en  unión  temporal  con  otras  empresas  si  lo  ha  hecho 
+individualmente o figurar en más de una UTE. La contravención de este principio 
+dará lugar a la desestimación de todas las presentadas.
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 12 de 52 
+
+--- página 13 ---
+La proposición económica se presentará en caracteres claros o escrita a máquina y 
+no se aceptarán aquéllas que tengan omisiones, errores o tachaduras que impidan 
+conocer, claramente, lo que la Administración estime fundamental para considerar la 
+oferta. 
+5) Ficha técnica y descriptiva del fabricante: Documentación técnica 
+oficial  de  cada  producto  ofertado,  con  indicación  expresa  de  la  marca, 
+modelo  exacto,  especificaciones  técnicas  detalladas  y  plazo  de  garantía 
+aplicable.
+6)  Certificados  de  calidad  y  marcado  ambiental:  Acreditación  del 
+marcado CE de los equipos, así como de los certificados de cumplimiento de 
+normas de gestión de la calidad (UNE-EN ISO 9001 o equivalente) y gestión 
+ambiental aplicables
+9.- GARANTÍA PROVISIONAL
+De acuerdo con lo establecido en el artículo 159 LCSP, no será necesario que los 
+licitadores constituyan garantía provisional. 
+10.- CRITERIOS DE ADJUDICACIÓN.        
+De conformidad con lo dispuesto en el artículo 159.6 de la Ley 9/2017, de 8 de 
+noviembre,  de  Contratos  del  Sector  Público  (LCSP),  al  tramitarse  el  presente 
+expediente por el procedimiento abierto simplificado abreviado, la adjudicación del 
+contrato se realizará atendiendo exclusivamente a criterios cuantificables mediante 
+la aplicación de fórmulas automáticas, hasta un máximo de 100 puntos, asignándose 
+el contrato a la proposición que obtenga la mayor puntuación total conforme al 
+siguiente desglose:
+LOTE 1: SOFTWARE DE GESTIÓN Y LOTE 3: SOFTWARE DE GESTIÓN OMIC
+A. Oferta económica (Puntuación máxima: 70 puntos)
+Se  valorará  con  la  máxima  puntuación  (70  puntos)  la  oferta  económica  (Base 
+Imponible) más baja de las recibidas que cumpla íntegramente con los Pliegos. 
+Las  demás  ofertas  se  valorarán  de  forma  proporcional  conforme  a  la  siguiente 
+fórmula: 
+Oferta más baja (Base Imponible)
+Puntuación = 70 x ------------------------------------------------------------------------
+Oferta objeto de valoración (Base Imponible) .
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 13 de 52 
+
+--- página 14 ---
+Notas  y  causas  de  exclusión:  Quedarán  automáticamente  EXCLUIDAS  aquellas 
+ofertas que dejen algún artículo sin ofertar dentro del correspondiente Lote o que 
+superen los precios unitarios máximos o el Presupuesto Base de Licitación fijado para 
+dicho Lote en el Anexo I del PPT
+B. Horas de formación anuales (hasta un máximo de 15 puntos)
+Se  valorará  la  bolsa  de  horas  de  formación  técnica adicional  que  las  empresas 
+licitadoras ofrezcan impartir anualmente para cada Lote, sin coste añadido para el 
+Ayuntamiento,  dirigida  al  personal  municipal  usuario  o  administrador  de  las 
+aplicaciones.
+La asignación de la puntuación a cada licitador se realizará de forma directamente 
+proporcional al número de horas ofertadas en el Lote correspondiente, mediante la 
+aplicación de la siguiente fórmula:
+Pmáx × OfP
+Puntos = -------------------------------------
+MOf
+Donde:
+• Puntos: Puntuación asignada a la oferta del licitador que se evalúa en el Lote 
+(redondeo a dos decimales). 
+• Pmáx: Puntuación máxima asignada al criterio (15,00 puntos). 
+• OfP: Número de horas de formación anuales adicionales ofertadas por la empresa 
+licitadora objeto de valoración para ese Lote. 
+• MOf: Mayor número de horas de formación anuales adicionales ofertadas entre 
+todas las empresas licitadoras admitidas en ese Lote, fijándose un LÍMITE MÁXIMO 
+VALORABLE DE [40] HORAS ANUALES.
+Reglas de aplicación y condiciones de la mejora:
+1. Límite máximo y proporcionalidad: Se establece un tope máximo valorable de [40] 
+horas anuales de formación adicional por Lote. Las ofertas que igualen o superen 
+dicho límite recibirán la puntuación máxima (15,00 puntos), no computándose el 
+exceso a efectos de la fórmula.
+2. Puntuación mínima: La no oferta de horas de formación adicionales (0 horas) se 
+valorará con 0,00 puntos. 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 14 de 52 
+
+--- página 15 ---
+3. Contenido e impartición: Las horas de formación ofertadas deberán ser impartidas 
+por  personal  técnico  cualificado  del  adjudicatario,  coordinándose  las  fechas, 
+contenidos y modalidades (presencial o teleformación) de común acuerdo con el 
+responsable del Contrato. 
+4. Gratuidad e inalterabilidad: Las horas ofertadas como mejora tendrán carácter 
+totalmente gratuito para la Administración, no pudiendo facturarse ni repercutirse 
+importe alguno por este concepto.
+ C. Reducción del plazo de implantación inicial (Hasta 15 puntos)
+Se valorará la reducción en el plazo máximo de implantación, parametrización inicial 
+y puesta en servicio operativo del software sobre el plazo de diez (10) días naturales 
+exigido como mínimo obligatorio en el Pliego de Prescripciones Técnicas, sin coste 
+adicional para el Ayuntamiento.
+La asignación de la puntuación a cada licitador se efectuará de forma directamente 
+proporcional  al  número  de  días  naturales  de  reducción  ofertados  para  el  Lote 
+correspondiente, mediante la aplicación de la siguiente fórmula matemática:
+Pmáx × OfP
+Puntos = -------------------------------------
+MOf
+Donde:
+• Puntos: Puntuación asignada a la oferta del licitador que se evalúa en el Lote 
+(redondeo a dos decimales).
+• Pmáx: Puntuación máxima asignada al criterio (15,00 puntos).
+• OfP: Número de días naturales de reducción del plazo de implantación ofertados 
+por la empresa licitadora objeto de valoración.
+• MOf: Mayor número de días naturales de reducción del plazo ofertados entre todas 
+las empresas licitadoras admitidas en ese Lote.
+Reglas de aplicación y condiciones de la mejora:
+1. Puntuación mínima: La no oferta de reducción de plazo (0 días de antelación, 
+manteniendo el plazo base de 10 días naturales) se valorará con 0,00 puntos.
+2. Límite máximo de reducción valorable: A efectos de garantizar la viabilidad técnica 
+de la parametrización, migración de datos, pruebas de integración y ciberseguridad 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 15 de 52 
+
+--- página 16 ---
+(ENS/RGPD), se fija un LÍMITE MÁXIMO VALORABLE DE REDUCCIÓN DE CINCO (5) 
+DÍAS NATURALES (garantizando un plazo mínimo real de ejecución de 5 días). Las 
+ofertas que propongan reducciones de 5 o más días recibirán la puntuación máxima 
+(15,00 puntos), no computándose el exceso a efectos de la fórmula.
+3.  Carácter  vinculante  y  penalizaciones:  El  plazo  reducido  de  implantación  que 
+resulte ofertado por la empresa adjudicataria se incorporará al contrato con carácter 
+de obligación contractual vinculante, siendo su incumplimiento computable a efectos 
+del régimen de penalizaciones por demora (art. 192 LCSP).
+LOTE 2: Software de Almacenamiento y seguridad y lote 4: Software de Control, 
+Movilidad y Análisis de datos de la Policía Municipal
+A. Oferta económica (Puntuación máxima: 70 puntos)
+ Se  valorará  con  la  máxima  puntuación  (70  puntos)  la  oferta  económica  (Base 
+Imponible) más baja de las recibidas que cumpla íntegramente con los Pliegos. 
+Las  demás  ofertas  se  valorarán  de  forma  proporcional  conforme  a  la  siguiente 
+fórmula: 
+Oferta más baja (Base Imponible)
+Puntuación = 70 x ------------------------------------------------------------------------
+Oferta objeto de valoración (Base Imponible) 
+Notas  y  causas  de  exclusión:  Quedarán  automáticamente  EXCLUIDAS  aquellas 
+ofertas que dejen algún artículo sin ofertar dentro del correspondiente Lote o que 
+superen los precios unitarios máximos o el Presupuesto Base de Licitación fijado para 
+dicho Lote en el Anexo I del PPT.
+B. Mejora: Bolsa de horas de formación técnica adicional (Hasta 15 puntos)
+Se  valorará  la  bolsa  de  horas  de  formación  técnica adicional  que  las  empresas 
+licitadoras ofrezcan impartir anualmente para cada Lote, sin coste añadido para el 
+Ayuntamiento,  dirigida  al  personal  municipal  usuario  o  administrador  de  las 
+aplicaciones.
+La asignación de la puntuación a cada licitador se realizará de forma directamente 
+proporcional al número de horas ofertadas en el Lote correspondiente, mediante la 
+aplicación de la siguiente fórmula matemática: 
+Pmáx × OfP
+Puntos = -------------------------------------
+MOf
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 16 de 52 
+
+--- página 17 ---
+Donde:
+• Puntos: Puntuación asignada a la oferta del licitador que se evalúa en el Lote 
+(redondeo a dos decimales). 
+• Pmáx: Puntuación máxima asignada al criterio (15,00 puntos). 
+• OfP: Número de horas de formación anuales adicionales ofertadas por la empresa 
+licitadora objeto de valoración para ese Lote. 
+• MOf: Mayor número de horas de formación anuales adicionales ofertadas entre 
+todas las empresas licitadoras admitidas en ese Lote, fijándose un LÍMITE MÁXIMO 
+VALORABLE DE HORAS ANUALES.
+Reglas de aplicación y condiciones de la mejora:
+1. Límite máximo y proporcionalidad: Se establece un tope máximo valorable de 40 
+horas anuales de formación adicional por Lote. Las ofertas que igualen o superen 
+dicho límite recibirán la puntuación máxima (15,00 puntos), no computándose el 
+exceso a efectos de la fórmula.
+2. Puntuación mínima: La no oferta de horas de formación adicionales (0 horas) se 
+valorará con 0,00 puntos. 
+3. Contenido e impartición: Las horas de formación ofertadas deberán ser impartidas 
+por  personal  técnico  cualificado  del  adjudicatario,  coordinándose  las  fechas, 
+contenidos y modalidades (presencial o teleformación) de común acuerdo con el 
+responsable del Contrato. 
+4. Gratuidad e inalterabilidad: Las horas ofertadas como mejora tendrán carácter 
+totalmente gratuito para la Administración, no pudiendo facturarse ni repercutirse 
+importe alguno por este concepto.
+C. Mejora: Bolsa de horas de asistencia técnica y soporte especializado (Hasta 15 
+puntos)
+Se  valorará  la  bolsa  de  horas  de  asistencia  técnica,  consultoría  especializada, 
+parametrización avanzada y soporte técnico (presencial o remoto) que las empresas 
+licitadoras ofrezcan añadir anualmente para cada Lote, sin coste adicional para el 
+Ayuntamiento, sobre el mínimo obligatorio exigido en el Pliego de Prescripciones 
+Técnicas.
+La asignación de la puntuación a cada licitador se efectuará de forma directamente 
+proporcional al número de horas adicionales ofertadas para el Lote correspondiente, 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 17 de 52 
+
+--- página 18 ---
+mediante la aplicación de la siguiente fórmula matemática:
+Pmáx × OfP
+Puntos = -------------------------------------
+MOf
+Donde:
+• Puntos: Puntuación asignada a la oferta del licitador que se evalúa en el Lote (con 
+redondeo a dos decimales).
+• Pmáx: Puntuación máxima asignada al criterio (15,00 puntos).
+• OfP: Número de horas de asistencia técnica anuales adicionales ofertadas por la 
+empresa licitadora objeto de valoración en ese Lote.
+• MOf: Mayor número de horas de asistencia técnica anuales adicionales ofertadas 
+entre  todas las  empresas licitadoras  admitidas  en ese Lote,  fijándose un LÍMITE 
+MÁXIMO VALORABLE DE HORAS ANUALES.
+Reglas de aplicación y condiciones de la mejora:
+1. Límite máximo valorable: Se establece un tope máximo valorable de 50 horas 
+anuales de asistencia técnica adicional por Lote. Las ofertas que igualen o superen 
+dicho límite recibirán la puntuación máxima (15,00 puntos), no computándose el 
+exceso a efectos de la fórmula.
+2. Puntuación mínima: La no oferta de horas de asistencia técnica adicionales (0 
+horas) se valorará con 0,00 puntos.
+3.  Ámbito  de  las  horas  ofertadas:  Las  horas  de  asistencia  técnica  podrán  ser 
+consumidas a requerimiento del responsable del Contrato para trabajos de soporte 
+especializado,  parametrización  de  nuevos  módulos,  adaptación  a  cambios 
+normativos o del Esquema Nacional de Seguridad (ENS), resolución de incidencias 
+complejas e integración con otros sistemas municipales.
+4. Carácter gratuito y bolsa no acumulable: Las horas ofertadas tendrán carácter 
+totalmente gratuito para la Administración. Las horas ofertadas para una anualidad 
+que  no  sean  consumidas  dentro  de  dicho  ejercicio  no  generarán  derecho  a 
+compensación económica alguna a favor de la contratista.
+5. Partes de trabajo y control: La ejecución de las horas requerirá la emisión previa 
+de un parte de trabajo o solicitud formal  por el Departamento de Informática y 
+Nuevas Tecnologías, donde se detallará el objeto del trabajo y la estimación de horas 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 18 de 52 
+
+--- página 19 ---
+a deducir de la bolsa.
+RESOLUCIÓN EN CASO DE IGUAL PUNTUACIÓN.
+En el supuesto de que, tras la aplicación de los criterios de adjudicación establecidos 
+para cada Lote, se produjera un empate en la puntuación final entre dos o más 
+proposiciones,  la  igualdad  se  resolverá  mediante  la  aplicación  sucesiva  de  las 
+siguientes reglas:
+1. Preferencias sociales (Art. 147.2 LCSP):
+En  primer lugar,  el empate  se  resolverá a favor de la oferta presentada por la 
+empresa  que,  en  el  momento  de  la  finalización  del  plazo  de  presentación  de 
+proposiciones, acredite las circunstancias sociales reguladas en el artículo 147.2 de 
+la LCSP (mayor porcentaje de trabajadores con discapacidad o en exclusión social, 
+menor porcentaje de contratación temporal o implantación de medidas/planes de 
+igualdad).
+2. Criterio económico subsidiario:
+De no resultar aplicables los criterios sociales anteriores o de persistir el empate 
+entre los licitadores, este se resolverá a favor de la proposición que haya obtenido la 
+mayor puntuación en el Criterio A (Oferta Económica).
+3. Regla final de desempate (Sorteo público):
+Si tras la aplicación de los criterios anteriores se mantuviera la igualdad entre dos o 
+más ofertas, la adjudicación del Lote correspondiente se decidirá mediante sorteo 
+público celebrado por la Mesa o el Órgano de Contratación.
+4. Requerimiento documental de acreditación:
+Producido el empate, el Órgano de Contratación requerirá a los licitadores afectados 
+para  que,  en  un  plazo  insubsanable  de  cinco  (5)  días  hábiles,  aporten  la 
+documentación acreditativa de las cláusulas sociales alegadas.
+11.- RÉGIMEN DE REVISIÓN DE PRECIOS.
+De conformidad con lo previsto en el artículo 103 y siguientes de la Ley 9/2017, de 8 
+de noviembre, de Contratos del Sector Público (LCSP), en el presente contrato NO 
+PROCEDE LA REVISIÓN DE PRECIOS.
+La  naturaleza  de  los  servicios  informáticos  objeto  del  contrato  (modalidad 
+SaaS/Cloud), su plazo de ejecución, su duración y su importe económico determinan 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 19 de 52 
+
+--- página 20 ---
+la improcedencia de establecer mecanismos de revisión periódica o predeterminada 
+de precios.
+En consecuencia, los precios adjudicados para cada uno de los cuatro (4) Lotes se 
+mantendrán  fijos  e  inalterables  durante  toda  la  vigencia  del  contrato  y  de  sus 
+eventuales prórrogas, asumiendo las empresas adjudicatarias la ejecución de las 
+prestaciones a su exclusivo riesgo y ventura (art. 197 LCSP).
+12.- ÓRGANO DE VALORACIÓN Y AUXILIO TÉCNICO
+Dada la naturaleza del presente procedimiento abierto simplificado abreviado y de 
+conformidad con lo previsto en el artículo 326.1 in fine de la LCSP, el órgano de 
+contratación  hace  uso  de  su  facultad  potestativa  de  no  constituir  Mesa  de 
+contratación.
+En sustitución de la Mesa, la valoración de las proposiciones presentadas se llevará a 
+cabo  por  una  Unidad  Técnica  de  Valoración,  conforme  a  la  habilitación  legal 
+contenida en el artículo 159.6.d) de la LCSP.
+Esta unidad técnica, que auxiliará directamente al órgano de contratación en la fase 
+de adjudicación, estará integrada por personal cualificado designado al efecto en el 
+expediente administrativo [159.6.d) LCSP]. Su función principal será la verificación 
+del  cumplimiento  de  los  requisitos  técnicos  y  la  aplicación  de  los  criterios  de 
+adjudicación mediante la utilización de las fórmulas automáticas previstas en este 
+Pliego.
+Procedimiento  de  Valoración  Al  tratarse  de  un  procedimiento  donde  todos  los 
+criterios  son  de  adjudicación  automática  (mediante  fórmulas),  la Unidad  Técnica 
+emitirá  un  informe  técnico-económico  único  donde  se  detallen  las  puntuaciones 
+obtenidas por los licitadores, elevando la correspondiente propuesta de adjudicación 
+al órgano de contratación.
+La apertura de las ofertas se realizará mediante el dispositivo electrónico habilitado 
+en la plataforma de contratación, garantizando que esta no se produce hasta la 
+finalización del plazo de presentación [159.6.d) LCSP].
+13.- PRERROGATIVAS DE LA ADMINISTRACIÓN
+Dentro de los límites y con sujeción a los requisitos y efectos señalados en la LCSP, el 
+Órgano de Contratación, de conformidad con lo previsto en los arts. 190 y 191 de la 
+LCSP, ostenta la prerrogativa de interpretar los contratos administrativos, resolver 
+las dudas que ofrezca su cumplimiento, modificarlos por razones de interés público, 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 20 de 52 
+
+--- página 21 ---
+declarar  la  responsabilidad  imputable  al  contratista  a  raíz  de  la  ejecución  del 
+contrato, suspender la ejecución del mismo, acordar su resolución y determinar los 
+efectos de esta. 
+Igualmente, el Órgano de Contratación ostenta las facultades de inspección de las 
+actividades desarrolladas por los contratistas durante la ejecución del contrato, en 
+los términos y con los límites establecidos en la citada LCSP para cada tipo de 
+contrato. En ningún caso dichas facultades de inspección podrán implicar un derecho 
+general  del  Órgano  de  Contratación  a  inspeccionar  las  instalaciones,  oficinas  y 
+demás emplazamientos en los que el contratista desarrolle sus actividades, salvo que 
+tales  emplazamientos  y  sus  condiciones  técnicas  sean  determinantes  para  el 
+desarrollo  de  las  prestaciones  objeto  del  contrato.  En  tal  caso,  el  Órgano  de 
+Contratación  deberá  justificarlo  de  forma  expresa  y  detallada  en  el  expediente 
+administrativo. 
+La resolución de incidencias surgidas durante la ejecución del contrato se tramitará 
+conforme al procedimiento establecido en el artículo 97 del RGLCAP.
+Los  acuerdos  que  adopte  el  Órgano  de  Contratación  pondrán  fin  a  la  vía 
+administrativa y serán inmediatamente ejecutivos, conforme establece el artículo 
+191.4 del LCSP.
+14.- CALIFICACIÓN DE LA DOCUMENTACIÓN. APERTURA DE PROPOSICIONES. 
+CLASIFICACIÓN Y PROPUESTA DE ADJUDICACIÓN.
+14.1.- CALIFICACIÓN DE LA DOCUMENTACIÓN PREVIA
+La Unidad Técnica de Valoración procederá a la calificación de la documentación 
+administrativa contenida en el archivo electrónico único (Sobre Único). Dado que en 
+este procedimiento los licitadores están exentos de acreditar la solvencia económica 
+y técnica, la unidad técnica verificará únicamente que se ha aportado la declaración 
+responsable conforme al modelo previsto en el Anexo de este Pliego.
+En dicha declaración, el licitador deberá manifestar que cuenta con la capacidad de 
+obrar necesaria, que no está incurso en prohibición de contratar y que cumple con el 
+resto de los requisitos legales para ejecutar la prestación. Si se observasen defectos 
+subsanables, se comunicará a los interesados concediendo un plazo de tres días 
+hábiles para su corrección. 
+El cumplimiento de los requisitos de aptitud deberá concurrir en la fecha final de 
+presentación de ofertas y mantenerse hasta la formalización del contrato.
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 21 de 52 
+
+--- página 22 ---
+14.2. APERTURA DE LAS PROPOSICIONES
+De conformidad  con  lo dispuesto en el artículo 159.6.d) de la LCSP,  el  acto de 
+apertura de las proposiciones no será público. 
+El sistema electrónico de contratación garantizará que el acceso al contenido de las 
+ofertas no se produzca hasta que haya finalizado el plazo de presentación de estas.
+Una vez finalizado dicho plazo, la Unidad Técnica de Valoración tendrá acceso a los 
+archivos electrónicos que contienen la oferta técnica y económica. 
+La transparencia del procedimiento se asegura mediante el acceso abierto de todos 
+los  licitadores  a  las  ofertas  presentadas  y  a  la  documentación  relativa  a  su 
+valoración, que se habilitará de forma informática una vez se notifique la resolución 
+de adjudicación.
+14.3 CLASIFICACIÓN DE LAS OFERTAS Y PROPUESTA DE ADJUDICACIÓN
+La Unidad Técnica de Valoración clasificará las proposiciones por orden decreciente 
+de puntuación atendiendo exclusivamente a los criterios de adjudicación automáticos 
+mediante la aplicación de las fórmulas previstas en el Pliego. 
+Si la Unidad Técnica de Valoración observase defectos u omisiones subsanables en la 
+declaración  responsable aportada  o en la firma electrónica de  la proposición, lo 
+comunicará de forma inmediata al licitador afectado.
+De conformidad con lo previsto en el artículo 141.2 de la LCSP, se concederá al 
+empresario un plazo de tres días hábiles para que corrija los defectos observados o 
+presente la documentación aclaratoria necesaria.
+El  requerimiento  de  subsanación  se  realizará  exclusivamente  a  través  de  la 
+Plataforma de Contratación, en la dirección electrónica habilitada designada por el 
+licitador a efectos de notificaciones.
+Si el licitador no procediera a la subsanación de los defectos en el plazo de tres días 
+hábiles  indicado,  o  si  la  subsanación  no  fuera  correcta,  la  Unidad  Técnica  de 
+Valoración propondrá al órgano de contratación su exclusión de la licitación por falta 
+de acreditación de los requisitos previos de aptitud.
+En el caso de detectarse ofertas incursas en presunción de anormalidad, la unidad 
+técnica tramitará el procedimiento de justificación previsto en el artículo 149 de la 
+LCSP, solicitando el asesoramiento técnico que estime necesario antes de proponer 
+su aceptación o rechazo.
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 22 de 52 
+
+--- página 23 ---
+Finalizada la valoración, la unidad técnica emitirá un informe único que servirá de 
+base para elevar la propuesta de adjudicación al órgano de contratación a favor del 
+licitador que haya obtenido la mayor puntuación. 
+El órgano de contratación requerirá entonces al propuesto como adjudicatario para 
+que presente la documentación justificativa y constituya la garantía definitiva, si esta 
+última fuera exigible según el Pliego.
+El órgano de contratación procederá a requerir mediante comunicación electrónica 
+(Plataforma de Contratación del Sector Público), al licitador que haya presentado la 
+mejor oferta, para que, en el plazo máximo de 7 días hábiles a contar desde el 
+envío, presente:
+Opción “A”. - En caso de que el licitador incluido en la Propuesta de Adjudicación se 
+encuentre  Inscrito  en  el  Registro  Oficial  de  Licitadores  y  Empresas 
+Clasificadas del Sector Público, presentará la siguiente documentación:
+1.-  Certificado  de  la  inscripción  en  el  citado  Registro,  salvo  que  haya 
+autorizado en la Plataforma de contratación al acceso de este.
+2.-  Ficha técnica y descriptiva del fabricante: Documentación técnica 
+oficial  de  cada  producto  ofertado,  con  indicación  expresa  de  la  marca, 
+modelo  exacto,  especificaciones  técnicas  detalladas  y  plazo  de  garantía 
+aplicable.
+3.-  Certificados  de  calidad  y  marcado  ambiental:  Acreditación  del 
+marcado CE de los equipos, así como de los certificados de cumplimiento de 
+normas de gestión de la calidad (UNE-EN ISO 9001 o equivalente) y gestión 
+ambiental aplicables
+No se admitirán, artículos sin su ficha técnica, la no presentación de la 
+ficha técnica será considerado como motivo suficiente para la exclusión de 
+la oferta presentada por el licitador.
+ Opción “B”. - En caso de que el licitador incluido en la Propuesta de Adjudicación 
+NO  se encuentre  Inscrito en el Registro Oficial de Licitadores y Empresas 
+Clasificadas del Sector Público, pero haya presentado la solicitud antes de la 
+finalización  del  plazo  de  presentación  de  ofertas,  deberá  presentar  la  siguiente 
+documentación:
+1.- Acreditación de la personalidad del empresario. La capacidad de obrar de 
+las empresas españolas que fuesen personas jurídicas se acreditará mediante la 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 23 de 52 
+
+--- página 24 ---
+Escritura de constitución y  de  modificación,  en su caso, inscritas  en el  Registro 
+Mercantil, cuando este requisito fuera exigible conforme a la legislación mercantil 
+que le sea aplicable. Si no lo fuere, la acreditación de la capacidad de obrar se 
+realizará  mediante  la  escritura  o  documento  de  constitución,  de  modificación, 
+estatutos o acto fundacional, en los que consten las normas por las que se regula su 
+actividad, inscritos, o en su caso, en el correspondiente Registro Oficial. Si se tratase 
+de personas físicas presentarán copia del Documento Nacional de Identidad, o en su 
+caso,  el  documento  que  haga  sus  veces.  Igualmente,  presentará  el  Alta  como 
+Autónomo. 
+2.- Acreditación de la representación. Bastanteo de poderes. En el supuesto 
+de que el licitador esté inscrito en el Registro Oficial de Licitadores y Empresas 
+Clasificadas del Sector Público, no será necesaria la presentación del bastanteo de 
+poder  realizado  por  un  Letrado  del  Ayuntamiento  de  Isla  Cristina  cuando  dicha 
+representación conste debidamente inscrita. En caso contrario, los que actúen o 
+firmen proposiciones en nombre de otros presentarán poder bastanteado al efecto 
+por  Letrado  de  este  Ayuntamiento,  debiendo  presentarse  para  llevar  a  cabo  la 
+diligencia de bastanteo, al menos, 24 horas antes de la terminación del plazo de 
+presentación de la documentación requerida, asimismo, deberá abonar las tasas de 
+bastanteo.
+3.-  Documento  de  compromiso  de  constituir  una  Unión  Temporal  de 
+Empresas. Cuando dos o más empresas presenten oferta conjunta de licitación 
+constituyendo  agrupación  temporal,  cada  una  acreditará  su  personalidad  y 
+capacidad, debiendo indicar los nombres y circunstancias de los empresarios que la 
+suscriben, la participación de cada uno de ellos, y designar la persona o entidad que 
+durante la vigencia del contrato ha de ostentar la plena representación de todos 
+frente a la Administración.
+Caso de resultar adjudicataria la agrupación de empresas deberá constituirse en 
+escritura  pública.  En  caso  de  uniones  temporales  de  empresario,  la  garantía 
+provisional podrá constituirse por una o varias de las empresas participantes en la 
+unión, siempre que en conjunto se alcance la cuantía requerida por el órgano de 
+contratación y garantice solidariamente a todos los integrantes de la unión temporal 
+(art. 61.1 de RGLCAP)
+4.- Declaración empresas extranjeras.  Las  empresas extranjeras presentarán 
+declaración de someterse a la Jurisdicción de los Juzgados y Tribunales españoles de 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 24 de 52 
+
+--- página 25 ---
+cualquier orden, para todas las incidencias que de modo directo o indirecto pudieran 
+surgir del contrato, con renuncia, en su caso, al fuero jurisdiccional extranjero que 
+pudiera corresponder al licitador.
+5.-  Aportar  los  documentos  acreditativos  de  estar  al  corriente  con  sus 
+obligaciones tributarias y de la Seguridad Social.
+Para acreditar el cumplimiento de las obligaciones tributarias y con la Seguridad 
+Social deberá presentar originales o copias auténticas de los siguientes documentos, 
+admitiéndose  certificados  emitidos  por  medios  electrónicos,  informáticos  o 
+telemáticos siempre que cumplan los requisitos establecidos en la Ley:
+- Certificaciones expedidas por los órganos competentes en cada caso, con la forma 
+y con los efectos previstos en los arts. 13, 14, 15 y 16 del RGLCAP, acreditativas de 
+hallarse  al  corriente  del  cumplimiento  de  las  obligaciones  tributarias  y  con  la 
+Seguridad Social impuestas por las disposiciones vigentes.
+- Alta en el Impuesto de Actividades Económicas, referida al ejercicio corriente, o el 
+último recibo, completado con una declaración responsable de no hallarse dado de 
+baja en la matrícula del citado impuesto.
+6.-  Ficha técnica y descriptiva del fabricante: Documentación técnica 
+oficial  de  cada  producto  ofertado,  con  indicación  expresa  de  la  marca, 
+modelo  exacto,  especificaciones  técnicas  detalladas  y  plazo  de  garantía 
+aplicable.
+7.-  Certificados  de  calidad  y  marcado  ambiental:  Acreditación  del 
+marcado CE de los equipos, así como de los certificados de cumplimiento de 
+normas de gestión de la calidad (UNE-EN ISO 9001 o equivalente) y gestión 
+ambiental aplicables
+No se admitirán, oferta sin su ficha técnica, la no presentación de la ficha 
+técnica será considerado como motivo suficiente para la exclusión de la 
+oferta presentada por el licitador.
+15.- OTRAS OBLIGACIONES DE LA CONTRATISTA
+15.1 Promoción de la igualdad entre mujeres y hombres
+De conformidad con lo establecido en el artículo 45 de la Ley Orgánica 3/2007, de 22 
+de marzo, para la igualdad efectiva de mujeres y hombres, deberán acreditar la 
+elaboración y aplicación efectiva del Plan de Igualdad previsto en el mismo:
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 25 de 52 
+
+--- página 26 ---
+1.  Las  personas  licitadoras  que  tengan  más  de  doscientas  cincuenta  personas 
+trabajadoras.
+2. Cuando así se establezca en el Convenio Colectivo que sea de aplicación, en los 
+términos previstos en el mismo.
+3. Cuando la autoridad laboral hubiera acordado en un procedimiento sancionador la 
+sustitución de las sanciones accesorias por la elaboración y aplicación de dicho plan, 
+en los términos que se fijen en el indicado acuerdo.
+A tal efecto las personas licitadoras acreditarán de forma previa a la adjudicación la 
+elaboración, aplicación y vigencia efectiva del citado Plan, entre otros, por alguno de 
+los siguientes medios:
+- Copia, que tenga carácter de auténtica o autenticada conforme a la legislación 
+vigente, del texto original del Plan de Igualdad firmado por los componentes de la 
+comisión negociadora.
+- Copia auténtica del Acta de la comisión negociadora por la que se aprueba el Plan 
+de Igualdad, con expresión de las partes que lo suscriban.
+- Declaración del representante de la empresa indicando la referencia de publicación 
+del Plan de Igualdad o del Convenio en que aquél se inserte en el Boletín Oficial 
+correspondiente.
+- Poseer la persona licitadora el distintivo “Igualdad en la Empresa” y encontrarse el 
+mismo  vigente.  Uno  de  los  requisitos  generales  de  las  entidades  candidatas  a 
+obtener el distinto “Igualdad en la Empresa” es, según lo dispuesto en el artículo 4.2. 
+f) del Real Decreto 1615/2009, de 26 de octubre, “Haber implantado un Plan de 
+Igualdad, en aquellos supuestos en que la empresa esté obligada a su implantación 
+por imperativo legal o convencional. En los demás supuestos, haber implantado un 
+Plan de Igualdad o políticas de igualdad”.
+Sin perjuicio de lo anterior, en el supuesto que la vigencia o aplicación efectiva de un 
+Plan de Igualdad ofrezca dudas a la Mesa de contratación (por ejemplo, no consta el 
+período de vigencia o éste ha transcurrido ya sin que se conozca si se ha prorrogado 
+o no) también podría solicitarse a la persona licitadora que presente una declaración 
+relativa a que la misma aplica efectivamente el Plan de Igualdad firmada por la 
+representación de la empresa y de los trabajadores.
+En dicho Plan se fijarán los concretos objetivos de igualdad a alcanzar, las estrategias 
+y prácticas a adoptar para su consecución, así como el establecimiento de sistemas 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 26 de 52 
+
+--- página 27 ---
+eficaces de seguimiento y evaluación de los objetivos fijados.
+15.2.  Las  personas  licitadoras  que  tengan  un  número  de  50  o  más  personas 
+trabajadoras en su plantilla estarán obligadas a contar con, al menor, un dos por 
+ciento  de  personas  trabajadoras  con  discapacidad  o  a  adoptar  las  medidas 
+alternativas previstas en el Real Decreto 364/2005, de 8 de abril, por el que se regula 
+el cumplimiento alternativo con carácter excepcional de la cuota de reserva en favor 
+de  personas  trabajadoras  con  discapacidad.  A  tal  efecto,  deberán aportar, de 
+forma previa a la adjudicación, en todo caso, un certificado de la empresa 
+en que conste tanto el número global de personas trabajadoras de plantilla 
+como el número particular de personas trabajadoras con discapacidad en la 
+misma.  En  el  caso  de  haberse  optado  por  el  cumplimiento  de  las  medidas 
+alternativas legalmente previstas, deberán aportar una copia de la declaración de 
+excepcionalidad  y  una  declaración  con  las  concretas  medidas  aplicadas.  Las 
+personas licitadoras que tengan menos de 50 personas trabajadoras en su plantilla 
+deberán aportar, en todo caso, un certificado acreditativo del número de personas 
+trabajadoras de plantilla.
+15.3. En caso de que el licitador no presente la documentación indicada en los 
+puntos anteriores, se entenderá que el licitador ha retirado su oferta, procediéndose 
+a  exigir el  importe  del  3%  del  presupuesto  base  de  licitación,  IVA  excluido,  en 
+concepto  de  penalidad,  de  conformidad  con  el  art.  150.2  LCSP.  En  tal  caso  se 
+procederá a requerir la documentación al siguiente candidato en puntuación.
+15.4. Si en el ejercicio de sus funciones la Mesa de Contratación, o en su defecto, el 
+Órgano de Contratación, tuviera indicios fundados de conductas colusorias en el 
+procedimiento de contratación, en el sentido definido en el artículo 1 de la Ley 
+15/2007, de 3 de julio, de Defensa de la Competencia, los trasladará con carácter 
+previo  a  la  adjudicación  del  contrato  a  la  Comisión  Nacional  de  Mercados  y  la 
+Competencia  o,  en  su  caso,  a  la  autoridad  de  competencia  autonómica 
+correspondiente, a efectos de que a través de  un  procedimiento sumarísimo se 
+pronuncie sobre aquellos. La remisión de dichos indicios tendrá efectos suspensivos 
+en el procedimiento de contratación. Si la remisión la realiza la Mesa de Contratación 
+dará cuenta de ello al órgano de contratación. 
+15.5 El resultado de los actos de la Mesa de Contratación de calificación, admisión 
+o exclusión de las ofertas se publicará en el perfil de contratante alojado en la 
+Plataforma de Contratación. Se excluirá aquella información que no sea susceptible 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 27 de 52 
+
+--- página 28 ---
+de publicación de conformidad con la legislación vigente. Todo ello, sin perjuicio de la 
+necesaria comunicación o notificación, según proceda, a los licitadores afectados.
+Dicho acto será susceptible de recurso potestativo de reposición ante el órgano de 
+contratación, de conformidad con lo previsto en el artículo 121 LPAC. 
+16.- ACLARACIÓN DE OFERTAS.
+La  Mesa  podrá  solicitar  al  licitador  precisiones  o  aclaraciones  sobre  las  ofertas 
+presentadas, ajustes en las mismas o información complementaria relativa a ellas, 
+siempre que no suponga una modificación de los elementos fundamentales de la 
+oferta o de la licitación pública, en particular de las necesidades y de los requisitos 
+establecidos  en  el  anuncio  de  licitación  o  en  el  documento  descriptivo,  cuando 
+implique  una  variación  que  pueda  falsear  la  competencia  o  tener  un  efecto 
+discriminatorio (artículo 176 LCSP).
+17.- OFERTAS ANORMALMENTE BAJAS.
+De conformidad con lo dispuesto en el artículo 149.2 de la Ley 9/2017, de 8 de 
+noviembre, de Contratos del Sector Público (LCSP), al utilizarse una pluralidad de 
+criterios  de  adjudicación,  la  apreciación  de  que  una  proposición  no  puede  ser 
+cumplida  como  consecuencia  de  la  inclusión  de  valores  anormales  o 
+desproporcionados se determinará, de forma independiente para cada uno de los 
+cuatro  (4)  Lotes,  teniendo  en  cuenta  la  TOTALIDAD  DE  LOS  CRITERIOS  DE 
+ADJUDICACIÓN sobre una puntuación total máxima de 100 puntos.
+17.1. Parámetros objetivos de apreciación sobre el conjunto de la oferta por Lote:
+La presunción de anormalidad o desproporción se evaluará sobre la Puntuación Total 
+Global (P_total = Puntuación Económica + Puntuación Cualitativa/Mejoras) obtenida 
+por cada oferta en el Lote correspondiente, conforme a las siguientes reglas:
+A) Un solo licitador:
+Se presumirá anormalmente baja la propuesta cuando la baja económica ofertada 
+sea superior al 15 % del Presupuesto Base de Licitación del Lote Y la puntuación 
+obtenida en el conjunto de los restantes criterios cualitativos/técnicos sea inferior al 
+50 % de la puntuación máxima asignable a los mismos.
+B) Dos licitadores:
+Se presumirá anormalmente baja la oferta cuya Puntuación Total Global sea superior 
+en más de 10 puntos a la puntuación total de la otra oferta, siempre que su baja 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 28 de 52 
+
+--- página 29 ---
+económica supere en más de 10 puntos porcentuales a la baja ofertada por el otro 
+licitador en dicho Lote.
+C) Tres o más licitadores:
+Se presumirá que una oferta es anormalmente baja cuando concurra cualquiera de 
+las siguientes circunstancias objetivas en el Lote:
+ 1. Sobre la Puntuación Total Conjunta: Que la Puntuación Total Global (P_total) de la 
+oferta sea superior en más de un 10 % a la media aritmética de las puntuaciones 
+totales obtenidas por el conjunto de las ofertas admitidas en el Lote.
+ 2. Por Desviación Combinada (Precio + Calidad): Que la baja económica ofertada sea 
+superior en más de 10 puntos porcentuales a la media de las bajas del conjunto de 
+licitadores  del  Lote,  Y  la  puntuación  obtenida  en  el  resto  de  los  criterios  de 
+adjudicación sea inferior a la media aritmética de las puntuaciones obtenidas en 
+dichos criterios.
+ (Regla de cálculo: Cuando en un Lote concurran más de 5 licitadores, para el cálculo 
+de las medias aritméticas se excluirán previamente la oferta con mayor Puntuación 
+Total Global y la de menor Puntuación Total Global).
+17.2. Procedimiento de contradicción y justificación (Art. 149.4 LCSP):
+Cuando una oferta incurra en presunción de anormalidad, la Mesa u Órgano de 
+Contratación  requerirá  al  licitador  concediéndole  un  plazo  de  CINCO  (5)  DÍAS 
+HÁBILES  para que  justifique  y  desglose  pormenorizadamente  la viabilidad  de  su 
+propuesta, motivando de manera detallada:
+a) El estricto cumplimiento de los costes salariales del personal conforme al Convenio 
+Colectivo aplicable.
+b)  El  desglose  de  los  costes  directos  e  indirectos  de  ejecución  y  el  beneficio 
+industrial.
+c) La viabilidad técnica y económica del cumplimiento de las bolsas de horas de 
+formación y asistencia técnica ofertadas sin detrimento de la calidad ni riesgo para la 
+prestación contractual.
+3. Aceptación o rechazo de la oferta (Art. 149.6 LCSP):
+El Órgano de Contratación, a la vista de la motivación del licitador y previo informe 
+técnico  del  Departamento  de  Informática  y  Nuevas  Tecnologías,  acordará  la 
+aceptación o rechazo de la oferta. Se rechazará imperativamente la oferta si se 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 29 de 52 
+
+--- página 30 ---
+comprueba  que  no  garantiza  la  ejecución  del  contrato  o  incumple  la  normativa 
+laboral, social o ambiental.
+18.- SUCESIÓN EN EL PROCEDIMIENTO.
+Si  durante  la  tramitación  del  procedimiento  de  adjudicación  y  antes  de  la 
+formalización  del  contrato  se  produjese  una  operación  de  fusión,  escisión, 
+transmisión del patrimonio empresarial o de una rama de la actividad, le sucederá a 
+la empresa licitadora o candidata en su posición en el procedimiento la sociedad 
+absorbente, la resultante de la fusión, la beneficiaria de la escisión o la adquirente 
+del patrimonio empresarial o de la correspondiente rama de actividad.
+Para que surta efectos la sucesión, la nueva entidad deberá acreditar formalmente 
+ante el Órgano de Contratación el cumplimiento de las condiciones de capacidad, la 
+ausencia de prohibición de contratar y la posesión de la solvencia técnica, económica 
+y certificaciones exigidas en el pliego para el Lote correspondiente.
+19.- GARANTÍA DEFINITIVA
+Conforme a la letra f) del punto 6 del artículo 159 LCSP, no es exigible la garantía 
+definitiva.
+ 20.- ADJUDICACIÓN 
+ El órgano de contratación procederá a adjudicar el contrato dentro de los cinco días 
+hábiles siguientes a la recepción de la documentación requerida al contratista. Será 
+motivada y se notificará a los candidatos y licitadores, debiendo ser publicada en el 
+perfil de contratante en el plazo de 15 días (art. 151.1 LCSP).
+Sin perjuicio de lo establecido en el apartado 1 del artículo 155 LCSP, la notificación y 
+la publicidad a que se refiere el aparado anterior deberá contener la información 
+necesaria  que  permita  a  los  interesados  en  el  procedimiento  de  adjudicación 
+interponer recurso suficientemente fundado contra la decisión de adjudicación, y 
+entre ella en todo caso deberá figurar la siguiente:
+a) En relación con los candidatos descartados, la exposición resumida de las razones 
+por las que se haya desestimado su candidatura.
+b) Con respecto a los licitadores excluidos del procedimiento de adjudicación, los 
+motivos  por  los  que  no  se  haya  admitido  su  oferta,  incluidos,  en  los  casos 
+contemplados  en  el  artículo  126.7  y  8  LCSP,  los  motivos  de  la  decisión  de  no 
+equivalencia o de la decisión de que las obras, los suministros o los servicios no se 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 30 de 52 
+
+--- página 31 ---
+ajustan a los requisitos de rendimiento o las exigencias funcionales; y un desglose de 
+las valoraciones asignadas a los distintos licitadores, incluyendo el adjudicatario. 
+c) En todo caso, el nombre del adjudicatario, las características y ventajas de la 
+proposición del adjudicatario determinantes de que haya sido seleccionada la oferta 
+de  este  con  preferencia  respecto  de  las  que  hayan  presentado  los  restantes 
+licitadores cuyas ofertas hayan sido admitidas; y, en su caso, el desarrollo de las 
+negociaciones o el diálogo con los licitadores.
+La  notificación  se  realizará  por  medios  electrónicos  de  conformidad  con  lo 
+establecido en la disposición adicional decimoquinta LCSP. En el caso de que la 
+Administración contratante no pueda hacer frente a dicha obligación, operarán las 
+excepciones previstas en el apartado tercero y cuarto de la referida D. A. 15ª LCSP. 
+En ningún caso podrá declararse desierta una licitación cuando exija alguna oferta o 
+proposición que sea admisible de acuerdo con los criterios que figuran en el pliego. 
+22.- PERFECCIÓN Y FORMALIZACIÓN DEL CONTRATO.
+El contrato se perfeccionará mediante la formalización. 
+De  conformidad  con  el  art.159.6.  g)  LCSP,  la  formalización  del  contrato  podrá 
+efectuarse mediante la firma de la aceptación por el contratista de la resolución de la 
+adjudicación, la cual se adjuntará a la notificación electrónica de la adjudicación y 
+deberá presentarla debidamente firmada electrónicamente, en el plazo de 3 días 
+hábiles.  No  obstante,  en  caso  de  solicitarlo  el  adjudicatario,  se  procederá  a  su 
+formalización.
+23.- RIESGO Y VENTURA. 
+La ejecución del contrato se realizará a riesgo y ventura del contratista, según lo 
+dispuesto por el artículo 197 LCSP, sin perjuicio de los supuestos de fuerza mayor 
+que prevé el artículo 239 LCSP. 
+24.- ABONOS A LA CONTRATISTA.
+El pago del precio del contrato se realizará en la forma establecida en el artículo 198 
+LCSP.
+El pago se realizará contra factura, expedida con la normativa vigente, debidamente 
+conformada por la Unidad que reciba el trabajo o, en su caso, por el designado como 
+responsable del contrato.
+La Administración tendrá la obligación de abonar el precio dentro de los treinta días 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 31 de 52 
+
+--- página 32 ---
+siguientes  a  la  fecha  de  aprobación  de  las  certificaciones  de  obra  o  de  los 
+documentos que acrediten la conformidad con lo dispuesto en el contrato de los 
+bienes  entregados  o  servicios  prestados,  sin  perjuicio  de  lo  establecido  en  el 
+apartado 4 del artículo 210, y si se demorase, deberá abonar al contratista, a partir 
+del  cumplimiento  de  dicho  plazo  de  treinta  días  los  intereses  de  demora  y  la 
+indemnización por los costes de cobro en los términos previstos en la Ley 3/2004, de 
+29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en 
+las operaciones comerciales. Para que haya lugar al inicio del cómputo de plazo para 
+el  devengo  de  intereses,  el  contratista  deberá  haber  cumplido  la  obligación  de 
+presentar la factura ante el registro administrativo correspondiente en los términos 
+establecidos en la normativa vigente.
+Sin perjuicio de lo establecido en el apartado 4 del artículo 210 y en el apartado 1 del 
+artículo 243 LCSP, la Administración deberá aprobar las certificaciones de obra o los 
+documentos que acrediten la conformidad con lo dispuesto en el contrato de los 
+bienes entregados o servicios prestados dentro de los treinta días siguientes a la 
+entrega efectiva de los bienes o prestación del servicio.
+En todo caso, si el contratista incumpliera el plazo de treinta días para presentar la 
+factura ante el registro administrativo correspondiente en los términos establecidos 
+en la normativa vigente sobre factura electrónica, el devengo de intereses no se 
+iniciará hasta transcurridos treinta días desde la fecha de la correcta presentación de 
+la factura, sin que la Administración haya aprobado la conformidad, si procede, y 
+efectuado el correspondiente abono (art. 198.4 LCSP).
+Si la demora en el pago fuese superior a cuatro meses, el contratista podrá proceder, 
+en su caso, a la suspensión del cumplimiento del contrato, debiendo comunicar a la 
+Administración,  con  un  mes  de  antelación,  tal  circunstancia,  a  efectos  del 
+reconocimiento de los derechos que puedan derivarse de dicha suspensión, en los 
+términos establecidos en la LCSP (art. 198.5 LCSP).
+Si la demora de la Administración fuese superior a seis meses, el contratista tendrá 
+derecho, asimismo, a resolver el contrato y al resarcimiento de los perjuicios que 
+como consecuencia de ello se le originen (198.6 LCSP). 
+25.- MODIFICACIÓN DEL CONTRATO.
+El órgano de contratación podrá acordar, una vez perfeccionado el contrato y por 
+razones de interés público, modificaciones en el mismo, sin perjuicio de los supuestos 
+previstos en la LCSP respecto a la sucesión en la persona del contratista, cesión del 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 32 de 52 
+
+--- página 33 ---
+contrato,  revisión  de  precios  y  ampliación  del  plazo  de  ejecución,  los  contratos 
+administrativos solo podrán ser modificados por razones de interés público en los 
+casos y en la forma previstos en los arts. 203 y siguientes de la LCSP y de acuerdo 
+con  el  procedimiento  regulado  en  el  artículo 191  LCSP,  con  las  particularidades 
+previstas en el artículo 207 LCSP. 
+26.- SUSPENSIÓN DEL CONTRATO. 
+El Ayuntamiento podrá acordar por razones de interés público la suspensión de la 
+ejecución del contrato. Igualmente procederá la suspensión del contrato si se diera la 
+circunstancia señalada en el artículo 208 LCSP. 
+Los efectos de la suspensión del contrato se regirán por lo dispuesto en el artículo 
+208 LCSP, así como en los preceptos concordantes del RGLCAP. 
+27.- CESIÓN Y SUBCONTRATACIÓN DEL CONTRATO.
+27.1. Marco Normativo y Fundamentación de Ciberseguridad
+El presente clausulado regula las condiciones, límites y exigencias administrativas 
+aplicables a la subcontratación y a la cesión del contrato para el expediente de 
+contratación de servicios informáticos en modalidad de suscripción Software como 
+Servicio (SaaS), migración de datos, parametrización inicial, mantenimiento y soporte 
+técnico del Ayuntamiento de Isla Cristina (Huelva), coordinado técnicamente por el 
+Departamento de Informática y Nuevas Tecnologías (sito en Avda. del Carnaval, n.º 
+35, 21410 Isla Cristina).
+De conformidad con lo dispuesto en el artículo 215.2.e) de la Ley 9/2017, de 8 de 
+noviembre, de Contratos del Sector Público (LCSP), dada la naturaleza crítica de las 
+soluciones tecnológicas requeridas, la necesidad de garantizar la soberanía digital de 
+los datos municipales y los imperativos de ciberseguridad derivados del Esquema 
+Nacional de Seguridad (ENS, Real Decreto 311/2022) y del Reglamento General de 
+Protección de Datos (RGPD, Reglamento UE 2016/679), el Órgano de Contratación 
+establece un régimen restringido de subcontratación fundado en el interés público y 
+en la protección de la información corporativa.
+27.2.  Prohibición  de  Subcontratación  de  Prestaciones  Principales  (Art. 
+215.2.e LCSP).
+De  acuerdo  con  lo  previsto  en  el  artículo  215.2.e)  de  la  LCSP,  se  prohíbe 
+expresamente la subcontratación de las prestaciones principales que constituyen el 
+núcleo funcional y operativo de cada uno de los cuatro (4) Lotes que integran la 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 33 de 52 
+
+--- página 34 ---
+licitación. Dichas tareas críticas deberán ser ejecutadas directamente con el personal 
+técnico especializado, los medios propios y la infraestructura Cloud atribuible a la 
+entidad que resulte adjudicataria.
+La  delimitación  de  las  tareas  críticas  cuyo  desarrollo  directo  es  de  obligado 
+cumplimiento por el contratista principal comprende:
+ Lote  1  (Software  de  Gestión  Operativa  de  Protección  Civil  y 
+Emergencias):  Queda  terminantemente  prohibida  la  subcontratación  de  las 
+actividades de desarrollo de código fuente, despliegue y alojamiento en la nube, 
+parametrización de planes de autoprotección, mantenimiento del módulo GIS/CAD, 
+administración de la App móvil de intervención 24x7 y la custodia directa de la base 
+de datos de emergencias municipales.
+ Lote 2 (Software de Copias de Seguridad y Protección de Datos): Queda 
+prohibida  la  subcontratación  de  la  administración  del  software  de  backup,  la 
+configuración y gestión de los repositorios inmutables con tecnología WORM / Object 
+Lock  anti-ransomware,  la  custodia  de  las  copias  de  respaldo  corporativas  y  las 
+labores directas de recuperación ante desastres (Disaster Recovery).
+ Lote  3  (Software  de  Gestión  Integral  de  la  OMIC):  Queda  prohibida  la 
+subcontratación  de  la  gestión  de  la  plataforma  procedimental  de  consumo,  la 
+custodia  de  expedientes  sancionadores  y  de  mediación,  así  como la  integración 
+técnica y mantenimiento de los conectores con la Sede Electrónica municipal.
+ Lote 4 (Software de Control, Movilidad y Análisis de Datos de la Policía 
+Local): Queda prohibida la subcontratación del procesamiento de lecturas OCR de 
+vehículos en movilidad, el desarrollo de la App de intervención policial, el alojamiento 
+Cloud de datos de tráfico y la custodia de las analíticas e historiales de consulta de la 
+Policía Local.
+27.33. Régimen y Requisitos para la Subcontratación de Tareas Accesorias 
+(Art. 215 LCSP)
+27.3.1. Alcance de las prestaciones subcontratables.
+Únicamente se autorizará la subcontratación de prestaciones accesorias, secundarias 
+o auxiliares a la prestación principal (tales como la impartición presencial de jornadas 
+específicas  de  formación  al  personal  municipal  o  servicios  auxiliares  de  soporte 
+técnico  de  primer  nivel  fuera  de  horario  lectivo),  siempre  que  no  afecten  a  la 
+seguridad de la información ni al núcleo funcional de las aplicaciones.
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 34 de 52 
+
+--- página 35 ---
+27.3.2. Procedimiento de comunicación y autorización previa
+Para  que  la  subcontratación  de  tareas  accesorias  surta  efectos  jurídicos,  el 
+contratista deberá cumplir estrictamente el siguiente procedimiento:
+1. Comunicación  previa:  Notificar  por  escrito  al  responsable  del  Contrato  y  al 
+Departamento de Informática y Nuevas Tecnologías con una antelación mínima de 
+DIEZ (10) DÍAS HÁBILES a la fecha prevista para la celebración del subcontrato.
+2. Acreditación  de  aptitud  del  subcontratista:  La  comunicación  deberá 
+acompañarse de la siguiente documentación del subcontratista:
+o Acreditación de la capacidad de obrar y representación jurídica.
+o Declaración  responsable  firmada  de  no  hallarse  incurso  en  ninguna  de  las 
+prohibiciones de contratar contempladas en el artículo 71 de la LCSP.
+o Certificaciones  vigentes  de  hallarse  al  corriente  en  el  cumplimiento  de  las 
+obligaciones tributarias (AEAT y Comunidad Autónoma) y con la Seguridad Social.
+o Documentación  acreditativa  de  disponer  de  la  solvencia  técnica  y  profesional 
+necesaria para la ejecución de la prestación accesoria encomendada.
+3. Límites y pagos a subcontratistas (Arts. 216 y 217 LCSP): El contratista 
+principal quedará obligado a pactar con los subcontratistas plazos de pago que no 
+superen los límites establecidos en la Ley 3/2004, de 29 de diciembre, por la que se 
+establecen medidas de lucha contra la morosidad en las operaciones comerciales. El 
+Ayuntamiento de Isla Cristina podrá comprobar el estricto cumplimiento de los pagos 
+a  subcontratistas  mediante  la  exigencia  de  los  correspondientes  justificantes 
+bancarios
+27.4. Régimen de Cesión del Contrato (Art. 214 LCSP)
+Los derechos y obligaciones emergentes del presente contrato para cualquiera de los 
+cuatro  (4)  Lotes  adjudicados  únicamente  podrán  ser  cedidos  por  la  empresa 
+contratista  a  un  tercero  cuando  concurran  acumulativamente  los  siguientes 
+requisitos regulados en el artículo 214 de la LCSP:
+Requisito Legal (Art. 
+214 LCSP) Exigencia y Condición Técnica Aplicable
+Porcentaje Mínimo de 
+Ejecución  y 
+Autorización  (Art. 
+214.2.a)
+  Obtener la autorización previa y explícita del Órgano de 
+Contratación (Alcaldía / Junta de Gobierno Local). La cesión 
+solo será admisible si la empresa cedente ha ejecutado al 
+menos  un  veinte  por  ciento  (20  %) del  importe  de 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 35 de 52 
+
+--- página 36 ---
+adjudicación  del  Lote  o  ha  completado  y  firmado  a 
+satisfacción del Ayuntamiento el Acta de Recepción de 
+la fase de implantación y puesta en marcha inicial 
+del software.
+Capacidad,  Solvencia 
+y Ciberseguridad del 
+Cesionario  (Art. 
+214.2.b)
+Que la entidad cesionaria disponga de plena capacidad de 
+obrar, no esté incursa en prohibición de contratar (art. 71 
+LCSP) y acredite documentalmente cumplir con la misma 
+solvencia  económica,  financiera,  técnica  y  profesional 
+exigida en el PCAP. Deberá aportar certificados vigentes 
+de conformidad con el Esquema Nacional de Seguridad 
+(ENS) de categoría igual o superior a la del cedente y el 
+Acuerdo de Encargo del Tratamiento (art. 28 RGPD).
+Formalización 
+Administrativa  (Art. 
+214.3)
+La  cesión  deberá  formalizarse  en  documento 
+administrativo ante el secretario general de la Corporación 
+e  inscribirse  en  el  Registro  Oficial  de  Licitadores 
+correspondiente,  asumiendo  la  entidad  cesionaria  todos 
+los derechos y obligaciones del cedente.
+27.5. Régimen de Penalizaciones y Resolución Contractual
+El  incumplimiento  por  parte  del  contratista  de  las  estipulaciones  en  materia  de 
+subcontratación o cesión dará lugar a la aplicación del régimen sancionador fijado en 
+la Ley 9/2017:
+1. Subcontratación no autorizada o de tareas críticas: La subcontratación de 
+cualquiera de las prestaciones principales clasificadas como tareas críticas en el 
+apartado 2, o la subcontratación de tareas accesorias sin la debida comunicación 
+previa y acreditación del subcontratista, dará lugar a la imposición de una penalidad 
+de hasta el  cincuenta por ciento (50 %) del importe del subcontrato, o de 
+hasta el cinco por ciento (5 %) del precio de adjudicación del Lote afectado 
+(IVA excluido), de conformidad con el artículo 192.1 de la LCSP.
+2. Cesión irregular del contrato: La cesión de los derechos u obligaciones del 
+contrato efectuada sin la concurrencia de los requisitos del artículo 214 de la LCSP o 
+sin  la  previa  autorización  formal  del  Órgano  de  Contratación  constituirá  un 
+incumplimiento grave del contrato.
+3. Causa de resolución por incumplimiento esencial (Art. 211.1.f LCSP): El 
+incumplimiento reiterado de las reglas de subcontratación o la cesión no autorizada 
+del servicio tendrán  el carácter de  obligación  contractual  esencial, facultando al 
+Ayuntamiento de Isla Cristina a acordar la  resolución del contrato por causa 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 36 de 52 
+
+--- página 37 ---
+imputable al contratista, con la consiguiente incautación de la garantía definitiva 
+depositada y la exigencia de indemnización por los daños y perjuicios causados a la 
+Administración
+ 28.  PROTECCIÓN  DE  DATOS,  CONFIDENCIALIDAD,  SEGURIDAD  DE  LA 
+INFORMACIÓN Y PROPIEDAD DE LOS TRABAJOS 
+28.1. Régimen Jurídico y Condición de Encargado del Tratamiento (RGPD, 
+LOPDGDD y RDL 14/2019)
+De conformidad con lo dispuesto en el Reglamento (UE) 2016/679 (RGPD), la Ley 
+Orgánica 3/2018 (LOPDGDD), la Ley Orgánica 7/2021, el Real Decreto-Ley 14/2019 y 
+la  Disposición  Adicional  25ª  de  la  Ley  9/2017  (LCSP),  al  conllevar  la  presente 
+contratación el acceso del contratista a datos de carácter personal de las actividades 
+de tratamiento del Ayuntamiento de Isla Cristina, a las empresas adjudicatarias de 
+cualquiera  de  los  cuatro  (4)  Lotes  les  corresponderá  la  condición  y  posición  de 
+ENCARGADO DEL TRATAMIENTO, no considerándose dicho acceso en ningún caso 
+como comunicación o cesión de datos.
+La firma del correspondiente Acuerdo de Encargo del Tratamiento (Art. 28 RGPD) 
+será requisito obligatorio con carácter previo al inicio de las prestaciones. Queda 
+expresamente  prohibido  recurrir  a  otro  subencargado  del  tratamiento  sin  la 
+autorización previa, formal y por escrito del Ayuntamiento.
+28.2. Titularidad de los Datos y Delimitación del Tratamiento (Art. 28.3 
+RGPD)
+El Responsable del Tratamiento es el Ayuntamiento de Isla Cristina, extendiéndose su 
+titularidad  y  propiedad  exclusiva  a  cuantas  elaboraciones,  desarrollos, 
+parametrizaciones, estructuras o bases de datos realice el adjudicatario con ocasión 
+del cumplimiento del contrato.
+El alcance del encargo del tratamiento se concreta en los siguientes términos:
+• Categorías de datos tratados: Datos identificativos (nombre, apellidos, DNI/NIE), 
+datos  de  contacto  (dirección,  correo  electrónico,  teléfono),  datos  de 
+ubicación/geolocalización (Lote 1 y Lote 4) y datos de vehículos/matrículas (Lote 4).
+• Colectivo de interesados: Ciudadanía, representantes de empresas, usuarios de la 
+OMIC, personal de emergencias y titulares de vehículos en el término municipal.
+•  Finalidad  del  tratamiento:  Proporcionar  el  soporte  técnico,  mantenimiento, 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 37 de 52 
+
+--- página 38 ---
+parametrización, soporte Cloud y actualización de las aplicaciones contratadas en los 
+Lotes  1,  2,  3  y  4,  permitiendo  al  adjudicatario  realizar  pruebas  controladas  de 
+modificaciones de código y resolución de incidencias en producción.
+28.3. Deber de Confidencialidad y Compromisos Individuales del Personal 
+(Art. 133 LCSP)
+• Consideración de Información Confidencial: Tendrá la consideración de información 
+confidencial toda aquella a la que la empresa o su personal acceda en virtud del 
+contrato, especialmente expedientes de emergencias (Lote 1), copias corporativas de 
+seguridad (Lote 2), reclamaciones de la OMIC (Lote 3) y registros policiales y de 
+tráfico (Lote 4).
+•  Acuerdos  Individuales  de  Confidencialidad  (NDA):  La  adjudicataria  mantendrá 
+absoluta confidencialidad sobre cualquier dato conocido. A tal efecto, la empresa 
+garantizará que todo su personal adscrito (incluido personal técnico o de soporte) 
+haya firmado un compromiso  individual  de confidencialidad  antes de  concederle 
+cualquier tipo de acceso a las infraestructuras o bases de datos municipales.
+•  Subsistencia  indefinida:  El  deber  de  secreto  profesional  y  confidencialidad 
+subsistirá de forma indefinida tras la extinción o resolución del contrato.
+29.4. Seguridad de la Información, Estándares de Referencia y Formación 
+del Personal
+a) Alineación con Estándares Internacionales y ENS (RD 311/2022):
+Las empresas adjudicatarias realizarán los trabajos de acuerdo con la legislación 
+vigente  y  de  manera  estrictamente  alineada  con  las  buenas  prácticas  y 
+procedimientos  en  materia  de  Gestión  de  la  Seguridad  de  la  Información, 
+garantizando  la  conformidad  con  el  Esquema  Nacional  de  Seguridad  (ENS  -  RD 
+311/2022 en Categoría MEDIA/ALTA) y la norma ISO/IEC 27001 (o equivalente).
+b) Formación obligatoria en ciberseguridad:
+La empresa contratista garantizará que todo el personal adscrito a la ejecución y 
+soporte del contrato haya recibido formación específica y actualizada en materia de 
+ciberseguridad, protección de datos y gestión de incidentes de seguridad.
+c) Medidas técnicas y organizativas de seguridad (Art. 32 RGPD):
+Se aplicará de forma preceptiva:
+ • Cifrado obligatorio de datos en tránsito mediante protocolos seguros TLS 1.3 o 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 38 de 52 
+
+--- página 39 ---
+superior.
+ • Cifrado de datos en reposo mediante algoritmo AES-256.
+ •  Autenticación  Multifactor  (MFA)  para  todos  los  accesos  con  privilegios  de 
+administración o soporte técnico.
+ • Inmutabilidad efectiva de los respaldos mediante tecnología WORM / Object Lock 
+para los repositorios de datos del Lote 2.
+28.5. Soberanía Digital y Ubicación de Servidores en la Unión Europea
+De conformidad con las exigencias de seguridad pública y la Disposición Adicional 
+25ª de la LCSP, todos los servidores, plataformas Cloud, repositorios de backup y 
+bases de datos utilizados para la prestación de los servicios de los Lotes 1, 2, 3 y 4 
+deberán estar físicamente ubicados en territorio de la Unión Europea (UE) o del 
+Espacio  Económico  Europeo  (EEE).  Queda  expresamente  prohibida  cualquier 
+transferencia internacional de datos fuera de dicho ámbito sin autorización previa, 
+explícita y formal del Ayuntamiento de Isla Cristina.
+28.6. Asistencia al responsable, Brechas de Seguridad y Reversibilidad
+a) Asistencia en el ejercicio de Derechos ARSULI:
+La  adjudicataria  asistirá  al  Ayuntamiento,  mediante  las  medidas  técnicas  y 
+organizativas apropiadas, para responder en tiempo y forma a las solicitudes de 
+ejercicio de derechos de los interesados (acceso, rectificación, supresión, oposición, 
+limitación y portabilidad).
+b) Notificación inmediata de brechas de seguridad:
+La adjudicataria vendrá obligada a notificar al responsable del Contrato y al delegado 
+de  Protección  de  Datos  (DPD)  del  Ayuntamiento  cualquier  quiebra,  violación, 
+incidente  de  seguridad  o  acceso  no  autorizado  en  un  plazo  máximo  de 
+VEINTICUATRO (24) HORAS desde que tenga constancia del mismo, aportando la 
+información necesaria para gestionar el incidente.
+c) Plan de Reversibilidad, Portabilidad y Borrado Seguro:
+A  la  finalización  del  contrato  por  cualquier  causa,  la  adjudicataria  entregará  al 
+Departamento  de  Informática  la  totalidad  de  las  bases  de  datos  e  información 
+municipal en formatos estándar y abiertos (SQL, JSON, XML, CSV) en un plazo no 
+superior  a  QUINCE  (15)  DÍAS  NATURALES.  Tras  la  recepción  de  conformidad,  la 
+contratista aportará un certificado de borrado seguro e irrecuperable de cualquier 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 39 de 52 
+
+--- página 40 ---
+copia  o  residuo  de  datos  en  sus  infraestructuras  Cloud,  conforme  a  estándares 
+internacionales reconocidos (DoD 5220.22-M, ISO/IEC 27001 o equivalente).
+.  29.- MODIFICACIONES PREVISTAS DEL CONTRATO.  
+No  se  prevén  modificaciones  del  contrato  durante  su  vigencia,  al  encontrarse 
+perfectamente  definido  el  objeto  del  suministro,  así  como  la  cantidad  y 
+características del material a suministrar.
+Cualquier modificación que, en su caso, pudiera resultar necesaria deberá ajustarse a 
+lo establecido en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, 
+y, en particular, a lo dispuesto en sus artículos 203 y siguientes.
+30.- JURISDICCIÓN.    
+Las  cuestiones  que  puedan  plantearse  durante  el  desarrollo  del  contrato  serán 
+resueltas por el órgano de contratación. Los acuerdos adoptados para su resolución 
+pondrán fin a la vía administrativa, y podrán ser impugnados ante la Jurisdicción 
+Contencioso-Administrativa. 
+En relación al tratamiento de los datos, el responsable del tratamiento aplicará, tanto 
+en el momento de determinar los medios de tratamiento como en el momento del 
+propio  tratamiento,  medidas  técnicas  y  organizativas  apropiadas,  como  la 
+seudonimización,  concebidas  para  aplicar  de  forma  efectiva  los  principios  de 
+protección  de  datos,  como  la  minimización  de  datos,  e  integrar  las  garantías 
+necesarias en el tratamiento, a fin de cumplir los requisitos del RGPD y proteger los 
+derechos de los interesados (art. 25.1 RGPD).
+El  responsable  del  tratamiento  aplicará  las  medidas  técnicas  y  organizativas 
+apropiadas con miras a garantizar que, por defecto, solo sean objeto de tratamiento 
+los datos personales que sean necesarios para cada uno de los fines específicos del 
+tratamiento. Esta obligación se aplicará a la cantidad de datos personales recogidos, 
+a la extensión de su tratamiento, a su plazo de conservación y a su accesibilidad. 
+Tales medidas garantizarán en particular que, por defecto, los datos personales no 
+sean accesibles, sin la intervención de la persona, a un número indeterminado de 
+personas físicas (art. 25.2 RGPD).
+A tal efecto, podrá utilizarse un mecanismo de certificación aprobado con arreglo al 
+artículo 42 RGPD como elemento que acredite el cumplimiento de las obligaciones 
+establecidas en los apartados 1 y 2 del artículo 25 RGPD.
+31. PENALIDADES  
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 40 de 52 
+
+--- página 41 ---
+De conformidad con lo dispuesto en los artículos 192, 193 y 194 de la Ley 9/2017, de 
+8 de noviembre, de Contratos del Sector Público (LCSP), la empresa o empresas 
+adjudicatarias de cualquiera de los cuatro (4) Lotes responderán del cumplimiento 
+defectuoso de la prestación o de la demora en la ejecución de las obligaciones 
+asumidas, resultando de aplicación el siguiente régimen de penalidades:
+1. Penalidades por demora en la implantación y puesta en marcha (Art. 193 
+LCSP)
+Si la empresa adjudicataria, por causas imputables a la misma, incurriera en demora 
+respecto a los plazos parciales fijados para el despliegue, parametrización, migración 
+inicial o formación del software en cualquiera de los cuatro Lotes (Lotes 1, 2, 3 y 4), 
+el Órgano de Contratación podrá optar indistintamente por la resolución del contrato 
+con pérdida de la garantía o por la imposición de penalidades diarias. Conforme al 
+artículo 193.3 de la LCSP, la cuantía de la penalidad diaria será de 0,60 euros por 
+cada 1.000 euros del precio de adjudicación del Lote afectado (IVA excluido), por 
+cada día natural de retraso.
+2.  Penalidades  por  incumplimiento  de  los  Niveles  de  Servicio  (SLA)  de 
+soporte y mantenimiento
+El incumplimiento de los tiempos máximos de respuesta y resolución fijados en el 
+Pliego  de  Prescripciones  Técnicas  (PPT)  para  las  incidencias  de  soporte  técnico 
+durante  la  fase  de  mantenimiento  dará  lugar  a  la  imposición  de  las  siguientes 
+penalidades proporcionales:
+a) Incidencias de Severidad 1 (Críticas - Parada total del servicio / Fallo de backup 
+inmutable / Ataque de ransomware):
+ • Superar el tiempo de respuesta (1 hora 24x7): Penalidad de 100,00 € por cada 
+hora de retraso.
+ • Superar el tiempo de resolución (4 horas): Penalidad de 200,00 € por cada hora o 
+fracción de retraso hasta la solución efectiva o alternativa operativa.
+b) Incidencias de Severidad 2 (Altas - Degradación grave del rendimiento o fallo de 
+módulos secundarios):
+ • Superar el tiempo de respuesta (2 horas en horario laboral): Penalidad de 50,00 € 
+por cada hora de retraso.
+ • Superar el tiempo de resolución (8 horas): Penalidad de 100,00 € por cada día 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 41 de 52 
+
+--- página 42 ---
+hábil de retraso.
+c) Incidencias de Severidad 3 (Media/Baja - Consultas generales y ajustes menores):
+ • Superar el tiempo de resolución (24 horas): Penalidad de 30,00 € por cada día 
+hábil de retraso.
+3. Penalidades por incumplimiento de Condiciones Especiales de Ejecución 
+(Art. 192 LCSP)
+El  incumplimiento  de  cualquiera  de  las  Condiciones  Especiales  de  Ejecución 
+reguladas en este Pliego (soberanía de datos con servidores en la UE/EEE, uso de 
+Data Centers sostenibles o cumplimiento del Convenio Colectivo del sector TIC) dará 
+lugar a la imposición de una penalidad de hasta el 5 % del precio de adjudicación del 
+Lote afectado (IVA excluido).
+4.  Penalidades  por  incumplimiento  en  materia  de  seguridad  (ENS)  y 
+protección de datos (RGPD)
+Sin perjuicio de la causa de resolución del contrato cuando constituya obligación 
+esencial, se impondrán las siguientes penalidades específicas:
+a) Omisión de la notificación de una brecha de seguridad en el plazo máximo de 24 
+horas: Penalidad equivalente al 5 % del precio de adjudicación del Lote afectado.
+b) Falta de acreditación del certificado de borrado seguro e irrecuperable de datos al 
+término de la concesión: Penalidad equivalente al 10 % del precio de adjudicación del 
+Lote afectado.
+5. Límites y procedimiento de imposición (Arts. 192.1 y 194.2 LCSP)
+•  Límites  cuantitativos:  Ninguna penalidad individual  podrá superar el  10 % del 
+precio del Lote afectado (IVA excluido), ni el total acumulado de penalidades podrá 
+exceder del 50 % del precio del contrato.
+• Tramitación y cobro: Las penalidades se impondrán por acuerdo del Órgano de 
+Contratación,  a  propuesta  del  responsable  del  Contrato  y  previa  audiencia  del 
+contratista  por plazo de  cinco (5)  días  hábiles. Los  importes  se harán  efectivos 
+mediante deducción  directa en las  facturas de la cuota mensual  SaaS o,  en su 
+defecto, contra la garantía definitiva.
+32.  CONDICIONES  ESPECIALES  DE  EJECUCIÓN  DEL  CONTRATO  (ARTÍCULO 
+202 LCSP)
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 42 de 52 
+
+--- página 43 ---
+De conformidad  con  lo dispuesto en el artículo 202 de la Ley  9/2017, de 8  de 
+noviembre,  de  Contratos  del  Sector  Público  (LCSP),  la  empresa  o  empresas 
+adjudicatarias  de  cualquiera  de  los  cuatro  (4)  Lotes  quedan  obligadas  al 
+cumplimiento de las siguientes condiciones especiales de ejecución durante toda la 
+vigencia del contrato:
+1. Condición Especial de Carácter Medioambiental: Centros de Datos Sostenibles y 
+"Cero Papel".
+a) Eficiencia Energética en Infraestructuras Cloud/SaaS: Los centros de datos (Data 
+Centers)  donde  las  empresas  adjudicatarias  alojen  las  plataformas  de  software, 
+servidores Cloud, aplicaciones móviles o repositorios de datos de los Lotes 1, 2, 3 y 4 
+deberán  utilizar  energía  procedente  de  fuentes  100  %  renovables  o  acreditar 
+certificaciones de gestión ambiental y eficiencia energética (ISO 14001, ISO 50001 o 
+equivalente).
+b) Tramitación 100 % Electrónica ("Cero Papel"): Toda la gestión y documentación 
+del contrato (entregables, actas de recepción, manuales de usuario, documentación 
+de soporte técnico y facturación) se realizará exclusivamente en formato electrónico, 
+quedando prohibida la entrega de documentación en soporte papel.
+2. Condición Especial de Carácter Social y Laboral: Estabilidad y Cumplimiento del 
+Convenio del Sector TIC
+a) Cumplimiento de Normativa Laboral y Convenio Sectorial: La adjudicataria deberá 
+garantizar la aplicación estricta de las condiciones laborales y salariales fijadas en el 
+Convenio  Colectivo  Estatal  de  Empresas  de  Consultoría,  Tecnologías  de  la 
+Información  y  Estudios  de Mercado (o convenio sectorial  aplicable) para todo el 
+personal adscrito a la ejecución del contrato.
+b)  Medidas  de  Igualdad  y  Conciliación:  La  empresa  adjudicataria  garantizará  el 
+principio  de  igualdad  de  trato  y  oportunidades  entre  mujeres  y  hombres  en  la 
+adscripción del personal técnico, así como la implantación de medidas de conciliación 
+de  la  vida  personal,  familiar  y  laboral  y  la  modalidad  de  teletrabajo  cuando  la 
+naturaleza del soporte técnico lo permita.
+3. Condición Especial de Ciberseguridad y Soberanía Digital de los Datos (Art. 202 + 
+Disp. Adic. 25ª LCSP)
+Ubicación de Servidores en Territorio de la Unión Europea: Todos los servidores, 
+repositorios de backup inmutable, bases de datos y sistemas de procesamiento de 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 43 de 52 
+
+--- página 44 ---
+información utilizados para la prestación de los servicios de los Lotes 1, 2, 3 y 4 
+deberán estar físicamente ubicados en países miembros de la Unión Europea o del 
+Espacio  Económico  Europeo  (EEE),  quedando  expresamente  prohibida  cualquier 
+transferencia internacional de datos fuera de este ámbito sin autorización previa y 
+formal del Ayuntamiento de Isla Cristina.
+4.Calificación jurídica, penalizaciones y causa de resolución (Arts. 192.1 y 211.1.f 
+LCSP)
+•  Las  condiciones  1,  2  y  3  anteriores  tendrán  expresamente  el  carácter  de 
+obligaciones contractuales esenciales (art. 211.1.f LCSP).
+• El incumplimiento de cualquiera de estas condiciones especiales dará lugar a la 
+imposición de una penalidad de hasta el 5 % del precio de adjudicación del Lote 
+afectado (IVA excluido), de conformidad con el artículo 192.1 de la LCSP.
+DOCUMENTO FIRMADO ELECTRÓNICAMENTE
+ANEXO I
+DECLARACIÓN RESPONSABLE
+D./Dª __________________________________________, con NIF nº ____________ en nombre 
+propio/representación mediante poder bastante y cuya vigencia asegura otorgado a 
+su favor por _____________________, en representación de __________________________, 
+con CIF nº   _____________ y con domicilio a efectos de notificación en la dirección de 
+correo  electrónico________________________,  entidad  que  [SI]  [NO]  cumple  las 
+condiciones de PYMES, al objeto de participar en el procedimiento de contratación 
+del  SERVICIO  DE  PAQUETES  DE  SOFTWARE  PARA  DIFERENTES 
+DEPARTAMENTOS  DEL AYUNTAMIENTO DE ISLA CRISTINA, Expediente nº 
+6891/2026, y vistos los requisitos exigidos en el Pliego de Cláusulas Administrativas 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 44 de 52 
+
+--- página 45 ---
+Particulares, DECLARO BAJO MI RESPONSABILIDAD:
+Que el firmante ostenta la representación de la sociedad que presenta la oferta, 
+que  cumple  las  condiciones  establecidas  legalmente  para  contratar  con  la 
+Administración, en relación a la capacidad de obrar, solvencia económica, financiera 
+y técnica o profesional, o en su caso, la clasificación correspondiente, que cuenta con 
+las autorizaciones necesarias para ejercer la actividad y que no está incurso en 
+prohibición de contratar con la Administración de las previstas en el artículo 71 de la 
+Ley de Contratos del Sector Público.
+Que el objeto de la sociedad esté comprendido dentro de los fines del presente 
+Contrato.
+Compromiso de presentar la documentación que se integra la solvencia a los que 
+se refiere el artículo 75.2 LCSP, si es requerido para ello.
+Que se trata de empresa extranjera:
+Sí, me someto a la jurisdicción de los Juzgados y Tribunales españoles 
+de  cualquier  orden,  para  todas  las  incidencias  que  de  modo  directo  o 
+indirecto puedan surgir del contrato, con renuncia, en su caso, al fuero 
+jurisdiccional extranjero que pudiera corresponderles.
+No. 
+Que la empresa a la que representa tiene contratada a: (Marque la casilla que 
+corresponda).
+     Menos de 50 trabajadores.
+  50 o más trabajadores y (Marque la casilla que corresponda). 
+Cumple con la obligación de que, entre ellos, al menos, el 2% sean trabajadores 
+con  discapacidad,  establecida  por  el  Real  Decreto  Legislativo  1/2013,  de  29  de 
+noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos 
+de las personas con discapacidad y de su inclusión social. 
+Cumple las medidas alternativas previstas en el Real Decreto 364/2005, de 8 de 
+abril, por el que se regula el cumplimiento alternativo con carácter excepcional de la 
+cuota de reserva a favor de los trabajadores con discapacidad. 
+Que la empresa a la que representa cumple con las disposiciones vigentes en 
+materia laboral y social.
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 45 de 52 
+
+--- página 46 ---
+Que, atendiendo al cómputo de plantilla establecido en el artículo 3 del Real Decreto 
+901/2020, de 13 de octubre, y a los restantes supuestos legales de obligación, la 
+empresa se encuentra en una de las siguientes situaciones:
+☐ No está obligada a disponer de un plan de igualdad.
+La  empresa  no  alcanza  el  umbral  de  cincuenta  personas  trabajadoras  y 
+tampoco está obligada por el convenio colectivo aplicable, por un acuerdo de la 
+autoridad  laboral  adoptado  en  un  procedimiento  sancionador  ni  por  la 
+continuidad de una obligación previamente nacida conforme al artículo 3.3 del 
+Real Decreto 901/2020.
+Esta  circunstancia  se  entiende  sin  perjuicio  del  cumplimiento  de  las 
+obligaciones generales de igualdad legalmente exigibles.
+Está obligada a disponer de un plan de igualdad y cumple dicha obligación.
+La empresa dispone de un plan de igualdad vigente, elaborado y negociado 
+conforme  a  la  Ley  Orgánica  3/2007,  de  22  de  marzo,  y  al  Real  Decreto 
+901/2020, que está aplicando y se encuentra inscrito en el registro laboral 
+competente.
+Datos identificativos:
+Denominación del plan: __________________________________.
+Registro y autoridad laboral competente: __________________.
+Código o referencia de inscripción: _______________________.
+Fecha de inscripción: ___________________________________.
+Periodo de vigencia: desde ______________ hasta ______________.
+Hallarse al corriente del cumplimiento de sus obligaciones tributarias y con la 
+Seguridad Social impuestas por las disposiciones vigentes.
+Que dispongo de la documentación acreditativa de las circunstancias declaradas 
+y me comprometo a aportarla cuando sea requerida por el órgano o la mesa de 
+contratación, conforme a los artículos 140 y 159 de la LCSP.
+En  el  trámite  de  requerimiento  a  la  empresa  que  haya  obtenido  la  mejor 
+puntuación,  atenderé  las  obligaciones  documentales  correspondientes  dentro  del 
+plazo de siete días hábiles, contado desde el envío de la comunicación, conforme al 
+artículo 159.4.f) de la LCSP, sin perjuicio de los restantes requerimientos legalmente 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 46 de 52 
+
+--- página 47 ---
+procedentes.
+En caso de participación mediante unión temporal de empresas, cada integrante 
+presentará  su  declaración  responsable  y  se  acompañará  el  compromiso  de 
+constitución de la unión.
+Que  la  información  contenida  en  esta  declaración  es  veraz  y  conozco  las 
+consecuencias que pueden derivarse de su falsedad o del incumplimiento de los 
+requerimientos de documentación, conforme a la LCSP y a las demás disposiciones 
+aplicables, incluidas las responsabilidades que legalmente procedan.
+Conozco que las circunstancias relativas a la capacidad, solvencia y ausencia de 
+prohibiciones  de  contratar  deben  concurrir en  la  fecha final  de presentación  de 
+ofertas y subsistir en el momento de perfección del contrato, conforme al artículo 
+140.4 de la LCSP.
+.
+DOCUMENTO A FECHA Y FIRMA ELECTRÓNICA
+ANEXO II
+PROPOSICIÓN ECONÓMICA
+D./Dª __________________________________________, con NIF nº ____________ en nombre 
+propio/representación mediante poder bastante y cuya vigencia asegura otorgado a 
+su favor por _____________________, en representación de __________________________, 
+con CIF nº   _____________ y con domicilio a efectos de notificación en la dirección de 
+correo  electrónico________________________,  en  cuya  representación  comparece, 
+enterado del pliego de cláusulas administrativas que sirve de base a la licitación 
+convocada por el Ayuntamiento de Isla Cristina para contratar, por procedimiento 
+abierto simplificado abreviado y tramitación ordinaria, SERVICIO DE PAQUETES DE 
+SOFTWARE PARA DIFERENTES DEPARTAMENTOS  DEL AYUNTAMIENTO DE 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 47 de 52 
+
+--- página 48 ---
+ISLA CRISTINA, Expediente nº 6891/2026, el cual acepta en su integridad y se 
+compromete a la realización del contrato conforme al mencionado pliego a cuyo 
+efecto formula la siguiente oferta: 
+LOTE 1: SOFTWARE DE GESTIÓN PARA PROTECCIÓN CIVIL:
+A. PROPUESTA ECONÓMICA. 
+CTDA
+D. CONCEPTO
+IMPORTE 
+UNITARIO 
+SIN IVA
+IVA 21 % IMPORTE TOTAL
+1 SOFTWARE DE GESTIÓN PARA PROTECCIÓN CIVIL 
+TOTAL, PRESUPUESTO SIN IVA
+TOTAL, IVA (21 %)
+TOTAL, PRESUPUESTO CON IVA
+MEJORAS:
+B. Horas de formación anuales _________________________ 
+C. Reducción del plazo de implantación inicial ______________________
+LOTE 2: SOFTWARE DE ALMACENAMIENTO Y SEGURIDAD:
+A. PROPUESTA ECONÓMICA:
+CTDAD
+. CONCEPTO
+IMPORTE 
+UNITARIO 
+SIN IVA
+IVA 21 
+%
+IMPORTE 
+TOTAL
+1 SOFTWARE DE ALMACENAMIENTO Y SEGURIDAD
+ TOTAL, PRESUPUESTO SIN IVA
+TOTAL, IVA (21 %)
+ TOTAL, PRESUPUESTO CON IVA
+MEJORAS:
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 48 de 52 
+
+--- página 49 ---
+B. Bolsa de horas de formación técnica adicional ___________________________
+C. Bolsa  de  horas  de  asistencia  técnica  y  soporte 
+especializado_________________________
+LOTE 3: SOFTWARE DE GESTIÓN OMIC
+A. PROPUESTA ECONÓMICA:
+CTDAD
+. CONCEPTO
+IMPORTE 
+UNITARIO 
+SIN IVA
+IVA 21 % IMPORTE TOTAL
+1 SOFTWARE DE GESTIÓN OMIC
+ TOTAL, PRESUPUESTO SIN IVA
+ TOTAL, IVA (21 %)
+ TOTAL, PRESUPUESTO CON IVA
+MEJORAS:
+B. Horas de formación anuales _________________________ 
+C.Reducción del plazo de implantación inicial ______________________
+LOTE 4: SOFTWARE DE CONTROL, MOVILIDAD Y ANÁLISIS DE 
+DATOS DE LA POLICÍA MUNICIPAL
+CTDAD
+. CONCEPTO
+IMPORTE 
+UNITARIO 
+SIN IVA
+IVA 21 % IMPORTE TOTAL
+1
+SOFTWARE  DE  CONTROL, 
+MOVILIDAD  Y  ANÁLISIS  DE 
+DATOS  DE  LA  POLICÍA 
+MUNICIPAL
+  TOTAL, PRESUPUESTO SIN IVA
+  TOTAL, IVA (21 %)
+  TOTAL, PRESUPUESTO CON IVA
+MEJORAS:
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 49 de 52 
+
+--- página 50 ---
+B. Bolsa de horas de formación técnica adicional ___________________________
+C. Bolsa  de  horas  de  asistencia  técnica  y  soporte 
+especializado_________________________
+DOCUMENTO A FECHA Y FIRMA ELECTRÓNICA
+ANEXO III
+DOCUMENTO DE CONFIDENCIALIDAD 
+D./Dª  __________________________________________,  con  NIF  nº  ____________  en 
+nombre propio/representación mediante poder bastante y cuya vigencia asegura 
+otorgado  a  su  favor  por  _____________________,  en  representación  de 
+__________________________, con CIF nº   _____________ y con domicilio a efectos de 
+notificación en la dirección de correo electrónico________________________, en cuya 
+representación comparece para la adjudicación del contrato de  SERVICIO DE 
+PAQUETES  DE  SOFTWARE  PARA  DIFERENTES  DEPARTAMENTOS   DEL 
+AYUNTAMIENTO DE ISLA CRISTINA, Expediente nº 6891/2026, y vistos los 
+requisitos  exigidos  en  el  Pliego  de  Cláusulas  Administrativas  Particulares, 
+DECLARO BAJO MI RESPONSABILIDAD:
+Que, en caso de resultar adjudicatario del contrato, y de acuerdo con lo 
+establecido en el art. 133 de la Ley 9/2017, de 8 de noviembre, de Contratos del 
+Sector  Público,  y  en  la  Cláusula  8.2  del  Pliego  de  Cláusulas  Administrativas 
+Particulares,  declaro  que  la  documentación  y  datos  presentados  y  que  a 
+continuación se relacionan, resultan constitutivos de ser considerada de carácter 
+confidencial: 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 50 de 52 
+
+--- página 51 ---
+- ….. 
+- ….. 
+- ….. 
+DOCUMENTO A FECHA Y FIRMA ELECTRÓNICA
+ANEXO IV
+DECLARACIÓN RESPONSABLE UNIÓN TEMPORAL DE EMPRESAS
+D./Dª ________________________________ con DNI nº _____________en nombre propio/en 
+representación de ____________________________, D./Dª ______________________________, 
+con  DNI  nº  _______________  en  nombre  propio/en  representación  de 
+______________________  y  D./Dª  ___________________________,  con  DNI  nº 
+______________________,  en  nombre  propio/en  representación  de 
+_________________________________,  con  CIF  nº  _______________,  enterados  de  la 
+licitación para la adjudicación del contrato  de los  SERVICIO DE PAQUETES DE 
+SOFTWARE PARA DIFERENTES DEPARTAMENTOS  DEL AYUNTAMIENTO 
+DE ISLA CRISTINA, Expediente nº 6891/2026, y vistos los requisitos exigidos 
+en  el  Pliego  de  Cláusulas  Administrativas  Particulares,  DECLARO  BAJO  MI 
+RESPONSABILIDAD:
+Que, en caso de resultar adjudicatarios/as del contrato, procederemos a constituir 
+una Unión Temporal de Empresas con el porcentaje de participación que se indica a 
+continuación, de conformidad con el art. 69 de la LCSP, y formalizarse en Escritura 
+Pública.
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 51 de 52 
+
+--- página 52 ---
+ENTIDAD
+D. ____________________________________
+Porcentaje: _________                   
+Fdo.: __________________________________
+ENTIDAD
+D. ____________________________________
+Porcentaje: _________                   
+Fdo.: _________________________________
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 6TH27WC6FRK3WCNAFJWJGKR23 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 52 de 52 

@@ -3,12 +3,12 @@
 - Órgano: Comisión de Contratación de la Sociedad Estatal Loterías y Apuestas del Estado, S.M.E., S.A.
 - Expediente: 26/357
 - Importe sin IVA: 15000 €
-- Fin de plazo: 
+- Fin de plazo: 2026-12-03 15:00:00
 - CPV: 48931000,72267100,72268000
 - Desarrollo (clasificación automática): quizá
 - Ficha en la plataforma: https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=jmDE6Xu11zFJ8Trn0ZPzLw%3D%3D
 
 ## Documentos
 
-- [Legal] 26_357 CRCP.pdf: error HTTP Error 500: Internal Server Error
+- [Legal] 26_357 CRCP2.pdf: 01_Legal_26_357_CRCP2.pdf (2195 KB)
 - [Technical] 26_357 PPT.pdf: error HTTP Error 500: Internal Server Error

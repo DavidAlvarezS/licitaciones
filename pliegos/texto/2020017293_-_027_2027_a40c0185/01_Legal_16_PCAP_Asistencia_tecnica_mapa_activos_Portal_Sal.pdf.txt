@@ -1,0 +1,2839 @@
+
+
+--- página 1 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     1/42 
+Gerencia Regional de Salud 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES PARA LA CONTRATACIÓN 
+DEL SERVICIO DE ASISTENCIA TÉCNICA ESPECIALIZADA PARA EL ANÁLISIS FUNCIONAL, 
+DISEÑO, CONFIGURACIÓN, PARAMETRIZACIÓN E IMPLANTACIÓN DE UN REPOSITORIO Y 
+BUSCADOR DE ACTIVOS DE SALUD DE CASTILLA Y LEÓN EN EL PORTAL DE SALUD 
+COMUNITARIA DE LA GERENCIA REGIONAL DE SALUD DE CASTILLA Y LEÓN, MEDIANTE 
+PROCEDIMIENTO ABIERTO SIMPLIFICADO  
+ 
+ 
+ 
+ 
+ 
+ 
+EXPEDIENTE: 027/2027 – SATURNO 2020017293  
+ 
+OBJETO DEL CONTRATO: SERVICIO DE ASISTENCIA TÉCNICA ESPECIALIZADA PARA EL 
+ANÁLISIS FUNCIONAL, DISEÑO, CONFIGURACIÓN, PARAMETRIZACIÓN E IMPLANTACIÓN DE UN 
+REPOSITORIO Y BUSCADOR DE ACTIVOS DE SALUD DE CASTILLA Y LEÓN EN EL PORTAL DE 
+SALUD COMUNITARIA DE LA GERENCIA REGIONAL DE SALUD DE CASTILLA Y LEÓN.          
+ 
+Este proyecto se financia a cargo de los créditos de las líneas aprobadas por el Consejo Interterritorial 
+del Sistema Nacional de Salud (CISNS), el 10/07/2026 (aplicación presupuestaria 26.04.313B.456), 
+como apoyo a la implantación del Plan de Acción Atención Primaria y Comunitaria 2025-2027. 
+ 
+ORGANO DE CONTRATACIÓN: Director Económico Presupuestario y Financiero de la Gerencia Regional 
+de Salud de Castilla y León.       
+  
+CENTRO: Gerencia Regional de Salud de Castilla y León          
+ 
+ 
+ 
+En Valladolid, 
+ 
+EL JEFE DEL SERVICIO DE CONTRATACION 
+P.S. Artículo 49.3 de la Ley 3/2001, de 3 de julio) 
+EL JEFE DE SERVICIO DE RECURSOS COMUNES 
+Pedro Heredero del Campo 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 2 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     2/42 
+Gerencia Regional de Salud 
+ 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES QUE HABRÁ DE REGIR EN LA 
+CONTRATACIÓN DEL SERVICIO DE ASISTENCIA TÉCNICA ESPECIALIZADA PARA EL ANÁLISIS 
+FUNCIONAL, DISEÑO, CONFIGURACIÓN, PARAMETRIZACIÓN E IMPLANTACIÓN DE UN 
+REPOSITORIO Y BUSCADOR DE ACTIVOS DE SALUD DE CASTILLA Y LEÓN EN EL PORTAL DE 
+SALUD COMUNITARIA DE LA GERENCIA REGIONAL DE SALUD DE CASTILLA Y LEÓN,          
+MEDIANTE PROCEDIMIENTO ABIERTO SIMPLIFICADO 
+ 
+ 
+INDICE   
+ 
+1.- DISPOSICIONES GENERALES. 
+ 
+1.1. Objeto del contrato, finalidad y necesidad a satisfacer. 
+1.2. Crédito presupuestario. 
+1.3. Presupuesto base de licitación del contrato. 
+1.4. Valor estimado del contrato. 
+1.5. Determinación del precio de licitación del contrato. 
+1.6. Variantes. 
+1.7. Plazo de ejecución. 
+1.8. Prórroga. 
+1.9. Perfil de contratante. 
+1.10. Solicitudes, comunicaciones y notificaciones electrónicas. 
+ 
+2.- LICITACIÓN DEL CONTRATO. 
+ 
+2.1. Procedimiento de adjudicación. 
+2.2. Capacidad para contratar. 
+2.3. Inscripción en el registro oficial de licitadores y empresas clasificadas. 
+2.4. Solvencia de los licitadores. 
+2.5. Licitación. 
+ 
+3.- ADJUDICACIÓN DEL CONTRATO. 
+ 
+3.1. Actuaciones previas a la adjudicación del contrato. 
+3.2. Garantía definitiva. 
+3.3. Adjudicación del contrato. 
+3.4. Notificación a los candidatos o licitadores y publicidad de las adjudicaciones. 
+3.5 Decisión de no adjudicar o celebrar el contrato y desistimiento del procedimiento de 
+adjudicación. 
+ 
+4.- FORMALIZACIÓN DEL CONTRATO. 
+ 
+4.1. Documentación previa a la formalización. 
+4.2. Formalización. 
+4.3. Publicidad de la formalización del contrato. 
+ 
+5.- EJECUCIÓN DEL CONTRATO. 
+ 
+5.1. Forma de Ejecución. 
+5.2. Dirección e inspección de la ejecución del contrato. 
+5.3. Condiciones especiales de ejecución del contrato. 
+5.4. Modificación del contrato. 
+5.5. Suspensión del contrato. 
+5.6. Entrega de los trabajos y realización de los servicios. 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 3 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     3/42 
+Gerencia Regional de Salud 
+ 
+5.7. Cesión del contrato. 
+5.8. Subcontratación. 
+ 
+6.- DERECHOS Y OBLIGACIONES DE LAS PARTES. 
+ 
+6.1. Abonos al contratista. 
+6.2. Revisión de precios. 
+6.3. Obligaciones y gastos exigibles al contratista. 
+ 
+7.- EXTINCIÓN DEL CONTRATO. 
+ 
+7.1. Cumplimiento del contrato. 
+7.2. Resolución del contrato. 
+ 
+8.- RESPONSABILIDAD DEL CONTRATISTA. 
+ 
+9.- RÉGIMEN JURÍDICO.  
+ 
+9.1. Normas generales. 
+9.2. Recursos ordinarios. 
+9.3. Protección de datos de carácter personal 
+9.4. Prerrogativas de la Administración y jurisdicción competente. 
+ 
+10.- ANEXOS AL PRESENTE PLIEGO MODELO. 
+ 
+- CUADRO DE CARACTERÍSTICAS DEL PLIEGO DE CLÁUSULAS ADMINISTRATIVAS 
+PARTICULARES QUE HABRÁ DE REGIR EN LA CONTRATACIÓN DEL SERVICIO DE 
+ASISTENCIA TÉCNICA ESPECIALIZADA PARA EL ANÁLISIS FUNCIONAL, DISEÑO, 
+CONFIGURACIÓN, PARAMETRIZACIÓN E IMPLANTACIÓN DE UN REPOSITORIO Y 
+BUSCADOR DE ACTIVOS DE SALUD DE CASTILLA Y LEÓN EN EL PORTAL DE SALUD 
+COMUNITARIA DE LA GERENCIA REGIONAL DE SALUD DE CASTILLA Y LEÓN, 
+MEDIANTE PROCEDIMIENTO ABIERTO SIMPLIFICADO. 
+ - ANEXO Nº 1.- Declaración responsable. 
+- ANEXO Nº 2.- Modelo de oferta económica.  
+- ANEXO Nº 3.- Resto de criterios evaluables mediante fórmulas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 4 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     4/42 
+Gerencia Regional de Salud 
+ 
+ 
+ 
+PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES PARA LA CONTRATACIÓN DEL 
+SERVICIO DE ASISTENCIA TÉCNICA ESPECIALIZADA PARA EL ANÁLISIS FUNCIONAL, DISEÑO, 
+CONFIGURACIÓN, PARAMETRIZACIÓN E IMPLANTACIÓN DE UN REPOSITORIO Y BUSCADOR 
+DE ACTIVOS DE SALUD DE CASTILLA Y LEÓN EN EL PORTAL DE SALUD COMUNITARIA DE LA 
+GERENCIA REGIONAL DE SALUD DE CASTILLA Y LEÓN, MEDIANTE PROCEDIMIENTO ABIERTO 
+SIMPLIFICADO. 
+ 
+ 
+1. DISPOSICIONES GENERALES 
+ 
+1.1. OBJETO DEL CONTRATO, FINALIDAD Y NECESIDAD A SATISFACER.  
+ 
+1.1.1. El contrato que se regula por este Pliego tiene por objeto el Servicio de asistencia técnica 
+especializada para el análisis funcional, diseño, configuración, parametrización e implantación 
+de un repositorio y buscador de activos de salud de Castilla y León integrado en el Portal de 
+Salud Comunitaria de la Gerencia Regional de Salud de Castilla y León, cuyo valor estimado 
+es inferior a las cantidades establecidas en el artículo 22.1, o a sus correspondientes 
+actualizaciones, de la Ley 9/2017, de 8 de noviembre de Contratos del Sector Público, por la 
+que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y 
+del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014 (en adelante LCSP), y 
+conforme a lo establecido en el artículo 17 en concordancia con el 159.1 de la misma. En el 
+apartado 5 del Cuadro de Características del presente Pliego se especifica el objeto concreto 
+del contrato, así como la codificación correspondiente de la nomenclatura de la Clasificación 
+de Productos por Actividad (CPA) y del Vocabulario Común de Contratos Públicos (CPV). 
+ 
+1.1.2. El objeto del presente contrato va dirigido a satisfacer las necesidades de la Administración 
+contratante a las que se refiere el apartado 6 del Cuadro de Características. 
+ 
+La prestación del Servicio de asistencia técnica especializada para el análisis funcional, diseño, 
+configuración, parametrización e implantación de un repositorio y buscador de activos de salud 
+de Castilla y León integrado en el Portal de Salud Comunitaria de la Gerencia Regional de Salud 
+de Castilla y León, se efectuará conforme a las condiciones que figuran en el presente Pliego de 
+Cláusulas Administrativas Particulares y en el Pliego de Prescripciones Técnicas, que forman 
+parte del contrato. 
+ 
+Este proyecto se financia a cargo de los créditos de las líneas aprobadas por el Consejo 
+Interterritorial del Sistema Nacional de Salud (CISNS), el 10/07/2026 (aplicación presupuestaria 
+26.04.313B.456), como apoyo a la implantación del Plan de Acción Atención Primaria y 
+Comunitaria 2025-2027. 
+ 
+  1.2. CRÉDITO PRESUPUESTARIO.  
+ 
+1.2.1. El importe de crédito presupuestario (presupuesto base de licitación IVA incluido) para este 
+contrato es el indicado en el apartado 10.1 del Cuadro de Características, que se imputará a la 
+aplicación presupuestaria indicada en el mismo y será distribuido conforme a las anualidades 
+señaladas en el apartado 10.2 del citado cuadro.  
+ 
+1.2.2. Para atender las obligaciones económicas que se deriven para la Administración como 
+consecuencia del cumplimiento del contrato, existe crédito adecuado y suficiente en el 
+presupuesto de gastos de la Gerencia Regional de Salud. A estos efectos podrán 
+comprometerse créditos con las limitaciones que se determinen en la Ley 2/2006, de 3 de mayo, 
+de Hacienda y del Sector Público de la Comunidad de Castilla y León. 
+ 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 5 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     5/42 
+Gerencia Regional de Salud 
+ 
+1.2.3. Como el expediente de contratación es de tramitación anticipada podrá ultimarse incluso con la 
+adjudicación y formalización del correspondiente contrato, aun cuando su ejecución, ya se 
+realice en una o en varias anualidades, deba iniciarse en el ejercicio siguiente. En este caso, la 
+adjudicación del contrato quedará sometida a la condición suspensiva de existencia de crédito 
+adecuado y suficiente para financiar las obligaciones derivadas del mismo en el ejercicio 
+presupuestario correspondiente. 
+ 
+1.3. PRESUPUESTO BASE DE LICITACIÓN DEL CONTRATO. 
+ 
+  El presupuesto base de licitación del contrato como límite máximo de gasto que en virtud del 
+contrato puede comprometer el órgano de contratación, incluido el Impuesto sobre el Valor 
+Añadido, se formula de acuerdo con lo dispuesto en el apartado 11 del Cuadro de 
+Características, desglosando los costes directos e indirectos y otros eventuales gastos 
+calculados para su determinación. 
+ 
+ El presupuesto base de licitación indica de forma desglosada y con desagregación de categoría 
+profesional los costes salariales estimados a partir del convenio laboral de referencia. 
+ 
+1.4. VALOR ESTIMADO DEL CONTRATO 
+ 
+El valor estimado del contrato, calculado conforme al artículo 101 de la LCSP, será el 
+recogido en el apartado 13 del Cuadro de Características de este Pliego, y ha sido tenido en 
+cuenta para elegir el procedimiento de licitación aplicable a este contrato y la publicidad a la 
+que va a someterse. El método de cálculo aplicado por el órgano de contratación para 
+calcular el valor estimado, que tendrá en cuenta los precios habituales del mercado, se 
+establece en dicho apartado 13.  
+ 
+1.5. DETERMINACIÓN DEL PRECIO DE LICITACIÓN DEL CONTRATO.  
+  
+1.5.1. La determinación del precio de licitación es a tanto alzado, de acuerdo con lo que especificado 
+en el apartado 12 del Cuadro de Características de este Pliego. El precio no podrá ser superado 
+en ningún caso por los licitadores al hacer sus respectivas ofertas. 
+ 
+1.5.2. En el precio se entenderá incluido el importe a abonar en concepto de Impuesto sobre el Valor 
+Añadido, que en todo caso se indicará como partida independiente 
+  
+1.6. VARIANTES.  
+ 
+No hay variantes. 
+ 
+1.7. PLAZO DE EJECUCIÓN.  
+ 
+1.7.1. El plazo total de ejecución del contrato es el establecido en el apartado 8 del Cuadro de 
+Características del presente Pliego, y producirá efectos conforme a lo indicado en el mismo. 
+ 
+1.7.2. El contratista procederá a la ejecución del servicio en el plazo señalado en el apartado 8 del 
+Cuadro de Características. 
+ 
+1.8. PRÓRROGA. 
+ 
+El contrato derivado de la presente licitación no será susceptible de prórroga. 
+ 
+1.9. PERFIL DE CONTRATANTE 
+ 
+El anuncio de licitación se publicará en el perfil de contratante de la Gerencia Regional de Salud de 
+Castilla y León alojado en la Plataforma de Contratación del Sector Público a la que se puede 
+acceder a través del siguiente enlace: https://contrataciondelestado.es/wps/portal/plataforma junto 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 6 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     6/42 
+Gerencia Regional de Salud 
+ 
+con los pliegos y el resto de documentación en los términos los que se refiere el artículo 63 de la 
+Ley de Contratos del Sector Público. 
+ 
+ 
+ 
+1.10. SOLICITUDES, COMUNICACIONES Y NOTIFICACIONES ELECTRÓNICAS 
+ 
+Conforme al apartado 1 f) de la D.A. 16ª de la Ley de Contratos del Sector Público el nivel de 
+seguridad exigido para los medios de comunicación electrónicos utilizados en las diferentes fases 
+de los procedimientos de licitación y de ejecución de contratos será proporcional a los riesgos 
+asociados a los intercambios de información a realizar tanto en la Plataforma de Contratación del 
+Sector Público (PLACSP) como en el Servicio Notificación Electrónica de Castilla y León.  
+ 
+Los licitadores y adjudicatarios deberán contar con certificados electrónicos cualificados de firma 
+electrónica avanzada y cualificada expedidos por prestadores incluidos en la «Lista de confianza de 
+prestadores de servicios de certificación», que mantendrá y publicará el Ministerio competente de 
+conformidad con el artículo 16 de la Ley 6/2020, de 11 de noviembre, reguladora de determinados 
+aspectos de los servicios electrónicos de confianza. 
+ 
+De conformidad con lo dispuesto en el apartado primero de la D.A 15ª de la LCSP en combinación 
+con el artículo 28.2.a) del Decreto 7/2013, de 14 de febrero, de utilización de medios electrónicos en 
+la Administración de la Comunidad de Castilla y León, las notificaciones por medios electrónicos al 
+contratista se practicarán a través del Buzón electrónico del ciudadano, mediante comparecencia en 
+sede electrónica sistema de dirección electrónica, habilitado en la Sede Electrónica de la 
+Administración de Castilla y León en la forma regulada en el artículo 29 del citado Decreto.  
+ 
+Para la práctica de notificaciones a través del Buzón electrónico del ciudadano, deberá identificarse, 
+en la documentación administrativa que acompañe a la oferta, conforme al artículo 140.1.a) 4º) de la 
+LCSP, la designación de una dirección de correo electrónico en que efectuar las notificaciones, que 
+deberá ser <habilitada> de conformidad con lo dispuesto en la disposición adicional decimoquinta. 
+Se deberá identificar al menos una persona física de contacto que represente a la empresa (no se 
+requiere que tenga la condición de apoderado), que haya creado su buzón electrónico del 
+ciudadano en el apartado notificaciones electrónicas del portal de la Junta de Castilla y León, 
+www.jcyl.es (actualmente la dirección electrónica https://www3.ae.jcyl.es/nofb/) y esté suscrito en 
+este buzón a los procedimientos de contratación administrativa de la GERENCIA REGIONAL DE 
+SALUD DE CASTILLA Y LEÓN.  
+ 
+El servicio de atención al ciudadano 012 (983 327 850 desde fuera de Castilla y León) podrá asistir 
+a los licitadores en el proceso de alta, quienes en todo caso pueden consultar los requisitos técnicos 
+de los que debe disponer su equipo si acceden con el navegador a la dirección 
+http://www.ae.jcyl.es/reqae2/  
+ 
+Las notificaciones electrónicas, se dirigirán a la persona de contacto que se haya identificado. En el 
+caso de que el licitador o contratista quiera designar otra persona de contacto deberá ponerlo en 
+conocimiento del órgano de contratación. Hasta que se produzca la puesta en conocimiento de la 
+nueva persona de contacto, se entienden válidamente realizadas las notificaciones cursadas a quien 
+el licitador o contratista hubiere designado. 
+ 
+Los plazos de las notificaciones electrónicas se computarán desde la fecha de su envío siempre que 
+el acto objeto de notificación se haya publicado el mismo día en el perfil de contratante conforme al 
+apartado primero de la D.A.15ª arriba mencionada. En caso contrario, los plazos se computarán 
+desde la recepción de la notificación por el interesado. 
+ 
+En fase de licitación, todas las comunicaciones se realizarán exclusivamente a través de la 
+Plataforma de Contratación del Sector Público.  
+ 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 7 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     7/42 
+Gerencia Regional de Salud 
+ 
+La adjudicación de los contratos y su formalización se publicará en el perfil de contratante que se 
+encuentra alojado en la Plataforma de Contratación del Sector Público. 
+ 
+En su caso, las siguientes comunicaciones con licitadores y adjudicatarios podrán practicarse 
+también a través del Servicio de Notificación Electrónica de Castilla y León:  
+ 
+➢ El requerimiento de documentación a los licitadores o candidatos a que se refiere el artículo 140.3 
+LCSP.  
+  
+➢ El requerimiento a licitador cuyas ofertas estuvieran incursas en presunción de anormalidad 
+conforme al artículo 149.4 de la LCSP.  
+ 
+➢  Las notificaciones correspondientes a la formalización y a la fase de ejecución contractual.  
+ 
+En fase de ejecución contractual, las solicitudes, escritos y comunicaciones que el contratista dirija 
+al órgano de contratación, se presentarán en formato electrónico en el Registro electrónico de la 
+Administración de Castilla y León, cuyo funcionamiento se regula en el capítulo V del Decreto 
+7/2013, de 14 de febrero, de utilización de medios electrónicos en la Administración de la 
+Comunidad de Castilla y León. No obstante, las copias auténticas de la escritura pública de 
+constitución de la UTE a que se refiere el artículo 69.1 de la LCSP y la de cesión de contrato a que 
+se refiere el artículo 214.2 d) de la LCSP se presentarán directamente ante los servicios 
+dependientes del órgano de contratación.  
+ 
+La presentación al Registro electrónico se realizará a través del formulario “Solicitud de trámites del 
+procedimiento de contratación administrativa de la GERENCIA REGIONAL DE SALUD DE 
+CASTILLA Y LEÓN” que tiene a su disposición en la Sede electrónica de la Administración de la 
+Comunidad de Castilla y León. https://www.tramitacastillayleon.jcyl.es”.  
+ 
+Con carácter previo al registro electrónico de la solicitud, escrito o comunicación y en su caso a los 
+anexos, los documentos deberán ser autenticados mediante una firma electrónica avanzada 
+reconocida, de acuerdo con la Ley 6/2020, de 11 de noviembre, reguladora de determinados 
+aspectos de los servicios electrónicos de confianza. 
+ 
+En el registro electrónico los documentos Anexos deberán ir en formato PDF y cumplir el estándar 
+de firma XML Advanced Electronic Signatures (XAdES).  
+ 
+Si la presentación por Registro electrónico de las solicitudes, escritos y comunicaciones que el 
+contratista dirija al órgano de contratación, se realizará por persona física que carece de facultades 
+para representar a la empresa contratista, deberá obtenerse, antes de su presentación por Registro, 
+de la persona física con facultades de representación, la firma electrónica de la documentación 
+acreditativa del trámite correspondiente.  
+ 
+Para que la firma electrónica de la persona física con poderes que se recaba, pueda reconocerla el 
+Registro electrónico de la Administración de Castilla y León, deberá acceder al apartado Firma 
+Externa de Documentos JCYL, (actualmente en la dirección electrónica https://www.ae.jcyl.es o en 
+el enlace directo disponible en http://www.contratacion.jcyl.es/) y firmar la documentación.  
+ 
+Firmada la documentación se generará un fichero en formato pdf.xml por cada documento firmado, 
+que deberá adjuntarse posteriormente como Anexo en el Registro electrónico por la persona física 
+que vaya a realizar el Registro.  
+ 
+Los documentos que se presenten por los licitadores y contratistas deberán ir en formato PDF y 
+cumplir el estándar de firma XML Advanced Electronic Signatures (XAdES). El tamaño por 
+documento no excederá de 8 MB.  
+ 
+En ningún caso se podrá utilizar el Registro electrónico de la Administración de Castilla y 
+León, ni otra aplicación informática de envío de documentación para presentar las ofertas 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 8 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     8/42 
+Gerencia Regional de Salud 
+ 
+objeto de licitación al no poder garantizar el secreto de las mismas hasta el momento en que 
+proceda su apertura.  
+ 
+2. LICITACIÓN DEL CONTRATO 
+ 
+2.1. PROCEDIMIENTO DE ADJUDICACIÓN. 
+ 
+2.1.1. La adjudicación del contrato se llevará a cabo mediante Procedimiento Abierto Simplificado, de 
+acuerdo con el régimen general previsto en la Subsección Primera y Segunda, Sección Segunda 
+del Capítulo I, del Título I, del Libro II, del LCSP. 
+ 
+2.2. CAPACIDAD PARA CONTRATAR. 
+ 
+2.2.1. Personas naturales o jurídicas 
+ 
+Sólo podrán concurrir a la adjudicación del contrato las personas naturales o jurídicas, españolas 
+o extranjeras, que tengan plena capacidad de obrar, no estén incursas en una prohibición de 
+contratar, y acrediten su solvencia económica, financiera y técnica de la forma establecida en el 
+presente Pliego.  
+ 
+Las personas jurídicas sólo podrán ser adjudicatarias de contratos cuyas prestaciones estén 
+comprendidas dentro de los fines, objeto o ámbito de actividad que, a tenor de sus estatutos o 
+reglas fundacionales, les sean propios.  
+ 
+Los empresarios deberán contar, asimismo, con la habilitación empresarial o profesional que, en 
+su caso, sea exigible para la realización de la actividad o prestación que constituya el objeto del 
+contrato.  
+ 
+Podrán ser excluidas de la licitación las empresas que hubieran participado en la elaboración de 
+las especificaciones técnicas relativas al contrato objeto de la adjudicación, o hubieran 
+asesorado al órgano de contratación durante la preparación del procedimiento de contratación 
+cuando de su participación se derive que se falsee la competencia o se infrinja el principio de 
+igualdad de trato, cuando no haya otro medio de garantizar el cumplimiento del principio de 
+igualdad de trato de conformidad con lo dispuesto en el artículo 70 LCSP. 
+ 
+2.2.2. Empresarios extranjeros. 
+ 
+2.2.2.1. Empresas Comunitarias o de Estados signatarios del Acuerdo sobre el Espacio 
+Económico Europeo. 
+ 
+Tendrán capacidad para contratar con esta Administración, en todo caso, las empresas no 
+españolas de Estados miembros de la Unión Europea o de los Estados signatarios del Acuerdo 
+sobre el Espacio Económico Europeo que, con arreglo a la legislación del Estado en que estén 
+establecidas, se encuentren habilitadas para realizar la prestación de que se trate.  
+ 
+Cuando la legislación del Estado en que se encuentren establecidas estas empresas exija una 
+autorización especial o la pertenencia a una determinada organización para poder prestar en él 
+el servicio de que se trate, deberán acreditar que cumplen este requisito.  
+ 
+2.2.2.2. Empresas no Comunitarias.  
+ 
+Las personas físicas o jurídicas de Estados no pertenecientes a la Unión Europea o de Estados 
+signatarios del Acuerdo sobre el Espacio Económico Europeo deberán justificar mediante 
+informe que el Estado de procedencia de la empresa extranjera admite a su vez la participación 
+de empresas españolas en la contratación con los entes del sector público asimilables a los 
+enumerados en el artículo 3 de La LCSP, en forma sustancialmente análoga. 
+ 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 9 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     9/42 
+Gerencia Regional de Salud 
+ 
+ 
+2.2.3. Uniones de Empresarios 
+ 
+La Administración podrá contratar con Uniones de Empresarios que se constituyan 
+temporalmente al efecto, sin que sea necesaria la formalización de las mismas en escritura 
+pública hasta que se haya efectuado la adjudicación del contrato a su favor. La duración de las 
+uniones temporales de empresarios será, al menos, coincidente con la del contrato hasta su 
+extinción.  
+ 
+Los empresarios que concurran agrupados en uniones temporales quedarán obligados 
+solidariamente y deberán nombrar un representante o apoderado único de la unión con 
+poderes bastantes para ejercitar los derechos y cumplir las obligaciones que del contrato se 
+deriven hasta la extinción del mismo, sin perjuicio de la existencia de poderes 
+mancomunados que puedan otorgar para cobros y pagos de cuantía significativa. 
+ 
+2.3.  INSCRIPCIÓN EN EL REGISTRO OFICIAL DE LICITADORES Y EMPRESAS CLASIFICADAS. 
+ 
+Es requisito que los licitadores estén inscritos en el Registro de Licitadores de la Administración de 
+la Comunidad de Castilla y León (Registro Autonómico) o en el Registro Oficial de Licitadores y 
+Empresas Clasificadas del Sector Público (ROLECE), en la fecha final de presentación de ofertas 
+siempre que no se vea limitada la concurrencia. A estos efectos, también se considerará admisible 
+la proposición del licitador que acredite haber presentado la solicitud de inscripción en el 
+correspondiente Registro junto con la documentación preceptiva para ello, siempre que tal solicitud 
+sea de fecha anterior a la fecha final de presentación de las ofertas. La acreditación de esta 
+circunstancia tendrá lugar mediante la aportación del acuse de recibo de la solicitud emitido por el 
+correspondiente Registro y de una declaración responsable de haber aportado la documentación 
+preceptiva y de no haber recibido requerimiento de subsanación. 
+ 
+2.4. SOLVENCIA DE LOS LICITADORES. 
+ 
+2.4.1. Los licitadores acreditarán estar en posesión de las condiciones mínimas de solvencia 
+económica y financiera y técnica o profesional determinadas por el órgano de contratación, 
+conforme a lo indicado en el apartado 14 del Cuadro de Características. 
+ 
+Podrá exigirse a las personas jurídicas que especifiquen, en la oferta, los nombres y la 
+cualificación profesional del personal responsable de ejecutar la prestación. 
+ 
+Para acreditar la solvencia necesaria el empresario podrá basarse en la solvencia y medios de 
+otras entidades, independientemente de la naturaleza jurídica de los vínculos que tenga con 
+ellas, siempre que demuestre que durante toda la ejecución del contrato dispondrá 
+efectivamente de esa solvencia y medios y la entidad a la que recurra no esté incursa en una 
+prohibición de contratar.  
+ 
+Para la solvencia económica y financiera se podrán exigir formas de responsabilidad conjunta 
+entre la empresa licitadora y las otras entidades en la ejecución del contrato, incluso con carácter 
+solidario conforme a lo indicado en el apartado 22.3 del Cuadro de Características. 
+ 
+2.4.2. En las uniones temporales de empresarios cada uno de los que la componen deberán acreditar 
+su capacidad y solvencia conforme a los artículos 65 y ss LCSP y a lo establecido en el Cuadro 
+de Características del presente Pliego, de acuerdo con los criterios de selección señalados en el 
+apartado 14 del Cuadro de Características, acumulándose, a efectos de la determinación de la 
+solvencia de la Unión Temporal, las características acreditadas por cada uno de las integrantes 
+de la misma. 
+ 
+Los empresarios que concurran agrupados en las uniones podrán recurrir a las capacidades de 
+entidades ajenas a la unión temporal en las mismas condiciones señaladas en el apartado 2.4.1. 
+ 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 10 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     10/42 
+Gerencia Regional de Salud 
+ 
+2.4.3 El momento decisivo para apreciar la concurrencia de los requisitos de capacidad y solvencia 
+exigidos para contratar con la Administración será el de la finalización del plazo de 
+presentación de las proposiciones y debe subsistir en el momento de la perfección del 
+contrato. 
+ 
+2.5. LICITACIÓN. 
+  
+2.5.1. Documentación. 
+ 
+2.5.1.1- Procedimiento que únicamente contiene criterios evaluables mediante fórmulas. 
+ 
+- Sobre o archivo electrónico único: contenido 
+ 
+A) Declaración responsable según Anexo 1 de este pliego. 
+ 
+Si se hubiera presentado la solicitud de inscripción en el ROLECE o Registro autonómico, debe 
+aportar junto con la declaración la siguiente documentación:  
+ 
+-  Acuse de recibo de la solicitud de inscripción emitido por el correspondiente Registro, y  
+- Declaración responsable de haber aportado la documentación preceptiva y de no haber 
+recibido requerimiento de subsanación 
+ 
+B) Oferta Económica. 
+ 
+1- La oferta económica se formulará ajustada al modelo que se adjunta como ANEXO Nº 2 de 
+este Pliego.  
+ 
+2- La oferta económica deberá estar firmada por quien tenga poder suficiente para ello. 
+  
+3- No se aceptarán aquellas ofertas que tengan omisiones, errores, o tachaduras que impidan 
+conocer claramente todo aquello que la Administración estime fundamental para la oferta. 
+ 
+4- El precio ofertado se indicará en euros, debiendo en todo caso aparecer en partida 
+independiente, el Impuesto sobre el Valor Añadido (IVA) que deba ser repercutido. Formará 
+parte del precio cualquier otro tributo que como consecuencia de la realización del servicio 
+pudiera corresponder. 
+ 
+5- Cada licitador no podrá presentar más de una proposición económica. Tampoco podrá 
+suscribir ninguna proposición económica en unión temporal con otras empresas si lo ha 
+hecho individualmente, o figurar en más de una unión temporal. La infracción de estas 
+normas dará lugar a la no admisión de todas las propuestas por él suscritas. 
+ 
+6- Las ofertas económicas no podrán exceder del precio de licitación formulado por la 
+Administración a tanto alzado, establecido en el apartado 12 del Cuadro de Características.  
+ 
+Las ofertas que excedan el precio de la licitación serán rechazadas y excluidas de la 
+licitación. 
+ 
+C) Resto de criterios de adjudicación evaluables mediante aplicación de fórmulas 
+ 
+Se presentarán los documentos que permitan valorar la proposición de acuerdo con los criterios 
+de adjudicación evaluables mediante la mera aplicación de fórmulas y que están indicados en el 
+apartado 15.1.2 del Cuadro de Características de este Pliego (Anexo 3). A los efectos de 
+valoración de la documentación aportada por el licitador, se deberán presentar los documentos 
+firmados. 
+ 
+ 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 11 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     11/42 
+Gerencia Regional de Salud 
+ 
+D) Unión temporal de empresas. 
+ 
+En caso de que la oferta se presentara por una unión temporal de empresarios, a la declaración 
+responsable se deberá acompañar el compromiso de constitución de dicha unión temporal de 
+empresas. 
+ 
+E) Otros documentos complementarios. 
+ 
+Además de la aportación de los documentos reseñados anteriormente, será requisito 
+indispensable para licitar, la presentación de los documentos específicos que se relacionan, en 
+el apartado 20.1 del Cuadro de Características. 
+ 
+ 
+2.5.1.3. CONDICIONES GENERALES PARA LA PRESENTACION DE LA PROPOSICIÓN 
+  
+• Condiciones de la documentación a presentar: 
+Con el fin de dar cumplimiento a lo dispuesto en el artículo 133 LCSP, deberán especificarse 
+expresamente qué documentos de la proposición tienen carácter confidencial y los motivos y 
+circunstancias en base a los cuales debe reconocerse este carácter. Todos los documentos 
+declarados confidenciales deberán llevar estampado un sello con la leyenda 
+“CONFIDENCIAL”. 
+ 
+La documentación se presentará en castellano. En el caso de presentarse alguna 
+documentación en otro idioma o lengua sin la traducción jurada correspondiente, la 
+Administración contratante no considerará dicha documentación. 
+ 
+2.5.2. Plazo de presentación 
+ 
+Conforme a lo dispuesto en el apartado 3º de la Disposición Adicional Decimoquinta las 
+ofertas se presentarán utilizando medios electrónicos a través de la Plataforma de 
+Contratación del Sector Público (https://contrataciondelestado.es), de acuerdo con lo previsto 
+en la Guía de los Servicios de Licitación Electrónica para Empresas que podrán encontrar en 
+el siguiente enlace: https://contrataciondelestado.es/wps/portal/guiasAyuda. A estos efectos, 
+es requisito inexcusable ser un usuario registrado y rellenar tanto los datos básicos como los 
+datos adicionales (Ver Guía de Utilización de la Plataforma de Contratación del Sector Público 
+para Empresas, Guía del Operador Económico, disponible en el anterior enlace.  
+ 
+Los licitadores, con carácter previo a su participación en cualquier procedimiento de licitación 
+de la Gerencia Regional de Salud de Castilla y León, deberán también darse de alta en el 
+procedimiento de contratación administrativa de la GERENCIA REGIONAL DE SALUD DE 
+CASTILLA Y LEÓN accediendo al formulario que tiene a su disposición en la Sede 
+electrónica de la Administración de la Comunidad de Castilla y León. 
+https://www.tramitacastillayleon.jcyl.es “Solicitud de alta/modificación de datos de empresa 
+para la contratación administrativa de la GERENCIA REGIONAL DE SALUD DE CASTILLA 
+Y LEÓN”.  
+ 
+Los documentos que se presenten por los licitadores y contratistas deberán ir en formato PDF 
+y cumplir el estándar de firma XML Advanced Electronic Signatures (XAdES). El tamaño por 
+documento no excederá de 5 MB. 
+  
+Las ofertas deberán enviarse a través de la “Herramienta de Preparación y Presentación de 
+Ofertas” de la Plataforma de contratación del Sector Público (PLCSP), por lo que no se 
+admitirán aquellas ofertas que no sean presentadas a través de esta herramienta o dentro del 
+plazo señalado en el anuncio. 
+ 
+Se presentarán los sobres que se generen en la PLCSP. 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 12 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     12/42 
+Gerencia Regional de Salud 
+ 
+ 
+El plazo para la presentación de las proposiciones empieza el día de la publicación del anuncio 
+de licitación en el Perfil del contratante y concluye en la fecha indicada en el citado anuncio. 
+ 
+Una vez presentada una proposición solo podrá se retirada en el supuesto contemplado en el 
+apartado 4 del artículo 158 de la LCSP. 
+ 
+2.5.3. Justificación de la presentación. 
+ 
+En el momento de la presentación de las proposiciones en la Plataforma de Contratación del 
+Sector Público se proporcionará al solicitante, el resguardo acreditativo del día en que la 
+presentación tenga lugar. 
+ 
+2.5.4. Aceptación incondicionada del licitador de las cláusulas del pliego. 
+ 
+La presentación de proposiciones por parte del licitador supone su aceptación incondicionada 
+del contenido de la totalidad de las cláusulas o condiciones del presente Pliego, sin salvedad o 
+reserva alguna. 
+ 
+3. ADJUDICACIÓN DEL CONTRATO 
+ 
+3.1. ACTUACIONES PREVIAS A LA ADJUDICACIÓN DEL CONTRATO. 
+ 
+La custodia electrónica de las ofertas, la apertura y la evaluación electrónica de la documentación, se 
+realizarán a través de la Plataforma de Contratación del Sector Público.  
+ 
+3.1.1. Mesa de Contratación. 
+ 
+La Mesa de Contratación estará compuesta, de acuerdo con lo establecido en la Ley 3/2001, de 
+3 de julio del Gobierno y de la Administración de la Comunidad de Castilla y León, por un 
+Presidente, un mínimo de tres vocales y un secretario designado por el órgano de contratación. 
+Entre los vocales figurarán necesariamente un Letrado de los Servicios Jurídicos de la 
+Comunidad y un Interventor.  
+ 
+3.1.1.1. Actuaciones de la Mesa de Contratación.  
+ 
+La Mesa de Contratación no se hará cargo de documento alguno que no hubiese sido entregado 
+durante el plazo de admisión de ofertas. 
+ 
+1º.- La Mesa de contratación, en el día y hora señalados en el anuncio de licitación, procederá a 
+la apertura de las proposiciones. 
+ 
+En primer lugar, se verificará que las empresas licitadoras están inscritas en el ROLECE o 
+Registro Autonómico, o han acreditado haber presentado la solicitud de inscripción en el 
+correspondiente Registro junto con la documentación preceptiva para ello, siempre que tal solicitud 
+sea de fecha anterior a la fecha final de presentación de las ofertas. La acreditación de esta 
+circunstancia tendrá lugar mediante la aportación del acuse de recibo de la solicitud emitido por el 
+correspondiente Registro y de una declaración responsable de haber aportado la documentación 
+preceptiva y de no haber recibido requerimiento de subsanación, así como el cumplimiento de los 
+requerimientos del pliego, excluyendo en su caso a los que no cumplan.  
+  
+Serán rechazadas las proposiciones cuyas ofertas económicas excedan del precio de licitación 
+formulado por la Administración en el apartado 12 del Cuadro de Características. 
+ 
+2º.- A continuación, se procede a evaluar los criterios evaluables mediante fórmulas y clasificar las 
+ofertas. 
+  
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 13 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     13/42 
+Gerencia Regional de Salud 
+ 
+Para la adjudicación del contrato se tendrán en cuenta los criterios de adjudicación de las ofertas 
+con la ponderación atribuida a cada uno de ellos, en la forma que se recoge en el apartado 15.1.2. 
+del Cuadro de Características del presente pliego.  
+ 
+ 
+Criterios de desempate: En los casos en que, tras la aplicación de los criterios de adjudicación, 
+se produzca un empate entre dos o más ofertas, en aplicación de lo previsto en el artículo 147 
+LCSP, se procederá tal como se indica en el apartado 15.3 del Cuadro de Características de la 
+siguiente manera: 
+ 
+• En caso de empate, tendrán preferencia en la adjudicación las proposiciones presentadas 
+por las empresas que, al vencimiento del plazo de presentación de ofertas, tengan en su plantilla 
+un porcentaje de trabajadores con discapacidad superior al que les imponga la normativa.  
+• Si varias empresas hubieren empatado, tendrá preferencia el licitador que disponga del 
+mayor porcentaje de trabajadores fijos con discapacidad en su plantilla.  
+ 
+Las empresas acreditarán de la forma establecida en el apartado 20.1.3 del Cuadro de 
+Características, encontrarse en la situación establecida en el citado apartado 15.3 del Cuadro de 
+Características 
+ 
+3º. Realizar la propuesta de adjudicación a favor del candidato con mejor puntuación. 
+ 
+La propuesta de adjudicación del contrato no crea derecho alguno en favor del licitador propuesto 
+frente a la Administración. 
+ 
+En el caso de que la oferta del licitador que haya obtenido la mejor puntuación se presuma que es 
+anormalmente baja por darse los supuestos previstos en el artículo 149 LCSP, de acuerdo con los 
+parámetros objetivos establecidos en el apartado 15.2 seguirá el procedimiento previsto en el 
+citado artículo, si bien el plazo máximo para que justifique su oferta el licitador no podrá superar los 
+5 días hábiles desde el envío de la correspondiente comunicación. 
+ 
+4º. Comprobar que la empresa está debidamente constituida, el firmante de la proposición tiene 
+poder bastante para formular la oferta, ostenta la solvencia económica, financiera y técnica y 
+no está incursa en ninguna prohibición para contratar, bien mediante su verificación en el 
+Registro de Licitadores de la Administración de la Comunidad de Castilla y León o en el 
+Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público, o con aportación de 
+los documentos justificativos u otra prueba documental de los datos que no estén inscritos en 
+cualquiera de esos registros, en el plazo de siete días hábiles concedido para la presentación 
+de la garantía definitiva. 
+ 
+Si el licitador hubiera hecho uso de la facultad de acreditar la presentación de la solicitud de 
+inscripción en el correspondiente Registro a que alude el inciso final de la letra a) del apartado 4 
+del artículo 159 LCSP, la mesa requerirá al licitador para que justifique documentalmente todos los 
+extremos referentes a su aptitud para contratar enunciados en el número 3 de la letra f del 
+apartado 4 del artículo 159 LCSP. 
+ 
+En los casos en que a la licitación se presenten empresarios extranjeros de un Estado miembro de 
+la Unión Europea o signatario del Espacio Económico Europeo, la acreditación de su capacidad, 
+solvencia y ausencia de prohibiciones se podrá realizar bien mediante consulta en la 
+correspondiente lista oficial de operadores económicos autorizados de un Estado miembro, bien 
+mediante la aportación de la documentación acreditativa de los citados extremos, que deberá 
+presentar, en este último caso, en el plazo de siete días hábiles concedido para la presentación 
+de la garantía definitiva. 
+ 
+5º. Requerir a la empresa que ha obtenido la mejor puntuación mediante comunicación 
+electrónica la siguiente documentación para que se presente dentro del plazo de 7 días hábiles, a 
+contar desde el día siguiente a aquel en que hubiera recibido el requerimiento: 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 14 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     14/42 
+Gerencia Regional de Salud 
+ 
+ 
+A) El último recibo del pago del Impuesto sobre Actividades Económicas que justifica el alta en dicho 
+impuesto o, en el caso de alta en el Impuesto de Actividades Económicas en el ejercicio 
+corriente, el documento que justifique el alta en dicho Impuesto referida al mismo ejercicio en el 
+epígrafe correspondiente al objeto del contrato. En ambos casos se acompañará con una 
+declaración responsable de no haberse dado de baja en la matrícula del citado impuesto. No 
+obstante, si las empresas contratistas se encuentran en alguno de los supuestos de exención del 
+Impuesto de Actividades Económicas, recogidos en el artículo 82.1 del Real Decreto Legislativo 
+2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las 
+Haciendas Locales, deberán acreditar que se encuentran al corriente de este tributo mediante el 
+procedimiento que le corresponda de entre los señalados a continuación:  
+ 
+1. Declaración expresa responsable de estar en situación legal de exención en el alta en el 
+impuesto. 
+2. Resolución de la Agencia Estatal de Administración Tributaria de exención de pago del 
+Impuesto en el epígrafe correspondiente, junto con la declaración responsable de que no se ha 
+dado de baja en la matricula del citado impuesto. 
+3. Presentación del documento de alta en el epígrafe correspondiente del impuesto, acompañado 
+de una declaración responsable de que se encuentra exento del pago del impuesto y de que no 
+se ha dado de baja en la matricula del mismo. 
+ 
+B) Certificación administrativa, expedida por el órgano competente en la forma y con los efectos 
+previstos reglamentariamente, de hallarse al corriente en el cumplimiento de sus obligaciones 
+tributarias impuestas por las disposiciones vigentes. 
+ 
+C) Certificación administrativa, expedida por el órgano competente en la forma y con los efectos 
+previstos reglamentariamente, de hallarse al corriente en el cumplimiento de las obligaciones con 
+la Seguridad Social impuestas por las disposiciones vigentes. 
+ 
+D) Declaración responsable ante una autoridad administrativa, notario público u organismo 
+profesional cualificado de que no existen deudas de naturaleza tributaria con la Administración 
+de la Comunidad de Castilla y León. 
+ 
+Cuando el licitador no esté obligado a presentar las declaraciones o documentos exigidos 
+reglamentariamente y referidos en los apartados A) a D) anteriores, se acreditará esta 
+circunstancia mediante declaración responsable. 
+ 
+E) Resguardo acreditativo de haber constituido la garantía definitiva conforme a lo establecido en la 
+cláusula 3.2 de este pliego, cuando así se exija en el apartado 16 del Cuadro de Características.  
+ 
+F) En el caso en el que el licitador haya indicado en la declaración responsable presentada en la 
+licitación que ha solicitado la inscripción en el ROLECE o Registro autonómico, debe aportar la 
+siguiente documentación:  
+ 
+- Declaración responsable de no haber recibido requerimiento de subsanación, o en el caso de 
+haberlo recibido declaración de haber aportado la documentación requerida. 
+ 
+En el supuesto de que el empresario tenga que presentar cualquier otra documentación que no esté 
+inscrita en el Registro de Licitadores, la misma se tendrá que aportar en el plazo de siete días hábiles 
+establecido para presentar la garantía definitiva. 
+ 
+Cuando el empresario tenga que aportar documentos públicos notariales o registrales presentará 
+directamente las copias auténticas de estos documentos públicos ante los servicios dependientes 
+del órgano de contratación. 
+ 
+De no cumplimentarse adecuadamente el requerimiento en el plazo señalado, se entenderá que el 
+licitador ha retirado su oferta, procediéndose a exigirle el importe del 3 por ciento del presupuesto 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 15 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     15/42 
+Gerencia Regional de Salud 
+ 
+base de licitación, IVA excluido, en concepto de penalidad sin perjuicio de lo establecido en la letra a) 
+del apartado 2 del artículo 71. 
+ 
+En el supuesto señalado en el párrafo anterior, se procederá a recabar la misma documentación al 
+licitador siguiente, por el orden en que hayan quedado clasificadas las ofertas. 
+ 
+3.2. GARANTÍA DEFINITIVA.  
+ 
+3.2.1. El adjudicatario deberá constituir una garantía definitiva que deberá prestarse en alguna de las 
+formas establecidas en el artículo 108 LCSP y de acuerdo con lo establecido en el apartado 
+16 del Cuadro de Características. 
+ 
+La garantía se depositará en la Caja General de Depósitos de la Tesorería General de la Junta 
+de Castilla y León o en las Secciones de Tesorería de los Servicios Territoriales de Hacienda de 
+las Delegaciones Territoriales de la Junta de Castilla y León, por el importe señalado en el 
+apartado 16 del Cuadro de Características. 
+ 
+3.2.2. Cuando a consecuencia de la modificación del contrato el precio total del mismo experimente 
+variación, se reajustará la garantía en el plazo de 15 días contados desde la fecha en que se 
+notifique al empresario el acuerdo de modificación, para que guarde la debida proporción con el 
+precio del contrato resultante de la modificación. 
+ 
+3.2.3. En el supuesto de adjudicarse el contrato a una Unión Temporal de Empresas, la garantía 
+definitiva deberá garantizar solidariamente a todas ellas. 
+ 
+3.2.4. La garantía no será devuelta o cancelada hasta que se haya producido el vencimiento del plazo 
+de garantía y cumplido satisfactoriamente el contrato de que se trate, o hasta que se declare la 
+resolución de éste sin culpa del contratista. 
+ 
+3.3. ADJUDICACIÓN DEL CONTRATO. 
+ 
+Dentro de los cinco días hábiles siguientes a la recepción de la documentación, el órgano de 
+contratación deberá adjudicar, mediante resolución motivada, el contrato al licitador que haya 
+presentado la mejor oferta. 
+ 
+3.4. NOTIFICACIÓN A LOS CANDIDATOS O LICITADORES Y PUBLICIDAD DE LAS 
+ADJUDICACIONES.  
+ 
+La resolución de adjudicación se notificará a los candidatos o licitadores de conformidad con lo 
+dispuesto en la LCSP y, simultáneamente, se publicará en el perfil de contratante del órgano de 
+contratación en el plazo de quince días. 
+  
+La notificación deberá contener, en todo caso, la información necesaria que permita al licitador excluido 
+o candidato descartado interponer, recurso suficientemente fundado contra la decisión de la 
+adjudicación, y en particular expresará los extremos indicados en el artículo 151.2 del LCSP. 
+ 
+En todo caso, en la notificación y en el perfil de contratante se indicará el plazo en que debe 
+procederse a su formalización conforme al artículo 153.3 del LCSP. 
+ 
+3.5 DECISIÓN DE NO ADJUDICAR O CELEBRAR EL CONTRATO Y DESISTIMIENTO DEL 
+PROCEDIMIENTO DE ADJUDICACIÓN. 
+ 
+El órgano de contratación, antes de la formalización, podrá decidir no adjudicar o celebrar el contrato 
+por razones de interés público debidamente justificadas en el expediente; así como, desistir del 
+procedimiento, en el caso de que existiera una infracción no subsanable de las normas de preparación 
+del contrato o reguladoras del procedimiento de adjudicación, de conformidad con el artículo 152 LCSP. 
+ 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 16 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     16/42 
+Gerencia Regional de Salud 
+ 
+4. FORMALIZACION DEL CONTRATO 
+ 
+4.1. DOCUMENTACIÓN PREVIA A LA FORMALIZACIÓN. 
+ 
+Antes de la formalización del contrato, el adjudicatario deberá presentar ante el órgano de contratación 
+los siguientes documentos originales: 
+ 
+A) En el caso de que el adjudicatario sea una Unión Temporal de Empresas, deberá presentar la 
+escritura pública de la constitución de la citada Unión Temporal de Empresas, debidamente 
+inscrita en el registro correspondiente, procediéndose a aplicar el importe de la garantía definitiva 
+prestada solidariamente por los miembros de la UTE, de acuerdo con la cláusula 3.2.3, a favor 
+de la misma.  
+ 
+B) En el caso de que tenga intención de subcontratar presentará escrito en el que se ponga de 
+manifiesto al órgano de contratación la intención de subcontratar parte de la prestación de 
+conformidad con lo dispuesto en la cláusula 5.8 del presente PCAP. 
+ 
+C) Cuantos documentos complementarios fuesen requeridos por el órgano de contratación. 
+ 
+4.2. FORMALIZACIÓN. 
+ 
+El contrato deberá formalizarse en documento administrativo que se ajuste con exactitud a las 
+condiciones de licitación, constituyendo dicho documento título suficiente para acceder a cualquier 
+registro público. No obstante, el contratista podrá solicitar que el contrato se eleve a escritura pública, 
+corriendo de su cargo los correspondientes gastos. En ningún caso se podrán incluir en el documento 
+en que se formalice el contrato cláusulas que impliquen alteración de los términos de la adjudicación. 
+ 
+Al contrato que se formalice se unirá como anexo un ejemplar de este Pliego de Cláusulas 
+Administrativas Particulares, con su Cuadro de Características, del Pliego de Prescripciones Técnicas y 
+de la oferta del contratista. 
+ 
+La formalización del contrato deberá efectuarse no más tarde de los quince días hábiles siguientes a 
+aquel en que se realice la notificación de la adjudicación a los licitadores y candidatos en la forma 
+prevista en el artículo 151 LCSP. 
+ 
+Cuando por causas imputables al adjudicatario no se hubiese formalizado el contrato dentro del plazo 
+indicado se le exigirá el importe del 3 por ciento del presupuesto base de licitación, IVA excluido, en 
+concepto de penalidad, que se hará efectivo en primer lugar contra la garantía definitiva, si se hubiera 
+constituido.  
+ 
+En este caso, el contrato se adjudicará al siguiente licitador por el orden en que hubieran quedado 
+clasificadas las ofertas, previa presentación de la documentación establecida en la cláusula 3.1.1.2.5º -
+Presentación de documentación previa a la adjudicación- del presente PCAP resultando de aplicación 
+los plazos establecidos anteriormente. 
+ 
+Si las causas de la no formalización fueren imputables a la Administración, se indemnizará al 
+contratista de los daños y perjuicios que la demora le pudiera ocasionar. 
+ 
+No podrá iniciarse la ejecución del contrato sin su previa formalización. 
+ 
+4.3. PUBLICIDAD DE LA FORMALIZACIÓN DEL CONTRATO.  
+ 
+La formalización de los contratos se publicará junto con el correspondiente contrato, en un plazo no 
+superior a quince días tras el perfeccionamiento del contrato, en el perfil de contratante del órgano de 
+contratación. 
+ 
+ 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 17 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     17/42 
+Gerencia Regional de Salud 
+ 
+5. EJECUCIÓN DEL CONTRATO 
+ 
+5.1. FORMA DE EJECUCIÓN. 
+ 
+5.1.1. El contrato se ejecutará a riesgo y ventura del contratista, con sujeción a las cláusulas del mismo 
+y de acuerdo con las instrucciones que para su interpretación dé la Administración al contratista. 
+El contratista contará con el personal adecuado para la ejecución del contrato. Si fuera necesario 
+procederá inmediatamente a la sustitución del personal preciso de forma que la buena ejecución 
+del contrato quede siempre asegurada. 
+ 
+5.1.2. Cuando la ejecución del contrato así lo aconseje, la Administración podrá recabar del contratista 
+la designación de una persona que actúe como delegado suyo, para organizar la realización del 
+contrato y poner en práctica las observaciones que para el exacto cumplimiento del contrato le 
+fuesen formuladas por el órgano de contratación. 
+ 
+5.1.3. El órgano de contratación determinará si la prestación realizada por el contratista se ajusta a las 
+prescripciones establecidas para su ejecución y cumplimiento, requiriendo, en su caso, la 
+realización de las prestaciones contratadas y la subsanación de los defectos observados con 
+ocasión de su recepción. Si los trabajos efectuados no se adecuan a la prestación contratada, 
+como consecuencia de vicios o defectos imputables al contratista, podrá rechazar la misma 
+quedando exento de la obligación de pago o teniendo derecho, en su caso, a la recuperación del 
+precio satisfecho.  
+ 
+5.1.4. La obtención de cuantas licencias o autorizaciones administrativas que sean precisas correrá 
+siempre a cargo del adjudicatario quien deberá pedirlas en su propio nombre. 
+ 
+5.2. DIRECCIÓN E INSPECCIÓN DE LA EJECUCIÓN DEL CONTRATO. 
+  
+Al responsable del contrato designado en el apartado 22.1 del Cuadro de características de este pliego, 
+le corresponderá supervisar su ejecución y adoptar las decisiones y dictar las instrucciones necesarias 
+con el fin de asegurar la correcta realización de la prestación pactada, de acuerdo con lo dispuesto en 
+el artículo 62 LCSP. 
+ 
+El responsable del contrato tiene la facultad de inspeccionar, establecer sistemas de control de calidad 
+y dictar cuantas disposiciones estime oportunas para el estricto cumplimiento de lo convenido. El coste 
+de estos trabajos, con el límite del 2 por 100 del importe de adjudicación (IVA excluido), será por cuenta 
+del adjudicatario 
+ 
+El contratista facilitará la visita y el examen de cualquier proceso o fase de los trabajos, así como los 
+medios necesarios para que puedan desempeñar, sí así se estimara oportuno, las citadas funciones en 
+las dependencias de aquel. 
+ 
+El contratista o su delegado acompañarán en sus visitas inspectoras al responsable del contrato que 
+tendrá libre acceso a todos los lugares donde se esté desarrollando la ejecución del contrato. 
+ 
+5.3. CONDICIONES ESPECIALES DE EJECUCIÓN DEL CONTRATO 
+ 
+La condición especial de ejecución del contrato es la que con carácter obligatorio se recoge en el 
+apartado 22.2 del Cuadro de Características de este pliego. 
+ 
+Como no se le atribuye el carácter de obligación contractual esencial a la condición especial de 
+ejecución, su incumplimiento dará lugar a las penalidades recogidas en el apartado 22.4 del Cuadro de 
+Características de este pliego, calificándose asimismo como infracción grave a los efectos establecidos 
+en la letra c) del apartado 2 del artículo 71.  
+ 
+   
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 18 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     18/42 
+Gerencia Regional de Salud 
+ 
+Todas las condiciones especiales de ejecución que formen parte del contrato serán exigidas 
+igualmente a todos los subcontratistas que participen de la ejecución del mismo. 
+ 
+5.4. MODIFICACIÓN DEL CONTRATO. 
+ 
+5.4.1. Una vez perfeccionado el contrato, solo podrá modificarse por razones de interés público en los 
+casos previstos en los artículos 203 y siguientes de la LCSP y de acuerdo con el procedimiento 
+regulado en el artículo 191 y 207 de la LCSP.  
+ 
+5.4.2. No podrán introducirse modificaciones en el contenido del contrato sin la debida autorización y 
+aprobación por el órgano de contratación mediante la tramitación del oportuno expediente.  
+ 
+5.5. SUSPENSIÓN DEL CONTRATO. 
+ 
+La suspensión de la ejecución del contrato podrá acordarse por el órgano de contratación, de oficio 
+o a solicitud del contratista, de conformidad con los artículos 208 de la LCSP. 
+ 
+El acta de suspensión será firmada por un representante del órgano de contratación y el contratista 
+y deberá levantarse en el plazo máximo de dos días hábiles, contados desde el día siguiente a 
+aquel en el que se acuerde la suspensión. 
+ 
+Acordada la suspensión, el órgano de contratación abonará al contratista los daños y perjuicios 
+efectivamente sufridos por este con sujeción al punto 2 del artículo 208 de la LCSP. 
+ 
+5.6. ENTREGA DE LOS TRABAJOS Y REALIZACIÓN DE LOS SERVICIOS.  
+ 
+5.6.1. La recepción y liquidación del contrato se realizarán de conformidad con lo dispuesto en el 
+artículo 210 LCSP. 
+ 
+El contratista deberá prestar el servicio correspondiente dentro del plazo estipulado y en las 
+condiciones establecidas en el Pliego de Prescripciones Técnicas, debiendo efectuar, en su 
+caso, la prestación en el lugar y forma indicados en el apartado 18 del Cuadro de Características 
+de este pliego. 
+ 
+5.6.2. Dentro del mes siguiente a la realización del objeto del contrato, o en el que plazo que se 
+determine por razón de sus características en el apartado 18 del Cuadro de Características del 
+presente pliego, se exigirá por parte de la Administración un acto formal y positivo de recepción o 
+conformidad. 
+ 
+5.6.3. La Administración determinará si la prestación realizada por el contratista se ajusta a las 
+prescripciones establecidas para su ejecución y cumplimiento, requiriendo, en su caso, la 
+realización de las prestaciones contratadas y la subsanación de los defectos observados con 
+ocasión de su recepción. Si los trabajos o servicios efectuados no se adecuan a la prestación 
+contratada, como consecuencia de vicios o defectos imputables al contratista, podrá rechazar la 
+misma quedando exento de la obligación de pago o teniendo derecho, en su caso, a la 
+recuperación del precio satisfecho.  
+ 
+En el caso de que el órgano receptor del servicio contratado estimase incumplidas las 
+prescripciones técnicas del contrato, dará por escrito al contratista las instrucciones precisas y 
+detalladas con el fin de remediar las faltas o defectos observados, haciendo constar en dicho 
+escrito el plazo que para ello fije y las observaciones que estime oportunas. 
+ 
+Si existiesen reclamaciones por parte del contratista respecto de las observaciones formuladas 
+por el órgano receptor del servicio, el órgano de contratación, previo informe técnico al respecto 
+resolverá sobre el particular. 
+ 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 19 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     19/42 
+Gerencia Regional de Salud 
+ 
+Si el contratista no reclamase por escrito respecto a las observaciones del órgano receptor se 
+entenderá que se encuentra conforme con las mismas y obligado a corregir o remediar los 
+defectos observados. 
+ 
+5.7. CESIÓN DE CONTRATO.  
+ 
+De conformidad con el artículo 214 de la LCSP los derechos y obligaciones dimanantes del contrato 
+podrán ser cedidos por el contratista a un tercero siempre que las cualidades técnicas o personales 
+del cedente no hayan sido razón determinante de la adjudicación del contrato, y de la cesión no 
+resulte una restricción efectiva de la competencia en el mercado. 
+ 
+Para hacer efectiva la cesión del contrato es necesario: 
+ 
+a) Que el órgano de contratación autorice de forma previa y expresa, la cesión.  
+b) Que el cedente tenga ejecutado al menos un 20 por 100 del importe del contrato.  
+c) Que el cesionario tenga capacidad para contratar con la Administración y la solvencia que 
+resulte exigible en función de la fase de ejecución del contrato, debiendo estar debidamente 
+clasificado si tal requisito ha sido exigido al cedente, y no estar incurso en una causa de prohibición de 
+contratar. 
+d) Que la cesión se formalice, entre el adjudicatario y el cesionario, en escritura pública. 
+ 
+5.8. SUBCONTRATACION. 
+ 
+Se admite subcontratación. 
+ 
+6. DERECHOS Y OBLIGACIONES DE LAS PARTES 
+ 
+6.1. ABONOS AL CONTRATISTA. 
+ 
+6.1.1. El abono del servicio objeto del contrato se condiciona a la declaración de conformidad de la 
+Administración y se realizará en la forma prevista en el apartado 19 del Cuadro de 
+Características de este Pliego. El pago del precio se realizará previa presentación de la factura y 
+expedición por el órgano administrativo correspondiente del acta de recepción o certificación de 
+conformidad según proceda.  
+ 
+6.1.2. Cuando como consecuencia del incumplimiento del plazo se hubiere producido una disminución 
+de prestaciones no recuperables y este perjuicio no deba correr a cargo de la Administración, en 
+virtud de la legislación aplicable, o de lo establecido en el Pliego de Prescripciones Técnicas, se 
+reducirá la parte del precio que corresponda a dichas prestaciones. Las reducciones o 
+deducciones en el abono del precio que procedan por la disminución de prestaciones no 
+recuperables o la baja en el rendimiento convenido se producirán con independencia de los 
+efectos de la indemnización, resolución, con o sin pérdida de fianza, o penalidad a que pudiera 
+dar lugar el incumplimiento del plazo.  
+ 
+6.1.3. Conforme al punto 1 de la Disposición Adicional del Decreto 3/2013, de 24 de enero, por el 
+que se crea la Plataforma de Facturación Electrónica de la Comunidad de Castilla y León, el 
+contratista está obligado a facturar electrónicamente a través de la Plataforma de Facturación 
+Electrónica las contraprestaciones objeto del contrato. Con las excepciones fijadas en el 
+artículo único del Decreto 16/2015, de 26 de febrero, por el que se excluyen de la obligación 
+de facturación electrónica determinadas facturas. 
+ 
+El contratista deberá consignar, en las facturas electrónicas que emita, el código de contrato, 
+del que deriva la factura en cualquiera de estas dos etiquetas 3.1.6.1.5. Receiver Contract 
+Reference / 3.1.6.1.7. Receiver Transaction Reference.  
+ 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 20 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     20/42 
+Gerencia Regional de Salud 
+ 
+6.1.4. Las facturas que emita el contratista se abonarán mediante transferencia bancaria. Éstas 
+deberán incluir todos los justificantes documentales y reunir los requisitos que conforme a las 
+normas vigentes resulten procedentes. 
+ 
+6.2. REVISIÓN DE PRECIOS.  
+                                                                                                                                                                                                                                                                                                                                                                                
+En aplicación de lo establecido en los artículos 103 y ss. LCSP los precios de este contrato no serán 
+objeto de revisión. 
+  
+6.3. OBLIGACIONES Y GASTOS EXIGIBLES AL CONTRATISTA. 
+ 
+6.3.1. Obligaciones del contratista.  
+  
+El contratista estará obligado al cumplimiento de la normativa vigente en materia 
+medioambiental, laboral y de protección de datos establecidas en el derecho de la Unión 
+Europea, en el derecho nacional o por las disposiciones de derecho internacional que vinculen al 
+Estado, en particular las establecidas en el anexo V de la LCSP. 
+ 
+Asimismo es de obligado cumplimiento la normativa de Seguridad Social y de Seguridad y Salud 
+en el Trabajo, y cumplir las condiciones salariales de los trabajadores conforme al Convenio 
+Colectivo sectorial de aplicación respecto de los trabajos objeto del contrato, sin que, en ningún 
+caso, pueda alegarse derecho alguno por el personal de que disponga el contratista para la 
+ejecución del contrato, en relación con la Administración contratante, ni exigirse a ésta 
+responsabilidades de cualquier clase como consecuencia de las obligaciones existentes entre el 
+adjudicatario y sus empleados, aun en el supuesto de que los despidos o medidas que se 
+adopten se basen en el incumplimiento, interpretación o resolución del contrato. 
+ 
+6.3.2. Gastos exigibles al contratista.  
+ 
+El contratista está obligado a satisfacer los gastos que se deriven de la formalización del contrato 
+en escritura pública, los que se requieran para la obtención de autorizaciones, licencias, 
+documentos o cualquier otra información de Organismos Oficiales o particulares, los 
+correspondientes a pruebas, ensayos, etc, y, en general, cualesquiera otros gastos a que 
+hubiera lugar para la prestación del servicio.  
+ 
+La obtención de cuantas licencias o autorizaciones administrativas sean precisas correrá 
+siempre a cargo del adjudicatario, que deberá pedirlas en su propio nombre.  
+ 
+6.3.3. Penalidades administrativas.  
+ 
+Dará lugar a la imposición de las penalidades establecidas en el artículo 192 de la LCSP o 
+las que, en su caso, se establezcan en el apartado 22.4 del Cuadro de Características de 
+este pliego: 
+ 
+- el cumplimiento defectuoso de la prestación objeto del contrato, por parte del contratista. 
+- el incumplimiento de la condición especial de ejecución del contrato del artículo 202 de la 
+LCSP que no tiene el carácter de obligación contractual esencial. 
+  
+De conformidad con el artículo 193 de la LCSP, cuando el contratista, por causas imputables al 
+mismo, hubiere incurrido en demora respecto al cumplimiento del plazo total o parcial y la 
+Administración no opte por la resolución, procede la imposición de las penalidades establecidas 
+en el citado artículo, o las que, en su caso, se establezcan en el citado apartado 22.4 del Cuadro 
+de Características. 
+ 
+Las penalidades previstas en los dos párrafos anteriores se impondrán por acuerdo del órgano 
+de contratación, adoptado a propuesta del responsable del contrato, previa audiencia al 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 21 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     21/42 
+Gerencia Regional de Salud 
+ 
+contratista, que será inmediatamente ejecutivo, y se harán efectivas mediante deducción de las 
+cantidades que, en concepto de pago total o parcial, deban abonarse al contratista o sobre la 
+garantía que, en su caso, se hubiese constituido, cuando no puedan deducirse de los 
+mencionados pagos. 
+ 
+La aplicación y pago de estas penalidades no excluye la indemnización a que la Administración 
+pueda tener derecho por daños y perjuicios ocasionados con motivo del retraso imputable al 
+contratista. 
+ 
+7. EXTINCIÓN DEL CONTRATO 
+                                                                                                     
+7.1. CUMPLIMIENTO DEL CONTRATO.      
+ 
+7.1.1. Cumplimiento. 
+ 
+El contrato se entenderá cumplido por el contratista cuando éste haya realizado la totalidad de la 
+prestación de acuerdo con los términos del mismo y a satisfacción de la Administración. 
+ 
+7.1.2. Plazo de garantía. 
+ 
+7.1.2.1. El plazo de garantía será el establecido en el apartado 17 del Cuadro de Características a 
+contar desde la fecha de recepción o conformidad, transcurrido el cual, sin objeciones por parte de 
+la Administración, y salvo los supuestos en que se establezca otro plazo en otras normas, quedará 
+extinguida la responsabilidad del contratista.  
+ 
+7.1.2.2. Si durante el plazo de garantía se acreditase la existencia de vicios o defectos en los 
+trabajos efectuados tendrá derecho la Administración a reclamar del contratista la subsanación de 
+los mismos 
+ 
+7.1.2.3. Terminado el plazo de garantía sin que la Administración haya formalizado alguno de los 
+reparos o la denuncia a que se refieren los apartados anteriores, el contratista quedará exento de 
+responsabilidad por razón de la prestación efectuada, sin perjuicio de lo establecido en los 
+artículos 314 y 315 del LCSP sobre subsanación de errores y responsabilidad en los contratos que 
+tengan por objeto la elaboración de proyectos de obras.  
+ 
+7.1.3. Liquidación del contrato. 
+ 
+La liquidación del contrato se efectuará a la conclusión del plazo de garantía, en la forma y con 
+los efectos establecidos en el artículo 210 de la LCSP. 
+ 
+Transcurrido el plazo de garantía y aprobada la liquidación del contrato, si no resultaren 
+responsabilidades para el contratista, se devolverá la garantía constituida de acuerdo con lo 
+establecido en el artículo 111 de la LCSP. 
+ 
+7.2. RESOLUCIÓN DEL CONTRATO.  
+ 
+El contrato podrá extinguirse por cualquiera de las causas de resolución enunciadas en el artículo 211 
+de la LCSP, o por las causas específicas establecidas en su artículo 313 de la citada LCSP.  
+ 
+Asimismo, será causa de resolución del contrato el incumplimiento de las obligaciones esenciales 
+calificadas como tales en el apartado 22.8 del Cuadro de Características del pliego. 
+ 
+Los efectos de la resolución se determinarán de acuerdo con lo dispuesto en los artículos 213 y 313 del 
+citado texto normativo. 
+ 
+ 
+ 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 22 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     22/42 
+Gerencia Regional de Salud 
+ 
+ 
+8. RESPONSABILIDAD DEL CONTRATISTA  
+ 
+8.1. El contratista responderá de todos los daños y perjuicios causados a la Administración dentro del 
+proceso contractual y a él imputables. La cantidad en que se concreten tales daños, será exigible 
+por la vía de apremio administrativo. 
+ 
+8.2. El contratista será responsable de la calidad técnica de los trabajos que desarrolle y de las 
+prestaciones y servicios realizados, así como de las consecuencias que se deduzcan para la 
+Administración o para terceros de las omisiones, errores, métodos inadecuados o conclusiones 
+incorrectas en la ejecución del contrato, debiendo indemnizar en este caso a la Administración y/o a 
+terceros perjudicados. 
+ 
+8.3. Igualmente serán de cuenta del contratista los daños y perjuicios que se causen a terceros como 
+consecuencia de las operaciones que requiera la ejecución del contrato. 
+ 
+9. REGIMEN JURÍDICO 
+ 
+9.1. NORMAS GENERALES. 
+ 
+El contrato que se regula por el presente Pliego es de naturaleza administrativa y se regirá, en cuanto a 
+su preparación, adjudicación, efectos y extinción, para lo no previsto en él, por la Ley 9/2017, de 8 de 
+noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico 
+español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de 
+febrero de 2014, por sus disposiciones de desarrollo, por el Reglamento General de la Ley de 
+Contratos de las Administraciones Públicas aprobado por el Real Decreto 1098/2001, de 12 de octubre, 
+(B.O.E. de 26 de octubre), modificado por el Real Decreto 773/2015, de 28 de agosto (BOE de 5 de 
+septiembre), por el Real Decreto 817/2009, de 8 de mayo (BOE de 15 de mayo) por el que se 
+desarrolla parcialmente la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público, en cuanto 
+no contradigan a la LCSP y a sus disposiciones de desarrollo; supletoriamente se aplicarán las 
+restantes normas de derecho administrativo y, en su defecto, las normas de derecho privado. A todas 
+ellas quedan sometidas expresamente ambas partes. 
+ 
+El presente Pliego de Cláusulas Administrativas Particulares, el Pliego de Prescripciones Técnicas y 
+demás documentos anexos, así como la oferta presentada por el licitador revestirán carácter 
+contractual. Los contratos se ajustarán al contenido de los pliegos citados y de la oferta presentada por 
+el licitador, siendo sus cláusulas parte integrante de los mismos. 
+ 
+En caso de discordancia entre cualquier documento contractual y el presente Pliego de Cláusulas 
+Administrativas Particulares prevalecerá este último, salvo que en el documento contractual se 
+establezca otra jerarquía. 
+ 
+9.2. RECURSOS ORDINARIOS. 
+ 
+En los contratos de servicios cuyo valor estimado sea igual o inferior a cien mil euros, y cuando sea 
+superior a dicho importe y se trate de actos no sujetos a recurso especial en materia de contratación, 
+podrán interponerse los recursos ordinarios previstos en la Ley 39/2015 de Procedimiento 
+Administrativo Común de las Administraciones Públicas. 
+ 
+Contra este pliego y contra los demás actos de este expediente se podrá interponer recurso de 
+reposición, con carácter potestativo, de acuerdo con el artículo 123 de la Ley 39/2015 de 
+Procedimiento Administrativo Común de las Administraciones Públicas, con carácter previo al recurso 
+contencioso administrativo. El plazo de interposición del recurso es de un mes a partir del día 
+siguiente a aquel en que tenga lugar la notificación o publicación del acto de que se trate.     
+ 
+ 
+ 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 23 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     23/42 
+Gerencia Regional de Salud 
+ 
+9.3. PROTECCIÓN DE DATOS DE CARÁCTER PERSONAL. 
+ 
+9.3.1. El adjudicatario está obligado expresamente al cumplimiento de lo establecido en la 
+legislación europea y nacional respecto del tratamiento de los datos.  
+ 
+9.3.2. El adjudicatario se compromete a tratar dichos datos personales observando los principios 
+exigibles por la legislación en materia de protección de datos, en particular los relativos a la 
+calidad de los datos, seguridad de los mismos y deber de secreto, así como a cumplir las 
+instrucciones recibidas de la Gerencia Regional de Salud de Castilla y León, no aplicando o 
+utilizando dichos datos con finalidades distintas a las especificadas. 
+ 
+9.3.3. El adjudicatario deberá observar el secreto profesional respecto de los datos personales 
+objeto de tratamiento, manteniendo absoluta confidencialidad y reserva sobre cualquier dato 
+que pudiera conocer con ocasión del cumplimiento de los servicios prestados, no 
+comunicando a ningún tercero, ni siquiera para su conservación, los datos facilitados por la 
+Gerencia Regional de Salud de Castilla y León como responsable del fichero. Esta obligación 
+subsistirá aún después de finalizar sus relaciones con el titular del fichero o, en su caso, con 
+el responsable del mismo. 
+ 
+9.3.4. En el supuesto de que el adjudicatario, como encargado del tratamiento de los datos, los 
+destine a finalidad distinta a la estipulada, los comunique o utilice incumpliendo las 
+instrucciones fijadas en el presente contrato, será considerado también responsable del 
+tratamiento, respondiendo de las infracciones en que hubiera incurrido. 
+ 
+9.3.5. La empresa adjudicataria, como encargada del tratamiento de los datos, se compromete a la 
+observancia de las medidas de seguridad correspondientes al tratamiento de los datos 
+personales de la Gerencia Regional de Salud de Castilla y León, a los que tiene acceso, de 
+acuerdo al nivel de protección que corresponda a los datos facilitados, según lo establecido 
+en la legislación vigente de protección de datos de carácter personal. 
+ 
+9.3.6. El adjudicatario, una vez cumplida la responsabilidad contractual, se compromete a devolver 
+a la Gerencia Regional de Salud de Castilla y León, los datos objeto de tratamiento, soportes 
+o documentos en que estos consten, así como a destruir aquellos según instrucciones del 
+responsable del tratamiento.  
+ 
+9.4. PRERROGATIVAS DE LA ADMINISTRACIÓN Y JURISDICCIÓN COMPETENTE.  
+ 
+El órgano de contratación, dentro de los límites y con sujeción a los requisitos y efectos señalados en el 
+artículo 190 LCSP, ostenta la prerrogativa de interpretar los contratos administrativos, resolver las 
+dudas que ofrezca su cumplimiento, modificarlos por razones de interés público, declarar la 
+responsabilidad imputable al contratista a raíz de la ejecución del contrato, suspender la ejecución del 
+mismo, acordar su resolución, determinar los efectos de esta y la inspección de las actividades del 
+contratista, limitando su ejercicio a los aspectos que tengan relación con la ejecución del contrato. 
+ 
+Dichos acuerdos pondrán fin a la vía administrativa y serán inmediatamente ejecutivos. 
+  
+De conformidad con el artículo 27 de la LCSP el orden jurisdiccional competente es el contencioso – 
+administrativo establecido en la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso - 
+Administrativa. 
+ 
+10. ANEXOS AL PRESENTE PLIEGO 
+ 
+Los Anexos que se relacionan a continuación constituyen parte integrante del presente Pliego de Cláusulas 
+Administrativas Particulares. 
+ 
+- CUADRO DE CARACTERÍSTICAS DEL PLIEGO DE CLÁUSULAS ADMINISTRATIVAS 
+PARTICULARES QUE HABRÁ DE REGIR EN LA CONTRATACIÓN DEL SERVICIO DE 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 24 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     24/42 
+Gerencia Regional de Salud 
+ 
+ASISTENCIA TÉCNICA ESPECIALIZADA PARA EL ANÁLISIS FUNCIONAL, DISEÑO, 
+CONFIGURACIÓN, PARAMETRIZACIÓN E IMPLANTACIÓN DE UN REPOSITORIO Y 
+BUSCADOR DE ACTIVOS DE SALUD DE CASTILLA Y LEÓN EN EL PORTAL DE SALUD 
+COMUNITARIA DE LA GERENCIA REGIONAL DE SALUD DE CASTILLA Y LEÓN, 
+MEDIANTE PROCEDIMIENTO ABIERTO SIMPLIFICADO. 
+ - ANEXO Nº 1.- Declaración responsable. 
+- ANEXO Nº 2.- Modelo de oferta económica.  
+- ANEXO Nº 3.- Resto de criterios evaluables mediante fórmulas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 25 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     25/42 
+Gerencia Regional de Salud 
+ 
+ 
+CUADRO DE CARACTERÍSTICAS DEL PLIEGO DE CLÁUSULAS ADMINISTRATIVAS 
+PARTICULARES QUE HABRÁ DE REGIR EN LA CONTRATACIÓN DEL SERVICIO DE ASISTENCIA 
+TÉCNICA ESPECIALIZADA PARA EL ANÁLISIS FUNCIONAL, DISEÑO, CONFIGURACIÓN, 
+PARAMETRIZACIÓN E IMPLANTACIÓN DE UN REPOSITORIO Y BUSCADOR DE ACTIVOS DE 
+SALUD DE CASTILLA Y LEÓN EN EL PORTAL DE SALUD COMUNITARIA DE LA GERENCIA 
+REGIONAL DE SALUD DE CASTILLA Y LEÓN, MEDIANTE PROCEDIMIENTO ABIERTO 
+SIMPLIFICADO. 
+ 
+1.- ÓRGANO DE CONTRATACIÓN 
+Director Económico Presupuestario y Financiero de la Gerencia Regional de Salud de Castilla y León. 
+ 
+2.- CENTROS PETICIONARIOS VINCULADOS AL PROCEDIMIENTO 
+Gerencia Regional de Salud de Castilla y León. 
+ 
+3.- REFERENCIA DEL EXPEDIENTE DE CONTRATACIÓN 
+SAT 2020017293 - 027/2027 
+ 
+4.- PROCEDIMIENTO, IDENTIFICACION DEL PLIEGO Y RECURSOS 
+4.1. Procedimiento: Abierto simplificado  
+4.2. Identificación del Pliego:  
+     4.3. Tramitación:  Ordinaria           Urgente       
+4.4. Recursos:  
+ Valor estimado igual o inferior a cien mil euros Con carácter previo al recurso contencioso 
+administrativo, y con carácter potestativo podrá interponerse recurso de reposición contra este 
+pliego y contra los demás actos de este expediente, de acuerdo con el artículo 123 de la Ley 
+39/2015 de Procedimiento Administrativo de las Administraciones Públicas. El plazo de interposición 
+del recurso es de un mes a partir del día siguiente a aquel en que tenga lugar la notificación o 
+publicación del acto de que se trate.     
+ 
+ 
+5.- OBJETO DEL CONTRATO 
+ 
+5.1 Definición: El objeto del presente pliego es contratar el SERVICIO DE ASISTENCIA TÉCNICA 
+ESPECIALIZADA PARA EL ANÁLISIS FUNCIONAL, DISEÑO, CONFIGURACIÓN, PARAMETRIZACIÓN 
+E IMPLANTACIÓN DE UN REPOSITORIO Y BUSCADOR DE ACTIVOS DE SALUD DE CASTILLA Y 
+LEÓN EN EL PORTAL DE SALUD COMUNITARIA DE LA GERENCIA REGIONAL DE SALUD DE 
+CASTILLA Y LEÓN 
+ 
+Este proyecto se financia a cargo de los créditos de las líneas aprobadas por el Consejo Interterritorial 
+del Sistema Nacional de Salud (CISNS), el 10/07/2026 (aplicación presupuestaria 26.04.313B.456), 
+como apoyo a la implantación del Plan de Acción Atención Primaria y Comunitaria 2025-2027. 
+ 
+   5.1.1- Tratamiento de datos personales:  
+ 
+ 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 26 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     26/42 
+Gerencia Regional de Salud 
+ 
+ SI.  
+ El tratamiento de datos se realizará en servidores de la Gerencia Regional 
+de Salud     
+El tratamiento de datos se realizará en servidores determinados por la 
+empresa adjudicataria y ajenos a la Gerencia Regional de Salud. 
+La obligación de la finalidad del tratamiento de datos personales tiene carácter esencial a los 
+efectos de lo previsto en la letra f) del apartado 1 del artículo 211 de la Ley de Contratos del 
+Sector Público. 
+       NO.     
+5.1.2-El contrato comprende servicios que conllevan prestaciones directas a favor de la 
+ciudadanía (Artículo 312 LCSP): 
+ SI. En este caso establecer el régimen jurídico de la prestación del servicio en el apartado 22.9.2 
+de este cuadro de características           
+       NO 
+5.2 Códigos de Clasificación 
+          Código CPA: CPA: 62.20.20  “Servicios de consultoría sobre sistemas y programas 
+informáticos”. 
+          Código CPV: 72263000-6 “Servicios de implementación de software”. 
+5.3. Lotes: 
+ SI           
+ NO 
+ 
+La presente licitación no se divide en lotes debido a que las distintas actuaciones que integran el 
+objeto del contrato incluyendo el análisis funcional, modelado de información, parametrización, 
+configuración de la solución sobre la plataforma corporativa existente, validación, implantación y 
+transferencia de conocimiento, constituyen una actuación técnica única e indivisible. 
+La ejecución independiente de estas prestaciones por distintos adjudicatarios podría comprometer 
+la adecuada integración de la solución con el Portal de Salud Comunitaria y con la plataforma 
+Proxia®Suite, dificultando la coordinación técnica y la correcta consecución de los objetivos del proyecto. 
+Por ello, se considera necesaria una ejecución integrada y una coordinación técnica única que 
+garantice la compatibilidad, continuidad y correcto funcionamiento de la solución resultante. 
+ 
+6.- NATURALEZA Y EXTENSIÓN DE LAS NECESIDADES A SATISFACER 
+La Gerencia Regional de Salud viene impulsando diferentes actuaciones orientadas al fortalecimiento de 
+la Salud Comunitaria en el ámbito de la Atención Primaria, promoviendo la identificación y utilización de 
+recursos comunitarios que contribuyan a mejorar el bienestar y la calidad de vida de la población. 
+Actualmente, los profesionales sanitarios desarrollan actividades relacionadas con la identificación y 
+recomendación de activos de salud existentes en su entorno de actuación. Sin embargo, la información 
+relativa a dichos recursos se encuentra frecuentemente dispersa, distribuida en diferentes soportes y 
+gestionada mediante procedimientos no homogéneos, dificultando su consulta, actualización y utilización 
+sistemática. 
+La implantación de un repositorio y buscador de activos de salud permitirá disponer de una herramienta 
+para el análisis funcional, la configuración, parametrización, integración e implantación de esta solución 
+sobre la plataforma corporativa existente, por lo que resulta necesaria la contratación de un servicio de 
+asistencia técnica especializada que permita desarrollar estas actuaciones con las debidas garantías 
+técnicas. 
+La actuación se enmarca en las iniciativas de mejora de las herramientas digitales de apoyo a la salud 
+comunitaria contempladas en el Plan de Acción de Atención Primaria y Comunitaria 2025-2027. 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 27 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     27/42 
+Gerencia Regional de Salud 
+ 
+ 
+7.- VARIANTES 
+Admite variantes:  
+ NO 
+ SI  
+Obligatoriedad de presentar Oferta base   
+       NO    
+       SI 
+Número de variantes: ….. 
+Elementos y condiciones (requisitos mínimos, modalidades y características de presentación): ……. 
+ 
+8.- PLAZO DE EJECUCIÓN 
+8.1 Plazo de ejecución:    
+8.1.1 Duración inicial del contrato: 11 meses.    
+8.1.2 Fecha a partir de la cual produce efectos el contrato: desde el 1 de enero de 2027, o desde la 
+fecha indicada en el documento de formalización del contrato, si esta fuera posterior.      
+8.2 Duración máxima del contrato, incluidas la/s prórroga/s: 11 meses.  
+8.3 Plazos parciales: 
+       SI   Definir: ………. 
+       NO 
+ 
+9.- PRÓRROGA 
+    El Pliego admite la prórroga: 
+      SI.  Obligatoria para el empresario.  
+- Duración total de la/s prórroga/s:  
+- Plazo del preaviso si es superior a dos meses: … 
+ NO 
+ 
+10.- CREDITO PRESUPUESTARIO 
+10.1 El crédito presupuestario es: (presupuesto base de licitación IVA incluido): 68.098,81 €    
+10.2 Distribución del crédito presupuestario por anualidades: (Ejercicios Presupuestarios) 
+  Años      Aplicación Presupuestaria     Crédito presupuestario: (presupuesto base de licitación IVA 
+incluido)  
+2027           05.22.312A01.22706.0                     68.098,81 € 
+10.3 Tramitación presupuestaria del expediente      
+  Tramitación normal del expediente. 
+ Tramitación anticipada del expediente: “La adjudicación del contrato está sometida a la 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 28 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     28/42 
+Gerencia Regional de Salud 
+ 
+condición suspensiva de existencia de crédito adecuado y suficiente para financiar las 
+obligaciones derivadas del mismo en el ejercicio presupuestario correspondiente.” 
+ 
+11.- PRESUPUESTO BASE DE LICITACION 
+11.1 El presupuesto base de licitación (IVA incluido) es: 68.098,81 €    
+11.2 Desglose del presupuesto base de licitación:    
+- Costes directos laborales estimados: 43.958,27 € correspondientes a la estimación del personal 
+descrito en el Pliego de Prescripciones Técnicas, calculada conforme a las tablas salariales del 
+XIX Convenio Colectivo Estatal de Empresas de Consultoría, Tecnologías de la Información, 
+Estudios de Mercado y de la Opinión Pública, Área 3 (Desarrollo de Software, Programación y 
+Explotación de Sistemas), vigentes para el ejercicio 2027. Para su determinación se ha 
+considerado una duración estimada del contrato de once meses, así como los costes 
+empresariales asociados al personal (cotizaciones a la Seguridad Social y demás costes 
+laborales), estimados en un 32,15 % sobre los costes salariales. 
+Las posibles empresas licitadoras, suelen dedicarse al sector de la consultoría, que engloba multitud 
+de servicios de diverso tipo. 
+ 
+- Costes indirectos: 3.335,85 € 
+- Gastos de administración, publicidad, mantenimiento de la red comercial…: 6.148,24 € (13%) 
+- Beneficio industrial: 2.837,65 € (6%) 
+- IVA: 11.818,80 € (21%) 
+ 
+12.-DETERMINACION DEL PRECIO 
+ 
+12.1 Determinación del PRECIO mediante precio a tanto alzado y aplicaciones presupuestarias: 
+ 
+PRECIO (Sin IVA) 
+CUANTÍA 
+DEL IVA 
+(21%) 
+PRECIO  (Incluido IVA) APLICACIÓN PRESUPUESTARIA 
+56.280,01 € 11.818,80 €    68.098,81 €    05.22.312A01.22706.0        
+ 
+12.2 Precios parciales: 
+       SI   Definir: …… 
+       NO 
+12.3 Revisión de precios:       
+ NO. (Artículo 103 del LCSP) 
+ SI. Fórmula o sistema de revisión de precios: …. 
+ 
+GRUPO NIVEL
+SALARIO 
+ANUAL SEGÚN 
+CONVENIO 
+2027
+SALARIO PARA 
+11 MESES DEL 
+CONTRATO
+NÚMERO DE 
+TRABAJADORES
+DEDICACION 
+ESTIMADA
+SALARIO 
+CONTRATO
+GASTOS S.S. 
+Y OTROS 
+32,15%
+COSTE TOTAL 
+CONTRATO
+A 1 31.831,50 € 29.178,88 € 3 38% 33.263,92 € 10.694,35 € 43.958,27 €
+TOTAL 43.958,27 €
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 29 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     29/42 
+Gerencia Regional de Salud 
+ 
+13.- VALOR ESTIMADO 
+13.1 Valor estimado del contrato de acuerdo con lo dispuesto en el artículo 101 del LCSP (sin IVA): 
+56.280,01 €  
+13.2 Método de cálculo aplicado:  
+- Importe de licitación (IVA excluido): 56.280,01 €  
+13.3 Contrato sujeto a regulación armonizada 
+ NO.  SI 
+ 
+ 
+14.- SOLVENCIA ECONÓMICA, FINANCIERA Y TÉCNICA O PROFESIONAL 
+14.1 Solvencia económica y financiera: Medios de acreditación y condiciones mínimas:   
+La solvencia económica y financiera se acreditará, de conformidad con lo establecido en el art. 87.1.a) de la 
+ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, mediante un volumen anual de negocios en 
+las cuentas anuales aprobadas y depositadas en el Registro Mercantil, si el empresario estuviera inscrito en 
+dicho registro, o en caso contrario, en las depositadas en el registro oficial en que deba estar inscrito, 
+referido al mejor de los tres últimos ejercicios, por una cuantía igual o superior a 56.280,01 € en el año de 
+mayor ejecución. Los empresarios individuales no inscritos en el Registro Mercantil acreditarán su volumen 
+anual de negocios mediante sus libros inventarios y cuentas anuales legalizados por el Registro Mercantil.  
+El volumen de negocios se acreditará mediante certificación, nota simple o información análoga expedida 
+por el Registro, que contenga las cuentas anuales, siempre que esté vencido el plazo de presentación y se 
+encuentren depositadas.  
+14.2 Solvencia técnica o profesional: Medios de acreditación y condiciones mínimas:   
+La solvencia técnica o profesional se acreditará, de conformidad con lo establecido en el art. 90.1.a) de la 
+ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, mediante relación de los principales 
+servicios o trabajos realizados de igual o similar naturaleza que los que constituyen el objeto del contrato en 
+el curso de, como máximo los tres últimos años, por un importe mínimo global de 42.977,46 € en el año de 
+mayor ejecución, en la que se indique el importe, la fecha y el destinatario, público o privado de los mismos. 
+Los servicios efectuados se acreditarán mediante certificados expedidos o visados por el órgano 
+competente, cuando el destinatario sea una entidad del sector público; cuando el destinatario sea un sujeto 
+privado, mediante un certificado expedido por éste o, falta de este certificado, mediante una declaración del 
+empresario acompañada de los documentos obrantes en poder del mismo que acrediten la realización de la 
+prestación.  
+Se considera que un servicio es de igual o similar naturaleza al que constituye el objeto del contrato, si los 
+tres primeros dígitos del código de la Common Procurement Vocabulary (CPV) correspondiente al 
+suministro coinciden con los tres primeros dígitos del código de la CPV indicado en el apartado 5.2 de este 
+cuadro de características (722).  
+14.3 Solvencia adicional para servicios (medios personales y /o materiales) 
+……. 
+14.4 Solvencia y capacidad para cada combinación de ofertas integradoras: 
+  -1: 
+  -2:……….. 
+14.5 Solvencia técnica para empresas de nueva creación: 
+Declaración indicando el equipo técnico del que se dispondrá para la ejecución de los trabajos o 
+prestaciones, requiriendo al menos un técnico titulado en Formación Profesional de Grado Superior 
+relacionada con las tecnologías de la información y comunicaciones. 
+ 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 30 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     30/42 
+Gerencia Regional de Salud 
+ 
+15.- CRITERIOS DE ADJUDICACIÓN DE LAS OFERTAS 
+15.1 Relación de los criterios 
+15.1.1 Criterios de juicio de valor  
+ Forma de valoración Ponderación 
+1.-    
+2.-    
+...   
+ 
+UMBRAL MÍNIMO DE PONDERACIÓN QUE, EN EL CONJUNTO DE LOS CRITERIOS CUALITATIVOS 
+QUE DEPENDEN DE UN JUICIO DE VALOR, DEBEN OBTENER LAS OFERTAS PARA CONTINUAR 
+EN EL PROCEDIMIENTO DE LICITACIÓN: 
+□ En caso de aplicación, deberá establecerse aquí el umbral mínimo fijado para la licitación, que en ningún 
+caso será inferior al 50 % de la puntuación en el conjunto de los criterios cualitativos que dependen de un 
+juicio de valor [artículo 146.3 LCSP]: 
+15.1.2 Criterios evaluables mediante fórmulas (Máximo 100 puntos) 
+ Forma de valoración Ponderación 
+(Máximo 100 
+puntos) 
+1.- Oferta 
+Económica  
+ 
+PO= Pc*(Omi/Oe) 
+ 
+PO: puntos oferta 
+Pc: puntos criterio 
+Omi: Oferta mínimo importe 
+Oe: Oferta a evaluar 
+ 
+Se otorgará la puntuación máxima a la propuesta con 
+mayor baja, 0(cero) puntos a las ofertas al tipo y se 
+puntuará proporcionalmente a las demás.  
+Máximo 49 Puntos 
+2.- Perfil 
+Profesional 
+Se valorará con: 
+4 puntos por cada miembro del equipo que posea 
+alguna de estas titulaciones universitarias: 
+✓ Ingeniería Informática  
+✓ Telecomunicaciones  
+✓ Diseño gráfico  
+✓ Diseño y creación digital  
+✓ Diseño y desarrollo web  
+✓ Bellas artes con especialización en arte digital 
+Acreditar: mediante copia del título oficial universitario 
+Máximo 12 puntos 
+3.- Experiencia 
+demostrable en 
+plataformas 
+PROXIA ® Suite 
+Se valorará con 2 puntos, por cada proyecto adicional 
+al exigido en el Pliego de Prescripciones Técnicas, 
+desarrollado por al menos dos miembros del equipo de 
+trabajo, conjuntamente, sobre salud digital, portales 
+institucionales o entornos con gestión de contenidos, 
+control de privilegios y evaluación de resultados en 
+plataformas con tecnología Proxia®Suite.  
+ 
+Acreditar: certificados, contratos, informes técnicos o 
+referencias de clientes que demuestre la participación 
+Máximo 16 puntos 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 31 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     31/42 
+Gerencia Regional de Salud 
+ 
+efectiva de al menos dos de los miembros del equipo 
+de trabajo, en proyectos relacionados. 
+4.- Experiencia 
+demostrable en 
+proyectos de 
+gestión y 
+explotación de 
+información 
+Se valorará con 2 puntos por cada proyecto adicional 
+al exigido en el PPT, que incorpore funciones de 
+organización, gestión y explotación o consulta de 
+información estructurada procedente de diferentes 
+fuentes de datos mediante entornos web, realizado por 
+alguno de los miembros del equipo asignado al 
+contrato. 
+ 
+Acreditable: mediante la presentación de certificados, 
+contratos, informes técnicos, o referencias de clientes, 
+que demuestren la participación de al menos uno de los 
+miembros del equipo asignado, en proyectos 
+relacionados. 
+Máximo 16 puntos 
+5.- Garantía Se valorará con 1 punto, por cada mes de garantía 
+adicional a la exigida en el PPT.  
+Acreditar: informe sobre el tipo de garantía a ofertar 
+Máximo 7 puntos 
+15.2 Consideración del carácter de ofertas anormales o desproporcionadas:  
+En cumplimiento de lo previsto en el artículo 149 LCSP, se establecen los siguientes criterios objetivos 
+para identificar los casos en los que una oferta se considera anormal, referidos a la oferta considerada en 
+su conjunto: 
+-  En el caso de que exista un solo licitador, se considerará proposición anormalmente baja o 
+desproporcionada, en su conjunto, cuando la oferta económica sea inferior en un 20% al presupuesto 
+base de licitación y, además, la puntuación obtenida en el resto de los criterios de adjudicación sea 
+superior al 60% del total de la puntuación asignada al conjunto de dichos criterios. 
+- En el caso de que existan dos o más licitadores, se considerará proposición anormalmente baja o 
+desproporcionada en su conjunto cuando la oferta económica sea inferior en un 20% a la media 
+aritmética de todas las ofertas económicas válidas presentadas, y además, la puntuación obtenida en el 
+resto de los criterios de adjudicación sea superior al 50% de la media aritmética de las puntuaciones 
+obtenidas en dichos criterios por todas las ofertas validas presentadas. 
+Por lo tanto, se consideran estos dos criterios de forma acumulativa afectando tanto a la oferta económica 
+como al resto de los criterios. 
+15.3 Criterios de desempate: (artículo 147 de la LCSP) 
+ SI    De las empresas licitadoras que hubieren empatado respecto a la proposición más ventajosa 
+tendrá preferencia en la adjudicación:  
+Proposiciones presentadas por aquellas empresas que, al vencimiento del plazo de presentación de 
+ofertas, tengan en su plantilla un porcentaje de trabajadores con discapacidad superior al que les 
+imponga la normativa. En este supuesto, si varias empresas licitadoras de las que hubieren empatado en 
+cuanto a la proposición más ventajosa acreditan tener relación laboral con personas con discapacidad en 
+un porcentaje superior al que les imponga la normativa, tendrá preferencia en la adjudicación del contrato 
+el licitador que disponga del mayor porcentaje de trabajadores fijos con discapacidad en su plantilla. 
+ NO  
+ 
+16.- GARANTÍA DEFINITIVA 
+16.1 Constitución de la Garantía Definitiva: 
+  SI                  
+  NO (justificación de la exención) 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 32 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     32/42 
+Gerencia Regional de Salud 
+ 
+16.2 Importe total de la garantía definitiva (5 por 100 del precio final ofertado, IVA excluido):  
+ (En el caso de precios unitarios será el 5 por 100 del presupuesto base de licitación IVA excluido) 
+• Órgano a cuya disposición ha de constituirse la garantía: Gerencia Regional de Salud de 
+Castilla y León. 
+• N.I.F.: Q4700608E 
+• Periodo de vigencia de la garantía. Conforme a lo señalado en el art. 111 de la LCSP.  
+16.3 Garantía complementaria (hasta un máximo de un 5 por 100 del precio final ofertado, excluido IVA) 
+    SI. Cuantía:                 NO 
+16.4 Autorización de la devolución o cancelación de la parte proporcional de la garantía definitiva en caso de 
+recepción parcial: 
+  SI                                  NO 
+   16.5. Constitución de la garantía por medios electrónicos: SI (art. 108.3 de la LCSP),  
+La constitución TELEMÁTICA de garantías en EFECTIVO o mediante AVAL ante la Caja General de 
+Depósitos de la Comunidad de Castilla y León podrá efectuarse a través de los siguientes enlaces:  
+https://hacienda.jcyl.es/web/es/oficina-virtual/oficina-virtual-caja-general.html 
+(ORDEN EYH/817/2018, de 16 de julio, por la que se regula la constitución telemática de garantías en 
+efectivo en la Caja General de Depósitos de la Comunidad de Castilla y León.) 
+ 
+https://hacienda.jcyl.es/web/es/oficina-virtual/mediante-constitucion-telematica-garantias.html 
+(ORDEN EYH/806/2021, de 28 de junio, por la que se regula la constitución telemática de garantías 
+mediante aval ante la Caja General de Depósitos de la Comunidad de Castilla y León, así como su 
+posterior cancelación -BOCYL de 6 de julio de 2021-). 
+Teléfono de atención a usuarios: 012 (983 324 862, desde fuera de Castilla y León)  
+Correo electrónico para consultas: usuarios.ovcgdepositos@jcyl.es 
+Se habilitan dos vías de pago nuevas para la modalidad de efectivo (pago con tarjeta y cargo en cuenta 
+con firma bicomunada), a través del siguiente enlace: 
+https://servicios4.jcyl.es/access-control/ovcgd2-usuario-presentacion/ 
+ 
+17.- PLAZO DE GARANTÍA 
+17.1 Se establece plazo de garantía: 
+  SI            NO (justificación de la no exigencia) 
+17.2 Plazo de garantía establecido: 1 mes, o en su caso, el ofertado por el adjudicatario, a contar desde la 
+fecha de recepción y conformidad de los trabajos por parte de la Gerencia Regional de Salud de Castilla y 
+León. 
+ 
+18.- LUGAR Y PLAZO DE PRESTACION O ENTREGA  
+18.1 Lugar: En las instalaciones del contratista, no obstante, el personal asignado al proyecto estará en 
+disposición de realizar su jornada laboral en cualquiera de las sedes y centros de la Consejería de Sanidad 
+y Bienestar Social y la Gerencia Regional de Salud de Castilla y León, con objeto de cooperar con el 
+responsable designado por la administración. 
+18.2 Plazo para la realización del acta de recepción: 1 mes a contar desde la realización del objeto del 
+contrato.  
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 33 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     33/42 
+Gerencia Regional de Salud 
+ 
+ 
+19.- RÉGIMEN DE PAGO 
+ Pago único, previa entrega y recepción de conformidad de la totalidad del trabajo. 
+El pago total se realizará a la finalización del contrato, previa entrega de la factura correspondiente y 
+condicionada a la recepción de conformidad por parte del responsable del contrato en la Gerencia Regional 
+de Salud de Castilla y León. 
+ Pagos parciales previa entrega y recepción de las sucesivas fases de ejecución definidas en 
+concordancia con el plazo de ejecución recogido en al apartado 8.3 de este cuadro de características. 
+          Abonos por operaciones preparatorias de la ejecución del contrato: ……………….. 
+ SI. Condiciones:  
+ NO 
+ Pagos en base a valoraciones correspondientes al trabajo realmente ejecutado con el siguiente carácter 
+periódico:  
+                  Mensual. 
+Trimestral. 
+Otro periodo:  
+  
+-De conformidad con la Disposición Adicional Trigésimo Segunda de la LCSP, en las facturas deben constar 
+los siguientes datos: 
+ 
+➢ Órgano de contratación: Director Económico Presupuestario y Financiero de la Gerencia Regional 
+de Salud de Castilla y León 
+➢ Órgano administrativo con competencias en contabilidad pública: A07008889.- Intervención 
+Delegada de la Consejería de Sanidad. 
+➢ Identificación de destinatarios: se indicará: 
+ 
+▪ CIF del centro de gasto: Q4700608E 
+▪ Código y nombre del órgano gestor: A07008891.- Gerencia Regional de Salud de 
+Castilla y León. 
+▪ Código y nombre de la unidad tramitadora: A07021911.- Oficina de Gestión 
+Económica y Control Presupuestario. 
+ 
+- La conformidad de la factura será realizada por: Dirección General de Asistencia Sanitaria o el 
+Servicio de Atención Primaria y Continuidad Asistencial. 
+ 
+- Pago directo a los subcontratistas: 
+                SI. Forma de presentación:    
+                NO 
+ 
+20.- CONDICIONES ESPECÍFICAS DEL PROCEDIMIENTO DE LICITACION 
+  20.1 LICITADORES. 
+20.1.1 Documentación (Sobre 1 o único) 
+• Declaración responsable, según modelo del ANEXO 1 de este pliego.  
+• Declaración responsable relativa al compromiso de cumplimiento con los requisitos de 
+seguridad de la información y protección de datos personales exigidos por la GRS para la 
+contratación de servicios.(Anexo del PPT) 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 34 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     34/42 
+Gerencia Regional de Salud 
+ 
+• Compromiso de adscripción de medios personales exigidos en el PPT 
+• Anexo 2 – Oferta económica. 
+• Anexo 3 – Resto de criterios evaluables mediante fórmulas. 
+• Documentación acreditativa de los criterios evaluables mediante fórmulas que hayan sido 
+ofertados. 
+• Memoria técnica con una extensión máxima de 10 páginas, en formato A4, letra Verdana 
+tamaño 10 e interlineado 1,15. 
+La memoria deberá describir, como mínimo: 
+o La metodología de trabajo propuesta para la ejecución del contrato. 
+o La planificación y organización de las diferentes fases del proyecto. 
+o Los procedimientos previstos para el análisis, configuración, parametrización, 
+incorporación y validación de la información, pruebas y puesta en producción de la 
+solución. 
+o Las herramientas y tecnologías que se propone utilizar para la ejecución de los 
+trabajos. 
+o La composición del equipo de trabajo adscrito al contrato y las funciones asignadas 
+a cada uno de sus integrantes. 
+• Relación nominal del personal adscrito al proyecto. 
+ 
+Además de la Declaración del Anexo 1, y en el caso en el que el licitador haya indicado en esta 
+declaración responsable que ha solicitado la solicitud de inscripción en el ROLECE o Registro de 
+licitadores de la comunidad de Castilla y León, debe aportar junto con la declaración la siguiente 
+documentación: 
+  
+• Acuse de recibo de la solicitud de inscripción emitido por el correspondiente Registro.  
+• Declaración responsable de haber aportado la documentación preceptiva y de no haber 
+recibido requerimiento de subsanación.  
+Con el fin de dar cumplimiento a lo dispuesto en el artículo 133 de la ley 9/2017 de LCSP, deberán 
+especificarse expresamente qué documentos de la proposición tienen carácter confidencial y los 
+motivos y circunstancias en base a los cuales debe reconocerse este carácter. Todos los 
+documentos declarados confidenciales deberán llevar estampado un sello con la leyenda 
+“CONFIDENCIAL”  
+20.1.2 Subcontratación: (debe completarse alguna de las siguientes opciones) 
+ Obligación del licitador de indicar en la oferta la parte del contrato que tengan previsto 
+subcontratar, señalando su importe, y el nombre o el perfil empresarial, definido por referencia a 
+las condiciones de solvencia técnica o profesional, de los subcontratistas. 
+ El licitador deberá indicar en su oferta, si tienen previsto subcontratar los servidores o los 
+servicios asociados a los mismos, el nombre o el perfil empresarial, definido por referencia a las 
+condiciones de solvencia profesional o técnica, de los subcontratistas a los que se vaya a 
+encomendar su realización. Esta obligación tiene carácter esencial para el contratista a los 
+efectos de lo previsto en la letra f) del apartado 1 del artículo 211 de la Ley de Contratos del 
+Sector Público. 
+  NO se exige información al licitador sobre la subcontratación.  
+  NO se permite la subcontratación de conformidad con el art. 215.2. d) y e) LCSP. 
+20.1.3 Documentación justificativa para acreditar el desempate si se han establecido, en el apartado 
+15.3 de este cuadro de características, criterios de desempate, que sólo se requerirá en el momento que 
+se produzca el empate y a los licitadores que se encuentren en tal situación:  
+Documento que constate la discapacidad, acompañado de cualquier otro documento a través del cual se 
+pueda verificar la proporción de personas con discapacidad en dicha plantilla y el contrato que acredite el 
+carácter fijo de la relación laboral de las personas discapacitadas. 
+20.1.4 Otra documentación exigida a los licitadores:…….  
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 35 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     35/42 
+Gerencia Regional de Salud 
+ 
+20.1.5 Otra documentación exigida al propuesto como adjudicatario: 
+20.2 ADJUDICATARIOS. 
+1.- Certificado de Seguro de responsabilidad civil:  
+ SI                  NO 
+Si procede, indicar el límite de indemnización de la póliza:  …..       
+2.- Otra documentación a exigir al adjudicatario:         
+• Copia de la titulación académicas del personal asignado al equipo de trabajo. 
+• Certificado, contrato, informe técnico o referencia de cliente de participación en proyecto 
+(exigido en el Punto 7 del PPT) en el que hayan participado al menos dos miembros del 
+personal adscrito al proyecto de salud digital, portales institucionales o entornos con gestión de 
+contenidos, control de privilegios y evaluación de resultados en plataformas con tecnología 
+Proxia®Suite, emitido por clientes o entidades públicas, que demuestre la participación efectiva 
+de los miembros del equipo de trabajo asignados. 
+• Certificado, contrato, informe técnico o referencia de cliente de participación en proyecto que 
+incorpore funciones de organización, gestión y explotación o consulta de información 
+estructurada procedente de diferentes fuentes de datos mediante entornos web (exigido en el 
+Punto 7 del PPT), que demuestre la participación efectiva del miembro del equipo de trabajo 
+asignado. 
+ 
+21.- REQUISITOS ESPECIFICOS DEL ADJUDICATARIO EN LA EJECUCIÓN DEL CONTRATO 
+21.1 Requisitos específicos del adjudicatario en relación con la ejecución del contrato: 
+ 
+ 
+22.- CONDICIONES ESPECÍFICAS EN LA EJECUCIÓN DEL/OS CONTRATOS 
+22.1. Responsable del contrato:  
+Jefa de Servicio de Atención Primaria y Continuidad Asistencial 
+Dirección General de Asistencia Sanitaria 
+Gerencia Regional de Salud de Castilla y León 
+Correo electrónico: satencionprimaria.grs@saludcastillayleon.es 
+22. 2 Condiciones especiales de ejecución del contrato.     
+1.- La empresa adjudicataria del contrato deberá realizar acciones formativas sobre seguridad y 
+salud laboral dirigidas, al menos, al personal que participe en la ejecución del contrato. Se deberá 
+impartir al menos 1 acción formativa al año durante la vigencia del contrato y con una duración 
+mínima de 2 horas 
+ 
+-Forma de verificación del cumplimiento de esta condición especial de ejecución:  
+Con el fin de verificar la ejecución correcta de esta cláusula, El designado como responsable del 
+contrato, por parte de la Administración, antes del pago de la factura, solicitará la acreditación del 
+cumplimiento de esta condición mediante la aportación de un documento firmado por el personal que 
+ha impartido el curso, en el que figure el contenido del curso, la fecha de la impartición, el número de 
+horas de formación impartidas y la relación de asistentes. 
+ 
+Consideración de la condición especial de ejecución como obligación contractual esencial:  
+  SI (causa resolución de contrato en caso de incumplimiento)         
+ NO (es obligado fijar penalidades para el caso de incumplimiento) 
+ 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 36 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     36/42 
+Gerencia Regional de Salud 
+ 
+22.3 Responsabilidad conjunta en la ejecución si el contratista acudió a medios externos para 
+acreditar su solvencia económica y financiera 
+  NO 
+  SI. Formas… 
+22.4 Penalidades administrativas: 
+▪ Concreción de las penalidades: 
+1-El incumplimiento de la condición especial de ejecución 1, conlleva una penalización del 1% del 
+importe de adjudicación del contrato, IVA excluido. Se descontará de la factura a abonar a la finalización 
+del contrato. 
+ 
+2- El contratista estará obligado a cumplir el objeto del contrato dentro del plazo total fijado para la 
+realización del mismo, de conformidad con los parámetros de calidad establecidos en el Pliego de 
+Prescripciones Técnicas. 
+  
+Cuando el contratista, por causas imputables al mismo, hubiere incurrido en demora en el plazo 
+indicado para la ejecución del contrato, se podrá imponer las penalidades indicadas en el art 193.3, de 
+la Ley 9/2017, de Contrato del Sector Público, serán proporcionadas a la gravedad del incumplimiento 
+y no excederán los límites indicados en la mencionada Ley.  
+ 
+Dicho retraso conllevará la penalidad indicada en el art 193.3, por cada día de retraso en la entrega 
+del objeto del contrato, siempre que se produzca por causas imputables al adjudicatario.  
+ 
+▪ Procedimiento: 
+ 
+- Informe propuesta de la Jefa de Atención Primaria y Continuidad Asistencial. 
+-Trámite de audiencia a la empresa adjudicataria.  
+-Resolución del Director General de Asistencia Sanitaria acerca de la imposición de penalidades.  
+-Notificación a la empresa de dicha resolución, en la que se especificará los recursos procedentes.  
+ 
+22.5 Modificaciones del contrato: 
+ SI (hasta un máximo del 20 % del precio inicial, IVA excluido) 
+▪ Detalles de las modificaciones (alcance y límites): 
+….. 
+▪ Condiciones 
+…… 
+▪ Procedimiento 
+…… 
+ NO 
+22.6 El objeto del contrato lleva aparejada la cesión del derecho de propiedad intelectual o industrial:  
+ SI                   NO     
+22.7 Programa de trabajo. Se exige: 
+ SI. Plazo de presentación:………… 
+ NO 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 37 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     37/42 
+Gerencia Regional de Salud 
+ 
+22.8. Resolución de contrato: 
+Causas específicas de resolución del contrato:  
+Se consideran causas de resolución del contrato, cualquiera de las establecidas en el artículo 211 de la 
+ley de Contratos del Sector Público, que serán aplicables y con los efectos establecidos en los artículos 
+212 y 213 del mismo texto normativo. 
+Asimismo, serán causas de resolución del contrato las señaladas en el artículo 313 de la LCSP. 
+La infracción de los derechos de Propiedad Intelectual e Industrial. 
+El incumplimiento del compromiso de adscripción de medios personales al contrato. 
+ 
+22.9 Otras condiciones específicas para la ejecución del contrato: 
+22.9.1.- Durante la ejecución del contrato, tendrá lugar como mínimo una jornada de transferencia 
+del conocimiento, destinada al personal designado por la Gerencia Regional de Salud, impartida en 
+los Servicios Centrales de la Gerencia Regional de Salud, con una duración mínima de 4 horas. 
+22.9.2.- DERECHOS DE PROPIEDAD INTELECTUAL E INDUSTRIAL  
+La empresa adjudicataria acepta expresamente que todos los derechos de propiedad intelectual e 
+industrial, así como toda la información y contenidos, tales como textos, gráficos, fotografías, 
+logotipos, iconos, imágenes, tecnología, diseño gráfico, código fuente y software, son propiedad 
+exclusiva de la Gerencia Regional de Salud sin que se puedan entender cedidos a la empresa 
+adjudicataria, salvo autorización por parte de  la GRS únicamente para el propósito previsto en el 
+contrato, sin que esto suponga ningún tipo de cesión de derechos de propiedad intelectual o 
+industrial.   
+La empresa adjudicataria no podrá hacer uso del nombre, logotipo o cualquier signo distintivo o 
+material que le haya facilitado la Gerencia Regional de Salud para el cumplimiento de las 
+obligaciones derivadas del presente contrato fuera de las circunstancias y fines de este, ni una vez 
+terminada la vigencia del mismo.  
+Asimismo, queda estrictamente prohibida la utilización de todos los elementos objeto de propiedad 
+intelectual e industrial con fines comerciales o industriales de forma directa o indirecta, así como su 
+reproducción, plagio, distribución, comunicación, modificación, alteración o descompilación, o de 
+cualquier otro modo, en todo o en parte, en cualquier tipo de soporte o comunicada a través de 
+cualquier medio, sin la autorización de la Gerencia Regional de Salud.   
+La Gerencia Regional de Salud ejercerá sus derechos de reproducción, distribución, transmisión, 
+comunicación pública, transformación y cualquier otro derecho de explotación, como exclusiva 
+propietaria, salvo en los casos en que sea autorizado de forma expresa y por escrito por la Gerencia 
+Regional de Salud o previstos legalmente.  
+Cuando para la prestación del servicio, se deban desarrollar programas informáticos, la empresa 
+adjudicataria acepta expresamente que los derechos de propiedad intelectual en relación a dichos 
+programas, en cualquier forma de expresión, son de exclusiva propiedad de la Gerencia Regional de 
+Salud. Estos derechos exclusivos se extienden a trabajos de mantenimiento, cualesquiera versiones 
+sucesivas del programa, así como a los programas derivados, y a todos los datos, información y 
+documentación elaborada para su desarrollo.   
+La empresa adjudicataria se compromete, en todo caso, a entregar a la Gerencia Regional de Salud 
+la totalidad de la documentación de cualquier tipo, también la generada y en cualquier soporte, sin 
+que la empresa adjudicataria pueda conservar, ni obtener copia, utilizarla o comunicarla a terceros, 
+sin la autorización expresa y por escrito de la Gerencia Regional de Salud. Cuando se haya 
+realizado cualquier copia para el desarrollo de la prestación, la empresa adjudicataria certificará su 
+destrucción.   
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 38 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     38/42 
+Gerencia Regional de Salud 
+ 
+Si fuera necesario, la empresa adjudicataria, antes de la formalización del contrato, deberá obtener 
+las licencias y autorizaciones precisas que lo legitimen para la ejecución del mismo.  
+La empresa adjudicataria y quienes intervengan en cualquier fase de la ejecución de la prestación, 
+quedarán obligados a la renuncia expresa por escrito de los derechos de propiedad intelectual, con 
+motivo del desarrollo de la ejecución de este contrato.   
+La infracción de cualquiera de los citados derechos puede constituir una vulneración de las 
+presentes disposiciones, así como un delito castigado de acuerdo con los artículos 270 y siguientes 
+del Código Penal.   
+La empresa adjudicataria exonerará a la Gerencia Regional de Salud de cualquier tipo de 
+responsabilidad frente a terceros por reclamaciones de cualquier índole proviniendo de los 
+suministros, materiales, procedimientos y medios utilizados para la ejecución del contrato objeto del 
+presente pliego procedente de los titulares de derechos de propiedad intelectual e industrial sobre 
+ellos.  
+A estos efectos las partes acuerdan que la interpretación de todo el contenido de esta cláusula se 
+realizará de conformidad con lo previsto en la legislación española sobre Propiedad Intelectual e 
+Industrial.  
+La infracción de los derechos de Propiedad Intelectual e Industrial será causa de resolución del 
+contrato. 
+ 
+23.- DATOS DE CONTACTO  
+(para realizar cualquier aclaración sobre el expediente de contratación) 
+Cualquier consulta o aclaración a los pliegos y a la documentación de la licitación deberá solicitarse 
+EXCLUSIVAMENTE a través de la Plataforma de Contratación del Sector Público, en el apartado 
+“Preguntas y respuestas”:  
+https://contrataciondelestado.es/wps/portal/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 39 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     39/42 
+Gerencia Regional de Salud 
+ 
+ 
+ 
+A N E X O   1 
+ 
+DECLARACIÓN RESPONSABLE 
+(EN EL SOBRE O ARCHIVO ELECTRÓNICO ÚNICO) 
+ 
+A.- DATOS DEL FIRMANTE  
+  
+Nombre.   Primer apellido.    Segundo apellido.  N.I.F.  
+        
+  
+En representación de  
+ 
+Nombre/Razón Social.  C.I.F.  
+    
+En calidad de:    
+  
+Domicilio a efectos de notificaciones  
+ 
+Vía:  Núm.:  Planta:  Puerta:  
+C. P.:  Localidad:  Provincia:  
+Dirección de correo electrónico:  
+Persona/s de contacto en Buzón electrónico del ciudadano/Notificación electrónica en Sede 
+electrónica de la Administración de Castilla y León 
+Nombre y apellidos Correo electrónico Teléfono móvil 
+   
+  
+A efectos de su participación ante la Gerencia Regional de Salud de la Comunidad de Castilla y León en 
+la licitación:  
+  
+Licitación:    
+  
+B.- DECLARACIÓN RESPONSABLE  
+  
+DECLARO BAJO MI RESPONSABILIDAD:  
+ 
+- Que la empresa a la que represento está inscrita en el Registro Oficial de Licitadores y Empresas 
+Clasificadas del Sector Público, o en el Registro de Licitadores de la Administración de la Comunidad de 
+Castilla y León en la fecha final de presentación de ofertas. 
+ 
+- Que la empresa a la que represento dispone de capacidad de obrar suficiente para contratar con la 
+Administración. 
+ 
+- Que la representación de la empresa le corresponde al firmante, en virtud de la escritura pública 
+otorgada por............................. con fecha ................. 
+ 
+- Que la empresa dispone de la solvencia económica y financiera y técnica exigida en el pliego de 
+cláusulas administrativas particulares para participar en esta licitación. 
+ 
+-Que, en el caso de que la empresa acuda a medios externos para acreditar las solvencias, dispone del 
+compromiso referido en el artículo 75.2 de la LCSP. 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 40 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     40/42 
+Gerencia Regional de Salud 
+ 
+ 
+- Que la empresa dispone de las autorizaciones necesarias para ejercer la actividad objeto del contrato. 
+ 
+-Que ni la empresa, ni sus administradores y representantes se hallan incursos en circunstancia alguna 
+de las que prohíben contratar con la Administración, conforme a lo dispuesto en el artículo 71 de la 
+LCSP. 
+ 
+-Que a los efectos de la aplicación de la regla prevista en el artículo 149.3 del LCSP, la empresa: 
+ NO pertenece a grupo empresarial en alguno de los supuestos previstos en el artículo 42.1 del 
+Código de Comercio. 
+ SI pertenece al siguiente grupo empresarial o si se encuentra en alguno de los supuestos 
+previstos en el artículo 42.1 del Código de Comercio: 
+Y que de las empresas pertenecientes al mismo grupo empresarial, las siguientes participan en 
+esta licitación: ……………. 
+ 
+- (Solo para el caso de empresa extranjeras) Que la empresa a la que represento se somete a la 
+jurisdicción de los juzgados y tribunales españoles de cualquier orden para todas las incidencias que de 
+modo directo o indirecto pudieran surgir del contrato, con renuncia, en su caso, al fuero jurisdiccional 
+extranjero pudiera corresponderle (para el supuesto de ser empresa extranjera).  
+ 
+-Que, en el caso de existencia de lotes, la empresa declara que participa en los siguientes lotes: 
+………………………… 
+ 
+-Cesión de datos a la Administración Pública contratante: 
+ 
+Que autorizo expresamente a la Administración Pública contratante a utilizar la información que le sea 
+concedida por la Administración Pública competente con el exclusivo fin de comprobar la identidad de 
+la persona a la que represento y que ésta se encuentra al corriente del cumplimiento de sus 
+obligaciones tributarias y con la Seguridad Social, de conformidad con el artículo 13 y 14 del 
+RGLCAP. La presente autorización se otorga exclusivamente para el procedimiento referenciado y en 
+aplicación de lo dispuesto en la normativa vigente que lo permita en materia tributaria y de protección 
+de datos, y previa autorización del interesado para la cesión de los datos tributarios que precisen las 
+Administraciones Públicas para el desarrollo de sus funciones; y atendiendo a lo dispuesto en el resto 
+de normativa reglamentaria que sea de aplicación.  
+ 
+C.- LUGAR FECHA Y FIRMA DE LA DECLARACIÓN RESPONSABLE  
+ En __________________, a __ de ____________de ________  
+Firma.  
+   
+ 
+Nota: En el caso de UTE se presentará este documento por cada una de las empresas 
+participantes en la misma. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 41 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     41/42 
+Gerencia Regional de Salud 
+ 
+ 
+ 
+ANEXO 2 
+ 
+MODELO DE OFERTA ECONÓMICA  
+(SOBRE O ARCHIVO ELECTRÓNICO ÚNICO) 
+ 
+ 
+ 
+Don.........................................................................................................................…... 
+con domicilio en .............................. calle .................................................................... 
+número ............ con C.I.F., D.N.I., N.I.F. o documento que lo sustituya número ....................... 
+ 
+Enterado de las condiciones y requisitos para concurrir al PROCEDIMIENTO ABIERTO SIMPLIFICADO, 
+convocado por ............................................................................. para la contratación del 
+........................................................... se encuentra en situación de acudir como licitador al mismo. 
+ 
+A este efecto hace constar: 
+ 
+Que conoce el Pliego de Cláusulas Administrativas Particulares que sirve de base a la convocatoria, que lo 
+acepta incondicionalmente, que reúne todas y cada una de las condiciones exigidas para contratar con la 
+Administración. 
+ 
+Que se compromete, en nombre ........................................................ (propio o de la empresa que 
+representa), a tomar a su cargo el servicio objeto del contrato con estricta sujeción a los expresados 
+requisitos y condiciones, por el precio que se indica en hoja adjunta, 2 bis, indicando como partida 
+independiente la cantidad correspondiente a los tributos que sean de aplicación al presente contrato.(1). 
+ 
+Proposición económica:  
+ 
+Precio sin IVA               Cuantía del IVA                    Precio total (IVA incluido) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lugar, fecha y firma del licitador 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+
+
+--- página 42 ---
+                                                  
+  
+              
+                                
+ 
+ 
+Pliego de servicios – Procedimiento Abierto Simplificado                                                                     42/42 
+Gerencia Regional de Salud 
+ 
+ANEXO 3 
+ 
+RESTO DE CRITERIOS EVALUABLES MEDIANTE FORMULAS 
+(SOBRE O ARCHIVO ELECTRÓNICO ÚNICO) 
+ 
+    
+Don........................................................ ………………………….  actuando en su propio nombre y derecho o en 
+representación  de la empresa………………………………….con domicilio en .............................. calle 
+....................................................................número ...........,de ……,C.P ….. ,con , D.N.I.. o documento que lo 
+sustituya número .......................realiza la siguiente oferta en relación a los criterios evaluables mediante 
+fórmulas del expediente objeto de este contrato: 
+ 
+DENOMINACIÓN DESCRIPCION OFERTA 
+2.- Perfil profesional 
+Se valorará con: 
+4 puntos por cada miembro del equipo que posea 
+alguna de estas titulaciones universitarias: 
+✓ Ingeniería informática  
+✓ Telecomunicaciones 
+✓ Diseño gráfico 
+✓ Diseño y creación digital 
+✓ Diseño y desarrollo web 
+✓ Bellas artes con especialización en arte digital 
+INDICAR: 
+ 
+Nº de miembros con 
+estas titulaciones:  
+3.- Experiencia demostrable 
+en plataformas Proxia®Suite 
+Se valorará con 2 puntos, por cada proyecto 
+adicional al exigido en el Pliego de Prescripciones 
+Técnicas, desarrollado por al menos dos miembros 
+del equipo de trabajo, conjuntamente, sobre salud 
+digital, portales institucionales o entornos con 
+gestión de contenidos, control de privilegios y 
+evaluación de resultados en plataformas con 
+tecnología Proxia®Suite.  
+INDICAR: 
+ 
+Nº de Proyectos 
+ 
+4.- Experiencia demostrable 
+en proyectos de gestión y 
+explotación de información 
+Se valorará con 2 puntos por cada proyecto 
+adicional al exigido en el PPT, que incorpore 
+funciones de organización, gestión y explotación o 
+consulta de información estructurada procedente 
+de diferentes fuentes de datos mediante entornos 
+web, realizado por alguno de los miembros del 
+equipo asignado al contrato. 
+INDICAR: 
+ 
+Nº de Proyectos 
+ 
+5.- Garantía Se valorará con 1 punto, por cada mes de garantía adicional a la exigida en el PPT. 
+INDICAR  
+ 
+Nº de meses de 
+garantía adicionales al 
+exigido en el PPT. 
+ 
+ 
+ 
+ 
+ 
+      Lugar, fecha y firma del licitador 
+ 
+Código Seguro de Verificación CSV: P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24WL0K0EZ0AR70RU0NJ7AATHOZYJFQ6RXQK

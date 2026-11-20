@@ -1,0 +1,692 @@
+
+
+--- página 1 ---
+ 
+ 
+     
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS  
+APLICATIVO DE CONTROL HORARIO 
+ 
+
+--- página 2 ---
+ 
+Página 2 de 17  
+  
+ 
+ÍNDICE   
+1. OBJETO DEL CONTRATO .................................................................................. 4 
+2. ALCANCE DEL SERVICIO .................................................................................. 4 
+3. REQUISITOS FUNCIONALES ............................................................................. 5 
+3.1 Registro de jornada ...................................................................................... 5 
+3.2 Gestión de horarios ...................................................................................... 6 
+3.3 Gestión de incidencias .................................................................................. 6 
+3.4 Bolsa y saldo horario .................................................................................... 6 
+3.5 Portal de la persona trabajadora .................................................................... 7 
+3.6 Firma y expediente. ........................................................................................... 7 
+3.7 Medios de fichaje .............................................................................................. 8 
+3.8 Gestión por responsables. .................................................................................. 8 
+3.9 Administración y supervisión. .............................................................................. 8 
+3.10 Flujos de aprobación. ....................................................................................... 9 
+3.11 Informes ......................................................................................................... 9 
+4. TRAZABILIDAD Y AUDITORÍA ........................................................................... 9 
+5. PROTECCIÓN DE DATOS PERSONALES ............................................................ 10 
+6. SISTEMAS BIOMÉTRICOS ............................................................................... 11 
+7. SEGURIDAD DE LA INFORMACIÓN .................................................................. 11 
+8. ALOJAMIENTO Y UBICACIÓN DE LOS DATOS. ........................................................ 11 
+9. DISPONIBILIDAD DEL SERVICIO ..................................................................... 11 
+10. SOPORTE TÉCNICO ............................................................................................ 12 
+11. IMPLANTACIÓN .................................................................................................. 12 
+12. PLAZO EJECUCIÓN ............................................................................................. 13 
+13. FORMACIÓN ....................................................................................................... 13 
+14. INTEGRACIONES ................................................................................................ 13 
+15. AUTENTICACIÓN.  .............................................................................................. 13 
+16. MIGRACIÓN DE DATOS ....................................................................................... 14 
+17. CONSERVACIÓN Y EXPORTACIÓN DE LA INFORMACIÓN. ...................................... 14 
+18. REQUISITOS DE ACCESIBILIDAD Y USABILIDAD ................................................... 14 
+19. PROPIEDAD Y DISPONIBILIDAD DE LOS DATOS ................................................... 14 
+20. CONTINUIDAD DEL SERVICIO ............................................................................. 15 
+21. EVOLUCIÓN Y ACTUALIZACIONES ....................................................................... 15 
+
+--- página 3 ---
+ 
+Página 3 de 17  
+  
+ 
+22. DOCUMENTACIÓN TÉCNICA DE LA OFERTA.......................................................... 15 
+23. CONDICIONES DE PRESTACIÓN DEL SERVICIO .................................................... 16 
+24. CUMPLIMIENTO NORMATIVO .............................................................................. 16 
+25. CRITERIOS MÍNIMOS DE ACEPTACIÓN ................................................................ 16 
+26. ENTREGABLES .................................................................................................... 17 
+27. FINALIZACIÓN DEL SERVICIO ............................................................................. 17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 4 ---
+ 
+Página 4 de 17  
+  
+ 
+1. OBJETO DEL CONTRATO 
+El presente Pliego de Prescripciones Técnicas (PPT) tiene por objeto establecer las 
+condiciones técnicas que regirán la contratación de un servicio de control horario y registro 
+de jornada del personal de ENAJENACIÓN DE MATERIALES FERROVIARIOS, S.A., S.M. E., 
+M.P. ( En adelante Emfes a), mediante una solución tecnológica que permita registrar, 
+gestionar, consultar y obtener información relativa a la jornada laboral del personal. 
+2. ALCANCE DEL SERVICIO 
+El servicio estará destinado inicialmente a una plantilla aproximada de entre 100 - 150 
+personas trabajadoras, distribuidas a lo largo de todo el territorio nacional. 
+La solución deberá ser escalable para permitir la incorporación o baja de personas usuarias 
+y, en su caso, de nuevos centros de trabajo durante la vigencia del contrato. 
+El adjudicatario deberá realizar todas las actuaciones necesarias para la correcta puesta en 
+funcionamiento del servicio, incluyendo análisis inicial, parametrización, configuración, 
+migración de datos, formación y asistencia durante la implantación. 
+El servicio comprenderá, como mínimo: 
+• Plataforma software en modalidad SaaS.  
+• Aplicación móvil para dispositivos Android e iOS.  
+• Acceso web para usuarios y administradores.  
+• Administración de usuarios y perfiles de acceso 
+• Sistema de registro horario.  
+• Funcionalidad de geolocalización en fichajes móviles.  
+• Herramientas de administración y reporting.  
+• Implantación y configuración inicial del sistema 
+• Soporte técnico y mantenimiento.  
+• Formación inicial a las personas administradoras y usuarias que determine EMFESA. 
+• Migración y parametrización inicial.  
+• Consulta y explotación de la información registrada. 
+• Generación de informes. 
+• Actualizaciones de la aplicación. 
+• Copias de seguridad y medidas de seguridad. 
+• Exportación de la información al término del contrato 
+La solución deberá permitir a EMFESA cumplir las obligaciones aplicables en materia de 
+registro de jornada, sin perjuicio de las particularidades derivadas de la normativa laboral, 
+convenio colectivo, acuerdos internos o régimen jurídico aplicable al personal de la entidad. 
+ 
+
+--- página 5 ---
+ 
+Página 5 de 17  
+  
+ 
+3. REQUISITOS FUNCIONALES 
+Los requisitos funcionales definidos en el presente apartado tendrán la consideración de 
+mínimos obligatorios. Las soluciones ofertadas deberán cumplir íntegramente dichas 
+funcionalidades sin necesidad de desarrollos futuros o contrataciones adicionales, s alvo 
+aquellos supuestos expresamente identificados como mejoras. 
+Cualquier funcionalidad adicional que aporte valor a la gestión del tiempo de trabajo podrá 
+ser incluida por los licitadores en sus ofertas técnicas, siempre que no implique un coste 
+adicional para E. 
+3.1 Registro de jornada 
+El sistema deberá permitir registrar, como mínimo: 
+• Marcaje con fecha y hora de inicio de jornada. 
+• Marcaje con fecha y hora de finalización de jornada. 
+• Pausas, descansos e interrupciones, cuando proceda. 
+• Tipo de fichaje. 
+• Geolocalización de los fichajes (*) 
+• Incidencias relacionadas con el registro y regularizaciones. 
+• Justificaciones y modificaciones autorizadas. 
+• Los registros deberán conservar la información necesaria para garantizar su 
+integridad, trazabilidad y consulta posterior. 
+Geolocalización de los fichajes: 
+La solución deberá incorporar funcionalidad de geolocalización asociada al fichaje móvil. 
+La geolocalización: 
+• Solo podrá activarse en el momento del fichaje.  
+• No podrá utilizarse para monitorización continua.  
+• Deberá cumplir plenamente con RGPD y normativa de protección de datos.  
+El sistema deberá almacenar: 
+• Coordenadas GPS.  
+• Fecha y hora del registro.  
+• Usuario asociado.  
+Todos los registros deberán quedar asociados de manera inequívoca a la persona 
+trabajadora que los genera, garantizando la integridad, autenticidad, trazabilidad e 
+inalterabilidad de la información registrada. 
+El sistema deberá permitir la consulta y recuperación inmediata de los registros horarios 
+cuando sean requeridos por la empresa, la representación legal de los trabajadores o la 
+Inspección de Trabajo y Seguridad Social 
+ 
+
+--- página 6 ---
+ 
+Página 6 de 17  
+  
+ 
+3.2 Gestión de horarios 
+La aplicación deberá permitir configurar de forma independiente para distintos grupos de 
+empleados: 
+• Jornadas ordinarias. 
+• Jornadas reducidas. 
+• Horarios flexibles. 
+• Turnos. 
+• Calendarios laborales para distintos tipos de empleos. 
+• Calendarios de festivos asignados según el centro de trabajo. 
+• Distintos tipos de solicitudes para la gestión, asuntos propios, licencias… 
+• Diferentes horarios según centro, departamento o colectivo. 
+• Reglas específicas para distintos tipos de personal. 
+• Deberá permitir asimismo la gestión de calendarios anuales y su modificación por las 
+personas autorizadas. 
+3.3 Gestión de incidencias 
+El sistema deberá permitir gestionar, como mínimo: 
+• Olvidos de fichaje. 
+• Correcciones de fichajes. 
+• Ausencias. 
+• Permisos. 
+• Vacaciones. 
+• Incapacidades temporales, cuando proceda y exclusivamente con la información 
+necesaria. 
+• Comisiones de servicio o desplazamientos. 
+• Trabajo fuera del centro habitual. 
+• Otras incidencias definidas por EMFESA 
+Las modificaciones de registros deberán quedar debidamente identificadas, indicando como 
+mínimo quién realizó la modificación, fecha y hora, registro afectado y motivo de la 
+modificación. 
+3.4 Bolsa y saldo horario 
+La solución deberá permitir, cuando resulte aplicable, calcular: 
+• Horas realizadas. 
+• Horas teóricas. 
+• Diferencias entre jornada realizada y jornada prevista. 
+• Excesos y defectos de jornada. 
+• Saldos horarios. 
+• Horas extraordinarias o complementarias, cuando corresponda. 
+• Los parámetros de cálculo deberán ser configurables por EMFESA 
+
+--- página 7 ---
+ 
+Página 7 de 17  
+  
+ 
+3.5 Portal de la persona trabajadora 
+El acceso al portal deberá realizarse mediante credenciales personales e intransferibles. 
+El usuario deberá disponer de acceso permanente a su información histórica y poder 
+consultar los registros correspondientes a ejercicios anteriores conforme a los periodos de 
+conservación establecidos legalmente. 
+Todas las consultas realizadas deberán efectuarse mediante una interfaz accesible, intuitiva 
+y adaptada a dispositivos móviles y de escritorio. 
+El sistema deberá proporcionar un entorno que permita a cada persona trabajadora, de 
+acuerdo con sus permisos: 
+• Consultar sus fichajes. 
+• Consultar su jornada. 
+• Consultar su saldo horario. 
+• Solicitar correcciones. 
+• Comunicar incidencias. 
+• Solicitar permisos o ausencias. 
+• Consultar el estado de sus solicitudes. 
+• Descargar o visualizar los registros que le correspondan. 
+• Sistema de notificaciones para mantener y actualizar la información del trabajador.  
+Asimismo, la plataforma deberá disponer de funcionalidades de gestión documental que 
+permitan almacenar, consultar y organizar la documentación vinculada a cada persona 
+trabajadora, garantizando la trazabilidad de las modificaciones y el control de version es de 
+los documentos cuando resulte aplicable.  
+ 
+3.6 Firma y expediente. 
+• Firma electrónica. 
+• Gestión documental. 
+El sistema deberá disponer de mecanismos que permitan la firma electrónica integrada de 
+documentos, solicitudes, autorizaciones e incidencias relacionadas con la gestión de la 
+jornada laboral, garantizando en todo momento la vinculación inequívoca entre la persona 
+firmante y la actuación realizada.  
+El sistema deberá conservar evidencia electrónica de las firmas realizadas, incluyendo como 
+mínimo la identificación de la persona usuaria, fecha y hora de la firma, documento asociado 
+y estado de la firma.  
+Toda la documentación asociada a expedientes de jornada, permisos, ausencias, solicitudes 
+o incidencias deberá permanecer accesible durante los períodos legalmente exigibles y poder 
+ser exportada por los usuarios autorizados.  
+
+--- página 8 ---
+ 
+Página 8 de 17  
+  
+ 
+La aplicación deberá permitir consultar a los responsabl es a la hora de aprobar solicitudes 
+la documentación adjunta tanto a través de la WEB como a través de dispositivos móviles. 
+3.7 Medios de fichaje 
+La solución deberá permitir, como mínimo, el registro mediante: 
+• Dispositivo móvil tanto para dispositivos Android como iOS.  
+• Aplicación web. 
+• Funcionar mediante credenciales individuales. 
+• Contar con una interfaz intuitiva y en castellano. 
+No se considerará requisito obligatorio el empleo de sistemas biométricos. En  caso de que 
+el licitador ofrezca mecanismos biométricos como mejora, estos deberán cumplir 
+íntegramente la normativa aplicable y acreditar previamente su necesidad, idoneidad y 
+proporcionalidad. 
+Cuando se utilice la funcionalidad de geolocalización, esta únicamente podrá activarse en el 
+momento del registro horario y exclusivamente con la finalidad de acreditar la ubicación 
+desde la que se realiza el fichaje, sin que pueda emplearse como mecanismo de seguimiento 
+continuo de la persona trabajadora.  
+Los licitadores deberán describir detalladamente los mecanismos de autenticación 
+disponibles, las medidas de seguridad aplicadas en cada modalidad de fichaje y las posibles 
+limitaciones técnicas existentes. 
+3.8 Gestión por responsables. 
+El sistema deberá disponer de perfiles diferenciados, al menos: 
+• Administrador. 
+• Perfil de responsable. 
+• Persona trabajadora. 
+• Otros perfiles que determine EMFESA 
+Los permisos deberán configurarse conforme al principio de mínimo privilegio. 
+3.9 Administración y supervisión.  
+Las funcionalidades de administración deberán estar accesibles exclusivamente para los 
+perfiles autorizados y permitir la gestión integral de la configuración funcional de la 
+plataforma sin necesidad de intervenciones técnicas recurrentes por parte del adjudicatario. 
+La plataforma deberá permitir: 
+• Alta y baja de usuarios.  
+• Consulta de los usuarios dados de baja. 
+• Configuración de calendarios laborales.  
+• Gestión de turnos y horarios.  
+• Configuración de perfiles y permisos.  
+
+--- página 9 ---
+ 
+Página 9 de 17  
+  
+ 
+• Creación de una bolsa de festivos. 
+• Validación de incidencias.  
+• Generación de informes.  
+3.10 Flujos de aprobación. 
+Se definirán flujos de aprobación definidos por EMFESA 
+La solución deberá permitir la parametrización de flujos de aprobación adaptados a las 
+necesidades organizativas de EMFESA , pudiendo establecer diferentes circuitos en función 
+del tipo de solicitud, colectivo afectado, centro de trabajo o estructura jerárquica.  
+Los flujos deberán contemplar, entre otros supuestos, la gestión de permisos, vacaciones, 
+incidencias de fichaje, regularizaciones horarias, ausencias y cualesquiera otras actuaciones 
+que determine EMFESA  
+El sistema deberá permitir definir uno o varios niveles de aprobación, identificar el estado 
+de cada solicitud en tiempo real y conservar evidencias de todas las actuaciones realizadas 
+durante su tramitación.  
+Asimismo, deberá posibilitar el envío automático de avisos y notificaciones a las personas 
+implicadas en cada fase del proceso. 
+3.11 Informes 
+La aplicación deberá permitir generar, como mínimo: 
+• Informe individual de jornada para distintos márgenes temporales. 
+• Informe colectivo para distintos márgenes temporales. 
+• Informe de fichajes. 
+• Informe de incidencias. 
+• Informe de ausencias. 
+• Informe de horas realizadas. 
+• Informe de diferencias entre jornada prevista y realizada. 
+• Informe de modificaciones efectuadas. 
+• Informes por centro, departamento, unidad o colectivo. 
+• Informes correspondientes a periodos determinados. 
+• Informes individuales y colectivos para cada tipo de solicitud, vacaciones, festivos, 
+asuntos propios, bolsa de festivos, permiso o ausencia. 
+Los informes deberán poder exportarse, al menos, a formatos PDF, XLSX y CSV, o formatos 
+equivalentes. 
+4. TRAZABILIDAD Y AUDITORÍA 
+La solución deberá mantener un registro de auditoría de las operaciones relevantes 
+realizadas en el sistema. 
+Como mínimo deberá poder identificarse: 
+
+--- página 10 ---
+ 
+Página 10 de 17  
+  
+ 
+• Usuario que realiza la operación. 
+• Fecha y hora. 
+• Operación realizada. 
+• Registro afectado. 
+• Valor anterior y valor posterior cuando se modifique información. 
+Los registros de auditoría deberán estar protegidos frente a modificaciones no autorizadas. 
+5. PROTECCIÓN DE DATOS PERSONALES 
+El servicio deberá cumplir con el Reglamento (UE) 2016/679, la Ley Orgánica 3/2018 y 
+demás normativa aplicable en materia de protección de datos personales. 
+• Reglamento (UE) 2016/679 (RGPD).  
+• Ley Orgánica 3/2018.  
+• Normativa aplicable en materia de protección de datos personales 
+EMFESA actuará como responsable del tratamiento y el adjudicatario tendrá, cuando 
+corresponda, la condición de encargado del tratamiento, debiendo formalizarse el 
+correspondiente contrato de encargo del tratamiento conforme al artículo 28 del RGPD. 
+La AEPD establece expresamente esta configuración para los proveedores externos de 
+sistemas de registro horario.  
+El adjudicatario deberá: 
+• Tratar los datos exclusivamente siguiendo las instrucciones documentadas de 
+EMFESA. 
+• No utilizar los datos para fines propios. 
+• Garantizar la confidencialidad de las personas autorizadas. 
+• Aplicar las medidas técnicas y organizativas apropiadas. 
+• Garantizar la seguridad de los datos. 
+• Comunicar las violaciones de seguridad sin dilación indebida. 
+• Regular la subcontratación de servicios que impliquen tratamiento de datos. 
+• Facilitar la atención de los derechos de las personas interesadas. 
+• Suprimir o devolver los datos al finalizar la prestación, según determine EMFESA. 
+• Facilitar la información necesaria para acreditar el cumplimiento de las obligaciones 
+en materia de protección de datos. 
+El tratamiento deberá limitarse a los datos estrictamente necesarios para la finalidad de 
+registro y gestión de la jornada. La AEPD recomienda aplicar el principio de minimización y 
+evitar utilizar los datos de registro horario para finalidades diferentes,  como el control de 
+ubicación.  
+En caso de existir una brecha de seguridad se deberá comunicar en el plazo de 24h al 
+responsable de tratamiento de datos.  
+
+--- página 11 ---
+ 
+Página 11 de 17  
+  
+ 
+6. SISTEMAS BIOMÉTRICOS 
+No será obligatorio que la solución incorpore sistemas de identificación o autenticación 
+biométrica. 
+7. SEGURIDAD DE LA INFORMACIÓN 
+El adjudicatario deberá garantizar la seguridad, confidencialidad, disponibilidad e integridad 
+de la información. 
+Como mínimo deberá disponer de: 
+• Comunicaciones cifradas. 
+• Control de acceso mediante usuario y contraseña robusta. 
+• Gestión de perfiles y permisos. 
+• Registro de accesos y operaciones. 
+• Copias de seguridad. 
+• Mecanismos de recuperación ante incidentes. 
+• Protección frente a accesos no autorizados. 
+• Gestión de vulnerabilidades y actualizaciones de seguridad. 
+• Procedimientos de gestión de incidentes de seguridad. 
+• Esquema Nacional de Seguridad (ENS) en categoría ALTA. Y aportar la 
+documentación acreditativa correspondiente, 
+8. ALOJAMIENTO Y UBICACIÓN DE LOS DATOS. 
+El licitador deberá indicar: 
+• Lugar de alojamiento de la información. 
+• País o países en los que se encuentran los centros de tratamiento. 
+• Proveedores de infraestructura utilizados. 
+• Existencia de subencargados del tratamiento. 
+• Mecanismos aplicables en caso de transferencias internacionales de datos. 
+Cualquier cambio relevante en la infraestructura o en los subencargados deberá ser 
+comunicado a EMFESA con la antelación prevista contractualmente. 
+9. DISPONIBILIDAD DEL SERVICIO 
+La plataforma deberá estar disponible, 24 horas al día, 365 días al año, salvo operaciones 
+programadas de mantenimiento. 
+El adjudicatario deberá garantizar un nivel mínimo de disponibilidad del [99 %] mensual, 
+excluyendo las interrupciones previamente comunicadas y justificadas. 
+Las operaciones de mantenimiento deberán realizarse preferentemente fuera de los horarios 
+de mayor utilización. 
+
+--- página 12 ---
+ 
+Página 12 de 17  
+  
+ 
+10. SOPORTE TÉCNICO 
+El adjudicatario deberá disponer de un servicio de soporte técnico que deberá cubrir. 
+• Soporte técnico en horario laboral de 8:00 a 18:00 horas 
+• Atención mediante correo electrónico y teléfono.  
+• Resolución de incidencias críticas en menos de 8 horas laborables.  
+Deberán incluirse: 
+• Actualizaciones.  
+• Correcciones de errores.  
+• Mantenimiento evolutivo menor. 
+Se propone la siguiente clasificación para la resolución de incidencias: 
+Crítica: indisponibilidad general del servicio o imposibilidad generalizada de registrar la 
+jornada. 
+Alta: funcionamiento incorrecto de una funcionalidad esencial que afecte a un colectivo 
+significativo. 
+Media: incidencia que afecte parcialmente al funcionamiento, existiendo una alternativa 
+temporal. 
+Baja: consultas, incidencias menores o solicitudes de configuración. 
+El licitador deberá detallar en su oferta los niveles de servicio (SLA) comprometidos. 
+11. IMPLANTACIÓN 
+La implantación comprenderá, como mínimo: 
+• Reunión inicial de lanzamiento. 
+• Recopilación de requisitos. 
+• Configuración de la aplicación. 
+• Alta de centros y usuarios. 
+• Configuración de calendarios y horarios. 
+• Configuración de perfiles y permisos. 
+• Integraciones necesarias. 
+• Pruebas. 
+• Formación. 
+• Puesta en producción. 
+• Seguimiento posterior a la puesta en marcha. 
+El adjudicatario deberá presentar un plan de implantación indicando las fases, responsables, 
+plazos y entregables. 
+
+--- página 13 ---
+ 
+Página 13 de 17  
+  
+ 
+12. PLAZO EJECUCIÓN 
+El plazo máximo para la implantación será de 9 0 días naturales desde la formalización del 
+contrato. 
+La duración inicial del contrato será de 12 meses con posibilidad de prórroga de 12 meses. 
+13. FORMACIÓN 
+El adjudicatario impartirá formación inicial dirigida, como mínimo, a: 
+La formación podrá realizarse presencialmente, por videoconferencia o mediante recursos 
+formativos digitales. 
+• Formación inicial para administradores, gerentes y personal designado por EMFESA  
+• Manuales de usuario o documentación de usuario.  
+• Guías rápidas de utilización.  
+14. INTEGRACIONES 
+La solución deberá disponer de mecanismos que permitan su integración con otros sistemas.  
+Se valorará: 
+• Integración con los sistemas existentes, SAGE, BC, GOOGLE, TEAMS, MICROSOFT 
+OUTLOOK.  
+• Informes avanzados.  
+• Personalización de flujos.  
+• Cuando existan APIs o servicios de integración, el adjudicatario deberá proporcionar 
+la documentación técnica necesaria para su utilización 
+• Mejores SLA (Acuerdos de Nivel de Servicio).  
+• PORTAL EMPLEADO  
+15. AUTENTICACIÓN 
+La solución deberá permitir, cuando sea técnicamente viable, integración con los 
+mecanismos corporativos de autenticación de EMFESA. 
+Se valorará la disponibilidad de: 
+• Single Sign-On (SSO). 
+• Autenticación multifactor. 
+• Integración con Active Directory/Azure AD/Entra ID. 
+ 
+ 
+
+--- página 14 ---
+ 
+Página 14 de 17  
+  
+ 
+16. MIGRACIÓN DE DATOS 
+En caso de sustitución de un sistema existente, el adjudicatario deberá realizar la migración 
+de los datos que determine EMFESA. 
+La migración deberá garantizar: 
+• Integridad. 
+• Trazabilidad. 
+• Confidencialidad. 
+• No pérdida de información. 
+• Validación posterior de los datos migrados. 
+17. CONSERVACIÓN Y EXPORTACIÓN DE LA INFORMACIÓN. 
+• La solución deberá permitir conservar y consultar los registros durante el periodo 
+legalmente exigible. 
+• Asimismo, EMFESA deberá poder obtener en cualquier momento una copia 
+estructurada de la información. 
+• Al finalizar el contrato, el adjudicatario deberá facilitar la exportación de todos los 
+datos y registros necesarios en un formato abierto, estructurado y reutilizable. 
+• La finalización del contrato no podrá suponer la pérdida de acceso de EMFESA  a la 
+información que legalmente deba conservar. 
+18. REQUISITOS DE ACCESIBILIDAD Y USABILIDAD 
+• La aplicación deberá ser accesible principalmente a través de dispositivo móvil no 
+obstante dispondrá de una interfaz adaptada tanto a dispositivos móviles y de 
+escritorio a través de los principales navegadores web actuales. 
+• Se procurará el cumplimiento de los requisitos de accesibilidad aplicables a las 
+entidades del sector público. 
+19. PROPIEDAD Y DISPONIBILIDAD DE LOS DATOS 
+Todos los datos introducidos o generados como consecuencia de la prestación del servicio 
+serán titularidad de EMFESA, sin perjuicio de los derechos que correspondan al adjudicatario 
+sobre su propia plataforma, software o tecnología. 
+El adjudicatario deberá garantizar: 
+• Acceso permanente.  
+• Exportación íntegra.  
+• Eliminación segura al finalizar el contrato. 
+El adjudicatario no podrá utilizar la información para fines distintos de la ejecución del 
+contrato. 
+
+--- página 15 ---
+ 
+Página 15 de 17  
+  
+ 
+20. CONTINUIDAD DEL SERVICIO 
+El adjudicatario deberá disponer de procedimientos de continuidad y recuperación ante 
+desastres. 
+Deberá indicar: 
+• Política de copias de seguridad. 
+• Frecuencia de las copias. 
+• Periodo de conservación. 
+• Objetivo de punto de recuperación (RPO), lo ideal sería una hora. Al ser un sistema 
+de fichaje, perder un día entero descuadra las jornadas de los empleados. Un RPO 
+de 1 hora o replicación en la nube minimiza este impacto. 
+• Objetivo de tiempo de recuperación (RTO), lo ideal sería un tiempo igual o inferior a 
+4 horas, El control horario no suele ser un sistema crítico de soporte vital, pero no 
+puede estar caído más de media jornada para evitar acumular incidencias de 
+marcajes manuales. 
+• Procedimientos de recuperación. 
+21. EVOLUCIÓN Y ACTUALIZACIONES 
+El servicio deberá mantenerse actualizado durante toda la vigencia del contrato. 
+Las actualizaciones necesarias para mantener la seguridad, compatibilidad y correcto 
+funcionamiento de la plataforma estarán incluidas en el precio del contrato. 
+El adjudicatario deberá adaptar la solución a los cambios normativos que afecten 
+directamente a las funcionalidades objeto del contrato, en los términos establecidos en los 
+pliegos y dentro del alcance del servicio contratado. 
+22. DOCUMENTACIÓN TÉCNICA DE LA OFERTA 
+Los licitadores deberán aportar una memoria técnica que permita comprobar el 
+cumplimiento de las prescripciones del presente PPT. 
+La memoria deberá incluir, como mínimo: 
+• Descripción general de la solución. 
+• Arquitectura tecnológica. 
+• Funcionalidades. 
+• Sistemas de fichaje disponibles. 
+• Gestión de horarios y turnos. 
+• Gestión de incidencias. 
+• Informes. 
+• Seguridad. 
+• Protección de datos. 
+• Alojamiento de la información. 
+
+--- página 16 ---
+ 
+Página 16 de 17  
+  
+ 
+• Integraciones. 
+• Plan de implantación. 
+• Plan de formación. 
+• Servicio de soporte. 
+• SLA comprometidos. 
+• Procedimiento de exportación y devolución de datos. 
+• Certificaciones y acreditaciones disponibles. 
+• Relación de subcontratistas y subencargados que intervengan en el servicio. 
+23. CONDICIONES DE PRESTACIÓN DEL SERVICIO 
+El adjudicatario será responsable de proporcionar todos los medios técnicos y humanos 
+necesarios para la correcta ejecución del servicio. 
+La solución deberá funcionar de forma estable durante toda la vigencia del contrato y deberá 
+permitir a EMFESA disponer de la información necesaria para la adecuada gestión y control 
+de la jornada. 
+24. CUMPLIMIENTO NORMATIVO 
+El servicio deberá cumplir la normativa vigente que resulte aplicable, incluyendo: 
+• Estatuto de los trabajadores 
+• Convenio Colectivo de aplicación (en nuestro caso, Convenio Colectivo del Comercio 
+del Metal). 
+• Real Decreto-ley 8/2019, de 8 de marzo, de medidas urgentes de protección social 
+y de lucha contra la precariedad laboral en la jornada de trabajo. (En este sentido, 
+importante la conservación de los fichajes de cada trabajador durante 4 años) 
+• Ley 10/2021, de trabajo a distancia. 
+• Reglamento (UE) 2016/679, Reglamento General de Protección de Datos (RGPD). 
+• Ley Orgánica 3/2018, de protección de datos personales y garantía de los derechos 
+digitales (LOPDGDD). 
+• Normativa aplicable en materia de seguridad de la información. 
+• Real Decreto 311/2022, de 3 de mayo, regula el Esquema Nacional de Seguridad 
+(ENS).. 
+ 
+25. CRITERIOS MÍNIMOS DE ACEPTACIÓN 
+La puesta en producción del servicio quedará condicionada a la verificación por parte de 
+EMFESA del correcto funcionamiento de, al menos:  
+• Registro de entradas y salidas. 
+• Gestión de usuarios. 
+• Gestión de horarios. 
+
+--- página 17 ---
+ 
+Página 17 de 17  
+  
+ 
+• Gestión de incidencias. 
+• Consulta de registros. 
+• Generación de informes. 
+• Gestión de permisos. 
+• Trazabilidad de modificaciones. 
+• Exportación de información. 
+• Gestión de perfiles y permisos. 
+• Medidas de seguridad. 
+• Integraciones previstas. 
+En caso de detectarse deficiencias que impidan el correcto funcionamiento del servicio, el 
+adjudicatario deberá proceder a su subsanación antes de la aceptación definitiva de la 
+implantación. 
+26. ENTREGABLES 
+El adjudicatario deberá entregar, como mínimo: 
+• Plan de implantación. 
+• Documentación de configuración. 
+• Manual de administración. 
+• Manual de usuario. 
+• Documentación de integraciones. 
+• Documentación relativa a protección de datos. 
+• Documentación de seguridad. 
+• Procedimiento de exportación de datos. 
+• Documentación de soporte. 
+• Informes de pruebas y puesta en producción. 
+27. FINALIZACIÓN DEL SERVICIO 
+Al finalizar el contrato, por cualquier causa, el adjudicatario deberá colaborar con EMFESA  
+en la transición hacia otro sistema o proveedor. 
+Esta colaboración incluirá: 
+• Exportación completa de los datos. 
+• Entrega de documentación. 
+• Asistencia técnica para la migración. 
+• Resolución de incidencias relacionadas con la transición. 
+• Devolución o supresión de los datos conforme a las instrucciones de EMFESA y a la 
+normativa aplicable. 
+La transición deberá realizarse sin interrupción injustificada del servicio de registro horario. 
+ 

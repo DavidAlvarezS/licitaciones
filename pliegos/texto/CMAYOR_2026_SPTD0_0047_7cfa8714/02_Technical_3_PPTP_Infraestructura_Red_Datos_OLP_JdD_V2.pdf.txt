@@ -1,0 +1,723 @@
+
+
+--- página 1 ---
+  
+Pág. 1 de 21 
+ 
+ 
+ 
+CMAYOR/2026/SPTD0/0047 
+“SERVICIO DE INFRAESTRUCTURA DE RED DE 
+DATOS (LAN Y WIFI) DEL OCEAN LIVE PARK PARA 
+LA CELEBRACIÓN DE ALICANTE PUERTO DE 
+SALIDA DE LA VUELTA AL MUNDO A VELA 2027. 
+THE OCEAN RACE” 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+ 
+ALICANTE 
+NOVIEMBRE 2026 
+
+--- página 2 ---
+  
+Pág. 2 de 21 
+ÍNDICE 
+ 
+1. OBJETO ................................................................................................................................................ 3 
+2. DEFINICIÓN TÉCNICA PARA LA PRESTACIÓN DE LOS SERVICIOS ...................................................... 4 
+2.1. FINALIDAD .................................................................................................................................... 4 
+2.2. REQUISITOS DE ADMISIÓN, DIVISIÓN POR LOTES ........................................................................ 5 
+3. DESCRIPCIÓN DE SERVICIOS A PRESTAR POR EL ADJUDICATARIO ................................................... 5 
+3.1.- DISEÑO DETALLADO DE LA RED .................................................................................................. 5 
+3.2.- ARQUITECTURA Y COLECTIVOS DE USUARIOS ............................................................................ 6 
+3.3.- RED TRONCAL DE FIBRA ÓPTICA ................................................................................................. 7 
+3.4.- CABLEADO ESTRUCTURADO ........................................................................................................ 7 
+3.5.- ELECTRÓNICA DE RED ................................................................................................................. 7 
+3.6.- RED INALÁMBRICA (WIFI) ........................................................................................................... 8 
+3.7.- ACCESOS A INTERNET .................................................................................................................. 8 
+3.8.- MONITORIZACIÓN ....................................................................................................................... 9 
+3.9.- SEGURIDAD ............................................................................................................................... 10 
+3.10.- PRUEBAS Y ACEPTACIÓN ......................................................................................................... 10 
+3.11.- OPERACIÓN, SOPORTE E INCIDENCIAS ................................................................................... 11 
+3.12.- SERVICIOS DE PERSONAL ........................................................................................................ 11 
+3.13.- DOCUMENTACIÓN .................................................................................................................. 11 
+3.14.- COORDINACIÓN Y CONDICIONES DE EJECUCIÓN ................................................................... 12 
+3.15.- RECURSOS APORTADOS POR SPTD ......................................................................................... 12 
+3.16.- MEJORAS ................................................................................................................................. 12 
+4. OBLIGACIONES DEL CONTRATISTA ................................................................................................... 13 
+5. PERIODO DEL SERVICIO .................................................................................................................... 14 
+6. PRESUPUESTO ................................................................................................................................... 14 
+7. RECEPCIÓN DE LOS TRABAJOS ......................................................................................................... 15 
+8. INCUMPLIMIENTOS .......................................................................................................................... 15 
+9. COBERTURA DE RIESGOS .................................................................................................................. 16 
+ANEXO 1: PLANOS ................................................................................................................................. 18 
+ANEXO 2: PRESUPUESTO ...................................................................................................................... 19 
+ 
+
+--- página 3 ---
+  
+Pág. 3 de 21 
+“SERVICIO DE INFRAESTRUCTURA DE RED DE DATOS (LAN Y WIFI) DEL OCEAN LIVE PARK 
+PARA LA CELEBRACIÓN DE ALICANTE PUERTO DE SALIDA DE LA VUELTA AL MUNDO A VELA 
+2027. THE OCEAN RACE” 
+1. OBJETO 
+Constituye el objeto del presente Pliego las prescripciones y condiciones técnicas que rigen la 
+contratación de la empresa adjudicataria del contrato “SERVICIO DE INFRAESTRUCTURA DE RED DE 
+DATOS (LAN Y WIFI) DEL OCEAN LIVE PARK PARA LA CELEBRACIÓN DE ALICANTE PUERTO DE SALIDA 
+DE LA VUELTA AL MUNDO A VELA 2027. THE OCEAN RACE”, cuya promotora es la SOCIEDAD DE 
+PROYECTOS PARA LA TRANSFORMACIÓN DIGITAL, S.A.U. (en adelante, SPTD), dentro del 
+acontecimiento de excepcional interés público denominado “Alicante Puerto de Salida de la Vuelta al 
+Mundo a Vela 2027. The Ocean Race”, de acuerdo con lo previsto en el presente Pliego y en el Pliego 
+de Cláusulas Administrativas Particulares (PCAP). 
+El contrato comprende el diseño, el suministro en régimen de servicio, el montaje, la configuración, la 
+monitorización, el soporte y la retirada de la red de datos del Ocean Live Park, con el siguiente alcance: 
+• Red troncal de fibra óptica y cobre. 
+• Conmutación, enrutamiento y cortafuegos, con una red independiente por colectivo de 
+usuarios. 
+• Dos tomas en cada stand con red propia. 
+• Red de Prensa (Media Centre): 24 puestos cableados y red inalámbrica para hasta 100 
+dispositivos. 
+• Red de Ocio Digital: 24 puestos cableados y red inalámbrica para hasta 100 dispositivos. 
+• Red inalámbrica en ciertas zonas al del evento, interior y exterior, incluidos muelles s. 
+• Terminación y distribución de los accesos a Internet. 
+• Monitorización, soporte técnico y documentación. 
+Quedan excluidos del contrato: 
+• La contratación de los accesos a Internet con los operadores de telecomunicaciones, que 
+corresponde a SPTD. 
+• La red interior del TV Compound. 
+• La red interior de los stands de los equipos participantes. 
+• El suministro eléctrico, objeto de otro contrato del evento. 
+Las referencias a normas técnicas contenidas en este Pliego se entenderán acompañadas de la 
+mención “o equivalente”, conforme al artículo 126 LCSP. Los criterios de adjudicación se establecen 
+en el PCAP. 
+
+--- página 4 ---
+  
+Pág. 4 de 21 
+2. DEFINICIÓN TÉCNICA PARA LA PRESTACIÓN DE LOS SERVICIOS 
+2.1. FINALIDAD 
+La SOCIEDAD DE PROYECTOS PARA LA TRANSFORMACIÓN DIGITAL, S.A.U., es la empresa pública 
+encargada de la gestión y organización de la Edición del Evento de Salida de la competición náutica 
+internacional “The Ocean Race” que saldrá en 2027 del Puerto de Alicante. Los términos y condiciones 
+redactados en este Pliego de Prescripciones Técnicas servirán a la empresa adjudicataria del contrato 
+para formalizar la contratación del servicio de infraestructura de red de datos del Ocean Live Park. 
+En 2008 Alicante albergó por primera vez la Salida de la competición náutica Volvo Ocean Race. La 
+ciudad de Alicante fue designada Puerto de Salida de las cuatro siguientes ediciones: 2011, 2014, 2017 
+y 2023. El Puerto de Alicante ha sido distinguido también por la organización internacional de la regata 
+para fijar su base de operaciones permanente. 
+La próxima edición de The Ocean Race partirá desde el Puerto de Alicante el 17 de enero de 
+2027 y recalará en puertos de todo el mundo, finalizando en Amaala en el verano de 2027. Los llamados 
+Host Cities para The Ocean Race serán: 
+• Alicante. 
+• Auckland. 
+• Itajaí. 
+• St. Pete Clearwater. 
+• Cascais. 
+• Amaala. 
+Desde el 8 de enero de 2027 el Ocean Live Park, un espacio para el entretenimiento y el 
+deporte de más de 55.000 m², estará abierto al público durante 10 días consecutivos. El Ocean Live 
+Park contará con zonas de ocio y restauración, donde el visitante podrá disfrutar de una completa y 
+variada programación de espectáculos, conciertos, animaciones, gastronomía, un programa de 
+iniciación al deporte de la vela y actividades de entretenimiento para todos los públicos. 
+El Ocean Live Park se implanta sobre los muelles 10, 12 y 14 del Puerto de Alicante y comprende las 
+siguientes zonas: TV Compound, Media Centre, Ocio Digital, bases de los equipos participantes, carpas, 
+escenario y zona de conciertos, restauración, voluntarios, oficinas de la organización y pantalanes 
+(Anexo 1). 
+En la edición de 2023 la infraestructura LAN y WiFi se dotó mediante un contrato de patrocinio en 
+especie, con equipamiento de red de distinta procedencia, parte del cual presentó fallos de 
+funcionamiento (transceptores ópticos defectuosos, alimentación PoE insuficiente para las cámaras de 
+CCTV y limitaciones en el transporte de VLAN por los puertos troncales). La memoria técnica de dicha 
+edición recomienda contratar el equipamiento de red como servicio de una empresa especializada, 
+con equipos probados y repuestos de reposición inmediata, independizar la ingeniería de la red de la 
+del suministro eléctrico y realizar una prueba general con antelación suficiente al inicio del evento. El 
+presente Pliego incorpora dichas recomendaciones. 
+Durante la ejecución del contrato, los trabajos a realizar deberán ser aprobados por el responsable del 
+contrato designado por SPTD o por la persona en quien este delegue, en adelante ORGANIZACIÓN. 
+
+--- página 5 ---
+  
+Pág. 5 de 21 
+La finalidad de esta licitación es dotar al Ocean Live Park de los medios técnicos y humanos necesarios 
+para disponer de una red de datos operativa, segura y con continuidad de servicio durante el montaje, 
+la celebración y el desmontaje de “Alicante Puerto de Salida de la Vuelta al Mundo a Vela 2027. The 
+Ocean Race”. 
+2.2. REQUISITOS DE ADMISIÓN, DIVISIÓN POR LOTES 
+Sin perjuicio de lo establecido con carácter general en el Pliego de Cláusulas Administrativas 
+Particulares (PCAP), que rige la presente licitación y resulta de aplicación preferente en materia de 
+solvencia y admisión de licitadores, las empresas licitadoras deberán acreditar, en todo caso, el 
+cumplimiento de los siguientes requisitos mínimos de admisión: 
+• Experiencia en el diseño, instalación y explotación de redes de datos temporales (LAN y WiFi) en 
+eventos, recintos feriales o espacios públicos. 
+• Experiencia del responsable técnico en redes de datos para eventos de características similares. 
+• Disponibilidad, o compromiso formal de disponibilidad antes del inicio de la ejecución, del 
+personal técnico descrito en el apartado 3.12 y del equipamiento descrito en el apartado 3. 
+• Oferta de cortafuegos incluidos en el Catálogo de Productos y Servicios de Seguridad de las 
+Tecnologías de la Información y la Comunicación (CPSTIC) del Centro Criptológico Nacional 
+(CCN), conforme al apartado 3.9. 
+Justificación de la NO división en lotes: la red troncal, el cableado estructurado, la electrónica de red, 
+la red inalámbrica, la seguridad y el soporte técnico constituyen un único sistema, cuyo diseño, 
+configuración y explotación exigen un único responsable técnico ante la ORGANIZACIÓN, con 
+capacidad de respuesta inmediata. La división en lotes independientes dificultaría la coordinación de 
+los trabajos en un mismo espacio físico y en plazos reducidos y diluiría la responsabilidad sobre el 
+funcionamiento del conjunto, por lo que, de conformidad con el artículo 99.3 de la Ley 9/2017, de 8 
+de noviembre, de Contratos del Sector Público (LCSP), se justifica la no división en lotes del objeto de 
+este contrato, sin perjuicio de que el adjudicatario pueda subcontratar partes especializadas de la 
+prestación. 
+3. DESCRIPCIÓN DE SERVICIOS A PRESTAR POR EL ADJUDICATARIO 
+El adjudicatario de este contrato llevará a cabo el diseño, la implantación, la explotación y la retirada 
+de la red de datos del Ocean Live Park, en el ámbito de los muelles 10, 12 y 14 del Puerto de Alicante 
+definido en el Anexo 1. Todo el equipamiento se aportará en régimen de servicio, incluidos su 
+instalación, configuración y retirada, y permanecerá en propiedad del adjudicatario. 
+La ORGANIZACIÓN entregará al adjudicatario el plano de implantación del Ocean Live Park, la ubicación 
+definitiva de las carpas y stands y el inventario del equipamiento de red propiedad de SPTD procedente 
+de ediciones anteriores. El equipamiento de la ORGANIZACIÓN que se integre en la red quedará a cargo 
+del adjudicatario, previa comprobación de su funcionamiento. 
+3.1.- DISEÑO DETALLADO DE LA RED 
+El adjudicatario realizará un análisis in situ de los nodos, canalizaciones, puntos de entrega de los 
+accesos a Internet y puntos de alimentación eléctrica, y presentará para su aprobación por la 
+ORGANIZACIÓN: 
+
+--- página 6 ---
+  
+Pág. 6 de 21 
+• Plano de entrega de los accesos a Internet: tipo de línea y punto exacto de entrega de cada 
+acceso, para su remisión a los operadores, en el plazo máximo de dos (2) días naturales desde la 
+formalización del contrato. 
+• Diseño detallado: en el plazo máximo de siete (7) días naturales desde la formalización del 
+contrato, con la topología, el direccionamiento, las VLAN, los SSID, la ubicación de los equipos y 
+de las canalizaciones, el estudio de cobertura WiFi, la relación de puntos eléctricos con su 
+consumo y necesidad de respaldo, y los planes de pruebas, de soporte y de respuesta a 
+incidentes. 
+La ORGANIZACIÓN supervisará el diseño y ordenará su ejecución, que constituirá obligación 
+contractual del adjudicatario. El análisis previo y el diseño detallado no tendrán coste para SPTD; su 
+importe se considera incluido en los precios del resto de prestaciones del contrato y figura valorado a 
+cero en el Anexo 2. 
+3.2.- ARQUITECTURA Y COLECTIVOS DE USUARIOS 
+La red dará servicio a los siguientes colectivos, relacionados en orden de prioridad, que determina la 
+atención de las incidencias y la asignación de la línea de reserva: 
+Colectivo Red interior Red cableada WiFi Accesos Técnico propio 
+1. Administración Adjudicatario Según la ORGANIZACIÓN Zona general y embarcaciones 1 FTTH No 
+2. Televisión (TV 
+Compound) Propia 2 tomas por stand; red redundante y exclusiva Propio 2 dedicadas 1 
+Event TV Propia 2 tomas por stand; red redundante y exclusiva Propio 2 dedicadas 1 
+3. Prensa (Media 
+Centre) Adjudicatario 24 puestos Hasta 100 dispositivos 3 FTTH No 
+4. Disitntos stands Propia 2 tomas por stand; 20 a 30 stands de unos 10 usuarios Propio 3 FTTH No 
+5. Ocio Digital Adjudicatario 24 puestos Hasta 100 dispositivos 2 FTTH 1 
+ 
+Se dispondrá una reserva de un 10 % adicional de puntos de red y los enlaces entre carpas que solicite 
+la ORGANIZACIÓN durante el montaje. La arquitectura cumplirá los siguientes requisitos: 
+• Una red independiente por colectivo, mediante VLAN (IEEE 802.1Q) y VRF o instancias de 
+cortafuegos separadas, sin tráfico entre colectivos salvo autorización escrita de la 
+ORGANIZACIÓN. 
+• Red de gestión separada, con salida propia a Internet. 
+• Topología en estrella desde el nodo central, en la ubicación que apruebe la ORGANIZACIÓN con 
+el diseño, con troncales redundantes a las zonas críticas: Media Centre, Ocio Digital y TV 
+Compound. 
+• Servicios de DHCP y DNS por colectivo, y direccionamiento fijo a petición. 
+
+--- página 7 ---
+  
+Pág. 7 de 21 
+• Tomas de los stands con red propia configuradas en el cortafuegos, sin acceso del adjudicatario 
+a la red interior de dichos stands. 
+• Aislamiento entre clientes en las redes de Prensa y Administración, salvo los equipos que 
+indique la ORGANIZACIÓN. 
+3.3.- RED TRONCAL DE FIBRA ÓPTICA 
+• Troncales de fibra óptica monomodo con capacidad mínima de 10 Gbps y un 50 % de fibras de 
+reserva. La longitud de referencia es de 2.500 m. 
+• Repartidores ópticos en cada nodo, con cajas de empalme, pigtails y latiguillos. 
+• Cable apto para exterior, canalizado o protegido en los pasos y señalizado; la fibra contará con 
+protección mecánica en los tramos expuestos del muelle. El trazado no obstaculizará las vías de 
+evacuación ni de circulación. 
+• Etiquetado en los dos extremos y certificación de cada tramo, con entrega de los resultados. 
+3.4.- CABLEADO ESTRUCTURADO 
+• Cableado de acceso de categoría 6 o superior, a 1 Gbps, con una longitud máxima de 90 m por 
+enlace; para distancias superiores se dispondrá enlace de fibra óptica o conmutador intermedio. 
+• Dos tomas por stand, principal y reserva, en los stands con red propia (TV Compound, Event TV y 
+equipos participantes). 
+• 24 puestos cableados en el Media Centre y 24 puestos cableados en Ocio Digital. 
+• Puntos de la red de Administración según las indicaciones de la ORGANIZACIÓN. 
+• Cuatro (4) nodos de distribución, incluido el nodo central, cada uno con un armario rack de 19" 
+de 32U con llave y SAI, protegido de la intemperie cuando se ubique en exterior. 
+• Etiquetado en los dos extremos y certificación de cada punto, con entrega de los resultados. 
+La dotación es de 119 puntos de red, resultado de los 24 puestos de Prensa, los 24 de Ocio Digital y 
+dos tomas en 30 stands de equipos, con un 10 % de reserva. Los puntos del TV Compound y de 
+Administración y los adicionales que solicite la ORGANIZACIÓN se atenderán con cargo a dicha 
+dotación, sin coste adicional para SPTD. 
+3.5.- ELECTRÓNICA DE RED 
+• Cortafuegos: dos (2) cortafuegos redundantes de nueva generación, incluidos en el catálogo 
+CPSTIC del CCN, en alta disponibilidad, con prevención de intrusiones (IPS), control de 
+aplicaciones, filtrado web, antimalware, protección DNS, traducción de direcciones (NAT), 
+gestión de múltiples accesos (multi-WAN) con balanceo y conmutación de líneas, y políticas por 
+colectivo. Su rendimiento, con todos los servicios activos, será como mínimo igual a la suma de 
+las líneas (12 Gbps), con las suscripciones activas durante todo el contrato. 
+
+--- página 8 ---
+  
+Pág. 8 de 21 
+• Conmutadores: gestionables, de núcleo y de acceso, redundantes, con soporte de IEEE 802.1Q, 
+LACP, RSTP/MSTP y LLDP. 
+• Alimentación PoE: IEEE 802.3at/bt, con un margen del 20 % sobre el consumo previsto, 
+incluidos las cámaras de CCTV y los puntos de acceso exteriores. 
+• Transceptores ópticos: compatibles con los conmutadores instalados y probados. 
+• Repuestos: en el recinto, un 10 % de cada modelo instalado y, como mínimo, una unidad. 
+• Firmware: actualizado y con soporte del fabricante. 
+3.6.- RED INALÁMBRICA (WIFI) 
+El adjudicatario dará cobertura WiFi en la zona general del evento (Administración), incluidos muelles 
+y embarcaciones, en el Media Centre (Prensa) y en Ocio Digital, según el plano del Anexo 1. Dentro de 
+los stands con red propia, cada colectivo dispondrá su propia red inalámbrica. 
+• Puntos de acceso Wi-Fi 6 (IEEE 802.11ax) en las bandas de 2,4 y 5 GHz, con gestión centralizada. 
+• Un SSID por colectivo, en su red. 
+• Plan de canales coordinado con las frecuencias de televisión, telemetría y microfonía. 
+• Itinerancia IEEE 802.11k/v/r. 
+• Capacidad para hasta 100 dispositivos simultáneos en el Media Centre y hasta 100 en Ocio 
+Digital. 
+• Puntos de acceso exteriores con grado de protección IP67, resistentes a la niebla salina y al 
+viento. 
+• Límite de caudal por usuario, configurable por colectivo. 
+• Estudio de cobertura antes del montaje y medición de la cobertura después. 
+El número de puntos de acceso resultará del estudio de cobertura. A efectos de presupuesto se estima 
+una dotación de veinte (20) puntos de acceso. Se adaptará al estudio de cobertura. 
+3.7.- ACCESOS A INTERNET 
+Los accesos a Internet serán contratados por SPTD con los operadores de telecomunicaciones. Su 
+asignación será la siguiente: 
+
+--- página 9 ---
+  
+Pág. 9 de 21 
+Línea Cantidad Asignación 
+FTTH 1 Administración 
+Acceso dedicado de 1 Gbps con 
+SLA 2 Televisión: principal y respaldo, por rutas diversificadas 
+FTTH 3 Prensa 
+FTTH 3 Equipos de regata 
+FTTH 2 Ocio Digital 
+FTTH 1 Reserva 
+ 
+Corresponderá al adjudicatario: 
+• Elaborar el plano de entrega de las líneas para los operadores conforme al apartado 3.1 y 
+realizar el seguimiento de su entrega. 
+• Concentrar las terminaciones FTTH en el nodo central. 
+• Configurar el balanceo entre las líneas de cada colectivo y la conmutación automática en caso de 
+caída de una de ellas. 
+• Configurar la línea de reserva para el colectivo que pierda una línea, sin unir redes; si dos 
+colectivos pierden una línea a la vez, la reserva se asignará al de mayor prioridad conforme al 
+apartado 3.2. 
+• Indicar las direcciones IP públicas fijas necesarias, que solicitará la ORGANIZACIÓN. 
+• Aportar cuatro (4) equipos de respaldo por red móvil 5G, uno por nodo, para Administración y 
+para la red de gestión, con conmutación automática. 
+3.8.- MONITORIZACIÓN 
+• Métricas: disponibilidad de equipos y líneas, estado de puertos, tráfico por enlace y por línea, 
+consumo PoE, clientes por punto de acceso y por SSID, temperatura y carga de los equipos. 
+• Alarmas por caída de línea, equipo o enlace y por saturación sostenida superior al 80 %, dirigidas 
+al equipo de soporte y a la ORGANIZACIÓN. 
+• Cuadro de mando web para la ORGANIZACIÓN, en tiempo real y con histórico. 
+• SNMP v3 o API documentada en todos los equipos activos, con acceso de solo lectura para la 
+ORGANIZACIÓN. 
+• Espacio en armario, alimentación con SAI y punto en la red de gestión, en el nodo central, para 
+el equipo de supervisión de la ORGANIZACIÓN. 
+• Salida a Internet independiente de las líneas de los usuarios (respaldo 5G del apartado 3.7). 
+• Entrega del histórico en formato CSV a la finalización del contrato. 
+
+--- página 10 ---
+  
+Pág. 10 de 21 
+3.9.- SEGURIDAD 
+• Cuando la ejecución requiera que el adjudicatario trate datos personales por cuenta de SPTD y 
+siguiendo sus instrucciones, se formalizará previamente el correspondiente encargo de 
+tratamiento conforme al artículo 28 del Reglamento (UE) 2016/679. 
+• Cortafuegos cualificados en el catálogo CPSTIC del CCN. 
+• Denegación por defecto del tráfico entre colectivos. 
+• Gestión exclusivamente desde la red de gestión, mediante SSH o HTTPS, con cuentas 
+nominativas, doble factor de autenticación, registro de accesos y cambios y sin credenciales de 
+fábrica. 
+• WPA3 (WPA2 solo por compatibilidad), con autenticación 802.1X en Administración, protección 
+de tramas de gestión (IEEE 802.11w) y detección de puntos de acceso no autorizados. 
+• Protección de las tomas mediante DHCP snooping y protección ARP, con los puertos sin uso 
+desactivados. 
+• Registros centralizados, conservados durante seis (6) meses y entregados a la ORGANIZACIÓN. 
+• Ausencia de vulnerabilidades críticas conocidas en el montaje, verificada mediante escaneo en la 
+aceptación. 
+• Plan de respuesta a incidentes, con aviso a la ORGANIZACIÓN y, si procede, al CCN-CERT. 
+• Cumplimiento del Reglamento (UE) 2016/679, General de Protección de Datos, y de la Ley 
+Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los 
+derechos digitales, si se dispone portal cautivo con recogida de datos personales. 
+• Borrado de configuraciones y datos al retirar los equipos. 
+3.10.- PRUEBAS Y ACEPTACIÓN 
+Antes de la apertura, el adjudicatario realizará las siguientes pruebas, documentadas y en presencia 
+de la ORGANIZACIÓN: 
+• Certificación del cableado. 
+• Caudal de cada línea. 
+• Conmutación: corte de cada línea, incluida la asignación de la línea de reserva. 
+• Aislamiento entre colectivos. 
+• Escaneo de vulnerabilidades, interno y externo. 
+• Medición de la cobertura WiFi. 
+• Provocación de alarmas. 
+
+--- página 11 ---
+  
+Pág. 11 de 21 
+• Prueba general con todos los colectivos, una semana antes de la apertura. Se adaptará al 
+calendario del evento. 
+La aceptación se formalizará por escrito una vez corregidas las incidencias detectadas. 
+3.11.- OPERACIÓN, SOPORTE E INCIDENCIAS 
+Desde la puesta en servicio y hasta el inicio del desmontaje, el adjudicatario mantendrá la 
+monitorización de la red. Durante el periodo de apertura al público (del 8 al 17 de enero de 2027), 
+mantendrá en el recinto, como mínimo, un técnico de redes y un técnico de sistemas, festivos 
+incluidos. Cada colectivo dispondrá de su técnico propio conforme al apartado 3.2. 
+Las incidencias se comunicarán por un canal único, con registro de cada una de ellas. Los plazos 
+máximos de respuesta y solución serán los siguientes: 
+Prioridad Ejemplo Respuesta Solución 
+Crítica Un colectivo sin servicio 15 minutos 1 hora 
+Alta Una zona o un equipo sin servicio 30 minutos 4 horas 
+Normal Un puesto o una consulta 4 horas 24 horas 
+ 
+A igualdad de prioridad, las incidencias se atenderán según el orden de los colectivos del apartado 3.2. 
+El equipo de soporte atenderá asimismo las ampliaciones y reconfiguraciones que solicite la 
+ORGANIZACIÓN, dentro del precio del contrato y sin coste adicional para SPTD. 
+3.12.- SERVICIOS DE PERSONAL 
+El adjudicatario adscribirá a la ejecución del contrato, como mínimo, el siguiente personal, festivos 
+incluidos: 
+Perfil Funciones Periodo de presencia 
+Responsable técnico (titulación en 
+ingeniería de telecomunicación, 
+informática o equivalente) 
+Responsable técnico único ante la 
+ORGANIZACIÓN; diseño; coordinación 
+con los operadores y con los restantes 
+adjudicatarios; documentación 
+Toda la vigencia del contrato; presencia 
+in situ en el montaje, la prueba general 
+y el periodo de apertura al público 
+Técnico/a de redes Configuración y explotación de la red; atención de incidencias Montaje, pruebas y del 8 al 17 de enero de 2027 
+Técnico/a de sistemas 
+Servicios de red, seguridad, 
+monitorización y atención de 
+incidencias 
+Pruebas y del 8 al 17 de enero de 2027 
+ 
+El adjudicatario dimensionará el personal de montaje y desmontaje necesario para cumplir los plazos 
+del apartado 5. Las jornadas de soporte durante el periodo de apertura al público se abonarán 
+conforme al Anexo 2. 
+3.13.- DOCUMENTACIÓN 
+• Diseño: la indicada en el apartado 3.1. 
+• Fin de montaje: documentación de lo montado, inventario (modelo, número de serie, dirección 
+IP, ubicación y puertos), configuraciones y resultados de las pruebas. 
+
+--- página 12 ---
+  
+Pág. 12 de 21 
+• Fin del evento: memoria con las incidencias, la disponibilidad por línea y por colectivo y el 
+resumen de la monitorización. 
+La documentación se entregará en formato editable y PDF. 
+3.14.- COORDINACIÓN Y CONDICIONES DE EJECUCIÓN 
+• El suministro eléctrico se aportará a través del contrato de instalación eléctrica, alumbrado de 
+apoyo y grupos electrógenos. El adjudicatario entregará la relación de puntos eléctricos con su 
+consumo y necesidad de respaldo, y dispondrá un SAI con autonomía de 15 minutos en cada 
+armario. 
+• El adjudicatario realizará el seguimiento de la entrega de las líneas con los operadores. 
+• El montaje se adaptará a la liberación de cada zona y a la ubicación final de las carpas. 
+• El adjudicatario se coordinará con los restantes adjudicatarios del evento en los puntos de red y 
+en el uso de frecuencias. 
+• Las instalaciones se ejecutarán con grado de protección adecuado a un entorno portuario 
+exterior expuesto a viento, humedad y salinidad. 
+• El desmontaje comprenderá la retirada de la totalidad de las instalaciones y la restitución de los 
+espacios a su estado previo, sin daños ni restos de material. El equipamiento de SPTD se 
+devolverá a su almacén mediante acta. 
+• Los residuos generados, incluidos los de aparatos eléctricos y electrónicos, se gestionarán 
+conforme a la normativa aplicable y a la política de sostenibilidad del evento. 
+3.15.- RECURSOS APORTADOS POR SPTD 
+• Plano de implantación del Ocean Live Park y ubicación final de carpas y stands. 
+• Accesos a Internet conforme al apartado 3.7 y direcciones IP públicas fijas. 
+• Suministro eléctrico en los puntos definidos en el diseño detallado. 
+• Equipamiento de red propiedad de SPTD que supere las pruebas de funcionamiento. 
+• Espacio en el recinto para el puesto de soporte y el almacenamiento de repuestos, y 
+acreditaciones para el personal del adjudicatario. 
+3.16.- MEJORAS 
+Las mejoras que oferte el adjudicatario conforme a los criterios del PCAP serán de obligado 
+cumplimiento, sin coste adicional para SPTD. Podrán referirse a: 
+• Respaldo de los accesos a Internet por un segundo operador de fibra. 
+• Banda de 6 GHz (Wi-Fi 6E/7) en las zonas de alta densidad. 
+• Envío de registros (syslog) y de flujos (NetFlow/IPFIX) a la ORGANIZACIÓN. 
+
+--- página 13 ---
+  
+Pág. 13 de 21 
+• Prueba de intrusión realizada por un tercero. 
+• Incremento de repuestos o de la reserva de puntos de red. 
+4. OBLIGACIONES DEL CONTRATISTA 
+El adjudicatario ejecutará el contrato con estricta sujeción a las cláusulas de este Pliego, al PCAP, a su 
+oferta y a las instrucciones que dicte la ORGANIZACIÓN, asumiendo la ejecución a su riesgo y ventura 
+conforme al artículo 197 LCSP. En particular, quedará obligado a: 
+• Responsable técnico: designar al responsable técnico del apartado 3.12 como interlocutor único 
+y permanente con la ORGANIZACIÓN, con capacidad de decisión suficiente. 
+• Inspección: someterse a las facultades de inspección y control de la ORGANIZACIÓN, que podrá 
+acceder a los trabajos y a la configuración de la red en cualquier momento y fase de ejecución. 
+• Calidad técnica: responder de la calidad técnica de los trabajos y de las consecuencias que se 
+deduzcan para SPTD o para terceros de las omisiones, errores o métodos inadecuados en su 
+ejecución. 
+• Medios: aportar todos los medios materiales, técnicos y humanos necesarios, incluidos los 
+repuestos, salvo indicación expresa en contrario en este Pliego. 
+• Coordinación: coordinarse de forma permanente con la ORGANIZACIÓN, The Ocean Race, la 
+Autoridad Portuaria de Alicante, los operadores de telecomunicaciones y los restantes 
+proveedores del evento, asistiendo a las reuniones de coordinación y seguimiento que se 
+convoquen. 
+• Planificación y reporte: presentar el calendario de trabajos y cuanta información le requiera la 
+ORGANIZACIÓN para el seguimiento del contrato. 
+• Prevención de riesgos laborales: cumplir la normativa laboral, de Seguridad Social y de 
+prevención de riesgos laborales, y coordinar sus actividades preventivas con SPTD y con las 
+demás empresas concurrentes conforme al artículo 24 de la Ley 31/1995, de 8 de noviembre, de 
+Prevención de Riesgos Laborales, y al Real Decreto 171/2004, de 30 de enero, velando por el uso 
+de los equipos de protección individual y colectiva. 
+• Medio ambiente: adoptar las medidas preventivas necesarias para evitar vertidos, emisiones y 
+abandono de residuos, respondiendo de cualquier incidente medioambiental causado. 
+• Permisos: obtener las autorizaciones y permisos necesarios para la ejecución de los trabajos. 
+• Confidencialidad y protección de datos: guardar confidencialidad sobre la información a la que 
+tenga acceso con ocasión de la ejecución del contrato, incluidas las configuraciones, 
+credenciales y datos de tráfico de la red, y actuar como encargado del tratamiento conforme al 
+artículo 28 del Reglamento (UE) 2016/679 cuando acceda a datos personales. Cuando la 
+ejecución requiera que el adjudicatario trate datos personales por cuenta de SPTD y siguiendo 
+sus instrucciones, se formalizará previamente el correspondiente encargo de tratamiento 
+conforme al artículo 28 del Reglamento (UE) 2016/679. 
+
+--- página 14 ---
+  
+Pág. 14 de 21 
+• Personal: el personal del adjudicatario dependerá exclusivamente de este, sin que a la extinción 
+del contrato pueda producirse su consolidación como personal de SPTD. 
+• Costes incluidos: salvo indicación expresa en contrario, se entenderán incluidos en el precio 
+ofertado todos los gastos de personal, materiales, equipos, licencias y suscripciones, transporte, 
+seguros, permisos, tasas y cualesquiera otros necesarios para la completa ejecución del 
+contrato. 
+5. PERIODO DEL SERVICIO 
+El plazo de ejecución será desde el día siguiente a la formalización del contrato hasta el 31 de enero 
+de 2027, sin que se establezcan prórrogas. Dicho plazo comprende las siguientes fases: 
+Fase Periodo Actuaciones 
+1. Diseño 
+Plano de entrega de líneas: 2 días 
+naturales desde la formalización. 
+Diseño detallado: 7 días naturales 
+desde la formalización 
+Análisis in situ, plano de entrega de líneas y diseño 
+detallado 
+2. Montaje y pruebas Hasta el 24 de diciembre de 2026, según la liberación de cada zona Montaje, configuración y pruebas, con dos semanas de antelación a la apertura 
+3. Prueba general y aceptación Una semana antes de la apertura [PENDIENTE: fecha] Prueba general con todos los colectivos y aceptación por escrito 
+4. Celebración del evento Del 8 al 17 de enero de 2027 Operación, monitorización y soporte in situ con los plazos del apartado 3.11 
+5. Desmontaje y retirada Del 18 al 24 de enero de 2027 
+Retirada de instalaciones, borrado de configuraciones, 
+restitución de los espacios y devolución del 
+equipamiento de SPTD 
+6. Cierre Hasta el 31 de enero de 2027 Memoria final e histórico de monitorización 
+ 
+La falta de previsión, planificación o contratación en plazo de los medios humanos o materiales 
+necesarios para el cumplimiento de los periodos establecidos en este apartado será responsabilidad 
+exclusiva del adjudicatario, sin que pueda alegarse como causa de retraso o incumplimiento. 
+6. PRESUPUESTO 
+El Presupuesto de Ejecución Material (PEM) de las prestaciones objeto de este contrato, conforme al 
+desglose por partidas del Anexo 2, asciende a treinta y dos mil setecientos noventa y tres euros con 
+noventa céntimos (32.793,90 €). 
+Sobre dicho importe se aplica un 19 % en concepto de Gastos Generales y Beneficio Industrial (GG+BI), 
+que asciende a 6.230,84 €, lo que arroja un Presupuesto de Ejecución por Contrata (PEC) de treinta y 
+nueve mil veinticuatro euros con setenta y cuatro céntimos (39.024,74 €). Aplicando el 21 % de IVA 
+(8.195,20 €), el importe total de licitación asciende a cuarenta y siete mil doscientos diecinueve euros 
+con noventa y cuatro céntimos (47.219,94 €). 
+
+--- página 15 ---
+  
+Pág. 15 de 21 
+Concepto Importe 
+Presupuesto de Ejecución Material (PEM) 32.793,90 € 
+Gastos Generales y Beneficio Industrial (GG+BI 19 %) 6.230,84 € 
+Presupuesto de Ejecución por Contrata (PEC) 39.024,74 € 
+IVA (21 %) 8.195,20 € 
+TOTAL LICITACIÓN 47.219,94 € 
+ 
+Dicho presupuesto incluye la totalidad de los costes de personal, materiales, equipos en régimen de 
+servicio, licencias y suscripciones, medios auxiliares, gestiones, permisos, tasas, seguros y cualesquiera 
+otros gastos necesarios para la completa ejecución de los servicios descritos en este Pliego, con la única 
+excepción del Impuesto sobre el Valor Añadido (IVA), que se indica como partida independiente. No 
+incluye el coste de los accesos a Internet contratados por SPTD con los operadores de 
+telecomunicaciones. 
+7. RECEPCIÓN DE LOS TRABAJOS 
+El adjudicatario, al finalizar los trabajos, presentará relación valorada de los trabajos y servicios 
+realmente ejecutados conforme a las unidades y precios del Anexo 2, que la ORGANIZACIÓN verificará 
+para la emisión de la correspondiente certificación. Las jornadas de soporte se justificarán mediante 
+partes de trabajo firmados por la persona designada por la ORGANIZACIÓN. 
+El pago estará condicionado a la presentación y aprobación por la ORGANIZACIÓN de la 
+documentación de fin de montaje y de fin del evento del apartado 3.13, de los registros e histórico de 
+monitorización, del acta de borrado de configuraciones y del acta de devolución del equipamiento de 
+SPTD. 
+Las facturas deberán ser declaradas “conformes” por SPTD con carácter previo a su abono. 
+8. INCUMPLIMIENTOS 
+SPTD podrá levantar actas de no conformidad por cualquiera de las siguientes faltas: 
+• Superación de los plazos máximos de respuesta y solución de incidencias del apartado 3.11. 
+• Retraso en la entrega del diseño o en la finalización del montaje respecto de los plazos del 
+apartado 5. 
+• Pérdida de servicio imputable al adjudicatario durante el periodo de apertura al público. 
+• Incumplimiento de los requisitos de seguridad del apartado 3.9. 
+• Trabajos no realizados según las exigencias de calidad expresadas en este Pliego. 
+• Comportamientos inadecuados del personal del adjudicatario. 
+• Incumplimiento de cualquiera de los requerimientos del presente Pliego, ya sean explícitos o 
+implícitos en él. 
+
+--- página 16 ---
+  
+Pág. 16 de 21 
+• Cualquier acontecimiento ocasionado directa o indirectamente por el adjudicatario que 
+provoque perjuicio y que sea fruto de negligencia, dejación de sus obligaciones, imprudencia o 
+temeridad, falta de profesionalidad, etc. 
+El levantamiento de actas de no conformidad no eximirá al adjudicatario de su obligación de finalizar 
+el trabajo ni de cualquier otra de sus obligaciones y responsabilidades según el contrato, y en ningún 
+caso constituirá una renuncia por parte de SPTD a sus otros derechos, incluido el de resolver el contrato 
+y exigir la indemnización de daños y perjuicios. 
+Cualquier acta de no conformidad será firmada por la persona delegada por SPTD y por el 
+representante del adjudicatario en el centro de trabajo. Si este se negara a firmar, se hará constar así 
+en el acta, que tendrá idéntica validez. 
+Las faltas se clasificarán en leves (1 acta), graves (2 actas) y muy graves (3 actas), y les corresponderán 
+las siguientes penalidades, fijadas dentro de los límites del artículo 192 LCSP (máximo 10 % del precio 
+del contrato por penalidad individual y 50 % en conjunto): 
+• Falta leve: penalidad del 2 % del precio del contrato. 
+• Falta grave: penalidad del 5 % del precio del contrato. 
+• Falta muy grave: penalidad desde el 10 % del precio del contrato hasta la resolución del 
+contrato, con la correspondiente indemnización de daños y perjuicios si procediera. 
+Lo anterior se entiende sin perjuicio de las penalidades por demora previstas en el artículo 193 LCSP y 
+en el PCAP. Independientemente de la penalidad económica, la anomalía deberá corregirse de 
+inmediato. La suma de tres actas de no conformidad durante la vigencia del contrato podrá 
+considerarse motivo suficiente de resolución si SPTD así lo considerase. 
+9. COBERTURA DE RIESGOS 
+El adjudicatario adoptará las medidas necesarias para que durante la ejecución de los trabajos quede 
+asegurada la protección de terceros, siendo de su total responsabilidad los daños y perjuicios que 
+pudieran originarse como consecuencia de la ejecución de los trabajos si, a tenor de las disposiciones 
+vigentes, incurriese en culpabilidad, en particular los derivados de trabajos en altura, trabajos en 
+proximidad de instalaciones eléctricas, trabajos en espacios abiertos al público y trabajos en el borde 
+de muelle. 
+El adjudicatario concertará, antes de la formalización del contrato, un seguro de responsabilidad civil 
+que cubra los daños causados a personas o bienes durante el montaje, la celebración y el desmontaje 
+del evento como consecuencia de la prestación del servicio, vigente durante todo el periodo de 
+ejecución. El adjudicatario facilitará a SPTD copia de la póliza y del justificante de pago. Los equipos 
+aportados en régimen de servicio permanecerán bajo la responsabilidad del adjudicatario durante 
+todo el periodo de ejecución. 
+ 
+
+--- página 17 ---
+  
+Pág. 17 de 21 
+ 
+Alicante, a la fecha de la firma digital 
+ 
+ 
+Javier de Diego 
+Director Técnico de SPTD 
+
+--- página 18 ---
+  
+Pág. 18 de 21 
+ANEXO 1: PLANOS 
+Se incorporan los siguientes planos, de carácter informativo y no contractual hasta la aprobación del 
+diseño detallado del apartado 3.1. La ubicación de Ocio Digital está pendiente de confirmar. 
+• Plano del Ocean Live Park, muelles 10, 12 y 14 (octubre de 2026), con las zonas de cobertura 
+WiFi requerida. 
+• Plano de nodos de distribución y troncales de fibra óptica de la edición de 2023. 
+ 
+Zonas de cobertura WiFi requerida. Ocean Live Park, muelles 10, 12 y 14. Octubre de 2026. 
+ 
+Nodos de distribución y troncales de fibra óptica. Edición 2023. Carácter informativo. 
+
+
+--- página 19 ---
+  
+Pág. 19 de 21 
+ANEXO 2: PRESUPUESTO 
+Servicio de infraestructura de red de datos (LAN y WiFi) del Ocean Live Park para la celebración de 
+Alicante Puerto de Salida de la Vuelta al Mundo a Vela 2027. The Ocean Race 
+Las partidas se valoran en euros, IVA excluido, y su suma constituye el PEM declarado en el apartado 
+6. 
+CAP. 01. DISEÑO DETALLADO DE LA RED 
+Descripción Ud Medición Precio/Ud Importe 
+Análisis in situ, plano de entrega de líneas y diseño detallado 
+de la red. Sin coste Ud 1 0,00 0,00 
+SUMA CAPÍTULO    0,00 
+ 
+CAP. 02. RED TRONCAL DE FIBRA ÓPTICA 
+Descripción Ud Medición Precio/Ud Importe 
+Cable de fibra óptica monomodo de 64 fibras, apto para 
+exterior, incluso tendido, empalmes por fusión y certificación 
+de cada tramo (OTDR o medida de atenuación), i/p.p. de 
+protecciones necesarias 
+m 2.500 1,39 3.475,00 
+Caja de empalme de 64 fibras ud 3 175,25 525,75 
+Pigtail monomodo LC ud 384 0,74 284,16 
+Latiguillo de fibra óptica monomodo LC dúplex ud 192 3,72 714,24 
+Bandeja de 24 conectores LC dúplex ud 8 47,03 376,24 
+SUMA CAPÍTULO    5.375,39 
+ 
+CAP. 03. CABLEADO ESTRUCTURADO 
+Descripción Ud Medición Precio/Ud Importe 
+Punto de red FTP categoría 6 (enlace permanente de hasta 90 
+m), incluso canalización, etiquetado y certificación; para 
+longitudes superiores, enlace de fibra óptica monomodo con 
+conversores de medios 
+ud 119 47,77 5.684,63 
+Panel de parcheo categoría 6 ud 8 27,20 217,60 
+SUMA CAPÍTULO    5.902,23 
+ 
+
+--- página 20 ---
+  
+Pág. 20 de 21 
+CAP. 04. EQUIPAMIENTO EN RÉGIMEN DE SERVICIO 
+Descripción Ud Medición Precio/Ud Importe 
+Armario rack de suelo 19" de 32U, 600 × 800 mm, con puertas 
+con cerradura de llave y laterales desmontables con cierre, 
+carga estática mínima 600 kg, protegido de la intemperie 
+cuando se ubique en exterior, totalmente instalado, uno por 
+nodo 
+ud 4 500,00 2.000,00 
+Cortafuegos redundantes de nueva generación cualificados 
+CPSTIC en alta disponibilidad, rendimiento mínimo de 12 
+Gbps con todos los servicios activos, incluso suscripciones 
+durante el contrato con multi WAN 
+ud 2 1.200,00 2.400,00 
+Conmutadores gestionables de núcleo y de acceso PoE 
+802.3at/bt, redundantes, transceptores, SAI de 15 min en 
+cada armario y repuestos 
+PA 1 1.100,00 1.100,00 
+Punto de acceso Wi-Fi 6, exterior IP67 o interior, incluso 
+gestión centralizada, instalación y configuración ud 20 64,87 1.297,40 
+Respaldo por red móvil 5G para Administración y red de 
+gestión, uno por nodo, incluso tarifa de datos ud 4 85,00 340,00 
+Plataforma de monitorización con cuadro de mando web e 
+histórico PA 1 700,00 700,00 
+SUMA CAPÍTULO    7.837,40 
+ 
+CAP. 05. MONTAJE, SOPORTE TÉCNICO Y RETIRADA 
+Descripción Ud Medición Precio/Ud Importe 
+Montaje, configuración, pruebas de aceptación (incluido 
+escaneo de vulnerabilidades interno y externo) y prueba 
+general 
+PA 1 6.132,94 6.132,94 
+Jornada de soporte in situ (responsable técnico, técnico de 
+redes y técnico de sistemas), del 8 al 17 de enero de 2027, 
+festivos incluidos, horario apertura evento 
+jorn. 10 590,36 5.903,60 
+Desmontaje, borrado de configuraciones, retirada y 
+reposición de los espacios PA 1 1.642,34 1.642,34 
+SUMA CAPÍTULO    13.678,88 
+ 
+
+--- página 21 ---
+  
+Pág. 21 de 21 
+RESUMEN 
+Concepto Importe 
+CAP. 01. DISEÑO DETALLADO DE LA RED 0,00 
+CAP. 02. RED TRONCAL DE FIBRA ÓPTICA 5.375,39 
+CAP. 03. CABLEADO ESTRUCTURADO 5.902,23 
+CAP. 04. EQUIPAMIENTO EN RÉGIMEN DE SERVICIO 7.837,40 
+CAP. 05. MONTAJE, SOPORTE TÉCNICO Y RETIRADA 13.678,88 
+PRESUPUESTO DE EJECUCIÓN MATERIAL (PEM) 32.793,90 
+GG+BI 19 % 6.230,84 
+PRESUPUESTO DE EJECUCIÓN POR CONTRATA (PEC) 39.024,74 
+IVA 21 % 8.195,20 
+TOTAL LICITACIÓN 47.219,94 
+ 

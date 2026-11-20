@@ -1,0 +1,961 @@
+
+
+--- página 1 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1 | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : GONZALO PERNAS BARAHONA | FECHA : 16/11/2026 14:51 | Sin acción específica
+FIRMANTE(2) : JOSE ANTONIO DA CASA DE CANTOS | FECHA : 17/11/2026 13:37 | Sin acción específica
+FIRMANTE(3) : MARIA JOSE BARAHONA MORENO | FECHA : 17/11/2026 13:41 | Sin acción específica
+ 
+  
+ 
+ 
+ 
+ 
+PLIEGO DE PRESCRIPCIONES 
+TÉCNICAS PARTICULARES: 
+R E GULA DOR D EL CON TR ATO D E LOS  S ER VICIO S D ENOMINA DOS : 
+“
+SERVICIO INTEGRAL DE 
+MANTENIMIENTO, MIGRACIÓN Y 
+EVOLUCIÓN DE LA PLATAFORMA 
+CORNELIA ”. 
+EXP.
+ 
+106/
+ 
+2026.0
+ 
+–
+ 
+SIS
+ 
+PROCEDIMIENTO ABIERTO SIMPLIFICADO ABREVIADO. OFERTA 
+CON MEJ OR RELACIÓN CALIDAD-PRECIO. 
+DIVISIÓN DE TRANSFORMACIÓN DIGITAL 
+NOVIEMBRE/2026 
+ 
+ 
+
+--- página 2 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1 | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : GONZALO PERNAS BARAHONA | FECHA : 16/11/2026 14:51 | Sin acción específica
+FIRMANTE(2) : JOSE ANTONIO DA CASA DE CANTOS | FECHA : 17/11/2026 13:37 | Sin acción específica
+FIRMANTE(3) : MARIA JOSE BARAHONA MORENO | FECHA : 17/11/2026 13:41 | Sin acción específica
+ 
+  
+ 
+ 
+ 
+D E N O M I N A C I Ó N :  
+“ S E R V I C I O  I N T E G R A L  D E  M A N T E N I M I E N T O ,  M I G R A C I Ó N  Y  E V O L U C I Ó N  D E  L A  P L A T A F O R M A  
+C O R N E L I A ” 
+1 .  O B J E T O .  
+El presente Pliego de Prescripciones Técnicas Particulares tiene por objetivo la descripción de las 
+prescripciones técnicas para la contratación de los servicios de soporte, mantenimiento, 
+actualización tecnológica y evolución funcional de la plataforma CORNELIA, utilizada por la 
+Autoridad Portuaria de Cartagena (en adelante, APC) para la gestión de los procesos y servicios 
+portuarios dirigidos a la comunidad portuaria  contempladas en su ámbito funcional. 
+La contratación tiene como finalidad garantizar la continuidad operativa de la plataforma, preservar 
+y mejorar sus condiciones de seguridad, disponibilidad y rendimiento, asegurar su adecuación a las 
+necesidades de la APC y facilitar su evolución tecnológica y funcional. 
+Asimismo, se contempla la migración de la plataforma a una infraestructura tecnológica alojada en 
+las instalaciones o entornos corporativos gestionados por la APC, así como la ejecución de una serie 
+de desarrollos evolutivos de carácter obligatorio. 
+El alcance de la contratación comprenderá las siguientes líneas de actuación: 
+1. Mantenimiento de la funcionalidad actualmente implantada.  
+2. Mantenimiento de la plataforma tecnológica actual. 
+3. Migración a infraestructura on-premise de la APC 
+4. Evolutivo obligatorios, referentes a: 
+ Gestión de usuarios y roles.  
+ Adaptación a la ventanilla local DUEPORT.  
+ Gestión de ventanas de mantenimiento en frentes de atraque (HADES).  
+5. Evolutivos adicionales (bolsa de horas). 
+2 .  D O C U M E N T O S  Q U E  D E F I N E N  L O S  S E R V I C I O S .  
+El presente Pliego de Prescripciones Técnicas, conjuntamente con los otros documentos requeridos 
+en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, conforman en su conjunto el 
+Pliego de Condiciones para el SERVICIO INTEGRAL DE MANTENIMIENTO, MIGRACIÓN Y EVOLUCIÓN 
+DE LA PLATAFORMA CORNELIA. El presente Pliego establece la definición técnica y las 
+particularidades de los servicios y tareas a desarrollar. 
+3 .  A L C A N C E  D E  L O S  S E R V I C I O S .  
+ 
+3.1. Soporte y Mantenimiento de la funcionalidad actualmente implantada 
+ 
+3.1.1.- Descripción de la funcionalidad actual. 
+ 
+
+--- página 3 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1 | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : GONZALO PERNAS BARAHONA | FECHA : 16/11/2026 14:51 | Sin acción específica
+FIRMANTE(2) : JOSE ANTONIO DA CASA DE CANTOS | FECHA : 17/11/2026 13:37 | Sin acción específica
+FIRMANTE(3) : MARIA JOSE BARAHONA MORENO | FECHA : 17/11/2026 13:41 | Sin acción específica
+ 
+  
+ 
+ 
+ 
+ 
+Los principales bloques contemplados en dicho pliego son los siguientes: 
+ 
+1. Portal de acceso y servicios comunes 
+ 
+Comprende las funcionalidades generales de la plataforma, incluyendo las páginas de acceso e 
+identificación, el área personal de los usuarios, las notificaciones, comunicados e información general, así 
+como los mecanismos comunes de búsqueda, gestión documental, cuaderno de bitácora y gestión de 
+procesos de trabajo. 
+ 
+2. Reservas de atraques de cruceros  y genéricas. 
+ 
+Incluye la gestión de solicitudes de reserva de atraques para buques de crucero, la consulta de previsiones 
+de atraque, el seguimiento y modificación del estado de las reservas y su conversión en escalas. Asimismo 
+incluye la gestión de atraques de buques mercantes. 
+ 
+3. Gestión de ofertas 
+ 
+Contempla la gestión de solicitudes de oferta de servicios portuarios, la elaboración y seguimiento de 
+ofertas, la simulación de tasas, la consulta de su estado y su transformación en solicitudes de escala 
+cuando corresponda. 
+ 
+4. Gestión de escalas 
+ 
+Comprende los procesos relacionados con la solicitud, consulta y seguimiento de escalas de buques, las 
+previsiones de movimientos portuarios y las comunicaciones asociadas al atraque. Incluye asimismo el 
+tratamiento de información y documentación relacionada, como documentos aduaneros, justificantes de 
+estatus comunitario y expedientes vinculados a las operaciones. 
+ 
+5. Gestión de servicios portuarios 
+ 
+Abarca la solicitud, prestación y seguimiento de los servicios relacionados con la estancia de los buques 
+en puerto.  Entre ellos se contemplan el suministro de agua, combustible mediante camión cisterna, 
+avituallamiento y retirada de residuos MARPOL, así como la consulta de los servicios solicitados y 
+prestados. 
+ 
+6. Gestión de pasaje y mercancías 
+ 
+Incluye la consulta y tratamiento de información de tripulantes y pasajeros, manifiestos y relaciones de 
+carga, declaraciones sumarias, mercancías peligrosas, contenedores y documentación asociada a las 
+operaciones de carga y descarga. 
+ 
+7. Gestión de concesiones y puntos de amarre 
+ 
+Comprende las solicitudes y gestiones relacionadas con las concesiones portuarias, la información sobre 
+volúmenes de negocio, los planes interiores marítimos y el control de puntos de amarre y embarcaciones.  
+Incluye asimismo los procesos de gestión de entradas, salidas, validaciones y manifiestos de pesca. 
+ 
+8. Trámites administrativos y otras gestiones 
+ 
+
+--- página 4 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1 | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : GONZALO PERNAS BARAHONA | FECHA : 16/11/2026 14:51 | Sin acción específica
+FIRMANTE(2) : JOSE ANTONIO DA CASA DE CANTOS | FECHA : 17/11/2026 13:37 | Sin acción específica
+FIRMANTE(3) : MARIA JOSE BARAHONA MORENO | FECHA : 17/11/2026 13:41 | Sin acción específica
+ 
+  
+ 
+ 
+ 
+Comprende las funcionalidades relacionadas con los trámites de sede electrónica, las solicitudes de 
+autorización, visados, permisos y otros procedimientos administrativos vinculados a la actividad 
+portuaria. 
+ 
+9. Control de gestión, consultas e informes 
+ 
+Contempla las herramientas de consulta, seguimiento y explotación de la información de CORNELIA, 
+incluyendo informes de servicios portuarios, movimientos de residuos, previsiones de servicios, 
+movimientos de buques, ofertas y otros indicadores de actividad. 
+ 
+10. Administración y parametrización de la plataforma 
+ 
+Comprende las funcionalidades de administración de usuarios y perfiles existentes, mantenimiento de 
+datos maestros, configuración de servicios y empresas prestatarias, tipologías de residuos, comunicados, 
+e información general. 
+ 
+Este bloque se mantendrá sin perjuicio de las modificaciones previstas en el evolutivo obligatorio de 
+gestión de usuarios y roles. 
+ 
+13. Integraciones funcionales con otros sistemas 
+ 
+Comprende los mecanismos de intercambio de información entre CORNELIA y los sistemas internos de la 
+APC, así como las integraciones con plataformas externas y organismos que participan en los procesos 
+portuarios. 
+ 
+Se incluyen las comunicaciones y transferencias de datos necesarias para el funcionamiento de los 
+módulos anteriores, sin perjuicio de las adaptaciones específicas previstas en el evolutivo obligatorio de 
+integración con DUEPORT. 
+ 
+3.1.2,. Requisitos del soporte  y mantenimiento funcional 
+ 
+El adjudicatario deberá garantizar el mantenimiento y correcto funcionamiento de todas las 
+funcionalidades que integran actualmente la plataforma CORNELIA, asegurando la continuidad de los 
+procesos de negocio que se gestionan a través de ella y su adecuada utilización por parte del personal de 
+la Autoridad Portuaria de Cartagena (APC). 
+El servicio comprenderá las actuaciones necesarias para conservar las funcionalidades existentes, corregir 
+los errores detectados, atender las incidencias comunicadas por los usuarios y garantizar que el sistema 
+continúa respondiendo adecuadamente a los requisitos funcionales para los que fue implantado. 
+El alcance de este mantenimiento incluirá, como mínimo, las siguientes actividades: 
+a) Mantenimiento correctivo funcional 
+Identificación, análisis y resolución de errores o comportamientos anómalos que afecten al 
+funcionamiento de CORNELIA, incluyendo: 
+ Corrección de errores en los procesos de negocio. 
+
+--- página 5 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1 | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : GONZALO PERNAS BARAHONA | FECHA : 16/11/2026 14:51 | Sin acción específica
+FIRMANTE(2) : JOSE ANTONIO DA CASA DE CANTOS | FECHA : 17/11/2026 13:37 | Sin acción específica
+FIRMANTE(3) : MARIA JOSE BARAHONA MORENO | FECHA : 17/11/2026 13:41 | Sin acción específica
+ 
+  
+ 
+ 
+ 
+ Resolución de incidencias en formularios, consultas, listados, informes y operaciones de 
+usuario. 
+ Corrección de errores en reglas de negocio, validaciones y cálculos. 
+ Resolución de inconsistencias producidas por defectos en el funcionamiento de la 
+aplicación. 
+ Corrección de fallos en los mecanismos de intercambio de información con otros 
+sistemas. 
+ Recuperación del funcionamiento de procesos que hayan quedado interrumpidos por 
+errores de la aplicación. 
+b) Atención y soporte a usuarios 
+El adjudicatario proporcionará soporte funcional al personal designado por la APC para la 
+resolución de dudas, consultas e incidencias relacionadas con el uso de CORNELIA. 
+Este servicio incluirá la asistencia en la identificación de problemas, el análisis de incidencias 
+comunicadas y el asesoramiento sobre el funcionamiento de las características ya implantadas. 
+c) Mantenimiento adaptativo de la funcionalidad existente 
+Se realizarán las modificaciones menores necesarias para conservar el funcionamiento de las 
+funcionalidades existentes ante cambios en su entorno de ejecución, dependencias, formatos de 
+intercambio o condiciones técnicas, siempre que no supongan la incorporación de nuevos 
+procesos de negocio o funcionalidades sustancialmente diferentes. 
+Las modificaciones funcionales de mayor alcance se gestionarán mediante los evolutivos 
+obligatorios previstos en el contrato o, cuando proceda, mediante la bolsa de horas de evolutivos 
+adicionales. 
+d) Verificación del funcionamiento y prevención de errores 
+El adjudicatario efectuará revisiones periódicas del funcionamiento de los procesos más 
+relevantes, identificando errores recurrentes y proponiendo medidas correctivas destinadas a 
+reducir su incidencia. 
+Las modificaciones efectuadas deberán incluir las pruebas necesarias para verificar su correcto 
+funcionamiento y evitar la aparición de errores en otras funcionalidades. 
+e) Mantenimiento de las integraciones existentes 
+Se garantizará el funcionamiento de las integraciones y mecanismos de intercambio de 
+información que CORNELIA tenga implantados al inicio del contrato.  
+Se incluirán la identificación y corrección de errores propios de la aplicación en la generación, 
+recepción, transformación o procesamiento de la información intercambiada. 
+Quedan diferenciadas de este mantenimiento ordinario las adaptaciones estructurales que se 
+incluyen expresamente como evolutivos obligatorios. 
+Todos los mecanismos de integración entre aplicaciones se basan en el uso de la plataforma 
+corporativa DIDOPORT, descrita en el apartado de mantenimiento tecnológico. 
+
+--- página 6 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1 | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : GONZALO PERNAS BARAHONA | FECHA : 16/11/2026 14:51 | Sin acción específica
+FIRMANTE(2) : JOSE ANTONIO DA CASA DE CANTOS | FECHA : 17/11/2026 13:37 | Sin acción específica
+FIRMANTE(3) : MARIA JOSE BARAHONA MORENO | FECHA : 17/11/2026 13:41 | Sin acción específica
+ 
+  
+ 
+ 
+ 
+ 
+El mantenimiento funcional deberá prestarse durante toda la vigencia del contrato, tanto antes como 
+después de la migración tecnológica. 
+El adjudicatario deberá mantener un registro actualizado de incidencias, solicitudes y actuaciones 
+realizadas, con identificación de su estado, prioridad, fecha de comunicación y resolución. 
+Las funcionalidades implantadas al comienzo del contrato constituirán la línea base funcional de 
+referencia, que será documentada y validada con la APC durante la fase inicial. 
+ 
+3.2. Mantenimiento de la plataforma tecnológica actual 
+ 
+3.2.1.- Descripción de la plataforma 
+ 
+La plataforma CORNELIA dispone de una arquitectura tecnológica basada en microservicios y 
+componentes FIWARE, desplegados mediante tecnologías de contenerización, que proporcionan las 
+funcionalidades de negocio, los mecanismos de integración y los servicios comunes necesarios para su 
+funcionamiento. 
+La plataforma comprende los siguientes componentes principales: 
+a) Portal web y capa de presentación 
+Constituye el punto de acceso de los usuarios a las aplicaciones y servicios de CORNELIA. Está 
+desarrollado utilizando Angular y componentes de interfaz como PrimeNG, Tailwind CSS y Font 
+Awesome. 
+Incluye las interfaces de usuario de los distintos módulos funcionales y los mecanismos de 
+comunicación con los servicios de aplicación. 
+b) Servicios de negocio y microservicios 
+La plataforma dispone de una arquitectura de microservicios Java basada en Spring, que 
+implementa las funcionalidades de los distintos módulos de CORNELIA. 
+Entre los servicios descritos se encuentran: 
+ Maestros: gestión de datos maestros y elementos comunes utilizados por la plataforma. 
+ Configuración: administración de parámetros y configuraciones de los servicios. 
+ Escalas: gestión de la información y operaciones relacionadas con las escalas de buques. 
+ Servicios: funcionalidades asociadas a la gestión de servicios portuarios. 
+ Pesaje y mercancías: gestión de los procesos relacionados con el pesaje y las mercancías. 
+ Concesiones: funcionalidades correspondientes a la gestión de concesiones. 
+ Gestión de ofertas: funcionalidades vinculadas a las ofertas gestionadas mediante CORNELIA. 
+ 
+
+--- página 7 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1 | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : GONZALO PERNAS BARAHONA | FECHA : 16/11/2026 14:51 | Sin acción específica
+FIRMANTE(2) : JOSE ANTONIO DA CASA DE CANTOS | FECHA : 17/11/2026 13:37 | Sin acción específica
+FIRMANTE(3) : MARIA JOSE BARAHONA MORENO | FECHA : 17/11/2026 13:41 | Sin acción específica
+ 
+  
+ 
+ 
+ 
+La arquitectura contempla asimismo servicios relacionados con las reservas de atraques y otras 
+funcionalidades portuarias, así como componentes comunes de descubrimiento de servicios, 
+configuración centralizada y encaminamiento de peticiones mediante API Gateway. 
+c) Plataforma FIWARE y servicios de gestión de datos 
+Se incluyen los componentes FIWARE utilizados para el tratamiento e intercambio de información 
+de contexto, entre ellos: 
+ Context Broker: gestión de información de contexto mediante interfaces NGSI. 
+ QuantumLeap: almacenamiento y consulta de información histórica. 
+ Adaptadores NGSI: integración y transformación de información procedente de otros sistemas. 
+ WireCloud: creación de cuadros de mando y visualizaciones. 
+ Apache Superset: explotación de información e indicadores. 
+ Node-RED: procesamiento de flujos de información y tareas de transformación de datos. 
+d) Integración y servicios de comunicación 
+Se incluyen los mecanismos de comunicación entre los microservicios, los componentes FIWARE 
+y los sistemas externos, mediante interfaces REST, API Gateway y componentes de gestión y 
+publicación de API, entre ellos API Umbrella. 
+Estos servicios permiten la interoperabilidad de CORNELIA con otros sistemas de la APC y con 
+plataformas externas. 
+e) Gestión de identidades y seguridad 
+La arquitectura incorpora Keycloak para la gestión de identidades y autenticación, con 
+mecanismos de federación con los servicios corporativos de la APC. 
+Asimismo, utiliza Spring Security y mecanismos de autorización basados en tokens JWT para 
+proteger el acceso a los servicios y recursos de aplicación. 
+f) Bases de datos y persistencia 
+La plataforma utiliza sistemas de gestión de bases de datos para almacenar información funcional, 
+datos maestros, usuarios, configuraciones e información de contexto. 
+La arquitectura documentada contempla Microsoft SQL Server como base de datos principal de 
+los microservicios, así como otros sistemas de almacenamiento asociados a los componentes 
+FIWARE y servicios específicos. 
+g) Infraestructura de ejecución y despliegue 
+La plataforma se encuentra diseñada para su ejecución mediante contenedores Docker, utilizando 
+Docker Swarm para la orquestación de servicios. 
+Dispone de mecanismos de configuración, aislamiento de comunicaciones, balanceo y 
+distribución de los servicios entre los distintos nodos de ejecución. 
+h) Herramientas de desarrollo, integración y despliegue 
+
+--- página 8 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1 | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : GONZALO PERNAS BARAHONA | FECHA : 16/11/2026 14:51 | Sin acción específica
+FIRMANTE(2) : JOSE ANTONIO DA CASA DE CANTOS | FECHA : 17/11/2026 13:37 | Sin acción específica
+FIRMANTE(3) : MARIA JOSE BARAHONA MORENO | FECHA : 17/11/2026 13:41 | Sin acción específica
+ 
+  
+ 
+ 
+ 
+Se incluyen las herramientas y procedimientos utilizados para la gestión del código fuente, 
+construcción, control de calidad y despliegue de los componentes de CORNELIA, entre ellos 
+GitLab, Jenkins, SonarQube y JFrog Artifactory. 
+i) Monitorización y gestión de registros 
+La arquitectura dispone de herramientas de recopilación y análisis centralizado de registros, 
+basadas en Fluent Bit, Elasticsearch y Kibana, así como mecanismos de supervisión de 
+disponibilidad de los servicios y generación de alertas. 
+ 
+3.2.2.- Requisitos de mantenimiento tecnológico 
+El adjudicatario será responsable del mantenimiento de los componentes tecnológicos específicos que 
+sustentan CORNELIA, garantizando su correcto funcionamiento, estabilidad, seguridad y compatibilidad 
+durante toda la vigencia contractual. 
+Inicialmente, este servicio se prestará sobre la plataforma tecnológica actualmente utilizada y, una vez 
+completada la migración, sobre los componentes de CORNELIA desplegados en la infraestructura propia 
+de la APC. 
+El mantenimiento tecnológico deberá contemplar las actuaciones necesarias para preservar la 
+disponibilidad y el rendimiento de la aplicación, minimizar los riesgos asociados a la obsolescencia de sus 
+componentes y facilitar su evolución posterior. 
+Se incluirán, como mínimo, las siguientes prestaciones: 
+a) Mantenimiento correctivo tecnológico 
+ Diagnóstico y resolución de incidencias relacionadas con los componentes 
+técnicos de CORNELIA, incluyendo: 
+ Errores en los servicios de aplicación. 
+ Fallos de ejecución o comunicación entre componentes. 
+ Problemas de conexión con bases de datos. 
+ Errores en los procesos automáticos y tareas programadas. 
+ Problemas de configuración de la aplicación. 
+ Fallos de compatibilidad entre componentes. 
+ Degradaciones del rendimiento atribuibles a la plataforma. 
+ Incidencias relacionadas con el funcionamiento de servicios de integración. 
+b) Mantenimiento preventivo 
+Realización de las operaciones necesarias para identificar y prevenir posibles fallos de 
+funcionamiento. 
+Se incluirá la revisión de registros, detección de procesos fallidos, análisis de errores 
+recurrentes, comprobación de dependencias y evaluación del estado de los componentes 
+tecnológicos. 
+
+--- página 9 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1 | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : GONZALO PERNAS BARAHONA | FECHA : 16/11/2026 14:51 | Sin acción específica
+FIRMANTE(2) : JOSE ANTONIO DA CASA DE CANTOS | FECHA : 17/11/2026 13:37 | Sin acción específica
+FIRMANTE(3) : MARIA JOSE BARAHONA MORENO | FECHA : 17/11/2026 13:41 | Sin acción específica
+ 
+  
+ 
+ 
+ 
+El adjudicatario propondrá las actuaciones que considere necesarias para mejorar la 
+estabilidad y reducir los riesgos operativos. 
+c) Actualización de componentes tecnológicos 
+El servicio incluirá la actualización y adaptación de los componentes de software específicos 
+de CORNELIA cuando resulte necesario para mantener su seguridad, compatibilidad y 
+funcionamiento. 
+Estas actuaciones podrán comprender actualizaciones de librerías, frameworks, entornos de 
+ejecución, controladores, conectores y otros componentes de los que dependa la aplicación. 
+Las actualizaciones deberán someterse a pruebas previas para garantizar que no afectan 
+negativamente a los procesos existentes. 
+d) Seguridad de la plataforma 
+El adjudicatario colaborará con la APC en el mantenimiento de las condiciones de seguridad 
+de CORNELIA, incluyendo: 
+ Identificación y corrección de vulnerabilidades de los componentes bajo su 
+responsabilidad. 
+ Actualización de componentes afectados por problemas de seguridad. 
+ Revisión de configuraciones inseguras. 
+ Protección de comunicaciones y credenciales. 
+ Adecuación de los mecanismos de autenticación y autorización. 
+ Revisión de registros y evidencias técnicas cuando se produzcan incidentes de 
+seguridad. 
+ Colaboración en auditorías y revisiones técnicas. 
+ 
+e) Documentación y control de versiones 
+Se mantendrá actualizado el inventario de componentes tecnológicos, con identificación de sus 
+versiones, dependencias, configuraciones principales y requisitos de funcionamiento. 
+También se documentarán los cambios tecnológicos realizados y los procedimientos de 
+actualización y despliegue. 
+ 
+f) Integración con la plataforma corporativa DIDOPORT 
+ 
+La plataforma CORNELIA deberá mantener su integración con DIDOPORT, plataforma corporativa 
+de integración de sistemas de la Autoridad Portuaria de Cartagena, con el objetivo de garantizar 
+la interoperabilidad y el intercambio automatizado de información con el resto de los sistemas de 
+información de la APC.  
+
+--- página 10 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1 | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : GONZALO PERNAS BARAHONA | FECHA : 16/11/2026 14:51 | Sin acción específica
+FIRMANTE(2) : JOSE ANTONIO DA CASA DE CANTOS | FECHA : 17/11/2026 13:37 | Sin acción específica
+FIRMANTE(3) : MARIA JOSE BARAHONA MORENO | FECHA : 17/11/2026 13:41 | Sin acción específica
+ 
+  
+ 
+ 
+ 
+Esta integración deberá realizarse mediante los servicios, interfaces y mecanismos de 
+comunicación establecidos por DIDOPORT, evitando conexiones directas entre aplicaciones 
+cuando exista un servicio corporativo que permita realizar dicho intercambio.  
+El adjudicatario será responsable del mantenimiento, adaptación y correcto funcionamiento de 
+los conectores y servicios de CORNELIA necesarios para esta integración, incluyendo la gestión de 
+errores, la trazabilidad de las comunicaciones y los mecanismos de seguridad correspondientes.  
+Asimismo, deberá garantizar que la migración de CORNELIA a la infraestructura *on-premise* de 
+la APC y la implantación de los nuevos evolutivos no afecten a la continuidad de las 
+comunicaciones con DIDOPORT. 
+El tiempo máximo de restauración de incidencias críticas, entendidas como aquellas que provocan la 
+indisponibilidad general de la plataforma o la interrupción de un proceso esencial sin alternativa 
+operativa, será de 8 horas laborables. 
+El alcance de los servicios de mantenimiento funcional y tecnológico comprenderá, además de los 
+módulos y componentes expresamente relacionados en el presente Pliego, cualquier otro módulo, 
+funcionalidad, servicio o componente tecnológico de CORNELIA desarrollado, modificado, ampliado o 
+adaptado durante su ejecución y posteriores actuaciones de evolución. El adjudicatario estará obligado a 
+garantizar su mantenimiento funcional y tecnológico durante toda la duración del contrato, incluidas sus 
+posibles prórrogas. 
+El plazo máximo para asumir plenamente los servicios de mantenimiento funcional y tecnológico, desde 
+el inicio del contrato, será de 20 días naturales. 
+ 
+3. Migración a infraestructura on-premise de la APC 
+ 
+El adjudicatario deberá realizar todas las actuaciones necesarias para trasladar la plataforma CORNELIA 
+desde su entorno de alojamiento actual a la infraestructura tecnológica propia de la Autoridad Portuaria 
+de Cartagena. 
+El objetivo de esta actuación es permitir que la APC disponga de CORNELIA ejecutándose en sus propios 
+sistemas, con capacidad para administrar su infraestructura, controlar los despliegues y garantizar la 
+continuidad de su explotación. 
+La migración deberá comprender la totalidad de los componentes necesarios para el funcionamiento de 
+la plataforma, incluyendo aplicaciones, bases de datos, configuraciones, servicios auxiliares e 
+integraciones. 
+No se considerará finalizada la migración hasta que CORNELIA funcione correctamente en el entorno de 
+destino, se hayan superado las pruebas de aceptación y la APC haya autorizado su puesta en producción. 
+a) Análisis de la plataforma actual 
+El adjudicatario realizará un análisis técnico de la arquitectura existente, que incluirá: 
+ Inventario de componentes y servicios. 
+ Identificación de tecnologías, versiones y dependencias. 
+
+--- página 11 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1 | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : GONZALO PERNAS BARAHONA | FECHA : 16/11/2026 14:51 | Sin acción específica
+FIRMANTE(2) : JOSE ANTONIO DA CASA DE CANTOS | FECHA : 17/11/2026 13:37 | Sin acción específica
+FIRMANTE(3) : MARIA JOSE BARAHONA MORENO | FECHA : 17/11/2026 13:41 | Sin acción específica
+ 
+  
+ 
+ 
+ 
+ Arquitectura de aplicaciones y bases de datos. 
+ Configuración de servicios y comunicaciones. 
+ Integraciones internas y externas. 
+ Volumetría de datos. 
+ Requisitos de capacidad y rendimiento. 
+ Licencias y componentes de terceros. 
+ Mecanismos actuales de copia de seguridad y recuperación. 
+ Identificación de posibles dependencias del proveedor o del entorno de alojamiento 
+actual. 
+El resultado será un documento de arquitectura y diagnóstico que servirá de base para la 
+definición de la solución de destino. 
+b) Diseño de la arquitectura de destino 
+El adjudicatario elaborará una propuesta de arquitectura para la instalación y ejecución de 
+CORNELIA en la infraestructura on-premise de la APC. 
+La solución deberá utilizar, siempre que resulte viable, los servicios, tecnologías y procedimientos 
+corporativos existentes en la APC. 
+El diseño deberá contemplar los entornos necesarios de producción y pruebas, los requisitos de 
+capacidad, los mecanismos de seguridad, la gestión de configuraciones, la supervisión, las copias 
+de seguridad y los procedimientos de recuperación. 
+La arquitectura definitiva deberá ser aprobada por la APC antes de iniciar el despliegue. 
+c) Instalación, configuración y despliegue 
+El adjudicatario realizará los trabajos necesarios para instalar y configurar los componentes de 
+CORNELIA en los nuevos entornos. 
+Esto incluirá: 
+ Instalación y configuración de las aplicaciones y servicios. 
+ Preparación de las estructuras de datos. 
+ Configuración de conexiones y comunicaciones. 
+ Implantación de certificados y mecanismos de seguridad. 
+ Configuración de procesos automáticos. 
+ Adaptación de parámetros específicos del entorno. 
+ Configuración de mecanismos de registro y supervisión. 
+ Preparación de procedimientos de despliegue y actualización. 
+d) Migración de datos 
+
+--- página 12 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1 | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : GONZALO PERNAS BARAHONA | FECHA : 16/11/2026 14:51 | Sin acción específica
+FIRMANTE(2) : JOSE ANTONIO DA CASA DE CANTOS | FECHA : 17/11/2026 13:37 | Sin acción específica
+FIRMANTE(3) : MARIA JOSE BARAHONA MORENO | FECHA : 17/11/2026 13:41 | Sin acción específica
+ 
+  
+ 
+ 
+ 
+El adjudicatario realizará la migración de la información necesaria para asegurar la continuidad de 
+los procesos de CORNELIA. 
+La migración deberá preservar la integridad, consistencia y disponibilidad de los datos, incluyendo 
+la información histórica que deba mantenerse. 
+Se realizarán verificaciones de completitud y coherencia que permitan acreditar la correcta 
+transferencia de la información. 
+Cualquier exclusión de datos deberá ser previamente autorizada por la APC. 
+e) Adaptación de integraciones 
+Se realizarán todas las modificaciones de configuración o conectividad que resulten necesarias 
+para garantizar que CORNELIA continúe comunicándose con los sistemas internos y externos 
+correspondientes desde su nuevo entorno. 
+Se verificarán los mecanismos de autenticación, intercambio de información, tratamiento de 
+errores y continuidad de las comunicaciones. 
+f) Pruebas de funcionamiento 
+Antes de la puesta en producción se realizarán pruebas de instalación, conectividad, 
+funcionamiento, integridad de datos, rendimiento, seguridad e integración. 
+También deberán realizarse pruebas de regresión que permitan comprobar que las 
+funcionalidades existentes continúan operativas tras el traslado. 
+g) Plan de transición y puesta en producción 
+El adjudicatario elaborará un plan de transición que incluya el calendario de actuaciones, la 
+secuencia de migración, las ventanas de intervención y los criterios de validación. 
+El plan contemplará mecanismos de contingencia y retorno al entorno anterior en caso de que se 
+produzcan incidencias que impidan completar satisfactoriamente la transición. 
+Durante el periodo de migración deberá garantizarse el mantenimiento de la plataforma actual 
+hasta que la nueva instalación haya sido aceptada. 
+h) Documentación y transferencia de conocimiento 
+El adjudicatario proporcionará toda la documentación técnica necesaria para que la APC pueda 
+operar y administrar el entorno implantado. 
+Se incluirán manuales de instalación, configuración, actualización, despliegue, supervisión, 
+recuperación y resolución de incidencias. 
+También se realizarán las sesiones de transferencia de conocimiento necesarias para el personal 
+técnico designado por la APC. 
+Al finalizar esta prestación, CORNELIA deberá encontrarse plenamente operativa en la infraestructura de 
+la APC, manteniendo las funcionalidades e integraciones contratadas y contando con la documentación 
+necesaria para su explotación, mantenimiento y futura evolución. 
+Plazo de ejecución de la migración a infraestructura on-premise 
+
+--- página 13 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1 | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : GONZALO PERNAS BARAHONA | FECHA : 16/11/2026 14:51 | Sin acción específica
+FIRMANTE(2) : JOSE ANTONIO DA CASA DE CANTOS | FECHA : 17/11/2026 13:37 | Sin acción específica
+FIRMANTE(3) : MARIA JOSE BARAHONA MORENO | FECHA : 17/11/2026 13:41 | Sin acción específica
+ 
+  
+ 
+ 
+ 
+La migración completa de la plataforma CORNELIA a la infraestructura on-premise de la Autoridad 
+Portuaria de Cartagena deberá realizarse dentro de los diez (10) primeros meses de vigencia del contrato, 
+contados desde la fecha de inicio de su ejecución. Dentro de este plazo, el adjudicatario deberá completar 
+todas las actuaciones necesarias para la instalación, configuración, migración de datos, adaptación de 
+integraciones, realización de pruebas y puesta en producción de la plataforma en la infraestructura de la 
+APC. La migración no se considerará finalizada hasta que CORNELIA se encuentre plenamente operativa 
+en el nuevo entorno, se haya verificado el correcto funcionamiento de sus funcionalidades e 
+integraciones y se haya obtenido la conformidad expresa de la APC. Durante todo el proceso, el 
+adjudicatario deberá garantizar la continuidad del servicio en la infraestructura actual, evitando 
+interrupciones en la operativa ordinaria. 
+ 
+3.4. Evolutivos obligatorios 
+ 
+El contrato incluirá el análisis, diseño, desarrollo, implantación y puesta en producción de los evolutivos 
+funcionales que se describen a continuación. 
+Estos desarrollos tendrán carácter obligatorio y estarán incluidos en el precio correspondiente a esta 
+prestación, sin que puedan imputarse a la bolsa de horas prevista para evolutivos adicionales. 
+Cada evolutivo comprenderá todas las actividades necesarias para su implantación completa: análisis 
+funcional, diseño técnico, programación, integración, pruebas, documentación, formación cuando 
+resulte necesaria y puesta en producción. 
+ 
+3.4.1. Gestión de usuarios y roles 
+El adjudicatario deberá perfeccionar el módulo actual de gestión de usuarios, perfiles y permisos de 
+CORNELIA para permitir una administración centralizada, segura y flexible de los accesos a la aplicación. 
+El objetivo es disponer de un modelo de autorizaciones que permita controlar qué usuarios pueden 
+acceder a CORNELIA y qué operaciones pueden realizar en función de su perfil y responsabilidades. 
+ 
+a) Gestión de usuarios 
+La solución deberá permitir la identificación y administración de los usuarios autorizados para 
+utilizar CORNELIA.  Se contemplarán los mecanismos necesarios para gestionar las altas, bajas, 
+modificaciones y situaciones de activación o desactivación, evitando la existencia de cuentas sin 
+control administrativo. 
+La gestión de usuarios deberá poder mantenerse totalmente desde la interfaz de administración, 
+sin tener que acceder a la interfaz del gestor de usuarios (Keycloak/ActiveDirectory) en ningún 
+momento. 
+b) Integración con los sistemas corporativos de identidad 
+La gestión de accesos deberá integrarse con los mecanismos corporativos de autenticación que 
+determine la APC. 
+
+--- página 14 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1 | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : GONZALO PERNAS BARAHONA | FECHA : 16/11/2026 14:51 | Sin acción específica
+FIRMANTE(2) : JOSE ANTONIO DA CASA DE CANTOS | FECHA : 17/11/2026 13:37 | Sin acción específica
+FIRMANTE(3) : MARIA JOSE BARAHONA MORENO | FECHA : 17/11/2026 13:41 | Sin acción específica
+ 
+  
+ 
+ 
+ 
+c) Administración de permisos 
+Se proporcionarán los mecanismos necesarios para que los usuarios administradores autorizados 
+puedan consultar y modificar las asignaciones de roles y permisos. 
+Posibilidad de consulta y gestión de usuarios asociados a roles  y perfiles, de forma agrupada. 
+Incorporar filtros de usuarios por rol y perfil. 
+La gestión deberá permitir identificar qué usuarios disponen de cada autorización y facilitar las 
+revisiones periódicas de accesos. 
+3.4.2. Adaptación a la ventanilla local DUEPORT 
+ 
+El adjudicatario deberá realizar los desarrollos y adaptaciones necesarios para adecuar CORNELIA al 
+nuevo modelo de ventanilla local basado en DUEPORT. 
+Esta actuación responde a la necesidad de mantener la interoperabilidad de CORNELIA con los sistemas 
+de intercambio de información marítima y portuaria con la ventanilla nacional, como consecuencia de la 
+sustitución o modificación de los mecanismos utilizados actualmente para su adaptación a la ventanilla 
+europea. 
+Las acciones a realizar serán las siguientes: 
+a) Análisis de las integraciones actuales 
+El adjudicatario deberá identificar las comunicaciones existentes entre CORNELIA y la actual 
+ventanilla local, determinando: 
+ Procesos funcionales afectados. 
+ Mensajes intercambiados. 
+ Orígenes y destinos de la información. 
+ Formatos y estructuras de datos. 
+ Interfaces y protocolos utilizados. 
+ Estados y respuestas gestionados. 
+ Dependencias con otros módulos de CORNELIA. 
+ Reglas de negocio asociadas al intercambio de información. 
+ Se elaborará una matriz de correspondencia entre los intercambios actuales y los 
+mecanismos previstos en DUEPORT. 
+b) Adaptación de los mecanismos de comunicación 
+Se modificarán o desarrollarán los conectores, interfaces y procesos de comunicación necesarios 
+para permitir el intercambio de información con la nueva ventanilla local. 
+El desarrollo comprenderá la generación y recepción de mensajes, validación de estructuras, 
+transformación de datos y procesamiento de respuestas, conforme a las especificaciones técnicas 
+que correspondan. 
+c) Adaptación de procesos funcionales 
+
+--- página 15 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1 | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : GONZALO PERNAS BARAHONA | FECHA : 16/11/2026 14:51 | Sin acción específica
+FIRMANTE(2) : JOSE ANTONIO DA CASA DE CANTOS | FECHA : 17/11/2026 13:37 | Sin acción específica
+FIRMANTE(3) : MARIA JOSE BARAHONA MORENO | FECHA : 17/11/2026 13:41 | Sin acción específica
+ 
+  
+ 
+ 
+ 
+Cuando el nuevo modelo de intercambio lo requiera, deberán adaptarse las funciones de 
+CORNELIA relacionadas con los procesos afectados. 
+Estas adaptaciones podrán comprender la modificación de estados, validaciones, reglas de 
+negocio, formularios y procedimientos automáticos asociados al intercambio de información. 
+Las modificaciones deberán preservar la coherencia entre la información almacenada en 
+CORNELIA y la recibida o enviada mediante DUEPORT. 
+EL adjudicatario podrá acordar con la APC la modificación, restricción o incluso anulación de los 
+servicios que por cuestiones tecnológicas u operativas no puedan adaptarse a la nueva ventanilla 
+DUEPORT. 
+d) Gestión de errores y trazabilidad 
+Los mecanismos de integración deberán permitir: 
+ Identificar los mensajes enviados y recibidos. 
+ Registrar las respuestas y confirmaciones. 
+ Detectar errores de validación o comunicación. 
+ Gestionar los rechazos. 
+ Aplicar mecanismos controlados de reintento. 
+ Evitar el procesamiento duplicado de operaciones. 
+ Consultar el estado de los intercambios. 
+ Facilitar el diagnóstico y la resolución de incidencias. 
+e) Seguridad e interoperabilidad 
+Las comunicaciones deberán realizarse mediante los mecanismos de autenticación, cifrado y 
+seguridad exigidos por las interfaces de destino. 
+Se deberán gestionar adecuadamente los certificados, credenciales y demás elementos de 
+seguridad que resulten necesarios. 
+f) Pruebas de integración 
+El adjudicatario realizará las pruebas necesarias para verificar el intercambio correcto de 
+información entre CORNELIA y DUEPORT. 
+Estas pruebas deberán abarcar los principales escenarios operativos, incluyendo operaciones 
+satisfactorias, errores, rechazos y situaciones de indisponibilidad temporal. 
+Cuando sea necesario, se coordinarán pruebas con los responsables de los sistemas externos 
+implicados. 
+g) Transición al nuevo modelo 
+Se elaborará un plan de transición que permita sustituir las comunicaciones actuales sin 
+comprometer la continuidad operativa. 
+
+--- página 16 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1 | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : GONZALO PERNAS BARAHONA | FECHA : 16/11/2026 14:51 | Sin acción específica
+FIRMANTE(2) : JOSE ANTONIO DA CASA DE CANTOS | FECHA : 17/11/2026 13:37 | Sin acción específica
+FIRMANTE(3) : MARIA JOSE BARAHONA MORENO | FECHA : 17/11/2026 13:41 | Sin acción específica
+ 
+  
+ 
+ 
+ 
+Cuando resulte necesario, se mantendrá temporalmente la compatibilidad con el modelo anterior 
+hasta que la APC autorice la sustitución definitiva. 
+ 
+CORNELIA deberá encontrarse adaptada a la nueva ventanilla local DUEPORT y ser capaz de realizar los 
+intercambios de información que correspondan a sus procesos funcionales, utilizando los mecanismos 
+aprobados y manteniendo la trazabilidad y seguridad de las comunicaciones. 
+ 
+3.4.3. Gestión de ventanas y solicitudes de mantenimiento en frentes de atraque (antiguo HADES) 
+ 
+3.4.3.1. Descripción  
+El adjudicatario deberá desarrollar e implantar en CORNELIA un módulo para la gestión de ventanas y 
+solicitudes de mantenimiento de muelles y frentes de atraque, que sustituya la funcionalidad de la 
+antigua aplicación HADES. 
+El módulo permitirá a la Autoridad Portuaria de Cartagena (APC) definir los periodos durante los cuales 
+podrán realizarse trabajos de mantenimiento en los diferentes muelles y a las terminales portuarias 
+registrar sus solicitudes dentro de dichas ventanas. 
+La solución deberá facilitar la planificación de estas actuaciones y la coordinación entre las terminales 
+que operan en un mismo frente de atraque, mediante la visualización de los periodos habilitados y el 
+envío de avisos cuando existan actuaciones coincidentes. 
+El adjudicatario deberá entregar el módulo completamente desarrollado, integrado en CORNELIA, 
+probado y documentado. 
+La aceptación requerirá verificar el correcto funcionamiento de la gestión de ventanas, la visualización en 
+calendario, el registro de solicitudes, las restricciones de acceso por terminal y el envío de notificaciones 
+y avisos de solapamiento 
+ 
+3.4.3.2. Requisitos funcionales 
+El módulo deberá contemplar, como mínimo, las siguientes funcionalidades: 
+a) Gestión de maestros (Muelles y terminales)  
+b) Gestión de ventanas de mantenimiento 
+- Los usuarios autorizados de la APC podrán crear, consultar, modificar y eliminar ventanas de 
+mantenimiento, indicando el muelle y las fechas y horas de inicio y finalización. 
+- Se permitirá seleccionar varios muelles en una misma operación, generándose un registro 
+independiente por cada muelle. 
+- Las ventanas podrán consultarse mediante un listado y visualizarse gráficamente en un calendario que 
+identifique los periodos y muelles afectados. 
+c) Gestión de solicitudes de mantenimiento 
+
+--- página 17 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1 | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : GONZALO PERNAS BARAHONA | FECHA : 16/11/2026 14:51 | Sin acción específica
+FIRMANTE(2) : JOSE ANTONIO DA CASA DE CANTOS | FECHA : 17/11/2026 13:37 | Sin acción específica
+FIRMANTE(3) : MARIA JOSE BARAHONA MORENO | FECHA : 17/11/2026 13:41 | Sin acción específica
+ 
+  
+ 
+ 
+ 
+- Los usuarios autorizados de la APC y de las terminales podrán registrar, consultar, modificar y eliminar 
+solicitudes de mantenimiento. 
+- Los usuarios con rol TERMINAL únicamente podrán registrar solicitudes sobre los muelles asociados a 
+su terminal, utilizando el maestro de relación muelles-terminales existente en CORNELIA. 
+- Las solicitudes solo podrán registrarse dentro de las ventanas previamente habilitadas por la APC. 
+Cuando abarquen varios días, todo el periodo solicitado deberá estar comprendido dentro de una 
+ventana autorizada. 
+- Cada solicitud deberá permitir identificar, al menos, el usuario que la registra, su empresa, la terminal, 
+el muelle y el periodo de mantenimiento. 
+- Las solicitudes no requerirán autorización posterior ni tendrán estados, dado que su registro estará 
+condicionado a la existencia de una ventana previamente habilitada. 
+c) Notificaciones y coordinación entre terminales 
+- Cuando se registre una solicitud de mantenimiento, el sistema enviará un correo informativo al resto de 
+terminales que operen en el mismo frente de atraque. 
+- Cuando se detecte un solapamiento temporal con una solicitud registrada por otra terminal sobre el 
+mismo muelle, se enviará un aviso específico para facilitar la coordinación entre ambas. 
+- Los solapamientos no impedirán el registro de las solicitudes, debiendo quedar identificados y 
+comunicados a las terminales afectadas. 
+d) Integración con CORNELIA 
+El módulo deberá integrarse con los mecanismos existentes de autenticación, usuarios, perfiles y 
+permisos, así como con los maestros de muelles, terminales y empresas, evitando duplicidades de 
+información. 
+ 
+5. Evolutivos adicionales: bolsa de horas 
+Además de las prestaciones de mantenimiento, migración y evolutivos obligatorios, el contrato 
+contemplará una bolsa de horas destinada a la realización de desarrollos, adaptaciones y mejoras 
+funcionales o tecnológicas adicionales que la APC pueda requerir durante su vigencia. 
+El objetivo de esta bolsa es dotar al contrato de flexibilidad para atender necesidades de evolución de 
+CORNELIA que no formen parte del alcance previamente definido, sin necesidad de incorporarlas 
+artificialmente a las actividades de mantenimiento ordinario. 
+La utilización de la bolsa de horas estará sujeta a la solicitud y autorización previa de la APC. 
+a) Procedimiento de solicitud 
+La ejecución de cada evolutivo adicional se iniciará mediante una solicitud de la APC que describirá 
+la necesidad funcional o técnica que se pretende cubrir. 
+El adjudicatario deberá analizar la solicitud y presentar una propuesta de ejecución que incluya: 
+ Descripción de la solución prevista. 
+
+--- página 18 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1 | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : GONZALO PERNAS BARAHONA | FECHA : 16/11/2026 14:51 | Sin acción específica
+FIRMANTE(2) : JOSE ANTONIO DA CASA DE CANTOS | FECHA : 17/11/2026 13:37 | Sin acción específica
+FIRMANTE(3) : MARIA JOSE BARAHONA MORENO | FECHA : 17/11/2026 13:41 | Sin acción específica
+ 
+  
+ 
+ 
+ 
+ Alcance funcional y técnico. 
+ Actividades a realizar. 
+ Estimación de horas por perfil profesional, cuando proceda. 
+ Plazo previsto. 
+ Dependencias y riesgos identificados. 
+ Entregables. 
+ Pruebas y criterios de aceptación. 
+b) Autorización de los trabajos 
+Ningún trabajo podrá imputarse a la bolsa de horas sin autorización expresa y previa de la APC. 
+La aprobación de una solicitud deberá identificar el número máximo de horas autorizadas y el 
+alcance de los trabajos. 
+Cualquier desviación que suponga superar las horas aprobadas deberá justificarse y ser autorizada 
+antes de su realización. 
+c) Entrega y aceptación 
+Cada evolutivo deberá entregarse completamente desarrollado, probado y documentado. 
+La APC verificará el cumplimiento de los requisitos aprobados antes de su aceptación. 
+La finalización de un desarrollo no implicará su aceptación automática ni autorizará la imputación 
+de horas que no hayan sido justificadas conforme al procedimiento establecido. 
+d) Incorporación al mantenimiento ordinario 
+Una vez aceptados y puestos en producción, los evolutivos realizados con cargo a la bolsa de horas 
+pasarán a formar parte de la funcionalidad mantenida de CORNELIA. 
+Su soporte, corrección de errores y mantenimiento posterior quedarán incluidos en las 
+prestaciones ordinarias de mantenimiento, sin necesidad de una contratación adicional. 
+e) Condiciones económicas 
+Se establece un número máximo de 50 horas anuales disponibles para la ejecución de evolutivos 
+adicionales. 
+La bolsa de horas tendrá carácter de límite máximo de consumo y no implicará, por sí misma, la 
+obligación de la APC de solicitar o agotar la totalidad de las horas disponibles. 
+Únicamente podrán facturarse los trabajos efectivamente autorizados y ejecutados, conforme a 
+las condiciones y al régimen de pagos establecido en los documentos contractuales. 
+El adjudicatario deberá garantizar que las estimaciones presentadas son proporcionadas a la 
+complejidad y alcance de los trabajos solicitados. 
+4 .  P R E S U P U E S T O .  
+
+--- página 19 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1 | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : GONZALO PERNAS BARAHONA | FECHA : 16/11/2026 14:51 | Sin acción específica
+FIRMANTE(2) : JOSE ANTONIO DA CASA DE CANTOS | FECHA : 17/11/2026 13:37 | Sin acción específica
+FIRMANTE(3) : MARIA JOSE BARAHONA MORENO | FECHA : 17/11/2026 13:41 | Sin acción específica
+ 
+  
+ 
+ 
+ 
+El objeto es establecer el Presupuesto Máximo aproximado que, en unión de las disposiciones que 
+con carácter general que se indican en el PCAP y Presupuesto, han de regir en la contratación de la 
+“SERVICIO INTEGRAL DE MANTENIMIENTO, MIGRACIÓN Y EVOLUCIÓN DE LA PLATAFORMA 
+CORNELIA”, siendo las partidas las relacionadas: 
+TIPO Columna1 Importe 
+CONTRATO Mantenimiento funcionalidad 12.000,00 €  
+CONTRATO Mantenimiento Plataforma 10.800,00 €  
+CONTRATO Traslado Plataforma 2.000,00 €  
+CONTRATO Evolutivos obligatorios 7.245,00 €  
+CONTRATO Evolutivos  Adicionales 2.250,00 €  
+ 
+ 
+AÑO A cargo Presupuesto Autoridad Portuaria. IVA al 21% A fondos Extrapresupuestarios Presupuesto TOTAL 
+2027 34.295,00 €  7.201,95 € 41.496,95 € 
+PRESUPUESTO BASE DE LICITACIÓN 34.295,00 €   7.201,95 €   41.496,95 €  
+Prorroga 1 - 12 Meses 25.050,00 €  5.260,50 € 30.310,50 € 
+Valor estimado 59.345,00 €  12.462,45 € 71.807,45 € 
+5 .  P L I E G O  D E  C O N D I C I O N E S  D E  C O N T R A T A C I Ó N .  
+De acuerdo con lo establecido en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, 
+en el Pliego de Condiciones de Contratación que forma parte del contrato de servicios a suscribir, 
+se contienen los distintos extremos que ha de ajustarse la ejecución del mismo, en particular lo que 
+se refiere a la forma y contenido de las ofertas, plazos, abonos y fianzas y penalidades y causas de 
+resolución, todo ello en concordancia con la citada Ley. 
+6 . -  C O N C L U S I Ó N :  
+Con lo expuesto en el presente PLIEGO DE PRESCRIPCIONES TÉCNICAS y en el resto de los 
+documentos que conforman este Pliego de Condiciones, se considera el mismo correctamente 
+redactado, cumpliendo los requisitos legales para su aprobación por parte de la Superioridad. 
+Cartagena, con fecha de firma electrónica. 
+ 
+ 
+ 
+
+--- página 20 ---
+https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htmINFORME DE FIRMA, no sustituye al documento original | C.S.V. : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1 | Puede verificar la integridad de este documento en la siguiente dirección:
+CSV : GEN-1fe8-6dc3-6ff9-a3f1-2d08-6181-237c-6ad1
+DIRECCIÓN DE VALIDACIÓN : https://sede.administracion.gob.es/pagSedeFront/servicios/consultaCSV.htm
+FIRMANTE(1) : GONZALO PERNAS BARAHONA | FECHA : 16/11/2026 14:51 | Sin acción específica
+FIRMANTE(2) : JOSE ANTONIO DA CASA DE CANTOS | FECHA : 17/11/2026 13:37 | Sin acción específica
+FIRMANTE(3) : MARIA JOSE BARAHONA MORENO | FECHA : 17/11/2026 13:41 | Sin acción específica
+ 
+  
+ 
+ 
+ 
+EL  RES PONSABLE  DE S ISTE MAS  D E IN FORMACIÓN 
+Y  COMUNICACION ES . 
+ 
+D. Go nza lo Per na s Barahon a 
+ 
+ 
+Vº Bº COOR DIN ADOR  DEL DPTO. 
+S IS TE MAS  DE IN FOR MACIÓN Y COMUN ICACIONES.  
+ 
+D. Jose Antoni o Da C a sa 
+Vº BºLA JE FA DEL ÁREA DE  
+PLA NIF ICA CIÓN Y GESTIÓN .  
+ 
+Dña. M.ª José Barahona Moreno 
+ 
+ 
+  

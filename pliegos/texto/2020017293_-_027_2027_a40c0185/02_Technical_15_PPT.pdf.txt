@@ -1,0 +1,1259 @@
+
+
+--- página 1 ---
+ 
+                                                         
+ 
+1 
+ 
+Gerencia Regional de Salud 
+CONTRATACIÓN DEL SERVICIO DE ASISTENCIA TÉCNICA ESPECIALIZADA 
+PARA EL ANÁLISIS FUNCIONAL, DISEÑO, CONFIGURACIÓN, 
+PARAMETRIZACIÓN E IMPLANTACIÓN DE UN REPOSITORIO Y BUSCADOR 
+DE ACTIVOS DE SALUD DE CASTILLA Y LEÓN EN EL PORTAL DE SALUD 
+COMUNITARIA DE LA GERENCIA REGIONAL DE SALUD DE CASTILLA Y LEÓN 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+ 
+Documento Consolidado a Fecha 16-11-2026 
+ 
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+
+
+--- página 2 ---
+ 
+                                                         
+ 
+2 
+ 
+Gerencia Regional de Salud 
+ 
+ÍNDICE 
+ 
+1. ANTECEDENTES ......................................................................................................................... 3 
+2. OBJETO DEL CONTRATO ....................................................................................................... 5 
+3. OBJETIVOS ................................................................................................................................... 7 
+4. SERVICIOS INCLUIDOS ........................................................................................................ 9 
+5. METODOLOGÍA ......................................................................................................................... 12 
+6. TRANSFERENCIA DEL CONOCIMIENTO ..................................................................... 15 
+7. EQUIPO DE TRABAJO MÍNIMO ....................................................................................... 15 
+8. SEGUIMIENTO .......................................................................................................................... 16 
+9. ENTREGABLES .......................................................................................................................... 16 
+10. PLAZO DE GARANTÍA ........................................................................................................... 18 
+11. SEGURIDAD DE LA INFORMACIÓN Y PROTECCIÓN DE DATOS ................... 18 
+11.1. POLÍTICA DE SEGURIDAD DE LA INFORMACIÓN Y PROTECCIÓN 
+DE DATOS DE LA GERENCIA REGIONAL DE SALUD DE CASTILLA Y LEÓN .. 18 
+11.2. CADENA DE SUBCONTRATACIÓN .................................................................... 19 
+11.3. MEDIDAS DE SEGURIDAD ................................................................................... 19 
+11.4. PROTECCIÓN DEL EQUIPAMIENTO INFORMÁTICO. ACCESO 
+REMOTO A LA INFORMACIÓN DE LA GRS ...................................................................... 20 
+11.5. TRANSMISIÓN DE INFORMACIÓN A OTRAS ENTIDADES ................. 20 
+11.6. CUMPLIMIENTO DEL PERSONAL CON LAS MEDIDAS DE 
+SEGURIDAD DE LA GRS ............................................................................................................ 21 
+11.7. INCIDENTES DE SEGURIDAD ............................................................................ 22 
+11.8. CONTINUIDAD DEL SERVICIO .......................................................................... 22 
+11.9. REVISIÓN DEL ESTADO DE LA SEGURIDAD Y MEJORA CONTINUA  
+  ............................................................................................................................................ 22 
+11.10. AUDITORÍAS Y CONTROLES DE SEGURIDAD ........................................... 23 
+11.11. FINALIZACIÓN DEL CONTRATO Y DEVOLUCIÓN DE ACTIVOS ...... 23 
+ANEXO DE SEGURIDAD DE LA INFORMACIÓN ................................................................ 25 
+ 
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+
+
+--- página 3 ---
+ 
+                                                         
+ 
+3 
+ 
+Gerencia Regional de Salud 
+1. ANTECEDENTES 
+La Gerencia Regional de Salud de Castilla y León viene desarrollando en los últimos 
+años distintas actuaciones orientadas al impulso de la Salud Comunitaria en el ámbito 
+de la Atención Primaria, incorporando herramientas digitales que facilitan el trabajo 
+de los profesionales sanitarios y favorecen la participación de la ciudadanía en 
+actividades de promoción de la salud y prevención de la enfermedad. 
+En este contexto, los profesionales de Atención Primaria están desarrollando 
+actuaciones relacionadas con la identificación, conocimiento y utilización de los 
+activos de salud existentes en sus respectivos entornos de actuación. Estos activos 
+constituyen recursos comunitarios que contribuyen a mejorar el bienestar de la 
+población y favorecen el desarrollo de intervenciones de promoción de la salud, 
+prevención de la enfermedad, autonomía, participación social y apoyo a pacientes y 
+cuidadores. 
+La información relativa a dichos activos se encuentra actualmente dispersa en 
+diferentes fuentes de información, aplicaciones y registros, tanto de ámbito sanitario 
+como social y comunitario, y, en muchos casos, gestionada mediante procedimientos 
+manuales. Esta situación dificulta su consulta integrada, actualización, contraste y 
+utilización sistemática por parte de los profesionales sanitarios. 
+La identificación de estos activos constituye, además, un proceso de carácter 
+territorial y participativo, en el que resulta relevante el conocimiento que los Equipos 
+de Atención Primaria tienen de los recursos disponibles en sus Zonas Básicas de Salud 
+y su capacidad para valorar su adecuación y utilidad como recursos susceptibles de 
+recomendación desde Atención Primaria. 
+En el ámbito estatal, Localiza Salud constituye una fuente de información de 
+referencia sobre recursos comunitarios, activos para la salud y actividades, 
+incorporando información territorial y diferentes características de los recursos y 
+actividades. La herramienta contempla también la identificación participativa y se 
+encuentra orientada a facilitar la vinculación de estos contenidos con la Historia de 
+Salud Digital. 
+En Castilla y León existe asimismo ENACyL, plataforma de información sobre 
+actividades, recursos y apoyos relacionados con el envejecimiento activo y saludable, 
+la prevención de la dependencia y la lucha contra la soledad no deseada, que dispone 
+de un mapa de recursos geolocalizado y actualizado. 
+Del mismo modo, existen otras fuentes de información de carácter territorial, 
+municipal, provincial, autonómico y estatal, incluidas fuentes estadísticas y 
+geográficas oficiales, que pueden contener información de interés para la 
+identificación y caracterización de activos de salud. 
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+
+
+--- página 4 ---
+ 
+                                                         
+ 
+4 
+ 
+Gerencia Regional de Salud 
+Por otra parte, experiencias desarrolladas en otras comunidades autónomas han 
+avanzado hacia la incorporación de herramientas específicas para la utilización de los 
+activos por parte de los Equipos de Atención Primaria. En particular, Aragón dispone 
+de una Libreta de Activos para la Salud por Equipo, vinculada a su buscador de 
+activos, cuyo objetivo es facilitar y agilizar la recomendación de activos para la salud 
+en la consulta. 
+En este contexto, la Gerencia Regional de Salud considera necesario disponer de una 
+herramienta que facilite la recopilación, homogeneización, organización, validación y 
+consulta de activos de salud procedentes de distintas fuentes de información, 
+permitiendo a los Equipos de Atención Primaria disponer de una visión unificada y 
+actualizada de los recursos comunitarios existentes en su ámbito de actuación. 
+Para ello, se plantea la implantación en el Portal de Salud Comunitaria, sustentado 
+sobre la plataforma corporativa Proxia®Suite, de un repositorio y buscador de activos 
+de salud que permita incorporar información procedente de diferentes fuentes, 
+clasificarla y organizarla territorialmente, facilitar su revisión y validación por los 
+Equipos de Atención Primaria y posibilitar su consulta mediante mecanismos de 
+búsqueda, filtrado y visualización cartográfica. 
+La solución propuesta permitirá favorecer la reutilización de información existente, 
+evitar duplicidades en la recopilación de datos y mantener la trazabilidad de la 
+información incorporada, facilitando su actualización y revisión periódica. 
+Asimismo, la herramienta deberá diseñarse de forma flexible para permitir futuras 
+evoluciones funcionales orientadas a reforzar la recomendación de activos desde 
+Atención Primaria y ampliar las posibilidades de explotación de la información 
+disponible. 
+El proyecto se financia con cargo a los créditos asignados a las líneas aprobadas por 
+el Consejo Interterritorial del Sistema Nacional de Salud para la aplicación 
+presupuestaria 26.04.313B.456, destinadas al apoyo a la implantación del Plan de 
+Acción de Atención Primaria y Comunitaria 2025-2027. 
+Igualmente, la actuación se corresponde con la propuesta técnica presentada por la 
+Comunidad de Castilla y León y aprobada por la Dirección General de Salud Pública 
+del Ministerio de Sanidad dentro de los proyectos de salud comunitaria orientados a 
+la mejora de las herramientas digitales para la recomendación de activos de salud y 
+el registro de la acción comunitaria en atención primaria, en el marco de las líneas 
+de actuación contempladas en el Plan de Acción de Atención Primaria y Comunitaria 
+2025-2027. 
+La implantación de esta herramienta permitirá disponer de un entorno común para 
+la identificación, consulta y utilización de activos de salud, facilitando el acceso a 
+recursos comunitarios contrastados, mejorando el conocimiento de los recursos 
+existentes en cada territorio y favoreciendo su incorporación efectiva en las 
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+
+
+--- página 5 ---
+ 
+                                                         
+ 
+5 
+ 
+Gerencia Regional de Salud 
+actuaciones de promoción de la salud, prevención de la enfermedad y salud 
+comunitaria desarrolladas en Atención Primaria. 
+2. OBJETO DEL CONTRATO 
+El objeto de la presente contratación es la prestación de un servicio de asistencia 
+técnica especializada para el análisis funcional, diseño, configuración, 
+parametrización e implantación de un repositorio y buscador de activos de salud de 
+Castilla y León integrado en el Portal de Salud Comunitaria de la Gerencia Regional 
+de Salud de Castilla y León.  
+La actuación tiene como finalidad disponer de un catálogo estructurado de activos de 
+salud basado en la incorporación y reutilización de información procedente de 
+distintas fuentes, organizado territorialmente por Zonas Básicas de Salud, que 
+permita su identificación, contraste y validación por los Equipos de Atención Primaria, 
+así como su consulta, visualización en el Portal de Salud Comunitaria y utilización 
+como apoyo a la recomendación de recursos comunitarios. 
+Este proyecto se financia a cargo de los créditos de las líneas aprobadas por el 
+Consejo Interterritorial del Sistema Nacional de Salud (CISNS), el 10/07/2026 para 
+la aplicación presupuestaria 26.04.313B.456, como apoyo a la implantación del Plan 
+de Acción Atención Primaria y Comunitaria 2025-2027. 
+Asimismo, cuenta con la aprobación de la Dirección General de Salud Pública del 
+Ministerio de Sanidad, de la propuesta técnica presentada por Castilla y León de los 
+proyectos de salud comunitaria, “mejora de las herramientas digitales para la 
+recomendación de activos y registro de acción comunitaria en atención primaria”, 
+acorde a las líneas de actuación, del Plan de Acción de Atención Primaria y 
+Comunitaria 2025-2027. 
+2.1. Prestaciones 
+La actuación tiene como finalidad dotar al Portal de Salud Comunitaria de una 
+herramienta que permita: 
+ Disponer de un catálogo estructurado de activos de salud;  
+ Incorporar y reutilizar información procedente de fuentes existentes; 
+ Visualizar los activos; 
+ Asociar los activos a las Zonas Básicas de Salud;  
+ Permitir su identificación y contraste por los Equipos de Atención Primaria;  
+ Disponer de una cartera o libreta de activos propia de cada EAP;  
+ Establecer un procedimiento de validación de activos por los EAP;  
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+
+
+--- página 6 ---
+ 
+                                                         
+ 
+6 
+ 
+Gerencia Regional de Salud 
+ Identificar los activos que pueden ser considerados recomendables desde 
+Atención Primaria;  
+ Mantener actualizada la información mediante procesos de revisión periódica;  
+ Facilitar la consulta y recomendación de dichos activos a los profesionales 
+sanitarios. 
+Entre las fuentes susceptibles de incorporación o reutilización se considerarán, al 
+menos: 
+ Localiza Salud;  
+ ENACyL;  
+ Fuentes de información de las Administraciones locales y provinciales;  
+ Otras fuentes corporativas de la Junta de Castilla y León que puedan contener 
+información de interés.  
+La incorporación de información procedente de estas fuentes deberá mantener, 
+cuando resulte técnicamente posible, la identificación de la fuente de origen, fecha 
+de actualización e identificador externo del registro, de manera que pueda 
+garantizarse su trazabilidad y facilitarse su actualización posterior. 
+La solución deberá permitir diferenciar entre: 
+a) Activo disponible en el catálogo general. 
+b) Activo identificado o incorporado a la cartera de un EAP. 
+c) Activo revisado y validado por el EAP como recomendable en consulta. 
+Estas situaciones deberán poder registrarse de forma independiente y conservar su 
+correspondiente trazabilidad. 
+Los trabajos objeto del contrato comprenderán el análisis de requisitos funcionales y 
+organizativos, la definición y modelado de la información asociada a los activos de 
+salud, el diseño funcional de la solución, la configuración y parametrización del 
+repositorio y buscador de activos, la incorporación y organización de información 
+procedente de distintas fuentes, la realización de pruebas funcionales, la elaboración 
+de la documentación asociada, la transferencia de conocimiento al personal 
+designado por la Gerencia Regional de Salud y la puesta en funcionamiento de la 
+solución resultante. 
+Asimismo, la solución deberá utilizar los mecanismos corporativos de gestión de 
+accesos y permisos disponibles en el Portal de Salud Comunitaria, permitiendo una 
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+
+
+--- página 7 ---
+ 
+                                                         
+ 
+7 
+ 
+Gerencia Regional de Salud 
+administración distribuida y controlada de los contenidos y facilitando futuras 
+ampliaciones funcionales. 
+La herramienta deberá permitir tanto a profesionales sanitarios como, en su caso, a 
+la ciudadanía, disponer de información contrastada y actualizada sobre los activos de 
+salud existentes en su entorno, favoreciendo su utilización como recurso de apoyo a 
+la recomendación de actividades, recursos comunitarios y actuaciones orientadas a 
+la mejora de la salud y el bienestar de la población. 
+La prestación del servicio deberá realizarse garantizando la compatibilidad con la 
+arquitectura tecnológica corporativa de la Gerencia Regional de Salud y con los 
+componentes y modelos de información actualmente implantados en el Portal de 
+Salud Comunitaria basado en Proxia®Suite. 
+3. OBJETIVOS  
+ 
+El objetivo principal del proyecto es dotar al Portal de Salud Comunitaria de Castilla 
+y León de una herramienta para la recopilación, organización, validación y consulta 
+de activos de salud por parte de los Equipos de Atención Primaria, basada en un 
+catálogo común de información procedente de distintas fuentes, que permita 
+identificar, localizar, visualizar y difundir los recursos comunitarios disponibles en 
+cada Zona Básica de Salud como apoyo a las actividades de promoción de la salud, 
+prevención de la enfermedad y desarrollo de la salud comunitaria. 
+La solución deberá implantarse sobre la plataforma tecnológica corporativa Proxia® 
+Suite y aprovechar los servicios y funcionalidades ya disponibles en el Portal de Salud 
+Comunitaria, garantizando el aprovechamiento de la información existente y 
+favoreciendo una utilización más eficiente de los recursos comunitarios puestos a 
+disposición de profesionales y ciudadanía. 
+Asimismo, la herramienta permitirá disponer de un catálogo estructurado y 
+permanentemente actualizado de activos de salud basado en información contrastada 
+procedente de diferentes fuentes y validada por los responsables correspondientes, 
+facilitando a los profesionales sanitarios su utilización durante la práctica asistencial 
+y contribuyendo a mejorar la identificación y recomendación de recursos 
+comunitarios adaptados a las necesidades de la población. 
+Los objetivos específicos del proyecto se concretan en los siguientes: 
+1. Facilitar la incorporación y explotación de información procedente de distintas 
+fuentes 
+Permitir la incorporación, organización y explotación de información procedente 
+de diferentes fuentes de información, favoreciendo su reutilización, 
+homogeneización y actualización, evitando duplicidades y mejorando la 
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+
+
+--- página 8 ---
+ 
+                                                         
+ 
+8 
+ 
+Gerencia Regional de Salud 
+disponibilidad de activos de salud para su consulta y utilización por los Equipos de 
+Atención Primaria. 
+2. Organizar la información de los activos mediante una estructura homogénea 
+Definir un modelo de información común para todos los activos de salud que 
+permita recoger de forma estructurada datos tales como categoría, localización, 
+descripción, población destinataria, duración, coste y demás características 
+necesarias para su consulta y explotación posterior, favoreciendo la incorporación 
+homogénea de información procedente de distintas fuentes y evitando 
+duplicidades. 
+3. Asociar los activos de salud a las Zonas Básicas de Salud 
+Facilitar la organización territorial de los activos, permitiendo su vinculación a las 
+diferentes Zonas Básicas de Salud y posibilitando que los profesionales validen de 
+forma sencilla los recursos comunitarios disponibles en su ámbito de actuación. 
+4. Facilitar la consulta y visualización de los activos 
+Permitir la consulta de los activos de salud mediante mecanismos de búsqueda y 
+filtrado, así como su visualización en el mapa disponible en el Portal de Salud 
+Comunitaria, facilitando la identificación de recursos comunitarios en cada 
+territorio. 
+5. Incorporar funcionalidades avanzadas de búsqueda y filtrado 
+Permitir la localización rápida de activos mediante criterios de búsqueda por 
+categoría, tipo de actividad, población destinataria, localización geográfica u otros 
+atributos relevantes, optimizando el acceso a la información por parte de 
+profesionales y ciudadanía. 
+6. Mejorar las actuaciones de salud comunitaria 
+Favorecer que los profesionales sanitarios dispongan de una herramienta de apoyo 
+para la recomendación de recursos comunitarios, fortaleciendo las estrategias de 
+promoción de la salud, prevención de la enfermedad y prescripción social 
+desarrolladas en el ámbito de atención primaria y comunitaria. 
+7. Garantizar la calidad y trazabilidad de la información 
+Facilitar la incorporación de información procedente de distintas fuentes, 
+manteniendo la identificación de su origen, fecha de actualización y demás 
+elementos necesarios para asegurar la calidad, trazabilidad y actualización de los 
+activos de salud incluidos en el catálogo. 
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+
+
+--- página 9 ---
+ 
+                                                         
+ 
+9 
+ 
+Gerencia Regional de Salud 
+8. Facilitar la evolución futura de la solución 
+Diseñar una herramienta flexible que permita incorporar nuevas categorías de 
+activos, nuevas fuentes de información y funcionalidades adicionales relacionadas 
+con la salud comunitaria sin necesidad de modificaciones complejas. 
+9. Incrementar la visibilidad, utilización y actualización de los recursos comunitarios 
+Contribuir a una mayor difusión y aprovechamiento de los activos de salud 
+disponibles en Castilla y León, facilitando su conocimiento tanto por los 
+profesionales sanitarios como por la ciudadanía y potenciando su utilización como 
+recurso complementario para la mejora de la salud y el bienestar de la población.  
+4. SERVICIOS INCLUIDOS 
+Se consideran incluidos dentro del objeto del contrato todos los trabajos necesarios 
+para el análisis funcional, diseño, configuración, parametrización, validación, 
+implantación y puesta en funcionamiento de un repositorio y buscador de activos de 
+salud integrado en el Portal de Salud Comunitaria de Castilla y León, sustentado 
+sobre la plataforma corporativa Proxia®Suite. La solución deberá permitir la 
+incorporación, organización, validación y consulta de activos de salud procedentes de 
+distintas fuentes de información, garantizando su adecuada explotación por los 
+profesionales y su visualización mediante los mecanismos disponibles en el Portal de 
+Salud Comunitaria.  
+ 
+Análisis funcional 
+Se llevará a cabo el análisis detallado de las necesidades funcionales y técnicas del 
+proyecto, identificando tanto los requisitos de los usuarios como los condicionantes 
+tecnológicos y organizativos necesarios para la implantación de la solución. 
+Los trabajos incluirán, al menos: 
+ Definición del modelo de información de los activos de salud. 
+ Definición de categorías, tipologías y subtipologías de activos. 
+ Identificación de perfiles de usuario y definición de permisos de acceso y 
+administración. 
+ Definición de procedimientos de incorporación, revisión, validación, 
+modificación y baja de activos. 
+ Análisis de las fuentes de información existentes, priorizando la reutilización 
+de información frente a la introducción manual de registros y evitando 
+duplicidades en el catálogo. 
+ Identificación de mecanismos técnicos para la incorporación, actualización y 
+reutilización de información procedente de diferentes fuentes. 
+ Definición del modelo de relación entre el catálogo general de activos y las 
+carteras o libretas de activos de cada Equipo de Atención Primaria. 
+ Identificación de requisitos de acceso, seguridad y explotación de la 
+información. 
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+
+
+--- página 10 ---
+ 
+                                                         
+ 
+10 
+ 
+Gerencia Regional de Salud 
+ Elaboración de la documentación funcional y de los casos de uso necesarios 
+para la correcta implantación de la solución. 
+ 
+Entre las fuentes de información susceptibles de incorporación o reutilización se 
+considerarán, al menos: 
+ Localiza Salud. 
+ ENACyL. 
+ Fuentes de información de las Administraciones locales y provinciales. 
+ Fuentes estadísticas y geográficas oficiales que puedan aportar información 
+de interés para la caracterización territorial de los activos. 
+ Otras fuentes corporativas de la Junta de Castilla y León que puedan contener 
+información de interés. 
+La incorporación de información procedente de estas fuentes deberá mantener, 
+cuando resulte técnicamente posible, la identificación de la fuente de origen, fecha 
+de actualización e identificador externo del registro, garantizando su trazabilidad y 
+facilitando su actualización posterior. 
+ 
+Configuración y parametrización 
+Se realizarán todas las actuaciones necesarias para configurar, parametrizar e 
+implantar la solución tecnológica que soporte el repositorio y buscador de activos de 
+salud. 
+ 
+Los trabajos incluirán: 
+ Configuración del catálogo de activos de salud. 
+ Configuración de los mecanismos de alta, revisión, validación, edición y 
+consulta de activos. 
+ Parametrización de categorías, tipologías y atributos de los activos. 
+ Configuración de los mecanismos de búsqueda y filtrado. 
+ Configuración de los procesos de incorporación y actualización de información 
+procedente de las fuentes identificadas. 
+ Configuración de la organización territorial de los activos por Zonas Básicas 
+de Salud. 
+ Configuración de las carteras o libretas de activos asociadas a los Equipos de 
+Atención Primaria. 
+ Integración con los mecanismos corporativos de autenticación, autorización y 
+gestión de permisos disponibles en el Portal de Salud Comunitaria. 
+ Configuración de los componentes necesarios para garantizar la correcta 
+administración y explotación de la información. 
+ 
+Requisitos funcionales mínimos 
+La solución deberá permitir el registro y mantenimiento de activos de salud mediante 
+un modelo de información estructurado y flexible que contemple, como mínimo, los 
+siguientes atributos: 
+ Nombre del activo. 
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+
+
+--- página 11 ---
+ 
+                                                         
+ 
+11 
+ 
+Gerencia Regional de Salud 
+ Categoría y subcategoría. 
+ Dirección completa. 
+ Coordenadas geográficas y ubicación en mapa. 
+ Teléfono de contacto. 
+ Dirección de correo electrónico. 
+ Página web asociada. 
+ Imagen o fotografía identificativa. 
+ Descripción del recurso o actividad. 
+ Población destinataria. 
+ Tipo y subtipo de actividad. 
+ Duración o periodicidad de la actividad. 
+ Coste asociado al servicio, actividad o recurso. 
+ 
+Asimismo, la solución deberá permitir: 
+ Asociar activos a una o varias Zonas Básicas de Salud. 
+ Disponer de un catálogo general de activos. 
+ Configurar carteras o libretas de activos asociadas a los Equipos de Atención 
+Primaria. 
+ Diferenciar entre:  
+o Activo disponible en el catálogo general. 
+o Activo identificado o incorporado a la cartera de un EAP. 
+o Activo revisado y validado por el EAP como recomendable en consulta. 
+ Mantener la trazabilidad de cada uno de los estados anteriores. 
+ Visualizar los activos mediante mapas interactivos. 
+ Consultar fichas detalladas de cada activo. 
+ Realizar búsquedas por texto libre. 
+ Filtrar resultados por categorías, localización o características del activo. 
+ Facilitar la evolución futura del modelo de datos mediante la incorporación de 
+nuevos atributos o categorías sin necesidad de desarrollos complejos. 
+ 
+Validación y pruebas 
+Una vez finalizados los trabajos de configuración e implantación, se llevarán a cabo 
+las actividades necesarias para verificar el correcto funcionamiento de la solución. 
+Estas actividades incluirán: 
+ Pruebas funcionales de los procesos de incorporación, validación y consulta 
+de activos. 
+ Verificación del correcto funcionamiento de los mecanismos de búsqueda y 
+filtrado. 
+ Validación de la organización territorial de la información. 
+ Validación de la representación cartográfica y geolocalización de los activos. 
+ Verificación del rendimiento y estabilidad de la solución. 
+ Corrección de incidencias detectadas durante el proceso de pruebas. 
+ Obtención de la conformidad técnica previa a la puesta en producción. 
+ 
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+
+
+--- página 12 ---
+ 
+                                                         
+ 
+12 
+ 
+Gerencia Regional de Salud 
+Formación, documentación y puesta en servicio 
+El adjudicatario deberá realizar todas las actuaciones necesarias para garantizar la 
+correcta utilización de la solución por parte de la Gerencia Regional de Salud. 
+Los trabajos incluirán: 
+ Elaboración de la documentación funcional y técnica. 
+ Elaboración del manual de usuario. 
+ Elaboración del manual de administración y mantenimiento. 
+ Realización de sesiones de transferencia de conocimiento dirigidas al personal 
+designado por la Gerencia Regional de Salud. 
+ Apoyo a la implantación y despliegue de la solución en el entorno de 
+producción. 
+ Verificación del correcto funcionamiento tras la puesta en marcha. 
+ Entrega de todos los productos, configuraciones y documentación generados 
+durante el proyecto. 
+En todos los casos, la solución implantada deberá garantizar su compatibilidad con 
+la arquitectura tecnológica corporativa existente y con los componentes y modelos 
+de información implantados en el Portal de Salud Comunitaria basado en Proxia® 
+Suite, permitiendo su futura evolución funcional. 
+5. METODOLOGÍA 
+La ejecución del contrato se realizará mediante un enfoque basado en fases sucesivas 
+de análisis, diseño, configuración, validación e implantación, permitiendo la 
+participación de la Gerencia Regional de Salud durante todo el ciclo de vida del 
+proyecto y asegurando que la solución desarrollada responda a las necesidades 
+funcionales definidas. 
+La metodología de trabajo comprenderá, como mínimo, las siguientes fases: 
+ Fase 1. Análisis y definición de requisitos 
+Durante esta fase se realizará un análisis detallado de las necesidades funcionales 
+organizativas del proyecto, identificando los contenidos disponibles en el Portal de 
+Salud Comunitaria y las características de la información que debe incorporarse al 
+repositorio de activos de salud. 
+Se realizará un análisis específico de las fuentes de información existentes, 
+incluyendo Localiza Salud, ENACyL y otras fuentes institucionales, municipales o 
+provinciales que se determinen durante el análisis. 
+Asimismo, se definirá el modelo de información de los activos de salud, la 
+estructura del catálogo común, la organización territorial por Zonas Básicas de 
+Salud, el modelo de cartera o libreta de activos por Equipo de Atención Primaria y 
+los procesos de identificación, revisión, validación y actualización de la 
+información. 
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+
+
+--- página 13 ---
+ 
+                                                         
+ 
+13 
+ 
+Gerencia Regional de Salud 
+Como resultado de esta fase se elaborará el documento de análisis funcional y el 
+diseño conceptual de la solución. 
+ Fase 2. Diseño de la solución 
+Se definirá la arquitectura funcional de la herramienta y la estructura de la 
+información que permitirá la incorporación, organización, consulta y validación de 
+los activos de salud. 
+Asimismo, se concretarán los mecanismos de incorporación y actualización de 
+información procedente de las distintas fuentes identificadas, así como los 
+procedimientos de acceso y gestión de la información por los distintos perfiles de 
+usuario. 
+ Fase 3. Configuración y parametrización 
+Se llevarán a cabo las actuaciones necesarias para la configuración, 
+parametrización de la solución sobre la plataforma Proxia®Suite y el Portal de 
+Salud Comunitaria. 
+Los trabajos incluirán la configuración del catálogo de activos, las categorías y 
+tipologías de información, los mecanismos de búsqueda y filtrado, la organización 
+territorial por Zonas Básicas de Salud, las carteras de activos de los Equipos de 
+Atención Primaria y los procesos de incorporación, validación y actualización de 
+información procedente de las fuentes seleccionadas. 
+Durante esta fase podrán realizarse entregas parciales para su revisión por la 
+Gerencia Regional de Salud. 
+ Fase 4. Pruebas y validación 
+Una vez completadas las tareas de configuración y parametrización se realizarán 
+las pruebas funcionales necesarias para verificar el correcto funcionamiento de la 
+solución. 
+Se comprobará especialmente el funcionamiento de los procesos de incorporación, 
+consulta, búsqueda, filtrado y validación de activos, la correcta asignación 
+territorial de la información, la adecuada visualización de los activos en el Portal 
+de Salud Comunitaria y el cumplimiento de los requisitos funcionales definidos. 
+Las incidencias detectadas serán corregidas antes de la puesta en producción. 
+Los criterios mínimos de aceptación se valorarán mediante la comprobación del 
+cumplimiento de los siguientes indicadores: 
+ 
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+
+
+--- página 14 ---
+ 
+                                                         
+ 
+14 
+ 
+Gerencia Regional de Salud 
+Indicador Criterio mínimo de aceptación 
+Consulta y visualización 
+de activos 
+Visualización correcta de los activos y acceso a su 
+información asociada a través del Portal de Salud 
+Comunitaria. 
+Gestión de activos de 
+salud 
+Incorporación, modificación, consulta, validación y 
+desactivación de activos de salud. 
+Organización territorial Asociación de los activos a la Zona Básica de Salud correspondiente y consulta por ámbito territorial. 
+Búsqueda y filtrado Funcionamiento correcto de los mecanismos de búsqueda y de los filtros definidos. 
+Gestión por los Equipos 
+de Atención Primaria 
+Revisión, validación e incorporación de activos por 
+los usuarios autorizados a la cartera de activos de 
+su equipo. 
+Incorporación de 
+información procedente 
+de fuentes externas 
+Funcionamiento correcto de los mecanismos 
+previstos para la incorporación y actualización de 
+información procedente de las fuentes definidas en 
+el análisis funcional. 
+ 
+La recepción de los trabajos quedará condicionada al cumplimiento de estos 
+requisitos y a la entrega de la documentación y productos establecidos en el presente 
+pliego. 
+ 
+ Fase 5. Implantación y puesta en producción 
+Tras la validación de la solución se procederá a su despliegue en el entorno de 
+producción determinado por la Gerencia Regional de Salud. 
+El adjudicatario realizará todas las actuaciones necesarias para garantizar la 
+correcta puesta en funcionamiento del sistema y verificará su operatividad en 
+condiciones reales de uso. 
+ Fase 6. Documentación y transferencia de conocimiento 
+Finalizada la implantación, el adjudicatario entregará toda la documentación 
+técnica y funcional generada durante el proyecto, incluyendo los manuales de 
+usuario y administración. 
+Asimismo, realizará las actividades necesarias para transferir el conocimiento 
+adquirido al personal designado por la Gerencia Regional de Salud, con objeto de 
+facilitar la utilización, administración y evolución futura de la solución. 
+La ejecución de todas las fases deberá realizarse en coordinación con la Gerencia 
+Regional de Salud, garantizando en todo momento la adecuada planificación, 
+seguimiento y control de los trabajos, así como la calidad de los resultados obtenidos. 
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+
+
+--- página 15 ---
+ 
+                                                         
+ 
+15 
+ 
+Gerencia Regional de Salud 
+6. TRANSFERENCIA DEL CONOCIMIENTO 
+Durante la ejecución del contrato, tendrá lugar como mínimo una jornada de 
+transferencia del conocimiento, destinada al personal designado por la Gerencia 
+Regional de Salud, impartida en los Servicios Centrales de la Gerencia Regional de 
+Salud, con una duración mínima de 4 horas. 
+7. EQUIPO DE TRABAJO MÍNIMO  
+Para la ejecución del contrato, es necesaria la participación de tres profesionales, 
+dedicados al proyecto un 38% de tiempo sobre la jornada completa de trabajo.  
+El personal adscrito al contrato deberá poseer como mínimo titulación de Formación 
+Profesional de Grado Superior relacionada con las tecnologías de la información y las 
+comunicaciones. 
+Al menos dos de los miembros del equipo asignado al proyecto, deberán haber 
+trabajado conjuntamente, como mínimo, en un proyecto de salud digital, portales 
+institucionales o entornos con gestión de contenidos, control de privilegios y 
+evaluación de resultados en plataformas con tecnología Proxia®Suite, dado que el 
+éxito del proyecto depende en gran medida de la experiencia práctica en esta 
+plataforma. 
+Al menos uno de los miembros del equipo deberá acreditar experiencia en un 
+proyecto de organización, gestión y explotación o consulta de información 
+estructurada procedente de diferentes fuentes de datos mediante entornos web. 
+El adjudicatario deberá elegir un jefe de proyecto de entre los miembros del equipo 
+designado para ejecutar el contrato. 
+Si la valoración de la productividad y la calidad de los trabajos de alguno de los 
+trabajadores que la empresa asigne a este proyecto se considera inadecuada por 
+parte de la Gerencia Regional de Salud de Castilla y León, ésta podrá solicitar su 
+sustitución, con un preaviso de quince días, necesariamente. 
+Por su parte, si la adjudicataria propusiera el cambio de alguno de los trabajadores 
+que haya asignado a este proyecto, se solicitará por escrito al responsable del 
+contrato, con quince días de antelación y suficientemente motivado, exponiendo las 
+razones para su aprobación por parte de la Gerencia Regional de Salud de Castilla y 
+León, presentando posibles candidatos con un perfil de cualificación técnica y 
+experiencia igual o superior al de la persona que se pretende sustituir. 
+El personal asignado al proyecto deberá estar disponible para asistir a reuniones, 
+sesiones de trabajo, formación o actuaciones de coordinación cuando resulte 
+necesario para la correcta ejecución del contrato. 
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+
+
+--- página 16 ---
+ 
+                                                         
+ 
+16 
+ 
+Gerencia Regional de Salud 
+El adjudicatario se someterá a las pautas y directrices que en el desarrollo de la 
+ejecución del contrato pudieran dictarse, ajustándose a las actuaciones de 
+supervisión y control por parte de la Gerencia Regional de Salud de Castilla y León. 
+8. SEGUIMIENTO  
+El designado por el adjudicatario como jefe de proyecto, será el interlocutor con la 
+Gerencia Regional de Salud de Castilla y León, y se responsabilizará de la correcta 
+prestación de los servicios contratados. 
+La Dirección General de Asistencia Sanitaria de la Gerencia Regional de Salud, 
+designará un responsable del contrato, para supervisar de forma continuada la 
+evolución de los trabajos, verificar el cumplimiento de los objetivos previstos y 
+evaluar la calidad de los servicios prestados. Ambas partes actuarán como 
+interlocutores habituales durante la ejecución del contrato y trabajarán de forma 
+coordinada. 
+Se celebrarán reuniones de seguimiento con la periodicidad que resulte necesaria y, 
+al menos, una vez al mes, con el fin de evaluar el grado de avance de los trabajos, 
+revisar las incidencias detectadas y establecer las actuaciones necesarias para el 
+correcto cumplimiento del contrato. 
+Como resultado de las reuniones de seguimiento, el adjudicatario elaborará, cuando 
+así se requiera, un breve informe de situación que recoja el grado de avance de los 
+trabajos, los riesgos identificados, las incidencias detectadas y las acciones previstas 
+para su resolución. 
+ 
+9. ENTREGABLES 
+El adjudicatario deberá entregar la documentación y los productos resultantes de los 
+trabajos realizados, de acuerdo con los criterios establecidos por la Gerencia Regional 
+de Salud de Castilla y León. 
+La documentación deberá ser suficiente para garantizar la correcta administración, 
+mantenimiento, evolución y utilización de la solución implantada por parte del 
+personal designado por la Gerencia Regional de Salud. 
+Como mínimo, deberán entregarse los siguientes elementos: 
+ Documento de análisis funcional y definición de requisitos. 
+ Documento de diseño técnico de la solución. 
+ Descripción de la arquitectura funcional implantada. 
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+
+
+--- página 17 ---
+ 
+                                                         
+ 
+17 
+ 
+Gerencia Regional de Salud 
+ Documento de análisis de fuentes de información e inventario de las 
+fuentes incorporadas o reutilizadas. 
+ Documentación de los procedimientos de búsqueda, filtrado, 
+incorporación, actualización, validación y explotación de la información. 
+ Configuración y parametrización realizadas para la puesta en 
+funcionamiento del repositorio y buscador de activos de salud. 
+ Informe de pruebas funcionales realizadas. 
+ Manual de administración de la solución. 
+ Manual de usuario con mecanismos de búsqueda y filtrado e introducción 
+manual así como procedimientos de actualización. 
+ Documento del modelo de datos de activos de salud, definición de 
+categorías, origen de la información y clasificación. 
+ Inventario de categorías, tipologías, atributos, criterios de clasificación y 
+metadatos configurados en la solución. 
+ Materiales utilizados para la transferencia de conocimiento al personal 
+designado por la Gerencia Regional de Salud. 
+ Informe final del proyecto. 
+El informe final deberá incluir, al menos, una descripción detallada de las actividades 
+desarrolladas durante la ejecución del contrato, los trabajos de análisis realizados, 
+las fuentes de información incorporadas, las configuraciones efectuadas, las pruebas 
+realizadas, las incidencias detectadas y resueltas, así como las actuaciones realizadas 
+para la puesta en producción y la verificación del correcto funcionamiento de la 
+solución. 
+Toda la documentación, configuraciones, informes y demás materiales generados 
+durante la ejecución del contrato serán propiedad exclusiva de la Gerencia Regional 
+de Salud de Castilla y León, sin que el adjudicatario pueda utilizarlos o cederlos a 
+terceros sin autorización expresa. 
+Salvo indicación expresa en contrario, toda la documentación se entregará en 
+formato electrónico y redactada en castellano. 
+El adjudicatario garantizará que toda la documentación entregada se encuentre 
+completa, actualizada y adecuadamente revisada a la finalización de los trabajos. 
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+
+
+--- página 18 ---
+ 
+                                                         
+ 
+18 
+ 
+Gerencia Regional de Salud 
+10. PLAZO DE GARANTÍA 
+Se establece un plazo de garantía de un (1) mes, o en su caso, el ofertado por el 
+adjudicatario, contado a partir de la fecha de recepción y conformidad de los trabajos 
+por parte de la Gerencia Regional de Salud de Castilla y León. 
+Durante dicho período, el adjudicatario estará obligado a corregir, sin coste adicional 
+para la Administración, cualquier incidencia, defecto o funcionamiento incorrecto 
+imputable a los trabajos realizados y detectado durante el plazo de garantía. 
+ 
+ 
+11. SEGURIDAD DE LA INFORMACIÓN Y PROTECCIÓN DE DATOS 
+ 
+NOTA 1: Se requiere del licitador la cumplimentación del ANEXO DE SEGURIDAD DE LA 
+INFORMACIÓN. 
+ 
+11.1. POLÍTICA DE SEGURIDAD DE LA INFORMACIÓN Y PROTECCIÓN DE 
+DATOS DE LA GERENCIA REGIONAL DE SALUD DE CASTILLA Y LEÓN 
+El contratista deberá cumplir con lo dispuesto en el Real Decreto 311/2022, de 3 de 
+mayo, por el que se regula el Esquema Nacional de Seguridad en el ámbito de la 
+Administración Electrónica, y deberá conocer y cumplir la Política de Seguridad de la 
+Información y Protección de datos vigente en la Gerencia Regional de Salud (en 
+adelante, GRS), así como las normas y controles de seguridad que se han de aplicar 
+en relación a los servicios contratados con objeto de garantizar la confidencialidad, 
+disponibilidad, integridad, autenticidad y trazabilidad de los datos personales y de la 
+información; todo ello de acuerdo a las instrucciones técnicas incluidas en el presente 
+Pliego.  
+ 
+Además, la GRS podrá exigir al contratista la aplicación de medidas de seguridad 
+adicionales cuando los requisitos de seguridad aplicables al servicio así lo requieran. 
+ 
+Para una correcta gestión del servicio o servicios objeto de contratación, así como de 
+la seguridad de los datos personales y sistemas implicados, el contratista deberá 
+proveer a la GRS de toda la información necesaria que permita evidenciar una 
+adecuada diligencia en su relación con la GRS, para la correcta gestión el servicio 
+objeto de contratación.  
+ 
+Asimismo, el contratista deberá de ser capaz de demostrar que cuenta con las 
+medidas de seguridad adecuadas, y que son exigidas por la legislación aplicable en 
+materia de seguridad de la información y protección de datos personales. En caso de 
+ser requeridas, el contratista deberá aportar a la GRS las evidencias oportunas sobre 
+las medidas de seguridad implementadas.      
+ 
+Por su parte, la GRS tratará los datos de carácter personal que se recaban como 
+consecuencia de la relación contractual, con la finalidad de tramitar los expedientes 
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+
+
+--- página 19 ---
+ 
+                                                         
+ 
+19 
+ 
+Gerencia Regional de Salud 
+de contratación y la formalización, desarrollo y ejecución del contrato.   Dichos datos 
+podrán ser comunicados a las distintas entidades financieras, a la Agencia de 
+Administración Tributaria, así como a los diferentes órganos de la Junta de Castilla y 
+León; y podrán ser incluidos en la Plataforma de Contratación de la Comunidad de 
+Castilla y León.  
+ 
+Los datos se conservarán durante el tiempo necesario para cumplir con la finalidad 
+para la que han sido recabados y para determinar las posibles responsabilidades que 
+se pudieran derivar de dicha finalidad y del tratamiento de los datos, conforme a la 
+Ley 58/2003, de 17 de diciembre, General Tributaria, además de los periodos 
+establecidos en la normativa de archivos y documentación.  Se podrán ejercitar los 
+derechos reconocidos en la normativa de protección de datos en la dirección de correo 
+electrónico dpd@saludcastillayleon.es; pudiendo, en cualquier caso, interponerse 
+reclamación ante la AEPD (www.aepd.es). 
+ 
+11.2. CADENA DE SUBCONTRATACIÓN 
+La subcontratación de infraestructuras o servicios que afecten a la información 
+tratada con motivo de la realización de las prestaciones del contrato no está 
+permitida, salvo autorización expresa y por escrito de la GRS, previa comunicación 
+del contratista del servicio con una antelación de al menos 30 días; en cuyo caso, el 
+contratista deberá disponer y aportar la documentación que detalle claramente los 
+elementos que forman parte de la cadena de subcontratación, así como las 
+implicaciones derivadas de cualquier cambio o modificación que pueda sufrir algún 
+eslabón de dicha cadena.   
+ 
+Si para la prestación del servicio se han de usar sistemas de información de la 
+empresa subcontratada, previa autorización, el contratista también deberá asegurar 
+que los sistemas de información de las empresas subcontratadas son conformes con 
+el ENS en lo que respecta a los servicios que afecten a la GRS, por lo que resultará 
+asimismo de aplicación a la cadena de suministro del contratista del servicio, los 
+mismos requisitos de seguridad y protección de la información.   
+ 
+La GRS se reservará el derecho de requerir al contratista la documentación que 
+evidencie las medidas de seguridad y de vigilancia utilizadas por los subcontratistas. 
+ 
+11.3. MEDIDAS DE SEGURIDAD  
+Las medidas de seguridad que deberá de implementar la empresa contratista del 
+servicio, de conformidad con el ENS, serán determinadas por la GRS en base a la 
+tipología de los datos que se van a tratar como objeto del servicio prestado.  
+ 
+La GRS podrá requerir a la empresa contratista del servicio evidencia del 
+cumplimiento de todos aquellos requisitos necesarios para asegurar la conformidad 
+con el ENS de los sistemas de información en los que se sustenten los servicios 
+prestados, tales como la presentación de las correspondientes Declaraciones o 
+Certificaciones de Conformidad con el ENS, o de las medidas de seguridad 
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+
+
+--- página 20 ---
+ 
+                                                         
+ 
+20 
+ 
+Gerencia Regional de Salud 
+implementadas con el fin de cumplir con los requisitos exigidos por el ENS para 
+sistemas de categoría establecida por la GRS. 
+ 
+11.4. PROTECCIÓN DEL EQUIPAMIENTO INFORMÁTICO. ACCESO REMOTO A 
+LA INFORMACIÓN DE LA GRS   
+En todo aquel equipamiento informático propiedad de la empresa contratista en el 
+cual se almacene, procese o desde el que se acceda a información de la GRS, la 
+empresa contratista deberá aplicar las medidas de seguridad necesarias para 
+garantizar la confidencialidad, integridad y disponibilidad de dicha información. Entre 
+otras, la empresa contratista deberá aplicar las siguientes medidas de seguridad: 
+o Protección contra código malicioso: todos los equipos deberán contar con 
+programas antivirus y de protección ante software malicioso (malware) 
+actualizados de forma automática y permanente. 
+o Control de acceso: todos los equipos deberán disponer de medidas que 
+aseguren el acceso sólo por parte del personal autorizado. 
+o Bloqueo de terminales: no se deberán dejar los terminales desatendidos sin 
+antes haber bloqueado la sesión de usuario con el fin de evitar accesos no 
+autorizados. El bloqueo automático tras un periodo de inactividad también 
+debe estar activado. 
+o Actualización de sistemas: todo el equipamiento informático deberá estar al 
+día con las últimas actualizaciones y parches de seguridad disponibles. 
+o Salvaguarda de la información: se han de implementar mecanismos de copia 
+de seguridad y recuperación en aquella información de la GRS. 
+o Privilegios: los usuarios no deben poder deshabilitar o desinstalar las 
+protecciones de seguridad implantadas en los equipos. 
+ 
+La GRS se reservará el derecho de exigir la implantación de las medidas de seguridad 
+adicionales que considere oportunas, en el equipamiento informático de la empresa 
+contratista. 
+ 
+Si la empresa contratista necesitase acceder de forma remota a los sistemas de 
+información de la GRS, el acceso se deberá efectuar siempre a través de conexiones 
+seguras cifradas y con credenciales individuales. En cualquier caso, la empresa 
+contratista deberá asegurar la imposibilidad de acceso no autorizado a los equipos 
+informáticos desde los que se inicie el canal de comunicaciones con los sistemas de 
+información de la GRS y garantizar que solo el personal autorizado pueda acceder a 
+los recursos de la GRS. 
+ 
+11.5. TRANSMISIÓN DE INFORMACIÓN A OTRAS ENTIDADES 
+El contratista no podrá transmitir, enviar, compartir o poner a disposición de otras 
+entidades información propiedad de la GRS, a no ser que de manera previa haya sido 
+expresamente autorizado para hacerlo, independientemente del medio o formato de 
+la información y de su contenido.  
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+
+
+--- página 21 ---
+ 
+                                                         
+ 
+21 
+ 
+Gerencia Regional de Salud 
+ 
+En el caso de existir dicha autorización, se podrá transmitir única y exclusivamente 
+la información estrictamente necesaria para que el contratista pueda llevar a cabo su 
+cometido. 
+ 
+Las obligaciones del contratista en materia de seguridad de la información se deberán 
+hacer extensivas al receptor de la información. 
+    
+El contratista será responsable del uso y la protección de la información de la GRS 
+que le haya sido proporcionada, así como de los perjuicios ocasionados a la GRS en 
+los casos en los que la seguridad de la información o de los datos personales hubieran 
+sido comprometidas 
+ 
+11.6. CUMPLIMIENTO DEL PERSONAL CON LAS MEDIDAS DE SEGURIDAD DE 
+LA GRS 
+El contratista deberá concienciar y formar a su personal en materia de seguridad de 
+la información y de protección de datos, y en particular sobre aquellos aspectos de 
+la Política de Seguridad de la Información y de Protección de Datos de la GRS vigente 
+y su marco normativo de seguridad, que sean de aplicación en base a la naturaleza 
+del servicio prestado.  
+ 
+Los trabajadores del contratista por su parte deben tener siempre presentes durante 
+el desempeño de sus funciones los principios de la ética, la profesionalidad, la 
+confidencialidad y la responsabilidad.  
+ 
+De forma general, todo el personal del contratista que acceda a la información de la 
+GRS deberá cumplir con las siguientes normas:  
+- Acceder exclusivamente a los sistemas de información mediante el acceso y 
+los medios autorizados.  
+- Proteger la confidencialidad de la información de toda revelación no 
+autorizada.  
+- Proteger la integridad de la información de la GRS a la que tenga acceso en 
+el ámbito de la prestación del servicio.  
+- Proteger la información, los datos personales y los sistemas de información 
+de cualquier alteración no autorizada.  
+  
+Todas las personas empleadas por el contratista deberán hacerse responsables de la 
+custodia personal de las credenciales que tienen asignadas para el acceso a los 
+recursos de los sistemas de información de la GRS. Estas credenciales nunca podrán 
+ser facilitadas a terceras personas, sean o no empleados del contratista, y los 
+propietarios de las mismas deberán ser únicos responsables del uso que se haga de 
+ellas. Además, el contratista deberá poner en marcha en la empresa medidas de 
+control para garantizar la supervisión de las actuaciones para sus trabajadores. 
+ 
+El contratista será responsable del uso y la protección de la información de la GRS 
+que le haya sido proporcionada, así como de los perjuicios ocasionados a la GRS en 
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+
+
+--- página 22 ---
+ 
+                                                         
+ 
+22 
+ 
+Gerencia Regional de Salud 
+los casos en los que la seguridad de la información o de los datos personales hubieran 
+sido comprometidas. 
+ 
+11.7. INCIDENTES DE SEGURIDAD 
+El contratista tendrá la obligación de comunicar a la GRS cualquier incidente acaecido 
+que afecte a la seguridad de los datos personales, de la organización o a sus sistemas 
+de información, en cuanto tenga conocimiento de ello, sin dilaciones y a la mayor 
+brevedad posible, dentro de un plazo no superior a 24 horas. 
+ 
+De igual forma, para la resolución de un incidente de seguridad que ocurra en la GRS, 
+se podrá pedir la colaboración del contratista, al objeto de calibrar el impacto del 
+incidente y la adopción de las medidas necesarias de contención, mitigación, 
+respuesta y recuperación.  
+ 
+En cualquier caso, el contratista y el personal a su cargo o colaboradores están 
+obligados a la confidencialidad y deber de secreto respecto de la información a la que 
+puedan tener acceso y conocer, como consecuencia del incidente de seguridad. 
+  
+11.8. CONTINUIDAD DEL SERVICIO 
+Con el fin de que la GRS pueda garantizar la continuidad de los servicios prestados, 
+se requerirá que el contratista le facilite la información necesaria para establecer un 
+plan de continuidad y las responsabilidades establecidas. El contratista deberá 
+colaborar con la GRS para la coordinación de actividades en caso de incidentes y 
+desastres y deberá definir e implementar medidas y estrategias que garanticen la 
+continuidad de los servicios prestados a la GRS en caso de contingencia. 
+ 
+Asimismo, si la naturaleza del servicio prestado lo requiere, el contratista deberá 
+establecer medios alternativos, planes de recuperación de los sistemas que sirvan 
+para la prestación de los servicios a la GRS, en el caso que los medios habituales 
+sean comprometidos por pérdida, alteración o interrupción. 
+ 
+La GRS y el contratista establecerán un tiempo máximo para que los medios 
+alternativos entren en funcionamiento. Los medios alternativos estarán sometidos a 
+las mismas garantías de seguridad que los originales. 
+ 
+La GRS se reservará el derecho de exigir al contratista medidas de continuidad 
+adicionales, cuando los requisitos de seguridad de los servicios prestados así lo 
+requieran. 
+ 
+11.9. REVISIÓN DEL ESTADO DE LA SEGURIDAD Y MEJORA CONTINUA  
+Durante la prestación del servicio y sin que ello implique un coste adicional para la 
+GRS, el contratista estará obligado a reevaluar y actualizar las medidas de seguridad 
+implantadas, entre las que se encontrarán las actualizaciones y mantenimiento del 
+software de los sistemas operativos, así como de los parches de seguridad, entre 
+otros, con el fin de adecuar su eficacia a la constante evolución de los riesgos y 
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+
+
+--- página 23 ---
+ 
+                                                         
+ 
+23 
+ 
+Gerencia Regional de Salud 
+sistemas de protección, llegando incluso si fuese necesario, a un replanteamiento de 
+la seguridad. 
+ 
+El contratista deberá disponer de un sistema dinámico de mejora continua, y 
+evaluación de riesgos que proporcione, de forma periódica, información relacionada 
+con el sistema que soporta los servicios, como por ejemplo capacidad, 
+dimensionamiento y rendimiento del sistema. 
+ 
+11.10. AUDITORÍAS Y CONTROLES DE SEGURIDAD 
+El contratista deberá proporcionar los mecanismos y funcionalidades que permitan a 
+la GRS conocer y analizar los controles de seguridad que lleva a cabo, incluyendo 
+auditorías e inspecciones; permitiendo y colaborando activamente en la realización y 
+desarrollo de las mismas. 
+ 
+La GRS podrá exigir al contratista cualquier evidencia de cumplimiento con la 
+legislación aplicable, de acuerdo con lo marcado en los acuerdos firmados por ambas 
+partes, así como con los requisitos de seguridad impuestos por parte de la GRS.  
+Para ello, la GRS se reservará el derecho de ejercitar las siguientes acciones: 
+ Revisar o auditar los mecanismos de salvaguarda de la seguridad de la 
+información que tenga implementados el contratista y que estén relacionados 
+o implicados con los sistemas utilizados en la prestación del servicio 
+contratado. 
+ Revisar o auditar el cumplimiento por parte del contratista con la legislación 
+aplicable de acuerdo con lo dispuesto por los contratos firmados por ambas 
+partes. 
+ Requerir al contratista los documentos derivados de los procesos de auditoría 
+llevados a cabo por este, así como cualquier otra evidencia sobre el 
+cumplimiento con el marco legal aplicable y con los requisitos impuestos por 
+el presente encargo. 
+ Solicitar la implementación de cualquier mecanismo organizativo, técnico o 
+jurídico que considere adecuado para garantizar la seguridad de la 
+información y protección de datos. 
+ 
+11.11. FINALIZACIÓN DEL CONTRATO Y DEVOLUCIÓN DE ACTIVOS 
+En el momento de la finalización del contrato, el contratista deberá devolver a la GRS 
+todos los activos de los que haya dispuesto para la prestación de los servicios objeto 
+del presente contrato, ya sean software, documentación corporativa, equipos y/o 
+recursos materiales. Asimismo, si el personal del contratista dispone de permisos de 
+acceso a instalaciones o sistemas, estos deberán ser devueltos o comunicados para 
+su anulación respondiendo de su uso una vez finalizados los servicios. 
+El contratista deberá entregar a la GRS toda la información y documentación 
+resultante de los trabajos objeto de la prestación, viniendo obligado, además, a no 
+mantener documentación o almacenar información en locales o equipos ajenos o no 
+autorizados por la GRS, durante o una vez finalizado el plazo contractual, más allá 
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+
+
+--- página 24 ---
+ 
+                                                         
+ 
+24 
+ 
+Gerencia Regional de Salud 
+de aquella que sea necesaria para la ejecución del contrato o para el cumplimiento 
+de los periodos de garantía y mantenimiento por parte de dicha empresa. 
+ 
+De igual manera, deberá certificar que, al causar baja el servicio suministrado, los 
+datos almacenados han sido eliminados de manera segura una vez finalizado el 
+proceso de portabilidad, a menos que exista una norma jurídica que exija la 
+conservación de dicha información o en tanto pudieran derivarse responsabilidades 
+de su relación con la GRS. 
+En los casos en que esto sea necesario, deberán garantizarse niveles de seguridad 
+acordes con la naturaleza de la información almacenada y con la Política de Seguridad 
+de la Información y Protección de Datos vigente en la GRS.  
+ 
+La GRS se reservará el derecho de poder exigir al contratista, certificaciones de 
+destrucción segura de documentos o eliminación de información de los equipos 
+empleados para la realización de los servicios objeto del contrato, y, podrá realizar 
+revisiones de las instalaciones y procedimientos empleados por dicho prestador.  
+ 
+Sin perjuicio de lo dispuesto en la legislación vigente, el incumplimiento de estos 
+compromisos y las consecuencias derivadas de ello serán responsabilidad exclusiva 
+del, que responderá frente a la GRS de los daños y perjuicios que pudieran generarse. 
+ 
+ 
+Valladolid, 
+ 
+La Jefa de Servicio de Gestión de la Demanda Asistencial y  
+Cartera de Servicios de Atención Primaria 
+(P.S. Artículo 49.3 de la Ley 3/2001, de 3 de julio) 
+La Jefa de Servicio de Programación Asistencial y Cartera de Servicios de Hospitales 
+Dª Purificación de la Iglesia Rodríguez 
+ 
+ 
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+
+
+--- página 25 ---
+ 
+                                                         
+ 
+25 
+ 
+Gerencia Regional de Salud 
+ANEXO DE SEGURIDAD DE LA INFORMACIÓN 
+ 
+DECLARACIÓN RESPONSABLE RELATIVA AL COMPROMISO DE 
+CUMPLIMIENTO CON LOS REQUISITOS DE SEGURIDAD DE LA 
+INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES EXIGIDOS 
+POR LA GRS PARA LA CONTRATACIÓN DE SERVICIOS 
+D/Dª………………………………..................., con DNI …………………….....................…, 
+actuando en nombre propio o en representación de 
+.................................………………, con domicilio social en 
+.............................……………, manifiesta que:  
+ 
+Teniendo conocimiento de la convocatoria de la licitación para la contratación 
+de los servicios de “Asistencia técnica especializada para el análisis funcional, 
+diseño, configuración, parametrización e implantación de un repositorio y 
+buscador de activos de salud de Castilla y León integrado en el Portal de Salud 
+Comunitaria de la Gerencia Regional de Salud de Castilla y León”, aceptando 
+íntegramente el contenido del pliego tipo de prescripciones técnicas para 
+contratos de servicios, aprobado por la Gerencia Regional de Salud de Castilla 
+y León (GRS), conteniendo las especificidades técnicas del contrato, y en 
+relación al cumplimiento de los requisitos establecidos en la Ley 9/2017, de 8 
+de noviembre, de Contratos del Sector Público (en adelante LCSP):  
+ 
+DECLARA BAJO SU RESPONSABILIDAD:  
+ 
+1. Que, la empresa se compromete a garantizar las medidas de seguridad 
+determinadas por la GRS. 
+ 
+2. Que la información se va a tratar en:   
+ 
+ Sistemas e instalaciones de la empresa adjudicataria. 
+ Sistemas subcontratados a un tercero o instalaciones de un tercero. 
+ Sistemas e instalaciones propias de la GRS 
+ 
+Y que, tanto si el servicio se va a prestar bien a través de equipamiento 
+informático propiedad de la empresa adjudicataria, o bien mediante acceso 
+remoto, nos comprometemos a garantizar las medidas de seguridad 
+necesarias. 
+ 
+3. Que la infraestructura sobre la que se va a realizar el tratamiento de la 
+información estará en: 
+ 
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+
+
+--- página 26 ---
+ 
+                                                         
+ 
+26 
+ 
+Gerencia Regional de Salud 
+ Instalaciones de la GRS 
+ Virtual 
+ Física 
+ Instalaciones de la empresa adjudicataria 
+ Nube 
+ IaaS, o infraestructura como servicio. 
+ PaaS, o plataforma como servicio. 
+ SaaS, o software como servicio.         
+                        
+4. Que, si el servicio que se contrata y/o el producto que se adquiere es de 
+seguridad, ha sido certificado por el CCN o se ha incluido en el Catálogo de 
+Productos y Servicios de Seguridad de las Tecnologías de la Información y 
+Comunicación del CCN, y de no ser así, la empresa aportará una certificación 
+que cumpla con los requisitos funcionales de seguridad y de aseguramiento, 
+teniendo en cuenta los criterios y metodologías de evaluación nacionales e 
+internacionales reconocidas por el CCN. 
+ 
+5. Que, si se van a realizar tratamientos de datos personales por cuenta de la 
+GRS, se detallan éstos, sus finalidades y el alcance de los mismos a 
+continuación: 
+ No se va a realizar tratamiento de datos de carácter personal 
+ Sí se van a realizar, y se detallan a continuación 
+ 
+ 
+  
+6. Cuando el personal del contratista desempeñe sus servicios en las propias 
+instalaciones de la GRS, deberá conocer, aceptar y comprometerse a 
+cumplir con el marco normativo de seguridad establecido en la organización. 
+En estos casos, el contratista deberá informar sobre las medidas de 
+seguridad y el marco normativo aplicable a los trabajadores que vayan a 
+realizar las funciones en las dependencias de la GRS. 
+ 
+Y para que conste a los efectos oportunos en la presente licitación pública, firma 
+la correspondiente declaración responsable.  
+ 
+En …………, a………de……………de 202......  
+ 
+Fdo.: ...................................................... 
+ 
+Código Seguro de Verificación CSV: P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF
+Puede verificar la autenticidad de este documento en https://csia.saludcastillayleon.es/cotejo/?csv=P24AJEICB60DXI00ZVF4YIR14PKARH97AFJF

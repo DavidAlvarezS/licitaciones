@@ -1,0 +1,1080 @@
+
+
+--- página 1 ---
+PLIEGO DE PRESCRIPCIONES TÉCNICAS QUE HA DE REGIR EL CONTRATO DE 
+SUMINISTROS  SUMINISTRO    DE  MATERIAL  INFORMÁTICO  PARA  EL   
+FUNCIONAMIENTO  DE  LAS  DEPENDENCIAS  MUNICIPALES         DEL   
+AYUNTAMIENTO         DE         ISLA         CRISTINA  ,  POR  PROCEDIMIENTO  ABIERTO   
+SIMPLIFICADO ABREVIADO. 
+1.OBJETO DEL CONTRATO
+El presente contrato tiene por objeto la contratación de los servicios informáticos de 
+licenciamiento en modalidad de suscripción/SaaS (Software as a Service), implantación, 
+parametrización, migración de datos, formación del personal municipal, soporte técnico 
+continuado  y  mantenimiento  correctivo,  evolutivo  y  adaptativo  de  las  siguientes 
+soluciones informáticas para el Ayuntamiento de Isla Cristina:
+ • Lote  1: Software  de gestión  operativa e incidencias para la Agrupación  Local de 
+Voluntarios de Protección Civil y Emergencias.
+ • Lote 2: Software corporativo de copias de seguridad (backup) con almacenamiento 
+inmutable (tecnología anti-ransomware) y recuperación ante desastres (ENS/RGPD).
+ •  Lote  3:  Software  de  gestión  integral  de  la  Oficina  Municipal  de  Información  al 
+Consumidor  (OMIC),  mediación  de  consumo  e  integración  con  la  Sede  Electrónica 
+municipal.
+• Lote 4: Protección de la Seguridad Ciudadana y Movilidad.
+De conformidad con el Reglamento (CE) n.º 213/2008 de la Comisión, las prestaciones 
+objeto de la presente licitación se adscriben a los siguientes códigos de la nomenclatura 
+CPV: 
+ PV Principal:
+o 48000000-8: Paquetes de software y sistemas de información.
+ CPV  Secundarios  (Servicios  de  implantación,  mantenimiento  y  soporte 
+Cloud/SaaS):
+o 72268000-1: Servicios de suministro de software.
+o 72261000-2: Servicios de asistencia para software y mantenimiento.
+o 72263000-6: Servicios de aplicación de software.
+2.NECESIDAD A SATISFACER 
+La  necesidad  de  incoar  el  presente  expediente  responde  a  imperativos  operativos, 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 1 de 26 
+
+--- página 2 ---
+organizativos y legales debidamente acreditados:
+Lote 1: Software de Gestión Operativa de Protección Civil
+La Agrupación Local de Voluntarios de Protección Civil de Isla Cristina precisa disponer de 
+una herramienta moderna para la cobertura de dispositivos de riesgo, eventos masivos e 
+intervenciones de emergencia.
+ Problemática: La gestión mediante  partes en papel o plantillas ofimáticas 
+genera fragmentación, lentitud en la activación de retenes e imposibilidad de geolocalizar 
+recursos en tiempo real.
+ Idoneidad de la solución: Una plataforma Cloud con App móvil permitirá la 
+gestión  del  expediente  digital  del  voluntario,  asignación  de  cuadrantes,  control  de 
+inventario y vestuario, seguimiento por GPS en mapa interactivo y comunicación directa 
+con la Jefatura y el 112.
+Lote 2: Software de Copias de Seguridad, Backup e Inmutabilidad
+El  cumplimiento  del  Esquema  Nacional  de  Seguridad  (Real  Decreto  311/2022)  y del 
+artículo  32  del  RGPD  impone  a  la  entidad  local  la  obligación  de  garantizar  la 
+disponibilidad, resiliencia y recuperación de los datos ante ciberincidentes.
+ Problemática: Los ciberataques actuales por  ransomware atacan de forma 
+prioritaria los sistemas de copia de seguridad tradicionales para impedir la restauración 
+de los servidores municipales.
+ Idoneidad de la solución: Se requiere un software de backup con tecnología 
+de inmutabilidad (Object Lock / WORM) que impida el borrado o cifrado no autorizado de 
+las copias.
+ Lote 3: Software de Gestión de la OMIC
+La Oficina Municipal de Información al Consumidor (OMIC) presta un servicio público 
+esencial  de atención ciudadana,  recepción de reclamaciones de consumo,  mediación 
+entre  vecinos  y  empresas,  y  tramitación  de  expedientes  hacia  la  Junta  Arbitral  de 
+Consumo, a través de un sistema que ya tiene y requiere del mantenimiento del mismo, 
+cuyo alcance y descripción está definido más adelante.
+ Problemática: El incremento de la tramitación telemática exige conectar la 
+OMIC  con  la  Sede  Electrónica  municipal  y  disponer  de  una  gestión  procedimental 
+automatizada de plazos, requerimientos y citaciones.
+ Idoneidad de la solución: El software permitirá la recepción omnicanal de 
+reclamaciones, control de plazos de mediación, generación de expedientes normalizados, 
+agenda de cita previa, comunicaciones certificadas SMS/Email y emisión automática de 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 2 de 26 
+
+--- página 3 ---
+memorias estadísticas para la Consejería de Consumo.
+Lote 4: Software de Control, Movilidad y Análisis de datos.
+La Jefatura de la Policía Local de Isla Cristina presta un servicio público esencial a la 
+atención a la ciudadanía y movilidad, a través de un sistema que ya tiene y requiere del 
+mantenimiento del mismo, cuyo alcance y descripción está definido más adelante.
+ Problemática: Incremento  de  la  circulación  y  detección  de  vehículos  no 
+autorizados para la circulación.
+Idoneidad de la solución: El software permite la recepción de información de la 
+DGT  en  tiempo  real,  “listas  de  Interés  Policial”,  zonas  restringidas  y  vehículos 
+autorizados.
+3. CARACTERÍSTICAS TECNICAS DEL SERVICIO.
+El presente contrato tiene por objeto la contratación de los servicios informáticos de 
+licenciamiento en modalidad de suscripción/SaaS (Software as a Service), implantación, 
+parametrización, migración de datos, formación del personal municipal, soporte técnico 
+continuado  y  mantenimiento  correctivo,  evolutivo  y  adaptativo  de  las  siguientes 
+soluciones informáticas para el Ayuntamiento de Isla Cristina, dividido en cuatro lotes, 
+pasando a desglosar las características técnicas mínimas de cada uno:
+Lote 1: Software de gestión operativa e incidencias para la Agrupación Local de 
+Voluntarios de Protección Civil y Emergencias.
+UDS. Elementos y características mínimas exigidas
+1 - Plataforma web de gestión integral para agrupaciones y servicios de Protección Civil. 
+- El  servicio  deberá  disponer  de  Certificación  de  Conformidad  con  el  Esquema 
+Nacional de Seguridad (ENS), conforme al Real Decreto 311/2022, con categoría 
+mínima MEDIA, se deberá aportar certificado vigente que lo acredite.
+- Capacidad para gestionar hasta 200 usuarios. 
+- Aplicaciones móviles compatibles con iOS y Android. 
+- Gestión de servicios ilimitados. 
+- Asignación de personal, funciones y roles a vehículos. 
+- Gestión de cuadrantes y turnos. 
+- Central de coordinación con geolocalización GPS. 
+- Informes de servicios, personal y horas trabajadas. 
+- Módulo de analítica de datos. 
+- Gestión de personal, grupos, capacidades, filiaciones y asistencias. 
+- Gestión de usuarios administradores y usuarios temporales. 
+- Gestión de flota de vehículos y disponibilidad. 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 3 de 26 
+
+--- página 4 ---
+- Gestión de capas geolocalizadas, hasta 50 capas y elementos ilimitados por capa. 
+- Visualización  de  información  geográfica  mediante  central  GPS  e  importación  de 
+archivos KML. 
+- Gestión y revisión de hidrantes mediante aplicación móvil. 
+- Sistema de envío de comunicados y gestión de contactos, hasta 200. 
+- Gestor documental con capacidad de almacenamiento de hasta 5 GB. 
+- Creación y gestión de trámites y formularios personalizados, con número ilimitado 
+de trámites activos. 
+- Gestión de tesorería y gestión económica. 
+- Gestión de inventario y multialmacén. 
+- Gestión de planes de emergencia, hasta 6 planes. 
+- Opciones de seguridad avanzada. 
+- Soporte técnico y atención al cliente. 
+- Servidores de la aplicación alojados en la Unión Europea.
+Lote  2:  Software  corporativo  de  copias  de  seguridad  (backup)  con 
+almacenamiento inmutable (tecnología anti-ransomware) y recuperación ante 
+desastres (ENS/RGPD).
+UDS
+. Elementos y características mínimas exigidas
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 4 de 26 
+
+--- página 5 ---
+1
+Protección de 2 workstion físicos mediante copias de seguridad automatizadas.
+FUNCIONALIDADES PRICIPALES DE COPIA DE SEGURIDAD
+- Copias de seguridad completas a nivel de imagen.
+- Copias de archivos y carpetas.
+- Protección de discos y volúmenes.
+- Protección de equipos físicos, servidores y máquinas virtuales.
+- Programación y gestión de las copias mediante consola centralizada.
+- Programación automática de copias.
+- Políticas configurables de retención.
+- Compresión y optimización del almacenamiento.
+- Cifrado de las copias de seguridad.
+- Posibilidad de combinar almacenamiento local y cloud.
+- Recuperación granular de archivos y carpetas.
+- Recuperación completa de equipos y servidores.
+- Recuperación Bare Metal.
+- Recuperación sobre hardware diferente al original.
+- Almacenamiento de las copias en 2 TB de espacio cloud independiente de la 
+infraestructura local.
+- Protección frente a ransomware.
+- Administración centralizada.
+- Monitorización del estado de las copias.
+- Alertas e informes de ejecución y protección.
+ADMINISTRACIÓN Y MONITORIZACIÓN
+- Consola de administración web y centralizada para servidores.
+- Programación y gestión de políticas de copia de seguridad.
+- Monitorización del estado de las copias y generación de alertas ante errores o 
+incidencias.
+- Posibilidad  de  ampliar  el  número  de  servidores,  usuarios  y  capacidad  de 
+almacenamiento durante la vigencia del servicio.
+- Soporte y actualizaciones durante el período de vigencia de las licencias.
+Lote 3: Software de gestión integral de la Oficina Municipal de Información al 
+Consumidor (OMIC), mediación de consumo e integración con la Sede Electrónica 
+municipal. 
+UDS. Elementos y características mínimas exigidas
+1 - El servicio deberá disponer de Certificación de Conformidad con el Esquema 
+Nacional de Seguridad (ENS), con categoría mínima MEDIA, debiendo aportar 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 5 de 26 
+
+--- página 6 ---
+certificado vigente que acredite su alcance sobre el servicio ofertado.
+- Acceso mediante navegador web para todos los usuarios que desarrollen su 
+trabajo.
+- Cuentas individuales y control de acceso mediante perfiles y permisos según las 
+funciones y responsabilidades de cada usuario.
+- Trabajo compartido sobre una base de información centralizada, accesible para los 
+usuarios autorizados.
+- Capacidad de almacenamiento de 20 GB.
+- Historial de actuaciones y trazabilidad documental.
+- Mantenimiento y actualizaciones durante el periodo contratado.
+- Conservación de la información histórica del servicio.
+- Servicio alojado en la Unión Europea.
+- Soporte técnico y asistencia funcional a los usuarios.
+FUNCIONALIDADES 
+- Gestión de personas consumidoras, con datos identificativos, domicilio, contacto, 
+representantes e historial de consultas y reclamaciones.
+- Gestión de empresas y establecimientos, diferenciando la entidad titular, sus 
+delegaciones o sucursales y los establecimientos donde se producen los hechos 
+reclamados.
+- Registro de representantes, responsables y personas de contacto vinculadas a 
+empresas, establecimientos y personas consumidoras.
+- Vinculación de cada expediente con la persona reclamante, la empresa reclamada, 
+el establecimiento afectado y sus respectivos representantes.
+- Clasificación de empresas, consultas y reclamaciones por sectores de actividad, 
+permitiendo su consulta y explotación estadística.
+- Registro diferenciado del motivo de la reclamación, los hechos expuestos y la 
+pretensión o solución solicitada por la persona consumidora.
+- Utilización de catálogos de sectores y motivos de reclamación para homogeneizar 
+el registro de información y facilitar la elaboración de estadísticas.
+- Clasificación de consultas y reclamaciones mediante catálogos de sectores y 
+motivos adaptados a los criterios de los organismos competentes en materia de 
+consumo, incluyendo las clasificaciones europeas aplicables.
+- Registro de consultas recibidas presencialmente, por teléfono o por correo 
+electrónico, con identificación del asunto, atención prestada y técnico responsable.
+- Gestión integral de reclamaciones y mediaciones, desde su registro hasta su 
+resolución y archivo.
+- Identificación individual de expedientes, con seguimiento de su estado, 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 6 de 26 
+
+--- página 7 ---
+responsables, fechas, plazos y actuaciones pendientes.
+- Registro cronológico de actuaciones, comunicaciones y documentación, 
+permitiendo consultar el historial completo de cada expediente.
+- Consulta de antecedentes de una misma persona, empresa, delegación o 
+establecimiento.
+- Gestión y control de la entrega de hojas oficiales de reclamaciones a 
+establecimientos.
+- Configuración de parámetros, catálogos, plantillas y circuitos de trabajo conforme 
+a los procedimientos indicados por el Ayuntamiento d eIsla Cristina.
+- Elaboración de la memoria estadística de actividad del servicio de consumo para 
+el periodo seleccionado.
+- Elaboración de informes sobre los resultados de inspecciones y campañas.
+- Seguimiento  de  la  actividad  por  usuario,  la  carga  de  trabajo  y  los  asuntos 
+pendientes para facilitar la supervisión del servicio.
+- Elaboración  de  informes  y  estadísticas  por  sectores  de  actividad,  motivos  de 
+reclamación, estados de tramitación, resultados y periodos.
+- Búsqueda y consulta de expedientes por personas, empresas, establecimientos, 
+sectores, motivos de reclamación, estados, fechas y técnicos responsables.
+- Gestión de mercados y campañas informativas o inspectoras, con agrupación de 
+actuaciones y seguimiento de resultados.
+- Gestión  de expedientes  sancionadores,  con registro  y seguimiento de hechos, 
+actuaciones, fases, resoluciones y documentación del procedimiento.
+- Seguimiento  de  medidas  correctoras  y  subsanaciones  derivadas  de  las 
+inspecciones.
+- Programación y registro de inspecciones, con identificación del establecimiento, 
+comprobaciones realizadas, actas, deficiencias y resultados, así como seguimiento 
+y subsanación, de las mismas.
+- Gestión documental con incorporación de documentos aportados por las partes, 
+justificantes y escritos generados durante la tramitación.
+- Generación de cartas y escritos mediante modelos y plantillas, incorporando los 
+datos de las personas, empresas y expedientes relacionados.
+- Agenda  de  trabajo  por  técnico,  con  planificación  de  tareas,  seguimiento  de 
+asuntos pendientes, avisos y control de vencimientos.
+- Registro de correspondencia de entrada y salida, con identificación de remitentes 
+y destinatarios y vinculación al expediente correspondiente.
+Lote 4: Software de Control, Movilidad y Análisis de datos de la 
+Policía Municipal
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 7 de 26 
+
+--- página 8 ---
+UDS. Elementos y características mínimas exigidas
+1 Mantenimiento, asistencia con la actualización a la versión compatible de sistema 
+Android de los actuales equipos que dispone la Policía Local. 
+El objetivo principal garantizar la continuidad operativa, actualización tecnológica y 
+correcto funcionamiento de los equipos asegurando su adecuación a las 
+necesidades actuales y futuras del servicio. En particular, deberán alcanzarse los 
+siguientes objetivos específicos:
+Renovación tecnológica.
+Actualización tecnológica referente a los equipos den la versión de Android, la 
+BIOS, Memoria ROM y RAM, es decir, diversos componentes del Firmware y 
+hardware de estos equipos que se actualizarán a versión de software superiores 
+para que las funcionalidades utilizadas por policía y que permita actualizaciones de 
+nuevas versiones, asegurándose así la continuidad de la operativa policial, y en su 
+caso, sustituir con las unidades descritas en el apartado de Suministro. 
+Mantener la integración funcional y operativa de todos los elementos del sistema, 
+evitando interrupciones del servicio.
+• Mantenimiento preventivo
+Realizar actuaciones periódicas de mantenimiento preventivo que permitan 
+detectar y corregir posibles incidencias antes de que afecten a la operatividad del 
+sistema. Verificar el correcto estado físico, lógico y funcional de los equipos y de 
+sus elementos asociados.
+• Mantenimiento correctivo
+Garantizar una atención rápida y eficaz ante averías o fallos de funcionamiento, 
+minimizando los tiempos de indisponibilidad del sistema. Restablecer el servicio en 
+los plazos establecidos, asegurando el funcionamiento normal.
+• Aseguramiento de la disponibilidad y continuidad del servicio
+Mantener un nivel de disponibilidad adecuado de los equipos y del sistema en su 
+conjunto, especialmente en aquellos elementos críticos para la operativa. Evitar 
+interrupciones no planificadas que puedan afectar a la prestación del servicio
+público.
+•Actualización de firmware, software y licencias
+Garantizar la actualización de firmware, software y licencias necesarias para el 
+correcto funcionamiento y la seguridad. Incorporar mejoras funcionales, 
+correcciones de errores y actualizaciones de seguridad recomendadas por el 
+fabricante.
+• Seguridad y protección de la información.
+Preservar la integridad, confidencialidad y disponibilidad de los datos gestionados. 
+• Optimización de la gestión y explotación del sistema
+Facilitar una gestión eficiente de los equipos, y mejorando la capacidad de 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 8 de 26 
+
+--- página 9 ---
+monitorización, diagnóstico y control del sistema.
+• Documentación y trazabilidad
+Mantener actualizada la documentación técnica de los equipos renovados y de las 
+actuaciones de mantenimiento realizadas.
+Garantizar la trazabilidad de las intervenciones efectuadas durante la vigencia del 
+contrato.
+• Formación y soporte técnico
+Proporcionar soporte técnico especializado al personal designado por el órgano de 
+contratación. Facilitar, en su caso, formación básica o específica sobre el uso y 
+gestión de los equipos y sistemas.
+ Soporte y actualizaciones durante el período de vigencia de las licencias.
+FUNCIONALIDADES 
+De manera resumida las Funcionalidades de la Aplicación que se almacenará en 
+entorno WEB, para ser consultado y obtener estadísticas, etc.
+- Lectura de las matrículas de los vehículos; Estacionados en movimiento el 
+agente, etc
+- Se podrá crear un usuario que solo tenga acceso a la Plataforma Discover al 
+formulario de denuncias de tráfico.
+- Permitirá la creación de listas de vehículos de interés, no autorizadas, 
+residenciales.
+- Módulo lecturas;
+- Disponer de las ultimas lecturas realizadas en modo lista Con información 
+organizada por diferentes campos:
+• Fecha / Hora
+• Matrícula
+• Marca
+• DNI/CIF del Titular
+• Población de Matriculación del Vehículo
+• Incidencias en la DGT; ITV, Seguro, Baja, etc.
+• Por listas de Interés.
+• Etc.
+- Al entrar en cualquier fila se podrá ver el detalle completo de la lectura:
+• Datos del vehículo
+• Datos del titular
+• Imagen de la lectura
+• Ubicación de la lectura, (pinchando ubica en Google Maps posición de la 
+lectura)
+• Avisos de DGT
+• Avisos de la Plataforma Discover
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 9 de 26 
+
+--- página 10 ---
+• Avisos de listas de interés.
+- Se podrán realizar búsqueda de matrículas con datos parciales; por número o 
+letra de matrícula.
+- Permitirá la búsqueda avanzada de matrículas con filtros avanzados, 
+permitiendo cualquier combinación de los datos recogidos.
+- Exportación de los datos leídos en formatos Excel con fotografías adjuntas.
+- Consulta manual desde el formulario lecturas en la DGT.
+- Histórico de matrículas,
+- Dispone de todos los datos registrados en la base de datos.
+- Se puede consultar las lecturas realizadas en periodos anteriores con los filtros 
+que se necesiten.
+El Software de Control, Movilidad y Análisis de datos requiere cumplir y estar 
+capacitada de lo siguiente: 
+• Certificado con el Esquema Nacional de Seguridad – Alto (ENS -Alto)
+• Disponer de las ISOs de Calidad 9.001 y Medioambiente 14.001
+• Disponer de Punto de Presencia homologados por Secretaría General de Datos  de 
+la Administración Digital del Ministerio de Transformación Digital.
+• Disponer de un sistema en Cloud y que ésta esté certificada con el  Esquema 
+Nacional de Seguridad – Alto (ENS -Alto) y el oferente asuma los costes de estos 
+servicios durante la duración del contrato.
+• El mantenimiento deberá utilizar el Sistema MONSE que forma parte de CCN-STIC 
+105 (CPSTIC): Certificado MONSE
+• Se deberá disponer de la homologación/Integración con la Jefatura Provincial de la 
+DGT para que se puedan imponer sanciones de la DGT mediante boletín digital de 
+manera online. 
+*Se deberá realizar comprobaciones y propuesta de sanciones por zonas y 
+restricción de aparcamiento (zonas marcadas como Podas, Carreras, Cabalgatas, 
+etc.) de manera automática. 
+• Dentro del mantenimiento se deberá permitir la extracción e importación de los 
+datos para carga en aplicaciones municipales.  
+• El mantenimiento deberá ser independiente en su funcionamiento, funciona de 
+manera autónoma y no tiene, para su funcionamiento, vinculación con 
+aplicaciones terceras.
+4. CARACTERÍSTICAS TÉCNICAS COMUNES DE LOS CUATRO (4) 
+LOTES: SOPORTE TÉCNICO Y MANTENIMIENTO INTEGRAL
+1. Servicio de Atención y Soporte Técnico a Usuarios
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 10 de 26 
+
+--- página 11 ---
+El contratista dispondrá de un servicio de soporte integral para asistir al 
+personal  municipal  en  el  uso  operativo,  funcional  y  técnico  de  los 
+aplicativos.
+a) Asesoramiento y soporte funcional: El adjudicatario ofrecerá soporte 
+directo  en  el  desarrollo  de  los  procedimientos  y  registro  de 
+operaciones,  favoreciendo  la explotación  integral del  producto.  Este 
+soporte se prestará vía telefónica, correo electrónico y/o a través de 
+una plataforma/extranet web de atención e incidencias a disposición 
+del Ayuntamiento de Isla Cristina.
+b) Servicio de atención y seguimiento de incidencias: Canal para la 
+notificación de disfunciones, recepción de soluciones y seguimiento en 
+tiempo real del estado de tramitación de los trabajos de asistencia.
+c)  Canales  de  comunicación:  La  empresa  adjudicataria  facilitará 
+obligatoriamente la atención multicanal (teléfono, correo electrónico y 
+portal web de soporte).
+d) Cualificación del personal: El servicio de asesoramiento y resolución 
+de  incidencias  será  prestado  por  personal  técnico  especializado 
+asignado por la empresa adjudicataria.
+e)  Soporte  técnico  e  infraestructura:  Apoyo  al  personal  del 
+Departamento  de  Informática  en  los  procesos  de  actualización  del 
+software y en la administración de la base de datos relacional (SQL 
+Server o equivalente) asociada a las aplicaciones.
+f) Horario y disponibilidad del soporte:
+ - Soporte funcional ordinario (Hot-Line): De lunes a viernes, en horario 
+de 09:00 a 14:00 horas (días hábiles).
+ -  Soporte  de  emergencias  e  incidencias  críticas  (Lotes  1  y  4  - 
+Protección  Civil  y  Policía  Local):  Canal  de  atención  de  respuesta 
+inmediata  24x7  para incidencias de gravedad alta  que  paralicen la 
+operativa de los servicios de seguridad y emergencias.
+2. Servicio  de  Actualización,  Adaptación  Legal  y 
+Mantenimiento Correctivo y Evolutivo
+El servicio de mantenimiento de software incluirá de forma obligatoria y 
+sin coste adicional para el Ayuntamiento las siguientes prestaciones
+a) Mantenimiento evolutivo y nuevas versiones: Acceso a las nuevas 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 11 de 26 
+
+--- página 12 ---
+versiones, parches de seguridad y mejoras funcionales que desarrolle 
+el proveedor sobre las aplicaciones contratadas durante la vigencia del 
+contrato.
+b) Adaptación legal y normativa permanente: Actualización continua 
+del  aplicativo  para  su  plena  adecuación  a  las  modificaciones 
+legislativas,  reglamentarias  o  procedimentales  de  ámbito  estatal, 
+autonómico o local que se produzcan durante la vigencia contractual, 
+garantizando la plena operatividad de la norma en sus plazos legales 
+de  entrada  en  vigor,  sin  que  proceda  la  repercusión  de  costes 
+adicionales al Ayuntamiento.
+c) Mantenimiento correctivo y reparación de defectos: Subsanación de 
+errores, disfunciones, fallos de seguridad o vicios ocultos en el software 
+o en sus bases de datos.  Cuando la complejidad o gravedad de la 
+incidencia impida su resolución remota, el adjudicatario desplazará un 
+técnico  especialista  a  las  dependencias  del  Ayuntamiento  de  Isla 
+Cristina sin repercusión de costes adicionales.
+3. NIVELES DE SERVICIO, RECEPCIÓN Y RESOLUCIÓN DE INCIDENCIAS (SLA / 
+ANS)
+1.Recepción y Trazabilidad Multicanal
+La notificación de incidencias y averías de carácter correctivo se realizará a través de los 
+siguientes canales:
+ a) Atención Telefónica directa de soporte.
+ b) Correo electrónico corporativo de soporte.
+ c) Portal Web / Extranet de Gestión de Incidencias 24x7, con asignación automática de 
+número de tique y seguimiento del estado en tiempo real
+2. Clasificación de Incidencias y Tiempos Máximos de Respuesta y Subsanación
+a) INCIDENCIA MUY GRAVE (CRÍTICA):
+ • Definición: Avería o fallo que provoca la paralización del sistema, imposibilidad de 
+prestar el servicio público, pérdida/corrupción de datos, o que afecte a los módulos de 
+intervención 24x7 de Protección Civil (Lote 1) y Policía Local (Lote 4).
+ • Tiempo Máximo de Respuesta (Acuse de recibo y asignación): Menos de 1 HORA 
+(disponible 24x7 para Lotes 1 y 4).
+ • Tiempo Máximo de Resolución / Solución de Contorno: Menos de 6 HORAS
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 12 de 26 
+
+--- página 13 ---
+b) INCIDENCIA GRAVE:
+ •  Definición:  Fallo  que  degrada  significativamente  el  rendimiento  del  software  o 
+inhabilita  un  módulo  funcional  relevante,  existiendo  alternativas  provisionales  para 
+mantener la gestión.
+ • Tiempo Máximo de Respuesta: Menos de 4 HORAS (en horario lectivo de soporte).
+ • Tiempo Máximo de Resolución: Menos de 24 HORAS HÁBILES
+c) INCIDENCIA LEVE
+ • Definición: Anomalía menor, error estético o duda funcional que no impide el uso 
+normal de la aplicación
+ • Tiempo Máximo de Respuesta: Menos de 8 HORAS HÁBILES.
+ • Tiempo Máximo de Resolución: Menos de 48 HORAS HÁBILES.
+4. Obligatoriedad de Subsanación
+El adjudicatario queda estrictamente obligado a la subsanación de la totalidad de los 
+errores,  fallos  y  disfunciones  detectados  en  las  aplicaciones  y  sus  bases  de  datos 
+relacionales, sin que proceda en ningún caso la alegación de imposibilidad de resolución 
+para eximirse de sus obligaciones contractuales.
+4.PRESUPUESTO BASE DE LICITACIÓN
+El Presupuesto Base de Licitación para la totalidad del suministro y 
+servicios anexos asciende a la cantidad máxima de VEINTITRÉS MIL 
+SETECIENTOS  CINCUENTA  EUROS  (23.750,00  €),  más  CUATRO  MIL 
+NOVECIENTOS OCHENTA Y SIETE (4.987,50) en concepto de IVA (21 
+%), lo que suma un importe total acumulado de VEINTE Y COHO MIL 
+SETECIENTOS TREINTA Y SIETE EUROS CON CINCUENTA CENTIMOS IVA 
+incluido (28.737,50 €), desglosado por lotes de la siguiente forma:
+LOTE 1: Software de gestión.
+El presupuesto base de licitación del contrato, mejorable a la baja, es de  8.531,00  €, 
+I.V.A. incluido para el SOFTWARE DE GESTIÓN PARA PROTECCIÓN CIVIL durante 4 
+años naturales más 1 prorrogable, con el siguiente desglose: 
+  1 AÑO 2 AÑO 3 AÑO 4 AÑO 5 AÑO TOTAL
+Base 
+Imponible 1.250 € 1.300 € 1.400 € 1.500 € 1.600 € 7.050 €
+I.V.A. 262,50 € 273,00 € 294,00 € 315,00 € 336,00 € 1.480,50 €
+Total 1.512,50 1.573,00 1.694,00 1.815,00 1.936,00 8.530,50
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 13 de 26 
+
+--- página 14 ---
+€ € € € € €
+LOTE 2: Software de Almacenamiento y seguridad
+El presupuesto base de licitación del contrato, mejorable a la baja, es de  3.449,00  €, 
+I.V.A.  incluido para el  SOFTWARE DE ALMACENAMIENTO Y SEGURIDAD durante 3 
+años naturales, con el siguiente desglose: 
+  1 AÑO 2 AÑO 3 AÑO TOTAL
+Base Imponible 950,00 € 950,00 € 950,00 € 2.850 €
+I.V.A. 199,50 € 199,50 € 199,50 € 598,50 €
+Total 1.149,50 € 1.149,50 € 1.149,50 € 3.448,50 €
+LOTE 3: Software de gestión OMIC
+El presupuesto base de licitación del contrato, mejorable a la baja, es de  13.612,50  €, 
+I.V.A.  incluido  para  el  SOFTWARE  DE  GESTIÓN  PARA  EL  OMIC durante  4  años 
+naturales más 1 prorrogable, con el siguiente desglose: 
+1 AÑO 2 AÑO 3 AÑO 4 AÑO 5 AÑO TOTAL
+Base 
+Imponible 2.250 € 2.250 € 2.250 € 2.250 € 2.250 € 11.250 €
+I.V.A. 472,50 € 472,50 € 472,50 € 472,50 € 472,50 € 2.362,50 €
+Total 2.722,50 € 2.722,50 € 2.722,50 € 2.722,50 € 2.722,50 € 13.612,50 €
+LOTE 4: Software de Control, Movilidad y Análisis de datos de 
+la Policía Municipal.
+El presupuesto base de licitación del contrato, mejorable a la baja, es de  3.146,00  €, 
+I.V.A.  incluido para el  SOFTWARE DE ALMACENAMIENTO Y SEGURIDAD durante 4 
+años naturales, con el siguiente desglose: 
+  1 AÑO 2 AÑO 3 AÑO 4 AÑO TOTAL
+Base 
+Imponible 650 € 650 € 650 € 650 € 2.600 €
+I.V.A. 136,50 € 136,50 € 136,50 € 136,50 € 546,00 €
+Total 786,50 € 786,50 € 786,50 € 786,50 € 3.146,00 €
+5.OBLIGACIONES DEL ADJUDICATARIO.
+5.1 De conformidad con lo dispuesto en el artículo 211.1.f) de la Ley 9/2017, de 8 de 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 14 de 26 
+
+--- página 15 ---
+noviembre, de Contratos del Sector Público (LCSP), se atribuye expresamente el carácter 
+de OBLIGACIONES CONTRACTUALES ESENCIALES a las estipulaciones que se detallan a 
+continuación.
+El  incumplimiento  de  cualquiera  de  estas  obligaciones  por  parte  de  la  empresa 
+adjudicataria dará lugar, previa audiencia del contratista, a la resolución del contrato o 
+indemnización  de  daños  y  perjuicios,  salvo  que  el  Órgano  de  Contratación  opte 
+motivadamente por la imposición de las penalidades graves previstas en el artículo 192.1 
+de la LCSP.
+5. 2. CATÁLOGO DE OBLIGACIONES CONTRACTUALES ESENCIALES
+A) Fidelidad técnica y calidad de los bienes suministrados (Lotes 1 y 2)
+1. Conformidad estricta con las Prescripciones Técnicas: Entrega de equipos nuevos 
+de  fábrica,  no  recondicionados  ni  descatalogados,  con  las  especificaciones 
+técnicas  mínimas  fijadas  en  el  Pliego  de  Prescripciones  Técnicas  (PPT)  y  la 
+propuesta de la empresa.
+2. Autenticidad y compatibilidad: Aportación de accesorios y componentes originales 
+o  formalmente  homologados  para  garantizar  la  total  compatibilidad  con  la 
+infraestructura informática y el sistema de CCTV de la Policía Local.
+B) Cumplimiento del plazo de entrega e instalación
+3. Respeto  escrupuloso  al  plazo  de  ejecución:  Ejecución  de  la  entrega  en  el 
+Departamento de Informática (Lote 1) y del montaje en el Edificio de la Policía 
+Local (Lote 2) dentro del plazo máximo obligatorio de 10 DÍAS NATURALES (o el 
+plazo reducido efectivamente ofertado en la licitación).
+C) Condición Especial de Ejecución Ambiental (Huella de Carbono)
+4. Agrupación de envíos y logística sostenible: Realización de la entrega total del 
+material en un MÁXIMO DE DOS (2) EXPEDICIONES O ENTREGAS, con la finalidad 
+de optimizar las rutas de transporte y reducir las emisiones de gases de efecto 
+invernadero.
+D)  Confidencialidad,  Seguridad  de  la  Información  y  Protección  de  Datos  (RGPD  / 
+LOPDGDD)
+5. Deber  de  secreto  y  custodia  de  datos  policiales:  Compromiso  absoluto  de 
+confidencialidad respecto a la información, plano de instalaciones, credenciales o 
+imágenes a las que el personal del contratista tenga acceso durante el montaje de 
+la cámara en la Jefatura de la Policía Local (Lote 2) o la configuración de los 
+equipos (Lote 1), conforme a la Ley Orgánica 3/2018 (LOPDGDD) y el Reglamento 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 15 de 26 
+
+--- página 16 ---
+(UE) 2016/679.
+E) Asistencia técnica y cobertura de garantía (36 meses)
+6. Mantenimiento y reposición de elementos defectuosos: Prestación del servicio de 
+garantía integral durante un período de 36 meses (más la ampliación ofertada), 
+procediendo a la reparación o sustitución de equipos averiados en un plazo no 
+superior a 10 días desde su notificación por el Responsable del Contrato.
+F) Cumplimiento de la normativa laboral, de PRL y gestión de residuos (RAEE)
+7. Seguridad laboral y sostenibilidad: Cumplimiento de la normativa de prevención 
+de riesgos laborales durante las tareas de montaje y entrega a gestor autorizado 
+de las baterías y residuos electrónicos generados (Ley 7/2022 y RD 110/2015 
+sobre RAEE).
+5.3. RÉGIMEN DE PENALIZACIONES Y CONSECUENCIAS DEL INCUMPLIMIENTO
+De conformidad con los artículos 192 y 211 de la LCSP, ante la constatación de un 
+incumplimiento  de  las  obligaciones  esenciales  anteriores,  el  Órgano  de  Contratación 
+podrá acordar:
+1. Resolución  del  Contrato  (Art.  211.1.f  LCSP):  Incoación  del  procedimiento  de 
+resolución contractual con incautación de las garantías prestadas y exacción de 
+indemnización por daños y perjuicios excedentes.
+2. Imposición  de  Penalidades  Gravosas  (Art.  192.1  LCSP):  Cuando  se  considere 
+oportuno para garantizar la continuidad del servicio público, imposición de una 
+penalización proporcional de entre el 5 % y el 10 % del precio de adjudicación del 
+contrato (IVA excluido), que se detraerá del importe de la factura pendiente de 
+pago.
+3. Prohibición  de  Contratar  (Art.  71.2.c  LCSP):  El  incumplimiento  grave  de  las 
+obligaciones esenciales calificadas como tales en los pliegos podrá dar lugar a la 
+iniciación del expediente de prohibición de contratar  con las Administraciones 
+Públicas.
+6. PLAZO DE EJECUCIÓN, DURACIÓN DEL CONTRATO, RECEPCIÓN Y PRECIOS
+6.1. Plazo de Implantación Inicial y Duración del Contrato por Lotes (Art. 29 
+LCSP
+De conformidad con lo dispuesto en el artículo 29 de la Ley 9/2017, de 8 de noviembre, 
+de Contratos del Sector Público (LCSP), la duración del contrato se establece atendiendo 
+a la naturaleza de las prestaciones informáticas y al tiempo estrictamente necesario para 
+su correcta ejecución, estructurándose conforme a las siguientes fases y plazos:
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 16 de 26 
+
+--- página 17 ---
+A) Plazo de Implantación, Parametrización y Puesta en Servicio Inicial (Común a los 4 
+Lotes):
+El plazo máximo para el despliegue Cloud, entrega de licencias, parametrización inicial y 
+puesta en funcionamiento operativo de las plataformas en cada uno de los cuatro Lotes 
+será de DIEZ (10) DÍAS NATURALES, contados a partir del día siguiente a la formalización 
+del contrato o desde la fecha señalada en la orden de inicio expedida por el Responsable 
+del Contrato. En el supuesto de que la empresa adjudicataria hubiera ofertado un plazo 
+de implantación inferior en su proposición en aplicación de los criterios de adjudicación 
+del pliego, el plazo vinculante será el efectivamente reducido y ofertado.
+B) Plazo de Duración del Contrato y Mantenimiento por Lotes:
+Una vez completada y recibida de conformidad la implantación inicial mediante la firma 
+de la correspondiente Acta de Recepción y Puesta en Servicio, la duración del contrato 
+para la prestación de las licencias SaaS, soporte técnico y mantenimiento se fija de la 
+siguiente forma:
+• Lote  1  (Software  de  Gestión  Operativa  de  Protección  Civil):  Duración  ordinaria  de 
+CUATRO (4) AÑOS, a contar desde la firma del Acta de Recepción de la implantación 
+inicial. El contrato podrá ser prorrogado expresamente por UN (1) AÑO ADICIONAL por 
+acuerdo del Órgano de Contratación antes de la finalización del plazo inicial (art. 29.2 
+LCSP), previa notificación formal al contratista con una antelación mínima de dos (2) 
+meses, alcanzando una duración máxima total acumulada de CINCO (5) AÑOS.
+• Lote 2 (Software de Copias de Seguridad Inmutables): Duración de TRES (3) AÑOS de 
+soporte, licenciamiento y mantenimiento, a contar desde la firma del Acta de Recepción 
+de la implantación inicial, sin posibilidad 
+• Lote 3 (Software de Gestión Integral de la OMIC): Duración ordinaria de CUATRO (4) 
+AÑOS,  a  contar  desde  la  firma  del  Acta  de  Recepción  de  la  implantación  inicial.  El 
+contrato podrá ser prorrogado expresamente por UN (1) AÑO ADICIONAL por acuerdo del 
+Órgano de Contratación antes de la finalización del plazo inicial (art. 29.2 LCSP), previa 
+notificación  formal  al  contratista  con  una  antelación  mínima  de  dos  (2)  meses, 
+alcanzando una duración máxima total acumulada de CINCO (5) AÑOS.
+• Lote 4 (Software de Control, Movilidad y Análisis de Datos de la Policía Local): Duración 
+ordinaria de CUATRO (4) AÑOS, a contar desde la firma del Acta de Recepción de la 
+implantación inicial, sin posibilidad de prórroga.
+6.2. Lugar de entrega, despliegue e integración de los servicios
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 17 de 26 
+
+--- página 18 ---
+Las actuaciones de despliegue, configuración, acceso a plataformas SaaS e integración 
+técnica de los servicios se coordinarán con la siguiente dependencia del Ayuntamiento de 
+Isla Cristina:
+• Departamento de Informática y Nuevas Tecnologías
+• Dirección: Avda. del Carnaval, 35 - 21410 Isla Cristina (Huelva).
+6.3. Examen, pruebas de conformidad y Acta de Recepción (Art. 310 LCSP)
+Tras el despliegue e implantación inicial de las soluciones en cualquiera de los cuatro 
+lotes, el Responsable del Contrato o el personal técnico del Área de Informática dispondrá 
+de un plazo máximo de DIEZ (10) DÍAS NATURALES para examinar los sistemas, verificar 
+la  migración  de  datos  y  realizar  las  pruebas  de  aceptación  y  conformidad  técnica 
+correspondientes. De conformidad con el artículo 310 de la LCSP:
+A) Si los servicios operan satisfactoriamente y cumplen la totalidad de los requerimientos 
+funcionales del Pliego de Prescripciones Técnicas, se procederá a la firma del Acta de 
+Recepción y Conformidad.
+b) En caso contrario, se rechazarán las prestaciones que presenten fallos de integración, 
+inconsistencias de datos, errores de código, rendimiento insuficiente o incumplimiento de 
+exigencias de ciberseguridad (ENS/RGPD), requiriendo a la contratista su subsanación 
+inmediata sin coste adicional para la Administración.
+6.4. Gastos incluidos y revisión de precios (Arts. 102 y 103 LCSP)
+Todos  los gastos  derivados del  licenciamiento,  alojamiento  Cloud/SaaS,  migración  de 
+datos,  soporte  técnico,  formación  del  personal,  infraestructura  tecnológica  y tributos 
+aplicables serán de cuenta y cargo exclusivo de la empresa adjudicataria. Los precios 
+adjudicados tendrán el carácter de precios finales cerrados, no procediendo en ningún 
+caso la revisión de precios durante toda la vigencia del contrato (art. 103 LCSP).
+7. DOCUMENTACIÓN A PRESENTAR Y REGLAS DE EXCLUSIÓN
+7.1. Documentación para la evaluación técnica y económica
+La relación detallada de artículos, cantidades y precios máximos unitarios por 
+lote se establece en el Anexo I del presente pliego. Para la válida evaluación de 
+las proposiciones,  las empresas  licitadoras  deberán  presentar  a través  de la 
+Plataforma  de  Contratación  del  Sector  Público  (PLCSP)  la  siguiente 
+documentación:
+a)  Proposición  Económica:  Cumplimentada  formalmente  conforme  al  modelo 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 18 de 26 
+
+--- página 19 ---
+oficial  recogido  en  el  Anexo  II  del  PCAP,  firmada  electrónicamente  por  el 
+representante legal.
+b) Ficha técnica y descriptiva del fabricante: Documentación técnica oficial de 
+cada producto ofertado, con indicación expresa de la marca, modelo exacto, 
+especificaciones técnicas detalladas y plazo de garantía aplicable.
+c) Certificados de calidad y marcado ambiental: Acreditación del marcado CE de 
+los equipos, así como de los certificados de cumplimiento de normas de gestión 
+de la calidad (UNE-EN ISO 9001 o equivalente) y gestión ambiental aplicables.
+7.2. Reglas de exclusión de proposiciones
+Serán causas directas de exclusión del procedimiento de licitación las siguientes 
+circunstancias:
+•  Incumplimiento  de  prescripciones  técnicas  mínimas:  Todos  los  artículos 
+ofertados  deberán  cumplir  o  mejorar  las  características  técnicas  mínimas 
+exigidas en su correspondiente lote en el Anexo I. El incumplimiento de cualquier 
+especificación técnica mínima fijada en el pliego supondrá la exclusión directa de 
+la oferta en ese lote.
+• Inadmisibilidad de ofertas parciales por lote: Las proposiciones deberán cubrir 
+obligatoriamente  la  totalidad  de  los  artículos,  unidades  y  prestaciones 
+informadas para el lote o lotes a los que se concurra. No se admitirán en ningún 
+caso ofertas parciales o subordinadas a la adjudicación de una fracción de los 
+bienes integrantes del lote.
+8.CRITERIOS DE ADJUDICACIÓN
+De  conformidad  con  lo  dispuesto  en  el  artículo  159.6  de  la  Ley  9/2017,  de  8  de 
+noviembre, de Contratos del Sector Público (LCSP), al tramitarse el presente expediente 
+por  el  procedimiento  abierto  simplificado  abreviado,  la  adjudicación  del  contrato  se 
+realizará atendiendo exclusivamente a criterios cuantificables mediante la aplicación de 
+fórmulas automáticas, hasta un máximo de 100 puntos, asignándose el contrato a la 
+proposición que obtenga la mayor puntuación total conforme al siguiente desglose:
+LOTE  2:  SOFTWARE  DE  ALMACENAMIENTO  Y  SEGURIDAD  Y 
+LOTE 4 SOFTWARE DE CONTROL, MOVILIDAD Y ANÁLISIS DE 
+DATOS DE LA POLICÍA MUNICIPAL
+A. Oferta económica (Puntuación máxima: 70 puntos)
+ Se valorará con la máxima puntuación (70 puntos) la oferta económica (Base Imponible) 
+más baja de las recibidas que cumpla íntegramente con los Pliegos. 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 19 de 26 
+
+--- página 20 ---
+Las demás ofertas se valorarán de forma proporcional conforme a la siguiente fórmula: 
+Oferta más baja (Base Imponible)
+Puntuación = 70 x ---------------------------------------------------------------------
+Oferta objeto de valoración (Base Imponible) 
+Notas y causas de exclusión: • Quedarán automáticamente EXCLUIDAS aquellas ofertas 
+que dejen algún artículo sin ofertar dentro del correspondiente Lote o que superen los 
+precios unitarios máximos o el Presupuesto Base de Licitación fijado para dicho Lote en el 
+Anexo I del PPT     
+ B) Mejora: Bolsa de horas de formación técnica adicional (Hasta 15,00 puntos)
+Se valorará la bolsa de horas de formación técnica adicional que las empresas licitadoras 
+ofrezcan impartir anualmente para cada Lote, sin coste añadido para el Ayuntamiento, 
+dirigida al personal municipal usuario o administrador de las aplicaciones.
+La  asignación  de  la  puntuación  a  cada  licitador  se  realizará  de  forma  directamente 
+proporcional  al  número  de  horas  ofertadas  en  el  Lote  correspondiente,  mediante  la 
+aplicación de la siguiente fórmula matemática: 
+Pmáx × OfP
+Puntos = -------------------------------------
+MOf
+Donde:
+• Puntos: Puntuación asignada a la oferta del licitador que se evalúa en el Lote (redondeo 
+a dos decimales). 
+• Pmáx: Puntuación máxima asignada al criterio (15,00 puntos). 
+• OfP: Número de horas de formación anuales adicionales ofertadas por la empresa 
+licitadora objeto de valoración para ese Lote. 
+• MOf: Mayor número de horas de formación anuales adicionales ofertadas entre todas 
+las empresas licitadoras admitidas en ese Lote, fijándose un LÍMITE MÁXIMO VALORABLE 
+DE HORAS ANUALES.
+Reglas de aplicación y condiciones de la mejora:
+1. Límite máximo y proporcionalidad: Se establece un tope máximo valorable de 40 horas 
+anuales de formación adicional por Lote. Las ofertas que igualen o superen dicho límite 
+recibirán la puntuación máxima (15,00 puntos), no computándose el exceso a efectos de 
+la fórmula.
+2.  Puntuación  mínima:  La no oferta de  horas  de  formación  adicionales (0  horas)  se 
+valorará con 0,00 puntos. 
+3. Contenido e impartición: Las horas de formación ofertadas deberán ser impartidas por 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 20 de 26 
+
+--- página 21 ---
+personal técnico cualificado del adjudicatario, coordinándose las fechas, contenidos y 
+modalidades (presencial  o teleformación)  de  común  acuerdo  con  el Responsable  del 
+Contrato. 
+4.  Gratuidad  e  inalterabilidad:  Las  horas  ofertadas  como  mejora  tendrán  carácter 
+totalmente  gratuito  para  la  Administración,  no  pudiendo  facturarse  ni  repercutirse 
+importe alguno por este concepto.
+C) Mejora: Bolsa de horas de asistencia técnica y soporte especializado (Hasta 
+15,00 puntos)
+Se  valorará  la  bolsa  de  horas  de  asistencia  técnica,  consultoría  especializada, 
+parametrización avanzada  y soporte  técnico (presencial  o remoto) que las empresas 
+licitadoras  ofrezcan  añadir  anualmente  para  cada  Lote,  sin  coste  adicional  para  el 
+Ayuntamiento,  sobre  el  mínimo  obligatorio  exigido  en  el  Pliego  de  Prescripciones 
+Técnicas.
+La asignación de la puntuación a cada licitador se efectuará de forma directamente 
+proporcional  al número de horas adicionales ofertadas para el Lote correspondiente, 
+mediante la aplicación de la siguiente fórmula matemática:
+Pmáx × OfP
+Puntos = -------------------------------------
+MOf
+Donde:
+• Puntos: Puntuación asignada a la oferta del licitador que se evalúa en el Lote (con 
+redondeo a dos decimales).
+• Pmáx: Puntuación máxima asignada al criterio (15,00 puntos).
+•  OfP:  Número  de  horas  de  asistencia  técnica  anuales  adicionales  ofertadas  por  la 
+empresa licitadora objeto de valoración en ese Lote.
+• MOf: Mayor número de horas de asistencia técnica anuales adicionales ofertadas entre 
+todas  las  empresas  licitadoras  admitidas  en  ese  Lote,  fijándose  un  LÍMITE  MÁXIMO 
+VALORABLE DE HORAS ANUALES.
+Reglas de aplicación y condiciones de la mejora:
+1. Límite máximo valorable: Se establece un tope máximo valorable de 50 horas anuales 
+de asistencia técnica adicional por Lote. Las ofertas que igualen o superen dicho límite 
+recibirán la puntuación máxima (15,00 puntos), no computándose el exceso a efectos de 
+la fórmula.
+2. Puntuación mínima: La no oferta de horas de asistencia técnica adicionales (0 horas) 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 21 de 26 
+
+--- página 22 ---
+se valorará con 0,00 puntos.
+3. Ámbito de las horas ofertadas: Las horas de asistencia técnica podrán ser consumidas 
+a requerimiento del Responsable del Contrato para trabajos de soporte especializado, 
+parametrización de nuevos módulos, adaptación a cambios normativos o del Esquema 
+Nacional de Seguridad (ENS), resolución de incidencias complejas e integración con otros 
+sistemas municipales.
+4.  Carácter  gratuito  y  bolsa  no  acumulable:  Las  horas  ofertadas  tendrán  carácter 
+totalmente gratuito para la Administración. Las horas ofertadas para una anualidad que 
+no sean consumidas dentro de dicho ejercicio no generarán derecho a compensación 
+económica alguna a favor de la contratista.
+5. Partes de trabajo y control: La ejecución de las horas requerirá la emisión previa de un 
+parte  de  trabajo  o  solicitud  formal  por  el  Departamento  de  Informática  y  Nuevas 
+Tecnologías, donde se detallará el objeto del trabajo y la estimación de horas a deducir 
+de la bolsa.
+LOTE 1:   SOFTWARE DE GESTIÓN Y   LOTE 3:   SOFTWARE DE GESTIÓN   
+OMIC
+A. Oferta económica (Puntuación máxima: 70 puntos)
+ Se valorará con la máxima puntuación (70 puntos) la oferta económica (Base Imponible) 
+más baja de las recibidas que cumpla íntegramente con los Pliegos. 
+Las demás ofertas se valorarán de forma proporcional conforme a la siguiente fórmula: 
+Oferta más baja (Base Imponible)
+Puntuación = 70 x ---------------------------------------------------------------------
+Oferta objeto de valoración (Base Imponible) 
+Notas y causas de exclusión: • Quedarán automáticamente EXCLUIDAS aquellas ofertas 
+que dejen algún artículo sin ofertar dentro del correspondiente Lote o que superen los 
+precios unitarios máximos o el Presupuesto Base de Licitación fijado para dicho Lote en el 
+Anexo I del PPT
+B). Horas de formación anuales (hasta un máximo de 15 puntos)
+Se valorará la bolsa de horas de formación técnica adicional que las empresas licitadoras 
+ofrezcan impartir anualmente para cada Lote, sin coste añadido para el Ayuntamiento, 
+dirigida al personal municipal usuario o administrador de las aplicaciones.
+La  asignación  de  la  puntuación  a  cada  licitador  se  realizará  de  forma  directamente 
+proporcional  al  número  de  horas  ofertadas  en  el  Lote  correspondiente,  mediante  la 
+aplicación de la siguiente fórmula matemática: 
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 22 de 26 
+
+--- página 23 ---
+Pmáx × OfP
+Puntos = -------------------------------------
+MOf
+Donde:
+• Puntos: Puntuación asignada a la oferta del licitador que se evalúa en el Lote (redondeo 
+a dos decimales). 
+• Pmáx: Puntuación máxima asignada al criterio (15,00 puntos). 
+• OfP: Número de horas de formación anuales adicionales ofertadas por la empresa 
+licitadora objeto de valoración para ese Lote. 
+• MOf: Mayor número de horas de formación anuales adicionales ofertadas entre todas 
+las empresas licitadoras admitidas en ese Lote, fijándose un LÍMITE MÁXIMO VALORABLE 
+DE [40] HORAS ANUALES.
+Reglas de aplicación y condiciones de la mejora:
+1. Límite máximo y proporcionalidad: Se establece un tope máximo valorable de [40] 
+horas anuales de formación adicional por Lote. Las ofertas que igualen o superen dicho 
+límite recibirán la puntuación máxima (15,00 puntos),  no computándose el exceso a 
+efectos de la fórmula.
+2.  Puntuación  mínima:  La no oferta de  horas  de  formación  adicionales (0  horas)  se 
+valorará con 0,00 puntos. 
+3. Contenido e impartición: Las horas de formación ofertadas deberán ser impartidas por 
+personal técnico cualificado del adjudicatario, coordinándose las fechas, contenidos y 
+modalidades (presencial  o teleformación)  de  común  acuerdo  con  el Responsable  del 
+Contrato. 
+4.  Gratuidad  e  inalterabilidad:  Las  horas  ofertadas  como  mejora  tendrán  carácter 
+totalmente  gratuito  para  la  Administración,  no  pudiendo  facturarse  ni  repercutirse 
+importe alguno por este concepto.
+ C) Reducción del plazo de implantación inicial (Hasta 15,00 puntos)
+Se valorará la reducción en el plazo máximo de implantación, parametrización inicial y 
+puesta en servicio operativo del software sobre el plazo de diez (10) días naturales 
+exigido  como  mínimo  obligatorio  en  el  Pliego  de  Prescripciones  Técnicas,  sin  coste 
+adicional para el Ayuntamiento.
+La asignación de la puntuación a cada licitador se efectuará de forma directamente 
+proporcional  al  número  de  días  naturales  de  reducción  ofertados  para  el  Lote 
+correspondiente, mediante la aplicación de la siguiente fórmula matemática:
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 23 de 26 
+
+--- página 24 ---
+Pmáx × OfP
+Puntos = -------------------------------------
+MOf
+Donde:
+• Puntos: Puntuación asignada a la oferta del licitador que se evalúa en el Lote (redondeo 
+a dos decimales).
+• Pmáx: Puntuación máxima asignada al criterio (15,00 puntos).
+• OfP: Número de días naturales de reducción del plazo de implantación ofertados por la 
+empresa licitadora objeto de valoración.
+• MOf: Mayor número de días naturales de reducción del plazo ofertados entre todas las 
+empresas licitadoras admitidas en ese Lote.
+Reglas de aplicación y condiciones de la mejora:
+1.  Puntuación  mínima:  La  no  oferta  de  reducción  de  plazo  (0  días  de  antelación, 
+manteniendo el plazo base de 10 días naturales) se valorará con 0,00 puntos.
+2. Límite máximo de reducción valorable: A efectos de garantizar la viabilidad técnica de 
+la  parametrización,  migración  de  datos,  pruebas  de  integración  y  ciberseguridad 
+(ENS/RGPD), se fija un LÍMITE MÁXIMO VALORABLE DE REDUCCIÓN DE CINCO (5) DÍAS 
+NATURALES (garantizando un plazo mínimo real de ejecución de 5 días). Las ofertas que 
+propongan reducciones de 5 o más días recibirán la puntuación máxima (15,00 puntos), 
+no computándose el exceso a efectos de la fórmula.
+3. Carácter vinculante y penalizaciones: El plazo reducido de implantación que resulte 
+ofertado  por  la  empresa  adjudicataria  se  incorporará  al  contrato  con  carácter  de 
+obligación contractual vinculante, siendo su incumplimiento computable a efectos del 
+régimen de penalizaciones por demora (art. 192 LCSP).
+Criterios de desempate: En caso de empate en la puntuación final entre dos o más 
+ofertas, el desempate se resolverá aplicando las preferencias sociales contempladas en el 
+artículo 147.2 de la LCSP o, en su defecto, a favor de la proposición que haya obtenido la 
+mayor puntuación en la oferta económica (Criterio A).
+ANEXO I
+PRECIOS UNITARIOS    CONTRATACIÓN  DEL SERVICIO    DE PAQUETES DE   
+SOFTWARE  PARA  DIFERENTES  DEPARTAMENTOS           DEL   
+AYUNTAMIENTO         DE         ISLA         CRISTINA  
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 24 de 26 
+
+--- página 25 ---
+LOTE 1: SOFTWARE DE GESTIÓN PARA PROTECCIÓN CIVIL
+CTDA
+D. CONCEPTO
+IMPORTE 
+UNITARIO 
+SIN IVA
+IVA 21 % IMPORTE TOTAL
+1 SOFTWARE DE GESTIÓN PARA PROTECCIÓN CIVIL 7.050,00€ 1.480,5 0€ 8.530,50€
+TOTAL, PRESUPUESTO SIN IVA 7.050,00€
+TOTAL, IVA (21 %) 1.480,50€
+TOTAL, PRESUPUESTO CON IVA 8.530,50€
+LOTE 2: Software de Almacenamiento y seguridad
+CTDA
+D. CONCEPTO
+IMPORTE 
+UNITARIO 
+SIN IVA
+IVA 21 
+%
+IMPORTE 
+TOTAL
+1
+Software de 
+Almacenamiento y 
+seguridad
+2.850,00 € 598,50 € 3.448,50 €
+ TOTAL, PRESUPUESTO SIN IVA 2.850,00 €
+TOTAL, IVA (21 %) 598,50 €
+ TOTAL, PRESUPUESTO CON IVA 3.448,50 €
+LOTE 3: Software de gestión OMIC
+CTDA
+D. CONCEPTO
+IMPORTE 
+UNITARI
+O SIN 
+IVA
+IVA 21 % IMPORTE TOTAL
+1 Software de gestión OMIC 11.250,00 € 2.362,50 € 13.612,50 €
+ TOTAL, PRESUPUESTO SIN IVA 11.250,00 €
+ TOTAL, IVA (21 %) 2.362,50 €
+ TOTAL, PRESUPUESTO CON IVA 13.612,50 €
+LOTE 4: Software de Control, Movilidad y Análisis de datos de 
+la Policía Municipal
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 25 de 26 
+
+--- página 26 ---
+CTDA
+D. CONCEPTO
+IMPORTE 
+UNITARI
+O SIN 
+IVA
+IVA 21 % IMPORTE TOTAL
+1
+Software  de  Control, 
+Movilidad  y  Análisis  de 
+datos  de  la  Policía 
+Municipal
+2.600,00 
+€ 546,00 € 3.146,00 €
+  TOTAL, PRESUPUESTO SIN IVA 2.600,00 €
+  TOTAL, IVA (21 %) 546,00 €
+  TOTAL, PRESUPUESTO CON IVA 3.146,00 €
+Isla Cristina, a fecha y firma electrónica.
+ayuntamiento@islacristina.org     islacristina.org      T. 959 331 912 / F: 
+959 330 199
+Excmo. Ayuntamiento de Isla Cristina.       C/ Gran Vía 43, 21410    Isla Cristina (Huelva)       CIF: P-2104200-G
+Cód. Validación: 7WTQ94SGPQXNZDHZK2QKLY6XH 
+Verificación: https://islacristina.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 26 de 26 

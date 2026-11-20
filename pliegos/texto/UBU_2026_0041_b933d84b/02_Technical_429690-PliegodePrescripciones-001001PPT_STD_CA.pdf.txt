@@ -1,0 +1,726 @@
+
+
+--- página 1 ---
+Página 1 de 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA LA CONTRATATACIÓN DE 
+SERVICIOS DE SOPORTE Y MANTENIMIENTO DEL SISTEMA DE SINGLE-
+SIGN-ON DE LA UNIVERSIDAD DE BURGOS (SSO-UBU)  
+ 
+ 
+ 
+ 
+1. OBJETO .......................................................................................................................2 
+2. DIRECTRICES GENERALES ....................................................................................2 
+3. CONDICIONES DEL SERVICIO DE SOPORTE Y MANTENIMIENTO ................5 
+3.1. ALCANCE ............................................................................................................5 
+3.2 MANTENIMIENTO CORRECTIVO ...................................................................6 
+3.3 MANTENIMIENTO EVOLUTIVO Y SOPORTE AL PERSONAL DEL SIC ...7 
+3.4 MONITORIZACIÓN Y MANTENIMIENTO PREVENTIVO ............................7 
+4. ACUERDOS E INDICADORES DE NIVEL DE SERVICIO .....................................8 
+4.1 HORARIOS DE ATENCIÓN ...............................................................................8 
+4.2 TIEMPOS DE RESPUESTA Y RESOLUCIÓN ..................................................8 
+4.3 DISPONIBILIDAD DEL SISTEMA ....................................................................9 
+4.4 RENDIMIENTO ...................................................................................................9 
+4.5 INDICADORES Y ACUERDOS DE NIVEL DE SERVICIO ...........................10 
+5. DOCUMENTACIÓN .................................................................................................10 
+6. RESPONSABILIDAD EN DECISIONES TÉCNICAS .............................................11 
+7. PLANIFICACIÓN, DIRECCIÓN Y SEGUIMIENTO DEL CONTRATO ...............11 
+8. PROTECCIÓN DE DATOS .......................................................................................12 
+9. PROPIEDAD INTELECTUAL Y CONFIDENCIALIDAD ......................................12 
+ 
+ 
+ 
+ 
+ 
+ 
+Firmado por: ZULEMA FURONES
+Fecha: 28-10-2026 15:33:19
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubre. Su autenticidad puede ser comprobada en la
+direcciónhttp://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do
+Página: 1 de 13
+Código de verificación  : 89a7f7d0ed4081a1
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+http://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=89a7f7d0ed4081a1
+
+--- página 2 ---
+Página 2 de 13 
+ 
+ 
+ 
+1. OBJETO 
+El Sistema de autenticación única (Single -Sign-On) de la Universidad de Burgos, en 
+adelante SSO -UBU, está basado en SimpleSAMLphp, aplicación de código abierto 
+escrita en PHP que implementa protocolos de autenticación federada, principalmente: 
+• SAML 2.0 
+• OpenID Connect (mediante módulos) 
+• OAuth 2.0 (mediante extensiones)  
+Está instalado en servidores ubicados en la Universidad de Burgos ( on-premises), 
+integrado con el LDAP corporativo y se dispone de dos entornos uno de preproducción 
+y otro de producción. 
+Tiene las siguientes funcionalidades: 
+• Cumplimiento del ENS en el acceso a los sistemas de información de la UBU 
+• Implantación de autenticación multifactor-MFA (email, SMS, TOTP, etc.) 
+• Integración con Cl@ve. 
+• Integración OIDC para aplicaciones UXXI 
+• Control de accesos fallidos con bloqueo y notificaciones. 
+• Trazabilidad completa mediante logs e informes periódicos. 
+Los usuarios potenciales son aproximadamente 11.550 que incluye n a los miembros de 
+la comunidad universitaria (estudiantes y trabajadores ) así como empresas externas y 
+usuarios invitados. E n la actualidad hay aproximadamente 8 aplicaciones integradas , 
+estando prevista la incorporación de 2- 4 aplicaciones anuales y se gestiona un volumen 
+aproximado de 240.000 peticiones mensuales. 
+Más información: 
+https://www.ubu.es/servicio-de-informatica-y-comunicaciones/catalogo-de-
+servicios/sistema-de-single-sign-sso 
+Este pliego técnico tiene como objetivo establecer las condiciones y requisitos 
+necesarios para la contratación de los servicios de soporte y mantenimiento del sistema 
+SSO-UBU. 
+ 
+ 
+2. DIRECTRICES GENERALES 
+Se indican a continuación las directrices que deben seguirse en la ejecución del 
+proyecto. Cualquier nuevo desarrollo o modificación deberá tener muy en cuenta estas 
+pautas. 
+Firmado por: ZULEMA FURONES
+Fecha: 28-10-2026 15:33:19
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubre. Su autenticidad puede ser comprobada en la
+direcciónhttp://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do
+Página: 2 de 13
+Código de verificación  : 89a7f7d0ed4081a1
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+http://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=89a7f7d0ed4081a1
+
+--- página 3 ---
+Página 3 de 13 
+ 
+ 
+ 
+ Estructura, diseño y navegación 
+Se adoptará un criterio homogéneo de imagen y diseño, que permita identificar 
+claramente a la Universidad de Burgos.  
+En el diseño y la estructura del sistema deben primar la funcionalidad y la 
+navegabilidad, facilitando el acceso a los contenidos.  
+ 
+ Accesibilidad 
+El Real Decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web 
+y aplicaciones para dispositivos móviles del sector público, establece en su artículo 
+17, las condiciones de revisión de la accesibilidad: 
+1. Las entidades obligadas por el presente real decreto realizarán revisiones del 
+cumplimiento de los requisitos de accesibilidad establecidos tanto en la fase de diseño 
+de los sitios web y aplicaciones para dispositivos móviles como antes de su puesta en 
+funcionamiento. 
+2. Una vez puesto en funcionamiento un sitio web o aplicación para dispositivos 
+móviles, las entidades obligadas realizarán revisiones periódicas del cumplimiento de 
+los requisitos de accesibilidad con el fin de garantizar el mantenimiento de su 
+cumplimiento a lo largo del tiempo. Especialmente, se deberá tener en cuenta el caso de 
+los contenidos añadidos o modificados durante el ciclo de vida de los sitios web, así 
+como las actualizaciones tecnológicas de estos últimos y de las aplicaciones para 
+dispositivos móviles. 
+El adjudicatario deberá asegurar que el sistema cumpla los requisitos de 
+accesibilidad establecidos en el Real Decreto 1112/2018 y en la norma EN 301 549 
+vigente, alcanzando al menos el nivel AA de las Pautas de Accesibilidad para el 
+Contenido Web (WCAG 2.2). 
+La Universidad de Burgos podrá realizar auditorías sobre los trabajos realizados en 
+función del estándar especificado, para la aceptación de los mismos . Será de obligado 
+cumplimiento para el adjudicatario asegurar el nivel mínimo exigido y solventar las 
+incidencias asociadas a la auditoría. 
+En caso de que los temas gráficos utilizados, tengan algún tipo de limitación para 
+alcanzar el nivel de accesibilidad exigido, el adjudicatario deberá realizar o adaptar las 
+mejoras necesarias sobre los mismos. 
+ 
+ Usabilidad y Movilidad 
+En el diseño de la imagen y la estructura del sistema se tendrán en cuenta la legibilidad, 
+el seguimiento de las acciones de los usuarios, la navegación intuitiva, una interfaz 
+visible y la reducción del tiempo de latencia. 
+Firmado por: ZULEMA FURONES
+Fecha: 28-10-2026 15:33:19
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubre. Su autenticidad puede ser comprobada en la
+direcciónhttp://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do
+Página: 3 de 13
+Código de verificación  : 89a7f7d0ed4081a1
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+http://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=89a7f7d0ed4081a1
+
+--- página 4 ---
+Página 4 de 13 
+ 
+ 
+Se tendrá en cuenta el cumplimiento del estándar internacional UNE -EN ISO 9241-
+151:2008 Ergonomía de la interacción persona -sistema. Directrices para las interfaces 
+de usuario Web y la norma UNE -EN ISO 9241- 11:2018 Ergonomía de la interacción 
+hombre-sistema. Parte 11: Usabilidad. Definiciones y conceptos. 
+La Universidad de Burgos podrá realizar auditorías sobre los trabajos realizados en 
+función del estándar especificado. Será de obligado cumplimiento para el adjudicatario 
+asegurar el nivel mínimo exigido y solventar las incidencias asociadas a la auditoría. 
+El sistema deberá ser accesible y funcionar correctamente en las versiones vigentes y 
+oficialmente soportadas de los principales navegadores web de escritorio, incluyendo 
+Microsoft Edge, Google Chrome, Mozilla Firefox y Apple Safari, sobre los sistemas 
+operativos Windows, macOS y Linux. 
+Asimismo, deberá garantizar su correcta visualización y funcionamiento en los 
+navegadores web de los principales dispositivos móviles y tabletas con sistemas 
+operativos iOS y Android.  
+La solución no requerirá la instalación de complementos, extensiones, controles o 
+plugins propietarios ni de software adicional sujeto a licencias de pago para el acceso a 
+las funcionalidades habituales del sistema por parte de los usuarios. 
+El portal web deberá desarrollarse utilizando estándares abiertos y tecnologías web 
+ampliamente soportadas por los navegadores actuales, tales como HTML5, CSS3 y 
+JavaScript estándar, garantizando la interoperabilidad, la mantenibilidad y la 
+compatibilidad con las versiones soportadas de los navegadores indicados. 
+ 
+ Seguridad de la información 
+La configuración del SSO -UBU deberá cumplir las medidas especificadas por el 
+Esquema Nacional de Seguridad para un sistema de categoría media. 
+El personal asignado por la empresa adjudicataria deberá conocer y respetar la 
+normativa de seguridad de información de la UBU: 
+http://www.ubu.es/normativa/administracion-y-gestion-general-de-la-
+universidad/seguridad-de-la-informacion 
+así como los procedimientos establecidos por la Universidad que sean de aplicación en 
+el ámbito del contrato. 
+Será de obligado cumplimiento para el adjudicatario colaborar con el Servicio de 
+informática y Comunicaciones y aplicar la solución a las vulnerabilidades e incidencias 
+de seguridad que vayan surgiendo y solventar las vulnerabilidades detectadas en las 
+auditorías. 
+El equipo técnico de la UBU o empresas de auditoría contratadas por la Universidad, 
+podrán realizar durante la ejecución del contrato auditorías de hacking ético. El 
+Firmado por: ZULEMA FURONES
+Fecha: 28-10-2026 15:33:19
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubre. Su autenticidad puede ser comprobada en la
+direcciónhttp://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do
+Página: 4 de 13
+Código de verificación  : 89a7f7d0ed4081a1
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+http://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=89a7f7d0ed4081a1
+
+--- página 5 ---
+Página 5 de 13 
+ 
+ 
+adjudicatario deberá aplicar las correcciones necesarias en los desarrollos y en el 
+sistema para solventar las vulnerabilidades detectadas en las auditorías.  
+Se incluye en el alcance del contrato la aplicación de parches del software de base 
+requerido y de la capa de aplicación. Asimismo, el adjudicatario colaborará con el 
+Servicio de informática y Comunicaciones para aplicar la solución a las 
+vulnerabilidades e incidencias de seguridad que vayan surgiendo. 
+El acceso al sistema se realizará mediante protocolos seguros y se deberán especificar 
+los procedimientos de mantenimiento para proteger el sistema en su conjunto (seguridad 
+en el software empleado, procedimientos de seguridad en el desarrollo de software, …). 
+La empresa adjudicataria deberá realizar pruebas de regresión antes de la introducción 
+de cambios o nuevas funcionalidades. 
+Para la prevención de actualizaciones fallidas, la empresa adjudicataria se asegurará 
+previamente mediante comunicación escrita a los técnicos de la universidad, de la 
+existencia de copias de seguridad convenientemente actualizadas o tomará medidas 
+adicionales como la creación de ficheros o tablas de respaldo para almacenar la 
+información a modificar, con el fin de poder restaurarla en caso de fallo. 
+La inspección y el análisis de los logs del SSO -UBU será realizada por la empresa 
+adjudicataria. El tiempo mínimo de retención de los logs será de 6 meses. 
+ 
+3. CONDICIONES DEL SERVICIO DE SOPORTE Y MANTENIMIENTO 
+ 
+La empresa adjudicataria deberá garantizar el correcto funcionamiento del sistema 
+objeto del contrato, poniendo los medios necesarios para la resolución de los problemas, 
+errores y fallos de funcionamiento, que le comuniquen los interlocutores designados por 
+la Universidad de Burgos. 
+ 
+ 
+3.1. ALCANCE 
+Dentro del alcance de este contrato se incluirán todas las actuaciones y el soporte 
+necesario para que el SSO-UBU, se mantenga en funcionamiento, tanto en la operativa 
+diaria, como en la incorporación de nuevas funcionalidades y/o cambios en la 
+configuración, así como en las sucesivas actualizaciones del software. 
+ 
+Con carácter general, la Universidad de Burgos dispondrá de soporte con los servicios 
+siguientes, en idioma castellano: 
+ 
+a) Soporte ante incidencias, corrección de errores y problemas de funcionamiento de 
+los sistemas objeto del contrato (paradas, indisponibilidad total/parcial del servicio, 
+pérdidas de rendimiento, etc.), detectados por la empresa o comunicados por los 
+responsables de la Universidad de Burgos. 
+Firmado por: ZULEMA FURONES
+Fecha: 28-10-2026 15:33:19
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubre. Su autenticidad puede ser comprobada en la
+direcciónhttp://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do
+Página: 5 de 13
+Código de verificación  : 89a7f7d0ed4081a1
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+http://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=89a7f7d0ed4081a1
+
+--- página 6 ---
+Página 6 de 13 
+ 
+ 
+b) Incorporación de mejoras y nuevas funcionalidades , m odificaciones del software, 
+configuración y ajustes. 
+c) Consultoría y asesoramiento al equipo de la UBU responsable del SSO.  
+d) Actuaciones preventivas sobre los sistemas: 
+o Aplicación de parches y nuevas versiones del software  sobre los dos entornos 
+(sistema operativo, SGBD, servidor web, etc.) . Todas las versiones y 
+actualizaciones del software estarán incluidas en el alcance del contrato. 
+o Revisión de logs y espacio de almacenamiento disponible. 
+o Reconfiguraciones necesarias. 
+o Instalación de certificados. 
+o Limpieza de ficheros temporales y de traza. 
+e) Monitorización remota de l servicio  incluyendo los dos entornos (producción y 
+preproducción). 
+f) Seguimiento y supervisión de los parámetros de disponibilidad y rendimiento. 
+g) Generación de informes de seguimiento del contrato y elaboración de actas de las 
+reuniones. 
+ 
+ 
+ 
+3.2 MANTENIMIENTO CORRECTIVO 
+ 
+La empresa adjudicataria dispondrá de una herramienta web disponible  en 24*7 para 
+el registro, seguimiento y control de las incidencias , peticiones, consultas e 
+intervenciones realizadas y su situación. Adicionalmente la comunicación de incidencias 
+y solicitudes por parte de la Universidad de Burgos podrá ser realizada a través de correo 
+electrónico o vía telefónica, debiendo quedar registradas en el portal web. 
+ 
+El licitador deberá presentar claramente en su oferta los mecanismos para la 
+comunicación de las incidencias, el horario laboral efectivo de prestación del servicio, los 
+tiempos de respuesta y resolución, así como los recursos técnicos y humanos de que 
+dispone. 
+La Universidad facilitará un acceso remoto individual a cada una de las personas del 
+equipo de soporte de la empresa adjudicataria,  a efectos  de que pueda realizar el 
+diagnóstico y la solución de incidencias, el seguimiento y supervisión de los parámetros 
+de rendimiento y disponibilidad, y las modificaciones del software, configuración, 
+consultas, ajustes, y en general, para  cualquier tarea indispensable para el cumplimiento 
+de las cláusulas previstas en este pliego. 
+ 
+Durante la ejecución de los trabajos, el adjudicatario se compromete a facilitar en todo 
+momento, la información y la documentación que dicho personal solicite para disponer 
+de un pleno conocimiento de las circunstancias en que estos se desarrollan, así como de 
+los eventuales problemas que puedan plantearse y de las tecnologías, métodos y 
+herramientas utilizados para resolverlos. 
+ 
+Todas las actuaciones planificadas que requieran de una parada del servicio a los 
+usuarios y que por su duración así se puedan planificar, se realizarán en el horario 
+acordado previamente con la Universidad. 
+ 
+Firmado por: ZULEMA FURONES
+Fecha: 28-10-2026 15:33:19
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubre. Su autenticidad puede ser comprobada en la
+direcciónhttp://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do
+Página: 6 de 13
+Código de verificación  : 89a7f7d0ed4081a1
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+http://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=89a7f7d0ed4081a1
+
+--- página 7 ---
+Página 7 de 13 
+ 
+ 
+ 
+3.3 MANTENIMIENTO EVOLUTIVO Y SOPORTE AL PERSONAL DEL SIC 
+ 
+La UBU deberá poder contar siempre con soporte especializado por parte de la empresa 
+adjudicataria, por lo que ésta deberá asignar un técnico cualificado principal y otro 
+de respaldo, con experiencia en las tecnologías objeto del contrato  (SSO, 
+SimpleSamlphp, LDAP , etc.), para resolver incidencias, problemas, incorporar 
+mejoras y asesorar al personal del S ervicio de I nformática y C omunicaciones (SIC) de 
+la UBU sobre el funcionamiento y configuración del sistema objeto del contrato.  
+ 
+Dentro del alcance de este servicio s e ofertará una bolsa de 200 horas anuales  que 
+incluirá la incorporación de mejoras o nuevas funcionalidades en los entornos de 
+desarrollo y producción, la instalación y configuración, a petición de la Universidad, de 
+parches o nuevas versiones de los programas asociados a l servicio  y actuaciones de 
+consultoría y asesoría. 
+ 
+La cuantificación en horas, el plazo de desarrollo, así como la fecha límite de entrega de 
+las solicitudes, serán convenidos entre la empresa adjudicataria y la Universidad. 
+ 
+La Universidad deberá poder consultar en todo momento el estado de la bolsa de 
+horas, sin perjuicio de los informes mensuales requeridos en el apartado 5. 
+ 
+Dentro del mantenimiento evolutivo se incluirán las actualizaciones que por motivo de 
+cambios tecnológicos deban realizarse para garantizar que la aplicación no se quede 
+obsoleta. Consisten en la actualización de la tecnología de la aplicación en relación con 
+los elementos básicos que la soportan, operando en el sistema los cambios que devengan 
+de las innovaciones en el motor de la base de datos, en el lenguaje de programación, en 
+las herramientas de desarrollo complementarias, en el sistema operativo, en el software 
+de virtualización y en la última versión estable de los componentes elegidos en la 
+arquitectura. Incluye, por tanto, el despliegue de nuevas versiones de los componentes 
+(excepto aquellas que sean imprescindibles para el funcionamiento del sistema que no 
+se imputarán a la bolsa de horas). 
+ 
+ 
+ 
+3.4 MONITORIZACIÓN Y MANTENIMIENTO PREVENTIVO 
+ 
+Entre las acciones de mantenimiento preventivo se incluye la monitorización remota del 
+sistema en 24x7 en colaboración con el Área de Sistemas del SIC y la configuración de 
+alertas de malfuncionamiento que permitan la detección automática de problemas y 
+reducir los fallos de disponibilidad del servicio. 
+ 
+El SSO-UBU estará monitorizado de forma continua, al menos de dos maneras: 
+• Monitorización “end-to-end” o experiencia de usuario: verificando el correcto 
+funcionamiento del sistema. 
+• Monitorización de los componentes hardware de la infraestructura. 
+ 
+Se configurará un sistema de monitorización que envíe alertas en caso de fallos en el 
+Firmado por: ZULEMA FURONES
+Fecha: 28-10-2026 15:33:19
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubre. Su autenticidad puede ser comprobada en la
+direcciónhttp://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do
+Página: 7 de 13
+Código de verificación  : 89a7f7d0ed4081a1
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+http://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=89a7f7d0ed4081a1
+
+--- página 8 ---
+Página 8 de 13 
+ 
+ 
+sistema. Las alertas se enviarán a las cuentas de correo de la UBU especificadas.  
+Cuando se reciban alertas detectadas por los mecanismos de monitorización, se deberán 
+crear los registros de incidencias oportunas para su resolución lo antes posible, según 
+los términos de soporte descritos. 
+ 
+Durante el proceso de diagnóstico y resolución de problemas, la Universidad de Burgos 
+colaborará con la empresa adjudicataria: 
+ 
+ Facilitando toda la información necesaria para que la empresa preste el soporte 
+remoto, puntual y profesionalmente. 
+ 
+ Realizando las actividades razonables para ayudar a identificar o resolver el 
+problema. 
+ 
+Dentro del mantenimiento preventivo también se incluirá por parte del adjudicatario la 
+subsanación de las vulnerabilidades de seguridad detectadas en los componentes de la 
+solución ofertada, la actualización de versiones del software requeridas por motivos de 
+seguridad, así como la aplicación de parches que no se imputarán a la bolsa de horas.  
+ 
+ 
+4. ACUERDOS E INDICADORES DE NIVEL DE SERVICIO 
+ 
+4.1 HORARIOS DE ATENCIÓN 
+El servicio de comunicación de incidencias online tendrá una cobertura 24x7 : es 
+decir el servicio estará disponible las 24 horas del día, de lunes a domingo, incluidos los 
+días festivos. 
+ 
+El horario habitual de prestación del servicio de soporte y mantenimiento será de al 
+menos 8 horas diarias, de lunes a viernes, cubriendo necesariamente la franja 
+horaria de 9 a 15h. Este soporte se prestará de forma remota. 
+ 
+Para la rápida resolución de las incidencias críticas , la empresa deberá aportar un 
+teléfono de atención telefónica específico fuera del horario laboral  habitual 
+coincidente con el horario establecido para la especial dedicación del personal del SIC: 
+ 
+ 
+o tardes de 16:00 a 20:00, 
+o fines de semana de 11:00 a 14:00 y de 17:00 a 19:00. 
+Se podrá comunicar un número de incidencias ilimitado dentro de la duración del 
+contrato. 
+ 
+4.2 TIEMPOS DE RESPUESTA Y RESOLUCIÓN 
+ 
+Se define el tiempo de respuesta como las horas que transcurren desde la comunicación 
+Firmado por: ZULEMA FURONES
+Fecha: 28-10-2026 15:33:19
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubre. Su autenticidad puede ser comprobada en la
+direcciónhttp://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do
+Página: 8 de 13
+Código de verificación  : 89a7f7d0ed4081a1
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+http://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=89a7f7d0ed4081a1
+
+--- página 9 ---
+Página 9 de 13 
+ 
+ 
+de una incidencia por parte de la universidad hasta que se inicia la intervención por parte 
+del técnico asignado por la empresa adjudicataria. 
+ 
+Se define el tiempo de resolución como las horas que transcurren desde que se notifica 
+una incidencia por parte de la universidad, hasta que se repone el funcionamiento normal 
+del sistema, aunque sea con una solución provisional 
+El SSO-UBU se considera un sistema de alta criticidad ya que cualquier fallo podría 
+afectar al acceso a otros sistemas/aplicaciones. Los tiempos de respuesta y resolución de 
+incidencias y peticiones, dependerán de su prioridad, según los criterios que se indican a 
+continuación: 
+• Prioridad 1 (Crítica): El servicio está fuera de servicio o degradado de forma 
+que impide la realización del trabajo afectando al acceso a los servicios de la 
+universidad. También se consideran críticos los incidentes de seguridad que 
+comprometan la disponibilidad, integridad o confidencialidad de los sistemas o 
+datos. El tiempo de respuesta máximo deberá ser de  2 horas y el de resolución 
+de 6 horas (como máximo), a partir de la comunicación de la incidencia. 
+ 
+• Prioridad 2 (Urgente): El sistema no funciona a pleno rendimiento, pero sigue 
+siendo operativo. El tiempo de respuesta máximo deberá ser de 2 horas 
+laborables y el de resolución de 6 horas laborables (como máximo), a partir de 
+la comunicación de la incidencia. 
+ 
+• Prioridad 3 (Ordinaria): Mal funcionamiento del sistema que presenta 
+problemas de efecto limitado o poco importante. El tiempo de respuesta máximo 
+deberá ser de 2 horas laborables y el de resolución de 8 horas laborables (como 
+máximo), a partir de la comunicación de la incidencia. 
+• Otras peticiones: En general todas aquellas incidencias o peticiones que pueden 
+ser planificadas, estudiadas o consideradas dentro de unos plazos razonables, y 
+con suficiente antelación para poder realizar un análisis de su implementación. 
+Los tiempos de resolución de acordarán entre la universidad y la empresa 
+adjudicataria. Si la Universidad de Burgos solicita un servicio programado, el 
+compromiso de tiempo de resolución contará a partir de la hora de inicio acordada 
+para llevar a cabo la tarea y se medirá respecto al tiempo acordado previamente. 
+El tiempo de respuesta no será aplicable. 
+ 
+4.3 DISPONIBILIDAD DEL SISTEMA 
+ 
+Eliminando aquellos fallos que puedan ser imputables a la Universidad y las paradas 
+planificadas, se requiere: Porcentaje de disponibilidad del servicio: 99,98% (medido 
+mensualmente). 
+ 
+4.4 RENDIMIENTO 
+Se entiende un rendimiento aceptable como aquél que permite el funcionamiento normal 
+con todas las funciones previstas en este PPT, con tiempos de respuesta considerados 
+como aceptables en sistemas similares y en entornos de explotación homólogos. 
+Firmado por: ZULEMA FURONES
+Fecha: 28-10-2026 15:33:19
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubre. Su autenticidad puede ser comprobada en la
+direcciónhttp://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do
+Página: 9 de 13
+Código de verificación  : 89a7f7d0ed4081a1
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+http://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=89a7f7d0ed4081a1
+
+--- página 10 ---
+Página 10 de 13 
+ 
+ 
+ 
+La Universidad y la empresa adjudicataria acordarán mecanismos y parámetros para 
+medir el rendimiento, que serán validados al inicio del contrato y serán verificados en las 
+sucesivas actualizaciones. 
+La empresa adjudicataria deberá implantar mecanismos de seguimiento y supervisión 
+para garantizar el buen funcionamiento y rendimiento del sistema, tanto bajo la carga 
+habitual de usuarios de la Universidad como en los períodos de más carga. Ambas partes 
+se comprometen a informar a la otra de cualquier incidencia que pueda suponer o haya 
+supuesto una disminución del rendimiento. 
+ 
+ 
+4.5 INDICADORES Y ACUERDOS DE NIVEL DE SERVICIO 
+ 
+Indicador Descripción Valor 
+Objetivo 
+Porcentaje de 
+incidencias 
+resueltas en 
+plazo. 
+Porcentaje de incidencias que se resuelven dentro 
+de los tiempos de resolución establecidos en 
+función de los niveles de criticidad especificados. 
+Se medirá de forma mensual. 
+>95% 
+Porcentaje de 
+disponibilidad 
+Porcentaje de disponibilidad del servicio. 
+Se medirá de forma mensual. 
+>99,98% 
+Para facilitar el seguimiento, la empresa adjudicataria deberá entregar informes  
+mensuales con el grado de cumplimiento de los Acuerdos de Nivel de Servicio , así 
+como la relación de las incidencias y actuaciones registradas durante ese periodo y 
+el estado de la bolsa de horas . En esos informes se detallará el tipo de incidencia, los 
+tiempos de apertura y cierre de las mismas,  los tiempos de respuesta y resolución, las 
+soluciones propuestas y las realmente llevadas a cabo junto con todos aquellos aspectos 
+que deban destacarse, así como todas las actuaciones realizadas durante el período 
+considerado. Igualmente, en el caso de que se hayan llevado a cabo recomendaciones o 
+acciones de tipo preventivo, se harán constar en dicho informe. 
+ 
+5. DOCUMENTACIÓN 
+El proyecto habrá de generar, como mínimo, la siguiente documentación que deberá ser 
+convenientemente actualizada y proporcionada a la universidad de forma periódica, 
+Como mínimo trimestralmente: 
+ 
+• Arquitectura del sistema. 
+• Descripción detallada del funcionamiento del sistema con las nuevas funcionalidades o 
+modificaciones que se hayan incorporado. 
+ 
+Mensualmente: 
+ 
+• Estado de la bolsa de horas. Deberá indicar las horas disponibles al inicio del contrato, 
+el detalle de las consumidas en cada actuación realizada y las disponibles. 
+Firmado por: ZULEMA FURONES
+Fecha: 28-10-2026 15:33:19
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubre. Su autenticidad puede ser comprobada en la
+direcciónhttp://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do
+Página: 10 de 13
+Código de verificación  : 89a7f7d0ed4081a1
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+http://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=89a7f7d0ed4081a1
+
+--- página 11 ---
+Página 11 de 13 
+ 
+ 
+• Informes con el grado de cumplimiento de los Acuerdos e indicadores de Nivel de 
+Servicio, incluyendo la relación de las incidencias y actuaciones registradas durante 
+ese periodo según se establece en el apartado 4. 
+Toda la documentación deberá entregarse en formato electrónico, generado con 
+herramientas ofimáticas estándar del mercado (PDF, Word, ODT). 
+ 
+6. RESPONSABILIDAD EN DECISIONES TÉCNICAS 
+El personal de l S.I.C. e s responsable del óptimo funcionamiento de l SSO -UBU. Por 
+ello, cualquier decisión que afecte a la modificación de configuraciones, incorporación 
+de mejoras, etc. debe ser consensuada previamente con los responsables del SIC. 
+ 
+Las actualizaciones deberán estar justificadas mediante la emisión de un informe en el 
+que el adjudicatario detalle las causas que motivan la actualización. Una actualización no 
+ocasionará perjuicio sobre el servicio prestado ni sobre los niveles de calidad del mismo. 
+En caso de que fuera necesario interrumpir la prestación del s ervicio o alguna 
+funcionalidad, se acordará con los responsables del SIC la fecha y hora de realización  de 
+la parada, de manera que la incidencia por el corte del servicio sea la mínima posible. 
+ 
+Llegado el caso de que una solución adoptada sin consentimiento del personal del  S.I.C. 
+provoque posteriormente mal funcionamiento o interrupciones del servicio,  se podrá 
+proceder a una sanción económica proporcional al número de horas de fallo provocadas 
+por dicha anomalía; independientemente de que la resolución del problema  se produzca 
+dentro de los plazos establecidos en el acuerdo de nivel de servicio. 
+ 
+7. PLANIFICACIÓN, DIRECCIÓN Y SEGUIMIENTO DEL CONTRATO 
+Una vez formalizado el contrato, el adjudicatario se reunirá con el personal de la 
+Universidad de Burgos y se procederá al nombramiento de una comisión de seguimiento 
+del proyecto. Esta comisión estará presidida por el director de proyecto e incorporará 
+personal perteneciente a la UBU y a la empresa adjudicataria. 
+ 
+Corresponde a la Comisión de seguimiento la supervisión y dirección de los trabajos, 
+proponer las modificaciones que sea conveniente introducir o, en su caso, proponer la 
+suspensión de los trabajos si existiese causa suficientemente motivada. 
+ 
+Durante la fase de implantación la Comisión de seguimiento se reunirá a petición del 
+responsable del contrato de la UBU y tendrá sus reuniones preferentemente por 
+videoconferencia. 
+ 
+ 
+Formarán parte de la Comisión de seguimiento: 
+ 
+• El responsable del contrato que será el responsable del proyecto por parte de la 
+UBU 
+• Personal técnico del Servicio de Informática y Comunicaciones 
+Firmado por: ZULEMA FURONES
+Fecha: 28-10-2026 15:33:19
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubre. Su autenticidad puede ser comprobada en la
+direcciónhttp://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do
+Página: 11 de 13
+Código de verificación  : 89a7f7d0ed4081a1
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+http://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=89a7f7d0ed4081a1
+
+--- página 12 ---
+Página 12 de 13 
+ 
+ 
+• El Director del Proyecto por parte de la empresa adjudicataria 
+• Un técnico responsable del proyecto designado por la empresa adjudicataria 
+Las funciones de esta Comisión serán las siguientes: 
+• Seguimiento y evaluación del progreso de las tareas y plazos planificados para la 
+implantación y prestación de los servicios. 
+ 
+• Coordinación de las reuniones y revisión de los informes de seguimiento del 
+contrato. 
+ 
+• Verificación del cumplimiento de las especificaciones solicitadas y definición de 
+los requisitos pendientes. 
+ 
+• Incorporación de nuevas prestaciones o requisitos. 
+ 
+• Cualquier otro asunto que la propia comisión considere de interés. 
+Una vez finalizada la implantación, se mantendrá como mínimo una reunión  
+trimestral entre el personal del SIC y la empresa adjudicataria. En las reuniones se 
+revisará la documentación indicada en el apartado 5 de este PPT. 
+Será obligatorio para la empresa adjudicataria elaborar un acta en la que quede  
+constancia de todos los aspectos tratados en cada reunión de la Comisión de  
+Seguimiento. 
+ 
+8. PROTECCIÓN DE DATOS 
+La empresa adjudicataria se compromete a tratar los datos de carácter personal en el 
+ámbito del servicio objeto de este pliego, de conformidad con lo dispuesto en la Ley 
+Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los 
+derechos digitales y la normativa que la desarrolla. 
+ 
+También se compromete a tratar los citados datos, únicamente conforme a las 
+instrucciones de la Universidad de Burgos y a no aplicarlos o utilizarlos con fin distinto 
+al del servicio objeto de este pliego ni a comunicarlos, ni siquiera para su conservación, 
+a otras personas. 
+ 
+9. PROPIEDAD INTELECTUAL Y CONFIDENCIALIDAD 
+Los contratos de servicio que tengan por objeto el desarrollo y la puesta a disposición de 
+productos protegidos por el derecho de propiedad intelectual o industrial llevarán 
+aparejada la cesión de éste a la Universidad de Burgos. Igualmente, los trabajos que 
+constituyan objeto de propiedad intelectual, se entenderán expresamente cedidos a la 
+Universidad de Burgos, salvo en el caso de derechos preexistentes, en los que la cesión 
+puede no ser con carácter de exclusividad. 
+Se distinguen dos tipos de componentes: 
+Firmado por: ZULEMA FURONES
+Fecha: 28-10-2026 15:33:19
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubre. Su autenticidad puede ser comprobada en la
+direcciónhttp://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do
+Página: 12 de 13
+Código de verificación  : 89a7f7d0ed4081a1
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+http://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=89a7f7d0ed4081a1
+
+--- página 13 ---
+Página 13 de 13 
+ 
+ 
+⦁SimpleSAMLphp y sus componentes de terceros: propiedad de sus respectivos titulares 
+y sujetos a sus licencias. 
+⦁Desarrollos, personalizaciones, integraciones, módulos y configuraciones específicas 
+realizadas para la UBU: propiedad exclusiva de la Universidad de Burgos. 
+Todos los desarrollos, modificaciones, adaptaciones, correcciones, evolutivos, 
+integraciones y documentación generados por el adjudicatario durante la ejecución del 
+contrato pasarán a ser titularidad exclusiva de la Universidad de Burgos desde el 
+momento de su creación, con carácter indefinido y para todo el ámbito territorial 
+permitido por la legislación vigente. 
+El adjudicatario no podrá reutilizar, ceder, licenciar, publicar, distribuir, comercializar 
+ni explotar por sí mismo o por terceros, total o parcialmente, el software, sus 
+componentes específicos, el código fuente, las configuraciones, la documentación ni las 
+adaptaciones realizadas para la Universidad de Burgos, salvo autorización previa y 
+expresa de ésta por escrito. 
+ 
+El acceso al código fuente, arquitectura, configuraciones, procedimientos de 
+autenticación, esquemas de integración y demás información técnica se considerará 
+información confidencial. El adjudicatario no podrá hacer ningún uso o divulgación de 
+los informes, estudios , documentos y código elaborado en base a este pliego de 
+condiciones, bien sea en forma total o parcial, directa o extractada, original o 
+reproducida, sin autorización expresa por escrito de la UBU. 
+La empresa adjudicataria y cualquier persona dependiente de la misma que desempeñe 
+las funciones objeto de este pliego deberán mantener la confidencialidad plena sobre la 
+información relativa a los servicios objeto del  mismo. Esta obligación de 
+confidencialidad se entenderá plenamente vigente incluso con posterioridad a la 
+extinción del servicio prestado. 
+El contratista tendrá la obligación de proporcionar en soporte informático a la 
+Universidad de Burgos todos los documentos y el código generado para llevar a cabo el 
+objeto del contrato. 
+ 
+ 
+ 
+ 
+La Jefa del Servicio de Informática y Comunicaciones
+ 
+Firmado por: ZULEMA FURONES
+Fecha: 28-10-2026 15:33:19
+Este documento es Copia Auténtica según el artículo 27 de la Ley 39/2015, de 2 de Octubre. Su autenticidad puede ser comprobada en la
+direcciónhttp://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do
+Página: 13 de 13
+Código de verificación  : 89a7f7d0ed4081a1
+ 
+Para la verificación del siguiente código podrá conectarse a la siguiente dirección
+http://contratacion.ubu.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=89a7f7d0ed4081a1

@@ -1,0 +1,269 @@
+
+
+--- página 1 ---
+ 
+ 
+SE/046/26 
+ 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS DE LA CONTINUACIÓN DEL DESARROLLO DE 
+LA APLICACIÓN DE GESTIÓN DE ÓRGANOS COLEGIADOS (GOC), EN VIRTUD DEL 
+CONVENIO ESPECÍFICO DE COLABORACIÓN TECNOLÓGICA-INFORMÁTICA  
+Condiciones generales 
+El contratista facilitará una dirección de correo electrónico para la gestión automática de las 
+tareas, así como los datos de contacto del responsable del contrato, tanto técnico como 
+administrativo, para poder realizar su seguimiento. 
+Se designará un interlocutor único UJI y un representante único de la empresa. En la primera 
+reunión se fijarán los entregables, que deberán ajustarse al framework de desarrollo de la UJI, 
+y las reuniones de seguimiento del proyecto, donde se pactará cualquier modificación de los 
+entregables. Los trabajos se desarrollarán en las instalaciones del contratista. 
+Evaluación de las ofertas 
+Los técnicos de la Universidad designados podrán pedir a los licitadores la realización de las 
+pruebas que estimen oportunas, pudiendo requerir en todo momento cualquier información 
+adicional referente a las ofertas presentadas, a fin de evaluarlas. 
+Plazo de realización de los trabajos 
+Para una mejor coordinación del proyecto, se establece coordinar al inicio la fecha de inicio de 
+cada entregable, teniendo en cuenta que todos los trabajos deben estar entregados en un 
+periodo máximo de doce meses a partir de la formalización del contrato. 
+ 
+ANEXO II. HISTORIAS DE USUARIO Y TAREAS A DESARROLLAR 
+Vistas las contrataciones anteriores en las que se ha utilizado el mismo framework tecnológico 
+y metodologías ágiles, las historias de usuario y tareas a desarrollar se han valorado en función 
+del esfuerzo necesario para realizar cada una, agrupándolas en tres categorías de 
+complejidad: baja (8 horas), media (24 horas) y alta (80 horas). 
+ 
+En este esfuerzo se engloba su análisis, desarrollo, testeo y pruebas unitarias, puesta en 
+producción y corrección de errores. Por esto, la subsanación de errores derivados de una 
+historia de usuario o tarea no incrementa el coste en horas estimado inicialmente. Una vez 
+completada, cada historia o tarea debe ser entregada, testeada y validada por la Universitat 
+Jaume I como paso previo a su facturación. En las reuniones de coordinación se determinarán 
+las tareas a realizar en cada sprint, en función de su prioridad y coste estimado. 
+ 
+N
+º 
+Tarea / Historia de usuario Complejida
+d 
+Horas 
+1 Actualización de versiones a Java 21: Migración de la aplicación y sus 
+dependencias a Java 21 LTS: actualización de Spring, Jersey, librerías 
+de persistencia y de construcción (Maven), adaptación de APIs 
+obsoletas, revisión de la compatibilidad con el servidor de aplicaciones 
+y ejecución completa de las baterías de tests. 
+ALTA 80 
+2 GOC-1016: Nuevo diseño de la ficha de reunión: Rediseño completo 
+de la ficha pública/privada de la reunión: nueva maquetación, 
+organización de la información (datos generales, orden del día, 
+documentación, asistentes, votaciones), adaptación responsive y 
+accesible. 
+ALTA 80 
+
+--- página 2 ---
+N
+º 
+Tarea / Historia de usuario Complejida
+d 
+Horas 
+3 Modo mantenimiento y avisos programados: Modo mantenimiento que 
+permita desactivar determinadas opciones de la aplicación durante un 
+periodo determinado, asociando un aviso para que el usuario esté 
+informado. Posibilidad de programar avisos generales con fecha de 
+inicio y fin. Incluye gestión desde la administración y visualización en el 
+interfaz. 
+ALTA 80 
+4 GOC-1034: Quitar autenticación para documentos públicos desde el 
+buscador de acuerdos: Permitir la descarga sin autenticación de los 
+documentos marcados como públicos cuando se accede desde el 
+buscador público de acuerdos. 
+BAJA 8 
+5 GOC-1033: Modificar filtros en mis reuniones: Revisión y ampliación 
+de los filtros disponibles en la pantalla "Mis reuniones". 
+BAJA 8 
+6 GOC-1032: Documentación en el histórico de reuniones: Acceso a la 
+documentación asociada a la reunión y a sus puntos del orden del día 
+desde el histórico de reuniones, respetando la visibilidad configurada. 
+MEDIA 24 
+7 GOC-1031: Invertir orden de idioma en correos bilingües: Permitir 
+configurar el orden de aparición de los idiomas en los correos 
+bilingües enviados por la aplicación. 
+BAJA 8 
+8 GOC-1028: Evitar delegaciones pasada la fecha de la reunión: Impedir 
+la creación o modificación de delegaciones de voto y suplencias una 
+vez superada la fecha de celebración de la reunión. 
+BAJA 8 
+9 GOC-1029: Ficha de reunión no accesible antes de enviar la 
+convocatoria: Evitar que se pueda ver la información de la reunión 
+hasta que no se haya enviado la convocatoria. La ficha no debe estar 
+accesible. 
+BAJA 8 
+1
+0 
+GOC-1030: Aumentar tamaño del campo nombre de órgano: Ampliar 
+el campo del nombre del órgano a VARCHAR2(2000), incluyendo 
+scripts de base de datos, validaciones y adaptación del interfaz y de 
+los documentos generados. 
+BAJA 8 
+1
+1 
+Editora rica para los campos de tipo textarea: Incorporar un editor de 
+texto enriquecido en los campos de tipo textarea. La visualización en 
+los PDF generados debe mantener el estilo definido. Se definirá un 
+conjunto mínimo de estilos soportados (negrita, cursiva, subrayado, 
+listas, enlaces, etc.). 
+ALTA 80 
+1
+2 
+Clientes de servicios externos con autenticación configurable: Permitir 
+configurar distintas implementaciones de los clientes de acceso a 
+servicios externos, para disponer de distintos tipos de autenticación 
+seleccionables a través de una property. 
+MEDIA 24 
+1
+3 
+Job interno para recordatorios y reuniones planificadas: Los envíos de 
+recordatorios y la generación de reuniones planificadas se ejecutarán 
+mediante un job programado dentro de la propia aplicación GOC, 
+eliminando dependencias de procesos externos. 
+MEDIA 24 
+1
+4 
+Desactivar reuniones planificadas desde properties: Permitir 
+desactivar la funcionalidad de reuniones planificadas desde el fichero 
+de propiedades, ocultando los campos asociados en el interfaz. 
+BAJA 8 
+1
+5 
+Servicio MCP de consulta: Desarrollo de un servicio MCP (Model 
+Context Protocol) que permita consultar reuniones, participantes y 
+resultados de votaciones, con control de acceso y respeto a la 
+visibilidad de la información. 
+ALTA 80 
+1
+6 
+Módulo de envío de propuestas: Antes de la convocatoria de la 
+reunión, permitir el envío de propuestas para los puntos del orden del 
+día (texto y documentación). Estas propuestas serán revisadas y 
+aprobadas por el creador de la reunión, pasando a ser 
+automáticamente puntos del orden del día. 
+ALTA 80 
+
+--- página 3 ---
+ 
+ 
+SE/046/26 
+ 
+N
+º 
+Tarea / Historia de usuario Complejida
+d 
+Horas 
+1
+7 
+GOC-1038: Mejora al duplicar reunión: Para que se vea la opción 
+“Revisar acta 
+última reunión” y poder marcarlo o desmarcarla 
+BAJA 8 
+1
+8 
+GOC-1039: Poder activar/desactivar funcionalidad reuniones 
+colaborativas 
+BAJA 8 
+1
+9 
+GOC-1040: Mejora pantalla de órganos: mostrar el campo de correo 
+principal de los invitados 
+BAJA 8 
+2
+0 
+GOC-1041: Ordenación búsqueda de órganos: En las pantallas de 
+histórico de reuniones, reuniones, miembros y órganos, en el 
+desplegable para buscar un órgano sale ordenado teniendo en cuenta 
+mayúsculas y minúsculas, lo que hace que se mezclen los resultados. 
+Se solicita que se ordene sin que sea sensible a que el nombre del 
+órgano esté escrito en mayúsculas, minúsculas ni acentos. 
+BAJA 8 
+2
+1 
+Miembros sin derecho a voto: Poder seleccionar los miembros sin 
+derecho a voto y evitar que estos voten y que puedan elegir suplente, 
+delegar o ser elegidos como delegados de voto. Revisar los tipos de 
+recuento de votaciones, por si pudieran verse afectados. 
+MEDIA 24 
+2
+2 
+Votos ponderados. Establecer un sistema de votos ponderados 
+(diferentes pesos) y revisar los tipos de recuento de votaciones, por si 
+pudieran verse afectados. 
+ALTA 80 
+ Total bloque 1  744 
+ 
+Resumen de esfuerzo e importes 
+Nivel complejidad Nº tareas Horas/tare
+a 
+Total horas Importe (IVA excl.) 
+Baja 11 8 88 3.080,00 € 
+Media 4 24 96 3.360,00 € 
+Alta 7 80 560 19.600,00 € 
+Bloque 1: tareas definidas 22  744 26.040,00 € 
+Bloque 2: mantenimiento e 
+integraciones (~30 %) 
+  206 7.210,00 € 
+Total contrato   950 33.250,00 € 
+ 
+
+--- página 4 ---
+ 
+ANEXO III. DESCRIPCIÓN DEL FRAMEWORK DE DESARROLLO DE APLICACIONES EN LA 
+UNIVERSITAT JAUME I 
+Introducción y objetivos 
+A la hora de desarrollar aplicaciones, es tan importante considerar el conjunto de herramientas 
+que componen el entorno de desarrollo como las tecnologías empleadas, las metodologías 
+adoptadas para la gestión de los equipos o la definición del posterior proceso de explotación. 
+Con las metodologías ágiles como aspecto clave y diferenciador, se han definido una serie de 
+herramientas y tecnologías que permiten alcanzar los objetivos de flexibilidad, facilidad de 
+adaptación al cambio y posicionamiento a futuro de los desarrollos realizados. 
+Metodología 
+Frente a las metodologías clásicas (RUP, Métrica v3, CMMI), con ciclos estrictos y pruebas en 
+fases avanzadas, las metodologías ágiles (Scrum, Kanban, eXtreme Programming) se centran 
+en obtener versiones operativas del producto al final de cada iteración, integrando al usuario 
+final en el equipo y añadiendo valor de forma constante. El equipo deberá trabajar con 
+prácticas de compartición de código, integración continua, desarrollo dirigido por tests a todos 
+los niveles (unitario, integración, funcional, aceptación y carga), análisis estático del código y 
+gestión de artefactos y versiones. 
+Arquitectura básica del sistema 
+Las aplicaciones se estructuran en cuatro capas lógicas: 
+● Capa del modelo: mantiene la coherencia de la aplicación mediante la implementación 
+de las reglas de negocio e interactúa con la capa de persistencia. 
+● Capa de persistencia: mapea los modelos relacionales y proporciona clases de acceso 
+a las entidades gestionadas. 
+● Capa de servicios: proporciona acceso a la capa del modelo de forma abierta e 
+interoperable vía HTTP y formatos estándar (JSON, XML). 
+● Capa de interfaz gráfico de usuario: acceso de calidad a los servicios expuestos, 
+basada en tecnologías de cliente rico, cumpliendo requisitos de eficiencia, usabilidad y 
+accesibilidad. 
+Capa de servidor 
+Java (versión 21 LTS objetivo de este contrato) como lenguaje base en el servidor, con Spring 
+Framework para la gestión de configuración, integración con las APIs estándar (JPA, JAXB, 
+JMS, etc.) e inyección de dependencias, y Jersey (JAX-RS) para la capa de servicios REST. 
+Los tests unitarios son obligatorios en todas las capas. 
+Capa de cliente 
+Sencha ExtJS como framework de cliente rico (componentes extensibles, soporte 
+multinavegador, integración REST, internacionalización y temas). Para las pruebas funcionales 
+de interfaz se utilizará Cypress. 
+Entorno de desarrollo 
+-  JIRA: gestión de proyectos e incidencias. 
+-  Confluence: documentación y gestión del conocimiento. 
+-  Git: control de versiones. 
+-  Maven: herramienta de construcción. 
+-  Jenkins: integración continua. 
+-  jUnit: pruebas unitarias. 
+-  Nexus: repositorio de artefactos. 
+-  Sonar: análisis estático del código. 
+
+--- página 5 ---
+ 
+ 
+SE/046/26 
+ 
+ 
+ 
+ 

@@ -1,0 +1,1088 @@
+
+
+--- página 1 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 1 de 27
+Referencia: 2026/24195
+Procedimiento: P1 - Previo de necesidades Tipo:
+Asunto: Servicio de migración y unificación de instrumentos de descripción para el archivo 
+físico del Archivo Municipal de Molina de Segura, incorporando condiciones 
+especiales de ejecución de tipo social y ético
+ARCHIVO
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA LA CONTRATACIÓN DE: SERVICIO DE 
+MIGRACIÓN Y UNIFICACIÓN DE INSTRUMENTOS DE DESCRIPCIÓN PARA EL ARCHIVO 
+FÍSICO DEL ARCHIVO MUNICIPAL DE MOLINA DE SEGURA, INCORPORANDO CONDICIONES 
+ESPECIALES DE EJECUCIÓN DE TIPO SOCIAL Y ÉTICO
+ÍNDICE
+1.INTRODUCCIÓN 2
+2.OBJETO DEL CONTRATO 2
+3. ALCANCE DEL PROYECTO 2
+A. Requisitos del Servicio (Trabajos Técnicos y Humanos) 2
+B. Requisitos del Software 3
+C. Detalles de la migración 8
+D. Mantenimiento y soporte 9
+4. IMPLANTACIÓN 10
+5. DOCUMENTACIÓN A APORTAR 11
+6. SOLVENCIA TÉCNICA Y PROFESIONAL 13
+7. PLAZO DE EJECUCIÓN Y DURACIÓN DEL CONTRATO 13
+8. PRESUPUESTO Y FORMA DE PAGO 14
+9. VALORACIÓN DE LAS OFERTAS 14
+10. SEGURIDAD Y CONFIDENCIALIDAD DE LA INFORMACIÓN 15
+ANEXO I 16
+
+--- página 2 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 2 de 27
+1.INTRODUCCIÓN
+Los archivos públicos tienen como fines constitucionales y legales la organización, conservación 
+y descripción del patrimonio documental para garantizar el acceso a la información, la transparencia 
+administrativa, la eficacia en la gestión pública y la difusión cultural.
+Actualmente, el Archivo Municipal de Molina de Segura presenta un ecosistema de información 
+fragmentado y heterogéneo. Los instrumentos de descripción existentes se encuentran dispersos en 
+diversos soportes y formatos ofimáticos aislados (bases de datos en Microsoft Access, hojas de 
+cálculo en Excel y documentos de texto .doc, además de .pdf). Esta dispersión técnica y formal 
+penaliza la eficacia operativa del servicio, genera duplicidades en la información y dificulta 
+gravemente la búsqueda y recuperación integral de los fondos documentales.
+Para corregir esta situación y avanzar hacia la transformación digital del servicio, se hace 
+imprescindible la contratación de un servicio de software en modalidad On Premise, que incluya los 
+servicios técnicos y humanos de migración, depuración y normalización de la totalidad de los datos de 
+los instrumentos de descripción actuales, integrándolos de forma coherente, centralizada y bajo una 
+arquitectura de información uniforme.
+2.OBJETO DEL CONTRATO
+Servicio de migración y unificación de instrumentos de descripción para el archivo físico del 
+Archivo Municipal de Molina de Segura, incorporando condiciones especiales de ejecución de tipo 
+social y ético.
+3. ALCANCE DEL PROYECTO
+La empresa adjudicataria deberá realizar todos los servicios y trabajos de instalación, 
+configuración, personalización, puesta en servicio, formación y soporte de la solución, de modo que 
+garantice su plena operatividad durante la vigencia del contrato.
+Para garantizar la viabilidad técnica, la seguridad y el rigor archivístico del proyecto, tanto el 
+software como los servicios de migración ofertados deberán cumplir estrictamente con los siguientes 
+requisitos:
+A. Requisitos del Servicio (Trabajos Técnicos y Humanos)
+- Integración y Configuración del Cuadro de Clasificación:
+El servicio incluirá la parametrización en la plataforma del cuadro de clasificación:
+1. El Cuadro de Clasificación de la Mesa de Trabajo de Organización de Archivos 
+Municipales (1996) 
+Los trabajos técnicos deberán adaptar la topografía, asignación de signaturas e identificación 
+de los documentos a dicho marco normalizado.
+- Migración, Depuración y Normalización de Datos: 
+
+--- página 3 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 3 de 27
+Ejecución por parte de personal técnico cualificado del proceso integral de trasvase de los 
+datos de los actuales instrumentos de descripción (bases de datos Access, hojas Excel y 
+documentos de texto .doc, incluso .pdf) hacia el nuevo sistema. El servicio incluye la limpieza 
+de duplicidades, la corrección de inconsistencias y la estructuración de la información para su 
+correcta integración en el modelo multinivel.
+- La formación será necesaria para el personal del Archivo Municipal de Molina de 
+Segura. Esta formación deberá ser presencial en las instalaciones del 
+Ayuntamiento o a través de conexión remota y tener una duración mínima de seis 
+(6) horas. El adjudicatario deberá aportar la documentación, los manuales 
+necesarios y atender las dudas e incidencias que puedan surgir durante la 
+prestación del servicio. 
+B. Requisitos del Software
+- Modalidad y Arquitectura Tecnológica:
+On-Premise y 100% Entorno Web. El software se desplegará de forma íntegra en la 
+infraestructura del Ayuntamiento de Molina de Segura. La solución funcionará de forma nativa 
+en un entorno web (arquitectura cliente ligero) accesible a través de navegador, sin 
+necesidad de instalar ejecutable alguno en los puestos de trabajo. La plataforma estará 
+desarrollada sobre el lenguaje de programación estándar PHP, debiendo la empresa 
+adjudicataria facilitar en todo momento el acceso y la entrega del código fuente al 
+Ayuntamiento para garantizar la soberanía tecnológica y el mantenimiento futuro.
+- Estructura Jerárquica Conforme a ISAD(G) y NEDA:
+El software debe permitir de forma nativa la gestión multinivel respetando el principio de 
+procedencia (Fondo, Subfondo, Sección, Serie, Unidad Documental Compuesta y Unidad 
+Documental Simple), de estricta conformidad con las normas ISAD(G) y NEDA (Norma 
+Española de Descripción Archivística).
+- Gestión de Depósitos Físicos (Control Topográfico):
+Módulo operativo integrado para el control de la ubicación física de los fondos documentales. 
+Deberá permitir la gestión detallada de la topografía del archivo (depósitos, calles, 
+estanterías, baldas y cajas/unidades de instalación), vinculando la descripción intelectual con 
+la localización física real de la documentación.
+- Personalizable. La interfaz debe ser adaptable a la imagen corporativa del Ayuntamiento 
+de Molina de Segura.
+- Seguridad y Privacidad Integrada (Protección de Datos):
+Control de acceso basado en roles y perfiles de usuario. El sistema debe incorporar 
+herramientas técnicas para la disociación de datos de carácter personal y la restricción 
+selectiva de la visibilidad pública sobre campos o expedientes protegidos, de conformidad con 
+el RGPD y la LOPDGDD.
+
+--- página 4 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 4 de 27
+- Autenticación. Como mínimo serán seis (6) los usuarios permitidos, que accederán con 
+sistemas de autenticación de usuario y contraseña, siempre que la contraseña sea 
+almacenada con un hash unidireccional, de manera que el sistema sea capaz de verificar 
+la contraseña, pero sea imposible saber el valor real de la misma extrayendo los datos de 
+la base de datos. La oferta indicará las medidas de autenticación para los usuarios. Así 
+mismo incorporará un sistema avanzado e inalterable de registro de actividad y 
+trazabilidad de acciones de los usuarios.
+- Gestión Integral de Registros y Motor de Búsqueda Avanzado. La plataforma deberá 
+garantizar la gestión completa del ciclo de vida de la información de los instrumentos de 
+descripción y un motor de búsqueda de altas prestaciones, cumpliendo con las siguientes 
+funcionalidades operativas: 
+- Gestión Operativa de Datos (Altas, Modificaciones y Bajas):
+Altas: Edición y creación ágil de nuevos registros mediante formularios dinámicos 
+adaptados a los campos normalizados de ISAD(G)/NEDA, permitiendo tanto la 
+inserción individual como la clonación o plantilla de registros similares para 
+optimizar el trabajo del personal.
+Modificaciones: Capacidad de edición individual y edición masiva de campos 
+(por ejemplo, para modificar la ubicación topográfica o el fondo de un grupo 
+numeroso de cajas de forma simultánea).
+Bajas y Eliminación Controlada: Permitir la baja lógica (ocultación o marcado) y 
+la baja definitiva de registros, garantizando la pérdida cero de datos 
+accidentales mediante la exigencia de confirmación explícita de usuario y el 
+cumplimiento del registro de auditoría (Audit Log).
+- Motor de Búsqueda e Indexación Total:
+Búsqueda Multicriterio (por la totalidad de los campos): El sistema debe 
+permitir la indexación y búsqueda sobre el 100% de los campos de las fichas 
+descriptivas (título, fechas, código de referencia, descriptor, signatura, 
+observaciones, estado de conservación, etc.), sin restricción de campos fijos.
+Tipologías de Búsqueda:
+- Búsqueda rápida o textual: Buscador estilo "caja única" que analice 
+todo el repositorio de forma instantánea.
+- Búsqueda avanzada / estructurada: Combinación de múltiples filtros 
+mediante operadores booleanos (Y, O, NO), búsquedas por rangos de 
+fechas, búsquedas exactas (con entrecomillado) y búsquedas por 
+jerarquía del Cuadro de Clasificación.
+Gestión de Resultados: Filtrado dinámico (facetas), ordenación por múltiples 
+criterios (alfabético, cronológico, por signatura o por relevancia) y capacidad de 
+exportación directa de los resultados obtenidos a formatos estándar (Excel, 
+CSV, PDF).
+
+--- página 5 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 5 de 27
+- Conformidad con el Esquema Nacional de Seguridad (ENS - RD 311/2022):
+El software ofertado deberá haber sido desarrollado bajo los principios de seguridad desde el 
+diseño e integración con el Esquema Nacional de Seguridad (ENS - Real Decreto 311/2022) 
+en la categoría correspondiente al sistema. La plataforma debe garantizar a nivel de 
+aplicación:
+• Compatibilidad con Políticas de Backup del Ayuntamiento: El software y su base de 
+datos deben estar estructurados para permitir la realización de copias de seguridad 
+(backup) automatizadas y periódicas por parte del Servicio de Tecnologías de la 
+Información y la Comunicación(en adelante Servicio de TIC), garantizando la consistencia 
+de los datos e integrándose con el Plan de Recuperación ante Desastres (DRP) de la 
+Entidad Local.
+• Comunicaciones Cifradas: Soporte nativo para el cifrado de las comunicaciones entre 
+los clientes (ordenadores de los usuarios) y el servidor mediante protocolos seguros 
+(HTTPS / SSL-TLS), admitiendo la instalación de certificados digitales corporativos.
+• Gestión de Accesos y Trazabilidad: Mecanismos de autenticación segura (integración 
+con el Directorio Activo municipal/LDAP) y registro inalterable de eventos (Audit Log) para 
+garantizar la confidencialidad, trazabilidad e integridad de la información almacenada en 
+los servidores municipales.
+• En consecuencia de todo lo expuesto el adjudicatario debe estar en posesión de la 
+Certificación de Conformidad con el Esquema Nacional de Seguridad (Real Decreto 
+311/2022) o, en su defecto, compromiso y declaración responsable formal suscrita por la 
+empresa de encontrarse en proceso de adecuación o auditoría para la obtención de dicha 
+conformidad. Previamente a la firma del Acta de Recepción y al paso del sistema a 
+entorno de producción, la empresa adjudicataria deberá aportar un Informe de Test de 
+Intrusión (Pentesting) o Análisis de Vulnerabilidades de Código sobre la versión del 
+software a instalar On-Premise, realizado por un auditor/laboratorio independiente o 
+mediante herramientas especializadas de análisis de seguridad, demostrando la ausencia 
+de vulnerabilidades críticas o de riesgo alto.
+- Interoperabilidad, Disponibilidad del Código Fuente y Prevención de Bloqueo 
+conforme al ENI (RD 4/2010):
+El software garantizará la reutilización, soberanía tecnológica e intercambio de la información 
+municipal mediante:
+• Entrega y Disponibilidad del Código Fuente: La empresa adjudicataria deberá 
+proporcionar en todo momento al Ayuntamiento el código fuente íntegro de la solución 
+(desarrollada sobre lenguaje PHP), permitiendo su auditoría, custodia y eventual 
+mantenimiento interno o por terceros.
+• Base de Datos Estándar Abierta: La plataforma deberá sustentarse sobre un motor de base 
+de datos relacional estándar y abierto (MySQL / MariaDB o similares), facilitando el acceso 
+directo a las tablas de datos y evitando estructuras opacas o propietarias.
+
+--- página 6 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 6 de 27
+• Exportación bajo estándares archivísticos: Capacidad del sistema para realizar la 
+extracción integral y estructurada de la base de datos y de los instrumentos de descripción en 
+formatos abiertos, interoperables y de amplio uso (XML conforme a esquemas EAD/EAC-
+CPF, CSV o JSON).
+• La plataforma deberá garantizar en todo momento la total portabilidad de la información 
+municipal y la ausencia de estructuras de datos cerradas, previniendo el bloqueo o 
+dependencia tecnológica del proveedor (vendor lock-in).
+- Módulo de Gestión de Préstamos y Consultas. El sistema deberá disponer de un 
+módulo específico para la gestión integral, control y trazabilidad de los préstamos 
+administrativos de documentación a las distintas unidades del Ayuntamiento, así como de 
+las consultas de usuarios externos o investigadores, cumpliendo con las siguientes 
+prestaciones:
+• Gestión de Préstamos Administrativos Internos:
+• Petición y Tramitación: Tramitación de solicitudes de préstamo asociando las 
+signaturas/expedientes a la unidad u órgano gestor solicitante y a una persona 
+responsable.
+• Control de Plazos y Alertas: Configuración de plazos de devolución por defecto 
+con sistema de alertas automáticas y avisos de vencimiento por retraso en la 
+devolución de la documentación física.
+• Gestión de Salidas y Devoluciones: Registro del estado del préstamo (solicitado, 
+concedido, entregado, devuelto, prorrogado o extraviado) y cambio automático 
+del estado de disponibilidad de la unidad documental en el catálogo.
+• Gestión de Consultas y Usuarios: 
+• Registro de Investigadores/Usuarios: Base de datos para la gestión de usuarios 
+externos (investigadores, ciudadanos) con registro de accesos conforme a la 
+LOPDGDD. 
+• Control de Consulta en Sala: Registro de las unidades documentales puestas a 
+disposición de los usuarios en la sala de consulta del Archivo.
+• Trazabilidad e Informes:
+• Histórico por Documento y Usuario: Mantenimiento de un registro histórico (Audit 
+Log) que permita consultar qué unidades documentales ha tenido prestadas un 
+determinado departamento o usuario, y la trazabilidad de préstamos de cada 
+expediente a lo largo del tiempo. 
+• Emisión de Documentación y Estadísticas: Generación e impresión de partes o 
+vales de préstamo/devolución y capacidad de extracción de estadísticas 
+
+--- página 7 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 7 de 27
+periódicas (documentos más prestados, concejalías con mayor volumen de 
+peticiones, plazos medios de devolución).
+11. Instalación y Despliegue de la Plataforma On-Premise: 
+Los técnicos del Ayuntamiento de Molina de Segura (Servicio de TIC) crearán y configurarán 
+previamente la Máquina Virtual (VM) en el entorno de virtualización municipal y 
+proporcionarán la infraestructura de red requerida.
+Una vez levantada la VM por el Servicio de TIC, el Ayuntamiento proporcionará al 
+adjudicatario un acceso remoto seguro vía VPN corporativa. A través de dicho acceso 
+VPN, la empresa adjudicataria asumirá la responsabilidad exclusiva de gestionar la máquina 
+virtual para la instalación, parametrización, configuración de componentes (NGINX, 
+PHP, MySQL/MariaDB o similar) y puesta a punto del software, bajo la supervisión del 
+personal informático municipal, hasta dejar el sistema plenamente operativo y optimizado 
+antes del inicio de la fase de pruebas y migración de datos.
+Para ello:
+• El Servicio de TIC del Ayuntamiento asignará una dirección IP privada fija y estática dentro de 
+la red corporativa para cada uno de los servidores virtuales (Entorno de Pruebas y Entorno de 
+Producción).
+• Los servidores se ubicarán en la VLAN de Servidores municipal, aplicando las políticas de 
+aislamiento e interconexión correspondientes conforme al Esquema Nacional de Seguridad 
+(ENS).
+• Protocolos y Apertura de Puertos: El acceso de los usuarios al aplicativo se realizará de forma 
+exclusiva mediante protocolo seguro HTTPS (Puerto 443) a través de entorno web. La 
+empresa adjudicataria detallará en su propuesta técnica la relación exhaustiva de puertos 
+estrictamente necesarios para el funcionamiento de la solución y las labores de soporte 
+técnico vía VPN, garantizando el principio de mínimo privilegio.
+12. Dimensionamiento de Infraestructura On-Premise: 
+El Ayuntamiento de Molina de Segura proporcionará la infraestructura virtualizada necesaria 
+para el despliegue de la solución. A tal efecto, la arquitectura del software propuesto por el 
+licitador deberá ser capaz de ejecutarse con rendimiento óptimo sobre el stack tecnológico 
+corporativo compuesto por:
+• Servidor Web: Servidor web de código abierto NGINX.
+• Motor de Base de Datos: Base de datos relacional abierta y estándar de tipo MySQL / 
+MariaDB o similar.
+• Lenguaje de Programación: PHP (con entrega completa del código fuente).
+• Servidor Virtual de Producción: 4 vCPUs, 16 GB de memoria RAM, 250 GB de 
+almacenamiento en disco de alta velocidad (SSD/NVMe) y Sistema Operativo de 64 bits de 
+versión corporativa vigente (Linux Ubuntu Server LTS).
+
+--- página 8 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 8 de 27
+• Servidor Virtual de Pruebas (Test): 2 vCPUs, 8 GB de memoria RAM y 100 GB de 
+almacenamiento SSD.
+13. Garantía de Compatibilidad con la Infraestructura Municipal: 
+La solución ofertada por el licitador deberá ser plenamente compatible con el stack 
+tecnológico de la Entidad Local: hipervisores estándar (VMware / Hyper-V / Proxmox), 
+sistema operativo Linux Ubuntu Server LTS (64 bits), servidor web NGINX y motor MySQL 
+/ MariaDB o similar. Igualmente, debe garantizar la plena convivencia con el software de 
+inventario, antivirus y gestión remota corporativo.
+Entorno Cliente 100% Web: El acceso se realizará exclusivamente a través de entorno web, 
+garantizando la compatibilidad total con los navegadores estándar de la Administración 
+(Microsoft Edge) sin requerir módulos de terceros, ejecutable cliente alguno, plugins o 
+privilegios de administración en las estaciones de trabajo municipales.
+C. Detalles de la migración
+El adjudicatario deberá destinar el equipo técnico cualificado necesario para el volcado de los 
+instrumentos de descripción actuales del Archivo Municipal Molina de Segura, que comprenden un 
+total de 6 bases de datos (77.668 KB), 161 hojas de cálculo (9.771,5 KB), 41 archivo de texto 
+(35.094,5 KB) y 30 en .pdf (107.578 KB). El conjunto de instrumentos de descripción a migrar 
+presenta un volumen global de 230,112 MB.
+El proceso técnico-archivístico de migración se dividirá obligatoriamente en las siguientes fases 
+secuenciales e incluirá las especificaciones detalladas a continuación:
+Fase 1: Diagnóstico y Extracción: Análisis de las estructuras origen del Ayuntamiento y mapeo 
+de campos.
+Fase 2: Depuración de Autoridades y Limpieza de Duplicidades: Tratamiento exhaustivo de los 
+datos para unificar términos equivalentes, eliminar registros redundantes y normalizar los campos de 
+productores, materias y localizaciones geográficas dispersas en los formatos Access, Excel, .doc y 
+.pdf.
+Fase 3: Carga y Conexión Jerárquica Interoperable: Trasvase de la información al nuevo 
+repositorio unificado. El sistema informático deberá realizar de forma automatizada y transparente la 
+conexión relacional multinivel entre los diferentes instrumentos descritos (guías, inventarios y 
+catálogos). El software enlazará con absoluta precisión las descripciones existentes a nivel macro 
+(Unidad de Instalación / Cajas) con sus correspondientes registros a nivel micro (Pieza Documental 
+Compuesta / Expedientes complejos), impidiendo la pérdida de dependencias jerárquicas.
+El adjudicatario no podrá realizar un volcado automatizado o puramente informático de los datos 
+origen (bases de datos, hojas de cálculo, texto, .pdf). El proceso exige un tratamiento intelectual y 
+metodológico previo debido a que los instrumentos de descripción fueron concebidos de manera 
+aislada. Se exigirá el estricto cumplimiento de los siguientes principios de la archivística:
+
+--- página 9 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 9 de 27
+• Principio de Procedencia y Respeto al Orden Original: Identificación de las series 
+documentales productoras de este Ayuntamiento reflejadas en las hojas de cálculo, bases de 
+datos, .doc y .pdf dispersos, asegurando su correcto encaje en la estructura orgánica y 
+funcional del Cuadro de Clasificación de la Mesa de Trabajo sobre Organización de Archivos 
+Municipales de 1996. 
+• Análisis Documental Local: El equipo de trabajo deberá interpretar correctamente la tipología 
+documental propia de los Ayuntamientos, para discernir con criterio científico cuándo una 
+descripción corresponde a un nivel macro de serie documental o a una pieza documental, 
+estableciendo los correspondientes vínculos de jerarquía sin alterar el sentido de la 
+producción administrativa, así como unidad de instalación y expediente administrativo.
+D. Mantenimiento y soporte
+Para la comunicación de incidencias, el adjudicatario pondrá a disposición del Archivo, al 
+menos, las siguientes vías: 
+• Comunicación telefónica (al menos de 8:00-15:00h de lunes a viernes).
+• Correo electrónico y de forma opcional, el adjudicatario pondrá a disposición del 
+Archivo un portal Web de ticketing, operativo 24X7, para el registro y seguimiento 
+de las incidencias y solicitudes.
+Mantenimiento correctivo, evolutivo y normativo: Suministro e instalación de las nuevas 
+versiones, actualizaciones y parches de la aplicación en la infraestructura local del 
+Ayuntamiento. El servicio incluirá la resolución de errores de funcionamiento, así como la 
+adaptación continua del software ante cambios legislativos o normativos, modificaciones en 
+las estructuras de datos y cualquier actualización técnica necesaria para garantizar el 
+correcto y permanente funcionamiento del sistema. 
+Atención y resolución de incidencias (nivel de calidad del servicio) 
+Dependiendo del grado de severidad o importancia de las incidencias, se atenderán con los 
+siguientes tiempos de respuesta:
+Categoría Descripción Tiempo de respuesta
+Crítica Problemas críticos con interrupción total o degradación 
+seria del servicio
+Antes de 30 minutos
+Alta Problemas serios sin interrupción total o degradación seria 
+del servicio
+Antes de 30 minutos
+Media Problemas moderados, a veces puntuales, que no afectan 
+seriamente al funcionamiento normal del servicio
+Antes de 60 minutos
+Baja Inconvenientes o petición de informaciones sobre el Antes de las 24 horas
+
+--- página 10 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 10 de 27
+funcionamiento del servicio
+Dependiendo del grado de severidad o importancia de las incidencias se resolverán las 
+incidencias con los siguientes tiempos objetivos:
+Categoría Descripción Tiempo de respuesta
+Crítica Problemas críticos con interrupción total o degradación 
+seria del servicio
+Objetivo resolución antes 
+de 4 horas
+Alta Problemas serios sin interrupción total o degradación seria 
+del servicio
+Objetivo resolución antes 
+de 4 horas
+Media Problemas moderados, a veces puntuales, que no afectan 
+seriamente al funcionamiento normal del servicio
+Objetivo resolución antes 
+de 24 horas (Horario 
+Laboral)
+Baja Inconvenientes o petición de informaciones sobre el 
+funcionamiento del servicio
+Objetivo resolución antes 
+de 4 días
+4. IMPLANTACIÓN
+El periodo de implantación será de 2 meses, como máximo, iniciándose al día siguiente de la 
+firma del Acta de Inicio de Servicio. En este periodo se deben llevar a cabo todos los trabajos 
+necesarios para la puesta en servicio de la solución ofertada.
+El adjudicatario presentará un Programa de Trabajo que describa los servicios ofertados y 
+deberá contener, como mínimo:
+• Descripción de la solución propuesta.
+• Descripción del soporte ofertado.
+Incluyendo el Protocolo de Pruebas, Validación y Pase a Entorno de Producción, que consistirá 
+en:
+1.  Despliegue en Entorno de Pruebas (Sandbox)- Con carácter previo al despliegue definitivo de la 
+plataforma, la empresa adjudicataria procederá a la instalación de la solución y al volcado de las 
+pruebas de migración de datos  en un servidor virtual de pruebas (sandbox) habilitado por el 
+Servicio de TIC.
+
+--- página 11 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 11 de 27
+2. Ejecución del Plan de Pruebas y Validación- En dicho entorno de pruebas se llevará a cabo la 
+fase de control de calidad y validación conjunta entre el adjudicatario, el Responsable del 
+Archivo Municipal y el Servicio de TIC, verificando los siguientes hitos obligatorios:
+• Integridad y consistencia de la migración: Comprobación de la no pérdida de 
+registros, correcta conversión de campos de origen (Access/Excel/.doc/.pdf) y 
+preservación de relaciones jerárquicas y metadatos conforme a los estándares 
+acordados (EAD, EAC-CPF).
+• Validación funcional y operativa: Verificación de las funcionalidades del software 
+(búsquedas, cuadros de clasificación, préstamos, exportaciones e impresión de 
+catálogos) y realización de las sesiones de formación del personal usuario.
+• Verificación técnica y de seguridad: Comprobación de rendimiento de la base de 
+datos, perfiles de acceso y presentación del Informe de Test de Intrusión 
+(Pentesting) o Análisis de Vulnerabilidades sin hallazgos críticos.
+3. Acta de Conformidad de Pruebas (Check-off)- Finalizada con éxito la fase de validación, se 
+levantará un Acta de Conformidad de Pruebas firmada por la Jefa de Negociado del Archivo 
+Municipal y el responsable técnico del adjudicatario, en la que se detallará la aprobación 
+explícita de los datos migrados y de la estabilidad de la plataforma.
+4. Autorización y Pase a Producción- Solo tras la firma del Acta de Conformidad de Pruebas se 
+autorizará la migración definitiva de datos actualizados y el despliegue del software en el 
+servidor virtual de producción. Queda expresamente prohibido ejecutar cualquier tarea de 
+migración directa, actualización de versión o prueba de código sobre el entorno de producción 
+sin haber superado previamente este protocolo.
+La fase de implantación se considerará finalizada cuando se cumplan acumulativamente los 
+siguientes requisitos:
+1. Despliegue completo de la plataforma en el entorno On-Premise (NGINX/PHP/MariaDB, 
+MySQL o equivalente).
+2. Migración y validación del 100% de los datos.
+3. Ejecución de las sesiones de formación al personal del Archivo.
+4. Aprobación técnica del Informe de Auditoría de Seguridad/Pentesting.
+La verificación satisfactoria de estos puntos por parte del Servicio de Archivo y del Servicio de TIC 
+será condición indispensable para la firma del Acta de Recepción y Conformidad del sistema.
+5. DOCUMENTACIÓN A APORTAR
+5.1. Documentación a aportar junto con la oferta técnica
+Para la verificación del cumplimiento de los requisitos mínimos exigidos en el presente pliego, 
+las empresas licitadoras deberán incluir, de forma obligatoria, en su propuesta técnica, la totalidad de 
+la documentación que se detalla a continuación. La no presentación de cualquiera de los documentos 
+exigidos, o el incumplimiento de los requisitos mínimos que deben acreditarse en los mismos, será 
+causa automática de exclusión del procedimiento de licitación:
+
+--- página 12 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 12 de 27
+• Programa y plan de Trabajo: Memoria descriptiva que detalle la planificación temporal, 
+cronograma de implantación (instalación On-Premise, parametrización, migración de datos y 
+formación) y dimensionamiento del equipo humano asignado.
+• Memoria Técnica de la Solución: Descripción de la arquitectura de la plataforma web (stack 
+tecnológico sobre NGINX, PHP y bases de datos relacionales abiertas de tipo MySQL, 
+MariaDB, PostgreSQL o equivalente), asegurando el cumplimiento de los estándares 
+archivísticos (ISAD(G), NEDA).
+• Certificado de Conformidad con el Esquema Nacional de Seguridad (Real Decreto 
+311/2022): o, en su defecto, compromiso y declaración responsable formal suscrita por la 
+empresa de encontrarse en proceso de adecuación o auditoría para la obtención de dicha 
+conformidad.
+• Certificados de solvencia técnica y profesional: Acreditación de haber realizado proyectos 
+de naturaleza similar en los últimos tres años, cumpliendo con los requisitos del apartado 6 
+del presente pliego.
+5.2. Documentación a aportar con carácter previo a la firma del Acta de Inicio
+Una vez notificada la propuesta de adjudicación, la empresa propuesta como adjudicataria, en el 
+plazo máximo de cinco (5) días naturales a contar desde dicha notificación, deberá aportar:
+• Designación Formal del Equipo de Trabajo: Identificación y datos de contacto del 
+Responsable del Proyecto por parte de la empresa adjudicataria, así como de los técnicos 
+especializados que realizarán la implantación y la migración.
+• Plan de Trabajo Definitivo: Cronograma definitivo, detallado y coordinado de común 
+acuerdo con el personal de las concejalías de Archivo y de TIC para la ejecución de las fases 
+de implantación, precisando la ejecución de las mismas. Será necesario establecer canales 
+de comunicación seguros con el Servicio de Informática (TIC) y el Servicio de Archivo 
+municipal para el acceso a la Máquina Virtual y redes VPN.
+• Acuerdo de Confidencialidad (NDA) y Reglas de Enfrentamiento (RoE): El Acuerdo de 
+Confidencialidad será firmado por el representante legal del adjudicatario, garantizando la 
+protección de los datos municipales. Las Reglas de Enfrentamiento serán suscritas por el 
+adjudicatario en señal de aceptación y compromiso de cumplimiento. La autorización de las 
+pruebas corresponderá al Ayuntamiento, que la otorgará expresamente y por escrito, a través 
+del responsable del contrato u órgano competente, con carácter previo a su inicio.
+5.3. Entregables durante la ejecución de los trabajos (Hitos y Auditorías)
+El Ayuntamiento de Molina de Segura tiene la potestad de solicitar modificaciones en la migración 
+realizada en caso de que se considere que existen defectos o errores en la misma. La recepción de 
+los entregables se ajustará los plazos establecidos en el apartado 7 y las fases marcadas en el 
+apartado 3.C del presente pliego:
+• Plan y Actas de Migración de Datos: Protocolo técnico detallado del proceso de extracción, 
+transformación y carga (ETL) del fondo documental, junto con el certificado de integridad de 
+los datos migrados.
+
+--- página 13 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 13 de 27
+• Informe de Auditoría de Seguridad y Test de Intrusión (Pentesting), al término de cada 
+una de las fases 1, 2 y 3: estructurados en Resumen Ejecutivo (para la dirección y órganos de 
+contratación) e Informe Técnico Detallado (para el Servicio TIC), que certifique la ausencia de 
+vulnerabilidades de riesgo alto o crítico en el código PHP, servidor NGINX y bases de datos.
+• Presentación presencial/remota de resultados al personal de Archivo tras la migración de 
+los datos.
+• Manuales y Documentación Final: Manuales de usuario, manuales de administración del 
+sistema, entrega formal del código fuente documentado y materiales de la formación 
+impartida al personal del Archivo. 
+6. SOLVENCIA TÉCNICA Y PROFESIONAL
+El licitador deberá acreditar su solvencia técnica o profesional mediante la presentación de una 
+relación de, al menos, tres proyectos o contratos de servicios de igual o similar naturaleza a los 
+indicados en el presente pliego, ejecutados en el curso de los tres últimos años.
+Se considerarán servicios de naturaleza similar aquellos trabajos que comprendan, en su 
+conjunto o por separado:
+1. Suministro, implantación, parametrización o mantenimiento de software de gestión de 
+archivos, gestión documental o administración electrónica en el ámbito del sector público.
+2. Migración, tratamiento, conversión o estructuración de bases de datos documentales o 
+sistemas de información hacia plataformas de gestión de archivos.
+3. Servicios de descripción, inventariado, organización o digitalización de fondos 
+documentales conforme a estándares archivísticos normalizados (ISAD(G), NEDA, EAD, 
+EAC-CPF).
+7. PLAZO DE EJECUCIÓN Y DURACIÓN DEL CONTRATO
+El contrato tendrá una duración total de un (1) año (12 mes) a contar desde el día siguiente a la 
+firma del Acta de Inicio, con la posibilidad de prorrogar hasta un total de cuatro (4) años. La ejecución 
+del contrato se estructurará en tres periodos, claramente diferenciados:
+• Implantación, Migración y Puesta en Producción: Tendrá un plazo máximo de ejecución 
+de dos (2) meses desde la firma del Acta de Inicio. Comprenderá la instalación On-Premise, 
+parametrización, migración de datos, formación y superación del test de seguridad.
+• Hito de Recepción (Acta de Recepción): Finalizada a satisfacción todas las fases con sus 
+informes de Auditorías correspondientes, e Informe de Test de Intrusión (Pentesting) o 
+Análisis de Vulnerabilidades de Código sin hallazgos de riesgo alto o crítico, los responsables 
+técnicos del Ayuntamiento y la empresa adjudicataria procederán a la firma del Acta de 
+Recepción y Conformidad. Dicha acta formalizará la puesta en producción real de la 
+plataforma.
+• Mantenimiento: La firma del Acta de Recepción marcará el inicio del período de la 
+prestación del servicio de mantenimiento correctivo, evolutivo y soporte técnico contemplado 
+en el contrato.
+
+--- página 14 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 14 de 27
+8. PRESUPUESTO Y FORMA DE PAGO
+El valor estimado para la contratación es (IVA excluido): 24.793,39 €.
+Siendo el método de cálculo aplicado el precio medio del valor del mercado.
+El presupuesto base de licitación, se detalla a continuación:
+Presupuesto (IVA excluido):                           24.793,39 €
+IVA (21%):                                                      5.206,61 €
+Presupuesto base de licitación, IVA incluido: 30.000,00 €
+Desglose del presupuesto base de licitación: costes directos, indirectos, costes salariales, otros 
+gastos eventuales:
+El servicio incluye: el 80% para costes directos, 10% para costes indirectos y el 10% para gastos 
+eventuales. 
+Sistema de determinación del precio: Precios de mercado de licencias y servicios de software. Otras 
+contrataciones públicas similares.
+El pago del precio del contrato se efectuará mediante el abono de facturas parciales por hitos 
+de ejecución y certificaciones mensuales de servicio, previa conformidad técnica del Responsable del 
+Contrato, con arreglo al siguiente desglose:
+1. Primer Pago (16% del importe total del contrato): Se abonará tras la aprobación por parte 
+del Ayuntamiento del Plan de Trabajo, Cronograma Detallado y Documentación de Análisis 
+Técnico e Infraestructura, entregados por la empresa adjudicataria dentro de los quince (15) 
+días siguientes a la firma del Acta de Inicio del contrato.
+2. Segundo Pago (34% del importe total del contrato): Se abonará tras la finalización 
+completa de la fase de implantación, parametrización, migración de datos, formación del 
+personal y aprobación del Informe de Auditoría de Seguridad/Pentesting, previa formalización 
+del Acta de Recepción y Conformidad firmada por el Responsable del Contrato. 
+Presentando la factura correspondiente.
+3. Pagos Recurrentes (50% restante del importe total del contrato): El 50% restante se 
+distribuirá y abonará en cuotas mensuales equitativas a lo largo del periodo restante de 
+vigencia del contrato (correspondientes a las prestaciones de mantenimiento correctivo, 
+evolutivo, soporte técnico). Dicho abono se realizará por mensualidades vencidas, previa 
+presentación de la factura correspondiente y tras la emisión del informe de conformidad del 
+Servicio de Archivo / Servicio de TIC.
+9. VALORACIÓN DE LAS OFERTAS 
+La adjudicación recaerá en el licitador que presente la oferta más ventajosa, teniendo en 
+cuenta un solo criterio.(precio): Dado que las prestaciones a contratar están perfectamente definidas 
+técnicamente y no es posible variar plazos de entrega ni introducir modificaciones de ninguna clase 
+en el contrato.
+• Fórmula:
+Importe de la oferta más económica x 100
+Puntuación Oferta Y=     --------------------------------------------------------------
+Importe de la oferta que se valora Y
+Designación de criterios que permiten identificar oferta anormalmente baja:
+
+--- página 15 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 15 de 27
+ SI: Según el Art. 85 del Real Decreto 1098/2001 de 12 de octubre, por el que se aprueba el 
+Reglamento General de la Ley de Contratos de las Administraciones Públicas.
+Variantes: NO
+10. SEGURIDAD Y CONFIDENCIALIDAD DE LA INFORMACIÓN
+El adjudicatario queda expresamente obligado a mantener absoluta confidencialidad y reserva 
+sobre cualquier dato que pudiera conocer con ocasión del cumplimiento del contrato, especialmente 
+los de carácter personal, que no podrá copiar o utilizar con fin distinto al que figura en este 
+documento, ni tampoco ceder a terceros.
+El adjudicatario quedará obligado al cumplimiento de lo dispuesto en la Ley Orgánica 3/2018, de 
+5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y en el 
+Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 relativo a la 
+protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre 
+circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de 
+protección de datos).
+
+--- página 16 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 16 de 27
+ANEXO  AL PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA EL SERVICIO DE 
+MIGRACIÓN Y UNIFICACIÓN DE INSTRUMENTOS DE DESCRIPCIÓN PARA EL ARCHIVO 
+FÍSICO DEL ARCHIVO MUNICIPAL DE MOLINA DE SEGURA, INCORPORANDO 
+CONDICIONES ESPECIALES DE EJECUCIÓN DE TIPO SOCIAL Y ÉTICO
+1.- Definición del objeto del contrato:
+El objeto del presente contrato es la adquisición, implantación, migración de datos y puesta en 
+servicio de un software de base de datos relacional, On-Premise, para el Ayuntamiento de Molina de 
+Segura, así como la prestación de los servicios de mantenimiento, soporte técnico y auditoría de 
+seguridad asociados.
+Código/s CPV: 
+72320000-4 Servicios relacionados con la informática / Servicios de datos 
+72320000-8 Administración, mantenimiento, manipulación y gobernanza de los datos 
+División en lotes: NO
+Justificación de la no división en lotes del contrato: 
+• Unidad funcional e indisolubilidad: El software y los datos sobre los que opera no 
+pueden separarse; quien implanta el programa debe garantizar que los datos 
+históricos se leen correctamente bajo las normas ISAD(G)/NEDA.
+• Responsabilidad única (Single Point of Accountability): Si hay una brecha de 
+seguridad (ENS) o un fallo en la base de datos, no se puede permitir que el 
+proveedor del software culpe al proveedor de la migración o del mantenimiento.
+• Plazo ajustado (2 meses): La necesidad de coordinar múltiples proveedores en un 
+plazo de solo 8 semanas hace técnicamente inviable la ejecución independiente.
+Obligación de subrogación por norma legal, un convenio colectivo o un acuerdo de 
+negociación colectiva de eficacia general (artículo 130 LCSP): 
+NO
+Contrato reservado de conformidad con la D.A. 4ª LCSP: 
+
+--- página 17 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 17 de 27
+NO
+Necesidades administrativas a satisfacer mediante el contrato :
+En la actualidad, el Archivo Municipal de Molina de Segura presenta un ecosistema de 
+información fragmentado y heterogéneo. Los instrumentos de descripción existentes se 
+encuentran dispersos en diversos soportes y formatos ofimáticos aislados (bases de datos 
+en Microsoft Access, hojas de cálculo en Excel y documentos de texto .doc, y .pdf). Esta 
+dispersión técnica y formal penaliza la eficacia operativa del servicio, genera duplicidades en 
+la información y dificulta gravemente la búsqueda y recuperación integral de los fondos 
+documentales.
+Para corregir esta situación y avanzar hacia la transformación digital del servicio, se hace 
+imprescindible la contratación de un servicio de software en modalidad On Premise, que 
+incluya los servicios técnicos y humanos de migración, depuración y normalización de la 
+totalidad de los datos de los instrumentos de descripción actuales, integrándolos de forma 
+coherente, centralizada y bajo una arquitectura de información uniforme.
+- Las obligaciones establecidas en las letras a) a e), ambas incluidas, del art.122.2 
+LCSP.
+Contrato complementario de obras/suministro: SÍ
+El objeto del núcleo contractual comprende los servicios especializados de migración, limpieza, 
+depuración y estructuración de la base de datos bajo el estándar ETL y normativa archivística 
+(ISAD(G) / NEDA), junto con el despliegue On-Premise, la auditoría de ciberseguridad 
+(pentesting conforme al ENS), la formación del personal y el mantenimiento correctivo y 
+evolutivo posterior.
+2.- Unidad encargada del seguimiento y ejecución del contrato. Responsable del 
+Contrato.
+Concejalía Archivo Municipal
+Responsable del Contrato: Francisca Jiménez Rodríguez, Jefa de Archivo Municipal.
+
+--- página 18 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 18 de 27
+3.- Valor Estimado y plazo de presentación de ofertas. 
+Valor estimado: 24.793,39 € ,IVA excluido
+Método de cálculo aplicado para calcular el valor estimado: Precio medio del valor del 
+mercado 
+Sujeto a regulación armonizada: NO 
+4.- Presupuesto base de licitación y crédito en que se ampara. 
+Tipo de presupuesto: A precio cerrado o a tanto alzado
+Presupuesto (IVA excluido): 24.793,39 euros
+IVA: 5.206,61 euros Tipo: 21%
+Presupuesto base de licitación:    30.000,00    euros, IVA incluido.
+El presupuesto base de licitación se desglosa en: 
+- Costes directos: 80%
+- Costes indirectos: 10%
+- Otros eventuales gastos: 10%
+Cofinanciación: NO Ayuntamiento de Molina de Segura: 100% Otros Entes: 0%
+
+--- página 19 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 19 de 27
+Aportación del Ayuntamiento de Molina de Segura: 30.000,00 euros
+Anualidad Importe (IVA  incluido)
+..2026. 30.000,00 euros
+Sistema de determinación del presupuesto:  Se ha tomado como referencia los precios de 
+mercado de licencias y servicios de software y la consulta de otras contrataciones públicas 
+similares.
+La determinación del precio del contrato se efectúa a precio cerrado (a tanto alzado), de 
+conformidad con lo dispuesto en el artículo 309 LCSP)
+Partida presupuestaria: 38/9230/2270002 
+ Posibilidad de incrementar el número de unidades hasta el 10 % del precio del contrato: NO
+5.- Revisión de precios. 
+Procede:  NO
+6.- Régimen de pagos. 
+El pago del precio del contrato se efectuará mediante el abono de facturas parciales por 
+hitos de ejecución y certificaciones mensuales de servicio, previa conformidad técnica del 
+Responsable del Contrato, con arreglo al siguiente desglose:
+    1. Primer Pago (16% del importe total del contrato): Se abonará tras la aprobación por 
+parte del Ayuntamiento del Plan de Trabajo, Cronograma Detallado y Documentación de 
+Análisis Técnico e Infraestructura, entregados por la empresa adjudicataria dentro de los 
+quince (15) días siguientes a la firma del Acta de Inicio del contrato.
+
+--- página 20 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 20 de 27
+    2. Segundo Pago (34% del importe total del contrato): Se abonará tras la finalización 
+completa de la fase de implantación, parametrización, migración de datos, formación del 
+personal y aprobación del Informe de Auditoría de Seguridad/Pentesting, previa 
+formalización del Acta de Recepción y Conformidad firmada por el Responsable del 
+Contrato. Presentando la factura correspondiente.
+    3. Pagos Recurrentes (50% restante del importe total del contrato): El 50% restante se 
+distribuirá y abonará en cuotas mensuales equitativas a lo largo del periodo restante de 
+vigencia del contrato (correspondientes a las prestaciones de mantenimiento correctivo, 
+evolutivo, soporte técnico). Dicho abono se realizará por mensualidades vencidas, previa 
+presentación de la factura correspondiente y tras la emisión del informe de conformidad del 
+Servicio de Archivo / Servicio de TIC.
+- Abonos a cuenta por operaciones preparatorias: NO proceden. 
+7.- Plazo de ejecución y lugar de ejecución. 
+Plazo total:  12 mes, desde el acta de inicio, siendo el periodo de implantación de 2 
+meses como máximo.
+Prórroga: NO.
+Duración: 12 meses (1 año) naturales a contar desde la firma del Acta de Inicio. 
+Durante este periodo se ejecuta la implantación inicial y, una vez finalizada y 
+firmada el Acta de Recepción, se devenga el periodo restante de soporte, 
+garantía y mantenimiento evolutivo/correctivo hasta completar el año.
+Plazos Parciales: NO
+Recepciones parciales: NO
+Lugar de ejecución: Archivo Municipal Molina de Segura
+
+--- página 21 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 21 de 27
+8.- Programa de trabajo. 
+Obligación de presentar un programa de trabajo: SÍ
+Se requerirán dos, cada uno en una fase distinta del proceso de licitación:
+1.-Junto con la oferta técnica se requiere la presentación de un Programa de Trabajo que 
+describa los servicios ofertados y deberá contener, como mínimo:
+    • Descripción de la solución propuesta.
+    • Descripción del soporte ofertado.
+Incluirá la planificación temporal, cronograma de implantación (instalación On-Premise, 
+parametrización, migración de datos y formación) y dimensionamiento del equipo humano 
+necesario.
+2.-Previo a la firma del acta de inicio se deberá presentar el Plan de Trabajo Definitivo, que 
+incluirá: Cronograma definitivo, detallado y coordinado de común acuerdo con el personal de 
+las concejalías de Archivo y de TIC para la ejecución de las fases de implantación, 
+precisando la ejecución de las mismas. Será necesario establecer canales de comunicación 
+seguros con el Servicio de Informática (TIC) y el Servicio de Archivo Municipal para el 
+acceso a la Máquina Virtual y redes VPN.
+Momento de presentación: En el caso del primer Programa de Trabajo (1) requerido se 
+tendrá que presentar junto con la oferta técnica. Y por último, el Plan de Trabajo Definitivo (2) 
+se entregará, previo a la firma del Acta de Inicio, en el plazo máximo de cinco (5) días naturales 
+a contar desde al notificación de la adjudicación.
+9.- Procedimiento y criterios de adjudicación. 
+Tramitación anticipada: NO
+Tramitación: Ordinaria
+Procedimiento: abierto simplificado
+Criterios de adjudicación: Se atiende a un único criterio
+10.- Solvencia económica, financiera y técnica 
+TÉCNICA Y PROFESIONAL
+
+--- página 22 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 22 de 27
+     Procede: SÍ. Pudiendo ser acreditada, indistintamente, con la clasificación o la 
+acreditación de la solvencia económica, financiera y técnica o profesional.
+Opción 1: Clasificación:
+Grupo/s: V Servicios de Tecnologías de la Información y las Comunicaciones 
+Subgrupo/s: V-2 Servicios de desarrollo y mantenimiento de programas de ordenador
+Categoría/s: 1] 
+Opción 2:
+Acreditación de la solvencia económica y financiera: 
+Se acreditará mediante el volumen anual de negocios del licitador que, referido al año de 
+mayor volumen de negocios de los tres últimos concluidos, deberá ser al menos por un 
+importe igual o superior a 1,5 veces el valor estimado del contrato (o, en su defecto, fijar una 
+cifra concreta equivalente al Presupuesto Base de Licitación o a su 1,5x).
+Se justificará mediante las cuentas anuales aprobadas y depositadas en el Registro 
+Mercantil o en el registro oficial que corresponda. Los empresarios individuales no inscritos 
+en el Registro Mercantil acreditarán su volumen anual de negocios mediante sus libros de 
+inventarios y cuentas anuales legalizados por el Registro Mercantil.
+-Acreditación de la solvencia técnica o profesional: 
+El licitador deberá acreditar su solvencia técnica o profesional mediante la presentación de 
+la certificación de una relación de, al menos, tres proyectos o contratos de servicios de igual 
+o similar naturaleza a los indicados en el presente pliego, ejecutados en el curso de los tres 
+últimos años.
+Se considerarán servicios de naturaleza similar aquellos trabajos que comprendan, en su 
+conjunto o por separado:
+    1. Suministro, implantación, parametrización o mantenimiento de software de gestión de 
+archivos, gestión documental o administración electrónica en el ámbito del sector público.
+
+--- página 23 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 23 de 27
+    2. Migración, tratamiento, conversión o estructuración de bases de datos documentales o 
+sistemas de información hacia plataformas de gestión de archivos.
+    3. Servicios de descripción, inventariado, organización o digitalización de fondos 
+documentales conforme a estándares archivísticos normalizados (ISAD(G), NEDA, EAD, 
+EAC-CPF).
+11.- Concreción de las condiciones de solvencia. 
+a) Compromiso de adscripción a la ejecución del contrato de medios personales y/o 
+materiales: SÍ  
+El licitador deberá acreditar su solvencia técnica o profesional mediante la presentación de 
+una relación de, al menos, tres proyectos o contratos de servicios de igual o similar 
+naturaleza a los indicados en el presente pliego, ejecutados en el curso de los tres últimos 
+años.
+b) Los licitadores deberán incluir los nombres y cualificación profesional del personal 
+responsable  de ejecutar la prestación objeto del contrato: NO
+12.- Habilitación empresarial. 
+Procede: NO 
+ 
+13.- Pólizas de seguros. 
+Procede: SÍ
+300.000 euros
+Seguro de Responsabilidad Civil General y Profesional (con cobertura de riesgos tecnológicos 
+y protección de datos)
+La entidad adjudicataria está obligada a disponer y mantener en vigor durante toda la duración 
+del contrato una póliza de Seguro de Responsabilidad Civil General y Profesional (con 
+cobertura de riesgos tecnológicos y protección de datos), por un importe mínimo de 300.000 
+euros por siniestro.
+
+--- página 24 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 24 de 27
+Dicha póliza deberá cubrir todos los daños, perjuicios e indemnizaciones que se puedan 
+derivar del desarrollo de las labores descritas en este pliego, incluyendo explícitamente los 
+errores u omisiones profesionales, pérdida o corrupción de datos e incidencias de 
+ciberseguridad.
+El contratista deberá acreditar la suscripción y estar al corriente de pago de dicha póliza con 
+carácter previo a la firma del contrato. La no disposición o cancelación de dicho seguro 
+constituirá causa de resolución inmediata del contrato por incumplimiento imputable al 
+contratista.
+Momento de entrega de las pólizas: Previa a la adjudicación del contrato.
+14.- Criterios de adjudicación. 
+La adjudicación recaerá en el licitador que presente la oferta más ventajosa, teniendo 
+en cuenta un solo criterio.(precio): Dado que las prestaciones a contratar están 
+perfectamente definidas técnicamente y no es posible variar plazos de entrega ni introducir 
+modificaciones de ninguna clase en el contrato.
+Fórmula: 
+Importe de la oferta más económica x 100
+Puntuación Oferta Y=     -----------------------------------------------------------------
+Importe de la oferta que se valora Y
+15.- Admisibilidad de variantes.
+Procede: NO
+16.- Documentación técnica a presentar en relación con los criterios de adjudicación: 
+SÍ
+    • Programa y plan de Trabajo: Memoria descriptiva que detalle la planificación temporal, 
+cronograma de implantación (instalación On-Premise, parametrización, migración de datos y 
+formación) y dimensionamiento del equipo humano asignado.
+    • Memoria Técnica de la Solución: Descripción de la arquitectura de la plataforma web 
+(stack tecnológico sobre NGINX, PHP y bases de datos relacionales abiertas de tipo 
+MySQL, MariaDB, PostgreSQL o equivalente), asegurando el cumplimiento de los 
+
+--- página 25 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 25 de 27
+estándares archivísticos (ISAD(G), NEDA).
+    • Certificado de Conformidad con el Esquema Nacional de Seguridad (Real Decreto 
+311/2022): o, en su defecto, compromiso y declaración responsable formal suscrita por la 
+empresa de encontrarse en proceso de adecuación o auditoría para la obtención de dicha 
+conformidad.
+    • Certificados de solvencia técnica y profesional: Acreditación de haber realizado 
+proyectos de naturaleza similar en los últimos tres años.
+ 17.- Órgano de valoración de criterios subjetivos. 
+Procede: NO
+18.- Condiciones especiales de ejecución. 
+- Condiciones especiales de ejecución, (previstas en el artículo 202.2 LCSP):
+- De tipo social:
+• El adjudicatario se compromete a ejecutar el contrato con criterios de 
+equidad y transparencia fiscal, por lo que los ingresos o beneficios 
+procedentes del presente contrato público serán íntegramente declarados 
+y tributados conforme a la legislación fiscal vigente, prohibiéndose 
+expresamente la utilización de domicilios y su consiguiente tributación en 
+algún país de la lista de paraísos fiscales establecida por la OCDE, bien 
+sea de forma directa o a través de empresas filiales.
+- De tipo ético:
+• El adjudicatario garantiza que la lógica de procesamiento, indexación y 
+búsqueda del software no empleará sesgos algorítmicos ni criterios 
+opacos que discriminen o alteren la neutralidad en el acceso a los fondos 
+documentales o a la información pública. 
+En caso de que la empresa adjudicataria subcontrate la ejecución de determinadas partes 
+del contrato, la obligación que se deriva del cumplimiento de la cláusula social será asumida 
+
+--- página 26 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 26 de 27
+del mismo modo e íntegramente. El cumplimiento de esta condición especial de ejecución se 
+comprobará con carácter previo a la formalización del contrato por parte de la 
+administración, debiendo controlarse su cumplimiento de forma periódica durante la 
+ejecución del contrato.
+    
+Otras condiciones especiales de ejecución: 
+- El adjudicatario deberá proceder al abono puntual de los salarios que 
+devenguen todas las personas que adscriba a la prestación del servicio. En 
+caso de producirse un retraso injustificado en el abono de las nóminas de 
+dicho personal por período superior a dos meses la administración podrá 
+optar por resolver el contrato o abonar los salarios devengados y no 
+satisfechos por el adjudicatario con cargo al precio del contrato.
+- Son condiciones especiales de ejecución: las obligaciones establecidas en las letras a) a 
+e), ambas incluidas, del art.122.2 LCSP. 
+Las condiciones especiales de ejecución aquí establecidas tienen la naturaleza de 
+obligación esencial del contrato, por lo que su incumplimiento supone la concurrencia de la 
+causa de resolución prevista en el art.211.f) LCSP.
+19.- Ejecución del contrato. 
+Posibilidad de ejecutar determinadas partes o trabajos, en atención a su especial naturaleza, 
+directamente por el propio licitador o, por un participante en la UTE: 
+[NO
+20.- Subcontratación. 
+Subcontratación : NO
+21.- Cesión del contrato. 
+
+--- página 27 ---
+      
+  
+Ayto. de Molina de Segura
+(Murcia)
+Documento firmado electrónicamente. Código Seguro de Verificación (CSV): 16337430611564152252                         
+Dirección de validación del CSV: https://sedeelectronica.molinadesegura.es/validacion-de-documentos/
+Plaza de España s/n. 30500 Molina de Segura (Murcia) - CIF: P-3002700G - N.º Teléfono 968388500
+Página 27 de 27
+Los derechos y obligaciones dimanantes del contrato podrán ser cedidos por el contratista a 
+un tercero: NO, ya que la cesión no es posible de acuerdo con lo establecido en el segundo 
+párrafo del artículo 214.1 LCSP: Indicar los motivos: Las cualidades técnicas o personales 
+del cedente han sido razón determinante de la adjudicación del contrato.
+22.- Modificaciones previstas en el pliego de cláusulas administrativas particulares. 
+Procede: NO
+23.- Plazo de garantía. 
+Dado que la correcta ejecución de los servicios que constituyen el objeto del contrato es 
+constatable en el mismo momento de su ejecución, no se establece plazo de garantía.
+24.- Finalidad para la cual se cederán los datos del contrato de acuerdo con la 
+previsión establecida en el art. 122.2 de la LCSP: 
+La finalidad de los tratamientos y accesos a los datos de carácter personal titularidad del 
+Ayuntamiento de Molina de Segura por parte del contratista (en calidad de Encargado del 
+Tratamiento) será exclusivamente la necesaria para la correcta ejecución del objeto del 
+contrato, comprendiendo las siguientes operaciones:
+• Implantación y Migración: Lectura, extracción, estructuración, conversión, carga de 
+datos (ETL) y validación de los fondos documentales y expedientes electrónicos 
+municipales sobre la nueva plataforma de archivo On-Premise.
+• Pruebas y Auditoría: Verificación de la integridad, disponibilidad y seguridad del sistema 
+(incluida la ejecución de las pruebas de penetración o pentesting).
+• Mantenimiento y Soporte: Prestación de los servicios de soporte técnico, resolución de 
+incidencias, mantenimiento correctivo/evolutivo y asistencia en la administración del 
+sistema.
+Queda expresamente prohibido al contratista destinar los datos a cualquier otra finalidad 
+distinta a la descrita, tratarlos para fines propios o comunicarlos a terceros, salvo las 
+subcontrataciones autorizadas conforme a la ley.
