@@ -1,0 +1,1065 @@
+
+
+--- página 1 ---
+PLIEGO DE PRESCRIPCIONES TÉCNICAS
+CONSEJERÍA/ORGANISMO CONTRATANTE: Consejería de la Presidencia
+CÓDIGO EXPEDIENTE: A2027/000233 TIPO CONTRATO: Servicios
+TÍTULO EXPEDIENTE: PAGO DE USO DE APIs, GESTIÓN DE STORES Y SOPORTE AVANZADO DE
+LA APLICACIÓN OF@R PARA LA BÚSQUEDA Y CONSULTA CIUDADANA DE LAS OFICINAS DE
+REGISTRO EN LA COMUNIDAD DE CASTILLA Y LEÓN
+OBJETO DEL CONTRATO: Pago de APIs, gestión de stores móviles y soporte avanzado de la  aplicación
+multiplataforma OF@R, propiedad de la Administración de la  C.de Castilla y León, de acuerdo con las
+especificaciones del pliego de  prescripciones técnicas.
+TIPO DE TRAMITACIÓN: Ordinaria PROCEDIMIENTO DE CONTRATACIÓN:
+Procedimiento abierto simplificado art. 159.6 LCSP
+TRAMITACIÓN ECONÓMICA: Anticipada
+CENTRO DIRECTIVO: Dirección General de Transparencia, Atención al Ciudadano y Calidad de los
+Servicios
+UNIDAD PROMOTORA: Servicio de Atención al Ciudadano
+JUSTIFICACIÓN DE LA NECESIDAD: En cumplimiento de los principios de necesidad, idoneidad y
+eficiencia  establecidos en el artículo 28 de la LCSP la naturaleza y extensión de  las necesidades que
+pretenden cubrirse mediante la celebración del  presente contrato, se encuadran dentro del ámbito de las
+funciones y  competencias atribuidas a este Centro Directivo determinándose con  precisión la idoneidad
+del objeto y contenido del contrato en el Pliego  de Prescripciones Técnicas.
+DETALLE PRESUPUESTARIO
+Anualidad Aplicación presupuestaria Centro Gestor Presupuesto sin IVA IVA Presupuesto total
+2027 G/491A01/64500/0 0109 14.994,00 € 3.148,74 € 18.142,74 € 
+PLAZOS DEL CONTRATO
+DURACIÓN DEL CONTRATO: El contrato tendrá una duración de 12 meses, a contar desde el 1 de  enero
+de 2027, o desde la fecha de formalización del contrato si es  posterior a ésta.
+PRÓRROGAS CONVENCIONALES: Sí
+DURACIÓN DE LA PRÓRROGA: Se prevén 3 posibles prórrogas por la misma duración anual individual 
+para la anualidad siguiente.
+PLAZOS PARCIALES: No
+REVISIÓN DE PRECIOS
+REVISIÓN DE PRECIOS: No
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COPIA AUTENTICA DEL DOCUMENTO   Localizador: A7P4AV1XVEOOVL2O76T2Y1 
+ Fecha Firma: 05/11/2026 14:19:12 Fecha copia: 20/11/2026 09:14:41 
+ Firmado: en Valladolid por La Jefa de Servicio EVA ISABEL GARCIA RUIZ 
+ Acceda a la página web: https://www.ae.jcyl.es/verDocumentos/ver?loun=A7P4AV1XVEOOVL2O76T2Y1 para visualizar el documento 
+
+
+--- página 2 ---
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA LA CONTRATACIÓN DEL PAGO DE USO DE APIs, 
+GESTIÓN DE STORES Y SOPORTE AVANZADO DE LA APLICACIÓN OF@R PARA LA BÚSQUEDA Y 
+CONSULTA CIUDADANA DE LAS OFICINAS DE REGISTRO EN LA COMUNIDAD DE CASTILLA Y LEÓN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COPIA AUTENTICA DEL DOCUMENTO   Localizador: A7P4AV1XVEOOVL2O76T2Y1 
+ Fecha Firma: 05/11/2026 14:19:12 Fecha copia: 20/11/2026 09:14:41 
+ Firmado: en Valladolid por La Jefa de Servicio EVA ISABEL GARCIA RUIZ 
+ Acceda a la página web: https://www.ae.jcyl.es/verDocumentos/ver?loun=A7P4AV1XVEOOVL2O76T2Y1 para visualizar el documento 
+
+
+--- página 3 ---
+ 
+2 
+ 
+1 OBJETO DEL CONTRATO 
+Este documento tiene como objeto establecer las condiciones técnicas que debe cumplir el soporte 
+avanzado y gestión de APIs sobre la aplicación multiplataforma OF@R, propiedad de la Administración de 
+la Comunidad de Castilla y León (en adelante, ACCYL) que responde a las características que se indican a 
+continuación. 
+Además de lo indicado en este Pliego, los licitadores deben considerar el contenido de una Documentación 
+Complementaria para elaborar sus propuestas (en adelante, la Documentación Complementaria). Esta 
+Documentación Complementaria se proporcionará a los interesados que firmen y entreguen el 
+Compromiso de Confidencialidad según lo recogido en el Anexo nº1 de este Pliego. 
+OF@R es un desarrollo multiplataforma que cuenta con los siguientes componentes: 
+a) App móvil iOS y Android destinada al ciudadano 
+b) Aplicación web para el ciudadano 
+c) Aplicación web para el gestor, cuya autenticación se realizará mediante integración con el 
+Directorio Activo de la ACCYL y el sistema de seguridad para aplicaciones Web. 
+d) Backoffice con la Base de Datos y la lógica de negocio del sistema. 
+e) Servicios REST de integración con las apps móviles y las aplicaciones web.  
+Las aplicaciones se encuentran desarrolladas de forma que pueda ser desplegado un único desarrollo como 
+aplicación iOS, Android y Web.  
+ 
+La app móvil iOS y Android destinada al ciudadano para dispositivos móviles iOS y Android consiste en: 
+1. Buscar geográficamente la Oficina más próxima, en un radio de X kilómetros (con posibilidad de 
+configurar la X), tomando como centro:   
+a. su ubicación actual, o bien, 
+b. especificando una ubicación en un mapa 
+2. Buscar una Oficina, seleccionando el tipo de servicio/s necesitado/s, horario de atención al 
+público, y la Provincia / Municipio 
+3. Seleccionar una Oficina concreta como resultado de la búsqueda 1 o la búsqueda 2. El listado 
+mostrará la ubicación de la oficina, la distancia, los servicios que presta y el horario a partir de 
+DIR3, el Directorio Común a nivel nacional. 
+4. Mostrar la información completa de la Oficina seleccionada 
+a. Denominación de la Oficina; código DIR3 
+b. Horario de atención al público 
+c. Lista de servicios prestados 
+d. Dirección postal completa 
+e. Teléfono/s de contacto 
+f. Correo electrónico 
+g. Muestra su geolocalización. 
+5. Trazar una ruta que permita llegar a la Oficina desde la ubicación deseada, bien sea la opción 1.a. 
+o la opción 1.b. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COPIA AUTENTICA DEL DOCUMENTO   Localizador: A7P4AV1XVEOOVL2O76T2Y1 
+ Fecha Firma: 05/11/2026 14:19:12 Fecha copia: 20/11/2026 09:14:41 
+ Firmado: en Valladolid por La Jefa de Servicio EVA ISABEL GARCIA RUIZ 
+ Acceda a la página web: https://www.ae.jcyl.es/verDocumentos/ver?loun=A7P4AV1XVEOOVL2O76T2Y1 para visualizar el documento 
+
+
+--- página 4 ---
+ 
+3 
+ 
+La aplicación web para el ciudadano tiene la misma funcionalidad que la app móvil y se publica en la Sede 
+Electrónica de la ACCYL.  
+ 
+Por su parte, la ACCYL dispone de una aplicación web para el gestor, con las siguientes funcionalidades: 
+1. Actualizar o modificar la información relativa a las Oficinas en caso necesario. 
+2. Autorizar a la aplicación a que los datos modificados sean publicados para las apps móviles. 
+3. Realizar las mismas consultas que puede realizar el ciudadano con la aplicación Web.  
+ 
+La app móvil permite su funcionamiento aún si no se dispusiera de conexión de datos. Para ello, cada app 
+móvil cuenta con su propia base de datos local (un localstorage), la cual se actualiza cada vez que se inicia 
+la aplicación y el dispositivo tenga cobertura de datos, y el mecanismo de sincronización es óptimo en 
+velocidad y consumo de datos para el ciudadano.  
+La forma de actualizarse la app móvil es mediante invocación a los servicios REST indicados anteriormente. 
+Los productos y versiones para la base de datos y los servidores de aplicaciones se indican en la 
+Documentación Complementaria. 
+Cualquier desarrollo ha de seguir la guía de estilo y de diseño de la ACCYL, revisada por la Dirección 
+competente en la materia y que se proporcionará a la empresa contratista. 
+La app móvil es y debe seguir siendo totalmente gratuita para el usuario y no contiene ni debe contener 
+ningún tipo de publicidad. Esto implica no utilizar librerías externas que estén sujetas a cualquier tipo de 
+contraprestación, sea económica o de otra índole. 
+La app móvil se encuentra publicada en los stores que la ACCyL tiene identificados como Junta de Castilla y 
+León en los markets para tecnología iOS (App Store) y Android (Play Store). 
+La empresa contratista deberá garantizar la correcta visualización de los contenidos de la app móvil, al 
+menos, en dispositivos móviles que usen cualquier versión de iOS y Android publicada en los últimos tres 
+años. 
+El modelo de datos diseñado se indica en la Documentación Complementaria. 
+El acceso a la información de las Oficinas de Asistencia en Materia de Registros, se realizará a través de los 
+servicios web disponibles del sistema DIR3. 
+Para los servicios de navegación y geolocalización de oficinas, se usa la API y el SDK de Google Maps. 
+ 
+2 CARACTERÍSTICAS DEL SERVICIO  
+La empresa contratista asume el compromiso de prestar un servicio de soporte y gestión sobre la aplicación 
+multiplataforma OF@R, propiedad de la ACCyL, consistente en: 
+1. Abono de la superación del uso de la Api de Google Maps. Al requerirse titularidad de los elementos 
+Firebase, se reportarán en informe trimestral los costes por uso que excedan del número de 
+llamadas gratuito establecido unilateralmente por Google, y se restarán del importe de las tareas 
+planificadas.  
+2. Revisión requisitos de markets Google/Apple, que requieran intervención, en los plazos que 
+establezcan dichos markets. Si supone cambio de código (recodificación) se soportará con cargo al 
+soporte de horas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COPIA AUTENTICA DEL DOCUMENTO   Localizador: A7P4AV1XVEOOVL2O76T2Y1 
+ Fecha Firma: 05/11/2026 14:19:12 Fecha copia: 20/11/2026 09:14:41 
+ Firmado: en Valladolid por La Jefa de Servicio EVA ISABEL GARCIA RUIZ 
+ Acceda a la página web: https://www.ae.jcyl.es/verDocumentos/ver?loun=A7P4AV1XVEOOVL2O76T2Y1 para visualizar el documento 
+
+
+--- página 5 ---
+ 
+4 
+ 
+3. 1 posible actualización anual estimada de la app móvil por necesidad de adaptación de API level o 
+similar, en los plazos que establezcan los markets, consistente en estudio informe y publicación; 
+por tanto, los cambios adicionales y la publicación si supone la recodificación se soportarán con 
+cargo a las horas totales del contrato. 
+4. Monitorización a través de Firebase, para detectar posibles incidencias, estudio, informe y 
+publicación. Si la publicación supone recodificación dentro de la app móvil se realizará con cargo a 
+las horas de soporte del contrato. 
+5. 1 chequeo y posible actualización trimestral estimada de versiones de terceros; si implica 
+recodificación dentro de la app móvil, se efectuarán con cargo a las horas de soporte. 
+6.  Soporte de resolución de incidencias en aras de asegurar que la aplicación permanece publicada 
+en los markets en funcionamiento adecuado, con un máximo de 2 incidencias mensuales. Incluye 
+la posibilidad de tareas adaptativas derivadas de requisitos nuevos en los markets que impliquen 
+modificaciones en la app móvil diferentes de la actualización de niveles de API. Se agruparán las 
+incidencias en 4 entregas al año como máximo 
+ 
+Para el desarrollo de estas tareas se estiman un mínimo de 420 horas de soporte al año, 35 horas al mes de 
+media, con una tarifa por hora de un máximo de 35,7 €/hora. Podrá disponerse de la duración completa de 
+la bolsa en cualquier momento. 
+Todas las tareas que no forman parte de la dedicación estimada se suministrarán en la modalidad tarifa por 
+hora, previa estimación por la empresa y aprobación del cliente. 
+ 
+3 MODELO DE GESTIÓN Y EJECUCIÓN 
+3.1 CONDICIONES GENERALES 
+El contratista debe proveer todos los servicios, funcionalidades y actividades objeto del contrato y su 
+gestión integral. Para ello, tiene que contar con todos los recursos necesarios, seguir todos los procesos y 
+utilizar los sistemas de gestión que sean necesarios para realizar la óptima provisión de los servicios. 
+El contratista deberá correr con todos los gastos necesarios para la ejecución del contrato en óptimas 
+condiciones de rendimiento y seguridad hasta su finalización. 
+La ACCyL no quedará vinculada por los actos del contratista que sean contrarios o no se ajusten a lo indicado 
+por la ACCyL. Todas las responsabilidades correspondientes serán del contratista. 
+El contratista realizará todos los trabajos necesarios para prestar el servicio. Los trabajos se prestarán por 
+personas habilitadas para esos trabajos, habiendo recibido todos ellos la formación necesaria, y las 
+actualizaciones pertinentes, también sobre la organización y forma de trabajo de la ACCyL de acuerdo con 
+su sistema de gestión. Estas personas deberán disponer de al menos las herramientas y medios que se 
+hayan establecido en los procedimientos. 
+Se cumplirán las normas de identificación y acceso a las sedes, las de coordinación de actividades 
+empresariales y las de seguridad e higiene en el trabajo que correspondan. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COPIA AUTENTICA DEL DOCUMENTO   Localizador: A7P4AV1XVEOOVL2O76T2Y1 
+ Fecha Firma: 05/11/2026 14:19:12 Fecha copia: 20/11/2026 09:14:41 
+ Firmado: en Valladolid por La Jefa de Servicio EVA ISABEL GARCIA RUIZ 
+ Acceda a la página web: https://www.ae.jcyl.es/verDocumentos/ver?loun=A7P4AV1XVEOOVL2O76T2Y1 para visualizar el documento 
+
+
+--- página 6 ---
+ 
+5 
+ 
+El contratista será responsable del buen estado de los equipos e instalaciones relacionados con la ejecución 
+del contrato, así como de las actuaciones u omisiones que le sean imputables y de las consecuencias que 
+estas puedan ocasionar sobre las personas, los equipos y las instalaciones. Asimismo, deberá garantizar que 
+las versiones del software empleado en sus equipos se mantengan debidamente actualizadas y cuenten 
+con las actualizaciones y parches de seguridad que resulten aplicables. 
+Toda la documentación se entregará en formato digital reproducible o editable con la ofimática utilizada 
+por la ACCyL y según las plantillas que la ACCyL pueda proporcionar. El contratista utilizará fuentes 
+tipográficas que no supongan coste u otras restricciones y asumirá las consecuencias de no haberlo hecho 
+así. 
+Para todo aquello no contemplado expresamente en este documento se seguirán estándares, 
+metodologías, marcos de trabajo, estipulaciones normativas y buenas prácticas establecidas en normativa 
+de aplicación o, en su ausencia, de calidad reconocida y amplio uso, cuya adecuación al objeto del contrato 
+será motivada por el contratista si se le requiere. 
+3.2 EQUIPO HUMANO, COORDINACIÓN, REPORTE DE INFORMACIÓN Y COMUNICACIÓN 
+La empresa contratista habrá de justificar experiencia acumulada por un mínimo de 3 años para proyectos 
+similares de desarrollo de aplicaciones en movilidad para Android e iOS que incluyan geolocalización y, 
+asimismo, acreditará su experiencia acumulada por 3 años como mínimo en proyectos de desarrollo de 
+aplicaciones en que la autenticación se integre con directorio activo de la ACCYL y con su sistema de 
+seguridad para aplicaciones web. Se valorará de forma proporcional un mayor número de años completos 
+de experiencia sobre el mínimo exigido, hasta un máximo de 5 años adicionales. Para su justificación deberá 
+aportar, cuando sea propuesta como adjudicataria, certificación acreditativa expedida por la empresa, 
+entidad u organización en la que se hayan desarrollado dichos proyectos similares. 
+La empresa contratista desarrollará el servicio contratado por un equipo técnico, cuyo organigrama y 
+estructura de trabajo habrá de detallar en su oferta, liderado por consultor respecto del que acreditará su 
+experiencia acumulada durante al menos 3 años en el desempeño de puestos de responsabilidad técnica y 
+de gestión de proyectos de desarrollo de aplicaciones informáticas en movilidad para entornos Android e 
+iOS que incluyan geolocalización. Se valorará de forma proporcional un mayor número de años completos 
+de experiencia sobre el mínimo exigido, desempeñando puestos de responsabilidad técnica y de gestión de 
+proyectos de desarrollo de aplicaciones informáticas en movilidad para entornos Android e iOS que incluyan 
+geolocalización. 
+Asimismo, se acreditará la experiencia acumulada de dicho consultor por 3 años como mínimo en el 
+desempeño de puestos de responsabilidad técnica y de gestión de proyectos de desarrollo de aplicaciones 
+en que la autenticación se integre con el directorio activo de la ACCYL y con su sistema de seguridad para 
+aplicaciones web. Se valorará de forma proporcional un mayor número de años completos de experiencia 
+sobre el mínimo exigido desempeñando puestos de responsabilidad técnica y de gestión de proyectos de 
+desarrollo de aplicaciones informáticas en que la autenticación se integre con el directorio activo de la 
+ACCYL y con su sistema de seguridad para aplicaciones web. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COPIA AUTENTICA DEL DOCUMENTO   Localizador: A7P4AV1XVEOOVL2O76T2Y1 
+ Fecha Firma: 05/11/2026 14:19:12 Fecha copia: 20/11/2026 09:14:41 
+ Firmado: en Valladolid por La Jefa de Servicio EVA ISABEL GARCIA RUIZ 
+ Acceda a la página web: https://www.ae.jcyl.es/verDocumentos/ver?loun=A7P4AV1XVEOOVL2O76T2Y1 para visualizar el documento 
+
+
+--- página 7 ---
+ 
+6 
+ 
+La empresa contratista deberá aportar, cuando sea propuesta como adjudicataria, certificación acreditativa 
+de la experiencia mínima acumulada del consultor exigida en este pliego, expedida por la empresa, entidad 
+u organización en la que se hayan desarrollado dichos proyectos similares.  
+El consultor designado será la persona de contacto, responsable para el seguimiento del contrato y 
+encargado del control de la calidad de su ejecución, con una disponibilidad presencial o remota ordinaria 
+de una jornada al trimestre.  
+Sin perjuicio de lo establecido en particular en materia de seguridad de la información, entre las funciones 
+esenciales de este responsable se encuentran: 
+a) Velar por la buena ejecución del contrato. 
+b) Canalizar todas las demandas de la ACCyL dentro de su compañía y realizar su seguimiento. 
+c) Asistir a las reuniones a las que resulte convocado por los responsables de la ACCYL para el presente 
+contrato. 
+d) Planificar con los responsables de la ACCYL para el presente contrato los desarrollos, evolutivos y 
+adaptativos ante las incidencias y oportunidades de mejora que se produzcan durante el período 
+de vigencia del contrato. 
+e) Presentar, al menos una vez al trimestre, con la factura, informe de evaluación de la calidad de la 
+prestación de los servicios contratados, del estado de entregas para el correcto funcionamiento del 
+sistema y, en su caso, referencia a las medidas necesarias para garantizar la ejecución del contrato 
+en las condiciones pactadas y propuestas para la mejora continua de la ejecución. 
+f) Mantener informado a los responsables de la ACCYL para este contrato de la evolución del software 
+base. 
+g) Coordinar junto a los servicios corporativos de informática, comunicaciones y ciberseguridad de la 
+ACCYL cualquier procedimiento de mejorar que beneficie la usabilidad, mejore tiempos de 
+ejecución o simplifique la gestión de los productos objeto del contrato. 
+h) Cualquier otra encomienda realizada por la ACCYL en beneficio de la ejecución del contrato. 
+ 
+Este consultor responsable por parte de la empresa contratista contará con apoyo directo de los órganos 
+de dirección del contratista, a fin de dirigir la prestación del contrato, velar por el desarrollo de la actividad 
+de cada persona sin extralimitación en las funciones y tendrá competencia comercial y técnica suficiente 
+como para comprender, encauzar, organizar y responder a cualquier cuestión relacionada con los trabajos 
+objeto del contrato. 
+Para la comunicación, habitualmente se usarán servicios de videoconferencia, aunque eventualmente, 
+podrían ser también presenciales en dependencias utilizadas por la ACCyL en la ciudad de Valladolid, o 
+mixtas (con personas reunidas presencialmente en esas ubicaciones y otras participando a través de 
+videoconferencia). Con carácter ordinario se producirá una reunión trimestral de seguimiento, a las que 
+asistirá el consultor responsable pudiéndose convocar extraordinariamente reuniones operativas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COPIA AUTENTICA DEL DOCUMENTO   Localizador: A7P4AV1XVEOOVL2O76T2Y1 
+ Fecha Firma: 05/11/2026 14:19:12 Fecha copia: 20/11/2026 09:14:41 
+ Firmado: en Valladolid por La Jefa de Servicio EVA ISABEL GARCIA RUIZ 
+ Acceda a la página web: https://www.ae.jcyl.es/verDocumentos/ver?loun=A7P4AV1XVEOOVL2O76T2Y1 para visualizar el documento 
+
+
+--- página 8 ---
+ 
+7 
+ 
+semanales a las que asistirán las personas necesarias cuando las circunstancias así lo justifiquen previo 
+acuerdo de las partes. 
+El contratista deberá entregar en dichas reuniones la información de calidad y actividad necesaria para 
+realizar un completo y óptimo seguimiento de la prestación de los servicios y con la periodicidad necesaria 
+para ello, entre otra, información de eficacia en la provisión de los servicios. Adicionalmente se elaborarán 
+los informes extraordinarios o a medida que solicite la ACCyL.  
+Desde un punto de vista operativo, el modelo de comunicación admitirá, por su naturaleza, el diálogo 
+directo del personal que provee el objeto del contrato con personal de la ACCyL, de proveedores de la 
+ACCyL o de otros interlocutores que pudieran verse involucrados en la atención de incidentes, problemas, 
+solicitudes de servicio, trabajos programados o incidentes de seguridad; o que pudieran participar en la 
+adopción o implantación de las medidas adecuadas para mitigar su impacto. La comunicación se realizará 
+a través de los canales de comunicación y según los procedimientos que se indiquen en ejecución del 
+contrato. 
+Se podrá habilitar acceso remoto a recursos corporativos de la ACCyL a través de las plataformas de Extranet 
+de la ACCyL vía VPN IPSec por Internet o similar (cuyos detalles se facilitarán al adjudicatario) a las personas 
+que provean los servicios, que los usarán pudiendo tener que autenticarse vía certificado electrónico 
+exclusivo de la persona con un segundo factor de autenticación. 
+Por lo que respecta a la ACCyL, la Dirección Técnica de los trabajos derivados del presente contrato se 
+llevará a cabo por el Servicio de Informática de la Secretaría General de la Consejería de la Presidencia, 
+apoyado a estos efectos por el Director de Proyecto de Ventanilla Única y la Dirección Funcional se 
+efectuará por el Servicio de Atención al Ciudadano de la Dirección General de Transparencia, Atención al 
+Ciudadano y Calidad de los Servicios de la Consejería de la Presidencia. 
+3.3 ATENCIÓN MULTICANAL 
+La empresa contratista prestará atención y asistencia remota en línea, a través de la plataforma que 
+suministre a estos efectos, por correo electrónico y por teléfono. La ACCyL le facilitará información sobre 
+los mecanismos principales y alternativos para la comunicación entre la ACCyL, sus proveedores u otros 
+interlocutores involucrados. 
+4 ACCESIBILIDAD 
+La app móvil cuenta con informe de accesibilidad de su conformidad respecto de los requisitos descritos en 
+el Real Decreto 1112/2018, de 7 de septiembre. 
+El contratista deberá tener en cuenta lo establecido por el Real Decreto 1112/2018, de 7 de septiembre, 
+sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público. En 
+particular, se deberán cumplir los requisitos pertinentes de la norma UNE-EN 301-549:2022 (o de sus 
+actualizaciones vigentes) o partes de estos. No es objeto del contrato elaborar una declaración de 
+accesibilidad formal, ni certificar el cumplimiento referido. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COPIA AUTENTICA DEL DOCUMENTO   Localizador: A7P4AV1XVEOOVL2O76T2Y1 
+ Fecha Firma: 05/11/2026 14:19:12 Fecha copia: 20/11/2026 09:14:41 
+ Firmado: en Valladolid por La Jefa de Servicio EVA ISABEL GARCIA RUIZ 
+ Acceda a la página web: https://www.ae.jcyl.es/verDocumentos/ver?loun=A7P4AV1XVEOOVL2O76T2Y1 para visualizar el documento 
+
+
+--- página 9 ---
+ 
+8 
+ 
+5 SEGURIDAD DE LA INFORMACIÓN 
+La empresa contratista, y las subcontratistas que participen en la ejecución del contrato, realizarán 
+exclusivamente las tareas necesarias para los fines contratados y lo harán contando en cada momento con 
+los permisos de acceso a sistemas de información y de acceso a información y funcionalidades mínimos que 
+sean imprescindibles. 
+El contratista cumplirá los principios básicos y los requisitos mínimos referidos en el ENS y tomará las 
+medidas técnicas, organizativas o cualesquiera otras que sean necesarias para garantizar la seguridad de la 
+información y de los servicios en todas sus dimensiones: confidencialidad, integridad, trazabilidad, 
+autenticidad y disponibilidad. 
+Responderá del cumplimiento de sus obligaciones por toda la cadena de sus empresas subcontratistas y 
+proveedoras que participen en la ejecución del contrato. 
+Cumplirá la legislación y las normativas de protección de datos personales y garantía de derechos digitales 
+y el Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad (en 
+adelante, ENS), junto con las guías de seguridad CCN-STIC que sean de aplicación, en función de los datos a 
+tratar, la infraestructura a utilizar y el nivel de seguridad que aplique. 
+La empresa contratista debe cumplir lo dispuesto en las políticas, normativas, instrucciones y 
+procedimientos de seguridad y de gestión u operación de la ACCyL que les serán proporcionados durante 
+el contrato. La ACCyL puede requerir su participación en su evolución y en cualquier momento la empresa 
+contratista puede proponer cambios y mejoras. También deberá hacer cumplir al personal que asignen al 
+contrato la Política de Seguridad de la Información de la ACCyL vigente (en la actualidad, Decreto 22/2021) 
+y la norma de condiciones de uso de los sistemas de información de la ACCyL vigente (en la actualidad 
+Orden FYM/332/2022), y recabará de forma expresa y por escrito su compromiso de cumplimiento. 
+Las prestaciones objeto del contrato forman parte de sistemas de información de la ACCyL de categoría 
+BÁSICA y niveles BAJOS para las dimensiones de confidencialidad, integridad, trazabilidad, autenticidad y 
+disponibilidad y, adicionalmente lo referido para la categoría MEDIA de las medidas “Desarrollo de 
+aplicaciones” [mp.sw.1] y “Aceptación y puesta en servicio [mp.sw.2]”. 
+En su actuación para ejecutar el contrato, la empresa contratista deberá actuar de conformidad con el ENS, 
+por lo que se le requiere que aplique las medidas y los refuerzos de seguridad indicados en el Anexo II del 
+ENS que se correspondan con la categoría y los niveles del sistema de información de la ACCyL. 
+En caso de que la empresa contratista no pueda aplicar alguna de las medidas o refuerzos de seguridad 
+referidos, deberá justificarlo motivadamente ante la ACCyL, que deberá valorar y, en su caso, aceptar dicha 
+justificación. En caso de no aceptarse la justificación, deberá aplicarse la medida o refuerzo 
+correspondiente, u otras protecciones compensatorias previamente aceptadas por la ACCyL. 
+En los trabajos realizados, la empresa contratista deberá integrar la seguridad desde el diseño y por defecto, 
+aplicando las recomendaciones y estándares reconocidos que resulten adecuados a la naturaleza de los 
+trabajos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COPIA AUTENTICA DEL DOCUMENTO   Localizador: A7P4AV1XVEOOVL2O76T2Y1 
+ Fecha Firma: 05/11/2026 14:19:12 Fecha copia: 20/11/2026 09:14:41 
+ Firmado: en Valladolid por La Jefa de Servicio EVA ISABEL GARCIA RUIZ 
+ Acceda a la página web: https://www.ae.jcyl.es/verDocumentos/ver?loun=A7P4AV1XVEOOVL2O76T2Y1 para visualizar el documento 
+
+
+--- página 10 ---
+ 
+9 
+ 
+La ACCyL podrá auditar o comprobar el cumplimiento de las medidas y refuerzos aplicados por la empresa 
+contratista, pudiendo exigir al contratista cualesquiera evidencias de cumplimiento, incluyendo la 
+documentación que justifique la correcta aplicación de las medidas y refuerzos de seguridad o protecciones 
+compensatorias, el acceso a las instalaciones de la empresa donde se ubiquen las infraestructuras no cloud 
+por las que se recibe el servicio, el acceso a ficheros de configuración, identificación de productos y 
+proveedores, etc. Su revisión podrá incluir participación de organismos o proveedores que determine la 
+ACCyL. Se mejorará el sistema con los resultados de la revisión. 
+El personal de la empresa contratista que ejecute el contrato estará permanentemente formado en 
+aquellas materias relativas a seguridad de la información que requiera el desempeño de sus funciones (en 
+particular en lo relativo a configuración de sistemas, detección y reacción ante incidentes y a gestión de la 
+información en cualquier soporte en el que se encuentre, al menos almacenamiento, transferencia, copias, 
+distribución y destrucción), sus obligaciones y las consecuencias de su incumplimiento; y cumplirá con 
+cuanto resulte de aplicación. Asimismo, dicho personal deberá estar cualificado y disponer de unos niveles 
+idóneos de gestión y madurez en los servicios a prestar. 
+La empresa contratista hará copias de seguridad periódicas de los sistemas propios que utilice y se verificará 
+también periódicamente, aunque con menos frecuencia, su restauración correcta. 
+La empresa contratista colaborará con la ACCyL en la realización de los análisis de riesgos, trabajos de 
+adecuación y documentación de cumplimiento de normativas y auditorías de seguridad que considere la 
+ACCyL para su sistema de información, como, por ejemplo, en cuanto a su conformidad con los requisitos 
+del ENS. 
+La empresa contratista colaborará con la ACCyL en materia de ciberseguridad, ofreciendo los medios 
+necesarios para hacer frente a posibles situaciones de ataque, amenazas o incidentes que puedan 
+producirse en el ámbito del objeto del contrato, proporcionando cooperación e intercambiando 
+información. La empresa contratista dispondrá de procedimientos de actuación forense. 
+La empresa contratista comunicará a la ACCyL toda vulnerabilidad que pudiera afectar a las soluciones y a 
+los servicios utilizados para proveer los objetos del contrato y promoverán y realizarán los trabajos 
+necesarios para dejar de ser vulnerables en la práctica evitando la posible explotación o su impacto a través 
+de configuración, arquitectura, forma de uso de los servicios, etc. Además, responderán las consultas que 
+sobre ello reciban de la ACCyL. 
+La empresa contratista notificará inmediatamente cualquier incidente de seguridad o brecha de seguridad 
+en sus sistemas de información o en los sistemas de información de la ACCyL, incluso cualquier sospecha 
+de que se esté produciendo. 
+La empresa contratista designará un POC (Punto o Persona de Contacto) para la seguridad de la información 
+de acuerdo con el ENS. 
+La empresa contratista informará a los trabajadores cuyos datos personales comunique a la ACCyL para la 
+ejecución del contrato, de que se ha producido dicha comunicación. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COPIA AUTENTICA DEL DOCUMENTO   Localizador: A7P4AV1XVEOOVL2O76T2Y1 
+ Fecha Firma: 05/11/2026 14:19:12 Fecha copia: 20/11/2026 09:14:41 
+ Firmado: en Valladolid por La Jefa de Servicio EVA ISABEL GARCIA RUIZ 
+ Acceda a la página web: https://www.ae.jcyl.es/verDocumentos/ver?loun=A7P4AV1XVEOOVL2O76T2Y1 para visualizar el documento 
+
+
+--- página 11 ---
+ 
+10 
+ 
+Las obligaciones previstas en esta cláusula tendrán carácter complementario respecto de las establecidas 
+en el PCAP y en la normativa aplicable en materia de seguridad de la información, confidencialidad y 
+protección de datos y demás disposiciones que resulten de aplicación durante la ejecución del contrato. 
+ 
+6 PROPIEDAD Y CONFIDENCIALIDAD DE LA INFORMACIÓN 
+Toda la información producida en ejecución del objeto del contrato será propiedad de la ACCyL, 
+reservándose esta Administración todas las facultades inherentes a este derecho, pudiendo reproducirla, 
+publicarla o divulgarla parcialmente o en su totalidad, en la medida que tenga conveniente, sin que pueda 
+oponerse a ello la empresa contratista alegando derechos de autor. 
+A estos efectos, el código fuente será propiedad intelectual de ACCYL y será entregado al órgano promotor 
+del presente contrato. Esto incluye:  
+a) Código fuente resultado de la programación.  
+b) Creación/modificación de los objetos de base de datos.  
+c) Ficheros de configuración. 
+La empresa contratista se compromete a presentar la siguiente documentación técnica que será actualizada 
+con cada entrega: 
+a) Análisis de requisitos. 
+b) Definición de los casos de uso, descritos individualmente, y además reflejados en un diagrama de 
+casos de uso. 
+c) Casos de prueba. 
+d) Diseño y especificación del modelo de datos. 
+e) Diseño y especificación de los procesos de negocio. 
+f) Diseño y especificación de la interfaz del usuario. 
+g) Especificación de los servicios REST de comunicación del frontoffice con el backoffice. 
+h) Informe de las pruebas realizadas a partir de los casos de prueba: pruebas unitarias de integración 
+y funcionales de las apps móviles, las aplicaciones web y la capa de servicios REST. 
+i) Informe de accesibilidad de su conformidad respecto de los requisitos descritos en el Real Decreto 
+1112/2018, de 7 de septiembre. 
+La empresa contratista se compromete a no utilizar la información recibida obtenida o producida en 
+ejecución del contrato para fines distintos a la propia ejecución. Toda esa información se entenderá como 
+confidencial, debiendo la empresa contratista asegurar de la forma más estricta posible dicha condición 
+tomando las medidas técnicas y organizativas necesarias. La empresa contratista y el personal que participe 
+en la prestación del objeto no podrán hacer ninguna divulgación de esa información sin autorización 
+expresa por escrito de la ACCyL y deberán proteger la confidencialidad de la información, incluso después 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COPIA AUTENTICA DEL DOCUMENTO   Localizador: A7P4AV1XVEOOVL2O76T2Y1 
+ Fecha Firma: 05/11/2026 14:19:12 Fecha copia: 20/11/2026 09:14:41 
+ Firmado: en Valladolid por La Jefa de Servicio EVA ISABEL GARCIA RUIZ 
+ Acceda a la página web: https://www.ae.jcyl.es/verDocumentos/ver?loun=A7P4AV1XVEOOVL2O76T2Y1 para visualizar el documento 
+
+
+--- página 12 ---
+ 
+11 
+ 
+de extinguirse el contrato o la relación del personal que participe en la prestación del objeto del contrato 
+con la empresa contratista. 
+La empresa contratista comunicará a la ACCyL de forma inmediata, cualquier fallo en su sistema de 
+tratamiento y gestión de la información que haya tenido o pueda tener como consecuencia la puesta en 
+conocimiento de terceros de información confidencial obtenida de la ejecución del contrato. 
+La empresa contratista realizará el borrado seguro, el reciclaje o la destrucción de los elementos que se 
+hayan utilizado en algún momento para prestar los servicios y dejen de hacerlo (como elementos averiados 
+irreparables, utilizados temporalmente durante resolución de incidencias o reparaciones, reemplazados, 
+etc.). Se respetará la normativa medioambiental correspondiente. 
+A la finalización del contrato, la empresa contratista quedará obligada a la entrega a la ACCyL de cualquier 
+información obtenida o producida en ejecución del contrato en los formatos indicados por la ACCyL para 
+su mejor uso, evolución y reutilización (habitualmente estructurados, abiertos e interoperables), y a su 
+destrucción o borrado seguro de los datos en los equipos informáticos utilizados. 
+ 
+7 FINALIZACIÓN DEL CONTRATO 
+La empresa contratista adoptará las medidas oportunas que faciliten a la ACCyL la apertura de un nuevo 
+proceso de licitación en las mejores condiciones posibles de igualdad, de concurrencia de licitadores y de 
+minimización del impacto de la transferencia del servicio a otros posibles nuevos contratistas. 
+La empresa contratista presentará un plan de transición de los servicios prestados que garantice el relevo 
+adecuado a posibles nuevos proveedores futuros. 
+La empresa contratista deberá cooperar con los nuevos contratistas que pudiera seleccionar la ACCyL en 
+todas las actividades que, relacionadas con la implantación efectiva de los servicios por parte de los nuevos 
+proveedores, requieran su participación, aportando, para ello, todos los recursos humanos y materiales que 
+resulten necesarios, y garantizando en todo momento la continuidad en la prestación del servicio sin que 
+éste sufra ninguna interrupción como consecuencia del cambio de proveedores. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COPIA AUTENTICA DEL DOCUMENTO   Localizador: A7P4AV1XVEOOVL2O76T2Y1 
+ Fecha Firma: 05/11/2026 14:19:12 Fecha copia: 20/11/2026 09:14:41 
+ Firmado: en Valladolid por La Jefa de Servicio EVA ISABEL GARCIA RUIZ 
+ Acceda a la página web: https://www.ae.jcyl.es/verDocumentos/ver?loun=A7P4AV1XVEOOVL2O76T2Y1 para visualizar el documento 
+
+
+--- página 13 ---
+ 
+12 
+ 
+ANEXO Nº1. COMPROMISO DE CONFIDENCIALIDAD 
+ 
+La Documentación Complementaria se proporcionará a la empresa interesada después de que ésta 
+entregue a la Administración de la Comunidad de Castilla y León (en adelante, ACCyL) el compromiso de 
+confidencialidad indicado a continuación, firmado por una persona con poderes suficientes de 
+representación para ello en la empresa. 
+Este compromiso se firmará electrónicamente y se entregará por correo electrónico a la dirección de correo 
+electrónico referida en el Pliego de Cláusulas Administrativas Particulares como contacto para obtener 
+información relativa a este Pliego de Prescripciones Técnicas. 
+La Documentación Complementaria se enviará por correo electrónico a la dirección indicada por la 
+empresa. 
+ 
+D./Dª (NOMBRE Y APELLIDOS) en nombre y representación de la empresa (IDENTIFICACIÓN DE LA 
+EMPRESA), compromete a la misma a utilizar la información de la Documentación Complementaria relativa 
+al contrato (NOMBRE DEL CONTRATO) exclusivamente para evaluar la licitación al mismo y, en su caso, para 
+elaborar su propuesta. 
+La empresa conoce que dicha información es propiedad de la ACCYL y tiene carácter CONFIDENCIAL. La 
+empresa se compromete a protegerla diligentemente, adoptando las medidas necesarias para garantizar 
+su confidencialidad y a comunicar cualquier incidente de seguridad que pudiera comprometerla. 
+Se solicita que la Documentación Complementaria se envíe cifrada a la dirección de correo electrónico 
+(CUENTA DE CORREO ELECTRÓNICO DE LA EMPRESA) y que la contraseña sea comunicada al número de 
+teléfono (NÚMERO DE TELÉFONO DE LA EMPRESA). 
+En caso de no resultar adjudicataria, la empresa se compromete a destruir de forma segura tanto los 
+originales como las posibles copias de la información facilitada. 
+Además, DECLARA RESPONSABLEMENTE tener poderes suficientes para representar y comprometer a la 
+empresa para que asuma las responsabilidades referidas en este compromiso. 
+En (LOCALIDAD) a la fecha de la firma electrónica 
+Fdo.: (NOMBRE Y APELLIDOS) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COPIA AUTENTICA DEL DOCUMENTO   Localizador: A7P4AV1XVEOOVL2O76T2Y1 
+ Fecha Firma: 05/11/2026 14:19:12 Fecha copia: 20/11/2026 09:14:41 
+ Firmado: en Valladolid por La Jefa de Servicio EVA ISABEL GARCIA RUIZ 
+ Acceda a la página web: https://www.ae.jcyl.es/verDocumentos/ver?loun=A7P4AV1XVEOOVL2O76T2Y1 para visualizar el documento 

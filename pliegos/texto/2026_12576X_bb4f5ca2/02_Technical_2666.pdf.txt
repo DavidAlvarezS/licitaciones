@@ -1,0 +1,1435 @@
+
+
+--- página 1 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+Este documento ha sido firmado electrónicamente por
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARTICULARES QUE HABRÁ DE 
+REGIR LA LICITACIÓN DE LA PRESTACIÓN DEL SERVICIO DE 
+PLATAFORMA TECNOLÓGICA PARA LA GESTIÓN, REGULACIÓN Y CONTROL 
+DEL ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN TORRELAVEGA 
+BASADA EN APLICACIONES MÓVILES Y DISPOSITIVOS BLUETOOTH. 
+EXPTE:  2026/00012576X
+1. OBJETO DEL CONTRATO
+El objeto del contrato consiste en el despliegue, implantación y explotación de una solución 
+tecnológica integral destinada a la gestión del Estacionamiento Regulado Activo (E.R.A.) 
+en la vía pública, incluyendo su puesta en funcionamiento, mantenimiento, soporte técnico y 
+evolución funcional. Dicha solución deberá permitir la gestión de las zonas azul y naranja, 
+configuradas como áreas de estacionamiento regulado de carácter gratuito y sujetas a 
+limitación temporal de permanencia, de conformidad con lo establecido en el texto 
+refundido de la Ordenanza Reguladora del Estacionamiento Regulado Activo (E.R.A.), 
+publicado en el Boletín Oficial de Cantabria n.º 195, de 9 de octubre de 2026.
+El sistema deberá proporcionar las herramientas necesarias para el registro, control, 
+supervisión y seguimiento de los estacionamientos, garantizando el cumplimiento de las 
+condiciones de uso, los horarios de regulación y los tiempos máximos de permanencia 
+establecidos en la citada Ordenanza. Asimismo, deberá facilitar las funciones de gestión, 
+inspección y control atribuidas al Ayuntamiento de Torrelavega, proporcionando información 
+en tiempo real sobre la utilización de las plazas y permitiendo la explotación de los datos 
+generados por el servicio para su seguimiento y mejora continua.
+La solución tecnológica ofertada deberá posibilitar la digitalización integral de los 
+procedimientos asociados a la gestión del estacionamiento regulado en las zonas azul y 
+naranja, incluyendo, entre otras funcionalidades, el registro y validación de estacionamientos, 
+el control de la ocupación de las plazas, la supervisión del cumplimiento de las condiciones de 
+uso, la emisión de avisos a los usuarios, la gestión de los procedimientos de anulación de 
+denuncias a través de aplicación móvil, la obtención y explotación de información estadística 
+y operativa del servicio, así como la comunicación e interacción con los usuarios y con los 
+servicios municipales responsables de su gestión.
+
+
+--- página 2 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+La solución tecnológica deberá basarse en el uso de una App (Android y iOS) compatible con 
+cualquier smartphone de mercado. Para facilitar la obtención de un tique de estacionamiento, 
+la App deberá establecer comunicación con un sensor de proximidad Bluetooth, instalado en 
+la señal que delimita la zona de estacionamiento, que deberá permitir detectar al instante el 
+tipo de zona, el código de zona y las condiciones de estacionamiento que regulan la zona a esa 
+hora del día. 
+La plataforma tecnológica del licitador deberá permitir el registro, control, supervisión y 
+seguimiento de los estacionamientos realizados por los usuarios, garantizando el 
+cumplimiento de las condiciones de uso establecidas en la Ordenanza y proporcionando al 
+Ayuntamiento las herramientas necesarias para la gestión integral del sistema.
+Las zonas de estacionamiento regulado objeto de gestión mediante el sistema tecnológico 
+previsto en la presente licitación presentan las siguientes características:
+ZONA NARANJA
+La zona naranja corresponde a aquellas plazas que, durante una franja horaria determinada, se 
+encuentran reservadas para operaciones de carga y descarga y que, fuera del horario 
+específicamente establecido para dicha reserva mediante la correspondiente señalización, 
+pueden ser utilizadas para el estacionamiento de cualquier tipo de vehículo. 
+El estacionamiento estará sometido a regulación durante los días laborables en los siguientes 
+horarios:
+• De lunes a viernes: de 11:00 a 14:00 horas y de 16:00 a 20:00 horas. 
+• Sábados: de 11:00 a 14:00 horas.
+ZONA AZUL
+La zona azul corresponde a las plazas de estacionamiento situadas en la vía pública destinadas 
+al estacionamiento de vehículos en régimen de rotación. 
+El estacionamiento estará sometido a regulación durante los días laborables en los siguientes 
+horarios:
+• De lunes a viernes: de 9:00 a 14:00 horas y de 16:00 a 20:00 horas.
+• Sábados: de 9:00 a 14:00 horas.
+Con carácter general, el tiempo máximo de permanencia permitido en las zonas reguladas será 
+de 90 minutos. No obstante:
+• Los usuarios titulares de la Tarjeta Ciudadana del Ayuntamiento de Torrelavega 
+dispondrán de un tiempo máximo de permanencia de 120 minutos. 
+
+--- página 3 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+• Los vehículos destinados al transporte de personas con discapacidad o movilidad 
+reducida, siempre que transporten a su titular, dispongan del correspondiente 
+distintivo oficial y éste se encuentre visible en el parabrisas delantero, podrán 
+permanecer estacionados durante un máximo de 180 minutos. 
+• Cuando el titular de dicho distintivo disponga además de la Tarjeta Ciudadana del 
+Ayuntamiento de Torrelavega, el tiempo máximo autorizado se ampliará hasta 240 
+minutos.
+Una vez alcanzado el tiempo máximo autorizado de estacionamiento, o una vez finalizado 
+voluntariamente el mismo por el usuario, el vehículo deberá abandonar la plaza regulada. 
+Asimismo, no podrá volver a estacionar en ninguna plaza perteneciente a la misma zona 
+regulada durante los 30 minutos siguientes, con independencia de que se trate de la misma 
+plaza o de otra diferente dentro de la misma zona.
+Asimismo, el sistema deberá contemplar el régimen específico aplicable a las plazas de la 
+ZONA NARANJA durante el periodo comprendido entre las 8:00 y las 11:00 horas, de lunes 
+a sábado, en el que se encuentran reservadas para operaciones de carga y descarga. Durante 
+dicho horario, el tiempo máximo de utilización de cada plaza será de 30 minutos, debiendo el 
+sistema permitir su control y gestión de conformidad con las condiciones establecidas en la 
+Ordenanza.
+El presente pliego de prescripciones técnicas tiene por objetivo definir las características 
+técnicas exigidas en la presente contratación que serán de obligado cumplimiento, así como la 
+implantación, formación, soporte técnico a la operación y mantenimiento de las 
+correspondientes plataformas tecnológicas.
+La descarga, utilización o cualquier otra interacción o consulta relacionada con la plataforma 
+o sus aplicaciones para dispositivos de telefonía móvil, en ningún caso supondrá ningún tipo 
+de coste para los usuarios conductores.
+2. OBJETIVOS DEL CONTRATO
+El sistema de regulación digitalizado que se licita debe presentar claras ventajas para los 
+conductores que estacionan en las zonas reguladas, para los vigilantes que las controlen y para 
+el personal del Ayuntamiento de Torrelavega que debe gestionarlas, con el objetivo de:
+- Mejorar la disponibilidad de plazas de estacionamiento para vehículos autorizados a 
+realizar labores de carga y descarga y de plazas de estacionamiento de alta rotación 
+(zonas azul y naranja), aumentando la rotación de los vehículos autorizados y 
+disminuyendo la indisciplina en el estacionamiento.
+
+--- página 4 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+- Permitir la configuración de un tiempo máximo de estacionamiento y de un horario de 
+funcionamiento específico para cada una de las zonas de aparcamiento regulado que se 
+establezcan.
+- Disponer de información de uso de las zonas de estacionamiento regulado en tiempo 
+real que faciliten la búsqueda de aparcamiento por parte de los usuarios de las zonas 
+reguladas.
+- Digitalizar la regulación de este tipo de zonas de estacionamiento regulado.
+- Analizar patrones de comportamiento para ajustar la oferta a la demanda de plazas de 
+estacionamiento.
+- Disponer de datos en tiempo real y de estadísticas históricas que permitan a la vez 
+conocer el estado de la oferta y la demanda de plazas, a fin de poder optimizar las 
+zonas y las condiciones de regulación de los estacionamientos.
+3. ALCANCE DE LA CONTRATACIÓN
+El Ayuntamiento de Torrelavega cuenta actualmente con un servicio de estacionamiento 
+regulado de vehículos en la vía pública que gestiona las denominadas ZONA NARANJA y 
+ZONA AZUL. 
+En el Anexo III de este pliego se incluye el listado de las plazas de aparcamiento que se 
+encuentran señalizadas en el momento de la redacción de este pliego como zonas azul y 
+naranja de acuerdo a lo establecido en la modificación de la Ordenanza reguladora del 
+estacionamiento regulado activo (E.R.A.).
+El Ayuntamiento podrá modificar y crear nuevas zonas de estacionamiento regulado (zonas 
+azul y naranja) en cualquier momento a lo largo de toda la vigencia del contrato, debiendo el 
+contratista realizar cuantas actuaciones y modificaciones sean necesarias para ello en un plazo no 
+superior a 15 días contados a partir de la fecha en la que recibe la comunicación. 
+4. DESCRIPCIÓN DEL SERVICIO
+Los licitadores presentarán sus propuestas tecnológicas adaptadas a las siguientes necesidades 
+a cubrir en términos de exigencias funcionales, con inclusión en su caso de mejoras 
+tecnológicas e innovadoras que consideren viables y adecuadas a la finalidad de este contrato.
+Los licitadores deben cumplir las condiciones que se recogen a continuación.
+• La plataforma tecnológica de gestión de las plazas de estacionamiento regulado se 
+basará en la utilización de sensores Bluetooth asociados a la señalización física de la 
+
+--- página 5 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+zona de estacionamiento y una aplicación para usuarios con el fin de regular, 
+controlar, monitorizar y analizar las zonas de estacionamiento regulado gratuitas y con 
+tiempo limitado. 
+• El licitador deberá estudiar cuántos dispositivos electrónicos con Bluetooth debe 
+colocar para el funcionamiento de cada una de las zonas azul y naranja establecidas en 
+el Anexo III de este pliego.
+• La solución tecnológica propuesta por los licitadores deberá posibilitar la íntegra 
+digitalización de los procesos relativos al estacionamiento: regulación, control, 
+ocupación, explotación de datos y comunicación. La gestión del estacionamiento 
+regulado activo contemplada en esta licitación se refiere exclusivamente al uso de 
+medios tecnológicos (componentes electrónicos y aplicaciones móviles). 
+• La plataforma tecnológica deberá permitir su adecuación a la normativa vigente y sus 
+posibles modificaciones. 
+• Los dispositivos tecnológicos posibilitarán conocer en tiempo real el estado de las 
+plazas (libre/ocupada), mostrar a los conductores el estado de ocupación de las zonas 
+cercanas y regular de forma dinámica el espacio público de estacionamiento en 
+función de distintos parámetros como pueda ser ubicación, perfil de usuario, tipo de 
+vehículo, etiqueta de emisiones DGT, etc. o las condiciones de contexto de la ciudad.  
+• La propuesta debe incluir la incorporación de los sensores Bluetooth necesarios a 
+colocar en la señalización en la vía pública que identifique cada zona de 
+estacionamiento. El sistema será autónomo en el sentido de que no requerirá red 
+eléctrica ni alimentación. El suministro y mantenimiento durante la duración del 
+contrato de dicho componente electrónico (Bluetooth) será por cuenta del contratista y 
+debe incluirse en la memoria técnica que presente junto con la oferta. El dispositivo 
+será adecuado a las características técnicas de un entorno exterior y desatendido. 
+• El sistema de gestión no requerirá red de datos adicionales, sino que habrá de basarse 
+en el canal de datos del smartphone del usuario.
+• El comprobante de aparcamiento será digital. No se instalarán parquímetros ni otros 
+elementos físicos en la calle para generar tiques de aparcamiento. La información del 
+comprobante de aparcamiento podrá ser consultada por el usuario, la Policía Local y 
+por los usuarios del BackOffice. 
+• La propuesta deberá permitir una gestión de datos con fines estadísticos respetuosa 
+con el derecho a la intimidad de los usuarios y la normativa de protección de datos 
+aplicable, evitando la identificación individualizada de vehículos. El servicio de 
+
+--- página 6 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+análisis de movilidad urbana en las zonas de estacionamiento regulado, servicio de 
+análisis estadístico y evaluación de datos, será accesible para el Ayuntamiento vía 
+online.
+• La aplicación móvil para los conductores será compatible con cualquier “smartphone” 
+del mercado. Esta aplicación permitirá obtener de forma segura un comprobante del 
+tiempo de estacionamiento permitido y mostrar información sobre el estado de 
+ocupación de las áreas en tiempo real, así como sobre la ocupación estimada en las 
+zonas cercanas. Su diseño deberá ser sencillo y accesible, en particular, para las 
+personas mayores y personas con discapacidad, de modo que sus contenidos sean 
+perceptibles, operables, comprensibles y robustos teniendo en cuenta el contenido del 
+Real Decreto 1112/2018 sobre accesibilidad de los sitios web y aplicaciones para 
+dispositivos móviles del sector público. 
+• El Contratista deberá cumplir con todos los requerimientos establecidos en el Esquema 
+Nacional de Seguridad y en la normativa vigente sobre protección de datos de carácter 
+personal. Los datos personales exigidos en el registro de usuario serán los 
+estrictamente necesarios para gestionar el acceso a la aplicación. La gestión de los 
+datos personales se ajustará a los principios contenidos en el Art. 5 del Reglamento 
+(UE) 2016/679. En cualquier caso, el encargado del tratamiento de dichos datos 
+deberá garantizar el deber de confidencialidad y ofrecer suficientes garantías en lo 
+referente a conocimientos especializados, fiabilidad y recursos para la aplicación de 
+medidas técnicas y organizativas que demuestren la seguridad del tratamiento y el 
+cumplimiento de la normativa de protección de datos de carácter personal. El 
+Contratista no podrá copiar o utilizar dichos datos con fin distinto al que figura en este 
+pliego, ni tampoco ceder a otros ni siquiera a efectos de conservación.
+• Con el fin de implementar políticas de regulación municipal del tráfico, se considera 
+de interés la obtención de datos neutros tales como etiqueta de emisión DGT y tipo de 
+vehículo.
+• El diseño de la aplicación móvil será personalizado para la ciudad de Torrelavega, con 
+un estilo gráfico determinado para cada una de las zonas de la ciudad, incluyendo el 
+escudo municipal, así como la información y/o logo que en su momento se determine
+• El idioma de la aplicación será el español, y se incluirá el idioma inglés como segunda 
+opción. 
+• El uso del sistema propuesto no comportará ningún gasto para el usuario final. 
+• Los usuarios tendrán acceso a través de la propia aplicación a un Servicio de Centro de 
+ayuda, sitio web o de contacto.
+
+--- página 7 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+• La aplicación permitirá la gestión de las denuncias por aparcamiento indebido en las 
+zonas de estacionamiento regulado. 
+• La propuesta tecnológica de gestión deberá incluir el derecho de uso de las patentes – 
+derechos de propiedad intelectual e industrial- necesarias. La solución tecnológica se 
+deberá poder integrar con otros sistemas de información, de manera que permita 
+mostrar en tiempo real el estado de estacionamiento en la ciudad. Además, el sistema 
+permitirá la obtención de información detallada en tiempo real e histórico sobre los 
+patrones de estacionamiento y patrones de ocupación con aplicación de distintos filtros 
+o criterios de selección, como, por ejemplo, localización precisa, emisiones de 
+vehículos según DGT, tiempo de estacionamiento, colectivos, etc.
+• Se facilitará un servicio de apoyo técnico y resolución de incidencias durante todo el 
+contrato.
+• La propuesta tecnológica permitirá al Servicio de Movilidad del Ayuntamiento 
+administrar las condiciones de estacionamiento de cada zona, consultar las 
+operaciones y acceder a los datos estadísticos referentes a los tiques virtuales 
+obtenidos. 
+• El servicio a prestar por el contratista incluirá la implantación y pruebas de los 
+componentes electrónicos precisos para el funcionamiento del servicio, consistente en 
+realizar las tareas correspondientes a la fijación de los dispositivos electrónicos en la 
+placa de las señales verticales correspondientes. 
+• Durante toda la vida del contrato el Ayuntamiento de Torrelavega se responsabiliza 
+del suministro, mantenimiento y colocación de las señales verticales.
+• Los licitadores podrán incluir en sus memorias cualquiera otra funcionalidad adicional 
+que consideren necesaria para llevar a buen fin este contrato.
+5. CARACTERÍSTICAS TÉCNICAS DE LA PLATAFORMA
+El contratista deberá prestar un servicio de implantación y mantenimiento de la plataforma 
+tecnológica para la regulación y control del estacionamiento en las zonas azul y naranja que 
+debe incluir:
+- Los servicios centrales de la plataforma, servidores, base de datos y ancho de banda 
+suficiente para manejar las peticiones de los usuarios de forma rápida.
+- Servicio de mantenimiento y soporte técnico, tareas de mantenimiento preventivo, 
+correctivo y evolutivo de todas las aplicaciones y componentes de la plataforma 
+
+--- página 8 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+tecnológica. Apoyo técnico a la operación y resolución de incidencias durante todo el 
+contrato.
+- Servicio de análisis de movilidad urbana en las zonas de estacionamiento regulado, 
+servicio de análisis estadístico y evaluación de datos, accesible por el Ayuntamiento 
+vía online.
+- Servicio de Aplicación de BackOffice desarrollada en entorno web destinada al área 
+de movilidad que debe permitir, entre otros, administrar las condiciones de 
+estacionamiento de cada zona, consultar operaciones en tiempo real y acceder a los 
+datos estadísticos referentes a los tiques virtuales obtenidos.
+- Servicio de Centro de ayuda, sitio web o de contacto para el usuario que disponga de 
+una guía de uso detallada de la aplicación y sección de preguntas frecuentes, tanto por 
+vigilantes como por conductores que deberá estar disponible desde la propia 
+aplicación.
+- Aplicación por dispositivos de telefonía móvil basados en sistemas operativos 
+Android/iOS, y los que estén disponibles en el mercado para conductores que permita, 
+entre otros, supervisar el tiempo de estacionamiento de los vehículos y el empleo de 
+las zonas de estacionamiento que se encuentran operativas.
+Esta plataforma tecnológica deberá permitir:
+- Adecuar la plataforma y aplicaciones por móvil a los requerimientos y condiciones 
+detalladas en las correspondientes ordenanzas municipales (Ordenanza Reguladora del 
+Estacionamiento Regulado Activo (E.R.A. y Ordenanza de Tráfico y Circulación), así 
+como cualquier modificación de las mismas que en el futuro sea aprobada.
+- Digitalizar íntegramente los procesos relativos al estacionamiento: regulación, control, 
+uso, explotación de datos, comunicación, etc.
+- Regulación por medios digitales de las condiciones de estacionamiento (permiso y 
+tiempo máximo) por cada zona de estacionamiento, basándose en componentes 
+electrónicos para identificar unívocamente la zona de estacionamiento.
+- Parametrización del permiso y del tiempo máximo de estacionamiento por cada zona 
+según criterios geográficos, temporales, características del vehículo o conductor.
+- Permitir que el usuario se identifique como personas con discapacidad o movilidad 
+reducida.
+- Obtención del comprobante de estacionamiento.
+
+--- página 9 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+- Información de uso estimado en tiempo real.
+- Análisis estadístico de los datos históricos de uso.
+- Integración con terceros: aplicaciones de gestión de denuncias, análisis de datos, etc.
+- Integración con la Tarjeta Ciudadana de Torrelavega
+La solución deberá permitir la integración con la plataforma de Tarjeta Ciudadana 
+mediante interfaces de servicios web (API/Web Services).
+A través de dicha integración se validará, en tiempo real, la matrícula del vehículo 
+para determinar si su titular dispone de una Tarjeta Ciudadana activa. En función del 
+resultado de esta validación, el sistema ajustará automáticamente las condiciones y/o 
+el tiempo máximo de estacionamiento aplicable conforme a las reglas de negocio 
+definidas por el Ayuntamiento.
+Esta validación se realizará mediante la comprobación de la matrícula del vehículo a 
+través del campo de identificación y validación de matrículas disponible en la citada 
+plataforma.
+6. SUMINISTRO, INSTALACIÓN Y MANTENIMIENTO DE DISPOSITIVOS 
+ELECTRÓNICOS DE SEÑALIZACIÓN (BLUETOOTH LOW ENERGY - BLE)
+El contratista deberá suministrar, instalar, configurar y mantener los dispositivos electrónicos 
+de tecnología Bluetooth Low Energy (BLE) necesarios para el funcionamiento del sistema y 
+de cada una de las zonas naranjas y azules establecidas por el Ayuntamiento. 
+Dichos dispositivos deberán fijarse a la señalización vertical municipal existente asociada a 
+las zonas de estacionamiento regulado.
+Los licitadores deberán describir de forma detallada en la memoria técnica las características 
+de los dispositivos propuestos, incluyendo, como mínimo, las especificaciones relativas al 
+grado de protección frente a agentes externos, alcance o radio de cobertura, sistema de 
+alimentación, autonomía y vida útil de la batería, así como cualquier otra característica técnica 
+que resulte relevante para garantizar su fiabilidad y correcto funcionamiento durante toda la 
+vigencia del contrato.
+La autonomía de las baterías deberá ser suficiente para asegurar el funcionamiento 
+ininterrumpido de los dispositivos durante toda la duración prevista del contrato, estimada en 
+cuatro (4) años, sin necesidad de sustitución por agotamiento de las mismas.
+
+--- página 10 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+Asimismo, los licitadores deberán indicar en su memoria técnica el número de dispositivos 
+Bluetooth Low Energy (BLE) que consideren necesarios para garantizar la cobertura integral 
+de las zonas de estacionamiento regulado objeto del contrato, desglosando, en su caso, la 
+dotación prevista para cada una de las zonas azul y naranja.
+A estos efectos, los licitadores deberán tener en cuenta que el precio ofertado para la 
+prestación del servicio dependerá únicamente de los precios unitarios por plaza regulada, 
+debiendo estar la totalidad de los medios materiales y tecnológicos necesarios para su correcta 
+ejecución englobados en este precio, sin que el número de dispositivos BLE finalmente 
+requeridos pueda dar lugar a modificación alguna del precio del contrato ni generar derecho a 
+compensación económica adicional.
+En todo caso, será responsabilidad exclusiva del contratista garantizar que los dispositivos 
+bluetooth instalados proporcionen una cobertura completa y efectiva sobre la totalidad de las 
+plazas de estacionamiento incluidas en cada una de las zonas azul y naranja objeto del 
+contrato, debiendo colocar tantos dispositivos y adoptar cuantas medidas técnicas resulten 
+necesarias para asegurar la correcta detección, identificación y gestión de los 
+estacionamientos autorizados. 
+La insuficiencia de cobertura, la existencia de zonas sin servicio o cualquier deficiencia 
+derivada de una inadecuada configuración o dimensionamiento de los dispositivos se 
+considerarán imputables al contratista, quien deberá proceder a su corrección sin coste 
+adicional para el Ayuntamiento.
+7. CARACTERÍSTICAS TÉCNICAS DE LA APLICACIÓN MÓVIL PARA 
+USUARIOS CONDUCTORES
+Las principales condiciones de diseño de la aplicación móvil (app) para conductores de la 
+plataforma tecnológica deberán orientarse a garantizar una experiencia de usuario sencilla, 
+intuitiva, accesible, segura, fiable y eficiente, minimizando las posibles incidencias técnicas, 
+operativas o administrativas derivadas de su implantación y uso.
+El ámbito funcional principal de la aplicación permitirá a los usuarios notificar el inicio y la 
+finalización de los estacionamientos en las zonas reguladas, así como consultar información 
+sobre la ocupación estimada o disponibilidad de plazas en las diferentes zonas de 
+estacionamiento regulado cuando dicha información esté disponible a través de los sistemas 
+implantados.
+a. Requerimientos técnicos.
+La aplicación móvil para usuarios conductores estará destinada a dispositivos móviles tipo 
+smartphone con sistemas operativos Android e iOS y deberá cumplir los siguientes requisitos:
+
+--- página 11 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+- La aplicación deberá ser compatible con las versiones de los sistemas operativos 
+Android e iOS que dispongan de soporte activo por parte de sus fabricantes en el 
+momento de la implantación y durante toda la vigencia del contrato.
+- La aplicación deberá poder operar mediante conexiones de datos móviles WiFi, 4G, 
+5G, Bluetooth 4.0 o superior.
+- La aplicación deberá superar los procesos de homologación, certificación o validación 
+requeridos por los fabricantes y distribuidores de aplicaciones móviles 
+correspondientes para su publicación en los mercados oficiales.
+- La aplicación deberá estar disponible para su descarga en Google Play Store, Apple 
+App Store y cualesquiera otros mercados oficiales que resulten necesarios para 
+garantizar su utilización por la ciudadanía.
+- Los dispositivos Huawei que no dispongan de acceso a Google Play deberán poder 
+utilizar una versión disponible a través de Huawei AppGallery o de cualquier otro 
+canal oficial autorizado por el fabricante.
+- La aplicación deberá ser gratuita para todos los usuarios finales y en todos los 
+mercados en los que se encuentre disponible.
+- La aplicación deberá estar disponible, como mínimo, en castellano e inglés, pudiendo 
+incorporarse otros idiomas a requerimiento del Ayuntamiento.
+- La aplicación deberá cumplir los requisitos de accesibilidad exigibles a las 
+aplicaciones móviles del sector público, garantizando, como mínimo, el cumplimiento 
+de las directrices WCAG 2.1 Nivel AA o de aquellas normas que las sustituyan 
+durante la vigencia del contrato.
+- La aplicación deberá poder comunicarse con componentes electrónicos identificadores 
+de las zonas de estacionamiento mediante tecnología Bluetooth o mediante cualquier 
+otra tecnología equivalente que pueda resultar necesaria para garantizar la correcta 
+prestación del servicio.
+- El funcionamiento de la aplicación deberá ser homogéneo e independiente de la zona 
+de estacionamiento regulado en la que el usuario se encuentre.
+- La aplicación deberá permitir la gestión de uno o varios vehículos asociados a una 
+misma cuenta de usuario, así como la modificación de matrículas, datos de contacto y 
+demás información autorizada.
+- La aplicación deberá integrarse con la plataforma de Tarjeta Ciudadana mediante 
+servicios web (API o Web Services), permitiendo la validación de matrículas y la 
+
+--- página 12 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+aplicación automática de los beneficios, autorizaciones o condiciones especiales de 
+estacionamiento que correspondan a los titulares de dicha tarjeta.
+- La aplicación deberá permitir el envío de notificaciones push a los usuarios para 
+informar, entre otros aspectos, de la finalización próxima del tiempo de 
+estacionamiento autorizado, incidencias del servicio, cambios normativos y 
+comunicaciones de interés relacionadas con el servicio.
+- La aplicación deberá proporcionar a los usuarios acceso a un histórico de 
+estacionamientos, operaciones realizadas, pagos efectuados y justificantes emitidos, 
+permitiendo su consulta y descarga.
+- La aplicación deberá disponer de un centro de ayuda con preguntas frecuentes, canales 
+de asistencia y soporte técnico para usuarios conductores y personal autorizado por el 
+Ayuntamiento.
+- La aplicación deberá adaptarse en tiempo y forma a las modificaciones de zonas, 
+normativa reguladora, tarifas, autorizaciones o instrucciones dictadas por el 
+Ayuntamiento durante la vigencia del contrato.
+- Cuando se realicen cambios o mejoras en la aplicación móvil o en cualquiera de los 
+sistemas que la soportan, el adjudicatario deberá comunicar previamente al 
+Ayuntamiento la disponibilidad de una nueva versión, facilitando un informe detallado 
+de los cambios realizados (changelog).
+- Todas las comunicaciones entre la aplicación, los sistemas de gestión y los servicios 
+externos deberán realizarse mediante protocolos seguros y mecanismos de cifrado 
+adecuados, garantizando la confidencialidad, integridad y disponibilidad de la 
+información tratada.
+- La solución deberá cumplir con la normativa vigente en materia de protección de 
+datos personales, seguridad de la información y administración electrónica que resulte 
+de aplicación durante la vigencia del contrato.
+- El sistema deberá mantener registros de actividad y auditoría de las operaciones 
+realizadas, incluyendo, entre otras, validaciones, inicios y finalizaciones de 
+estacionamiento, pagos, incidencias y modificaciones de configuración, garantizando 
+la trazabilidad de las actuaciones efectuadas.
+- La aplicación móvil deberá contar con un entorno de pruebas diferenciado del entorno 
+de producción, donde se realizarán las verificaciones y controles necesarios para 
+validar su correcto funcionamiento antes de su puesta en servicio.
+- No podrán desplegarse cambios en producción sin haber completado previamente las 
+pruebas funcionales, técnicas y de seguridad correspondientes, así como las 
+
+--- página 13 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+validaciones necesarias para garantizar el adecuado funcionamiento del servicio 
+conforme a la normativa aplicable y a las instrucciones del Ayuntamiento.
+- La plataforma deberá garantizar una disponibilidad mínima anual del 99,5 %, 
+excluyendo únicamente las ventanas de mantenimiento previamente autorizadas y 
+comunicadas al Ayuntamiento.
+- El adjudicatario deberá facilitar al Ayuntamiento un manual actualizado de usuario de 
+la aplicación móvil, así como la documentación funcional y técnica necesaria para su 
+correcta utilización y administración. Cualquier modificación relevante de la 
+aplicación deberá quedar reflejada en la documentación suministrada.
+b. Requerimientos funcionales. 
+La plataforma tecnológica debe permitir regular y controlar el permiso y los tiempos de 
+estacionamiento de los vehículos en las zonas de estacionamiento regulado identificadas con 
+señales de tráfico y con componentes electrónicos que se comunican con la aplicación móvil 
+para identificar unívoca y digitalmente la zona de estacionamiento de forma rápida y 
+automática.
+La aplicación móvil debe poder consultar y presentar al conductor el permiso de 
+estacionamiento y el tiempo máximo de estacionamiento que le corresponde, obtener tiques 
+virtuales de estacionamiento con el método “Start/Stop”, comprobar el tiempo restante y 
+consultar los comprobantes obtenidos.
+La aplicación móvil debe poder permitir al usuario indicar si posee Tarjeta Ciudadana de 
+Torrelavega o si es una persona con discapacidad o movilidad reducida que esté en posesión 
+del correspondiente distintivo.
+La aplicación también debe implementar prestaciones adicionales que aporten valor al 
+conductor: administración de los propios vehículos, información de ocupación estimada en las 
+zonas (plazas libres) en tiempo real, avisos y notificaciones de finalización del tique de 
+estacionamiento, etc.
+Las principales prestaciones de la aplicación móvil para usuarios conductores deberán ser las 
+siguientes:
+- Alta de usuario conductor: La aplicación móvil debe permitir registrar un nuevo 
+conductor indicando sus datos de acceso y modificar los existentes. El alta de una 
+cuenta de usuario conductor debe ser un procedimiento simple, fiable y seguro, donde 
+sólo se soliciten datos personales estrictamente necesarios para poder identificar y 
+
+--- página 14 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+administrar el acceso del usuario a la aplicación móvil, observando en todo caso la 
+normativa de protección de datos en vigor.
+- Administrar vehículos: La aplicación móvil debe permitir crear, editar, seleccionar y 
+eliminar vehículos asociados al conductor, permitiendo que haya configurados más de 
+un vehículo por usuario.
+- La información asociada al vehículo deberá ser suficientemente extensa y precisa para 
+poder regular el tiempo máximo de estacionamiento de cada zona según varios 
+criterios: tipos de vehículo, perfil de conductor, emisiones del vehículo, sector 
+profesional, etc. La aplicación tendrá que validar las matrículas de cualquier formato.
+- Detectar zona de estacionamiento: La aplicación móvil debe poder determinar, con 
+total precisión y en un tiempo máximo de 10 segundos, la zona de estacionamiento 
+donde se encuentra el conductor, en base al componente electrónico instalado en la 
+propia zona, sin necesidad de aproximarse al componente electrónico que regula cada 
+zona.
+- Iniciar estacionamiento: la aplicación móvil permitirá notificar el estacionamiento de 
+acuerdo con las condiciones que le corresponden según la zona, las características del 
+vehículo, la hora del día y el perfil del conductor.
+- El sistema debe poder presentar al conductor las condiciones de estacionamiento 
+(permiso de estacionamiento, horario de regulación, tiempo máximo de 
+estacionamiento, etc.) que regulan la zona de aparcamiento regulado en la que se 
+encuentra el usuario.
+- Deberá mostrarse de forma clara y precisa si el vehículo dispone de permiso para 
+estacionar y las condiciones de regulación del estacionamiento: tiempo máximo, 
+horario, etc.
+- Obtener el tique virtual que habilite para el estacionamiento en las plazas reguladas.
+- El tique virtual deberá contener, al menos, los siguientes datos: matrícula, zona, inicio 
+y fin (día y hora) de la autorización de estacionamiento.
+- Estacionamiento en curso: La aplicación móvil debe informar al conductor sobre las 
+condiciones y el tiempo de estacionamiento restante de forma sencilla, intuitiva y 
+efectiva.
+- Finalizar estacionamiento: La aplicación móvil debe permitir notificar a la 
+plataforma tecnológica el fin del estacionamiento en curso y el correspondiente 
+abandono de la plaza de estacionamiento.
+
+--- página 15 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+- Histórico de estacionamientos: La aplicación móvil debe permitir visualizar y buscar 
+los comprobantes de los tiques virtuales de estacionamientos propios.
+- Detalle de estacionamiento: La aplicación móvil debe permitir visualizar todos los 
+datos asociados a un determinado comprobante de estacionamiento de forma 
+exhaustiva y sin posibilidad de malentendidos. La aplicación móvil debe permitir 
+descargar y compartir los tiques en formato PDF.
+- Uso estimado: La aplicación móvil debe poder informar al usuario conductor sobre el 
+estado de ocupación estimado y las plazas libres disponibles estimadas en las zonas de 
+estacionamiento regulado.
+- Avisos: la aplicación móvil debe poder mostrar los avisos que puedan estimarse 
+necesario realizar por las autoridades municipales. Los posibles gastos de los avisos 
+que realice la app serán por cuenta del contratista.
+- Información: La aplicación móvil debe mostrar contenidos informativos extensos y 
+precisos sobre el funcionamiento de la plataforma tecnológica para regular las zonas 
+de estacionamiento regulado, especialmente en referencia al funcionamiento de la 
+aplicación, preguntas frecuentes, etc.
+- El objetivo de los contenidos informativos es que éstos sean suficientes para que el 
+usuario conductor pueda resolver autónomamente cualquier circunstancia relacionada 
+con el uso de la aplicación.
+- Las preguntas y dudas se agruparán por contexto para facilitar la búsqueda al usuario 
+conductor. Esta información se mantendrá y actualizará de forma ágil por parte del 
+creador de la aplicación, dado que se trataría de una sección dinámica.
+- Configuración: La aplicación móvil debe permitir administrar los parámetros de 
+configuración del propio usuario y también debe permitir dar de baja del servicio.
+- Condiciones de uso y política de privacidad: La aplicación móvil debe permitir 
+aceptar al usuario las condiciones de uso y política de privacidad de la plataforma, 
+informándole previamente y de forma clara de las mismas.
+- Control de versiones: La aplicación móvil debe poder detectar nuevas versiones de la 
+propia aplicación y advertir al usuario sobre las consecuencias de no actualizarla.
+8. CARACTERÍSTICAS TÉCNICAS DE LA APLICACIÓN MÓVIL PARA 
+VIGILANTES
+La plataforma tecnológica debe permitir controlar el permiso y los tiempos de 
+estacionamiento restante de los vehículos estacionados en las zonas de aparcamiento regulado 
+
+--- página 16 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+con los componentes electrónicos que se comuniquen con la aplicación móvil que utilizarán 
+los vigilantes, al objeto de poder identificarla de manera unívoca y digital.
+El principal objetivo de la aplicación móvil de vigilantes es permitir controlar el tiempo de 
+estacionamiento en cada zona de estacionamiento regulada, a fin de optimizar la 
+productividad de las labores de vigilancia.
+a. Requerimientos técnicos.
+La aplicación móvil de vigilantes estará destinada a dispositivos móviles tipo smatphone con 
+plataformas Android y deberá cumplir los siguientes requisitos:
+- La aplicación deberá ser compatible con las versiones de los sistemas operativos 
+Android e iOS que dispongan de soporte activo por parte de sus fabricantes en el 
+momento de la implantación y durante toda la vigencia del contrato.
+- La aplicación deberá poder operar mediante conexiones de datos móviles WiFi, 4G, 
+5G, Bluetooth 4.0 o superior.
+- La aplicación deberá superar los procesos de homologación, certificación o validación 
+requeridos por los fabricantes y distribuidores de aplicaciones móviles 
+correspondientes para su publicación en los mercados oficiales.
+- La aplicación móvil deberá estar disponible en el mercado oficial Google Play y en el 
+Huawei AppGallery, así como en futuras App para la obtención de aplicaciones 
+móviles que salgan al mercado.
+- La aplicación móvil deberá poder comunicarse con componentes electrónicos 
+identificadores de la zona de estacionamiento a través del protocolo Bluetooth.
+- El funcionamiento de la aplicación móvil deberá ser homogéneo con independencia de 
+la zona en la que el usuario conductor estacione su vehículo.
+- La aplicación deberá adaptarse en tiempo y forma a las posibles modificaciones de 
+zonas, normativa y de las instrucciones dadas por el Ayuntamiento.
+- Cuando se realicen cambios o mejoras en la aplicación móvil o en el sistema de 
+backend deberá notificarse previamente al Ayuntamiento la existencia de una nueva 
+versión y enviar un listado de las modificaciones introducidas (changelog).
+- La aplicación por móvil dispondrá de un entorno de pruebas donde se realizarán las 
+verificaciones y controles precisos para validar su correcto funcionamiento. No se 
+podrán desplegar cambios sin completar estas pruebas, ni haber realizado las 
+validaciones pertinentes para garantizar el adecuado funcionamiento de la aplicación 
+
+--- página 17 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+por móvil conforme a la normativa aplicable, a la regulación establecida que afecte a 
+la gestión de la vigilancia, y a las instrucciones del Ayuntamiento.
+- Se facilitará un manual del usuario de la aplicación para móvil para los vigilantes del 
+Ayuntamiento y cada cambio que se pueda realizar será actualizado en dicho manual.
+b. Requerimientos funcionales.
+La aplicación móvil está básicamente dirigida al control del estacionamiento regulado con la 
+plataforma tecnológica solicitada.
+Sin embargo, la aplicación también deberá implementar prestaciones funcionales adicionales 
+que aporten valor añadido al vigilante: administración de zonas, ocupación, notificaciones y 
+recopilación estadística de denuncias.
+Las principales prestaciones de la aplicación móvil de vigilante son las siguientes:
+- Alta de usuario vigilante: el proceso de alta de usuario vigilante se realizará a través 
+del BackOffice de la plataforma.
+- Preferiblemente, los datos de acceso a la plataforma se basarán en el correo electrónico 
+del usuario vigilante.
+- Iniciar sesión: la aplicación móvil debe permitir iniciar la sesión al usuario vigilante. 
+La aplicación móvil debe permitir recordar la contraseña indicando el correo 
+electrónico del usuario y modificar la contraseña.
+- Detectar zona de estacionamiento: la aplicación móvil debe poder determinar con 
+total precisión y en un espacio muy corto de tiempo (máximo 10 segundos) la zona de 
+estacionamiento donde se encuentra el vigilante, en base al componente electrónico 
+instalado en la propia zona.
+- Controlar el estado de estacionamiento: la aplicación móvil debe poder consultar y 
+presentar en tiempo real el estado de estacionamiento y el tiempo restante de los 
+vehículos estacionados en cada zona.
+La aplicación debe mostrar de forma clara y precisa si el vehículo tiene permiso para 
+estacionar y las condiciones del estacionamiento: hora inicial, tiempo máximo, tiempo 
+restante, etc.
+La aplicación móvil también debe permitir consultar el estado de estacionamiento de 
+un vehículo concreto identificado con su matrícula y que puede encontrarse en otras 
+zonas de la ciudad.
+
+--- página 18 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+- Detalle estacionamiento: la aplicación móvil debe permitir visualizar todos los datos 
+asociados a un determinado tique de estacionamiento de forma exhaustiva y sin 
+posibilidad de malentendidos.
+- Uso: la aplicación móvil debe poder informar en tiempo real, de forma sencilla, rápida 
+e intuitiva, sobre el estado de ocupación estimado y sobre el tiempo restante de las 
+plazas ocupadas en las zonas de estacionamiento cercanas.
+- Información: la aplicación móvil debe poder mostrar contenidos informativos 
+extensos y precisos sobre el funcionamiento de la plataforma tecnológica para regular 
+las zonas de estacionamiento restringidas: ¿cómo funciona?, preguntas frecuentes, etc.
+El objetivo de los contenidos informativos es que éstos sean suficientes para que el 
+usuario vigilante pueda resolver autónomamente cualquier circunstancia relacionada 
+con el uso de la aplicación. Las preguntas y dudas de este apartado deben agruparse 
+por contexto para facilitar la búsqueda. Este apartado deberá poder mantenerse y 
+actualizarse de forma ágil, ya que se trata de una sección dinámica.
+- Configuración: la aplicación móvil debe permitir administrar los parámetros de 
+configuración del propio usuario, como por ejemplo modificar la contraseña.
+- Control de versiones: la aplicación móvil debe poder detectar nuevas versiones de la 
+propia aplicación y advertir al usuario sobre las consecuencias de no actualizarla.
+9. CARACTERÍSTICAS TÉCNICAS DEL BACKOFFICE DEL SISTEMA
+En el ámbito de esta contratación se incluye una aplicación de BackOffice del sistema, que 
+tiene como objetivo permitir administrar las zonas, consultar operaciones, analizar estadísticas 
+de uso y configurar los parámetros de la aplicación.
+a. Requerimientos técnicos.
+Los requerimientos y los principales condicionantes técnicos del entorno de ejecución de la 
+aplicación de BackOffice del sistema son los siguientes:
+- La aplicación de BackOffice debe ser accesible desde cualquiera navegador Internet 
+convencional compatible con HTML 5 o superior.
+- La aplicación de BackOffice dispondrá de diferentes perfiles de usuario y 
+especialmente un perfil de usuario simple que permita añadir y borrar vehículos del 
+listado de vehículos autorizados y un perfil de usuario administrador que permita 
+configurar cualquier aspecto de regulación, alta nuevos usuarios, etc. Deberá permitir 
+realizar búsquedas históricas como mínimo por matrículas, días y zonas.
+
+--- página 19 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+- La aplicación de BackOffice dispondrá de un histórico de los vehículos que se han 
+acreditado como vehículos autorizados, independientemente del tipo de acreditación 
+de los que hayan dispuesto.
+- El acceso a las secciones de acceso restringido del BackOffice se hará identificando a 
+los usuarios con correo electrónico y contraseña.
+- La aplicación de BackOffice realizará y guardará un registro de las acciones realizadas 
+por cada usuario en las secciones de acceso restringido.
+- La aplicación de BackOffice debe disponer de un centro de ayuda para resolver las 
+preguntas frecuentes.
+b. Requerimientos funcionales
+En la aplicación de BackOffice del sistema habrá que considerar, al menos, los siguientes 
+perfiles de usuario:
+- Administrador municipal: personal del área de movilidad del municipio que 
+administra las zonas de estacionamiento y puede consultar los datos de 
+estacionamiento en tiempo real: tiques virtuales, ocupación, estadística de usos, etc. 
+Podrá tener acceso a, BackOffice para dar de alta, baja o modificar los listados de 
+vehículos autorizados.
+- Soporte técnico: personal que trata las incidencias relacionadas con dudas, 
+incidencias o reclamaciones del propio municipio. Este personal corresponderá en 
+todos los casos a personal propio de la empresa que aporte la plataforma tecnológica 
+solicitada en el presente pliego.
+Las principales prestaciones del BackOffice del sistema serán las siguientes:
+- Inicio de sesión: La aplicación de BackOffice del sistema será de acceso restringido y 
+sólo podrán acceder a ellos los usuarios del Ayuntamiento que se hayan dado de alta.
+- Administrar usuarios y vigilantes: La aplicación de BackOffice debe permitir crear, 
+editar y eliminar los datos de identificación y descripción de los vigilantes municipales 
+que utilicen la aplicación móvil del municipio de forma individual.
+- Administrar zonas: La aplicación de BackOffice deberá permitir crear, editar y 
+eliminar las condiciones de estacionamiento de todas las zonas de estacionamiento 
+regulado incluidas en el ámbito de aplicación de la plataforma.
+La aplicación deberá permitir administrar las zonas de estacionamiento y todas sus 
+características: identificador, dirección, ubicación, fotografía, etc.
+
+--- página 20 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+La aplicación de BackOffice deberá permitir definir el tiempo máximo de 
+estacionamiento.
+La aplicación de BackOffice deberá permitir definir el tiempo máximo de 
+estacionamiento de cada zona según criterios temporales: hora punta, hora valle por 
+día de la semana.
+La aplicación de BackOffice deberá permitir definir el tiempo máximo de 
+estacionamiento de cada zona según condiciones del vehículo: tipos de vehículo 
+(tonelaje), emisiones (según DGT), etc.
+La aplicación de BackOffice deberá permitir definir el tiempo máximo de 
+estacionamiento de cada zona en función del perfil del conductor y uso del vehículo: 
+privado, profesional, autorizados, etc.
+- Configuración de festivos y vacaciones: la aplicación de BackOffice deberá permitir 
+definir los días festivos o de vacaciones para la ciudad donde el estacionamiento en las 
+zonas reguladas será libre y por tanto no será necesaria la obtención de tique para 
+estacionar.
+- Consulta de estacionamientos: La aplicación de BackOffice deberá permitir 
+consultar en tiempo real todas las operaciones de estacionamiento mediante un 
+buscador que permita filtrar por varios criterios de selección: fechas, matricula, zona, 
+etc. Asimismo, deberá permitir consultar el resumen y el detalle de todos los tiques de 
+estacionamiento del municipio en formato tabla (listado).
+La aplicación de BackOffice tendrá que permitir imprimir y exportar la información de 
+operaciones de estacionamiento fácilmente.
+- Estadística de usos: La aplicación de BackOffice deberá permitir consultar datos 
+estadísticos relativos a los usos de las zonas de estacionamiento del municipio.
+La plataforma deberá permitir exportar los datos estadísticos en distintos formatos 
+habituales para facilitar el análisis estadístico al personal del Ayuntamiento.
+- Informes periódicos: La plataforma debe poder generar informes estadísticos 
+periódicos y enviarlos de forma automatizada. La disponibilidad de datos en tiempo 
+real y de estadísticas históricas permitirá al mismo tiempo conocer el estado de la 
+oferta y la demanda de plazas, a fin de poder adaptar las zonas y las condiciones de 
+regulación a los usos actuales de los estacionamientos regulados.
+10. CONDICIONES DE EJECUCIÓN
+
+--- página 21 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+La implantación del servicio de la plataforma de regulación del estacionamiento en las zonas 
+de estacionamiento regulado se realizará siguiendo las siguientes fases:
+a. Implantación
+La fase de implantación del sistema deberá completarse en un plazo máximo de un (1) mes 
+desde la formalización del contrato. Durante dicho periodo, el adjudicatario estará obligado a 
+realizar todas las actuaciones técnicas, organizativas y operativas necesarias para la correcta 
+puesta en funcionamiento del servicio, de modo que, a la finalización de dicho plazo, la 
+totalidad de las funcionalidades previstas en el contrato se encuentren plenamente operativas 
+y disponibles para su utilización por el Ayuntamiento y por los usuarios del sistema.
+En particular, el adjudicatario deberá ejecutar, como mínimo, las siguientes actuaciones:
+- Configuración de la plataforma. El contratista suministrará y configurará todos los 
+componentes y aplicaciones de la plataforma de regulación digital del 
+estacionamiento. Se configurarán las aplicaciones municipales: BackOffice y 
+aplicación móvil de los vigilantes.
+- Fijación de los dispositivos electrónicos en las placas de las señales verticales 
+municipales que señalizan cada una de las zonas azules y naranjas. La fijación de los 
+dispositivos en las señales será por cuenta del contratista.
+- Dar formación al personal municipal del Servicio de Movilidad y a los vigilantes 
+sobre el funcionamiento de las aplicaciones y el backoffice.
+Una vez realizado lo anterior por el contratista, se procederá a la firma del Acta de inicio del 
+servicio, de acuerdo con el modelo establecido en el Anexo II de este pliego.
+La coordinación del proyecto de implantación de la plataforma correrá a cargo del 
+responsable del contrato.
+Todas las reuniones necesarias para la coordinación, captación de especificaciones y 
+requisitos y seguimiento del proyecto se desarrollarán en dependencias del Ayuntamiento de 
+Torrelavega.
+b. Soporte a la ejecución del contrato.
+Durante toda la vigencia del contrato, el sistema deberá estar apoyado por un amplio soporte 
+técnico que permita resolver las posibles incidencias o mal funcionamiento de cualquiera de 
+sus componentes o aplicaciones con cargo al personal de la plataforma, y que estará incluido 
+en el precio de mantenimiento por plaza de aparcamiento que oferte el licitador.
+
+--- página 22 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+La plataforma tecnológica deberá disponer pues de un sistema de gestión de incidencias 
+avanzado para poder dar respuesta a las posibles consultas o incidencias de los usuarios 
+conductores, vigilantes y del personal de BackOffice del Ayuntamiento de Torrelavega.
+Cuando la incidencia afecte a los usuarios deberá informarse, desde la propia aplicación para 
+móvil o vía correo, indicando el motivo de la incidencia y la solución que se da.
+Durante toda la duración del contrato es necesario ofrecer un único teléfono o correo 
+electrónico o formulario de atención en horario de oficinas para poder notificar la apertura de 
+incidencias.
+El horario del servicio de soporte técnico a la operación será como mínimo de lunes a viernes 
+laborables de 9:00 h a 19:00 horas. Es necesario poder cumplir con los siguientes tiempos de 
+resolución de incidencias, a contar desde la notificación de la incidencia hasta su resolución:
+- Incidencia crítica: máximo 6 horas dentro del horario del servicio de soporte a la 
+operación.
+- Incidencia grave: máximo 12 horas dentro del horario del servicio de soporte a la 
+operación.
+- Incidencia leve: máximo una semana dentro del horario del servicio de soporte a la 
+operación.
+c. Mantenimiento de la plataforma.
+A lo largo de toda la duración del contrato, es necesario garantizar el correcto mantenimiento 
+y evolución de todas las aplicaciones y componentes incluidos dentro del ámbito de este 
+contrato y que deberá incluir:
+- Mantenimiento correctivo.- Es necesario poder garantizar actuaciones de 
+mantenimiento correctivo con los tiempos de respuesta indicados previamente para 
+poder hacer frente a posibles incidencias en los componentes y aplicaciones incluidos 
+en el ámbito del contrato. Se incluye explícitamente la reposición de los componentes 
+electrónicos suministrados de forma inmediata. Será por cuenta del contratista el 
+mantenimiento de los dispositivos electrónicos por bluetooth ante cualquier avería que 
+pueda surgir durante la duración del contrato.
+- Mantenimiento preventivo.- Se requiere realizar tareas de mantenimiento preventivo 
+semestral para garantizar el correcto funcionamiento de la plataforma y de todos sus 
+componentes. Deberá realizarse un informe semestral por parte del contratista donde 
+quede constancia de que este mantenimiento se está efectuando de forma correcta.
+
+--- página 23 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+- Mantenimiento evolutivo.- La plataforma debe actualizar las versiones de las 
+aplicaciones móviles de conductores y vigilantes en la medida en que las prestaciones 
+técnicas y funcionales de ésta evolucionen.
+- Mantenimiento adaptativo.- La plataforma debe garantizar la adaptabilidad de las 
+aplicaciones móviles a las nuevas versiones de sistemas operativos de teléfonos 
+móviles inteligentes (Android, iOS y otros existentes en el mercado).
+El coste de todos estos tipos de mantenimientos irá íntegramente a cargo del contratista y 
+estará incluido en el precio de mantenimiento por plaza de aparcamiento que oferte el 
+licitador. 
+11. LICENCIAS DE USO
+El licitador deberá detallar en su oferta las licencias de uso necesarias para el correcto 
+funcionamiento de la plataforma, indicando para cada uno de ellos, y de forma clara, la 
+política de licencias y su duración o vigencia.
+El coste de estos licenciamientos irá a cargo del contratista.
+12. INFORMACIÓN A LA ADMINISTRACIÓN
+La empresa contratista deberá mantener debidamente informado al Ayuntamiento sobre:
+- Los cambios, modificaciones, desarrollo de la plataforma y aplicaciones por móvil que 
+puedan afectar a la política e imagen del Ayuntamiento, con un manual detallado de 
+los cambios y sobre cómo afectan al uso de la aplicación móvil.
+- Cualquier incidencia o error en la operatividad de la plataforma y las aplicaciones por 
+móvil en tiempo y forma, indicando el alcance de los mismos y de las actuaciones 
+adoptadas. Este informe detallado se emitirá de forma puntual, independientemente de 
+los informes mensuales en los que se facilitará información a efectos estadísticos.
+- Quejas, reclamaciones o errores en el servicio. El contratista deberá remitir al 
+Ayuntamiento informes mensuales que como mínimo contengan información sobre: 
+número de reclamaciones, motivo, fecha, resolución, tiempo de respuesta, número de 
+reclamaciones estimadas, número de reclamaciones desestimadas, número de 
+reclamaciones sin respuesta, etc.
+- De forma previa a su validación, se informará al Ayuntamiento de los contenidos de 
+los desarrollos de las nuevas versiones de la plataforma o de aplicaciones móviles.
+
+--- página 24 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+- De forma previa a su validación, se informará al Ayuntamiento de toda información o 
+publicidad que se facilite a los usuarios o potenciales usuarios del servicio de 
+estacionamiento regulado que pueda afectar a la política e imagen del Ayuntamiento o 
+bien los derechos de los usuarios.
+13. RESPONSABLE DEL CONTRATO
+El contratista deberá notificar al Ayuntamiento quién será la persona responsable del contrato 
+por parte de la empresa. Para el correcto funcionamiento del servicio, esta persona será 
+responsable de la coordinación de todas las actuaciones incluidas en la prestación del servicio, 
+así como de estar en contacto con el responsable municipal del contrato para todos los asuntos 
+relativos al mismo cuando así le sea requerido. La persona responsable del contrato estará 
+localizable de forma permanente, 24 horas al día todos los días del año. Su nombramiento 
+deberá ser comunicado y aceptado por el Ayuntamiento. Si la empresa adjudicataria 
+pretendiera sustituir a la persona coordinadora del contrato, deberá comunicarlo al 
+Ayuntamiento con la suficiente antelación.
+En Torrelavega, a la fecha de la firma electrónica.
+LA JEFA DEL SERVICIO DE MOVILIDAD Y ENERGÍA 
+(Documento firmado electrónicamente)
+Fdo.: María Oliva Elorza
+
+--- página 25 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+ANEXO I
+CUADRO DE PRECIOS UNITARIOS
+Nº CONCEPTO
+PRECIO 
+UNITARIO
+IVA no 
+incluido
+1
+Precio del servicio mensual por plaza de aparcamiento regulada en ZONA 
+NARANJA y ZONA AZUL, que incluye:
+• Licencia de uso de todas las aplicaciones de la plataforma digital ofertada.
+• Dispositivos Bluetooth precisos, incluye la implantación y la licencia de 
+software y todos los gastos que sean inherentes al buen funcionamiento, 
+mantenimiento y reposiciones que pudieran ser necesarias del dispositivo 
+electrónico durante toda la vida del contrato
+• Servicios SaaS, Cloud, soporte y mantenimiento de la plataforma y de los 
+dispositivos electrónicos, así como el mantenimiento preventivo, 
+correctivo, evolutivo y adaptativo de todas las aplicaciones y 
+componentes de la plataforma digital.
+Disponibilidad 24x7 de la plataforma Cloud SaaS, con operaciones 
+ilimitadas 
+Disponibilidad 24x7 con acceso y usuarios ilimitados en aplicaciones 
+móviles
+Disponibilidad 24x7 con acceso y usuarios ilimitados en panel Web de la 
+plataforma
+Cuadro de mando con indicadores de rendimiento en tiempo real
+Servicio de informes dinámicos para el análisis avanzado de datos (Big 
+Data)
+Soporte técnico de 3º nivel de incidencia a conductores y vigilantes vía 
+app 
+Actualización del Centro de Ayuda y Soporte técnico para usuarios 
+finales
+Soporte técnico de incidencia a usuarios del BackOffice, incluyendo 
+cambios y nueva configuración de las zonas de estacionamiento
+Mantenimiento del dispositivo electrónico Bluetooth y reemplazo del 
+mismo ante cualquier tipo de avería.
+• Servicio integral para la gestión de sanciones y cancelaciones, incluyendo 
+aviso (SMS o equivalente), BackOffice e integración por fichero de 
+tramitación de multas
+• Servicio de informes dinámicos para análisis de datos avanzado
+5,00 €
+/plaza/mes
+
+--- página 26 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+Nº CONCEPTO
+PRECIO 
+UNITARIO
+IVA no 
+incluido
+2 Precio de servicio de cobro de las cancelaciones de denuncias o pago por adelantado de multas vía App 1,2 €/transacción
+
+--- página 27 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+ANEXO II. ACTA DE INICIO DEL SERVICIO
+ACTA DE INICIO DEL SERVICIO
+EXPEDIENTE 2026/00012576X
+FECHA DEL CONTRATO
+Nº de dispositivos electrónicos con Buetooth instalados 
+Nº de plazas de aparcamiento reguladas 
+CHECK-LIST VALIDACIÓN
+FECHA MÁX. 
+SUBSANACIÓN DE 
+DEFICIENCIAS
+Requerimientos técnicos y 
+requerimientos funcionales de la 
+aplicación móvil para usuarios 
+(conductores)
+Requerimientos técnicos y 
+requerimientos funcionales de la 
+aplicación móvil para vigilantes
+Requerimientos técnicos y 
+requerimientos funcionales del 
+BackOffice del sistema
+Comentarios:
+* Fecha de conformidad:  
+____/____/_______
+REPRESENTANTE FIRMA 
+CONTRATISTA
+Nombre:
+DNI
+Jefa del SERVICIO DE MOVILIDAD Y 
+ENERGÍA DEL AYUNTAMIENTO DE 
+TORRELAVEGA
+
+--- página 28 ---
+Nº de verificación: 16340665535344144556
+ 
+Puede verificar este documento en https://sede.torrelavega.es
+Datos del expediente Asunto
+2026/00012576X
+Expedientes de contratación
+Datos del documento
+Tramitador: Sección de CONTRATACION Y 
+COMPRAS
+Emisor: MOE
+Fecha Emisión: 18/11/2026
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA LA 
+GESTIÓN, REGULACIÓN Y CONTROL DEL 
+ESTACIONAMIENTO REGULADO ACTIVO (E.R.A.) EN 
+TORRELAVEGA BASADA EN APLICACIONES MÓVILES Y 
+DISPOSITIVOS BLUETOOTH.
+Documento firmado electrónicamente (art. 26 de la Ley 39/2015, de 1 de octubre). La autenticidad de este documento puede 
+ser comprobada mediante el CSV: 16340665535344144556 en http://sede.torrelavega.es
+ANEXO III. ALCANCE PREVISTO EN LA ORDENANZA. 
+Relación de plazas de estacionamiento en ZONA NARANJA y ZONA AZUL
+Calle
+nº de plazas libres 
+en los ejes 
+principales del 
+centro de la ciudad
+Nº plazas en 
+ZONA 
+NARANJA
+Propuesta de nº 
+de plazas en 
+ZONA AZUL 
+Total plazas alta 
+rotación 
+Augusto González 
+Linares 20 16 20 36
+Julián Ceballos 45 27 45 72
+Avda. España 70 7 31 38
+Cid 18 3 11 11
+Soto 7 - - - 
+Teodoro Calderón 124 5 28 33
+Joaquín Cayón 14 9 12 21
+Joaquín Hoyos 5 8 4 12
+Francisco Díaz 2 6 - 6
+Julián Urbina 76 5 17 22
+Pando 47 5 11 16
+Avda. Constitución 115 - 17 17
+Fernando Arce 15 2 12 14
+La Llama 57 12 28 40
+José María Pereda 23 10 11 21
+José Lucio Mediavilla 131 - 24 24
+Avda. Fernández Vallejo 29 - 6 6
+Ruiz Tagle - 14 - 14
+Total 798 129 274 403

@@ -1,0 +1,261 @@
+
+
+--- página 1 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZTUPJDWYSU5UKRP6KI Fecha 04/11/2026 11:15:38
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por TERESA GONZALEZ GALIANA
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZTUPJDWYSU5UKRP6KI Página 1/5
+ 
+Área de Hacienda, Administración
+ Y Trasformación Digital
+Dirección General de Trasformación Digital
+Servicio de Tecnologías de la Información
+1
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA LA 
+CONTRATACIÓN DE UN SERVICIO DE CONSULTAS DE 
+TITULARES DE CUENTAS BANCARIAS A TRAVÉS DE 
+API’S 
+Servicio  externo  de  verificación  de  cuentas  bancarias  mediante  una  API  (Application 
+Programming Interface), que permita validar de forma automática, segura, y sin límite alguno 
+más allá del económico (que limita el número máximo de posibles consultas), la titularidad 
+de  cuentas  bancarias  (IBAN),  en  el  marco  de  la  gestión  de  pagos  por  parte  del 
+Ayuntamiento. Estas verificaciones podrán hacerse individualmente y/o masivamente, 
+a partir del CIF/NIF del titular.
+Este servicio permitirá garantizar que las cuentas bancarias aportadas por proveedores, 
+beneficiarios de ayudas o ciudadanos corresponden con la persona física o jurídica titular, 
+reduciendo errores en las transferencias y mitigando el riesgo de fraude.
+La contratación de este servicio responde a la necesidad de:
+ Garantizar la correcta identificación de todas las cuentas bancarias de terceros 
+(proveedores, beneficiarios de subvenciones, nóminas de empleados públicos, u 
+otros perceptores de pagos).
+ Reducir incidencias derivadas de errores en la consignación del IBAN.
+ Minimizar el riesgo de fraude o suplantación de identidad en la modificación de datos 
+bancarios.
+ Mejorar la eficiencia y automatización de los procedimientos de gestión del pago.
+ Reducir devoluciones de pago y costes administrativos asociados.
+El Ayuntamiento de Sevilla gestiona un volumen significativo de operaciones económicas, lo 
+que hace necesario disponer de mecanismos automatizados que permitan validar cuentas 
+bancarias  mediante  procesos  masivos  integrados  en  aplicaciones  corporativas  para 
+procesos como:
+ Pagos a proveedores derivados de contratos administrativos.
+ Pago de nómina y otras percepciones al personal municipal.
+ Abono de subvenciones y ayudas públicas.
+ Devoluciones de ingresos indebidos.
+ Prestaciones sociales y otros pagos a la ciudadanía.
+La  consulta  individual/masiva  de  cuenta  mediante  API  resulta  idónea  por  permitir  la 
+integración  directa  con  los  sistemas  municipales,  garantizando  la  automatización  del 
+proceso, no resultando viable una solución manual dada la magnitud de operaciones y la 
+necesidad de inmediatez.
+
+--- página 2 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZTUPJDWYSU5UKRP6KI Fecha 04/11/2026 11:15:38
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por TERESA GONZALEZ GALIANA
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZTUPJDWYSU5UKRP6KI Página 2/5
+ 
+Área de Hacienda, Administración
+ Y Trasformación Digital
+Dirección General de Trasformación Digital
+Servicio de Tecnologías de la Información
+2
+1. ANTECEDENTES Y SITUACIÓN ACTUAL
+Desde  la  Tesorería  Municipal  -  como  órgano  encargado  de  la  custodia  de  los  fondos 
+municipales con los que hacer el pago material de las obligaciones reconocidas, las cuales 
+se realizan contra los fondos situados en las cuentas bancarias municipales y, con carácter 
+general mediante transferencia bancaria a las cuentas a nombre de la persona o entidad a 
+cuyo favor se haya expedido el mandamiento de pago -  se implantó, como requisito previo 
+para el cobro, la presentación del documento denominado FICHA DE TERCEROS, donde 
+se recogían los datos de la persona acreedora, así como los datos bancarios, mediante la 
+certificación  de  su  veracidad  por  apoderado  de  la  entidad  bancaria,  bien  con  su  firma 
+ológrafa en el propio documento, o con la aportación de certificado bancario o cualquier otro 
+documento que justificara, a juicio de la Administración, dicha titularidad.
+Por la entidad bancaria receptora se comprobaba que el beneficiario de dichos fondos 
+coincidiera con el titular de la cuenta bancaria, comunicando a la administración, en su caso, 
+la  no  coincidencia  a  fin  de  que  por  esta  decidiera  sobre  la  continuidad  o  no  del 
+procedimiento.
+Desde febrero de 2014, todas las transferencias interbancarias se realizan de conformidad 
+con las reglas de la Zona Única de Pagos en Euros (SEPA), sustituyéndose el número de 
+cuenta corriente (CCC), por el Código Internacional de Cuenta Bancaria (IBAN).
+Con la entrada en vigor de la normativa sobre servicios de pago (Real Decreto –ley 19/2018, 
+de 23 de noviembre), por la que se regulan las normas de funcionamiento, seguridad, 
+transparencia y derechos de usuario en transferencias, pagos con tarjeta, adeudos y nuevos 
+servicios en la Unión Europea, las entidades financieras dejan de tener la obligación legal de 
+comprobar la identidad del beneficiario con el titular de la cuenta bancaria destino de la 
+transferencia.
+La falta de comprobación y validación de las cuentas por las entidades financieras, así como 
+las numerosas actuaciones fraudulentas intentando falsificar datos relacionados con las 
+cuentas  de  terceros  para  cobrar  indebidamente  las  facturas  emitidas  por  determinados 
+proveedores, ha hecho necesario que el Ayuntamiento reforzase las medidas de seguridad y 
+fiabilidad en la comunicación de datos bancarios. En este sentido, por la Delegación de 
+Hacienda mediante resolución núm. 820 de fecha 02/09/21, modificada por resolución núm. 
+59 de fecha 19/01/22, se dictó instrucción por la que se aprueba del modelo del documento 
+de “Comunicación de Datos Bancarios” y las instrucciones para su presentación por parte de 
+las personas físicas, jurídicas o entidades  sin personalidad jurídica, públicas o privadas que 
+se relacionen con el Ayuntamiento de Sevilla y/o sus organismos autónomos, a cuyo favor 
+surjan obligaciones o se expidan los pagos derivados de las mismas.
+La citada instrucción establece, entre otras, las siguientes medidas: 
+ Un máximo de tres cuentas u ordinales de pago activos en el sistema, debiéndose 
+designar una cuenta como preferente o principal.
+ La obligación de presentar el alta de datos bancarios a través de la Sede Electrónica 
+para las personas jurídicas y aquellas que tengan la obligación de relacionarse a 
+
+--- página 3 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZTUPJDWYSU5UKRP6KI Fecha 04/11/2026 11:15:38
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por TERESA GONZALEZ GALIANA
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZTUPJDWYSU5UKRP6KI Página 3/5
+ 
+Área de Hacienda, Administración
+ Y Trasformación Digital
+Dirección General de Trasformación Digital
+Servicio de Tecnologías de la Información
+3
+través de medios electrónicos (art. 14 LPAC), para lo cual el representante deberá 
+contar con certificado electrónico.
+ La cuenta bancaria debe estar abierta a nombre del acreedor.
+ La aportación, junto con el citado modelo, de certificado de la entidad bancaria, 
+firmado por el representante o apoderado de la misma, preferentemente de forma 
+digital.
+ La modificación de la cuenta de pago designada en la factura electrónica deberá ir 
+acompañada  obligatoriamente  de  la  modificación  o  rectificación  de  la  factura 
+presentada.
+ El cambio de datos bancarios, deberá realizarse conforme al procedimiento de alta 
+señalado en la instrucción. 
+A pesar de las medidas implantadas para evitar los fraudes en los pagos a terceros, sigue 
+existiendo una problemática de seguridad importante vinculada a los pagos.
+Con el fin de suprimir, o al  menos minimizar, los posibles fraudes o errores, la Unión 
+Europea aprobó el Reglamento 2024/886 del Parlamento y del Consejo, de 13 de marzo de 
+2024, en el que se establece que a partir del 9 de octubre de 2025 las entidades bancarias 
+deberán ofrecer un sistema de “Verificación de Beneficiario” (VoP), por el cual se valida la 
+titularidad de las cuentas del beneficiario.
+Dicho sistema, donde se verifica la coincidencia del IBAN que se especifique con el nombre 
+del  beneficiario,  se  ha  demostrado  que  para  este  Ayuntamiento  carece  de  fiabilidad  y 
+operatividad,  tanto  por  el  tiempo  de  respuesta,  como  por  el  resultado  de  dicha 
+comprobación, ya que, en un porcentaje muy elevado, los datos no coinciden o coinciden 
+parcialmente como consecuencia de la forma en las que están grabados los nombres de las 
+personas físicas o jurídicas por las distintas entidades bancarias. Esto hace que, una vez 
+recibida  la  respuesta,  sea  necesario  iniciar  un  procedimiento  de  depuración  de  los 
+resultados que implica una revisión total del procedimiento en tramitación del pago, desde el 
+alta de datos bancarios. Por todo ello, este sistema resulta inviable cuando el número de 
+beneficiarios es muy elevado.
+Para resolver los problemas derivados del procedimiento de Verificación del Beneficiario, 
+algunas entidades han desarrollado un sistema de verificación individual a través de API o 
+Web, desvinculado de los ficheros de transferencia sobre la coincidencia del NIF/CIF del 
+beneficiario y el IBAN, que entendemos es seguro, eficaz y previene el fraude al confirmar la 
+titularidad de forma precisa y automatizada.
+2. CARACTERÍSTICAS DEL SERVICIO
+Se contrata un servicio de verificación de cuentas en un modelo de pago por uso. Esto es, cada 
+consulta tendrá un coste, que se detraerá de la bolsa económica asignada al contrato. El número 
+de consultas a realizar sólo estará limitado por el saldo existente en el contrato.
+El adjudicatario proveerá acceso a un API de verificación de titularidad de cuentas, tanto de 
+forma individual como masiva, con las siguientes características:
+
+--- página 4 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZTUPJDWYSU5UKRP6KI Fecha 04/11/2026 11:15:38
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por TERESA GONZALEZ GALIANA
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZTUPJDWYSU5UKRP6KI Página 4/5
+ 
+Área de Hacienda, Administración
+ Y Trasformación Digital
+Dirección General de Trasformación Digital
+Servicio de Tecnologías de la Información
+4
+ El adjudicatario del servicio deberá ser una entidad con acceso al sistema antifraude 
+Payguard o equivalente
+ La verificación de cuentas se hará en base al identificador del titular (DNI, NIF, 
+NIE,...). 
+ La  verificación  de  cuentas  se  hará  sobre  cuentas  del  adjudicatario  a  través  del 
+sistema IBERPAY o por los mecanismos internos del propio banco, si el adjudicatario 
+es una entidad bancaria y la cuenta a verificar es propia. La verificación de cuentas 
+de otras entidades estará sujeta a su participación en el servicio de Iberpay.
+ El servicio de verificación de titularidad de cuenta se hará en tiempo real (o en caso 
+de que el servicio sea asíncrono, el tiempo de respuesta máximo estará por debajo 
+de 1 minuto), para cuentas de particulares y/o empresas.
+ No habrá límite en el número de consultas que se podrán realizar, pero se deberá 
+poder establecer límites de consumo configurables y revisables, acompañados de un 
+seguimiento periódico del presupuesto por parte del adjudicatario, para reducir al 
+máximo posible el riesgo de que el numero de consultas supere al presupuesto 
+disponible. 
+ Las cuentas se podrán verificar haciendo uso de un API REST o SOAP. 
+ La comunicación con el API será directa a través de Internet, sin necesidad de usar 
+ningún servicio adicional tipo EDITRAN.
+ El servicio permitirá realizar consultas individuales y ejecutar de forma automatizada 
+múltiples  consultas  sucesivas,  con  capacidad  para  procesar  hasta  1.000 
+verificaciones por hora, sin que sea obligatorio admitir el envío de lotes de cuentas 
+en una única petición API.
+ La autenticación del API estará basada en una combinación de OAuth 2 + firmas 
+digitales.
+3. PRESUPUESTO 
+Para  la  determinación  del  presupuesto,  se  parte  de  precios  unitarios  de  referencia 
+proporcionados por entidades que prestan este servicio
+En el caso de que el adjudicatario sea una entidad bancaria:
+ Verificación de cuentas cuya entidad origen sea la propia entidad bancaria 
+adjudicataria: coste por consulta de 0,10 euros (10 céntimos) + IVA
+ Verificación de cuentas cuya entidad origen sea distinta a la entidad bancaria 
+adjudicataria: coste por consulta de 0,40 euros (40 céntimos) + IVA
+En el caso de que el adjudicatario sea otro tipo de entidad con acceso a IBERPAY
+ Verificación de cuentas: coste por consulta de 0,40 euros (40 céntimos) + IVA
+Con estos datos, y teniendo en cuenta que se considera una estimación razonable para las 
+necesidades del Ayuntamiento   de Sevilla la realización de 25.000 consultas anuales (de 
+cualquiera  de  los  dos  tipos),  y  asumiendo  que  todas  las  consultas  tuvieran  un  coste 
+estimado de 0,40 € el presupuesto anual estimado sería de 10.000€ (25.000x 0,40), 12.100 
+IVA incluido.
+
+--- página 5 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZTUPJDWYSU5UKRP6KI Fecha 04/11/2026 11:15:38
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por TERESA GONZALEZ GALIANA
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZTUPJDWYSU5UKRP6KI Página 5/5
+ 
+Área de Hacienda, Administración
+ Y Trasformación Digital
+Dirección General de Trasformación Digital
+Servicio de Tecnologías de la Información
+5
+Para el plazo de ejecución del contrato de 4 años, este presupuesto asciende a 40.000 €  + IVA 
+(48.400€ IVA INCLUIDO).
+El contrato es prorrogable por un año, manteniendo en las mismas condiciones su 
+prestación.
+El importe del valor estimado del contrato asciende a: 50.000,00 €  (Presupuesto de 
+licitación, IVA excluido + Importe de las prórroga, IVA excluido)
+El adjudicatario deberá proporcionar: 
+1. Documentación técnica para la integración de los sistemas del Ayuntamiento con los 
+del adjudicatario.
+2. Entornos de pruebas donde poder realizar las pruebas de integración.
+3. Soporte técnico al menos de lunes a viernes en horario de 9:00 a 14:00. Este soporte 
+podrá ser prestado por teléfono, correo o a través de herramientas de ticketing del 
+adjudicatario.
+Sevilla, en la fecha indicada al pie del presente documento.
+LA JEFE DE SERVICIO DE TECNOLOGÍAS
+DE LA INFORMACIÓN

@@ -1,0 +1,1214 @@
+
+
+--- página 1 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZQPYVBF5AEOSCY2XIM Fecha 04/11/2026 12:22:35
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por MARIA VIRGINIA BUSTO SUAREZ
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZQPYVBF5AEOSCY2XIM Página 1/21
+ 
+Nº Expediente: 2026/SSV/001153 
+ANEXO I
+CONTRATO DE SERVICIOS
+PROCEDIMIENTO ABIERTO SIMPLIFICADO ABREVIADO
+1.- OBJETO Y CARACTERÍSTICAS DEL CONTRATO.
+Objeto: Servicio de consultas de titulares de cuentas bancarias a través 
+de API's (Ref. 30/26)
+Procedimiento de 
+adjudicación: 
+ABIERTO SIMPLIFICADO ABREVIADO (Artículo 159.6 de la 
+LCSP) 
+Tramitación: Ordinaria
+Lotes a los que se 
+puede licitar:
+NO PROCEDE
+Justificación de la 
+no división en lotes 
+(Art. 99.3 LCSP):
+La prestación objeto del presente contrato consiste en un servicio
+único, homogéneo e indivisible destinado a permitir la verificación
+en tiempo real de la titularidad de cuentas corrientes a través de
+APIs de consulta, con la finalidad de reducir la probabilidad de
+fraude en los pagos y tramitaciones municipales.
+Necesidades 
+administrativas a 
+satisfacer:
+Necesidad de poder verificar cuentas corrientes para poder 
+reducir la probabilidad de fraude.
+Justificación de la 
+necesidad de 
+contratar por no 
+contar con medios 
+suficientes:
+El  Servicio  de  Tecnologías  de  la  Información  no  dispone  de
+medios  técnicos  especializados  para  realizar  las  prestaciones
+objeto del contrato.
+CÓDIGO CPV: 
+CÓDIGO CPV (ppal):  
+72321000-Servicios de bases de datos 
+       
+CÓDIGO CPV (secundarios): 
+79212400-7 Servicios de control de fraudes
+Los CPV están incluidos en el Anexo IV de la LCSP:  NO
+CÓDIGO NUTS: ES618  Sevilla
+Perfil de 
+contratante: 
+ https://contrataciondelestado.es/wps/portal/plataforma
+Órgano de DIRECCIÓN GENERAL DE TRANSFORMACIÓN DIGITAL
+@ - ANEXOS ABIERTO SIMPLIFICADO ABREVIADO SERVICIOS                                                          versión  OCTUBRE 2026     1
+ 
+
+
+--- página 2 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZQPYVBF5AEOSCY2XIM Fecha 04/11/2026 12:22:35
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por MARIA VIRGINIA BUSTO SUAREZ
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZQPYVBF5AEOSCY2XIM Página 2/21
+ 
+Nº Expediente: 2026/SSV/001153 
+contratación:
+Servicio/Unidad 
+administrativa 
+destinataria de las 
+facturas / 
+certificaciones:
+Servicio/Unidad:  Servicio Tecnologías de la Información
+ Código ÓRGANO GESTOR (Ayuntamiento de 
+Sevilla): L01410917
+ Código OFICINA CONTABLE (Intervención): 
+LA0002175
+ Código UNIDAD TRAMITADORA (destinataria de la 
+factura): LA0002189
+Datos fiscales del 
+Ayuntamiento de 
+Sevilla:
+PLAZA NUEVA, NÚM. 1
+41001 SEVILLA - (SEVILLA)
+C.I.F. P4109100J
+Contrato de regulación armonizada: NO
+El ACP es aplicable al contrato: NO 
+Contrato susceptible de recurso especial en materia de 
+contratación (Art. 44.1 LCSP):
+NO
+PRESUPUESTO (IVA excluido) 40.000,00  €  
+IVA 8.400,00  €  
+TOTAL PRESUPUESTO BASE DE 
+LICITACIÓN (IVA incluido)
+48.400,00  €  
+Importe del VALOR
+ESTIMADO DEL 
+CONTRATO: 
+50.000,00 €  (Presupuesto de licitación, IVA excluido + Importe de 
+las prórroga, IVA excluido)
+El Valor estimado 
+coincide con el 
+presupuesto de 
+licitación (IVA 
+excluido):
+NO 
+El presupuesto de 
+licitación coincide 
+con el de 
+adjudicación:
+SI             
+ Al coincidir el presupuesto de licitación con el de adjudicación, la 
+baja ofertada por el adjudicatario implicará el aumento de los 
+suministros disponibles, facturándose exclusivamente los 
+efectivamente realizados, sin que exista obligación por parte del 
+Ayuntamiento de agotar presupuesto.
+Forma de 
+determinación del 
+presupuesto base 
+de licitación y 
+desglose del 
+mismo (Artículo 
+100.2 LCSP)
+La descrita en el PPT
+@ - ANEXOS ABIERTO SIMPLIFICADO ABREVIADO SERVICIOS                                                          versión  OCTUBRE 2026     2
+ 
+
+
+--- página 3 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZQPYVBF5AEOSCY2XIM Fecha 04/11/2026 12:22:35
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por MARIA VIRGINIA BUSTO SUAREZ
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZQPYVBF5AEOSCY2XIM Página 3/21
+ 
+Nº Expediente: 2026/SSV/001153 
+Importes por 
+anualidades (IVA 
+incluido): 
+48.400,00 €
+Anualidad 2027: 12.100,00 Euros
+Anualidad 2028: 12.100,00 Euros
+Anualidad 2029: 12.100,00 Euros
+Anualidad 2030: 12.100,00 Euros
+Para el caso de contratos plurianuales o anticipados de gasto, la 
+ejecución del contrato en ejercicios futuros, quedará condicionada 
+a la efectiva consignación presupuestaria de las cantidades 
+necesarias para su financiación. En el caso de contratos 
+plurianuales para los que no exista la indicada consignación 
+presupuestaria, el contrato quedará resuelto sin derecho a 
+indemnización alguna por parte del contratista. 
+Aplicación 
+presupuestaria: Anualidad Partida Presupuestaria Importe con IVA
+ 2027 01101/92017/21600 12.100,00 Euros
+ 2028 01101/92017/21600 12.100,00 Euros
+ 2029 01101/92017/21600 12.100,00 Euros
+ 2030 01101/92017/21600 12.100,00 Euros
+Ejercicio 
+presupuestario: 
+2027, 2028,2029 y 2030
+Duración del 
+contrato:
+4 años a partir del 1 de Enero de 2027
+De conformidad con el art.159.6 g) LCSP, al ser un procedimiento
+abreviado  simplificado,  la  formalización  del  contrato  se  podrá
+efectuar mediante la firma de la aceptación por el contratista de la
+resolución de la adjudicación.
+Plazos parciales: No procede
+Forma y 
+periodicidad de 
+pago:
+Una factura a principios de Diciembre del año en curso con el
+número total de consultas pendientes de facturar, indicándose por
+separado el número de consultas de verificación de cuentas de la
+entidad y de cuentas de otras entidades 
+Prórroga: Si, de un año de duración
+Revisión de 
+precios:
+NO        
+Plazo de garantía 
+del contrato:
+NO PROCEDE
+Garantía 
+Provisional:
+NO PROCEDE
+@ - ANEXOS ABIERTO SIMPLIFICADO ABREVIADO SERVICIOS                                                          versión  OCTUBRE 2026     3
+ 
+
+
+--- página 4 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZQPYVBF5AEOSCY2XIM Fecha 04/11/2026 12:22:35
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por MARIA VIRGINIA BUSTO SUAREZ
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZQPYVBF5AEOSCY2XIM Página 4/21
+ 
+Nº Expediente: 2026/SSV/001153 
+Garantía Definitiva: NO PROCEDE
+Seguros: NO            
+Programa de 
+trabajo:
+NO 
+Cesión del 
+contrato:
+Los derechos y obligaciones dimanantes del contrato podrán ser 
+cedidos por el contratista a un tercero previo cumplimiento de los 
+requisitos establecidos en el artículo 214 de la LCSP y la cláusula 
+36 de los PCAP: SI       
+Forma de 
+presentación de 
+ofertas: 
+Electrónica
+Lugar de 
+presentación de 
+ofertas:
+La presente licitación tendrá carácter electrónico, por lo que los
+licitadores  deberán  preparar  y  presentar  obligatoriamente  sus
+ofertas  de  forma  electrónica  a  través  de  la  Plataforma  de
+Contratación  del  Sector  Público  (PLACSP)
+(https://contrataciondelestado.es), de acuerdo con lo previsto en
+la Guía de los Servicios de Licitación Electrónica para Empresas
+que podrán encontrar en el siguiente enlace:
+ https://contrataciondelestado.es/wps/portal/guiasAyuda. 
+En la cláusula 9.1 de los PCAP se realizan diversas indicaciones
+respecto  a  la  presentación  electrónica  de  las  ofertas.  No  se
+admitirán aquellas ofertas que no sean presentadas a través
+de los medios descritos. 
+Plazo de 
+presentación de 
+ofertas:
+10 días hábiles (Hasta las 23:59 horas del 10º día hábil a contar 
+desde el siguiente al de la publicación del anuncio de licitación en 
+la Plataforma de Contratación del Estado).
+Preguntas y 
+respuestas 
+relativas a la 
+licitación:
+Todas las preguntas relativas a la licitación deberán formularse a 
+través de la Plataforma de Contratación del Sector Público 
+(PLACSP), en la pestaña PREGUNTAS Y RESPUESTAS. Las 
+respuestas a las preguntas se realizarán de igual forma 
+haciéndose públicas en la plataforma con objeto de garantizar la 
+igualdad y concurrencia en el procedimiento de licitación.
+Las preguntas relativas al funcionamiento de la PLACSP deberán 
+formularse ante la propia plataforma. Si se experimentaran 
+problemas en la preparación y envío de las ofertas el licitador 
+deberá contactar con: licitacionE@hacienda.gob.es indicando en 
+su correo el expediente y el órgano de contratación que licita, 
+enviando todas las evidencias que puedan ayudar a resolver su 
+problema.
+Teléfono y correo o Unidad tramitadora: Servicio Tecnologías de la Información
+@ - ANEXOS ABIERTO SIMPLIFICADO ABREVIADO SERVICIOS                                                          versión  OCTUBRE 2026     4
+ 
+
+
+--- página 5 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZQPYVBF5AEOSCY2XIM Fecha 04/11/2026 12:22:35
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por MARIA VIRGINIA BUSTO SUAREZ
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZQPYVBF5AEOSCY2XIM Página 5/21
+ 
+Nº Expediente: 2026/SSV/001153 
+de la Unidad 
+tramitadora
+ o Ubicación: Calle Arenal, nº 6-8
+ o Nº de teléfono: 955 470126
+o Correo Electrónico: itas.administracion@sevilla.org 
+2.- DOCUMENTACIÓN A PRESENTAR.
+2.1.- NÚMERO DE ARCHIVOS ELECTRÓNICOS - SOBRES A PRESENTAR POR LOS
+LICITADORES:
+□   SOBRE ELECTRÓNICO ÚNICO:  Contenido:
+1) Documentación acreditativa del cumplimiento de los requisitos previos.
+2) OFERTA. Documentación acreditativa de los criterios cuya valoración se realiza 
+de forma automática.
+Si el contrato se dividiera en lotes, se presentará un Sobre Electrónico Único por 
+cada lote al que se licite.
+2.2.- DOCUMENTACIÓN ACREDITATIVA DEL CUMPLIMIENTO DE LOS REQUISITOS
+PREVIOS
+Documentación administrativa a incluir en el Sobre electrónico único:
+A) Declaración responsable del firmante  conforme a lo establecido en el artículo
+159. 4. C) de la LCSP (ANEXO II) respecto a:
+1. Ejercer la representación de la sociedad que presenta la oferta;
+2. Contar con las autorizaciones necesarias para ejercer la actividad;
+3.  Autorización para la práctica de notificaciones en una dirección de
+correo electrónico.
+4. Relación de empresas pertenecientes al mismo grupo.
+5. Adicionalmente,  en  el  caso  de  que  la  empresa  fuera  extranjera,
+declaración responsable de sometimiento al fuero español.
+Dicha declaración responsable se presentará conforme al modelo recogido en el
+Anexo II, no siendo de aplicación la obligación de presentación del documento
+europeo único de contratación (DEUC).
+En el supuesto de licitación por  UTEs, habrá de presentarse una Declaración
+Responsable-Anexo II de todas las empresas que la fuesen a constituir, junto al
+resto  de  la  documentación  administrativa.  Todo  ello  sin  perjuicio  de  la
+documentación a presentar por el propuesto como adjudicatario conforme a lo
+dispuesto en el artículo 75 de la LCSP y las cláusulas 6 y 10.4.d) del PCAP.
+B) Declaración responsable de la entidad licitadora de estar inscrita en el Registro
+Oficial de Licitadores y Empresas Clasificadas del Estado, o en el Registro de
+Licitadores  de  la  Comunidad  Autónoma  de  Andalucía,  emitida  por  sus
+representantes con facultades que figuren en el Registro, con mención expresa
+relativa a la no alteración de los datos que constan en aquél.
+También se considerará admisible la declaración responsable del licitador de haber
+presentado la solicitud de inscripción en el correspondiente Registro, siempre que tal
+@ - ANEXOS ABIERTO SIMPLIFICADO ABREVIADO SERVICIOS                                                          versión  OCTUBRE 2026     5
+ 
+
+
+--- página 6 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZQPYVBF5AEOSCY2XIM Fecha 04/11/2026 12:22:35
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por MARIA VIRGINIA BUSTO SUAREZ
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZQPYVBF5AEOSCY2XIM Página 6/21
+ 
+Nº Expediente: 2026/SSV/001153 
+solicitud sea de fecha anterior  a la fecha final  de presentación de las ofertas.
+(Declaración contenida en el Anexo II).  Si el licitador hubiera hecho uso de esta
+facultad, se requerirá al licitador propuesto como adjudicatario para que lo justifique
+documentalmente mediante la aportación del acuse de recibo de la solicitud emitido
+por  el  correspondiente  Registro  y  de  una  declaración  responsable  de  haber
+aportado la documentación preceptiva y de no haber recibido requerimiento de
+subsanación.
+C) Otros documentos:
+ En  el  supuesto  de  que  la  oferta  se  presentara  por  una  unión  temporal  de
+empresarios, deberá acompañar a aquella el compromiso de constitución de la
+unión en los términos establecidos en la cláusula 9.2.1, D) de estos Pliegos.
+2.3.- COMPROMISO DE DEDICACIÓN DE MEDIOS A LA EJECUCIÓN DEL
+CONTRATO. (ART.76 DE LA LCSP). 
+No procede.
+2.4.- CERTIFICADOS O HABILITACIONES EMPRESARIALES O PROFESIONALES
+EXIGIBLES: 
+La entidad licitadora habrá de contar con la habilitación empresarial o profesional que,
+en su caso, sea exigible para la realización de las prestaciones que constituyan el objeto
+del contrato, de acuerdo con la normativa en vigor.
+• En concreto, contará con la siguiente habilitación: Estar de alta en la Base de
+Datos  Payguard o equivalente
+Los  certificados  o  habilitaciones  empresariales  exigibles  serán  acreditados  por  el
+propuesto como adjudicatario antes de la adjudicación, mediante la presentación del
+correspondiente certificado en los términos expuestos en la cláusula 10. 4. de los PCAP,
+y deberán mantener su vigencia durante todo el ciclo de vida del contrato.
+3.- CONDICIONES ESPECIALES DE EJECUCIÓN. 
+3.- CONDICIONES ESPECIALES DE EJECUCIÓN DE CARÁCTER SOCIAL, ÉTICO O
+MEDIOAMBIENTAL. (ART 202 DE LA LCSP). 
+A) Será en todo caso condición especial de ejecución el  cumplimiento durante
+toda la ejecución del contrato del Convenio Colectivo señalado en su oferta.
+a) Contenido:  La empresa adjudicataria deberá cumplir durante toda la ejecución del
+contrato  el  Convenio  colectivo  sectorial  de  aplicación  señalado  en  su  oferta,
+incluyéndose dentro de esta obligación, además de cumplir con carácter general las
+condiciones salariales y de jornada de los trabajadores adscritos o que intervengan en la
+ejecución del contrato, las siguientes:
+1.- Establecimiento en el contrato laboral de cada persona adscrita o interviniente en la
+@ - ANEXOS ABIERTO SIMPLIFICADO ABREVIADO SERVICIOS                                                          versión  OCTUBRE 2026     6
+ 
+
+
+--- página 7 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZQPYVBF5AEOSCY2XIM Fecha 04/11/2026 12:22:35
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por MARIA VIRGINIA BUSTO SUAREZ
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZQPYVBF5AEOSCY2XIM Página 7/21
+ 
+Nº Expediente: 2026/SSV/001153 
+ejecución de la prestación contratada, de la categoría profesional correspondiente a las
+funciones efectivamente desempeñadas.
+2.- El establecimiento en el contrato laboral del salario correspondiente a la categoría
+profesional que corresponda a cada persona adscrita o interviniente en la ejecución de
+la prestación contratada.
+3.-  Estar  al  corriente  en  el  pago  de  las  nóminas  del  personal  que  participe  en  la
+ejecución del contrato.
+b) Forma de verificar su cumplimiento: La persona responsable del contrato, podrá
+exigir a la empresa adjudicataria junto a la factura, el envío de certificación acreditativa
+de que el/la contratista se encuentra al corriente en el pago de las nóminas de las
+personas trabajadoras que ejecuten el contrato, emitida por el/la representante legal de
+la empresa. Asimismo, la persona responsable del contrato, durante toda la ejecución
+del contrato, podrá requerir a la empresa adjudicataria cuanta información sea necesaria
+sobre las condiciones de trabajo que se apliquen efectivamente a las personas adscritas
+o intervinientes en la ejecución del contrato que acrediten el cumplimiento de la presente
+Condición, estando obligado el/la contratista a facilitarla.
+c) Es obligación esencial: NO
+d) Consecuencias de su incumplimiento:  Su incumplimiento determina la imposición
+de las siguientes penalidades:
+1) Por impago de salarios: Cuando la cantidad adeudada por el impago de salarios sea
+inferior al 5% del precio de adjudicación del contrato, se le impondrá una penalidad de:
+• Primer mes de impago de salarios: un 20% del importe de cada
+uno de los salarios adeudados.
+• Segundo mes de impago de salarios: Un 40% del importe de cada
+uno de los salarios adeudados
+• Tercer mes de impago de salarios: Un 60% del importe de cada
+uno de los salarios adeudados
+• A partir del cuarto mes: Una cuantía igual al importe de los salarios
+adeudados.  En  este  supuesto  el  incumplimiento  se  considera
+infracción  grave  a  los  efectos  establecidos  en  la  letra  c)  del
+apartado 2 del artículo 71 de la LCSP (prohibición para contratar).
+Cuando la cuantía alcance el 5% del precio de adjudicación del contrato se procederá a
+la resolución del mismo.
+2) Por establecimiento en contrato laboral y/o abono de salario al personal adscrito o
+interviniente  en  la  ejecución  del  contrato  por  debajo  de  las  retribuciones  mínimas
+establecidas  en  el  Convenio  colectivo  sectorial  de  aplicación  para  la  categoría
+profesional correspondiente según las funciones desempeñadas: 500,00 euros por cada
+uno/a de los/as trabajadores/as que hubiesen sufrido disminución en el pago en su
+nómina por debajo de lo estipulado en el Convenio colectivo sectorial de aplicación.
+Por falta de presentación de la documentación requerida por la persona responsable del
+contrato, se le impondrá una penalidad del 0,2% del precio del contrato por día de
+retraso.
+3. 2.- OTRAS CONDICIONES ESPECIALES DE EJECUCIÓN. 
+@ - ANEXOS ABIERTO SIMPLIFICADO ABREVIADO SERVICIOS                                                          versión  OCTUBRE 2026     7
+ 
+
+
+--- página 8 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZQPYVBF5AEOSCY2XIM Fecha 04/11/2026 12:22:35
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por MARIA VIRGINIA BUSTO SUAREZ
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZQPYVBF5AEOSCY2XIM Página 8/21
+ 
+Nº Expediente: 2026/SSV/001153 
+1.- Cesión de datos al contratista
+a) Contenido: La ejecución del contrato implica la cesión de datos al contratista, por
+lo que se establece la condición especial de ejecución consistente en el sometimiento a
+la normativa nacional y de la Unión Europea en materia de protección de datos.
+b)  Es  obligación  esencial:  SI. Esta  obligación  tiene  el  carácter  de  obligación
+contractual esencial de conformidad con lo dispuesto en la letra f) del apartado 1 del
+artículo 211, procediendo en caso de incumplimiento la resolución del contrato.
+2.-  Condiciones especiales de ejecución en materia de subcontratación. 
+De conformidad con lo  establecido en  el  Artículo 217.1 de la  LCSP se consideran
+obligaciones especiales de ejecución:
+1.- OBLIGACIÓN DE COMUNICACIÓN DE LA RELACIÓN DE SUBCONTRATISTAS.  Si
+el  adjudicatario  del  contrato  procediera  a  la  subcontratación  de  alguna  de  las
+prestaciones,  estará  obligado,  cuando  se  le  solicite,  a  comunicarlo  al  órgano  de
+contratación,  presentando  cuando  se  perfeccione  su  participación  una  Relación
+detallada de los subcontratistas o suministradores en la forma prevista en el PCAP.
+2.-  OBLIGACIÓN  DE  PAGO  A  SUBCONTRATISTAS  Y  SUMINISTRADORES.  Las
+obligaciones de pago por parte de los contratistas a las entidades subcontratistas o
+suministradoras en los términos establecidos en el PCAP y en los artículos 215, 216 y
+217 de la LCSP.
+3.-   OBLIGACIÓN  DE  ACREDITACIÓN  DE  LOS  PAGOS.  Los  contratistas,  estarán
+obligados a  aportar los justificantes acreditativos del cumplimiento de los pagos a las
+entidades subcontratistas o suministradoras, en la forma descrita en el PCAP.
+El incumplimiento de estas obligaciones determinará la imposición de las penalidades
+establecidas en el PCAP.
+4.- PARÁMETROS OBJETIVOS PARA CONSIDERAR UNA OFERTA INICIALMENTE
+ANORMAL.
+Con anterioridad a la asignación de la puntuación de los criterios de adjudicación se 
+procederá a determinar las ofertas cuyos valores incurran en anormalidad conforme a 
+los siguientes parámetros:
+Se considerarán inicialmente anormales las ofertas económicas que sean inferiores en
+15 puntos porcentuales a la media aritmética de las ofertas presentadas En el caso de
+que se hubiera presentado una sola oferta, ésta se considerará inicialmente anormal si
+es inferior en más de 20 unidades porcentuales del presupuesto base de licitación IVA
+excluido. Este parámetro se aplicará a los criterios:
+1  OFERTA ECONÓMICA –  CONSULTAS  DE  CUENTAS  DE  LA PROPIA ENTIDAD
+ADJUDICATARIA
+2 OFERTA ECONÓMICA – CONSULTAS DE CUENTAS DE OTRAS ENTIDADES:
+Cuando hubieren presentado ofertas empresas que pertenezcan a un mismo grupo, en 
+el sentido del artículo 42.1 del Código de Comercio, se tomará únicamente, para aplicar 
+el régimen de identificación de las ofertas incursas inicialmente en presunción de 
+anormalidad, aquella que fuere más baja, y ello con independencia de que presenten su 
+oferta en solitario o conjuntamente con otra empresa o empresas ajenas al grupo y con 
+las cuales concurran en unión temporal.
+@ - ANEXOS ABIERTO SIMPLIFICADO ABREVIADO SERVICIOS                                                          versión  OCTUBRE 2026     8
+ 
+
+
+--- página 9 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZQPYVBF5AEOSCY2XIM Fecha 04/11/2026 12:22:35
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por MARIA VIRGINIA BUSTO SUAREZ
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZQPYVBF5AEOSCY2XIM Página 9/21
+ 
+Nº Expediente: 2026/SSV/001153 
+Procedimiento y forma de justificación de una oferta inicialmente anormal:
+Si  se  apreciaran  valores  inicialmente  anormales  en  las  proposiciones  se  actuará
+conforme al procedimiento previsto en el artículo 149 de la LCSP, requiriéndose al
+licitador o licitadores que las hubieren presentado dándoles plazo suficiente para que
+justifiquen y desglosen razonada y detalladamente el bajo nivel de los precios, o de
+costes, o cualquier otro parámetro en base al cual se haya definido la anormalidad de la
+oferta, mediante la presentación de aquella información y documentos pertinentes.
+La justificación de la oferta inicialmente anormal, de conformidad con lo establecido en
+el artículo 149. 2. b) de la LCSP, deberá venir referida a la oferta considerada en su
+conjunto.
+Para  la  consideración,  en  su  caso,  de  los  valores  de  la  oferta  económica  como
+anormales, se deberá acreditar entre otras, la posibilidad de cumplimiento de la oferta
+con el Convenio Colectivo sectorial de aplicación, así como la reducción de los costes
+de la empresa en cualesquiera de los aspectos objeto de la contratación: recursos
+materiales,  recursos  humanos,  medios  técnicos,  de  comunicación,  logísticos,
+organizativos,  de  servicios  y  otros  derivados  de  su  objeto,  para  cuya  justificación
+deberán acreditarse de modo fehaciente las circunstancias que lo motivan.
+A efectos  de  justificar  la  viabilidad  de  las  ofertas  calificadas  como  anormales  las
+empresas deberán presentar la siguiente documentación:
+ Desglose de gastos de las partidas de explotación estimadas durante la vigencia
+del contrato incluidos, en su caso, los correspondientes a las mejoras ofertadas.
+ Documentación justificativa del cálculo del coste del personal adscrito al contrato
+que garantice que la oferta cubre los salarios fijados en el convenio colectivo
+sectorial de aplicación.
+ Documentación justificativa del ahorro que cubra el porcentaje de baja por el que
+la oferta ha incurrido en anormalidad.
+ Condiciones  especialmente  favorables  de  que  disponga  para  ejecutar  las
+prestaciones incluidas en el contrato.
+ Cualquier otra evidencia documental acreditativa de la viabilidad de la oferta.
+Recibida la documentación, el técnico competente de la Unidad administrativa o técnica,
+emitirá informe debidamente fundamentado aceptando o rechazando la justificación de 
+la oferta u ofertas incursas en valores anormales.
+En caso de que fuera aceptada la justificación de la baja anormal, se procederá a la
+asignación de la puntuación de las ofertas aceptadas conforme al método de valoración
+establecido para los criterios de adjudicación.
+En caso de que no se acepte la justificación de la baja anormal, dicha oferta será
+excluida de la licitación, procediéndose a la asignación de puntuación del resto de las
+ofertas aceptadas conforme al método de valoración establecido  para    los criterios de  
+adjudicación.
+5.- CRITERIOS DE ADJUDICACIÓN. 
+• El contrato se adjudicará a la oferta de precio más bajo.  
+@ - ANEXOS ABIERTO SIMPLIFICADO ABREVIADO SERVICIOS                                                          versión  OCTUBRE 2026     9
+ 
+
+
+--- página 10 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZQPYVBF5AEOSCY2XIM Fecha 04/11/2026 12:22:35
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por MARIA VIRGINIA BUSTO SUAREZ
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZQPYVBF5AEOSCY2XIM Página 10/21
+ 
+Nº Expediente: 2026/SSV/001153 
+.
+Descripción de cada criterio y documentación a presentar en relación a los 
+mismos: 
+Numeraci
+ón CRITERIO
+Puntuación
+máxima 
+asignada 
+(100 
+1  OFERTA ECONÓMICA – CONSULTAS DE CUENTAS DE
+LA PROPIA ENTIDAD ADJUDICATARIA:
+  El licitador ofertará una PROPOSICIÓN ECONÓMICA, IVA
+excluido, para todo el plazo de ejecución del contrato. que
+deberá expresarse con un  máximo de dos decimales.   De
+indicarse  más  de  dos  decimales  se  tendrán  por  no
+puestos.Dicha  oferta  económica  será  la  relativa  al  coste
+unitario  de  las  consultas  de  verificación  de  cuentas  que
+pertenezcan a la propia entidad bancaria adjudicataria.
+La oferta económica obtendrá un máximo de 50 Puntos.
+Para  calcular  la  puntuación  obtenida  por  cada  oferta  se
+realizará  una  valoración  lineal  y  proporcional  de
+conformidad con las siguientes reglas:
+Se  otorgarán  0  puntos  a  las  ofertas  que  igualen  el
+presupuesto  de  licitación.  El  resto  de  las  ofertas  se
+valorarán como sigue:
+Se otorgará el máximo de puntos en este criterio a
+aquella oferta que sea un 15 %   inferior a la media
+de las ofertas presentadas, siempre que no exista
+una  oferta  que  se  encuentre  por  debajo  de  este
+valor. 
+Si existiese una oferta que se encontrase por debajo
+del valor anteriormente indicado, sería esta oferta la
+que obtendría el máximo de puntos en este criterio
+(Valor K). 
+Si  existieran  varias  ofertas  que  estuviesen  por
+debajo  del  valor  anteriormente  indicado  (15%),  la
+máxima  puntuación  en  este  criterio  (valor  K)  la
+obtendría la oferta más baja.
+En consecuencia, las ofertas se valorarán de forma
+proporcional  y  lineal,  conforme  a  la  siguiente
+fórmula:
+Ve=( PBLPo PBLK )× Px
+ 
+50 puntos
+@ - ANEXOS ABIERTO SIMPLIFICADO ABREVIADO SERVICIOS                                                          versión  OCTUBRE 2026     10
+ 
+
+
+--- página 11 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZQPYVBF5AEOSCY2XIM Fecha 04/11/2026 12:22:35
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por MARIA VIRGINIA BUSTO SUAREZ
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZQPYVBF5AEOSCY2XIM Página 11/21
+ 
+Nº Expediente: 2026/SSV/001153 
+– Ve =  la  valoración  de  cada  oferta  (Puntuación
+obtenida en este criterio).
+– PBL= Presupuesto Base de Licitación, IVA excluido.
+– Po = Precio de la oferta (Importe de la oferta IVA
+excluido en valores absolutos)
+– K = Cuantía resultante de restar a la media de las
+ofertas aceptadas el 15 %, o la cuantía de la mejor
+oferta que, en su caso, existiera por debajo de este
+valor.
+– Px = Puntuación máxima a otorgar por  el criterio
+económico.
+Si la oferta se formulara en porcentaje de baja sobre precios
+unitarios,  el  porcentaje  ofertado  se  aplicará  sobre  el
+Presupuesto  Base  de  Licitación,  IVA excluido,  a  fin  de
+obtener  un  valor  absoluto  para  la  variable  Po  (Importe
+ofertado,  IVA excluido).  No  se  admitirán  ofertas  con  un
+100% de baja o coste 0.
+Si hubiera una sola oferta se valorará de la misma manera,
+siendo en ese caso el valor de K resultado de restar el 20 %
+al presupuesto base de licitación IVA excluido, o, si la oferta
+fuera menor a esta cantidad. 
+Documentación  a  aportar: Anexo  III cumplimentado  y
+firmado. 
+2  OFERTA ECONÓMICA – CONSULTAS DE CUENTAS DE
+OTRAS ENTIDADES:
+  El licitador ofertará una PROPOSICIÓN ECONÓMICA, IVA
+excluido, para todo el plazo de ejecución del contrato. que
+deberá expresarse con un  máximo de dos decimales.   De
+indicarse más de dos decimales se tendrán por no puestos.
+Dicha oferta económica será la relativa al coste unitario de
+las consultas de verificación de cuentas que pertenezcan a
+otras entidades bancarias.
+La oferta económica obtendrá un máximo de 50 Puntos.
+Para  calcular  la  puntuación  obtenida  por  cada  oferta  se
+realizará  una  valoración  lineal  y  proporcional  de
+conformidad con las siguientes reglas:
+Se  otorgarán  0  puntos  a  las  ofertas  que  igualen  el
+presupuesto  de  licitación.  El  resto  de  las  ofertas  se
+valorarán como sigue:
+Se otorgará el máximo de puntos en este criterio a
+aquella oferta que sea un 15 %   inferior a la media
+de las ofertas presentadas, siempre que no exista
+una  oferta  que  se  encuentre  por  debajo  de  este
+valor. 
+ 50 puntos
+@ - ANEXOS ABIERTO SIMPLIFICADO ABREVIADO SERVICIOS                                                          versión  OCTUBRE 2026     11
+ 
+
+
+--- página 12 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZQPYVBF5AEOSCY2XIM Fecha 04/11/2026 12:22:35
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por MARIA VIRGINIA BUSTO SUAREZ
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZQPYVBF5AEOSCY2XIM Página 12/21
+ 
+Nº Expediente: 2026/SSV/001153 
+Si existiese una oferta que se encontrase por debajo
+del valor anteriormente indicado, sería esta oferta la
+que obtendría el máximo de puntos en este criterio
+(Valor K). 
+Si  existieran  varias  ofertas  que  estuviesen  por
+debajo  del  valor  anteriormente  indicado  (15%),  la
+máxima  puntuación  en  este  criterio  (valor  K)  la
+obtendría la oferta más baja.
+En consecuencia, las ofertas se valorarán de forma
+proporcional  y  lineal,  conforme  a  la  siguiente
+fórmula:
+Ve= PBLPo PBLK × Px
+– Ve =  la  valoración  de  cada  oferta  (Puntuación
+obtenida en este criterio).
+– PBL= Presupuesto Base de Licitación, IVA excluido.
+– Po = Precio de la oferta (Importe de la oferta IVA
+excluido en valores absolutos)
+– K = Cuantía resultante de restar a la media de las
+ofertas aceptadas el 15 %, o la cuantía de la mejor
+oferta que, en su caso, existiera por debajo de este
+valor.
+– Px = Puntuación máxima a otorgar por  el criterio
+económico.
+Si la oferta se formulara en porcentaje de baja sobre precios
+unitarios,  el  porcentaje  ofertado  se  aplicará  sobre  el
+Presupuesto  Base  de  Licitación,  IVA excluido,  a  fin  de
+obtener  un  valor  absoluto  para  la  variable  Po  (Importe
+ofertado,  IVA excluido).  No  se  admitirán  ofertas  con  un
+100% de baja o coste 0.
+Si hubiera una sola oferta se valorará de la misma manera,
+siendo en ese caso el valor de K resultado de restar el 20 %
+al presupuesto base de licitación IVA excluido, o, si la oferta
+fuera menor a esta cantidad. 
+Documentación  a  aportar: Anexo  III cumplimentado  y
+firmado. 
+6.- LUGAR,  FECHA Y HORA DE APERTURA DE PROPOSICIONES.
+LUGAR:  ….....................................… Servicio Tecnologías de la Información.  Calle
+Arenal 6 41001 Sevilla (Andalucía)
+FECHA Y HORA: Se realizará en el plazo máximo de veinte días contados desde la
+fecha de finalización del plazo de presentación de las ofertas. (Artículo 157.3 de la
+@ - ANEXOS ABIERTO SIMPLIFICADO ABREVIADO SERVICIOS                                                          versión  OCTUBRE 2026     12
+ 
+
+
+--- página 13 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZQPYVBF5AEOSCY2XIM Fecha 04/11/2026 12:22:35
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por MARIA VIRGINIA BUSTO SUAREZ
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZQPYVBF5AEOSCY2XIM Página 13/21
+ 
+Nº Expediente: 2026/SSV/001153 
+LCSP)
+Al tratarse  de un procedimiento abierto simplificado abreviado, de conformidad con lo
+previsto en el artículo 159.6 de la LCSP, no se constituirá Mesa de Contratación. 
+Al tratarse de un procedimiento con presentación electrónica de ofertas, las funciones
+de la Mesa de Contratación serán realizadas por el órgano de asistencia unipersonal
+creado al efecto en la Plataforma de Contratación del Sector Publico (PLACSP).
+7.- MODIFICACIONES DEL CONTRATO PREVISTAS. (ARTÍCULO 204 LCSP)
+NO PROCEDEN
+8.- OTRAS PENALIDADES POR INCUMPLIMIENTOS CONTRACTUALES.
+NO PROCEDEN
+9.- PERSONA RESPONSABLE DEL CONTRATO.
+A los efectos del artículo 62 de la LCSP, se designa como persona responsable del
+contrato, al que corresponderá supervisar su ejecución y adoptar las decisiones y dictar
+las  instrucciones  necesarias  con  el  fin  de  asegurar  la  correcta  realización  de  la
+prestación pactada, a la siguiente: Dª Teresa González Galiana, Jefa de Servicio de
+Tecnologías de la Información.
+Como Responsable Funcional del contrato, se designa a D. José Manuel Reyes Pineda,
+Jefe del Servicio de Tesorería.
+10.- SUBCONTRATACIÓN. 
+La  celebración  de  subcontratos  estará  sometida  al  cumplimiento  de  los  requisitos
+establecidos en el  artículo 215 de la LCSP y en el PCAP.
+ Los licitadores NO deben indicar en la oferta la parte del contrato que tengan previsto
+subcontratar. 
+11.- INFORMACIÓN SOBRE LAS CONDICIONES DE SUBROGACIÓN EN
+CONTRATOS DE TRABAJO.
+ NO PRCEDE
+12.- CUALQUIER OTRA CUESTIÓN PERTINENTE EN FUNCIÓN DEL OBJETO DEL
+CONTRATO Y SUS CARACTERÍSTICAS.
+12.1.- CONTRATOS CUYA EJECUCIÓN IMPLIQUE LA CESIÓN DE DATOS AL
+CONTRATISTA. 
+De conformidad con lo dispuesto en el artículo 122.2 párrafo cuarto de la LCSP en su
+@ - ANEXOS ABIERTO SIMPLIFICADO ABREVIADO SERVICIOS                                                          versión  OCTUBRE 2026     13
+ 
+
+
+--- página 14 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZQPYVBF5AEOSCY2XIM Fecha 04/11/2026 12:22:35
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por MARIA VIRGINIA BUSTO SUAREZ
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZQPYVBF5AEOSCY2XIM Página 14/21
+ 
+Nº Expediente: 2026/SSV/001153 
+redacción dada por el RD Ley 14/2019, de 31 de octubre, por el que se adoptan
+medidas urgentes por razones de seguridad pública en materia de administración
+digital, contratación del sector público y telecomunicaciones, y dado que el contrato
+requiere el tratamiento por el contratista de datos personales, se hace constar:
+a) Finalidad para la cual se cederán dichos datos: 
+NOMBRE DEL TRATAMIENTO: HERRAMIENTAS DE COLABORACIÓN DIGITAL 
+FINALIDAD:  Gestión  de  identidades  de  usuarios  y  de  cuentas  de  correos
+electrónicos
+Gestión de ficheros y datos de las cuentas de correo electrónico
+Gestión del trabajo colaborativo mediante herramientas digitales organizativas y de
+trabajo, incluyendo comunicación interna, elaboración de documentos, gestión de
+usuarios y coordinación de tareas y proyectos.
+b) Que el futuro contratista se someterá en todo caso a la normativa nacional y de
+la Unión Europea en materia de protección de datos, sin perjuicio de lo establecido
+en el último párrafo del apartado 1 del artículo 202 de la LCSP.
+c)  La  empresa  adjudicataria  tendrá  la  obligación  de  presentar  antes  de  la
+aceptación de la adjudicación del contrato una declaración en la que ponga de
+manifiesto dónde van a estar ubicados los servidores y desde dónde se van a
+prestar los servicios asociados a los mismos.
+d) La empresa adjudicataria tendrá la obligación de comunicar cualquier cambio
+que se produzca, a lo largo de la vida del contrato, de la información facilitada en
+la declaración a que se refiere la letra c) anterior.
+e) Igualmente, los licitadores habrán de indicar en su oferta, si tienen previsto
+subcontratar los servidores o los servicios asociados a los mismos, el nombre o el
+perfil  empresarial,  definido  por  referencia  a  las  condiciones  de  solvencia
+profesional o técnica, de los subcontratistas a los que se vaya a encomendar su
+realización. 
+Como la prestación implica tratamiento de datos personales por cuenta del órgano de
+contratación, el adjudicatario tendrá la condición de encargado del tratamiento en los
+términos previstos en el art. 28 del Reglamento General de Protección de Datos  y
+quedará  sujeto  a  las  condiciones  previstas  en  el  Contrato  de  Encargado  del
+Tratamiento, que deberá firmar al tiempo de la formalización del contrato.
+12.2.- COMUNICACIONES Y NOTIFICACIONES EN PROCEDIMIENTOS DERIVADOS
+DE LA EJECUCIÓN DEL CONTRATO.
+Iniciada la ejecución del contrato, con carácter  general, -salvo lo establecido en la
+legislación  de  contratos  de  las  Administraciones  públicas  para  casos  específicos-,
+cuantas incidencias deriven de la ejecución del contrato, serán comunicadas/notificadas
+en la Dirección Electrónica Habilitada Única (DEHú), de conformidad con el art 43 y
+siguientes de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+de las Administraciones Públicas. Para ello, se enviará al interesado o su representante,
+aviso informándole de la puesta a disposición de la notificación en la DEHú. Este aviso
+se remitirá a la dirección de correo electrónico que figure en el Anexo del PCAP que
+@ - ANEXOS ABIERTO SIMPLIFICADO ABREVIADO SERVICIOS                                                          versión  OCTUBRE 2026     14
+ 
+
+
+--- página 15 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZQPYVBF5AEOSCY2XIM Fecha 04/11/2026 12:22:35
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por MARIA VIRGINIA BUSTO SUAREZ
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZQPYVBF5AEOSCY2XIM Página 15/21
+ 
+Nº Expediente: 2026/SSV/001153 
+contiene la declaración responsable del licitador.
+La falta de práctica de este aviso, de carácter meramente informativo, no impedirá que
+la notificación sea considerada plenamente válida.
+De esta forma, los contratistas podrán acceder a las notificaciones desde el Punto de
+Acceso General electrónico de la Administración, que funcionará como un portal de
+acceso. De conformidad con lo anterior, las notificaciones estarán disponibles en la
+Dirección Electrónica Única del sistema de información para la notificación electrónica
+alojada  en  la  sede  electrónica  del  PAGe  de  la  Administración  General  del  Estado
+(https://administracion.gob.es/).
+Las notificaciones por medios electrónicos se entenderán practicadas en el momento en
+que se produzca el acceso a su contenido, entendiéndose cumplida la obligación a la
+que se refiere el artículo 40.4 con la puesta a disposición de la notificación en la sede
+electrónica de la Administración u Organismo actuante o en la DEHú.
+Cualquier cambio o modificación de cualquier  tipo en los datos que figuran en las
+autorizaciones relacionadas con este procedimiento de comunicaciones y notificaciones,
+deberá ser comunicada y acreditada debidamente ante el Servicio/Unidad/tramitador/a
+de este contrato. En este sentido, el interesado se hace responsable de que dispone de
+acceso a la dirección de correo electrónico expresamente designado. En caso de que
+deje de estar operativo o pierda la posibilidad de acceso, el interesado está obligado a
+comunicarlo al Servicio/Unidad/tramitador/a de este contrato para que no realice el aviso
+o comunicación al correo designado. El incumplimiento de esta obligación conforme al
+artículo 43.1 cuarto párrafo del Real Decreto 203/2021, de 30 de marzo por el que se
+aprueba el Reglamento de actuación y funcionamiento del sector público por medios
+electrónicos, no conllevará responsabilidad alguna para la Administración por los avisos
+efectuados a dichos medios no operativos.
+12.3.- PREVENCIÓN DE RIESGOS LABORALES
+La ejecución  del  contrato  de  servicios implica  que  en  un mismo  centro  de trabajo
+municipal,  desarrollaran  sus  funciones,  trabajadores  de  la  empresa  adjudicataria  y
+trabajadores del Ayuntamiento de Sevilla: 
+     □  NO
+ 
+LA  JEFATURA DE LA UNIDAD  ADMINISTRATIVA
+@ - ANEXOS ABIERTO SIMPLIFICADO ABREVIADO SERVICIOS                                                          versión  OCTUBRE 2026     15
+ 
+
+
+--- página 16 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZQPYVBF5AEOSCY2XIM Fecha 04/11/2026 12:22:35
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por MARIA VIRGINIA BUSTO SUAREZ
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZQPYVBF5AEOSCY2XIM Página 16/21
+ 
+Nº Expediente: 2026/SSV/001153 
+ANEXO II
+DECLARACIÓN RESPONSABLE DEL CUMPLIMIENTO DE LOS REQUISITOS PARA
+CONTRATAR,  AUTORIZACIÓN  PARA  RECABAR  DATOS  DE  CARÁCTER
+TRIBUTARIO Y DE LA SEGURIDAD SOCIAL, AUTORIZACIÓN PARA LA PRÁCTICA
+DE  NOTIFICACIONES  EN  UNA  DIRECCIÓN  DE  CORREO  ELECTRÓNICO  Y
+DECLARACIÓN  SOBRE  SI  ES  UNA PYME  Y  DE  PERTENENCIA  A GRUPO  DE
+EMPRESAS VINCULADAS.
+Contrato al que se licita: 
+Nº DE EXPEDIENTE: 2026/SSV/001153
+OBJETO DEL CONTRATO: Servicio de consultas de titulares de cuentas bancarias a 
+través de API's (Ref. 30/26)
+LOTES A LOS QUE SE LICITA: No procede
+D/Dª ...................................................................................... con D.N.I. Nº ................., y 
+domicilio en  ..........…............................. c/.........................................................................., 
+(Marcar y, en su caso, cumplimentar la opción que proceda):
+   en nombre propio 
+  en representación de la empresa …..............................................................., 
+con CIF .................., en calidad de ...........................................................,
+DECLARA bajo su personal responsabilidad:
+Que cumple con los siguientes requisitos para contratar previstos en la Ley 9/2017, de 8
+de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento
+jurídico  español  las Directivas del  Parlamento  Europeo y del  Consejo 2014/23/UE y
+2014/24/UE, de 26 de febrero de 2014 (LCSP, en adelante):
+1.-  Encontrarse  inscrita  en  el  Registro  de  Licitadores  que  a  continuación  indica,  no
+habiéndose producido alteración de los datos que constan en dicho Registro, o estar
+pendiente de inscripción. (marcar con X lo que proceda):
+  Registro Oficial de Licitadores y Empresas Clasificadas del Estado.
+  Registro de Licitadores de la Comunidad Autónoma de Andalucía.
+ Pendiente  de  inscripción  en  el  ROLECE  o  en  el  Registro  de  Licitadores  de  la
+Comunidad Autónoma de Andalucía, habiendo sido presentada la solicitud de inscripción
+antes  de  la  finalización  del  plazo  de  presentación  de  ofertas.  (Si  el  licitador  fuera
+propuesto como adjudicatario y hubiera hecho uso de esta facultad, se le requerirá para
+que lo justifique documentalmente mediante la aportación del acuse de recibo de la
+solicitud emitido por el correspondiente Registro y de una declaración responsable de
+haber aportado la documentación preceptiva y de no haber recibido requerimiento de
+subsanación.)
+ 
+2.-  Contar  con  personalidad  jurídica  y  estar  constituida  cumpliendo  con  todos  los
+requisitos legalmente establecidos, estar el objeto del contrato comprendido dentro de los
+fines sociales, objeto o ámbito de actividad que le son propios a tenor de lo establecido
+en sus estatutos o reglas fundacionales, así como contar el firmante con poder bastante
+para su representación.
+@ - ANEXOS ABIERTO SIMPLIFICADO ABREVIADO SERVICIOS                                                          versión  OCTUBRE 2026     16
+ 
+
+
+--- página 17 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZQPYVBF5AEOSCY2XIM Fecha 04/11/2026 12:22:35
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por MARIA VIRGINIA BUSTO SUAREZ
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZQPYVBF5AEOSCY2XIM Página 17/21
+ 
+Nº Expediente: 2026/SSV/001153 
+Si el contrato o alguno de sus lotes fuera reservado a Centros Especiales de Empleo de
+iniciativa social o Empresas de Inserción conforme a lo  dispuesto en la Disposición
+Adicional cuarta de la LCSP, y así se indique en el Anexo I a los PCAP, declara ostentar
+como  requisito  de  capacidad,  conforme  a  la  normativa  específica  que  le  resulte  de
+aplicación,  la  mencionada  condición  y,  encontrarse  inscrito  en  el  Registro  oficial
+correspondiente. (En el supuesto de que los licitadores participen en la licitación a través
+de una UTE, el carácter de Centro Especial de Empleo de iniciativa social o de Empresa
+de Inserción, deben concurrir en todas y cada una de las entidades que integrarán la
+UTE.).
+3.- Tener plena capacidad de obrar y no estar incurso en las prohibiciones para contratar
+previstas el artículo 71 de la LCSP y cumplir, a la finalización del plazo de presentación
+de las proposiciones, todos y cada uno de los requisitos exigidos en los PCAP que rigen
+el contrato arriba mencionado. 
+4.- Contar con la habilitación empresarial o profesional que, en su caso, sea exigible para
+la realización de la actividad o prestación que constituya el objeto del contrato.
+5.- Hallarse al corriente en el cumplimiento de sus obligaciones tributarias y de sus
+obligaciones con la Seguridad Social, impuestas por las disposiciones vigentes y no llevar
+a cabo operaciones financieras consideradas delictivas en las condiciones legalmente
+establecidas, como delitos de blanqueo de capitales, fraude fiscal o contra la Hacienda
+Pública, especialmente las realizadas en paraísos fiscales. 
+6.- Que la empresa a la que representa emplea a: (marque la casilla que corresponda)
+  Menos de 50 trabajadores. 
+  50 o más trabajadores: 
+- Cumple con la obligación de que, entre ellos, al menos, el 2% son trabajadores con
+discapacidad, establecida por el Real Decreto Legislativo 1/2013, de 29 de noviembre,
+por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas
+con discapacidad y de su inclusión social, en las condiciones que reglamentariamente se
+determinen, o, en caso contrario, ha adoptado las medidas excepcionales previstas en el
+Real Decreto 364/2005 de 8 de abril.
+-  Cuenta  con  un  Plan  de  Igualdad  que  se  deberá  inscribir   en  el  Registro  laboral  
+correspondiente, conforme a lo dispuesto en el artículo 45 de la Ley  Orgánica 3/2007, de
+22 de marzo, para la igualdad efectiva de mujeres y hombres.
+Así mismo, se compromete a presentar ante el órgano de contratación la documentación
+acreditativa de las citadas obligaciones, cuando sea requerida para ello, en cualquier
+momento durante la vigencia del contrato. 
+7.-  Cumplir con todas las obligaciones laborales que le impone la legislación vigente.
+8.-  En el caso de tratarse de empresa extranjera y el contrato se ejecute en España,
+someterse a la jurisdicción de los juzgados y tribunales españoles de cualquier orden
+para todas las incidencias que de modo directo o indirecto pudieran surgir del contrato,
+con renuncia, en su caso, al fuero jurisdiccional extranjero que pudiera corresponder al
+licitador.
+9.-  Asimismo se compromete a cumplir con todas las obligaciones establecidas en los
+Pliegos de prescripciones Técnicas y Pliegos de Condiciones Administrativas, así como
+especialmente con todas condiciones especiales de ejecución de aplicación al contrato,
+@ - ANEXOS ABIERTO SIMPLIFICADO ABREVIADO SERVICIOS                                                          versión  OCTUBRE 2026     17
+ 
+
+
+--- página 18 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZQPYVBF5AEOSCY2XIM Fecha 04/11/2026 12:22:35
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por MARIA VIRGINIA BUSTO SUAREZ
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZQPYVBF5AEOSCY2XIM Página 18/21
+ 
+Nº Expediente: 2026/SSV/001153 
+de conformidad con lo establecido en la cláusula 12 de los PCAP y su Anexo I durante
+toda su ejecución, manifestando que conoce que las obligaciones que tengan carácter
+esencial podrán ser causa de resolución del contrato de conformidad con el  artículo 211.
+f) de la LCSP.
+En particular, declara someterse en todo caso a la normativa nacional y de la Unión
+Europea en materia de protección de datos.
+AUTORIZACIÓN PARA RECABAR DATOS:
+Por otro lado, la persona abajo firmante, en nombre propio o en el de la empresa o
+entidad que representa, otorga el CONSENTIMIENTO expreso indicado a continuación,
+para la verificación de los requisitos para contratar previstos en la Ley 9/2017, de 8 de
+noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento
+jurídico  español  las Directivas del  Parlamento  Europeo y del  Consejo 2014/23/CE y
+2014/24/CE de 26 de febrero de 2014,  mediante consulta de servicios a  través de la
+plataforma de intermediación de datos, o cualquier otro sistema que se establezca al
+efecto, conforme a lo establecido en el artículo 28.2 de la Ley 39/2015 de 1 de octubre,
+del Procedimiento Administrativo Común de las Administraciones Públicas:
+•  Consentimiento para acceder a datos de la Agencia Estatal de Administración
+Tributaria relativos al cumplimiento de obligaciones tributarias:
+                         SI    □        NO   □  
+•  Consentimiento para acceder a datos de la Tesorería General de la Seguridad
+Social relativos al cumplimiento de obligaciones con ella:
+                        SI    □        NO   □  
+• Consentimiento para acceder a datos de la Agencia Tributaria del Ayuntamiento
+de Sevilla relativos al cumplimiento de obligaciones tributarias:
+                        SI    □        NO   □  
+• No oposición al acceso de datos del Registro Oficial de Licitadores y Empresas
+Clasificadas:
+              NO me opongo   □          SI  me opongo   □    
+El presente consentimiento podrá ser revocado en cualquier momento mediante escrito
+dirigido al órgano de contratación. De no revocarse, estará vigente durante la totalidad del
+plazo de ejecución del contrato, incluidas las posibles prórrogas que pudieran acordarse.
+COMUNICACIÓN  DE  UNA  DIRECCIÓN  DE  CORREO  ELECTRÓNICO  PARA  LA
+PUESTA A DISPOSICIÓN DEL AVISO DE UNA NOTIFICACIÓN O COMUNICACIÓN
+ELECTRÓNICA Y AUTORIZACIÓN A EFECTOS DE PUBLICIDAD:
+Igualmente, la persona abajo firmante, en nombre propio o en el de la empresa o entidad
+que representa,  COMUNICA al Ayuntamiento de Sevilla, que los avisos de puesta a
+disposición de las notificaciones y requerimientos correspondientes a este procedimiento
+se les efectúen en la dirección de correo electrónico que se señala a continuación, tanto
+en lo que se refiere al procedimiento de licitación (-para lo cual procederá a registrarse en
+la Plataforma de Contratación del Estado con la misma dirección de correo electrónico
+@ - ANEXOS ABIERTO SIMPLIFICADO ABREVIADO SERVICIOS                                                          versión  OCTUBRE 2026     18
+ 
+
+
+--- página 19 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZQPYVBF5AEOSCY2XIM Fecha 04/11/2026 12:22:35
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por MARIA VIRGINIA BUSTO SUAREZ
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZQPYVBF5AEOSCY2XIM Página 19/21
+ 
+Nº Expediente: 2026/SSV/001153 
+que  aquí  se  indique,  debiendo  disponer  de  un  certificado  digital  de  persona  física
+aceptado por la Plataforma de validación @firma- Ver clausula 8.2 del PCAP), como a las
+relativas a la posterior ejecución del contrato (que serán comunicadas/notificadas en la
+Dirección Electrónica Habilitada Única (DEHú)). Asimismo, la persona abajo firmante, en
+nombre  propio  o  en  el  de  la  empresa  o  entidad  que  representa  AUTORIZA  al
+Ayuntamiento de Sevilla, a que la dirección de correo electrónico y el teléfono de
+contacto aparezcan tanto en las comunicaciones como en los anuncios de adjudicación y
+formalización en caso de que resulte adjudicatario que se lleven a cabo a través de la
+Plataforma de Contratación del Sector Público.
+Dirección de correo electrónico: ____________________________________
+Persona de contacto para actuaciones inmediatas: _____________________
+Teléfono: ________
+DECLARACIÓN  SOBRE  SI  LA EMPRESA ES  UNA PYME  Y DE  PERTENENCIA A
+GRUPO DE EMPRESAS VINCULADAS:
+Por otro lado, la persona abajo firmante, en nombre propio o en el de la empresa o
+entidad que representa, MANIFIESTA que: (marcar con X lo que proceda)
+ NO es una PYME
+ SI es una PYME
+Así mismo, a efectos de identificación de ofertas anormalmente bajas y conforme lo
+previsto en el artículo 149.3 de la LCSP, relativo a la concurrencia a esta licitación de
+empresas vinculadas que se encuentren en alguno de los supuestos previstos en el
+artículo 42.1 del Código de Comercio, DECLARA (marcar con X lo que proceda):
+   No encontrarse vinculada con ninguna empresa.
+   Ser empresa vinculada, por encontrarse en alguno de los supuestos previstos en el
+artículo  42  del  Código  de  Comercio,  presentándose  a  la  licitación  las  siguientes
+empresas: _____________________________
+   Ser empresa vinculada, por encontrarse en alguno en los supuestos previstos en el
+artículo 42 del Código de Comercio, no presentándose a esta licitación ninguna de las
+empresas con las que existe dicha vinculación.
+(Lugar, fecha y firma de la persona proponente)
+@ - ANEXOS ABIERTO SIMPLIFICADO ABREVIADO SERVICIOS                                                          versión  OCTUBRE 2026     19
+ 
+
+
+--- página 20 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZQPYVBF5AEOSCY2XIM Fecha 04/11/2026 12:22:35
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por MARIA VIRGINIA BUSTO SUAREZ
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZQPYVBF5AEOSCY2XIM Página 20/21
+ 
+Nº Expediente: 2026/SSV/001153 
+ANEXO III
+MODELO DE PROPOSICIÓN ECONÓMICA
+D/Dª......................................................................................  con  D.N.I.  Nº  .................,  y
+domicilio  en   ..........…...............................
+c/............................................................................., (Marcar y, en su caso, cumplimentar la
+opción que proceda):
+   en nombre propio 
+  en representación de la empresa ........................................., con CIF .............,
+en calidad de ...........................................................,
+E X P O N E
+PRIMERO.- Que enterado de las condiciones y requisitos, que acepta y que se exigen
+para  la  adjudicación  por  PROCEDIMIENTO  ABIERTO  SIMPLIFICADO  ABREVIADO
+(ART. 159. 6 LCSP) del SERVICIO que a continuación se especifica, a cuya realización
+se  compromete  en  su  totalidad  con  estricta  sujeción  al  Pliegos  de  Prescripciones
+Técnicas y de Condiciones Administrativas Particulares que rigen la licitación, presenta la
+siguiente oferta: 
+Nº Expediente: 2026/SSV/001153
+DENOMINACIÓN DEL CONTRATO: Servicio de consultas de titulares de cuentas 
+bancarias a través de API's (Ref. 30/26) 
+PRESUPUESTO BASE DE LICITACIÓN (excluyendo el importe del IVA): 48,400 € 
+1. OFERTA ECONÓMICA – CUENTAS DE LA PROPIA ENTIDAD ADJUDICATARIA
+COSTE UNITARIO  MÁXIMO  CONSULTA CUENTAS DE LA PROPIA ENTIDAD , IVA
+excluido: 0,10 € (10 CÉNTIMOS):
+COSTE UNITARIO CONSULTA CUENTAS DE LA PROPIA ENTIDAD
+ADJUDICATARIA , IVA excluido, para todo el plazo de duración del
+contrato(*) (en cifra)   : 
+…………… €
+IMPORTE del  IVA (en cifra) …………… €
+IMPORTE TOTAL, IVA incluido (en cifra) …………… €
+2. OFERTA ECONÓMICA – CUENTAS DE OTRAS ENTIDADES BANCARIAS
+COSTE  UNITARIO  MÁXIMO CONSULTA  CUENTAS  DE  OTRAS  ENTIDADES
+BANCARIAS, IVA excluido: 0,40 € (40 CÉNTIMOS):
+COSTE UNITARIO CONSULTA CUENTAS DE OTRAS ENTIDADES
+BANCARIAS,  IVA excluido,  para  todo  el  plazo  de  duración  del
+contrato(*) (en cifra) :
+…………… €
+IMPORTE del  IVA (en cifra) …………… €
+IMPORTE TOTAL, IVA incluido (en cifra) …………… €
+@ - ANEXOS ABIERTO SIMPLIFICADO ABREVIADO SERVICIOS                                                          versión  OCTUBRE 2026     20
+ 
+
+
+--- página 21 ---
+CSV (Código de Verificación
+Segura) IVULWMK5ZQPYVBF5AEOSCY2XIM Fecha 04/11/2026 12:22:35
+Normativa
+Este documento incorpora firma electrónica reconocida de acuerdo a la ley 6/2020\,
+de 11 de noviembre\, reguladora de determinados aspectos de los servicios
+electrónicos de confianza
+Validez del
+documento Otros
+Firmado por MARIA VIRGINIA BUSTO SUAREZ
+Url de verificación https://www.sevilla.org/verifirmav2/code/IVULWMK5ZQPYVBF5AEOSCY2XIM Página 21/21
+ 
+Nº Expediente: 2026/SSV/001153 
+*) Al coincidir el presupuesto de licitación con el de adjudicación, la baja ofertada por el
+adjudicatario  implicará  el  aumento  de  los  servicios  (más  número  de  consultas  de
+cualquiera de los dos tipos), facturándose exclusivamente las efectivamente realizadas,
+sin que exista obligación por parte del Ayuntamiento de agotar presupuesto.
+SEGUNDO.- Que en la elaboración de la presente oferta han sido tenidas en cuenta las 
+obligaciones medioambientales, las obligaciones de protección del empleo, las 
+condiciones de trabajo incluido el Convenio colectivo sectorial de aplicación, igualdad de 
+oportunidades entre mujeres y hombres, prevención de riesgos laborales y obligaciones 
+tributarias.
+TERCERO.- El CONVENIO COLECTIVO SECTORIAL DE APLICACIÓN que aplicará en 
+la ejecución del contrato será el siguiente: (Indicar el título completo) 
+….................................………… ………………………………, con código nº: ………
+(Lugar, fecha y firma de la persona proponente)
+NOTA: En el PCAP se incluye la relación de organismos donde las personas y entidades 
+interesadas pueden obtener información relativa a fiscalidad, protección del medio 
+ambiente, disposiciones vigentes en materia de protección del empleo y  condiciones de 
+trabajo.
+@ - ANEXOS ABIERTO SIMPLIFICADO ABREVIADO SERVICIOS                                                          versión  OCTUBRE 2026     21
+ 

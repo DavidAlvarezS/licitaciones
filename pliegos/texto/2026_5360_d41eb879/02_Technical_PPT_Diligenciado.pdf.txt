@@ -1,0 +1,775 @@
+
+
+--- página 1 ---
+AYUNTAMIENTO DE LOS REALEJOS
+GERENCIA MUNICIPAL DE URBANISMO
+PLIEGO DE PRESCRIPCIONES TÉCNICAS
+Servicio de automatización RPA de comunicaciones previas
+Para descargar una copia de este documento consulte la siguiente página web
+ 
+Código Seguro de Validación 8a2fa91d1f6a41c6aac1bc51e84eb549001
+Url de validación https://sede.losrealejos.es/absis/idi/arx/idiarxabsaweb/castellano/asp/verificadorfirma.asp
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+MARIA JOSE GONZALEZ
+HERNANDEZ
+19/11/2026 SECRETARIA
+
+--- página 2 ---
+ Resumen de la propuesta técnica
+La solución se limita a un único caso de uso: las comunicaciones previas de la Gerencia Municipal de 
+Urbanismo. La automatización tendrá carácter instrumental y desatendido, con supervisión humana en 
+cualquier actuación que pueda producir efectos administrativos.
+Ámbito Propuesta
+Caso de uso Todas las comunicaciones previas, tratadas como una única familia funcional, con reglas específicas por modalidad definidas durante el análisis.
+Volumen de referencia Aproximadamente 192 expedientes al año.
+Plataforma
+RPA corporativa, sin marca impuesta, con robot desatendido y orquestación o mecanismo 
+equivalente. El robot se ejecutará sobre una máquina virtual Windows Server facilitada por 
+el Ayuntamiento.
+Integraciones Gestor de Expedientes y Gestor de Liquidaciones de Berger-Levrault, repositorio documental y, cuando resulte viable y autorizado, Catastro.
+Modelo de ejecución Análisis y diseño -> desarrollo e integración -> pruebas y puesta en producción -> estabilización y soporte.
+Supervisión humana El robot no firma, notifica, resuelve ni realiza valoraciones técnicas, jurídicas o urbanísticas.
+Duración técnica de referencia 12 meses iniciales. La eventual prórroga mantiene el mismo caso de uso y se limita a continuidad, soporte y mantenimiento.
+ Contenido
+1. Introducción, objeto y principios del servicio
+2. Alcance funcional y funciones obligatorias
+3. Sistemas e integraciones
+4. Plataforma y arquitectura RPA
+5. Fase de análisis y diseño
+6. Desarrollo, implantación y entregables
+7. Pruebas, aceptación y estabilización
+8. Soporte, mantenimiento y niveles de servicio
+9. Seguridad, ENS y protección de datos
+10. Trazabilidad, monitorización e indicadores
+11. Documentación, formación y transferencia
+12. Reversibilidad y derechos sobre los trabajos
+13. Organización y responsabilidades
+14. Planificación técnica y eventual prórroga
+Anexo I. Lista mínima de aceptación
+Para descargar una copia de este documento consulte la siguiente página web
+ 
+Código Seguro de Validación 8a2fa91d1f6a41c6aac1bc51e84eb549001
+Url de validación https://sede.losrealejos.es/absis/idi/arx/idiarxabsaweb/castellano/asp/verificadorfirma.asp
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+MARIA JOSE GONZALEZ
+HERNANDEZ
+19/11/2026 SECRETARIA
+
+--- página 3 ---
+ 1. Introducción, objeto y principios del servicio
+ 1.1. Situación de partida
+La Gerencia Municipal de Urbanismo tramita un volumen aproximado de 192 expedientes anuales de 
+comunicaciones previas. El flujo general comprende la presentación de la comunicación, la 
+comprobación de la documentación y datos aportados, el requerimiento de subsanación cuando 
+proceda y la toma de conocimiento cuando el expediente está completo.
+Una parte relevante de estas tareas consiste en comprobaciones regladas y repetitivas susceptibles de 
+automatización. El proyecto pretende reducir carga manual, mejorar la homogeneidad de las 
+comprobaciones y reforzar la trazabilidad, manteniendo en todo momento el control del personal 
+municipal sobre las actuaciones con efectos administrativos.
+ 1.2. Objeto
+El objeto del presente Pliego de Prescripciones Técnicas es definir las condiciones técnicas para 
+analizar, diseñar, configurar, desarrollar, implantar, poner en producción y mantener una solución de 
+automatización robótica de procesos (RPA) aplicada a las comunicaciones previas de Urbanismo.
+La prestación incluirá los derechos de uso o licencias necesarios durante la vigencia del contrato, los 
+componentes de ejecución y orquestación, la documentación, las pruebas, la formación, el soporte, el 
+mantenimiento y la transferencia de conocimiento.
+ 1.3. Principios
+ Un único caso de uso: comunicaciones previas. No se incluye la automatización de un segundo 
+procedimiento.
+ Definición funcional progresiva: las reglas, documentos, excepciones y particularidades de las 
+distintas modalidades se concretarán durante la fase de análisis y deberán ser validadas por el 
+Ayuntamiento.
+ Neutralidad tecnológica: no se impone fabricante ni producto RPA concreto.
+ Supervisión humana: el robot actúa como apoyo instrumental y no sustituye las competencias 
+técnicas, jurídicas, urbanísticas ni decisorias del personal municipal.
+ Seguridad por diseño, trazabilidad completa y principio de mínimo privilegio.
+ Reversibilidad y reducción de dependencia del proveedor.
+Límite esencial de la automatización
+El robot no podrá firmar, notificar, dictar resoluciones, emitir informes técnicos o jurídicos ni realizar valoraciones 
+urbanísticas. Los borradores y actuaciones que puedan producir efectos administrativos deberán ser revisados y 
+validados previamente por personal municipal competente.
+ 2. Alcance funcional y funciones obligatorias
+ 2.1. Caso de uso
+El caso de uso comprenderá todas las comunicaciones previas incluidas en el procedimiento de 
+Urbanismo. Se parte de un flujo general homogéneo. Durante la fase de análisis se concretarán y 
+documentarán las reglas, los documentos, las condiciones de obligatoriedad y las excepciones 
+aplicables a las distintas modalidades, que deberán ser validadas por el Ayuntamiento.
+Durante la fase de análisis podrán identificarse elementos de exigibilidad variable según el tipo de 
+actuación -por ejemplo, la garantía de ocupación de vía, exigible únicamente en determinados casos-. 
+Estas diferencias se documentarán como reglas o parámetros de la modalidad correspondiente y, 
+cuando no puedan resolverse mediante reglas objetivas, se derivarán a revisión humana.
+Para descargar una copia de este documento consulte la siguiente página web
+ 
+Código Seguro de Validación 8a2fa91d1f6a41c6aac1bc51e84eb549001
+Url de validación https://sede.losrealejos.es/absis/idi/arx/idiarxabsaweb/castellano/asp/verificadorfirma.asp
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+MARIA JOSE GONZALEZ
+HERNANDEZ
+19/11/2026 SECRETARIA
+
+--- página 4 ---
+ 2.2. Funciones mínimas
+N.º Función Resultado mínimo
+1 Apertura o localización del expediente
+A partir de una comunicación ya registrada, localizar el expediente correspondiente y 
+crear uno nuevo en el Gestor de Expedientes de Berger-Levrault cuando proceda. 
+Antes de crear un nuevo expediente, se realizará una búsqueda de posibles 
+expedientes existentes sobre el mismo objeto conforme a reglas objetivas validadas. 
+La creación automática de nuevos expedientes será obligatoria y deberá implantarse 
+y superarse en las pruebas de aceptación. Se realizará conforme a reglas objetivas 
+validadas, incorporando los datos y documentos necesarios. Los supuestos de 
+duplicidad dudosa, datos insuficientes o imposibilidad puntual de creación segura se 
+derivarán motivadamente a revisión humana, sin que esta derivación pueda sustituir 
+la capacidad obligatoria de creación automática.
+2 Selección de expedientes Localizar las comunicaciones previas pendientes de tratamiento según estados, colas o filtros definidos durante el análisis.
+3 Lectura de datos básicos
+Extraer los datos estructurados disponibles: identificación, interesado, 
+emplazamiento, modalidad, referencia catastral cuando conste y demás campos 
+necesarios.
+4 Comprobación de campos Detectar campos obligatorios no cumplimentados y coherencias básicas definidas mediante reglas cerradas.
+5 Comprobación documental Verificar la presencia de los documentos exigibles según la matriz documental y la modalidad correspondiente.
+6 Control básico de archivos Detectar archivos vacíos, inaccesibles, duplicados evidentes o con formatos no admitidos, sin interpretar su contenido técnico.
+7 Relación de carencias y borrador Generar una relación estructurada de carencias y un borrador de requerimiento de subsanación, sin firma ni envío.
+8 Comprobación del pago
+Consultar el estado del pago mediante el mecanismo municipal disponible y 
+autorizado, utilizando los identificadores que permitan relacionar de forma inequívoca 
+el cobro con la comunicación o expediente. Cuando la comprobación no sea 
+concluyente, registrar «pago no verificable» y derivar a revisión humana.
+9 Clasificación del resultado Clasificar el expediente según el resultado de las comprobaciones y las excepciones detectadas.
+10 Informe de control Generar una ficha o informe con las comprobaciones realizadas, resultados, incidencias y evidencias.
+11 Aviso al tramitador Crear una tarea, aviso o comunicación interna mediante las funciones disponibles en los sistemas municipales.
+12 Trazabilidad Registrar fecha, hora, expediente, versión del robot, resultado, errores y actuaciones realizadas.
+13 Reintento y seguimiento Permitir relanzamientos controlados y generar listados de ejecuciones, excepciones, pendientes y fallos.
+ 2.3. Apertura, detección de posibles duplicidades y vinculación
+La detección de un posible expediente previo se basará exclusivamente en criterios objetivos definidos 
+durante la fase de análisis. El PPT no fija por anticipado los campos ni ponderaciones concretas que 
+deberán utilizarse.
+Para descargar una copia de este documento consulte la siguiente página web
+ 
+Código Seguro de Validación 8a2fa91d1f6a41c6aac1bc51e84eb549001
+Url de validación https://sede.losrealejos.es/absis/idi/arx/idiarxabsaweb/castellano/asp/verificadorfirma.asp
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+MARIA JOSE GONZALEZ
+HERNANDEZ
+19/11/2026 SECRETARIA
+
+--- página 5 ---
+La búsqueda de posibles expedientes existentes será un paso obligatorio y previo a toda creación 
+automática. Solo cuando las reglas objetivas validadas permitan descartar un expediente preexistente 
+y se disponga de los datos necesarios, el robot procederá a crear el nuevo expediente en el Gestor de 
+Expedientes de Berger-Levrault y verificará su correcta generación. Si se detectan posibles 
+duplicidades sin coincidencia inequívoca, el robot detendrá la creación y derivará el caso a revisión 
+humana, dejando constancia del resultado de la búsqueda.
+Cuando no exista una coincidencia inequívoca, el robot no realizará por sí mismo una vinculación 
+definitiva: identificará los posibles expedientes relacionados y derivará el caso a revisión humana. La 
+automatización de una vinculación solo podrá implantarse cuando exista una regla determinista, 
+aprobada por el Ayuntamiento y técnicamente segura.
+ 2.4. Resultados mínimos
+ Comprobaciones superadas.
+ Expediente incompleto.
+ Pago pendiente.
+ Pago en baja/anulación, cuando el sistema devuelva dicho estado.
+ Pago no verificable.
+ Incidencia técnica.
+ Revisión manual necesaria.
+ Expediente no incluido o no automatizable.
+ 2.5. Exclusiones
+ Automatización de otros procedimientos distintos de las comunicaciones previas.
+ Interpretación técnica, jurídica o urbanística de memorias, proyectos, planos, fotografías u otra 
+documentación.
+ OCR avanzado, inteligencia artificial o modelos de lenguaje como requisito mínimo.
+ Firma, notificación o emisión automática de actos administrativos con efectos frente a terceros.
+ Cambios automáticos de estado con efectos administrativos sin validación humana.
+ Desarrollos estructurales o modificaciones a medida en aplicaciones de terceros no incluidos 
+expresamente en el alcance.
+ Soporte 24x7 o requisitos de alta disponibilidad propios de servicios críticos.
+ 3. Sistemas e integraciones
+La fase de análisis deberá identificar los mecanismos disponibles y autorizados para interactuar con 
+los sistemas implicados. El Ayuntamiento define el resultado funcional esperado; corresponde al 
+adjudicatario proponer y documentar el mecanismo técnico más adecuado.
+Sistema Tratamiento técnico
+Gestor de Expedientes 
+(Berger-Levrault)
+Gestor de expedientes de Urbanismo. La integración, automatización de interfaz o mecanismo 
+equivalente se estudiará dentro del proyecto. Debe permitir las operaciones necesarias para el 
+caso de uso. Aplicación con acceso mediante navegador web. La solución deberá poder crear 
+nuevos expedientes de comunicaciones previas de forma automatizada mediante mecanismos 
+técnicos autorizados, sin exigir desarrollos del fabricante. Su creación segura y la incorporación 
+de datos y documentos serán objeto de pruebas obligatorias.
+Para descargar una copia de este documento consulte la siguiente página web
+ 
+Código Seguro de Validación 8a2fa91d1f6a41c6aac1bc51e84eb549001
+Url de validación https://sede.losrealejos.es/absis/idi/arx/idiarxabsaweb/castellano/asp/verificadorfirma.asp
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+MARIA JOSE GONZALEZ
+HERNANDEZ
+19/11/2026 SECRETARIA
+
+--- página 6 ---
+Sistema Tratamiento técnico
+Gestor de Liquidaciones 
+(Berger-Levrault)
+El Gestor de Liquidaciones de Berger-Levrault es la fuente municipal de referencia para 
+comprobar el estado del cobro. La fase de análisis determinará el mecanismo técnico de consulta 
+y la correlación con el expediente, teniendo en cuenta el número de recibo/número de liquidación 
+y, cuando proceda, el número de notificación u otros identificadores disponibles. Se analizarán 
+asimismo los informes y datos estructurados disponibles. Aplicación cliente/servidor a la que 
+actualmente se accede mediante escritorio remoto a un servidor municipal. El Ayuntamiento 
+instalará el cliente de la aplicación en la máquina virtual del robot, de modo que la automatización 
+se realice sobre la aplicación local y no sobre la sesión de escritorio remoto. Si no resultara 
+técnicamente viable, el robot podrá ejecutarse en el servidor de escritorio remoto con su 
+identidad técnica propia, y solo como último recurso se admitirá la automatización sobre la 
+imagen de la sesión remota. La solución no requerirá desarrollos, integraciones ni actuaciones 
+del fabricante de la aplicación.
+Catastro
+Urbanismo consulta referencia catastral y dirección/localización. Su automatización se 
+incorporará únicamente si existe un mecanismo autorizado, operativo y técnicamente 
+automatizable.
+Repositorio documental / 
+archivo electrónico
+Se utilizarán los mecanismos vinculados al gestor o repositorio municipal que resulten necesarios 
+para leer, generar o incorporar documentos y evidencias.
+ 3.1. Principios de integración
+ Preferencia por interfaces estables y autorizadas cuando estén disponibles.
+ Automatización de interfaz gráfica cuando no exista un mecanismo más adecuado y su uso sea 
+compatible con las condiciones del sistema. La solución deberá respetar las condiciones técnicas, 
+de licenciamiento y de uso de las aplicaciones municipales y de terceros con las que interactúe.
+ No se exigirán cambios estructurales en los sistemas municipales de origen.
+ Uso de cuentas técnicas específicas, permisos mínimos y credenciales gestionadas de forma 
+segura.
+ Prevención de duplicidades, control de concurrencia, reintentos y gestión de indisponibilidades.
+ Documentación de dependencias técnicas y de los cambios externos que puedan afectar al robot.
+ 3.2. Tratamiento del pago
+La comprobación del pago se realizará mediante los mecanismos disponibles y autorizados en el 
+Gestor de Liquidaciones de Berger-Levrault y, cuando proceda, mediante los informes o datos 
+estructurados que determine la unidad competente. Durante la fase de análisis se definirá la clave o 
+conjunto de claves que permitan relacionar de forma inequívoca el cobro con la comunicación o 
+expediente, utilizando preferentemente el número de recibo o número de liquidación y, cuando 
+proceda, el número de notificación u otros identificadores disponibles. La solución deberá registrar, 
+como mínimo, la referencia empleada, el estado obtenido y la fecha de comprobación. Se 
+contemplarán los estados operativos disponibles en el sistema, al menos pago realizado, pendiente y 
+baja o anulación. Cuando no pueda establecerse una correspondencia inequívoca o la consulta no sea 
+concluyente, el expediente se clasificará como «pago no verificable» y se derivará a revisión manual 
+por la unidad municipal competente.
+ 3.3. Consulta catastral
+El adjudicatario analizará la viabilidad técnica y las condiciones de uso del mecanismo de consulta 
+catastral. Si la consulta puede automatizarse de forma autorizada y sin desarrollos específicos sobre 
+sistemas de terceros, se incorporará al flujo; en caso contrario, la comprobación quedará como 
+actuación manual sin impedir la implantación del resto del caso de uso.
+Para descargar una copia de este documento consulte la siguiente página web
+ 
+Código Seguro de Validación 8a2fa91d1f6a41c6aac1bc51e84eb549001
+Url de validación https://sede.losrealejos.es/absis/idi/arx/idiarxabsaweb/castellano/asp/verificadorfirma.asp
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+MARIA JOSE GONZALEZ
+HERNANDEZ
+19/11/2026 SECRETARIA
+
+--- página 7 ---
+ 4. Plataforma y arquitectura RPA
+ 4.1. Requisitos mínimos
+ Entorno de diseño, configuración, prueba y mantenimiento de automatizaciones.
+ Orquestador, centro de control o mecanismo equivalente para programar, lanzar, detener y 
+supervisar ejecuciones.
+ Al menos un robot desatendido o capacidad equivalente para ejecutar el proceso sin depender de 
+una sesión interactiva permanente de un empleado.
+ Gestión segura de credenciales y secretos mediante vault o mecanismo equivalente, sin 
+credenciales embebidas en código o texto plano.
+ Control de versiones de flujos, configuraciones y despliegues.
+ Logs, alertas y monitorización del estado de las ejecuciones.
+ Gestión de colas, reintentos y errores sin bloquear el procesamiento del resto de expedientes.
+ Exportación de desarrollos, configuraciones y documentación suficiente para continuidad y 
+reversibilidad.
+ Todas las licencias y componentes necesarios para la solución incluidos durante la vigencia del 
+contrato, salvo los que el Ayuntamiento aporte expresamente.
+ 4.2. Entornos y ciclo de vida
+Deberá existir separación entre desarrollo/pruebas y producción, física o lógica según la solución 
+propuesta, garantizando que ningún cambio se despliegue en producción sin validación y que sea 
+posible identificar qué versión está activa en cada momento.
+ 4.3. Alojamiento
+No se impone una modalidad concreta de alojamiento. Se admitirán soluciones locales, en nube o 
+híbridas, siempre que el licitador describa la arquitectura completa, la ubicación de los componentes y 
+datos, los mecanismos de acceso a los sistemas municipales y las medidas de seguridad, trazabilidad, 
+recuperación y reversibilidad.
+Cuando la solución trate o almacene datos municipales fuera de la infraestructura del Ayuntamiento, el 
+adjudicatario deberá identificar la ubicación del tratamiento, los terceros participantes y las medidas 
+aplicables. Los datos se tratarán dentro del Espacio Económico Europeo salvo autorización expresa 
+del Ayuntamiento y cumplimiento de las garantías exigibles. Esta exigencia se extiende a los accesos 
+remotos para soporte y mantenimiento. El licitador declarará en su oferta si la prestación implica 
+transferencias internacionales de datos.
+El robot de ejecución se desplegará sobre una máquina virtual con sistema operativo Windows Server 
+facilitada por el Ayuntamiento en su plataforma virtualizada, cuya licencia de sistema operativo 
+aportará el Ayuntamiento. Los componentes de orquestación y control podrán desplegarse en 
+infraestructura municipal o en la nube. El licitador indicará en su oferta los recursos necesarios para la 
+máquina virtual (CPU, memoria y disco), así como cualquier otro software o licencia que requiera la 
+solución, que quedará incluido en el precio del contrato.
+Los componentes alojados fuera de la infraestructura municipal no almacenarán datos personales, 
+salvo los estrictamente imprescindibles para la orquestación, que se limitarán a identificadores de 
+expediente y registros técnicos de ejecución. El contenido de los expedientes y los datos de los 
+interesados permanecerán en los sistemas municipales.
+ 4.4. Disponibilidad y capacidad
+El volumen de referencia no justifica requisitos de alta disponibilidad 24x7 ni escalabilidad horizontal 
+específica. La solución deberá, no obstante, admitir un crecimiento razonable del volumen sin rediseño 
+completo de la arquitectura.
+Para descargar una copia de este documento consulte la siguiente página web
+ 
+Código Seguro de Validación 8a2fa91d1f6a41c6aac1bc51e84eb549001
+Url de validación https://sede.losrealejos.es/absis/idi/arx/idiarxabsaweb/castellano/asp/verificadorfirma.asp
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+MARIA JOSE GONZALEZ
+HERNANDEZ
+19/11/2026 SECRETARIA
+
+--- página 8 ---
+ 5. Fase de análisis y diseño
+La fase inicial es obligatoria y forma parte sustancial del servicio. Su finalidad es transformar la 
+información funcional de partida en una definición cerrada, verificable y aprobada antes del desarrollo 
+definitivo.
+ 5.1. Documento de definición funcional y técnica
+ El adjudicatario elaborará un Documento de Definición Funcional y Técnica que incluirá, como 
+mínimo:
+ Mapa del proceso actual y flujo automatizado propuesto.
+ Modalidades de comunicaciones previas incluidas y reglas específicas de cada una.
+ Matriz de datos, documentos, formatos y condiciones de obligatoriedad.
+ Reglas de comprobación, clasificación y excepciones.
+ Criterios para detectar posibles expedientes existentes y tratamiento de los casos dudosos.
+ Operaciones necesarias sobre el Gestor de Expedientes de Berger-Levrault, incluida la creación 
+automática obligatoria de expedientes nuevos y mecanismo técnico propuesto.
+ Mecanismo de comprobación de pagos en el Gestor de Liquidaciones de Berger-Levrault, 
+identificadores de correlación (número de recibo/número de liquidación, número de notificación u 
+otros disponibles), fuentes auxiliares autorizadas, estados de cobro, evidencia mínima a registrar y 
+tratamiento de resultados no concluyentes.
+ Análisis de cómo se reflejan en el sistema municipal los distintos canales de cobro actualmente 
+utilizados (datáfono, Cuaderno 60, transferencia bancaria y pasarela de pagos web), identificando 
+qué información puede consultarse de forma automatizada y fiable.
+ Viabilidad y alcance de la consulta catastral.
+ Arquitectura definitiva, componentes, accesos, cuentas técnicas y medidas de seguridad.
+ Puntos de supervisión humana y actuaciones expresamente no automatizadas.
+ Plan de pruebas de aceptación, datos de prueba y resultados esperados.
+ Riesgos, dependencias y medidas de contingencia.
+ Definición y validación de la matriz o matrices documentales, reglas de comprobación y 
+excepciones aplicables a las distintas modalidades, identificando expresamente los supuestos que 
+deban derivarse a revisión humana.
+Hito de aprobación
+El desarrollo definitivo no deberá iniciarse hasta que el Documento de Definición Funcional y Técnica haya sido 
+revisado y aprobado por el responsable técnico municipal y el equipo funcional de Urbanismo.
+Salvaguarda sobre variantes documentales
+Durante la fase de análisis se identificarán y documentarán las variantes y particularidades de las 
+distintas modalidades de comunicaciones previas, incorporándolas a la matriz documental 
+correspondiente.
+Cuando se detecten variantes cuya complejidad técnica, volumen o requisitos de integración excedan 
+razonablemente las premisas funcionales y técnicas previstas en el contrato y puedan comprometer su 
+correcta ejecución, el adjudicatario deberá comunicarlo de forma motivada al responsable del contrato 
+antes de acometer los desarrollos afectados, identificando su impacto y las alternativas técnicas 
+disponibles.
+El Ayuntamiento evaluará dichas circunstancias y determinará las actuaciones que procedan conforme 
+al contrato y a la Ley de Contratos del Sector Público, sin que esta previsión permita al adjudicatario 
+modificar unilateralmente el alcance, incrementar el precio o excluir modalidades del procedimiento.
+Para descargar una copia de este documento consulte la siguiente página web
+ 
+Código Seguro de Validación 8a2fa91d1f6a41c6aac1bc51e84eb549001
+Url de validación https://sede.losrealejos.es/absis/idi/arx/idiarxabsaweb/castellano/asp/verificadorfirma.asp
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+MARIA JOSE GONZALEZ
+HERNANDEZ
+19/11/2026 SECRETARIA
+
+--- página 9 ---
+ 6. Desarrollo, implantación y entregables
+ 6.1. Desarrollo e integración
+Una vez aprobado el diseño, el adjudicatario desarrollará y configurará la solución, realizará las 
+integraciones y automatizaciones definidas, implantará la trazabilidad, preparará los entornos y 
+ejecutará las pruebas internas necesarias antes de solicitar la aceptación municipal.
+ 6.2. Entregables mínimos
+Código Entregable Momento Contenido mínimo
+E1 Plan de proyecto y cronograma Inicio Equipo, metodología, hitos, riesgos, dependencias y coordinación.
+E2 Documento de Definición Funcional y Técnica Fase de análisis Proceso, reglas, matrices, excepciones, sistemas, arquitectura y plan de pruebas.
+E3 Diseño técnico y configuración de entornos Antes del desarrollo definitivo Arquitectura, seguridad, cuentas, versionado, despliegue y monitorización.
+E4 Automatización desarrollada y versionada Antes de aceptación Código o paquetes exportables, configuraciones y componentes.
+E5 Plan y evidencias de pruebas Aceptación Casos, datos, resultados, incidencias y correcciones.
+E6 Documentación de operación y usuario Puesta en producción Manuales, reintentos, alertas, incidencias, administración y recuperación.
+E7 Formación y materiales Puesta en producción
+Formación práctica mínima de 8 horas y 
+entrega de materiales para Urbanismo e 
+Informática.
+E8 Informe de puesta en producción Inicio de operación Despliegue, versión, comprobaciones finales, incidencias y conformidad.
+E9 Informes periódicos de servicio Operación Ejecuciones, fallos, SLA, mantenimiento e indicadores.
+E10 Paquete de reversibilidad Fin del contrato Inventario, versiones, configuraciones, documentación, exportables y estado del servicio.
+ 7. Pruebas, aceptación y estabilización
+ 7.1. Muestra de análisis y casos de prueba
+Urbanismo facilitará entre tres y cinco expedientes representativos como muestra de análisis. Esta 
+muestra servirá para comprender y validar el proceso, pero no constituirá por sí sola el conjunto 
+completo de aceptación.
+El adjudicatario elaborará un plan de pruebas aprobado por el Ayuntamiento que cubra, como mínimo, 
+los siguientes escenarios:
+ Expediente completo y sin incidencias.
+ Campos obligatorios ausentes o incoherentes.
+ Falta de documentación obligatoria y documentos exigibles según modalidad.
+ Archivo defectuoso, inaccesible o formato no admitido.
+ Posible existencia de expediente previo y caso dudoso.
+ Creación automática de un expediente nuevo a partir de una comunicación registrada, con 
+incorporación de datos y documentos y prevención de duplicidades.
+ Pago verificado, pendiente, en baja/anulación y no verificable.
+Para descargar una copia de este documento consulte la siguiente página web
+ 
+Código Seguro de Validación 8a2fa91d1f6a41c6aac1bc51e84eb549001
+Url de validación https://sede.losrealejos.es/absis/idi/arx/idiarxabsaweb/castellano/asp/verificadorfirma.asp
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+MARIA JOSE GONZALEZ
+HERNANDEZ
+19/11/2026 SECRETARIA
+
+--- página 10 ---
+ Consulta catastral cuando resulte viable.
+ Indisponibilidad temporal de un sistema, error de red y reintento controlado.
+ Generación de borrador de subsanación, ficha de control y aviso al tramitador.
+ Registro completo de logs y trazabilidad.
+ Derivación correcta a revisión humana.
+ 7.2. Criterios de aceptación
+La solución se considerará técnicamente aceptada cuando todos los casos de prueba definidos como 
+obligatorios obtengan el resultado esperado, se haya verificado la trazabilidad de las actuaciones y no 
+existan incidencias críticas o altas pendientes imputables al adjudicatario.
+Las discrepancias detectadas deberán documentarse y corregirse antes de la aceptación, salvo 
+aquellas debidamente justificadas que correspondan a indisponibilidades o limitaciones de sistemas 
+externos y hayan sido aceptadas por el Ayuntamiento. La funcionalidad de creación automática de 
+nuevos expedientes será de aceptación obligatoria y no podrá dispensarse por una mera decisión de 
+derivación manual; las incidencias puntuales sobre expedientes concretos se gestionarán como 
+excepciones.
+ 7.3. Puesta en producción y estabilización
+La puesta en producción será autorizada expresamente por el responsable técnico municipal una vez 
+superadas las pruebas. Salvo causa justificada no imputable al adjudicatario y aceptada por el 
+Ayuntamiento, la puesta en producción deberá producirse dentro de los cinco primeros meses de 
+ejecución del contrato. A partir de dicha puesta en producción se establece un periodo mínimo de 
+estabilización de 30 días naturales, durante el cual los defectos imputables al desarrollo se corregirán 
+sin coste adicional.
+ 8. Soporte, mantenimiento y niveles de servicio
+ 8.1. Modalidades de mantenimiento
+ Mantenimiento correctivo: diagnóstico y corrección de errores o comportamientos distintos de los 
+definidos y aceptados.
+ Mantenimiento adaptativo: ajustes necesarios ante cambios razonables del entorno técnico que 
+afecten al funcionamiento del robot y no supongan una nueva funcionalidad sustancial.
+ Ajustes menores: cambios acotados de parámetros, reglas ya implantadas, plantillas, informes, 
+avisos, logs o elementos equivalentes, cuando estén incluidos en el alcance contractual.
+ 8.2. Niveles mínimos de servicio
+Prioridad Definición Primera respuesta Restauración / solución provisional
+Crítica
+Paralización completa del robot, procesamiento 
+incorrecto generalizado o riesgo grave sobre el 
+servicio.
+<= 4 horas laborables <= 2 días laborables
+Alta Función esencial indisponible con afectación relevante y sin alternativa razonable. <= 1 día laborable <= 3 días laborables
+Normal Incidencia parcial, defecto menor o afectación limitada. <= 2 días laborables <= 5 días laborables o planificación acordada
+El horario mínimo de soporte será el correspondiente a los días laborables del Ayuntamiento dentro de 
+su horario ordinario de funcionamiento. No se exige soporte 24x7.
+Para descargar una copia de este documento consulte la siguiente página web
+ 
+Código Seguro de Validación 8a2fa91d1f6a41c6aac1bc51e84eb549001
+Url de validación https://sede.losrealejos.es/absis/idi/arx/idiarxabsaweb/castellano/asp/verificadorfirma.asp
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+MARIA JOSE GONZALEZ
+HERNANDEZ
+19/11/2026 SECRETARIA
+
+--- página 11 ---
+Los tiempos podrán suspenderse cuando la resolución dependa de un tercero o de una actuación 
+municipal imprescindible, siempre que el adjudicatario lo documente, comunique y mantenga el 
+seguimiento.
+Los tiempos indicados en la tabla anterior constituyen los niveles mínimos exigibles del servicio. Los 
+compromisos de mejora que, en su caso, oferte el adjudicatario conforme al criterio automático A.3 del 
+Anexo de Criterios de Adjudicación sustituirán a dichos mínimos para las incidencias críticas y serán 
+exigibles contractualmente, con el mismo horario de cómputo y reglas de suspensión establecidos en 
+este apartado.
+ 8.3. Canal e informes
+ Canal electrónico para registro y seguimiento de incidencias.
+ Teléfono o mecanismo de escalado para incidencias críticas.
+ Registro de fecha de apertura, prioridad, diagnóstico, actuaciones, tiempos y cierre.
+ Informe mensual de servicio con ejecuciones, fallos, incidencias, tiempos, causas recurrentes y 
+actuaciones de mantenimiento.
+ 9. Seguridad, ENS y protección de datos
+La solución y los sistemas utilizados para prestar el servicio deberán aplicar las medidas de seguridad 
+que resulten exigibles conforme al Real Decreto 311/2022, por el que se regula el Esquema Nacional 
+de Seguridad, de acuerdo con la naturaleza del servicio. A efectos de este contrato, el sistema se 
+categoriza en la categoría BÁSICA.
+La parte de la solución desplegada en infraestructura municipal quedará dentro del ámbito del ENS del 
+Ayuntamiento, y el adjudicatario cumplirá la política de seguridad, la normativa municipal y las medidas 
+aplicables a los prestadores externos. Los componentes que traten información municipal desde 
+infraestructura del adjudicatario o de terceros deberán contar con Declaración de Conformidad con el 
+ENS de categoría BÁSICA o con Certificación de Conformidad de categoría igual o superior, que el 
+adjudicatario aportará, como máximo, antes de la puesta en producción.
+ 9.1. Medidas técnicas mínimas
+ Identidad técnica específica para el robot y principio de mínimo privilegio.
+ Gestión segura de contraseñas, certificados, tokens y secretos.
+ Comunicaciones cifradas y uso de protocolos seguros.
+ Registro y conservación de eventos relevantes para auditoría y trazabilidad.
+ Actualización y corrección de vulnerabilidades de los componentes bajo responsabilidad del 
+adjudicatario.
+ Protección frente a malware y accesos no autorizados.
+ Copias de seguridad de desarrollos, configuraciones y elementos necesarios para recuperación.
+ Procedimientos documentados de restauración y recuperación ante fallos.
+ Notificación y gestión coordinada de incidentes de seguridad: el adjudicatario notificará al 
+responsable técnico municipal cualquier incidente de seguridad o brecha de datos personales sin 
+dilación indebida y, como máximo, en 24 horas desde que tenga conocimiento, aportando la 
+información necesaria para que el Ayuntamiento cumpla sus obligaciones ante la AEPD y el CCN-
+CERT.
+ Separación adecuada entre entornos y control de despliegues.
+ Accesos remotos del adjudicatario para soporte y mantenimiento mediante cuentas nominativas, 
+doble factor de autenticación, conexión a través de los mecanismos que autorice el Ayuntamiento y 
+registro de las sesiones.
+Para descargar una copia de este documento consulte la siguiente página web
+ 
+Código Seguro de Validación 8a2fa91d1f6a41c6aac1bc51e84eb549001
+Url de validación https://sede.losrealejos.es/absis/idi/arx/idiarxabsaweb/castellano/asp/verificadorfirma.asp
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+MARIA JOSE GONZALEZ
+HERNANDEZ
+19/11/2026 SECRETARIA
+
+--- página 12 ---
+ 9.2. Protección de datos
+La solución accederá a datos personales contenidos en expedientes urbanísticos, en el Gestor de 
+Expedientes y en el Gestor de Liquidaciones de Berger-Levrault. El adjudicatario tendrá la condición de 
+encargado del tratamiento conforme al artículo 28 del Reglamento (UE) 2016/679 y actuará 
+exclusivamente conforme a las instrucciones documentadas del Ayuntamiento. Antes del inicio de la 
+ejecución se formalizará el contrato de encargo del tratamiento conforme al modelo municipal. La 
+incorporación o sustitución de subencargados durante la ejecución del contrato quedará sujeta al 
+régimen de autorización y comunicación establecido en el contrato de encargo del tratamiento del 
+Ayuntamiento. Se aplicarán minimización, control de accesos, confidencialidad, trazabilidad, gestión de 
+subencargados y devolución o supresión de datos al finalizar el servicio.
+Se evaluará, con la participación del Delegado de Protección de Datos, la necesidad de realizar una 
+evaluación de impacto relativa a la protección de datos antes de la puesta en producción.
+ 9.3. Inteligencia artificial
+Si la plataforma ofertada incorpora funcionalidades de inteligencia artificial, el licitador deberá 
+identificarlas en su oferta. Dichas funcionalidades permanecerán desactivadas salvo autorización 
+expresa del Ayuntamiento. En ningún caso se utilizarán datos municipales para entrenar o mejorar 
+modelos del adjudicatario, del fabricante o de terceros, y su eventual uso se ajustará al Reglamento 
+(UE) 2024/1689 de inteligencia artificial.
+ 9.4. Información a aportar en la oferta
+El licitador incluirá en su oferta técnica, como mínimo, la siguiente información:
+ Sistemas y aplicaciones municipales a los que accederá la solución y mecanismo de acceso 
+previsto.
+ Arquitectura propuesta, ubicación de cada componente y de los servidores utilizados, y lugar desde 
+el que se prestarán el servicio y el soporte.
+ Subcontratistas y proveedores tecnológicos que intervengan en la prestación, incluidos el 
+fabricante de la plataforma y los servicios en la nube utilizados.
+ Declaración sobre la existencia o no de transferencias internacionales de datos, incluidos los 
+accesos remotos.
+ Funcionalidades de inteligencia artificial incluidas en la plataforma y, en su caso, uso previsto.
+ Recursos necesarios para la máquina virtual municipal y requisitos de cuentas técnicas.
+ Acreditación de conformidad con el ENS de los componentes externos o compromiso de aportarla 
+antes de la puesta en producción.
+ 9.5. Accesibilidad
+Conforme al artículo 126 de la LCSP y atendiendo a lo dispuesto en el Real Decreto 707/2026, de 2 de 
+septiembre, por el que se aprueba el Reglamento de las condiciones básicas de accesibilidad 
+cognitiva, cuya entrada en vigor se producirá durante el período de ejecución del contrato, la solución 
+deberá diseñarse, configurarse e implantarse de forma que permita garantizar la accesibilidad cognitiva 
+de la información, las comunicaciones y los procesos automatizados objeto del contrato, debiendo 
+cumplir, como mínimo, los siguientes requisitos:
+a) Las plantillas de borradores, avisos y comunicaciones dirigidas a las personas 
+interesadas se redactarán, con carácter general, en lenguaje sencillo y cognitivamente 
+accesible, utilizando una estructura clara, frases comprensibles, vocabulario adecuado a las 
+personas destinatarias y evitando tecnicismos, abreviaturas o acrónimos innecesarios. Cuando 
+resulte procedente la utilización de lenguaje claro, se atenderá a las pautas y 
+recomendaciones de la norma UNE-ISO 24495-1, en su versión vigente, o norma análoga que 
+Para descargar una copia de este documento consulte la siguiente página web
+ 
+Código Seguro de Validación 8a2fa91d1f6a41c6aac1bc51e84eb549001
+Url de validación https://sede.losrealejos.es/absis/idi/arx/idiarxabsaweb/castellano/asp/verificadorfirma.asp
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+MARIA JOSE GONZALEZ
+HERNANDEZ
+19/11/2026 SECRETARIA
+
+--- página 13 ---
+la sustituya. Las plantillas serán sometidas a la validación del Ayuntamiento durante la fase de 
+análisis.
+b) La solución permitirá incorporar y gestionar versiones en lectura fácil de aquellos 
+documentos, formularios, solicitudes, guías o contenidos para los que resulte exigible 
+conforme al Real Decreto 707/2026 o a la restante normativa aplicable. La lectura fácil no 
+se identificará con la mera simplificación automática de un texto ni con su conversión a 
+lenguaje claro o sencillo, sino que responderá a las pautas propias de esta metodología, 
+tomando como referencia la norma UNE 153101, en su versión vigente o norma análoga que la 
+sustituya, incluida, cuando proceda, la validación de su comprensibilidad.
+c) Las fichas de control, avisos, informes, mensajes de error, instrucciones e interfaces 
+utilizados por el personal municipal deberán presentar la información de forma clara, 
+estructurada y comprensible. Las interfaces y componentes web incluidos en el ámbito del 
+contrato deberán cumplir los requisitos de accesibilidad que resulten exigibles y, en particular, 
+las prescripciones aplicables del Real Decreto 1112/2018, de 7 de septiembre, y de la norma 
+UNE-EN 301 549 vigente.
+d) La solución deberá permitir la utilización o incorporación, cuando resulte necesaria, de 
+apoyos visuales, pictográficos, sonoros o de otros recursos tecnológicos de apoyo a la 
+comprensión y a la interacción, de manera que la información y las actuaciones 
+automatizadas puedan ser comprendidas y utilizadas por personas con dificultades cognitivas.
+e) Los procesos automatizados deberán ofrecer instrucciones, avisos y mensajes de error 
+comprensibles e identificar de forma clara la actuación que corresponda realizar en cada 
+momento, evitando que la automatización introduzca barreras adicionales para las personas 
+con dificultades de comprensión, comunicación o interacción.
+f) Cuando conste en el expediente la necesidad o solicitud de una adaptación de 
+accesibilidad cognitiva que no pueda ser satisfecha mediante las funcionalidades 
+previstas en la solución, o cuando el proceso automatizado no permita garantizar 
+adecuadamente la adaptación requerida, el sistema deberá identificar dicha 
+circunstancia y derivar el expediente a revisión o intervención humana, sin que esta 
+derivación pueda comportar por sí misma una disminución de las garantías de la persona 
+interesada ni una dilación indebida en la tramitación.
+g) La solución deberá permitir la revisión, modificación y actualización de los contenidos y 
+elementos de accesibilidad cognitiva por el Ayuntamiento, así como la incorporación de 
+nuevas adaptaciones derivadas de cambios normativos o de necesidades detectadas durante 
+la ejecución del contrato.
+ 10. Trazabilidad, monitorización e indicadores
+Toda ejecución deberá dejar evidencia suficiente para reconstruir qué hizo el robot, sobre qué 
+expediente, con qué versión y cuál fue el resultado. Los registros deberán permitir distinguir fallos 
+técnicos, reglas funcionales, excepciones y decisiones derivadas a revisión humana.
+Para descargar una copia de este documento consulte la siguiente página web
+ 
+Código Seguro de Validación 8a2fa91d1f6a41c6aac1bc51e84eb549001
+Url de validación https://sede.losrealejos.es/absis/idi/arx/idiarxabsaweb/castellano/asp/verificadorfirma.asp
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+MARIA JOSE GONZALEZ
+HERNANDEZ
+19/11/2026 SECRETARIA
+
+--- página 14 ---
+ 10.1. Información mínima por ejecución
+ Identificador del expediente o comunicación.
+ Fecha y hora de inicio y fin.
+ Versión del robot o flujo ejecutado.
+ Comprobaciones realizadas y resultado.
+ Incidencias y reintentos.
+ Resultado final o derivación a revisión manual.
+ 10.2. Indicadores de seguimiento
+ Número de expedientes procesados.
+ Porcentaje de ejecuciones finalizadas sin incidencia técnica.
+ Expedientes derivados a revisión manual y causa.
+ Incidencias por prioridad y tiempo de resolución.
+ Reintentos y fallos recurrentes.
+ Evolución del mantenimiento y ajustes realizados.
+ 11. Documentación, formación y transferencia
+La documentación deberá permitir al Ayuntamiento comprender, supervisar y operar la solución y 
+facilitar su mantenimiento futuro, ya sea por el adjudicatario o por un tercero.
+ Documentación funcional del proceso y reglas validadas.
+ Arquitectura y diseño técnico.
+ Inventario de componentes, versiones y licencias.
+ Manual de operación, monitorización, reintentos, incidencias y recuperación.
+ Manual de administración y despliegue.
+ Documentación de credenciales y cuentas sin revelar secretos en texto plano.
+ Plan de pruebas y evidencias de aceptación.
+ Formación práctica al personal de Urbanismo y de Servicios de Informática que designe el 
+Ayuntamiento, con una duración mínima total de 8 horas, distribuida en las sesiones que se 
+acuerden durante la ejecución del contrato. La formación deberá incluir, al menos, operación 
+básica de la solución, supervisión de ejecuciones, interpretación de resultados y alertas, gestión de 
+reintentos, tratamiento de incidencias y los aspectos necesarios para la adecuada transferencia de 
+conocimiento. El adjudicatario entregará asimismo los materiales y documentación utilizados en la 
+formación.
+ 12. Reversibilidad y derechos sobre los trabajos
+ 12.1. Desarrollos específicos
+El Ayuntamiento dispondrá de los derechos necesarios para utilizar, mantener, modificar y encargar a 
+terceros el mantenimiento de los desarrollos específicos realizados para este contrato, sin perjuicio de 
+los derechos preexistentes del adjudicatario o de terceros sobre la plataforma RPA, bibliotecas y 
+componentes estándar utilizados.
+ 12.2. Reversibilidad
+Al finalizar el contrato, el adjudicatario entregará un paquete de reversibilidad que permita continuar el 
+servicio o migrarlo a otro proveedor con un esfuerzo razonable. Incluirá, como mínimo:
+ Código, paquetes o exportables de las automatizaciones desarrolladas.
+ Configuraciones, parámetros y estructura de colas o procesos.
+ Inventario de componentes, dependencias y versiones.
+Para descargar una copia de este documento consulte la siguiente página web
+ 
+Código Seguro de Validación 8a2fa91d1f6a41c6aac1bc51e84eb549001
+Url de validación https://sede.losrealejos.es/absis/idi/arx/idiarxabsaweb/castellano/asp/verificadorfirma.asp
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+MARIA JOSE GONZALEZ
+HERNANDEZ
+19/11/2026 SECRETARIA
+
+--- página 15 ---
+ Documentación funcional y técnica actualizada.
+ Procedimientos de despliegue, operación, copia y recuperación.
+ Estado de incidencias y cambios pendientes.
+ Inventario de licencias y elementos que deban mantenerse o sustituirse.
+ Sesión de transferencia técnica cuando sea necesaria.
+ 13. Organización y responsabilidades
+Rol Responsabilidad técnica
+Responsable técnico municipal Servicios de Informática. Supervisa arquitectura, accesos, seguridad, integraciones, entregables técnicos, pruebas y operación.
+Equipo funcional de Urbanismo Auxiliares y técnicos que definen y validan reglas, documentos, excepciones, muestras y resultados funcionales.
+Interlocución funcional Urbanismo designará una persona coordinadora para centralizar criterios y validaciones, sin impedir que participen varios empleados en las pruebas.
+Adjudicatario Dirige técnicamente la implantación, documenta decisiones, desarrolla, prueba, corrige, mantiene y transfiere la solución conforme al PPT.
+Las reuniones de seguimiento serán al menos quincenales durante análisis, desarrollo y pruebas, y al 
+menos mensuales durante la fase de estabilización y soporte, salvo que el Ayuntamiento determine 
+otra frecuencia en función de la evolución del proyecto.
+Los trabajos podrán prestarse en remoto, salvo las sesiones que el Ayuntamiento determine de forma 
+justificada. Las reuniones de seguimiento y la formación podrán celebrarse por videoconferencia.
+ 14. Planificación técnica y eventual prórroga
+La planificación se organizará por hitos y entregables. Las fechas concretas se recogerán en el plan de 
+proyecto del adjudicatario y deberán ser compatibles con la duración inicial del contrato.
+Fase Denominación Contenido
+Fase 1 Análisis y diseño Levantamiento, definición funcional y técnica, matrices, arquitectura y plan de pruebas. Finaliza con aprobación municipal.
+Fase 2 Desarrollo e integración Configuración de plataforma, desarrollo, integraciones, logs, informes y pruebas internas.
+Fase 3 Pruebas y puesta en producción Pruebas de aceptación, correcciones, formación, despliegue y autorización de producción.
+Fase 4 Estabilización y soporte Periodo de estabilización, operación, mantenimiento, monitorización e informes hasta completar la duración inicial.
+ 14.1. Prórroga
+En caso de activarse la prórroga prevista contractualmente, continuará el soporte, mantenimiento, 
+monitorización y operación del mismo caso de uso. La prórroga no incluirá un segundo procedimiento 
+ni desarrollos sustanciales que alteren el alcance inicial.
+ Anexo I. Lista mínima de aceptación técnica
+Estado Comprobación
+Para descargar una copia de este documento consulte la siguiente página web
+ 
+Código Seguro de Validación 8a2fa91d1f6a41c6aac1bc51e84eb549001
+Url de validación https://sede.losrealejos.es/absis/idi/arx/idiarxabsaweb/castellano/asp/verificadorfirma.asp
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+MARIA JOSE GONZALEZ
+HERNANDEZ
+19/11/2026 SECRETARIA
+
+--- página 16 ---
+Estado Comprobación
+☐ Documento de Definición Funcional y Técnica aprobado.
+☐ Entornos, accesos y cuentas técnicas configurados y documentados.
+☐ Contrato de encargo del tratamiento formalizado.
+☐ Declaración o Certificación de Conformidad con el ENS de los componentes externos aportada, cuando proceda.
+☐
+Funciones obligatorias implantadas y verificadas, con las salvedades expresamente previstas en el PPT para 
+funcionalidades condicionadas a la viabilidad técnica o a la disponibilidad de mecanismos autorizados.
+☐
+Mecanismo de comprobación de pago implantado y verificado, con registro de referencia, estado y fecha, y 
+tratamiento «pago no verificable» operativo para los casos no concluyentes.
+☐ Consulta catastral implantada únicamente cuando resulte viable y autorizada.
+☐ Plan de pruebas aprobado y casos obligatorios superados.
+☐ No existen incidencias críticas o altas pendientes imputables al adjudicatario.
+☐ Logs, ficha de control, reintentos y trazabilidad verificados.
+☐ Desarrollos, configuraciones y documentación entregados.
+☐ Formación impartida y materiales entregados.
+☐ Procedimiento de soporte y escalado operativo.
+☐ Plan y paquete de reversibilidad preparados.
+☐ Puesta en producción autorizada por el Ayuntamiento.
+TÉCNICO DE LOS 
+SERVICIOS INFORMÁTICOS 
+Y MODERNIZACIÓN ADMINISTRATIVA
+Héctor Hernández Hernández
+DILIGENCIA: Se pone para hacer constar que el Pliego de Cláusulas Administrativas Particulares 
+que antecede, ha sido aprobado mediante Resolución de la Presidencia de la Gerencia Municipal 
+de Urbanismo n.º 2026/61, de 19 de noviembre de 2026. 
+DOCUMENTO FIRMADO ELECTRONICAMENTE
+Para descargar una copia de este documento consulte la siguiente página web
+ 
+Código Seguro de Validación 8a2fa91d1f6a41c6aac1bc51e84eb549001
+Url de validación https://sede.losrealejos.es/absis/idi/arx/idiarxabsaweb/castellano/asp/verificadorfirma.asp
+Metadatos Origen: Origen administración    Estado de elaboración: Original
+Firma 1 de 1
+MARIA JOSE GONZALEZ
+HERNANDEZ
+19/11/2026 SECRETARIA

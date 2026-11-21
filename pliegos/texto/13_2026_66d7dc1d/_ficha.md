@@ -4,7 +4,7 @@ prescripciones técnicas particulares.
 - Órgano: Gerencia de Cementerios y Servicios Funerarios Municipales de Córdoba, S.A. (CECOSAM, S.A.)
 - Expediente: 13/2026
 - Importe sin IVA: 27000 €
-- Fin de plazo: 2026-11-27 23:59:00
+- Fin de plazo: 2026-11-30 23:59:00
 - CPV: 72262000,72413000,72500000
 - Desarrollo (clasificación automática): si
 - Ficha en la plataforma: https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=e9BYESaZ08Q3vLk2DU2Ddg%3D%3D

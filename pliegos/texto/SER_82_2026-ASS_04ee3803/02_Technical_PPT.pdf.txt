@@ -1,0 +1,242 @@
+
+
+--- página 1 ---
+Pliego de prescripciones técnicas para la 
+contratación de módulos de traducción automática 
+compatibles con Drupal para la web municipal de Calp
+- INTRODUCCIÓN
+La  web  municipal  supone  un  instrumento  de  comunicación  y  transparencia 
+fundamental con los ciudadanos. Además de noticias sobre las novedades en la 
+gestión municipal, ofrece información sobre los diferentes servicios que presta el 
+Ayuntamiento así como sus departamentos. Asimismo, en cumplimiento de la Ley 
+19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y 
+buen gobierno ofrece los datos relativos a la gestión pública e incluye las funciones, 
+retribuciones, declaraciones de bienes y datos de contacto de los representantes 
+locales, entre otros documentos.
+El Ayuntamiento de Calp, como administración pública, ha de hacer llegar dichos 
+contenidos y documentación a la ciudadanía cumpliendo la realidad lingüística de la 
+Comunidad Valenciana y garantizando el derecho de los ciudadanos a acceder a la 
+administración  y  sus  contenidos  en  cualquiera  de  las  lenguas  oficiales  de  la 
+Comunitat, esto es, tanto en castellano como valenciano.
+Junto a esta realidad hay que tener en cuenta que Calp es un municipio cuya 
+población está constituida por cerca de un 60 por ciento de extranjeros, siendo las 
+nacionalidades más numerosas la británica, la alemana y la belga. Además cuenta 
+con  presencia  destacada de residentes franceses y holandeses. Teniendo en 
+consideración todo esto, es objetivo de este Ayuntamiento facilitar la información que 
+ofrece en la web municipal (www.calp.es) a dicha población extranjera en inglés por 
+ser el idioma extranjero más hablado y al mismo tiempo hacer llegar las noticias y 
+los eventos culturales publicados en la web en los idiomas de estas comunidades 
+mayoritarias, es decir: inglés, francés, alemán y neerlandés. Con ello se pretende 
+favorecer su integración en la sociedad calpina y facilitar el ejercicio de su derecho a 
+la información.
+Considerando todo lo dicho, surge la necesidad de traducir la web municipal al 
+valenciano e inglés así como las noticias y los actos culturales que se publiquen en 
+esta en valenciano, inglés, francés, alemán y neerlandés. Y para ello se opta por la 
+Cód. Validación: 4ZXFX4DYMLZWHJYC2LA9R6SMD 
+Verificación: https://calp.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 1 de 7 
+
+--- página 2 ---
+contratación  de  un  servicio  de  traducción  automático  a  través  de  módulos  o 
+conectores compatibles con el sistema Drupal con el fin de optimizar el flujo de trabajo 
+de traducción, disminuir el tiempo de publicación y asegurar que los textos traducidos 
+se integren de manera fluida en la web del Ayuntamiento. 
+- OBJETO DE LA CONTRATACIÓN. ALCANCE
+El objeto de este pliego es la contratación del suministro, instalación, configuración y 
+mantenimiento  de  un  sistema  de  traducción  automática  basado  en  Inteligencia 
+Artificial (IA) sobre nuestra infraestructura actual que está basada en Drupal, para la 
+traducción automática de los contenidos publicados en:
+- La web municipal www.calp.es
+- las dos microsites con las que cuenta la web municipal:
+ Calpenoticias  (http://noticias.calp.es)  en  la  que  se  publican  noticias 
+municipales de actualidad
+ CulturaCalp  (http://cultura.calp.es)  que  informa  sobre  las  actividades 
+culturales de la localidad
+El sistema deberá traducir automáticamente los contenidos: 
+- desde el castellano al valenciano e inglés en la web municipal
+- desde el castellano al valenciano, inglés, francés, alemán y neerlandés en las dos 
+microsites Calpenoticias y CulturaCalp.
+Se estima que el volumen de traducción mensual alcanzará como máximo: 
+- 60.000 palabras en los idiomas valenciano e inglés (para cada idioma)
+- 50.000 palabras en los idiomas francés, alemán y neerlandés (para cada idioma)
+La  solución  estará  destinada  principalmente  a  la  traducción  automática  de  los 
+contenidos de nueva creación o modificación que se publiquen durante la vigencia 
+del  contrato,  dado  que  una  parte  significativa  de  los  contenidos  actualmente 
+publicados en la web municipal ya se encuentra disponible en valenciano e inglés.
+No obstante, el Ayuntamiento podrá solicitar igualmente la traducción de contenidos 
+ya publicados en la web que no dispongan de versión en valenciano o inglés. Estas 
+traducciones computarán dentro de los volúmenes máximos previstos en el presente 
+pliego.
+Cód. Validación: 4ZXFX4DYMLZWHJYC2LA9R6SMD 
+Verificación: https://calp.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 2 de 7 
+
+--- página 3 ---
+Superado el límite de palabras indicado el sistema podrá dejar de traducir hasta el 
+inicio del siguiente mes.
+Todos los costes asociados al proveedor de inteligencia artificial utilizado, incluidos 
+los  derivados  del  consumo  de  APIs,  licencias,  tokens  o  servicios  equivalentes 
+necesarios para la prestación del servicio, serán asumidos por el adjudicatario y se 
+considerarán  incluidos  en  el  precio  ofertado.  No  podrán  facturarse  importes 
+adicionales al Ayuntamiento por estos conceptos.
+Por otro lado, se prevé una bolsa de 20 horas anuales para mejoras del servicio, que 
+serán acumulables, si no se gastan en un año, para los siguientes.
+De conformidad con el artículo 99.3 de la Ley 9/2017, de Contratos  del Sector 
+Público, se justifica la no división en lotes al tratarse de una solución tecnológica 
+integral cuya naturaleza funcional y técnica requiere una gestión unificada de todos 
+los idiomas.
+3. ÁMBITO DE ACTUACIÓN
+Contenidos objeto de traducción automática:
+- Páginas y secciones de la web municipal www.calp.es
+- Noticias publicadas en noticias.calp.es
+- Eventos culturales publicados en cultura.calp.es
+- Contenidos estructurados (menús, bloques, etiquetado si el sistema lo soporta)
+4. MODALIDAD DE PRESTACIÓN. REQUISITOS TÉCNICOS
+El presente contrato corresponde al modelo Translation as a Service (TaaS) mediante un 
+sistema  de  traducción  automática  integrados  en  Drupal  pero  con  una  Arquitectura 
+Desacoplada Orientada a Servicios (API-Driven) que aisle el motor de IA de la versión 
+concreta del gestor de contenidos, estructurando el servicio en tres capas operativas 
+independientes, comunicadas de forma segura y optimizadas para no comprometer el 
+rendimiento del servidor municipal.
+Se elije este modelo porque el Ayuntamiento actualmente dispone de Drupal 7 pero se va 
+a cambiar en breve a una versión superior y el sistema debe seguir funcionando haciendo 
+los  mínimos  cambios  posibles.  La  migración  a  una  versión  superior  de  Drupal  será 
+realizada por el Ayuntamiento. El adjudicatario deberá realizar las actuaciones necesarias 
+para adaptar la solución de traducción y garantizar su correcto funcionamiento en la 
+nueva versión.
+Actualmente existen dos instalaciones de Drupal con los módulos i18n y Entity Translation 
+instalados y operativos. En caso de resultar necesario instalar módulos adicionales para la 
+correcta  implantación  de  la  solución  ofertada,  la  instalación  será  realizada  por  el 
+Ayuntamiento a indicación del adjudicatario.
+Las capas se definirían del siguiente modo:
+Cód. Validación: 4ZXFX4DYMLZWHJYC2LA9R6SMD 
+Verificación: https://calp.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 3 de 7 
+
+--- página 4 ---
+Capa 1: Extracción e ingesta (CMS Client).
+Interceptará de forma asíncrona la creación o modificación de contenidos (títulos, cuerpos 
+y campos configurados como traducibles) en los tres dominios referidos.
+Se puede implementar usando el módulo conector de Drupal 7 con hooks nativos de 
+entidades. Esta capa es la que tendrá que modificarse al hacer la migración al nuevo 
+Drupal. 
+Capa 2: Lógica e integración (Middleware API).
+Canalizará las peticiones de los portales, validará los tokens de seguridad, gestionará las 
+colas de peticiones y aplicará las reglas de negocia específicas.
+Se implementará una API Gateway RESTful en un servidor externo seguro que cumpla 
+con  lo  establecido  en  el  ENS.  También  podría  usarse  la  propia  infraestructura  del 
+Ayuntamiento para albergar dichos servicios.
+La API desarrollada quedará a disposición del Ayuntamiento para que se pueda instalar 
+en sus servidores en caso de resolución o finalización del contrato.
+Capa 3: Procesamiento lingüístico (core IA)
+Ejecutará la traducción contextualizada a los idiomas destino (valenciano, inglés, francés, 
+alemán y neerlandés) abstrayendo y respetando la maquetación HTML técnica.
+Se usarán modelos de lenguaje avanzados. Los motores de inferencia IA también deben 
+estar alojados en Datacenters que cumplan con el ENS.
+5. REQUISITOS FUNCIONALES
+Para garantizar un funcionamiento transparente y exento de bloqueos en la base de datos 
+municipal, se propone implementar un ciclo de procesamiento estructurado de la siguiente 
+forma pero se permiten otros modelos que garanticen el funcionamiento del sistema:
+1.  Captura  en  Servidor  de  Origen: cuando  el  gestor  de  contenidos  guarda  una 
+actualización  o  una  nueva  publicación  en  castellano  desde  el  panel  de  control,  los 
+ganchos  (hooks)  nativos  de  persistencia  de  Drupal  (ej.  node_insert  u  node_update) 
+recopilan de forma limpia únicamente las cadenas de texto marcadas como traducibles
+2. Procesamiento Asíncrono Desacoplado: el módulo cliente no procesará el texto 
+localmente de manera síncrona. Esto evitará que el servidor web se sature y que el 
+usuario  experimente  retardos  en  su  navegador.  La  información  se  empaquetará  en 
+formato JSON estructurado y se enviará mediante un canal seguro HTTPS a la capa 
+intermedia de Middleware.
+3. Aislamiento Lingüístico y Protección HTML: la API Gateway implementada remitirá 
+las cadenas a los servicios lingüísticos de Inteligencia Artificial. Se deben proteger las 
+estructuras  HTML complejas  (tales  como  los  scripts  de  accesibilidad  de  inSuit  o  las 
+etiquetas  de  inserción  multimedia  de  media_wysiwyg  detectadas  en  el  tema  visual 
+corporativo).  La  IA traducirá  únicamente  el  contenido  humano  ejecutable  sin  alterar, 
+modificar ni corromper las clases ni los identificadores de estilos técnicos.
+Cód. Validación: 4ZXFX4DYMLZWHJYC2LA9R6SMD 
+Verificación: https://calp.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 4 de 7 
+
+--- página 5 ---
+4. Persistencia y Estado de Moderación: los motores de IA retornan las traducciones 
+validadas al conector de Drupal 7. El módulo recibe las cadenas traducidas y, utilizando 
+las APIs internas del subsistema de idiomas del CMS (módulo i18n y localización nativa), 
+genera  las  variantes  correspondientes  para  cada  idioma.  Estas  variantes  quedan 
+guardadas automáticamente en la base de datos pero forzadas bajo el estado de Borrador 
+/  Pendiente  de  revisión,  activando  directamente  un  circuito  de  moderación  para  los 
+técnicos municipales que también deberá implementarse. Además, debe existir la opción 
+de aprobar automáticamente el contenido si así lo desean los técnicos municipales.
+Migración a nuevas versiones de Drupal
+Como  se  ha  comentado  el  Ayuntamiento  migrará en  breve  a una  versión de  Drupal 
+superior y las modificaciones en el proyecto para dar continuidad al servicio deben estar 
+incluidas. Se prevé que los trabajos de migración consistan, como mínimo, en:
+ Desactivar y retirar de la infraestructura el conector específico desarrollado para la 
+versión Drupal 7.
+ Habilitar el subsistema estándar y nativo de traducción avanzada de las versiones 
+modernas de Drupal, denominado TMGMT (Translation Management Tool).
+ Configurar el proveedor técnico dentro de TMGMT apuntando los endpoints de 
+comunicación hacia la misma API Gateway que ya se encontrará en explotación 
+(capa 2).
+No obstante, debe entenderse que cualquier imprevisto que aparezca y que dificulte la 
+migración  debe  resolverse  conjuntamente  con  los  técnicos  municipales  sin  que  haya 
+costes añadidos hasta dejar el sistema en funcionamiento en la nueva versión de Drupal.
+Recopilamos algunos de los requisitos funcionales:
+ El sistema debe ser capaz de traducir asíncronamente los contenidos cuando se 
+añada o actualice un nodo.
+ La traducción debe generarse, al menos, para los idiomas indicados anteriormente 
+en cada microsite.
+ La traducción se aplicará como mínimo a :
+◦ Título
+◦ Cuerpo del contenido
+◦ Campos configurados como traducibles
+ La publicación de traducciones podrá ser automática o sujeta a revisión por parte 
+del Ayuntamiento, según configuración.
+ El sistema deberá integrarse con un servicio de traducción automática basado en 
+IA
+ El sistema permitirá parametrizar el proveedor de IA sin cambios en el código base.
+Cód. Validación: 4ZXFX4DYMLZWHJYC2LA9R6SMD 
+Verificación: https://calp.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 5 de 7 
+
+--- página 6 ---
+ La comunicación con el motor de IA deberá realizarse mediante API REST. Las 
+credenciales  se  guardarán  de  forma  segura  fuera  del  código  fuente.  La 
+comunicación siempre será https
+ El sistema debe ser compatible con módulos multilenguaje existentes (i18n y/o 
+Entity Translation)
+ El sistema deberá registrar estado de traducción (pendiente, generada, publicada, 
+rechazada).
+ Debe disponer de mecanismos sencillos para la migración a nuevas versiones de 
+Drupal
+6. Otras opciones.
+Se  permitirán  arquitecturas  diferentes  pero  siempre  se  debe  mantener  el  carácter 
+asíncrono y la facilidad de migración de la solución ofertada. No deben existir costes 
+adicionales de ningún tipo, debe asegurar las funcionalidades y requerimientos técnicos 
+exigidos y debe cumplir con el ENS en todos sus nodos.
+7. Mantenimiento y asistencia
+Una vez la solución implantada y puesta en marcha se debe disponer de un servicio de 
+ayuda para incidencias y solicitudes. El principal uso de este servicio será para indicar 
+incidencias sobre el mismo que afecten al funcionamiento del sistema. Estas incidencias 
+deben ser tratadas con celeridad y nunca podrán suponer un coste adicional.
+Si una incidencia se repite en el tiempo será tratada como incidencia recurrente y se 
+deberá investigar el motivo raíz que provoca el fallo y darle solución sin esperar a nuevas 
+incidencias del mismo tipo.
+También  se  podrán  realizar  solicitudes  de  mejora  o  de  ayuda  pero  en  este  caso  la 
+empresa puede presupuestar tiempo de la bolsa de horas ofertada. El Ayuntamiento 
+decidirá si acepta el gasto de horas o no.
+8. Seguimiento del consumo de traducción y de la bolsa de horas  
+El adjudicatario deberá indicar en la factura, o bien en un informe adjunto a la factura 
+correspondiente, el número de palabras traducidas a cada idioma. Se contabilizarán las 
+palabras de origen en castellano objeto de traducción durante el periodo facturado. 
+Asimismo, se detallará el consumo de horas imputadas a la bolsa de horas para mejoras 
+del servicio, así como el saldo disponible de dicha bolsa en el momento de emisión de la 
+factura o informe correspondiente.
+9. Puesta en marcha
+Cód. Validación: 4ZXFX4DYMLZWHJYC2LA9R6SMD 
+Verificación: https://calp.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 6 de 7 
+
+--- página 7 ---
+La solución debe ponerse en marcha en un plazo de tres meses desde la adjudicación.
+Cód. Validación: 4ZXFX4DYMLZWHJYC2LA9R6SMD 
+Verificación: https://calp.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 7 de 7 
