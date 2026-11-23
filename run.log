@@ -1,56 +1,43 @@
-== Prueba de conexión 2026-11-22T14:38:43Z ==
+== Prueba de conexión 2026-11-23T18:16:56Z ==
 HTTP/1.1 200 OK
 Connection: Keep-Alive
-Date: Sun, 22 Nov 2026 14:38:44 GMT
-Last-Modified: Sat, 21 Nov 2026 19:10:55 GMT
-ETag: "b38b92-660ce1eb71800"
+Date: Mon, 23 Nov 2026 18:16:56 GMT
+Last-Modified: Sun, 22 Nov 2026 19:10:59 GMT
+ETag: "20441a-660e23cceb141"
 Vary: Accept-Encoding
 Content-Type: application/atom+xml
-Set-Cookie: TS0177f194=015c41afc0fd494321142d1e9183a7acf983165480c4cfce23aca0eebbaec1b26ba14a963e3c859d41f2f481c13f2525e852ea9bab; Path=/; Domain=.contrataciondelestado.es
+Set-Cookie: TS0177f194=015c41afc0650c615df36b1011e18156bccf63931961b89dae56bd4940c59aab4e2231f62758f38513c1e0d19174168e45d4b22a73; Path=/; Domain=.contrataciondelestado.es
 Transfer-Encoding: chunked
 
-Historial previo: 2012 licitaciones. Modo incremental: se recorre el feed hasta 2026-11-19 20:03.
+Historial previo: 2012 licitaciones. Modo incremental: se recorre el feed hasta 2026-11-20 18:41.
 Descargando página 1 ...
-  página 1: 11490 KB en 11.7s, 396 entradas, fecha más antigua 2026-11-20 14:25
+  página 1: 2065 KB en 8.3s, 69 entradas, fecha más antigua 2026-11-22 13:56
 Descargando página 2 ...
-  página 2: 14159 KB en 14.3s, 896 entradas, fecha más antigua 2026-11-20 13:25
-Descargando página 3 ...
-  página 3: 15041 KB en 13.4s, 1395 entradas, fecha más antigua 2026-11-20 12:22
-Descargando página 4 ...
-  página 4: 14367 KB en 12.6s, 1887 entradas, fecha más antigua 2026-11-20 11:12
-Descargando página 5 ...
-  página 5: 13705 KB en 18.4s, 2385 entradas, fecha más antigua 2026-11-20 10:06
-Descargando página 6 ...
-  página 6: 17137 KB en 15.8s, 2885 entradas, fecha más antigua 2026-11-20 09:06
-Descargando página 7 ...
-  página 7: 14417 KB en 21.7s, 3383 entradas, fecha más antigua 2026-11-20 08:04
-Descargando página 8 ...
-  página 8: 12872 KB en 16.1s, 3850 entradas, fecha más antigua 2026-11-19 16:28
+  página 2: 14983 KB en 54.2s, 565 entradas, fecha más antigua 2026-11-20 14:25
 Se alcanzó la fecha objetivo.
-Historial guardado: 2012 licitaciones. Cobertura desde 2026-10-21T10:33:44.716000+02:00.
-Entradas leídas: 3850
+Historial guardado: 2020 licitaciones. Cobertura desde 2026-10-21T10:33:44.716000+02:00.
+Entradas leídas: 565
 --- Diagnóstico ---
-Fechas 'updated': de 2026-11-19T16:28:12.428+01:00 a 2026-11-21T18:41:38.558+01:00
-Por estado: {'RES': 1264, 'PUB': 917, 'ADJ': 711, 'EV': 935, 'PRE': 23}
-Sin CPV: 28 | Sin NUTS: 2 | Sin importe: 0 | Sin fin de plazo: 278
-CPV ['72']: 191 | NUTS []: 0 | ambos: 0
-Ejemplos de NUTS: [('ES300', 632), ('ES523', 224), ('ES618', 151), ('ES120', 148), ('ES521', 139), ('ES617', 132), ('ES', 114), ('ES612', 109)]
-Entradas con documentos: 3479 de 3850; ejemplo: [{'tipo': 'Legal', 'nombre': 'PCAP mantenimientos redes saneamiento RDS260827 rectificado.pdf', 'uri': 'https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=pEx6RMcl7%2BO20N4OFQORWuA5cF4WrfHDR2d9rjDlmoH6WKxY9Bwjb9%2BpcJKrX0faN9yAIhnCbwjjDK2JYBm85va7Lk1OA5EqYCyMmFxKUR%2BB0nvVKRzfe4rpHcnlPhSZ'}, {'tipo': 'Technical', 'nombre': 'RDS260827 PPT Servicio Mantenimiento infraestructuras saneamiento.pdf', 'uri': 'https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=786DHU%2B9qw6yNpvf2%2BanzSQJZ8HdA%2BVTq8kT%2BX3UcD0i2BmqAkFMg6R1O721V2po7pI9czWreaPSjAgH8ZF5q0H8wL9StSLLPsqmTuFjm%2Bpt/o8fNevwsujgRzaBbugn'}]
-Ejemplos de fin_plazo: ['2026-10-05 10:00:00', '2026-12-07 17:00:00', '2026-12-22 13:00:00', '']
-Ejemplo de entrada: {'expediente': 'RDS260827', 'estado': 'RES', 'cpv': '90400000,90410000,90470000,90491000,90913000', 'lugar_nuts': 'ES611', 'importe_sin_iva': '276446.8', 'fin_plazo': '2026-10-05 10:00:00'}
+Fechas 'updated': de 2026-11-20T14:25:52.188+01:00 a 2026-11-22T19:56:09.650+01:00
+Por estado: {'RES': 165, 'ADJ': 113, 'PUB': 172, 'PRE': 4, 'EV': 111}
+Sin CPV: 1 | Sin NUTS: 0 | Sin importe: 0 | Sin fin de plazo: 35
+CPV ['72']: 36 | NUTS []: 0 | ambos: 0
+Ejemplos de NUTS: [('ES300', 108), ('ES523', 42), ('ES431', 29), ('ES120', 26), ('ES70', 25), ('ES521', 19), ('ES612', 19), ('ES709', 18)]
+Entradas con documentos: 511 de 565; ejemplo: [{'tipo': 'Legal', 'nombre': 'PCAP.pdf', 'uri': 'https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=B%2BoqxC3/oa8ryUrWObHvGVP33xzf4wG74HZDlYLjPWcWexVNlPL6TC23dBK%2BaeNEYkdTTNKUtanvfBr6IOfg87scG/Xzi7gb9aGWN7%2BXCODVTD3T98KC0nSgQFM0q%2B5s'}, {'tipo': 'Technical', 'nombre': 'PPT.pdf', 'uri': 'https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=axPrHzQMjmx0cWyZnsL1kKFhSQyPqVMkrw7m9R8VXJa2KQgXEspz4%2BT%2BT0P21FUMsG0sVZoSbQse05E1WCwB2zkrxt9r7nq1bxba9oQ7kKRJOVDbGCDM%2BMigrvuVS7Rv'}]
+Ejemplos de fin_plazo: ['2026-08-19 23:59:00', '2026-04-15 14:00:00', '2026-12-09 23:59:00', '2026-11-09 12:00:00']
+Ejemplo de entrada: {'expediente': '1640/2026 Protección de datos', 'estado': 'RES', 'cpv': '72300000,79140000', 'lugar_nuts': 'ES425', 'importe_sin_iva': '7200', 'fin_plazo': '2026-08-19 23:59:00'}
 Muestra guardada en muestra_entradas.csv
-Licitaciones que cumplen los filtros: 95 -> licitaciones_filtradas.csv
-[menores] primera página: 232 entradas
-[menores] fin: 4 páginas, 1732 entradas, 25 TIC nuevas/actualizadas, enlazado=True
+Licitaciones que cumplen los filtros: 90 -> licitaciones_filtradas.csv
+[menores] primera página: 329 entradas
+[menores] fin: 2 páginas, 829 entradas, 19 TIC nuevas/actualizadas, enlazado=True
 [cpm] primera página: 493 entradas
 [cpm] fin: 1 páginas, 493 entradas, 60 TIC nuevas/actualizadas, enlazado=True
-[agregadas] primera página: 421 entradas
-[agregadas] fin: 1 páginas, 421 entradas, 39 TIC nuevas/actualizadas, enlazado=True
-  contratos_menores_software.csv: 1839 filas
+[agregadas] primera página: 17 entradas
+[agregadas] fin: 2 páginas, 438 entradas, 42 TIC nuevas/actualizadas, enlazado=True
+  contratos_menores_software.csv: 1850 filas
   ranking_menores_galicia.csv: 20 filas
   consultas_preliminares_tic.csv: 60 filas
-  licitaciones_autonomicas.csv: 71 filas
-Licitaciones a procesar: 95
+  licitaciones_autonomicas.csv: 65 filas
+Licitaciones a procesar: 90
 Sesión iniciada, cookies: ['JSESSIONID', 'TS0177f194']
-  ERR 6566/2026                 https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifra: HTTP Error 500: Internal Server Error
-Documentos descargados: 0 | con error: 1 | licitaciones sin documentos en el feed: 0
+Documentos descargados: 0 | con error: 0 | licitaciones sin documentos en el feed: 0
