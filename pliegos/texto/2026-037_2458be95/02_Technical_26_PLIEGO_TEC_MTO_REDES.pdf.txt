@@ -1,0 +1,327 @@
+
+
+--- página 1 ---
+PLIIEGO DE PRESCRIPCIONES TÉCNICAS PARTICULARES.2026-037. CONTRATACIÓN DEL SERVICIO DE ADMINISTRACIÓN 
+Y MANTENIMIENTO DE REDES, SERVIDORES Y EQUIPOS DE LA INFRAESTRUCTURA TECNOLÓGICA DE ETSA 
+Página 1 de 9 
+ 
+ 
+ÍNDICE 
+1. OBJETO DEL CONTRATO ......................................................................................................... 2 
+2. CONTENIDO Y ALCANCE DE LA PRESTACIÓN .......................................................................... 2 
+3. RELACIÓN DE ACTIVIDADES QUE SE LLEVARÁN A CABO ........................................................ 2 
+3.1. SERVICIO DE ADMINISTRACIÓN Y MANTENIMIENTO DE LA INFRAESTRUCTURA ......... 2 
+A. Administración del sistema .......................................................................................... 3 
+B. Mantenimiento de equipos y programas ..................................................................... 3 
+C. Mantenimiento preventivo ........................................................................................... 3 
+3.2. MONITORIZACIÓN DE LA INFRAESTRUCTURA .............................................................. 4 
+3.3. ALMACENAMIENTO Y SOPORTE DE BACKUP EXTERNO ................................................ 4 
+3.4. SERVICIOS DE GESTIÓN REMOTA DE TABLETS CORPORATIVAS ........................................... 5 
+3.5. SERVICIOS ADICIONALES SOBRE LA INFRAESTRUCTURA: INTERVENCIONES ....................... 6 
+3.6.  SEGUIMIENTO DEL SERVICIO ............................................................................................. 7 
+ANEXOS VINCULADOS A LAS PRESCRIPCIONES TÉCNICAS ............................................................. 7 
+ANEXO V. REQUISITOS DE GARANTÍA DE CALIDAD EXIGIDOS .................................................... 8 
+ANEXO IV. DECLARACIÓN SOBRE EL CUMPLIMIENTO DE LOS SERVICIOS Y ACTIVIDADES 
+OBJETO DEL CONTRATO Y LA SOLVENCIA TÉCNICA .................................................................... 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 2 ---
+PLIIEGO DE PRESCRIPCIONES TÉCNICAS PARTICULARES.2026-037. CONTRATACIÓN DEL SERVICIO DE ADMINISTRACIÓN 
+Y MANTENIMIENTO DE REDES, SERVIDORES Y EQUIPOS DE LA INFRAESTRUCTURA TECNOLÓGICA DE ETSA 
+Página 2 de 9 
+ 
+1. OBJETO DEL CONTRATO 
+El objeto del presente contrato es la contratación del servicio de administración y mantenimiento 
+de redes, servidores y equipos de la infraestructura tecnológica de ETSA Global Logi stics, S.A.U., 
+S.M.E. (en adelante ETSA). 
+2. CONTENIDO Y ALCANCE DE LA PRESTACIÓN  
+ 
+La ﬁnalidad del presente pliego de prescripciones técnicas particulares es describir la relación de 
+las actividades que se engloban en el contrato de prestación del servicio de administración de y 
+mantenimiento de redes de ETSA. 
+ 
+Además de circunscribirse a la s condiciones señaladas en este pliego, los servicios de 
+administración y mantenimiento de redes contratados deberán cumplir con lo dispuesto en toda 
+la normativa que le sea de aplicación.  
+3. RELACIÓN DE ACTIVIDADES QUE SE LLEVARÁN A CABO 
+3.1. SERVICIO DE ADMINISTRACIÓN Y MANTENIMIENTO DE LA INFRAESTRUCTURA  
+ 
+Los servicios de administración y mantenimiento de la infraestructura se realizarán con la 
+frecuencia periódica establecida  sin que se requiera solicitud previa por parte del personal de 
+ETSA. 
+No se incluyen labores de modificación de la operativa establecida.  
+Este servicio de administración y mantenimiento de la infraestructura tendrán un coste mensual 
+fijo. 
+ 
+La operativa y la realización de estas tareas debe quedar documentada: 
+ 
+1. Procedimiento de trabajo: en el que se detalle la tipología de la tarea, frecuencia, pasos 
+a realizar, modo de resolución de incidencias más frecuentes y las comprobaciones para 
+verificar que todo está operativo. Debe estar conforme con lo marcado en RD 311/2022  
+(ENS) y las guías del CCN de cada caso. 
+2. Evidencias de su realización: registros donde se plasme (como mínimo) la fecha-hora de 
+realización, sistemas (hw/sw) que se vieron afectados, persona que lo realizó , acciones 
+realizadas, las incidencias (s/a) 
+ 
+Estos documentos son susceptibles de auditarse por el personal de ETSA o personal que 
+ETSA designe. 
+ 
+Los servicios de administración y mantenimiento de la infraestructura i ncluyen las 
+siguientes tareas:  
+ 
+
+--- página 3 ---
+PLIIEGO DE PRESCRIPCIONES TÉCNICAS PARTICULARES.2026-037. CONTRATACIÓN DEL SERVICIO DE ADMINISTRACIÓN 
+Y MANTENIMIENTO DE REDES, SERVIDORES Y EQUIPOS DE LA INFRAESTRUCTURA TECNOLÓGICA DE ETSA 
+Página 3 de 9 
+ 
+A. Administración del sistema 
+Tareas básicas de administración del conjunto de equipos, servidores y usuarios:  
+ 
+1) Administración de usuarios y grupos de trabajo, permisos y accesos.  
+2) Administración de estaciones de trabajo.  
+3) Administración de servidores  (incluyendo los virtuales), así como la modificación de la 
+configuración cuando sea necesarios.  
+4) Administración de la red y su topología. 
+5) Administración de los sistemas de seguridad perimetral.  
+6) Control de las copias de seguridad.  
+7) Administración de todas las cuentas de correo empresarial.  
+ 
+B. Mantenimiento de equipos y programas 
+Servicios consistentes en el mantenimiento o gestión del mantenimiento de equipos de usuario, 
+impresoras, servidores y recursos de red en las condiciones de los mismos al principio del 
+contrato.  
+1) Mantenimiento y actualización de software de equipos.  
+2) Mantenimiento de ordenadores e impresoras.  
+3) Mantenimiento de equipos servidores in-situ y/o hosting.  
+4) Gestión de los recursos compartidos en la red.  
+5) Mantenimiento de los programas de cada usuario.  
+6) Gestión de los recursos compartidos para cada puesto de trabajo.  
+7) Gestión de la topología de la red física y virtual.  
+8) Revisión de las conﬁguraciones de seguridad de Microsoft 365 y de los sistemas 
+informáticos (hw/sw) de ETSA. 
+La empresa ofertante se encargará de tener actualizadas y operativas, al menos, las aplicaciones 
+de software MS 365, Adobe Acrobat Professional, Proxmox para gestión de servidores 
+virtualizados y los sistemas operativos de todos los equipos (Windows, Linux) dentro de este 
+mantenimiento. 
+C. Mantenimiento preventivo 
+Consistirá en la revisión periódica de determinados aspectos, tanto de hardware como de 
+software, del sistema informático.  
+1) Al menos con una periodicidad diaria, se deberá llevar a cabo, entre otros: revisión del 
+estado general de la red y que se mantienen operativos los sistemas y aplicaciones críticos 
+corporativos.  
+2) Al menos con una periodicidad semanal, se deberá llevar a cabo, entre otros: revisión del 
+estado de la red; revisión de los servidores (revisión de parámetros e instalación de 
+actualizaciones); revisión del sistema de copias de seguridad. Si se requieren reinicios, 
+estará incluido en estas tare as. ETSA indicará la ventana de ejecución de los mismos de 
+acuerdo con su operativa. 
+
+--- página 4 ---
+PLIIEGO DE PRESCRIPCIONES TÉCNICAS PARTICULARES.2026-037. CONTRATACIÓN DEL SERVICIO DE ADMINISTRACIÓN 
+Y MANTENIMIENTO DE REDES, SERVIDORES Y EQUIPOS DE LA INFRAESTRUCTURA TECNOLÓGICA DE ETSA 
+Página 4 de 9 
+ 
+3) Al menos con una periodicidad mensual  se deberá llevar a cabo, entre otros: revisión 
+general de los equipos (incluye actualización del inventario de hardware -software) e 
+instalación de las actualizaciones de software.  
+ 
+El ofertante debe enviar un Plan Anual de Mantenimiento preventivo que incluya detalladamente 
+las fechas en las que realizarán estas tareas. 
+ 
+Estas labores las podrá realizar la empresa en el horario que estime conveniente pero que afecte 
+lo mínimo posible al desarrollo de la operativa normal de los sistemas informáticos de ETSA.  
+ 
+Siempre que el desarrollo imposibilite el uso temporal de los sistemas, la empresa ha de notiﬁcar 
+esta circunstancia a ETSA y coordinar con el personal de ETSA su realización.  
+ 
+3.2. MONITORIZACIÓN DE LA INFRAESTRUCTURA  
+Se incluirá en los servicios mensuales los servicios de monitorización de la infraestructura con 
+herramientas de control pasivo de la infraestructura informática y la revisión de las métricas por 
+parte de la empresa contratada.  
+ 
+La operativa y la realización de estas tareas debe quedar documentada: 
+ 
+1. Procedimiento de trabajo: En el que se detalle la tipología de la tarea, frecuencia, pasos 
+a realizar, modo de resolución de incidencias más frecuentes y las comprobaciones para 
+verificar que todo está operativo. Debe estar conforme con lo marcado en RD 311/2022 
+(ENS) y las guías del CCN de cada caso. 
+2. Evidencias de su realización: Registros donde se plasme (como mínimo) la fecha-hora de 
+realización, sistemas (hw/sw) que se vieron afectados, persona que lo realizó , acciones 
+realizadas y las incidencias (s/a). 
+ 
+Estos documentos son susceptibles de auditarse por el personal de ETSA o personal que ETSA 
+designe. 
+ 
+3.3. ALMACENAMIENTO Y SOPORTE DE BACKUP EXTERNO 
+La empresa adjudicataria se encargará de mantener el servicio de copias externas a la 
+infraestructura de ETSA los backups externos del cloud de OVH con la infraestructura remota de 
+los servidores virtualizados de ETSA. 
+El hosting y la empresa que tiene su propiedad debe cumplir las características requeridas por el 
+ENS y estar ubicado en servidores dentro de la UE. 
+ 
+El adjudicatario ha de mantener la configuración (hw / sw) actual (o dotarlo de uno de similares 
+características): 
+ 
+1. El sistema de servidores actual implementado en un centro de alta 
+disponibilidad y seguridad en cloud gestionado por OVH. 
+
+--- página 5 ---
+PLIIEGO DE PRESCRIPCIONES TÉCNICAS PARTICULARES.2026-037. CONTRATACIÓN DEL SERVICIO DE ADMINISTRACIÓN 
+Y MANTENIMIENTO DE REDES, SERVIDORES Y EQUIPOS DE LA INFRAESTRUCTURA TECNOLÓGICA DE ETSA 
+Página 5 de 9 
+ 
+2. Gestión del EPDR de AirwatchGuard (Endpoint Proteccion, Detection and 
+Response) actualmente operativo y licenciado por ETSA. Conﬁguración y control 
+de los eventos de seguridad y conexiones VPN. 
+3. Gestión remota del sistema de backup de la infraestructura de ETSA. 
+4. Conﬁguración por software de los parámetros de la copia remota externa 
+mediante el software de gestión de copias que dispone ETSA (Proxmox) 
+ 
+Los costes englobarán: 
+ 
+1. El almacenamiento externo de ese Backup (Host).  
+2. Servicio de v eriﬁcación y mantenimiento periódico (semanal) de modo que se 
+certiﬁque la realización correcta del proceso de Backup diario, se compruebe que se 
+ajusta a las necesidades de ETSA y que el Backup en sí es correcto, es decir, se puede 
+restaurar la información copia en los casos necesarios (si por cualquier causa la 
+información operativa y de la copia local no puede recuperarse). 
+ 
+En el caso de requerirse, l os costes han de incluir  las nuevas infraestructuras o el traslado de la 
+información del Backup a un nuevo Hosting (s/a).  
+ 
+La operativa y la realización de estas tareas debe quedar documentada: 
+ 
+1. Procedimiento de trabajo:  En el que se detalle la tipología de la tarea, frecuencia, 
+pasos a realizar, modo de resolución de incidencias más frecuentes y las 
+comprobaciones para verificar que todo está operativo. Debe estar conforme con lo 
+marcado en RD 311/2022 (ENS) y las guías del CCN de cada caso. 
+2. Evidencias de su realización: Registros donde se plasme (como mínimo) la fecha-hora 
+de realización, sistemas (hw/sw) que se vieron afectados,  acciones realizadas,  
+persona que lo realizó y las incidencias (s/a) 
+ 
+Estos documentos son susceptibles de auditarse por el personal de ETSA o personal que ETSA 
+designe. 
+3.4. SERVICIOS DE GESTIÓN REMOTA DE TABLETS CORPORATIVAS 
+La empresa adjudicataria se encargará de realizar la gestión de hasta 15 tablets corporativas (de 
+Android, iOS, Windows, macOS, ChromeOS o Linux). 
+El servicio debe incluir: 
+- Alta y conﬁguración de las mismas mediante un servicio Mobile Device Management  
+(MDM) que permita una gestión segura en remoto de los mismos atendiendo a lo 
+indicado en las guías especíﬁcas del CCN. 
+- Conﬁguración de los entornos de trabajo en esas tablets según distintos perﬁles de 
+usuario.  
+La empresa se encargará de adquirir y gestionar las licencias quesean necesarias para el software 
+de este servicio. 
+
+--- página 6 ---
+PLIIEGO DE PRESCRIPCIONES TÉCNICAS PARTICULARES.2026-037. CONTRATACIÓN DEL SERVICIO DE ADMINISTRACIÓN 
+Y MANTENIMIENTO DE REDES, SERVIDORES Y EQUIPOS DE LA INFRAESTRUCTURA TECNOLÓGICA DE ETSA 
+Página 6 de 9 
+ 
+Se ha de posibilitar a través de ese MDM las siguientes tareas que realizará la empresa 
+adjudicataria: 
+- Instalación remota de aplicaciones.  
+- Actualizaciones del sistema operativo. 
+- Bloqueo remoto.  
+- Borrado remoto.  
+- Geolocalización. 
+- Restricción de aplicaciones. 
+- Restricción de navegación web. 
+- Control de periféricos y funcionalidades. 
+- Gestión de certiﬁcados. 
+- Control de cumplimiento de políticas. 
+3.5. SERVICIOS ADICIONALES SOBRE LA INFRAESTRUCTURA: INTERVENCIONES  
+Se pondrá a disposición de ETSA una bolsa de horas (estimadas en 200 horas anuales ), que 
+garantizará un servicio de mantenimiento efectivo y de calidad. El consumo de las horas se 
+realizará mediante las peticiones realizadas por el personal de ETSA y que irán recogidos en 
+tickets, durante el periodo de vigencia del servicio.  
+ 
+Las intervenciones solicitadas y el detalle de su realización quedarán registradas en un sistema de 
+Ticketing que el licitador podrá a disposición del personal de ETSA (encargándose de su 
+conﬁguración e instalación en los equipos de ETSA). 
+ 
+Estas tareas se realizarán de manera general de MODO PRESENCIAL , siendo la empresa 
+adjudicataria autorizadas para prestar sus servicios en las oﬁcinas de ETSA:  
+ 
+ETSA GLOBAL LOGISTICS, S.A.U., S.M.E. (CETRAMESA) 
+Ctra. Salamanca-Vitigudino, km. 0,7, 37009, Salamanca. 
+Siempre atendiendo a los siguientes tiempos de respuesta (SLA):  
+ 
+1. Criticidad máxima, para equipos que precisan de unas condiciones de servicio más 
+exigentes (servidores, dispositivos de copia, seguridad perimetral, comunicaciones. 
+Tiempo máximo de respuesta presencial entre 30 y 60 minutos, dependiendo del grado 
+de sistemas afectados.  
+2. Criticidad media, para equipos que precisan unas condiciones de servicio intermedias 
+(estaciones de trabajo, portátiles, monitores e impresoras). Tiempo máximo de respuesta 
+presencial de 4 horas.  
+3. Criticidad normal (escáneres y resto de equipamiento). Tiempo máximo de respuesta 
+presencial de 8 horas.  
+ 
+El horario laboral de atención y prestación de servicio deberá ser el siguiente:  
+ 
+- Del 01 de octubre al 30 de junio: lunes a jueves laborables: 08:00 a 17:00 h. Viernes 
+laborables: 08:00 a 15:00 h.  
+- Del 01 de julio a 30 de septiembre: lunes a viernes laborables: 08:00 a 15:00 h 
+
+--- página 7 ---
+PLIIEGO DE PRESCRIPCIONES TÉCNICAS PARTICULARES.2026-037. CONTRATACIÓN DEL SERVICIO DE ADMINISTRACIÓN 
+Y MANTENIMIENTO DE REDES, SERVIDORES Y EQUIPOS DE LA INFRAESTRUCTURA TECNOLÓGICA DE ETSA 
+Página 7 de 9 
+ 
+En cuanto a días festivos, el criterio de aplicación es el calendario laboral, por lo que se considerará 
+como días festivos los establecidos oﬁcialmente para la ciudad de Salamanca.  
+ 
+Las intervenciones que haya que realizar fuera de horario laboral de lunes a viernes hasta las 23:00 
+h se imputarán 2 horas por cada 1 hora realizada (x2 horas), y las noches a partir de las 23:00 h, 
+ﬁnes de semana y vísperas de festivos y festivos se imputarán 3 horas por cada 1 hora realizada 
+(x3 horas).  
+Se permitirá la intervención en remoto sólo en los casos previamente autorizados por el personal 
+de Tecnologías de la Información de ETSA.  
+ 
+El periodo establecido para el consumo de la bolsa de horas es de un año desde su contratación.  
+ 
+En el caso de no haberse consumido, se posibilitará que se empleen en l os siguientes contratos 
+de servicios de similares características.  
+ 
+Entre las tareas susceptibles de ser intervenciones, están (entre otras de similares características):  
+ 
+1. Altas/bajas de usuarios, conﬁguración de nuevos equipos e instalación de nuevo 
+software.  
+2. Conﬁguración y comprobación de módulos de localización de ﬂota para la aplicación GPS.  
+3. Tareas de mantenimiento correctivo.  
+Se considera mantenimiento correctivo al servicio que se realiza para solucionar una 
+anomalía o avería (hardware, software) que se presente en cualquiera de los equipos o 
+en la red de datos que sea ocasionada por el uso del personal de ETSA.  
+4. Asistencia técnica a proyectos y tareas de evolución tecnológica.  
+5. A solicitud del personal de Sistemas de ETSA, la participación de la empresa contratada 
+en los proyectos tecnológicos que ETSA estimen oportuno, realizando aquellas tareas que 
+le sean asignadas por los responsables del proyecto o de infraestructuras.  
+ 
+3.6.  SEGUIMIENTO DEL SERVICIO  
+La empresa ofertante cumplimentará una declaración en la que maniﬁesta su capacidad para  
+poder llevar a cabo los servicios y actividades descritas.  (ANEXO V).  
+ANEXOS VINCULADOS A LAS PRESCRIPCIONES TÉCNICAS1 
+A N E XO V.  REQUISITOS DE GARANTÍA DE CALIDAD EXIGIDOS 
+ANEXO VI. DECLARACIÓN REQUISITOS DE SOLVENCIA TÉCNICA 
+ 
+La empresa ofertante debe presentar los anexos según el formato de los documentos adjuntados 
+en la licitación. No es necesario cambiar los encabezamientos establecidos 
+ 
+ 
+1 El resto de los ANEXOS están contemplados en el pliego de condiciones administrativas particulares.  

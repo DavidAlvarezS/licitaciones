@@ -1,0 +1,962 @@
+
+
+--- página 1 ---
+Ayuntamiento de Corullón
+Expediente n.º: 737/2026 
+Pliego de Prescripciones Técnicas 
+Procedimiento: Procedimiento de Contratación 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS  PARA EL SERVICIO DE IMPLEMENTACIÓN 
+DIGITAL DE LA RED DE RUTAS DE CORULLÓN:  APLICACIÓN MÓVIL, AUDIOGUÍA, 
+WEB, VÍDEOS Y PLAN DE COMUNICACIÓN (INFRARED CORULLÓN. A4)
+Este pliego define las condiciones técnicas de la prestación. Las cláusulas jurídico-administrativas 
+(precio,  pagos,  penalidades,  criterios  de  adjudicación,  garantías  y  resolución)  se  regulan 
+exclusivamente en el Pliego de Cláusulas Administrativas Particulares (PCAP), conforme al art. 
+68.3 RGLCAP. En caso de contradicción prevalece el PCAP.
+Cláusula 1. Objeto del contrato y necesidades que se pretende satisfacer
+1.1. Objeto. El contrato tiene por objeto el desarrollo de la información y los soportes digitales de 
+la red de rutas del municipio de Corullón. Comprende cinco prestaciones:
+1. Prestación  A. Aplicación  móvil  de  rutas  para  Android  e  iOS,  con  funcionamiento 
+completo  sin  conexión,  su  gestor  de  contenidos  y  el  módulo  de  inventario  de  la 
+señalización e incidencias.
+1. Prestación  B. Audioguía  geolocalizada  de la ruta  «Sabores e Historia  de  Corullón», 
+integrada en la aplicación y accesible desde la web.
+2. Prestación C. Sitio web de la red de rutas, con el visor web público de rutas, cartografía 
+y audioguías, y las páginas de destino de los códigos QR de la señalización.
+3. Prestación D. Producción audiovisual: un spot corto, un vídeo promocional y los vídeos 
+vinculados a los códigos QR de la cartelería de la ruta.
+4. Prestación E. Plan de comunicación de la red de rutas para la gestión y difusión del 
+material producido.
+1.2. Necesidad. El Ayuntamiento debe difundir el patrimonio natural, cultural y agroforestal 
+(castaño,  cerezo  y  viñedo)  asociado  a  la  red  de  rutas.  Esta  difusión  debe  apoyarse  en  los 
+resultados de las acciones A1 (cartografía de la infraestructura verde), A2 (base de datos de 
+rutas) y A3 (ruta señalizada «Sabores e Historia de Corullón»). Según la memoria del proyecto, 
+la audioguía mejora el acceso de las personas con discapacidad visual. Además, el testimonio de 
+productores y vecinos forma parte de la información digital que debe recopilarse.
+1.3.  Relación  con  otras  acciones  del  proyecto. El  Ayuntamiento  entregará  al  contratista  la 
+información de las acciones A1, A2 y A3. Los contenidos técnicos de la cartelería y de los QR que 
+se elaboren en la asistencia técnica de la acción A3.3 no forman parte de este contrato. Este 
+contrato los adapta e integra en los soportes digitales. 
+1.4. Códigos CPV. Conforme al vocabulario común de contratos públicos (Reglamento (CE) n.º 
+213/2008), los códigos son los siguientes:
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: 9X74WMYWG6LLL9Y5HE9JX2D5T 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 1 de 18 
+
+--- página 2 ---
+Ayuntamiento de Corullón
+Código Descripción Prestación
+72212000-4 Servicios de programación de software de aplicación A y B
+72413000-8 Servicios de diseño de sitios web (WWW) C
+92111000-2 Servicios de producción de películas y vídeos D
+79342000-3 Servicios de marketing E
+Cláusula 2. Calificación de la prestación
+La prestación es un servicio de desarrollo de soportes digitales y de producción audiovisual 
+definido por resultados, con requisitos cerrados y verificables. Conforme al criterio de la Junta 
+Consultiva de Contratación  Pública del Estado  (expediente 20/19),  el carácter intelectual se 
+determina por el contenido de las prestaciones y no por los códigos CPV: lo tienen las que 
+consisten principalmente en un trabajo creativo, innovador u original, y un elemento creativo 
+accesorio  o  instrumental  respecto  de  la  prestación  principal  no  altera  la  naturaleza  del 
+contrato.  No  se  trata  de  servicios  de  arquitectura,  ingeniería,  consultoría  o  urbanismo 
+(disposición adicional cuadragésima primera LCSP). Por ello, el órgano de contratación califica 
+la prestación como no intelectual a efectos del art. 159.6 LCSP.
+La calificación se apoya en los siguientes elementos objetivos del expediente:
+a) Prestación  principal de desarrollo de software  estandarizado. Las prestaciones A, B y C 
+(aplicación, audioguía integrada en ella y web) suponen el 71,42 % del presupuesto base de 
+licitación; la producción audiovisual (D), el 24,99 %, y el plan de comunicación (E), el 3,59 %. 
+Las prestaciones A, B y C consisten en implementar y configurar funciones definidas en este 
+pliego (consulta de rutas, mapas sin conexión, reproducción de audio, gestor de contenidos, 
+visor web, registro de incidencias) sobre una arquitectura de código abierto predeterminada 
+por el órgano de contratación (cláusula 5.7). En la audioguía, la adaptación de los guiones y la 
+locución son tareas instrumentales de la carga de contenidos en la aplicación.
+b)  Requisitos  cerrados  y  verificables. Todos  los  requisitos  de  la  cláusula  5  se  comprueban 
+objetivamente (funciona o no funciona sin conexión, exporta o no en GPX, cumple o no la norma 
+UNE-EN 301549, está o no publicada en las tiendas) mediante la comprobación de los requisitos 
+de la cláusula 5, sin juicios de valor.
+c)  El  contratista  no  define  la  solución. La  arquitectura,  las  tecnologías  de  referencia,  los 
+formatos, los estándares (OGC, GPX, GeoJSON) y las funciones los fija el Ayuntamiento. El 
+contratista  no  realiza  estudios,  diagnósticos  ni  propuestas  de  solución  que  el  órgano  de 
+contratación deba evaluar.
+d) Contenidos aportados por el Ayuntamiento. La cartografía, la base de datos de rutas, la 
+clasificación por dificultad y los textos de los carteles y fichas proceden de las acciones A1, A2 y 
+A3.3. El contratista los adapta a cada soporte sin alterar su contenido técnico y solo incorpora 
+las correcciones comprobadas en campo que acepte el responsable del contrato (cláusula 5.1.9). 
+Su trabajo de campo (recorrer las rutas, verificar trazados, hacer fotografías y grabaciones y 
+recoger  datos  prácticos)  es  de  documentación  y  comprobación,  no  de  investigación  ni  de 
+elaboración de estudios. Los guiones requieren aprobación previa del responsable del contrato.
+e) Componente creativo accesorio y acotado. Las pistas de audio siguen una estructura fija 
+(cláusula  5.3).  Los  vídeos  vinculados  a  QR  siguen  una  escaleta  tipo,  y  el  spot  y  el  vídeo 
+promocional son montajes del material grabado con una estructura también fijada (cláusula 
+5.5). Las unidades, duraciones, formatos y normas técnicas están tasados, la música procede de 
+bancos con licencia y el contratista no crea conceptos, argumentos, personajes, eslóganes ni 
+marcas.  El plan de comunicación  (3,59  % del presupuesto)  es un  documento  operativo  que 
+programa la difusión del material producido en el propio contrato, con un contenido cerrado 
+(cláusula 5.6). No requiere estudios, diagnósticos ni investigación, ni la creación de mensajes, 
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: 9X74WMYWG6LLL9Y5HE9JX2D5T 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 2 de 18 
+
+--- página 3 ---
+Ayuntamiento de Corullón
+marcas o piezas nuevas, y no constituye un servicio de consultoría.
+f) Exclusión de funciones de innovación. Se han excluido del objeto las funciones de carácter 
+innovador o experimental, como un asistente conversacional basado en inteligencia artificial, 
+para que la prestación se limite a funciones de uso extendido en aplicaciones de rutas.
+g) Criterios de adjudicación automáticos. Ningún criterio valora la creatividad, la originalidad 
+ni la calidad  técnica de una propuesta de solución, porque  el pliego no pide propuestas  de 
+solución.
+Cláusula 3. Régimen de lotes
+El contrato no se divide en lotes, al amparo del art. 99.3.b) LCSP. La ejecución por separado de 
+las prestaciones dificultaría su correcta ejecución técnica, por las razones siguientes:
+ La aplicación, la audioguía y la web comparten una misma base de datos de rutas y 
+puntos de interés y un único gestor de contenidos.
+ Los códigos QR de la señalización deben apuntar a direcciones web persistentes que 
+alojan los vídeos y las pistas de la audioguía.
+ Los vídeos, la aplicación y la web deben compartir una identidad gráfica y un sistema 
+de navegación coherentes.
+ El  plan  de  comunicación  planifica  la  difusión  del  material  audiovisual  y  digital 
+producido.
+La división obligaría a coordinar a varios contratistas sobre una única base de datos y una 
+única arquitectura técnica. Esto supondría riesgos de incompatibilidad y de reparto difuso de 
+responsabilidades. Esta justificación debe constar en el expediente (art. 116.4.g LCSP).
+Cláusula 4. Normativa técnica y sectorial de aplicación
+La normativa técnica se aplica en su redacción vigente a la fecha de licitación. Toda referencia a 
+una norma técnica se entiende hecha con la mención «o equivalente» (art. 126 LCSP).
+Materia Norma
+Accesibilidad web y de aplicaciones Real Decreto 1112/2018, de 7 de septiembre, sobre 
+accesibilidad de los sitios web y aplicaciones para 
+dispositivos móviles del sector público
+Requisitos de accesibilidad TIC Norma  UNE-EN  301549  en  su  versión  vigente 
+(referencia:  UNE-EN  301549:2022,  equivalente 
+al nivel AA de las WCAG 2.1) o equivalente
+Derechos de las personas con discapacidad Real  Decreto  Legislativo  1/2013,  de  29  de 
+noviembre (texto refundido de la Ley General de 
+derechos de las personas con discapacidad y de 
+su inclusión social)
+Subtitulado Norma  UNE  153010:2012  (subtitulado  para 
+personas sordas y con discapacidad auditiva) o 
+equivalente
+Audiodescripción Norma  UNE  153020:2005  (audiodescripción 
+para  personas  con  discapacidad  visual)  o 
+equivalente
+Seguridad de la información Real Decreto 311/2022, de 3 de mayo, por el que 
+se  regula  el  Esquema  Nacional  de  Seguridad 
+(ENS)
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: 9X74WMYWG6LLL9Y5HE9JX2D5T 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 3 de 18 
+
+--- página 4 ---
+Ayuntamiento de Corullón
+Materia Norma
+Interoperabilidad Real Decreto 4/2010, de 8 de enero, por el que se 
+regula el Esquema Nacional de Interoperabilidad
+Protección de datos Reglamento  (UE)  2016/679  (RGPD)  y  Ley 
+Orgánica 3/2018, de 5 de diciembre (LOPDGDD)
+Servicios de la sociedad de la información y 
+cookies
+Ley 34/2002, de 11 de julio (LSSI), en particular 
+su art. 22.2
+Propiedad intelectual Real Decreto  Legislativo  1/1996,  de  12  de  abril 
+(texto  refundido  de  la  Ley  de  Propiedad 
+Intelectual)
+Derecho a la propia imagen Ley Orgánica 1/1982, de 5 de mayo
+Igualdad Ley Orgánica 3/2007, de 22 de marzo, para la 
+igualdad efectiva de mujeres y hombres
+Prevención de riesgos laborales Ley 31/1995, de 8 de noviembre, y Real Decreto 
+171/2004,  de  30  de  enero  (coordinación  de 
+actividades empresariales)
+Señalización de la ruta Manual  de  normativa  gráfica  y  constructiva 
+para  el sistema  de  señalización  de  la  Junta  de 
+Castilla y León, aplicado en la acción A3
+Publicidad de la financiación Orden TED/1358/2021, de 1 de diciembre, orden 
+de convocatoria de 27 de junio de 2024 (apartado 
+15.1.d) y art. 18 de la Ley 38/2003
+Cláusula 5. Descripción de las prestaciones y requisitos mínimos obligatorios
+Todos los requisitos de esta cláusula son mínimos y obligatorios. Si una oferta no garantiza su 
+cumplimiento, no podrá ser adjudicataria. Si se incumplen durante la ejecución, se aplicará el 
+régimen del PCAP. Las referencias a tecnologías, formatos o normas se entienden hechas con la 
+mención «o equivalente» (art. 126.6 LCSP).
+5.1. Requisitos comunes a todas las prestaciones
+1. Base  de  datos  y  gestor  de  contenidos  únicos. La  aplicación,  la  audioguía  y  la  web 
+consumirán una única base de datos de rutas y puntos de interés. Esta se alimentará con 
+la base de datos de la acción A2 y se gestionará desde un gestor de contenidos web (back 
+office) con estas características:
+a. Alta, modificación y baja de rutas, tramos, puntos de interés, textos, imágenes, 
+pistas de audio y vídeos, sin intervención del contratista.
+b. Publicación de los cambios en la aplicación y la web sin publicar una nueva 
+versión en las tiendas de aplicaciones.
+c. Al menos dos perfiles de usuario (administración y edición) con autenticación 
+segura.
+d. Importación  y exportación  de  rutas  en  formato  GPX  o KML  y  de  puntos  en 
+formato CSV o GeoJSON.
+e. Publicación  de  avisos  (cierres  o  cortes  de  ruta,  alertas  de  incendio  o 
+meteorológicas) que se muestren en la aplicación y en la web.
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: 9X74WMYWG6LLL9Y5HE9JX2D5T 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 4 de 18 
+
+--- página 5 ---
+Ayuntamiento de Corullón
+f. Gestión del inventario de la señalización y de las incidencias comunicadas por 
+los usuarios (cláusula 5.2), con su estado de tramitación.
+g. Alimentación única de la aplicación y de la versión web pública, de modo que 
+ambas muestren siempre los mismos contenidos.
+2. Contenidos de partida. El Ayuntamiento entregará al inicio del contrato la cartografía 
+de la acción A1, la base de datos y la clasificación por dificultad de la acción A2, y el 
+proyecto de señalización y los contenidos de la acción A3.3. El contratista adaptará 
+estos contenidos a cada soporte. No podrá alterar los datos técnicos sin la conformidad 
+del responsable del contrato.
+3. Identidad  gráfica. El  contratista  aplicará  a  la  aplicación,  la  web  y  los  vídeos  la 
+identidad gráfica de la señalización de la acción A3 (colores, tipografías, pictogramas e 
+iconografía conforme al Manual de normativa gráfica y constructiva para el sistema de 
+señalización de la Junta de Castilla y León). No se creará un logotipo ni una marca 
+nuevos. Se incluirán los elementos de publicidad de la financiación que exijan las bases 
+de la subvención (artículo 15 de la Orden TED/1358/2021).
+4. Idiomas. Todos los contenidos se elaborarán en castellano.
+5. Accesibilidad. La aplicación y la web cumplirán los requisitos de accesibilidad del Real 
+Decreto 1112/2018 y de la norma UNE-EN 301549 vigente o equivalente. Los contenidos 
+audiovisuales cumplirán la cláusula 9.
+6. Lenguaje e imágenes. Los textos y las imágenes usarán un lenguaje claro, inclusivo y no 
+sexista. Reflejarán la participación de mujeres y hombres del municipio en la actividad 
+agroforestal.
+7. Titularidad  de cuentas y dominios. Las cuentas de desarrollador, las cuentas de las 
+tiendas de aplicaciones, el dominio, los canales de vídeo y los servicios de terceros se 
+darán de alta a nombre del Ayuntamiento. El contratista actuará solo como usuario 
+autorizado.  El  contratista  tramitará  las  altas  y  asumirá  su  coste  hasta  el  31  de 
+diciembre de 2026 (cláusula 7.5).
+8. Código abierto y formatos abiertos. Todo el software desarrollado se entregará con su 
+código fuente y podrá ser usado, modificado y redistribuido por el Ayuntamiento sin 
+coste de licencias. Los datos se entregarán y serán exportables en formatos abiertos 
+(GPX, GeoJSON, CSV y volcado SQL), y la cartografía se publicará mediante servicios 
+estándar OGC (WMS, WMTS y WFS). La arquitectura técnica de referencia figura en la 
+cláusula 5.7.
+9. Trabajo de campo y recopilación de información. Los datos y contenidos de las acciones 
+A1, A2 y A3.3 que facilita el Ayuntamiento son la base de todos los contenidos. El trabajo 
+de campo tiene por objeto comprobarlos sobre el terreno y documentar las rutas, no 
+elaborar contenidos nuevos. El contratista recorrerá personalmente, a pie o en bicicleta 
+según  su  modalidad,  todas  las  rutas  del  catálogo  de  la  acción  A2  y,  en  todo  caso, 
+íntegramente la ruta «Sabores e Historia de Corullón». Participarán en los recorridos, 
+como mínimo, la persona responsable del trabajo de campo y la que adapte los textos de 
+la aplicación y de la web y los guiones de la audioguía y de los vídeos (cláusula 6.1). El 
+contratista comunicará al responsable del contrato el calendario de recorridos con al 
+menos 1 día hábil de antelación, y este podrá acompañarle en cualquiera de ellos. Las 
+tareas son las siguientes:
+a. Verificar el trazado con GPS y corregir en el gestor de contenidos las diferencias 
+con la base de datos de la acción A2, con la conformidad del responsable del 
+contrato.
+b. Comprobar sobre el terreno, en cada ruta, la distancia, el desnivel, la duración, 
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: 9X74WMYWG6LLL9Y5HE9JX2D5T 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 5 de 18 
+
+--- página 6 ---
+Ayuntamiento de Corullón
+la  dificultad,  el  estado  del  firme,  los  tramos  con  riesgo  o  con  dificultad  de 
+orientación,  los  tramos  accesibles  y  los  puntos  de  interés,  y  comunicar  por 
+escrito al responsable del contrato las diferencias con los datos de las acciones A1 
+a A3 para que decida cómo se publican.
+c. Adaptar  a  cada  soporte  (aplicación,  web,  audioguía  y  vídeos)  los  textos  y 
+contenidos  de  las acciones A1,  A2  y  A3.3,  sin  alterar  su  contenido  técnico,  e 
+incorporar  solo  los  datos  prácticos  y  las  correcciones  comprobados  en  el 
+recorrido que haya aceptado el responsable del contrato.
+d. Hacer fotografías propias de cada ruta y de cada punto de interés: como mínimo 
+10 fotografías por ruta y 3 por punto de interés, en formato JPG de al menos 
+4.000 píxeles en su lado mayor, con su ubicación GPS. Las fotografías se ceden 
+al Ayuntamiento conforme a la cláusula 22 del PCAP.
+e. Grabar las imágenes de vídeo de la cláusula 5.5 y los testimonios de la audioguía 
+en los propios puntos de la ruta.
+f. Recopilar la información práctica que no aporten las acciones A1 a A3: accesos, 
+aparcamientos, fuentes, puntos de avituallamiento, servicios cercanos y datos de 
+contacto  de  productores  y  recursos  turísticos,  previa  conformidad  de  los 
+interesados.
+g. Registrar en el módulo de inventario (cláusula 5.2) el estado de la señalización 
+encontrada, que constituirá el inventario inicial.
+h. El recorrido de la ruta «Sabores e Historia de Corullón» se completará antes del 
+hito H3 de la cláusula 7.2, y el del resto de rutas del catálogo, antes del hito H4. 
+El trabajo de campo se documentará en un informe que incluirá, para cada ruta: 
+las fechas y las personas que la recorrieron, el trazado registrado en formato 
+GPX, las fotografías con su ubicación  GPS, una tabla que compare los datos 
+comprobados  sobre  el  terreno  con  los  de  la  acción  A2  y  las  incidencias 
+detectadas. El cumplimiento del hito H3 requiere la entrega del informe de la 
+ruta «Sabores e Historia de Corullón», y el del hito H4, el informe completo. En 
+las reuniones de validación el contratista expondrá el resultado del recorrido de 
+cada  ruta.  Los  errores  en  los  contenidos  publicados  que  se  hubieran  podido 
+detectar en el recorrido y no se comunicaron se considerarán defectos a efectos 
+de  la  cláusula  11.  Si  las  condiciones  meteorológicas  impiden  recorrer  algún 
+tramo con seguridad, el responsable del contrato podrá autorizar por escrito que 
+se sustituya por imágenes de archivo.
+5.2. Prestación A: aplicación móvil de rutas
+Requisito Especificación mínima
+Plataformas Android  e  iOS,  con  un  código  único  multiplataforma 
+compilado  a  nativo  (cláusula  5.7).  Compatible  con  las 
+versiones del sistema operativo con soporte vigente del 
+fabricante a la fecha de entrega
+Publicación En  Google  Play  y  App  Store,  o en  sus  equivalentes,  a 
+nombre  del  Ayuntamiento.  Descarga  gratuita,  sin 
+publicidad y sin registro obligatorio. La publicación en 
+ambas tiendas a nombre del Ayuntamiento es condición 
+para la recepción del contrato
+Catálogo de rutas Todas las rutas de la base de datos de la acción A2, con 
+filtros  por  dificultad,  distancia,  duración,  localidad  y 
+temática (castaño, cerezo, viñedo, patrimonio cultural e 
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: 9X74WMYWG6LLL9Y5HE9JX2D5T 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 6 de 18 
+
+--- página 7 ---
+Ayuntamiento de Corullón
+Requisito Especificación mínima
+infraestructura verde)
+Ficha de ruta Tipo de actividad (senderismo, BTT u otras de turismo 
+activo),  distancia,  desnivel  acumulado,  duración 
+estimada, dificultad según la clasificación de la acción 
+A2, perfil de elevación, tramos accesibles para personas 
+con  movilidad  reducida  cuando  existan,  descripción, 
+galería y puntos de interés
+Mapa y navegación Mapa  con  el trazado  y  la geolocalización  del usuario, 
+también  sin  conexión,  mediante  cartografía  de  código 
+abierto con teselas almacenadas en el dispositivo. Aviso 
+de desvío del trazado y descarga del track en formato 
+abierto GPX
+Funcionamiento sin conexión Descarga  previa  de  cada  ruta  (cartografía,  fichas, 
+textos, imágenes y audioguía) para usarla íntegramente 
+sin cobertura de datos, incluida la geolocalización. Base 
+de  datos  local  embebida  en  el  dispositivo,  que  se 
+sincroniza  con  el gestor  de contenidos  al recuperar  la 
+conexión
+Puntos de interés Ficha de  cada punto  (texto, imágenes, audio  y vídeo). 
+Incluirá como mínimo los puntos señalizados de la ruta 
+«Sabores  e  Historia  de  Corullón»:  25  señales  B2,  3 
+mesas interpretativas y la señal de inicio B1
+Lectura de QR Acceso directo al contenido asociado a cada código QR 
+de la señalización
+Lectura en voz de las fichas Lectura en voz alta de las fichas de ruta y de puntos de 
+interés  mediante  síntesis  de  voz  (TTS)  del  dispositivo, 
+operativa  sin  conexión,  en  español.  Complementa  la 
+audioguía locutada de la cláusula 5.3 y no la sustituye
+Inventario de la señalización Módulo  para  el  personal  municipal  que  permita 
+registrar  en  campo,  con  fotografía  y  posición  GPS,  el 
+estado de las señales, mesas, balizas y carteles, también 
+sin conexión, con sincronización posterior con el gestor 
+de contenidos
+Comunicación de incidencias Canal para que los usuarios comuniquen incidencias en 
+ruta (señal dañada, camino cortado, residuos u otras) 
+con  descripción,  fotografía  opcional  y  posición.  Las 
+incidencias  se  reciben  en  el  gestor  de  contenidos. 
+Cumplirá la cláusula 10.2
+Información de servicio Recomendaciones de seguridad, teléfono 112, normas de 
+comportamiento  en  el  medio  natural  y  enlaces  a 
+productores y recursos turísticos  locales que facilite el 
+Ayuntamiento
+Estadísticas Métricas  agregadas  y  anónimas  de  descargas,  rutas 
+consultadas y descargadas, reproducciones de audio y 
+lecturas de QR, exportables. Deben servir para justificar 
+los  indicadores  de  la  acción  A4  ante  el  órgano 
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: 9X74WMYWG6LLL9Y5HE9JX2D5T 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 7 de 18 
+
+--- página 8 ---
+Ayuntamiento de Corullón
+Requisito Especificación mínima
+concedente
+Rendimiento Tamaño  de  instalación  inicial  inferior  a  100  MB  sin 
+contenidos descargados
+5.3. Prestación B: audioguía de la ruta «Sabores e Historia de Corullón»
+1. Alcance. 30  pistas  de  audio:  una  por  cada  uno  de  los  29  elementos  interpretativos 
+señalizados de la ruta y sus variantes (1 señal de inicio B1, 3 mesas interpretativas y 25 
+señales B2), que llevan código QR, más una pista de presentación.
+2. Guion. El contratista adaptará los guiones a partir de los textos de los carteles y fichas 
+de las acciones A1 y A3.3, sin añadir contenidos técnicos nuevos. Cada pista seguirá esta 
+estructura:  a)  identificación  del  punto,  con  su  nombre  y  el  código  de  la  señal;  b) 
+descripción del elemento, con el texto del cartel adaptado para su escucha; c) un dato 
+agroforestal, histórico o etnográfico tomado de las fichas de la A1 o la A3.3; d) en su 
+caso, el testimonio asignado a ese punto; y e) una pauta de comportamiento o seguridad 
+y la orientación hacia el punto siguiente. La pista de presentación seguirá la misma 
+estructura con la información general del cartel de inicio B1. El responsable del contrato 
+aprobará los guiones antes de grabarlos.
+3. Duración. Entre 1 y 3 minutos por pista.
+4. Locución. Locución  profesional  en  castellano,  grabada  en  condiciones  de  estudio  o 
+equivalentes,  sin  ruido  de  fondo  perceptible.  Los  testimonios  pueden  grabarse  en 
+exteriores con calidad inteligible.
+5. Formato de entrega. Másteres sin compresión (WAV, 48 kHz, 24 bits) y versiones para 
+difusión (MP3 o AAC, 128 kbps como mínimo), con sonoridad homogénea entre pistas 
+(referencia orientativa: −16 LUFS integrados ±1 LU).
+6. Activación. Reproducción  automática  por  proximidad  al entrar  en  el radio  de  cada 
+punto, configurable desde el gestor de contenidos, reproducción manual y activación 
+desde el código QR de cada cartel. Disponible sin conexión tras la descarga de la ruta.
+7. Accesibilidad. Cada  pista  tendrá  su  transcripción  textual  íntegra,  accesible  en  la 
+aplicación y en la web. La navegación de la audioguía será compatible con los lectores 
+de pantalla de los sistemas operativos (TalkBack y VoiceOver o equivalentes).
+8. Voz sintética complementaria. La lectura en voz de las fichas (cláusula 5.2) usará voz en 
+español disponible sin conexión. Como la calidad depende del motor de síntesis de cada 
+teléfono, el contratista verificará su funcionamiento en dispositivos Android e iOS de 
+gama  media  (cláusula  6.5)  e  indicará  en  la  aplicación  cómo  instalar  la  voz  si  el 
+dispositivo no la tiene.
+5.4. Prestación C: sitio web de la red de rutas
+Requisito Especificación mínima
+Dominio Subdominio del dominio municipal o dominio propio, en 
+todo caso a nombre del Ayuntamiento. El Ayuntamiento 
+comunicará al contratista el dominio que se utilizará en 
+la reunión de inicio, tras la adjudicación
+Diseño Adaptable a móvil, tableta y escritorio. Compatible con 
+las dos últimas versiones principales de los navegadores 
+de uso mayoritario
+Visor web público de rutas Visor web integrado en la web pública del proyecto con 
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: 9X74WMYWG6LLL9Y5HE9JX2D5T 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 8 de 18 
+
+--- página 9 ---
+Ayuntamiento de Corullón
+Requisito Especificación mínima
+toda la información de la aplicación: catálogo y fichas 
+de ruta, cartografía servida por el servidor de mapas 
+(cláusula  5.7),  puntos  de  interés,  audioguías  con  sus 
+transcripciones y avisos. Se alimenta del mismo gestor 
+de contenidos que la aplicación, de forma que app y web 
+muestren siempre los mismos contenidos
+Contenidos Presentación de la red de rutas, catálogo y fichas de ruta 
+con  mapa  interactivo,  descarga  de  GPX,  puntos  de 
+interés,  audioguía  con  transcripciones,  vídeos,  enlaces 
+de descarga de la aplicación, agenda de rutas guiadas 
+(acción A5), productores y recursos locales, y publicidad 
+de la financiación
+Páginas de destino de los QR Una  dirección  web  persistente  por  cada  código  QR, 
+alojada en el dominio que indique el Ayuntamiento y sin 
+acortadores de terceros. 29 códigos QR, uno por cada 
+elemento  interpretativo  de  la  señalización  (1  señal  de 
+inicio B1, 3 mesas interpretativas y 25 señales B2). Las 
+señales direccionales B4 y las balizas no llevan código 
+QR. Desde  el gestor  puede cambiarse  el contenido  sin 
+cambiar la dirección. Las direcciones serán las que fije el 
+Ayuntamiento para su impresión en la señalización de la 
+acción A3, y el contratista las publicará sin modificarlas
+Gestor de contenidos El de la cláusula 5.1. Aplicación web de código abierto, 
+sin  costes  de  licencia  para  el  Ayuntamiento  (cláusula 
+5.7)
+Seguridad HTTPS  en  todo  el  sitio,  actualizaciones  de  seguridad 
+durante el contrato, copias de seguridad diarias con una 
+retención mínima de 30 días
+Textos legales Aviso  legal,  política  de  privacidad,  política  de  cookies 
+con sistema de gestión del consentimiento, declaración 
+de accesibilidad y mecanismo de comunicación y queja 
+del Real Decreto 1112/2018.  El Ayuntamiento validará 
+los textos
+Analítica Herramienta de medición de visitas conforme al RGPD y 
+la LSSI, con informes exportables de visitas, páginas y 
+lecturas de QR
+Posicionamiento Etiquetas semánticas, metadatos, mapa del sitio y URL 
+amigables
+Rendimiento Tiempo de carga de la portada inferior a 3 segundos en 
+conexión móvil 4G simulada
+5.5. Prestación D: producción audiovisual
+Pieza Unidades Duración Finalidad
+Spot corto 1 20 a 30 segundos Montaje del material grabado 
+para los vídeos QR. Difusión en 
+redes sociales y pantallas
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: 9X74WMYWG6LLL9Y5HE9JX2D5T 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 9 de 18 
+
+--- página 10 ---
+Ayuntamiento de Corullón
+Pieza Unidades Duración Finalidad
+Vídeo 
+promocional
+1 2 a 4 minutos Montaje del material grabado 
+y  de  archivo  que  presenta  la 
+red  de  rutas  y  sus  sistemas 
+agroforestales
+Vídeos 
+vinculados  a 
+QR
+8: uno para la señal de 
+inicio B1, uno para cada 
+mesa  interpretativa  y 
+uno para cada una de las 
+4 señales B2 que designe 
+el  responsable  del 
+contrato
+1 a 2 minutos Documentación audiovisual de 
+cada punto señalizado
+Requisitos técnicos mínimos:
+1. Estructura de los vídeos vinculados a QR. Cada vídeo seguirá esta escaleta: a) cabecera 
+con la identidad gráfica de la acción A3, de 5 segundos como máximo; b) plano general 
+que sitúe el punto en el paisaje; c) planos de detalle del elemento señalizado; d) rótulos 
+con los datos del cartel de la A3.3; e) testimonio grabado en el lugar, cuando el punto lo 
+tenga asignado; f) locución sobre el guion aprobado; y g) cierre con los elementos de 
+publicidad de la financiación.
+2. Estructura del spot. Cabecera, secuencia de planos de la ruta seleccionados del material 
+grabado, rótulo con el nombre de la red de rutas y llamada a descargar la aplicación y 
+visitar la web, y cierre con los elementos de publicidad de la financiación.
+3. Estructura del vídeo promocional. Cabecera; presentación de la red de rutas sobre la 
+cartografía de la acción A1; un bloque por cada sistema agroforestal (castaño, cerezo y 
+viñedo)  y otro  de  patrimonio  cultural,  con  planos  grabados  o de  archivo,  rótulos  y 
+locución sobre un guion adaptado de los contenidos de las acciones A1 y A3.3; uno o 
+varios  testimonios; llamada a la aplicación y la web; y cierre con los elementos de 
+publicidad de la financiación.
+4. Alcance de la intervención del contratista. El contratista graba, monta y postproduce las 
+piezas  conforme  a  estas  estructuras.  No  crea  conceptos,  argumentos,  personajes, 
+eslóganes ni marcas.
+5. Guion de locución y lista de planos de cada pieza, conforme a las estructuras anteriores, 
+aprobados por el responsable del contrato antes del rodaje.
+6. Rodaje en el término municipal de Corullón. El contratista rodará recorriendo las rutas 
+y los puntos de interés, dentro del trabajo de campo de la cláusula 5.1.9. Como el plazo 
+de  ejecución  termina  el  29  de  diciembre  de  2026,  el  ciclo  estacional  de  los  cultivos 
+(floración y recogida de la cereza, vendimia y recogida de la castaña) podrá mostrarse 
+con imágenes de archivo que facilite el Ayuntamiento o con imágenes de bancos con 
+licencia de uso público indefinido.
+7. Resolución y formato. Captación en resolución mínima 3840 × 2160 píxeles. Entrega en 
+1920 × 1080 píxeles como mínimo, a 25 imágenes por segundo, en H.264 o H.265 (MP4). 
+El spot se entregará también en formato vertical 9:16 y cuadrado 1:1.
+8. Sonido. Locución,  sonido  ambiente  y  música  con  mezcla  equilibrada.  La  música 
+procederá de bancos de música con licencia que permita su uso público indefinido y en 
+cualquier  medio  por  el  Ayuntamiento.  No  se  utilizará  música  compuesta  para  el 
+contrato.
+9. Accesibilidad. Subtítulos en castellano conforme a la norma UNE 153010 o equivalente, 
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: 9X74WMYWG6LLL9Y5HE9JX2D5T 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 10 de 18 
+
+--- página 11 ---
+Ayuntamiento de Corullón
+en  archivo  independiente (SRT o WebVTT) y quemados  en las versiones  para redes 
+sociales.  Audiodescripción  conforme  a  la  norma  UNE  153020  o  equivalente,  o  una 
+versión alternativa en texto, cuando la información visual relevante no se transmita por 
+el audio.
+10. Grabaciones  aéreas. Si  se  usan  aeronaves  no  tripuladas,  el  contratista  cumplirá  la 
+normativa de la cláusula 4 y obtendrá a su cargo las autorizaciones necesarias.
+11. Derechos de imagen. Por cada persona identificable, el contratista recabará y entregará 
+al Ayuntamiento  la autorización  de uso de imagen y voz  por escrito. Si se trata de 
+menores de edad, la autorización la firmarán sus representantes legales.
+12. Entrega. Archivos finales, versiones adaptadas, subtítulos, música con sus licencias y 
+una selección de brutos y fotogramas que indique el responsable del contrato.
+5.6. Prestación E: plan de comunicación de la red de rutas
+El plan de comunicación es un documento operativo que programa la difusión del material 
+producido  en  el  propio  contrato  (aplicación,  web,  audioguía  y  vídeos)  y  de  los  contenidos 
+facilitados por el Ayuntamiento. No requiere estudios de mercado, diagnósticos ni investigación, 
+ni la creación  de mensajes, marcas, eslóganes o piezas nuevas.  Tendrá exclusivamente este 
+contenido:
+1. Destinatarios: los identificados en la memoria del proyecto (población local, visitantes, 
+centros educativos, sector turístico y productores).
+2. Canales:  los  que  fija  el Ayuntamiento  (web  y  redes  sociales  municipales,  oficinas  y 
+puntos de información turística, y medios de comunicación locales y comarcales), y la 
+coordinación con la programación de rutas guiadas de la acción A5.
+3. Calendario de publicaciones para los 12 meses siguientes a la puesta en funcionamiento, 
+que asigne a cada canal las piezas ya producidas (spot, vídeo promocional, vídeos de los 
+QR y enlaces a la aplicación y a la web).
+4. Menciones obligatorias a la financiación de la subvención (art. 18 de la Ley 38/2003) y 
+pautas de uso del material producido.
+5. Seguimiento de los indicadores de la acción A4 ya definidos en la memoria del proyecto 
+(descargas  y  uso  de  la  aplicación,  lecturas  de  los  códigos  QR,  visitas  a  la  web  y 
+visualizaciones de los vídeos), con sus fuentes de datos y periodicidad.
+El contrato incluye la redacción del plan, no su ejecución. No incluye campañas de pago ni la 
+ejecución de las publicaciones, que corresponderá al Ayuntamiento.
+5.7. Arquitectura técnica y tecnologías de referencia
+La solución se desarrollará sobre una arquitectura de código abierto basada en estándares abiertos. 
+Así el Ayuntamiento conserva la titularidad del desarrollo, evita costes de licencias y puede reutilizar 
+el sistema (art. 157 de la Ley 40/2015). Las tecnologías se citan como referencia, con la mención «o 
+equivalente» (art. 126.6 LCSP), para no restringir la concurrencia.
+Componente Requisito Tecnología de referencia
+App móvil Código  único  para  Android  e  iOS, 
+compilado a nativo
+Flutter o equivalente
+Base  de  datos  en  el 
+móvil
+Base  de  datos  local  embebida  para  el 
+funcionamiento  sin  conexión  y  la 
+sincronización con el gestor de contenidos
+SQLite o equivalente
+Mapas sin conexión Librería de cartografía de código abierto flutter_map o equivalente
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: 9X74WMYWG6LLL9Y5HE9JX2D5T 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 11 de 18 
+
+--- página 12 ---
+Ayuntamiento de Corullón
+Componente Requisito Tecnología de referencia
+con teselas almacenadas en el dispositivo
+Voz de las fichas Síntesis  de  voz  en  el  dispositivo  (TTS), 
+operativa sin conexión
+flutter_tts o equivalente
+Gestor de contenidos Aplicación web de código abierto PHP  con  framework 
+Laravel o equivalente
+Servidor de mapas Publicación de la cartografía para la app 
+y la web mediante servicios estándar OGC 
+(WMS, WMTS, WFS)
+GeoServer o equivalente
+Base  de  datos 
+espacial
+Gestor de base de datos de código abierto 
+con soporte geoespacial
+PostgreSQL  con  extensión 
+PostGIS o equivalente
+Versión web pública Visor  web  adaptable  a  cualquier 
+dispositivo, con la cartografía servida por 
+el  servidor  de  mapas  y  las  audioguías, 
+conectado al gestor de contenidos
+Laravel  y  GeoServer  o 
+equivalentes
+Equivalencia. El contratista que proponga una tecnología distinta de la de referencia deberá 
+justificar en el plan de trabajo (cláusula 6.3) que cumple las mismas funciones, con licencia de 
+código abierto y con los mismos estándares, y el responsable del contrato deberá aceptarla 
+antes de iniciar el desarrollo. Esta justificación no forma parte de la oferta ni es objeto de 
+valoración.
+Publicación en tiendas. La publicación de la aplicación en Google Play y App Store, a nombre 
+del Ayuntamiento, es obligatoria y condición para la recepción del contrato (cláusula 8.1).
+Calidad de la voz. La síntesis de voz depende del motor instalado en cada teléfono. Se exige voz 
+en español disponible sin conexión y pruebas en dispositivos Android e iOS de gama media 
+(cláusula 6.5).
+Cláusula 6. Condiciones de ejecución técnica
+6.1. Medios para la ejecución. Durante la ejecución, el contratista debe cubrir las funciones de la 
+tabla  siguiente.  Estas  funciones  son  obligaciones  de  ejecución,  no  requisitos  de  solvencia  ni  de 
+admisión:  los  licitadores  están  exentos  de  acreditar  solvencia  (art.  159.6.b  LCSP).  Una  misma 
+persona puede desempeñar varias funciones. No se exige titulación ni experiencia mínima.
+Función Cometido
+Dirección del proyecto Interlocutor  único  con  el  responsable  del  contrato. 
+Planifica y coordina todas las prestaciones
+Desarrollo de aplicaciones Aplicación Android e iOS y su publicación
+Desarrollo web y bases de datos Web y visor web, gestor de contenidos, base de datos 
+espacial, servidor de mapas y alojamiento
+Diseño UI/UX y gráfico Interfaz,  experiencia  de  usuario,  aplicación  de  la 
+identidad gráfica de la acción A3 y piezas visuales
+Adaptación de contenidos y guiones Adaptación de los textos de la aplicación y la web y 
+de los guiones de la audioguía y de los vídeos a partir 
+de los contenidos de las acciones A1 a A3
+Locución Narración de la audioguía y de los vídeos
+Producción audiovisual Rodaje, sonido, montaje, postproducción, subtitulado 
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: 9X74WMYWG6LLL9Y5HE9JX2D5T 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 12 de 18 
+
+--- página 13 ---
+Ayuntamiento de Corullón
+Función Cometido
+y audiodescripción
+Trabajo de campo y fotografía Recorrido  de  las  rutas,  verificación  de  trazados, 
+fotografía y recopilación de información en Corullón 
+(cláusula 5.1.9)
+Comunicación y marketing digital Redacción del plan de comunicación y analítica
+El  contratista  aportará  a  su  cargo  los  equipos  informáticos,  el software  de  desarrollo,  los 
+equipos de grabación y la infraestructura de alojamiento necesarios.
+6.2. Alojamiento. La web y el visor web, el gestor de contenidos, la base de datos, el servidor de 
+mapas y los archivos multimedia se alojarán en una cuenta de titularidad del Ayuntamiento en 
+un  proveedor  con  servidores  en  el  Espacio  Económico  Europeo  y  conformidad  con  el  ENS 
+(cláusula 10). El contratista tramitará el alta de la cuenta en nombre del Ayuntamiento, con el 
+procedimiento de la cláusula 7.5, y la administrará con un usuario delegado. El Ayuntamiento 
+conservará siempre el usuario propietario. Las copias de seguridad se guardarán dentro de la 
+misma cuenta. El contratista no podrá borrar recursos ni copias ni cambiar el titular. El coste 
+del alojamiento hasta el 31 de diciembre de 2026 está incluido en el precio y lo abonará el 
+contratista. En la entrega final (hito H6), el contratista entregará un documento de traspaso 
+con la configuración, los recursos contratados y su coste mensual estimado, y conservará solo el 
+acceso necesario para corregir defectos durante el plazo de garantía (cláusula 11).
+6.3. Metodología. La ejecución se organizará en estas fases:
+1. Reunión  de  inicio el  día  hábil  siguiente  a  la  formalización,  de  forma  presencial  en 
+dependencias  municipales  de  Corullón.  En  ella  el  Ayuntamiento  entregará  los 
+contenidos de partida.
+2. Plan  de  trabajo en  los  2  días  hábiles  siguientes  a  la  reunión  de  inicio.  Incluirá  el 
+cronograma,  los  entregables,  la  arquitectura  técnica,  la  aplicación  de  la  identidad 
+gráfica de la acción A3 y el calendario de rodaje.
+3. Diseño. Prototipo navegable de la aplicación y de la web, guiones de la audioguía y de 
+los vídeos, con la identidad gráfica de la acción A3 aplicada. Requieren validación del 
+responsable del contrato.
+4. Producción. Desarrollo, carga de contenidos, grabaciones y montaje.
+5. Pruebas. Pruebas funcionales, de accesibilidad y de rendimiento. Prueba de campo en la 
+ruta «Sabores e Historia de Corullón» con el personal municipal, que incluirá los tramos 
+sin cobertura.
+6. Puesta en producción y publicación en las tiendas de aplicaciones.
+7. Entrega final de la documentación de la cláusula 8.
+Trabajo en paralelo. Dado el plazo, las fases 3 a 5 se ejecutarán en paralelo para las distintas 
+prestaciones. El plan de trabajo asignará equipos diferenciados a la aplicación y la web, a la 
+audioguía y a la producción audiovisual, de modo que el retraso de una prestación no paralice 
+las demás.
+6.4.  Seguimiento. El  contratista  celebrará  reuniones  de  seguimiento  con  el  responsable  del 
+contrato al menos dos veces por semana y levantará acta de ellas. El seguimiento ordinario 
+podrá realizarse  por videoconferencia. El responsable  del contrato  podrá convocar  hasta 2 
+reuniones  presenciales  de  seguimiento  en  dependencias  municipales  de  Corullón,  con  una 
+antelación  mínima  de  2  días  hábiles,  cuando  así  lo  requiera  la  comprobación  de  las 
+prestaciones.  El  responsable  del  contrato  dispondrá  de  2  días  hábiles  para  validar  cada 
+entregable o formular observaciones. Si no se pronuncia en ese plazo, el entregable se entenderá 
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: 9X74WMYWG6LLL9Y5HE9JX2D5T 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 13 de 18 
+
+--- página 14 ---
+Ayuntamiento de Corullón
+validado.  El tiempo de  validación  no  computa  como  demora  del contratista.  El contratista 
+corregirá las observaciones en el plazo que se le fije.
+Presencialidad. La  presencia  del  contratista  en  Corullón  se  exige  únicamente  para  las 
+actuaciones  que,  por  su  naturaleza,  deben  realizarse  en  el  lugar:  a)  la  reunión  de  inicio 
+(cláusula  6.3);  b)  las  gestiones  de  alta  de  las  cuentas  de  desarrollador,  del  dominio  y  del 
+alojamiento en las que deba intervenir el representante del Ayuntamiento (cláusulas 6.2 y 7.5); 
+c) el recorrido de las rutas, los rodajes y la grabación de testimonios (cláusulas 5.1.9 y 5.5); d) la 
+validación de los hitos H4 y H6, con la comprobación en dispositivos reales y sobre el terreno 
+del funcionamiento sin conexión, la geolocalización, los códigos QR y la audioguía, y la prueba 
+de  campo  (cláusula  7.2);  e)  la  sesión  de  formación;  f)  la  verificación  previa  y  el  acto  de 
+recepción  (cláusula  8);  y  g)  las  reuniones  presenciales  de  seguimiento  que  convoque  el 
+responsable  del  contrato  conforme  a  la  cláusula  6.4.  A  ellas  asistirá  personalmente  el 
+interlocutor único y, cuando sea necesario, el personal técnico responsable de cada prestación. 
+Estas actuaciones no tienen por objeto la elaboración conjunta de propuestas, estudios ni el 
+asesoramiento  al  Ayuntamiento,  sino  la  ejecución  de  tareas  materiales  y  la  comprobación 
+objetiva de las prestaciones conforme a los requisitos cerrados de la cláusula 5. Su número y su 
+finalidad se conocen antes de ofertar, su coste está incluido en el precio y no se exige domicilio, 
+oficina  ni  proximidad  del  contratista.  Se  justifica  porque  el  Ayuntamiento  no  dispone  de 
+personal  técnico  que  pueda  validar  a  distancia  entregables  de  software  y  porque  las 
+comprobaciones  de  funcionamiento  en  las  rutas  solo  pueden  hacerse  sobre  el  terreno.  Las 
+comunicaciones y notificaciones formales, la firma de documentos y la presentación de facturas 
+se realizarán por medios electrónicos.
+6.5. Control de calidad. El contratista aplicará control de versiones al código fuente. Realizará 
+pruebas en al menos tres dispositivos Android y dos iOS de distintas gamas, incluida la gama 
+media,  que  verifiquen  el  funcionamiento  sin  conexión  y  la  voz  en  español  sin  conexión,  y 
+mantendrá un registro de incidencias accesible al responsable del contrato.
+Cláusula 7. Plazo, lugar y forma de ejecución
+7.1. Plazo total. Desde la formalización del contrato hasta el 29 de diciembre de 2026, o la fecha 
+anterior ofertada en el criterio 2 del PCAP. En esa fecha todas las prestaciones deben estar 
+ejecutadas, entregadas y en funcionamiento: la aplicación publicada en las tiendas, la web en 
+producción, la audioguía y los vídeos accesibles desde los códigos QR, y la documentación final 
+entregada. La recepción se realizará no más tarde del 30 de diciembre de 2026, dentro del plazo 
+de ejecución de la subvención, que termina el 31 de diciembre de 2026 y no admite ampliación.
+7.2. Hitos. Los plazos parciales son obligatorios y máximos:
+Hito Entregable Plazo máximo
+H1 Plan de trabajo 2  días  hábiles  desde  la  reunión  de 
+inicio
+H2 Plan de comunicación (prestación E) 4 días hábiles desde la formalización
+H3 Prototipos y guiones entregados para validación 5 días hábiles desde la formalización
+H4 Versión completa de la aplicación instalable para 
+pruebas en Android e iOS, audioguía cargada y 
+web en preproducción
+21 de diciembre de 2026
+H5 Vídeos finales (prestación D) 23 de diciembre de 2026
+H6 Publicación y documentación final 29 de diciembre de 2026, o la fecha 
+anterior ofertada en el criterio 2 del 
+PCAP,  con  la  prueba  de  campo 
+superada
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: 9X74WMYWG6LLL9Y5HE9JX2D5T 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 14 de 18 
+
+--- página 15 ---
+Ayuntamiento de Corullón
+Versión de prueba y envío a las tiendas. El hito H4 se cumple cuando el contratista entrega al 
+responsable  del  contrato  la  versión  completa  de  la  aplicación  instalable  para  pruebas:  en 
+Android, el archivo de instalación o un enlace de prueba interna; en iOS, un enlace de TestFlight 
+u  otro  medio  de  distribución  de  pruebas,  para  lo  que  podrá  usar  su  propia  cuenta  de 
+desarrollador. Con independencia del hito H4, el contratista enviará la aplicación a revisión en 
+Google Play y App Store en los 2 días hábiles siguientes a que las cuentas del Ayuntamiento 
+estén operativas y, en todo caso, no después del 21 de diciembre de 2026 o de la fecha a la que se 
+desplace el hito H4, salvo lo previsto en la cláusula 7.5 para los retrasos de verificación de las 
+cuentas.
+Si la fecha ofertada para el hito H6 es anterior a la de alguno de los hitos H3 a H5, la fecha 
+máxima de estos pasará a ser la ofertada. Si la formalización se produce después del 11 de 
+diciembre de 2026 por causa no imputable al contratista, los hitos H4 y H5 se desplazarán el 
+mismo número de días hábiles, sin superar la fecha del hito H6.
+7.3. Lugar. Los trabajos de gabinete se realizarán en las instalaciones del contratista. El trabajo 
+de campo (rodajes, grabación de testimonios y pruebas) se realizará en el término municipal de 
+Corullón.  Las  actuaciones  presenciales  de  la  cláusula  6.4  tendrán  lugar  en  dependencias 
+municipales de Corullón o, cuando corresponda, en las propias rutas.
+7.4. Forma de entrega. Los entregables se entregarán en formato electrónico, mediante el medio 
+que indique el responsable del contrato.
+7.5.  Gestiones  de  puesta  en  marcha. Como  el Ayuntamiento  no dispone  de  medios  técnicos 
+propios,  las  gestiones  necesarias  para  poner  en  marcha  los  servicios  corresponden  al 
+contratista, con estas reglas:
+ En los 2 días hábiles siguientes a la formalización, el contratista tramitará en nombre y 
+por cuenta del Ayuntamiento el alta de las cuentas de desarrollador de Google Play y 
+App Store  como administración  pública, del dominio o subdominio de la web, de la 
+cuenta  de  alojamiento  (cláusula  6.2)  y  de  los  servicios  de  terceros.  Preparará  los 
+formularios y la documentación, solicitará en su caso la exención de la cuota de Apple 
+para  administraciones  públicas  y  acompañará  a  la  persona  que  designe  el 
+Ayuntamiento en cada paso. Apple no exige el número D-U-N-S a las administraciones y 
+Google permite verificarlas sin él a través de su soporte.
+ Las cuentas y el dominio quedarán siempre a nombre del Ayuntamiento, y el contratista 
+actuará como usuario autorizado (cláusula 5.1.7). Hasta el 31 de diciembre de 2026, el 
+contratista abonará, dentro del precio del contrato, las cuotas de alta que no queden 
+exentas, el dominio y los certificados de seguridad.
+ La intervención del Ayuntamiento se limitará a lo que solo él puede hacer: que una 
+persona con capacidad para obligarle (la alcaldía o la persona en quien delegue) acepte 
+las condiciones de las tiendas, facilite una dirección de correo del dominio municipal y 
+un teléfono para la verificación, y firme la documentación que se le presente.
+ Si Google  o Apple  tardan  en verificar las cuentas,  ese retraso  no será imputable  al 
+contratista en lo que se refiere al envío y la publicación en las tiendas, cuando haya 
+presentado las solicitudes completas dentro del plazo de este apartado. Este retraso no 
+afecta al hito H4, que depende solo del contratista. El contratista avisará de inmediato 
+al responsable del contrato de cualquier requerimiento de las tiendas.
+ Del  mismo  modo,  el  tiempo  que  Google  o  Apple  empleen  en  revisar  y  aprobar  la 
+aplicación no será imputable al contratista, siempre que la haya enviado a revisión en el 
+plazo de la cláusula 7.2, con toda la información que exijan las tiendas y cumpliendo sus 
+normas,  y  atienda  sus  requerimientos  en  el  mismo  día  hábil.  Si  por  esa  causa  la 
+aplicación no está publicada en la fecha del hito H6, no se impondrá penalidad por 
+demora por la publicación, y el resto del hito H6 (documentación  final y prueba de 
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: 9X74WMYWG6LLL9Y5HE9JX2D5T 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 15 de 18 
+
+--- página 16 ---
+Ayuntamiento de Corullón
+campo con la versión de prueba) seguirá siendo exigible en su fecha. Los rechazos de las 
+tiendas debidos al incumplimiento de sus normas sí son imputables al contratista.
+ El Ayuntamiento entregará en la reunión de inicio los entregables de las acciones A1, A2 
+y  A3  tal  como  los  recibió  de  sus  adjudicatarios,  junto  con  las  imágenes de  archivo 
+disponibles. Su tratamiento y adaptación, y la recopilación en campo de la información 
+que falte (cláusula 5.1.9), corresponden al contratista.
+ El Ayuntamiento designará antes de la formalización al responsable del contrato, que 
+validará los entregables en 2 días hábiles (cláusula 6.4). Puede ser personal municipal, 
+personal de la Diputación Provincial o una persona externa (art. 62.1 LCSP).
+7.6. Medios desde el inicio. El contratista adscribirá desde el día de la reunión de inicio los 
+medios personales y materiales necesarios para cumplir los hitos de la cláusula 7.2, incluido el 
+24 de diciembre si fuese necesario. Este compromiso se asume con la declaración responsable de 
+la oferta.
+Cláusula 8. Verificación, recepción y documentación técnica
+8.1. Verificación. Antes de la recepción, el responsable del contrato comprobará:
+ ☐ Que se cumplen todos los requisitos mínimos de la cláusula 5, mediante una lista de 
+comprobación firmada por ambas partes.
+ ☐ Que  la  aplicación  está  publicada  y  operativa  en  las  tiendas  a  nombre  del 
+Ayuntamiento.
+ ☐ Que la web está en producción en el dominio indicado por el Ayuntamiento.
+ ☐ Que todos los QR resuelven a su página de destino.
+ ☐ Que el informe de revisión de accesibilidad no presenta incumplimientos de nivel AA 
+pendientes.
+ ☐ Que la prueba de campo en la ruta se ha superado, incluido el funcionamiento sin 
+conexión.
+ ☐ Que la versión web pública muestra los mismos contenidos que la aplicación y que los 
+cambios hechos en el gestor se reflejan en ambas.
+ ☐ Que el módulo de inventario e incidencias registra en campo, sin conexión, fotografía 
+y posición, y que las incidencias llegan al gestor.
+ ☐ Que los datos se exportan en formatos abiertos y la cartografía se sirve mediante 
+servicios OGC.
+8.2. Documentación que debe entregarse.
+1. Código fuente completo y comentado de la aplicación, la web y el gestor de contenidos, 
+con  sus  instrucciones  de  compilación  y  despliegue  y  la  relación  de  componentes  de 
+terceros con sus licencias, todas ellas de código abierto o sin coste para el Ayuntamiento.
+2. Credenciales de administración de todas las cuentas, servicios, dominios y certificados.
+3. Copia exportada de la base de datos y de todos los contenidos multimedia en formatos 
+abiertos (volcado SQL de PostgreSQL/PostGIS o equivalente, GeoJSON, GPX y CSV).
+4. Documentación  técnica:  arquitectura,  modelo  de  datos,  interfaces  de  programación 
+(API) y plan de copias de seguridad.
+5. Manual de usuario del gestor de contenidos.
+6. Sesión de formación práctica presencial en Corullón, de al menos 2 horas y antes de la 
+entrega final (hito H6), para las personas que designe el Ayuntamiento, sobre el uso del 
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: 9X74WMYWG6LLL9Y5HE9JX2D5T 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 16 de 18 
+
+--- página 17 ---
+Ayuntamiento de Corullón
+gestor de contenidos: actualizar rutas y puntos de interés, publicar avisos y consultar 
+las estadísticas de uso.
+7. Informe de pruebas y de accesibilidad, y borrador de la declaración de accesibilidad.
+8. Archivos fuente editables de las piezas de diseño.
+9. Másteres de audio y vídeo, subtítulos, guiones definitivos y transcripciones.
+10. Autorizaciones de imagen y voz, y licencias de música y de recursos de terceros.
+11. Plan de comunicación en formato editable y en PDF.
+12. Relación de los códigos QR con su dirección de destino, y los archivos gráficos de los QR 
+en formato vectorial.
+13. Fotografías originales con su ubicación GPS e informe de trabajo de campo (cláusula 
+5.1.9).
+La recepción formal, sus plazos y efectos se rigen por el PCAP.
+Cláusula 9. Accesibilidad y consideraciones medioambientales y sociales
+9.1.  Accesibilidad. La  aplicación  y  la  web  cumplirán  la  norma  UNE-EN  301549  vigente  o 
+equivalente  (Real  Decreto  1112/2018).  El  contratista  entregará  un  informe  de  revisión  que 
+combine herramientas automáticas y revisión manual, con lectores de pantalla en Android, iOS 
+y  escritorio.  Los  vídeos  llevarán  subtítulos  y  audiodescripción  o  alternativa  textual,  y  la 
+audioguía llevará transcripciones (cláusulas 5.3 y 5.5). La información de rutas indicará los 
+tramos accesibles a personas con movilidad reducida que identifiquen las acciones A2 y A3.
+9.2. Medio ambiente. El diseño digital será eficiente: compresión de imágenes y vídeos, carga 
+diferida  y  ausencia  de  recursos  innecesarios.  Los  contenidos  incluirán  pautas  de 
+comportamiento  responsable  en  el  medio  natural  y  de  prevención  de  incendios  forestales. 
+Durante los rodajes se respetarán la vegetación, los cultivos y la fauna.
+9.3. Aspectos sociales. Los contenidos darán visibilidad a los productores y productoras locales 
+y a la Asociación Agroalimentaria de Corullón, previa conformidad de las personas y entidades 
+afectadas.
+Cláusula 10. Seguridad, prevención de riesgos laborales y protección de datos
+10.1. Seguridad de la información. Los sistemas que se entreguen y el alojamiento se ajustarán 
+al  Esquema  Nacional  de  Seguridad  en  la  categoría  BÁSICA.  El  proveedor  de  alojamiento 
+acreditará  la declaración  o  certificación  de  conformidad  con  el ENS antes de  la puesta  en 
+producción. Este requisito es una condición de ejecución, no de admisión.
+10.2. Protección de datos.
+ La  aplicación  no  exigirá  registro  y  recogerá  los  datos  mínimos  imprescindibles 
+(principio de minimización). La ubicación se tratará solo en el dispositivo, salvo que se 
+informe y se obtenga el consentimiento.
+ Las métricas serán agregadas y no permitirán identificar a las personas usuarias.
+ La comunicación de incidencias será anónima por defecto. Si el usuario aporta un dato 
+de  contacto  o  una  fotografía,  se  le  informará  del  tratamiento  (art.  13  RGPD).  Las 
+fotografías no deberán identificar a personas.
+ El tratamiento de las imágenes y voces de las personas grabadas y de los datos de la 
+analítica se hará por cuenta del Ayuntamiento. El contratista actuará como encargado 
+del tratamiento (art. 28 RGPD), según el PCAP.
+ Los servidores se ubicarán  en el Espacio Económico Europeo o en un territorio  con 
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: 9X74WMYWG6LLL9Y5HE9JX2D5T 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 17 de 18 
+
+--- página 18 ---
+Ayuntamiento de Corullón
+garantías adecuadas. Su ubicación se declarará según la disposición adicional vigésima 
+quinta LCSP.
+10.3. Prevención de riesgos laborales. El contratista cumplirá la Ley 31/1995 en los trabajos de 
+campo en zonas de montaña. Si coincide con personal municipal, se coordinará según el Real 
+Decreto  171/2004.  Antes  de  iniciar  los  rodajes  entregará  la  evaluación  de  riesgos  de  esos 
+trabajos.
+Cláusula 11. Garantía técnica
+Durante el plazo de garantía que fije el PCAP (como mínimo, tres años desde la recepción, 
+ampliados con los meses ofertados en el criterio 1), el contratista corregirá sin coste los defectos 
+de las prestaciones entregadas, aunque se manifiesten por primera vez durante ese plazo (arts. 
+210.3 y 311 LCSP). Se considera defecto:
+1. El  incumplimiento  de  lo  exigido  en  este  pliego,  en  la  oferta  adjudicataria  o  en  la 
+documentación aprobada.
+2. Los errores de funcionamiento de la aplicación, la web, el gestor de contenidos y la 
+audioguía, incluidas las vulnerabilidades de seguridad del código entregado.
+3. Los errores en los contenidos elaborados o cargados por el contratista, incluidos los 
+datos de las rutas (trazados, distancias, puntos de interés y textos), las pistas de audio, 
+los vídeos, las transcripciones y los subtítulos.
+4. Los incumplimientos de accesibilidad respecto de lo exigido en la recepción (cláusula 
+9.1).
+No forman parte de la garantía los fallos causados por terceros, por un uso indebido o por 
+modificaciones no realizadas por el contratista.
+Procedimiento. El Ayuntamiento comunicará el defecto por correo electrónico a la dirección que 
+designe el contratista en la formalización. El contratista lo corregirá, desde la comunicación, en 
+el plazo ofertado en el criterio 1 del PCAP, que no podrá superar 2 días hábiles si el defecto 
+impide el uso de la aplicación, la web o la audioguía, ni 10 días hábiles en los demás casos. Para 
+ello  accederá  al  alojamiento  municipal  con  el  usuario  delegado  de  la  cláusula  6.2.  El 
+incumplimiento de estos plazos tiene las consecuencias de las cláusulas 26.5 y 29.3 del PCAP.
+En Corullón, a fecha de la firma electrónica.
+DOCUMENTO FIRMADO ELECTRÓNICAMENTE
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: 9X74WMYWG6LLL9Y5HE9JX2D5T 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 18 de 18 

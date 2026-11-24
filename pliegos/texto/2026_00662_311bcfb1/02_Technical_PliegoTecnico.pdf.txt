@@ -1,0 +1,1065 @@
+
+
+--- página 1 ---
+ 
+TRIBUNAL CONSTITUCIONAL 
+ 
+ 
+ 
+ 
+ 
+Pliego de prescripciones técnicas para el servicio de 
+actualización, mantenimiento y soporte de la 
+Plataforma Port@firmas y @Firma Federado 
+ 
+ 
+Domenico Scarlatti, 6 E-28003 Madrid Tlf.:91 550 82 31 – Fax: 91 544 97 01  
+  
+Página 1 de 20  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+ 
+SERVICIO DE ACTUALIZACIÓN, MANTENIMIENTO Y SOPORTE DE LA PLATAFORMA PORT@FIRMAS Y 
+@FIRMA FEDERADO DEL TRIBUNAL CONSTITUCIONAL 
+ 
+
+--- página 2 ---
+ 
+TRIBUNAL CONSTITUCIONAL 
+ 
+ 
+ 
+ 
+ 
+Pliego de prescripciones técnicas para el servicio de 
+actualización, mantenimiento y soporte de la 
+Plataforma Port@firmas y @Firma Federado 
+ 
+ 
+Domenico Scarlatti, 6 E-28003 Madrid Tlf.:91 550 82 31 – Fax: 91 544 97 01  
+  
+Página 2 de 20  
+ 
+ ÍNDICE DE CONTENIDO 
+1. ANTECEDENTES ....................................................................................................................................... 4 
+2. CARACTERÍSTICAS TÉCNICAS DE LA SOLUCIÓN IMPLANTADA ............................................................. 4 
+3. OBJETO DEL CONTRATO ......................................................................................................................... 5 
+3.1. Soporte y Mantenimiento de Port@firmas y @Firma Federado ......................................................... 6 
+3.1.1. Servicio de Soporte ................................................................................................................................. 6 
+3.1.2. Servicio de consultoría y apoyo a la explotación .................................................................................. 7 
+3.1.3. Servicio de mantenimiento preventivo ................................................................................................. 7 
+3.1.4. Servicio de mantenimiento correctivo .................................................................................................. 8 
+3.1.5. Servicio de mantenimiento perfectivo .................................................................................................. 8 
+3.1.6. Servicio de mantenimiento adaptativo y actualización tecnológica .................................................... 8 
+3.2. Servicio de Mantenimiento Evolutivo Mediante Bolsa de Horas ......................................................... 9 
+4. REQUISITOS OBLIGATORIOS ................................................................................................................... 9 
+4.1. Fases del Servicio .................................................................................................................................. 10 
+4.1.1. Inicio del servicio................................................................................................................................... 10 
+4.1.2. Prestación del servicio .......................................................................................................................... 10 
+4.1.3. Finalización y transferencia del servicio .............................................................................................. 10 
+4.2. Acuerdos de Nivel de Servicio .............................................................................................................. 11 
+4.2.1. Tiempos máximos de respuesta y resolución ..................................................................................... 11 
+4.2.2. Entregas de informes de auditoría ...................................................................................................... 12 
+4.3. Personal Adscrito a la Ejecución del Contrato .................................................................................... 12 
+4.3.1. Sustitución de los medios personales .................................................................................................. 12 
+4.3.2. Reglas respecto del personal de la empresa contratista .................................................................... 13 
+4.4. Certificaciones ....................................................................................................................................... 14 
+4.5. Plataforma Tecnológica ........................................................................................................................ 14 
+4.6. Calidad de los Desarrollos y Productos Entregados ............................................................................ 14 
+
+--- página 3 ---
+ 
+TRIBUNAL CONSTITUCIONAL 
+ 
+ 
+ 
+ 
+ 
+Pliego de prescripciones técnicas para el servicio de 
+actualización, mantenimiento y soporte de la 
+Plataforma Port@firmas y @Firma Federado 
+ 
+ 
+Domenico Scarlatti, 6 E-28003 Madrid Tlf.:91 550 82 31 – Fax: 91 544 97 01  
+  
+Página 3 de 20  
+ 
+4.7. Lugar y Horario de Prestación del Servicio .......................................................................................... 15 
+4.8. Actividades Formativas ......................................................................................................................... 15 
+4.9. Obligaciones de Información y Documentación ................................................................................. 15 
+5. ACREDITACIÓN DE REQUISITOS TÉCNICOS ......................................................................................... 15 
+6. VALORACIÓN DE OFERTAS ................................................................................................................... 16 
+6.1. Criterios Objetivos de Adjudicación ..................................................................................................... 17 
+6.2. Criterios de Adjudicación Sujetos a Juicio de Valor ............................................................................ 18 
+7. DURACIÓN DEL CONTRATO .................................................................................................................. 18 
+8. GARANTÍA .............................................................................................................................................. 18 
+9. FACTURACIÓN ....................................................................................................................................... 19 
+10. SEGUIMIENTO DE EJECUCIÓN DEL CONTRATO ................................................................................... 19 
+11. DILIGENCIA EXIGIBLE ............................................................................................................................ 19 
+12. DERECHOS DE USO ............................................................................................................................... 19 
+13. SEGURIDAD Y CONFIDENCIALIDAD ...................................................................................................... 19 
+ 
+ 
+
+--- página 4 ---
+ 
+TRIBUNAL CONSTITUCIONAL 
+ 
+ 
+ 
+ 
+ 
+Pliego de prescripciones técnicas para el servicio de 
+actualización, mantenimiento y soporte de la 
+Plataforma Port@firmas y @Firma Federado 
+ 
+ 
+Domenico Scarlatti, 6 E-28003 Madrid Tlf.:91 550 82 31 – Fax: 91 544 97 01  
+  
+Página 4 de 20  
+ 
+1. ANTECEDENTES 
+El Tribunal Constitucional (en adelante, Tribunal o TC) utiliza desde el año 2011 la plataforma de código abierto 
+Port@firmas como solución para incorporar la firma electrónica de documentos en los flujos de trabajo de la 
+organización consiguiendo de este modo una reducción en el uso de papel en su tendencia hacia procesos con “papel 
+cero”. 
+La validación de certificados electrónicos se realiza mediante la solución de @Firma Local/Federada, utilizando como 
+alternativa de respaldo la conexión a los servicios de @Firma de Red SARA.  
+El Port@firmas se integra con las siguientes aplicaciones del Tribunal:  
+▪ Gestión económica: Firma de documentos de tramitación de expedientes de gasto. Firma de documentos 
+contables electrónicos (TELCON). Firma de los envíos de órdenes de pago al Banco de España. 
+▪ Gestión de personal: Firma de diferentes documentos tales como solicitudes de vacaciones y permisos, cambio 
+de datos personales, ayudas sociales, … 
+▪ Herramientas de Letrados: Firma de notas de admisión, borradores de resolución, otros informes, así como 
+resúmenes mensuales y otros documentos relacionados con la actividad del colectivo de Letrados. 
+▪ Tramitación Jurisdiccional: Firma de providencias y resoluciones jurisdiccionales.  
+▪ Orden del Día: Convocatorias de reunión de los órganos.  
+▪ ATRIO: Portal web corporativo 
+El contrato actual para el mantenimiento y soporte de Port@firmas y @Firma Federada está próximo a la finalización 
+de su plazo máximo de vigencia, finalizando el 31 de diciembre de 2026, resultando necesario tramitar una nueva 
+contratación que asegure la continuidad del soporte, mantenimiento y actualización de la plataforma Port@firmas 
+y @Firma Federado durante los próximos ejercicios, estableciendo una duración inicial de dos años y la posibilidad 
+de dos prórrogas anuales de un año cada una, para garantizar la correcta operatividad de la solución. 
+2. CARACTERÍSTICAS TÉCNICAS DE LA SOLUCIÓN IMPLANTADA 
+El Tribunal utiliza para la firma electrónica de documentos el Port@firmas Electrónico, dentro del que se enmarcan 
+las aplicaciones Port@firmas y Verifirm@ que siguen licencias EUPL, licencia de fuentes abiertas para 
+administraciones públicas.  
+Soluciones implantadas en el Tribunal Constitucional: 
+▪ Port@firmas: portafirmas electrónico basado en la plataforma de firma electrónica @Firma. Esta solución 
+permite firma en cascada o en paralelo, con orden definido o sin orden, firma en trámite y visto bueno, con 
+certificado en local o en la nube, y proporciona APIs y servicios para la posible integración con terceras 
+aplicaciones. 
+▪ Verifirm@: herramienta de verificación de firmas electrónicas que permite la validación de las firmas realizadas 
+con Port@firmas. 
+▪ @Firma: plataforma de firma electrónica de la Administración Pública, disponible a través de Red SARA y 
+mediante la instancia local/federada del Tribunal, permite la interconexión de las administraciones públicas de 
+una manera fiable, segura, capaz y flexible. La versión será la vigente en el Tribunal al inicio y durante la 
+ejecución del contrato, debiendo el adjudicatario dar soporte a sus actualizaciones y a los formatos de firma 
+utilizados, entre ellos XAdES y PAdES.  
+El Port@firmas v3 ha sido adaptado en el Tribunal Constitucional al sistema gestor de base de datos relacional 
+Microsoft SQL Server y está integrado con las siguientes aplicaciones corporativas desarrolladas en distintas 
+tecnologías y con productos de terceros que consumen los servicios de firma:  
+▪ Gestión Económica: Desarrollada en Java con motor de tramitación Gotta.  
+
+--- página 5 ---
+ 
+TRIBUNAL CONSTITUCIONAL 
+ 
+ 
+ 
+ 
+ 
+Pliego de prescripciones técnicas para el servicio de 
+actualización, mantenimiento y soporte de la 
+Plataforma Port@firmas y @Firma Federado 
+ 
+ 
+Domenico Scarlatti, 6 E-28003 Madrid Tlf.:91 550 82 31 – Fax: 91 544 97 01  
+  
+Página 5 de 20  
+ 
+▪ Gestión de RRHH: Producto propietario de Grupo Castilla (Gd-Epsilon).  
+▪ Aplicaciones Jurisdiccionales: Desarrolladas en .NET.  
+La validación de certificados electrónicos se realiza mediante la solución de @Firma Local v6 con Microsoft SQL 
+Server, utilizando como alternativa de respaldo la conexión a los servicios de @Firma a través de Red SARA.  
+Tras la evolución realizada desde finales de 2024, la mayoría de las aplicaciones integradas utilizan firma PAdES, 
+manteniéndose aquellos escenarios en los que resulte necesario el uso de XAdES u otros formatos soportados. El 
+servicio deberá preservar la interoperabilidad de los distintos circuitos y clientes de firma utilizados por el Tribunal. 
+La custodia de documentos y firmas se realiza mediante los mecanismos corporativos implantados en cada 
+momento. Actualmente existe custodia en sistema de ficheros con aplicación de Código Seguro de Verificación (CSV) 
+y se trabaja en la migración a custodia en SharePoint. El servicio deberá dar soporte a dichos mecanismos y a las 
+adaptaciones de custodia documental que puedan incorporarse durante la vigencia del contrato, realizando los 
+resellados que pudiesen ser necesarios y garantizando la integridad, verificabilidad y trazabilidad de los documentos 
+custodiados. 
+3. OBJETO DEL CONTRATO 
+El objeto del presente expediente es la contratación del servicio de actualización, mantenimiento y soporte de la 
+Plataforma Port@firmas y @Firma Federado utilizados en el TC como solución centralizada para la firma electrónica 
+de documentos, para garantizar el correcto funcionamiento del producto en su explotación y uso diario, su 
+continuidad tecnológica y su evolución controlada. 
+Los productos y módulos cubiertos por este servicio son:  
+▪ Plataforma Port@firmas  
+▪ Repositorio Port@firmas  
+▪ Interfaz de usuario de Port@firmas /Verifirm@ / Portafirmas Invitado 
+▪ Servicios de integración con terceras aplicaciones.  
+▪ Servicios de soporte e integración con @Firma de Red SARA y Local/Federada 
+▪ Servidor de @Firma Local (federada) 
+▪ Clientes de firma 
+▪ Mecanismos de custodia documental, CSV y verificación que se encuentren implantados durante la vigencia del 
+contrato. 
+Los servicios demandados son los siguientes:  
+▪ Consultoría y actualización del Port@firmas, @Firma y sus componentes.  
+▪ Resolución de incidencias y soporte a la explotación. 
+▪ Soporte en integraciones con otras aplicaciones. 
+▪  Mantenimiento ordinario (preventivo, correctivo, perfectivo, adaptativo y actualización tecnológica). 
+▪  Mantenimiento evolutivo, mediante bolsa de horas. 
+El adjudicatario entregará documentación actualizada de todas las intervenciones y actualizaciones realizadas 
+durante la vigencia del contrato y se compromete a dar soporte en las tareas de certificación de la plataforma como 
+parte del servicio, así como soporte específico a los despliegues en entornos del Tribunal (no productivos y 
+productivos) y a las tareas de configuración y administración de las plataformas, en los diferentes entornos, que 
+realice el personal técnico del Tribunal. 
+A continuación se detallan las características técnicas mínimas del servicio objeto del presente procedimiento de 
+licitación y las tareas asociadas. 
+
+--- página 6 ---
+ 
+TRIBUNAL CONSTITUCIONAL 
+ 
+ 
+ 
+ 
+ 
+Pliego de prescripciones técnicas para el servicio de 
+actualización, mantenimiento y soporte de la 
+Plataforma Port@firmas y @Firma Federado 
+ 
+ 
+Domenico Scarlatti, 6 E-28003 Madrid Tlf.:91 550 82 31 – Fax: 91 544 97 01  
+  
+Página 6 de 20  
+ 
+3.1. Soporte y Mantenimiento de Port@firmas y @Firma Federado 
+Este servicio engloba la corrección de cualquier comportamiento anómalo en los componentes de la plataforma, 
+incluyendo la corrección del código y actualización de la configuración. Estas actuaciones estarán incluidas en el 
+componente fijo del contrato y no podrán imputarse a la bolsa de horas. 
+El licitador entregará en su oferta un documento “Servicio de Soporte, Actualización y Mantenimiento global de 
+Port@firmas y @Firma Federado” en el que se detallen las acciones a realizar para llevarlo a cabo, los estándares de 
+periodicidad y operaciones relativas a las acciones de mantenimiento aplicables a cada tipo de componente dentro 
+del presente contrato. 
+El horario de soporte estará comprendido entre las 9:00 y las 18:00 horas, de lunes a viernes, excepto festivos en 
+Madrid. 
+El servicio de Mantenimiento ordinario contempla: 
+▪ Mantenimiento preventivo 
+▪ Mantenimiento correctivo 
+▪ Mantenimiento perfectivo 
+▪ Mantenimiento adaptativo y actualización tecnológica 
+El adjudicatario se compromete a realizar el mantenimiento de todos los sistemas, componentes y servicios objeto 
+del presente pliego, existentes o resultantes de nuevas implantaciones, resolviendo las incidencias producidas tanto 
+para la versión instalada como para las actualizaciones llevadas a cabo durante el periodo de vigencia del servicio. 
+Las actividades derivadas de este mantenimiento estarán sujetas a los niveles de servicio establecidos. 
+El Tribunal decidirá el momento en el que la plataforma afectada se modificará, pudiendo ser en alguna de las 
+versiones planificadas o mediante la generación de un parche no planificado. En el caso de nuevas entregas o 
+parches, el adjudicatario se compromete a la realización de pruebas funcionales, pruebas de seguridad, 
+accesibilidad, carga, integración y estabilidad que garanticen que la versión está lista para desplegarse en los 
+entornos del Tribunal. 
+El Tribunal realizará un control de los trabajos realizados por el adjudicatario, comprobando si se cumple el acuerdo 
+de nivel de servicio contemplado en el presente Pliego. Como medida adicional y para asegurar el correcto 
+funcionamiento de los productos desarrollados, el Tribunal podrá realizar un proceso de certificación de los 
+productos entregados con un informe de valoración de la entrega, pudiendo penalizar al adjudicatario en caso de 
+detectar disconformidades en el producto final.  
+El mantenimiento estará incluido íntegramente en el componente fijo del contrato y no consumirá horas de la bolsa. 
+3.1.1. Servicio de Soporte 
+Este servicio deberá contemplar el soporte y resolución de incidencias relacionadas con la redacción, validación y 
+firma de documentos en el Port@firmas y componentes asociados. El adjudicatario atenderá las incidencias de los 
+usuarios que se escalen desde el Servicio de Atención al Usuario o se comuniquen desde el Servicio de Informática 
+del Tribunal, lo que equivale a un Nivel 2 de soporte acorde a la guía de buenas prácticas ITIL.  
+El adjudicatario será el encargado de la gestión de las incidencias recibidas y su resolución, tanto para la versión 
+instalada de la plataforma como para las actualizaciones o los desarrollos llevados a cabo durante el periodo de 
+vigencia del servicio.  
+El adjudicatario dispondrá de varios canales para la comunicación de incidencias (teléfono, correo electrónico, …) 
+así como de los sistemas imprescindibles para gestionarlas. El cierre de una incidencia vendrá determinado por la 
+conformidad del Tribunal. 
+El adjudicatario elaborará la documentación necesaria para el seguimiento de este servicio de soporte. 
+
+--- página 7 ---
+ 
+TRIBUNAL CONSTITUCIONAL 
+ 
+ 
+ 
+ 
+ 
+Pliego de prescripciones técnicas para el servicio de 
+actualización, mantenimiento y soporte de la 
+Plataforma Port@firmas y @Firma Federado 
+ 
+ 
+Domenico Scarlatti, 6 E-28003 Madrid Tlf.:91 550 82 31 – Fax: 91 544 97 01  
+  
+Página 7 de 20  
+ 
+3.1.2. Servicio de consultoría y apoyo a la explotación 
+Este servicio incluye labores de consultoría, para resolución de dudas y consultas técnicas del personal del Servicio 
+de Informática del TC, y apoyo a la operativa diaria del Tribunal en relación con la firma de documentación a través 
+del Port@firmas y del conjunto de herramientas asociadas; entendiéndose como soporte técnico a la explotación 
+del sistema, la configuración y parametrización del aplicativo software, así como las recomendaciones respecto al 
+software de base.  
+El servicio incluirá el soporte a la integración con los desarrollos de terceras aplicaciones del Tribunal que utilicen el 
+Port@firmas y @Firma, así como el apoyo en la compatibilidad entre formatos de firma, clientes de firma y servicios 
+corporativos utilizados por el Tribunal. 
+A continuación, se presenta una relación de tareas que se podrían solicitar dentro del servicio de consultoría y apoyo 
+a la explotación: 
+▪ Elaboración de presentaciones, manuales, documentos, informes técnicos y similares. 
+▪ Consultoría para determinar posibles mejoras en relación con la herramienta, ya sea orientada a su evolución, 
+mejora arquitectónica, integración con otros componentes y servicios, etc. 
+▪ Configuración de las herramientas implantadas, en función de las necesidades del Tribunal, pudiendo activar 
+capacidades de dichas herramientas que actualmente no estén siendo utilizadas. Formación a los usuarios 
+impactados. 
+▪ Generación, prueba y entrega de scripts que cubran necesidades operativas o de explotación autorizadas por el 
+Tribunal. 
+▪ Gestión, administración y configuración de Port@firmas y componentes asociados.  
+▪ Aseguramiento de la disponibilidad de las plataformas, incluyendo monitorización y comunicación proactiva de 
+incidencias a otros grupos de soporte del Tribunal cuando resulte necesario. 
+▪ Restauración de la operación del servicio e investigación de la causa raíz de incidentes. Ante incidencias graves, 
+elaboración de informe de auditoría en el tiempo máximo previsto en los ANS 
+▪ Validación de la plataforma ante actualizaciones de entorno, infraestructura, navegadores, sistemas operativos, 
+versiones y componentes de firma.  
+▪ Elaboración de cambios menores de configuración o interfaz: logotipos, cabeceras, colores, literales, textos, 
+manuales, pantallas de ayuda, enlaces, botones, etc.  
+▪ Impartición de formación sobre las versiones implantadas y las versiones evolutivas a entregar. 
+▪ Soporte al personal técnico del Tribunal para la configuración y administración de las plataformas en los 
+diferentes entornos.  
+▪ Apoyo a los mecanismos de custodia documental, metadatos, CSV y verificación que se encuentren integrados 
+con Port@firmas durante la vigencia del contrato. 
+3.1.3. Servicio de mantenimiento preventivo 
+El mantenimiento preventivo comprenderá las actuaciones destinadas a anticipar y reducir la aparición de 
+incidencias, degradaciones, vulnerabilidades, problemas de rendimiento u obsolescencia que puedan afectar al 
+correcto funcionamiento de Port@firmas, @Firma Federado y sus componentes asociados: 
+▪ Revisión periódica del estado de componentes, dependencias, configuraciones y versiones. 
+▪ Identificación de componentes obsoletos, fuera de soporte o afectados por vulnerabilidades conocidas. 
+▪ Revisión preventiva de seguridad, rendimiento, estabilidad y capacidad. 
+▪ Optimización de configuraciones, consultas, procesos y componentes cuando resulte necesaria para mantener 
+los niveles de servicio. 
+
+--- página 8 ---
+ 
+TRIBUNAL CONSTITUCIONAL 
+ 
+ 
+ 
+ 
+ 
+Pliego de prescripciones técnicas para el servicio de 
+actualización, mantenimiento y soporte de la 
+Plataforma Port@firmas y @Firma Federado 
+ 
+ 
+Domenico Scarlatti, 6 E-28003 Madrid Tlf.:91 550 82 31 – Fax: 91 544 97 01  
+  
+Página 8 de 20  
+ 
+▪ Refactorización preventiva del código cuando resulte necesaria para evitar incidencias, reducir riesgos técnicos 
+o corregir deuda técnica, siempre que no suponga la incorporación de nuevas funcionalidades. 
+▪ Propuesta y aplicación, previa autorización del Tribunal cuando proceda, de medidas preventivas destinadas a 
+preservar la estabilidad, seguridad, mantenibilidad y continuidad de la plataforma. 
+3.1.4. Servicio de mantenimiento correctivo 
+El mantenimiento correctivo objeto del contrato consiste en la corrección de cualquier comportamiento anómalo 
+en los componentes del Port@firmas y de los servicios asociados: 
+▪ Integraciones defectuosas, tanto entre las diversas partes o componentes de la herramienta, como con otros 
+sistemas con los que interactúan. 
+▪ Integraciones no óptimas que provoquen problemas en los sistemas, tanto entre componentes de las 
+plataformas como con otros sistemas con los que interactúan, como @Firma Local/Federada o en Red SARA. 
+▪ Disfunción o desajuste entre las funcionalidades o características del sistema, componente o servicio y la 
+definición realizada en la fase de análisis. 
+▪ Defectos derivados de la implementación de la plataforma: errores de codificación, problemas de rendimiento 
+o seguridad, excepciones no controladas, casos de prueba no contemplados, validaciones de datos no 
+realizadas, defectos de usabilidad, ...  
+▪ Incidencias o incompatibilidades detectadas como consecuencia de las posibles auditorías que el Tribunal 
+realice sobre la plataforma. 
+▪ Cualquier otro problema que impida o degrade el correcto desempeño del servicio por parte del Tribunal. 
+3.1.5. Servicio de mantenimiento perfectivo 
+El mantenimiento perfectivo comprenderá las actuaciones destinadas a mejorar la calidad, rendimiento, usabilidad 
+o mantenibilidad de funcionalidades ya existentes, sin incorporar nuevas funcionalidades ni ampliar sustancialmente 
+su alcance: 
+▪ Mejoras de rendimiento y tiempos de respuesta de funcionalidades existentes. 
+▪ Optimización de procesos, consultas, servicios e integraciones ya implantados. 
+▪ Mejoras de usabilidad y accesibilidad sobre funcionalidades existentes. 
+▪ Mejora de la calidad interna, legibilidad y mantenibilidad del código. 
+▪ Refactorización y simplificación de componentes cuando tenga por finalidad mejorar su calidad, rendimiento o 
+mantenibilidad. 
+▪ Eliminación de código obsoleto, redundante o innecesario y reducción de deuda técnica. 
+3.1.6. Servicio de mantenimiento adaptativo y actualización tecnológica 
+El mantenimiento adaptativo comprenderá las modificaciones necesarias para preservar el correcto funcionamiento 
+de la plataforma ante cambios en el entorno tecnológico, software de base o componentes con los que se integra:  
+▪ Cambios de sistemas operativos, navegadores, bases de datos, servidores de aplicaciones, Java u otros 
+componentes de software base. 
+▪ Cambios en servicios web, APIs, protocolos, clientes y componentes de firma, certificados, políticas o formatos 
+de firma. 
+▪ Cambios en servicios corporativos del Tribunal, @Firma Local/Federada, Red SARA u otros componentes 
+necesarios para mantener las integraciones existentes. 
+▪ Actualizaciones de seguridad y actuaciones necesarias para corregir obsolescencia tecnológica o mantener 
+componentes soportados. 
+
+--- página 9 ---
+ 
+TRIBUNAL CONSTITUCIONAL 
+ 
+ 
+ 
+ 
+ 
+Pliego de prescripciones técnicas para el servicio de 
+actualización, mantenimiento y soporte de la 
+Plataforma Port@firmas y @Firma Federado 
+ 
+ 
+Domenico Scarlatti, 6 E-28003 Madrid Tlf.:91 550 82 31 – Fax: 91 544 97 01  
+  
+Página 9 de 20  
+ 
+Este mantenimiento incluye la actualización a nuevas versiones estándar de Port@firmas, @Firma Federado, 
+clientes de firma y demás componentes. La migración o actualización de cualquiera de los elementos de la 
+plataforma no podrá afectar a las funcionalidades existentes, debiéndose mantener la compatibilidad y operatividad 
+de las aplicaciones integradas, minimizando las modificaciones necesarias en los sistemas consumidores. El Tribunal 
+decidirá el momento en el que se desplegarán las nuevas versiones en los diferentes entornos. 
+El adjudicatario realizará las pruebas funcionales, de seguridad, accesibilidad, carga, integración y estabilidad 
+necesarias y dará soporte a las tareas de certificación, despliegue, configuración y administración asociadas a las 
+actualizaciones. 
+3.2. Servicio de Mantenimiento Evolutivo Mediante Bolsa de Horas 
+El mantenimiento evolutivo tendrá por objeto la incorporación de nuevas funcionalidades, ampliaciones funcionales, 
+nuevas integraciones o modificaciones solicitadas expresamente por el Tribunal que excedan de las obligaciones 
+incluidas en el soporte y mantenimiento ordinario. Los evolutivos de cualquiera de los elementos de la plataforma 
+no podrán afectar a las funcionalidades ya existentes, debiéndose mantener la compatibilidad y operatividad de los 
+aplicativos integrados con ella, minimizando las modificaciones que deban realizarse en los sistemas consumidores. 
+El Tribunal decidirá el momento en el que se modificará la versión de la plataforma en los diferentes entornos. El 
+adjudicatario se compromete a la realización de pruebas funcionales, de seguridad, accesibilidad, carga, integración 
+y estabilidad que garanticen que la versión está lista para desplegarse en los entornos del Tribunal. 
+No se considerarán desarrollos evolutivos facturables aquellas modificaciones destinadas a asegurar la calidad, 
+robustez, escalabilidad, seguridad, disponibilidad, compatibilidad o corrección de obsolescencia de la plataforma. 
+Todo evolutivo desarrollado deberá cumplir los principios de modularidad, bajo acoplamiento y cohesión. 
+Para la ejecución del mantenimiento evolutivo, el contrato dispondrá de una bolsa máxima de hasta 150 horas no 
+presenciales por anualidad, destinada exclusivamente a actuaciones evolutivas previamente solicitadas y 
+autorizadas por el Tribunal. Estas horas se abonarán únicamente cuando hayan sido efectivamente ejecutadas y 
+aceptadas, al precio unitario ofertado por el adjudicatario. El Tribunal no estará obligado a consumir total o 
+parcialmente la bolsa y las horas no utilizadas no generarán derecho de cobro, compensación o indemnización. 
+Los licitadores podrán ofertar, como mejora y sin coste adicional, horas anuales adicionales de mantenimiento 
+evolutivo. Cuando existan, estas horas gratuitas se consumirán con carácter previo a las horas sujetas a facturación. 
+Cada actuación evolutiva requerirá una estimación previa de alcance, entregables, plazo y horas, así como 
+autorización expresa del Tribunal. No podrán imputarse a la bolsa de mantenimiento evolutivo, ni a las horas 
+gratuitas ofertadas como mejora, las actuaciones de soporte y mantenimiento ordinario (preventivo, correctivo, 
+perfectivo, adaptativo y actualización tecnológica), ni cualquier actuación necesaria para mantener la continuidad, 
+seguridad, compatibilidad y correcto funcionamiento de la plataforma. 
+4. REQUISITOS OBLIGATORIOS 
+La empresa licitadora deberá contar con experiencia en proyectos de similares características y plataforma, así como 
+con la infraestructura y la capacidad técnica necesarias para satisfacer los servicios demandados. Se considera 
+especialmente relevante la experiencia acreditada en mantenimiento, actualización e integración de Port@firmas y 
+@Firma en el ámbito de las Administraciones Públicas. 
+El adjudicatario deberá garantizar la prestación y cumplimiento del Servicio, siendo responsable del cumplimiento 
+de todas y cada una de las funciones encomendadas dentro de este pliego. 
+
+--- página 10 ---
+ 
+TRIBUNAL CONSTITUCIONAL 
+ 
+ 
+ 
+ 
+ 
+Pliego de prescripciones técnicas para el servicio de 
+actualización, mantenimiento y soporte de la 
+Plataforma Port@firmas y @Firma Federado 
+ 
+ 
+Domenico Scarlatti, 6 E-28003 Madrid Tlf.:91 550 82 31 – Fax: 91 544 97 01  
+  
+Página 10 de 20  
+ 
+4.1. Fases del Servicio  
+La prestación del Servicio objeto del presente contrato se realizará de acuerdo con las fases que se definen a 
+continuación. 
+4.1.1. Inicio del servicio 
+El licitador deberá incluir en su oferta la definición de su estrategia global para asumir el servicio, en el documento 
+“Servicio de Soporte, Actualización y Mantenimiento global de Port@firmas y @Firma Federado”, indicando 
+expresamente el plazo, no superior a un mes, que considera necesario como periodo de Actividades Preparatorias. 
+El licitador establecerá claramente el cronograma que propone para la gestión y ejecución del servicio 
+correspondiente, así como la justificación argumentada de cada punto.  
+El Plan de Asunción incluirá, al menos, inventario de componentes y versiones, dependencias, integraciones, 
+repositorios de código y configuración, incidencias abiertas, procedimientos operativos y necesidades de acceso, de 
+forma que el cambio de adjudicatario pueda realizarse sin pérdida de continuidad ni conocimiento. 
+Se realizará una reunión de comienzo de la prestación del servicio con el adjudicatario donde se identificarán las 
+personas clave y la información que el Tribunal debe proporcionar. Durante esta fase el adjudicatario deberá 
+provisionar el entorno de desarrollo con la versión implantada en el Tribunal, formar a las personas que vayan a 
+proporcionar el servicio y comenzar a dar el servicio de soporte y mantenimiento ordinario. Esta fase de adquisición 
+de conocimiento no se considerará facturable y no podrá ser superior a un mes. 
+4.1.2. Prestación del servicio 
+Esta fase consistirá en el desarrollo de los trabajos con normalidad de acuerdo con las especificaciones descritas en 
+el presente pliego. 
+Durante la ejecución, el adjudicatario facilitará a las personas designadas por el TC la información y documentación 
+que soliciten para disponer de un pleno conocimiento de las circunstancias en que se desarrollan los trabajos, así 
+como de los problemas que puedan plantearse y de las tecnologías, métodos y herramientas utilizados para 
+resolverlos. 
+Una vez terminadas las pruebas operativas y aceptadas las actuaciones, el adjudicatario realizará la transferencia 
+tecnológica que el Tribunal estime necesaria. 
+4.1.3. Finalización y transferencia del servicio 
+En la fase final del servicio, el adjudicatario habrá de contemplar, siempre y cuando el Tribunal se lo solicite, un 
+periodo de transferencia de conocimiento de este Servicio que consistirá en: 
+▪ Proporcionar toda la documentación desarrollada durante la anterior fase de prestación del servicio al nuevo 
+adjudicatario. 
+▪ Dar las sesiones de formación necesarias al nuevo personal implicado, para la correcta explicación del 
+funcionamiento del servicio y reducir el impacto del cambio. 
+▪ Apoyar al nuevo equipo en las tareas necesarias para mejorar la transferencia. 
+▪ Entregar el inventario final, documentación actualizada, repositorios de código y configuración, estado de 
+versiones y vulnerabilidades, relación de incidencias y evolutivos pendientes y saldo de la bolsa anual de horas 
+facturables y, en su caso, de las horas gratuitas ofertadas. 
+▪ Facilitar la transferencia ordenada de credenciales, certificados, procedimientos operativos y demás elementos 
+bajo control del Tribunal, evitando cualquier dependencia técnica indebida del adjudicatario. 
+
+--- página 11 ---
+ 
+TRIBUNAL CONSTITUCIONAL 
+ 
+ 
+ 
+ 
+ 
+Pliego de prescripciones técnicas para el servicio de 
+actualización, mantenimiento y soporte de la 
+Plataforma Port@firmas y @Firma Federado 
+ 
+ 
+Domenico Scarlatti, 6 E-28003 Madrid Tlf.:91 550 82 31 – Fax: 91 544 97 01  
+  
+Página 11 de 20  
+ 
+4.2. Acuerdos de Nivel de Servicio  
+El Acuerdo de Nivel de Servicio (ANS) contempla un soporte de segundo nivel que se solicitará tras un primer análisis 
+realizado por el servicio de informática del TC. El adjudicatario del contrato debe cumplir los acuerdos de nivel de 
+servicio establecidos en el presente pliego. 
+Se entiende como incidente o interacción cualquier incidencia, petición o consulta relativa al servicio objeto de este 
+procedimiento de licitación. 
+La criticidad asignada a una incidencia se determinará por el Tribunal en el momento de su apertura según la 
+siguiente categorización: 
+▪ Crítica: toda aquella situación que provoque la interrupción o funcionamiento anómalo de cualquier servicio de 
+la plataforma de firma, dando lugar a su “no-disponibilidad”. 
+▪ No Crítica: incidencias que, aun generando disfunciones en la operativa de la plataforma, no suponen 
+indisponibilidad en el uso del Port@firmas. 
+Las métricas contempladas para los ANS son:  
+▪ Tiempo de respuesta: Tiempo que tarda el adjudicatario en dar respuesta a la comunicación de un incidente por 
+parte del Tribunal.  
+▪ Tiempo de resolución: Tiempo transcurrido desde la comunicación del incidente al adjudicatario hasta la 
+resolución de éste de forma satisfactoria. 
+El adjudicatario debe suministrar al Tribunal, siempre que éste lo requiera, informes que permitan conocer de forma 
+detallada, unificada o desglosada el cumplimiento de los parámetros contemplados en el ANS. 
+Para evaluar correctamente el conjunto de requisitos de calidad y nivel de servicio, el Tribunal se reserva el derecho 
+a realizar auditorías de calidad del servicio con la periodicidad que estime oportuna. 
+4.2.1. Tiempos máximos de respuesta y resolución 
+Los tiempos máximos hacen referencia a horas laborables, entendiendo como tales las horas comprendidas entre 
+las 9:00 y las 18:00 de lunes a viernes, excepto festivos en Madrid. 
+ 
+INTERACCIÓN Tº MÁX. RESPUESTA Tº MÁX. RESOLUCIÓN 
+Incidencia 
+Crítica 30 minutos 8 horas 
+No Crítica 2 horas 24 horas 
+Petición 4 horas 80 horas 
+Consulta 2 horas 24 horas 
+ 
+Ante posibles demoras en los tiempos de respuesta o resolución, no imputables al adjudicatario, se establecerán 
+periodos que no computarán a efectos de penalizaciones. Se contemplará el estado de “parada de reloj” cuando se 
+necesite una acción o información externa, siempre que exista causa justificada y quede registrada. 
+La tabla siguiente detalla los niveles del servicio que serán utilizados para el cómputo de las penalizaciones, en 
+función del porcentaje de interacciones que no superan los tiempos máximos de respuesta o resolución. 
+ 
+Nivel de prestación del Servicio % Cumplimiento del servicio (C)  
+Óptimo C ≥ 90% 
+
+--- página 12 ---
+ 
+TRIBUNAL CONSTITUCIONAL 
+ 
+ 
+ 
+ 
+ 
+Pliego de prescripciones técnicas para el servicio de 
+actualización, mantenimiento y soporte de la 
+Plataforma Port@firmas y @Firma Federado 
+ 
+ 
+Domenico Scarlatti, 6 E-28003 Madrid Tlf.:91 550 82 31 – Fax: 91 544 97 01  
+  
+Página 12 de 20  
+ 
+No Óptimo C < 90% 
+ 
+El cumplimiento de los Acuerdos de Nivel de Servicio se evaluará mensualmente y de forma agregada, considerando 
+conjuntamente todas las categorías de interacción (incidencias críticas, incidencias no críticas, peticiones y 
+consultas) y ambos indicadores establecidos, tiempo de respuesta y tiempo de resolución. A estos efectos, se 
+calculará el porcentaje de actuaciones en las que se hayan cumplido los tiempos máximos establecidos, respecto del 
+número total de tiempos de respuesta y resolución computables durante el mes. Los periodos de parada de reloj 
+debidamente justificados y registrados no computarán a estos efectos. 
+En todos aquellos casos en que el adjudicatario no alcance un nivel de cumplimiento en la prestación del servicio 
+igual o mayor al 90%, el Tribunal procederá a la aplicación de las penalizaciones correspondientes. Cuando el 
+Tribunal lo considere necesario, se exigirá además la adopción del correspondiente plan de mejora. 
+4.2.2. Entregas de informes de auditoría 
+El tiempo máximo para entregar un informe de auditoría será de 8 horas laborables, a partir de la solicitud realizada 
+por el Tribunal. No se tendrán en cuenta en el cómputo las demoras no imputables al adjudicatario. 
+4.3. Personal Adscrito a la Ejecución del Contrato 
+Los medios personales para la prestación del Servicio deben tener los conocimientos y experiencia necesarios para 
+garantizar su correcta ejecución, siendo expertos en @Firma, Port@firmas e integraciones de administración 
+electrónica. Este compromiso tendrá el carácter de obligación contractual esencial a los efectos previstos en el 
+artículo 211.1.f) de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público. 
+A continuación, se identifican las principales tareas para la prestación del servicio:  
+▪ Definición del proyecto, identificación de necesidades y propuesta de soluciones. 
+▪ Planificación y estimación de costes para los diferentes servicios. 
+▪ Gestión de riesgos, requisitos, cambios o dependencias del proyecto. 
+▪ Diseño, implementación y mantenimiento de la solución y sus servicios web, incluidas las integraciones con 
+otras soluciones informáticas del Tribunal. 
+▪ Detección de errores en el sistema y comunicación al Tribunal. 
+▪ Preparación de casos de prueba y realización de pruebas en los entornos del adjudicatario y del Tribunal para 
+el control de calidad.  
+▪ Gestionar la resolución de las incidencias, consultas y peticiones referentes al Port@firmas, @Firma y 
+componentes   asociados. 
+▪ Soporte al personal técnico del Tribunal para la implantación de los desarrollos realizados y asesoría a las 
+integraciones con otras aplicaciones. 
+▪ Asesoramiento al Tribunal: interlocución y consultoría técnica avanzada. 
+▪ Elaboración de documentación técnica. 
+▪ Elaboración de actas de reuniones, presentaciones e informes. 
+▪ Formación. 
+4.3.1. Sustitución de los medios personales 
+Corresponde al Tribunal la valoración final de la productividad y calidad de los trabajos, siendo potestad suya solicitar 
+el cambio de los medios personales por otros de perfil similar, mediante aviso con quince días de antelación a la 
+empresa adjudicataria. 
+
+--- página 13 ---
+ 
+TRIBUNAL CONSTITUCIONAL 
+ 
+ 
+ 
+ 
+ 
+Pliego de prescripciones técnicas para el servicio de 
+actualización, mantenimiento y soporte de la 
+Plataforma Port@firmas y @Firma Federado 
+ 
+ 
+Domenico Scarlatti, 6 E-28003 Madrid Tlf.:91 550 82 31 – Fax: 91 544 97 01  
+  
+Página 13 de 20  
+ 
+Si durante la ejecución del contrato la empresa adjudicataria propusiera la sustitución de personal, o el Tribunal 
+solicitase un cambio justificado, la solicitud del cambio deberá cumplir los siguientes requisitos: 
+▪ Se deberá remitir, con quince días de antelación a la fecha prevista, una justificación escrita explicando el motivo 
+del cambio.  En el caso de que el solicitante del cambio sea el Tribunal, en su escrito de justificación indicará la 
+fecha de salida del perfil afectado, que podrá oscilar entre uno y catorce días. 
+▪ Se deberá garantizar la correcta prestación del servicio mediante una completa transferencia de información y 
+tareas. 
+▪ Se proporcionará un perfil con cualificación igual o superior al perfil sustituido. 
+▪ Se requerirá la aceptación del nuevo perfil por parte del Tribunal. 
+En el supuesto de que se produzca la sustitución de alguno de los medios personales, la transferencia de 
+conocimiento se realizará sin coste adicional, siendo el periodo mínimo de dos semanas. La sustitución de alguna de 
+las personas del equipo de trabajo por interés de la empresa adjudicataria o por incompetencia o inexperiencia, sin 
+haber existido un periodo de solapamiento, determinará un tiempo de adaptación de diez días laborables a cargo 
+de la empresa y por tanto no facturables.  
+4.3.2. Reglas respecto del personal de la empresa contratista 
+Corresponde exclusivamente al adjudicatario la selección y contratación del personal que, reuniendo los requisitos 
+exigidos en el pliego y detallados en su oferta, formará parte del equipo de trabajo adscrito a la ejecución del 
+contrato, sin perjuicio de la verificación por parte del Tribunal del cumplimiento de dichos requisitos.  
+La empresa contratista procurará que exista estabilidad en el equipo de trabajo, y que las variaciones en su 
+composición sean puntuales y obedezcan a razones justificadas, en orden a no alterar el buen funcionamiento del 
+servicio, informando en todo momento al Tribunal. 
+La empresa contratista asume la obligación de ejercer de modo real, efectivo y continuo, sobre el personal integrante 
+del equipo de trabajo encargado de la ejecución del contrato, el poder de dirección inherente a todo empresario. En 
+particular, asumirá la negociación y pago de los salarios, la concesión de permisos, licencias y vacaciones, las 
+sustituciones de los trabajadores en casos de baja o ausencia, las obligaciones legales en materia de Seguridad Social, 
+incluido el abono de cotizaciones y el pago de prestaciones, cuando proceda, las obligaciones legales en materia de 
+prevención de riesgos laborales, el ejercicio de la potestad disciplinaria, así como cuantos derechos y obligaciones 
+se deriven de la relación contractual entre empleado y empleador.  
+La empresa contratista velará especialmente porque los trabajadores adscritos a la ejecución del contrato 
+desarrollen su actividad sin extralimitarse en las funciones desempeñadas respecto de la actividad delimitada en los 
+pliegos como objeto del contrato.  
+La empresa contratista deberá designar, al menos, un coordinador técnico o responsable, integrado en su propia 
+plantilla, que tendrá entre sus obligaciones las siguientes:  
+▪ Actuar como interlocutor frente al Tribunal, canalizando la comunicación entre la empresa contratista y el 
+personal integrante del equipo de trabajo adscrito al contrato, de un lado, y el Tribunal de otro lado, en todo lo 
+relativo a las cuestiones derivadas de la ejecución del contrato.  
+▪ Distribuir el trabajo entre el personal encargado de la ejecución del contrato e impartir a dichos trabajadores 
+las órdenes e instrucciones de trabajo que sean necesarias en relación con la prestación del servicio contratado.  
+▪ Supervisar el correcto desempeño, por parte del personal integrante del equipo de trabajo, de las funciones que 
+tienen encomendadas, así como controlar la asistencia de dicho personal al puesto de trabajo.  
+▪ Organizar el régimen de vacaciones del personal adscrito a la ejecución del contrato, debiendo coordinarse 
+adecuadamente la empresa contratista con el Tribunal, a efectos de no alterar el buen funcionamiento del 
+servicio.  
+
+--- página 14 ---
+ 
+TRIBUNAL CONSTITUCIONAL 
+ 
+ 
+ 
+ 
+ 
+Pliego de prescripciones técnicas para el servicio de 
+actualización, mantenimiento y soporte de la 
+Plataforma Port@firmas y @Firma Federado 
+ 
+ 
+Domenico Scarlatti, 6 E-28003 Madrid Tlf.:91 550 82 31 – Fax: 91 544 97 01  
+  
+Página 14 de 20  
+ 
+▪ Informar al Tribunal acerca de las variaciones, ocasionales o permanentes, en la composición del equipo de 
+trabajo adscrito a la ejecución del contrato. 
+Para el servicio prestado de forma remota, la empresa estará obligada a proveer los medios técnicos necesarios, 
+registrar y justificar las actuaciones realizadas y presentar la información de seguimiento que determine el Tribunal. 
+La empresa adjudicataria deberá cumplir durante todo el periodo de ejecución del contrato las normas y condiciones 
+fijadas en el convenio colectivo de aplicación, de acuerdo con la LCSP. 
+4.4. Certificaciones  
+Las empresas licitadoras deberán tener vigente la certificación ISO22301 de continuidad de negocio o equivalente, 
+al ser el Port@firmas un elemento crítico de la infraestructura en la que se apoya la gestión de la administración 
+electrónica en el Tribunal, de cara a garantizar la continuidad del servicio durante la vigencia del contrato. 
+Asimismo, considerando el acceso potencial a sistemas, metadatos, configuraciones y documentos del Tribunal que 
+implica la prestación del servicio, las empresas licitadoras deberán tener vigente la certificación ISO 27001 de 
+seguridad o equivalente y acreditar el cumplimiento del Esquema Nacional de Seguridad (ENS) de nivel Alto. 
+4.5. Plataforma Tecnológica  
+El adjudicatario deberá contar con un entorno que simule la plataforma con la versión instalada en cada momento 
+en los servidores de producción del Tribunal, al objeto de que se puedan resolver las incidencias detectadas en los 
+mismos. Este entorno debe tener las mismas características que el entorno productivo del Tribunal y ser escalable, 
+de tal modo que se puedan realizar sobre el mismo, pruebas de carga y estabilidad extrapolables al entorno del 
+Tribunal. 
+El adjudicatario deberá disponer de un entorno con la versión que en cada momento se esté certificando en el 
+Tribunal, con el objetivo de poder resolver posibles incidencias detectadas antes del despliegue en producción. Las 
+plataformas hardware y software necesarias para ello serán responsabilidad del adjudicatario. 
+4.6. Calidad de los Desarrollos y Productos Entregados  
+El adjudicatario será el encargado de asegurar, en todo momento, la calidad de las versiones desarrolladas y su 
+correcta entrega para la puesta en producción en los sistemas del Tribunal. 
+Todos los trabajos realizados garantizarán que los diferentes servicios continúen prestándose, atendiendo a criterios 
+de Autenticidad, Integridad, Confidencialidad, Accesibilidad, Facilidad de uso, Alta disponibilidad, Modularidad, 
+Escalabilidad y Mantenibilidad, asegurando los niveles de servicio recogidos en el Pliego.  
+El adjudicatario deberá garantizar la calidad en todos los trabajos desarrollados objeto del presente servicio, 
+incluidos los controles derivados de la seguridad del código, auditoría, mantenimiento de la licencia EUPL y 
+compatibilidad con los componentes e integraciones existentes.  
+Las adaptaciones, scripts, configuraciones y desarrollos específicos realizados para el Tribunal deberán entregarse 
+con su código fuente y documentación, respetando los derechos preexistentes y las licencias aplicables. No podrán 
+introducirse dependencias o restricciones que impidan al Tribunal auditar, mantener o evolucionar las entregas 
+específicas realizadas con cargo al contrato. 
+Una vez finalizada cualquier implantación de software, el adjudicatario deberá ejecutar las pruebas necesarias para 
+validar que se ha realizado de forma correcta y deberá informar al Tribunal.  
+El Tribunal podrá rechazar los desarrollos o entregas en los supuestos de incumplimiento de requisitos, deficiencias 
+que impidan la implantación, falta de documentación o retrasos imputables al adjudicatario, aplicándose las medidas 
+previstas en el PCAP. 
+
+--- página 15 ---
+ 
+TRIBUNAL CONSTITUCIONAL 
+ 
+ 
+ 
+ 
+ 
+Pliego de prescripciones técnicas para el servicio de 
+actualización, mantenimiento y soporte de la 
+Plataforma Port@firmas y @Firma Federado 
+ 
+ 
+Domenico Scarlatti, 6 E-28003 Madrid Tlf.:91 550 82 31 – Fax: 91 544 97 01  
+  
+Página 15 de 20  
+ 
+El Tribunal podrá realizar un proceso de certificación de los productos entregados con un informe de valoración de 
+la entrega, pudiendo penalizar al adjudicatario en caso de detectar disconformidades en el producto final si no se 
+solucionasen los fallos detectados en el plazo máximo de 10 días laborables tras la notificación del rechazo por parte 
+del Tribunal.  
+4.7. Lugar y Horario de Prestación del Servicio  
+El Servicio se prestará en remoto, realizando los trabajos en las oficinas del adjudicatario. No obstante, y de forma 
+excepcional, el Tribunal, por necesidades del servicio, se reserva el derecho de que el adjudicatario realice los 
+trabajos desde las instalaciones del Tribunal. 
+El horario para la prestación del Servicio, a efectos del presente contrato, será de lunes a viernes, excepto festivos 
+en Madrid, de 9:00 a 18:00. El adjudicatario deberá disponer de un coordinador del servicio de soporte con un 
+teléfono localizable y operativo en el horario anteriormente indicado.  
+En circunstancias excepcionales, a criterio del Tribunal y cuando la urgencia de la materia así lo requiera, el 
+adjudicatario deberá tener la disponibilidad necesaria para atender actuaciones críticas, sin perjuicio de lo 
+establecido contractualmente respecto de jornadas y organización del servicio y sin que la realización del trabajo 
+fuera del horario habitual o en días festivos tenga una consideración especial. 
+4.8. Actividades Formativas  
+En el caso de que para la prestación del Servicio fuera necesaria formación específica para acometer las tareas 
+encomendadas, ya sea por evolución de la tecnología, cambio de procesos del Tribunal o realización de nuevas 
+tareas, la empresa adjudicataria pondrá los medios a su cargo para satisfacer dicha necesidad sin afectar a la 
+prestación ordinaria del Servicio. 
+4.9. Obligaciones de Información y Documentación  
+Durante la ejecución de los Servicios objeto del contrato el adjudicatario se compromete, en todo momento, a 
+facilitar a las personas indicadas por el Tribunal, la información y documentación que éstas soliciten para disponer 
+de un pleno conocimiento de las circunstancias en que se desarrollan los trabajos y de las tecnologías, métodos y 
+herramientas utilizados.  
+Como parte de las tareas objeto del contrato, el adjudicatario se compromete a generar la documentación de los 
+trabajos realizados, de acuerdo con los criterios que establezca el Tribunal. Las especificaciones, informes, diagramas 
+y cualquier otro documento relativo al objeto del contrato serán aportados en castellano. Toda documentación 
+generada por el adjudicatario en ejecución del contrato será propiedad exclusiva del Tribunal. 
+La empresa adjudicataria facilitará toda la información y documentación para la transferencia tecnológica del 
+conocimiento de la solución, tanto en desarrollos como en resolución de incidencias, configuración y administración, 
+así como tecnologías, métodos y herramientas utilizados. 
+5. ACREDITACIÓN DE REQUISITOS TÉCNICOS 
+En este documento se detallan los requisitos mínimos del servicio objeto del presente procedimiento de licitación; 
+el licitador puede ofertar prestaciones superiores a las solicitadas cuando sean compatibles con el PCAP y el PPT. 
+A efectos de acreditación de los requisitos técnicos obligatorios para la prestación del servicio, las empresas 
+licitadoras deberán presentar un documento “Servicio de Soporte, Actualización y Mantenimiento global de 
+Port@firmas y @Firma Federado” que recogerá los detalles de la prestación del servicio y Acuerdo de Nivel de 
+Servicio (ANS). Dicho documento incluirá también:  
+
+--- página 16 ---
+ 
+TRIBUNAL CONSTITUCIONAL 
+ 
+ 
+ 
+ 
+ 
+Pliego de prescripciones técnicas para el servicio de 
+actualización, mantenimiento y soporte de la 
+Plataforma Port@firmas y @Firma Federado 
+ 
+ 
+Domenico Scarlatti, 6 E-28003 Madrid Tlf.:91 550 82 31 – Fax: 91 544 97 01  
+  
+Página 16 de 20  
+ 
+▪ Memoria de proyectos de características similares, en los que haya participado en los últimos quince años, con 
+identificación del proyecto, fecha, funcionalidades, tecnología, entidad destinataria y alcance de los trabajos 
+realizados.  
+▪ Propuesta de perfiles ofertados, justificando documentalmente sus capacidades, formación, titulaciones, 
+acreditaciones y experiencia, con especial referencia a Port@firmas, @Firma y administración electrónica. 
+▪ Justificación, si procede, de circunstancias evaluables de calidad técnica de la prestación. 
+▪ Estrategia de asunción del servicio, mantenimiento de versiones, pruebas, entrega y reversibilidad. 
+ La oferta de Servicio reflejará obligatoriamente los siguientes compromisos:  
+▪ Atención telefónica en horario de 9:00 a 18:00 de lunes a viernes. 
+▪ El soporte incluirá cualquier problema o mal funcionamiento de los elementos de la plataforma y la asistencia 
+remota o presencial cuando resulte necesaria.  
+▪ Se mantendrán, al menos, los entornos de desarrollo, preproducción y producción, así como los entornos de 
+réplica necesarios para desarrollo y pruebas por parte del   adjudicatario. 
+▪ Se realizarán pruebas unitarias, funcionales y de integración previas a la puesta en producción de los desarrollos.  
+▪ El servicio incluirá análisis de impacto y pruebas de integración para nuevas versiones, así como la 
+correspondiente implantación, a medida que se vayan liberando y sean aprobadas por el Tribunal.  
+▪ Todos los desarrollos, actualizaciones e intervenciones deberán documentarse adecuadamente. 
+▪ Las actuaciones sobre custodia documental, CSV, firma y validación deberán preservar la integridad, trazabilidad 
+y verificabilidad de los documentos. 
+El cumplimiento de los requisitos técnicos obligatorios se valorará a partir del documento “Servicio de Soporte, 
+Actualización y Mantenimiento global de Port@firmas y @Firma Federado” presentado por el licitador; las ofertas 
+que no presenten dicha documentación no serán objeto de valoración. 
+La empresa licitadora será responsable de la veracidad documental, de la que se podrán requerir pruebas en 
+cualquier fase del procedimiento. 
+6. VALORACIÓN DE OFERTAS 
+El contrato será adjudicado al licitador que cumpla con los requisitos obligatorios y presente la mejor oferta de 
+acuerdo con los criterios establecidos en el PCAP y resumidos a continuación: 
+CRITERIOS PONDERACIÓN 
+Evaluables mediante fórmula matemática  
+Precio Hasta 60 puntos 
+Perfil con titulación universitaria en Informática Hasta 4 puntos 
+Perfil con experiencia en proyectos de Administración Electrónica Hasta 8 puntos 
+Perfil con experiencia en integraciones de Port@firmas y @Firma con 
+otras aplicaciones Hasta 8 puntos 
+Horas adicionales gratuitas de mantenimiento evolutivo no presencial Hasta 5 puntos 
+Evaluables mediante juicio de valor  
+Descripción de la solución. Hasta 5 puntos 
+
+--- página 17 ---
+ 
+TRIBUNAL CONSTITUCIONAL 
+ 
+ 
+ 
+ 
+ 
+Pliego de prescripciones técnicas para el servicio de 
+actualización, mantenimiento y soporte de la 
+Plataforma Port@firmas y @Firma Federado 
+ 
+ 
+Domenico Scarlatti, 6 E-28003 Madrid Tlf.:91 550 82 31 – Fax: 91 544 97 01  
+  
+Página 17 de 20  
+ 
+Modelo de Servicio Hasta 5 puntos 
+Mejora de los Acuerdos de Nivel de Servicio Hasta 5 puntos 
+6.1. Criterios Objetivos de Adjudicación 
+ Precio 
+El criterio objetivo de Precio se regirá por la misma fórmula establecida en el PCAP. El importe anual evaluable de 
+cada oferta estará formado por el precio fijo anual ofertado del servicio más el importe correspondiente a 150 horas 
+de mantenimiento evolutivo calculado al precio unitario ofertado.  
+El precio fijo anual ofertado no podrá superar los 16.965,00 euros, IVA excluido. Asimismo, el importe anual 
+evaluable de la oferta, resultante de sumar el precio fijo anual ofertado y el importe correspondiente a las 150 horas 
+de mantenimiento evolutivo, no podrá superar los 27.648,76 euros, IVA excluido. 
+Las horas gratuitas ofertadas como mejora no minorarán dicho importe, evitando así su doble valoración. 
+ Perfil con titulación universitaria en informática 
+Se valorará con 1 punto cada uno de los perfiles técnicos adscritos al contrato que acrediten titulación universitaria 
+en informática o equivalente, en los términos previstos en el Pliego. 
+La puntuación máxima que se podrá obtener en este apartado será de 4 puntos.  
+ Perfil con experiencia en proyectos de Administración Electrónica 
+Se valorarán hasta un máximo de 2 puntos para cada uno de los perfiles propuestos, en función de sus años de 
+experiencia acreditada en proyectos de Administración Electrónica, conforme a las condiciones definidas en el 
+Pliego: 
+▪ Hasta 5 años de experiencia: 0 puntos. 
+▪ Más de 5 años de experiencia y no supera los 10 años de experiencia: 0,5 puntos. 
+▪ Más de 10 años de experiencia y no supera los 15 años de experiencia: 1 punto. 
+▪ Más de 15 años de experiencia y no supera los 20 años de experiencia: 1,5 puntos. 
+▪ Más de 20 años de experiencia: 2 puntos. 
+La puntuación máxima que se podrá obtener en este apartado será de 8 puntos. 
+ Perfil con experiencia en integraciones de Port@firmas y @Firma con otras aplicaciones 
+Se valorarán hasta un máximo de 2 puntos para cada uno de los perfiles propuestos, en función de sus años de 
+experiencia específica acreditada en integraciones de Port@firmas y @Firma con aplicaciones corporativas o de 
+administración electrónica, conforme a las condiciones definidas en el Pliego: 
+▪ Hasta 5 años de experiencia: 0 puntos. 
+▪ Más de 5 años de experiencia y no supera los 10 años de experiencia: 0,5 puntos. 
+▪ Más de 10 años de experiencia y no supera los 15 años de experiencia: 1 punto. 
+▪ Más de 15 años de experiencia y no supera los 20 años de experiencia: 1,5 puntos. 
+▪ Más de 20 años de experiencia: 2 puntos. 
+La puntuación máxima que se podrá obtener en este apartado será de 8 puntos. 
+ Horas adicionales gratuitas de mantenimiento evolutivo no presencial 
+Adicionalmente a la bolsa máxima de 150 horas anuales de mantenimiento evolutivo sujeta a pago por uso, se 
+valorarán hasta un máximo de 5 puntos las horas anuales adicionales que el licitador oferte sin coste para el Tribunal: 
+▪ Si no se ofertan horas o el número es inferior a 10 horas, se asignarán 0 puntos. 
+▪ Si se ofertan 10 horas o más, pero menos de 20, se asignará 1 punto. 
+▪ Si se ofertan 20 horas o más, pero menos de 30, se asignarán 2 puntos. 
+▪ Si se ofertan 30 horas o más, pero menos de 40, se asignarán 3 puntos. 
+
+--- página 18 ---
+ 
+TRIBUNAL CONSTITUCIONAL 
+ 
+ 
+ 
+ 
+ 
+Pliego de prescripciones técnicas para el servicio de 
+actualización, mantenimiento y soporte de la 
+Plataforma Port@firmas y @Firma Federado 
+ 
+ 
+Domenico Scarlatti, 6 E-28003 Madrid Tlf.:91 550 82 31 – Fax: 91 544 97 01  
+  
+Página 18 de 20  
+ 
+▪ Si se ofertan 40 horas o más, pero menos de 50, se asignarán 4 puntos. 
+▪ Si se ofertan 50 horas o más, se asignarán 5 puntos. 
+Las horas gratuitas se consumirán antes de las horas facturables y quedarán comprometidas en cada anualidad, 
+incluidas, en su caso, las prórrogas. 
+A efectos de valoración se tendrán en cuenta, como máximo, cuatro perfiles técnicos, que deberán quedar 
+efectivamente adscritos a la ejecución del contrato. Una misma persona solo podrá computar como un perfil. La 
+sustitución posterior estará sujeta a las condiciones previstas en el presente pliego. 
+La experiencia de los perfiles adscritos al contrato se computará en meses completos de experiencia efectiva, hasta 
+la fecha de finalización del plazo de presentación de ofertas. Los periodos correspondientes a proyectos simultáneos 
+no podrán computarse de forma acumulativa. La experiencia deberá acreditarse mediante currículum profesional y 
+documentación suficiente que permita verificar los proyectos realizados, su duración, las funciones desempeñadas 
+y las tecnologías empleadas. 
+6.2. Criterios de Adjudicación Sujetos a Juicio de Valor 
+Para el modelo de servicio y gestión de éste propuestos en el documento “Servicio de Soporte, Actualización y 
+Mantenimiento global de Port@firmas y @Firma Federado” se asigna un peso total de 15 puntos, valorándose la 
+concreción de las soluciones aportadas, incluyendo ejemplos y detalles aplicables a la realidad del TC y la aportación 
+diferencial respecto de lo mínimo exigido en el Pliego. 
+ Descripción de la Solución 
+Se valorará la descripción de la solución técnica, cronograma del servicio, metodología y entregables, hasta un 
+máximo de 5 puntos.  
+ Modelo de Servicio 
+Se valorarán las propuestas relativas a planificación, dirección y seguimiento de los trabajos, así como mecanismos 
+de control, mejora y detección temprana de problemas asociados al servicio, hasta un máximo de 5 puntos.  
+ Mejoras en los ANS 
+Se valorarán las mejoras sobre los niveles mínimos exigidos en el PPT, hasta un máximo de 5 puntos. 
+7. DURACIÓN DEL CONTRATO 
+El plazo de ejecución inicial del contrato será de dos años a partir del 1 de enero de 2027, o en su caso, desde la fecha 
+de formalización del contrato o desde la fecha que se indique en el mismo.  
+Podrá prorrogarse por dos periodos adicionales de un año cada uno, mediante acuerdo del órgano de contratación 
+del Tribunal Constitucional, que resultará obligatorio para el adjudicatario conforme al artículo 29 de la LCSP, 
+siempre que el preaviso se produzca al menos con dos meses de antelación a la finalización del plazo de duración 
+del contrato. 
+La duración total del contrato, incluidas las prórrogas, no podrá ser superior a cuatro años (2+1+1). 
+8. GARANTÍA 
+El adjudicatario deberá garantizar las implantaciones, procedimientos y desarrollos evolutivos durante un periodo 
+de 12 meses a contar desde la aceptación realizada por el Tribunal, sin que ello suponga un coste adicional para el 
+Tribunal. 
+
+--- página 19 ---
+ 
+TRIBUNAL CONSTITUCIONAL 
+ 
+ 
+ 
+ 
+ 
+Pliego de prescripciones técnicas para el servicio de 
+actualización, mantenimiento y soporte de la 
+Plataforma Port@firmas y @Firma Federado 
+ 
+ 
+Domenico Scarlatti, 6 E-28003 Madrid Tlf.:91 550 82 31 – Fax: 91 544 97 01  
+  
+Página 19 de 20  
+ 
+9. FACTURACIÓN 
+La facturación del componente fijo del servicio se realizará por meses naturales vencidos y por los servicios 
+efectivamente prestados, de acuerdo con el precio fijo anual ofertado por el adjudicatario, que no podrá superar los 
+16.965,00 euros, IVA excluido. 
+Las actuaciones de mantenimiento evolutivo se facturarán exclusivamente por las horas previamente autorizadas, 
+efectivamente ejecutadas y aceptadas por el Tribunal, al precio unitario ofertado por el adjudicatario, previa 
+conformidad de los responsables del proyecto del Tribunal. 
+La Administración no queda obligada a consumir total o parcialmente la bolsa de 150 horas anuales, sin que las horas 
+no utilizadas generen derecho de cobro, compensación o indemnización. 
+En ningún caso la suma del componente fijo y del importe correspondiente a las horas de mantenimiento evolutivo 
+efectivamente ejecutadas podrá superar el presupuesto máximo anual de 27.648,76 euros, IVA excluido. 
+10. SEGUIMIENTO DE EJECUCIÓN DEL CONTRATO 
+Corresponde al Tribunal la supervisión y dirección del Servicio, proponer las modificaciones convenientes o, en su 
+caso, proponer la suspensión de este si existiese causa suficientemente motivada. 
+Durante todas las fases de la ejecución del contrato la empresa adjudicataria ofrecerá una interlocución única que 
+coordine con los responsables del Tribunal Constitucional el seguimiento del servicio. 
+El Tribunal podrá fijar reuniones, con el fin de realizar seguimiento a la ejecución del contrato, a las que deberá 
+asistir el responsable del Proyecto designado por el adjudicatario. 
+11. DILIGENCIA EXIGIBLE 
+El adjudicatario ejecutará el contrato en los términos previstos en el presente Pliego, realizando de manera 
+competente y profesional el objeto del contrato, cumpliendo los niveles de calidad exigidos y cuidando 
+diligentemente los equipos puestos a su disposición para el cumplimiento de sus fines por el Tribunal. A estos 
+efectos, el adjudicatario responderá de la calidad del trabajo desarrollado con la diligencia exigible a una empresa 
+experta en la realización del servicio del tipo del objeto del contrato.  
+El adjudicatario se responsabiliza de la corrección y precisión de los documentos y entregables, respondiendo de los 
+daños y perjuicios por reclamaciones de terceros que tengan su causa en errores, métodos inadecuados o 
+conclusiones incorrectas de los adjudicatarios, en la ejecución del contrato o que deriven de la falta de diligencia 
+referida. 
+12. DERECHOS DE USO 
+Las adaptaciones, scripts, configuraciones y desarrollos específicos realizados para el Tribunal deberán entregarse 
+con su código fuente y documentación, respetando los derechos preexistentes y las licencias aplicables. No podrán 
+introducirse dependencias o restricciones que impidan al Tribunal auditar, mantener o evolucionar las entregas 
+específicas realizadas con cargo al contrato. 
+13. SEGURIDAD Y CONFIDENCIALIDAD 
+El contratista deberá respetar el carácter confidencial de la información a la que tenga acceso con ocasión de la 
+ejecución del contrato no pudiendo utilizarla para fines distintos y siendo el único responsable de cualquier 
+utilización indebida, pérdida o deterioro, o circunstancia análoga que se produzca.  
+
+--- página 20 ---
+ 
+TRIBUNAL CONSTITUCIONAL 
+ 
+ 
+ 
+ 
+ 
+Pliego de prescripciones técnicas para el servicio de 
+actualización, mantenimiento y soporte de la 
+Plataforma Port@firmas y @Firma Federado 
+ 
+ 
+Domenico Scarlatti, 6 E-28003 Madrid Tlf.:91 550 82 31 – Fax: 91 544 97 01  
+  
+Página 20 de 20  
+ 
+Del mismo modo, es obligación del contratista guardar sigilo respecto a los datos o antecedentes que, no siendo 
+públicos o notorios, estén relacionados con el objeto del contrato, de los que tenga conocimiento con ocasión de 
+este. 

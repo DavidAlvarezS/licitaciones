@@ -11,5 +11,5 @@
 ## Documentos
 
 - [Legal] PCAP CP001552026.pdf: 01_Legal_PCAP_CP001552026.pdf (1922 KB)
-- [Technical] PPT CP001552026.pdf: 02_Technical_PPT_CP001552026.pdf (84 KB)
+- [Technical] PPT CP01552026 Firmado.pdf: 02_Technical_PPT_CP01552026_Firmado.pdf (387 KB)
 - [Additional] ANEXOS CP001552026.docx: 03_Additional_ANEXOS_CP001552026.docx (5317 KB)

@@ -1,0 +1,752 @@
+
+
+--- página 1 ---
+               PARQUE MÓBIL
+PCO.001.2026.00921
+ANEXO III
+Prego de prescricións técnicas para a xeolocalización e xestión da frota de vehículos  
+da Deputación da Coruña
+OBXECTO
+O presente prego ten por obxecto recoller as condicións técnicas e económicas
+básicas polas que se rexerá o procedemento de licitación para a contratación do
+servizo de instalación e mantemento de xeolocalizadores e de xestión de frota dos
+vehículos do Parque móbil da Deputación da Coruña en modalidade de SaaS
+(Software as a Service ).
+ANTECEDENTES
+A Deputación da Coruña dispón no seu Parque móbil de 46 vehículos que dispoñen de
+dispositivos de xeolocalización instalados para a monitoraxe de diversas variables de
+uso e funcionalidade do vehículo.
+Considérase tamén necesario dispoñer de tres localizadores máis con conexión
+EOBD o compatibles para poder incorporar aos vehículos de substitución cando fose
+necesario.
+A información fornecida polos localizadores dos vehículos deberá ser transmitida e
+visualizada nunha plataforma na nube en tempo real e permitir a súa integración coas
+aplicacións corporativas tal e como se sinalará.
+DESCRICIÓN E ALCANCE DOS TRABALLOS A REALIZAR
+O conxunto dos traballos a realizar quedan descritos a continuación:
+1. Dispoñibilidade de datos
+A oferta debe incluír a subministración e instalación de 49 dispositivos de
+xeolocalización (3 deles con conexión EOBD o compatibles) para vehículos do Parque
+móbil e que serán todos eles compatibles coa plataforma de xestión ofertada, de modo
+que permita ao Parque móbil dispoñer dos datos xerados polos dispositivos. Á súa vez
+debe permitir realizar cambios na configuración dos dispositivos sen ter que acceder
+https://sede.dacoruna.gal/valdoc?c=81eedd30f680d37b31bae4ce20c942a94fdd0fac
+Validación de documentos:
+https://sede.dacoruna.gal/valdoc
+Código:
+81eedd30f680d37b31bae4ce20c942a94fdd0fac
+PAULA MARÍA VAZQUEZ
+CARRASCO
+Data e hora: 22/10/2026 11:37
+
+--- página 2 ---
+               PARQUE MÓBIL
+PCO.001.2026.00921
+fisicamente aos equipos.
+2. Usuarios
+A adxudicataria deberá prover a cada un dos usuarios das centrais de control sitas na
+Deputación dunha clave para acceder ao sistema.
+O número de persoas usuarias da plataforma será ilimitado, e será a Deputación da
+Coruña a encargada de dar acceso ás persoas ou servizos que se considere
+necesario. O acceso á información de cada usuario poderá fixarse por niveis, podendo
+limitala a unha agrupación de vehículos concreta, segundo as responsabilidades de
+cada usuario autorizado.
+3. Conservación da información
+A información recompilada deberá manterse almacenada durante todo o tempo de
+duración do contrato. Durante este tempo poderá ser consultada, analizada e tratada
+para a extracción de percorridos, localizacións, índices ou estatísticas.
+4. Anomalías durante a execución
+A adxudicataria deberá comunicar de forma inmediata á persoa responsable do
+contrato calquera anomalía que se detecte durante a execución do contrato, en
+especial as daqueles equipos que sexan desconectados polas persoas usuarias dos
+vehículos.
+SOLUCIÓN OFERTADA
+A solución debe cumprir as características técnicas e ofrecer, polo menos, as
+funcionalidades de dispoñibilidade e tratamento da información indicada a
+continuación.
+Como         principais   características         técnicas     da         solución:  
+∙ Servizo sincronizado en tempo real e accesible desde calquera sistema con
+conexión a internet, en modalidade de SaaS.
+ ∙ Integración co sistema de xestión de expedientes da Deputación da Coruña,
+SUBTEL/SUBTEL, mediante API, WEBHOOK ou mecanismo similar. Na oferta
+débese incluír a documentación técnica da integración e valorarase o grao de
+funcionalidade da mesma.
+https://sede.dacoruna.gal/valdoc?c=81eedd30f680d37b31bae4ce20c942a94fdd0fac
+Validación de documentos:
+https://sede.dacoruna.gal/valdoc
+Código:
+81eedd30f680d37b31bae4ce20c942a94fdd0fac
+PAULA MARÍA VAZQUEZ
+CARRASCO
+Data e hora: 22/10/2026 11:37
+
+--- página 3 ---
+               PARQUE MÓBIL
+PCO.001.2026.00921
+∙ Poderase solicitar unha demostración previa do produto.
+∙ Compatible con calquera navegador: Internet Explorer, Mozilla Firefox,
+Google Chrome, etc.
+∙ Compatible con calquera sistema operativo: Windows, Macintosh, Linux, etc.
+∙ Compatible con velocidades lentas da internet (envío de datos comprimidos).
+∙ Solución adaptada a diferentes tamaños de dispositivos: smartphones,
+tabletas, pc...
+∙ Sen perda de datos en caso de fallos na rede GPRS provocados por
+apantallamiento do sinal, erros na SIM, problemas coa teleoperadora, etc.
+Como         principais     funcionalidades   da         solución:  
+Funcionalidades xerais
+∙ Recompilación da información transmitida por cada vehículo durante as vinte e
+catro horas do día e durante os 365 días do ano.
+∙ Frecuencia de recollida de datos cada 10 segundos en caso de vehículos acesos
+e 1 hora en caso de vehículos apagados.
+∙ Visibilización sobre diferentes servizos de mapas de todos os dispositivos
+ xeolocalizados. O programa incluirá, como mínimo, a cartografía nacional.
+ ∙ Rexistro e control de parámetros en plataforma de control de frotas, tales como,
+ posicionamento do vehículo, velocidade, paradas, arranque ou apagamento do
+ vehículo, ralentí, fallos de voltaxe en baterías, etc.
+∙ Detección de estado do vehículo.
+∙ Consulta sobre mapa e graficado do historial dos vehículos.
+∙ Cálculo de roteiros, medida de distancias, creación de puntos de interese,
+creación de geozonas, procura de direccións...
+∙ Xeración de Alertas para o control da actividade dos vehículos.
+∙ Sistema de odómetro dixital para o control de quilometraxes de vehículos.
+∙ Sistema de xeración de informes de percorridos e paradas.
+∙ Control da produtividade da condución, é dicir, de todas as viaxes, percorridos e
+paradas que o vehículo vai efectuando, podendo consultar os tempos
+empregados, a posición e percorrido en mapa, as velocidades, paradas,…
+Funcionalidades específicas
+∙ Os vehículos deben dispoñer dunha ficha na aplicación onde se poderán recoller
+os seguintes datos: Fotografía do vehículo, matrícula, marca, modelo, ano de
+adquisición, odómetro dixital, datos relativos ao motor (marca, tipo, cilindros,
+potencia, tipo de combustible), datos relativos á ITV, ao imposto de
+matriculación, reparacións realizadas, mantementos realizados, seguros e datos
+e retimbrado de extintores..
+https://sede.dacoruna.gal/valdoc?c=81eedd30f680d37b31bae4ce20c942a94fdd0fac
+Validación de documentos:
+https://sede.dacoruna.gal/valdoc
+Código:
+81eedd30f680d37b31bae4ce20c942a94fdd0fac
+PAULA MARÍA VAZQUEZ
+CARRASCO
+Data e hora: 22/10/2026 11:37
+
+--- página 4 ---
+               PARQUE MÓBIL
+PCO.001.2026.00921
+∙ Posibilidade de rexistrar na propia aplicación os accidentes.
+∙ Control de horarios de condución con hora de inicio, hora de finalización e horas
+totais conducidas a final de día, con posibilidade de extraer a información nun
+informe PDF/PDF ou CSV.
+       ∙ Informes da actividade dos vehículos en pantalla ou exportación a CSV. Os
+           informes serán detallados, flexibles e personalizados. Posibilidade de
+           personalizalos ao gusto da Deputación ou crear novos tipos de informe.
+∙ O nivel de acceso de usuario permitirá visualizar os vehículos arrincados a ese
+nivel, quedando todos os datos do historial vinculados ao devandito nivel de
+acceso. Neste punto, os usuarios só poderán ver o historial e a posición en
+tempo real daqueles vehículos que fosen arrincados por medio dun condutor
+pertencente ao seu servizo. Desta maneira, un usuario poderá ver uns
+vehículos ou outros dependendo do nivel de acceso asignado.
+∙ Os condutores, vehículos, usuarios, etc. poderán ser clasificados nun número
+ilimitado de grupos que afectarán á capacidade de visualización dos obxectos
+clasificados.
+∙ O número de usuarios da plataforma será ilimitado, e será a Deputación da
+Coruña a encargada de dar acceso ás persoas ou servizos que considere
+oportuno.
+∙ Incluirase ademais a atención 24/7 para posibles incidentes con tempos de
+resposta inferiores a 24 horas.
+∙ Todos os datos, ou parcialmente, poderán ser envorcados a servidores da
+Deputación Provincial si esta o requiríse, ou manterse nun servidor externo se
+así se lle indicase.
+∙ A adxudicataria realizará un mínimo de 1 xornada formativa presencial ao
+persoal encargado da xestión do sistema.
+SERVIZOS INCLUÍDOS NO ARRENDAMENTO CON
+MANTEMENTO
+• Instalación dos localizadores non prazo dos 10 días seguintes á sinatura do contrato
+administrativo.
+A instalación e desinstalación dos localizadores nos vehículos que se indiquen (incluirá a
+desinstalación e instalación durante toda a vixencia do contrato nos vehículos que sexa 
+necesario )
+• Mantemento dos aparellos localizadores e do software en estado permanente de
+conexión.
+• A substitución de localizadores ou pezas dos mesmos están incluída non prezo do
+https://sede.dacoruna.gal/valdoc?c=81eedd30f680d37b31bae4ce20c942a94fdd0fac
+Validación de documentos:
+https://sede.dacoruna.gal/valdoc
+Código:
+81eedd30f680d37b31bae4ce20c942a94fdd0fac
+PAULA MARÍA VAZQUEZ
+CARRASCO
+Data e hora: 22/10/2026 11:37
+
+--- página 5 ---
+               PARQUE MÓBIL
+PCO.001.2026.00921
+contrato debendo levar a cabo as reparacións ou substitucións necesarias en caso
+de avaría dos localizadores nun tempo máximo de 48 horas desde a comunicación
+do incidente.
+SEGURIDADE E PROTECCIÓN DE DATOS.
+Os servizos obxecto desta contratación implican o tratamento de datos persoais, das
+categorías de datos identificativos e de xeolocalización, o que deberá reflectirse no
+Prego de cláusulas administrativas particulares xunto coas consideracións legais en
+materia de protección de datos propias dos referidos pregos.
+Para os efectos de garantir o cumprimento dos requisitos de seguridade, os
+licitadores deberán presentar unha declaración/compromiso, para o caso de
+resultar adxudicatarios, de cumprimento de todos os requisitos e de asumir
+todas as obrigacións impostas no anexo que se xunta.
+O que comunico para os efectos oportunos.
+A Coruña, na data de sinatura electrónica.
+A Oficial Maior,
+Paula María Vázquez Carrasco
+SERVIZO DE PATRIMONIO E CONTRATACIÓN.
+EXCMA. DEPUTACIÓN PROVINCIAL DA CORUÑA.
+https://sede.dacoruna.gal/valdoc?c=81eedd30f680d37b31bae4ce20c942a94fdd0fac
+Validación de documentos:
+https://sede.dacoruna.gal/valdoc
+Código:
+81eedd30f680d37b31bae4ce20c942a94fdd0fac
+PAULA MARÍA VAZQUEZ
+CARRASCO
+Data e hora: 22/10/2026 11:37
+
+--- página 6 ---
+               PARQUE MÓBIL
+PCO.001.2026.00921
+ANEXO I A
+SEGURIDAD
+1. ANTECEDENTES
+El contrato comprende el suministro, instalación, desinstalación, sustitución y mantenimiento de 49 
+dispositivos de geolocalización, de los que tres dispondrán de conexión EOBD o compatible, así 
+como una plataforma de gestión de flota accesible en modalidad SaaS. La plataforma recopilará y 
+conservará durante la vigencia del contrato información de posición, recorridos, velocidad, paradas, 
+arranque y apagado, kilometraje, alertas y determinados datos técnicos del vehículo. Asimismo, 
+incluirá datos de usuarios, conductores y vehículos, control de horarios de conducción, gestión de 
+incidencias y generación de informes.
+La  solución  deberá  sincronizar  información  en  tiempo  real,  permitir  la  gestión  remota  de  la 
+configuración de los dispositivos e integrarse con el sistema corporativo SUBTEL mediante API, 
+webhook o mecanismo equivalente. El pliego también prevé la posibilidad de volcado total o parcial 
+de los datos a servidores de la Diputación, soporte 24/7 con tiempos de respuesta inferiores a 24 
+horas y actuaciones de reparación o sustitución en un máximo de 48 horas.
+Por  la  naturaleza  del  servicio,  el  adjudicatario  tratará  datos  personales  identificativos  y  de 
+geolocalización por cuenta de la Diputación y prestará un servicio cloud vinculado a dispositivos 
+conectados. La integración con un sistema corporativo y los posibles intercambios con servidores 
+de  la  Diputación  implican,  además,  acceso  o  interconexión  con  sistemas  internos.  En 
+consecuencia, resulta necesaria la aplicación de los requisitos del Esquema Nacional de Seguridad 
+(ENS) y de la normativa interna de contratación con terceros.
+Para mitigar los riesgos identificados, se han aplicado los siguientes controles del Anexo II del RD 
+311/2022: 
+[op.pl.1] Análisis de riesgos
+● Acceso no autorizado a datos de localización y perfiles de usuarios. La plataforma 
+permite consultar en tiempo real e históricamente la posición, recorridos y actividad de 
+vehículos asociados a personas conductoras o servicios. Una asignación incorrecta de 
+perfiles o una autenticación insuficiente podría permitir accesos indebidos.
+● Pérdida de confidencialidad o uso no autorizado de la información. Los datos de 
+geolocalización y de actividad de la flota pueden revelar patrones de trabajo, ubicaciones, 
+turnos  o  incidencias.  Su  tratamiento  por  un  proveedor  SaaS  y,  en  su  caso,  por 
+subencargados cloud incrementa la exposición.
+https://sede.dacoruna.gal/valdoc?c=81eedd30f680d37b31bae4ce20c942a94fdd0fac
+Validación de documentos:
+https://sede.dacoruna.gal/valdoc
+Código:
+81eedd30f680d37b31bae4ce20c942a94fdd0fac
+PAULA MARÍA VAZQUEZ
+CARRASCO
+Data e hora: 22/10/2026 11:37
+
+--- página 7 ---
+               PARQUE MÓBIL
+PCO.001.2026.00921
+● Alteración  de  datos,  alertas  o  configuraciones. La  manipulación  no  autorizada  de 
+posiciones,  históricos,  grupos,  permisos,  alertas  o  de  la  configuración  remota  de  los 
+localizadores podría afectar a la fiabilidad del control de flota.
+● Indisponibilidad  del  servicio  o  pérdida  de  datos. Fallos  de  la  plataforma,  de  la 
+conectividad móvil, de las copias de seguridad o de la integración con SUBTEL pueden 
+impedir el seguimiento y gestión de los vehículos o provocar pérdida de información.
+● Riesgo de interconexión. La integración prevista mediante API, webhook o mecanismo 
+similar y el posible volcado a servidores de la Diputación deben impedir que la plataforma 
+SaaS constituya una vía de acceso no controlada a la red corporativa.
+● Vulnerabilidades en los dispositivos IoT. Los localizadores y sus interfaces de gestión 
+remota pueden incorporar firmware, servicios, credenciales o comunicaciones vulnerables, 
+o transmitir información a infraestructuras no autorizadas.
+Falta  de  trazabilidad. Deben  poder  identificarse  las  operaciones  relevantes  realizadas  por 
+usuarios y por personal del proveedor, incluidas las modificaciones de permisos, configuraciones y 
+exportaciones de información.
+2. CLAUSULADO DE SEGURIDAD
+A la vista del informe en materia de ciberseguridad emitido por la Sección de Seguridad de la 
+Información se detallan las siguientes cláusulas de seguridad:
+2.1 Marco de referencia para la gestión de la ciberseguridad
+La empresa adjudicataria:
+● Cumplirá las directrices establecidas en la Política de Seguridad de la Información de la 
+Diputación Provincial de A Coruña y su normativa asociada.
+● Aplicará una metodología formal de gestión de la ciberseguridad basada en políticas, 
+normas y procedimientos, cubriendo todas las fases del ciclo de vida del servicio contratado, 
+con un enfoque basado en el riesgo.
+● Designará, conforme al artículo 13 del Real Decreto 311/2022, de 3 de mayo, por el que se 
+regula el Esquema Nacional de Seguridad, un Punto de Contacto (POC) para la seguridad 
+del  servicio,  responsable  de  coordinar  la  gestión  de  la  seguridad  y  de  canalizar  las 
+comunicaciones con la Diputación.
+● Identificará los controles de ciberseguridad que aplicará al servicio, garantizando que su 
+implantación no degrade el rendimiento ni la disponibilidad de este.
+● Asegurará la formación y capacitación del personal involucrado en la prestación del servicio 
+en materia de seguridad, ENS, ciberseguridad y normativa aplicabl
+https://sede.dacoruna.gal/valdoc?c=81eedd30f680d37b31bae4ce20c942a94fdd0fac
+Validación de documentos:
+https://sede.dacoruna.gal/valdoc
+Código:
+81eedd30f680d37b31bae4ce20c942a94fdd0fac
+PAULA MARÍA VAZQUEZ
+CARRASCO
+Data e hora: 22/10/2026 11:37
+
+--- página 8 ---
+               PARQUE MÓBIL
+PCO.001.2026.00921
+● Realizará un chequeo inicial de cumplimiento de los requisitos de seguridad antes de la 
+puesta en producción, documentando los resultados para su validación por la Diputación.
+2.2 Análisis de riesgos
+Cuando la Diputación lo determine, en función del impacto del servicio o sistema, la empresa 
+adjudicataria deberá realizar un análisis de riesgos conforme al artículo 14 del ENS utilizando la 
+metodología MAGERIT o equivalente aceptada, incluyendo:
+•        Identificación y valoración de activos.
+•        Riesgo inicial.
+•        Amenazas relevantes.
+•        Controles de seguridad propuestos.
+•        Riesgo residual obtenido tras aplicar los controles.
+El análisis realizado formará parte de la evaluación del riesgo del sistema de la Diputación. El 
+adjudicatario deberá colaborar e implementar bajo el alcance del contrato, aquello que le sea de 
+aplicación.
+2.3 Auditorías y supervisión
+La Diputación (o un tercero designado) podrá realizar auditorías o revisiones de seguridad cuando 
+el servicio contratado tenga impacto en la seguridad de los sistemas de información o en la 
+continuidad del servicio.
+La empresa adjudicataria deberá:
+● proporcionar información, registros y evidencias,
+● colaborar en las pruebas técnicas,
+● custodiar los registros relevantes,
+● y no divulgar resultados de auditoría ni vulnerabilidades detectadas.
+2.4  Incidentes de seguridad 
+La  empresa  adjudicataria  deberá  establecer  un  proceso  formal  de  gestión  de  incidentes  de 
+seguridad, habilitando los procedimientos y mecanismos oportunos para la notificación y reporte de 
+incidentes  que  puedan  comprometer  la  seguridad  de  la  información  clasificada  o  afectar  la 
+confidencialidad, integridad o disponibilidad a las autoridades pertinentes (CCN-CERT o INCIBE) y 
+también a la Diputación de A Coruña dentro de las 24 horas de la detección del incidente. Todo el 
+personal involucrado en los trabajos deberá ser formado en estos procedimientos.
+El adjudicatario deberá presentar un plan de respuesta a incidentes de seguridad que incluya los 
+procedimientos  a  seguir  en  caso  de  brechas  de  seguridad,  la  identificación  de  los  roles  y 
+responsabilidades, los mecanismos de comunicación y los procedimientos de recuperación
+A su vez, el adjudicatario deberá colaborar con la Diputación en la resolución de incidentes de 
+seguridad que afecten a los productos y/o servicios objeto del contrato, a fin de calibrar el impacto 
+del incidente y definir las medidas necesarias de contención, mitigación, respuesta y recuperación.
+https://sede.dacoruna.gal/valdoc?c=81eedd30f680d37b31bae4ce20c942a94fdd0fac
+Validación de documentos:
+https://sede.dacoruna.gal/valdoc
+Código:
+81eedd30f680d37b31bae4ce20c942a94fdd0fac
+PAULA MARÍA VAZQUEZ
+CARRASCO
+Data e hora: 22/10/2026 11:37
+
+--- página 9 ---
+               PARQUE MÓBIL
+PCO.001.2026.00921
+2.5 Reversibilidad y finalización
+Al finalizar el contrato, el adjudicatario deberá: 
+● devolver o eliminar la información tratada, 
+● entregar certificado de eliminación cuando proceda, 
+● revocar accesos y credenciales, 
+● entregar documentación técnica actualizada. 
+2.6 Seguridad en la cadena de suministro
+No podrá subcontratarse ninguna parte del servicio sin autorización previa y por escrito de la 
+Diputación.  El  adjudicatario  garantizará  que  todos  los  productos,  servicios,  componentes  y 
+proveedores  implicados  en  la  prestación  del  servicio  cumplen  los  requisitos  de  seguridad 
+establecidos en este documento. Asimismo, deberá asegurar que ningún elemento de la cadena 
+de suministro introduce vulnerabilidades, accesos no autorizados, código malicioso o dependencias 
+inseguras en los sistemas de la Diputación.
+2.7 Cumplimiento del Esquema Nacional de Seguridad
+La exigencia de las medidas recogidas en este apartado se realizará conforme a los principios de 
+necesidad, adecuación y proporcionalidad al objeto del contrato, sin imponer obligaciones técnicas 
+que no guarden relación directa con el servicio prestado.
+El adjudicatario deberá garantizar el cumplimiento de los requisitos establecidos en el Esquema 
+Nacional de Seguridad (ENS), aprobado por el Real Decreto 311/2022, adecuados al nivel exigido 
+por la Diputación Provincial de A Coruña, que actualmente corresponde al Nivel Medio.
+A estos efectos, el adjudicatario deberá acreditar que dispone de un sistema de seguridad de la 
+información adecuado al ENS.
+Dicha acreditación podrá realizarse mediante la aportación de un certificado de conformidad con el 
+ENS en vigor, cuando proceda, o mediante otros medios de prueba equivalentes, tales como 
+certificaciones en normas de seguridad de la información reconocidas (por ejemplo, ISO/IEC 
+27001), siempre que permitan acreditar un nivel de seguridad equivalente y sean coherentes con 
+el objeto del contrato.
+En  todo  caso,  la  aportación  de  certificaciones  alternativas  no  exime  al  adjudicatario  del 
+cumplimiento efectivo de las obligaciones derivadas del Esquema Nacional de Seguridad ni de la 
+aplicación de las medidas de seguridad que resulten exigibles durante la ejecución del contrato.
+Asimismo, el adjudicatario garantizará que cualquier infraestructura, servicio o tecnología utilizada 
+para la ejecución del contrato cumple el nivel ENS requerido por la Diputación.
+2.8 Información sobre arquitectura y dependencias
+El adjudicatario deberá proporcionar,  cuando proceda, información suficiente para evaluar la 
+seguridad del servicio, incluyendo:
+● diagrama lógico de arquitectura,
+● componentes y dependencias técnicas,
+https://sede.dacoruna.gal/valdoc?c=81eedd30f680d37b31bae4ce20c942a94fdd0fac
+Validación de documentos:
+https://sede.dacoruna.gal/valdoc
+Código:
+81eedd30f680d37b31bae4ce20c942a94fdd0fac
+PAULA MARÍA VAZQUEZ
+CARRASCO
+Data e hora: 22/10/2026 11:37
+
+--- página 10 ---
+               PARQUE MÓBIL
+PCO.001.2026.00921
+● puntos de integración con sistemas de la Diputación,
+● requisitos de conectividad y comunicaciones.
+Esta información se entregará antes del inicio del servicio y cuando existan cambios relevantes.
+2.9 Ubicación y tratamiento de la información
+El adjudicatario deberá informar previamente de la ubicación donde se almacenarán o procesarán 
+los  datos,  incluyendo  sistemas  principales,  copias  de  seguridad  y  registros.
+No se permitirá el traslado de información a ubicaciones distintas sin autorización expresa de la 
+Diputación.
+Cuando proceda, deberán respetarse los requisitos de residencia en la Unión Europea y las 
+restricciones derivadas de la normativa sectorial.
+2.10 Seguridad física
+Cuando la prestación del servicio implique presencia del personal del adjudicatario en instalaciones 
+de la Diputación, este deberá cumplir las normas de acceso físico, identificación, acompañamiento 
+y uso de acreditaciones establecidas por la Diputación.
+No se permitirá la entrada de equipos no autorizados ni la retirada de información o dispositivos sin 
+permiso expreso.
+2.11 Restricciones de seguridad
+Queda expresamente prohibido:
+● establecer conexiones no autorizadas con la red de la Diputación,
+● desplegar software o herramientas no autorizadas,
+● crear túneles cifrados paralelos o accesos alternativos,
+● almacenar información de la Diputación en equipos no autorizados,
+● utilizar dispositivos personales para la prestación del servicio.
+2.12 Uso de sistemas de Inteligencia Artificial
+Cuando el contratista utilice sistemas de Inteligencia Artificial, deberá cumplir íntegramente la 
+normativa aplicable, en particular el Reglamento de Inteligencia Artificial de la Unión Europea (RIA), 
+el Reglamento General de Protección de Datos (RGPD) y la normativa vigente en materia de 
+propiedad intelectual y ciberseguridad. Asimismo, asumirá plena responsabilidad por los resultados 
+obtenidos mediante dichos sistemas, así como por cualesquiera daños, perjuicios o infracciones 
+derivados de su uso.
+2.13 Consecuencias del incumplimiento
+El incumplimiento de cualquiera de las obligaciones establecidas en la presente sección o en los 
+anexos que forman parte de este documento se considerará incumplimiento contractual grave, 
+https://sede.dacoruna.gal/valdoc?c=81eedd30f680d37b31bae4ce20c942a94fdd0fac
+Validación de documentos:
+https://sede.dacoruna.gal/valdoc
+Código:
+81eedd30f680d37b31bae4ce20c942a94fdd0fac
+PAULA MARÍA VAZQUEZ
+CARRASCO
+Data e hora: 22/10/2026 11:37
+
+--- página 11 ---
+               PARQUE MÓBIL
+PCO.001.2026.00921
+pudiendo dar lugar a la resolución del contrato, así como a la exigencia de responsabilidades 
+económicas o jurídicas al adjudicatario por los daños y perjuicios que pudieran derivarse.
+2.14 Cláusulas de Confidencialidad
+El proveedor mantendrá absoluta confidencialidad sobre toda la información a la que acceda 
+durante  la  ejecución  del  contrato,  incluyendo  información  técnica,  operativa,  organizativa, 
+económica o de cualquier otra naturaleza de la Diputación Provincial de A Coruña.
+La información no podrá divulgarse, reproducirse ni utilizarse para fines distintos a los previstos en 
+el contrato. El personal del adjudicatario y, en su caso, subcontratistas, deberá estar sujeto a 
+compromisos de confidencialidad.
+Estas obligaciones continuarán vigentes tras la finalización del contrato.
+2.15 Cláusulas de Seguridad de la Información para servicios TIC
+El adjudicatario deberá:
+● Control de accesos:
+○ Utilizar mecanismos de autenticación robusta.
+○ Evitar cuentas genéricas o compartidas.
+○ Mantener registros de acceso y aplicar el principio de mínimo privilegio.
+○ Habilitar MFA cuando el servicio lo permita.
+○ Asegurar que los protocolos de autenticación empleados utilizan cifrados seguros: 
+TLS 1.2 o superior, firmas criptográficas SHA-256 o superior, cifrado AES-256 o 
+mecanismos equivalentes aprobados por CCN.
+● Gestión de identidades. Solicitar la creación o revocación de cuentas de acceso siguiendo 
+los  procedimientos  establecidos  por  la  Diputación  y  garantizar  la  no  reutilización  de 
+credenciales entre sistemas.
+● Bastionado. Aplicar configuraciones seguras de acuerdo con las guías de bastionado del 
+CCN-STIC  o,  en  su  defecto,  estándares  equivalentes  reconocidos.
+Se eliminarán servicios innecesarios, se deshabilitarán cuentas por defecto y se aplicarán 
+configuraciones reforzadas antes de la puesta en producción.
+● Seguridad en tránsito y almacenamiento:
+○ Utilizar canales cifrados para cualquier transmisión de información; proteger la 
+información en reposo mediante mecanismos de cifrado cuando sea sensible o así 
+se requiera contractualmente. 
+○ Toda  transmisión  de  información  deberá  utilizar:  TLS  1.2  o  superior, 
+recomendándose TLS 1.3. Protocolos seguros: HTTPS, SFTP / FTPS, SSH v2, 
+IPSec para túneles o enlaces remotos, SMTP con STARTTLS.
+○ Se  evitará  el  uso  de  protocolos,  algoritmos  o  configuraciones  criptográficas 
+obsoletas o consideradas inseguras conforme a las recomendaciones vigentes del 
+https://sede.dacoruna.gal/valdoc?c=81eedd30f680d37b31bae4ce20c942a94fdd0fac
+Validación de documentos:
+https://sede.dacoruna.gal/valdoc
+Código:
+81eedd30f680d37b31bae4ce20c942a94fdd0fac
+PAULA MARÍA VAZQUEZ
+CARRASCO
+Data e hora: 22/10/2026 11:37
+
+--- página 12 ---
+               PARQUE MÓBIL
+PCO.001.2026.00921
+CCN-CERT u organismos equivalentes. En particular, deberán emplearse protocolos 
+y mecanismos criptográficos robustos y soportados, salvo autorización expresa de 
+la Diputación por razones técnicas justificadas.
+○ La  información  en  reposo  deberá  protegerse  mediante:  AES-256,  XTS-AES, o 
+mecanismos equivalentes aprobados por CCN.
+● Seguridad en estaciones y herramientas del proveedor. Mantener actualizado todo 
+software utilizado para prestar el servicio, incluyendo sistema operativo, aplicaciones de 
+gestión, antivirus y herramientas administrativas. No se permitirá salvo autorización expresa 
+el uso de equipos no corporativos.
+● Gestión de vulnerabilidades. Aplicar parches y actualizaciones de seguridad en plazos 
+razonables  según  criticidad;  notificar  inmediatamente  a  la  Diputación  cualquier 
+vulnerabilidad grave detectada en sistemas relacionados con el servicio.
+● Seguridad en las comunicaciones. No se permitirá salvo autorización expresa la conexión 
+a redes, servicios o sistemas de la Diputación. Toda interconexión deberá cumplir los 
+requisitos técnicos de bastionado definidos por la Diputación.
+● Protección frente a código malicioso. Mantener sistemas antimalware actualizados y 
+activos en todos los equipos que intervengan en la prestación del servicio.
+● Registros y trazabilidad. Mantener trazas de las actividades realizadas por el personal del 
+proveedor; conservar registros de operaciones relevantes; y ponerlas a disposición de la 
+Diputación  cuando  sean  necesarias  para  auditorías,  investigaciones  o  resolución  de 
+incidencias.
+Los registros generados por el servicio deberán estar en formatos compatibles con sistemas 
+de monitorización o SIEM utilizados por la Diputación, incluyendo información suficiente 
+para la detección y análisis de incidentes. El adjudicatario garantizará su integridad y 
+disponibilidad durante el plazo requerido.
+● Segregación de entornos. Garantizar la separación entre entornos de desarrollo, pruebas 
+y producción, evitando la copia o uso de datos reales en entornos no productivos salvo 
+autorización expresa.
+● Manipulación  de  información. No  copiar,  extraer  ni  almacenar  información  de  la 
+Diputación  fuera  de  sus  instalaciones  o  sistemas  autorizados.  No  se  permitirá  salvo 
+autorización expresa el uso de dispositivos extraíbles sin autorización.
+● Interconexión  de  sistemas. No  establecer  conexiones  con  la  red  interna  ni  instalar 
+software o herramientas sin autorización.
+● Acuerdos de Nivel de Servicio (ANS/SLA).  En aquellos contratos que contemplen un 
+Acuerdo de Nivel de Servicio (ANS/SLA) relacionado con la disponibilidad de los servicios 
+prestados por la Diputación, deberá consultarse el Análisis de Impacto en el Negocio (BIA) 
+más reciente para tener en cuenta los requisitos de disponibilidad de los servicios afectados. 
+El BIA está contenido en el documento “DAC STIC-DRP-1 Análisis de Impacto”.
+https://sede.dacoruna.gal/valdoc?c=81eedd30f680d37b31bae4ce20c942a94fdd0fac
+Validación de documentos:
+https://sede.dacoruna.gal/valdoc
+Código:
+81eedd30f680d37b31bae4ce20c942a94fdd0fac
+PAULA MARÍA VAZQUEZ
+CARRASCO
+Data e hora: 22/10/2026 11:37
+
+--- página 13 ---
+               PARQUE MÓBIL
+PCO.001.2026.00921
+Asimismo, los acuerdos de nivel de servicio deberán incorporar, cuando el tipo de servicio 
+lo requiera, los tiempos máximos de recuperación del servicio (RTO) y los tiempos máximos 
+admisibles de pérdida de información (RPO), garantizando su alineación con el Plan de 
+Continuidad y Recuperación de la Diputación Provincial de A Coruña.
+2.16 Cláusulas para servicios de Mantenimiento de Sistemas e 
+        Infraestructuras TIC
+El proveedor deberá ejecutar todas las tareas de mantenimiento de los sistemas de información y 
+comunicaciones de la Diputación Provincial de A Coruña respetando los requisitos técnicos y de 
+seguridad establecidos en el Esquema Nacional de Seguridad (ENS – RD 311/2022), en este 
+contrato y en las normas internas de seguridad de la Diputación.
+Las obligaciones establecidas en este anexo serán de aplicación tanto para tareas presenciales 
+como remotas, así como para actuaciones planificadas, correctivas, preventivas o de soporte 
+técnico.
+El adjudicatario deberá realizar las tareas de mantenimiento técnico —correctivo, preventivo o 
+evolutivo— cumpliendo los requisitos técnicos y de seguridad establecidos por la Diputación y el 
+ENS.
+El adjudicatario deberá:
+1. Acceso autorizado a sistemas. Utilizar exclusivamente las cuentas autorizadas y respetar 
+el principio de mínimo privilegio. No crear usuarios, claves o canales alternativos sin 
+autorización.
+2. Autorización previa de intervenciones. Toda intervención técnica deberá ser comunicada 
+y autorizada previamente por la Diputación.
+3. Registro de intervenciones. Documentar todas las actuaciones indicando fecha, técnico, 
+sistemas afectados y tareas realizadas.
+4. Herramientas  y  equipamiento  del  proveedor.  Utilizar  únicamente  herramientas 
+autorizadas, correctamente actualizadas y protegidas. No se permitirá, salvo autorización 
+expresa, el uso de dispositivos personales.
+5. Modificación de configuraciones.  No alterar configuraciones de seguridad, reglas de 
+firewall, sistemas de registro o políticas internas sin autorización expresa.
+6. Planificación de cortes o ventanas técnicas. La aplicación de parches, actualizaciones o 
+cambios estructurales requerirá coordinación con la Diputación, evitando impactos no 
+planificados.
+7. Soportes técnicos y documentación. Toda documentación generada formará parte del 
+patrimonio de la Diputación y deberá ser entregada y mantenida actualizada.
+8. Acceso presencial.  El proveedor cumplirá las normas de acceso físico e identificación 
+definidas por la Diputación.
+9. Herramientas de diagnóstico o análisis.  La ejecución de herramientas de escaneo, 
+auditoría o análisis de red requerirá autorización expresa.
+https://sede.dacoruna.gal/valdoc?c=81eedd30f680d37b31bae4ce20c942a94fdd0fac
+Validación de documentos:
+https://sede.dacoruna.gal/valdoc
+Código:
+81eedd30f680d37b31bae4ce20c942a94fdd0fac
+PAULA MARÍA VAZQUEZ
+CARRASCO
+Data e hora: 22/10/2026 11:37
+
+--- página 14 ---
+               PARQUE MÓBIL
+PCO.001.2026.00921
+2.17 Cláusulas para acceso remoto seguro
+Cuando el adjudicatario requiera acceso remoto a sistemas, redes o aplicaciones de la Diputación, 
+este deberá realizarse de forma controlada, garantizando la integridad, autenticidad y trazabilidad 
+de las conexiones.
+1. Autenticación y control de acceso
+El adjudicatario deberá:
+● Utilizar autenticación multifactor (MFA) obligatoria.
+● No utilizar cuentas genéricas o compartidas.
+● Registrar la identidad del técnico/proveedor que accede.
+● Aplicar el principio de mínimo privilegio.
+2. Acceso remoto autorizado
+Todo acceso remoto deberá:
+● Realizarse exclusivamente mediante los mecanismos autorizados por la Diputación.
+● Mantener un canal cifrado en todo momento.
+● Utilizar equipos corporativos o autorizados expresamente.
+3. Supervisión y registros
+El adjudicatario deberá:
+● Registrar todas las sesiones de acceso remoto.
+● Mantener logs que permitan identificar usuario, fecha, sistemas accedidos y acciones 
+realizadas.
+4. Restricciones
+Queda prohibido:
+● Crear túneles alternativos o conexiones paralelas no autorizadas.
+● Transferir información fuera de los sistemas de la Diputación sin permiso.
+● Instalar software o herramientas no autorizadas.
+5. Revocación de accesos
+El adjudicatario deberá comunicar inmediatamente:
+● Altas y bajas de personal.
+● Cambios de función que afecten a su acceso.
+● Cualquier situación que afecte a la seguridad del acceso remoto.
+https://sede.dacoruna.gal/valdoc?c=81eedd30f680d37b31bae4ce20c942a94fdd0fac
+Validación de documentos:
+https://sede.dacoruna.gal/valdoc
+Código:
+81eedd30f680d37b31bae4ce20c942a94fdd0fac
+PAULA MARÍA VAZQUEZ
+CARRASCO
+Data e hora: 22/10/2026 11:37
+
+--- página 15 ---
+               PARQUE MÓBIL
+PCO.001.2026.00921
+2.18 Cláusulas para Sistemas y Dispositivos IoT
+Los requisitos recogidos en el presente anexo deberán aplicarse de forma proporcional al tipo de 
+dispositivo, su criticidad y el riesgo asociado, pudiendo adaptarse cuando existan limitaciones 
+técnicas debidamente justificadas y autorizadas por la Diputación: 
+1. Seguridad del dispositivo
+El adjudicatario deberá asegurar que los dispositivos:
+● No utilizan contraseñas por defecto y permiten mecanismos de autenticación robusta.
+● Incluyen firmware actualizado y libre de vulnerabilidades conocidas.
+● Permiten deshabilitar servicios no utilizados y puertos inseguros.
+● Incorporan mecanismos de cifrado para datos en tránsito (TLS 1.2+).
+● Soportan control de acceso basado en roles cuando aplique.
+2. Seguridad en la red
+Los dispositivos IoT deberán:
+● Integrarse en redes segmentadas o VLANs cuando así lo determine la Diputación.
+● No generar comunicaciones salientes a Internet sin autorización.
+● Utilizar protocolos seguros y documentados.
+● Registrar actividad relevante (logs) cuando el dispositivo lo permita.
+3. Firmware y actualizaciones
+El adjudicatario deberá:
+● Garantizar la disponibilidad de actualizaciones de seguridad del fabricante.
+● Notificar vulnerabilidades críticas del dispositivo.
+● Permitir actualización segura (sin pérdida de configuración ni integridad).
+4. Entrega y documentación técnica
+El adjudicatario deberá entregar:
+● documentación técnica completa del dispositivo,
+● lista de puertos, protocolos, APIs y servicios,
+● requisitos de red e integración,
+● manuales de configuración segura.
+5. Gestión de datos e integridad
+Los datos generados por dispositivos IoT:
+● serán propiedad de la Diputación,
+● deberán transmitirse de forma cifrada,
+https://sede.dacoruna.gal/valdoc?c=81eedd30f680d37b31bae4ce20c942a94fdd0fac
+Validación de documentos:
+https://sede.dacoruna.gal/valdoc
+Código:
+81eedd30f680d37b31bae4ce20c942a94fdd0fac
+PAULA MARÍA VAZQUEZ
+CARRASCO
+Data e hora: 22/10/2026 11:37
+
+--- página 16 ---
+               PARQUE MÓBIL
+PCO.001.2026.00921
+● deberán almacenarse en sistemas autorizados,
+● no podrán enviarse a nubes del fabricante sin autorización expresa.
+2.19 Cláusulas para Servicios Cloud (SaaS)
+El adjudicatario deberá prestar los servicios cloud contratados garantizando el cumplimiento de los 
+requisitos establecidos en el Esquema Nacional de Seguridad (ENS), así como las obligaciones 
+específicas recogidas en este anexo para infraestructuras, plataformas o soluciones en la nube.
+Se consideran servicios cloud los que impliquen alojamiento, tratamiento, procesamiento, gestión 
+o acceso a información o sistemas en infraestructuras externas a la Diputación, ya sean públicas, 
+privadas, híbridas o administradas por terceros.
+1. Localización y soberanía del dato
+● Los datos deberán residir exclusivamente en centros de datos ubicados en la Unión 
+Europea, salvo autorización expresa de la Diputación.
+● El proveedor deberá indicar la ubicación geográfica exacta de los CPD que alojarán los 
+datos y servicios.
+● No se permitirán movimientos de datos a otras regiones sin autorización previa y por escrito.
+2. Controles específicos de seguridad cloud
+El adjudicatario deberá garantizar:
+● Aislamiento entre tenants en entornos multicliente, evitando fugas o accesos cruzados entre 
+organizaciones.
+● Seguridad de las APIs utilizadas para la gestión del servicio, aplicando autenticación 
+robusta, control de acceso granular y limitación de uso.
+● Protección de metadatos y logs generados por el servicio, tratándose como información de 
+la Diputación.
+● Cifrado de datos en reposo y en tránsito, utilizando estándares robustos y gestionando las 
+claves conforme a lo autorizado por la Diputación.
+● Identidades y accesos separados entre personal de la Diputación y del proveedor.
+● Segregación adecuada de redes y entornos, cumpliendo las recomendaciones del CCN 
+para arquitecturas cloud seguras.
+3. Gestión de claves y cifrado
+● El proveedor no podrá acceder a claves de cifrado gestionadas por la Diputación.
+● Las  claves  deberán  almacenarse  en  módulos  criptográficos  seguros  o  servicios 
+equivalentes.
+4. Gestión de copias de seguridad
+● El adjudicatario deberá garantizar la realización de copias de seguridad periódicas y su 
+almacenamiento en zonas geográficas previamente autorizadas.
+https://sede.dacoruna.gal/valdoc?c=81eedd30f680d37b31bae4ce20c942a94fdd0fac
+Validación de documentos:
+https://sede.dacoruna.gal/valdoc
+Código:
+81eedd30f680d37b31bae4ce20c942a94fdd0fac
+PAULA MARÍA VAZQUEZ
+CARRASCO
+Data e hora: 22/10/2026 11:37
+
+--- página 17 ---
+               PARQUE MÓBIL
+PCO.001.2026.00921
+● Las copias deberán cumplir la misma clasificación, cifrado y protección que los datos 
+originales.
+● El proveedor garantizará la restauración de la información en los plazos requeridos por la 
+criticidad del servicio.
+5. Continuidad y recuperación ante desastres (DRP)
+● El  proveedor  deberá  disponer  de  procedimientos  de  continuidad  cloud,  incluyendo 
+recuperación ante desastres en entornos distribuidos.
+● Se  garantizarán  los  tiempos  de  actividad  (SLA)  y,  cuando  proceda,  los  RTO/RPO 
+acordados.
+● La Diputación podrá exigir pruebas periódicas de recuperación.
+6. Requisitos para la finalización del servicio cloud
+Al finalizar el contrato, el proveedor deberá:
+● Garantizar  la  reversibilidad  completa  del  servicio,  incluyendo  datos,  configuraciones, 
+metadatos y registros necesarios.
+● Facilitar los datos en formato estándar e interoperable, sin costes adicionales distintos de 
+los establecidos contractualmente.
+● Garantizar la borrado seguro de todos los datos residuales del entorno cloud, incluidos 
+replicados y copias distribuidas.
+● Entregar, cuando proceda, certificado de destrucción emitido por el proveedor cloud o por 
+la plataforma subyacente.
+https://sede.dacoruna.gal/valdoc?c=81eedd30f680d37b31bae4ce20c942a94fdd0fac
+Validación de documentos:
+https://sede.dacoruna.gal/valdoc
+Código:
+81eedd30f680d37b31bae4ce20c942a94fdd0fac
+PAULA MARÍA VAZQUEZ
+CARRASCO
+Data e hora: 22/10/2026 11:37

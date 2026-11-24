@@ -1,0 +1,970 @@
+
+
+--- página 1 ---
+ 
+  
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS QUE 
+REGIRÁN LA REALIZACIÓN DEL CONTRATO 
+DE “SERVICIO DE ALOJAMIENTO, 
+MANTENIMIENTO Y SOPORTE DOCUMENTAL 
+PARA EL CENTRO DE DOCUMENTACIÓN DEL 
+ONTSI” 
+ 
+PROCEDIMIENTO ABIERTO ESPECIALMENTE 
+SIMPLIFICADO 
+ 
+EXP. 025/26 -OT  
+ 
+Código Seguro De Verificación 4vOEM+iBRP/vcd0ubsdlPA== Estado Fecha y hora
+Firmado Por JESÚS HERRERO POZA - DIRECTOR GENERAL DE LA ENTIDAD PÚBLICA
+EMPRESARIAL
+Firmado 23/11/2026 12:40:54
+Observaciones Página 1/19
+Url De Verificación https://portafirmas.red.es/verifirma/code/4vOEM%2BiBRP%2Fvcd0ubsdlPA%3D%3D
+Normativa Este informe tiene carácter de copia electrónica auténtica con validez y eficacia administrativa de ORIGINAL (art. 27 Ley 39/2015).
+
+
+--- página 2 ---
+ 
+ Página 2 de 19 
+Pliego de Prescripciones Técnicas que regirán la realización del contrato 
+de “Servicio de alojamiento, mantenimiento y soporte documental para el 
+Centro de Documentación del ONTSI” 
+Procedimiento Abierto Especialmente Simplificado  
+Exp. 025/26-OT  
+ 
+ÍNDICE 
+1 INTRODUCCIÓN ........................................................................................................................................... 3 
+2 REQUISITOS TÉCNICOS DEL SERVICIO ............................................................................................. 5 
+2.1 ENTORNO ACTUAL ..................................................................................................................................... 6 
+2.2 SERVICIO DE SOPORTE TECNOLóGICO ............................................................................................. 7 
+2.2.1 Alojamiento (hosting) y mantenimiento correctivo del SIGB ...................................... 7 
+2.2.2 Mantenimiento evolutivo del SIGB ........................................................................................... 8 
+2.2.3 Mantenimiento del posicionamiento orgánico .................................................................. 9 
+2.3 SERVICIO DE SOPORTE DOCUMENTAL ........................................................................................... 10 
+2.3.1 Mantenimiento del catálogo .................................................................................................... 10 
+2.3.2 Atención a Usuarios ..................................................................................................................... 11 
+2.3.3 Difusión de la colección .............................................................................................................. 11 
+2.4 LISTADO DE TEMÁTICAS CONCRETAS ............................................................................................ 12 
+3 ACUERDOS DE NIVEL DE SERVICIO .................................................................................................. 12 
+4 TIEMPO Y FORMA DE EJECUCIÓN DEL SERVICIO ....................................................................... 13 
+4.1 OBLIGACIONES DE INFORMACIÓN Y DOCUMENTACIÓN ....................................................... 14 
+4.2 DIRECCIÓN Y SEGUIMIENTO DE LOS TRABAJOS ........................................................................ 16 
+4.3 MEDIOS MATERIALES Y SOPORTE TÉCNICO................................................................................ 17 
+4.4 LUGAR Y HORARIO DE REALIZACIÓN DEL SERVICIO ............................................................... 17 
+5 EQUIPO DE TRABAJO............................................................................................................................... 17 
+5.1 SUSTITUCIÓN DE LOS MEDIOS PERSONALES .............................................................................. 18 
+6 FORMATO Y CONTENIDO DE LA PROPUESTA ............................................................................. 19 
+ 
+Código Seguro De Verificación 4vOEM+iBRP/vcd0ubsdlPA== Estado Fecha y hora
+Firmado Por JESÚS HERRERO POZA - DIRECTOR GENERAL DE LA ENTIDAD PÚBLICA
+EMPRESARIAL
+Firmado 23/11/2026 12:40:54
+Observaciones Página 2/19
+Url De Verificación https://portafirmas.red.es/verifirma/code/4vOEM%2BiBRP%2Fvcd0ubsdlPA%3D%3D
+Normativa Este informe tiene carácter de copia electrónica auténtica con validez y eficacia administrativa de ORIGINAL (art. 27 Ley 39/2015).
+
+
+--- página 3 ---
+ 
+ Página 3 de 19 
+Pliego de Prescripciones Técnicas que regirán la realización del contrato 
+de “Servicio de alojamiento, mantenimiento y soporte documental para el 
+Centro de Documentación del ONTSI” 
+Procedimiento Abierto Especialmente Simplificado  
+Exp. 025/26-OT  
+ 
+1 INTRODUCCIÓN 
+El Observatorio de las Telecomunicaciones y de la Sociedad de la Información (en 
+adelante, ONTSI) es un órgano adscrito a la entidad pública empresarial Red.es (en 
+adelante, “Red.es”) siendo su propósito el de generar conocimiento de valor para las 
+políticas públicas -así como para la intervención empresarial y ciudadana- en torno al 
+desarrollo tecnológico y sus distintos impactos en la economía, el empleo, los servicios 
+públicos, los derechos, la seguridad, la calidad de vida y la igualdad entre las personas. 
+Para ello realiza estudios e indicadores, analiza políticas y estrategias, tendencias, 
+identifica buenas prácticas, y, procesa, difunde e intercambia conocimiento en relación 
+con estos campos. 
+ 
+En este contexto, el ONTSI dispone desde hace varios años del Centro de Documentación 
+ONTSI (en adelante, “CDO”) que es la unidad especializada en dar soporte interno y 
+externo sobre recursos documentales, en especial digitales, como publicaciones, revistas 
+y estadísticas relacionados con la transformación y avance digital, tanto del ámbito 
+nacional como internacional. Su servicio contempla, al menos, las siguientes temáticas 
+relacionadas con la transformación digital:  
+ 
+• Conectividad digital 
+• Tecnología de la Información y telecomunicaciones 
+• Ciberseguridad 
+• Economía del dato e IA 
+• Transformación digital del Sector público 
+• Transformación de la empresa y emprendimiento digital 
+• Sector audiovisual 
+• Transformación digital para la sostenibilidad 
+• Competencias digitales 
+• Derechos digitales 
+• Década digital 
+El CDO presta especial atención a la catalogación de las publicaciones relacionadas con los 
+ámbitos de actuación de la estrategia digital española y europea. Así mismo, mantiene la 
+web que ofrece estos servicios de documentación para el público general 
+(https://biblio.ontsi.Red.es) especializada en temas relacionados con la digitalización y la 
+Sociedad de la Información. En ella se accede a un catálogo online, y abierto, de registros 
+sobre publicaciones procedentes de fuentes de información de referencia nacionales e 
+internacionales y tanto del ámbito público como privado. El fin de la web del CDO es el de 
+ofrecer un servicio a la ciudadanía sobre recursos de información y el de concentrar, 
+facilitar el acceso y difundir información relacionada con la digitalización y la Sociedad de 
+Código Seguro De Verificación 4vOEM+iBRP/vcd0ubsdlPA== Estado Fecha y hora
+Firmado Por JESÚS HERRERO POZA - DIRECTOR GENERAL DE LA ENTIDAD PÚBLICA
+EMPRESARIAL
+Firmado 23/11/2026 12:40:54
+Observaciones Página 3/19
+Url De Verificación https://portafirmas.red.es/verifirma/code/4vOEM%2BiBRP%2Fvcd0ubsdlPA%3D%3D
+Normativa Este informe tiene carácter de copia electrónica auténtica con validez y eficacia administrativa de ORIGINAL (art. 27 Ley 39/2015).
+
+
+--- página 4 ---
+ 
+ Página 4 de 19 
+Pliego de Prescripciones Técnicas que regirán la realización del contrato 
+de “Servicio de alojamiento, mantenimiento y soporte documental para el 
+Centro de Documentación del ONTSI” 
+Procedimiento Abierto Especialmente Simplificado  
+Exp. 025/26-OT  
+ 
+la Información. Los registros documentales están catalogados bajo estándares 
+documentales y bibliotecarios y son exportables, lo que facilita la reutilización de estos a 
+otras bibliotecas. Al mismo tiempo, las publicaciones se categorizan por áreas temáticas, 
+facilitando su consulta, y se realiza un servicio de distribución de información a los 
+usuarios que lo demandan a través de una newsletter con las publicaciones más 
+relevantes. 
+Para que el CDO siga plenamente operativo, es preciso contar con un adecuado 
+alojamiento y soporte técnico que permita la catalogación documental y dar respuesta a 
+todas las labores técnicas y necesidades digitales del CDO, así como garantizar el buen 
+funcionamiento y continuidad de este. Por ello se precisa disponer de un servicio que aúne 
+tanto el aspecto tecnológico de la plataforma como el aspecto documental, permitiendo 
+garantizar su continuidad y evolución con el fin de disponer en todo momento del CDO 
+plenamente operativo (en adelante, el “Servicio”).  
+En este contexto, el contratista tendrá que realizar, al menos, las siguientes actuaciones:  
+• Alojamiento del sitio web del Centro de Documentación. 
+• Servicio de mantenimiento correctivo y evolutivo de la plataforma tecnológica. 
+• Servicio anual de rediseño de la aplicación incorporando o readaptando los 
+módulos existentes en el sistema de gestión del Centro de Documentación. 
+• Servicio de elaboración y mantenimiento de un mapa de fuentes de información 
+sobre transformación digital y políticas públicas. 
+• Servicio de búsqueda y selección de documentos relevantes sobre 
+transformación digital y políticas públicas. 
+• Servicio de catalogación y grabación de los registros documentales de las 
+publicaciones seleccionadas. 
+• Servicio de selección y elaboración de informes sobre publicaciones 
+relacionadas con materias específicas de la transformación digital y/o políticas 
+públicas asociadas. 
+• Servicio de elaboración de resúmenes semanales de temas de actualidad, 
+newsletters y listas de publicaciones recomendadas por el ONTSI. 
+A continuación, se detallan los requisitos mínimos que el contratista deberá cumplir en la 
+prestación del Servicio. 
+ 
+Código Seguro De Verificación 4vOEM+iBRP/vcd0ubsdlPA== Estado Fecha y hora
+Firmado Por JESÚS HERRERO POZA - DIRECTOR GENERAL DE LA ENTIDAD PÚBLICA
+EMPRESARIAL
+Firmado 23/11/2026 12:40:54
+Observaciones Página 4/19
+Url De Verificación https://portafirmas.red.es/verifirma/code/4vOEM%2BiBRP%2Fvcd0ubsdlPA%3D%3D
+Normativa Este informe tiene carácter de copia electrónica auténtica con validez y eficacia administrativa de ORIGINAL (art. 27 Ley 39/2015).
+
+
+--- página 5 ---
+ 
+ Página 5 de 19 
+Pliego de Prescripciones Técnicas que regirán la realización del contrato 
+de “Servicio de alojamiento, mantenimiento y soporte documental para el 
+Centro de Documentación del ONTSI” 
+Procedimiento Abierto Especialmente Simplificado  
+Exp. 025/26-OT  
+ 
+2 REQUISITOS TÉCNICOS DEL SERVICIO 
+En el presente apartado se describen los trabajos a realizar por parte del contratista, 
+detallándose las características técnicas mínimas del servicio. Al presentar la oferta, el 
+licitador debe ajustarse a la terminología utilizada en este apartado. 
+ 
+Las propuestas que incumplan u ofrezcan características inferiores no serán tomadas en 
+consideración en el presente procedimiento. 
+ 
+El contratista deberá garantizar la prestación del servicio, siendo responsable del 
+cumplimiento de todas y cada una de las funciones que se describen en el presente Pliego 
+según lo reseñado específicamente en los requisitos particulares. 
+ 
+El CDO tiene como objetivo garantizar la difusión y el acceso a la información relacionada 
+con la digitalización y la Sociedad de la Información a sus usuarios, proporcionándoles 
+servicios virtuales de información y facilitándoles que puedan crear sus propios 
+repositorios documentales. 
+ 
+Para ello es necesario disponer de un soporte: 
+ 
+• Tecnológico, para mantener de forma ininterrumpida el funcionamiento correcto 
+del SGIB (Sistema Integrado de Gestión de Bibliotecas) del CDO, implementar 
+nuevas funcionalidades y posicionarlo en los principales buscadores, garantizando 
+de este modo el acceso tecnológico de los usuarios. 
+Los trabajos de soporte tecnológico para el sistema integral de gestión 
+bibliotecaria (SIGB) comprenden los medios técnicos sobre el alojamiento, los 
+mantenimientos correctivo y evolutivo respectivos y el posicionamiento web en 
+los principales buscadores. 
+ 
+• Documentalista, para ofrecer a los usuarios servicios documentales y 
+bibliotecarios a la vez que potenciar y divulgar la información relacionada con la 
+digitalización y la Sociedad de la Información. 
+Los trabajos de soporte técnico de carácter documental y bibliotecario van 
+destinados a los procesos de gestión documental y tareas de mantenimiento del 
+Catálogo, así como tareas de difusión y gestión de usuarios. 
+ 
+A efectos de facilitar la presentación de las ofertas por los licitadores, y para que los 
+mismos puedan conocer el CDO, pueden acceder al mismo a través de 
+https://biblio.ontsi.red.es. 
+Código Seguro De Verificación 4vOEM+iBRP/vcd0ubsdlPA== Estado Fecha y hora
+Firmado Por JESÚS HERRERO POZA - DIRECTOR GENERAL DE LA ENTIDAD PÚBLICA
+EMPRESARIAL
+Firmado 23/11/2026 12:40:54
+Observaciones Página 5/19
+Url De Verificación https://portafirmas.red.es/verifirma/code/4vOEM%2BiBRP%2Fvcd0ubsdlPA%3D%3D
+Normativa Este informe tiene carácter de copia electrónica auténtica con validez y eficacia administrativa de ORIGINAL (art. 27 Ley 39/2015).
+
+
+--- página 6 ---
+ 
+ Página 6 de 19 
+Pliego de Prescripciones Técnicas que regirán la realización del contrato 
+de “Servicio de alojamiento, mantenimiento y soporte documental para el 
+Centro de Documentación del ONTSI” 
+Procedimiento Abierto Especialmente Simplificado  
+Exp. 025/26-OT  
+ 
+ 
+2.1 ENTORNO ACTUAL  
+En la actualidad, la colección se gestiona a través del SIGB Koha en su versión 26.05 y tiene 
+los siguientes módulos: 
+• Circulación 
+• Usuarios 
+• Búsqueda avanzada 
+• Listas 
+• Catalogación 
+• Autoridades 
+• Publicaciones periódicas 
+• Adquisiciones 
+• Informes 
+• Herramientas 
+• Administración 
+El sistema de catalogación es MARC21. El catálogo del sistema es abierto y de acceso 
+online (OPAC) es: https://biblio.ontsi.red.es/.  
+Las especificaciones del servidor del entorno de preproducción (PRE) son la siguientes: 
+• CPU: 2 vCPU  
+• RAM: 3GB 
+• Disco duro: 40GB 
+• SO: Ubuntu 20.04 LTS 
+Las especificaciones técnicas del servidor del entorno de producción (PRO) son las 
+siguientes: 
+• CPU: 4 vCPU   
+• RAM: 8GB 
+• Disco duro: 240GB 
+• SO: Debian 12 (Bookworm) 
+ 
+La versión actual de KOHA es la 26.05 y se instaló el 1 de agosto de 2026, por lo que el 
+mantenimiento y evolución de la Biblioteca deberá contar al menos con esta versión de 
+partida e ir actualizando versiones posteriores.  
+Código Seguro De Verificación 4vOEM+iBRP/vcd0ubsdlPA== Estado Fecha y hora
+Firmado Por JESÚS HERRERO POZA - DIRECTOR GENERAL DE LA ENTIDAD PÚBLICA
+EMPRESARIAL
+Firmado 23/11/2026 12:40:54
+Observaciones Página 6/19
+Url De Verificación https://portafirmas.red.es/verifirma/code/4vOEM%2BiBRP%2Fvcd0ubsdlPA%3D%3D
+Normativa Este informe tiene carácter de copia electrónica auténtica con validez y eficacia administrativa de ORIGINAL (art. 27 Ley 39/2015).
+
+
+--- página 7 ---
+ 
+ Página 7 de 19 
+Pliego de Prescripciones Técnicas que regirán la realización del contrato 
+de “Servicio de alojamiento, mantenimiento y soporte documental para el 
+Centro de Documentación del ONTSI” 
+Procedimiento Abierto Especialmente Simplificado  
+Exp. 025/26-OT  
+ 
+2.2 SERVICIO DE SOPORTE TECNOLÓGICO  
+2.2.1 Alojamiento (hosting) y mantenimiento correctivo del SIGB 
+Para dar inicio al servicio de alojamiento y mantenimiento del SIGB, el contratista deberá 
+hacer recepción del servicio desde Red.es o desde la empresa que Red.es determine 
+(transferencia tecnológica). La recepción del servicio consistirá en el traspaso de todos 
+los datos desde la ubicación actual al alojamiento determinado por el contratista para la 
+prestación del servicio [ReqT(1)]. 
+ 
+Para ello, el día que se convoque la reunión de lanzamiento del proyecto, el contratista 
+hará entrega de un plan de recepción del servicio donde aparezcan aspectos tales como 
+[ReqT(2)]: 
+• Planificación. 
+• Procedimientos para la recepción e iniciación del Servicio. 
+• Cualquier otro aspecto que se considere relevante para un proceso de traspaso del 
+Servicio. 
+En el caso de que Red.es lo estime necesario, se podrá requerir la realización de sesiones 
+conjuntas entre Red.es, el actual contratista y el contratista del presente procedimiento 
+para la transmisión del conocimiento. La planificación de estas sesiones será definida por 
+Red.es, tanto en número como en duración y se podrán realizar en las oficinas de Red.es, 
+o bien en las que ésta determine, cabiendo la posibilidad de que puedan realizarse en las 
+instalaciones del contratista [ReqT(3)]. 
+ 
+2.2.1.1 Alojamiento(hosting) 
+El alojamiento deberá estar dimensionado para un entorno de producción y otro de 
+preproducción, con un volumen mínimo de 5.000 registros bibliográficos y 1.000 
+usuarios, una disponibilidad media mínima del alojamiento del 99,9% y una proactividad 
+de detección de incidencias mínima del 98% [ReqT(4)]. 
+ 
+El servicio de alojamiento que se proporcione por el contratista deberá cumplir con la 
+normativa BCR de la Unión Europea de aseguramiento de seguridad de la transferencia 
+de datos personales internacionalmente, o equivalente 
+(https://ec.europa.eu/info/strategy/justice-and-
+fundamentalrights/dataprotection/data-transfers-outside-eu/binding-corporate-
+rules_en) así como con lo establecido en el apartado 2.4. de las Condiciones Específicas 
+del Pliego de Cláusulas Administrativas Particulares [ReqT(5)]. 
+ 
+Código Seguro De Verificación 4vOEM+iBRP/vcd0ubsdlPA== Estado Fecha y hora
+Firmado Por JESÚS HERRERO POZA - DIRECTOR GENERAL DE LA ENTIDAD PÚBLICA
+EMPRESARIAL
+Firmado 23/11/2026 12:40:54
+Observaciones Página 7/19
+Url De Verificación https://portafirmas.red.es/verifirma/code/4vOEM%2BiBRP%2Fvcd0ubsdlPA%3D%3D
+Normativa Este informe tiene carácter de copia electrónica auténtica con validez y eficacia administrativa de ORIGINAL (art. 27 Ley 39/2015).
+
+
+--- página 8 ---
+ 
+ Página 8 de 19 
+Pliego de Prescripciones Técnicas que regirán la realización del contrato 
+de “Servicio de alojamiento, mantenimiento y soporte documental para el 
+Centro de Documentación del ONTSI” 
+Procedimiento Abierto Especialmente Simplificado  
+Exp. 025/26-OT  
+ 
+El contratista deberá garantizar durante toda la duración del Contrato la disponibilidad, 
+capacidad, y seguridad (tanto física como lógica) necesarias para el correcto 
+funcionamiento del SIGB [ReqT(6)]. 
+ 
+2.2.1.2 Mantenimiento correctivo del SIGB 
+Los trabajos de mantenimiento correctivo deberán cumplir, al menos, con los siguientes 
+requisitos mínimos [ReqT(7)]: 
+• Mantenimiento de un entorno de preproducción y de producción. 
+• Monitorización remota continua (7x24), deberá responder a ip y a nombre del 
+subdominio y de los servicios principales (Zebra, Mysql, Apache, etc.). 
+• Aseguramiento de la velocidad del sitio web, deberá tener un promedio igual o 
+inferior a 3 sec. para dispositivos de escritorio y de España. 
+• Actualizaciones estables propuestas por la comunidad KOHA y/o que incluyan 
+actualizaciones de seguridad o funcionalidades recomendadas de utilidad u otras 
+tareas que garanticen la disponibilidad total del sistema, previa aprobación de 
+Red.es. 
+• Realización de las labores de mantenimiento relacionadas con la gestión y 
+administración de los servidores (actualizaciones, parches, accesos, sistema 
+operativo, etc.). Estas labores no deberán afectar al correcto funcionamiento del 
+Servicio. El contratista se asegurará de que las ventanas de mantenimiento 
+planificado del servicio de alojamiento se publiquen con la suficiente antelación y 
+tengan lugar, habitualmente, fuera del horario laboral establecido a estos efectos, 
+de lunes a viernes de 9:00h. a 18:00h. 
+ 
+2.2.2 Mantenimiento evolutivo del SIGB 
+El contratista deberá llevar a cabo las tareas de mantenimiento evolutivo [ReqT(8)] 
+consistentes en la actualización KOHA a medida que vayan estando disponibles las nuevas 
+versiones, la elaboración de nuevos desarrollos y/o funcionalidades, la puesta en marcha 
+de funcionalidades actualmente deshabilitadas, el aseguramiento al menos del nivel AA 
+de accesibilidad que establece la norma WCAG 2.1, etc., para lo cual presentará a Red.es, 
+al menos, tres propuestas al año previas a su implementación. 
+Adicionalmente, Red.es podrá solicitar tres evolutivos concretos al año [ReqT(9)] y el 
+contratista, estudiada la petición de cambio, deberá proporcionar a Red.es una estimación 
+o plan de proyecto con, al menos, la siguiente información: 
+ 
+• Descripción de los trabajos. 
+Código Seguro De Verificación 4vOEM+iBRP/vcd0ubsdlPA== Estado Fecha y hora
+Firmado Por JESÚS HERRERO POZA - DIRECTOR GENERAL DE LA ENTIDAD PÚBLICA
+EMPRESARIAL
+Firmado 23/11/2026 12:40:54
+Observaciones Página 8/19
+Url De Verificación https://portafirmas.red.es/verifirma/code/4vOEM%2BiBRP%2Fvcd0ubsdlPA%3D%3D
+Normativa Este informe tiene carácter de copia electrónica auténtica con validez y eficacia administrativa de ORIGINAL (art. 27 Ley 39/2015).
+
+
+--- página 9 ---
+ 
+ Página 9 de 19 
+Pliego de Prescripciones Técnicas que regirán la realización del contrato 
+de “Servicio de alojamiento, mantenimiento y soporte documental para el 
+Centro de Documentación del ONTSI” 
+Procedimiento Abierto Especialmente Simplificado  
+Exp. 025/26-OT  
+ 
+• Fecha de entrega del evolutivo. 
+ 
+Red.es, recibida la estimación del contratista, podrá aprobarla, solicitar cambios en la 
+misma o desechar la petición realizada. Una vez aprobada una estimación, la ejecución del 
+evolutivo deberá realizarse en los términos recogidos en ella. En el caso de que la 
+estimación no sea aprobada, ésta no será tenida en cuenta como evolutivo solicitado.  
+ 
+Las soluciones implementadas estarán en todo caso basadas en estándares que aseguren 
+la posibilidad de desarrollos posteriores y su total integración con el sistema [ReqT(10)].   
+ 
+Los evolutivos incluirán toda la documentación de estos que consistirá en, al menos 
+[ReqT(11)]: 
+ 
+• Documento de cambios y modificaciones que incorpora el evolutivo. 
+• Guía de instalación y administración. 
+• Plan de pruebas. 
+• Código fuente del sistema (en el caso de que aplique). 
+• Otra documentación técnica de apoyo. 
+ 
+2.2.3 Mantenimiento del posicionamiento orgánico 
+El contratista deberá poner en marcha un conjunto de acciones técnicas orientadas a 
+mejorar el posicionamiento del CDO (Plan de Posicionamiento) dentro de los resultados 
+orgánicos de los principales motores de búsqueda (SEO técnico).  
+ 
+El objetivo es que el CDO y sus registros aparezcan en lugares destacados y que se 
+incremente el número de visitas al mismo y a sus registros documentales durante toda la 
+vigencia del contrato [ReqT(12)]. 
+ 
+El contratista presentará, en el plazo de un mes desde la firma del contrato, un plan de 
+posicionamiento con un conjunto de acciones técnicas para hacer mejorar el 
+posicionamiento del CDO (SEO técnico) y un plan de mantenimiento que deberá incluir, 
+al menos, las acciones propuestas y su detalle, el impacto de estas y el calendario para la 
+implantación de cada una de las medidas. [ReqT(13)]. 
+ 
+Se podrá solicitar mensualmente al contratista un informe de evolución del 
+posicionamiento SEO y número de visitas al OPAC como resultado de la aplicación de las 
+acciones ejecutadas [ReqT(14)].  
+ 
+Código Seguro De Verificación 4vOEM+iBRP/vcd0ubsdlPA== Estado Fecha y hora
+Firmado Por JESÚS HERRERO POZA - DIRECTOR GENERAL DE LA ENTIDAD PÚBLICA
+EMPRESARIAL
+Firmado 23/11/2026 12:40:54
+Observaciones Página 9/19
+Url De Verificación https://portafirmas.red.es/verifirma/code/4vOEM%2BiBRP%2Fvcd0ubsdlPA%3D%3D
+Normativa Este informe tiene carácter de copia electrónica auténtica con validez y eficacia administrativa de ORIGINAL (art. 27 Ley 39/2015).
+
+
+--- página 10 ---
+ 
+ Página 10 de 19 
+Pliego de Prescripciones Técnicas que regirán la realización del contrato 
+de “Servicio de alojamiento, mantenimiento y soporte documental para el 
+Centro de Documentación del ONTSI” 
+Procedimiento Abierto Especialmente Simplificado  
+Exp. 025/26-OT  
+ 
+Una vez presentado el plan de posicionamiento, Red.es podrá aprobarlo y/o solicitar 
+cambios al mismo antes de su ejecución. 
+ 
+2.3 SERVICIO DE SOPORTE DOCUMENTAL  
+El contratista deberá proporcionar un servicio de soporte técnico de carácter documental 
+y bibliotecario, entendiendo como tal todas las labores que comprenden la elaboración y 
+mantenimiento de fuentes de información sobre transformación digital y políticas 
+públicas, la búsqueda y selección de documentos relevantes sobre transformación digital 
+y políticas públicas, la catalogación y grabación de los registros documentales de las 
+publicaciones seleccionadas, la selección y elaboración de informes sobre publicaciones 
+relacionadas con materias específicas relacionadas con la transformación digital y/o 
+políticas públicas y la elaboración de resúmenes semanales de temas de actualidad, 
+newsletters y listas de publicaciones recomendadas por el ONTSI. [ReqT(15)]. 
+2.3.1 Mantenimiento del catálogo 
+A continuación, se describen las tareas mínimas a realizar por el contratista: 
+o Incorporación de registros al Catálogo: selección y catalogación, estimándose 
+la incorporación de al menos 500 registros/ año; media 40 registros mes) 
+[ReqT(16)]. 
+o Selección de publicaciones abiertas en materia de transformación digital y 
+sociedad de la información a partir de fuentes autorizadas de referencia 
+nacional y/o internacional. La selección de las publicaciones atenderá a 
+prioridades como las fechas de publicación y editores / autores, priorizando 
+aquellas que sean novedades y publicadas por organismos de referencia en la 
+temática. Al mismo tiempo, se descartarán aquellas publicaciones que sean 
+obsoletas con relación a la temática del documento. La selección de 
+publicaciones no será inferior a 500 al año. El contratista hará una propuesta 
+semanal de publicaciones seleccionadas para introducir en el Catálogo. Una vez 
+aprobada por Red.es una propuesta, las publicaciones que contenga la misma 
+deberán ser introducidas en el Catálogo. 
+o Análisis formal de documentos. Catalogación, lo más completa posible, de 
+registros bibliográficos identificados, en la fase previa sobre la selección de 
+publicaciones, siguiendo las Reglas de Catalogación y el estándar MARC 21 
+como herramienta de descripción de registros documentales y autoridades. 
+El análisis formal de publicaciones será no inferior a 500 registros 
+documentales al año. 
+Código Seguro De Verificación 4vOEM+iBRP/vcd0ubsdlPA== Estado Fecha y hora
+Firmado Por JESÚS HERRERO POZA - DIRECTOR GENERAL DE LA ENTIDAD PÚBLICA
+EMPRESARIAL
+Firmado 23/11/2026 12:40:54
+Observaciones Página 10/19
+Url De Verificación https://portafirmas.red.es/verifirma/code/4vOEM%2BiBRP%2Fvcd0ubsdlPA%3D%3D
+Normativa Este informe tiene carácter de copia electrónica auténtica con validez y eficacia administrativa de ORIGINAL (art. 27 Ley 39/2015).
+
+
+--- página 11 ---
+ 
+ Página 11 de 19 
+Pliego de Prescripciones Técnicas que regirán la realización del contrato 
+de “Servicio de alojamiento, mantenimiento y soporte documental para el 
+Centro de Documentación del ONTSI” 
+Procedimiento Abierto Especialmente Simplificado  
+Exp. 025/26-OT  
+ 
+o Análisis de contenido, para la clasificación e indexación de los registros 
+documentales, que se hará siguiendo los encabezamientos marcados por el 
+ONTSI. El análisis de contenido se hará para un número de publicaciones no 
+inferior a 500 registros documentales al año. 
+o Creación y mantenimiento de autoridades (autores, entidades y materias). 
+Atendiendo a las normas de la BNE recogido en el Manual de autoridades 
+[ReqT(17)]. 
+o Mantenimiento y correcciones de registros documentales existentes para la 
+actualización oportuna de los datos [ReqT(18)]. 
+ 
+El contratista deberá realizar la corrección de todos los errores detectados, bien por sí 
+mismo, bien a petición de Red.es, en cualquiera de los registros documentales o de 
+autoridades durante toda la duración del contrato [ReqT(19)]. 
+ 
+2.3.2 Atención a Usuarios  
+Para el acceso a los recursos del CDO, los usuarios se registran a través de su nombre, 
+apellido y dirección de correo electrónico indicando dónde desean recibir la información 
+y con estos datos se generan los campos de nombre de usuario y password con la finalidad 
+de conceder acceso al CDO. Adicionalmente estos datos pueden emplearse con fines 
+estadísticos.  
+ 
+El contratista deberá gestionar la atención a las incidencias reportadas por los usuarios 
+registrados y no registrados.  
+ 
+A estos efectos, se entiende por incidencias aquellas derivadas del uso del Catálogo a nivel 
+de usuario, sobre publicaciones catalogadas en el mismo, uso de las herramientas del CDO 
+entre otras. 
+ 
+Las incidencias se deberán atender y resolver dentro de las 24 horas siguientes a su 
+apertura. Si la resolución supusiera más de 1 hora de trabajo, se deberá pedir aprobación 
+de las tareas a realizar previamente a Red.es [ReqT(20)]. 
+ 
+2.3.3 Difusión de la colección  
+Las tareas de difusión a realizar serán, al menos, las siguientes [ReqT(21)]: 
+ 
+Código Seguro De Verificación 4vOEM+iBRP/vcd0ubsdlPA== Estado Fecha y hora
+Firmado Por JESÚS HERRERO POZA - DIRECTOR GENERAL DE LA ENTIDAD PÚBLICA
+EMPRESARIAL
+Firmado 23/11/2026 12:40:54
+Observaciones Página 11/19
+Url De Verificación https://portafirmas.red.es/verifirma/code/4vOEM%2BiBRP%2Fvcd0ubsdlPA%3D%3D
+Normativa Este informe tiene carácter de copia electrónica auténtica con validez y eficacia administrativa de ORIGINAL (art. 27 Ley 39/2015).
+
+
+--- página 12 ---
+ 
+ Página 12 de 19 
+Pliego de Prescripciones Técnicas que regirán la realización del contrato 
+de “Servicio de alojamiento, mantenimiento y soporte documental para el 
+Centro de Documentación del ONTSI” 
+Procedimiento Abierto Especialmente Simplificado  
+Exp. 025/26-OT  
+ 
+• Realización de un informe estadístico relacionado con el OPAC, con periodicidad 
+mensual. 
+• Mantenimiento de la página principal del OPAC, de forma continua. 
+Este mantenimiento deberá garantizar la actualidad de la identidad de marca del 
+CDO y su relación con el ONTSI, así como de las publicaciones que destaca en los 
+banners y diferentes secciones que la componen. 
+• Elaboración de productos de difusión selectiva de información (DSI). Se establece 
+un mínimo de 30 acciones al año que podrán consistir en: 
+o Acciones para el intercambio de registros en forma masiva. 
+o Realización de productos de formación e información y resúmenes mensuales 
+de actualidad. 
+o Acciones de difusión a través de la web del OPAC. 
+ 
+2.4 LISTADO DE TEMÁTICAS CONCRETAS  
+Se podrán solicitar hasta seis entregas al año de un informe, con el enlace directo de los 
+registros archivados relacionados, con la temática que Red.es indique. 
+Las temáticas sobre las que se podrán solicitar informes se inscriben el marco de la 
+digitalización y la Sociedad de la Información, sobre el que se centra el servicio del Centro 
+de Documentación y cuyos principales temas se detallan en la Introducción del presente 
+documento. Así, las temáticas sobre las que se soliciten los informes estarán relacionadas 
+con las catalogaciones sobre la transformación digital realizadas en el desarrollo del 
+servicio [ReqT(22)]. 
+ 
+3 ACUERDOS DE NIVEL DE SERVICIO  
+El contratista deberá cumplir mensualmente los acuerdos de nivel de servicio 
+establecidos en el presente apartado [ReqT(30)]: 
+ 
+• Disponibilidad del SIGB: se refiere al grado de disponibilidad que el SIGB deberá 
+estar en servicio. Deberá ser: 
+ 
+o la disponibilidad media mínima del alojamiento del 99% 
+o la proactividad de detección de incidencias mínima del 98%  
+o un promedio igual o inferior a 3 sec. para el aseguramiento de la velocidad 
+del sitio web para dispositivos de escritorio y en España. 
+ 
+Código Seguro De Verificación 4vOEM+iBRP/vcd0ubsdlPA== Estado Fecha y hora
+Firmado Por JESÚS HERRERO POZA - DIRECTOR GENERAL DE LA ENTIDAD PÚBLICA
+EMPRESARIAL
+Firmado 23/11/2026 12:40:54
+Observaciones Página 12/19
+Url De Verificación https://portafirmas.red.es/verifirma/code/4vOEM%2BiBRP%2Fvcd0ubsdlPA%3D%3D
+Normativa Este informe tiene carácter de copia electrónica auténtica con validez y eficacia administrativa de ORIGINAL (art. 27 Ley 39/2015).
+
+
+--- página 13 ---
+ 
+ Página 13 de 19 
+Pliego de Prescripciones Técnicas que regirán la realización del contrato 
+de “Servicio de alojamiento, mantenimiento y soporte documental para el 
+Centro de Documentación del ONTSI” 
+Procedimiento Abierto Especialmente Simplificado  
+Exp. 025/26-OT  
+ 
+• Resolución de errores/incidencias, los cuales se podrán tipificar de la siguiente 
+forma: 
+ 
+o Nivel Alto: Incidencias que afectan al servicio global ofrecido e impiden 
+totalmente su funcionamiento normal a los usuarios o incidencias que 
+tengan un gran impacto para Red.es o los usuarios del Centro de 
+Documentación. 
+o Nivel Medio: Incidencias que afectan parcialmente al servicio global 
+ofrecido o que tengan un impacto medio para Red.es o los usuarios del 
+Centro de Documentación. 
+o Nivel Bajo: Incidencias que tienen escaso impacto en el servicio global 
+ofrecido, pero que requieren de alguna actuación correctora. 
+ 
+Se considera tiempo de resolución de errores, el transcurrido desde la apertura de un 
+tique de incidencia hasta la comunicación del técnico designado por el contratista con el 
+interlocutor correspondiente de Red.es, para informar de la resolución de la incidencia. 
+El horario laborable establecido a efectos del cumplimiento de los tiempos de resolución 
+de errores es el establecido en el apartado 3.4.  
+ 
+Descripción Nivel de servicio 
+Resolución de errores altos Tiempo resolución ≤ 1 días 
+laborales 
+Resolución de errores medios Tiempo resolución ≤ 2 días 
+laborales 
+Resolución de errores bajos Tiempo resolución ≤ 3 días 
+laborales 
+ 
+Descripción Nivel de Servicio 
+El incumplimiento de estos niveles de servicio se penalizará según se establece en el 
+apartado 7 de las Condiciones Específicas del Pliego de Cláusulas Administrativas 
+Particulares. 
+ 
+4 TIEMPO Y FORMA DE EJECUCIÓN DEL SERVICIO 
+El Servicio especificado se prestará de manera continua durante el plazo de duración del 
+contrato establecido en el apartado 5 de las Condiciones Específicas del Pliego de 
+Cláusulas Administrativas Particulares [ReqT(23)]. 
+ 
+Código Seguro De Verificación 4vOEM+iBRP/vcd0ubsdlPA== Estado Fecha y hora
+Firmado Por JESÚS HERRERO POZA - DIRECTOR GENERAL DE LA ENTIDAD PÚBLICA
+EMPRESARIAL
+Firmado 23/11/2026 12:40:54
+Observaciones Página 13/19
+Url De Verificación https://portafirmas.red.es/verifirma/code/4vOEM%2BiBRP%2Fvcd0ubsdlPA%3D%3D
+Normativa Este informe tiene carácter de copia electrónica auténtica con validez y eficacia administrativa de ORIGINAL (art. 27 Ley 39/2015).
+
+
+--- página 14 ---
+ 
+ Página 14 de 19 
+Pliego de Prescripciones Técnicas que regirán la realización del contrato 
+de “Servicio de alojamiento, mantenimiento y soporte documental para el 
+Centro de Documentación del ONTSI” 
+Procedimiento Abierto Especialmente Simplificado  
+Exp. 025/26-OT  
+ 
+El contratista dispondrá de 20 días naturales, a partir de la firma del contrato, para 
+realizar la transferencia tecnológica e iniciar la prestación efectiva del servicio técnico 
+tecnológico (3.2.1) [ReqT(24)]. 
+ 
+El contratista hará una propuesta semanal de publicaciones seleccionadas. Una vez 
+aprobadas por Red.es podrán ser introducidas en el Catálogo [ReqT(25)].  
+ 
+El contratista hará una propuesta mensual para hacer difusión de información y/o 
+productos de información, dicha propuesta deberá ser autorizada por Red.es antes de su 
+implementación [ReqT(26)]. 
+ 
+A la finalización del servicio el contratista deberá transferir el conocimiento y toda la 
+documentación actualizada del proyecto a Red.es o a la empresa que Red.es determine, 
+con la suficiente antelación y, en todo caso, un mínimo de 20 días hábiles antes de la 
+finalización de la prestación del Servicio. 
+ 
+Para ello, el contratista definirá un plan de retorno del Servicio [ReqT(27)] donde 
+aparezcan aspectos tales como: 
+• Planificación. 
+• Procedimientos y documentación para el traspaso del conocimiento. 
+• Entregables. 
+• Cualquier otro aspecto que se considere relevante para un proceso de traspaso del 
+servicio de calidad. 
+ 
+En el caso de que Red.es estimara necesario, se podrán realizar sesiones conjuntas entre 
+Red.es, el contratista y el nuevo contratista de los servicios para la transmisión del 
+conocimiento. La planificación de estas sesiones será la definida por Red.es, tanto en 
+número como en duración y se podrán realizar en las oficinas de Red.es, o bien en las que 
+en su caso la Entidad Pública determine, cabiendo la posibilidad de que puedan realizarse 
+en las instalaciones del contratista. 
+4.1 OBLIGACIONES DE INFORMACIÓN Y DOCUMENTACIÓN  
+Durante la ejecución de los Servicios objeto del contrato el contratista se compromete, en 
+todo momento, a facilitar a las personas designadas por el Responsable del Contrato, la 
+información y documentación que estas soliciten para disponer de un pleno conocimiento 
+de las circunstancias en que se desarrollan los trabajos, así como de los eventuales 
+problemas que puedan plantearse y de las tecnologías, métodos y herramientas utilizados 
+para resolverlos [ReqT(28)].   
+Código Seguro De Verificación 4vOEM+iBRP/vcd0ubsdlPA== Estado Fecha y hora
+Firmado Por JESÚS HERRERO POZA - DIRECTOR GENERAL DE LA ENTIDAD PÚBLICA
+EMPRESARIAL
+Firmado 23/11/2026 12:40:54
+Observaciones Página 14/19
+Url De Verificación https://portafirmas.red.es/verifirma/code/4vOEM%2BiBRP%2Fvcd0ubsdlPA%3D%3D
+Normativa Este informe tiene carácter de copia electrónica auténtica con validez y eficacia administrativa de ORIGINAL (art. 27 Ley 39/2015).
+
+
+--- página 15 ---
+ 
+ Página 15 de 19 
+Pliego de Prescripciones Técnicas que regirán la realización del contrato 
+de “Servicio de alojamiento, mantenimiento y soporte documental para el 
+Centro de Documentación del ONTSI” 
+Procedimiento Abierto Especialmente Simplificado  
+Exp. 025/26-OT  
+ 
+En este sentido, el contratista deberá informar a la persona a cargo del proyecto, con la 
+periodicidad necesaria, sobre distintos aspectos del funcionamiento y calidad de las 
+actuaciones realizadas.  
+Asimismo, el contratista estará obligado a asistir y colaborar a través del personal que 
+este designe, en las reuniones de seguimiento del proyecto definidas por la persona a 
+cargo del proyecto, quién se compromete a citar con la debida antelación al personal del 
+contratista, a los efectos de poder facilitar su asistencia. 
+Como parte de las tareas objeto del contrato, el contratista se compromete a generar la 
+documentación de los trabajos realizados, de acuerdo con los criterios que establezca en 
+cada caso el Responsable del contrato. Toda documentación generada por el contratista 
+en ejecución del contrato será propiedad exclusiva de Red.es en los términos establecidos 
+en el Pliego de Cláusulas Administrativas Particulares. 
+Salvo indicación expresa en contrario, las especificaciones e informes y cualquier otro 
+documento relativo al objeto del contrato serán aportados en castellano, cualquiera que 
+sea el soporte y/o formato utilizado para la transmisión de información. 
+ 
+La documentación a elaborar incluirá, al menos, la siguiente [ReqT(29)]: 
+• Manual de administrador actualizado y correspondiente a la versión del SIGB y sus 
+funcionalidades. 
+• Manual de usuario actualizado y correspondiente a la versión del SIGB y sus 
+funcionalidades. 
+• Documentación asociada a cada desarrollo que deberá constar, al menos, de: 
+o Documento de cambios en los que se detalla las modificaciones que 
+incorpora el nuevo desarrollo. 
+o Guía de instalación y administración. 
+o Código fuente del sistema. 
+o Documentación técnica (análisis, diseño, esquema de la base de datos, 
+etc.). 
+• Informe de estado e incidencias con una periodicidad al menos mensual, enviado 
+antes del día 5 de cada mes, en el formato digital definido por Red.es, sobre el 
+servicio, incidencias, tareas realizadas y otros datos de relevancia acontecidos 
+durante el mes. El informe, al menos, contendrá la siguiente información: 
+o Estado del posicionamiento orgánico, medias adoptadas y resultados. 
+o Monitorización interna y externa basada en el dominio. Se dará información 
+sobre las incidencias, con el siguiente detalle por cada una de ellas: 
+o Día y hora de notificación de la incidencia. 
+o Severidad. 
+Código Seguro De Verificación 4vOEM+iBRP/vcd0ubsdlPA== Estado Fecha y hora
+Firmado Por JESÚS HERRERO POZA - DIRECTOR GENERAL DE LA ENTIDAD PÚBLICA
+EMPRESARIAL
+Firmado 23/11/2026 12:40:54
+Observaciones Página 15/19
+Url De Verificación https://portafirmas.red.es/verifirma/code/4vOEM%2BiBRP%2Fvcd0ubsdlPA%3D%3D
+Normativa Este informe tiene carácter de copia electrónica auténtica con validez y eficacia administrativa de ORIGINAL (art. 27 Ley 39/2015).
+
+
+--- página 16 ---
+ 
+ Página 16 de 19 
+Pliego de Prescripciones Técnicas que regirán la realización del contrato 
+de “Servicio de alojamiento, mantenimiento y soporte documental para el 
+Centro de Documentación del ONTSI” 
+Procedimiento Abierto Especialmente Simplificado  
+Exp. 025/26-OT  
+ 
+o Ubicación donde se produce la incidencia, cuando proceda. 
+o Día y hora de resolución de la avería. 
+o Tiempo de respuesta. 
+o Tiempo de resolución 
+o Indicadores de nivel de servicio 
+• Informe de trabajos realizados, con carácter mensual y antes del día 5 de cada mes, 
+donde ser dará detalle de, al menos, los siguientes puntos: 
+o Numero de registros catalogados y clasificados y su identificador en el 
+Catálogo, así como detalles de las materias. 
+o Número de usuarios registrados y su identificador. 
+o Actividades realizadas para la difusión de la colección 
+o Estadísticas sobre las publicaciones, detallando, al menos, las categorías y 
+autores o editores más visitadas, año de publicación y documentos más 
+vistos y otros detalles de interés o relevancia que aporten información 
+sobre el OPAC 
+o Incidencias de usuarios y del servicio en general. 
+• Plan de retorno del servicio con los puntos que se definen en el apartado 3, 20 días 
+antes de la finalización del mismo. 
+4.2 DIRECCIÓN Y SEGUIMIENTO DE LOS TRABAJOS  
+Corresponde a Red.es la supervisión y dirección de los trabajos, proponer las 
+modificaciones convenientes o, en su caso, proponer la suspensión de los mismos si 
+existiese causa suficientemente motivada. 
+Corresponde al contratista la ejecución, la dirección y la coordinación directa de los 
+medios personales que realicen el Servicio. 
+Red.es, a través del Responsable del contrato, comunicará todas las directrices relativas a 
+la supervisión general de los trabajos objeto del Servicio al Jefe de Servicio del contratista 
+y, en ningún caso dará órdenes o instrucciones directas a los medios técnicos que, de 
+forma concreta, realicen dichos trabajos. 
+El Responsable del contrato podrá fijar reuniones con el Jefe de Proyecto del contratista 
+con el fin de determinar, analizar y valorar las incidencias que, en su caso, se produzcan 
+en ejecución del Contrato. 
+El Jefe de Proyecto deberá asistir a las reuniones a las que le convoque el Responsable del 
+Contrato de Red.es. El tiempo empleado por el personal del adjudicatario en estas 
+reuniones no implicará coste alguno para Red.es. 
+Código Seguro De Verificación 4vOEM+iBRP/vcd0ubsdlPA== Estado Fecha y hora
+Firmado Por JESÚS HERRERO POZA - DIRECTOR GENERAL DE LA ENTIDAD PÚBLICA
+EMPRESARIAL
+Firmado 23/11/2026 12:40:54
+Observaciones Página 16/19
+Url De Verificación https://portafirmas.red.es/verifirma/code/4vOEM%2BiBRP%2Fvcd0ubsdlPA%3D%3D
+Normativa Este informe tiene carácter de copia electrónica auténtica con validez y eficacia administrativa de ORIGINAL (art. 27 Ley 39/2015).
+
+
+--- página 17 ---
+ 
+ Página 17 de 19 
+Pliego de Prescripciones Técnicas que regirán la realización del contrato 
+de “Servicio de alojamiento, mantenimiento y soporte documental para el 
+Centro de Documentación del ONTSI” 
+Procedimiento Abierto Especialmente Simplificado  
+Exp. 025/26-OT  
+ 
+El Responsable del contrato podrá incorporar al equipo de trabajo a las personas que 
+estime necesarias para verificar y evaluar todas las actuaciones a su cargo. 
+4.3 MEDIOS MATERIALES Y SOPORTE TÉCNICO  
+El contratista dispondrá de los medios materiales necesarios para el desarrollo de la 
+actividad contratada. En concreto, deberá disponer de los equipos y programas 
+informáticos necesarios para la adecuada realización de los trabajos. Asimismo, el 
+contratista deberá proporcionar el soporte técnico necesario a los medios personales 
+asignados al proyecto en todas las materias (móvil, portátil, todo el software necesario 
+para el desarrollo del trabajo concreto, etc.), así como las comunicaciones de datos entre 
+las dependencias desde las que el equipo designado realice el Servicio. 
+4.4 LUGAR Y HORARIO DE REALIZACIÓN DEL SERVICIO  
+Los trabajos se realizarán en las oficinas del contratista. No obstante, en circunstancias 
+excepcionales, a criterio de Red.es, y cuando la urgencia de la materia así lo requiera, el 
+contratista deberá tener plena disponibilidad para acudir a las oficinas de Red.es y 
+realizar los trabajos oportunos. 
+El horario laborable establecido a efectos del cumplimiento del servicio es de lunes a 
+viernes de 9:00 a 18:00 horas.  
+ 
+ 
+5 EQUIPO DE TRABAJO   
+De conformidad con lo establecido en el artículo 76.2 de la Ley 9/2017, de 8 de noviembre, 
+de Contratos del Sector Públicos, los licitadores se comprometerán a dedicar o adscribir 
+a la ejecución del contrato los medios personales o materiales suficientes para ello. A este 
+compromiso se le atribuye el carácter de obligación esencial a los efectos previstos en el 
+artículo 211 de la Ley de Contratos del Sector Público y de conformidad con lo indicado 
+en el apartado 3 del Pliego de Condiciones Particulares. 
+ 
+El contratista adscribirá los medios personales señalados en el presente apartado que 
+deberán cumplir con los requisitos de cualificación y experiencia establecidos en el 
+apartado 3.2 de las Condiciones Específicas del Pliego de Cláusulas Administrativas 
+Particulares, los cuales desempeñarán sus funciones en el horario y lugar de trabajo 
+descrito en el apartado 3.4 del presente Pliego. 
+ 
+El contratista se compromete a adscribir como mínimo: 
+Código Seguro De Verificación 4vOEM+iBRP/vcd0ubsdlPA== Estado Fecha y hora
+Firmado Por JESÚS HERRERO POZA - DIRECTOR GENERAL DE LA ENTIDAD PÚBLICA
+EMPRESARIAL
+Firmado 23/11/2026 12:40:54
+Observaciones Página 17/19
+Url De Verificación https://portafirmas.red.es/verifirma/code/4vOEM%2BiBRP%2Fvcd0ubsdlPA%3D%3D
+Normativa Este informe tiene carácter de copia electrónica auténtica con validez y eficacia administrativa de ORIGINAL (art. 27 Ley 39/2015).
+
+
+--- página 18 ---
+ 
+ Página 18 de 19 
+Pliego de Prescripciones Técnicas que regirán la realización del contrato 
+de “Servicio de alojamiento, mantenimiento y soporte documental para el 
+Centro de Documentación del ONTSI” 
+Procedimiento Abierto Especialmente Simplificado  
+Exp. 025/26-OT  
+ 
+ 
+• un medio personal para el Perfil 1: Responsable tecnológico 
+• un medio personal para el Perfil 2: Técnico en posicionamiento SEO técnico 
+ 
+o bien un único medio personal que cumpla con los requisitos de ambos perfiles. 
+ 
+Asimismo, se compromete a adscribir como mínimo:  
+• un recurso para el Perfil 3:  Responsable documentalista. 
+5.1 SUSTITUCIÓN DE LOS MEDIOS PERSONALES  
+La valoración final de la calidad y adecuación de los trabajos que el contratista vaya 
+realizando a través del personal que preste el Servicio corresponde al director técnico 
+designado por Red.es, siendo potestad suya solicitar la sustitución de los medios 
+personales adscritos por otros de igual categoría o superior.  
+Tanto Red.es como el contratista podrán requerir la sustitución de los medios personales 
+del Servicio por otros de igual categoría durante la ejecución del proyecto.  
+Si, durante la ejecución del contrato, la empresa adjudicataria propusiera el cambio de 
+alguno de los medios que prestan el Servicio, la sustitución requerirá, en todo caso, el 
+cumplimiento de las siguientes condiciones:  
+• Aviso o solicitud del cambio realizado con, al menos, diez (10) días hábiles de 
+antelación.  
+• Justificación escrita, detallada y suficiente, explicando el motivo que suscita el cambio. 
+• Presentación de al menos un posible candidato con un perfil acorde al medio personal 
+que se pretende sustituir en el plazo máximo de tres (3) días hábiles desde el aviso o 
+solicitud. En caso de que este candidato no cumpla con los requisitos establecidos en 
+el apartado 3.3 de las Condiciones Específicas del Pliego de Cláusulas Administrativas 
+Particulares, no supondrá una parada en el cálculo del tiempo máximo indicado en el 
+nivel de servicio establecido en el apartado 6.1 del presente pliego. 
+• Aceptación del candidato por parte de Red.es, una vez verificado el cumplimiento de 
+los requisitos.  
+Si, durante la ejecución del contrato, Red.es propusiera el cambio de alguno de los 
+medios que prestan el Servicio, la sustitución requerirá, en todo caso, el cumplimiento de 
+las siguientes condiciones:  
+• Aviso o solicitud del cambio realizado con al menos diez (10) días laborales de 
+antelación.  
+Código Seguro De Verificación 4vOEM+iBRP/vcd0ubsdlPA== Estado Fecha y hora
+Firmado Por JESÚS HERRERO POZA - DIRECTOR GENERAL DE LA ENTIDAD PÚBLICA
+EMPRESARIAL
+Firmado 23/11/2026 12:40:54
+Observaciones Página 18/19
+Url De Verificación https://portafirmas.red.es/verifirma/code/4vOEM%2BiBRP%2Fvcd0ubsdlPA%3D%3D
+Normativa Este informe tiene carácter de copia electrónica auténtica con validez y eficacia administrativa de ORIGINAL (art. 27 Ley 39/2015).
+
+
+--- página 19 ---
+ 
+ Página 19 de 19 
+Pliego de Prescripciones Técnicas que regirán la realización del contrato 
+de “Servicio de alojamiento, mantenimiento y soporte documental para el 
+Centro de Documentación del ONTSI” 
+Procedimiento Abierto Especialmente Simplificado  
+Exp. 025/26-OT  
+ 
+• Presentación de al menos un posible candidato con un perfil acorde al medio 
+personal que se pretende sustituir en el pazo máximo de diez (10) días hábiles desde 
+el aviso o solicitud.  
+• Aceptación del candidato por parte de Red.es, una vez verificado el cumplimiento de 
+los requisitos solicitados en apartado 3.3 de las Condiciones Específicas del Pliego 
+de Cláusulas Administrativas Particulares. El incumplimiento de los requisitos 
+solicitados por parte del candidato presentado por el contratista no supondrá una 
+parada en el cálculo del tiempo máximo indicado en el nivel de servicio establecido 
+en el apartado 6.1 del presente pliego. 
+Tanto si la solicitud de sustitución de medios personales procede de Red.es como del 
+contratista, este último deberá prever y establecer las medidas adecuadas para que no se 
+produzca interrupción en la prestación del Servicio. En concreto, el contratista se 
+encargará de que los medios personales entrantes y salientes cuenten con un periodo de 
+solapamiento de siete (7) días hábiles, dirigido a realizar el traspaso de conocimiento de 
+uno a otro, sin que tenga una consideración especial a efectos de cómputo de horas o tarifa 
+aplicable al servicio. 
+ 
+Si durante la ejecución del contrato, la empresa adjudicataria propusiera el cambio del 
+personal que realiza el contrato, la sustitución de dicho personal requerirá en todo caso 
+el cumplimiento de las siguientes condiciones: 
+• Justificación escrita, detallada y suficiente, explicando el motivo que suscita el 
+cambio. 
+• Presentación de posibles candidatos con un perfil de cualificación técnica igual o 
+superior a la de la persona que se pretende sustituir. 
+• Aceptación del candidato por parte del director técnico designado por Red.es. En 
+todo caso, la solicitud del cambio deberá notificarse con QUINCE (15) días naturales 
+de antelación. 
+6 FORMATO Y CONTENIDO DE LA PROPUESTA 
+El formato y contenido de la propuesta figuran en el apartado 10 de las Condiciones 
+Específicas del Pliego de Cláusulas Administrativas Particulares. 
+Código Seguro De Verificación 4vOEM+iBRP/vcd0ubsdlPA== Estado Fecha y hora
+Firmado Por JESÚS HERRERO POZA - DIRECTOR GENERAL DE LA ENTIDAD PÚBLICA
+EMPRESARIAL
+Firmado 23/11/2026 12:40:54
+Observaciones Página 19/19
+Url De Verificación https://portafirmas.red.es/verifirma/code/4vOEM%2BiBRP%2Fvcd0ubsdlPA%3D%3D
+Normativa Este informe tiene carácter de copia electrónica auténtica con validez y eficacia administrativa de ORIGINAL (art. 27 Ley 39/2015).

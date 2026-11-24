@@ -3,7 +3,7 @@
 - Órgano: Junta de Compras de Informa DB, S.A.
 - Expediente: 2026-022
 - Importe sin IVA: 18000 €
-- Fin de plazo: 2026-11-24 15:00:00
+- Fin de plazo: 2026-11-30 15:00:00
 - CPV: 48461000,72263000,90731700
 - Desarrollo (clasificación automática): quizá
 - Ficha en la plataforma: https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=b70Kae1B1eDzAq95uGTrDQ%3D%3D

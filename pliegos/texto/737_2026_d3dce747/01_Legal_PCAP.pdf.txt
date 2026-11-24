@@ -1,0 +1,723 @@
+
+
+--- página 1 ---
+Ayuntamiento de Corullón
+Expediente n.º: 737/2026 
+Pliego de Cláusulas Administrativas Particulares 
+Procedimiento: Procedimiento de Contratación 
+PLIEGO  DE  CLÁUSULAS  ADMINISTRATIVAS  PARTICULARES  PARA 
+CONTRATO  DE  SERVICIOS  POR  PROCEDIMIENTO  ABIERTO 
+SIMPLIFICADO SUMARIO  PARA EL  SERVICIO DE IMPLEMENTACIÓN 
+DIGITAL DE LA RED DE RUTAS DE CORULLÓN: APLICACIÓN MÓVIL, 
+AUDIOGUÍA,  WEB,  VÍDEOS  Y PLAN  DE COMUNICACIÓN  (INFRARED 
+CORULLÓN. A4)
+Cláusula 1. Régimen jurídico
+1.1. El contrato tiene carácter administrativo (art. 25.1.a LCSP).  Se rige por las 
+normas siguientes:
+1. Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP).
+2. Real Decreto 817/2009, de 8 de mayo, y Reglamento General de la Ley de 
+Contratos  de  las  Administraciones  Públicas,  aprobado  por  Real  Decreto 
+1098/2001, de 12 de octubre (RGLCAP), en lo que no se opongan a la LCSP.
+3. Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, y 
+disposiciones adicionales segunda y tercera LCSP.
+4. Ley 39/2015 y Ley 40/2015, de 1 de octubre, con carácter supletorio.
+5. Ley  38/2003,  de  17  de  noviembre,  General  de  Subvenciones,  y  bases 
+reguladoras  y  orden  de  convocatoria  de  la  subvención  que  financia  el 
+contrato, en lo relativo a la justificación, la publicidad y el control de los 
+fondos.
+6. Supletoriamente, las normas de derecho administrativo y, en su defecto, las 
+de derecho privado.
+1.2. Tienen carácter contractual este pliego, el Pliego de Prescripciones Técnicas 
+(PPT), la oferta del adjudicatario y el  documento de  formalización. En caso de 
+discrepancia prevalece este pliego.
+1.3. El desconocimiento de los pliegos y de las instrucciones que dicte el órgano de 
+contratación no exime al contratista de cumplirlos.
+Cláusula 2. Objeto del contrato y necesidad
+2.1. Objeto. El objeto es la prestación del servicio de implementación digital de la 
+red de rutas de Corullón. Comprende la aplicación móvil, la audioguía de la ruta 
+«Sabores e Historia de Corullón», la web de rutas, la producción audiovisual y el 
+plan de comunicación, con el alcance definido en el PPT. La aplicación y la web 
+funcionarán sobre una arquitectura de código abierto definida en la cláusula 5.7 del 
+PPT.
+2.2.  Necesidad e idoneidad (art.  28  LCSP). El Ayuntamiento debe  difundir el 
+patrimonio natural, cultural y agroforestal ligado a su red de rutas y facilitar el 
+acceso  a  la  información,  en  particular  de  las  personas  con  discapacidad.  Esta 
+difusión forma parte del proyecto InfraRed Corullón, subvencionado para luchar 
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: AM2QHTGJDXNG4FYMKKHMW9SFZ 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 1 de 14 
+
+--- página 2 ---
+Ayuntamiento de Corullón
+contra  la  despoblación.  El  Ayuntamiento  no  dispone  de  medios  propios  para 
+desarrollar software ni para la producción audiovisual, según el apartado 21 de la 
+memoria del proyecto. La justificación completa consta en la memoria justificativa 
+del expediente.
+2.3. CPV. 72212000-4 (Servicios de programación de software de aplicación), CPV 
+principal; 72413000-8 (Servicios de diseño de sitios web); 92111000-2 (Servicios de 
+producción de películas y vídeos), y 79342000-3 (Servicios de marketing).
+Cláusula 3. Calificación y procedimiento de adjudicación
+3.1. El contrato se califica como contrato de servicios (art. 17 LCSP). Se adjudica 
+por el procedimiento abierto simplificado sumario del art. 159.6 LCSP. En lo no 
+previsto en ese apartado se aplica la regulación general del procedimiento abierto 
+simplificado del art. 159 LCSP.
+3.2. Se cumplen los requisitos de aplicación de este procedimiento:
+ El valor estimado (41.808,70 €) es inferior a 60.000 €.
+ Los  criterios  de  adjudicación  son  evaluables  exclusivamente  mediante 
+fórmulas.
+ La  prestación  no  tiene  por  objeto  prestaciones  de  carácter  intelectual. 
+Conforme  al  criterio  de  la  Junta  Consultiva  de  Contratación  Pública  del 
+Estado  (expediente  20/19),  la  calificación  atiende  al  contenido  de  las 
+prestaciones y no a los códigos CPV. Es un servicio de desarrollo de soportes 
+digitales y de producción audiovisual definido por resultados, con requisitos 
+técnicos cerrados y verificables (cláusula 5 del PPT). La prestación principal 
+(aplicación, audioguía integrada en ella y web, el 71,42 % del presupuesto) 
+consiste en implementar funciones tasadas sobre una arquitectura de código 
+abierto y unas tecnologías de referencia fijadas por el Ayuntamiento (cláusula 
+5.7 del PPT). Los contenidos (cartografía, base de datos de rutas y puntos de 
+interés y textos de los carteles y fichas) proceden de las acciones A1 a A3, y 
+el contratista  los  adapta  a cada  soporte  sin  alterar su contenido técnico 
+(cláusula 5.1.9 del PPT), por lo que no entran en juego el valor creativo ni la 
+labor de investigación propios de las prestaciones de carácter intelectual. El 
+contratista no elabora estudios, diagnósticos ni propuestas de solución. La 
+producción audiovisual (24,99 %) es accesoria e instrumental: las pistas y los 
+vídeos siguen estructuras y escaletas fijadas, el spot y el vídeo promocional 
+son  montajes  del  material  grabado  y  la  música  procede  de  bancos  con 
+licencia (cláusulas 5.3 y 5.5 del PPT). El plan de comunicación (3,59 %) es un 
+documento operativo de programación de la difusión del material producido, 
+con  un  contenido  cerrado  y  sin  creación  de  mensajes  ni  piezas  nuevas 
+(cláusula 5.6 del PPT). Se han excluido del objeto las funciones de carácter 
+innovador. La motivación completa figura en la cláusula 2 del PPT y en la 
+memoria justificativa. No se trata de servicios de arquitectura, ingeniería, 
+consultoría o urbanismo (disposición adicional cuadragésima primera LCSP).
+Cláusula 4. Órgano de contratación y responsable del contrato
+4.1. El órgano de contratación es el Alcalde, por delegación del Pleno según su 
+acuerdo  de  fecha  30  de  junio  de  2026  (expediente  489/2026),  publicado  su 
+contenido en el BOP de León n.º 133 de fecha 16 de julio de 2026 (disposición 
+adicional segunda LCSP). Tiene las prerrogativas del art. 190 LCSP: interpretar el 
+contrato, resolver las dudas que ofrezca su cumplimiento, modificarlo por razones 
+de interés público, acordar su resolución y determinar sus efectos. Las ejercerá con 
+sujeción al art. 191 LCSP.
+4.2. El órgano de contratación designará un responsable del contrato (art. 62 LCSP) 
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: AM2QHTGJDXNG4FYMKKHMW9SFZ 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 2 de 14 
+
+--- página 3 ---
+Ayuntamiento de Corullón
+en el acuerdo de adjudicación. La unidad encargada del seguimiento y ejecución 
+ordinaria  del  contrato  será  la  Secretaría-Intervención  (art.  62.1  LCSP).  Al 
+responsable  del  contrato  le  corresponde  supervisar  la  ejecución,  dictar 
+instrucciones, validar los entregables y proponer la imposición de penalidades.
+Cláusula 5. División en lotes
+El contrato no se divide en lotes, de conformidad con el art. 99.3.b)  LCSP. La 
+ejecución  independiente  de  las  prestaciones  dificultaría  su  correcta  ejecución 
+técnica. La aplicación, la audioguía y la web comparten una única base de datos y 
+un  único  gestor  de  contenidos.  Los  códigos  QR  de  la  señalización  remiten  a 
+contenidos alojados en la web. Todas las piezas comparten identidad gráfica, y el 
+plan de  comunicación  planifica  la difusión  del conjunto.  El detalle figura en  la 
+cláusula 3 del PPT y en la memoria justificativa (art. 116.4.g LCSP).
+Cláusula 6. Perfil de contratante y comunicaciones
+6.1.  La  licitación  se  anunciará  únicamente  en  el  perfil  de  contratante  del 
+Ayuntamiento  (arts.  63  y  159.2  LCSP).  En  él  se  publicarán  los  pliegos  y  la 
+documentación complementaria.
+6.2.  Las  comunicaciones  y  notificaciones  se  realizarán  por  medios  electrónicos 
+(disposición  adicional  decimoquinta  LCSP),  a  través  de  la  Plataforma  de 
+Contratación del Sector Público.
+6.3. La información adicional sobre los pliegos (art. 138 LCSP) se facilitará al menos 
+3 días hábiles antes de que finalice el plazo de presentación de ofertas, siempre que 
+se solicite con una antelación mínima de 5 días hábiles respecto de esa fecha. La 
+solicitud se presentará a través de la Plataforma de Contratación del Sector Público 
+o en la dirección de correo electrónico indicada en el anuncio, y las respuestas se 
+publicarán en el perfil de contratante.
+II. Régimen económico y plazo
+Cláusula 7. Presupuesto base de licitación
+El  presupuesto  base  de  licitación  (art.  100  LCSP)  asciende  a  50.588,53  €: 
+41.808,70 € de base imponible y 8.779,83 € de IVA al 21 %.  Por prestaciones, 
+conforme a la memoria del proyecto:
+Prestación Base imponible (€) IVA 21 % (€) Total (€)
+A  y  B.  Aplicación  de  rutas  y 
+audioguía
+24.858,70 5.220,33 30.079,0
+3
+C. Web de rutas 5.000,00 1.050,00 6.050,00
+D. Vídeos 10.450,00 2.194,50 12.644,5
+0
+E. Plan de comunicación 1.500,00 315,00 1.815,00
+Total 41.808,70 8.779,83 50.588,5
+3
+Cláusula 8. Valor estimado
+El valor estimado (art. 101 LCSP) es de  41.808,70 €, IVA excluido. No incluye 
+prórrogas ni modificaciones porque no se prevén. 
+Cláusula 9. Precio y existencia de crédito
+9.1. El precio del contrato será el de la oferta adjudicataria. Incluirá el IVA como 
+partida  independiente  y  todos  los  gastos  necesarios  para  ejecutarlo:  personal, 
+desplazamientos, equipos, licencias, alojamiento hasta el 31 de diciembre de 2026 
+(incluidos el servidor de mapas y la base de datos), publicación en las tiendas de 
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: AM2QHTGJDXNG4FYMKKHMW9SFZ 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 3 de 14 
+
+--- página 4 ---
+Ayuntamiento de Corullón
+aplicaciones, alta de la cuenta de alojamiento, de las cuentas de desarrollador y del 
+dominio, con sus cuotas hasta el 31 de diciembre de 2026, formación, corrección de 
+defectos durante el plazo de garantía, autorizaciones y seguros.
+9.2. El gasto se abonará con cargo a la aplicación presupuestaria correspondiente 
+del Presupuesto Municipal, en la que existe crédito suficiente incorporado por el 
+expediente n.º 89/2026, de incorporación de remanentes de crédito 2/2026. El gasto 
+tiene financiación afectada a la subvención.
+Cláusula 10. Plazo de ejecución
+10.1. El plazo de ejecución comienza el día siguiente a la formalización del contrato 
+y termina el 29 de diciembre de 2026, o en la fecha anterior que haya ofertado el 
+adjudicatario en  el  criterio 2. En  esa  fecha  todas  las  prestaciones  deben  estar 
+ejecutadas, entregadas y en funcionamiento. La recepción se realizará no más tarde 
+del  30  de  diciembre  de  2026  (cláusula  29). Los  plazos  parciales  son  los  de  la 
+cláusula 7.2 del PPT y tienen el carácter de plazos máximos. Si la formalización se 
+produce después del 11 de diciembre de 2026 por causa no imputable al contratista, 
+los hitos H4 y H5 se desplazarán el mismo número de días hábiles, sin superar la 
+fecha del hito H6.
+10.2. No se prevé prórroga (art. 29 LCSP). El plazo solo podrá ampliarse por causa 
+no imputable al contratista, conforme al art. 195.2 LCSP.
+10.3. Las actuaciones financiadas por la subvención deben finalizar antes del 31 de 
+diciembre de 2026 (apartado 4.4 de la orden de convocatoria), plazo que no admite 
+ampliación. El plazo del contrato se fija para que antes de esa fecha todas las 
+prestaciones estén ejecutadas, en funcionamiento y recibidas. Su incumplimiento 
+supondría la pérdida de la financiación.
+10.4. Obligación esencial. El cumplimiento del plazo total y de los hitos H4 (versión 
+de prueba instalable de la aplicación, audioguía y web en preproducción) y H6 
+(publicación, documentación final y prueba de campo) de la cláusula 7.2 del PPT se 
+califica como obligación contractual esencial a efectos del art. 211.1.f) LCSP.
+10.5. Compromiso de medios. La presentación de la oferta implica el compromiso de 
+adscribir  a  la  ejecución,  desde  el  día  siguiente  a  la  formalización,  los  medios 
+personales  y materiales  necesarios  para cumplir el calendario (cláusula  7.6 del 
+PPT). Este compromiso es una condición de ejecución y no se valora.
+Cláusula 11. Revisión de precios
+No procede la revisión de precios (art. 103 LCSP). El plazo de ejecución es inferior a 
+dos años y no concurre ninguno de los supuestos del art. 103.2 LCSP.
+III. Licitación y adjudicación
+Cláusula 12. Capacidad para contratar
+12.1.  Pueden  presentar  oferta  las  personas  físicas  o  jurídicas,  españolas  o 
+extranjeras,  que  cumplan  estos  requisitos:  plena  capacidad  de  obrar,  no  estar 
+incursas en prohibición de contratar (art. 71 LCSP) y dedicarse a una actividad 
+relacionada con el objeto del contrato según sus estatutos o reglas fundacionales 
+(art. 66 LCSP). Pueden concurrir uniones temporales de empresarios (art. 69 LCSP).
+12.2.  Solvencia. Los  licitadores  quedan  eximidos  de  acreditar  la  solvencia 
+económica y financiera y la solvencia técnica o profesional (art. 159.6.b LCSP).
+12.3. Inscripción registral. Los licitadores deberán estar inscritos en el Registro 
+Oficial de Licitadores y Empresas Clasificadas del Sector Público (ROLECE) o en el 
+registro equivalente de la Comunidad Autónoma en la fecha final de presentación de 
+ofertas (art. 159.4.a LCSP, aplicable al procedimiento del art. 159.6 LCSP). También 
+se admitirá la proposición del licitador que acredite haber presentado antes de esa 
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: AM2QHTGJDXNG4FYMKKHMW9SFZ 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 4 de 14 
+
+--- página 5 ---
+Ayuntamiento de Corullón
+fecha la solicitud de inscripción con la documentación preceptiva, mediante el acuse 
+de recibo del registro y una declaración responsable de haberla aportado y no haber 
+recibido requerimiento de subsanación. En ese caso, deberá acreditar todos sus 
+datos de aptitud antes de la adjudicación (cláusula 18).
+Cláusula 13. Presentación de proposiciones
+13.1. Plazo. Las proposiciones se presentarán en el plazo que indique el anuncio de 
+licitación. No será inferior a 10 días hábiles desde el día siguiente a la publicación 
+del anuncio en el perfil de contratante (art. 159.6.a LCSP).
+13.2.  Forma. La  presentación  será  exclusivamente  electrónica,  a  través  de  la 
+Plataforma de Contratación del Sector Público (disposición adicional decimoquinta 
+LCSP). Las ofertas presentadas por otros medios no se admitirán.
+13.3. Sobre único. La oferta se presentará en un único sobre o archivo electrónico 
+(art. 159.6.c LCSP), firmado electrónicamente, con este contenido:
+1. Declaración responsable según el modelo del anexo I (arts.  140 y 159.4.c 
+LCSP).
+2. Oferta económica y oferta del resto de criterios según el modelo del anexo II.
+3. En su caso, compromiso de constituir una unión temporal de empresarios 
+(art. 69.3 LCSP).
+13.4. Cada licitador presentará una sola proposición. No podrá suscribir ninguna 
+propuesta en unión temporal con otros si lo ha hecho individualmente, ni figurar en 
+más  de  una  unión  temporal  (art.  139.3  LCSP).  No  se  admiten  variantes.  La 
+presentación de la oferta supone la aceptación incondicionada de los pliegos (art. 
+139.1 LCSP).
+13.5.  Confidencialidad  y  publicidad  de  las  ofertas. Las  ofertas  y  la 
+documentación  relativa  a  su  valoración  serán  accesibles  de  forma  abierta  por 
+medios informáticos desde la notificación de la adjudicación (art. 159.6.e LCSP). En 
+este  procedimiento  solo  se  valoran  datos  objetivos,  por  lo  que  no  proceden 
+declaraciones de confidencialidad sobre el contenido de la oferta.
+Cláusula 14. Criterios de adjudicación
+14.1. Las ofertas se valorarán exclusivamente con criterios cuantificables mediante 
+la mera aplicación de fórmulas (art. 159.6.c LCSP), hasta un máximo de 100 puntos. 
+Se utilizan varios criterios porque se trata de un contrato de servicios (art. 145.3.g 
+LCSP). Todos los criterios están vinculados al objeto del contrato (art. 145.6 LCSP).
+Criterio Puntuación máxima
+1.  Garantía:  ampliación  del  plazo  y  reducción  de  los 
+plazos de corrección de defectos
+40
+2. Adelanto de la entrega final (hito H6) 25
+3. Precio 35
+Total 100
+14.2. Criterio 1. Garantía (hasta 40 puntos). Se compone de dos apartados. a) 
+Ampliación del plazo de garantía (hasta 15 puntos). Se valoran los meses 
+completos que el licitador ofrezca añadir al plazo mínimo de garantía de 36 meses, 
+hasta un máximo computable de 24 meses, con esta fórmula:
+Pᵢ = 15 × Mᵢ / 24
+En la fórmula, Pᵢ es la puntuación de la oferta i y Mᵢ el número de meses completos 
+adicionales  ofertados,  entre  0  y  24.  Durante  el  plazo  de  garantía,  incluida  la 
+ampliación,  el  contratista  corregirá  sin  coste  los  defectos  de  las  prestaciones 
+entregadas, en los términos de la cláusula 11 del PPT. Si se ofrecen más de 24 
+meses, la ampliación será exigible en su totalidad, pero solo se puntuarán 24. Se 
+valora porque muchos defectos de una aplicación y una web solo aparecen con el 
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: AM2QHTGJDXNG4FYMKKHMW9SFZ 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 5 de 14 
+
+--- página 6 ---
+Ayuntamiento de Corullón
+uso  real,  de  su  corrección  dependen  los  indicadores  de  la  acción  A4  y  el 
+Ayuntamiento no dispone de medios técnicos para corregirlos.
+b) Reducción de los plazos de corrección de defectos (hasta 25 puntos). Se 
+valora el compromiso de corregir los defectos durante el plazo de garantía en menos 
+tiempo que el máximo de la cláusula 11 del PPT, con esta puntuación:
+b.1) Defectos que impiden el uso de la aplicación, la web o la audioguía (máximo del 
+PPT: 2 días hábiles): 1 día hábil, 15 puntos; 2 días hábiles, 0 puntos.
+b.2) Resto de defectos (máximo del PPT: 10 días hábiles): 5 días hábiles, 10 puntos; 
+7 días hábiles, 5 puntos; 10 días hábiles, 0 puntos.
+Si se oferta un plazo que no figura en la lista, se valorará con el plazo más largo 
+inmediatamente siguiente de la lista, y el plazo ofertado será igualmente exigible. 
+Los  plazos  ofertados  sustituyen  a los  máximos  de  la cláusula  11  del  PPT  y su 
+incumplimiento se penaliza según la cláusula 26.5. Este apartado se justifica porque 
+la rapidez en la corrección mantiene el servicio operativo para el usuario y porque 
+solo puede comprometerla una empresa que vaya a mantener de forma efectiva el 
+producto durante la garantía.
+14.3. Criterio 2. Adelanto de la entrega final, hito H6 (hasta 25 puntos). Se 
+otorgan  6,25  puntos  por  cada  día  hábil  en  que  el  licitador  se  comprometa  a 
+adelantar el hito H6 de la cláusula 7.2 del PPT (publicación, documentación final y 
+prueba de campo superada) respecto del 29 de diciembre de 2026, hasta un máximo 
+de 4 días hábiles. Son inhábiles los sábados, los domingos y los festivos nacionales, 
+autonómicos y locales de Corullón. El licitador indicará una de estas fechas: 29 de 
+diciembre  de  2026  (0  puntos),  28  de  diciembre  de  2026  (6,25  puntos),  24  de 
+diciembre de 2026 (12,50 puntos), 23 de diciembre de 2026 (18,75 puntos) o 22 de 
+diciembre de 2026 (25 puntos). Si se oferta una fecha que no figura en la lista, se 
+valorará con la fecha más tardía inmediatamente siguiente de la lista, y la fecha 
+ofertada será igualmente exigible. La fecha ofertada pasa a ser el plazo máximo del 
+hito H6 y del contrato; si es anterior a la de alguno de los hitos H3 a H5, la fecha 
+máxima de estos pasará a ser la ofertada. Su incumplimiento se penaliza como 
+demora (cláusula 26.1). Los retrasos de Google o Apple en la verificación de las 
+cuentas se rigen por la cláusula 7.5 del PPT. Este criterio se justifica porque la 
+entrega anticipada da margen para las comprobaciones del responsable del contrato 
+y la recepción de conformidad antes del 31 de diciembre de 2026, fecha en que 
+deben haber finalizado las actuaciones financiadas.
+14.4.  Criterio 3. Precio (hasta 35 puntos). Se valora el precio ofertado, IVA 
+excluido,  de  forma  proporcional  a  su  baja  respecto  del  presupuesto  base  de 
+licitación, con esta fórmula:
+Pᵢ = 35 × (PBL − Oᵢ) / (PBL − Oₘᵢₙ)
+En  la  fórmula, Pᵢ es  la  puntuación  de  la oferta  i, PBL  el  presupuesto  base  de 
+licitación sin IVA (41.808,70 €), Oᵢ el precio de la oferta i sin IVA y Oₘᵢₙ el precio sin 
+IVA de la oferta más baja de las admitidas. La oferta más baja obtiene 35 puntos y 
+las demás, la puntuación proporcional que resulte de la fórmula. Una oferta igual al 
+presupuesto base de licitación obtiene 0 puntos y, si ninguna oferta presenta baja, 
+todas obtienen 0 puntos en este criterio. Se rechazarán las ofertas que superen el 
+presupuesto base de licitación. El riesgo de ofertas inviables se controla mediante 
+los parámetros de anormalidad de la cláusula 15.
+14.5. Las prestaciones ofertadas en el criterio 1 son mejoras en el sentido del art. 
+145.7 LCSP, con los requisitos y límites fijados en él. El compromiso del criterio 2 
+no es una mejora, sino un plazo de ejecución ofertado. Todos los compromisos 
+ofertados  en  los  criterios  1  y  2  se  incorporan  al  contrato  como  obligaciones 
+contractuales y no suponen un mayor precio. Su incumplimiento se penaliza según 
+la cláusula 26.
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: AM2QHTGJDXNG4FYMKKHMW9SFZ 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 6 de 14 
+
+--- página 7 ---
+Ayuntamiento de Corullón
+Cláusula 15. Ofertas anormalmente bajas
+15.1. Parámetros objetivos de anormalidad (art. 149.2.b LCSP). Se presumirá que 
+una oferta, considerada en su conjunto, es anormalmente baja cuando su precio sea 
+inferior en más de un 20 % al presupuesto base de licitación (precio inferior a 
+33.446,96 €, IVA excluido). Los criterios 1 y 2 tienen límites máximos y prestaciones 
+definidas, por lo que no se consideran por sí solos indicativos de anormalidad.
+15.2. En ese caso, se requerirá al licitador que justifique su oferta. El plazo máximo 
+será de 5 días hábiles desde el envío de la comunicación (arts. 149.4 y 159.4.f.4º 
+LCSP).  Se  rechazarán  las  ofertas  que  no  se  justifiquen  adecuadamente  o  que 
+incumplan obligaciones medioambientales, sociales o laborales, incluido el convenio 
+colectivo sectorial aplicable (art. 149.4 LCSP).
+Cláusula 16. Criterios de desempate
+Los  empates  se  resolverán  aplicando  sucesivamente  los  criterios  del  art.  147.2 
+LCSP, referidos al final del plazo de presentación de ofertas. La documentación 
+acreditativa se requerirá solo a los licitadores empatados.
+Cláusula 17. Apertura y valoración de las ofertas
+17.1. Un dispositivo electrónico garantizará que las ofertas no se abren hasta que 
+termine el plazo de presentación. No habrá acto público de apertura (art. 159.6.d 
+LCSP).
+17.2. La valoración podrá hacerse automáticamente mediante dispositivos 
+informáticos o con la colaboración de una unidad técnica que auxilie al órgano de 
+contratación (art. 159.6.d LCSP). La unidad técnica estará formada por la persona 
+que ocupe el puesto de Secretaría-Intervención, que procederá a la apertura de las 
+proposiciones y a su valoración.
+17.3. Tras la valoración se clasificarán las ofertas por orden decreciente de 
+puntuación y se formulará la propuesta de adjudicación a favor de la oferta con 
+mejor puntuación. Se comprobará que la empresa propuesta tiene capacidad y no 
+está incursa en prohibición de contratar, en el ROLECE o en el registro autonómico 
+o, si solo acreditó la solicitud de inscripción, con la documentación de la cláusula 
+18.
+Cláusula 18. Requerimiento de documentación
+Se requerirá al licitador propuesto para que, en el plazo de 7 días hábiles desde el 
+envío de la comunicación, presente el certificado de inscripción en el ROLECE o en 
+el registro autonómico, con una declaración responsable de vigencia de los datos 
+inscritos, y la documentación siguiente que no conste en el registro (arts. 96 y 
+159.4.f.4º LCSP):
+1. Documentos acreditativos de la personalidad y capacidad: copia del 
+documento nacional de identidad del empresario individual o, si es persona 
+jurídica, la escritura o documento de constitución y los estatutos o el acto 
+fundacional (art. 84 LCSP).
+2. Documentos acreditativos de la representación: poder bastante de quien 
+firme la oferta en nombre de otro, inscrito en el Registro Mercantil cuando 
+sea exigible, y copia de su documento nacional de identidad (art. 140.1.a 
+LCSP).
+3. Certificados de estar al corriente de las obligaciones tributarias y con la 
+Seguridad Social, salvo que autorice su consulta.
+4. Alta en el impuesto sobre actividades económicas en el epígrafe 
+correspondiente al objeto del contrato y, en su caso, el último recibo o la 
+declaración de exención.
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: AM2QHTGJDXNG4FYMKKHMW9SFZ 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 7 de 14 
+
+--- página 8 ---
+Ayuntamiento de Corullón
+5. Declaración sobre la ubicación de los servidores y los servicios asociados (art. 
+122.2 y disposición adicional vigésima quinta LCSP).
+Si no se presenta la documentación en plazo, se entenderá que el licitador ha 
+retirado su oferta. Se le exigirá el 3 % del presupuesto base de licitación, IVA 
+excluido, en concepto de penalidad, y se requerirá al siguiente licitador por orden 
+de clasificación (art. 150.2 LCSP).
+Cláusula 19. Adjudicación y formalización
+19.1.  El  órgano  de  contratación  adjudicará  el  contrato  mediante  resolución 
+motivada. La resolución se notificará a los licitadores y se publicará en el perfil de 
+contratante en el plazo de 15 días (art. 151 LCSP).
+19.2.  La  formalización  podrá  efectuarse  mediante  la  firma  de  aceptación  de  la 
+resolución de adjudicación por el contratista (art. 159.6.g LCSP). Se realizará en un 
+plazo no superior a 2 días hábiles desde la notificación de la adjudicación, dentro 
+del máximo que permite el art. 153.3 LCSP, porque el plazo de ejecución de la 
+subvención no admite ampliación. La formalización se  publicará en el perfil de 
+contratante (art. 154 LCSP).
+19.3. No se exige garantía definitiva (art. 159.6.f LCSP).
+IV. Ejecución del contrato
+Cláusula 20. Condiciones especiales de ejecución
+Se establecen las siguientes condiciones especiales de ejecución (art. 202 LCSP):
+1. De carácter social y laboral. El contratista abonará al personal adscrito a 
+la ejecución un salario no inferior al del convenio colectivo sectorial aplicable 
+y  cumplirá  sus  condiciones  laborales  durante  toda  la  ejecución.  El 
+responsable  del  contrato  podrá  requerir  documentación  acreditativa 
+(nóminas  y  documentos  de  cotización).  Su  incumplimiento  se  penalizará 
+según la cláusula 26.
+2. De protección de datos. El contratista queda obligado a someterse a la 
+normativa nacional y de la Unión Europea en materia de protección de datos 
+(art.  202.1,  segundo  párrafo,  LCSP).  Esta  condición  se  califica  como 
+obligación contractual esencial a efectos del art. 211.1.f) LCSP.
+Cláusula 21. Obligaciones generales del contratista
+21.1. El contrato se ejecuta a riesgo y ventura del contratista (art. 197 LCSP). Este 
+responde de la calidad técnica de los trabajos y de los daños que cause a terceros 
+(arts. 196 y 311 LCSP).
+21.2.  Personal. El personal que el contratista adscriba a la ejecución dependerá 
+exclusivamente de él. El contratista ejercerá de modo real, efectivo y continuo el 
+poder de dirección sobre ese personal. Cumplirá las obligaciones en materia laboral, 
+de  Seguridad  Social,  de  prevención  de  riesgos  laborales  y  de  integración  de 
+personas  con  discapacidad  (art.  201  LCSP).  Al  terminar  el  contrato  no  habrá 
+subrogación de personal por parte del Ayuntamiento.
+21.3. Confidencialidad. El contratista guardará secreto sobre la información a la 
+que  acceda  con  ocasión  de  la  ejecución  durante  5  años  desde  que  conozca  la 
+información (art. 133.2 LCSP).
+21.4.  Publicidad de la financiación. El contratista incluirá en la aplicación, la 
+web, los vídeos y el plan de comunicación los elementos de identificación de la 
+financiación  que  exijan  las  bases  de  la  subvención  (artículo  15  de  la  Orden 
+TED/1358/2021, de 1 de diciembre, apartado 15.1.d de la orden de convocatoria de 
+27  de  junio de  2024  y art. 18  de  la Ley  38/2003): la imagen  institucional  del 
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: AM2QHTGJDXNG4FYMKKHMW9SFZ 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 8 de 14 
+
+--- página 9 ---
+Ayuntamiento de Corullón
+Ministerio para la Transición Ecológica y el Reto Demográfico, de forma visible, y la 
+mención de la financiación pública de la actuación, conforme al artículo 15 de la 
+Orden TED/1358/2021 y a la orden de convocatoria de 27 de junio de 2024.
+21.5. Colaboración en la justificación de la subvención. El contratista facilitará 
+la documentación y la información que se necesite para justificar la subvención y 
+para  medir  sus  indicadores.  Se  someterá  a  las  actuaciones  de  comprobación  y 
+control  de  los  órganos  competentes  (art.  46  de  la  Ley  38/2003,  General  de 
+Subvenciones).
+Cláusula 22. Propiedad intelectual
+22.1. El contrato conlleva la cesión al Ayuntamiento, con carácter exclusivo, de los 
+derechos de propiedad intelectual sobre todos los resultados (art. 308.1 LCSP). La 
+cesión incluye el código fuente y objeto, la base de datos, los diseños, los guiones, 
+las grabaciones de audio y vídeo, los textos y el plan de comunicación.
+22.2.  La  cesión  comprende  los  derechos  de  reproducción,  distribución, 
+comunicación pública y transformación, en cualquier modalidad y soporte. Tiene 
+ámbito mundial, se extiende durante el plazo máximo legal y se entiende incluida en 
+el precio. Se respetan los derechos morales de los autores (Real Decreto Legislativo 
+1/1996).
+22.3. El contratista podrá usar componentes de software de terceros o de código 
+abierto si sus licencias permiten al Ayuntamiento usar, modificar y explotar sin 
+coste los resultados. También podrá usar música y recursos de terceros si dispone 
+de licencia para un uso público indefinido. El contratista entregará la relación de 
+estas  licencias  y  mantendrá  indemne  al  Ayuntamiento  frente  a  cualquier 
+reclamación de terceros.
+22.4. El contratista no podrá usar los resultados para fines distintos del contrato sin 
+autorización  expresa  del  Ayuntamiento.  Podrá  mencionarlos  como  referencia 
+profesional.
+22.5. Código abierto y reutilización. El contratista entregará el código fuente de 
+todo el software desarrollado y los datos en formatos abiertos (cláusula 8.2 del PPT). 
+El Ayuntamiento podrá publicar y ceder ese software a otras administraciones con 
+una licencia de código abierto (art. 157 de la Ley 40/2015 y art. 16 del Real Decreto 
+4/2010).  El  contratista  no  podrá  incorporar  componentes  cuya  licencia  genere 
+costes al Ayuntamiento o impida esa reutilización.
+Cláusula 23. Protección de datos personales
+23.1. El Ayuntamiento es el responsable de los tratamientos de datos personales 
+derivados del contrato. El contratista actúa como encargado del tratamiento (art. 28 
+RGPD y disposición adicional vigésima quinta LCSP). Esto incluye las imágenes y 
+voces de las personas grabadas y los datos de la analítica.
+23.2. El encargo de tratamiento se formalizará junto con el contrato. Regulará el 
+objeto, la duración, la naturaleza y la finalidad del tratamiento, los tipos de datos, 
+las categorías de interesados, las medidas de seguridad y el destino de los datos al 
+terminar el contrato.
+23.3. Son obligaciones del contratista (art. 122.2 LCSP):
+1. Cumplir la normativa de protección de datos.
+2. Mantener la ubicación de los servidores declarada en la oferta, y comunicar 
+previamente y por escrito cualquier cambio.
+3. Indicar los subcontratistas a los que vaya a encomendar la prestación de los 
+servicios asociados a los servidores.
+Estas obligaciones son esenciales a efectos de resolución.
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: AM2QHTGJDXNG4FYMKKHMW9SFZ 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 9 de 14 
+
+--- página 10 ---
+Ayuntamiento de Corullón
+Cláusula 24. Dirección y seguimiento
+El responsable del contrato supervisará la ejecución según las cláusulas 6 y 8 del 
+PPT. El contratista designará un interlocutor único, con capacidad de decisión, para 
+relacionarse  con  el  Ayuntamiento.  Las  actuaciones  que  deben  realizarse 
+presencialmente en Corullón son las enumeradas en la cláusula 6.4 del PPT, a las 
+que asistirá personalmente el interlocutor único. El seguimiento ordinario podrá 
+realizarse por videoconferencia, y el responsable del contrato podrá convocar hasta 
+2 reuniones presenciales de seguimiento cuando así lo requiera la comprobación de 
+las  prestaciones.  Las  comunicaciones  y  notificaciones  formales,  la  firma  de 
+documentos y la facturación se realizarán por medios electrónicos. La inasistencia 
+injustificada  a  una  actuación  presencial  se  penalizará  como  falta  leve,  y  su 
+reiteración, como falta grave (cláusula 26.2). El contratista recorrerá personalmente 
+todas  las  rutas  y  comprobará  sobre  el  terreno  los  datos  facilitados  por  el 
+Ayuntamiento (cláusula 5.1.9 del PPT). No recorrer alguna ruta o no acreditarlo en 
+el informe de trabajo de campo se penalizará como falta grave (cláusula 26.2).
+Cláusula 25. Régimen de pagos
+25.1. El precio se abonará en un único pago, tras la recepción de conformidad de 
+todas las prestaciones (cláusula 29) y previa presentación de la factura (art. 198 
+LCSP). Las penalidades que se hayan impuesto durante la ejecución se deducirán de 
+este pago (art. 194.2 LCSP).
+25.2. El contratista presentará factura electrónica a través del punto general de 
+entrada (FACe) o del que corresponda (Ley 25/2013). Indicará los códigos DIR3 del 
+Ayuntamiento  de  Corullón  (disposición  adicional  trigésima  segunda  LCSP).  El 
+Ayuntamiento abonará la factura en los plazos del art. 198.4 LCSP.
+25.3. La factura se presentará no más tarde del 31 de diciembre de 2026, para su 
+imputación al período de ejecución de la subvención.
+Cláusula 26. Penalidades
+26.1. Demora. Si el contratista incurre en demora en el plazo total o en los plazos 
+parciales por causa imputable a él, se le impondrá la penalidad diaria general de 
+0,60 € por cada 1.000 € del precio del contrato, IVA excluido (art. 193.3 LCSP), 
+salvo que el órgano de contratación opte por la resolución. El tiempo que emplee el 
+responsable del contrato en validar los entregables no computa como demora del 
+contratista.
+26.2. Cumplimiento defectuoso e incumplimiento de compromisos (art. 192 
+LCSP). Cada incumplimiento se penalizará según su gravedad:
+Gravedad Supuestos Penalidad (% del precio, 
+IVA excluido)
+Leve Retraso en la corrección de observaciones 
+durante la ejecución. Incumplimiento 
+puntual de requisitos del PPT que no 
+impida el uso
+Hasta el 1 %
+Grave Incumplimiento de requisitos de 
+accesibilidad o de funcionamiento sin 
+conexión. Reiteración de faltas leves. 
+Incumplimiento de la condición especial 
+laboral
+Hasta el 5 %
+Muy 
+grave
+El incumplimiento de los compromisos del 
+criterio 1 se penaliza según la cláusula 
+26.5, y el de la fecha ofertada en el criterio 
+2, como demora. Falta de entrega del 
+código fuente o de las credenciales. 
+Hasta el 10 %
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: AM2QHTGJDXNG4FYMKKHMW9SFZ 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 10 de 14 
+
+--- página 11 ---
+Ayuntamiento de Corullón
+Gravedad Supuestos Penalidad (% del precio, 
+IVA excluido)
+Registro de cuentas o dominios a nombre 
+del contratista. Uso de componentes cuya 
+licencia genere costes o impida la 
+reutilización del software
+Cuando se incumplan las mejoras ofertadas, la penalidad será como mínimo el valor 
+económico de la prestación no ejecutada.
+Las penalidades por demora se aplicarán también al incumplimiento de cada hito de 
+la cláusula 7.2 del PPT, de forma independiente.
+26.3. Cada penalidad no podrá superar el 10 % del precio del contrato, IVA excluido, 
+y el total de penalidades no podrá superar el 50 % del precio (art. 192.1 LCSP). Las 
+penalidades se impondrán por acuerdo del órgano de contratación, a propuesta del 
+responsable del contrato y previa audiencia del contratista. Las impuestas durante 
+la ejecución se harán efectivas mediante deducción en el pago (art. 194.2 LCSP), y 
+las impuestas durante el plazo de garantía, conforme a la cláusula 29.5.
+26.4. Las penalidades no excluyen la indemnización de los daños y perjuicios que no 
+cubran, incluido el importe de la subvención que el Ayuntamiento pierda o deba 
+reintegrar por causa imputable al contratista (art. 194.1 LCSP).
+26.5. Penalidades durante el plazo de garantía. El retraso en la corrección de un 
+defecto respecto de los plazos de la cláusula 11 del PPT o de los ofertados en el 
+criterio 1 se penalizará, por cada día de retraso, con 0,60 € por cada 1.000 € del 
+precio del contrato, IVA excluido, con los límites de la cláusula 26.3. Como no hay 
+garantía definitiva ni pagos pendientes, el importe se exigirá conforme a la cláusula 
+29.5.
+Cláusula 27. Subcontratación y cesión
+27.1. Se permite la subcontratación con los requisitos del art. 215 LCSP. El 
+contratista comunicará por escrito, tras la adjudicación y como más tarde al iniciar 
+la ejecución, la intención de subcontratar, la parte de la prestación afectada y los 
+datos del subcontratista. Acreditará que el subcontratista no está incurso en 
+prohibición de contratar. El contratista responde frente al Ayuntamiento de toda la 
+ejecución. Cumplirá los plazos de pago a subcontratistas del art. 216 LCSP.
+27.2. La cesión del contrato se rige por el art. 214 LCSP.
+Cláusula 28. Modificación del contrato
+No se prevén modificaciones (art. 204 LCSP). El contrato solo podrá modificarse en 
+los supuestos y con los límites del art. 205 LCSP, por el procedimiento del art. 207 
+LCSP.
+Cláusula 29. Recepción y plazo de garantía
+29.1. La recepción se hará mediante acto formal y positivo no más tarde del 30 de 
+diciembre de 2026, tras la verificación de la cláusula 8 del PPT (art. 210 LCSP). Si 
+los trabajos no se ajustan a lo exigido, se harán constar los defectos y se darán 
+instrucciones precisas al contratista para que los subsane en el plazo que se le fije, 
+que no podrá exceder del 30 de diciembre de 2026, último día hábil en que el 
+Ayuntamiento puede comprobar el funcionamiento de las prestaciones y formalizar 
+la recepción.
+29.2. El plazo de garantía es de 36 meses, ampliado con los meses ofertados en el 
+criterio 1. Se cuenta desde la recepción. Durante ese plazo el contratista corregirá 
+sin coste los defectos de las prestaciones entregadas, en los términos de la cláusula 
+11 del PPT (arts. 210.3 y 311 LCSP). Si al terminar el plazo no hay reparos, quedará 
+extinguida la responsabilidad del contratista (art. 210.3 LCSP). Como no se exige 
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: AM2QHTGJDXNG4FYMKKHMW9SFZ 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 11 de 14 
+
+--- página 12 ---
+Ayuntamiento de Corullón
+garantía definitiva, no procede devolverla.
+29.3. La corrección de los defectos en los plazos de la cláusula 11 del PPT o en los 
+ofertados en el criterio 1 durante el plazo de garantía se califica como obligación 
+contractual esencial a efectos del art. 211.1.f) LCSP. Si el contratista no corrige un 
+defecto en plazo, el Ayuntamiento podrá encargar su corrección a un tercero a costa 
+del  contratista,  sin  perjuicio  de  las  penalidades  de  la  cláusula  26.5  y  de  la 
+indemnización de los daños y perjuicios. El incumplimiento reiterado podrá dar 
+lugar, en su caso, a la resolución del contrato por causa imputable al contratista, 
+con los efectos de los arts. 213 y 71.2.c) LCSP.
+29.4. Datos de contacto y sucesión. Durante todo el plazo de garantía, el contratista 
+mantendrá actualizados su dirección electrónica para notificaciones y su persona de 
+contacto,  y  comunicará  al  Ayuntamiento  cualquier  cambio  de  domicilio, 
+denominación  o  titularidad  en  el  plazo  de  10  días  hábiles.  En  caso  de  fusión, 
+escisión o transmisión de la empresa o de la rama de actividad, la entidad que la 
+suceda asumirá las obligaciones de la garantía (art. 98 LCSP).
+29.5. Exigencia de penalidades y costes tras el pago. Las penalidades impuestas 
+durante  la  ejecución  se  deducirán  de  la factura  (art.  194.2  LCSP).  Las  que  se 
+impongan durante el plazo de garantía y los costes de corrección por un tercero a 
+costa del contratista (cláusula 29.3) se exigirán así: a) requerimiento formal de 
+corrección con un plazo final; b) audiencia al contratista; c) resolución del órgano de 
+contratación que imponga la penalidad y, en su caso, acuerde la corrección por un 
+tercero y liquide su coste; d) pago en el periodo voluntario que se indique; y e) si no 
+se paga, exigencia por la vía de apremio. Todo ello sin perjuicio de la indemnización 
+de daños y perjuicios y de la resolución del contrato y la declaración de prohibición 
+de contratar que, en su caso, procedan (arts. 71.2.c y 72 LCSP).
+Cláusula 30. Resolución del contrato
+Son causas de resolución las de los arts. 211 y 313 LCSP. También lo es el 
+incumplimiento de las obligaciones calificadas como esenciales en las cláusulas 
+10.4, 20.2, 23.3 y 29.3. Sus efectos se rigen por los arts. 212, 213 y 313 LCSP.
+Cláusula 31. Jurisdicción y recursos
+31.1. Contra los pliegos, los actos de trámite cualificados y la adjudicación no cabe 
+recurso especial en materia de contratación (art. 44.1.a LCSP). Cabe recurso 
+potestativo de reposición ante el órgano de contratación o recurso contencioso-
+administrativo directo (art. 44.6 LCSP; arts. 123 y 124 de la Ley 39/2015).
+31.2. Las cuestiones sobre preparación, adjudicación, efectos, cumplimiento y 
+extinción del contrato corresponden al orden jurisdiccional contencioso-
+administrativo (art. 27.1 LCSP).
+Anexos
+ANEXO I. MODELO DE DECLARACIÓN RESPONSABLE
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: AM2QHTGJDXNG4FYMKKHMW9SFZ 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 12 de 14 
+
+--- página 13 ---
+ 
+Cód. Validación: AM2QHTGJDXNG4FYMKKHMW9SFZ 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 13 de 14 
+
+--- página 14 ---
+Ayuntamiento de Corullón
+ANEXO II. MODELO DE OFERTA
+Expediente 737/2026
+D./Dª.  ........................................,  con  DNI  ................,  en  nombre  propio  o  en 
+representación de ........................................, con NIF ................, conoce los pliegos que 
+rigen el contrato «Servicio de implementación digital de la red de rutas de Corullón» 
+(expediente 737/2026) y los acepta íntegramente. Se compromete a ejecutarlo en las 
+condiciones siguientes:
+Criterio Oferta
+1.a) Meses adicionales de garantía técnica 
+(número entero; se puntúan como máximo 24)
+................
+1.b.1) Plazo de corrección de defectos que impiden 
+el uso (1 o 2 días hábiles)
+................
+1.b.2) Plazo de corrección del resto de defectos (5, 
+7 o 10 días hábiles)
+................
+2. Fecha ofertada para la entrega final, hito H6 
+(29/12, 28/12, 24/12, 23/12 o 22/12/2026)
+................
+3. Precio sin IVA (€), en cifra ................
+    Precio sin IVA (€), en letra ........................................
+IVA 21 % (€) ................
+Precio total con IVA (€) ................
+Si hay discrepancia entre la cifra y la letra, prevalecerá la letra.
+En ........................................, a .................
+Firmado electrónicamente.
+En Corullón, a fecha de la firma electrónica.
+DOCUMENTO FIRMADO ELECTRÓNICAMENTE
+Ayuntamiento de Corullón
+Plaza Ayuntamiento, 1, Corullón. 24514 (León). Tfno. 987542640. Fax: 987540538
+Cód. Validación: AM2QHTGJDXNG4FYMKKHMW9SFZ 
+Verificación: https://corullon.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 14 de 14 
