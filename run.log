@@ -1,4 +1,4 @@
-== Prueba de conexión 2026-11-25T17:18:14Z ==
+== Prueba de conexión 2026-11-26T16:58:33Z ==
 HTTP/1.1 200 OK
 Cache-Control: no-store, must-revalidate, no-cache
 Pragma: no-cache
@@ -11,19 +11,19 @@ X-Content-Type-Options: nosniff
 
 Historial previo: 2072 licitaciones. Modo incremental: se recorre el feed hasta 2026-11-22 20:17.
 Descargando página 1 ...
-  página 1: 2926 KB en 10.8s, 98 entradas, fecha más antigua 2026-11-23 17:09
+  página 1: 2926 KB en 10.9s, 98 entradas, fecha más antigua 2026-11-23 17:09
 Descargando página 2 ...
-  página 2: 15225 KB en 46.1s, 593 entradas, fecha más antigua 2026-11-23 14:06
+  página 2: 15225 KB en 33.6s, 593 entradas, fecha más antigua 2026-11-23 14:06
 Descargando página 3 ...
-  página 3: 14188 KB en 25.1s, 1090 entradas, fecha más antigua 2026-11-23 12:48
+  página 3: 14188 KB en 35.7s, 1090 entradas, fecha más antigua 2026-11-23 12:48
 Descargando página 4 ...
-  página 4: 14245 KB en 48.6s, 1590 entradas, fecha más antigua 2026-11-23 11:22
+  página 4: 14245 KB en 63.9s, 1590 entradas, fecha más antigua 2026-11-23 11:22
 Descargando página 5 ...
-  página 5: 13983 KB en 35.2s, 2087 entradas, fecha más antigua 2026-11-23 09:57
+  página 5: 13983 KB en 63.8s, 2087 entradas, fecha más antigua 2026-11-23 09:57
 Descargando página 6 ...
-  página 6: 16520 KB en 66.6s, 2587 entradas, fecha más antigua 2026-11-23 09:00
+  página 6: 16520 KB en 80.9s, 2587 entradas, fecha más antigua 2026-11-23 09:00
 Descargando página 7 ...
-  página 7: 13754 KB en 38.1s, 3037 entradas, fecha más antigua 2026-11-22 13:56
+  página 7: 13754 KB en 67.1s, 3037 entradas, fecha más antigua 2026-11-22 13:56
 Se alcanzó la fecha objetivo.
 Historial guardado: 2072 licitaciones. Cobertura desde 2026-10-21T10:33:44.716000+02:00.
 Entradas leídas: 3037
@@ -37,17 +37,17 @@ Entradas con documentos: 2734 de 3037; ejemplo: [{'tipo': 'Legal', 'nombre': 'PC
 Ejemplos de fin_plazo: ['2026-01-27 23:59:00', '2026-07-31 12:00:00', '2026-10-26 23:59:00', '2026-11-16 10:00:00']
 Ejemplo de entrada: {'expediente': '18/2025', 'estado': 'EV', 'cpv': '72221000', 'lugar_nuts': 'ES613', 'importe_sin_iva': '208379.26', 'fin_plazo': '2026-01-27 23:59:00'}
 Muestra guardada en muestra_entradas.csv
-Licitaciones que cumplen los filtros: 92 -> licitaciones_filtradas.csv
-[menores] primera página: 420 entradas
-[menores] fin: 1 páginas, 420 entradas, 14 TIC nuevas/actualizadas, enlazado=True
-[cpm] primera página: 493 entradas
-[cpm] fin: 1 páginas, 493 entradas, 60 TIC nuevas/actualizadas, enlazado=True
-[agregadas] primera página: 285 entradas
-[agregadas] fin: 1 páginas, 285 entradas, 30 TIC nuevas/actualizadas, enlazado=True
-  contratos_menores_software.csv: 1903 filas
-  ranking_menores_galicia.csv: 21 filas
+Licitaciones que cumplen los filtros: 82 -> licitaciones_filtradas.csv
+[menores] primera página: 458 entradas
+[menores] fin: 9 páginas, 4449 entradas, 99 TIC nuevas/actualizadas, enlazado=True
+[cpm] primera página: 494 entradas
+[cpm] fin: 1 páginas, 494 entradas, 60 TIC nuevas/actualizadas, enlazado=True
+[agregadas] primera página: 231 entradas
+[agregadas] fin: 6 páginas, 2562 entradas, 253 TIC nuevas/actualizadas, enlazado=True
+  contratos_menores_software.csv: 1988 filas
+  ranking_menores_galicia.csv: 22 filas
   consultas_preliminares_tic.csv: 60 filas
-  licitaciones_autonomicas.csv: 62 filas
-Licitaciones a procesar: 92
+  licitaciones_autonomicas.csv: 73 filas
+Licitaciones a procesar: 82
 Sesión iniciada, cookies: ['JSESSIONID', 'TS0177f194']
 Documentos descargados: 0 | con error: 0 | licitaciones sin documentos en el feed: 0
