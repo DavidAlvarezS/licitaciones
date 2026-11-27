@@ -1,0 +1,135 @@
+Nº Expediente: 6256/2025
+Aplicación para la gestion de la Policía Local en modalidad SaaS
+Entidad contratante: Ayuntamiento de La Unión.
+
+
+
+ANEXO II
+
+MODELO DE OFERTA ECONÓMICA Y CRITERIOS DE ADJUDICACION EVALUABLES AUTOMÁTICAMENTE
+
+D. ......................, DNI Nº................domiciliado en .................., calle ................. número ........, C.P............... en plena posesión de su capacidad jurídica y de obrar, en nombre propio (cuando actúe en su propio nombre y derecho como persona física) – en representación de ................................., con CIF ......................, según poder notarial otorgado ante el Notario del ilustre Colegio de..........., D......................., con fecha............. y nº de protocolo..................; (cuando actúe en representación de persona jurídica).
+
+
+Enterado/a del anuncio de licitación publicado en el perfil de contratante del Ayuntamiento de La Unión, alojado en la Plataforma de Contratación del Sector Público, relativo al contrato de SUMINISTRO DE UNA APLICACIÓN PARA LA GESTIÓN DE LA POLICÍA LOCAL EN MODALIDAD SaaS Y EL SERVICIO DE MANTENIMIENTO INTEGRAL, SOPORTE Y FORMACIÓN AL USUARIO, expediente 6256/2025, declara bajo su responsabilidad:
+
+Primero.- Que conoce y acepta íntegramente el Pliego de Cláusulas Administrativas Particulares (en adelante PCAP) y el Pliego de Prescripciones Técnicas (en adelante PPT) que rigen la contratación, así como las obligaciones derivadas de dichos documentos y de la normativa aplicable.
+
+Segundo.- Que la empresa a la que representa dispone de la capacidad, organización y medios necesarios para ejecutar correctamente la totalidad de las prestaciones objeto del contrato.
+
+Tercero.- Identificación de la solución ofertada:
+Denominación comercial de la solución
+
+Versión o compilación ofertada
+
+Fabricante o titular de la solución
+
+
+La solución y versión aquí identificadas se corresponden con las descritas en la documentación técnica y con las mostradas en las evidencias funcionales aportadas con la oferta.
+
+Cuarto.- Oferta económica
+Que se compromete a ejecutar la totalidad de las prestaciones objeto del contrato por el siguiente precio:
+
+OFERTA
+EUROS
+IMPORTE TOTAL OFERTADO, IVA EXCLUIDO
+
+21% DE IVA
+
+IMPORTE TOTAL OFERTADO, IVA INCLUIDO
+
+
+Lo que representa una baja de _______________€ (IVA no incluido), equivalente al _____%.
+
+Quinto.- Mejoras y prestaciones adicionales ofertadas
+
+Que, respecto de las mejoras y prestaciones adicionales correspondientes a los criterios de adjudicación evaluables automáticamente establecidos en la cláusula 17.ª del PCAP, oferta las siguientes:
+
+Ref.
+Prestación adicional
+Puntos
+Acreditación mínima
+Oferto la mejora 
+SI/NO 
+M1
+Integración con el Padrón de Gestiona
+4
+Ficha y vídeo o certificado de integración existente en producción. Consulta de personas y domicilios contra el módulo de Padrón de habitantes de Gestiona, con resultado, permisos y trazabilidad. No bastan archivos internos de personas, directorios de terceros ni un conector genérico.
+☐ Sí   ☐ No
+M2
+Integración con territorio y callejero de Gestiona
+4
+Ficha y vídeo o certificado de integración existente en producción. Consulta de vías, numeración y delimitaciones contra el módulo de territorio y callejero de Gestiona, con resultados, permisos y trazabilidad. No basta un callejero interno ni la visualización sobre un mapa.
+☐ Sí   ☐ No
+M3
+LexNET o sistema judicial oficial equivalente
+2
+Ficha y vídeo o certificado de integración existente en producción. Preparación y envío o recepción de escritos y documentos en el sistema oficial aplicable, con sus estados y justificantes. La exportación para tramitación manual no acredita la integración.
+☐ Sí   ☐ No
+M4
+Emergencias 112 de la Región de Murcia
+1
+Ficha y vídeo o certificado de integración existente en producción. Intercambio autorizado de información de incidentes, recursos o estados con el servicio 112 de la Región de Murcia, con identificación del sistema y trazabilidad.
+☐ Sí   ☐ No
+M5
+Federación de identidad municipal
+1
+Ficha y vídeo o certificado de integración existente en producción. Inicio de sesión federado con Entra ID, AD local a través de su servicio de federación, o proveedor equivalente compatible con el entorno municipal; control centralizado de autorización o bloqueo y MFA en el flujo federado.
+☐ Sí   ☐ No
+M6
+Servicio gestionado mediante PdP de Red SARA
+5
+Reconocimiento oficial vigente del PdP identificado; documentación de medios disponibles y alcance de conectividad y operación del servicio contratado; compromiso de cobertura durante toda la vigencia, propio o vinculante del tercero. No se exige ser titular del PdP y DGT por sí sola no puntúa.
+☐ Sí   ☐ No
+M7
+SOC integrado en la Red Nacional de SOC
+5
+Constancia oficial del CCN sobre el SOC identificado; documentación de medios disponibles y cobertura de vigilancia y respuesta para el SaaS ofertado; compromiso de prestación durante toda la vigencia, propio o vinculante del tercero. ENS ALTA por sí sola no puntúa.
+☐ Sí   ☐ No
+M8
+Atención funcional al agente 24x365
+5
+Condiciones de atención por teléfono y chat integrado, ambos con cobertura humana 24x365; organización y medios ya disponibles, registro de comunicaciones y prueba contractual u organizativa verificable. Compromiso de prestación durante el contrato; si interviene un tercero, compromiso vinculante de este.
+☐ Sí   ☐ No
+M9
+Alarma de establecimientos
+5
+Vídeo de la solución ofertada que muestre la emisión de la alerta, la identificación y ubicación fija del establecimiento, el motivo seleccionado y el alta automática de la actuación policial.
+☐ Sí   ☐ No
+M10
+Alertas automáticas por reglas
+3
+Vídeo de la solución ofertada que muestre la configuración de una condición de actuación o servicio, su activación y la recepción automática del aviso por un destinatario autorizado.
+☐ Sí   ☐ No
+M11a
+Registro adicional en Gestiona
+2,5
+Registro (2,5): ficha y vídeo o certificado de alta de asiento relacionado con expediente, recuperando número y fecha.
+☐ Sí   ☐ No
+M11b
+Tareas adicionales en Gestiona
+2,5
+Tareas (2,5): ficha y vídeo o certificado de creación o actualización, estado y persona o unidad asignada. Cada operación deberá estar acreditada por separado. El flujo mínimo E12 no puntúa.
+☐ Sí   ☐ No
+
+Sexto.- Documentación acreditativa
+
+Que acompaña a esta oferta la documentación exigida en el PCAP y en el PPT para acreditar las mejoras y prestaciones adicionales marcadas con la opción «Sí», incluyendo, según proceda para cada una de ellas:
+fichas de integración;
+vídeos funcionales;
+certificados de integración existente en producción;
+constancias o reconocimientos oficiales;
+descripción de los medios y del alcance de los servicios;
+compromisos de disponibilidad y prestación durante toda la vigencia contractual;
+compromisos vinculantes de terceros, cuando la prestación se realice mediante medios externos;
+y cualquier otra documentación específicamente requerida para la mejora correspondiente.
+
+La documentación aportada identifica la solución y versión ofertadas y acredita que las funcionalidades o medios correspondientes se encuentran disponibles en los términos exigidos por el PPT.
+
+La persona licitadora conoce y acepta que la ausencia de una mejora o la insuficiencia de su acreditación determinará que no se le asigne puntuación por dicha prestación, sin perjuicio de las consecuencias que procedan cuando la documentación evidencie el incumplimiento de una prescripción técnica mínima.
+ 
+Séptimo.- Compromiso final
+
+Que el precio ofertado cubre la ejecución completa de todas las prestaciones obligatorias y de todas las mejoras expresamente ofertadas, con sujeción al PCAP, al PPT y a la restante documentación contractual.
+
+(Fecha y firma electrónica del licitador)

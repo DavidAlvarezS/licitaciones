@@ -1,0 +1,907 @@
+
+
+--- página 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PLEC DE PRESCRIPCIONS TÈCNIQUES QUE 
+REGEIXEN LA CONTRACTACIÓ PER AL 
+SUBMINISTRAMENT D’EQUIPAMENT INFORMÀTIC I 
+LLICÈNCIA D’AUTOCAD LT  
+ 
+ 
+EXPEDIENT NÚMERO LIC_000014/2026 
+ 
+ 
+PROCEDIMENT ORDINARI SIMPLIFICAT ABREUJAT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Identif. doc. elect.: ES-07SIL-2026-a1bdbdc9-6268-40f8-b231-6a5776ea41a2    24/11/2026 11:41:17   Pag.:1/20
+SILME SA-A07279227- Org.:A07279227  Validar: https://www.carpetaciutadana.org
+
+--- página 2 ---
+ 
+ 
+ 
+ 
+ 
+1. OBJECTE DEL CONTRACTE 
+ 
+L’objecte del present Plec de Prescripcions Tècniques és definir les característiques tècniques 
+mínimes que han de complir els equipaments informàtics i el subministrament, actualització, 
+manteniment i suport d’una (1) llicència de programari relatiu a CAD. 
+ 
+La renovació d’equipament informàtic resulta necessària per garantir el correcte funcionament dels 
+sistemes d’informació de SILME, S.A., millorar l’eficiència operativa dels seus serveis i reduir els 
+riscos associats a l’obsolescència tecnològica. 
+ 
+Amb aquest objectiu, el contracte preveu el subministrament d’equipament informàtic i components 
+associats, distribuïts en diferents lots, amb les característiques tècniques mínimes que s’estableixen 
+en el present document. 
+ 
+ 
+2. CARACTERÍSTIQUES I REQUERIMENTS TÈCNICS PER LOTS 
+ 
+LOT 1.- Ordinador portàtil gamma alta 
+ 
+Objecte i Abast del Subministrament 
+L'objecte d'aquest plec és la determinació de les característiques tècniques mínimes que han de regir 
+el subministrament d’equips portàtils de gamma corporativa superior destinats a llocs de treball 
+d'alt rendiment tècnic i de gestió.  
+Tots els equips oferts han de ser nous de fàbrica, de fabricació en sèrie, pertanyents al catàleg 
+corporatiu actiu del fabricant i comercialitzats de forma unificada amb el seu respectiu número de 
+model i referència comercial (Part Number). 
+Especificacions Tècniques Mínimes del Maquinari 
+Els equips han de complir de forma estricta amb les següents especificacions tècniques mínimes: 
+Unitat Central de Processament (CPU) i Intel·ligència Artificial 
+● Arquitectura: x86-64 bits. S'exclouen expressament processadors amb arquitectures ARM o 
+RISC. 
+● Any  de llançament: El processador ha d'haver estat llançat al mercat comercial a partir de 
+l'1 de gener de 2025. Queden exclosos models d'arquitectures comercialitzades abans 
+d'aquesta data. 
+ 
+ 
+C/ Borja Moll, 51, 07702, Maó / T. (+34) 971 35 27 10 / servei@silme.es / www.silme.es 
+2 
+Identif. doc. elect.: ES-07SIL-2026-a1bdbdc9-6268-40f8-b231-6a5776ea41a2    24/11/2026 11:41:17   Pag.:2/20
+SILME SA-A07279227- Org.:A07279227  Validar: https://www.carpetaciutadana.org
+
+--- página 3 ---
+ 
+ 
+ 
+ 
+● S'exclouen expressament processadors de baix consum pertanyents a sèries ultra-baixes 
+(sèries U, V o equivalents amb potència base nominal —Processor Base Power / TDP 
+base— inferior a 24 W).  
+● Nivell  de rendiment: Rendiment igual o superior al d'un processador Intel Core Ultra 5 de 
+gamma H (sèrie 225H / 235H o superior, llançat a partir de 2025) o processador equivalent 
+d'arquitectura x86-64 que assoleixi una puntuació mínima de 21.000 punts en l'índex global 
+multinucli “CPU Mark” de la plataforma pública PassMark Software (www.cpubenchmark.net) 
+a la data de finalització del termini de presentació d'ofertes. 
+● Unitat  de Processament Neuronal (NPU): El xip del processador ha d'incorporar de 
+manera nativa i integrada en silici un motor NPU dedicat específicament a l'acceleració de 
+càrregues de treball, algorismes i tasques d'Intel·ligència Artificial en local, garantint 
+l'eficiència energètica de l'equip. 
+Memòria RAM 
+● Capacitat instal·lada de fàbrica: Mínim 32 GB de tipus DDR5. 
+● Escalabilitat i ampliació: L'arquitectura de la placa base i xassís no pot portar tota la 
+memòria completament soldada sense opció de canvi. Ha de permetre l’ampliació de 
+memòria fins a un mínim de 64 GB sense requerir la substitució de la placa base. 
+Emmagatzematge 
+● Capacitat: Mínim 1TB d'emmagatzematge intern. 
+● Tecnologia: Unitat d'estat sòlid (SSD) en format M.2 amb interfície NVMe PCIe 4.0 x4 o 
+superior. 
+Pantalla i Visualització 
+● Mida del panell: Comprès estrictament entre les 13 polzades i les 16 polzades (ambdues 
+incloses). 
+● Resolució nativa: Mínima de 1920 x 1080 píxels (Full HD / WUXGA o  superior). 
+● Acabat: Panell amb tractament antireflexos (anti-glare / mat).    
+    
+Connectivitat i Interfícies Físiques 
+Per garantir la interoperabilitat directa en llocs de treball municipals sense dependència d'accessoris 
+o adaptadors externs, tots els ports sol·licitats han d'anar integrats de manera nativa al xassís de 
+l'equip: 
+ 
+ 
+C/ Borja Moll, 51, 07702, Maó / T. (+34) 971 35 27 10 / servei@silme.es / www.silme.es 
+3 
+Identif. doc. elect.: ES-07SIL-2026-a1bdbdc9-6268-40f8-b231-6a5776ea41a2    24/11/2026 11:41:17   Pag.:3/20
+SILME SA-A07279227- Org.:A07279227  Validar: https://www.carpetaciutadana.org
+
+--- página 4 ---
+ 
+ 
+ 
+ 
+Tipus de connexió Requisit mínim integrat 
+Xarxa cablejada 
+(Ethernet)  
+1x port RJ-45 físic natiu integrat al xassís, Gigabit Ethernet (10/100/1000 
+Mbps).   
+Sortida de vídeo 1x port HDMI 2.0 o 2.1 de mida estàndard integrat al xassís.   
+Ports USB Tipus-A  Mínim 2x ports USB 3.2 Gen 1 Tipus-A (estàndard).  
+Port USB-C 
+Multifunció 
+Mínim 1x port USB-C Full Featured (o interfície Thunderbolt™ 4 / USB4), 
+que proporcioni de manera simultània mitjançant un sol cable: 
+● Alimentació bidireccional: Suport Power Delivery (PD) de mínim 
+65W (entrada de càrrega del portàtil i alimentació de dispositius 
+externs). 
+● Vídeo i multimonitor: Sortida de vídeo DisplayPort Alt Mode 
+compatible amb tecnologia MST (Multi-Stream Transport) o túnel 
+DisplayPort Thunderbolt, garantint la capacitat de gestionar com a 
+mínim dos (2) monitors externs independents en mode escriptori 
+ampliat mitjançant una estació d'acoblament compatible. 
+● Dades: Velocitat mínima de transferència de 10 Gbps (USB 3.2 Gen 
+2 o superior). 
+Xarxa sense fil 
+  
+  
+● Wi-Fi 6E (802.11ax) o Wi-Fi 7. 
+● Bluetooth 5.3 o  superior. 
+    
+Sistema Operatiu i Eines de Gestió Corporativa 
+● Sistema Operatiu: Microsoft Windows 11 Professional de 64 bits, amb llicència 
+corporativa OEM preactivada digitalment a la placa base (OA3 / DPK). 
+● Programari de Gestió OEM i BIOS: El fabricant de l'equip ofertat ha de  proporcionar eines 
+oficials centralitzades de desplegament, diagnòstic i actualització de controladors, firmware i 
+BIOS compatibles amb entorns corporatius. El paquet de desplegament corporatiu (Driver 
+Pack) per a aquest model ha d'estar disponible i catalogat directament al repositori oficial del 
+fabricant.    
+Seguretat 
+Mòdul de seguretat TPM 2.0 (mitjançant maquinari dedicat dTPM o per firmware integrat 
+fTPM / Intel PTT), plenament compatible amb xifratge de disc Microsoft BitLocker sota 
+Windows 11 Pro. 
+ 
+C/ Borja Moll, 51, 07702, Maó / T. (+34) 971 35 27 10 / servei@silme.es / www.silme.es 
+4 
+Identif. doc. elect.: ES-07SIL-2026-a1bdbdc9-6268-40f8-b231-6a5776ea41a2    24/11/2026 11:41:17   Pag.:4/20
+SILME SA-A07279227- Org.:A07279227  Validar: https://www.carpetaciutadana.org
+
+--- página 5 ---
+ 
+ 
+ 
+ 
+ 
+Estàndards de Fabricació, Qualitat i Durabilitat 
+● Sistemes de Gestió del Fabricant: El fabricant dels equips ha de disposar dels següents 
+certificats de qualitat i gestió ambiental en vigor, aplicables a les línies de disseny i 
+acoblament del model ofertat: 
+   
+○ ISO 9001: Sistema de Gestió de la Qualitat o certificació equivalent. 
+○ ISO 14001: Sistema de Gestió Ambiental o certificació equivalent.    
+● Resistència i Durabilitat Estructural: L'equip ofertat ha d'haver superat les proves de 
+resistència segons l'estàndard militar MIL-STD-810H (o estàndard tècnic homologat 
+equivalent), que certifiqui la resistència davant cops, vibracions, pols, humitat i variacions 
+extremes de temperatura. S'haurà d'acreditar mitjançant document tècnic oficial del fabricant. 
+Condicions de la Garantia Oficial del Fabricant 
+● Termini i Tipologia: Cobertura de tres (3) anys de garantia In-Situ (resolució en la ubicació 
+del client), incloent peces, desplaçament i mà d'obra en un temps de resposta orientatiu 
+següent dia laborable o màxim 72 hores laborables. 
+● Cobertura Directa OEM: La garantia ha de ser prestada, recolzada i executada directament 
+pel servei d'assistència tècnica oficial del fabricant de l'equip o la seva xarxa 
+d'assistència tècnica certificada oficialment. No s'admeten garanties comercials de tallers 
+propis de licitadors, assembladors locals o assegurances de tercers desvinculades del suport 
+oficial del fabricant. 
+● Plataforma de Traçabilitat: El fabricant ha de posar a disposició pública un portal web oficial 
+on l'administració pugui verificar l'estat, el nivell de cobertura i la data d'expiració de la 
+garantia introduint directament el número de sèrie (Serial Number) de cadascun dels vuit 
+equips, sense cap intermediació del distribuïdor. 
+Naturalesa Corporativa dels Equips i Admissibilitat 
+● Model  de Sèrie Professional: Els equips han de correspondre a models de catàleg 
+professional corporatiu dissenyats per a entorns  empresarials i administracions públiques. 
+● Exclusió Expressa: Queden exclosos expressament: 
+   
+○ Equips  clònics o de marca blanca. 
+○ Equips  muntats per peces o a mida per distribuïdors locals. 
+○ Modificacions de xassís no efectuades a les cadenes oficials de producció del  
+fabricant. 
+○ Línies o models exclusivament de consum domèstic que no disposin de suport per a 
+paquets de controladors corporatius SCCM/Intune ni portal de garantia directa OEM 
+per número de sèrie. 
+Acreditació Documental en la Proposta Tècnica 
+ 
+C/ Borja Moll, 51, 07702, Maó / T. (+34) 971 35 27 10 / servei@silme.es / www.silme.es 
+5 
+Identif. doc. elect.: ES-07SIL-2026-a1bdbdc9-6268-40f8-b231-6a5776ea41a2    24/11/2026 11:41:17   Pag.:5/20
+SILME SA-A07279227- Org.:A07279227  Validar: https://www.carpetaciutadana.org
+
+--- página 6 ---
+ 
+ 
+ 
+ 
+Els licitadors han d'incorporar juntament amb la seva oferta:  
+● Fitxa  tècnica oficial del fabricant on s'indiqui el model exacte ofertat, la referència 
+comercial de fàbrica (Part Number) i el compliment detallat de totes les característiques de 
+maquinari (CPU, TDP/sèrie, NPU integrada, memòria, ranures d'ampliació,  
+emmagatzematge i ports físics integrats). 
+● Referencia als certificats ISO 9001 i ISO 14001 o certificació equivalent del fabricant de 
+l'equip. 
+● Referencia oficial de superació de les proves MIL-STD-810H o equivalents per al model 
+ofertat. 
+● Document oficial o certificat del fabricant que acrediti la prestació dels 3 anys de garantia 
+In-Situ amb suport tècnic OEM i la indicació de la URL del portal públic de consulta de 
+garanties per número de sèrie. 
+Unitats requerides: 8 
+LOT 2.- Ordinador gamma mitjana 
+ 
+Els equips informàtics oferts hauran de complir, com a mínim, les característiques tècniques 
+següents: 
+● Factor de forma (Xassís): Format tipus Torre o SFF (Small Form Factor). Queden 
+expressament exclosos i no s'admetran formats tipus 'Micro', 'Mini-PC', 'USFF' (Ultra Small 
+Form Factor) o equivalents. 
+● Processador: Processador amb arquitectura x86 de 64 bits, orientat exclusivament a equips 
+d'escriptori (desktop) de rendiment estàndard o professional, amb un rendiment igual o 
+superior als processadors Intel Core Ultra 5, AMD Ryzen 5 o equivalent. 
+○ Nuclis: Mínim 6 nuclis físics.  
+○ No s'admetran processadors basats en arquitectures dissenyades per a equips 
+portàtils, dispositius mòbils o de baix consum (com ara gammes U, P, H, 
+arquitectures ARM o equivalents). 
+○ El model de processador ofert no podrà tenir una data oficial de llançament al mercat 
+(Launch Date publicada pel fabricant) superior a 30 mesos comptadors des de la 
+data límit establerta per a la presentació d'ofertes. 
+● Memòria RAM: Mínim 16 GB instal·lats, deixant almenys un sòcol (slot) de memòria lliure 
+a la placa base per a futures ampliacions (configuracions admeses: 1x16 GB en plaques de 2 
+ranures, o 2x8 GB / 1x16 GB en plaques de 4 ranures). 
+● Emmagatzematge: Disc dur d'estat sòlid (SSD) tipus NVMe PCIe GEN 4.0 amb una 
+capacitat mínima de 500 GB. 
+● Gràfics i connectivitat: Targeta gràfica integrada amb capacitat per gestionar un mínim de 
+dos monitors de forma simultània (escriptori estès). L'equip haurà de disposar, com a 
+mínim, de dues sortides de vídeo digitals natives a la placa base (almenys una d'elles haurà 
+de ser HDMI, i 1 port de xarxa RJ-45 Ethernet LAN 10/100/1000 Mbps (1 Gbps). 
+● Teclat i ratoli 
+● Sistema Operatiu: Windows 11 Professional (64 bits) preinstal·lat i amb llicència OEM.  
+● Garantia: 3 anys de garantia in situ. La prestació d'aquesta garantia i el suport tècnic hauran 
+de ser coberts directament pel servei oficial del fabricant de l'equip. 
+● Qualitat i traçabilitat (Requisit OEM): Per garantir els estàndards de qualitat en l'entorn 
+corporatiu públic, l'equip ha de correspondre a una línia empresarial d'un fabricant d'equips 
+ 
+C/ Borja Moll, 51, 07702, Maó / T. (+34) 971 35 27 10 / servei@silme.es / www.silme.es 
+6 
+Identif. doc. elect.: ES-07SIL-2026-a1bdbdc9-6268-40f8-b231-6a5776ea41a2    24/11/2026 11:41:17   Pag.:6/20
+SILME SA-A07279227- Org.:A07279227  Validar: https://www.carpetaciutadana.org
+
+--- página 7 ---
+ 
+ 
+ 
+ 
+originals (OEM). Haurà de disposar d'un número de referència comercial oficial unívoc (Part 
+Number / SKU) localitzable al catàleg públic del fabricant. No s'acceptaran en cap cas 
+ordinadors clònics ni muntatges a mida per peces. 
+Estàndards de Fabricació, Qualitat i Durabilitat 
+● Sistemes de Gestió del Fabricant: El fabricant dels equips ha de disposar dels següents 
+certificats de qualitat i gestió ambiental en vigor, aplicables a les línies de disseny i 
+acoblament del model ofertat: 
+   
+○ ISO 9001: Sistema de Gestió de la Qualitat o certificació equivalent. 
+○ ISO 14001: Sistema de Gestió Ambiental o certificació equivalent. 
+Condicions de la Garantia Oficial del Fabricant 
+● Termini i Tipologia: Cobertura de tres (3) anys de garantia In-Situ (resolució en la ubicació 
+del client), incloent peces, desplaçament i mà d'obra en un temps de resposta orientatiu 
+següent dia laborable o màxim 72 hores laborables. 
+● Cobertura Directa OEM: La garantia ha de ser prestada, recolzada i executada directament 
+pel servei d'assistència tècnica oficial del fabricant de l'equip o la seva xarxa 
+d'assistència tècnica certificada oficialment. No s'admeten garanties comercials de tallers 
+propis de licitadors, assembladors locals o assegurances de tercers desvinculades del suport 
+oficial del fabricant. 
+● Plataforma de Traçabilitat: El fabricant ha de posar a disposició pública un portal web oficial 
+on l'administració pugui verificar l'estat, el nivell de cobertura i la data d'expiració de la 
+garantia introduint directament el número de sèrie (Serial Number) de cadascun dels 
+equips, sense cap intermediació del distribuïdor. 
+Naturalesa Corporativa dels Equips i Admissibilitat 
+● Model  de Sèrie Professional: Els equips han de correspondre a models de catàleg 
+professional corporatiu dissenyats per a entorns  empresarials i administracions públiques. 
+● Exclusió Expressa: Queden exclosos expressament: 
+   
+○ Equips  clònics o de marca blanca. 
+○ Equips  muntats per peces o a mida per distribuïdors locals. 
+○ Modificacions de xassís no efectuades a les cadenes oficials de producció del  
+fabricant. 
+○ Línies o models exclusivament de consum domèstic que no disposin de suport per a 
+paquets de controladors corporatius empaquetats per a desplegament desatès (tipus 
+CAB/MSI o equivalents)  ni portal de garantia directa OEM per número de sèrie. 
+ 
+Acreditació Documental en la Proposta Tècnica 
+Els licitadors han d'incorporar juntament amb la seva oferta:  
+ 
+C/ Borja Moll, 51, 07702, Maó / T. (+34) 971 35 27 10 / servei@silme.es / www.silme.es 
+7 
+Identif. doc. elect.: ES-07SIL-2026-a1bdbdc9-6268-40f8-b231-6a5776ea41a2    24/11/2026 11:41:17   Pag.:7/20
+SILME SA-A07279227- Org.:A07279227  Validar: https://www.carpetaciutadana.org
+
+--- página 8 ---
+ 
+ 
+ 
+ 
+● Fitxa  tècnica oficial del fabricant on s'indiqui el model exacte ofertat, la referència 
+comercial de fàbrica (Part Number) i el compliment detallat de totes les característiques de 
+maquinari (CPU, TDP/sèrie, memòria, ranures d'ampliació, emmagatzematge i ports físics 
+integrats). 
+● Referencia als certificats ISO 9001 i ISO 14001 o certificació equivalent del fabricant de 
+l'equip. 
+● Document oficial o certificat del fabricant que acrediti la prestació dels 3 anys de garantia 
+In-Situ amb suport tècnic OEM i la indicació de la URL del portal públic de consulta de 
+garanties per número de sèrie. 
+ 
+Unitats requerides: 2 
+ 
+LOT 3.- Monitor 
+ 
+Especificacions Tècniques Mínimes: 
+ 
+● Pantalla plana amb una diagonal visible compresa entre 23,8 i 24,5 polzades (classe 24") i 
+relació d'aspecte panoràmica 16:9.  
+● Resolució nativa Full HD (1920 x 1080 píxels) a una freqüència mínima de 60 Hz, amb una 
+brillantor mínima de 250 cd/m² . 
+● Altura regulable. 
+● Connectivitat i accessoris inclosos: Com a mínim, 1 entrada de vídeo digital HDMI. 
+S'haurà d'incloure dins l'embalatge original el cable d'alimentació i un cable de senyal de 
+vídeo HDMI.  
+● Ha de ser de marca reconeguda, amb número de model i referència comercial clara. 
+Els licitadors han d'incorporar juntament amb la seva oferta: 
+Fitxa  tècnica oficial del fabricant on s'indiqui el model exacte ofertat, la referència comercial de 
+fàbrica (Part Number) i el compliment detallat de totes les característiques sol·licitades. 
+Unitats requerides: 1 
+ 
+LOT 4.- Llicència de programari AutoCAD LT 
+ 
+L’adquisició de la llicència de AutoCAD LT sería per 3 anys.  
+ 
+ 
+L’adjudicatari haurà de proporcionar: 
+ 
+C/ Borja Moll, 51, 07702, Maó / T. (+34) 971 35 27 10 / servei@silme.es / www.silme.es 
+8 
+Identif. doc. elect.: ES-07SIL-2026-a1bdbdc9-6268-40f8-b231-6a5776ea41a2    24/11/2026 11:41:17   Pag.:8/20
+SILME SA-A07279227- Org.:A07279227  Validar: https://www.carpetaciutadana.org
+
+--- página 9 ---
+ 
+ 
+ 
+ 
+● Llicències originals, legals i plenament operatives. 
+● Accés a les darreres versions i actualitzacions del programari inclòs. 
+● Assistència tècnica i manteniment oficial del fabricant. 
+● Garantia de continuïtat i compatibilitat amb les llicències actualment en ús. 
+● Suport a la instal·lació, configuració i activació al lloc de feina corresponent. 
+El programari subministrat AutoCAD LT ha de permetre l’accés, l’extracció i la reutilització de tota la 
+informació generada sense restriccions ni dependències exclusives del proveïdor (vendor lock-in). 
+ 
+Requisits tècnics de compliment: L’adjudicatari s'obliga a garantir que totes les dades, plànols, 
+amidaments i capes d’informació geogràfica generades amb les llicències objecte del contracte 
+puguin ser exportades, en qualsevol moment, als següents formats oberts i estàndard de la indústria: 
+Per a AutoCAD LT: Garantia d'exportació i llegibilitat en format .dxf (Drawing Exchange Format) o 
+versions de lectura  oberta. 
+ 
+Unitats requerides: 1 
+ 
+LOT 5.- Dispositiu apuntador sense fil per a presentacions 
+● Botons físics d'accés directe per a navegació entre diapositives (avançar i retrocedir). 
+● Botó d'activació de punter (làser de classe 2 o punter digital integrat). 
+● Funció de pantalla en negre i/o inici de presentació. 
+● Connectivitat dual seleccionable: Bluetooth (Bluetooth Low Energy / BLE) i Radiofreqüència 
+2,4 GHz mitjançant receptor USB. 
+● Abast d'operació sense fil: Mínim de 10 metres. 
+● El receptor sense fil ha d'incloure o integrar de manera nativa connector doble/híbrid 
+compatible amb port USB Tipus A (estàndard) i port USB Tipus C (mitjançant capçal dual o 
+adaptador inclòs). 
+● Tecnologia d'instal·lació automàtica Plug & Play (sense requerir privilegis d'administrador o 
+instal·lació de controladors externs per al seu ús bàsic). 
+● Sistema d'alimentació mitjançant pila estàndard (AA / AAA) o batería recarregable integrada. 
+● Indicador lluminós (LED) d'estat de connexió i/o nivell de bateria. 
+● Interruptor d'encesa/apagat físic per a l'estalvi d'energia. 
+● Compatibilitat nativa garantida amb sistemes operatius Windows, macOS i Linux. 
+● Directives Mediambientals: Compliment de la normativa RoHS (restricció de substàncies 
+perilloses) i WEEE/RAEE (gestió de residus d'aparells elèctrics i electrònics). 
+Unitats requerides: 1 
+ 
+LOT 6.- Motxilles de transport per a equips portàtils corporatius 
+● Format exclusiu de motxilla d’esquena amb doble tirant (queden expressament exclosos 
+maletins de mà, bosses de mà i bandoleres d'una sola corretja). 
+● Disseny professional, sobri i neutre (colors foscos: negre, gris fosc o blau marí homogeni, 
+sense estampats ni motius visuals extres). 
+● Compartiment principal dedicat i adaptat per a equips portàtils amb pantalla d'entre 14" i 16" 
+amb farciment protector encoixinat per a l'absorció d'impactes.  
+● Espai per a documents en format DIN A4, carregador d'alimentació i cablejat. 
+● Com a mínim una butxaca addicional frontal o secundària amb tancament de cremallera per a 
+ 
+C/ Borja Moll, 51, 07702, Maó / T. (+34) 971 35 27 10 / servei@silme.es / www.silme.es 
+9 
+Identif. doc. elect.: ES-07SIL-2026-a1bdbdc9-6268-40f8-b231-6a5776ea41a2    24/11/2026 11:41:17   Pag.:9/20
+SILME SA-A07279227- Org.:A07279227  Validar: https://www.carpetaciutadana.org
+
+--- página 10 ---
+ 
+ 
+ 
+ 
+petits accessoris perifèrics (ratolí, memòries USB, claus, telèfon mòbil). 
+● Documentació acreditativa: Les empreses licitadores han d'aportar a l'oferta tècnica la fitxa 
+tècnica oficial del fabricant o catàleg comercial on es verifiqui de manera fefaent el 
+compliment de totes les característiques mínimes exigides (especialment dimensions 
+admeses, format motxilla i presència del compartiment encoixinat).  
+ 
+Unitats requerides: 5 
+ 
+ 
+LOT 7.- Punt d’accés sense fils corporatiu per a l’ampliació de la xarxa 
+inalàmbrica  
+Objecte del contracte 
+L'objecte del contracte és el subministrament d'un (1) punt d'accés Wi-Fi interior de classe 
+empresarial, incloent els accessoris de muntatge necessaris, per a l'ampliació de la infraestructura 
+sense fils existent de l'organització. 
+L'equip subministrat haurà de ser plenament compatible amb la infraestructura de xarxa actual, 
+formada per un commutador H3C i punts d'accés H3C WA6320 gestionats mitjançant la plataforma 
+en núvol H3C Cloudnet, garantint la continuïtat del servei, la gestió unificada i el roaming transparent 
+dels usuaris. 
+Característiques tècniques mínimes 
+Especificacions de Hardware: 
+Port Ethernet  100/1000M Ethernet Rj45 
+PoE 802.3af 
+Font d’alimentació 
+local 
+54V DC 
+Port de consola Un (RJ-45) 
+Antena incorporada Antena omnidireccional incorporada 
+Ganancia d’antena de 3dBi @2.4GHz 
+Ganancia ‘antena de 5dBi @5GHz 
+ 
+C/ Borja Moll, 51, 07702, Maó / T. (+34) 971 35 27 10 / servei@silme.es / www.silme.es 
+10 
+Identif. doc. elect.: ES-07SIL-2026-a1bdbdc9-6268-40f8-b231-6a5776ea41a2    24/11/2026 11:41:17   Pag.:10/20
+SILME SA-A07279227- Org.:A07279227  Validar: https://www.carpetaciutadana.org
+
+--- página 11 ---
+ 
+ 
+ 
+ 
+Bluetooth incorporat Bluetooth 5.0 incorporat (compatible amb la commutació de RFID a 
+través de software), compatible amb l'estàndard iBeacon. 
+Freqüències de treball 802.11ax/ac/n/a: 5.725 a 5.850GHz, 5.47 a 5.725GHz, 5.15 a 5.35GHz 
+802.11ax/b/g/n: 2.4GHz-2.483GHz 
+Tecnologia de 
+modulació 
+OFDM: BPSK@6/9Mbps, QPSK@12/18Mbps, 16-QAM@24Mbps, 
+64-QAM@48/54Mbps 
+DSSS:DBPSK@1Mbps, DQPSK@2Mbps, 
+CCK@5.5/11Mbps(file://dbpsk@1mbps, dqpsk@2mbps, 
+cck@5.5/11Mbps) 
+MIMO-OFDM (11n): MCS 0-31 
+MIMO-OFDM (11ac): MCS 0-11 
+MIMO-OFDM (11ax): MCS 0-11 
+Mode de modulació 11B: DSS: CCK @ 5.5 / 11 Mbps, DQPSK @ 2 Mbps, DBPSK @ 1 
+Mbps. 
+11a/g: OFDM: 64QAM@48/54Mbps, 16QAM@24Mbps, 
+QPSK@12/18Mbps, BPSK@6/9Mbps 
+11n: MIMO-OFDM: BPSK, QPSK,16QAM, 64QAM 
+11ac: MIMO-OFDM: BPSK, QPSK,16QAM, 64QAM, 256QAM 
+11ax: MIMO-OFDM: BPSK, QPSK,16QAM, 64QAM, 256QAM, 
+1024QAM 
+Potència màxima de 
+transmissió 
+20dBm (La potencia de transmissió es la potencia combinada de 
+múltiples cadenes, no s’inclou la ganancia de l’antena). La potència de 
+transmissió real depèn de les lleis i regulacions locals. 
+Ajust la granularitat de 
+potencia. 
+1dBm 
+Restaurar/restablir a la 
+configuració de fàbrica 
+Suportat 
+LED Mode de parpadeig alternant, taronja/verd/blau per diferents estats de 
+funcionament. 
+Temperatura de treball/ 
+Temperatura 
+d’emmagatzemament 
+-10ºC a +55ºC(32°F a 113°F)/-40ºC a +70ºC(–40°F a +158°F) 
+ 
+C/ Borja Moll, 51, 07702, Maó / T. (+34) 971 35 27 10 / servei@silme.es / www.silme.es 
+11 
+Identif. doc. elect.: ES-07SIL-2026-a1bdbdc9-6268-40f8-b231-6a5776ea41a2    24/11/2026 11:41:17   Pag.:11/20
+SILME SA-A07279227- Org.:A07279227  Validar: https://www.carpetaciutadana.org
+
+--- página 12 ---
+ 
+ 
+ 
+ 
+Humitat de treball/ 
+Humitat 
+d’emmagatzemament 
+5% a 95% (No condensat) 
+Clase de protecció IP41 
+Consum d'energia total ≤12.42W 
+Compliment de 
+seguretat 
+GB4943, EN60601-1-2(Equip elèctric mèdic), UL/CSA 60950-1, 
+EN/IEC 60950-1, EN/IEC 60950-22 
+EMC GB9254, EN301 489, EN55022, FCC part 15, RSS-210 
+Certificació de 
+radiofreqüència 
+FCC part 15, EN 300 328, EN 301 893, MIIT SRRC 
+Salut Butlletí FCC OET-65C, EN 50385, IC Safety Code 6 
+MTBF ≥ 2050406 H 
+Especificacions de software: 
+Compliment 802.11 Interior, compatible amb 802.11a/b/g/n/ac/ax 
+802.11ax Freqüència de 
+funcionament i MIMO 
+2.4G 2*2 MIMO 0.575Gbps 
+5G 2*2 MIMO 1.2Gbps 
+0MHz/40MHz de 
+ample de banda 
+Suportat 
+80MHz de ample de 
+banda 
+Suportat 
+Velocitat màxima de 
+transmissió 
+1.775Gbps 
+ 
+C/ Borja Moll, 51, 07702, Maó / T. (+34) 971 35 27 10 / servei@silme.es / www.silme.es 
+12 
+Identif. doc. elect.: ES-07SIL-2026-a1bdbdc9-6268-40f8-b231-6a5776ea41a2    24/11/2026 11:41:17   Pag.:12/20
+SILME SA-A07279227- Org.:A07279227  Validar: https://www.carpetaciutadana.org
+
+--- página 13 ---
+ 
+ 
+ 
+ 
+A-MPDU Suportat 
+A-MSDU Suportat 
+Descodificació de 
+màxima probabilitat 
+(MLD) 
+Suportat 
+Combinació de relació 
+màxima (MRC) 
+Suportat 
+Codificació de blocs 
+espai-temporals 
+(STBC) 
+Suportat 
+Verificació de paritat 
+de baixa densitat 
+(LDPC) 
+Suportat 
+Diversitat de retard 
+cíclic (CDD)/ Diversitat 
+de canvis cíclics (CSD) 
+Suportat 
+DFS (selecció 
+dinàmica de 
+freqüència) 
+Suportat 
+Transmissió de 
+Espectre (Transmit 
+Beamforming) 
+Suportat 
+Fonaments de 
+WLAN 
+Nombre màxim de 
+clients per radio 
+512 
+Màxim nombre de 
+SSIDs per cada radio. 
+16 
+APs virtuals 32 
+ 
+C/ Borja Moll, 51, 07702, Maó / T. (+34) 971 35 27 10 / servei@silme.es / www.silme.es 
+13 
+Identif. doc. elect.: ES-07SIL-2026-a1bdbdc9-6268-40f8-b231-6a5776ea41a2    24/11/2026 11:41:17   Pag.:13/20
+SILME SA-A07279227- Org.:A07279227  Validar: https://www.carpetaciutadana.org
+
+--- página 14 ---
+ 
+ 
+ 
+ 
+Obre el sistema/clau 
+compartida de 
+autenticació. 
+Suportat 
+Control de 
+reconeixement de 
+solicitud de sondeig de 
+difusió 
+Suportat 
+Inici de sessió 
+concurrent d’usuaris 
+de WPA, WPA2, WPA3 
+i Pre-RSNA. 
+Suportat 
+RTS/CTS Suportat 
+CTS-to-self Suportat 
+Roaming intel·ligent 
+802.11k i 802.11v 
+Suportat 
+Roaming de transició 
+ràpida 802.11r 
+Suportat 
+Gestió avanzada de 
+tràfic 
+Suportat 
+Restringir  l’accés de 
+terminals de baixa 
+velocitat. 
+Suportat 
+Reutilització de canals Suportat 
+Ajust de sensibilitat del 
+receptor 
+Suportat 
+Ajust automàtic del 
+canal/potencia/ample 
+de banda 
+Suportat 
+ 
+C/ Borja Moll, 51, 07702, Maó / T. (+34) 971 35 27 10 / servei@silme.es / www.silme.es 
+14 
+Identif. doc. elect.: ES-07SIL-2026-a1bdbdc9-6268-40f8-b231-6a5776ea41a2    24/11/2026 11:41:17   Pag.:14/20
+SILME SA-A07279227- Org.:A07279227  Validar: https://www.carpetaciutadana.org
+
+--- página 15 ---
+ 
+ 
+ 
+ 
+Ocultar SSID Suportat 
+Hotspot 2.0 Suportat 
+Extensió de 
+WLAN 
+Relatiu a la estació Verificar desconnexió anormal, estadístiques i 
+consulta d’estat. 
+Límit de nombre de 
+clients 
+Suportat 
+Verificació d’integritat 
+d’enllaç 
+Suportat 
+Mode repetidor Suportat 
+Política de 
+seguretat 
+Xifrat WEP-64/128/152bit, WEP dinàmic, TKIP, AES, 
+EAP, CCMP, WPA3 
+Múltiples condicions d’activació per l’actualització 
+de clau unicast i de difusió 
+802.11i Suportat 
+Autentificació Autenticació 802.1X, autenticació MAC, 
+autenticació PSK, autenticació de portal, PPSK. 
+Aïllament d’usuaris Aïllament d’usuaris en l'àmbit de capa 2 
+Aïllament d’usuaris basat en SSID 
+Seguretat de 
+reenviament 
+Filtrar paquets 
+Filtrar per direcció MAC 
+ 
+C/ Borja Moll, 51, 07702, Maó / T. (+34) 971 35 27 10 / servei@silme.es / www.silme.es 
+15 
+Identif. doc. elect.: ES-07SIL-2026-a1bdbdc9-6268-40f8-b231-6a5776ea41a2    24/11/2026 11:41:17   Pag.:15/20
+SILME SA-A07279227- Org.:A07279227  Validar: https://www.carpetaciutadana.org
+
+--- página 16 ---
+ 
+ 
+ 
+ 
+Suprimeix la tormenta de difusió 
+Associació de SSID i 
+VLAN 
+Suportat 
+WIDS/WIPS Suportat 
+Detecta y contrarresta 
+dispositius no 
+autoritzats 
+Suportat 
+Inspecció Dinàmica de 
+ARP (DAI) 
+Suportat 
+Guardia d’origen IP 
+(IPSG) 
+Suportat 
+Protecció del marc de 
+gestió (802.11w) 
+Suportat 
+AAA Client RADIUS Suportat 
+Servidor d’autenticació 
+de múltiples dominis 
+Suportat 
+Servidor d’autenticació 
+de suport 
+Suportat 
+Característiques 
+de capa 2 i capa 
+3 
+Configura l'adreça IP IP estàtica (disponible només en mode de AP 
+independent) 
+IP assignada per DHCP (opció 60) 
+IPv6 natiu Suportat 
+IPv6 Portal Suportat 
+ 
+C/ Borja Moll, 51, 07702, Maó / T. (+34) 971 35 27 10 / servei@silme.es / www.silme.es 
+16 
+Identif. doc. elect.: ES-07SIL-2026-a1bdbdc9-6268-40f8-b231-6a5776ea41a2    24/11/2026 11:41:17   Pag.:16/20
+SILME SA-A07279227- Org.:A07279227  Validar: https://www.carpetaciutadana.org
+
+--- página 17 ---
+ 
+ 
+ 
+ 
+IPv6 SAVI Suportat 
+ACL IPv4/IPv6 
+Reenvía localment Reenviament basat en SSID i VLAN 
+Protocol de 
+descubriment de capa 
+de enllaç Link Layer 
+Discovery Protocol 
+(LLDP) 
+Suportat 
+Assignació de VLAN 
+basada en SSID 
+Suportat 
+Túnel EoGRE Suportat 
+Multicast. IGMP Snooping/MLD Snooping 
+QoS 802.11e Wi-Fi Multimedia (WMM) 
+Prioritat Prioritat i marcat 802.1p en els ports Ethernet 
+Mapeig de prioritat per paquets cablejats e 
+inalàmbrics 
+Mapeig de polítiques 
+de QoS 
+Mapeig de SSID/VLAN i polítiques de QoS 
+Filtratge de paquets i 
+classificació de tràfic 
+de Capa 2 a Capa 4 
+Suportat 
+Tasa de accés 
+comprometida (CAR) 
+Suportat 
+ 
+C/ Borja Moll, 51, 07702, Maó / T. (+34) 971 35 27 10 / servei@silme.es / www.silme.es 
+17 
+Identif. doc. elect.: ES-07SIL-2026-a1bdbdc9-6268-40f8-b231-6a5776ea41a2    24/11/2026 11:41:17   Pag.:17/20
+SILME SA-A07279227- Org.:A07279227  Validar: https://www.carpetaciutadana.org
+
+--- página 18 ---
+ 
+ 
+ 
+ 
+Gestió d’ample de 
+banda del client 
+Assignació de ample de banda basada en 
+estacions. Assignació de ample de banda basada 
+en SSID 
+Balanceig de càrrega Balanceig de càrrega basada en el tràfic 
+Balanceig de càrrega basada en sessions 
+Balanceig de càrrega basada en freqüència 
+(compatible amb banda dual) 
+Navegació per banda 
+(prioritat 5G) 
+Suportat 
+Optimitza la 
+transmissió en grup 
+(IPv4/IPv6). 
+Suportat 
+Control d’admissió de 
+Crides (CAC) 
+CAC basat en sessions 
+CAC basat en l’us de canals 
+Optimitza el temps 
+d’emissió 
+Suportat 
+Equitat de temps d'aire Suportat 
+Telèfon SVP Suportat 
+Power saving PPC Suportat 
+Mode AP verd Suportat 
+Estalvi d'energia MIMO 
+dinàmic 
+Suportat 
+ 
+C/ Borja Moll, 51, 07702, Maó / T. (+34) 971 35 27 10 / servei@silme.es / www.silme.es 
+18 
+Identif. doc. elect.: ES-07SIL-2026-a1bdbdc9-6268-40f8-b231-6a5776ea41a2    24/11/2026 11:41:17   Pag.:18/20
+SILME SA-A07279227- Org.:A07279227  Validar: https://www.carpetaciutadana.org
+
+--- página 19 ---
+ 
+ 
+ 
+ 
+E-APSD Suportat 
+Estalvi d'energia WMM Suportat 
+Operació 
+i 
+manteniment 
+Gestió de xarxes Trap, HTTP(S), SSH, Telnet, FTP/TFTP, SNMP 
+V1/V2/V3 sólo aplicable en modo Cloud/Fat 
+SSID de gestió Suportat 
+Syslog Suportat 
+Mode de treball del AP Fit/Cloud/Fat/anchor 
+Sondeig i análisis 
+remot 
+Suportat 
+Malla (Mesh) Connexió d’enllaç de 
+malla 
+Suportat 
+Malla de diversos salts Suportat 
+Certificat de 
+Wi-Fi 
+IEEE 802.11a/b/g/n/ac/ax, WMM, WPA, WPA2 y WPA3 – Empresarial, 
+Personal (SAE), Enhanced Open (OWE), Wi-Fi Alliance 
+Compatibilitat amb la infraestructura existent 
+Per garantir la interoperabilitat i la continuïtat del servei, l'equip ofert haurà de: 
+● Ser compatible amb la plataforma de gestió H3C Cloudnet actualment desplegada. 
+● Integrar-se dins la mateixa consola de gestió centralitzada existent. 
+● Permetre l'aplicació de les mateixes polítiques de configuració, seguretat i monitoratge. 
+● Ser compatible amb les funcionalitats de roaming de la infraestructura actual. 
+● Poder coexistir i operar conjuntament amb els quatre punts d'accés actualment desplegats 
+(model:H3C WA6320) sense necessitat de substituir equipament existent. 
+● Permetre la configuració i administració centralitzada des de la mateixa plataforma de gestió 
+en ús. 
+ 
+C/ Borja Moll, 51, 07702, Maó / T. (+34) 971 35 27 10 / servei@silme.es / www.silme.es 
+19 
+Identif. doc. elect.: ES-07SIL-2026-a1bdbdc9-6268-40f8-b231-6a5776ea41a2    24/11/2026 11:41:17   Pag.:19/20
+SILME SA-A07279227- Org.:A07279227  Validar: https://www.carpetaciutadana.org
+
+--- página 20 ---
+ 
+ 
+ 
+ 
+El licitador haurà d'aportar: 
+● Fitxa tècnica oficial del fabricant. 
+● Declaració de compatibilitat amb la plataforma H3C Cloudnet. 
+● Documentació acreditativa de les característiques tècniques ofertes. 
+ 
+ 
+ 
+ 
+Maó, en la data de la signatura electrònica que consta en aquest document.  
+ 
+Àrea de Sistemes i Comunicacions de SILME, S.A.  
+ 
+ 
+ 
+C/ Borja Moll, 51, 07702, Maó / T. (+34) 971 35 27 10 / servei@silme.es / www.silme.es 
+20 
+Identif. doc. elect.: ES-07SIL-2026-a1bdbdc9-6268-40f8-b231-6a5776ea41a2    24/11/2026 11:41:17   Pag.:20/20
+SILME SA-A07279227- Org.:A07279227  Validar: https://www.carpetaciutadana.org

@@ -1,0 +1,661 @@
+
+
+--- página 1 ---
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+Contrato 149/2026 
+ 
+Página 1 de 15 
+ 
+ 
+ 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS DEL CONTRATO DE SERVICIOS DE 
+HOSTING, MANTENIMIENTO Y ACTUALIZACIÓN DE LA PLATAFORMA WEB 
+OBSERVATORIO CAMINO DE SANTIAGO VÍA DE LA PLATA-CAMINO MOZÁRABE Y APP, 
+DEL “PROYECTO ṤEMTAYR”, CREACIÓN DE UN SISTEMA DE GESTIÓN, MONITORIZACIÓN 
+Y COMUNICACIÓN VIRTUAL PARA LA MEJORA DE LA EXPERIENCIA PEREGRINA EN EL 
+CAMINO DE SANTIAGO: VIA DE LA PLATA-CAMINO MOZÁRABE. 
+ 
+ 
+ 
+CONTENIDO 
+ 
+1. OBJETO DEL CONTRATO. ............................................................................................. 2 
+2.- DESCRIPCIÓN DE LA SITUACIÓN ACTUAL. ...................................................................... 3 
+3. TRABAJOS A DESARROLLAR. ........................................................................................ 4 
+4. INFRAESCTRUCTURA NECESARIA PARA EL ALOJAMIENTO DE LA SOLUCIÓN. ........................... 7 
+5. ACUERDOS DE NIVEL DE SERVICIOS. ............................................................................ 10 
+6. PERFILES EXIGIDOS PARA LA EJECUCIÓN DEL SERVICIO. ................................................... 10 
+7. PLAN DE IMPLEMENTACIÓN. ..................................................................................... 11 
+8. COORDINACIÓN E INFORME ANUAL JUSTIFICATIVO. ....................................................... 12 
+9. TRATAMIENTO DE LOS DATOS DE CARÁCTER PERSONAL. ................................................. 12 
+10. GESTIÓN DE USUARIOS Y CONTROL DE ACCESO. .......................................................... 12 
+11. CALIDAD DEL SERVICIO Y GARANTÍA. ......................................................................... 13 
+12. PROPIEDAD DEL RESUTADO DE LOS TRABAJOS. ............................................................ 13 
+13. DOCUMENTACIÓN A ENTREGAR POR LA PERSONA ADJUDICATARIA. ................................ 14 
+14. FORMACIÓN. ........................................................................................................ 15 
+15. CONFIDENCIALIDAD Y SEGURIDAD DE LA INFORMACIÓN. .............................................. 15 
+ 
+Cód. Validación: TCGJ3D3S7EFJ2WMLEKGCYHD4N 
+Verificación: https://cederlaserena.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 1 de 15 
+
+--- página 2 ---
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+Contrato 149/2026 
+ 
+Página 2 de 15 
+ 
+1. OBJETO DEL CONTRATO.  
+   
+En el marco del Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión 
+Europea – NextGenerationEU establecido por el Reglamento (UE) 2020/2094 del Consejo, de 14 de 
+diciembre de 2020, por el que se establece un instrumento de Recuperación de la Unión Europea para 
+apoyar la recuperación tras las crisis de la COVID-19, y regulado según Reglamento (UE) 2021/241 del 
+Parlamento Europeo y del Consejo de 12 de febrero de 2021 por el que se establece el Mecanismo de 
+Recuperación y Resiliencia, el CEDER “La Serena”, como representante de la Agrupación de socios 
+beneficiaria, contrató los servicios de Creación de la Plataforma Web Observatorio Camino de 
+Santiago Vía de la Plata– Camino Mozárabe y APP.  
+ 
+Dicha Agrupación de socios está constituida por los Grupos de Acción Local siguientes: ADR 
+Alpujarra Sierra Nevada Almería; ADR Comarca Filabres Alhamilla; ADS del Poniente Granadino; ADR 
+de la Sierra Sur de Jaén; GADL Comarca de Antequera; GDR Territorio Nororiental de Málaga; AD 
+Guadajoz y Campiña Este de Córdoba; ADR Comarca de Los Pedroches; AD Sierra Morena Cordobesa; 
+ADR Subbética Cordobesa; ADL Comarca Bajo Guadalquivir; GDR Corredor de la Plata; AC Gran Vega 
+de Sevilla; ADR Sierra Morena Sevillana; CEDER “La Serena”; AD Vegas Altas del Guadiana; AD Comarca 
+de Lácara; CEDECO – Tentudía; CEDER Zafra Río Bodión ; ADI Sierra de Montánchez Tamuja; AD 
+Comarca Tajo Salor Almonte; AD Valle del Alagón; ADI Valle del Ambroz; ADRI Sierras de Salamanca; 
+ADRE Comarcas de Campo Charro, Alba de Tormes y Guijuelo; ADRE Territorio Nordeste de Salamanca; 
+GAL Toro, Guareña y Vino; ADRI Palomares; AGDR Limia Arnoia y ADR Terras de Pontevedra Norte. 
+ 
+No obstante, es intención de la Agrupación de Socios trabajar para la incorporación de nuevos 
+territorios a través de los Grupos de Acción Local afectados que por razón de su pertenencia a los 
+Caminos de Santiago de los que forma parte el proyecto pudieran estar interesados en participar.  
+ 
+La Plataforma Web Observatorio Camino de Santiago Vía de la Plata– Camino Mozárabe y APP, 
+está dirigida a optimizar la seguridad del trayecto, el acceso a la información y la monitorización de la 
+ruta con el fin de mejorar la experiencia peregrina como medio para incrementar el impacto 
+económico y social en los territorios localizados en su área de influencia, cuyo objetivo es: “Diseñar y 
+desarrollar un sistema de gestión basado en soluciones tecnológicas avanzadas enfocado a mejorar la 
+seguridad del trayecto, el acceso a la información y la monitorización de la ruta con el fin de mejorar 
+la experiencia peregrina”, el Observatorio cuenta con las siguientes funcionalidades:  
+ 
+• Gestión: dirigida a avanzar en la seguridad del peregrino, la digitalización de recursos 
+estratégicos, la generación de confianza, la accesibilidad y la igualdad de oportunidades.  
+Cód. Validación: TCGJ3D3S7EFJ2WMLEKGCYHD4N 
+Verificación: https://cederlaserena.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 2 de 15 
+
+--- página 3 ---
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+Contrato 149/2026 
+ 
+Página 3 de 15 
+ 
+• Monitorización: generación y clasificación de datos enfocados a facilitar la toma de 
+decisiones en acciones futuras relacionadas con la gestión del Camino.  
+• Comunicación: escaparate de los territorios que conforman la Candidatura y de los 
+recursos culturales, turísticos, patrimoniales, etc., que atesoran. 
+ 
+Las acciones que se ejecutarán bajo este objetivo son:  
+ 
+A2.1. Servicios de Hosting y mantenimiento de las funcionalidades actuales del Observatorio 
+Web en sus diversos planos funcionales: 
+- Gestión.  
+- Monitorización. 
+- Promoción.   
+A2.2. Actualización y mantenimiento de la APP Camino de Santiago Vía de la Plata – Camino 
+Mozárabe en Android e iOs. 
+2.- DESCRIPCIÓN DE LA SITUACIÓN ACTUAL. 
+ 
+El proyecto “Proyecto Ṥemtayr” Creación de un sistema de Gestión, Monitorización y 
+Comunicación Virtual para la Mejora de la Experiencia Peregrina en el Camino de Santiago: Vía de la 
+Plata–Camino Mozárabe” cuenta con la Plataforma Web Observatorio Camino de Santiago Vía de la 
+Plata– Camino Mozárabe y app.”, que se contempla como un sistema de gestión basado en soluciones 
+tecnológicas avanzadas enfocado a mejorar la seguridad del trayecto, el acceso a la información y la 
+monitorización de la ruta con el fin de mejorar la experiencia peregrina. 
+ 
+• El Observatorio del Camino de Santiago Vía de la Plata– Camino Mozárabe que 
+contiene diversos planos funcionales: 
+ 
+o Gestión.  
+o Monitorización. 
+o Promoción.   
+o APP nativa para Android e iOs. 
+ 
+Todo ello desarrollado mediante un sistema de gestión basado en soluciones tecnológicas 
+avanzadas enfocado a mejorar la seguridad del trayecto, el acceso a la información y la monitorización 
+de la ruta con el fin de mejorar la experiencia peregrina del Camino de Santiago Vía de la Plata – 
+Camino Mozárabe. Así mismo, el sistema actual está realizado con el objetivo de diseñar, editar y 
+dinamizar soluciones virtuales que faciliten la proyección del Camino de Santiago Vía de la Plata – 
+Cód. Validación: TCGJ3D3S7EFJ2WMLEKGCYHD4N 
+Verificación: https://cederlaserena.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 3 de 15 
+
+--- página 4 ---
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+Contrato 149/2026 
+ 
+Página 4 de 15 
+ 
+Camino Mozárabe y de los territorios localizados en las zonas de influencia del trayecto en las que se 
+implantarán acciones de carácter experimental. 
+3. TRABAJOS A DESARROLLAR.  
+  
+El Objeto del contrato propuesto se basa en los Servicios de hosting y mantenimiento de las 
+funcionalidades actuales del Observatorio Web en sus diversos planos funcionales (gestión, 
+Monitorización y promoción) y actualización y mantenimiento de la APP Camino de Santiago Vía de la 
+Plata – Camino Mozárabe en Android e iOs. 
+ 
+Las propuestas que se presenten deben asegurar la plena funcionalidad de todos los recursos 
+con los que cuenta el sistema actual contando con plena funcionalidad los siguientes:  
+ 
+3.1.- Base de datos.  
+ 
+Mantenimiento de la base de datos de la Plataforma Web Observatorio Camino de Santiago Vía 
+de la Plata– Camino Mozárabe (“Proyecto Ṥemtayr”), con cumplimiento adecuado del nivel de 
+interoperabilidad técnica, semántica y organizativa, conforme a las estipulaciones del Esquema 
+Nacional de Interoperabilidad en el ámbito de la Administración Electrónica (ENI). En concreto, se 
+cumplirán las Normas Técnicas de Interoperabilidad establecidas por dicho esquema. Con relación a 
+los estándares a emplear en el marco del presente contrato, las ofertas garantizarán el cumplimiento 
+de los distintos estándares que resulten de aplicación cuando sean de necesidad, a juicio del 
+responsable del contrato. 
+ 
+La Base de datos debe cumplir con la norma UNE 178503 (Destinos turísticos inteligentes. 
+Semántica aplicada al turismo) que define una semántica base que permite representar la información 
+relevante en la que se conforma el destino turístico. Esta norma garantiza la interoperabilidad de las 
+plataformas turísticas y de ciudad inteligente y con desarrollos de terceros.  
+ 
+La base de datos está desarrollada mediante software libre para la creación de datos por parte 
+de los Grupos Socios y otras entidades mediante su acceso con usuario y contraseña y cuenta con una 
+interface intuitiva y amigable que permite su posible uso mediante API a los socios u otras entidades 
+para actualizar contenidos en otros servicios WEB. 
+ 
+La base de datos seguirá contando con los campos que actualmente gestiona, si bien se 
+propone que las propuestas presentadas sean flexibles para incorporar durante la vigencia del 
+contrato nuevos campos. 
+Cód. Validación: TCGJ3D3S7EFJ2WMLEKGCYHD4N 
+Verificación: https://cederlaserena.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 4 de 15 
+
+--- página 5 ---
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+Contrato 149/2026 
+ 
+Página 5 de 15 
+ 
+Todos los recursos de la base de datos están georeferenciados y son operativos y están 
+sincronizados entre la web y las App. 
+ 
+3.2.- WEB  
+ 
+El servicio de alojamiento web ofrecido se llevará a cabo mediante un servicio de hosting 
+completo, incluyendo los costes del dominio web www.semtayr.es y www.caminomozarabedesantiago.es 
+durante la vigencia del contrato. 
+ 
+La persona licitadora especificará el nivel de seguridad en la infraestructura de hosting así como 
+también de la planificación máxima posible de copias de seguridad y restauración, pudiendo ser esta 
+planificación personalizable por el personal encargado del CEDER “La Serena”. En caso de ser necesaria 
+una migración del sitio web, la persona licitadora deberá garantizar la continuidad del servicio y 
+seguridad de global del observatorio. El sistema de alojamiento se implantará en una infraestructura 
+de producción diseñada para proporcionar alta disponibilidad, evitar cualquier pérdida de 
+información, recuperación de ésta y tolerancia a fallos, de tal forma que quede garantizada la 
+disponibilidad de los contenidos y servicios ofrecidos, así como la velocidad de acceso a los mismos. 
+La solución de hosting oferta por la persona licitadora obligatoriamente debe ser de un proveedor que 
+cuente con infraestructura suficiente que garantice una disponibilidad del sitio web y un soporte de 
+24x7 (24 horas, 7 días a la semana durante los 365 días del año) y especificará la ubicación física donde 
+esté ubicada o ubicadas dichas infraestructuras, siendo requisito indispensable que esta ubicación sea 
+dentro de la Unión Europea. 
+ 
+La persona licitadora se hará cargo de la infraestructura actual de hosting y dominios de los 
+sitios webs relacionados más arriba y así facilitar la continuidad del servicio a lo largo de la duración 
+del contrato. La solución estará lo suficientemente dimensionada para garantizar su buen 
+rendimiento. 
+ 
+El servicio de hosting deberá ofrecer de una transferencia de datos ilimitada. 
+ 
+La seguridad es una cuestión primordial en el servicio de hosting a contratar, y se deberá prever 
+en varios aspectos: 
+ 
+•Centro de datos: el centro de datos deberá ser seguro para evitar, por un lado, que personas 
+no autorizadas puedan tener acceso físico a la máquina o conectividades y, por otra parte, a fin de 
+Cód. Validación: TCGJ3D3S7EFJ2WMLEKGCYHD4N 
+Verificación: https://cederlaserena.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 5 de 15 
+
+--- página 6 ---
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+Contrato 149/2026 
+ 
+Página 6 de 15 
+ 
+minimizar al máximo las posibilidades de caída de los servicios en caso de fallo del suministro eléctrico 
+o desastres naturales. 
+•Datos: se deberá garantizar la integridad y accesibilidad de los datos, con servidores 
+redundantes, clúster de discos duros o con algún otro sistema que permita la recuperación en caliente 
+de todos los datos de cada hosting. 
+•Software: la persona licitadora configurará y monitorizará la seguridad del servidor para evitar 
+el acceso a intrusos y mantendrá capas perimetrales de firewall a nivel de redes o web. 
+•Copias de seguridad: deberá permitir, por un lado, recuperar archivos que hayan podido 
+perder o corromper (backups periódicos de todos los archivos de cada uno de los hostings) y, por otro 
+lado, la rápida restauración de todo el hosting o sitio web de forma que pueda estar en línea 
+restaurándolo desde cero con el mínimo de tiempo posible. 
+ 
+La persona licitadora será el encargado de la contratación o subcontratación de las IPs públicas 
+y privadas necesarias para el correcto funcionamiento del hosting objeto del contrato, controlando la 
+presencia en Internet que permitirá el acceso a las peticiones sobre el observatorio web objeto de 
+este contrato. La persona licitadora se encargará del registro, traslado y renovación de los dominios 
+en nombre y a nombre del CEDER “La Serena”. 
+ 
+3.3 APP  
+ 
+El objetivo general de este apartado dar continuidad a las aplicaciones para dispositivos móviles 
+realizando las mejoras necesarias para su correcto funcionamiento a través de actualizaciones 
+periódicas a realizar al menos 1 vez al año durante la vigencia del contrato. Esta aplicación móvil está 
+basada en herramientas de navegación y mapas para guiar a los peregrinos a través de un recorrido e 
+interactuar con los recursos que haya a su paso. 
+ 
+Entendiendo que la APP es un desarrollo tecnológico complementario a la WEB y cuya 
+funcionalidad principal es el uso por parte de los peregrinos durante su camino, los contenidos y 
+funcionalidades que debe estar basados en la información de la base de datos común con el sitio web.  
+ 
+En relación a las versiones y plataformas móviles de la aplicación IOS/Android, ambas de forma 
+nativa, deben estar disponibles para su uso en plataformas iOS y Android y su descarga en las tiendas 
+App Store y Google Play respectivamente de la cuenta de desarrollador del CEDER “la Serena” como 
+responsable de la Agrupación de socios. 
+ 
+Cód. Validación: TCGJ3D3S7EFJ2WMLEKGCYHD4N 
+Verificación: https://cederlaserena.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 6 de 15 
+
+--- página 7 ---
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+Contrato 149/2026 
+ 
+Página 7 de 15 
+ 
+La persona adjudicataria será la responsable de dar de alta y publicar las actualizaciones que 
+se produzcan durante la vigencia del contrato en las tiendas de Android e iOS. 
+ 
+La persona adjudicataria debe asumir los gastos derivados de las altas, publicaciones, 
+gestiones, etc., así como cualquier otra incidencia al respecto a todas las tiendas de aplicaciones 
+móviles necesarias (Google Store, App Store) que se oferten. Además, asumirá la creación de cuenta 
+de administrador en las respectivas tiendas de iOS y Android a nombre del CEDER “La Serena” como 
+representante de la Agrupación de socios del proyecto SEMTAYR.  La solución deberá ser llave en 
+mano, y su puesta en funcionamiento no conllevará a la Agrupación de socios coste y/o gestión alguna. 
+  
+Por último, tanto para la acción de la Web como de la APP la persona adjudicataria deberá 
+comprometerse a:  
+  
+- Formación y asistencia técnica: debe incluirse una o varias sesiones formativas para la 
+correcta autogestión de la WEB y App.    
+- Cuenta de administrador de App: se debe incluir los gastos de cuenta de administrador de 
+las plataformas iOS y Android durante el periodo de vigencia del contrato. 
+ 
+En el caso de las mejoras que puedan producirse durante el desarrollo del proyecto, la persona 
+adjudicataria de la licitación adquiere  la obligación de entregar el código fuente y todos los 
+componentes necesarios (como el código ejecutable, documentación técnica y manuales de usuario) 
+para que cumpla con los fines requeridos por el CEDER “La Serena” como representante de la 
+Agrupación de socios del proyecto SEMTAYR, teniendo la obligación de entregar todos sus accesorios, 
+aunque no hayan sido mencionados, y necesarios para para dar resultado al programa final, y sin que 
+el CEDER “La Serena” tenga que depender del programador inicial para su actualización o 
+acomodación a las nuevas normativas o necesidades del usuario del programa.  
+4. INFRAESCTRUCTURA NECESARIA PARA EL ALOJAMIENTO DE LA SOLUCIÓN.  
+ 
+La persona adjudicataria deberá contar con infraestructura para alojar la solución dentro del 
+territorio nacional, o en todo caso en la Unión Europea. 
+Deberá además contar con los siguientes recursos para la prestación del servicio debido a la 
+criticidad de la información que se va a manejar en el proyecto: 
+▪ Acceso remoto al servidor a través de SSH. 
+▪ Acceso remoto seguro al servidor de bases de datos. 
+Cód. Validación: TCGJ3D3S7EFJ2WMLEKGCYHD4N 
+Verificación: https://cederlaserena.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 7 de 15 
+
+--- página 8 ---
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+Contrato 149/2026 
+ 
+Página 8 de 15 
+ 
+▪ Acceso vía FTP seguro a diferentes usuarios. 
+▪ Servicio de backup diario tanto del servidor en general, como de cada uno de los sitios alojados 
+en particular. 
+▪ Aprovisionamiento de servicios en entornos único, aislado y privado (Servidor virtual dedicado, 
+red y direccionamiento privado y público único, con al menos 20 direcciones ip’s dedicadas de 
+uso único) 
+▪ Accesos securizados y privados mediante túneles ilimitados y gestionados. 
+Deberá igualmente contar con un servicio de soporte 24/7 que monitoree constantemente la 
+infraestructura tanto lógica como física (hardware y software base como sistema operativo, bases de 
+datos, servidor web, etc) y pueda reaccionar en pocos segundos en caso de alerta o fallo, recuperando 
+el sistema de posibles desastres o contingencias. 
+En virtud de la criticidad e importancia de los datos a tratar se debe dedicar especial atención 
+al tratamiento y protección de los datos hospedados, tanto desde el punto de vista del 
+almacenamiento como de su tránsito y transporte a y desde la aplicación albergada. Así por tanto es 
+imprescindible el cumplimiento de las más estrictas medidas de protección y seguridad de la 
+información. En ese sentido el adjudicatario deberá contar en su plataforma de aprovisionamiento 
+web con un sistema de seguridad y gestión de eventos o SIEM, que permita proporcionar una 
+monitorización continuada rápida y precisa que permita detectar cualquier evento, bien de forma 
+única o agregada, que pudiera desembocar en un incidente o brecha de seguridad todo ello en tiempo 
+real tanto del tráfico en tránsito como de los datos hospedados. 
+ 
+Esto permitirá detectar cualquier amenaza sobre los sistemas del proyecto, monitorizando todo 
+el tráfico generado y realizando una gestión de dichos eventos de seguridad mediante sistema de 
+alertas inmediato, debido a que la información de las aplicaciones a alojar es de un alto nivel de 
+criticidad y confidencialidad, s cuyo nivel de protección necesario es muy alto. 
+ 
+Mediante este sistema, se deberá cumplir con los siguientes mínimos: 
+• Identificar entre amenazas reales y falsos positivos.  
+• Monitorizar de forma centralizada todas las amenazas potenciales.  
+• Redirigir la actuación a personal cualificado para resolverlas.  
+• Aportar un mayor grado de conocimiento sobre los incidentes para facilitar su resolución.  
+• Documentar todo el proceso de detección, actuación y resolución.  
+Cód. Validación: TCGJ3D3S7EFJ2WMLEKGCYHD4N 
+Verificación: https://cederlaserena.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 8 de 15 
+
+--- página 9 ---
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+Contrato 149/2026 
+ 
+Página 9 de 15 
+ 
+• Cumplir con las normas y legislaciones vigentes en cuestión de protección de datos y seguridad. 
+Asimismo, dicho soporte debe realizar el mantenimiento de seguridad correspondiente a la 
+infraestructura, tal que los servidores y el firewall se mantengan actualizados previniendo posibles 
+ataques. 
+Se deberá disponer de cuantas herramientas y mecanismos lógicos sean necesarios para 
+salvaguardar y almacenar todos los logs del tráfico de la aplicación con fines de monitorización, 
+inspección y cumplimientos normativos durante la vigencia del contrato. 
+Además, se deberá elaborar un informe, desde el punto de vista de la seguridad de la información, 
+de todos los incidentes de que sean objeto todos y cada uno de los servicios afectos a la publicación de 
+la aplicación del proyecto. En dicho informe se realizarán los análisis necesarios que den como resultado 
+propuestas de mejoras, buenas prácticas y mitigación para favorecer la securización continuada de la 
+infraestructura y los datos. El informe deberá tener periodicidad semestral. Las propuestas de mejora 
+serán valoradas por el técnico del órgano de contratación y llegado el caso sean aceptadas y validadas 
+se debe incluir el servicio de implantación y puesta en marcha en la plataforma. 
+Como medida relevante de protección la infraestructura deberá contar con herramientas de 
+protección del servicio de aplicación de tecnología Firewall de aplicaciones WEB (WAF) para proteger 
+específicamente el tráfico y publicación de capa 7 de la aplicación.  
+Dichos logs se deben incluir y almacenar en la herramienta al efecto antes mencionada para los 
+mismos fines y relevancia durante la vigencia del contrato. 
+Del mismo modo se deberá contar con un servicio gestionado para el servidor que pueda 
+gestionar cualquier tipo de incidencias y peticiones de servicio y realizar cualquier tarea de gestión y 
+configuración en caso de necesidad, por ejemplo: crear una nueva regla en el PHP.ini, dar de alta un 
+entorno de pruebas, crear un nuevo usuario de FTP, gestionar un dominio adicional, cambiar permisos 
+de carpetas o archivos, revisar crones, etc. 
+Igualmente, se espera que dicho administrador del servidor realice la puesta a punto del mismo 
+una vez comiencen los trabajos, realizando la migración de datos de los servidores con los que contamos 
+actualmente, en el caso de ser necesario, al nuevo servidor, y garantizando que todos los servicios 
+alojados queden funcionando correctamente. 
+Se espera que la persona adjudicataria tenga la capacidad de realizar la gestión integral del 
+proyecto, contando con un equipo técnico inhouse dedicado al mismo, que tenga capacidad para realizar 
+la migración y el mantenimiento técnico de los servidores y responder de forma rápida y efectiva a las 
+peticiones e incidencias. 
+Todos los trabajos y tareas relativas al mantenimiento y actualizaciones de la herramientas y 
+piezas de software del proyecto deberán ser acometidas en tiempo y forma, sin repercusión ni merma 
+Cód. Validación: TCGJ3D3S7EFJ2WMLEKGCYHD4N 
+Verificación: https://cederlaserena.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 9 de 15 
+
+--- página 10 ---
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+Contrato 149/2026 
+ 
+Página 10 de 15 
+ 
+en la accesibilidad y rendimiento de la aplicación y deberán estar incluidas en toda su extensión durante 
+todo el período de ejecución del contrato. 
+5. ACUERDOS DE NIVEL DE SERVICIOS. 
+ 
+• Incidencia Crítica (caída total de la web o fallo grave de seguridad): Tiempo máximo de 
+respuesta e inicio de resolución de 12 horas desde el aviso (o el plazo inferior ofertado por el 
+adjudicatario en el Anexo I del PCAP). 
+• Incidencia Leve (errores puntuales de visualización o soporte): Tiempo máximo de respuesta 
+de 48 horas hábiles. 
+6. PERFILES EXIGIDOS PARA LA EJECUCIÓN DEL SERVICIO. 
+ 
+El equipo del proyecto estará formado por el personal proporcionado por la persona 
+adjudicataria que deberá poner a disposición del proyecto los siguientes perfiles mínimos: 
+ 
+a) Jefe de Proyecto. Director ejecutivo del proyecto con más de 3 años de experiencia en la 
+coordinación y supervisión de proyectos digitales multicanal: Organización, Planificación, 
+Ejecución y Administración. 
+b) Arquitecto Backend: mínimo de 3 años de experiencia en el ciclo completo del desarrollo 
+de proyectos online: Análisis, gestión, planificación, arquitectura del software y 
+programación. Experto en PHP, tecnologías y lenguajes web: HTML, Javascript, Ajax (jQuery, 
+Prototype/scriptaculous), CSS, SVG, .... Debe tener experiencia coordinando y formando 
+equipos de desarrolladores y definiendo arquitecturas de desarrollo desde el punto de vista 
+de backend. 
+c) Desarrollador bakend: Programador con más de 3 años de experiencia en tecnologías 
+servidor web (JSP, PHP, etc.) y plataformas LAMP. Poseerá también experiencia en la gestión 
+de la configuración y versiones de un producto software. 
+d) Desarrollador iOS: Programador con más de 3 años de experiencia. Experiencia avanzada 
+en Swift y Objective-C, con conocimientos específicos en SwiftUI. Familiaridad con versiones 
+recientes de iOS, idealmente desde iOS 12 hasta la última versión disponible. Amplios 
+conocimientos de las APIs de iOS, como UIKit, Core Data, Core Animation, etc. Experiencia en 
+el uso de Xcode y herramientas de depuración de iOS. Conocimiento de los principios de 
+diseño de la interfaz de usuario de Apple y las directrices de la App Store. Experiencia en 
+integración de APIs de terceros y servicios web RESTful. Conocimientos en la implementación 
+de patrones de diseño como MVC, MVVM y VIPER. Experiencia en gestión de configuración y 
+Cód. Validación: TCGJ3D3S7EFJ2WMLEKGCYHD4N 
+Verificación: https://cederlaserena.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 10 de 15 
+
+--- página 11 ---
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+Contrato 149/2026 
+ 
+Página 11 de 15 
+ 
+versiones de software utilizando Git. Competencia en integración continua y herramientas de 
+CI/CD como Jenkins o GitLab CI. Experiencia en la subida y gestión de releases en la App Store. 
+e) Desarrollador Android: Programador con más de 3 años de experiencia. Experiencia 
+avanzada en Kotlin y Java. Familiaridad con versiones recientes de Android, idealmente desde 
+Android 9 (Pie) hasta la última versión disponible. Profundo conocimiento de las APIs de 
+Android, como Android SDK, Android Jetpack, y Google Play Services. Experiencia en el uso 
+de Android Studio y herramientas de depuración de Android. Conocimiento de los principios 
+de diseño Material Design y las directrices de Google Play. Experiencia en integración de APIs 
+de terceros y servicios web RESTful. Conocimientos en la implementación de patrones de 
+diseño como MVP, MVVM y Clean Architecture. Experiencia en gestión de configuración y 
+versiones de software utilizando Git. Competencia en integración continua y herramientas de 
+CI/CD como Jenkins o GitLab CI. Experiencia en la subida y gestión de releases en Google Play 
+Store. 
+f) Consultor de Sistemas: Profesional con más de 3 años de experiencia en diseño y 
+configuración de entornos web, incluyendo la infraestructura física y el software base 
+necesario para la ejecución y puesta en producción de los proyectos. Con capacidades de 
+diagnóstico de problemas de hardware y de software, así como de planificación, coordinación 
+e implementación de medidas de seguridad de red para proteger información, software y 
+hardware. 
+ 
+Dentro de la documentación a aportar para el cumplimiento de la solvencia técnica o 
+profesional de la persona adjudicataria, se incluirá el correspondiente Currículum Vitae firmado de 
+cada uno de los componentes propuestos. 
+ 
+La realización de reuniones y entrevistas necesarias para buena ejecución del servicio durante 
+el periodo de vigencia del mismo, en el caso de ser necesarias de manera presencial,  se desarrollarán 
+en dependencias del CEDER “La Serena”, desarrollándose el resto de los trabajos en las instalaciones 
+del adjudicatario salvo que para el buen fin del servicio a prestar deban realizarse en las oficinas del 
+coordinador del proyecto, sin que pueda repercutirse ningún tipo de dieta o emolumento por el 
+desplazamiento. 
+ 
+En el caso de los perfiles Jefe de Proyecto,  Arquitecto Backend y Desarrolladores iOS y 
+Android,  deberán estar disponibles en el plazo de 36 horas desde la solicitud para asistir a reuniones 
+presenciales en las oficinas del propio CEDER “La Serena”.  
+7. PLAN DE IMPLEMENTACIÓN. 
+ 
+Cód. Validación: TCGJ3D3S7EFJ2WMLEKGCYHD4N 
+Verificación: https://cederlaserena.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 11 de 15 
+
+--- página 12 ---
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+Contrato 149/2026 
+ 
+Página 12 de 15 
+ 
+Dado que tanto el Observatorio web como la app están totalmente funcionales y operativas, se 
+estima que los nuevos servicios contratados de hosting y mantenimiento estén implantados y 
+totalmente funcionales en un plazo máximo de 7 días desde la notificación de resolución del contrato 
+y tengan una vigencia de 3 años desde la misma notificación.  
+ 
+8. COORDINACIÓN E INFORME ANUAL JUSTIFICATIVO. 
+ 
+  Interlocución única: La persona adjudicataria tendrá como interlocutor técnico único a la 
+Gerencia o persona designada por el CEDER “la Serena” como representante de la Agrupación de 
+Socios, quien centralizará las peticiones de los 30 GAL. 
+  Informe Técnico Anual (Entregable obligatorio para facturar): Al finalizar cada una de las tres 
+anualidades, el adjudicatario entregará al GAL Coordinador una Memoria Técnica Anual firmada que 
+resuma las actualizaciones realizadas, copias de seguridad, incidencias resueltas y estadísticas básicas 
+de disponibilidad. Este informe, con el vºbº del CEDER “La Serena”, se remitirá a los 30 GAL como 
+soporte documental justificativo de los servicios desarrollados durante la anualidad correspondiente. 
+9. TRATAMIENTO DE LOS DATOS DE CARÁCTER PERSONAL. 
+ 
+El adjudicatario, en cumplimiento de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección 
+de Datos Personales y garantía de los derechos digitales, y en lo dispuesto en el Real Decreto 3/2010, 
+de 8 de enero, por el que se regula el Esquema Nacional de Seguridad en el ámbito de la 
+Administración Electrónica, únicamente tratará los datos conforme a las instrucciones de la 
+Consejería, y no los aplicará o utilizará con fin distinto al del contrato, ni los comunicará, ni siquiera 
+para su conservación, a otras personas. En el caso de que la persona adjudicataria, o cualquiera de sus 
+miembros, destinen los datos a otra finalidad, los comunique o los utilice incumpliendo las 
+estipulaciones del contrato, será responsable de las infracciones cometidas. 
+10. GESTIÓN DE USUARIOS Y CONTROL DE ACCESO. 
+ 
+En todo lo relativo a la implementación de la funcionalidad de gestión de usuarios y control de 
+accesos del sistema de información a desarrollar, se tendrán en cuenta las estipulaciones que sobre 
+seguridad hace la legislación vigente en materia de tratamiento de datos personales, Reglamento (UE) 
+2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de 
+las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de 
+estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos) 
+así como de la legislación nacional vigente en materia de protección de datos, y el Real Decreto 3/2010 
+Cód. Validación: TCGJ3D3S7EFJ2WMLEKGCYHD4N 
+Verificación: https://cederlaserena.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 12 de 15 
+
+--- página 13 ---
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+Contrato 149/2026 
+ 
+Página 13 de 15 
+ 
+por el que se regula el Esquema Nacional de Seguridad, modificado por el Real Decreto 951/2015, de 
+23 de octubre. 
+11. CALIDAD DEL SERVICIO Y GARANTÍA. 
+ 
+El desarrollo resultado de los trabajos realizados durante este proyecto (así como cualquier otro 
+producto elaborado, como son por ejemplo la documentación, procedimientos de cualquier tipo, 
+plantillas, etc.), deberá estar garantizado frente a errores ocultos y mal funcionamientos no 
+detectados, debiendo ser subsanado dicho error por parte de la persona adjudicataria, sin ningún tipo 
+de coste adicional. 
+ 
+El período de garantía de los desarrollos realizados será de DOCES MESES, desde la finalización 
+del servicio objeto de este PPT. 
+ 
+Durante ese periodo, la persona adjudicataria prestará el servicio de soporte al personal o 
+unidades administrativas que el Responsable del Contrato designe, cubriendo cualquier 
+disconformidad, error o fallo en los desarrollos y modificaciones realizadas por el equipo de trabajo. 
+ 
+Durante este período el adjudicatario estará obligado a mantener los entornos, los servicios 
+necesarios y las relaciones entre ellos de cara a seguir ofreciendo, a efectos de garantía, la evolución 
+y calidad de las aplicaciones. 
+12. PROPIEDAD DEL RESUTADO DE LOS TRABAJOS. 
+ 
+Todos los datos, contenidos, bases de datos y desarrollos del observatorio web y app son 
+titularidad exclusiva de los Grupos de Acción Local cooperantes, quienes podrán reproducirlos, 
+publicarlos y divulgarlos, total o parcialmente, sin que pueda oponerse a ello el adjudicatario autor 
+material de los trabajos.  
+ 
+A la finalización de los 3 años de contrato, el adjudicatario estará obligado a entregar al GAL 
+Coordinador, sin coste adicional, una copia íntegra y actualizada de los ficheros fuente, la base de 
+datos completa y todas las credenciales de administración y transferencia de dominio. 
+ 
+La persona adjudicataria renunciará expresamente a cualquier derecho que sobre los trabajos 
+realizados como consecuencia de la ejecución del presente contrato pudiera corresponderle, y no 
+podrá hacer ningún uso o divulgación de los estudios y documentos utilizados o elaborados en base a 
+este pliego de condiciones, bien sea en forma total o parcial, directa o extractada, original o 
+Cód. Validación: TCGJ3D3S7EFJ2WMLEKGCYHD4N 
+Verificación: https://cederlaserena.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 13 de 15 
+
+--- página 14 ---
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+Contrato 149/2026 
+ 
+Página 14 de 15 
+ 
+reproducida, sin autorización expresa del CEDER “La Serena” como representante de la Agrupación de 
+Socios del proyecto SEMTAYR. 
+ 
+13. DOCUMENTACIÓN A ENTREGAR POR LA PERSONA ADJUDICATARIA.  
+ 
+La documentación a entregar por la persona adjudicataria a lo largo del contrato, más allá de 
+los documentos requeridos por el CEDER “La Serena” como responsable de la Agrupación de Socios 
+del proyecto SEMTAYR, con el objetivo de reducir el consumo de papel, se entregará en formato 
+electrónico por los medios acordados con la persona adjudicataria y preferentemente a través de la 
+sede electrónica del CEDER “La Serena”. Dicha documentación deberá incluir al menos los siguientes 
+documentos: 
+- Manual de usuario, que defina a detalle la navegabilidad en los productos, y las funciones 
+disponibles de modo que, un usuario a pesar de no estar familiarizado pueda hacer uso del 100%. 
+Este documento incorporará una guía rápida para introducción al uso. 
+-  Manual de mantenimiento, que defina las incidencias que se pueden producir y el modo de 
+resolución de estas, así como una metodología de diagnóstico para errores/fallos no documentos. 
+-  Plan de implantación que defina la implantación de los elementos que componen el sistema. 
+- Documentación para stores, que se requiera tanto alfanumérica como gráfica para la publicación 
+de las aplicaciones en los stores. 
+- Manual de funcionamiento, en el que describe con detalle el cometido y el funcionamiento de 
+todo elemento, así como la interacción entre los diversos bloques. 
+- Manual de explotación, detallando los procedimientos a seguir para la realización de los 
+pertinentes ajustes, revisiones y mantenimiento. Se deben incluir normas precisas de 
+mantenimiento, interpretación de errores más frecuentes y método de resolución, relación de 
+averías más probables y normas para su reparación (ajuste, preventivo y correctivo) y resúmenes de 
+comandos. 
+ 
+Así mismo la persona licitadora entregará cualquier licencia, paquete o librería que haya sido 
+empleado en el desarrollo de los componentes software y que deben haber sido previa y 
+específicamente identificados y aprobados. En caso de que el uso de estos requiera registro, el titular 
+del mismo será el CEDER “La Serena”. En caso de que requiera el abono de alguna licencia o royalty, la 
+persona adjudicataria debe abonar la misma durante la vigencia del contrato y documentar el 
+procedimiento de registro asociado. 
+ 
+Del mismo modo la persona adjudicataria entregará al CEDER “La Serena” como representante 
+de la Agrupación de socios del proyecto SEMTAYR el Código fuente de todos los desarrollos, incluidas 
+las licencias y librerías necesarias que conforman los sistemas desarrollados. 
+Cód. Validación: TCGJ3D3S7EFJ2WMLEKGCYHD4N 
+Verificación: https://cederlaserena.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 14 de 15 
+
+--- página 15 ---
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+Contrato 149/2026 
+ 
+Página 15 de 15 
+ 
+14. FORMACIÓN. 
+ 
+La persona licitadora se obliga a impartir la formación necesaria a los socios del proyecto 
+SEMTAYR para el uso y gestión de los productos desarrollados en el presente pliego y deberá abarcar 
+los aspectos tecnológicos y funcionales específicos del proyecto, siendo previa en todo caso su 
+impartición a la puesta en producción con una duración máxima estimada de 5 horas. Dicha formación 
+podrá realizarse de manera presencial en las instalaciones del CEDER “La Serena” o en cualquier otro 
+lugar acordado de manera conjunta con la persona adjudicataria o de manera virtual a través de una 
+plataforma on-line o de manera mixta. 
+ 
+Adicionalmente, durante la ejecución de los trabajos objeto del contrato, la persona 
+adjudicataria se compromete, en todo momento, a facilitar a las personas designadas por el CEDER 
+“La Serena”, la información y documentación que se   solicite para disponer de un pleno conocimiento 
+de las circunstancias en que se desarrollan los trabajos, así como de los eventuales problemas que 
+puedan plantearse y de las tecnologías, métodos, y herramientas utilizadas para resolverlos. 
+ 
+15. CONFIDENCIALIDAD Y SEGURIDAD DE LA INFORMACIÓN. 
+ 
+La persona adjudicataria deberá cumplir con las siguientes premisas: 
+ 
+• Guardar la debida confidencialidad y secreto sobre los hechos, informaciones, conocimientos, 
+documentos y otros elementos a los que tenga acceso con motivo de la prestación del 
+servicio. 
+• Informar a sus empleados de que sólo pueden tratar la información del CEDER “La Serena” y 
+del resto de los Socios para cumplir los servicios objeto de este pliego y también de la 
+obligación de no hacer públicos, ceder o enajenar cuantos datos conozcan. 
+Cód. Validación: TCGJ3D3S7EFJ2WMLEKGCYHD4N 
+Verificación: https://cederlaserena.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 15 de 15 

@@ -1,0 +1,2390 @@
+
+
+--- página 1 ---
+Nº de expediente: 6256/2025
+Procedimiento: Abierto simplificado
+Asunto: Contratación del derecho de uso de una aplicación para la gestión de la Policía Local 
+en modalidad SaaS y de los servicios de implantación, mantenimiento, soporte y formación
+Tipo de contrato: Mixto de suministro y servicios
+Concejalía y área: Nuevas Tecnologías
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+PARTICULARES PARA LA 
+CONTRATACIÓN DEL DERECHO DE USO 
+DE UNA APLICACIÓN DE GESTIÓN DE 
+LA POLICÍA LOCAL EN MODALIDAD 
+SAAS Y DE LOS SERVICIOS ASOCIADOS
+SERVICIO DE INFORMÁTICA DEL AYUNTAMIENTO DE LA UNIÓN
+Página 1 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 1 de 59 
+
+--- página 2 ---
+ÍNDICE
+1 OBJETO DEL CONTRATO                                                                                                                         .........................................................................................................  5  
+2 ANTECEDENTES Y JUSTIFICACIÓN DE LA NECESIDAD                                                                        .............................................................  6  
+2.1 NECESIDADES A SATISFACER.......................................................................................................6
+2.2 SITUACIÓN ACTUAL..................................................................................................................7
+3 PLAZO DE ENTREGA Y PUESTA EN SERVICIO                                                                                       ..........................................................................  7  
+4 REQUISITOS                                                                                                                                              ...........................................................................................................................  8  
+4.1 REQUISITOS GENERALES............................................................................................................8
+4.2 REQUISITOS DE FORMACIÓN Y CONSULTORÍA..............................................................................10
+4.2.1 FORMACIÓN INICIAL............................................................................................................10
+4.2.2 FORMACIÓN CONTINUA.......................................................................................................11
+4.3 REQUISITOS TECNOLÓGICOS.....................................................................................................13
+4.3.1 INFRAESTRUCTURA Y ALOJAMIENTO DEL SERVICIO.....................................................................13
+4.3.2 DISPONIBILIDAD Y RENDIMIENTO...........................................................................................14
+4.3.3 ENTORNO TECNOLÓGICO.....................................................................................................15
+4.4 REQUISITOS DE MIGRACIÓN.....................................................................................................16
+4.5 REQUISITOS DE INTEGRACIONES...............................................................................................17
+4.5.1 INTEGRACIÓN OBLIGATORIA CON DIRECCIÓN GENERAL DE TRÁFICO.............................................17
+4.5.2 INTEGRACIÓN OBLIGATORIA CON GESTIONA............................................................................18
+4.5.3 INTEGRACIONES Y PRESTACIONES ADICIONALES VALORABLES.......................................................18
+4.6 REQUISITOS DE CALIDAD.........................................................................................................21
+5 FUNCIONALIDADES                                                                                                                               ..............................................................................................................  21  
+5.1 FUNCIONALIDADES GENÉRICAS.................................................................................................21
+5.2 ACCESO A DATOS Y SEGURIDAD................................................................................................22
+5.3 FUNCIONALIDADES ESPECÍFICAS................................................................................................23
+5.3.1 SERVICIOS.........................................................................................................................23
+5.3.2 ARCHIVO..........................................................................................................................25
+5.3.3 TRÁFICO...........................................................................................................................27
+5.3.4 POLICÍA ADMINISTRATIVA....................................................................................................29
+5.3.5 POLICÍA JUDICIAL...............................................................................................................31
+5.3.6 RECURSOS HUMANOS.........................................................................................................33
+5.3.7 RECURSOS MATERIALES.......................................................................................................35
+5.3.8 REPRESENTACIÓN GRÁFICA Y GEOLOCALIZACIÓN.......................................................................37
+Página 2 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 2 de 59 
+
+--- página 3 ---
+5.3.9 HERRAMIENTAS DEL SISTEMA...............................................................................................37
+5.3.10 PORTAL DEL AGENTE........................................................................................................38
+5.3.11 OTRAS FUNCIONALIDADES..................................................................................................38
+6 PLANIFICACIÓN E IMPLANTACIÓN                                                                                                     .......................................................................................  39  
+7 DURACIÓN DEL CONTRATO                                                                                                                 .................................................................................................  40  
+8 PRESUPUESTO DEL CONTRATO                                                                                                           ............................................................................................  40  
+9 SOPORTE Y MANTENIMIENTO                                                                                                             .............................................................................................  41  
+9.1 SERVICIO DE SOPORTE Y MANTENIMIENTO INTEGRAL....................................................................41
+9.2 INCIDENCIAS Y TIEMPO DE RESPUESTA Y RESOLUCIÓN...................................................................42
+9.3 SEGUIMIENTO DE LOS NIVELES DE SERVICIO................................................................................44
+10 TITULARIDAD Y CONTROL DE LA INFORMACIÓN                                                                           ...............................................................  44  
+11 CONFIDENCIALIDAD Y PORTABILIDAD DE LOS DATOS                                                                  .......................................................  45  
+12 EQUIPO DEL PROYECTO                                                                                                                     .....................................................................................................  45  
+13 METODOLOGÍA Y DOCUMENTACIÓN                                                                                              ................................................................................  46  
+14 EVIDENCIAS FUNCIONALES DE CUMPLIMIENTO                                                                            ................................................................  46  
+14.1 CONDICIONES DE VALIDEZ.....................................................................................................49
+15 DOCUMENTACIÓN A PRESENTAR                                                                                                     ......................................................................................  49  
+15.1 MEMORIA TÉCNICA DESCRIPTIVA............................................................................................50
+15.1.1 ESTRUCTURA Y RELACIÓN ESCRITA DE CUMPLIMIENTO.............................................................51
+15.2 EVIDENCIAS FUNCIONALES EN FORMATO AUDIOVISUAL...............................................................52
+15.3 PLAN DE IMPLANTACIÓN Y CRONOGRAMA................................................................................53
+15.4 PLAN DE MIGRACIÓN DE DATOS.............................................................................................53
+15.5 PLAN DE FORMACIÓN Y ACOMPAÑAMIENTO.............................................................................54
+15.6 PLAN EVOLUTIVO Y DE MEJORA..............................................................................................54
+15.7 EQUIPO DEL PROYECTO.........................................................................................................54
+15.8 ACREDITACIÓN DEL CUMPLIMIENTO DEL ENS...........................................................................54
+15.9 DECLARACIONES Y COMPROMISOS..........................................................................................55
+15.9.1 DECLARACIÓN DE CUMPLIMIENTO DE LA INTEGRACIÓN OBLIGATORIA..........................................55
+Página 3 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 3 de 59 
+
+--- página 4 ---
+15.9.2 DECLARACIÓN DE COMPROMISO SOBRE MEJORAS OFERTADAS...................................................55
+15.9.3 DECLARACIONES ADICIONALES............................................................................................57
+15.10 CONDICIONES DE VALIDEZ Y SUBSANACIÓN.............................................................................57
+16 REQUISITOS TRANSVERSALES DE LA SOLUCIÓN                                                                            ................................................................  57  
+16.1 SEGURIDAD Y ESQUEMA NACIONAL DE SEGURIDAD...................................................................57
+16.2 PRIVACIDAD Y PROTECCIÓN DE DATOS.....................................................................................58
+16.3 PROTECCIÓN DE LOS SERVICIOS EN LA NUBE.............................................................................58
+16.4 INTEROPERABILIDAD CON LOS SISTEMAS PÚBLICOS.....................................................................58
+16.5 DOCUMENTACIÓN DE LOS REQUISITOS MÍNIMOS DE LA SOLUCIÓN................................................58
+Página 4 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 4 de 59 
+
+--- página 5 ---
+1 OBJETO DEL CONTRATO
+El objeto del contrato es la contratación del derecho de uso, sin limitación por número de 
+usuarios, de una aplicación de gestión integral de la Policía Local en modalidad SaaS (Software 
+as a Service), junto con los servicios de implantación, parametrización, migración, integración, 
+puesta en marcha, mantenimiento, soporte y formación definidos en este Pliego.
+El objeto del contrato incluye las siguientes prestaciones:
+- Implantación y puesta en marcha del software en la infraestructura de la empresa 
+adjudicataria.
+- Migración de los datos actuales procedentes del sistema SYSPOL, conforme a un plan 
+de migración consensuado con el Ayuntamiento de La Unión.
+- Integraciones obligatorias con Gestiona, como gestor municipal de expedientes, y con 
+la Dirección General de Tráfico a través de la Plataforma de Intermediación de Datos o 
+del servicio oficial habilitado. Las prestaciones adicionales tendrán carácter de mejora 
+únicamente en los términos del apartado 4.5.3.
+- Servicio  de  mantenimiento  integral del  sistema,  que  incluirá  el  mantenimiento 
+correctivo, evolutivo y preventivo.
+- Servicio de soporte al usuario, tanto técnico como funcional.
+- Formación inicial y formación continua dirigida a los distintos perfiles de usuarios del 
+sistema.
+El derecho de uso comprenderá a todos los agentes y al personal administrativo adscrito a la 
+Policía  Local,  sin  licencias  nominales  adicionales  ni  límites  derivados  del  modelo  de 
+licenciamiento. El sistema será accesible desde los dispositivos autorizados mediante conexión 
+segura. La solución podrá utilizar componentes de integración o un cliente móvil instalable 
+cuando  sean  necesarios, sin  que  ello  determine  una tecnología concreta ni genere costes 
+adicionales.
+El  sistema  deberá  prestarse  en  modalidad  SaaS  (Software  as  a  Service)  e  incluirá,  como 
+mínimo:
+- Acceso a la aplicación 24 horas los 365 días del año.
+- Mantenimiento y supervisión de las copias de seguridad diarias, con una retención 
+mínima de 30 días.
+- Ejecución de los mantenimientos correctivo, evolutivo y preventivo.
+- Disponibilidad  de  todas  las  licencias  de  servidor  necesarias  para  el  correcto 
+funcionamiento del servicio.
+Página 5 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 5 de 59 
+
+--- página 6 ---
+- Aplicación,  sin  coste  adicional,  de  las  actualizaciones  correctivas,  de  seguridad, 
+normativas y de las mejoras evolutivas que el adjudicatario incorpore con carácter 
+general a la versión contratada. Los desarrollos específicos no definidos en el Pliego no 
+quedarán incluidos salvo modificación contractual o previsión expresa del PCAP.
+- Acceso seguro mediante protocolo HTTPS y autenticación controlada, garantizando el 
+cifrado de las comunicaciones y el registro de dispositivos habilitados para el acceso 
+desde terminales móviles.
+El  acceso  se  realizará  mediante  canales  cifrados.  La  solución  permitirá  aplicar  controles 
+configurables  por  identidad,  perfil,  dispositivo  y,  cuando  el  Ayuntamiento  lo  determine, 
+dirección IP, sin impedir el uso seguro desde redes móviles autorizadas. Todas las conexiones 
+quedarán registradas.
+2 ANTECEDENTES Y JUSTIFICACIÓN DE LA NECESIDAD
+2.1 NECESIDADES A SATISFACER
+El Ayuntamiento  de  La  Unión  impulsa  un  modelo  de  gestión  administrativa  basado  en  la  
+modernización tecnológica, la interoperabilidad y la eficiencia en la prestación de los servicios 
+públicos.
+En este contexto, la Policía Local requiere una plataforma integral de gestión en modalidad 
+SaaS  (Software  as  a  Service)  que  permita  centralizar  la  operativa  policial,  optimizar  la 
+tramitación  administrativa  e  interoperar  con  los  sistemas  municipales  y  estatales.  Son 
+integraciones  obligatorias  la  consulta  a  la  DGT  y  el  flujo  funcional  mínimo  con  el  gestor 
+municipal de expedientes Gestiona, en los términos de los apartados  4.5.1 y  4.5.2. Solo las 
+prestaciones adicionales expresamente  previstas en el apartado  4.5.3 tendrán carácter de 
+mejora.
+El  sistema  deberá  cumplir  el  Esquema  Nacional  de  Seguridad  en  categoría  ALTA.  Los 
+tratamientos efectuados por las autoridades competentes con fines de prevención, detección, 
+investigación y enjuiciamiento de infracciones penales o de ejecución de sanciones penales se 
+someterán  a  la  Ley  Orgánica  7/2021,  dentro  de  su  ámbito  de  aplicación;  los  restantes 
+tratamientos  se  someterán  al  RGPD  y  a  la  LOPDGDD.  La  solución  garantizará  la 
+confidencialidad, integridad, disponibilidad y trazabilidad de la información en ambos ámbitos.
+La implantación de una nueva solución permitirá:
+- Alinear  los  procesos  internos  con  los  principios  de  interoperabilidad  y  tramitación 
+electrónica integral.
+- Disponer de un entorno cloud certificado que asegure la continuidad del servicio y la 
+actualización permanente del sistema.
+- Facilitar la coordinación entre unidades operativas y administrativas mediante el uso 
+de herramientas móviles y cuadros de mando.
+Página 6 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 6 de 59 
+
+--- página 7 ---
+- Reforzar  la  seguridad,  la  integridad  y  la  disponibilidad  de  los  datos  policiales  en 
+entornos certificados ENS nivel ALTO.
+- Reducir  la  dependencia  de  infraestructura  local  y  del  mantenimiento  en  las 
+instalaciones municipales, optimizando los recursos públicos conforme a los principios 
+de eficiencia y sostenibilidad presupuestaria de la LCSP.
+2.2 SITUACIÓN ACTUAL
+La  Policía  Local  de  La  Unión  dispone  actualmente  de  una  aplicación  de  gestión  policial 
+operativa,  utilizada  para  el  registro  y  seguimiento  de  actuaciones  y  expedientes 
+administrativos.
+No obstante, la evolución de las exigencias normativas, funcionales y de interoperabilidad 
+derivadas de la implantación del gestor municipal de expedientes y de las nuevas plataformas  
+estatales hace necesario avanzar hacia una solución integral en modalidad SaaS, que garantice 
+una  conexión  segura  y  eficiente  con  los  sistemas  municipales  y  con  las  administraciones 
+públicas intervinientes.
+El nuevo modelo permitirá incorporar una arquitectura tecnológica más flexible y escalable, 
+asegurar  el  cumplimiento  del  Esquema  Nacional  de  Seguridad  (nivel  ALTO) y  ofrecer  un 
+entorno plenamente adaptado a las necesidades actuales de digitalización del Ayuntamiento.
+3 PLAZO DE ENTREGA Y PUESTA EN SERVICIO
+La implantación deberá completarse en un plazo máximo de tres (3) meses desde la fecha del 
+acta  de  inicio.  Dentro  de  ese  plazo  deberán  estar  operativos  los  módulos  obligatorios,  la 
+integración mínima, la formación inicial y las pruebas de aceptación. La migración se ejecutará  
+conforme al plan aprobado y no retrasará por sí sola la puesta en servicio cuando se haya 
+cargado la información imprescindible y se garantice la continuidad operativa.
+Durante dicho periodo, la empresa adjudicataria llevará a cabo las siguientes actuaciones:
+- Planificación general de la implantación, coordinada con el Servicio de Informática y la 
+Jefatura de la Policía Local.
+- Parametrización  y  adaptación  funcional de  la  plataforma  a  las  necesidades  del 
+Ayuntamiento.
+- Migración y verificación de los datos procedentes del sistema anterior.
+- Implantación de las integraciones obligatorias con DGT/PID y Gestiona y, cuando se 
+oferten, de las mejoras del apartado 4.5.3.
+- Formación  inicial  a  los  usuarios y  validación  conjunta  de  los  procedimientos 
+principales.
+- Pruebas  de  interoperabilidad,  rendimiento  y  seguridad,  con  certificación  de 
+conformidad por parte del órgano gestor.
+Página 7 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 7 de 59 
+
+--- página 8 ---
+La puesta en servicio se formalizará mediante un acta de puesta en servicio y conformidad de  
+la  implantación,  una  vez  superadas  las  pruebas  de  aceptación  descritas  en  el  plan  de 
+implantación. El acta identificará los requisitos verificados, las incidencias pendientes y, en su 
+caso, su plazo de subsanación. La recepción y liquidación del contrato se regirán por el PCAP y 
+la LCSP.
+La  ampliación  o  suspensión  del  plazo  solo  podrá  acordarse  por  las  causas  y  mediante  el 
+procedimiento previstos en la LCSP y en el PCAP. Los retrasos imputables al contratista no 
+ampliarán la duración ni generarán derecho a incremento económico.
+4 REQUISITOS
+4.1 REQUISITOS GENERALES
+La empresa adjudicataria estará obligada a facilitar un software de gestión integral policial en 
+modalidad  SaaS  (Software  as  a  Service) que  incluya,  como  mínimo,  las  siguientes 
+funcionalidades y módulos interrelacionados.
+Todos los requisitos identificados como obligatorios tienen carácter mínimo y se formulan por 
+resultados  funcionales.  El  licitador  podrá  emplear  otra  arquitectura,  denominación  o 
+distribución  de módulos, siempre  que acredite de forma trazable que la solución ofrecida 
+satisface íntegramente cada requisito, sin pérdida de información, funcionalidad o seguridad.
+Las  referencias  a  sistemas  municipales  o  plataformas  públicas  identifican  los  entornos  de 
+destino con los que debe interoperar la solución y no prescriben una marca para la aplicación 
+policial. Se admitirán arquitecturas, conectores y medios técnicos equivalentes que acrediten 
+las operaciones exigidas con el sistema de destino identificado en cada requisito o mejora. La 
+equivalencia de los medios no implica sustituir el sistema municipal con el que deba realizarse  
+el intercambio.
+Las  funcionalidades  básicas  sometidas  a  evidencia  y  las  funcionalidades  ofrecidas  como 
+mejoras  estarán  operativas  en  la  solución  ofertada  al vencer el plazo  de  presentación  de 
+ofertas. No dependerán de desarrollos futuros. Las integraciones obligatorias se acreditarán 
+mediante vídeo funcional en un entorno autorizado de prueba, preproducción, demostración o 
+producción, con datos ficticios o anonimizados y sin acceso a los sistemas de La Unión. Las 
+mejoras  se  acreditarán  por  los  medios  del  apartado  15.9.2.  Durante  la  implantación  se 
+completarán la configuración, las autorizaciones y la habilitación municipales de los conectores 
+previamente acreditados.
+A título orientativo, se agrupan en los siguientes bloques, sin perjuicio de que el licitador 
+pueda proponer una organización interna distinta, siempre que garantice la totalidad de las 
+funcionalidades enumeradas:
+- Servicios: actuaciones, intervenciones, planificación de servicios y teleasistencia.
+- Archivo: gestión de personas, entidades, comercios, empresas, vehículos y animales, 
+con vinculación automática entre registros y geolocalización.
+Página 8 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 8 de 59 
+
+--- página 9 ---
+- Tráfico: accidentes,  denuncias,  grúa,  depósito  de  vehículos,  ocupaciones  de  vía 
+pública, vehículos abandonados y vados.
+- Policía Administrativa: registro de actos administrativos, objetos encontrados y gestión 
+documental.
+- Policía  Judicial: atestados,  custodia  de  detenidos,  citaciones  judiciales  y  otras 
+comunicaciones.
+- Recursos Humanos: personal, licencias, trabajos extraordinarios, cuadrantes, pluses, 
+cambios de turno, ajustes horarios, servicios mínimos y comunicaciones internas.
+- Recursos Materiales: gestión de armas, uniformidad, material, vestuario y vehículos 
+policiales.
+- Representación gráfica y geolocalización: visualización sobre mapa digital y generación 
+de estadísticas asociadas.
+- Herramientas del sistema: administración, control de accesos y perfiles de usuario.
+- Portal del agente: gestión de incidencias, solicitudes, cambios de turno y comunicación 
+interna.
+- Otras funcionalidades complementarias descritas en el presente Pliego.
+El  modelo  de  licenciamiento  no  impondrá  límites  por  número  de  usuarios,  terminales  o 
+módulos obligatorios. La infraestructura deberá dimensionarse para los volúmenes existentes 
+y  el  crecimiento  razonablemente  previsto,  manteniendo  los  niveles  de  servicio.  La  oferta 
+identificará límites técnicos, cuotas o políticas de uso que puedan afectar al almacenamiento, 
+concurrencia, API o documentos adjuntos.
+Las licencias permitirán el alta de un número ilimitado de usuarios de la Policía Local, sin coste  
+unitario  adicional, y el acceso concurrente dentro  de la capacidad dimensionada  y  de  los 
+niveles de servicio exigidos.
+En caso de que el contratista utilice materiales, procedimientos o equipamientos sujetos a 
+propiedad industrial o intelectual, deberá contar con las cesiones y autorizaciones necesarias 
+de sus legítimos titulares, eximiendo al Ayuntamiento de cualquier reclamación derivada de su 
+uso.
+El sistema incluirá, como mínimo, los siguientes servicios:
+- Acceso a la aplicación las 24 horas, los 365 días del año.
+- Mantenimiento de las copias de seguridad con una retención mínima de treinta (30) 
+días.
+- Mantenimiento correctivo sobre errores detectados.
+Página 9 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 9 de 59 
+
+--- página 10 ---
+- Mantenimiento evolutivo de la versión contratada y adaptación a cambios normativos 
+que  afecten  directamente  a  las  prestaciones  incluidas,  sin  coste  adicional.  Los 
+desarrollos específicos ajenos al alcance se regirán por el PCAP y la LCSP.
+- Mantenimiento preventivo destinado a optimizar el rendimiento del sistema.
+- Inclusión  de  todas  las  licencias  de  servidor  necesarias  para  su  correcto 
+funcionamiento.
+- Acceso  seguro  mediante  protocolo  HTTPS,  garantizando  el  cifrado  de  todas  las 
+comunicaciones.
+- Controles configurables de acceso por identidad, perfil, dispositivo y, cuando proceda, 
+dirección IP, con alta y baja de terminales, registro de conexiones y bloqueo ante 
+accesos no autorizados.
+La operativa contratada no requerirá adquirir por separado licencias o software adicional. El 
+precio comprenderá las licencias, componentes y servicios de terceros que sean necesarios 
+para  las  prestaciones  obligatorias  y  para  las  mejoras  ofertadas,  sin  perjuicio  de  las 
+herramientas municipales existentes con las que deban integrarse.
+4.2 REQUISITOS DE FORMACIÓN Y CONSULTORÍA
+La  adquisición  e  implantación  de  la  aplicación  comportará  la  prestación  de  servicios  de 
+consultoría y formación destinados a garantizar la correcta implantación, parametrización y 
+uso del sistema por parte de los distintos perfiles de usuarios del Ayuntamiento de La Unión.
+4.2.1 FORMACIÓN INICIAL
+El  adjudicatario  deberá  impartir  la  formación  inicial  necesaria para  asegurar  el  dominio 
+funcional y operativo del sistema por parte del personal de la Policía Local y del personal  
+técnico municipal vinculado al proyecto.
+Esta formación incluirá, al menos:
+- Sesiones presenciales o telemáticas orientadas a la instalación, parametrización, carga 
+inicial de datos, y configuración del sistema.
+- Formación diferenciada por perfiles:
+o Perfil administrador del sistema.
+o Perfil usuario operativo (agentes y personal administrativo).
+- Explicación detallada del funcionamiento general de la aplicación, gestión de módulos, 
+elaboración de informes y procedimientos básicos.
+Página 10 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 10 de 59 
+
+--- página 11 ---
+- Capacitación  sobre  aspectos  de  seguridad,  trazabilidad,  gestión  de  usuarios  y 
+protección de datos personales, conforme al ENS y RGPD.
+- Entrega de documentación técnica y manuales electrónicos actualizados.
+El Ayuntamiento determinará el calendario, la modalidad (presencial o en línea) y el lugar de 
+celebración de las sesiones, pudiendo solicitar adaptaciones en función de las necesidades del 
+servicio.
+La formación deberá completarse  dentro del plazo de implantación del sistema y  sin coste 
+adicional para el Ayuntamiento.
+El adjudicatario deberá impartir, como mínimo, cuatro jornadas presenciales o telemáticas de 
+formación y/o consultoría técnica, destinadas a garantizar la correcta implantación y uso del 
+sistema.
+La duración y distribución de las jornadas será determinada por el Ayuntamiento de La Unión, 
+que fijará el calendario, el lugar y las personas asistentes. Cada jornada deberá tener una  
+duración mínima de tres horas efectivas, pudiendo ampliarse en función de las necesidades 
+operativas.
+Las  sesiones  podrán  orientarse  tanto  a  la  formación  funcional de  los  usuarios como  a  la 
+parametrización  y  acompañamiento  técnico de  los  administradores  del  sistema, 
+considerándose parte integrante del proceso de implantación.
+Todos los costes derivados de estas jornadas, incluidos los desplazamientos, medios técnicos y 
+materiales formativos, serán asumidos íntegramente por la empresa adjudicataria.
+4.2.2 FORMACIÓN CONTINUA
+Durante toda la vigencia del contrato, el adjudicatario deberá garantizar la formación continua 
+del personal usuario y administrador, a fin de mantener el conocimiento actualizado de las 
+funcionalidades del sistema y de las nuevas versiones o mejoras incorporadas.
+Esta formación continua podrá desarrollarse mediante:
+- Publicación  de material  formativo  integrado  en  la  propia  plataforma,  con 
+videotutoriales o recursos equivalentes.
+- Organización de sesiones periódicas de actualización, al menos una anual para el perfil 
+de  administradores y  otra  para  el  conjunto  de  usuarios,  en  formato  presencial  o 
+telemático según determine el Ayuntamiento.
+- Contenidos adaptados a las novedades implantadas y a las necesidades detectadas en 
+la explotación del sistema.
+- Entrega de material complementario (manuales, guías, vídeos) en formato electrónico 
+y accesible desde la aplicación.
+Página 11 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 11 de 59 
+
+--- página 12 ---
+Para cada uno de los dos cursos anuales (uno destinado al perfil administrador y otro al perfil  
+usuario) deberá especificarse:
+- Objetivos del curso.
+- Personas asistentes, diferenciando los perfiles formativos.
+- Programa previsto, que se ajustará a las necesidades que determine el Ayuntamiento.
+- Ejemplos de contenido del curso dirigido al perfil administrador:
+o Funcionamiento general de la herramienta.
+o Parametrización de los módulos y funcionalidades.
+o Administración de usuarios y gestión de permisos.
+o Supervisión de copias de seguridad, trazas y registros.
+o Explotación del sistema (informes, logs, auditorías).
+- Ejemplos de contenido del curso dirigido al perfil usuario:
+o Funcionamiento general de la herramienta.
+o Uso operativo de los módulos asignados.
+o Gestión de actuaciones y registro de incidencias.
+o Elaboración de actas, denuncias y documentos electrónicos.
+o Procedimientos de firma digital y remisión a gestor de expedientes.
+Los  materiales  formativos  incluirán  documentación  en  formato  electrónico,  vídeos  y 
+contenidos  e-learning.  Los  formadores  deberán  ser  personal  técnico  cualificado,  con 
+experiencia acreditada en la implantación de sistemas de gestión policial.
+El Ayuntamiento determinará las fechas de celebración de los cursos, que se adaptarán a la 
+disponibilidad  del  servicio  y  podrán  realizarse  en  las  aulas  o  dependencias  municipales 
+designadas al efecto.
+El adjudicatario deberá designar formadores con  experiencia acreditada en implantación y 
+soporte  de  soluciones  de  gestión  policial,  asumiendo  todos  los  gastos  derivados  de  su 
+desplazamiento y medios necesarios para la impartición de la formación.
+El  cumplimiento  de  las  obligaciones  formativas  será  condición  esencial  para  la  correcta 
+recepción del servicio y podrá ser objeto de seguimiento técnico por parte del Ayuntamiento.
+Página 12 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 12 de 59 
+
+--- página 13 ---
+4.3 REQUISITOS TECNOLÓGICOS
+4.3.1 INFRAESTRUCTURA Y ALOJAMIENTO DEL SERVICIO
+La  aplicación  y  su  base  de  datos  deberán  alojarse  en  servidores  externos a  los  del 
+Ayuntamiento de La Unión, dentro de la infraestructura de la empresa adjudicataria o de un 
+proveedor subcontratado que cumpla las siguientes condiciones:
+- El alojamiento de la aplicación, su base de datos, las copias de seguridad y las réplicas 
+de recuperación se realizará dentro del territorio de la Unión Europea, conforme a la 
+condición establecida  en  el PCAP. El alojamiento y tratamiento  de  la  información, 
+incluidas las operaciones de soporte y administración remota, cumplirán el Esquema 
+Nacional  de  Seguridad  en  categoría  ALTA  y  la  normativa  de  protección  de  datos 
+aplicable. El licitador identificará el sistema o servicio incluido en el alcance de la  
+certificación y, a requerimiento del Ayuntamiento, facilitará la información necesaria 
+sobre  la  ubicación  de  los  datos,  los  accesos  de  soporte  y  los  subencargados.  Los 
+accesos  desde  terceros  países  y  las  posibles  transferencias  internacionales  se 
+someterán a las condiciones del PCAP y a las garantías legalmente exigibles, sin que 
+puedan utilizarse para eludir la obligación de alojamiento en la Unión Europea.
+- Infraestructura dimensionada  adecuadamente para  garantizar  el  correcto 
+funcionamiento  de  la  aplicación,  tanto  en  la  fase  inicial  como  ante  posibles 
+incrementos de carga o de usuarios.
+- Certificación  de  conformidad  vigente  con  el  Esquema  Nacional  de  Seguridad  en 
+categoría ALTA. El alcance del certificado deberá identificar expresamente el sistema 
+de información o servicio SaaS ofertado y los componentes esenciales que lo soportan. 
+La certificación aislada del centro  de  datos o  del proveedor de  infraestructura  no 
+acreditará por sí sola el cumplimiento del servicio completo.
+- Monitorización 24 × 7 × 365 de los sistemas, con detección y respuesta ante incidentes 
+que impidan el acceso o el funcionamiento correcto de la aplicación, así como ante 
+posibles ataques o intentos de intrusión no autorizados.
+- Se realizarán copias de seguridad, como mínimo, una vez al día, con una retención 
+mínima de treinta (30) días. Su protección, almacenamiento, separación respecto del 
+entorno  de  producción  y  pruebas  de  recuperación  se  ajustarán  a  las  medidas 
+aplicables del ENS en categoría ALTA.
+- Redundancia  de  los  componentes  críticos (fuente  de  alimentación,  red, 
+almacenamiento y comunicaciones) para asegurar la continuidad del servicio en caso 
+de fallo.
+- La solución dispondrá de los medios alternativos y procedimientos necesarios para 
+garantizar la continuidad y recuperación del servicio conforme a las medidas aplicables 
+Página 13 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 13 de 59 
+
+--- página 14 ---
+del  ENS  en  categoría  ALTA,  sin  exigir  una  arquitectura,  distancia  o  modelo  de 
+replicación concretos.
+- La subcontratación de infraestructura o tratamiento se someterá al PCAP, al artículo 
+122.2 de la LCSP y a las reglas de autorización de subencargados del artículo 28 del 
+RGPD y del artículo 30 de la Ley Orgánica 7/2021, según el tratamiento afectado.
+- El alojamiento incluirá capacidad suficiente para los datos, metadatos, documentos, 
+evidencias, registros de auditoría, copias y crecimiento durante toda la vigencia, sin 
+costes  no  previstos.  La  oferta  declarará  sus  límites  técnicos  y  mecanismos  de 
+ampliación.
+El adjudicatario será responsable del funcionamiento, disponibilidad y seguridad del servicio 
+completo, incluida la infraestructura o los servicios subcontratados, y mantendrá las medidas, 
+procedimientos y evidencias exigibles conforme al ENS en categoría ALTA.
+4.3.2 DISPONIBILIDAD Y RENDIMIENTO
+Una vez implantado el sistema y en explotación, se deberán garantizar los siguientes niveles 
+mínimos de disponibilidad y rendimiento:
+- El  servicio  deberá  mantenerse  disponible  de  forma  continuada,  24×7,  salvo  las 
+ventanas de mantenimiento acordadas y las causas no imputables al contratista que se 
+definan  en  el  PCAP.  La  adjudicataria  conservará  información  objetiva  sobre 
+disponibilidad, rendimiento e incidentes y la facilitará al Ayuntamiento cuando sea 
+requerida,  en  particular  para  comprobar  el  cumplimiento  y,  en  su  caso,  tramitar 
+penalidades.
+- El  rendimiento  deberá  ser  adecuado  al  uso  policial  concurrente  y  no  presentar 
+demoras reiteradas que impidan o dificulten de forma relevante el trabajo ordinario. 
+Las  pruebas  de  aceptación  utilizarán  operaciones  representativas,  en  condiciones 
+acordadas, sin imputar al contratista la latencia causada exclusivamente por la red 
+municipal o por servicios de terceros.
+- La oferta describirá la capacidad prevista, los mecanismos de supervisión y la forma de 
+detectar degradaciones del servicio.
+Las degradaciones  significativas se registrarán y tratarán  como  incidencias  conforme  a los 
+niveles de soporte y a las penalidades previstas en el PCAP.
+Para  garantizar  la  calidad  del  servicio,  el  adjudicatario  deberá  disponer  de  un  plan  de 
+supervisión  y  control  de  rendimiento,  con  herramientas  de  monitorización  y  alarmas 
+automáticas que permitan detectar incidencias de rendimiento, caídas de servicio o anomalías 
+en la respuesta del sistema.
+Página 14 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 14 de 59 
+
+--- página 15 ---
+4.3.3 ENTORNO TECNOLÓGICO
+El  sistema  será  web,  multiplataforma  y  responsive,  basado  en  estándares  web  vigentes. 
+Permitirá su utilización desde ordenadores, tabletas y teléfonos móviles. Para el acceso en 
+movilidad podrá emplearse una aplicación instalable, una aplicación web progresiva (PWA), 
+una interfaz web responsive o una combinación de estas soluciones.
+Los requisitos mínimos del entorno tecnológico serán los siguientes:
+- Compatibilidad  con  las  versiones  vigentes  y  con  soporte  del  fabricante  de  los 
+navegadores  Google  Chrome, Mozilla  Firefox, Microsoft Edge y  Safari,  o  con  otros 
+navegadores basados en estándares web equivalentes.
+- Compatibilidad del acceso de escritorio con Windows, macOS y Linux mediante los 
+navegadores admitidos, y de la solución móvil con versiones vigentes de iOS y Android.
+- Integración  con  las  herramientas  ofimáticas  Microsoft  365  y  LibreOffice  (o 
+equivalentes que soporten el formato ODF).
+- La solución deberá permitir el acceso y uso efectivo desde teléfonos inteligentes y 
+tabletas  con  iOS  y  Android.  No  se  exigirá  una  tecnología  de  desarrollo,  una 
+arquitectura móvil ni la publicación en una tienda de aplicaciones concreta, siempre 
+que  el mecanismo  propuesto  permita  ejecutar adecuadamente  las  funcionalidades 
+previstas para el trabajo en movilidad.
+- La  solución  móvil  utilizará  los  mismos  datos,  usuarios,  perfiles  y  permisos  que  la 
+plataforma  general  y  no  podrá  implicar  licencias  adicionales.  Deberá  permitir,  al 
+menos, las operaciones que cada módulo identifique expresamente para el trabajo 
+policial en movilidad, incluidas la consulta y registro de actuaciones, la confección de 
+denuncias y actas, la incorporación de fotografías y documentos, la geolocalización y la 
+firma cuando proceda.
+- Cuando una funcionalidad requiera utilizar elementos del dispositivo, como cámara, 
+ubicación,  firma,  identificación  biométrica,  lectura  de  matrículas  o  conexión  con 
+impresoras portátiles, el licitador deberá acreditar que el mecanismo móvil ofertado 
+permite su utilización efectiva.
+- La solución dispondrá de mecanismos para autorizar y revocar dispositivos o sesiones 
+móviles en caso de pérdida, sustitución o incidencia. El control podrá realizarse desde 
+la  propia  solución, mediante  el proveedor  de  identidad,  a  través  de  herramientas 
+municipales de gestión de dispositivos o por otro mecanismo equivalente compatible 
+con el ENS en categoría ALTA.
+- Capacidad  de  exportación  de  listados  y  documentos a  los  formatos  más 
+habituales: .xlsx, .docx, .html y .pdf, sin necesidad de licencias adicionales.
+Página 15 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 15 de 59 
+
+--- página 16 ---
+- Compatibilidad,  cuando  proceda,  con  certificados  de  sello  electrónico  del 
+Ayuntamiento u otros sistemas de firma o sello admitidos por la normativa para la 
+actuación administrativa automatizada.
+- La base de datos deberá garantizar la integridad, trazabilidad y disponibilidad de la 
+información, así como la realización de copias de seguridad automáticas y trazas de las 
+transacciones efectuadas.
+- Las licencias de las instancias de base de datos necesarias se considerarán incluidas en 
+el precio del contrato.
+La solución cumplirá la normativa de accesibilidad que resulte aplicable, en particular el Real 
+Decreto 1112/2018, atendiendo a su ámbito de aplicación y a las excepciones legalmente 
+previstas.  La  oferta  describirá  de  forma  proporcionada  las  medidas  de  accesibilidad  e 
+interoperabilidad disponibles, sin exigirse una tecnología o norma técnica adicional distinta de 
+la legalmente aplicable.
+- Real Decreto 4/2010, por el que se aprueba el Esquema Nacional de Interoperabilidad.
+- Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de 
+Seguridad.
+- Real Decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web y 
+aplicaciones para dispositivos móviles del sector público.
+4.4 REQUISITOS DE MIGRACIÓN
+La migración está incluida en el precio del contrato y comprenderá la información que el  
+Ayuntamiento  pueda  entregar  desde  el  sistema  actual  en  formatos  estructurados, 
+normalizados o razonablemente utilizables. Incluirá, cuando consten en las exportaciones y 
+sean  técnicamente  identificables,  los  datos  de  personas,  vehículos,  animales,  novedades, 
+servicios o actuaciones y sus documentos asociados.
+1. Datos de origen y responsabilidades
+El Ayuntamiento facilitará las exportaciones, diccionarios, documentación y demás elementos 
+del sistema de origen de los que disponga. El adjudicatario asumirá su recepción, análisis, 
+correspondencia de campos, transformación, carga, pruebas y corrección de los errores que le 
+sean imputables.
+El adjudicatario migrará la información que el Ayuntamiento pueda entregar en las condiciones 
+indicadas. El acceso directo a la base de datos del sistema anterior, la ingeniería inversa, las 
+licencias de extracción y los servicios de terceros para obtener los datos no forman parte del 
+alcance  mínimo.  Cualquier  acceso  directo  deberá  estar  previamente  autorizado  por  quien 
+corresponda  y  respetar  las  condiciones  técnicas,  contractuales  y  de  protección  de  datos 
+aplicables.  Las  limitaciones  o  defectos  del  origen  se  documentarán  y  no  se  imputarán  al 
+adjudicatario cuando le sean ajenos.
+Página 16 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 16 de 59 
+
+--- página 17 ---
+2. Plan, validación y seguridad
+El plan de migración, validado por el Servicio de Informática y la Jefatura de la Policía Local,  
+definirá  conjuntos  de  datos,  formatos  de  entrada,  correspondencias,  fases,  controles, 
+calendario,  responsabilidades  y  criterios  de  aceptación.  Las  operaciones  se  ejecutarán 
+conforme al ENS en categoría ALTA y a la normativa de protección de datos aplicable.
+La puesta en servicio podrá acordarse cuando estén operativos los módulos esenciales, la 
+integración obligatoria y la información mínima necesaria para trabajar con seguridad, aunque 
+continúe la carga o validación de históricos. En tal caso, el plan establecerá acceso transitorio 
+al sistema anterior o medidas equivalentes de continuidad.
+3. Conformidad de la migración
+La finalización se documentará mediante un acta específica de conformidad de la migración, 
+con inventario de datos cargados, controles realizados, incidencias, limitaciones de origen y, si 
+procede, trabajos pendientes. Esta acta será independiente del acta de inicio y de la puesta en 
+servicio de la aplicación.
+Los  errores  de  transformación  o  carga  imputables  al adjudicatario  se  corregirán  sin  coste 
+adicional. Los ajustes motivados exclusivamente por limitaciones no conocidas del sistema de 
+origen se resolverán mediante el plan aprobado y los mecanismos previstos en el PCAP y la 
+LCSP, sin alterar automáticamente el precio ni la duración total.
+4.5 REQUISITOS DE INTEGRACIONES
+La plataforma deberá permitir la integración con otros sistemas municipales y plataformas 
+públicas, garantizando la interoperabilidad funcional mediante el uso de estándares abiertos y 
+protocolos seguros.
+La solución dispondrá de una API documentada, versionada y protegida mediante mecanismos 
+de autenticación, autorización, cifrado, limitación de uso y auditoría. La API permitirá consultar 
+y, cuando proceda, crear o actualizar los recursos necesarios para las integraciones y para la 
+reversibilidad, respetando los permisos y la minimización de datos.
+Las integraciones utilizarán servicios REST, SOAP, XML u otros estándares compatibles con los 
+sistemas de destino, siempre sobre canales cifrados. La oferta identificará operaciones, datos 
+intercambiados, autenticación, tratamiento de errores, reintentos, trazabilidad, requisitos de 
+terceros y responsabilidades de cada parte.
+4.5.1 INTEGRACIÓN OBLIGATORIA CON DIRECCIÓN GENERAL DE TRÁFICO
+La solución deberá permitir la consulta de los datos necesarios de vehículos y, solo cuando 
+exista  habilitación  jurídica,  de  sus  titulares,  mediante  la  Plataforma  de  Intermediación  de 
+Datos o el servicio oficial que corresponda. Se registrarán finalidad, usuario, fecha y resultado 
+de la consulta, y se permitirá el alta manual si no devuelve resultados. La puesta en producción 
+depende de la habilitación del Ayuntamiento y de las credenciales y accesos concedidos por el 
+Página 17 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 17 de 59 
+
+--- página 18 ---
+titular del servicio; ello no exime de que la funcionalidad esté disponible y se demuestre en un 
+entorno autorizado.
+4.5.2 INTEGRACIÓN OBLIGATORIA CON GESTIONA
+La solución, conforme a los permisos y circuitos habilitados para el Ayuntamiento, deberá 
+permitir desde la aplicación policial crear un expediente en Gestiona o seleccionar uno ya 
+existente; incorporar al expediente documentos procedentes de una actuación policial; iniciar 
+su circuito de validación o firma; consultar su estado y recuperar el documento firmado o el 
+justificante  asociado.  Las  operaciones  estarán  vinculadas  al  identificador  del  expediente, 
+conservarán la trazabilidad y respetarán la habilitación del usuario. El licitador acreditará este 
+flujo extremo a extremo mediante la evidencia E12. La configuración de usuarios, circuitos, 
+certificados y permisos municipales se completará durante la implantación.
+4.5.3 INTEGRACIONES Y PRESTACIONES ADICIONALES VALORABLES
+- Padrón de Gestiona (M1): consulta desde la aplicación policial de personas y domicilios 
+en  el  módulo  de  Padrón  de  habitantes  de  Gestiona,  mediante  sus  interfaces 
+autorizadas,  con  control  de  finalidad,  permisos,  trazabilidad  y  tratamiento  de 
+resultados  múltiples  o  no  coincidentes.  El  conector  deberá  estar  operativo  en  la 
+solución ofertada al finalizar el plazo de presentación de ofertas. No se considerarán 
+equivalentes un archivo interno de personas, un directorio de terceros ni un conector 
+genérico sin acreditar su funcionamiento con el Padrón de Gestiona.
+- Territorio y callejero de Gestiona (M2): consulta desde la aplicación policial de vías, 
+numeración y delimitaciones territoriales mediante una integración operativa con el 
+módulo de territorio y callejero de Gestiona, utilizando sus interfaces autorizadas. La 
+oferta identificará el módulo de destino y acreditará las operaciones de consulta, sus 
+resultados, permisos y trazabilidad. La carga de un callejero interno o su visualización 
+sobre un mapa no acreditan por sí solas esta integración. M1 y M2 son prestaciones 
+independientes, aunque compartan arquitectura técnica.
+- Prestaciones adicionales con Gestiona (mejora M11). Se valorarán por separado, sin 
+ser requisitos de admisión: a) alta desde la solución policial de un asiento de registro 
+municipal relacionado con el expediente, con recuperación del número y la fecha del 
+asiento; b) creación o actualización desde la solución policial de una tarea relacionada 
+con  el expediente, con  consulta  de  su  estado  y  persona  o  unidad  asignada.  Cada 
+prestación respetará los permisos municipales y las interfaces habilitadas por el titular 
+de Gestiona. No se puntuará por M11 crear o seleccionar el expediente, incorporar 
+documentos, iniciar la firma, consultar su estado o recuperar su resultado, que ya 
+forman parte del mínimo obligatorio.
+- Comunicaciones judiciales (M3): integración operativa con LexNET o con el sistema 
+oficial  judicial  que  resulte  aplicable  para  preparar  y  enviar  o  recibir  escritos  y 
+documentos vinculados a diligencias y atestados, mostrando los estados y justificantes 
+Página 18 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 18 de 59 
+
+--- página 19 ---
+de la operación que se oferte. Se respetarán las habilitaciones e interfaces disponibles 
+para  la  Policía  Local.  No  bastará  la  generación  o  exportación  de  archivos  para  su 
+posterior tramitación manual en otra plataforma.
+- Coordinación  de  emergencias  (M4):  integración  operativa  con  el  servicio  de 
+Emergencias 112 de la Región de Murcia para intercambiar, según las habilitaciones 
+del  organismo  competente,  información  de  incidentes,  recursos  o  estados  de 
+actuación, con trazabilidad de la operación ofertada. No se valorarán integraciones 
+exclusivas con servicios de otras comunidades autónomas.
+- Identidad corporativa (M5): federación operativa de la autenticación con Microsoft 
+Entra ID, Active Directory local, mediante el servicio de federación que corresponda, o 
+un proveedor de identidad equivalente compatible con el entorno municipal y basado 
+en protocolos estándar. Permitirá el inicio de sesión con la identidad corporativa, el 
+control centralizado de su autorización o bloqueo y la aplicación de la autenticación 
+multifactor  municipal  en  el  flujo  federado.  La  oferta  identificará  el  proveedor  de 
+identidad,  el  protocolo  y  las  operaciones  demostradas.  Esta  integración  no  es  un 
+requisito mínimo de admisión.
+- Alertas  automáticas  por  reglas  (M10):  configuración  por  personal  autorizado  de 
+condiciones sobre la información de una actuación o servicio policial, selección de 
+destinatarios  permitidos  y  envío  automático  de  un  aviso  cuando  se  cumpla  la 
+condición,  dejando  constancia  del  evento.  Se  demostrará  mediante  un  vídeo  que 
+muestre  la  configuración,  una  actuación  o  servicio  que  active  la  condición  y  la 
+recepción del aviso por un destinatario autorizado. Esta prestación es adicional a las 
+notificaciones básicas y a las alertas por clasificación exigidas en el PPT.
+- Alarma  de  establecimientos:  aplicación  o  interfaz  móvil  accesible  al  personal  de 
+comercios  previamente  habilitados  que  permita  emitir  una  alerta  mediante  botón 
+virtual;  al  recibirla,  la  central  policial  conocerá  la  identidad  y  ubicación  fija  del 
+establecimiento  y  el  motivo  seleccionado  y  se  generará  automáticamente  una 
+actuación en la plataforma policial, con trazabilidad. Se admitirá una aplicación nativa 
+o web adaptativa que cumpla el resultado; se demostrará con un vídeo funcional y 
+datos ficticios.
+- Atención funcional al agente 24 horas al día, todos los días del año (M8): servicio 
+adicional de atención directa por teléfono y chat integrado en la aplicación, ambos 
+atendidos por personas capacitadas para resolver dudas de uso y tramitar incidencias 
+funcionales  durante  todo  ese  horario.  Incluirá  justificante  o  registro  de  las 
+comunicaciones. La oferta acreditará la disponibilidad de los canales y de la cobertura 
+humana  24x365.  El  canal  obligatorio  para  incidencias  críticas  y  el chat  en  horario 
+ordinario no acreditan esta prestación adicional.
+- Centro de operaciones de ciberseguridad integrado en la Red Nacional de SOC (M7): 
+servicio  adicional  para  el  sistema  SaaS  contratado,  propio  o  mediante  tercero 
+Página 19 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 19 de 59 
+
+--- página 20 ---
+vinculado, con vigilancia de eventos y registros, detección y respuesta a incidentes, 
+seguimiento de vulnerabilidades, intercambio de alertas y coordinación con el Servicio 
+de  Informática  municipal.  La  integración  del  SOC  en  la  Red  Nacional  de  SOC  se 
+acreditará mediante constancia oficial del CCN. Se identificarán el prestador, el sistema 
+cubierto  y  los  medios  ya  disponibles  al  finalizar  el  plazo  de  ofertas,  junto  con  el 
+compromiso de cobertura durante el contrato. Si interviene un tercero, se aportará su 
+compromiso vinculante. La certificación ENS ALTA por sí sola no acredita esta mejora.
+- Servicio gestionado de interoperabilidad mediante la Red SARA: prestación durante 
+toda la vigencia del contrato, y sin coste adicional para el Ayuntamiento, del acceso 
+técnico a los servicios de la Administración General del Estado incluidos en el alcance 
+del  contrato  mediante  un  Punto  de  Presencia  de  la  Red  SARA  reconocido  por  la 
+Secretaría General de Administración Digital, propio o proporcionado por una tercera 
+entidad.  Comprenderá  la  provisión  y  el  mantenimiento  de  la  conectividad,  las 
+configuraciones  técnicas  necesarias,  la  coordinación  con  la  SGAD  y  con  los 
+responsables  de  los  servicios  integrados,  la  gestión  técnica  de  las  credenciales  o 
+certificados  necesarios,  la  monitorización  y  la  resolución  de  incidencias.  El 
+Ayuntamiento no deberá desplegar ni operar pasarelas o componentes intermedios en 
+su infraestructura ni someterse a certificaciones técnicas individuales, sin perjuicio de 
+las  autorizaciones,  adhesiones,  consentimientos  o  habilitaciones  que  legalmente 
+correspondan a la entidad. Esta mejora no sustituye ni puntúa de nuevo la integración 
+obligatoria  DGT/PID, sino  que  mejora  su  modelo  de  prestación  y  el de  las  demás 
+integraciones con servicios de la AGE que formen parte de la oferta.
+El Ayuntamiento se encuentra en proceso de implantación del Padrón de Gestiona, que será el 
+destino de M1. La mejora M2 tendrá como destino el módulo de territorio  y callejero de 
+Gestiona. Cada integración se acreditará frente al módulo específico de destino mediante un 
+conector operativo de la solución ofertada.
+Las funcionalidades ofertadas como mejoras deberán existir y estar operativas al finalizar el 
+plazo  de  presentación  de  ofertas  y  se  acreditarán  conforme  al  apartado  15.9.2.  No  se 
+admitirán como acreditación compromisos de desarrollo futuro.
+El adjudicatario configurará y habilitará en el Ayuntamiento las integraciones obligatorias y las 
+mejoras ofertadas durante la fase de implantación, dentro del plazo máximo de tres meses 
+previsto en el apartado  6, y las mantendrá durante la vigencia sin sobrecoste. Cuando una 
+activación  dependa  de  la  puesta  en  servicio  de  un  sistema  municipal,  de  permisos  o  de 
+credenciales que deba facilitar el Ayuntamiento o un tercero, se documentarán la dependencia 
+y las actuaciones realizadas. El conector y la configuración a cargo del adjudicatario deberán 
+quedar  preparados  dentro  del  plazo;  la  activación  pendiente  se  realizará  en  cuanto  se 
+disponga  de  los  requisitos  externos,  conforme  al  plan  aprobado  y  al régimen  contractual 
+aplicable. Estas dependencias no permiten ofertar funcionalidades pendientes de desarrollo ni 
+alteran por sí solas el precio o la duración del contrato.
+Página 20 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 20 de 59 
+
+--- página 21 ---
+4.6 REQUISITOS DE CALIDAD
+Con  el objetivo  de  realizar  un  seguimiento  continuado  de  la  calidad  de  la  prestación  del 
+servicio, el adjudicatario estará obligado a realizar una encuesta anual de satisfacción y control 
+de calidad dirigida al conjunto de usuarios de la plataforma, incluyendo tanto al personal 
+operativo de la Policía Local como al personal técnico del Ayuntamiento de La Unión.
+Los datos obtenidos se entregarán en formato de datos abiertos y deberá poder automatizarse 
+el proceso para que el Ayuntamiento pueda obtener los datasets generados.
+5 FUNCIONALIDADES
+5.1 FUNCIONALIDADES GENÉRICAS
+El sistema propuesto deberá cumplir con las siguientes funcionalidades generales:
+- Ser multiusuario, permitiendo el acceso concurrente de diferentes perfiles de usuario 
+según los permisos definidos por el Ayuntamiento de La Unión.
+- Las funcionalidades que este Pliego identifique expresamente para su utilización en 
+movilidad deberán estar operativas en la solución móvil ofertada para iOS y Android. 
+No se exigirá reproducir en el dispositivo móvil las opciones de administración o las 
+tareas concebidas exclusivamente para el entorno de escritorio, salvo que el Pliego lo 
+indique de manera expresa.
+- Disponer  de  una  herramienta  que  permita  generar  informes  y  guardar  hechos  de 
+manera  sencilla  e  intuitiva,  permitiendo  la  creación  de  informes  individuales  o 
+compartidos  entre  usuarios,  así  como  la  generación  y  reutilización  de  plantillas 
+personalizadas.
+- Incorporar  funcionalidades  básicas  de  edición  (copiar,  pegar,  etc.),  similares  a  las 
+disponibles en entornos Windows.
+- Permitir  la  exportación  de  documentos  en  los  principales  formatos  ofimáticos, 
+incluidos Microsoft Excel, Word y PDF, siempre en sus versiones más actualizadas.
+- La solución permitirá la firma electrónica de los documentos generados mediante los 
+sistemas admitidos por la normativa vigente, incluidos los aplicables al personal al 
+servicio  de  las  Administraciones  Públicas  y,  cuando  proceda,  a  la  actuación 
+administrativa automatizada. Garantizará la autenticidad, integridad y trazabilidad del 
+documento firmado y permitirá  su descarga o remisión a los sistemas municipales 
+habilitados, sin exigir una bandeja o producto concreto.
+- La interfaz del sistema deberá estar disponible, como mínimo, en idioma castellano.
+- Disponer de un sistema interno de avisos y notificaciones, que permita a los usuarios 
+conocer en tiempo real eventos o tareas pendientes, así como la comunicación entre 
+perfiles autorizados.
+Página 21 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 21 de 59 
+
+--- página 22 ---
+5.2 ACCESO A DATOS Y SEGURIDAD
+El software deberá garantizar el cumplimiento de las restricciones de acceso y seguridad que 
+se indican a continuación, sin que ello suponga coste adicional para el Ayuntamiento de La 
+Unión:
+- Permitir la configuración de restricciones por usuario sobre acciones de menú (altas, 
+bajas, consultas, modificaciones, etc.) y sobre el acceso a datos, de acuerdo con los 
+perfiles definidos por la Policía Local o el Servicio de Informática municipal.
+- Disponer de  controles identificativos por usuario, registrando todas las operaciones 
+realizadas en el sistema.
+- Incorporar un  sistema  de  registro  de  accesos  y uso que  permita  la  realización  de 
+auditorías de seguridad y la verificación del cumplimiento de la normativa en materia 
+de  protección  de  datos  personales  y  del  Esquema  Nacional  de  Seguridad  (ENS).
+Dicho  registro  deberá  permitir  conocer  las  consultas,  creaciones,  actualizaciones  y 
+eliminaciones de datos por parte de los usuarios, con distintos niveles de detalle según 
+la configuración establecida.
+- Los registros de actividad y auditoría se gestionarán conforme a las medidas aplicables 
+del ENS en categoría ALTA y estarán disponibles para el Ayuntamiento cuando resulte 
+necesario comprobar accesos, operaciones o incidentes.
+- El  acceso  desde  dispositivos  móviles  requerirá  un  mecanismo  individual  de 
+autorización  y  revocación  controlado  por  el  Ayuntamiento.  Podrá  basarse  en  el 
+registro  del  dispositivo,  certificados,  el  proveedor  de  identidad,  herramientas  de 
+gestión  de  dispositivos  o  cualquier  mecanismo  equivalente  que  cumpla  el  ENS  en 
+categoría ALTA.
+- Implementar un sistema de seguridad basado en perfiles de usuario, administrado por 
+el  personal  autorizado  del  Ayuntamiento  (desde  la  Policía  Local  o  el  Servicio  de 
+Sistemas de Información).
+- El proceso de autenticación garantizará la identificación individual de cada usuario y 
+podrá emplear credenciales gestionadas por la propia solución o por un proveedor 
+externo  de  identidad.  La  solución  permitirá  administrar  altas,  bajas,  bloqueo, 
+recuperación de acceso y permisos sin compartir credenciales. La federación con el 
+sistema corporativo de identidad del Ayuntamiento no será un requisito mínimo y se 
+regirá por la mejora prevista en el apartado 4.5.3.
+- Se exigirá autenticación multifactor para las cuentas administrativas, privilegiadas y de 
+soporte, así como para los accesos desde zonas no controladas, conforme al ENS en 
+categoría ALTA. Este requisito podrá satisfacerse mediante mecanismos propios de la 
+solución o, si se oferta la mejora de identidad corporativa, mediante las políticas del 
+proveedor de identidad municipal.
+Página 22 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 22 de 59 
+
+--- página 23 ---
+- La protección de la información en tránsito y almacenada, incluida la gestión de claves, 
+se ajustará a las medidas aplicables del ENS en categoría ALTA.
+- El sistema controlará el acceso desde dispositivos o sesiones previamente autorizados 
+y garantizará la trazabilidad de las conexiones, sin imponer un mecanismo técnico 
+concreto.
+5.3 FUNCIONALIDADES ESPECÍFICAS
+5.3.1 SERVICIOS
+5.3.1.1 REGISTRO Y ANOTACIÓN DE ACTUACIONES E INTERVENCIONES
+El  sistema  deberá  permitir  el  registro  y  la  anotación  de  las  actuaciones  e  intervenciones 
+policiales, incluyendo, como mínimo:
+- Alta inmediata de la actuación/intervención con campos de fecha y hora, tipología, 
+ubicación, unidad/patrulla y personal interviniente.
+- Vinculación  de  elementos  relacionados  (personas, entidades, vehículos,  animales  y 
+otros registros del archivo).
+- Anotación de novedades e incidencias asociadas a la actuación/intervención.
+- Adjuntar  documentos  y  ficheros  (imágenes,  vídeos  u  otros)  a  la 
+actuación/intervención.
+- Estados de tramitación (abierta, en curso, cerrada) y cierre con resultado.
+- Consulta del histórico con filtros por fechas, tipo, zona y personal interviniente.
+- Generación  de  partes/hojas  de  servicio  e  informes,  con  exportación  a  formatos 
+ofimáticos (.docx, .xlsx, .pdf).
+- Trazabilidad de usuario y acciones sobre cada registro.
+- Representación sobre mapa de las actuaciones/intervenciones registradas.
+- Asignación  de  un  número  único  de  servicio  y  registro  de  hora  de  inicio,  hora  de 
+finalización, prioridad, canal o persona comunicante y cronología completa de hitos.
+- Clasificación por una o varias tipologías configurables, resultado final -realizado, no 
+realizado o anulado- y vinculación con actas, diligencias u otros trámites derivados.
+- Identificación de otros  cuerpos o servicios de emergencia intervinientes, marca de 
+seguimiento pendiente, alertas configurables por clasificación y bloqueo del registro 
+cerrado salvo perfiles autorizados.
+Página 23 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 23 de 59 
+
+--- página 24 ---
+- Consultas  combinadas  y  explotación  mediante  listados,  gráficos  y  distribución 
+territorial por fechas, clases, resultados, zonas y unidades.
+5.3.1.2 SERVICIOS PLANIFICADOS POR JEFATURA (PLANIFICACIONES)
+El sistema deberá permitir la planificación de los servicios por parte de la Jefatura, incluyendo, 
+al menos:
+- Planificación diaria, semanal, mensual y anual de servicios.
+- Definición de tipos de servicio y turnos, con horarios y zonas.
+- Plantillas reutilizables de planificación para servicios recurrentes o campañas.
+- Asignación de personal y vehículos a cada servicio planificado.
+- Control de coincidencias/solapamientos en las asignaciones.
+- Visualización de cuadrantes y exportación (PDF/Excel).
+- Gestión de cambios y sustituciones, con registro de motivo y responsable.
+- Aprobación/validación de planificaciones por los responsables designados.
+- Informes de planificación y cumplimiento e histórico de planificaciones.
+- Alta  rápida  por  intervalo  de  fecha  y  hora,  con  número  o  referencia  de  servicio, 
+resumen, descripción, ubicación y geolocalización.
+- Repetición automática de servicios recurrentes y presentación al personal asignado al 
+inicio de su turno.
+- Cancelación  con  trazabilidad  y  exclusión  de  los  servicios  anulados  de  las  hojas 
+operativas, sin pérdida de su histórico.
+5.3.1.3 TELEALARMAS Y TELEASISTENCIAS
+El sistema deberá contemplar un módulo específico de telealarmas y teleasistencias, con, al 
+menos, las siguientes capacidades:
+- Registro de avisos/activaciones de telealarma o teleasistencia, con identificación del 
+caso, fecha y hora, origen del aviso y localización.
+- Gestión  del  expediente  de  teleasistencia,  con  datos  de  contacto  y  referencia 
+necesarios para la intervención.
+- Clasificación y priorización del aviso, con asignación a patrulla/efectivos y seguimiento 
+de la atención prestada.
+- Anotación de actuaciones realizadas y cierre del aviso con resultado.
+Página 24 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 24 de 59 
+
+--- página 25 ---
+- Histórico de activaciones y consultas por filtros (fechas, tipología, zona, resultado).
+- Informes y estadísticas de telealarmas/teleasistencias.
+- Ficha de la persona usuaria con domicilio, teléfonos, observaciones relevantes para la 
+atención y contactos familiares o de emergencia.
+- Identificación de la entidad o empresa prestadora de asistencia médica o social y de 
+sus datos de contacto, cuando existan.
+5.3.2 ARCHIVO
+El  sistema  deberá  disponer  de  un  módulo  de  archivo  que  permita  registrar,  consultar, 
+relacionar  y  geolocalizar  todas  las  entidades  con  las  que  interactúa  la  Policía  Local  del 
+Ayuntamiento  de  La  Unión,  garantizando  la  integridad,  coherencia  y  trazabilidad  de  la 
+información.
+Deberá incluir, como mínimo, las siguientes funcionalidades:
+A. Personas:
+- Alta, modificación y baja de personas físicas o jurídicas.
+- Registro de datos identificativos básicos: nombre, apellidos o razón social, 
+tipo  y  número  de  documento  (DNI,  NIE,  CIF  o  pasaporte),  dirección, 
+teléfono y observaciones.
+- En las personas físicas se podrán registrar fecha y lugar de nacimiento, 
+nacionalidad y un histórico de domicilios, con acceso restringido conforme 
+a su finalidad.
+- Control de duplicidades.
+- Asociación  de  personas  con  otras  entidades  registradas  (comercios, 
+empresas, vehículos o animales).
+- Consulta del histórico de actuaciones, denuncias o intervenciones en las 
+que haya participado.
+- Posibilidad  de  adjuntar  documentos,  imágenes,  archivos  multimedia  o 
+comprimidos asociados a la persona.
+- Geolocalización de la dirección de la persona en el mapa digital.
+B. Entidades, comercios y empresas:
+- Alta, modificación y baja de registros.
+Página 25 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 25 de 59 
+
+--- página 26 ---
+- Registro  de  datos  de  identificación:  nombre  comercial  o  razón  social, 
+CIF/NIF, domicilio, teléfono, correo electrónico y actividad.
+- Identificación de los responsables o representantes vinculados.
+- Asociación  de  comercios  o  empresas  con  personas,  vehículos  y 
+actuaciones.
+- Registro de licencias, permisos, inspecciones y actuaciones asociadas.
+- Posibilidad  de  adjuntar  documentos,  imágenes,  archivos  multimedia  o 
+comprimidos.
+- Geolocalización del domicilio o ubicación del establecimiento o empresa.
+- La gestión de avisos recibidos de comercios y empresas, cuando exista un 
+canal  municipal  habilitado,  se  realizará  con  control  de  permisos  y 
+trazabilidad. La aplicación específica de alarma para establecimientos del 
+apartado de mejoras es una prestación adicional opcional.
+C. Vehículos:
+- Alta, modificación y baja de vehículos.
+- Registro de datos básicos: matrícula, marca, modelo, color, número de 
+bastidor, titular y observaciones.
+- Registro  del país  de  matriculación, tipo  de  combustible  y  demás  datos 
+obtenidos de la fuente oficial, distinguiendo su procedencia y fecha de 
+consulta.
+- Asociación con personas, entidades o actuaciones.
+- Registro  de  denuncias,  accidentes  o  intervenciones  relacionadas  con  el 
+vehículo.
+- Indicación del estado y localización actual.
+- Posibilidad  de  adjuntar  documentos,  imágenes,  archivos  multimedia  o 
+comprimidos.
+- Geolocalización del vehículo sobre el mapa digital.
+D. Animales:
+- Alta, modificación y baja de animales intervenidos o registrados.
+- Registro  de  datos  identificativos:  especie,  raza,  color,  sexo,  edad, 
+propietario y estado (extraviado, decomisado, entregado, etc.).
+Página 26 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 26 de 59 
+
+--- página 27 ---
+- Registro de microchip u otro identificador, clasificación de peligrosidad, 
+vacunaciones y seguro de responsabilidad civil, cuando proceda.
+- Asociación con personas, actuaciones o denuncias.
+- Posibilidad  de  adjuntar  documentos,  imágenes,  archivos  multimedia  o 
+comprimidos.
+- Geolocalización del animal o del lugar de su hallazgo.
+E. Relaciones entre elementos:
+- Asociación entre personas, entidades, comercios, empresas, vehículos y 
+animales.
+- Consulta de relaciones existentes entre registros.
+- Actualización automática de vínculos al modificar o eliminar registros.
+- Búsqueda combinada por cualquier campo definido en el archivo.
+- Búsqueda  de  relaciones  coincidentes  por  domicilio,  correo  electrónico, 
+teléfono u otros identificadores autorizados.
+- Fusión controlada de registros duplicados, transfiriendo sus relaciones y 
+conservando trazabilidad, usuario, fecha y posibilidad de revisión.
+F. Control y trazabilidad:
+- Registro de todas las modificaciones realizadas sobre los elementos del 
+archivo, incluyendo usuario, fecha, hora y tipo de acción.
+- Consulta del histórico de modificaciones y actuaciones.
+- Mantenimiento  de  la  trazabilidad  completa  de  los  datos  conforme  al 
+Esquema Nacional de Seguridad (ENS).
+5.3.3 TRÁFICO
+El  sistema  dispondrá  de  un  módulo  de  tráfico  y  movilidad  para  gestionar  accidentes, 
+denuncias,  grúa,  depósito,  ocupaciones  de  vía  pública,  vehículos  abandonados  y  vados, 
+integrado funcionalmente con el resto de módulos y con trazabilidad completa. 
+A. Funcionalidades comunes
+- Geolocalización  de  actuaciones  en  mapa  digital  con  visualización  de 
+coordenadas  XY  y  posibilidad  de  ajuste  manual  del  punto  cuando  no 
+coincida exactamente con la ubicación mostrada.
+Página 27 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 27 de 59 
+
+--- página 28 ---
+- Anexado de documentación en formatos ofimáticos e imagen (jpg, png, 
+doc, docx, xls, xlsx, txt, pdf), ficheros  de audio/vídeo  (3gp, avi, mp4) y 
+archivos comprimidos (rar, zip).
+- Listados e informes/estadísticas y, cuando proceda, distribución en mapa 
+por zonas, barrios o distritos.
+B. Accidentes
+- Registro y gestión de accidentes con número automático e inclusión de 
+datos  completos  de  vehículo  siniestrado,  persona  conductora, 
+acompañantes, testigos, peatones y otros implicados, policías actuantes, 
+definición  de  unidades  implicadas  (vehículos,  peatones,  mobiliario, 
+animales,  entidades),  tipo  de  vehículo,  sitio  del  accidente,  causas  y 
+descripción. 
+- Resultados de alcoholemia y drogas, grados de lesión, daños materiales y 
+datos de compañías aseguradoras. 
+- Generación  de  listados  y  estadísticas,  informe  técnico  automático  para 
+juzgados o aseguradoras y mapa digital de siniestralidad. 
+C. Croquis
+- Elaboración de croquis de siniestros, cortes de calle u otras actuaciones 
+mediante  una  herramienta  integrada  en  el  sistema,  de  uso  sencillo, 
+ejecución web HTML5 y posibilidad de cartografía digital con vista aérea o 
+satélite; uso de los mismos formatos de anexos admitidos en el módulo.
+D. Denuncias de tráfico
+- Registro y gestión de infracciones con descarga de datos de denuncias vía 
+API  SW,  numeración  manual  o  automática,  fecha  y  hora,  lugar  de  la 
+infracción,  policías  denunciantes  y  asociación  con  vehículo,  titular  e 
+infractor. 
+- Tipificación con el nomenclátor del RGC y ordenanzas municipales, con 
+herramientas para modificar o añadir articulados. 
+- Listados y estadísticas y distribución de denuncias en el mapa por zonas, 
+barrios o distritos. 
+- Operación in situ desde la solución móvil ofertada en dispositivos iOS y 
+Android, con obtención o introducción de datos, impresión en impresora 
+térmica  mediante  Bluetooth  u  otro  mecanismo  equivalente,  recibo  de 
+cobro, firma electrónica del agente y captura de la firma de la persona 
+denunciada en el dispositivo.
+E. Grúa municipal
+- Soporte al servicio de retirada con registro de datos del vehículo, fecha y 
+hora, lugar de retirada, petición a jefatura o depósito municipal, indicación 
+Página 28 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 28 de 59 
+
+--- página 29 ---
+de si existe coste para el usuario, instrucciones de jefatura y puesto de 
+traslado. 
+- Geolocalización del punto y anexos en los formatos admitidos (comunes 
+del módulo). 
+F. Depósito de vehículos
+- Gestión de pupilaje con datos del vehículo, fecha y hora de retirada o 
+inmovilización, lugar de retirada, ingreso en depósito con indicación de si 
+tiene coste, tipo de servicio (enganche, traslado, destino, inmovilización) y 
+salida de depósito; gestión de plazas de parking del depósito municipal. 
+- Recibo y cálculo automático de tasas según tipo de servicio, tipología del 
+vehículo  y  pupilaje,  con  herramientas  para  modificar  o  añadir  tasas  y 
+bloqueo de retirada cuando proceda paso previo por la Policía Local. 
+- Listados y estadísticas de retiradas o inmovilizaciones, estadísticas de tipos 
+de  infracción  y  recaudación  por  denuncias  y  grúa,  y  distribución  de 
+servicios en el mapa por zonas, barrios o distritos. 
+G. Ocupación de vía pública
+- Registro, gestión y control de cortes y ocupaciones con identificación de 
+titular o responsable (persona física o jurídica), superficie, precio público, 
+periodo y tipo de actividad. 
+- Listados/estadísticas por tipo de ocupación, cálculo automático de tasas y 
+emisión de recibo, identificación de la empresa aseguradora e indicaciones 
+sobre señalización y medidas preventivas; anexos en formatos admitidos 
+(comunes). 
+H. Vehículos abandonados
+- Gestión administrativa como residuos sólidos urbanos con identificación 
+del  vehículo  y  persona  titular,  localización  en  vía  pública  y  detalle  del 
+procedimiento;  datos  de  seguro  e  ITV,  descripción  del  estado  (entero, 
+quemado, siniestro, etc.) y plantillas de documentos del trámite. 
+- Listados/estadísticas,  listado  por  día  de  marcado  como  abandonado  y 
+anulación del abandono cuando el vehículo ya no esté en el lugar. 
+I. Vados
+- Registro de vados particulares, de obras o de salida de emergencia con 
+localización,  titular  de  la  licencia,  superficie,  tipo  de  vado,  fecha  de 
+concesión y/o traspaso y entrega de placa; plantillas de informes técnicos, 
+anexos en formatos admitidos y listados/estadísticas. 
+5.3.4 POLICÍA ADMINISTRATIVA
+A. Funcionalidades comunes
+Página 29 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 29 de 59 
+
+--- página 30 ---
+- Numeración automática de los asientos o actas.
+- Anexado de documentación en formatos ofimáticos e imagen (jpg, png, 
+doc, docx, xls, xlsx, txt, pdf), ficheros  de audio/vídeo  (3gp, avi, mp4) y 
+archivos comprimidos (rar, zip).
+- Generación de listados e informes/estadísticas.
+B. Actos administrativos
+- Registro y anotación de actuaciones con numeración automática del acta e 
+identificación  de  la  persona  infractora  (física  o  jurídica),  agentes 
+denunciantes,  precepto/articulado  infringido  y,  en  su  caso,  sanción 
+económica. 
+- Indicación  de  fecha  y  hora,  lugar  de  la  infracción  y  geolocalización 
+automática en mapa digital interoperable. 
+- Emisión de recibo de cobro cuando proceda sanción económica. 
+- Configuración  por  tipologías  de  acta  y  definición  de  campos 
+personalizados. 
+- Elaboración in situ desde la solución móvil ofertada, con firma electrónica 
+de  los  agentes  mediante  un  sistema  admitido  por  la  normativa  y 
+posibilidad de capturar la firma de la persona interesada, incorporándose 
+el  documento  firmado  al  registro  correspondiente  y  permitiendo  su 
+remisión por correo electrónico cuando proceda.
+- Mantenimiento y actualización de articulados (herramientas para añadir o 
+modificar). 
+- Generación de listados y estadísticas y distribución de levantamientos de 
+actas sobre el mapa por zonas, barrios o distritos. 
+- Enlace operativo con el módulo de novedades para alta de acta desde una 
+actuación, traspasando automáticamente datos como lugar, implicados o 
+policías actuantes. 
+- Incorporación de anexos documentales, multimedia y comprimidos en los 
+formatos admitidos (comunes del bloque). 
+C. Registro de documentos
+- Control de entrada y salida de documentación de Jefatura con numeración 
+automática, fecha de entrada/salida y datos del emisor o remitente. 
+- Listados y estadísticas de emisores y remitentes. 
+- Generación  automática  de  registro  de  entrada  al  cursar  una  citación 
+judicial desde el módulo de citas. 
+Página 30 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 30 de 59 
+
+--- página 31 ---
+- Generación automática de registro de salida al responder a un juzgado 
+sobre el resultado de una citación y por comunicaciones del procedimiento 
+de vehículos abandonados. 
+- Incorporación de anexos documentales, multimedia y comprimidos en los 
+formatos admitidos (comunes del bloque). 
+D. Objetos encontrados
+- Gestión integral de objetos hallados con numeración automática, tipología 
+de objeto, identificación del titular y de la persona o entidad que realiza el 
+hallazgo y entrega, y fechas de hallazgo, devolución al titular y, en su caso, 
+destrucción. 
+- Plantillas documentales para las gestiones de entrega. 
+- Herramientas de configuración de tipos de objeto y campos para indicar si 
+el objeto ha sido sustraído, encontrado o denunciado. 
+- Registro del lugar y geolocalización del hallazgo, depósito y devolución, así 
+como de los intentos de contacto con la persona titular.
+- Listados, estadísticas y representación territorial por tipo, estado, fechas y 
+lugar.
+E. Gestión de contenidos
+- Debe permitir crear directorios virtuales (carpetas y subcarpetas) y poder 
+almacenar  archivos  digitales  más  habituales.  Se  utilizará  para  guardar 
+archivos  de interés  común  y permitir  que  el resto de usuarios  puedan 
+descargárselos sin poder modificar el original, por ejemplo: plantillas de 
+documentos, planes de seguridad u órdenes de servicio.
+5.3.5 POLICÍA JUDICIAL
+El sistema incorporará un módulo de Policía Judicial para gestionar atestados, custodia de 
+personas  detenidas,  citaciones  judiciales,  comunicaciones  e  identificaciones,  con  datos 
+relacionados, documentos, estados y trazabilidad.
+A. Funcionalidades comunes
+- El módulo permitirá anexar ficheros en los formatos ofimáticos habituales 
+(p. ej., jpg, png, doc, docx, xls, xlsx, txt, pdf), así como archivos de voz y 
+vídeo (p. ej., 3gp, avi, mp4) y archivos comprimidos (p. ej., rar, zip).
+- Cuando proceda, la localización de los hechos se mostrará sobre mapa 
+digital  con  coordenadas  XY  y  la  persona  usuaria  podrá  ajustar 
+manualmente el punto de geolocalización si no coincide exactamente con 
+el lugar.
+Página 31 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 31 de 59 
+
+--- página 32 ---
+- El  sistema  facilitará  la  generación  de  listados  y  estadísticas  según  los 
+criterios disponibles en cada submódulo. 
+B. Atestados: El sistema permitirá el registro y anotación de diligencias policiales con, 
+al menos, las siguientes capacidades:
+- Datos  de  los  implicados  (personas,  vehículos  o  entidades)  y  policías 
+actuantes.
+- Tipificación  de  los  hechos,  agrupada  por  naturaleza,  con  listados  y 
+estadísticas basadas en dichas tipificaciones. 
+- Fecha y hora del suceso y numeración automática del atestado. 
+- Localización del suceso con geolocalización automática y posibilidad de 
+desplazamiento manual del punto sobre el mapa cuando sea necesario; 
+visualización de coordenadas XY. 
+- Derivación del atestado a un juzgado o a otra corporación, según proceda. 
+C. Custodia de detenidos: El sistema permitirá gestionar el proceso de custodia desde 
+la entrada en dependencias hasta la puesta en libertad o traslado, registrando:
+- Identificación de la persona detenida, día y hora de entrada y fecha/hora 
+de salida. 
+- Autoridad que ordena el ingreso, policías actuantes y relieves de agentes 
+de custodia. 
+- Incidencias sucedidas durante la estancia y listado de objetos imprimible 
+para adjuntar al atestado, a partir de plantilla. 
+- Generación desde plantillas de la información de derechos, ofrecimiento o 
+prestación de asistencia médica, inventario y entrega de pertenencias y 
+estado de la dependencia o celda.
+- Registro  cronológico  de  entradas,  salidas,  relevos,  incidencias,  visitas  y 
+traslados, con identificación del personal actuante.
+- Anexado  de  documentos  y  ficheros  en  los  formatos  indicados  en  los 
+requisitos comunes. 
+D. Citaciones judiciales y otras comunicaciones: El sistema contemplará la gestión de 
+citaciones/comunicaciones con las siguientes funcionalidades:
+- Numeración  automática  del  registro  de  entrada  o  salida,  con  fecha 
+correspondiente y datos de emisor/remitente. 
+- Generación automática de registro de entrada al registrar una cita judicial 
+y de registro de salida al responder al juzgado sobre su resultado. 
+- Generación  automática  de  registro  de  salida  para  comunicaciones  de 
+procedimiento tramitadas, cuando proceda. 
+Página 32 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 32 de 59 
+
+--- página 33 ---
+- Listados y estadísticas por emisores/remitentes y anexado de documentos 
+en los formatos admitidos por el sistema. 
+- Datos de la persona destinataria, órgano judicial emisor, procedimiento, 
+fecha y hora de comparecencia, lugar y resultado de la notificación.
+- Plantillas  y  actuaciones  de  entrega,  intento,  imposibilidad,  devolución, 
+suspensión o cambio de fecha, conservando justificantes.
+- Replicación  de  una  comunicación  para  varios  destinatarios  sin  volver  a 
+introducir los datos comunes, con individualización de cada resultado.
+- Visualización  de  citaciones  del  personal  en  su  agenda  y  cuadrante, 
+inclusión en la hoja diaria de servicio y avisos a las personas afectadas.
+5.3.6 RECURSOS HUMANOS
+A. Funcionalidades comunes
+- Anexado de documentación en formatos ofimáticos e imagen (jpg, png, 
+doc, docx, xls, xlsx, txt, pdf), así como ficheros de audio y vídeo (3gp, avi, 
+mp4) y archivos comprimidos (rar, zip). 
+- Generación de listados e informes y estadísticas según necesidades, con 
+totalizados  y  filtros  por  periodos,  secciones,  graduaciones,  unidades  u 
+otros criterios definidos. 
+B. Personal
+- Base de datos de efectivos para recoger los datos de agentes y personal 
+administrativo adscrito a Jefatura, incluyendo datos personales, sección de 
+destino  o  grupo  de  trabajo,  número  de  carné  profesional,  graduación, 
+datos  del  permiso  de  conducir  con  avisos  automáticos  de  caducidad, 
+anotaciones de incidencias en expediente personal y fotografía del agente 
+o administrativo. 
+- Mantenimiento de registro histórico de personal no activo en el cuerpo; 
+registro  de  cursos  de  formación,  de  medallas  y/o  felicitaciones,  y  del 
+registro digital de firma del agente para su inserción automática en boletos 
+de denuncias o actas. 
+- Herramientas  para  configurar  secciones  de  destino  y  graduaciones; 
+listados y estadísticas de personal. 
+C. Licencias y ausencias
+- Gestión  de incidencias del personal administrando todas  las licencias y 
+ausencias para mantener actualizado el cuadrante: día o período, motivo, 
+fecha de petición/anotación, resultado (aprobado, denegado, anulado) y 
+diferenciación entre jornada completa o parte de la jornada; identificación 
+Página 33 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 33 de 59 
+
+--- página 34 ---
+del  solicitante  y  de  la  persona  autorizada  que  aprueba  o  deniega; 
+herramientas para la configuración de licencias establecidas por convenio. 
+- Acceso del personal a la consulta de sus propias incidencias y a la solicitud 
+de  licencias  o  permisos;  acceso  al cómputo  de  horas  sobrantes  y  a  la 
+información sobre el cobro de trabajos extraordinarios. 
+- Listados y estadísticas según necesidades. 
+- Funcionalidades  de  operación  por  parte  de  los  propios  agentes  desde 
+cualquier  terminal  fijo  o  desde  la  solución  móvil  ofertada,  tramitando 
+peticiones  sin  necesidad  de  documentos  físicos.  Cuando  se  realiza  una 
+petición, queda registrada en el calendario laboral del agente con el turno 
+y  horario  de  ese  día;  obligación  de  justificar  el  motivo  en  caso  de 
+denegación;  visualización  automática  de  ausencias  en  el  módulo  de 
+Cuadrante  de  servicio;  autorización  de  peticiones  por  los  mandos 
+responsables  también  desde  la  solución  móvil.  (Incluye  anexos  en  los 
+formatos comunes del módulo).
+D. Trabajos extraordinarios (horas extra)
+- Gestión  de  horas  extras  del  servicio,  facilitando  y  automatizando  la 
+búsqueda de agentes para necesidades del servicio: fecha de realización; 
+hora de inicio y fin; interpretación de turnos extraordinarios con precios y 
+penosidades; motivo; fecha de petición/anotación; resultado (aprobado, 
+denegado,  realizado,  no  realizado,  anulado);  cálculo  automático  del 
+importe  cuando  la  contraprestación  sea  económica;  identificación  del 
+solicitante  y  de  la  persona  autorizada  que  aprueba  o  deniega; 
+herramientas  para  configurar  tipos  de  trabajos  extraordinarios  según 
+categoría profesional. 
+- Posibilidad  de  compensación  económica  o  en  horas  a  recuperar  sin 
+duplicar la publicación de servicios extraordinarios; el agente, al apuntarse, 
+puede decidir la modalidad. Generación de listados y estadísticas. 
+- Consulta por agentes  desde  cualquier terminal fijo  o  desde  la solución 
+móvil ofertada y tramitación sin documentos físicos; registro automático 
+en  el  calendario  laboral  del  turno  u  horario  asociado;  visualización 
+automática  en  el Cuadrante de servicio; autorización  de peticiones por 
+mandos desde la solución móvil; anexos en formatos comunes.
+E. Cuadrantes de servicio
+- Gestión informatizada del calendario laboral del personal de Jefatura, con 
+generación o modificación ágil del cuadrante de servicio global anual por 
+agente o mando, por turnos y por semanas, así como otras distribuciones 
+Página 34 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 34 de 59 
+
+--- página 35 ---
+operativas (destinos) y servicios extraordinarios. La gestión de cuadrantes 
+se limita a un perfil de usuarios determinado. 
+- Acceso y modificación con visualización diaria, semanal, mensual o anual, 
+filtrable  por  fechas,  por  personal  (selección  múltiple)  y  por  turno; 
+posibilidad de consulta por agentes y actualización cuando se validen o 
+autoricen cambios por responsables.
+- Disponibilidad de la información completa del personal disponible en cada 
+jornada, cómputo de horas anuales trabajadas, herramientas para definir 
+turnos,  horarios  y  horas  anuales,  listados  y  estadísticas  de  efectivos 
+disponibles y totalizados por Sección, graduación y unidad. 
+- Vinculación con otros módulos para mostrar en el calendario laboral hitos 
+procedentes de la operativa (p. ej., citas a juicio con día, hora y lugar). 
+F. Comunicaciones internas
+- Sistema de mensajería interna para mandos, con icono de recepción de 
+nuevo mensaje al iniciar sesión; envío individual o a grupos (secciones, 
+graduaciones, etc.); confirmación de lectura; solicitud de respuesta (Sí/No) 
+y período de visualización configurable. 
+G. Pluses
+- Configuración  de  situaciones  específicas  que  deriven  en  complementos 
+económicos: número de carné profesional, definición del plus e importe; 
+listados  con  cálculo  automático  del  personal  que  cumple  requisitos; 
+herramientas para configuración y modificación de pluses; exportación de 
+listados con los días que corresponden a cada plus por periodos de fechas; 
+generación de listados y estadísticas. 
+H. Cambios de turno
+- Peticiones  de  cambio  de  turno  entre  compañeros,  operativas  desde 
+cualquier terminal fijo o desde la solución móvil ofertada, con autorización 
+por  mandos  también  desde  un  dispositivo  móvil;  fecha  o  período  del 
+cambio; tipo unilateral o bilateral; resultado; identificación de las personas 
+solicitante y autorizante; generación de listados y estadísticas.
+I. Ajustes horarios
+- Carga automática en el cuadrante actual de horas procedentes del año 
+anterior (a favor o en contra); inserción manual de exceso horario positivo 
+o negativo a los agentes cuando sea necesario. 
+J. Servicios mínimos
+Página 35 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 35 de 59 
+
+--- página 36 ---
+- Definición  de  graduación,  turno,  día  de  la  semana  y  días  específicos 
+(Nochevieja, Navidad, etc.) con cantidad efectiva necesaria combinando 
+dichos  campos; vinculación  con  el módulo  Cuadrante  para  visualizar  el 
+personal disponible en relación con los servicios mínimos. 
+5.3.7 RECURSOS MATERIALES
+A. Funcionalidades comunes del módulo
+- Anexado de archivos en formatos ofimáticos e imagen (jpg, png, doc, docx, 
+xls, xlsx, txt, pdf), ficheros de audio  y vídeo (3gp, avi, mp4) y archivos 
+comprimidos (rar, zip). 
+- Generación de listados e informes y estadísticas según necesidades. 
+B. Gestión de armas
+- Registro y gestión de armas y guías asignadas a agentes y en depósito, con 
+anotación de prácticas de tiro, munición y exámenes psicotécnicos. 
+- Registro de armas de uso particular de los agentes, de armas en depósito 
+(no asignadas) y de armas para prácticas de tiro. 
+- Histórico de designación de armas reglamentarias en los agentes y número 
+de armero. 
+- Campos de identificación y control: carné profesional, tipo de arma, marca, 
+calibre, guía/número de identificación del arma, destino del arma, estado 
+del arma y munición. 
+- Datos asociados al agente: prácticas y pruebas psicotécnicas. 
+- Herramientas para definir calibres, marcas de armas y armeros. 
+- Emisión de listados informativos para la Guardia Civil. 
+C. Gestión  de  uniformidad, material o  vestuario:  Gestión  de la uniformidad y del 
+equipamiento profesional entregado a los agentes, incluyendo policía destinatario, 
+fecha de entrega, tipo de material, talla (si procede), valoración económica del 
+material y fecha de devolución. 
+- Herramientas para definir tipos de material, listados de material entregado 
+y/o devuelto y estadísticas. 
+- Anexado de archivos en los formatos admitidos por el módulo. 
+D. Vehículos policiales:  Control de los vehículos del parque móvil con identificación 
+del vehículo, kilometraje realizado en cada turno de trabajo, repostaje de gasolina, 
+reparaciones y mantenimiento. 
+- Inventario  del  material  existente  en  cada  vehículo  e  identificación  del 
+agente que realiza las anotaciones. 
+Página 36 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 36 de 59 
+
+--- página 37 ---
+- Herramientas para definir el inventario existente en vehículos y listados de 
+las anotaciones realizadas. 
+- Anexado de archivos en los formatos admitidos por el módulo. 
+5.3.8 REPRESENTACIÓN GRÁFICA Y GEOLOCALIZACIÓN
+- Disponer de herramientas específicas para representar los datos en el territorio, con 
+uso intuitivo y capacidad para confeccionar cualquier representación de datos sobre 
+un mapa digital. 
+- Conservar las localizaciones de las actuaciones registradas en los módulos de Servicios, 
+Archivo,  Tráfico,  Policía  Judicial  y  Policía  Administrativa,  de  modo  que  puedan 
+visualizarse y explotarse sobre el mapa. 
+- Permitir  que  todas  las  direcciones  generadas  por  el  sistema  se  geolocalicen  con 
+coordenadas geográficas WGS84 en latitud y longitud. 
+- Habilitar filtros y segmentaciones sobre los datos y sus geolocalizaciones utilizando 
+criterios  como  períodos  entre  fechas  o  hechos  de  una  naturaleza  o  clasificación 
+determinada. 
+- Representar  y  mantener  zonas,  barrios,  distritos  u  otras  divisiones  territoriales 
+suministradas por el Ayuntamiento.
+- Permitir que el usuario autorizado dibuje un perímetro libre sobre el mapa y localice 
+dentro de él los registros georreferenciados.
+- Generar listados y estadísticas a partir de una zona, perímetro, intervalo temporal y 
+clasificación seleccionados.
+5.3.9 HERRAMIENTAS DEL SISTEMA
+A. Opciones reservadas a perfil administrador: Disponibilidad exclusiva de las opciones de 
+configuración para las personas con perfil administrador de la aplicación. 
+- Configuración de menús desplegables de la aplicación. 
+- Establecimiento y mantenimiento de perfiles de usuarios. 
+- Fiscalización y control de accesos de usuarios. 
+B. Gestión de permisos y niveles de acceso:  Asignación por persona autorizada de los 
+niveles de acceso a la información para cada módulo: solo lectura, lectura y escritura, 
+permisos para generación de listados y estadísticas, y posibilidad de restricción de 
+acceso a módulos. 
+C. Cuentas de usuario y bloqueo de accesos
+- Disposición de una cuenta individual para cada persona usuaria de la Policía Local, 
+mediante  credenciales  propias  de  la  solución  o  de  un  proveedor de  identidad 
+autorizado, sin cuentas genéricas o compartidas.
+Página 37 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 37 de 59 
+
+--- página 38 ---
+- Aplicación  de  medidas  configurables  frente  a  intentos  reiterados  de  acceso 
+fallidos, como bloqueo temporal, limitación de intentos o controles equivalentes. 
+Cuando se utilice un proveedor externo de identidad, se admitirán sus políticas de 
+protección frente a ataques de fuerza bruta.
+5.3.10 PORTAL DEL AGENTE
+- Permitirá la solicitud por los agentes de cambios de turno, permisos y comunicación de 
+incidencias de personal desde el propio portal. 
+- Workflow de aprobación por los mandos correspondientes, con hasta dos niveles de 
+validación, y notificación del resultado (aprobación o rechazo) en el portal y por correo 
+electrónico al interesado. 
+- Convocatoria de servicios extraordinarios por Jefatura a través del portal; los agentes 
+manifiestan su disponibilidad y eligen entre cobro de horas o acumulación en bolsa de 
+descanso, quedando la confirmación a cargo de Jefatura. 
+- Integración  con  los  cuadrantes  para  que  las  confirmaciones  de  servicios 
+extraordinarios se incorporen como recursos operativos en los turnos de trabajo. 
+- Control posterior de los servicios prestados y extracción/integración de la información 
+generada.
+5.3.11 OTRAS FUNCIONALIDADES
+El sistema incorporará un buscador único con acceso a toda la información almacenada en las 
+bases de datos. Deberá ser ágil y eficiente, mostrando la máxima información posible con una 
+interacción sencilla. Este buscador permitirá localizar registros a partir de cualquiera de los 
+siguientes  datos:  nombre  y/o  apellidos  y/o  alias  (de  persona  o  entidad),  documento 
+identificativo  (DNI  u  otro),  matrícula/Marca/Modelo  de  vehículo,  números  de  teléfono, 
+direcciones postales y direcciones de correo electrónico.
+Los resultados permitirán acceder al registro de origen y consultar sus relaciones con personas, 
+vehículos, entidades, actuaciones y documentos, respetando los permisos del usuario.
+Las pantallas de consulta permitirán combinar filtros, guardar consultas autorizadas y exportar 
+los resultados a formatos abiertos u ofimáticos.
+La solución permitirá generar documentos desde plantillas utilizando los campos autorizados 
+de  los  módulos,  y  mantener  un  catálogo  inicial  de  plantillas  policiales  ampliable  por  el 
+Ayuntamiento.
+La  interfaz  podrá  personalizarse  con  la  identidad  visual  municipal  sin  afectar  a  las 
+actualizaciones del producto.
+Página 38 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 38 de 59 
+
+--- página 39 ---
+La  solución  incorporará  mecanismos  de  captura  asistida  -como  lectura  de  documentos  o 
+matrículas y dictado- en los procesos en los que estén disponibles, con validación humana 
+antes de guardar la información.
+Cuando se utilicen credenciales locales, existirá un procedimiento seguro de recuperación de 
+acceso. Los usuarios dispondrán de agenda o calendario accesible desde la plataforma web y 
+desde la solución móvil ofertada.
+6 PLANIFICACIÓN E IMPLANTACIÓN
+El adjudicatario ejecutará un Plan de implantación aprobado por el Ayuntamiento que integre 
+formación, despliegue, parametrización, migración, integración obligatoria, pruebas, arranque 
+y acompañamiento inicial. El plan incluirá tareas, responsables, dependencias, entregables, 
+riesgos y criterios de aceptación dentro del plazo máximo de tres (3) meses desde el acta de 
+inicio.
+La puesta en servicio se formalizará cuando la aplicación, los módulos esenciales, la seguridad, 
+la  integración  obligatoria,  la  formación  inicial  y  la  información  mínima  necesaria  hayan 
+superado las pruebas de aceptación. La carga o validación pendiente de datos históricos no 
+impedirá la puesta en servicio cuando se mantenga la continuidad operativa.
+- Desde la puesta en servicio serán exigibles las obligaciones de explotación, soporte, 
+mantenimiento, seguridad y nivel de servicio.
+- El acta de inicio se suscribirá tras la formalización y antes de comenzar los trabajos. Su 
+fecha  marcará  el  comienzo  de  todos  los  plazos  contractuales  y  no  quedará 
+condicionada a la extracción, migración o validación de los datos del sistema anterior.
+La migración seguirá el calendario del plan aprobado y se cerrará mediante su acta específica 
+de conformidad. Las incidencias del sistema de origen no suspenderán ni ampliarán por sí solas 
+la duración total; cualquier ajuste se tramitará conforme al PCAP y a la LCSP.
+Plan de formación. El licitador detallará la planificación, el número de horas, el programa y los 
+contenidos de la formación, e indicará el funcionamiento de la formación continuada en línea y 
+del  servicio  de  consultoría  post-implantación.  La  formación  inicial  incluirá  sesiones 
+presenciales  o  telemáticas  diferenciadas  por  perfiles  (administración  del  sistema  y  uso 
+operativo), con entrega de documentación y manuales electrónicos. Todas las actuaciones de 
+formación inicial deberán quedar completadas dentro del plazo de implantación y sin coste 
+adicional. La formación continua se prestará durante la vigencia del contrato conforme al 
+apartado 4.2.2.
+Plan evolutivo y de actualización. El licitador describirá la política de versiones, seguridad y 
+adaptación normativa de la solución y aportará una previsión de evolución a un año. Esta 
+información no obligará al Ayuntamiento a aceptar prestaciones ajenas al objeto ni generará 
+desarrollos indefinidos; sí serán exigibles las actualizaciones generales comprometidas para la 
+versión contratada.
+Página 39 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 39 de 59 
+
+--- página 40 ---
+Plan  de  ejecución  del  proyecto.  El  licitador  presentará  metodología,  tareas,  hitos, 
+dependencias, cronograma, dedicaciones y perfiles asignados. El Ayuntamiento podrá dividir la 
+implantación en hitos y aprobar ajustes justificados que no alteren el alcance, el precio ni la 
+fecha final, salvo acuerdo adoptado conforme a la LCSP.
+Coordinación y ventanas de mantenimiento. Las paradas programadas y cambios de versión se 
+consensuarán con el Servicio de Informática para minimizar el impacto y comunicarán con 
+antelación a los usuarios. El adjudicatario establecerá procedimientos de comunicación de 
+incidencias  (teléfono,  correo  o  portal  web)  y  designará  un  responsable  técnico  de 
+mantenimiento e incidencias, con datos de contacto identificados. Asimismo, se atenderán 
+consultas de operatoria y explotación por vía telefónica, telemática o presencial.
+Durante  la  implantación  se  ejecutarán,  como  mínimo,  la  parametrización  funcional,  la 
+migración  con  el  alcance  del  apartado  4.4,  las  integraciones  obligatorias  con  Gestiona  y 
+DGT/PID, la formación inicial y las pruebas de interoperabilidad, rendimiento y seguridad. 
+También se configurarán y habilitarán las mejoras ofertadas, con el régimen de dependencias 
+externas previsto en el apartado 4.5.3. La implantación no comprenderá el desarrollo futuro de 
+las funcionalidades utilizadas para obtener puntuación.
+7 DURACIÓN DEL CONTRATO
+La duración total del contrato será de cuatro (4) años desde la fecha del acta de inicio, prevista  
+inicialmente para el 1 de enero de 2027, e incluirá la implantación, de hasta tres (3) meses, y la  
+posterior explotación. No se prevé prórroga. La puesta en servicio y la conformidad de la 
+migración no reiniciarán ni ampliarán el plazo. Si el acta de inicio se formalizara en una fecha 
+distinta, se adaptará la distribución plurianual de la financiación sin alterar la duración total ni 
+el  presupuesto  máximo.  Las  suspensiones,  ampliaciones  y  modificaciones  se  regirán 
+exclusivamente por la LCSP y el PCAP.
+Durante toda la vigencia, el adjudicatario mantendrá las obligaciones de servicio, soporte y 
+mantenimiento definidas en el Pliego, incluyendo el mantenimiento correctivo, evolutivo y 
+perfectivo, la atención por los canales establecidos y la gestión de ventanas de mantenimiento 
+consensuadas con el Ayuntamiento.
+8 PRESUPUESTO DEL CONTRATO
+El presupuesto base de licitación asciende a 65.340,00 euros, IVA incluido, para los cuatro (4) 
+años de duración total. Su importe sin IVA es de 54.000,00 euros y la cuota de IVA al 21 %  
+asciende a 11.340,00 euros. Comprende la implantación, el derecho de uso, la migración, las 
+integraciones obligatorias, la formación, la explotación, el soporte, el mantenimiento y las 
+demás prestaciones exigidas.
+La  distribución  por ejercicios  parte  de  la  fecha  prevista  de  inicio  indicada  en  el apartado 
+anterior.  En  caso  de  variación,  se  reajustarán  las  anualidades  conforme  a  la  normativa 
+presupuestaria y al PCAP, sin incrementar el presupuesto base de licitación.
+Página 40 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 40 de 59 
+
+--- página 41 ---
+Ejercicio Importe (sin IVA) IVA (21 %) Importe total
+2027 13.500,00 € 2.835,00 € 16.335,00 €
+2028 13.500,00 € 2.835,00 € 16.335,00 €
+2029 13.500,00 € 2.835,00 € 16.335,00 €
+2030 13.500,00 € 2.835,00 € 16.335,00 €
+TOTAL 54.000,00 € 11.340,00 € 65.340,00 €
+El  precio  comprenderá  todos  los  costes  directos  e  indirectos  necesarios  para  ejecutar  el 
+contrato,  incluidas  licencias  propias  o  de  terceros,  desplazamientos,  infraestructura, 
+almacenamiento, comunicaciones, certificados, pruebas, exportaciones y reversibilidad. Solo 
+podrán generar coste adicional las prestaciones no incluidas que se tramiten conforme a la 
+LCSP y al PCAP.
+9 SOPORTE Y MANTENIMIENTO
+9.1 SERVICIO DE SOPORTE Y MANTENIMIENTO INTEGRAL
+El adjudicatario mantendrá el correcto funcionamiento del servicio durante toda la vigencia, 
+sin costes distintos del precio adjudicado, y corregirá los errores de programa, configuración o 
+funcionalidad imputables a la solución.
+Durante  la  vigencia,  el  adjudicatario  aplicará  las  actualizaciones  de  seguridad  y  las 
+adaptaciones  normativas  que  afecten  a  las  prestaciones  contratadas  dentro  de  un  plazo 
+compatible con su entrada  en vigor.  También suministrará  las  mejoras  que  incorpore con 
+carácter general a la versión contratada.
+El adjudicatario responderá de la pérdida, alteración o indisponibilidad de información que le 
+sea imputable durante la vigencia, sin perjuicio de la responsabilidad y de las obligaciones de 
+restitución, indemnización o subsanación previstas en el PCAP y en la normativa aplicable.
+La conformidad de la implantación y la puesta en servicio se documentará mediante acta, sin 
+perjuicio  del  acta  específica  de  migración  y  de  la  recepción  del  contrato  al  finalizar  su 
+ejecución. La prestación SaaS continuará sometida durante toda la vigencia a las obligaciones 
+de  soporte,  seguridad  y  mantenimiento,  sin  que  la  puesta  en  servicio  convalide  defectos 
+ocultos o incumplimientos posteriores.
+El soporte y mantenimiento integral debe realizar la asistencia técnica, incluyendo:
+- Las consultas y dudas en el uso diario del software por parte de las personas usuarias 
+del sistema.
+- El soporte ordinario atenderá consultas funcionales y técnicas por teléfono, correo 
+electrónico y chat integrado en la aplicación, dentro del horario indicado. El portal de 
+Página 41 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 41 de 59 
+
+--- página 42 ---
+soporte podrá habilitarse como canal adicional. Existirá un canal específico disponible 
+24x365 para comunicar incidencias críticas. El acceso remoto solo se realizará  con 
+autorización, sesión controlada y registro de las actuaciones.
+- Las posibles incidencias técnicas generadas por el propio sistema.
+- Todas las nuevas versiones y actualizaciones del software.
+El soporte y mantenimiento integral llevará a cabo los correspondientes mantenimientos:
+- Correctivos  :  Son  aquellos  cambios  precisos  para  corregir  errores  del  producto 
+software,  incluyendo  la  recuperación  de  datos  erróneos  generados  por  el  mal 
+funcionamiento de la aplicación.
+- Evolutivos: Las mejoras y adaptaciones que se incorporen con carácter general a la 
+versión  contratada,  así  como  las  actualizaciones  normativas  comprendidas  en  el 
+alcance. Los desarrollos específicos no previstos en el PPT se regirán por el PCAP y la 
+LCSP.
+- Perfectivos  : Aquellas acciones llevadas a cabo para mejorar la calidad interna de las 
+aplicaciones suministradas en cualquiera de sus aspectos: reestructuración del código, 
+definición más clara del sistema y optimización del rendimiento y eficiencia.
+El centro de soporte ordinario estará disponible, como mínimo, de 08:00 a 15:00 horas, de 
+lunes a viernes laborables en La Unión, por teléfono, correo electrónico y chat integrado en la  
+aplicación, sin perjuicio de otros canales adicionales. El canal de incidencias críticas estará 
+disponible 24x365 y permitirá obtener justificante de fecha, hora, identificador y prioridad. La 
+atención  funcional  humana  por  teléfono  y  chat  integrado  fuera  del  horario  ordinario 
+únicamente será exigible con la cobertura 24x365 cuando se oferte la mejora M8, sin perjuicio  
+de la atención obligatoria de incidencias críticas y de sus niveles de servicio.
+El Ayuntamiento designará un responsable funcional y un responsable técnico del contrato y 
+serán las personas que centralizarán la interlocución principal con el soporte a usuarios del 
+adjudicatario. Será necesario que el adjudicatario designe un responsable técnico del sistema 
+de  mantenimiento  integral  y  resolución  de  incidencias  con  el  objetivo  de  realizar  el 
+seguimiento  de  las  incidencias  que  se  reporten  indicando  su  nombre,  cargo,  teléfono  de 
+contacto y e-mail.
+En caso de que sea necesario paradas del servicio programadas, será necesario consensuarlas 
+con el ayuntamiento para que se pueda prever que tengan el mínimo impacto, así como ser 
+comunicadas con antelación a las personas usuarias afectadas.
+Por el cambio en las versiones, ya sea de módulos específicos, herramientas auxiliares, o del 
+núcleo  del  sistema  informático,  será  necesario  planificarlas  adecuadamente  con  el 
+ayuntamiento para evaluar su impacto, y prever la necesidad de formación, pruebas u otros 
+factores.
+Asimismo, deberán atenderse consultas sobre operatoria y la explotación de las aplicaciones, 
+ya sea vía telefónica, vía telemática o asistencia presencial, por los aspectos tanto de tipo 
+conceptual como de tipo informático.
+Página 42 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 42 de 59 
+
+--- página 43 ---
+9.2 INCIDENCIAS Y TIEMPO DE RESPUESTA Y RESOLUCIÓN
+Entendemos por incidencia cualquier evento que no forma parte de la operación estándar de 
+la  aplicación  y  que  causa,  o  puede  causar  una  interrupción,  o  una  reducción  de  las  
+funcionalidades de esta. Se encuentran igualmente comprendidos en esta definición aquellos 
+comportamientos de la aplicación que, aunque formando parte de la operativa normal del 
+programa,  ocasionan  comportamientos  de  este  no  compatibles  con  el  funcionamiento 
+operativo requerido y que requiere al menos una intervención de mantenimiento de entre las 
+definidas anteriormente.
+- Incidencias críticas:   Se trata de incidencias que afectan a la operativa de la aplicación 
+de forma que impida la continuación del trabajo normal con la misma, afectando al 
+servicio y al ejercicio de sus funciones.
+- Consultas por chat: consultas funcionales realizadas dentro del horario ordinario de 
+soporte. Si comunican una indisponibilidad crítica, se reclasificarán y gestionarán por el 
+canal 24x365.
+- Tiempo  de  respuesta:   Tiempo  máximo  transcurrido  desde  que  se  comunica  a  la 
+empresa suministradora la existencia de una incidencia hasta que la citada empresa 
+comienza a trabajar para su resolución.
+- Tiempo  de  resolución:   Tiempo  máximo  transcurrido  desde  que  se  comunica  a  la 
+empresa  suministradora  la  existencia  de  una  incidencia  hasta  que  dicha  empresa 
+facilita  una  solución  temporal  que  resuelva  provisionalmente  el  problema  o  una 
+solución  definitiva  al  mismo.  Una  incidencia  crítica  resuelta  temporalmente,  se 
+convierte en una incidencia no crítica, a efectos de los Acuerdos de Nivel de Servicio.
+Se establecen con las definiciones anteriores los siguientes Acuerdos de Nivel de Servicio (SLA) 
+mínimos:
+- Incidencias críticas:
+o Tiempo máximo de respuesta: una (1) hora.
+o Tiempo máximo de resolución: cuatro (4) horas.
+- Incidencias no críticas:
+o Tiempo máximo de respuesta: cuatro (4) horas.
+o Tiempo máximo de resolución: un (1) día hábil.
+- Consultas por chat:
+o Tiempo máximo de primera respuesta por chat: dos (2) minutos dentro del 
+horario ordinario.
+o Tiempo máximo para solución o alternativa operativa: cuatro (4) horas.
+Página 43 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 43 de 59 
+
+--- página 44 ---
+Para efectuar labores de mantenimiento programado, la empresa deberá coordinarse con el 
+Servicio  de  Informática  del  Ayuntamiento  para  acordar  el  mecanismo  y  la  ventana  de 
+mantenimiento más adecuados y minimizar el impacto en el servicio.
+El adjudicatario mantendrá los canales obligatorios de soporte ordinario y el canal específico 
+de incidencias críticas establecidos en el apartado 9.1. El procedimiento de comunicación y 
+registro de incidencias permitirá aplicar los tiempos de respuesta y resolución previstos en 
+este apartado.
+Será  necesario  que  el  adjudicatario  designe  un  responsable  técnico  del  sistema  de 
+mantenimiento integral y resolución de incidencias con el objetivo de realizar el seguimiento 
+de las incidencias que se reporten indicando su nombre, cargo, teléfono de contacto, y e-mail.
+Asimismo,  se  tendrán  que  atender  consultas  sobre  operatoria  y  la  explotación  de  las 
+aplicaciones, ya sea por vía telefónica, vía telemática o asistencia presencial, por los aspectos 
+tanto de tipo conceptual como de tipo informático.
+9.3 SEGUIMIENTO DE LOS NIVELES DE SERVICIO
+El adjudicatario registrará cada incidencia, su clasificación, el momento de comunicación, la 
+primera respuesta, las actuaciones realizadas y el momento de restablecimiento o de entrega 
+de  una  alternativa  operativa.  Facilitará  estos  registros  y  la  información  necesaria  para 
+comprobar el cumplimiento de los niveles de servicio cuando se lo solicite el Ayuntamiento.
+Cada período completo adicional de cuatro (4) horas que transcurra sin solución definitiva o 
+alternativa operativa computará como un incumplimiento adicional. Así, una incidencia crítica 
+resuelta transcurridas más de ocho y hasta doce horas desde su comunicación computará 
+como dos incumplimientos.
+10 TITULARIDAD Y CONTROL DE LA INFORMACIÓN
+El Ayuntamiento conservará el control de la información generada, incorporada o tratada por 
+la aplicación, incluidos los datos, metadatos, documentos, evidencias multimedia, registros de 
+actividad  y  copias.  La  adjudicataria  no  adquirirá  derechos  de  explotación  sobre  esta 
+información y tratará los datos personales por cuenta del Ayuntamiento en los términos que 
+se formalicen. Aplicará la Ley Orgánica 7/2021 a los tratamientos policiales incluidos en su 
+ámbito  y  el  RGPD  y  la  Ley  Orgánica  3/2018  a  los  restantes  tratamientos,  siguiendo  las 
+instrucciones documentadas que correspondan.
+La adjudicataria garantizará que el alojamiento, los accesos de soporte o administración, los 
+subencargados y, en su caso, las transferencias internacionales cumplan el ENS en categoría 
+ALTA y la normativa de protección de datos aplicable. Comunicará los cambios relevantes y 
+facilitará al Ayuntamiento la información necesaria en los términos del PCAP.
+El  Ayuntamiento  conservará  el  control  y  dispondrá,  cuando  lo  solicite,  de  exportaciones 
+completas o parciales en formatos estándares y abiertos, junto con esquemas, relaciones, 
+metadatos,  documentos,  registros  de  auditoría  y  diccionario  de  datos.  Las  exportaciones 
+Página 44 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 44 de 59 
+
+--- página 45 ---
+deberán permitir comprobar la integridad y reutilizar o migrar la información sin dependencia 
+del contratista.
+El adjudicatario entregará una exportación completa de ensayo al menos tres (3) meses antes 
+de la fecha prevista de finalización y una exportación final actualizada al término del servicio, 
+ambas con inventario, formatos, esquema, diccionario, relaciones, adjuntos, trazas y sumas de 
+comprobación.  Además,  facilitará  durante  la  vigencia  las  exportaciones  solicitadas  en  un 
+máximo de quince (15) días hábiles. No podrá borrar datos o copias hasta que el Ayuntamiento 
+acepte por escrito la exportación final y ordene su supresión o devolución; después emitirá 
+certificado de borrado en el plazo máximo de un mes, salvo obligación legal de conservación.
+11 CONFIDENCIALIDAD Y PORTABILIDAD DE LOS DATOS
+La empresa  adjudicataria  queda  obligada  a  mantener confidencialidad y reserva absolutas 
+sobre cualquier dato al que acceda con ocasión de la ejecución del contrato, en especial los 
+datos de carácter personal. No podrá copiarlos ni utilizarlos con una finalidad distinta a la del 
+objeto contractual, ni cederlos a terceros, ni siquiera a efectos de conservación.
+La empresa adjudicataria se compromete a no difundir códigos de acceso ni ninguna otra 
+información que pueda facilitar la entrada a los sistemas del Ayuntamiento, así como a no 
+hacer  uso  indebido  de  los  permisos  y  privilegios  que  se  concedan  a  su  personal  para  la 
+ejecución del contrato.
+La  empresa  adjudicataria  será  responsable  de  la  seguridad  del  servicio,  manteniendo  el 
+sistema actualizado y debidamente administrado para evitar cualquier tipo de amenazas o 
+ataques, ya provengan de orígenes externos o internos.
+La empresa adjudicataria responderá de los perjuicios que puedan causarse al Ayuntamiento o 
+a terceros por incumplimiento de cualquiera de las obligaciones anteriores.
+Durante todas las fases, la adjudicataria y sus subencargados cumplirán el ENS, la Ley Orgánica 
+7/2021, el RGPD y la LOPDGDD según el tratamiento. El contrato de encargo definirá objeto, 
+duración,  finalidades,  categorías  de  datos  e  interesados,  instrucciones,  confidencialidad, 
+seguridad,  asistencia,  incidentes,  auditoría,  subencargados,  ubicación  y  devolución  o 
+supresión.
+12 EQUIPO DEL PROYECTO
+El equipo del proyecto estará integrado por personal de la empresa adjudicataria y actuará en  
+coordinación  con  el  Ayuntamiento  de  La  Unión.  Desde  el  inicio  de  la  implantación,  la 
+adjudicataria designará un responsable técnico como interlocutor municipal e identificará las 
+personas o unidades que asumirán las funciones de dirección del proyecto y de consultoría de 
+implantación.
+- Funciones y capacidad del equipo
+Página 45 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 45 de 59 
+
+--- página 46 ---
+o La consultoría de implantación comprenderá la parametrización, la migración, 
+la  integración,  las  pruebas  y  el  acompañamiento  a  usuarios.  Las  personas 
+asignadas contarán con experiencia adecuada en implantación, migración e 
+integración  de  aplicaciones  de  gestión  de  complejidad  comparable,  que  se 
+describirá  en  los  perfiles  profesionales  resumidos  del  apartado  15.7.  La 
+acreditación  administrativa  de  solvencia  y  de  disponibilidad  de  medios  se 
+regirá por el PCAP.
+o La dirección del proyecto comprenderá la planificación, la gestión de riesgos, la 
+coordinación de tareas, la interlocución con el Ayuntamiento y el control de 
+hitos y entregables. La persona responsable contará con experiencia adecuada 
+en coordinación de proyectos SaaS y relación con Administraciones Públicas, 
+que se describirá en el apartado 15.7. Estas funciones podrán ser asumidas por 
+el  responsable  técnico,  y  una  misma  persona  o  unidad  podrá  acumular 
+funciones  cuando  disponga  de  capacidad  y  disponibilidad  suficientes  para 
+cumplirlas, sin perjuicio de los medios exigidos en el PCAP.
+Cualquier cambio en la composición del equipo de trabajo deberá comunicarse previamente al 
+Ayuntamiento  de  La  Unión,  indicando  el  perfil  de  las  nuevas  personas  propuestas. 
+Corresponderá al Ayuntamiento aceptar o no la modificación planteada.
+La empresa adjudicataria mantiene las obligaciones de confidencialidad respecto de cualquier 
+información  a  la  que  acceda  con  ocasión  del  contrato,  especialmente  datos  de  carácter 
+personal, sin que pueda copiarlos, usarlos con fines distintos a los contractuales ni cederlos a 
+terceros,  ni  siquiera  a  efectos  de  conservación,  de  conformidad  con  lo  establecido  en  el 
+apartado de Confidencialidad y portabilidad de los datos de este Pliego.
+Las personas asignadas deberán contar con la cualificación y experiencia necesarias para las 
+funciones que desempeñen. La adjudicataria asumirá dietas, desplazamientos y medios, sin 
+coste adicional para el Ayuntamiento.
+Con  periodicidad  quincenal,  la  adjudicataria  presentará  un  informe  de  seguimiento  de  la 
+implantación del proyecto y quedará a disposición del Ayuntamiento de La Unión para cuantas 
+reuniones de coordinación resulten procedentes durante la ejecución del contrato.
+13 METODOLOGÍA Y DOCUMENTACIÓN
+La ejecución utilizará MÉTRICA, desarrollada por la Administración General del Estado, o una 
+metodología equivalente que cubra planificación, análisis, implantación, pruebas, gestión de 
+riesgos, configuración, documentación, aceptación y mantenimiento. La metodología ofertada 
+se adaptará a la dimensión del proyecto y a las normas municipales.
+El Ayuntamiento de La Unión se reserva la decisión final sobre los cambios o adaptaciones de 
+la metodología o de la documentación a emplear, cuando así lo requieran las necesidades del  
+proyecto o las condiciones del entorno.
+Página 46 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 46 de 59 
+
+--- página 47 ---
+Toda  la  documentación  técnica  se  entregará  en  soporte  digital  a  medida  que  avance  la 
+ejecución y en la extensión necesaria para que el Ayuntamiento pueda gestionar la plataforma 
+de forma autónoma, sin intervención del contratista. Dicha documentación deberá explicar 
+cómo maximizar el rendimiento de cada uno de los módulos de la plataforma.
+14 EVIDENCIAS FUNCIONALES DE CUMPLIMIENTO
+Los licitadores aportarán las evidencias audiovisuales E1 a E12 del cuadro de este capítulo 
+junto a la documentación técnica. Acreditan requisitos mínimos, incluidos los flujos DGT y 
+Gestiona; cada una se califica APTA o NO APTA sin asignación de puntos. La documentación y 
+los vídeos de las mejoras se presentarán exclusivamente en el archivo de criterios automáticos, 
+conforme al apartado 15.9.2, sin anticiparlos en el archivo sujeto a juicio de valor.
+Los vídeos se grabarán sobre una instalación funcional de la misma versión o compilación 
+ofertada, en producción o en un entorno de demostración equivalente. Se utilizarán datos 
+ficticios o anonimizados y quedarán prohibidos maquetas, prototipos no operativos, montajes 
+que  oculten  pasos  y  referencias  a  desarrollos  futuros.  En  integraciones  externas  podrá 
+utilizarse un entorno oficial de pruebas o preproducción.
+Prueba de las integraciones E6 y E12. Su funcionamiento se demostrará en un entorno de 
+producción,  pruebas,  preproducción  o  demostración  autorizado,  ajeno  a  los  sistemas  del 
+Ayuntamiento de La Unión. No se exigirán accesos, autorizaciones de consulta ni credenciales 
+municipales para preparar la oferta. El vídeo mostrará la aplicación ofertada y el conector 
+operativo, la operación de intercambio con el sistema externo, su petición y respuesta o trazas 
+equivalentes,  el  documento  o  resultado  obtenido  y  los  identificadores  que  permitan 
+comprobar la relación entre ambos sistemas. Se emplearán datos ficticios o anonimizados. No 
+serán válidos una simulación local de la respuesta externa, una maqueta ni la mera navegación 
+independiente por las dos aplicaciones. Las operaciones exigidas en la tabla y estas reglas de 
+prueba  serán  comunes  a  todos  los  licitadores.  El  acta  de  comprobación  distinguirá  la 
+funcionalidad acreditada de las configuraciones y habilitaciones municipales necesarias para su 
+activación durante la implantación.
+Cada vídeo deberá:
+- Estar numerado conforme al índice de evidencias que se detalla a continuación.
+- Mostrar la  fecha de grabación, el nombre y versión de la  aplicación  y un  usuario 
+genérico de prueba. No se mostrarán datos personales reales ni credenciales.
+- Ir acompañado, dentro de la memoria técnica única y de su límite total de cuarenta   
+(40) caras, de una breve descripción de un máximo de 200 palabras que indique su 
+código E, el módulo, los apartados del PPT acreditados y las secuencias relevantes. No 
+se exigirá un anexo descriptivo independiente ni se duplicará la información ya incluida 
+en la memoria.
+Página 47 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 47 de 59 
+
+--- página 48 ---
+- Cada vídeo tendrá una duración máxima de cinco minutos y el conjunto de las doce 
+evidencias una duración máxima de cincuenta minutos; se admitirá una segmentación 
+adicional  identificada  que  permita  ver  el  flujo  completo  cuando  una  operación 
+dependa del tiempo de respuesta del entorno externo.
+- Presentarse  en  el  archivo  electrónico  técnico  definido  en  el  PCAP.  Se  utilizará 
+preferentemente la plataforma de licitación; si su límite lo impide, se aportará un 
+enlace de descarga segura, no modificable tras el cierre, accesible durante al menos 
+180 días y acompañado del nombre, tamaño y huella SHA-256 de cada archivo.
+Nº Módulo / Funcionalidad Evidencia funcional a presentar
+1 Acceso, perfiles y auditoría Inicio  de  sesión,  aplicación  de  un  perfil  con 
+permisos diferenciados, bloqueo de una acción no 
+autorizada  y  consulta  del  registro  de  auditoría 
+correspondiente.
+2 Servicios y actuaciones Alta de una  actuación con  número, comunicante, 
+prioridad,  cronología,  implicados,  ubicación, 
+adjunto, estado, resultado y cierre.
+3 Servicios planificados Alta  y  repetición  de  un  servicio  por  Jefatura, 
+asignación  de  personal,  visualización  al  inicio  del 
+turno y cancelación con trazabilidad.
+4 Telealarmas y teleasistencias Alta  de  aviso,  ficha  de  la  persona,  contactos 
+familiares o de emergencia, entidad médica o social 
+asociada, asignación y cierre con resultado.
+5 Archivo y relaciones Consulta y edición de persona, entidad y vehículo, 
+anexado  de  archivo,  relaciones  entre  registros  y 
+tratamiento controlado de un posible duplicado.
+6 Integración obligatoria y firma 
+electrónica
+DGT/PID: consulta de un vehículo y tratamiento de 
+un caso sin resultado. Firma electrónica: generación 
+y  firma  de  un  documento  mediante  un  sistema 
+admitido,  visualización  del  resultado  y 
+comprobación de su trazabilidad.
+7 Tráfico y croquis Registro de accidente con implicados, elaboración 
+de croquis sobre cartografía digital con vista aérea o 
+satélite,  generación  del  parte  y  firma  electrónica 
+cuando proceda.
+Página 48 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 48 de 59 
+
+--- página 49 ---
+Nº Módulo / Funcionalidad Evidencia funcional a presentar
+8 Denuncias en movilidad Creación de una denuncia desde la solución móvil 
+ofertada en un dispositivo iOS o Android, obtención 
+o  introducción  de  datos,  generación  del 
+documento, firma del agente y captura de la firma 
+de la persona denunciada.
+9 Geolocalización Visualización  de  actuaciones,  filtros  por  fecha  y 
+clase,  dibujo  de  un  perímetro  y  consulta  o 
+estadística de registros contenidos en la zona.
+10 Informes y exportación Generación  de  un  informe  a  partir  de  filtros  y 
+exportación  del  resultado,  como  mínimo,  a  XLSX, 
+DOCX, PDF y un formato abierto o estructurado.
+11 Portal del agente Solicitud de cambio de turno o permiso, tramitación 
+por hasta dos niveles, notificación del resultado e 
+incorporación al cuadrante.
+12 Integración  obligatoria  con 
+Gestiona
+Crear  o  seleccionar  expediente  en  entorno 
+autorizado, incorporar un documento generado en 
+la  aplicación  policial,  lanzar  validación  o  firma, 
+consultar  el  estado  y  recuperar  el  documento 
+firmado  o  justificante,  con  su  identificador  y 
+trazabilidad. Datos ficticios y permisos de prueba. 
+La  publicación  en  tablón,  libros  u  órganos  no  se 
+exige para esta evidencia.
+14.1 CONDICIONES DE VALIDEZ
+- Las evidencias deberán corresponder a la solución y versión ofertadas. Podrán emplear 
+un entorno de demostración equivalente a producción, pero no otro producto, una 
+maqueta o una funcionalidad pendiente de desarrollo.
+- El incumplimiento acreditado de una prescripción mínima determina la calificación NO 
+APTA y la propuesta motivada de exclusión. La falta de vídeo o un defecto de acceso 
+impide acreditar el requisito y será objeto de la valoración que corresponda tras las 
+aclaraciones  o  subsanaciones  legalmente  admisibles,  sin  admitir  la  incorporación 
+extemporánea de funciones ni la modificación de la oferta.
+- La mesa de contratación podrá solicitar aclaraciones cuando exista una duda sobre una 
+evidencia  presentada  o  una  incidencia  formal  de  acceso.  La  aclaración  no  podrá 
+incorporar un vídeo nuevo, completar una función ausente, modificar la aplicación o 
+Página 49 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 49 de 59 
+
+--- página 50 ---
+alterar la oferta después del plazo. La mesa recabará informe de personal técnico 
+competente y adoptará de forma motivada la decisión de admisión o la propuesta de 
+exclusión.
+15 DOCUMENTACIÓN A PRESENTAR
+Este apartado regula la oferta técnica. Su contenido descriptivo y las declaraciones técnicas del 
+licitador se reunirán en una única memoria de un máximo de cuarenta (40) caras A4, conforme 
+al apartado 15.1. Los apartados 15.2 a 15.9 concretan contenidos de esa misma memoria y no  
+constituyen  una  relación  de  memorias  o  planes  independientes.  Se  exceptúan  la 
+documentación de mejoras automáticas del apartado 15.9.2, reservada a su archivo, y los 
+archivos externos de acreditación expresamente previstos en el apartado 15.1.
+La documentación deberá cumplir con las siguientes condiciones de presentación y formato:
+- La documentación se presentará en castellano.
+- Firmada digitalmente por representante con poder bastante.
+- Estructura:  memoria  única  con  el  índice  del  apartado  15.1.1,  referencias  a  los 
+apartados del PPT y relación de los archivos de acreditación.
+- Formatos: documentos en PDF y, cuando proceda, editables .docx/.xlsx; audiovisuales 
+en MP4 o formato reproducible en un navegador habitual, con calidad suficiente para 
+leer la interfaz y seguir todos los pasos mostrados.
+- Medios de entrega: plataforma de licitación. Cuando el tamaño de los vídeos impida su 
+carga, enlace seguro e inmutable durante al menos 180 días, acompañado de nombre, 
+tamaño y huella SHA-256 de cada archivo.
+- Protección  de  datos:  la  oferta,  capturas  y  vídeos  utilizarán  exclusivamente  datos 
+ficticios o anonimizados. No se incluirán datos personales reales, información policial 
+operativa ni credenciales.
+- Confidencialidad: marcar  expresamente  la  documentación  confidencial  conforme  a 
+LCSP.
+15.1 MEMORIA TÉCNICA DESCRIPTIVA
+La memoria técnica descriptiva será un único documento PDF firmado electrónicamente e 
+incluido en el archivo sujeto a juicio de valor definido en el PCAP. Reunirá la explicación de la 
+solución, su cumplimiento escrito, los planes y la organización de la ejecución, el índice de 
+evidencias y las declaraciones y compromisos técnicos exigidos en los apartados 15.2 a 15.9, 
+con la excepción del apartado 15.9.2. La firma de la memoria comprenderá las declaraciones y 
+compromisos  incorporados  en  ella,  sin  exigir  documentos  independientes  con  el  mismo 
+contenido.
+- Extensión y formato:    máximo de cuarenta (40) caras A4 en total, incluidas portada,   
+índice,  relación  de  cumplimiento,  cronogramas,  tablas,  figuras,  reseñas  de  vídeos, 
+Página 50 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 50 de 59 
+
+--- página 51 ---
+declaraciones, compromisos y cualquier anexo redactado por el licitador. Se utilizará 
+letra de al menos 10 puntos, interlineado sencillo y márgenes mínimos de 2 cm. Una 
+cara equivale a una página del PDF. No se añadirán planes, catálogos, fichas ni enlaces  
+a textos externos para ampliar la memoria fuera de este límite.
+- Archivos de acreditación:   se aportarán por separado los vídeos E1 a E12 y, en su caso,   
+los vídeos complementarios admitidos por el PCAP, así como el certificado ENS, su 
+alcance  y  los  certificados  de  terceros  exigibles  conforme  al  apartado  15.8.  Estos 
+archivos no computarán en las cuarenta caras. La memoria identificará los archivos, 
+explicará qué acreditan e incluirá las reseñas y referencias necesarias. Los certificados 
+no podrán utilizarse para añadir contenido descriptivo o valorable que deba figurar en 
+la memoria. La documentación administrativa requerida por el PCAP conservará su 
+régimen propio.
+- Contenido  reservado  al  archivo  automático:    el  precio,  los  descuentos  y  la  oferta,   
+declaraciones  y  acreditación  de  las  mejoras  M1  a  M11  del  apartado  15.9.2  se 
+presentarán exclusivamente en el archivo de criterios automáticos. No se incluirán ni 
+se anticiparán en la memoria, en los vídeos de mínimos ni en los restantes archivos 
+sujetos a juicio de valor. El límite de cuarenta caras de la memoria no se aplica a la 
+documentación del archivo automático.
+- Cumplimiento y valoración:  la memoria explicará por escrito cómo se satisfacen las 
+prescripciones mínimas y, de forma diferenciada, los aspectos funcionales C1 a C5 que 
+son objeto de juicio de valor. Solo se puntuarán estos últimos conforme al PCAP. La 
+relación de cumplimiento, los planes, la arquitectura, la organización, los certificados y 
+los compromisos de ejecución no obtendrán puntos por su mera presentación ni por 
+cumplir los mínimos.
+- Presentación concisa:  cada contenido se desarrollará una sola vez. Podrán utilizarse 
+cuadros, esquemas y referencias a otras páginas de la propia memoria o a secuencias 
+de los vídeos aportados. No será necesario reproducir el texto del PPT ni duplicar los 
+planes y declaraciones en archivos independientes. La documentación detallada de 
+ejecución se desarrollará durante la implantación conforme a los capítulos 6 y 13, sin 
+suplir omisiones ni modificar compromisos esenciales de la oferta.
+- Límite y comprobación:   el contenido que exceda las cuarenta caras no será objeto de   
+valoración cualitativa ni se utilizará como ampliación de la memoria para acreditar sus 
+contenidos obligatorios. Las omisiones, contradicciones o insuficiencias se analizarán 
+conforme al PCAP y al apartado 15.10, diferenciando la puntuación de los criterios 
+cualitativos del cumplimiento de mínimos y sin permitir completar materialmente la 
+oferta después del plazo.
+Página 51 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 51 de 59 
+
+--- página 52 ---
+15.1.1 ESTRUCTURA Y RELACIÓN ESCRITA DE CUMPLIMIENTO
+La memoria contendrá los siguientes bloques, dentro del límite total de cuarenta caras. Los 
+apartados 15.2 a 15.9 indican el contenido que debe integrarse en ellos; no exigen repetirlo ni 
+acompañarlo de otros documentos descriptivos.
+1. Identificación y alcance de la solución:  producto y versión ofertados, módulos incluidos, 
+arquitectura  SaaS,  alojamiento,  seguridad,  privacidad,  continuidad,  exportación  y 
+reversibilidad,  con  el  alcance  necesario  para  comprobar  las  prescripciones  técnicas, 
+funcionales  y  de  ejecución  del  PPT,  sin  incluir  información  económica  ni  mejoras 
+automáticas.
+2. Relación escrita de cumplimiento: cuadro ordenado por los números de apartado del PPT 
+que identifique cada prescripción mínima o grupo homogéneo de prescripciones y declare 
+expresamente  su  cumplimiento.  Para  cada  fila  se  incluirán  la  referencia  del  PPT,  la 
+prestación concreta que la satisface, el modo de cumplimiento y la página de la memoria o 
+la evidencia que lo acredita. Podrán agruparse prescripciones de un mismo apartado si 
+todas quedan identificadas y cubiertas de forma inequívoca; se desglosarán las que tengan 
+un modo de cumplimiento o una prueba diferente.
+2.1. Contenido de las respuestas: en las funcionalidades y condiciones que deban existir al 
+cierre del plazo se indicará su disponibilidad en la versión ofertada y cómo se utilizan 
+o verifican. En las obligaciones de ejecución se concretará el compromiso y la forma 
+de  prestarlo,  incluidos  los plazos, coberturas  o  recursos  exigidos.  No  bastará una 
+aceptación global del pliego, una casilla genérica de «cumple» sin explicación ni una 
+remisión a un catálogo comercial. Las integraciones obligatorias y los requisitos R01 a 
+R04 deberán identificarse expresamente. Las mejoras automáticas quedan fuera de 
+esta relación.
+3. Calidad funcional C1 a C5: explicación de los aspectos publicados en el PCAP para el flujo 
+mínimo con Gestiona, la gestión de servicios y sala, el trabajo en movilidad, la consulta 
+para mando y la configuración policial. Se identificarán el código del vídeo y el minuto o 
+secuencia que permite comprobar cada aspecto. La descripción de los mínimos y la calidad 
+valorable  podrán  compartir  referencias,  sin  repetir  contenido  ni  revelar  mejoras 
+automáticas.
+4. Planes de ejecución y equipo: plan de implantación y cronograma, migración, formación y 
+acompañamiento, evolución y mejora, y roles, responsabilidades y dedicaciones, con el 
+contenido de los apartados 15.3 a 15.7. Se describirán también la organización del soporte  
+obligatorio, sus canales, horarios mínimos, niveles de servicio y seguimiento, sin anticipar 
+la mejora M8.
+5. Evidencias y acreditación ENS: índice de vídeos con los datos y reseñas del apartado 15.2; 
+identificación y explicación del alcance de los certificados del apartado 15.8. Las pruebas 
+audiovisuales  y  los  certificados  se  adjuntarán  conforme  a  las  reglas  de  archivos  de 
+acreditación del apartado 15.1.
+Página 52 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 52 de 59 
+
+--- página 53 ---
+6. Declaraciones y compromisos técnicos: declaración sobre las integraciones obligatorias del 
+apartado 15.9.1 y declaraciones adicionales del apartado 15.9.3. Se incluirá también la 
+declaración de autenticidad y correspondencia de las evidencias con la versión ofertada. La 
+firma electrónica de la memoria abarcará su conjunto. Se exceptúan expresamente las 
+mejoras del apartado 15.9.2, cuya oferta y pruebas se reservarán al archivo automático.
+El  orden  anterior  será  la  estructura  común  de  presentación.  Se  permiten  subapartados, 
+cuadros  y  referencias  internas  que  faciliten  la  lectura,  sin  superar  el  límite  ni  crear 
+documentación descriptiva adicional.
+15.2 EVIDENCIAS FUNCIONALES EN FORMATO AUDIOVISUAL
+La memoria única incluirá el índice y las reseñas de las doce evidencias E1 a E12 del capítulo  
+14, dentro de sus cuarenta caras. Para cada vídeo identificará el código, módulo, apartados 
+acreditados, nombre del archivo, duración, versión, secuencias relevantes y, si se entrega por 
+enlace, los datos de acceso, tamaño y huella SHA-256. Incorporará una declaración conjunta 
+de autenticidad y correspondencia con la solución ofertada. Los vídeos se adjuntarán como 
+archivos externos y no consumirán caras de la memoria; no será preciso presentar fichas ni 
+declaraciones  separadas.  Cada  evidencia  de  mínimos  se  calificará  APTA  o  NO  APTA,  sin 
+puntuación  por  cumplimiento.  Las  referencias  de  la  memoria  al  mismo  flujo  solo  podrán 
+valorarse conforme a los subcriterios del PCAP.
+- Formato: MP4 u otro formato estándar reproducible en un navegador habitual, con 
+resolución suficiente para leer las pantallas.
+- Duración: máximo  cinco  minutos por evidencia  y cincuenta  minutos para  las doce 
+evidencias obligatorias en conjunto.
+- Autenticidad:  grabados  en  la  versión  ofertada  y  en  un  entorno  funcional  de 
+producción, prueba o demostración equivalente, con fecha, versión y usuario genérico. 
+No se admitirán maquetas ni datos personales reales.
+- Reseña: incluida en la memoria única, con un máximo de 200 palabras por evidencia, 
+sin  duplicar  descripciones  ya  contenidas  en  ella.  Se  admitirán  referencias  internas 
+inequívocas.
+- Entrega:  en  el  archivo  electrónico  técnico  definido  en  el  PCAP,  preferentemente 
+mediante la plataforma. Si se utiliza enlace, deberá cumplir las reglas de integridad, 
+disponibilidad y huella SHA-256 del capítulo 14.
+- El  incumplimiento  funcional  demostrado  dará  lugar  a  NO  APTA  y  propuesta  de 
+exclusión motivada. La documentación insuficiente se analizará conforme al régimen 
+de aclaración y subsanación, sin alterar ni completar materialmente la oferta.
+Cuando se aporten vídeos complementarios para C1 a C5 en los términos admitidos por el 
+PCAP, su índice, reseña y referencias se incluirán igualmente en las cuarenta caras. Cada vídeo 
+complementario tendrá como máximo dos minutos por subcriterio, corresponderá a la misma 
+versión y no sustituirá las evidencias E1 a E12 ni revelará mejoras automáticas.
+Página 53 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 53 de 59 
+
+--- página 54 ---
+15.3 PLAN DE IMPLANTACIÓN Y CRONOGRAMA
+El plan se incorporará como un apartado de la memoria única, dentro de las cuarenta caras. 
+Describirá de forma concisa la metodología MÉTRICA o equivalente, las fases, tareas, recursos, 
+responsables, hitos y cronograma, dentro del plazo máximo de tres meses desde el acta de  
+inicio. Comprenderá parametrización, migración con el alcance del PPT, ambas integraciones 
+obligatorias, formación inicial, pruebas y acta de puesta en servicio. No se exigirá un plan 
+independiente;  el  adjudicatario  desarrollará  durante  la  ejecución  el  detalle  necesario, 
+respetando lo ofertado.
+15.4 PLAN DE MIGRACIÓN DE DATOS
+El plan de migración formará parte de la memoria única y de sus cuarenta caras. Identificará  
+los conjuntos y formatos de origen disponibles, las correspondencias, transformación y carga, 
+los controles de calidad, la validación funcional, el tratamiento de las limitaciones del sistema 
+anterior, la continuidad operativa y la seguridad conforme al ENS en categoría ALTA y a la 
+normativa de protección de datos. Se indicarán las tareas, responsabilidades y criterios de 
+conformidad,  pudiendo  remitirse  al  cronograma  común.  No  se  exigirá  un  documento 
+separado.
+15.5 PLAN DE FORMACIÓN Y ACOMPAÑAMIENTO
+El plan se describirá dentro de la memoria única y de sus cuarenta caras. Indicará los perfiles 
+destinatarios  de  la  formación  inicial  —administración  y  uso  operativo—,  contenidos, 
+calendario, horas, modalidad presencial o telemática y materiales. Especificará la formación 
+continua  anual,  con  al menos  dos  acciones  al año  para  administradores  y  usuarios,  y  los 
+recursos e-learning. No se exigirá un documento independiente.
+15.6 PLAN EVOLUTIVO Y DE MEJORA
+La  memoria  única  recogerá,  dentro  de  sus  cuarenta  caras,  una  síntesis  verificable  de  la 
+evolución reciente de la herramienta, la política de versiones y actualizaciones y la previsión de 
+evolución a un año, con el alcance del apartado 6. El licitador concretará su compromiso de 
+continuidad y mejora del servicio. No se aportará un documento separado ni se presentarán 
+como disponibles funcionalidades pendientes de desarrollo.
+15.7 EQUIPO DEL PROYECTO
+La  memoria  única  identificará,  dentro  de  sus  cuarenta  caras,  los  roles,  responsabilidades, 
+dedicaciones y perfiles profesionales resumidos del equipo que ejecutará el contrato, con el 
+detalle  necesario  para  comprobar  los  medios  y  funciones  exigidos.  Podrá  integrarse  esta 
+información en los planes anteriores, sin duplicaciones ni currículos anexos. No se anticiparán 
+las mejoras de valoración automática.
+Página 54 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 54 de 59 
+
+--- página 55 ---
+15.8 ACREDITACIÓN DEL CUMPLIMIENTO DEL ENS
+La memoria única identificará el servicio y versión ofertados, el titular, el emisor y la vigencia 
+del  certificado  ENS  en  categoría  ALTA  y  explicará  cómo  su  alcance  cubre  el  SaaS  y  sus 
+componentes esenciales conforme al apartado 16.1. Esta explicación computará dentro de las 
+cuarenta caras. El certificado vigente y su documento de alcance se adjuntarán como archivos 
+de  acreditación  en  el  mismo  archivo  electrónico  técnico,  fuera  del  cómputo  de  caras.  El 
+servicio deberá disponer de la certificación al finalizar el plazo de presentación de ofertas.
+El certificado será emitido por una entidad habilitada y su alcance identificará el sistema o 
+servicio  ofertado.  Si  intervienen  proveedores  de  infraestructura,  sus  funciones  y 
+responsabilidades  se  explicarán  en  la  memoria;  se  adjuntarán  además  los  certificados  de 
+dichos proveedores cuando correspondan, sin sustituir la acreditación del alcance completo 
+del SaaS. No se exigirá otra memoria descriptiva de seguridad separada.
+La declaración responsable  no  sustituirá  al certificado  y a su documento  de  alcance. Esta 
+documentación  acreditará  una  condición  técnica  mínima  de  admisión  y  no  otorgará 
+puntuación. Las aclaraciones o subsanaciones legalmente admisibles se tramitarán conforme 
+al  apartado  15.10,  sin  permitir  la  obtención  posterior  de  una  certificación  inexistente  al 
+finalizar el plazo de presentación de ofertas ni la modificación de la solución ofertada.
+15.9 DECLARACIONES Y COMPROMISOS
+Las declaraciones de los apartados 15.9.1 y 15.9.3 se integrarán en la memoria y computarán 
+dentro  de  sus  cuarenta  caras.  El  apartado  15.9.2  regula  exclusivamente  documentación 
+reservada al archivo de criterios automáticos y queda fuera de la memoria.
+15.9.1 DECLARACIÓN DE CUMPLIMIENTO DE LA INTEGRACIÓN OBLIGATORIA
+La  memoria  única  incorporará,  dentro  de  las  cuarenta  caras  y  amparada  por  su  firma 
+electrónica, la declaración expresa de que la solución dispone de las funcionalidades para las 
+integraciones obligatorias DGT/PID y Gestiona y el compromiso de habilitarlas y mantenerlas 
+durante  el  contrato  conforme  a  los  apartados  4.5.1  y  4.5.2.  Identificará  las  operaciones, 
+interfaces, permisos, datos, resultados y trazabilidad y remitirá a las evidencias E6 y E12. Podrá 
+utilizarse la descripción ya incluida en la relación de cumplimiento, sin duplicarla. La activación 
+municipal  dependerá  de  las  autorizaciones  y  configuraciones  correspondientes.  No  se 
+requerirá una declaración separada.
+15.9.2 DECLARACIÓN DE COMPROMISO SOBRE MEJORAS OFERTADAS
+Las  mejoras  del  apartado  4.5.3  se  declararán  exclusivamente  en  el  archivo  de  criterios 
+automáticos, identificando cada prestación y asumiendo su habilitación y mantenimiento sin 
+sobrecoste.  Para  M1  a  M5  y  para  cada  operación  de  M11  se  aportará  una  ficha  de  la 
+integración  y  un  vídeo  funcional o  un  certificado  de  integración  existente  en  producción, 
+conforme a las condiciones siguientes. M9 y M10 se acreditarán mediante vídeo funcional. 
+Para  M6,  M7  y  M8  se  aportará  la  documentación  específica  de  medios  y  servicios  ya 
+Página 55 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 55 de 59 
+
+--- página 56 ---
+disponibles  indicada  en  este  apartado.  Las  declaraciones  genéricas,  los  proyectos  de 
+integración y los compromisos de desarrollo futuro no acreditan una mejora.
+Ficha de integración. Identificará la solución y versión ofertadas, el producto y módulo de 
+destino, las operaciones disponibles, las interfaces utilizadas, los permisos necesarios y las 
+dependencias de configuración. Incluirá la referencia al vídeo y a sus secuencias o al certificado 
+presentado. Para M1 el destino será el Padrón de habitantes de Gestiona. Para M2 el destino 
+será el módulo de territorio y callejero de Gestiona. Para M11 se documentarán por separado 
+el asiento de registro y las tareas.
+Vídeo de integración. Mostrará, en la solución ofertada, un intercambio efectivo con el sistema 
+de destino en un entorno autorizado de producción, pruebas o demostración, mediante datos 
+ficticios o anonimizados. Permitirá identificar ambos sistemas, seguir la operación y comprobar 
+su resultado y trazabilidad. Se mostrarán peticiones y respuestas o registros equivalentes, sin 
+revelar credenciales ni información protegida. No se admitirán maquetas, respuestas externas 
+simuladas ni una simple sucesión de pantallas de aplicaciones sin intercambio acreditado. No 
+será necesario conectarse a los sistemas del Ayuntamiento de La Unión.
+Certificado de integración existente en producción. Como alternativa al vídeo de M1 a M5 o de 
+cada operación de M11, podrá presentarse un certificado emitido por la entidad usuaria de la  
+integración, por el titular del sistema de destino o por un tercero independiente que haya 
+verificado su funcionamiento. Identificará al emisor y su condición, los sistemas y módulos 
+integrados, las operaciones efectivamente en producción y la fecha de disponibilidad anterior 
+o igual al cierre del plazo de ofertas. Identificará la versión o explicará su correspondencia 
+verificable con la solución ofertada. Estará firmado y permitirá comprobar su autenticidad y 
+solicitar aclaraciones  al emisor.  No  bastarán  certificados  genéricos  de  suministro  o  buena 
+ejecución ni una declaración del propio licitador sin prueba del funcionamiento.
+Disponibilidad  de las funcionalidades. Los vídeos y certificados acreditarán funcionalidades 
+existentes  al  finalizar  el  plazo  de  presentación  de  ofertas.  Las  adaptaciones  municipales 
+posteriores se limitarán a instalación, configuración, autorización y habilitación del conector 
+acreditado.  El  compromiso  de  implantación  no  sustituirá  la  prueba  de  su  existencia  y 
+funcionamiento. La solución demostrada y la implantada deberán corresponder a la misma 
+prestación ofertada.
+Atención  funcional 24x365  (M8).  Se  aportarán  las  condiciones  del  servicio,  los  canales  de 
+teléfono y chat integrado, su cobertura horaria, la organización y disponibilidad del personal y 
+el sistema de registro de comunicaciones. Se acreditará la disponibilidad actual de los medios 
+mediante documentación  contractual u organizativa verificable; si lo presta un tercero, se 
+incluirá su compromiso vinculante de adscripción. La oferta asumirá la atención funcional en 
+ambos canales durante toda la vigencia. Un vídeo del chat o una declaración comercial, por sí 
+solos, no acreditan la cobertura humana 24x365.
+Entrega e integridad. Cada evidencia se identificará con su código M y, para M11, con la 
+operación  de  registro  o  tareas.  Los  vídeos  incorporarán  fecha,  producto  y  versión  y  se 
+Página 56 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 56 de 59 
+
+--- página 57 ---
+acompañarán de un índice de secuencias. Se aportarán mediante la plataforma de licitación o, 
+si el tamaño lo impide, mediante enlace seguro e inmutable, disponible al menos 180 días, con 
+nombre, tamaño y huella SHA-256. Se aplicarán las condiciones de protección de datos y de  
+aclaración establecidas en los apartados 15 y 15.10.
+Para M6 se identificarán el Punto de Presencia de Red SARA reconocido por la Administración 
+competente,  la  referencia  oficial  de  reconocimiento  vigente,  los  medios  disponibles  y  el 
+alcance del servicio gestionado para las integraciones incluidas en el contrato. Se aportará un 
+compromiso de prestación durante toda la vigencia y, si interviene un tercero, su compromiso 
+vinculante de disponibilidad. No se exige que el licitador sea el titular del Punto de Presencia. 
+Para  M7  se  aportarán  la  constancia  oficial  del  CCN  relativa  al  SOC  identificado,  la 
+documentación de cobertura del SaaS ofertado, los medios disponibles y el compromiso de 
+prestación propio o vinculante del tercero durante el contrato.
+La  ausencia  de  una  mejora  o  la  insuficiencia  de  su  acreditación  determinarán  la  falta  de 
+puntuación de esa prestación, conforme al PCAP, sin excluir por ello la oferta. Se comprobará 
+separadamente el cumplimiento de las prescripciones mínimas. Las pruebas de las mejoras no 
+se incluirán en la memoria ni en el archivo sujeto a juicio de valor.
+15.9.3 DECLARACIONES ADICIONALES
+Las siguientes declaraciones se incluirán en un bloque de la memoria única, dentro de sus 
+cuarenta  caras y cubiertas  por su firma  electrónica; podrán  remitir a las explicaciones  de 
+cumplimiento ya desarrolladas en ella. No se exigirán declaraciones técnicas separadas:
+- Declaración de que el alojamiento de la aplicación, la base de datos, las copias de 
+seguridad y las réplicas de recuperación se realiza dentro de la Unión Europea, y de 
+que  los  accesos  de  soporte,  los  subencargados  y  las  posibles  transferencias 
+internacionales se ajustan al apartado 4.3.1, al PCAP, al ENS en categoría ALTA y a la  
+normativa  de  protección  de  datos.  Se  asumirá  el  compromiso  de  facilitar  al 
+Ayuntamiento la información necesaria cuando la requiera.
+- Compromiso de confidencialidad y reserva sobre todos los datos tratados.
+- Compromiso de reversibilidad y borrado seguro de datos al finalizar el contrato.
+- Declaración de cumplimiento de la autenticación multifactor exigida en el apartado 
+5.2,  identificando  el  mecanismo  propuesto.  La  eventual  integración  con  Microsoft 
+Entra ID, Active Directory local u otro proveedor de identidad solo se declarará cuando 
+se  oferte  como  mejora  y  se  incluirá  exclusivamente  en  el  archivo  de  criterios 
+automáticos.
+15.10 CONDICIONES DE VALIDEZ Y SUBSANACIÓN
+- La  documentación  corresponderá  a  la  solución  y  versión  ofertadas  y  deberá  ser 
+coherente en todos los archivos.
+Página 57 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 57 de 59 
+
+--- página 58 ---
+- No  se  admitirán  productos  distintos,  maquetas  ni  funcionalidades  pendientes  de 
+desarrollo para acreditar requisitos mínimos o mejoras funcionales. Podrá utilizarse un 
+entorno  funcional  de  producción,  prueba  o  demostración  autorizado,  con  las 
+condiciones de los capítulos 14 y 15.9.2.
+- La  mesa  podrá  solicitar  aclaraciones  o  resolver  incidencias  formales  para  verificar 
+hechos y documentación presentados en plazo, sin permitir que el licitador complete, 
+sustituya o modifique la solución o la oferta técnica, añada una mejora ni incorpore 
+una funcionalidad de la que no disponía al finalizar el plazo de presentación de ofertas.
+- La falta de un documento valorable producirá el efecto previsto en el PCAP. La falta de 
+acreditación o el incumplimiento de una prescripción técnica mínima determinará la 
+calificación de NO APTA y la propuesta motivada de exclusión.
+16 REQUISITOS TRANSVERSALES DE LA SOLUCIÓN
+16.1 SEGURIDAD Y ESQUEMA NACIONAL DE SEGURIDAD
+El servicio SaaS dispondrá de certificación de conformidad vigente con el ENS en categoría 
+ALTA,  cuyo  alcance  identifique  el  servicio  y  sus  componentes  esenciales,  conforme  a  los 
+apartados  4.3 y  15.8.  El  certificado  del  alojamiento,  por  sí  solo,  no  acredita  el  servicio 
+completo. La licitadora identificará los subcontratistas y las responsabilidades de seguridad. Se 
+acreditará  con  el  certificado  y  su  alcance  y,  cuando  proceda,  con  documentación  de  los 
+servicios subcontratados.
+16.2 PRIVACIDAD Y PROTECCIÓN DE DATOS
+La solución y su operación cumplirán la Ley Orgánica 7/2021 para los tratamientos policiales 
+sujetos a ella y, para los restantes, el Reglamento (UE) 2016/679 y la Ley Orgánica 3/2018. La 
+memoria describirá accesos, trazabilidad, soporte, alojamiento, subencargados, conservación, 
+devolución y supresión de datos, y responsabilidades municipales. El encargo se formalizará 
+antes del acceso a datos  reales. La memoria  y los  compromisos  de los  capítulos  11 y  15 
+acreditarán este requisito.
+16.3 PROTECCIÓN DE LOS SERVICIOS EN LA NUBE
+El SaaS aplicará las medidas del ENS para servicios en la nube, incluida op.nub.1 del anexo II 
+del  Real  Decreto  311/2022,  según  su  categoría  ALTA.  La  memoria  describirá  alojamiento, 
+proveedores, continuidad, recuperación y controles pertinentes, conforme a los capítulos 4, 11 
+y 15. La certificación ENS deberá cubrir el servicio ofertado.
+16.4 INTEROPERABILIDAD CON LOS SISTEMAS PÚBLICOS
+La solución permitirá intercambiar y conservar información conforme al Esquema Nacional de 
+Interoperabilidad y sus normas técnicas aplicables. Deberán estar operativas las integraciones 
+obligatorias con Gestiona y DGT y la exportación prevista en el PPT. Se acreditarán con la 
+descripción de interfaces, operaciones, permisos y formatos, y los vídeos E6 y E12. El servicio 
+Página 58 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 58 de 59 
+
+--- página 59 ---
+gestionado mediante un punto de presencia de la Red SARA tendrá el alcance indicado en el 
+apartado 4.5.3 cuando se oferte.
+16.5 DOCUMENTACIÓN DE LOS REQUISITOS MÍNIMOS DE LA SOLUCIÓN
+La tabla siguiente identifica los medios de acreditación de los requisitos R01 a R04 y no exige 
+documentos  descriptivos  independientes.  Su  cumplimiento  se  explicará  por  escrito  en  la 
+memoria única y su relación de cumplimiento, dentro de las cuarenta caras. Los vídeos y 
+certificados  se  aportarán  por  separado  conforme  al apartado  15.1,  sin  anticipar  precio  ni 
+mejoras  automáticas.  La  memoria  identificará  dónde  se  acredita  cada  requisito  y  la 
+documentación que lo respalda.
+Ref. Condición acreditada Documentación justificativa
+R01 ENS categoría ALTA 
+del servicio ofertado, 
+apartado 16.1
+Memoria única: identificación del certificado ENS vigente y 
+explicación de su alcance respecto del SaaS y de los 
+componentes esenciales; funciones y responsabilidades de 
+terceros. Archivos externos: certificado de conformidad ENS 
+en categoría ALTA, documento de alcance y certificados de 
+terceros que correspondan, conforme al apartado 15.8. El 
+certificado del alojamiento por sí solo no acredita el servicio 
+completo.
+R02 Privacidad y 
+protección de datos, 
+apartado 16.2
+En la memoria única y su relación de cumplimiento: 
+accesos, trazabilidad, alojamiento, soporte, subencargados, 
+conservación, devolución y supresión, y compromiso de 
+formalizar el encargo antes del acceso a datos reales. No se 
+exige documento descriptivo o declaración técnica 
+separados.
+R03 Protección de los 
+servicios en la nube, 
+apartado 16.3
+En la memoria única y su relación de cumplimiento: modelo 
+SaaS, proveedores, medidas de seguridad, continuidad y 
+recuperación y aplicación de op.nub.1 del ENS según el 
+alcance certificado. No se exige una memoria de nube 
+independiente.
+R04 Interoperabilidad, 
+apartado 16.4
+En la memoria única y su relación de cumplimiento: 
+interfaces, operaciones, permisos, identificadores y 
+formatos de Gestiona y DGT/PID, exportación y 
+reversibilidad, con referencias a E6 y E12. Los vídeos se 
+adjuntan como archivos externos conforme al capítulo 14.
+En La Unión, a la fecha de la firma.
+El Técnico Municipal en Informática, Javier Castejón Garrido.
+Documento firmado electrónicamente.
+Página 59 / 59
+Cód. Validación: 5SGQ5LKT6CL4G2PLMSQQYETEZ 
+Verificación: https://launion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 59 de 59 

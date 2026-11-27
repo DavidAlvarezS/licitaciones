@@ -1,0 +1,306 @@
+
+
+--- página 1 ---
+UA: INFORMATICA
+Documento firmado electrónicamente (Ley 39/2015). La autenticidad de este documento puede ser comprobada mediante el 
+CSV: 16337430253464702100 en https://sedeelectronica.ayto-mieres.es/validacion
+PLIEGO DE PRESCRIPCIONES TÉCNICAS QUE HA DE REGIR LA CONTRATACIÓN DE 
+UN SERVICIO DE ANONIMIZACIÓN DOCUMENTAL PARA EL AYUNTAMIENTO DE 
+MIERES.
+ÍNDICE.
+1. OBJETO. ......................................................................................................................................................2
+2. ALCANCE DE LA PRESTACIÓN.......................................................................................................................2
+3. REQUISITOS TÉCNICOS. ...............................................................................................................................2
+4.1. REQUISITOS GENERALES. ..............................................................................ERROR! BOOKMARK NOT DEFINED.
+4.2. REQUISITOS FUNCIONALES...........................................................................ERROR! BOOKMARK NOT DEFINED.
+4.3. TÉCNICAS DE ANONIMIZACIÓN. .................................................................................................................3
+4.4. FORMATOS ADMITIDOS. ............................................................................................................................3
+4.5. REVISIÓN Y CONTROL DE LOS RESULTADOS. ..............................................................................................3
+4.6. SEGURIDAD DE ACCESO, AUTENTICACIÓN E INTEGRACIÓN .......................................................................3
+4. FORMACIÓN................................................................................................................................................4
+5. CONDICIONES GENERALES DEL SERVICIO.....................................................................................................4
+5.1. GESTIÓN DE CONSULTAS E INCIDENCIAS....................................................................................................4
+5.2. CALIDAD Y ACUERDOS DE NIVEL DE SERVICIO ............................................................................................4
+6. PLAZO DE EJECUCIÓN ..................................................................................................................................5
+7. CONTENIDO DE LAS PROPUESTAS TÉCNICAS................................................................................................5
+8. ESQUEMA NACIONAL DE SEGURIDAD..........................................................................................................6
+9. PROTECCIÓN DE DATOS...............................................................................................................................6
+10. CONFIDENCIALIDAD ....................................................................................................................................7
+11. CONFIDENCIALIDAD DE LA INFORMACIÓN APORTADA POR EL LICITADOR...................................................7
+12. INCIDENTES DE SEGURIDAD.........................................................................................................................7
+13. PRINCIPIOS DE TRANSPARENCIA .................................................................................................................7
+14. TRANSFERENCIA TECNOLÓGICA...................................................................................................................7
+
+--- página 2 ---
+UA: INFORMATICA
+Documento firmado electrónicamente (Ley 39/2015). La autenticidad de este documento puede ser comprobada mediante el 
+CSV: 16337430253464702100 en https://sedeelectronica.ayto-mieres.es/validacion
+1. OBJETO.
+El objeto del contrato es la prestación de un servicio de anonimización y seudonimización de 
+datos para la documentación generada por las distintas unidades administrativas del 
+Ayuntamiento de Mieres, prestado en modalidad SaaS.
+2. ALCANCE DE LA PRESTACIÓN.
+Las soluciones propuestas deberán permitir el tratamiento automatizado, mediante técnicas de 
+inteligencia artificial, de documentos y datos estructurados y no estructurados, tanto de forma 
+individual como por lotes, con supervisión y revisión manual previa a la obtención del resultado 
+definitivo.
+El servicio se prestará obligatoriamente en modalidad Software as a Service (SaaS), 
+incluyéndose en el precio del contrato, de forma integrada y completa, las siguientes 
+actuaciones:
+￿ Activación de la licencia de uso necesaria para la utilización de la herramienta durante la 
+duración del contrato.
+￿ Configuración y parametrización inicial del sistema, incluyendo plantillas e infotipos 
+específicos del Ayuntamiento de Mieres.
+￿ Creación o personalización de listas blancas y listas negras vinculadas a las plantillas 
+de anonimización.
+￿ Asesoramiento funcional para la definición de atributos/infotipos adicionales.
+￿ Formación al personal municipal.
+￿ Soporte técnico, funcional y de evolución del servicio durante la vigencia del contrato.
+￿ Actualizaciones, mejoras y nuevas versiones del producto que se publiquen durante el 
+periodo contratado.
+￿ Posibilidad de generación de informes de consumo mensual.
+3. REQUISITOS TÉCNICOS.
+3.1. REQUISITOS GENERALES.
+Se establecen los siguientes requisitos generales obligatorios en cuanto a la solución 
+propuesta:
+￿ La documentación se subirá a la solución propuesta por el adjudicatario, siendo 
+anonimizada de forma automática mediante técnicas de inteligencia artificial y, en un 
+tiempo razonable. 
+￿ La capacidad mínima incluida será de 1 GB mensual de datos o documentos tratados, 
+considerando conjuntamente los procesos individuales y por lotes. 
+￿ La plataforma estará disponible las 24 horas 7 días a la semana.
+￿ El servicio deberá permitir el acceso de un mínimo de diez usuarios nominales, con 
+posibilidad de uso concurrente. El adjudicatario realizará la carga inicial de usuarios y 
+atenderá las altas y bajas derivadas de cambios organizativos mientras no se supere el 
+límite contratado.
+
+--- página 3 ---
+UA: INFORMATICA
+Documento firmado electrónicamente (Ley 39/2015). La autenticidad de este documento puede ser comprobada mediante el 
+CSV: 16337430253464702100 en https://sedeelectronica.ayto-mieres.es/validacion
+3.2. REQUISITOS FUNCIONALES
+Las soluciones propuestas deberán cumplir de forma obligatoria con los siguientes requisitos 
+mínimos:
+￿ Interfaz web que permita la anonimización de documentos de forma individual con 
+supervisión manual completa.
+￿ API o interfaz de carga en lote (batch), con visualizador de resultados.
+￿ Mantenimiento del formato, distribución, estilo y extensión del documento original tras la 
+anonimización.
+￿ Identificación automática de datos personales mediante modelos de IA basados en 
+procesamiento de lenguaje natural.
+￿ Personalización completa de atributos/infotipos según el protocolo de anonimización 
+que se establezca con el Ayuntamiento dentro de las opciones disponibles.
+￿ Entrenamiento de los motores de búsqueda, para excluir nombres o cargos públicos 
+(Alcalde, Concejales, etc) así como identificadores profesionales.
+3.3. TÉCNICAS DE ANONIMIZACIÓN.
+Las soluciones propuestas deberán soportar de forma obligatoria lo siguiente:
+￿ Anonimización / tokenización / clasificación.
+￿ Seudonimización.
+￿ Masking: asteriscos, tachado, blacklining.
+￿ Generación de datos sintéticos equivalentes en tipología y longitud.
+￿ Aplicación de técnicas irreversibles y reversibles, según permisos.
+3.4. FORMATOS ADMITIDOS.
+Los formatos mínimos soportados son los siguientes:
+￿ Documentos ofimáticos (.DOCX, .XLSX, etc)
+￿ Formatos de texto (.TXT) y texto plano
+￿ Documentos PDF.
+￿ Extracción por OCR dirigido por IA para imágenes (.JPG, .TIFF, .PNG).
+3.5. REVISIÓN Y CONTROL DE LOS RESULTADOS.
+Las soluciones propuestas deberán permitir de forma obligatoria:
+￿ Revisión previa de infotipos identificados.
+￿ Etiquetado manual de información no detectada.
+￿ Reversión de etiquetados incorrectos.
+￿ Visualización del documento original y anonimizado.
+3.6. SEGURIDAD DE ACCESO, AUTENTICACIÓN E INTEGRACIÓN
+
+--- página 4 ---
+UA: INFORMATICA
+Documento firmado electrónicamente (Ley 39/2015). La autenticidad de este documento puede ser comprobada mediante el 
+CSV: 16337430253464702100 en https://sedeelectronica.ayto-mieres.es/validacion
+Desde el punto de vista de la seguridad y la trazabilidad, las soluciones propuestas deberán 
+disponer de las siguientes características mínimas:
+￿ Gestión de usuarios, roles y permisos.
+￿ Acceso web seguro mediante HTTPS.
+￿ Cifrado de la información durante la transmisión y durante su almacenamiento temporal.
+￿ Uso de algoritmos robustos de seguridad.
+￿ Registro de las operaciones relevantes realizadas por los usuarios y administradores.
+4. FORMACIÓN
+Los licitadores incluirán en su oferta técnica un plan de formación práctica inicial, de al menos 
+una hora de duración, dirigida al personal municipal designado. Podrá realizarse en línea.
+La formación incluirá, como mínimo:
+￿ Uso básico de la herramienta.
+￿ Procesamiento individual y por lotes.
+￿ Configuración y utilización de plantillas y reglas.
+￿ Supervisión y corrección manual de resultados.
+￿ Gestión de usuarios, roles y permisos, cuando corresponda.
+Se entregará un manual de usuario en castellano, en formato digital, y podrá complementarse 
+con vídeos o con un sistema de ayuda integrado.
+5. CONDICIONES GENERALES DEL SERVICIO.
+5.1. GESTIÓN DE CONSULTAS E INCIDENCIAS.
+El adjudicatario prestará soporte técnico y funcional durante toda la vigencia del contrato. El 
+horario de atención será de lunes a viernes, entre las 8:00 y las 15:00 horas.
+Los canales mínimos de escalado serán los siguientes, debiendo ser la comunicación en 
+idioma español:
+￿ Telefónico, no tratándose en ningún caso de un número de tarificación especial.
+￿ Por correo electrónico, centralizando las comunicaciones en un único buzón para su 
+posterior distribución.
+5.2. CALIDAD Y ACUERDOS DE NIVEL DE SERVICIO
+Se establecen unos Acuerdos de Nivel de Servicio en relación a los servicios a prestar, de 
+forma que se garantice la correcta ejecución del contrato, redundando de esta forma en la 
+calidad del servicio. A este respecto, se establecen los siguientes niveles de acuerdo de 
+servicio mínimos.
+ANS DESCRIPCIÓN CUMPLIMIENTO
+Disponibilidad de la Referida a la disponibilidad de la Se cumple
+
+--- página 5 ---
+UA: INFORMATICA
+Documento firmado electrónicamente (Ley 39/2015). La autenticidad de este documento puede ser comprobada mediante el 
+CSV: 16337430253464702100 en https://sedeelectronica.ayto-mieres.es/validacion
+plataforma plataforma, excluidas las paradas de 
+mantenimiento previamente 
+comunicadas.
+99%
+Resolución de incidencias 
+críticas
+Resolución de incidencias críticas o 
+paralizantes sobre el servicio, de 
+forma que no sea posible utilizarlo, o 
+el grado de degradación del servicio 
+sea alto.
+48 horas
+>= 95% de los 
+casos se cumple el 
+plazo máximo 
+acordado
+Resolución de incidencias 
+normales
+Resolución de incidencias que no 
+tienen impacto sobre el servicio.
+5 días.
+>= 95% de los 
+casos se cumple el 
+plazo máximo 
+acordado
+Redacción de informes o 
+entregables
+Entrega de actas de reuniones e 
+informes no urgentes.
+5 días
+>= 95% de los 
+casos se cumple el 
+plazo máximo 
+acordado.
+El tiempo de resolución podrá incrementarse excepcionalmente debido a una especial dificultad 
+respecto a la incidencia detectada.
+La revisión de los ANS será semestral, siendo las penalizaciones de aplicación siempre que se 
+detecte algún incumplimiento en las revisiones semestrales.
+6. PLAZO DE EJECUCIÓN
+El contrato tiene una duración de una anualidad, comenzando al día siguiente de la 
+formalización del contrato, prorrogable en una anualidad más.
+La activación inicial de las licencias deberá efectuarse dentro de los diez primeros días 
+naturales del contrato.
+7. CONTENIDO DE LAS PROPUESTAS TÉCNICAS.
+Los licitadores deberán obligatoriamente especificar en sus propuestas técnicas, de forma 
+detallada, todos los aspectos requeridos en el presente pliego de prescripciones técnicas, con 
+independencia de que se adjunte a las mismas cuanta información complementaria resulte de 
+interés. 
+En relación a información que se incluya en la memoria técnica, se tendrá especial cuidado en 
+no incluir ningún dato o valor referido a los criterios evaluables mediante fórmulas, ni 
+información que permita deducirlos.
+La estructura y el contenido de la memoria técnica se corresponde con los aspectos a valorar 
+de los criterios de adjudicación cuantificables mediante un juicio de valor. 
+
+--- página 6 ---
+UA: INFORMATICA
+Documento firmado electrónicamente (Ley 39/2015). La autenticidad de este documento puede ser comprobada mediante el 
+CSV: 16337430253464702100 en https://sedeelectronica.ayto-mieres.es/validacion
+En todo caso, las ofertas técnicas deberán ajustarse al siguiente esquema de contenidos: 
+1. Portada, conteniendo título y número de expediente.
+2. Índice de la propuesta técnica.
+3. Memoria técnica:
+a. Descripción del servicio y funcionalidades de la solución.
+b. Arquitectura, métodos de anonimización y formatos soportados.
+c. Implantación, formación, soporte y gestión de incidencias.
+d. Medidas de seguridad y cumplimiento normativo.
+Se establecen las siguientes condiciones generales para la memoria técnica:
+￿ Consistirá en un único documento con las páginas debidamente numeradas 
+￿ La memoria no superará en ningún caso las 40 páginas, no siendo valoradas aquellas 
+que superen el umbral indicado.
+￿ La memoria se realizará utilizando un tipo de letra de tamaño 10 a 12, tipo Arial, con 
+interlineado estándar.
+￿ Toda la información de productos, manuales o especificaciones se deberán añadir como 
+anexos y deberán estar en castellano.
+8. ESQUEMA NACIONAL DE SEGURIDAD.
+Teniendo en cuenta la obligación de cumplir con lo dispuesto en las Instrucciones Técnicas de 
+Seguridad del Real Decreto 311/2022, de 3 de mayo, por el cual se regula el Esquema 
+Nacional de Seguridad.
+La solución ofertada o la organización que presta la presta, deberá acreditar conformidad en 
+Esquema Nacional de Seguridad, al menos, en nivel MEDIO, presentando el correspondiente 
+certificado en la oferta técnica.
+9. PROTECCIÓN DE DATOS.
+Al margen de otros requisitos legales descritos en el presente pliego técnico, que el licitador 
+debe cumplir, tanto el licitador como el adjudicatario, se comprometerán a dar un trato 
+reservado y confidencial a toda la información que la empresa licitadora o adjudicataria pudiera 
+obtener de esta administración, y a procurar su custodia y no divulgación por el personal a su 
+cargo, salvo que medie autorización por escrito. Esta obligación permanecerá en vigor, aun 
+cuando el contrato haya llegado a su término o haya sido cancelado.
+La empresa adjudicataria quedará obligada al cumplimiento de lo dispuesto en el Reglamento 
+General de Protección de datos y a la Ley Orgánica 3/2018, de 5 de diciembre, de Protección 
+de datos personales y garantía de los derechos digitales, comprometiéndose explícitamente a 
+formar e informar a su personal en las obligaciones que de tales normas dimanan, para lo que 
+programará las acciones necesarias y proporcionará los medios precisos para su cumplimiento.
+La empresa adjudicataria y el personal encargado de la realización de las tareas guardarán 
+secreto profesional sobre todas las informaciones, documentos y asuntos a los que tengan 
+acceso o conocimiento durante la vigencia del contrato, estando obligados a no hacerlos 
+
+--- página 7 ---
+UA: INFORMATICA
+Documento firmado electrónicamente (Ley 39/2015). La autenticidad de este documento puede ser comprobada mediante el 
+CSV: 16337430253464702100 en https://sedeelectronica.ayto-mieres.es/validacion
+públicos o enajenar cuantos datos conozcan como consecuencia, o con ocasión de su 
+ejecución, aun cuando el contrato haya llegado a su término o haya sido cancelado.
+En este sentido, el adjudicatario quedará expresamente obligado a no revelar o ceder datos o 
+documentos proporcionados por la Administración, o copia de los mismos, y a mantener 
+absoluta confidencialidad y reserva sobre cualquier dato que pudiera conocer, con ocasión del 
+cumplimiento del contrato, especialmente los de carácter personal, que no podrá copiar o 
+utilizar con fin distinto al que figura en este pliego, como necesario para el desempeño del 
+proyecto, ni tampoco ceder a otros ni siquiera a efectos de su conservación.
+10.CONFIDENCIALIDAD
+La documentación o información facilitada por el Ayuntamiento de Mieres al licitador tiene 
+carácter confidencial, debiendo ser tratada por este como tal.
+Una vez adjudicado el contrato objeto de la licitación, si el Ayuntamiento de Mieres facilitara al 
+adjudicatario información adicional necesaria para la realización de los trabajos, ésta deberá 
+ser considerada como confidencial, por lo que tanto él como cualquiera de sus trabajadores, 
+estén o no relacionados con la ejecución del contrato, deberán tratarla como tal, debiendo 
+devolverla al Ayuntamiento en el momento de finalización del contrato. El adjudicatario no 
+podrá utilizar la información confidencial relacionada con el Ayuntamiento con otros fines 
+distintos a los indicados, excepto si previamente hubiera obtenido la correspondiente 
+autorización expresa y por escrito del Ayuntamiento de Mieres.
+11.CONFIDENCIALIDAD DE LA INFORMACIÓN APORTADA POR EL LICITADOR.
+En el caso de que el licitador presente información o documentación que éstos designen como 
+confidencial (en particular, secretos técnicos o comerciales y aspectos confidenciales de las 
+ofertas) el Ayuntamiento de Mieres tratará dicha documentación/información bajo criterios de 
+confidencialidad.
+12.INCIDENTES DE SEGURIDAD
+El adjudicatario notificará con carácter urgente, al Responsable del Contrato, la existencia de 
+cualquier incidencia, que pudiera afectar a la seguridad de la información, que conociera en el 
+desarrollo de las tareas objeto del presente contrato y que pudieran afectar a la seguridad de 
+los Sistemas de Información del Ayuntamiento de Mieres.
+13.PRINCIPIOS DE TRANSPARENCIA 
+El Ayuntamiento de Mieres, con el fin de dar cumplimiento a los principios de transparencia de 
+la Administración Pública, informa al licitador de la publicación de información relacionada con 
+la contratación objeto de este pliego. Dichas publicaciones se podrán realizar en la página web 
+u otros medios de comunicación municipales. Por tanto, el licitador queda informado, 
+autorizando a la publicación de dicha información.
+14.TRANSFERENCIA TECNOLÓGICA
+
+--- página 8 ---
+UA: INFORMATICA
+Documento firmado electrónicamente (Ley 39/2015). La autenticidad de este documento puede ser comprobada mediante el 
+CSV: 16337430253464702100 en https://sedeelectronica.ayto-mieres.es/validacion
+Durante la ejecución de los trabajos objeto del contrato el adjudicatario se compromete, en todo 
+momento, a facilitar a las personas designadas por el Ayuntamiento de Mieres, a tales efectos, 
+toda la información y documentación que estas soliciten para disponer de un total conocimiento 
+técnico de las circunstancias en las que se desarrollan los trabajos, así como de los eventuales 
+problemas que puedan plantearse y de las tecnologías, métodos, y herramientas utilizados 
+para resolverlos.

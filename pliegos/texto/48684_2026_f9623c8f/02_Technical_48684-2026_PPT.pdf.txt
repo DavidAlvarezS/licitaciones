@@ -1,0 +1,911 @@
+
+
+--- página 1 ---
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS, PROCEDIMIENTO ABIERTO, PARA 
+EL SERVICIO DE UN CHATBOT Y DE UN AGENTE DE ATENCIÓN TELEFÓNICA 
+(Exp. 48684/2026) 
+ 
+1. OBJETO DEL CONTRATO 
+El objeto del presente contrato es la implantación y puesta en marcha de una 
+solución software de asistencia virtual que integre un chatbot y un agente de 
+atención telefónica (voicebot) para el Ayuntamiento de Rivas Vaciamadrid, 
+incluyendo su configuración, la integración con los sistemas municipales y la 
+formación del personal responsable de su operación. La solución deberá reforzar y 
+modernizar los canales de atención ciudadana, garantizando su plena operatividad y 
+permitiendo la ampliación de capacidades conforme evolucionen las necesidades 
+municipales y las expectativas de una sociedad cada vez más digital. 
+“Catalina” es la denominación con la que el Ayuntamiento de Rivas Vaciamadrid 
+identifica ante la ciudadanía a su asistente virtual, y no se refiere a ningún producto 
+o software concreto. La empresa adjudicataria aportará su propio software, que se 
+presentará a la ciudadanía con dicha denominación. 
+El contrato comprende todas las actuaciones necesarias para asegurar la 
+implantación, configuración y modernización de la plataforma, incluyendo la 
+integración con las bases de datos y aplicaciones municipales, la puesta en marcha 
+de los agentes inteligentes, la monitorización centralizada, el soporte técnico y la 
+incorporación de mejoras funcionales durante toda su vigencia. 
+La finalidad es dotar al Ayuntamiento de una herramienta avanzada que permita 
+gestionar de forma eficiente el volumen creciente de consultas ciudadanas, 
+ofreciendo servicios accesibles 24/7 y capaces de absorber incrementos de 
+demanda sin afectar a la calidad del servicio. En un municipio de 108.000 
+habitantes, con un servicio de atención que gestiona unas 5.000 llamadas 
+mensuales y una cobertura del 82% (ver ANEXO II), la incorporación de estos 
+ 
+1 
+Cód. Validación: AYPFFDT5Z3KT6EWW3K74TD5NG 
+Verificación: https://rivasciudad.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 1 de 25 
+
+--- página 2 ---
+ 
+agentes inteligentes supone un refuerzo esencial para garantizar una atención 
+inmediata, permanente y eficaz. 
+La plataforma deberá integrar los siguientes agentes especializados: 
+● Chatbot Catalina para la atención ciudadana multicanal, basado en la base 
+de conocimiento municipal, con capacidades avanzadas de comprensión del 
+lenguaje natural. 
+● Agente de atención telefónica (voicebot) para la atención automatizada de 
+llamadas entrantes, con comprensión y respuesta en lenguaje natural. 
+Con este contrato, el Ayuntamiento consolida su estrategia de transformación digital, 
+asegurando la disponibilidad de canales de atención modernos, eficientes y 
+alineados con las buenas prácticas en servicios públicos digitales. 
+CPV (Vocabulario Común de la Contratación Pública): 
+72212500-4 Servicios de desarrollo de software de comunicación y multimedia 
+(principal) 
+48500000-3 Paquetes de software de comunicación y multimedia 
+72267000-4 Servicios de mantenimiento y reparación de software  
+ 
+2. PRECIO. VALOR ESTIMADO. TIPO DE LICITACIÓN. 
+Valor estimado 82.644,64 € (incluida la eventual prórroga de hasta dos años) 
+Precio de licitación 49.586,78 €  
+Precio de IVA: 10.413,22 €  
+Precio total IVA incluido 60.000,00 € 
+El precio total del contrato es de 49.586,78 € al que se incorporarán el IVA al tipo 
+vigente del 21 %, por importe de 10.413,22 €, sumando un total de 60.000,00 € IVA 
+incluido para 3 años.  
+ 
+2 
+Cód. Validación: AYPFFDT5Z3KT6EWW3K74TD5NG 
+Verificación: https://rivasciudad.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 2 de 25 
+
+--- página 3 ---
+ 
+ 
+3. FORMA DE PAGO 
+El pago se realizará mediante transferencia bancaria, previa presentación y 
+posterior aprobación de la factura por el órgano competente. La facturación se 
+efectuará mensualmente, a mes vencido, por el importe resultante de prorratear 
+entre doce mensualidades el precio anual de adjudicación.  
+La presentación de las facturas es de forma electrónica a través del Punto General 
+de Entrada (FACE) que actúa como portal Web. Información 
+https://proveedores.face.gob.es/inicio.  
+Oficina contable Órgano gestor Unidad tramitadora 
+L01281230 Departamento 
+de Contabilidad e 
+Intervención 
+L01281230 Ayuntamiento 
+de Rivas-Vaciamadrid o 
+Concejalía de hacienda 
+L01281230 Ayuntamiento 
+de Rivas-Vaciamadrid o 
+Concejalía de hacienda 
+ 
+La distribución quedaría de la forma siguiente: 
+ Precio (sin IVA) IVA Precio total 
+2026 780,53 € 163,91 € 944,44 € 
+2027 16.528,93 € 3.471,07 € 20.000,00 € 
+2028 16.528,93 € 3.471,07 € 20.000,00 € 
+2029 15.748,39 € 3.307,17 € 19.055,56 € 
+TOTAL    49.586,78 €    10.413,22 € 60.000,00 € 
+ 
+4. DURACIÓN 
+La duración del contrato será de tres años, desde la formalización del mismo, que 
+se estima para el 13 de diciembre de 2026. El contrato podrá prorrogarse 
+anualmente, hasta un máximo de cinco años.  
+ 
+3 
+Cód. Validación: AYPFFDT5Z3KT6EWW3K74TD5NG 
+Verificación: https://rivasciudad.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 3 de 25 
+
+--- página 4 ---
+ 
+ 
+5. CARACTERÍSTICAS GENERALES 
+5.1 Capacidades generales de los agentes de IA 
+Los Agentes de Inteligencia Artificial especializados en la actuación automatizada 
+tendrán las siguientes características: 
+● Disponibilidad 24/7/365: 24 horas, 7 días a la semana, 365 días al año. 
+● Capacidad para atender simultáneamente un alto número de usuarios 
+concurrentes y los picos que puedan producirse. 
+● Facilidad para integrarse con otras aplicaciones y sistemas 
+(interoperabilidad). 
+● Procesamiento del lenguaje natural basado en algoritmos de inteligencia 
+artificial para resolver necesidades que surjan a diario en el Ayuntamiento.  
+● Mantenimiento del contexto a lo largo de la conversación, de forma que la 
+persona usuaria pueda formular preguntas encadenadas sin repetir la 
+información ya facilitada. 
+● Capacidad de interrupción: si la persona habla o escribe mientras el agente 
+está respondiendo, este deberá detener su respuesta y atender la nueva 
+petición. 
+Entrenamiento del Asistente 
+El éxito de los asistentes virtuales se basa en:  
+i) una metodología conversacional depurada que combina el trabajo coordinado de 
+programadores y lingüistas computacionales; 
+ii) un entrenamiento inteligente apoyado por la base de conocimiento del 
+Ayuntamiento, que genera empatía y confianza y permite reconocer cuándo no se 
+dispone de una respuesta fiable. 
+ 
+4 
+Cód. Validación: AYPFFDT5Z3KT6EWW3K74TD5NG 
+Verificación: https://rivasciudad.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 4 de 25 
+
+--- página 5 ---
+ 
+El asistente virtual permitirá al usuario evaluar su experiencia y grado de 
+satisfacción. Las valoraciones positivas o negativas serán visibles en la Plataforma 
+del AVI. 
+5.2 Plataforma AVI 
+La Plataforma del AVI es la herramienta de gestión integral del asistente virtual, 
+desde la cual la institución podrá controlar usuarios, conversaciones, datos y 
+funcionamiento general. 
+Principales funcionalidades: 
+● Permite corregir y ampliar la información que brinda el asistente. 
+o Modificar Preguntas y Respuestas del asistente. La institución podrá 
+modificar la información de la base de conocimiento y adaptarla a las 
+necesidades de cada momento.  
+o Añadir nueva información a la base de conocimiento (nuevas 
+preguntas que el asistente será capaz de contestar). La institución 
+podrá añadir nuevos contenidos y sus respectivas respuestas según 
+sus necesidades.  
+● Posee un panel de control que permite la visualización de las métricas, KPIs, 
+estadísticas, etc. del asistente.  
+● Tiene un área privada para los administradores y otra para los usuarios, 
+ambas son de manejo sencillo e intuitivo, con interfaz en castellano. 
+● Inclusión de avatar personalizado con una representación gráfica y un 
+nombre asociado que ayuda a consolidar la identificación del proyecto. 
+● Posibilidad de que los usuarios evalúen las respuestas brindadas por la 
+plataforma, detectando puntos de mejora. 
+● Filtros de búsqueda por texto, por fecha de la conversación, por plataforma o 
+por puntuación.  
+ 
+5 
+Cód. Validación: AYPFFDT5Z3KT6EWW3K74TD5NG 
+Verificación: https://rivasciudad.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 5 de 25 
+
+--- página 6 ---
+ 
+● Modificación de los mensajes de bienvenida, de respuesta por defecto 
+(cuando el asistente no dispone de una respuesta fiable) y de protección de 
+datos. 
+● Gestión de contactos para incidencias (número de teléfono y/o correo 
+electrónico). 
+● Canal de soporte técnico para la institución con la empresa desarrolladora 
+para incidencias relacionadas con el funcionamiento correcto del asistente.  
+● Intervención en tiempo real de los agentes de la institución.  
+5.3. Formación del AVI 
+Además de la documentación entregada, se harán tres jornadas (15 horas) de 
+formación y recorrido sobre la herramienta principal de trabajo (cuadro de mando), 
+sobre cómo funciona la inteligencia artificial a nivel semántico para el correcto 
+crecimiento del asistente y así poder cubrir los conocimientos a adquirir. 
+La formación será en grupos reducidos de menos de 9 personas, en cada uno de 
+los tres niveles de uso relacionados en el apartado 5.6. 
+Las sesiones de formación serán grabadas por parte del Ayuntamiento de Rivas 
+Vaciamadrid para poder disponer de un repositorio para uso interno (ver ANEXO I). 
+5.4. Arquitectura de la solución y plataforma base de orquestación e IA 
+Se evaluará la solidez, coherencia y escalabilidad de la arquitectura tecnológica 
+propuesta, así como las características de la plataforma base de orquestación e 
+inteligencia artificial. Se valorará especialmente:  
+● La existencia de una plataforma transversal para la orquestación de servicios 
+digitales, asistentes virtuales y modelos de inteligencia artificial. 
+● La capacidad de gestión centralizada de flujos de trabajo, integraciones y 
+contexto conversacional. 
+ 
+6 
+Cód. Validación: AYPFFDT5Z3KT6EWW3K74TD5NG 
+Verificación: https://rivasciudad.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 6 de 25 
+
+--- página 7 ---
+ 
+● La posibilidad de integrar múltiples modelos de inteligencia artificial, incluidos 
+modelos desarrollados por el Ayuntamiento, por terceros o disponibles a 
+través de servicios externos. 
+● La existencia de mecanismos de gobierno, monitorización y auditoría de las 
+interacciones con componentes de IA. 
+● La adopción de una arquitectura modular, basada en servicios y API, que 
+facilite la interoperabilidad y la evolución de la solución. 
+● La capacidad de la plataforma para soportar diferentes modelos de 
+despliegue, concretamente en nube pública, nube privada, entornos híbridos 
+o infraestructuras alojadas por el Ayuntamiento, garantizando la coherencia 
+funcional y de seguridad en los distintos escenarios. 
+● La capacidad de la plataforma para operar sin limitaciones funcionales 
+asociadas al volumen de tokens procesados, permitiendo interacciones 
+extensas, mantenimiento de contexto conversacional y ejecución de flujos 
+complejos sin restricciones que afecten a la continuidad del servicio. 
+● La existencia de integración nativa con UiPath, o plataforma equivalente de 
+automatización robótica de procesos, que permita la ejecución de procesos 
+automatizados durante el desarrollo de los flujos conversacionales y de 
+orquestación. 
+Reducción de alucinaciones 
+Con el fin de minimizar el riesgo de respuestas incorrectas o inventadas 
+(“alucinaciones”), especialmente relevante en un sistema de atención ciudadana, la 
+solución deberá implementar, como mínimo: 
+1. Fundamentación estricta de cada respuesta en los documentos recuperados 
+de la base de conocimiento oficial (grounding), con trazabilidad de la fuente 
+utilizada en cada respuesta a efectos de supervisión y auditoría, sin que sea 
+necesario mostrarla a la persona usuaria. 
+2. Un umbral de confianza o de similitud semántica por debajo del cual el 
+sistema deba reconocer explícitamente que no dispone de una respuesta 
+ 
+7 
+Cód. Validación: AYPFFDT5Z3KT6EWW3K74TD5NG 
+Verificación: https://rivasciudad.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 7 de 25 
+
+--- página 8 ---
+ 
+fiable –en lugar de generar una respuesta no verificada– y derivar la consulta 
+a una persona operadora o a un canal de contacto humano. 
+3. Mecanismos de monitorización continua y muestreo periódico de las 
+respuestas generadas, para la detección y corrección de errores durante la 
+vida del contrato. 
+5.5. Seguridad, protección de datos y gobierno de la IA  
+Se evaluarán los mecanismos de seguridad, protección de datos y gobierno 
+asociados a la solución propuesta, en particular:  
+● Control de acceso, cifrado de datos y segregación de entornos; 
+● Mecanismos de registro, monitorización y auditoría de las interacciones;  
+● Medidas de control y gobierno en el uso de modelos de inteligencia artificial;  
+● Garantías asociadas al tratamiento de datos en servicios en la nube y 
+componentes de IA de terceros. Asimismo, se exigirá que el adjudicatario 
+acredite la disponibilidad de certificaciones vigentes, o equivalentes, que 
+garanticen la madurez, calidad, seguridad y gobierno de sus procesos 
+organizativos. En concreto:  
+○ Certificación de conformidad con el Esquema Nacional de Seguridad 
+(ENS) de, al menos, categoría MEDIA, o equivalente, como requisito 
+de solvencia técnica (apartado 6); 
+○ Certificación de conformidad con el ENS de categoría ALTA, o 
+equivalente, como elemento valorable mediante fórmula (apartado 8); 
+○ ISO 9001, o equivalente, como elemento valorable, relativa al sistema 
+de gestión de la calidad; 
+○ ISO/IEC 27001, o equivalente, como elemento valorable, relativa al 
+sistema de gestión de la seguridad de la información; 
+○ ISO 30301, o equivalente, como elemento valorable, relativa al sistema 
+de gestión para los documentos; 
+○ ISO/IEC 15504, o equivalente, como elemento valorable, relativa a la 
+evaluación y mejora de la capacidad y madurez de los procesos de 
+ 
+8 
+Cód. Validación: AYPFFDT5Z3KT6EWW3K74TD5NG 
+Verificación: https://rivasciudad.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 8 de 25 
+
+--- página 9 ---
+ 
+software. Por parte de la plataforma tecnológica subyacente, se 
+valorará la demostración del cumplimiento de marcos reconocidos de 
+seguridad de la información, concretamente mediante certificaciones 
+aplicables a la plataforma, tales como: 
+■ ISO/IEC 27001 o equivalente; 
+■ SOC 2 Tipo II o equivalente.  
+La ausencia de la certificación ENS de categoría MEDIA, o equivalente, supondrá la 
+exclusión (apartado 6). La ausencia de las certificaciones indicadas como 
+valorables, tanto para el adjudicatario como para la plataforma tecnológica, no 
+supondrá la exclusión de la propuesta, pero podrá reflejarse en la puntuación 
+asignada al criterio “Valoración global de la solución” del apartado 8 o, en el caso de 
+la certificación ENS de categoría ALTA, en el criterio de fórmula correspondiente. 
+Adicionalmente, y en cumplimiento del Real Decreto 311/2022 (Esquema Nacional 
+de Seguridad), la solución deberá implementar las medidas de seguridad 
+correspondientes a la categoría MEDIA de los sistemas de información afectados. 
+Igualmente, en cumplimiento del artículo 50 del Reglamento (UE) 2024/1689, tanto 
+el chatbot como el agente de atención telefónica deberán informar de forma clara e 
+inequívoca a la persona usuaria, al inicio de la interacción, de que está conversando 
+con un sistema de inteligencia artificial y no con una persona. Queda expresamente 
+prohibida la utilización de las conversaciones, llamadas o datos de la ciudadanía 
+para el entrenamiento o mejora de modelos de terceros ajenos a la prestación del 
+servicio, y los datos deberán alojarse y tratarse dentro del Espacio Económico 
+Europeo. La empresa adjudicataria deberá realizar y entregar al Ayuntamiento, 
+antes de la puesta en producción, el análisis de clasificación de riesgo del sistema 
+conforme al citado Reglamento (UE) 2024/1689. 
+Accesibilidad: de conformidad con el artículo 126.3 de la LCSP, y por tratarse de una 
+prestación destinada a ser utilizada por personas físicas, la solución deberá 
+diseñarse atendiendo a los criterios de accesibilidad universal y de diseño para 
+todas las personas. En particular, deberá cumplir los requisitos de accesibilidad 
+ 
+9 
+Cód. Validación: AYPFFDT5Z3KT6EWW3K74TD5NG 
+Verificación: https://rivasciudad.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 9 de 25 
+
+--- página 10 ---
+ 
+exigidos por el Real Decreto 1112/2018 y la norma UNE-EN 301549 (nivel AA), 
+garantizando su uso por personas con discapacidad visual, auditiva, cognitiva o 
+motora, e incluyendo alternativa textual a la interacción por voz y alternativa por voz 
+a la interacción textual. 
+5.6.Niveles de uso 
+Se pretende cubrir las necesidades con tres Niveles de Uso del chatbot: 
+A. Presentación de Información. 
+B. Presentación de información específica. 
+C. Presentación de información específica e intercambio de documentación 
+(gestiones con la administración electrónica). 
+El proveedor del sistema debe realizar la integración del chatbot con las diferentes 
+BBDD del Ayuntamiento de Rivas Vaciamadrid para llegar a cubrir las diferentes 
+necesidades según los niveles de uso del sistema: 
+1. Necesidades para cubrir en el nivel de uso A: 
+● Chatbot para intercambio de información a través de los siguientes 
+canales: 
+o Intranet. 
+o Web Municipal. 
+o Sede Electrónica. 
+o Whatsapp. 
+o Telegram. 
+o Telefonía (contestación y consulta por voz). 
+● Integración con la aplicación de centralita municipal (actualmente 
+Genesys). 
+ 
+10 
+Cód. Validación: AYPFFDT5Z3KT6EWW3K74TD5NG 
+Verificación: https://rivasciudad.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 10 de 25 
+
+--- página 11 ---
+ 
+● Integración y búsqueda de información con los datos del Ayuntamiento 
+de Rivas en la Sede Electrónica. Desarrollo realizado en la aplicación 
+WordPress por la empresa Mindala.  
+2. Necesidades a cubrir el nivel de uso B: 
+● Además de las indicadas en el apartado A, se deberán realizar las 
+siguientes: 
+o Identificación mediante el intercambio y comprobación de datos 
+conocidos por ambas partes (Ayuntamiento y ciudadanía). 
+o Presentación de datos personales del Padrón Municipal. 
+Integración con la aplicación “Población” de la empresa 
+Gestiona. 
+o Emisión de documentos de Padrón (volante individual, 
+certificado individual, certificado histórico individual, certificado 
+colectivo de empadronamiento y certificado colectivo histórico). 
+o Integración con el servicio de Cita Previa del Ayuntamiento de 
+Rivas Vaciamadrid, de forma que la ciudadanía pueda gestionar 
+sus citas. 
+3. Necesidades a cubrir en el nivel de uso C:  
+● Además de las indicadas en el apartado B, podrán ofertarse como 
+mejora, conforme al apartado 8, las siguientes: 
+o Identificación mediante certificado electrónico. 
+o Presentación de datos de recibos pagados, situación en el SEP, 
+recibos pendientes de pago, etc. Integración con la aplicación 
+GTT. 
+o Emisión de justificantes de los documentos anteriores. 
+o Presentación de datos de Registros de Entrada, Registros de 
+Salida y Expedientes. Integración con la aplicación Gestiona. 
+ 
+11 
+Cód. Validación: AYPFFDT5Z3KT6EWW3K74TD5NG 
+Verificación: https://rivasciudad.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 11 de 25 
+
+--- página 12 ---
+ 
+o Emisión de los documentos anteriores. 
+Los niveles de uso A y B tienen carácter obligatorio. El nivel C no constituye un 
+requisito mínimo: su cobertura se valorará como mejora conforme al apartado 8. 
+5.7. Agentes de Inteligencia Artificial Especializados 
+A. Chatbot (Catalina) 
+El Chatbot Catalina constituye un agente de atención 100% orientada al ciudadano. 
+Su funcionamiento deberá basarse en arquitecturas de Modelos de Lenguaje 
+Grande (LLMs) empleando técnicas de Generación Aumentada por Recuperación 
+(RAG). El sistema se alimentará y sincronizará de forma automatizada y dinámica 
+con el contenido publicado en la Web Municipal y la Sede Electrónica, actualmente 
+desarrollada sobre WordPress, preferiblemente mediante la API nativa de 
+WordPress (WP-API) u otro mecanismo de sincronización equivalente, de modo que 
+cualquier actualización de contenido publicada en dichos sitios se refleje en las 
+respuestas del chatbot sin intervención manual, con una cadencia de reindexación 
+máxima de 24 horas (a concretar por el licitador). El asistente deberá contar con 
+capacidad de comprensión del lenguaje natural avanzado y análisis de sentimiento 
+para garantizar una interacción empática, precisa y accesible a la ciudadanía.  
+La validación humana quedará limitada a la configuración inicial del sistema y a 
+aquella información que, por su naturaleza, no esté publicada en los canales web 
+oficiales (por ejemplo, consultas que requieran lógica de negocio o integración con 
+aplicaciones internas), eliminando la necesidad de que una persona clasifique o 
+mantenga manualmente las respuestas basadas en contenido público, sin perjuicio 
+de que el personal municipal pueda, en cualquier momento, modificar o añadir 
+manualmente contenidos y respuestas conforme al apartado 5.2, con efecto 
+inmediato. 
+B. Agente de atención telefónica 
+ 
+12 
+Cód. Validación: AYPFFDT5Z3KT6EWW3K74TD5NG 
+Verificación: https://rivasciudad.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 12 de 25 
+
+--- página 13 ---
+ 
+La integración y operación de una solución de atención telefónica basada en 
+voicebots y procesamiento automatizado de voz constituye un requisito contractual 
+obligatorio que el adjudicatario deberá implantar, configurar, integrar y mantener 
+durante la vigencia del contrato conforme a las condiciones que se detallan a 
+continuación: 
+● Atención 24x7 para llamadas entrantes. 
+● Recepción y gestión de llamadas conforme a los casos de uso definidos en el 
+pliego: información al ciudadano; gestión de infraestructuras; avisos e 
+incidencias; operadora telefónica; servicio de cita previa; y otros servicios 
+acordados. 
+● Comprensión y respuesta en lenguaje natural mediante técnicas de 
+procesamiento del lenguaje natural y algoritmos de IA. 
+● Recogida previa de datos en lenguaje natural antes de la transferencia a 
+operador humano cuando proceda. El agente telefónico constituirá el primer 
+punto de contacto para la totalidad de las llamadas entrantes, con prioridad 
+sobre la atención por personal humano, resolviendo de forma autónoma 
+aquellas consultas que se encuentren dentro de su ámbito de actuación, sin 
+necesidad de transferencia. La llamada se transferirá a una persona 
+operadora únicamente cuando el sistema no pueda identificar o resolver la 
+consulta planteada, o cuando la persona usuaria solicite expresamente ser 
+atendida por una persona, en cualquier momento de la interacción y mediante 
+un método sencillo (por ejemplo, pronunciar “operador” o pulsar una tecla), 
+sin necesidad de repetir la información ya facilitada. La puesta en marcha de 
+esta función podrá realizarse de forma progresiva, conforme al calendario de 
+implantación ofertado (apartado 5.8). 
+● Capacidad de concurrencia: el sistema deberá garantizar, como mínimo, la 
+atención simultánea de 10 llamadas. La ampliación de esta capacidad, hasta 
+un máximo de 60 líneas concurrentes, se valorará como mejora conforme al 
+apartado 8. 
+ 
+13 
+Cód. Validación: AYPFFDT5Z3KT6EWW3K74TD5NG 
+Verificación: https://rivasciudad.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 13 de 25 
+
+--- página 14 ---
+ 
+● Integración con sistemas municipales mediante APIs o web services para 
+acceso a BBDD y aplicaciones (padrón, GTT, Gestiona, ITSM, registros, sede 
+electrónica, etc.) y emisión de documentos interoperables (PDF, DOCX, ODT) 
+cuando proceda. 
+● Integración con la centralita telefónica y con la aplicación Genesys, de forma 
+que la transferencia a una persona operadora conserve el contexto y los 
+datos ya recogidos por el agente, sin que la persona usuaria deba repetir la 
+información. 
+● Generación de informes y estadísticas de uso, rendimiento y calidad de 
+atención con modelos de informes mensuales predefinidos. 
+● Registro, auditoría y trazabilidad de interacciones y decisiones automatizadas 
+para cumplimiento normativo y mejora continua. 
+● Envío de notificaciones por correo, SMS o WhatsApp según la lógica definida 
+y autorizada por el Ayuntamiento de Rivas Vaciamadrid 
+El adjudicatario estará obligado a: 
+● Garantizar la interoperabilidad con la infraestructura y aplicaciones 
+municipales. 
+● Mantener la disponibilidad y continuidad del servicio conforme a los niveles 
+acordados. 
+● Implementar mecanismos de control de acceso, cifrado, segregación de 
+entornos y auditoría conforme a la normativa aplicable. 
+● Facilitar soporte técnico y canal de comunicación con el Ayuntamiento de 
+Rivas Vaciamadrid para incidencias y mejoras. 
+Responsabilidades del Ayuntamiento de Rivas Vaciamadrid: 
+● Suministrar el flujo de diálogo a construir y su aprobación final. 
+● Proporcionar grabaciones y ejemplos de interacciones si existen. 
+● Facilitar accesos y documentación de la centralita telefónica y de los sistemas 
+a integrar. 
+ 
+14 
+Cód. Validación: AYPFFDT5Z3KT6EWW3K74TD5NG 
+Verificación: https://rivasciudad.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 14 de 25 
+
+--- página 15 ---
+ 
+● Realizar pruebas y aprobar los prototipos en los plazos acordados. 
+● Aprobar los modelos de informes mensuales. 
+5.8. Implantación y puesta en marcha 
+El licitador deberá presentar, junto con su oferta, un plan de arranque que minimice 
+la interrupción del servicio respecto de la solución actualmente en producción, 
+incluyendo la construcción inicial de la base de conocimiento a partir de los 
+contenidos publicados en la Web Municipal y la Sede Electrónica. 
+En el plazo máximo de diez (10) días naturales a contar desde la formalización del 
+contrato deberán estar en funcionamiento, como mínimo, el chatbot Catalina y el 
+agente de atención telefónica, atendiendo este último las llamadas fuera del horario 
+del Servicio Integral de Atención a la Ciudadanía (SIAC) y en situaciones de 
+desbordamiento. El resto de funcionalidades e integraciones previstas en este pliego 
+podrá implantarse de forma progresiva, conforme al calendario de implantación 
+ofertado. 
+A tal efecto, el licitador deberá incluir en la memoria descriptiva un calendario de 
+implantación en el que indique qué funcionalidades e integraciones de los niveles de 
+uso A y B (apartado 5.6) pondrá en funcionamiento y en qué fecha. El calendario no 
+incluirá las necesidades del nivel C, que se valoran mediante fórmulas (apartado 8). 
+El calendario ofertado será vinculante para la empresa adjudicataria y se valorará 
+conforme al apartado 8. 
+En todo caso, la implantación completa de la solución, incluidas las integraciones de 
+los niveles de uso A y B (apartado 5.6) y, en su caso, las necesidades del nivel C 
+(apartado 8) ofertadas, deberá finalizar en un plazo máximo de doce (12) meses a 
+contar desde la formalización del contrato. 
+La empresa adjudicataria deberá mantener el servicio y su mantenimiento 
+preventivo y correctivo durante toda la vigencia del contrato, incluida la eventual 
+prórroga. 
+ 
+ 
+15 
+Cód. Validación: AYPFFDT5Z3KT6EWW3K74TD5NG 
+Verificación: https://rivasciudad.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 15 de 25 
+
+--- página 16 ---
+ 
+6. SOLVENCIA TÉCNICA 
+La entidad licitadora deberá presentar, junto con su oferta, una declaración 
+responsable de acuerdo al artículo 140 de la LCSP en la que manifieste cumplir los 
+requisitos de solvencia exigidos.  
+Únicamente la empresa propuesta como adjudicataria deberá acreditar 
+documentalmente dicha solvencia cuando sea requerida por el Ayuntamiento de 
+Rivas Vaciamadrid. La solvencia técnica se acreditará mediante una relación de los 
+principales servicios de igual o similar naturaleza realizados en los tres últimos años, 
+indicando importe, fecha y destinatario. 
+La acreditación se efectuará mediante certificados emitidos por el órgano 
+competente cuando el destinatario sea público, o mediante certificado del cliente 
+privado; en su defecto, y en virtud de lo dispuesto en el artículo 90 de la LCSP podrá 
+aportarse declaración del empresario acompañada de documentación justificativa.  
+El importe anual acumulado del año de mayor ejecución deberá ser igual o superior 
+al 70 % de la anualidad media del contrato, es decir, 11.570,25 € (IVA no incluido). 
+Asimismo, la empresa propuesta como adjudicataria deberá acreditar, cuando sea 
+requerida por el Ayuntamiento de Rivas Vaciamadrid, estar en posesión de la 
+certificación de conformidad con el Esquema Nacional de Seguridad (ENS) de, al 
+menos, categoría MEDIA, o equivalente, en vigor. Su ausencia supondrá la 
+exclusión. 
+ 
+7. PRESENTACIÓN DE OFERTAS. 
+Las ofertas se presentarán por medios electrónicos a través de la Plataforma de 
+Contratación del Sector Público, en archivos electrónicos independientes y del 
+siguiente modo: 
+● Archivo electrónico 1: Contendrá declaración responsable. 
+● Archivo electrónico 2: Contendrá criterios evaluables por valoración técnica 
+ 
+16 
+Cód. Validación: AYPFFDT5Z3KT6EWW3K74TD5NG 
+Verificación: https://rivasciudad.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 16 de 25 
+
+--- página 17 ---
+ 
+● Archivo electrónico 3: Contendrá criterios evaluables por aplicación de 
+fórmulas 
+La documentación del archivo electrónico 2 no incluirá información sobre los 
+aspectos evaluables mediante fórmulas (precio, necesidades de nivel C, líneas 
+concurrentes adicionales, horas de formación adicionales y certificación ENS de 
+categoría ALTA). En caso contrario, la oferta podrá ser excluida. 
+8. CRITERIOS DE ADJUDICACIÓN 
+Archivo electrónico 2 criterios evaluables por valoración técnica 
+A. Memoria Descriptiva, hasta 40 puntos: 
+Se establece un límite máximo de 120 páginas numeradas y que comprenderá 
+portada, índice, contraportada, bibliografía o similar (no se valorará lo que exceda 
+del límite establecido): 
+● Valoración global de la solución se valorará hasta un máximo de 25 
+puntos 
+Para la valoración de la calidad de la propuesta técnica se tendrá en cuenta la 
+contextualización de este tipo de servicio, la coherencia, idoneidad y la definición de 
+la solución técnica a aportar, valorando todo lo relacionado con la solución 
+propuesta. 
+Se valorarán todos los aspectos generales de cada solución, el cumplimiento de los 
+requisitos técnicos generales y particulares, las certificaciones valorables del 
+apartado 5.5 (salvo la certificación ENS de categoría ALTA, que se valora mediante 
+fórmula), funcionalidades y ejemplos que demuestren el funcionamiento de las 
+funcionalidades propuestas. 
+Dentro de este apartado se valorará una explicación nítida y realista de la 
+planificación de la puesta en marcha, especificando tareas detalladas y tiempos de 
+realización de cada fase e intervinientes, incluida la integración de la nueva solución 
+y la sustitución de la actual con la menor interrupción posible del servicio, conforme 
+al calendario de implantación del apartado 5.8. Se valorará especialmente que el 
+ 
+17 
+Cód. Validación: AYPFFDT5Z3KT6EWW3K74TD5NG 
+Verificación: https://rivasciudad.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 17 de 25 
+
+--- página 18 ---
+ 
+calendario reduzca el plazo de puesta en funcionamiento del servicio mínimo 
+indicado en el apartado 5.8 y adelante la puesta en funcionamiento del agente 
+telefónico como primer punto de contacto y de las integraciones de los niveles de 
+uso A y B, siempre que resulte realista. 
+● Sencillez y facilidad de uso de los servicios hasta un máximo de 15 
+puntos 
+Valorándose de forma especial la facilidad de uso que los servicios ofrezcan al 
+personal y terceros para poder adaptarse a los mismos. Esta valoración sujeta a 
+juicio de valor se realizará a partir de la descripción de los procedimientos de 
+gestión para el sistema. 
+Los licitadores deberán obtener al menos el 50 % de la puntuación asignada a la 
+Memoria Descriptiva, es decir, un mínimo de 20 puntos, para continuar en el 
+proceso. 
+  
+Archivo electrónico 3 criterios evaluables por aplicación de fórmulas, hasta 60 
+puntos 
+● Mejor precio ofertado hasta un máximo de 25 puntos 
+Se asignarán 25 puntos al mayor porcentaje de baja ofertado sobre el precio del 
+contrato, IVA no incluido, y al resto de forma proporcional respecto a la siguiente 
+fórmula: 
+X puntos obtendrá = % de baja ofertada * 25 puntos / % de la mayor baja ofertada. 
+Para la apreciación de baja temeraria se aplicarán los criterios contenidos en el Art. 
+85 del RD 1098/2001, Reglamento General de la Ley de Contratos de la 
+Administración Pública. 
+● Aumento de Funcionalidades y Equipamiento hasta un máximo de 15 puntos 
+Compromiso de cobertura para cada una de las cinco necesidades de uso de nivel 
+C relacionadas en el punto 5.6 
+ 
+18 
+Cód. Validación: AYPFFDT5Z3KT6EWW3K74TD5NG 
+Verificación: https://rivasciudad.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 18 de 25 
+
+--- página 19 ---
+ 
+Tres (3) puntos por cada una de las necesidades de nivel C cubiertas, hasta un 
+máximo de 15 puntos. 
+● Capacidad de concurrencia telefónica adicional, hasta un máximo de 5 
+puntos 
+Un (1) punto por cada 10 líneas de voz concurrentes adicionales sobre el mínimo de 
+10 exigido en el apartado 5.7, hasta un máximo de 5 puntos. 
+● Horas de formación adicional, hasta un máximo de 10 puntos 
+Un (1) punto por cada 4 horas de formación adicionales a las exigidas en el 
+apartado 5.3, hasta un máximo de 40 horas adicionales, a impartir a lo largo de la 
+vigencia del contrato. 
+● Certificación ENS de categoría ALTA, hasta un máximo de 5 puntos 
+Cinco (5) puntos al licitador que declare estar en posesión de la certificación de 
+conformidad con el Esquema Nacional de Seguridad (ENS) de categoría ALTA, o 
+equivalente, en vigor a la fecha de finalización del plazo de presentación de ofertas. 
+La empresa propuesta como adjudicataria deberá acreditarlo documentalmente 
+cuando sea requerida por el Ayuntamiento de Rivas Vaciamadrid. 
+ 
+9. MODIFICACIÓN DEL CONTRATO. 
+No se contempla. 
+ 
+10. PROTECCIÓN DE DATOS DE CARÁCTER PERSONAL. 
+La ejecución de este contrato implica el tratamiento de datos de carácter personal 
+por cuenta del Ayuntamiento, con la única finalidad de prestar el servicio de atención 
+ciudadana objeto del contrato (entre otros, datos identificativos y de contacto de la 
+ciudadanía, datos del Padrón Municipal, datos económicos vinculados a recibos y 
+ 
+19 
+Cód. Validación: AYPFFDT5Z3KT6EWW3K74TD5NG 
+Verificación: https://rivasciudad.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 19 de 25 
+
+--- página 20 ---
+ 
+expedientes, y grabaciones o transcripciones de llamadas telefónicas). En 
+consecuencia, la empresa adjudicataria tendrá la condición de encargada del 
+tratamiento conforme al artículo 28 del Reglamento (UE) 2016/679 (RGPD) y a la 
+Ley Orgánica 3/2018, debiendo suscribirse el correspondiente contrato o cláusula de 
+encargo de tratamiento con carácter previo al inicio de la prestación. Los datos 
+deberán alojarse y tratarse exclusivamente dentro del Espacio Económico Europeo, 
+y queda expresamente prohibida la utilización de las conversaciones, llamadas o 
+datos de la ciudadanía para el entrenamiento o mejora de modelos de inteligencia 
+artificial de terceros ajenos a la prestación del servicio al Ayuntamiento. 
+Conforme al artículo 122.2 de la LCSP, la empresa adjudicataria deberá presentar, 
+antes de la formalización del contrato, una declaración en la que indique dónde van 
+a estar ubicados los servidores y desde dónde se van a prestar los servicios 
+asociados a los mismos, así como comunicar cualquier cambio que se produzca a lo 
+largo de la vida del contrato. Asimismo, los licitadores deberán indicar en su oferta si 
+tienen previsto subcontratar los servidores o los servicios asociados a los mismos, 
+señalando el nombre o el perfil empresarial, definido por referencia a las 
+condiciones de solvencia profesional o técnica, de los subcontratistas a los que se 
+vaya a encomendar su realización. Estas obligaciones, junto con la de someterse en 
+todo caso a la normativa nacional y de la Unión Europea en materia de protección 
+de datos, tienen la consideración de obligaciones contractuales esenciales a los 
+efectos del artículo 211.1.f) de la LCSP. 
+11. NIVELES DE SERVICIO MÍNIMOS EXIGIDOS 
+Disponibilidad mensual del servicio (chatbot y voicebot): ≥ 99,5 %. 
+Tiempo máximo de respuesta ante incidencia crítica (servicio caído): ≤ 4 horas 
+laborables. 
+Tiempo máximo de respuesta ante incidencia no crítica: ≤ 2 días hábiles. 
+ 
+ 
+20 
+Cód. Validación: AYPFFDT5Z3KT6EWW3K74TD5NG 
+Verificación: https://rivasciudad.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 20 de 25 
+
+--- página 21 ---
+ 
+ANEXO I. GRABACIÓN DE LAS JORNADAS DE FORMACIÓN 
+1. Objeto y autorización 
+Con el fin de maximizar el aprovechamiento de los recursos públicos, la entidad 
+adjudicataria facilitará la grabación íntegra (audio, vídeo y materiales compartidos) 
+de las sesiones impartidas. El contratista garantiza que el personal docente que 
+intervenga en las sesiones ha sido informado y ha prestado su consentimiento o, en 
+su defecto, que la grabación se fundamenta en la ejecución del presente contrato de 
+servicios. 
+ 
+2. Finalidad exclusiva 
+La grabación y el material gráfico generado tendrán como única y exclusiva 
+finalidad: 
+ 
+● La formación interna y consulta extemporánea del personal al servicio de esta 
+Administración. 
+● La creación de un repositorio documental para el aprendizaje permanente. 
+● La justificación técnica de la ejecución del contrato. 
+ 
+3. Propiedad y uso, medidas de seguridad y conservación 
+La propiedad intelectual y los derechos de explotación de las grabaciones 
+resultantes pertenecerán a la Administración contratante. No obstante, el 
+Ayuntamiento de Rivas Vaciamadrid se compromete expresamente a no difundir, 
+publicar ni ceder dicho contenido fuera del ámbito interno de la organización. Se 
+establecerán medidas de seguridad, quedando restringido su acceso mediante 
+sistemas de autenticación (Intranet, plataforma de formación interna, etc.) al 
+personal autorizado. Se conservarán durante el tiempo que sea necesario para 
+cumplir con la finalidad para la que se recabaron y para determinar las posibles 
+responsabilidades que se pudieran derivar de dicha finalidad y del tratamiento de los 
+datos. Será de aplicación lo dispuesto en la normativa de archivos y documentación. 
+ 
+4. Protección de datos de carácter personal 
+El contratista deberá cumplir con lo dispuesto en el RGPD y la LOPDGDD. Se debe 
+tener en cuenta que las imágenes personales que pueden ser captadas deben 
+adecuarse a los principios establecidos en el RGPD (art. 5 del RGPD), entre los que 
+se encuentra el de minimización, es decir, los datos son adecuados, pertinentes y 
+limitados a los fines del tratamiento. En las grabaciones donde participen asistentes 
+(alumnos), se deberá informar previamente de la grabación. El tratamiento de estos 
+ 
+21 
+Cód. Validación: AYPFFDT5Z3KT6EWW3K74TD5NG 
+Verificación: https://rivasciudad.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 21 de 25 
+
+--- página 22 ---
+ 
+datos se basa en el ejercicio de poderes públicos y la relación contractual 
+establecida. 
+ 
+5. Medios técnicos 
+El Ayuntamiento de Rivas Vaciamadrid dispone de medios para proceder a la 
+grabación de las sesiones formativas; no obstante, el contratista deberá aportar los 
+medios técnicos necesarios para asegurar una calidad de imagen y sonido óptima 
+(HD). 
+ 
+En el caso en que de común acuerdo se establezca que la grabación de las 
+sesiones se realizará por parte de la adjudicataria, los archivos serán entregados en 
+formato estándar en el plazo máximo de 3 días tras la finalización de cada sesión. 
+ 
+6. Confidencialidad 
+De conformidad con el artículo 5 de la LOPDGDD, el Ayuntamiento de Rivas 
+Vaciamadrid y la adjudicataria conocen y se comprometen expresamente en el 
+deber de confidencialidad mutua entre las partes sobre cualquier dato sensible o 
+información reservada que pudiera ser revelada o surgir durante el desarrollo de las 
+sesiones formativas y los debates de las clases. Las obligaciones establecidas se 
+mantendrán aun cuando hubiese finalizado la relación del obligado con el 
+responsable o encargado del tratamiento. 
+ 
+ 
+ 
+22 
+Cód. Validación: AYPFFDT5Z3KT6EWW3K74TD5NG 
+Verificación: https://rivasciudad.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 22 de 25 
+
+--- página 23 ---
+ 
+ANEXO II. VOLUMETRÍA DE LOS SERVICIOS 
+Se facilitan los datos de uso del servicio actualmente en producción. Estos datos 
+tienen carácter orientativo y no constituyen un compromiso de volumen por parte del 
+Ayuntamiento de Rivas Vaciamadrid. 
+ 
+1. Atención telefónica del SIAC 
+El Servicio Integral de Atención a la Ciudadanía (SIAC) gestiona unas 5.000 
+llamadas mensuales, con una cobertura del 82%. 
+ 
+2. Chatbot Catalina (web) 
+Año 2025: 
+Mes Nuevos 
+usuarios 
+Mensajes 
+totales 
+Tasa de 
+acierto 
+Tasa de 
+abandono 
+Enero 1.345 3.170 98,22 % 1,78 % 
+Febrero 1.359 3.272 98,60 % 1,40 % 
+Marzo 1.594 4.018 98,68 % 1,32 % 
+Abril 1.382 3.170 98,75 % 1,30 % 
+Mayo 1.781 4.272 98,77 % 1,24 % 
+Junio 1.698 3.979 98,70 % 1,30 % 
+Julio 1.131 2.539 99,12 % 0,88 % 
+Agosto 1.056 2.770 98,58 % 1,42 % 
+Septiembre 1.831 4.358 99,29 % 0,71 % 
+Octubre 1.516 3.788 98,68 % 1,32 % 
+Media (10 
+meses) 
+1.469 3.534 98,74 % 1,27 % 
+ 
+Año 2026: 
+ 
+Mes Nuevos 
+usuarios 
+Mensajes 
+totales 
+Tasa de 
+acierto 
+Tasa de 
+abandono 
+ 
+23 
+Cód. Validación: AYPFFDT5Z3KT6EWW3K74TD5NG 
+Verificación: https://rivasciudad.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 23 de 25 
+
+--- página 24 ---
+ 
+Enero 1.360 3.198 99,12 % 0,88 % 
+Febrero 1.246 3.210 99,28 % 0,72 % 
+Marzo 1.386 3.227 98,92 % 1,08 % 
+Abril 1.290 3.212 98,91 % 1,09 % 
+Mayo 1.453 3.489 98,97 % 1,03 % 
+Junio 1.588 3.694 99,24 % 0,76 % 
+Julio 846 2.435 99,17 % 0,83 % 
+Agosto 994 3.067 99,18 % 0,82 % 
+Septiembre 1.351 3.327 99,28 % 0,72 % 
+Media (9 
+meses) 
+1.279 3.207 99,20 % 0,88 % 
+ 
+3. Catalina (agente telefónico) 
+Llamadas atendidas por Catalina cuando el SIAC se encuentra fuera de horario o 
+desbordado. 
+ 
+Año 2025: 
+Mes Nuevos 
+usuarios 
+Mensajes 
+totales 
+Tasa de 
+acierto 
+Tasa de 
+abandono 
+Enero 220 374 97,27 % 2,73 % 
+Febrero 117 221 96,58 % 3,42 % 
+Marzo 133 233 96,99 % 3,01 % 
+Abril 220 375 94,09 % 5,91 % 
+Mayo 464 864 95,69 % 4,31 % 
+Junio 294 508 95,92 % 4,08 % 
+Julio 569 1.052 95,08 % 4,92 % 
+Agosto 284 509 97,18 % 2,82 % 
+Septiembre 289 546 95,50 % 4,50 % 
+Octubre 168 276 91,67 % 8,33 % 
+ 
+24 
+Cód. Validación: AYPFFDT5Z3KT6EWW3K74TD5NG 
+Verificación: https://rivasciudad.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 24 de 25 
+
+--- página 25 ---
+ 
+Media (10 
+meses) 
+276 496 95,60 % 4,40 % 
+ 
+Año 2026: 
+Mes Nuevos 
+usuarios 
+Mensajes 
+totales 
+Tasa de 
+acierto 
+Tasa de 
+abandono 
+Enero 184 316 98,91 % 1,09 % 
+Febrero 167 327 93,41 % 6,59 % 
+Marzo 73 132 98,63 % 1,37 % 
+Abril 222 375 96,40 % 3,60 % 
+Mayo 389 783 94,09 % 5,91 % 
+Junio 242 553 95,04 % 4,96 % 
+Julio 359 662 96,10 % 3,90 % 
+Agosto 252 441 94,86 % 5,14 % 
+Septiembre 187 330 97,35 % 2,65 % 
+Media (9 
+meses) 
+231 435 96,09 % 3,91 % 
+ 
+ 
+ 
+25 
+Cód. Validación: AYPFFDT5Z3KT6EWW3K74TD5NG 
+Verificación: https://rivasciudad.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 25 de 25 

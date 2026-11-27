@@ -3,7 +3,7 @@
 - Órgano: Secretaría General de ASEPEYO. Mutua Colaboradora con la Seguridad Social, num. 151
 - Expediente: CP00155/2026
 - Importe sin IVA: 53170 €
-- Fin de plazo: 2026-11-26 14:00:00
+- Fin de plazo: 2026-12-03 14:00:00
 - CPV: 72400000
 - Desarrollo (clasificación automática): quizá
 - Ficha en la plataforma: https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=OoYQZ5dHzvx9Zh%2FyRJgM8w%3D%3D

@@ -1,0 +1,595 @@
+
+
+--- página 1 ---
+PLIEGO  DE  PRESCRIPCIONES  TÉCNICAS  POR  EL  QUE  SE  HA  DE  REGIR  LA 
+CONTRATACIÓN  DEL  SUMINISTRO  DE  3  TAQUILLAS  INTELIGENTES 
+MULTITEMPERATURA, SU INSTALACIÓN, INTEGRACIÓN Y MANTENIMIENTO PARA 
+LA RED MUNICIPAL «COMERCIO CASTELLÓN»
+1. ANTECEDENTES
+El  Ayuntamiento  de  Castelló  de  la  Plana  dispone  de  una  red  municipal  de  taquillas 
+inteligentes multitemperatura vinculada al Marketplace «Comercio Castellón», compuesta 
+por once unidades actualmente desplegadas, así como de las plataformas tecnológicas de 
+gestión, control y monitorización asociadas.
+Dado el uso de estas taquillas por la ciudadanía y comerciantes de la ciudad y a los efectos 
+que  cubrir  nuevas  zonas,  se  hace  necesaria  la  ampliación  de  3  taquillas  inteligentes 
+multitemperatura que mantengan la continuidad operativa y la compatibilidad tecnológica de 
+la infraestructura existente, integrándose con el Marketplace «Comercio Castellón», con la 
+plataforma de gestión, control y monitorización de las taquillas y con el software multiusuario 
+de control instalado en cada taquilla.
+2. OBJETO DEL CONTRATO
+El objeto del contrato es el suministro, transporte, instalación, configuración, integración, 
+puesta en marcha y mantenimiento de tres nuevas taquillas inteligentes multitemperatura 
+destinadas a ampliar la red municipal de recogida de pedidos vinculada al Marketplace 
+«Comercio  Castellón»  en  las  siguientes  ubicaciones:  Tenencia  de  Alcaldía  Sur, 
+aparcamiento de la Avda. Del Mar enfrente Recinto ferial y centro comercial Estepark.
+El  suministro  comprenderá  los  equipos,  módulos,  componentes  auxiliares,  conectividad 
+necesaria  para  su  funcionamiento,  software  y  licencias  de  uso,  integraciones, 
+personalización  exterior,  pruebas,  formación,  documentación,  y  3  años  de  garantía, 
+mantenimiento y soporte.
+3. ALCANCE Y PRESTACIONES INCLUIDAS
+El adjudicatario deberá realizar, como mínimo, las siguientes actuaciones:
+• Suministro de tres taquillas inteligentes multitemperatura, con la configuración mínima 
+definida en este pliego.
+•  Personalización  de  las  taquillas  mediante  vinilado  según  la  imagen  gráfica  de 
+“Comercio Castellón”.
+• Transporte, descarga, montaje, anclaje e instalación en las ubicaciones que determine 
+el Ayuntamiento.
+Cód. Validación: 6FHKGXE2DARPT4FF2NMQA4QTC 
+Verificación: https://sede.castello.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 1 de 14 
+
+--- página 2 ---
+•  Suministro  e  instalación  de  todos  los  elementos  auxiliares  necesarios  para  el 
+funcionamiento seguro y completo de los equipos.
+•  Instalación  y  configuración  de  los  sistemas  de  control,  gestión,  monitorización  y 
+trazabilidad de temperatura.
+• Integración  con el  Marketplace  municipal  «Comercio  Castellón»,  con la  plataforma 
+municipal de gestión de taquillas y con el software multiusuario de control.
+• Provisión de las licencias de uso necesarias para el funcionamiento de los equipos y su 
+integración, durante los tres años de garantía.
+• Configuración de comunicaciones y acceso remoto seguro.
+• Pruebas de funcionamiento, puesta en marcha y resolución de defectos detectados.
+• Formación a administradores, comerciantes y personal técnico municipal.
+• Entrega de manuales, documentación técnica, relación de equipos y números de serie, 
+garantías y procedimientos de soporte.
+• Garantía, mantenimiento y servicio de soporte durante un mínimo de tres años.
+4. COMPATIBILIDAD E INTEGRACIÓN CON LOS SISTEMAS EXISTENTES
+4.1. Compatibilidad con la red municipal
+Las nuevas unidades deberán integrarse en la arquitectura tecnológica y operativa de la red 
+municipal existente, descrita en el Anexo II, permitiendo la administración unificada de la red 
+completa.
+No se admitirán soluciones que obliguen a desplegar portales de gestión, aplicaciones para 
+comerciantes o usuarios, o sistemas de monitorización paralelos e independientes de los 
+actualmente utilizados, salvo autorización expresa del Ayuntamiento por causa técnicamente 
+justificada.
+4.2. Integración con el Marketplace «Comercio Castellón»
+La integración deberá permitir, al menos:
+• Seleccionar la recogida en taquilla durante el proceso de compra cuando proceda.
+• Generar y comunicar códigos de apertura seguros para la recogida.
+•  Actualizar  automáticamente  los  estados  de  depósito,  ocupación,  disponibilidad  y 
+recogida.
+• Enviar notificaciones operativas a usuarios y comerciantes.
+•  Registrar  y  gestionar  incidencias  relacionadas  con  las  reservas,  aperturas  y 
+disponibilidad.
+4.3. Software multiusuario y multi-comercio
+Los equipos deberán operar con el software de gestión utilizado por la red municipal, con las 
+funcionalidades existentes que resulten aplicables, incluyendo:
+• Gestión multi-comercio y multi-vendedor.
+• Apertura remota autorizada.
+• Consulta de estados de ocupación y disponibilidad.
+• Gestión de alarmas e incidencias.
+Cód. Validación: 6FHKGXE2DARPT4FF2NMQA4QTC 
+Verificación: https://sede.castello.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 2 de 14 
+
+--- página 3 ---
+• Interfaz o API para integración con sistemas de terceros.
+4.4. Integración con la plataforma de gestión de taquillas
+Las  taquillas  deberán  integrarse  con  la  plataforma  de  gestión,  control  y  monitorización 
+actualmente  utilizada  para  administrar  la  red  municipal,  identificada  en  el  Anexo  II.  La 
+integración incluirá, como mínimo, el alta de las nuevas unidades, gestión centralizada, 
+visualización de estados, gestión remota de accesos, alarmas, estadísticas y monitorización 
+en tiempo real. No se admitirá una plataforma alternativa o independiente para sustituir la 
+existente.
+5. DESCRIPCIÓN Y REQUISITOS TÉCNICOS DE LAS TAQUILLAS
+5.1. Configuración mínima por unidad
+Cada una de las tres taquillas estará compuesta, como mínimo, por dos módulos:
+• Un módulo con la unidad de control con pantalla táctil y mínimo de 8 compartimentos 
+de depósito.
+• Un módulo de ampliación con un mínimo de 10 compartimentos de depósito.
+Totalizando  un  mínimo  de  dieciocho  compartimentos  útiles  por  taquilla,  configurables 
+individualmente entre temperatura refrigerada (+2 °C a +8 °C) y temperatura ambiente.
+La configuración de entrega será de al menos tres compartimentos a temperatura ambiente 
+y quince refrigerados, sin perjuicio de que el Ayuntamiento pueda modificarla posteriormente 
+mediante la configuración del equipo, sin coste adicional.
+5.2. Módulo de unidad de control
+El módulo de unidad de control deberá disponer, como mínimo, de:
+• Capacidad mínima de ocho compartimentos.
+• PC industrial integrado con pantalla táctil antirreflectante de uso industrial de al menos 
+19 pulgadas.
+• Router con conectividad móvil 4G/5G y conectividad Ethernet.
+• Escáner de códigos de barras y lector RFID.
+• Cerraduras electrónicas independientes por compartimento.
+• Sistema de trazabilidad y registro de temperatura o equivalente.
+• Grado de protección IPX4 como mínimo.
+• Diseño apto para funcionamiento continuado 24 horas al día, 7 días a la semana, en 
+interior y exterior.
+•  Compatibilidad  con  compartimentos  refrigerados  entre  +2  °C  y  +8  °C  y  con 
+compartimentos a temperatura ambiente.
+• Compresor con sistema anti-frost y gas refrigerante isobutano R600a, sin HFC, en los 
+módulos refrigerados.
+• Sistema de purificación de aire por ionización de plasma frío o tecnología equivalente.
+•  API  o  mecanismo  técnico  documentado  para  la  integración  con  las  plataformas 
+existentes.
+Cód. Validación: 6FHKGXE2DARPT4FF2NMQA4QTC 
+Verificación: https://sede.castello.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 3 de 14 
+
+--- página 4 ---
+5.3. Módulos de ampliación
+Los módulos de ampliación deberán cumplir, como mínimo, las siguientes características:
+• Capacidad mínima de diez compartimentos por módulo.
+• Configuración refrigerada o ambiente según las necesidades del equipo.
+•  Protección  IPX4  como  mínimo  y  cerraduras  electrónicas  independientes  por 
+compartimento.
+• Refrigeración mediante compresor con sistema anti-frost y gas refrigerante isobutano 
+R600a en los módulos refrigerados.
+• Sistema de ionización o tecnología equivalente de purificación de aire.
+• Integración de control y comunicaciones con el módulo de unidad de control.
+5.4. Características físicas y de instalación
+Los equipos deberán cumplir, como mínimo:
+• Carga máxima admisible de treinta (30) kg por compartimento.
+• Dimensiones internas útiles no inferiores a 305 × 290 × 390 mm en los compartimentos 
+de zona intermedia.
+• Aislamiento térmico superior a 60 mm en los módulos refrigerados.
+• Alimentación a 220–230 V (fase, neutro y tierra), 50 Hz, con protección diferencial de 
+16 A.
+• Consumo energético declarado por unidad, que el licitador deberá especificar en su 
+oferta.
+•  Tejadillo  con  iluminación  LED  y  detector  de  movimiento  que  permite  iluminar  las 
+taquillas tanto en horario diurno como en nocturno.
+El licitador indicará en su oferta las dimensiones exteriores y el peso de cada módulo.
+5.5. Accesibilidad
+Conforme al artículo 126.1 de la Ley 9/2017, de Contratos del Sector Público, los equipos se 
+diseñarán atendiendo a criterios de accesibilidad universal y diseño para todas las personas. 
+El licitador describirá en su oferta las soluciones adoptadas en cuanto a altura y alcance de 
+los compartimentos accesibles desde una silla de ruedas.
+5.6. Conformidad normativa
+Los  equipos  dispondrán  de  marcado  CE  y  cumplirán  la  normativa  que  les  resulte  de 
+aplicación  en  materia  de  seguridad  de  máquinas,  baja  tensión,  compatibilidad 
+electromagnética, restricción de sustancias peligrosas, residuos de aparatos eléctricos y 
+electrónicos y gases fluorados. El adjudicatario aportará la declaración UE de conformidad y 
+la documentación técnica acreditativa antes de la recepción.
+6. REFRIGERACIÓN Y TRAZABILIDAD DE TEMPERATURA
+Los compartimentos refrigerados deberán mantener una temperatura de trabajo controlada 
+entre +2 °C y +8 °C.
+El sistema de refrigeración y trazabilidad incorporará, como mínimo:
+Cód. Validación: 6FHKGXE2DARPT4FF2NMQA4QTC 
+Verificación: https://sede.castello.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 4 de 14 
+
+--- página 5 ---
+• Aislamiento térmico superior a 60 mm.
+• Compresor con sistema anti-frost.
+• Control automático de temperatura.
+• Alarmas ante desviaciones o pérdida de temperatura.
+• Lectura de sensores y registro continuo de datos térmicos.
+• Consulta del histórico, exportación de registros y alarmas ante desviación.
+No  se  admitirán  soluciones  que  carezcan  de  trazabilidad  térmica.  Los  registros  de 
+temperatura generados son titularidad del Ayuntamiento de Castelló de la Plana y deberán 
+poder exportarse en formato abierto.
+El  adjudicatario  deberá  comprobar  durante  la  puesta  en  marcha  la  correcta  lectura  de 
+sensores, la transmisión de datos y la generación de alarmas.
+7. SISTEMA DE PURIFICACIÓN DE AIRE
+Las taquillas deberán incorporar un sistema de purificación de aire mediante ionización por 
+plasma frío o tecnología equivalente, destinado a reducir la presencia de bacterias, virus, 
+hongos, moho y olores en el interior de los compartimentos, de acuerdo con las prestaciones 
+acreditadas por el fabricante.
+La oferta  deberá identificar  la  tecnología  propuesta  y aportar la  documentación  técnica 
+disponible  del  fabricante  que  describa  su  funcionamiento  y  alcance.  No  se  presumirán 
+eficacias sanitarias no acreditadas documentalmente.
+8. CONECTIVIDAD Y SEGURIDAD
+Las taquillas dispondrán de los medios de comunicación necesarios para su integración y 
+gestión remota, incluyendo:
+• Conectividad Ethernet y conectividad móvil 4G/5G.
+• Conexiones  seguras  mediante  VPN  cuando  resulte  compatible  con  la  arquitectura 
+municipal.
+• Cifrado de las comunicaciones entre los equipos y las plataformas.
+• Recuperación automática de la conectividad tras interrupciones.
+• Acceso remoto sujeto a autenticación y autorización.
+• Registro de estados, alarmas e incidencias relevantes para la operación.
+El adjudicatario describirá en su memoria la arquitectura de comunicaciones, los requisitos 
+de  conectividad,  las  medidas  de  seguridad  aplicadas  y  las  responsabilidades  que 
+correspondan al Ayuntamiento y al contratista.
+9. PERSONALIZACIÓN E IMAGEN CORPORATIVA
+Las  tres  taquillas  se  entregarán  completamente  viniladas.  El  Ayuntamiento  facilitará  el 
+diseño gráfico, la imagen corporativa de «Comercio Castellón», los logotipos institucionales 
+y, en su caso, los mensajes promocionales.
+El adjudicatario será responsable de la producción e instalación del vinilado, incluyendo su 
+coste. Antes de producirlo, presentará una prueba o maqueta para validación municipal. La 
+Cód. Validación: 6FHKGXE2DARPT4FF2NMQA4QTC 
+Verificación: https://sede.castello.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 5 de 14 
+
+--- página 6 ---
+instalación deberá realizarse con un acabado adecuado para el entorno y sin impedir el 
+acceso a elementos de ventilación, mantenimiento, seguridad o identificación.
+10. GARANTÍA Y MANTENIMIENTO
+Se establece un periodo de garantía de tres años desde la recepción o puesta en servicio 
+aceptada  por  el  Ayuntamiento,  según  determine  el  contrato.  Durante  dicho  periodo,  el 
+adjudicatario garantizará el correcto funcionamiento de los equipos y de los elementos de 
+software incluidos en su prestación.
+La garantía y el mantenimiento comprenderán, como mínimo:
+• Mantenimiento preventivo y correctivo.
+• Monitorización remota y asistencia técnica.
+•  Actualizaciones  de  software  necesarias  para  mantener  el  funcionamiento  y  la 
+integración comprometidos.
+•  Reparación  o  sustitución  de  componentes  defectuosos,  con  recambios  originales 
+homologados por el fabricante en el plazo máximo de 4 días.
+• Diagnóstico de incidencias y seguimiento hasta su resolución.
+• Revisión periódica de los equipos y comprobación del funcionamiento de sensores y 
+alarmas.
+• Disponibilidad de canales de contacto telefónico y correo electrónico para comunicar 
+incidencias.
+Los tiempos máximos de atención establecidos como requisito mínimo serán:
+• Diagnóstico inicial: máximo tres horas desde la comunicación de la incidencia.
+•  Intervención  remota:  el  mismo  día  en  que  se  comunique  la  incidencia,  cuando 
+técnicamente sea posible.
+• Intervención presencial: el siguiente día laborable cuando sea necesaria.
+La oferta deberá describir el procedimiento de apertura, clasificación, seguimiento y cierre 
+de incidencias, así como el horario de atención y las condiciones de intervención. El pliego 
+administrativo  deberá  precisar  el  cómputo de los  plazos,  el  calendario  de  servicio  y  el 
+tratamiento de daños por vandalismo, uso indebido o causas externas.
+11. SERVICIO DE SOPORTE A USUARIOS, COMERCIANTES Y AYUNTAMIENTO
+Durante el periodo de garantía y mantenimiento de tres años, el adjudicatario  prestará 
+servicio de soporte de primer nivel sobre las tres unidades suministradas, dirigido a usuarios 
+finales, comercios adheridos y personal municipal, en condiciones homogéneas con las 
+establecidas para la red municipal existente.
+11.1. Canales
+Teléfono,  WhatsApp  y  correo  electrónico,  constituyendo  punto  de  entrada  único  para 
+cualquier incidencia relativa a las nuevas unidades.
+11.2. Horario de atención a usuarios y comerciantes
+Cód. Validación: 6FHKGXE2DARPT4FF2NMQA4QTC 
+Verificación: https://sede.castello.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 6 de 14 
+
+--- página 7 ---
+De lunes a viernes de 9:00 a 18:00 horas, excepto en agosto, con jornada intensiva de 9:00 
+a 15:00 horas.
+Sábados de 9:00 a 15:00 horas. Festivos excluidos.
+11.3. Horario de soporte técnico
+De lunes a viernes de 9:00 a 18:00 horas, excepto en agosto, con jornada intensiva de 9:00 
+a 15:00 horas. Festivos excluidos.
+Fuera  de  este  horario  se  habilitará  la  recepción  de  mensajes,  que  se  procesarán  al 
+reanudarse el servicio. Los correos electrónicos recibidos fuera de horario se procesarán al 
+día siguiente a las 9:00 horas, excepto sábados, domingos y festivos.
+11.4. Alcance mínimo
+•  Resolución  de  consultas  operativas  sobre  reserva  de  compartimento,  códigos  de 
+apertura, recogida y depósito.
+• Registro, clasificación y priorización de incidencias.
+• Restablecimiento de accesos y resolución de incidencias de configuración básica.
+• Monitorización proactiva del estado de las tres unidades en tiempo real.
+•  Primera  intervención  presencial  sobre  el  equipo:  comprobación  visual,  reinicio  del 
+sistema y verificación de conectividad y del estado de los compartimentos.
+11.5. Escalado
+El licitador describirá en su oferta el procedimiento de escalado a niveles superiores de 
+soporte y su articulación con el servicio de gestión integral de la red municipal, de modo que 
+el usuario disponga de un punto de entrada único con independencia de la unidad afectada.
+12. LICENCIAS DE USO
+El adjudicatario proveerá, con cargo al contrato y durante los tres años de garantía, todas 
+las licencias de uso necesarias para el funcionamiento de las tres nuevas unidades y para 
+su integración con las plataformas municipales, comprendiendo como mínimo:
+• Licencia de uso del software multiusuario de control embebido en cada unidad.
+• Licencia de uso de la plataforma de gestión, control y monitorización de taquillas, con 
+alcance para las tres nuevas unidades.
+• Licencia del sistema operativo y del software de base instalado en el equipo.
+• Cualesquiera otras licencias de terceros necesarias para el funcionamiento integral del 
+equipo.
+Las licencias se entenderán otorgadas a favor del Ayuntamiento de Castelló de la Plana, sin 
+limitación en el número de usuarios municipales ni de comercios adheridos, y su vigencia 
+cubrirá íntegramente el periodo de garantía.
+El adjudicatario identificará en su oferta cada una de las licencias, su titular, su alcance y su 
+vigencia, y acreditará su disponibilidad  mediante declaración del titular de los derechos 
+cuando no sea él mismo.
+13. PLAN DE TRABAJO Y FASES DE EJECUCIÓN
+Cód. Validación: 6FHKGXE2DARPT4FF2NMQA4QTC 
+Verificación: https://sede.castello.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 7 de 14 
+
+--- página 8 ---
+13.1. Plazo de entrega
+El plazo máximo de suministro, instalación, integración y puesta en servicio de las tres 
+unidades será el que determine el pliego administrativo, computado desde la aceptación de 
+la adjudicación. El licitador presentará en su oferta un cronograma compatible con dicho 
+plazo, identificando expresamente los plazos de fabricación y entrega de los equipos.
+13.2. Fase de inicio
+En un plazo máximo de cinco días hábiles desde la aceptación de la adjudicación, y se 
+celebrará una reunión de inicio entre el Ayuntamiento y el adjudicatario. En esta fase, el 
+adjudicatario deberá:
+• Designar a sus interlocutores y responsables técnicos.
+• Presentar un cronograma detallado de tareas, hitos y dependencias.
+• Realizar una visita a las ubicaciones de instalación para comprobar las condiciones 
+físicas, eléctricas y de conectividad.
+• Presentar la  propuesta  definitiva  de instalación  y las necesidades  de alimentación 
+eléctrica, comunicaciones, anclaje y protección.
+•  Identificar  las  actuaciones  necesarias  para  la  integración  con  las  plataformas 
+municipales.
+Entregables mínimos: acta de reunión, cronograma de ejecución y propuesta de instalación 
+por ubicación.
+13.3. Fase de suministro e instalación
+El adjudicatario suministrará y montará los equipos en las ubicaciones que determine el 
+Ayuntamiento. Deberá coordinar previamente los trabajos con los responsables municipales, 
+señalizar la zona de trabajo, proteger las áreas próximas, mantener el orden y retirar los 
+residuos generados.
+13.4. Fase de integración y puesta en marcha
+Una  vez  instalados  los  equipos,  se  configurarán  las  comunicaciones,  el  software,  las 
+integraciones,  los  sensores,  las  alarmas  y  los  accesos.  El  adjudicatario  ejecutará  las 
+pruebas necesarias y corregirá los defectos detectados antes de solicitar la recepción.
+13.5. Seguimiento
+Durante la ejecución, el adjudicatario facilitará al Ayuntamiento información sobre el avance, 
+incidencias, medidas correctoras y cumplimiento del cronograma. Al cierre entregará un 
+informe final de instalación y puesta en marcha.
+14. PRUEBAS, ACEPTACIÓN Y PUESTA EN SERVICIO
+Antes de la recepción, se realizarán pruebas funcionales que permitan comprobar, al menos:
+• Encendido y funcionamiento continuado de cada unidad.
+• Funcionamiento de la pantalla y cerraduras electrónicas.
+• Disponibilidad, depósito, recogida, devolución y liberación de compartimentos.
+• Correcta actualización de los estados de ocupación.
+Cód. Validación: 6FHKGXE2DARPT4FF2NMQA4QTC 
+Verificación: https://sede.castello.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 8 de 14 
+
+--- página 9 ---
+• Integración de los flujos de pedido, depósito y recogida con «Comercio Castellón».
+• Gestión centralizada y monitorización desde la plataforma de gestión de taquillas.
+• Lectura de temperatura, registro histórico y exportación de datos.
+•  Funcionamiento  de  las  comunicaciones  y  recuperación  tras  una  interrupción  de 
+conectividad.
+• Correcta aplicación del vinilado y entrega de documentación.
+Las pruebas se documentarán en un acta con los resultados, defectos detectados y, en su 
+caso, plazo de subsanación. La puesta en servicio quedará condicionada a la conformidad 
+municipal y a la resolución de los defectos que impidan el uso seguro o las integraciones 
+requeridas.
+Los equipos suministrados pasarán a ser propiedad del Ayuntamiento de Castelló de la 
+Plana desde su recepción.
+15. FORMACIÓN Y DOCUMENTACIÓN
+15.1. Formación
+El  adjudicatario  impartirá  formación  presencial  o  en  la  modalidad  que  autorice  el 
+Ayuntamiento, con una duración mínima de tres horas por cada grupo formativo:
+• Administradores: gestión de la plataforma de taquillas, trazabilidad térmica, alarmas e 
+incidencias.
+• Comerciantes: depósito y recogida de pedidos y operativa diaria.
+• Personal técnico municipal: seguimiento, alarmas, informes y trazabilidad térmica.
+15.2. Documentación a entregar
+Antes de la recepción, el adjudicatario entregará en soporte electrónico, como mínimo:
+• Manuales de uso para administradores, comerciantes y usuarios, cuando proceda.
+• Manual técnico de instalación, configuración y mantenimiento.
+• Relación de equipos y componentes suministrados, con marcas, modelos y números de 
+serie.
+• Documentación de garantía, licencias de uso y canales de soporte.
+• Declaración UE de conformidad y documentación técnica reglamentaria.
+• Procedimiento de gestión de incidencias y escalado.
+• Documentación técnica de refrigeración, sensores, alarmas y sistema de purificación.
+• Actas y resultados de las pruebas de puesta en marcha.
+16. REQUISITOS DE LA OFERTA TÉCNICA
+La memoria técnica del licitador deberá permitir comprobar el cumplimiento de los requisitos 
+mínimos y contendrá, al menos:
+1. Descripción de los equipos ofertados y ficha técnica del módulo de unidad de control y 
+de los módulos de ampliación.
+Cód. Validación: 6FHKGXE2DARPT4FF2NMQA4QTC 
+Verificación: https://sede.castello.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 9 de 14 
+
+--- página 10 ---
+2. Cuadro de cumplimiento de cada requisito de este pliego, indicando cumplimiento y 
+referencia documental.
+3.  Descripción  de  la  configuración  propuesta  para  cada  una  de  las  tres  unidades, 
+acreditando al menos 3 compartimentos a temperatura ambiente y 15 refrigerados por 
+unidad.
+4. Memoria de integración con «Comercio Castellón», el software multiusuario existente y 
+la plataforma de gestión de taquillas.
+5.  Declaración  técnica  del  fabricante  sobre  la  compatibilidad  e  integración  con  la 
+infraestructura municipal existente descrita en el Anexo II.
+6. Relación de licencias de uso ofertadas, con identificación de titular, alcance y vigencia.
+7. Descripción de la conectividad, medidas de seguridad y gestión remota.
+8.  Descripción  de  la  refrigeración,  trazabilidad  térmica,  alarmas  y  tecnología  de 
+purificación de aire.
+9. Soluciones de accesibilidad adoptadas.
+10. Plan de trabajo, cronograma, método de instalación y plan de pruebas.
+11. Plan de formación y relación de documentación que se entregará.
+12.  Condiciones  de  garantía,  mantenimiento,  soporte,  atención  de  incidencias  y 
+cumplimiento de los tiempos de respuesta.
+17. HOMOGENEIDAD TECNOLÓGICA Y ACREDITACIÓN DE COMPATIBILIDAD
+Para garantizar la continuidad del servicio municipal, las nuevas unidades deberán utilizar 
+tecnología de explotación compatible con las once taquillas existentes e integrarse con el 
+software multiusuario, la plataforma de gestión de taquillas y el Marketplace «Comercio 
+Castellón», conforme a las características descritas en el Anexo II. La experiencia de uso 
+para comerciantes y ciudadanos deberá mantenerse homogénea.
+La compatibilidad se acreditará mediante declaración técnica del fabricante y memoria de 
+integración presentada por el licitador. La declaración  deberá identificar  las plataformas 
+afectadas, las interfaces previstas, las funcionalidades integradas y cualquier dependencia 
+técnica  necesaria.  El  Ayuntamiento  podrá  solicitar  aclaraciones  o  pruebas  adicionales 
+durante la valoración técnica o antes de la puesta en servicio, conforme a los pliegos del 
+procedimiento.
+En Castellón de la Plana
+(documento electrónico firmado al margen)
+Cód. Validación: 6FHKGXE2DARPT4FF2NMQA4QTC 
+Verificación: https://sede.castello.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 10 de 14 
+
+--- página 11 ---
+ANEXO I. CUADRO RESUMEN DE REQUISITOS MÍNIMOS
+Elemento Requisito mínimo Cantidad / alcance
+Taquillas Taquilla inteligente multitemperatura, 
+mínimo 2 módulos
+3 unidades
+Compartimentos por taquilla Mínimo 18 útiles (control 8 + ampliación 10) Cada unidad
+Compartimentos ambiente Mínimo 3 en configuración de entrega Cada unidad
+Compartimentos refrigerados Mínimo 15 en configuración de entrega, 
+entre +2 °C y +8 °C
+Cada unidad
+Configurabilidad Compartimentos reconfigurables 
+ambiente/refrigerado sin coste
+Cada unidad
+Control PC industrial con pantalla táctil ≥19", 
+escáner, RFID y cerraduras electrónicas
+Cada unidad
+Conectividad Ethernet y 4G/5G; gestión remota y 
+comunicaciones cifradas
+Cada unidad
+Refrigeración Aislamiento >60 mm, compresor anti-frost, 
+gas R600a, control y alarmas térmicas
+Módulos refrigerados
+Trazabilidad Registro continuo, histórico, exportación y 
+alarmas
+Cada unidad
+Purificación Plasma frío o tecnología equivalente Cada unidad
+Carga y dimensiones 30 kg por compartimento; interior mínimo 
+305 × 290 × 390 mm
+Cada compartimento
+Eléctrico 220–230 V, 50 Hz, diferencial 16 A Cada unidad
+Exterior Mueble protector, techo con LED y 
+protección anticondensación
+Unidades en exterior
+Gestión Integración con Comercio Castellón y 
+plataforma de taquillas existente
+Red unificada
+Licencias Incluidas durante los 3 años de garantía Cada unidad
+Personalización Vinilado según diseño municipal 3 unidades
+Garantía Preventivo, correctivo, actualizaciones y 
+sustitución de componentes
+3 años mínimo
+Soporte Usuarios, comerciantes y Ayuntamiento; 
+horario del apartado 11
+3 años mínimo
+Respuesta Diagnóstico ≤4 h; remoto el mismo día; 
+presencial siguiente día laborable
+Según apartado 10
+Formación Administradores, comerciantes y personal 
+técnico municipal
+≥3 h por grupo
+Cód. Validación: 6FHKGXE2DARPT4FF2NMQA4QTC 
+Verificación: https://sede.castello.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 11 de 14 
+
+--- página 12 ---
+ANEXO II CARACTERÍSTICAS TÉCNICAS DEL PARQUE INSTALADO, PLATAFORMAS 
+Y LICENCIAS
+A. Parque de taquillas instalado
+La  red  municipal  está  compuesta  por  once  taquillas  inteligentes  multitemperatura,  de 
+titularidad municipal, adquiridas en el marco de actuaciones financiadas con fondos Next 
+Generation EU.
+Ubicación Composición modular Compartimentos
+Mercat Central Unidad de Control FRIGIKERN FCT8-UC 
+(8 compartimentos) + módulo de 
+extensión refrigerado FRIGIKERN 
+FCTE10-R(10 compartimentos) + módulo 
+de extensión congelado FRIGIKERN 
+FCTE10-C (10 compartimentos)
+28
+Mercado de San Antonio Unidad de Control FRIGIKERN FCT8-UC 
+(8 compartimentos) + módulo de 
+extensión refrigerado FRIGIKERN 
+FCTE10-R(10 compartimentos)
+18
+Policía del Grao Unidad de Control FRIGIKERN FCT8-UC 
+(8 compartimentos) + módulo de 
+extensión refrigerado FRIGIKERN 
+FCTE10-R(10 compartimentos)
+18
+Tenencia Alcaldía Oeste Unidad de Control FRIGIKERN FCT8-UC 
+(8 compartimentos) + módulo de 
+extensión refrigerado FRIGIKERN 
+FCTE10-R(10 compartimentos)
+18
+Tenencia Alcaldía Norte Unidad de Control FRIGIKERN FCT8-UC 
+(8 compartimentos) + módulo de 
+extensión refrigerado FRIGIKERN 
+FCTE10-R(10 compartimentos)
+18
+Plaza Huerto Sogueros Unidad de Control FRIGIKERN FCT8-UC 
+(8 compartimentos) + módulo de 
+extensión refrigerado FRIGIKERN 
+FCTE10-R(10 compartimentos)
+18
+CEIP Vicent Marzá Unidad de Control FRIGIKERN FCT8-UC 
+(8 compartimentos) + módulo de 
+extensión refrigerado FRIGIKERN 
+FCTE10-R(10 compartimentos)
+18
+Parking CC La Salera Unidad de Control FRIGIKERN FCT8-UC 
+(8 compartimentos) + módulo de 
+extensión refrigerado FRIGIKERN 
+FCTE10-R(10 compartimentos)
+18
+Parking Clavé Unidad de Control FRIGIKERN FCT8-UC 
+(8 compartimentos) + módulo de 
+extensión refrigerado FRIGIKERN 
+FCTE10-R(10 compartimentos)
+18
+Cód. Validación: 6FHKGXE2DARPT4FF2NMQA4QTC 
+Verificación: https://sede.castello.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 12 de 14 
+
+--- página 13 ---
+Parking Hospital General Unidad de Control FRIGIKERN FCT8-UC 
+(8 compartimentos) + módulo de 
+extensión refrigerado FRIGIKERN 
+FCTE10-R(10 compartimentos)
+18
+Parking Hospital Provincial Unidad de Control FRIGIKERN FCT8-UC 
+(8 compartimentos) + módulo de 
+extensión refrigerado FRIGIKERN 
+FCTE10-R(10 compartimentos)
+18
+TOTAL 11 unidades 208
+A.1. Características técnicas de los equipos instalados
+Módulo de unidad de control FRIGIKERN FCT8-UC: ocho (8) compartimentos configurables 
+en refrigerado (+2 °C a +8 °C) o ambiente; protección IPX4; PC industrial antirreflectante con 
+pantalla táctil de 19"; placa de control; router con doble SIM; escáner de códigos de barras; 
+lector RFID; cerraduras electrónicas independientes; sistemas de control y seguridad de 
+temperatura;  aislamiento  superior  a  60  mm;  compresor  dual  anti-frost;  gas  refrigerante 
+isobutano  R600a;  sistema  de  ionización  por  plasma  frío.  Carga  máxima  de  30  kg  por 
+compartimento. Alimentación 220–230 V, 50 Hz, con protección diferencial de 16 A.
+Módulo  de  extensión  refrigerado  FCTE10-R:  diez  (10) compartimentos configurables  en 
+refrigerado, ambiente o congelado según módulo; protección IPX4; cerraduras electrónicas 
+independientes; aislamiento superior a 60 mm; compresor dual anti-frost; gas refrigerante 
+isobutano R600a; sistema de ionización por plasma frío. Control y comunicaciones a través 
+del módulo de unidad de control.
+Módulo  de  extensión  congelado  FCTE10-F:  diez  (10)  compartimentos  configurables  en 
+congelado i ambiente; protección IPX4; cerraduras electrónicas independientes; aislamiento 
+superior a 60 mm; compresor dual anti-frost; gas refrigerante isobutano R600a; sistema de 
+ionización por plasma frío. Control y comunicaciones a través del módulo de unidad de 
+control.
+Dimensiones internas de los compartimentos: zona superior 305 × 290 × 360 mm; zona 
+intermedia 305 × 290 × 390 mm; zona inferior 305 × 290 × 200 mm.
+Las unidades instaladas incorporan un tejado con iluminación LED y detector de presencia 
+que ilumina la taquilla.
+B. Plataformas tecnológicas
+Plataforma Marketplace «comerciocastellon.es»: plataforma de comercio electrónico de tipo 
+marketplace  en modalidad  de software como servicio  (SaaS) que integra la gestión  de 
+comercios,  catálogos,  usuarios,  pedidos,  pagos  y  liquidaciones,  con  acceso  mediante 
+interfaz web y aplicación móvil nativa para iOS y Android, integrada con la plataforma de 
+gestión, control y monitorización de taquillas. Software propietario; el desarrollador y titular 
+de los derechos de propiedad intelectual sobre el software de la plataforma, incluida la 
+aplicación móvil, es Urban Manzana, S.L.
+Plataforma de gestión, control y monitorización de las taquillas: plataforma en modalidad 
+SaaS compuesta por (i) sistema de gestión y monitorización centralizado en la nube, (ii) 
+software de control embebido instalado en cada unidad de taquilla y (iii) firmware de los 
+equipos. Permite la gestión, el control y la monitorización en tiempo real de las unidades 
+instaladas, incluyendo el control de depósitos, compartimentos, temperatura y conectividad, 
+Cód. Validación: 6FHKGXE2DARPT4FF2NMQA4QTC 
+Verificación: https://sede.castello.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 13 de 14 
+
+--- página 14 ---
+y la generación de alertas operativas. Software propietario; el titular de los derechos de 
+propiedad intelectual e industrial sobre la plataforma, el software embebido, el firmware y los 
+protocolos de comunicación es Frigikern, S.L.
+C. Régimen de licencias de uso
+Las  licencias  de  uso  correspondientes  a  las  tres  nuevas  unidades  objeto  del  presente 
+contrato no se encuentran cubiertas y deberán ser provistas por el adjudicatario, con cargo 
+al presente contrato, durante los tres años de garantía.
+Cód. Validación: 6FHKGXE2DARPT4FF2NMQA4QTC 
+Verificación: https://sede.castello.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 14 de 14 

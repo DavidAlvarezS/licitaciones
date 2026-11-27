@@ -1,0 +1,398 @@
+
+
+--- página 1 ---
+PLIEGO DE PRESCRIPCIONES TÉCNICAS RELATIVO A LA CONTRATACIÓN 
+DEL SERVICIO, EN MODALIDAD SAAS, DE UNA PLATAFORMA PARA LA 
+GESTIÓN DE RESERVAS, ALOJAMIENTO, ACTIVIDADES Y EXPERIENCIAS 
+DEL ALBERGUE DE ANAGA Y LA CUEVA DEL VIENTO, MEDIANTE 
+PROCEDIMIENTO ABIERTO SIMPLIFICADO ABREVIADO
+Número de expediente: 305/2026
+Cód. Validación: ATMTXRZKALEDTRCXRGRX2YAWE 
+Verificación: https://idecogestion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 1 de 13 
+
+--- página 2 ---
+ÍNDICE
+1. ANTECEDENTES Y JUSTIFICACIÓN DE LA NECESIDAD....................................................3
+2. OBJETO DEL CONTRATO...........................................................................................................3
+3. DIVISIÓN EN LOTES.....................................................................................................................4
+4. PRESTACIONES INTEGRANTES DEL CONTRATO...............................................................5
+4.1. Objeto de las prestaciones.....................................................................................................5
+4.2. Funcionalidades mínimas de la plataforma..........................................................................6
+Gestión de alojamiento...............................................................................................................6
+Gestión de actividades y experiencias......................................................................................6
+Comercialización online..............................................................................................................6
+Gestión de clientes......................................................................................................................6
+Informes y estadísticas...............................................................................................................7
+4.3. Requisitos técnicos del software............................................................................................7
+4.4. Implantación, migración y puesta en marcha.......................................................................8
+4.5. Soporte técnico y mantenimiento...........................................................................................9
+4.6. Seguridad de la información, protección de datos y reversibilidad.................................10
+4.7. Informes, seguimiento y control del servicio......................................................................11
+5. CARACTERÍSTICAS Y OBLIGACIONES DEL CONTRATISTA............................................12
+Cód. Validación: ATMTXRZKALEDTRCXRGRX2YAWE 
+Verificación: https://idecogestion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 2 de 13 
+
+--- página 3 ---
+1. ANTECEDENTES Y JUSTIFICACIÓN DE LA NECESIDAD
+La entidad mercantil “Gestión Insular para el Deporte, la Cultura y el Ocio, S.A.” 
+(IDECO, S.A.), cuyo capital social pertenece íntegramente al Cabildo Insular de 
+Tenerife, tiene  entre sus  fines la gestión de instalaciones deportivas, culturales, 
+turísticas, educativas y de ocio de interés insular.
+Entre los centros gestionados por la entidad se encuentran el Albergue de Anaga y 
+Cueva del Viento, recursos turísticos que desarrollan actividades relacionadas con 
+el alojamiento, la gestión de visitas guiadas, la venta de entradas, la organización de 
+actividades y la atención a visitantes.
+El correcto funcionamiento de ambos centros requiere disponer de una herramienta 
+tecnológica que permita gestionar de forma centralizada las reservas, controlar las 
+disponibilidades y aforos, comercializar servicios a través de internet, automatizar 
+comunicaciones  con  clientes  y  obtener  información  estadística  para  la  toma  de 
+decisiones.
+A fin de garantizar una gestión eficiente, actualizada y adaptada a las necesidades 
+de ambos centros, resulta necesaria la contratación de una empresa especializada 
+que proporcione una plataforma tecnológica integral, incluyendo los servicios de 
+implantación,  configuración,  mantenimiento,  soporte  técnico  y  actualización 
+permanente.
+2. OBJETO DEL CONTRATO
+El objeto del contrato es la prestación, en modalidad de software como servicio —
+SaaS—, de una plataforma informática para la gestión de reservas, alojamiento, 
+actividades y experiencias turísticas del Albergue de Anaga y la Cueva del Viento.
+El servicio comprenderá la puesta a disposición del derecho de uso de la plataforma, 
+su alojamiento, implantación, configuración, parametrización, migración de datos, 
+formación, mantenimiento, actualización y soporte técnico durante toda la vigencia 
+del contrato.
+La solución deberá permitir la gestión unificada de ambas instalaciones mediante 
+una única plataforma tecnológica accesible a través de internet.
+El objeto contractual incluye:
+ Implantación inicial de la solución.
+ Parametrización y configuración.
+ Migración de datos.
+Cód. Validación: ATMTXRZKALEDTRCXRGRX2YAWE 
+Verificación: https://idecogestion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 3 de 13 
+
+--- página 4 ---
+ Formación inicial del personal.
+ Licenciamiento de uso del software.
+ Hosting o alojamiento de la plataforma.
+ Mantenimiento evolutivo y correctivo.
+ Soporte técnico durante toda la vigencia contractual.
+ Actualizaciones funcionales y de seguridad.
+El objeto del contrato se corresponde, entre otros, con los siguientes códigos CPV:
+ 72268000-1 Servicios de suministro de software.
+ 72267100-0 Mantenimiento de software de tecnología de la información.
+ 72261000-2 Servicios de apoyo al software.
+3. DIVISIÓN EN LOTES
+Justificación de la no división en lotes
+De conformidad con lo dispuesto en el artículo 99.3 de la Ley 9/2017, de 8 de 
+noviembre, de Contratos del Sector Público, se considera necesario no dividir el 
+objeto del contrato en lotes.
+Aunque  la  solución  a  implantar  contempla  funcionalidades  diferenciadas  para  la 
+gestión de alojamiento turístico del Albergue de Anaga y para la comercialización de 
+experiencias turísticas de la Cueva del Viento, ambas prestaciones forman parte de 
+una estrategia común de gestión y comercialización turística  desarrollada por la 
+entidad contratante.
+La ejecución independiente de dichas prestaciones por distintos contratistas podría 
+dificultar  la  correcta  ejecución  del  contrato  desde  el  punto  de  vista  técnico,  al 
+requerirse la integración funcional de los distintos módulos en una única plataforma 
+tecnológica que permita la gestión centralizada de reservas, clientes, disponibilidad, 
+pasarelas  de  pago,  estadísticas,  informes  de  explotación,  canales  de 
+comercialización y herramientas de administración.
+Asimismo, la futura incorporación de actividades y experiencias complementarias 
+vinculadas al Albergue de Anaga hace necesario disponer de un sistema unificado 
+capaz de gestionar conjuntamente productos de alojamiento y experiencias turísticas 
+bajo  criterios  homogéneos  de  explotación,  evitando  duplicidades  de  sistemas, 
+incidencias  de  interoperabilidad,  costes  adicionales  de  integración  y  posibles 
+conflictos de responsabilidad entre distintos proveedores.
+Cód. Validación: ATMTXRZKALEDTRCXRGRX2YAWE 
+Verificación: https://idecogestion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 4 de 13 
+
+--- página 5 ---
+La existencia de un único adjudicatario garantiza la compatibilidad tecnológica de 
+todos los módulos que integran la solución, simplifica las tareas de mantenimiento y 
+soporte, reduce los tiempos de respuesta ante incidencias y permite una evolución 
+coordinada de la plataforma durante toda la vigencia del contrato.
+Por todo ello, se concluye que la división en lotes podría comprometer la correcta 
+ejecución técnica del contrato y generar dificultades de coordinación incompatibles 
+con  los  objetivos  perseguidos,  considerándose  justificada  la  licitación  de  una 
+solución integral única.
+4. PRESTACIONES INTEGRANTES DEL CONTRATO
+4.1. Objeto de las prestaciones
+El contrato tiene por finalidad poner a disposición de IDECO, S.A. una plataforma 
+informática especializada para la gestión turística y comercial de los centros.
+El adjudicatario deberá garantizar durante toda la vigencia contractual:
+ Disponibilidad de la plataforma.
+ Correcto funcionamiento del sistema.
+ Actualización tecnológica permanente.
+ Resolución de incidencias.
+ Soporte técnico a usuarios.
+ Seguridad de la información.
+ Continuidad del servicio.
+El servicio comprenderá, como mínimo:
+1. Implantación y parametrización inicial.
+2. Configuración de usuarios y perfiles.
+3. Formación del personal designado por IDECO.
+4. Mantenimiento preventivo, correctivo y evolutivo.
+5. Soporte técnico.
+6. Actualizaciones de seguridad.
+7. Copias de seguridad.
+Cód. Validación: ATMTXRZKALEDTRCXRGRX2YAWE 
+Verificación: https://idecogestion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 5 de 13 
+
+--- página 6 ---
+8. Elaboración de informes y estadísticas.
+9. Actualizaciones funcionales y de seguridad. 
+10.Realización y conservación de copias de seguridad. 
+11.Reversibilidad y entrega de la información al finalizar el contrato.
+4.2. Funcionalidades mínimas de la plataforma
+La plataforma deberá incorporar, como mínimo, las siguientes funcionalidades:
+Gestión de alojamiento
+ Reserva de habitaciones y plazas.
+ Gestión de disponibilidad en tiempo real.
+ Control de ocupación.
+ Gestión de grupos.
+ Gestión de tarifas y temporadas.
+Gestión de actividades y experiencias
+ Venta de entradas. (Hasta 10.000 reservas anuales por centro)
+ Gestión de visitas guiadas.
+ Control de aforos.
+ Gestión de horarios y turnos.
+ Configuración de actividades y experiencias.
+Comercialización online
+ Motor de reservas integrado.
+ Venta online a través de página web.
+ Integración con pasarelas de pago seguras.
+ Emisión automática de confirmaciones de reserva.
+ Gestión de anulaciones y modificaciones.
+ Channel Manager
+Cód. Validación: ATMTXRZKALEDTRCXRGRX2YAWE 
+Verificación: https://idecogestion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 6 de 13 
+
+--- página 7 ---
+Gestión de clientes
+ Base de datos de usuarios.
+ Historial de reservas.
+ Gestión de agencias, colectivos y operadores turísticos.
+Informes y estadísticas
+ Estadísticas de ocupación.
+ Estadísticas de visitas.
+ Informes de ventas.
+ Exportación de datos en formatos habituales.
+ Cuadros de mando e indicadores de gestión.
+4.3. Requisitos técnicos del software
+Licencias de uso y usuarios
+La solución ofertada deberá incluir todas las licencias, autorizaciones y derechos de 
+uso necesarios para su plena utilización durante toda la vigencia del contrato, sin 
+limitaciones que impidan el normal desarrollo de las funciones encomendadas a 
+IDECO, S.A.
+La plataforma deberá permitir, como mínimo, el acceso simultáneo de diez (10) 
+usuarios, con posibilidad de creación y gestión de perfiles.
+Integraciones y conectividad
+La  solución  deberá  permitir  su  integración  con  las  páginas  web  corporativas 
+utilizadas por IDECO, S.A. para la comercialización de servicios turísticos, así como 
+con las pasarelas de pago que determine la entidad contratante.
+Asimismo, deberá posibilitar la exportación de información en formatos abiertos e 
+interoperables, incluyendo, al menos, formatos CSV, Excel y XLSX o equivalentes, 
+con el fin de facilitar el tratamiento posterior de la información por parte de IDECO, 
+S.A.
+Todas las integraciones necesarias para la correcta puesta en funcionamiento de la 
+solución se entenderán incluidas dentro del objeto del contrato, sin que puedan 
+generar costes adicionales para la entidad contratante.
+Cód. Validación: ATMTXRZKALEDTRCXRGRX2YAWE 
+Verificación: https://idecogestion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 7 de 13 
+
+--- página 8 ---
+Gestión económica y administrativa
+La plataforma deberá disponer, como mínimo, de funcionalidades que permitan:
+a) La gestión y control de cobros asociados a reservas, entradas, actividades y 
+servicios.
+b) La tramitación y registro de devoluciones y anulaciones.
+c) La obtención de informes económicos y de explotación.
+d) La generación de cierres de actividad y liquidaciones.
+e) La consulta histórica de operaciones realizadas.
+f) La exportación de información económica y administrativa para su tratamiento por 
+otros  sistemas  corporativos.
+4.4. Implantación, migración y puesta en marcha
+El adjudicatario será responsable de la implantación integral de la solución objeto del 
+contrato,  incluyendo  la  configuración, parametrización, migración  de  información, 
+pruebas funcionales y puesta en producción.
+La implantación deberá ejecutarse minimizando cualquier afección a los servicios 
+actualmente  en  funcionamiento  y  garantizando  la  continuidad  operativa  de  los 
+centros gestionados por IDECO, S.A.
+Plazo máximo de implantación
+El  plazo  máximo  para  la  implantación  completa  de  la  solución,  incluida  la 
+configuración  inicial,  migración  de  datos,  realización  de  pruebas,  formación  de 
+usuarios  y  entrada  en  producción,  será  de  tres  (3)  meses  contados  desde  la 
+formalización del contrato.
+Los trabajos incluirán:
+1. Reunión inicial de planificación.
+2. Configuración de la plataforma.
+3. Parametrización de recursos y actividades.
+4. Configuración de tarifas y calendarios.
+5. Importación o migración de datos cuando resulte necesaria.
+6. Pruebas funcionales.
+Cód. Validación: ATMTXRZKALEDTRCXRGRX2YAWE 
+Verificación: https://idecogestion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 8 de 13 
+
+--- página 9 ---
+7. Puesta en producción.
+8. Formación inicial de usuarios.
+A  tal  efecto,  el  adjudicatario  deberá  presentar  un  plan  de  implantación  que 
+contemple,  al  menos,  la  planificación  temporal  de  los  trabajos,  las  actuaciones 
+previstas, los hitos de ejecución y los responsables de cada fase.
+Migración de datos
+Cuando  resulte  necesaria  la  migración  de  información  procedente  de  sistemas 
+preexistentes,  el  adjudicatario  deberá  realizar  las  actuaciones  necesarias  para 
+garantizar la correcta transferencia, integridad y disponibilidad de los datos.
+Las tareas de migración incluirán, como mínimo, la importación de los datos que 
+determine IDECO, S.A., así como la verificación de su correcta incorporación a la 
+nueva plataforma.
+4.5. Soporte técnico y mantenimiento
+Disponibilidad del servicio
+La  plataforma  deberá  mantener  una  disponibilidad  anual  mínima  del  noventa  y 
+nueve con cinco por ciento (99,5%), excluyendo exclusivamente las ventanas de 
+mantenimiento programadas y previamente comunicadas a IDECO, S.A.
+Gestión de incidencias y niveles de servicio
+El adjudicatario deberá prestar soporte técnico durante toda la vigencia del contrato 
+mediante correo electrónico, teléfono y/o plataforma de gestión de incidencias.
+El servicio de soporte deberá encontrarse disponible, como mínimo, de lunes a 
+viernes, en horario de 08:00 a 16:00 horas, excluidos los festivos.
+Clasificación de incidencias
+A los efectos del presente contrato, las incidencias se clasificarán de la siguiente 
+forma:
+Incidencia crítica: aquella que provoque la indisponibilidad total de la plataforma o la 
+imposibilidad de realizar reservas, gestionar accesos o efectuar cobros.
+Incidencia grave: aquella que afecte a una funcionalidad esencial de la plataforma y 
+limite significativamente la prestación del servicio.
+Incidencia media: aquella que afecte parcialmente al funcionamiento de la solución y 
+Cód. Validación: ATMTXRZKALEDTRCXRGRX2YAWE 
+Verificación: https://idecogestion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 9 de 13 
+
+--- página 10 ---
+disponga de procedimientos alternativos de utilización.
+Incidencia  leve:  consultas,  incidencias  menores  o  ajustes  de  configuración  sin 
+afección significativa a la prestación ordinaria del servicio.
+El adjudicatario deberá respetar, como mínimo, los siguientes niveles de servicio:
+ Incidencias  críticas:  respuesta  en  un  plazo  máximo  de  una  (1)  hora  y 
+resolución o restablecimiento del servicio en un plazo máximo de cuatro (4) 
+horas.
+ Incidencias graves: respuesta  en un plazo máximo de cuatro (4) horas y 
+resolución en un plazo máximo de un (1) día hábil.
+ Incidencias medias: respuesta en un plazo máximo de un (1) día hábil y 
+resolución en un plazo máximo de tres (3) días hábiles.
+ Incidencias leves: respuesta en un plazo máximo de dos (2) días hábiles y 
+resolución en un plazo máximo de cinco (5) días hábiles.
+Cuando una incidencia crítica no pueda ser resuelta definitivamente dentro del plazo 
+indicado,  el  adjudicatario  se  prestará  a  implantar  una  solución  provisional  que 
+permita restablecer la operatividad del servicio y mantener informado al responsable 
+del contrato sobre las actuaciones realizadas.
+4.5.1. Alcance del mantenimiento evolutivo
+El mantenimiento evolutivo comprenderá las mejoras generales incorporadas por el 
+fabricante o proveedor a la solución, las actualizaciones funcionales de carácter 
+general y las adaptaciones derivadas de cambios normativos o de requisitos de 
+seguridad que resulten exigibles durante la vigencia del contrato.
+No tendrán la consideración de mantenimiento evolutivo los desarrollos específicos, 
+personalizaciones singulares o funcionalidades no previstas en el presente Pliego, 
+que,  en  su  caso,  requerirán  la  correspondiente  tramitación  contractual 
+independiente.
+4.6. Seguridad de la información, protección de datos y reversibilidad
+Titularidad de la información
+Todos los datos incorporados, generados, tratados o almacenados a través de la 
+plataforma serán de titularidad exclusiva de IDECO, S.A.
+El  adjudicatario  se  compromete  a  no  utilizar  dicha  información  para  finalidades 
+distintas de la correcta ejecución del contrato.
+Cód. Validación: ATMTXRZKALEDTRCXRGRX2YAWE 
+Verificación: https://idecogestion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 10 de 13 
+
+--- página 11 ---
+Alojamiento de la información
+El adjudicatario deberá identificar, cuando proceda, la ubicación de los sistemas de 
+alojamiento utilizados para la prestación del servicio, así como los proveedores o 
+subencargados que intervengan en el tratamiento de los datos.
+Notificación de incidentes de seguridad
+El adjudicatario deberá comunicar a IDECO, S.A. cualquier incidente de seguridad 
+que  afecte  o  pueda  afectar  a  la  confidencialidad,  integridad,  disponibilidad  o 
+autenticidad de la información gestionada.
+Dicha comunicación deberá realizarse de forma inmediata y, en todo caso, en un 
+plazo máximo de veinticuatro (24) horas desde el momento de su detección.
+Copias de seguridad y recuperación
+La  solución  deberá  realizar  copias  de  seguridad  automáticas  diarias  de  la 
+información almacenada.
+Las copias deberán conservarse durante un período mínimo de treinta (30) días 
+naturales y garantizar la recuperación íntegra de los datos en caso de incidente o 
+pérdida de información.
+Reversibilidad y finalización del contrato
+A la finalización del contrato, cualquiera que sea su causa, el adjudicatario deberá 
+poner  a  disposición  de  IDECO,  S.A.  la  totalidad  de  la  información  gestionada 
+mediante la plataforma.
+La entrega deberá realizarse en formatos abiertos, estructurados e interoperables 
+que permitan su reutilización y migración a otros sistemas.
+Asimismo,  el  adjudicatario  estará  obligado  a  colaborar  razonablemente  en  las 
+actuaciones de transición y migración hacia una nueva solución tecnológica que 
+pueda implantar IDECO, S.A.
+Una  vez  concluido  el  proceso  de  transferencia  de  información,  el  adjudicatario 
+deberá proceder a la supresión de los datos que obren en su poder, salvo obligación 
+legal  de  conservación,  acreditando  documentalmente  dicha  actuación.
+4.7. Informes, seguimiento y control del servicio
+El adjudicatario deberá facilitar toda la información necesaria para el seguimiento de 
+la ejecución contractual.
+Cód. Validación: ATMTXRZKALEDTRCXRGRX2YAWE 
+Verificación: https://idecogestion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 11 de 13 
+
+--- página 12 ---
+A requerimiento del Responsable del Contrato deberá proporcionar:
+1. Relación de incidencias registradas.
+2. Tiempos de respuesta y resolución.
+3. Estadísticas de utilización de la plataforma.
+4. Informes de disponibilidad del servicio.
+5. Registro de actualizaciones realizadas.
+6. Estado de las copias de seguridad.
+7. Informes de seguridad cuando sean requeridos.
+Toda esta información podrá utilizarse para verificar el correcto cumplimiento de las 
+obligaciones contractuales.
+5. CARACTERÍSTICAS Y OBLIGACIONES DEL CONTRATISTA
+Atendiendo a la naturaleza del contrato, el adjudicatario deberá asumir las siguientes 
+obligaciones:
+1. Ejecutar el servicio con la diligencia exigible a una empresa especializada en 
+soluciones tecnológicas de gestión turística y reservas.
+2. Mantener operativa la plataforma durante toda la vigencia contractual.
+3. Garantizar la disponibilidad, estabilidad y rendimiento adecuados del sistema.
+4. Realizar todas las actualizaciones técnicas y de seguridad necesarias sin 
+coste adicional para IDECO, S.A.
+5. Resolver las incidencias comunicadas dentro de los plazos comprometidos en 
+su oferta.
+6. Garantizar la integridad, confidencialidad y disponibilidad de la información 
+gestionada.
+7. Mantener actualizados los sistemas de copia de seguridad y recuperación 
+ante desastres.
+8. Impartir la  formación inicial  comprometida  y  facilitar apoyo  a los  usuarios 
+durante la implantación.
+9. Cumplir las obligaciones derivadas de la normativa sobre protección de datos 
+y seguridad de la información.
+Cód. Validación: ATMTXRZKALEDTRCXRGRX2YAWE 
+Verificación: https://idecogestion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 12 de 13 
+
+--- página 13 ---
+10.Facilitar  la  coordinación  permanente  con  el  Responsable  del  Contrato 
+designado por IDECO, S.A.
+11.Cumplir  la  normativa  vigente  en  materia  laboral,  prevención  de  riesgos 
+laborales, protección de datos, seguridad de la información y medio ambiente.
+El  incumplimiento  de  las  obligaciones  previstas  en  el  presente  Pliego  tendrá  la 
+consideración de incumplimiento contractual, sin perjuicio de la aplicación de las 
+penalidades o de la resolución del contrato en los términos previstos en el Pliego de 
+Cláusulas Administrativas Particulares.
+San Cristóbal de La Laguna, a la fecha de firma.
+IDECO, S.A.
+Cód. Validación: ATMTXRZKALEDTRCXRGRX2YAWE 
+Verificación: https://idecogestion.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 13 de 13 

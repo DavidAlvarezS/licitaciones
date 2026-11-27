@@ -1,0 +1,2246 @@
+
+
+--- página 1 ---
+ 
+Página 1 de 58 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EXPEDIENTE 2026004370 
+ 
+PREGO DE PRESCRIPCIÓNS TÉCNICAS  
+ 
+QUE REXIRÁ A CONTRATACIÓN DA SUBMINISTRACIÓN E POSTA EN MARCHA 
+DUNHA APLICACIÓN DIXITAL VAL MIÑOR CULTURAL 
+(PAI VAL MIÑOR 15 MINUTOS) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 2 ---
+ 
+Página 2 de 58 
+ 
+  
+ 
+ 
+ 
+CONTIDO 
+CONTIDO ...........................................................................................................................................................2 
+1. ANTECEDENTES .................................................................................................................................... 5 
+2. OBXECTO ............................................................................................................................................... 6 
+3. ALCANCE DO CONTRATO ................................................................................................................. 7 
+3.1. Compoñentes da solución .................................................................................................. 8 
+3.2. Desenvolvemento e implantación .................................................................................. 8 
+3.3. Integración e interoperabilidade ..................................................................................... 9 
+3.4. Formación e documentación ........................................................................................... 10 
+3.5. Aloxamento, soporte e mantemento ............................................................................. 11 
+3.6. Entrega da solución e propiedade intelectual ........................................................... 11 
+3.7. Evolución futura da plataforma ....................................................................................... 11 
+3.8. Migración e carga inicial da información .................................................................... 11 
+4. REFERENCIA ÁS CONDICIÓNS XERAIS ........................................................................................ 12 
+5. OUTRAS CONDICIÓNS PARA A EXECUCIÓN DO CONTRATO.............................................. 13 
+5.1. Idioma ......................................................................................................................................... 13 
+5.2. Coordinación técnica ........................................................................................................... 13 
+5.3. Metodoloxía de execución ................................................................................................. 14 
+5.4. Documentación e entregables ........................................................................................ 14 
+5.5. Confidencialidade da información ................................................................................ 14 
+5.6. Protección de datos persoais ........................................................................................... 15 
+5.7. Accesibilidade universal ..................................................................................................... 15 
+5.8. Propiedade intelectual ........................................................................................................ 15 
+5.9. Comunicación e publicidade ........................................................................................... 15 
+6. SEGUIMENTO TÉCNICO .................................................................................................................... 16 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 3 ---
+ 
+Página 3 de 58 
+ 
+  
+7. FASES PARA A EXECUCIÓN DO CONTRATO.............................................................................. 17 
+7.1. Fase 1. Análise, deseño, desenvolvemento e implantación inicial .................. 17 
+7.2. Fase 2. Período de probas e recepción provisional ................................................ 18 
+7.3. Fase 3. Posta en funcionamento e soporte á explotación ................................... 19 
+7.4. Fase 4. Desenvolvemento evolutivo .............................................................................. 19 
+8. REQUISITOS XERAIS DA PLATAFORMA ........................................................................................ 21 
+9. PRESCRICIÓNS DA PLATAFORMA DE XESTIÓN ........................................................................ 25 
+9.1. Módulo de xestión de usuarios, roles e permisos ................................................... 26 
+9.2. Módulo de xestión da rede de espazos culturais ................................................... 27 
+9.3. Módulo de reservas e solicitudes de uso dos espazos culturais ..................... 28 
+9.4. Módulo de axenda cultural dixital e xestión de eventos ..................................... 30 
+9.5. Portal web público ................................................................................................................ 32 
+9.6. Aplicacións móbiles para Android e iOS .................................................................... 33 
+9.7. BackOffice de administración ......................................................................................... 34 
+9.8. Módulo de comunicacións e notificacións ................................................................ 35 
+9.9. Módulo de incidencias, mantemento e calidade dos espazos ....................... 36 
+9.10. Módulo de transparencia, indicadores e explotación de datos ...................... 36 
+9.11. Módulo de integración con sistemas externos ........................................................ 37 
+10. PRESCRICIÓNS ESPECÍFICAS NA FASE DE PROBA............................................................. 38 
+11. PRESCRICIÓNS ESPECÍFICAS NA FASE DE POSTA EN MARCHA ........................................ 39 
+12. PRESCRICIÓNS ESPECÍFICAS PARA O PLAN DE DESENVOLVEMENTO EVOLUTIVO. .... 40 
+13. DOCUMENTACIÓN E INFORMACIÓN TÉCNICA XERADA ...................................................... 40 
+14. LICENZAS E SUSTENTABILIDADE TECNOLÓXICA DA PLATAFORMA ............................. 42 
+15. PERÍODO DE GARANTÍA .............................................................................................................. 45 
+16. CLASIFICACIÓN E XESTIÓN DE INCIDENCIAS ..................................................................... 46 
+16.1. Impacto ..................................................................................................................................... 46 
+16.2. Urxencia ..................................................................................................................................... 47 
+16.3. Modelo de priorización ....................................................................................................... 48 
+16.4. Xestión de incidencias ........................................................................................................ 48 
+17. ACORDOS DE NIVEL DE SERVIZO .................................................................................................. 49 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 4 ---
+ 
+Página 4 de 58 
+ 
+  
+17.1. Resolución de incidencias de prioridade crítica ..................................................... 50 
+17.2. Resolución de incidencias de prioridade alta ........................................................... 51 
+17.3. Resolución de incidencias de prioridade media ..................................................... 51 
+17.4. Resolución de incidencias de prioridade baixa ...................................................... 52 
+17.5. Servizo de soporte técnico especializado .................................................................. 52 
+17.6. Dispoñibilidade do servizo ................................................................................................ 53 
+18. TRANSFERENCIA TECNOLÓXICA E DO COÑECEMENTO .................................................. 53 
+19. CONFIDENCIALIDADE E PROTECCIÓN DE DATOS .............................................................. 55 
+20. NORMATIVA VIXENTE .................................................................................................................. 57 
+ 
+  
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 5 ---
+ 
+Página 5 de 58 
+ 
+  
+1. ANTECEDENTES 
+A Área Urbana Funcional do Val Miñor, conformada polos municipios de Baiona, 
+Gondomar e Nigrán, constitúe un territorio cunha intensa actividade social, cultural 
+e turística, no que existe unha ampla rede de equipamentos e espazos destinados 
+ao desenvolvemento de actividades culturais, educativas, sociais e de participación 
+cidadá. Este territorio conta cunha poboación próxima aos 50.000 habitantes e 
+intégrase na Rexión Urbana Vigo–Pontevedra, caracterizada por unha elevada 
+interrelación funcional entre os seus municipios. 
+A Estratexia de Desenvolvemento Integrado Local – Axenda Urbana do Val Miñor 
+(AUVM), elaborada no marco da Axenda Urbana e Rural da Provincia de Pontevedra 
+(AUPO 2030), identifica entre os seus obxectivos estratéxicos a necesidade de 
+reforzar a cohesión territorial, favorecer a inclusión social e impulsar a posta en valor 
+do patrimonio cultural como elemento dinamizador do territorio. Neste contexto, o 
+Plan de Actuación Integrado (PAI) "Val Miñor 15 minutos" incorpora o Proxecto 3: 
+Ecosistema cultural para o desenvolvemento e a inclusión social, orientado á mellora 
+e ampliación da rede sociocultural do Val Miñor como elemento vertebrador da 
+actividade cultural e da participación cidadá. 
+Entre as actuacións previstas neste proxecto inclúese a actuación 3.4. Aplicación 
+Dixital Val Miñor Cultural, destinada á implantación dunha ferramenta tecnolóxica 
+que facilite a xestión integrada da rede de espazos culturais do ámbito territorial do 
+Val Miñor. Segundo a candidatura presentada ao PAI, esta aplicación permitirá 
+centralizar a información relativa aos distintos espazos culturais, facilitar a súa 
+reserva, uso e mantemento, así como integrar unha Axenda Cultural dixital que 
+proporcione acceso actualizado á programación cultural, eventos e actividades 
+desenvolvidas no territorio, mediante unha interface intuitiva e accesible. 
+A transformación dixital da xestión dos equipamentos culturais constitúe unha 
+actuación estratéxica para mellorar a coordinación entre as administracións 
+participantes, optimizar o aproveitamento dos recursos públicos e facilitar á 
+cidadanía un acceso unificado á oferta cultural existente no Val Miñor. Así mesmo, 
+permitirá avanzar cara a un modelo de xestión máis eficiente, transparente e 
+orientado aos servizos públicos dixitais, favorecendo unha maior difusión da 
+actividade cultural e incrementando a accesibilidade da información para a 
+cidadanía. 
+Neste contexto, a Deputación de Pontevedra promove a contratación dunha solución 
+tecnolóxica integral que permita o desenvolvemento, implantación, posta en 
+funcionamento, aloxamento, mantemento e evolución da Aplicación Dixital Val Miñor 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 6 ---
+ 
+Página 6 de 58 
+ 
+  
+Cultural, como ferramenta común para a xestión da rede de espazos culturais e da 
+programación cultural compartida dos municipios de Baiona, Gondomar e Nigrán. 
+Co obxectivo de evitar duplicidades na introdución da información cultural e 
+favorecer a interoperabilidade entre administracións públicas, a solución 
+tecnolóxica deberá aproveitar os servizos de intercambio de información xa 
+existentes, permitindo a integración coa Axenda Cultural da Xunta de Galicia 
+mediante o servizo web JSON do conxunto de datos «Axenda de Cultura de Galicia» 
+publicado pola Xunta de Galicia no seu portal de datos abertos (abertos.xunta.gal). 
+2. OBXECTO 
+O obxecto do presente contrato é o deseño, desenvolvemento, implantación, 
+configuración, posta en funcionamento, aloxamento, mantemento e evolución 
+dunha plataforma tecnolóxica integral denominada Aplicación Dixital Val Miñor 
+Cultural, destinada á xestión dixital da rede de espazos culturais do Val Miñor e á 
+difusión da programación cultural dos municipios de Baiona, Gondomar e Nigrán, 
+baixo a modalidade Software como Servizo (SaaS). 
+A plataforma permitirá centralizar a información relativa aos espazos culturais 
+municipais, facilitar a súa planificación, reserva, utilización e mantemento, así como 
+ofrecer á cidadanía un acceso unificado á programación cultural do territorio 
+mediante unha solución dixital accesible, intuitiva e interoperable. 
+O proxecto comprenderá o desenvolvemento e posta en funcionamento, como 
+mínimo, dos seguintes compoñentes: 
+• Aplicación web pública para consulta da programación cultural, dos espazos 
+culturais e dos servizos ofrecidos pola plataforma.  
+• Aplicación móbil para dispositivos Android.  
+• Aplicación móbil para dispositivos iOS.  
+• Plataforma de administración (BackOffice), destinada á xestión integral da 
+rede de espazos culturais, da programación, das reservas, das persoas 
+usuarias e do resto de funcionalidades da plataforma.  
+A solución incorporará unha Axenda Cultural Dixital que integrará a programación 
+cultural xerada polos concellos participantes e a información procedente doutras 
+administracións públicas. 
+Para este fin, a empresa adxudicataria deberá desenvolver os mecanismos 
+necesarios para integrar a información publicada na Axenda Cultural da Xunta de 
+Galicia, mediante o servizo web JSON do conxunto de datos «Axenda de Cultura de 
+Galicia» publicado pola Xunta de Galicia no seu portal de datos abertos 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 7 ---
+ 
+Página 7 de 58 
+ 
+  
+(abertos.xunta.gal), garantindo a sincronización diaria da información e a 
+adaptación ás modificacións técnicas que poidan producirse durante a execución 
+do contrato, sen custo adicional para a Administración. 
+Así mesmo, o contrato comprenderá todas as prestacións necesarias para a 
+completa implantación da solución, incluíndo, entre outras, o deseño funcional e 
+técnico, o desenvolvemento dos compoñentes software, a súa integración, 
+configuración, probas, posta en funcionamento, aloxamento na nube, soporte 
+técnico, mantemento correctivo, preventivo, adaptativo e evolutivo, formación ás 
+persoas designadas pola Administración, elaboración da documentación técnica e 
+funcional e a prestación dos servizos necesarios para garantir o correcto 
+funcionamento da plataforma durante toda a vixencia do contrato. 
+Os traballos obxecto deste contrato terán a consideración de solución "chave en 
+man", polo que a empresa adxudicataria deberá proporcionar todos os 
+desenvolvementos, infraestruturas, integracións, licenzas, configuracións, servizos e 
+demais elementos necesarios para que a plataforma quede completamente 
+operativa desde a súa posta en funcionamento. 
+A solución deberá deseñarse conforme aos principios de interoperabilidade, 
+escalabilidade, accesibilidade universal, seguridade da información, eficiencia, 
+reutilización e sustentabilidade tecnolóxica, garantindo a súa integración con outros 
+sistemas de información das administracións públicas, a súa capacidade de 
+evolución futura e a independencia tecnolóxica da Deputación de Pontevedra. 
+3. ALCANCE DO CONTRATO 
+O presente contrato comprende todas as actuacións necesarias para o deseño, 
+desenvolvemento, implantación, configuración, integración, posta en 
+funcionamento, aloxamento, soporte, mantemento e evolución da plataforma 
+Aplicación Dixital Val Miñor Cultural, destinada á xestión integral da rede de espazos 
+culturais do Val Miñor. 
+A empresa adxudicataria deberá executar todas as actuacións necesarias para que 
+a solución quede plenamente operativa, incluíndo todos os desenvolvementos 
+software, infraestruturas, integracións, configuracións, documentación, formación e 
+servizos asociados, sen que a Administración deba contratar prestacións adicionais 
+para a súa posta en funcionamento. 
+O alcance do contrato comprenderá, como mínimo, as seguintes prestacións: 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 8 ---
+ 
+Página 8 de 58 
+ 
+  
+3.1. Compoñentes da solución 
+A plataforma estará constituída, como mínimo, polos seguintes compoñentes: 
+a) Portal web público 
+Deseño, desenvolvemento e posta en funcionamento dun portal web accesible que 
+permita á cidadanía consultar a programación cultural, localizar os espazos 
+culturais do Val Miñor, acceder á información dos distintos equipamentos, realizar as 
+consultas autorizadas e utilizar os servizos públicos dispoñibles a través da 
+plataforma. 
+b) Aplicación móbil para Android 
+Deseño, desenvolvemento, publicación e mantemento dunha aplicación móbil 
+nativa para dispositivos Android que permita o acceso ás funcionalidades previstas 
+para a cidadanía. 
+c) Aplicación móbil para iOS 
+Deseño, desenvolvemento, publicación e mantemento dunha aplicación móbil 
+nativa para dispositivos iOS con funcionalidades equivalentes ás da versión Android. 
+d) BackOffice de administración 
+Deseño, desenvolvemento e implantación dunha plataforma de administración 
+destinada á xestión integral do sistema, que permita, entre outras funcionalidades, 
+a administración dos espazos culturais, a programación cultural, as reservas, os 
+usuarios, os permisos, os contidos, os indicadores de utilización e o resto de 
+elementos necesarios para a explotación da plataforma. 
+e) Sistema central de xestión 
+Deseño e desenvolvemento do núcleo da plataforma, encargado da administración 
+dos datos, da lóxica de negocio, dos procesos de integración, da interoperabilidade 
+entre os distintos compoñentes e da prestación dos servizos dixitais. 
+3.2. Desenvolvemento e implantación 
+A empresa adxudicataria realizará o deseño funcional, o deseño técnico, o 
+desenvolvemento, a configuración, a integración e a implantación completa da 
+plataforma, incluíndo todas as tarefas necesarias para a súa posta en 
+funcionamento. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 9 ---
+ 
+Página 9 de 58 
+ 
+  
+Así mesmo, realizará as probas técnicas, probas funcionais, probas de integración e 
+probas de aceptación necesarias para garantir o correcto funcionamento da 
+solución antes da súa entrada en produción. 
+3.3. Integración e interoperabilidade 
+A plataforma deberá deseñarse de acordo cos principios de interoperabilidade, 
+reutilización e arquitectura aberta, permitindo o intercambio de información con 
+outras plataformas e sistemas de información das administracións públicas e de 
+terceiros mediante servizos normalizados e interfaces de programación de 
+aplicacións (API). 
+A empresa adxudicataria será responsable do deseño, desenvolvemento, 
+configuración e mantemento de todos os mecanismos necesarios para garantir a 
+interoperabilidade da solución durante toda a execución do contrato. 
+Como mínimo, a plataforma deberá permitir a integración cos seguintes sistemas: 
+a) Axenda de Cultura de Galicia 
+A solución importará automaticamente os eventos da Axenda de Cultura de Galicia 
+correspondentes aos concellos de Baiona, Gondomar e Nigrán, mediante o servizo 
+web JSON do conxunto de datos «Axenda de Cultura de Galicia» publicado pola 
+Xunta de Galicia no seu portal de datos abertos (abertos.xunta.gal). Cando resulte 
+necesario para completar a información, poderán empregarse tamén as canles RSS 
+ou ICS do mesmo conxunto de datos. 
+A sincronización realizarase, como mínimo, unha vez ao día e incluirá a incorporación 
+de novos eventos e a actualización e baixa dos xa importados. Os eventos 
+importados identificaranse como procedentes da Axenda de Cultura de Galicia, con 
+indicación da fonte e respecto das condicións da licenza CC BY-SA 4.0 do conxunto 
+de datos. 
+No caso de que durante a execución do contrato se produzan modificacións, 
+actualizacións ou cambios nas especificacións técnicas da API ou dos servizos de 
+interoperabilidade, a empresa adxudicataria deberá realizar as adaptacións 
+necesarias para garantir a continuidade da integración, sen que iso supoña custo 
+adicional para a Administración. 
+b) Sistemas de autenticación e identificación 
+A plataforma deberá estar preparada para integrarse cos sistemas de identificación 
+electrónica que determine a Deputación de Pontevedra durante a execución do 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 10 ---
+ 
+Página 10 de 58 
+ 
+  
+contrato, sempre que estes dispoñan dos correspondentes mecanismos de 
+integración. 
+c) Sistemas de información municipais 
+A arquitectura da solución deberá permitir a integración con aplicacións municipais 
+relacionadas coa xestión dos espazos culturais, reservas, inventarios, sedes 
+electrónicas ou outros servizos corporativos, mediante interfaces abertas e 
+documentadas. 
+d) Servizos cartográficos 
+A plataforma deberá permitir a integración con servizos cartográficos baseados en 
+estándares OGC ou equivalentes, para a representación xeográfica dos espazos 
+culturais e dos eventos programados. 
+e) Outros servizos de terceiros 
+A solución deberá dispoñer dunha arquitectura aberta baseada en APIs que permita 
+incorporar futuras integracións con outras plataformas públicas ou privadas sen 
+necesidade de modificar a arquitectura principal da aplicación. 
+Todas as interfaces de integración desenvolvidas deberán estar debidamente 
+documentadas e entregaranse á Deputación de Pontevedra como parte da 
+documentación técnica do contrato. 
+3.4. Formación e documentación 
+A empresa adxudicataria elaborará toda a documentación técnica e funcional 
+necesaria para a correcta explotación da plataforma. 
+Como mínimo deberá entregar: 
+• Documentación funcional. 
+• Documentación técnica. 
+• Manual de administración. 
+• Manual de usuario. 
+• Manual de instalación. 
+• Documentación das API. 
+• Inventario de compoñentes software. 
+• Procedementos de copia de seguridade e recuperación. 
+• Plan de explotación da plataforma. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 11 ---
+ 
+Página 11 de 58 
+ 
+  
+Así mesmo, impartirá as accións formativas necesarias ao persoal designado pola 
+Deputación de Pontevedra e polos concellos participantes. 
+3.5. Aloxamento, soporte e mantemento 
+A plataforma prestarase baixo a modalidade Software como Servizo (SaaS). 
+A empresa adxudicataria asumirá o aloxamento da solución, a administración da 
+infraestrutura, o soporte técnico especializado, o mantemento correctivo, preventivo, 
+adaptativo e evolutivo, así como todas as actuacións necesarias para garantir a 
+dispoñibilidade e continuidade do servizo durante toda a execución do contrato. 
+3.6. Entrega da solución e propiedade intelectual 
+A plataforma entregarase completamente operativa e lista para a súa explotación. 
+A Deputación de Pontevedra adquirirá a propiedade de todos os desenvolvementos 
+software realizados especificamente para este contrato, incluídos o código fonte, a 
+documentación técnica, os modelos de datos, os desenvolvementos de integración, 
+os deseños funcionais e o resto de entregables xerados durante a execución do 
+contrato. 
+A empresa adxudicataria entregará toda a documentación necesaria para garantir 
+a continuidade do servizo e posibilitar o mantemento e evolución da plataforma por 
+terceiros unha vez finalizado o contrato. 
+3.7. Evolución futura da plataforma 
+A solución deberá deseñarse mediante unha arquitectura modular, escalable e 
+interoperable que permita incorporar novas funcionalidades, integrar novos servizos 
+dixitais, ampliar o número de administracións participantes e evolucionar 
+tecnoloxicamente sen requirir modificacións estruturais da plataforma. 
+3.8. Migración e carga inicial da información 
+A empresa adxudicataria realizará todas as actuacións necesarias para a carga 
+inicial da información da plataforma, incluíndo a parametrización da solución, a 
+incorporación dos espazos culturais, a configuración das categorías, tipoloxías, 
+calendarios, persoas usuarias e demais información que sexa facilitada pola 
+Deputación de Pontevedra ou polos concellos participantes. 
+Así mesmo, deberá desenvolver os procedementos necesarios para importar a 
+información procedente doutras plataformas ou repositorios de datos, sempre que 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 12 ---
+ 
+Página 12 de 58 
+ 
+  
+esta sexa facilitada en formatos estruturados ou mediante servizos de 
+interoperabilidade. 
+A empresa adxudicataria verificará a integridade, coherencia e correcta 
+incorporación da información antes da posta en produción da plataforma. 
+4. REFERENCIA ÁS CONDICIÓNS XERAIS 
+Os traballos obxecto do presente contrato rexeranse polo establecido neste Prego de 
+Prescricións Técnicas Particulares (en diante, PPT) e no correspondente Prego de 
+Cláusulas Administrativas Particulares (en diante, PCAP), que regulan as condicións 
+técnicas e administrativas aplicables á contratación. 
+En caso de contradición entre ambos os documentos, prevalecerá o disposto no 
+PCAP sobre o presente PPT, sen prexuízo da aplicación da normativa vixente en 
+materia de contratación pública. 
+Todas as prestacións deberán executarse de conformidade coa Lei 9/2017, do 8 de 
+novembro, de Contratos do Sector Público, pola que se traspoñen ao ordenamento 
+xurídico español as Directivas do Parlamento Europeo e do Consello 2014/23/UE e 
+2014/24/UE, do 26 de febreiro de 2014, así como co resto da normativa estatal, 
+autonómica e local que resulte de aplicación durante a execución do contrato. 
+A empresa adxudicataria deberá executar os traballos conforme ás especificacións 
+técnicas definidas neste prego, aplicando criterios de calidade, eficiencia, 
+interoperabilidade, accesibilidade universal, seguridade da información, protección 
+de datos persoais, sustentabilidade tecnolóxica e reutilización das solucións 
+desenvolvidas. 
+A solución obxecto do contrato deberá adaptarse ás evolucións normativas, 
+tecnolóxicas e funcionais que poidan producirse durante o período de execución, 
+sempre que estas resulten necesarias para garantir o cumprimento da normativa 
+vixente ou a correcta prestación do servizo, de acordo coas condicións establecidas 
+no contrato. 
+Todos os desenvolvementos, documentación, configuracións, integracións, modelos 
+de datos, compoñentes software e demais entregables que se xeren durante a 
+execución do contrato deberán ser entregados á Deputación de Pontevedra nos 
+termos establecidos neste prego, formando parte integrante da prestación 
+contratada. 
+A empresa adxudicataria será responsable da correcta execución dos traballos, da 
+coordinación das actuacións necesarias para a súa implantación e do cumprimento 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 13 ---
+ 
+Página 13 de 58 
+ 
+  
+das condicións técnicas establecidas no presente PPT, asumindo igualmente a 
+responsabilidade sobre os medios humanos e materiais necesarios para a 
+adecuada prestación do servizo. 
+Durante toda a execución do contrato, a empresa adxudicataria deberá garantir a 
+compatibilidade da solución cos estándares tecnolóxicos, protocolos e mecanismos 
+de interoperabilidade que resulten de aplicación, especialmente aqueles necesarios 
+para a integración coa Axenda de Cultura de Galicia e cos demais sistemas previstos 
+neste prego. 
+5. OUTRAS CONDICIÓNS PARA A EXECUCIÓN DO CONTRATO 
+5.1. Idioma 
+Toda a documentación, aplicacións, interfaces de usuario, contidos, materiais 
+divulgativos, mensaxes do sistema e demais elementos que se desenvolvan no 
+marco do contrato deberán estar dispoñibles en galego e castelán. 
+O galego será a lingua de referencia nas relacións coa Deputación de Pontevedra, 
+así como na documentación técnica, funcional e administrativa que se entregue 
+durante a execución do contrato. 
+A empresa adxudicataria deberá cumprir o disposto na normativa vixente en 
+materia de normalización lingüística, e en particular na Lei 5/1997, do 22 de xullo, de 
+Administración Local de Galicia, así como nos criterios lingüísticos establecidos pola 
+Deputación de Pontevedra. 
+5.2. Coordinación técnica 
+A empresa adxudicataria deberá manter unha coordinación permanente co 
+Responsable do Contrato designado pola Deputación de Pontevedra. 
+Para tal efecto, designará unha persoa responsable do proxecto que actuará como 
+interlocutora única coa Administración durante toda a execución do contrato. 
+Corresponderalle, entre outras funcións: 
+Coordinar os traballos do equipo técnico.  
+Planificar as actuacións previstas.  
+Supervisar o cumprimento dos prazos.  
+Informar do estado de execución do contrato.  
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 14 ---
+ 
+Página 14 de 58 
+ 
+  
+Asistir ás reunións de seguimento que convoque a Deputación de Pontevedra.  
+Coordinar as actuacións de implantación nos concellos participantes.  
+A empresa adxudicataria deberá facilitar toda a información técnica que lle sexa 
+requirida para o adecuado seguimento dos traballos. 
+5.3. Metodoloxía de execución 
+Os traballos desenvolveranse de forma coordinada coa Deputación de Pontevedra e 
+cos concellos participantes, mediante unha implantación progresiva da plataforma. 
+Antes do inicio dos desenvolvementos, a empresa adxudicataria presentará unha 
+planificación detallada dos traballos que deberá ser validada polo Responsable do 
+Contrato. 
+Durante a execución realizaranse reunións periódicas de seguimento, nas que se 
+analizará o estado do proxecto, os fitos acadados, as incidencias detectadas e a 
+planificación das actuacións pendentes. 
+5.4. Documentación e entregables 
+Todos os documentos, desenvolvementos software, configuracións, integracións, 
+bases de datos, modelos de información, manuais e demais entregables xerados 
+durante a execución do contrato deberán ser entregados á Deputación de 
+Pontevedra, formando parte da prestación contratada. 
+Os entregables deberán presentarse en formatos abertos ou amplamente 
+estendidos que permitan a súa reutilización e edición pola Administración. 
+5.5. Confidencialidade da información 
+A empresa adxudicataria e todo o persoal que participe na execución do contrato 
+estarán obrigados a gardar a máis estrita confidencialidade respecto da 
+información á que teñan acceso con motivo da prestación do servizo. 
+Esta obriga manterase durante toda a execución do contrato e continuará vixente 
+unha vez rematada a relación contractual, independentemente da súa causa de 
+extinción. 
+A información obtida durante a execución do contrato non poderá ser utilizada para 
+fins distintos dos derivados da propia prestación contratada nin poderá ser 
+comunicada a terceiros sen autorización expresa da Deputación de Pontevedra. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 15 ---
+ 
+Página 15 de 58 
+ 
+  
+5.6. Protección de datos persoais 
+A empresa adxudicataria deberá cumprir en todo momento coa normativa vixente 
+en materia de protección de datos persoais. 
+Cando a execución do contrato implique o tratamento de datos por conta da 
+Deputación de Pontevedra, a empresa adxudicataria terá a condición de encargada 
+do tratamento e deberá cumprir as obrigas establecidas no Regulamento (UE) 
+2016/679, do Parlamento Europeo e do Consello (RXPD), na Lei Orgánica 3/2018, do 5 
+de decembro, de Protección de Datos Persoais e garantía dos dereitos dixitais, así 
+como no resto da normativa que resulte de aplicación. 
+5.7. Accesibilidade universal 
+Todos os compoñentes da plataforma deberán ser deseñados conforme aos 
+principios de accesibilidade universal e deseño para todas as persoas. 
+As aplicacións móbiles, o portal web e o backoffice deberán cumprir, como mínimo, 
+os requisitos establecidos na norma UNE-EN 301 549, nas WCAG 2.1 nivel AA ou na 
+versión que resulte vixente no momento da súa implantación, así como no resto da 
+normativa aplicable en materia de accesibilidade dos servizos dixitais da 
+Administración. 
+5.8. Propiedade intelectual 
+Todos os desenvolvementos software, documentación técnica, documentación 
+funcional, deseños, modelos de datos, integracións, código fonte e demais produtos 
+especificamente desenvolvidos no marco deste contrato serán propiedade da 
+Deputación de Pontevedra, nos termos establecidos neste PPT e no PCAP. 
+A empresa adxudicataria entregará todos os elementos necesarios para garantir a 
+continuidade do servizo e permitir o mantemento e evolución da plataforma por 
+terceiros, sen dependencia tecnolóxica da empresa desenvolvedora. 
+5.9. Comunicación e publicidade 
+Ao tratarse dunha actuación integrada no Plan de Actuación Integrado (PAI) "Val 
+Miñor 15 minutos", todas as aplicacións, páxinas web, documentación, materiais 
+gráficos, comunicacións e demais elementos que se elaboren no marco do contrato 
+deberán cumprir as obrigas de información, comunicación, publicidade e 
+visibilidade que resulten de aplicación ao financiamento europeo, así como as 
+instrucións que estableza a Deputación de Pontevedra. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 16 ---
+ 
+Página 16 de 58 
+ 
+  
+A empresa adxudicataria incorporará, cando proceda, a identidade visual, logotipos, 
+referencias institucionais e demais elementos gráficos que lle sexan facilitados pola 
+Deputación de Pontevedra, respectando en todo momento o manual de identidade 
+gráfica e as normas de comunicación que resulten de aplicación. 
+6. SEGUIMENTO TÉCNICO 
+O seguimento técnico, a supervisión e a dirección das actuacións derivadas do 
+presente contrato corresponderán ao Responsable do Contrato designado pola 
+Deputación de Pontevedra, sen prexuízo das competencias que correspondan ao 
+órgano de contratación de conformidade coa lexislación vixente. 
+O Responsable do Contrato será a persoa encargada de verificar o correcto 
+desenvolvemento dos traballos, garantindo que todas as prestacións se executen de 
+acordo co establecido no presente Prego de Prescricións Técnicas, no Prego de 
+Cláusulas Administrativas Particulares e na oferta presentada pola empresa 
+adxudicataria. 
+Para o cumprimento destas funcións, corresponderalle, entre outras, as seguintes 
+actuacións: 
+• Supervisar a planificación, organización e execución dos traballos.  
+• Verificar o cumprimento dos prazos de execución establecidos no contrato.  
+• Aprobar a planificación detallada e o cronograma de execución presentado 
+pola empresa adxudicataria.  
+• Supervisar o cumprimento dos requisitos funcionais, técnicos, de 
+interoperabilidade, accesibilidade, seguridade e calidade establecidos neste 
+prego.  
+• Validar os documentos, desenvolvementos software, integracións, 
+configuracións e demais entregables previstos no contrato.  
+• Coordinar as actuacións coa empresa adxudicataria e cos concellos 
+participantes no proxecto.  
+• Solicitar canta información técnica considere necesaria para comprobar o 
+correcto desenvolvemento dos traballos.  
+• Emitir os informes técnicos que resulten necesarios para a recepción das 
+distintas fases do contrato e para a conformidade das prestacións 
+executadas.  
+A empresa adxudicataria designará unha persoa responsable do proxecto que 
+actuará como interlocutora única coa Deputación de Pontevedra durante toda a 
+execución do contrato, sen prexuízo da participación doutro persoal técnico cando 
+resulte necesario. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 17 ---
+ 
+Página 17 de 58 
+ 
+  
+Durante toda a execución do contrato manteranse reunións periódicas de 
+seguimento entre a Deputación de Pontevedra, a empresa adxudicataria e, cando 
+proceda, representantes dos concellos participantes. Nestas reunións analizarase, 
+como mínimo: 
+• estado de execución do proxecto.  
+• grao de cumprimento da planificación prevista.  
+• As actuacións realizadas desde a reunión anterior.  
+• As incidencias detectadas e as medidas adoptadas para a súa resolución.  
+• As actuacións previstas para o seguinte período.  
+• Os posibles riscos que poidan afectar ao desenvolvemento do contrato.  
+A periodicidade das reunións será establecida polo Responsable do Contrato en 
+función das necesidades do proxecto, sen prexuízo de que poidan convocarse 
+reunións extraordinarias cando concorran circunstancias que así o aconsellen. 
+A empresa adxudicataria elaborará e presentará informes de seguimento coa 
+periodicidade que determine o Responsable do Contrato. Estes informes deberán 
+reflectir, como mínimo, o estado de execución dos traballos, os fitos alcanzados, as 
+incidencias rexistradas, as actuacións realizadas, as tarefas pendentes e calquera 
+outra información relevante para o adecuado control da execución do contrato. 
+A recepción de cada unha das fases e dos distintos entregables quedará 
+condicionada á emisión do correspondente informe favorable por parte do 
+Responsable do Contrato, que verificará o cumprimento dos requisitos establecidos 
+neste prego antes da súa aceptación. 
+En todo caso, o seguimento técnico realizado pola Deputación de Pontevedra non 
+eximirá á empresa adxudicataria da responsabilidade derivada da correcta 
+execución do contrato, nin limitará as obrigas asumidas en virtude da súa oferta e 
+do presente Prego de Prescricións Técnicas. 
+7.  FASES PARA A EXECUCIÓN DO CONTRATO 
+Co obxecto de garantir unha implantación ordenada, progresiva e controlada da 
+plataforma, establécense as seguintes fases de execución do contrato: 
+7.1. Fase 1. Análise, deseño, desenvolvemento e implantación inicial 
+Esta fase comprende a análise funcional e técnica da solución, o deseño da 
+arquitectura da plataforma, o desenvolvemento dos distintos compoñentes 
+software, a súa integración e a implantación inicial da solución. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 18 ---
+ 
+Página 18 de 58 
+ 
+  
+Durante esta fase a empresa adxudicataria realizará, como mínimo, as seguintes 
+actuacións: 
+• Análise detallada dos requisitos funcionais e técnicos da plataforma.  
+• Elaboración do deseño funcional e da arquitectura técnica da solución.  
+• Desenvolvemento do portal web público.  
+• Desenvolvemento das aplicacións móbiles para Android e iOS.  
+• Desenvolvemento do BackOffice de administración.  
+• Desenvolvemento dos servizos centrais da plataforma.  
+• Desenvolvemento das interfaces de integración e interoperabilidade.  
+• Integración co servizo web da Axenda de Cultura de Galicia.  
+• Parametrización da plataforma.  
+• Carga inicial da información facilitada pola Deputación de Pontevedra e 
+polos concellos participantes.  
+• Elaboración da documentación técnica e funcional inicial.  
+• Elaboración do Plan de Implantación.  
+• Elaboración do Plan de Operación e Mantemento.  
+• Elaboración do Plan de Desenvolvemento Evolutivo.  
+A duración desta fase será de tres (3) meses. 
+Ao remate desta fase, a plataforma deberá atoparse completamente desenvolvida, 
+instalada e preparada para iniciar o período de probas. 
+7.2. Fase 2. Período de probas e recepción provisional 
+Esta fase estará destinada á validación funcional e técnica da plataforma en 
+condicións reais de funcionamento. 
+Durante este período a empresa adxudicataria deberá realizar todas as actuacións 
+necesarias para garantir a correcta estabilidade da solución, resolver as incidencias 
+detectadas e efectuar os axustes que resulten precisos para a súa posta en 
+funcionamento definitiva. 
+Entre outras actuacións incluiranse: 
+• Probas funcionais.  
+• Probas de integración.  
+• Probas de rendemento.  
+• Probas de seguridade.  
+• Validación da interoperabilidade cos sistemas integrados.  
+• Validación da sincronización coa Axenda Cultural da Xunta de Galicia.  
+• Formación inicial ao persoal designado pola Administración.  
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 19 ---
+ 
+Página 19 de 58 
+ 
+  
+• Actualización da documentación técnica e funcional.  
+Esta fase terá unha duración de un (1) mes. 
+Ao finalizar esta fase, e unha vez emitido o correspondente informe favorable polo 
+Responsable do Contrato, procederase á recepción provisional da plataforma. 
+7.3. Fase 3. Posta en funcionamento e soporte á explotación 
+Esta fase comprenderá o acompañamento técnico durante a posta en 
+funcionamento efectiva da plataforma. 
+Durante este período a empresa adxudicataria prestará soporte funcional e técnico 
+á Deputación de Pontevedra e aos concellos participantes, garantindo a correcta 
+utilización da plataforma e resolvendo as incidencias que poidan producirse durante 
+a explotación ordinaria. 
+Así mesmo, realizará as adaptacións menores necesarias para optimizar o 
+funcionamento da solución e asegurar a correcta prestación do servizo. 
+A duración desta fase será de un (1) mes. 
+Durante esta fase manterase operativo o servizo de soporte técnico especializado 
+conforme aos acordos de nivel de servizo establecidos neste prego. 
+7.4. Fase 4. Desenvolvemento evolutivo 
+Esta fase comprenderá a evolución funcional e tecnolóxica da plataforma, 
+incorporando as melloras que resulten necesarias para adaptar a solución ás novas 
+necesidades organizativas, tecnolóxicas ou normativas que poidan producirse 
+durante a execución do contrato. 
+Durante esta fase poderán desenvolverse, entre outras actuacións: 
+• Melloras funcionais.  
+• Adaptacións derivadas de cambios normativos.  
+• Evolución das integracións existentes.  
+• Adaptación ás novas versións da API ou dos mecanismos de 
+interoperabilidade da Axenda Cultural da Xunta de Galicia.  
+• Optimización do rendemento.  
+• Melloras de accesibilidade.  
+• Melloras de usabilidade.  
+• Actualizacións de seguridade.  
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 20 ---
+ 
+Página 20 de 58 
+ 
+  
+• Evolución da arquitectura da plataforma cando resulte necesaria.  
+Así mesmo, a empresa adxudicataria deberá garantir a actualización da 
+documentación técnica e funcional e manter plenamente operativa a solución 
+durante toda esta fase. 
+A duración desta fase será de un (1) mes. 
+Ao remate desta fase, e unha vez comprobado o cumprimento das obrigas 
+contractuais, procederase á recepción definitiva da plataforma, iniciándose o 
+correspondente período de garantía previsto no contrato.  
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 21 ---
+ 
+Página 21 de 58 
+ 
+  
+8. REQUISITOS XERAIS DA PLATAFORMA 
+Son de aplicación a este apartado os seguintes requisitos: 
+ID 
+Requisito 
+Descripción do Requisito 
+REQ-1 A solución entregarase baixo a modalidade de “chave en man” e prestarase 
+en réxime SaaS (Software como Servizo), incluíndo todos os compoñentes 
+de software, integracións, infraestruturas, licenzas e servizos necesarios 
+para garantir o seu correcto funcionamento e explotación durante toda a 
+vixencia do contrato. 
+REQ-2 A arquitectura da plataforma será modular, escalable e baseada en 
+estándares abertos, sustentada en tecnoloxías robustas e suficientemente 
+contrastadas, garantindo o seu funcionamento ininterrompido as 24 horas 
+do día, os 7 días da semana e os 365 días do ano, e permitindo a súa 
+evolución funcional sen necesidade de realizar redeseños estruturais. 
+REQ-3 A plataforma aloxarase nun centro de datos clasificado, como mínimo, 
+como Tier III ou equivalente, cunha dispoñibilidade mensual mínima da 
+infraestrutura de aloxamento do 99,982 %, sen prexuízo dos niveis de 
+dispoñibilidade do servizo establecidos nos acordos de nivel de servizo 
+deste prego. Os custos asociados ao aloxamento cloud, infraestrutura, 
+almacenamento, comunicacións, copias de seguridade e demais servizos 
+necesarios para o funcionamento da plataforma serán asumidos pola 
+empresa adxudicataria durante toda a vixencia do contrato e durante o 
+período de garantía. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 22 ---
+ 
+Página 22 de 58 
+ 
+  
+REQ-4 O núcleo da solución basearase en software de código aberto. Calquera 
+compoñente, módulo ou elemento suxeito a licenzamento que incorpore a 
+solución estará incluído no prezo do contrato e poderá ser utilizado de forma 
+indefinida pola Deputación de Pontevedra e polos concellos participantes, 
+sen custos recorrentes posteriores. En ningún caso a utilización destes 
+elementos poderá comprometer a dispoñibilidade, escalabilidade, 
+interoperabilidade nin o mantemento da plataforma por terceiros, nin 
+supoñer limitacións que dificulten a súa evolución ou transferencia unha vez 
+finalizado o contrato. 
+REQ-5 A solución deberá garantir a seguridade e protección de toda a información, 
+tanto almacenada como en tránsito, mediante mecanismos que aseguren 
+a súa integridade, confidencialidade e autenticación. Para tal efecto, 
+empregaranse protocolos seguros de comunicación e sistemas de cifrado 
+dos datos persoais tanto en repouso como durante a súa transmisión, de 
+conformidade coa normativa vixente en materia de protección de datos e 
+seguridade da información. 
+REQ-6 A plataforma deberá incorporar un sistema de protección perimetral 
+mediante firewall con regras configurables, así como mecanismos activos 
+de detección, prevención e monitorización de ataques, intrusións e 
+vulnerabilidades de seguridade que permitan garantir a protección 
+continua da infraestrutura e dos servizos prestados. 
+REQ-7 A solución deberá cumprir co disposto no Regulamento (UE) 2016/679, do 
+Parlamento Europeo e do Consello (RXPD), e na Lei Orgánica 3/2018, do 5 de 
+decembro, de Protección de Datos Persoais e garantía dos dereitos dixitais 
+(LOPDGDD), incorporando as medidas técnicas e organizativas requiridas 
+pola normativa vixente. Así mesmo, a empresa adxudicataria deberá 
+subscribir o correspondente contrato de encargo do tratamento previsto no 
+artigo 28 do RXPD. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 23 ---
+ 
+Página 23 de 58 
+ 
+  
+REQ-8 A solución deberá cumprir co establecido no Real Decreto 311/2022, do 3 de 
+maio, polo que se regula o Esquema Nacional de Seguridade (ENS), en 
+categoría MEDIA. A empresa adxudicataria deberá dispoñer dunha 
+Certificación de Conformidade co ENS en categoría MEDIA, emitida por unha 
+entidade de certificación acreditada, cuxo alcance inclúa os sistemas e 
+servizos que dan soporte á prestación do contrato. Deberá presentar copia 
+do certificado en vigor antes do inicio da execución do contrato e mantelo 
+vixente durante toda a súa execución e o período de garantía, comunicando 
+á Deputación de Pontevedra calquera renovación, modificación ou perda 
+da certificación. 
+REQ-9 A plataforma deberá diferenciar de forma clara os contornos de produción, 
+preprodución e desenvolvemento, mantendo a súa segregación a nivel de 
+infraestrutura, bases de datos, configuracións e servizos. Así mesmo, deberá 
+existir un procedemento formal, documentado e trazable para a promoción 
+de versións e cambios entre os distintos contornos. 
+REQ-10 As interfaces web e as aplicacións móbiles deberán cumprir, como mínimo, 
+o nivel AA das WCAG 2.1 ou a versión equivalente que se atope vixente no 
+momento da súa implantación, así como a norma UNE-EN 301 549, a 
+Directiva (UE) 2016/2102 e o Real Decreto 1112/2018, garantindo a 
+accesibilidade universal e a non discriminación no acceso aos servizos 
+prestados pola plataforma. 
+REQ-11 O backend organizará a información de forma modular e integrada, 
+implementando, como mínimo, os seguintes módulos funcionais: xestión da 
+rede de espazos culturais e dos seus equipamentos; xestión de reservas e 
+solicitudes de uso dos espazos; axenda cultural dixital, con xestión de 
+eventos e actividades; xestión de persoas usuarias, roles e permisos; xestión 
+de contidos; xestión de incidencias e calidade do servizo; transparencia e 
+indicadores de utilización; e integración con sistemas de terceiros, en 
+particular coa Axenda Cultural da Xunta de Galicia. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 24 ---
+ 
+Página 24 de 58 
+ 
+  
+REQ-12 As licenzas, subscricións e demais elementos necesarios para o correcto 
+funcionamento da solución deberán permanecer activos, actualizados e 
+con soporte oficial do fabricante ou provedor durante toda a vixencia do 
+contrato e durante o período de garantía, sen que isto supoña ningún custo 
+adicional para a Deputación de Pontevedra. 
+REQ-13 Con carácter previo á posta en produción da plataforma, deberán realizarse 
+probas de carga e rendemento, así como unha auditoría técnica de 
+seguridade que inclúa, cando menos, unha análise de vulnerabilidades. As 
+deficiencias ou incidencias detectadas deberán ser corrixidas pola empresa 
+adxudicataria antes da validación final e da entrada en servizo da solución. 
+REQ-14 A plataforma dispoñerá dun sistema de copias de seguridade periódicas, 
+con procedementos documentados de respaldo e recuperación que 
+garantan, como mínimo, un punto obxectivo de recuperación (RPO) de 24 
+horas e un tempo obxectivo de recuperación (RTO) de 8 horas. Realizaranse 
+probas periódicas de restauración que permitan verificar a eficacia destes 
+procedementos. 
+REQ-15 Todas as interfaces da plataforma (portal web público, aplicacións móbiles 
+e backoffice de administración) estarán dispoñibles en galego e castelán, 
+permitindo ás persoas usuarias seleccionar libremente o idioma en 
+calquera momento. A arquitectura da solución permitirá a incorporación de 
+novos idiomas sen necesidade de modificacións estruturais. 
+REQ-16 A plataforma dispoñerá dunha API REST completamente documentada 
+conforme á especificación OpenAPI 3.0 ou superior, con mecanismos 
+seguros de autenticación e autorización (OAuth 2.0 / OpenID Connect ou 
+equivalente), que permita a interoperabilidade con sistemas de terceiros e, 
+en particular, a integración coa Axenda Cultural da Xunta de Galicia, cos 
+sistemas de información municipais e cos servizos cartográficos baseados 
+en estándares OGC. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 25 ---
+ 
+Página 25 de 58 
+ 
+  
+REQ-17 A empresa adxudicataria dispoñerá de mecanismos de monitorización 
+continua da dispoñibilidade, do rendemento e da seguridade da 
+plataforma, con xeración de alertas e de informes periódicos que permitan 
+acreditar o cumprimento dos acordos de nivel de servizo establecidos neste 
+prego. 
+ 
+9. PRESCRICIÓNS DA PLATAFORMA DE XESTIÓN 
+Os requisitos técnicos para o deseño, desenvolvemento, implantación e posta en 
+funcionamento da plataforma de xestión cultural son os que se recollen nos 
+apartados seguintes. 
+A plataforma deberá constituír unha solución única, modular, interoperable e 
+escalable, destinada á xestión dixital da rede de espazos culturais do Val Miñor, á 
+coordinación da programación cultural dos municipios participantes e á difusión 
+pública da actividade cultural do territorio. 
+ID 
+Requisito 
+Descrición do Requisito 
+REQ-001 A plataforma integrará todos os módulos funcionais nunha solución única, modular 
+e escalable, que proporcione cobertura integral ás necesidades de xestión, 
+coordinación, explotación e difusión da rede de espazos culturais do Val Miñor. 
+REQ-002 Implementaranse, como mínimo, os seguintes perfís de acceso: persoa usuaria 
+cidadá, entidade solicitante, persoal xestor municipal, persoal administrador da 
+Deputación de Pontevedra, persoal responsable dos espazos culturais e persoal 
+técnico de soporte. 
+REQ-003 Todos os perfís de usuario operarán nun contorno seguro, conforme á normativa 
+vixente en materia de seguridade da información, protección de datos persoais, 
+control de accesos e administración electrónica. 
+REQ-004 A plataforma deberá permitir a integración con sistemas externos mediante API 
+abertas, normalizadas e debidamente documentadas, garantindo a 
+interoperabilidade cos sistemas das administracións públicas. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 26 ---
+ 
+Página 26 de 58 
+ 
+  
+ID 
+Requisito 
+Descrición do Requisito 
+REQ-005 O sistema estará preparado para xestionar solicitudes de reserva, solicitudes de uso, 
+publicación de eventos, actualización de programación cultural, comunicacións ás 
+persoas usuarias e incidencias relativas aos espazos ou actividades culturais. 
+REQ-006 A solución deberá permitir a xestión coordinada da rede de espazos culturais dos 
+municipios de Baiona, Gondomar e Nigrán, proporcionando unha visión integrada 
+da actividade cultural do territorio e permitindo a xestión diferenciada por municipio, 
+espazo, perfil e competencia administrativa. 
+9.1.  Módulo de xestión de usuarios, roles e permisos 
+ID 
+Requisito 
+Descrición do Requisito 
+REQ-007 A plataforma permitirá a alta, baixa, modificación e consulta de persoas usuarias 
+rexistradas, entidades solicitantes, persoal xestor, persoal administrador e demais 
+perfís autorizados. 
+REQ-008 O sistema permitirá a configuración de roles e permisos de forma granular, 
+diferenciando as funcións dispoñibles para cada perfil de usuario. 
+REQ-009 A plataforma permitirá a asignación de usuarios a un ou varios municipios, espazos 
+culturais ou ámbitos de xestión, segundo determine a Deputación de Pontevedra. 
+REQ-010 O sistema deberá permitir a autenticación segura das persoas usuarias mediante 
+mecanismos compatibles cos estándares actuais de seguridade e, cando así se 
+determine, cos sistemas de identificación electrónica que indique a Deputación de 
+Pontevedra. 
+REQ-011 A plataforma deberá dispoñer de mecanismos de recuperación de credenciais, 
+xestión de contrasinais, bloqueo de contas e control de sesións. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 27 ---
+ 
+Página 27 de 58 
+ 
+  
+ID 
+Requisito 
+Descrición do Requisito 
+REQ-012 Os datos persoais deberán almacenarse e tratarse conforme ao Regulamento (UE) 
+2016/679, á Lei Orgánica 3/2018 e ao resto da normativa aplicable en materia de 
+protección de datos. 
+REQ-013 O sistema deberá incorporar rexistro de auditoría das operacións relevantes 
+realizadas polos usuarios, incluíndo altas, modificacións, baixas, cambios de 
+permisos, publicacións, validacións e tramitación de solicitudes. 
+REQ-014 A plataforma deberá permitir a xestión de entidades culturais, asociacións, 
+colectivos ou persoas xurídicas que poidan solicitar o uso de espazos ou promover 
+actividades culturais. 
+REQ-015 As interfaces de usuario estarán dispoñibles en galego e castelán e deberán garantir 
+a accesibilidade conforme ás WCAG 2.1 nivel AA ou versión vixente equivalente. 
+9.2. Módulo de xestión da rede de espazos culturais 
+ID 
+Requisito 
+Descrición do Requisito 
+REQ-016 A plataforma permitirá a alta, baixa, modificación e consulta dos espazos culturais 
+integrados na rede do Val Miñor. 
+REQ-017 Para cada espazo cultural deberá poder rexistrarse, como mínimo, a súa 
+denominación, municipio, enderezo, xeolocalización, descrición, titularidade, persoa 
+ou unidade responsable, datos de contacto, horarios, fotografías, normativa de uso 
+e información de accesibilidade. 
+REQ-018 O sistema permitirá a clasificación dos espazos por tipoloxía, tales como auditorios, 
+casas da cultura, bibliotecas, salas de exposición, aulas, centros socioculturais, 
+espazos ao aire libre ou outras categorías configurables. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 28 ---
+ 
+Página 28 de 58 
+ 
+  
+ID 
+Requisito 
+Descrición do Requisito 
+REQ-019 A plataforma permitirá a xestión de salas, dependencias ou unidades reservables 
+dentro dun mesmo espazo cultural. 
+REQ-020 Para cada sala ou dependencia poderán definirse características específicas, 
+incluíndo capacidade, superficie, equipamento dispoñible, usos permitidos, 
+restricións, horarios propios e condicións de utilización. 
+REQ-021 O sistema permitirá configurar calendarios de dispoñibilidade por espazo, sala, 
+municipio, franxa horaria, día da semana, período anual ou data concreta. 
+REQ-022 A plataforma permitirá bloquear períodos de indispoñibilidade por mantemento, 
+obras, uso institucional, festivos, actividades xa programadas ou outras causas 
+xustificadas. 
+REQ-023 O sistema deberá permitir a publicación no portal público dos espazos culturais que 
+determine a Deputación de Pontevedra, coa información, imaxes, horarios, 
+localización e condicións de uso que se establezan. 
+REQ-024 A plataforma deberá incorporar representación cartográfica dos espazos culturais 
+mediante servizos baseados en estándares abertos OGC ou equivalentes. 
+REQ-025 O sistema deberá permitir a procura e filtraxe de espazos por municipio, tipoloxía, 
+capacidade, dispoñibilidade, equipamento, accesibilidade ou outros criterios 
+configurables. 
+9.3. Módulo de reservas e solicitudes de uso dos espazos culturais 
+ID 
+Requisito 
+Descrición do Requisito 
+REQ-026 A plataforma permitirá a presentación, tramitación, validación, aprobación, 
+denegación, modificación e cancelación de solicitudes de reserva ou uso dos 
+espazos culturais. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 29 ---
+ 
+Página 29 de 58 
+ 
+  
+ID 
+Requisito 
+Descrición do Requisito 
+REQ-027 As solicitudes poderán ser presentadas por persoas físicas, entidades culturais, 
+asociacións, colectivos, concellos, unidades administrativas ou outros perfís 
+autorizados. 
+REQ-028 O formulario de solicitude deberá permitir recoller os datos da persoa ou entidade 
+solicitante, espazo solicitado, sala ou dependencia, data, horario, finalidade da 
+actividade, número estimado de asistentes, necesidades técnicas, documentación 
+anexa e declaracións responsables que procedan. 
+REQ-029 O sistema permitirá configurar fluxos de tramitación diferenciados por municipio, 
+espazo, tipoloxía de solicitante, tipo de actividade ou outros criterios definidos pola 
+Deputación de Pontevedra. 
+REQ-030 A plataforma deberá permitir a validación administrativa das solicitudes por parte 
+do persoal autorizado, incluíndo a emisión de resolución favorable, desfavorable, 
+requirimento de emenda ou solicitude de información adicional. 
+REQ-031 O sistema deberá evitar solapamentos de reservas incompatibles sobre un mesmo 
+espazo, sala ou recurso. 
+REQ-032 A plataforma deberá xerar un calendario de reservas visible para os perfís 
+autorizados, con vistas diaria, semanal, mensual e por espazo. 
+REQ-033 O sistema permitirá exportar as reservas e calendarios en formatos estándar, 
+incluíndo CSV, PDF, iCalendar ou outros formatos abertos que se determinen. 
+REQ-034 A plataforma permitirá rexistrar observacións internas, condicionantes técnicos, 
+necesidades de montaxe, limpeza, apertura, peche, seguridade ou outros aspectos 
+operativos vinculados á reserva. 
+REQ-035 O módulo de reservas deberá deseñarse cunha arquitectura aberta e interoperable 
+que permita a súa futura integración con plataformas, sistemas corporativos ou 
+ferramentas de xestión de reservas que poidan ser proporcionadas ou 
+determinadas pola Deputación de Pontevedra. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 30 ---
+ 
+Página 30 de 58 
+ 
+  
+ID 
+Requisito 
+Descrición do Requisito 
+REQ-036 A plataforma deberá dispoñer de API, servizos ou mecanismos equivalentes que 
+permitan o intercambio futuro de información sobre dispoñibilidade de espazos, 
+solicitudes de reserva, estados de tramitación, calendarios, datos básicos dos 
+espazos e usuarios autorizados. 
+REQ-037 A documentación técnica da plataforma deberá incluír a descrición dos 
+mecanismos dispoñibles para a integración futura do módulo de reservas, incluíndo 
+estrutura de datos, operacións dispoñibles, formatos de intercambio, autenticación, 
+autorización e exemplos de uso. 
+9.4. Módulo de axenda cultural dixital e xestión de eventos 
+ID 
+Requisito 
+Descrición do Requisito 
+REQ-038 A plataforma incorporará unha Axenda Cultural Dixital destinada á xestión, 
+publicación, difusión e consulta da programación cultural do Val Miñor. 
+REQ-039 O sistema permitirá a alta, baixa, modificación, validación, publicación, 
+despublicación e arquivo de eventos, actividades e programación cultural. 
+REQ-040 Para cada evento ou actividade deberá poder rexistrarse, como mínimo, título, 
+descrición, municipio, espazo, data, horario, categoría, público destinatario, 
+organizador, entidade promotora, imaxes, documentación asociada, ligazóns 
+externas, condicións de acceso e información de accesibilidade. 
+REQ-041 A plataforma permitirá clasificar os eventos por categorías configurables, tales 
+como música, teatro, exposicións, literatura, patrimonio, formación, infancia, 
+mocidade, maiores, participación cidadá, festas, obradoiros ou outras tipoloxías 
+culturais. 
+REQ-042 O sistema permitirá a programación de eventos puntuais, recorrentes, de varios días 
+ou con múltiples sesións. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 31 ---
+ 
+Página 31 de 58 
+ 
+  
+ID 
+Requisito 
+Descrición do Requisito 
+REQ-043 A plataforma poderá permitir a xestión de inscricións ou preinscricións en 
+actividades gratuítas cando así se configure, incluíndo control de prazas, lista de 
+espera, confirmación e cancelación. 
+REQ-044 A plataforma poderá incorporar ligazóns externas ás páxinas, sedes electrónicas, 
+plataformas ou sistemas que empreguen os concellos para a xestión de entradas, 
+inscricións, reservas de praza, prezos públicos ou calquera outro trámite económico 
+asociado a actividades culturais. En ningún caso a plataforma obxecto deste 
+contrato asumirá a xestión económica, cobro, facturación, liquidación ou devolución 
+de importes vinculados a entradas, taxas, prezos públicos ou servizos municipais. 
+REQ-045 A plataforma importará automaticamente, como mínimo unha vez ao día, os 
+eventos da Axenda de Cultura de Galicia correspondentes aos concellos de Baiona, 
+Gondomar e Nigrán, mediante o servizo web JSON do conxunto de datos «Axenda de 
+Cultura de Galicia» publicado pola Xunta de Galicia no seu portal de datos abertos 
+(abertos.xunta.gal). 
+REQ-046 A sincronización incluirá a incorporación de novos eventos e a actualización e baixa 
+dos xa importados, evitando duplicidades cos eventos rexistrados directamente na 
+plataforma. 
+REQ-047 O sistema permitirá configurar se os eventos importados se publican 
+automaticamente ou quedan pendentes de validación polo persoal xestor, así como 
+filtrar a importación por tipo de evento, entidade programadora e público 
+destinatario. 
+REQ-048 Os eventos importados mostrarán a súa procedencia e respectarán as condicións 
+da licenza CC BY-SA 4.0 do conxunto de datos, incluído o recoñecemento da fonte. 
+REQ-049 Se durante a execución do contrato ou o período de garantía a Xunta de Galicia 
+modifica o servizo web ou o formato dos datos, a empresa adxudicataria realizará 
+as adaptacións necesarias para manter a integración operativa, sen custo adicional 
+para a Deputación de Pontevedra. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 32 ---
+ 
+Página 32 de 58 
+ 
+  
+ID 
+Requisito 
+Descrición do Requisito 
+REQ-050 O sistema deberá permitir identificar a orixe da información cultural, diferenciando 
+eventos creados directamente na plataforma, eventos importados ou sincronizados 
+desde fontes externas e eventos publicados polos concellos participantes. 
+9.5. Portal web público 
+ID 
+Requisito 
+Descrición do Requisito 
+REQ-051 A plataforma incluirá un portal web público, accesible desde navegadores 
+actualizados, que permita á cidadanía consultar a programación cultural, os 
+espazos culturais e os servizos dispoñibles. 
+REQ-052 O portal web deberá ser compatible, como mínimo, cos principais navegadores web 
+actualizados: Chrome, Firefox, Edge e Safari. 
+REQ-053 O deseño do portal será responsive, adaptado a escritorio, tablet e dispositivos 
+móbiles. 
+REQ-054 O portal deberá cumprir, como mínimo, coas WCAG 2.1 nivel AA ou versión vixente 
+equivalente, coa norma UNE-EN 301 549 e co Real Decreto 1112/2018. 
+REQ-055 O portal permitirá a consulta da axenda cultural mediante vistas de listaxe, 
+calendario e mapa, así como a consulta da ficha detallada de cada evento, 
+actividade, espazo cultural ou sala publicada. 
+REQ-056 O portal deberá incorporar buscador e filtros por data, municipio, categoría, espazo, 
+público destinatario, accesibilidade e outros criterios configurables. 
+REQ-057 O portal poderá permitir a presentación de solicitudes de reserva, inscrición en 
+actividades gratuítas ou acceso a formularios específicos cando así se configure. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 33 ---
+ 
+Página 33 de 58 
+ 
+  
+ID 
+Requisito 
+Descrición do Requisito 
+REQ-058 O portal deberá incorporar mecanismos de protección fronte a ataques comúns, 
+incluíndo CSRF, XSS, inxección SQL e outros riscos identificados polas boas prácticas 
+OWASP. Todas as comunicacións realizaranse mediante HTTPS e TLS 1.2 ou superior. 
+9.6. Aplicacións móbiles para Android e iOS 
+ID 
+Requisito 
+Descrición do Requisito 
+REQ-059 A solución incluirá aplicacións móbiles para Android e iOS, destinadas á consulta da 
+programación cultural, dos espazos culturais e dos servizos ofrecidos pola 
+plataforma. 
+REQ-060 As aplicacións publicaranse en Google Play Store e Apple App Store desde contas de 
+desenvolvedor de titularidade da Deputación de Pontevedra, que facilitará á 
+empresa adxudicataria o acceso necesario para a súa publicación e actualización. 
+En ningún caso se publicarán desde contas da empresa adxudicataria nin de 
+terceiros. As aplicacións manteranse activas e actualizadas durante toda a vixencia 
+do contrato e o período de garantía, e serán obxecto de transferencia nos termos 
+previstos no apartado de transferencia tecnolóxica deste prego. 
+REQ-061 As aplicacións estarán dispoñibles en galego e castelán e deberán cumprir as guías 
+de accesibilidade das respectivas plataformas. 
+REQ-062 As aplicacións permitirán a consulta da axenda cultural, a ficha detallada de 
+eventos, actividades e espazos culturais, a visualización de localizacións mediante 
+mapa, favoritos, recordatorios e notificacións push cando se configure. 
+REQ-063 Cando se habilite a funcionalidade correspondente, as aplicacións permitirán a 
+inscrición ou preinscrición en actividades gratuítas, consulta do estado da inscrición, 
+cancelación e recepción de confirmacións. 
+REQ-064 Cando se habilite a funcionalidade correspondente, as aplicacións permitirán a 
+presentación ou seguimento de solicitudes de reserva de espazos culturais. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 34 ---
+ 
+Página 34 de 58 
+ 
+  
+ID 
+Requisito 
+Descrición do Requisito 
+REQ-065 As aplicacións poderán incorporar ligazóns externas aos sistemas municipais que, 
+de ser o caso, utilicen os concellos para a venda de entradas, inscricións de 
+pagamento, reservas de praza ou xestión de prezos públicos. Estas operacións 
+realizaranse fóra da plataforma obxecto deste contrato e baixo responsabilidade do 
+concello correspondente. 
+REQ-066 As aplicacións non incorporarán pasarela de pagamento propia, nin xestionarán 
+cobros, devolucións, facturación, liquidacións, datos bancarios ou medios de 
+pagamento. 
+REQ-067 As aplicacións deberán comunicarse co servidor mediante conexión cifrada TLS 1.2 
+ou superior e adaptarse a diferentes tamaños de pantalla e orientacións. 
+9.7. BackOffice de administración 
+ID 
+Requisito 
+Descrición do Requisito 
+REQ-068 A plataforma incluirá un BackOffice de administración destinado á xestión integral 
+da rede de espazos culturais, da axenda cultural, das reservas, das persoas usuarias, 
+das entidades, dos contidos, das incidencias e dos indicadores. 
+REQ-069 O BackOffice permitirá a administración diferenciada por perfís, municipios, espazos, 
+módulos e permisos. 
+REQ-070 O BackOffice permitirá a xestión completa dos espazos culturais, salas, 
+equipamentos, calendarios, dispoñibilidades e condicións de uso. 
+REQ-071 O BackOffice permitirá a xestión completa da axenda cultural, incluíndo creación, 
+edición, validación, publicación, despublicación, arquivo e exportación de eventos. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 35 ---
+ 
+Página 35 de 58 
+ 
+  
+ID 
+Requisito 
+Descrición do Requisito 
+REQ-072 O BackOffice permitirá a xestión de solicitudes de reserva ou uso de espazos 
+culturais, incluíndo revisión, emenda, aprobación, denegación, modificación, 
+cancelación e comunicación coa persoa solicitante. 
+REQ-073 O BackOffice permitirá a xestión de usuarios, entidades, roles, permisos, perfís e 
+auditoría de operacións. 
+REQ-074 O BackOffice incorporará cadros de mando e informes para o seguimento da 
+actividade cultural, uso de espazos, reservas, eventos, inscricións, incidencias e 
+indicadores de funcionamento. 
+9.8. Módulo de comunicacións e notificacións 
+ID 
+Requisito 
+Descrición do Requisito 
+REQ-075 A plataforma incorporará un sistema de comunicacións e notificacións para 
+informar ás persoas usuarias, entidades solicitantes e persoal xestor sobre eventos, 
+reservas, inscricións, incidencias e cambios relevantes. 
+REQ-076 O sistema permitirá o envío de comunicacións por correo electrónico e, cando 
+estean dispoñibles, mediante notificacións push ou outros canais dixitais 
+habilitados. 
+REQ-077 A plataforma permitirá configurar modelos de mensaxe por idioma, tipo de 
+comunicación, módulo e estado do procedemento. 
+REQ-078 O sistema deberá manter rexistro das comunicacións emitidas, incluíndo data, 
+destinatario, asunto, canle, estado de envío e módulo de orixe. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 36 ---
+ 
+Página 36 de 58 
+ 
+  
+9.9. Módulo de incidencias, mantemento e calidade dos espazos 
+ID 
+Requisito 
+Descrición do Requisito 
+REQ-079 A plataforma permitirá a apertura, rexistro, clasificación, seguimento, resolución e 
+peche de incidencias relacionadas cos espazos culturais, equipamentos, reservas, 
+eventos, funcionamento da plataforma ou calidade do servizo. 
+REQ-080 O sistema permitirá clasificar as incidencias por tipo, orixe, gravidade, prioridade, 
+espazo, municipio, módulo afectado e estado. 
+REQ-081 A plataforma permitirá asignar incidencias a persoas ou unidades responsables, 
+establecer prazos de resolución e rexistrar as actuacións realizadas. 
+REQ-082 O sistema manterá trazabilidade completa do ciclo de vida da incidencia, desde a 
+súa apertura ata o seu peche. 
+REQ-083 A plataforma permitirá xerar informes sobre incidencias abertas, resoltas, 
+pendentes, recorrentes, tempos de resposta, tempos de resolución e espazos máis 
+afectados. 
+9.10. Módulo de transparencia, indicadores e explotación de datos 
+ID 
+Requisito 
+Descrición do Requisito 
+REQ-084 A plataforma deberá incorporar funcionalidades de consulta, explotación e 
+visualización de indicadores relativos á actividade cultural e ao uso dos espazos. 
+REQ-085 O sistema permitirá xerar cadros de mando para a Deputación de Pontevedra e para 
+os concellos participantes. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 37 ---
+ 
+Página 37 de 58 
+ 
+  
+ID 
+Requisito 
+Descrición do Requisito 
+REQ-086 Os indicadores deberán permitir, como mínimo, a análise de eventos publicados, 
+reservas realizadas, solicitudes recibidas, solicitudes aprobadas, solicitudes 
+denegadas, ocupación de espazos, actividades por municipio, actividades por 
+categoría, inscricións gratuítas cando proceda, incidencias e evolución temporal da 
+actividade. 
+REQ-087 A plataforma permitirá a visualización dos indicadores mediante gráficos, táboas, 
+filtros e representación xeográfica cando proceda. 
+REQ-088 O sistema permitirá exportar os datos e informes en formatos abertos e reutilizables, 
+incluíndo CSV, PDF, XML, JSON ou outros equivalentes. 
+9.11. Módulo de integración con sistemas externos 
+ID 
+Requisito 
+Descrición do Requisito 
+REQ-089 A plataforma deberá dispoñer dunha API REST documentada conforme á 
+especificación OpenAPI 3.0 ou superior, que permita a interoperabilidade con 
+sistemas de terceiros. 
+REQ-090 A API deberá incorporar mecanismos seguros de autenticación e autorización, 
+baseados en OAuth 2.0, OpenID Connect ou tecnoloxía equivalente. 
+REQ-091 A plataforma integrará a Axenda de Cultura de Galicia nos termos establecidos nos 
+requisitos REQ-045 a REQ-050. 
+REQ-092 A plataforma deberá permitir a integración futura con sistemas municipais de 
+xestión cultural, sedes electrónicas, portais web municipais, sistemas de información 
+xeográfica, plataformas de datos abertos ou outros servizos dixitais. 
+REQ-093 O intercambio de datos realizarase mediante formatos estándar e abertos, tales 
+como JSON, XML, CSV, iCalendar, GeoJSON ou outros equivalentes. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 38 ---
+ 
+Página 38 de 58 
+ 
+  
+ID 
+Requisito 
+Descrición do Requisito 
+REQ-094 Todas as interfaces de integración deberán estar debidamente documentadas e 
+entregaranse á Deputación de Pontevedra como parte da documentación técnica 
+do contrato. 
+10.  PRESCRICIÓNS ESPECÍFICAS NA FASE DE PROBA 
+A plataforma estará sometida a unha fase de probas cunha duración dun (1) mes, 
+que será integramente por conta da empresa adxudicataria. 
+Durante esta fase verificarase o correcto funcionamento de todos os sistemas, 
+módulos, integracións, infraestruturas e compoñentes implantados no marco do 
+contrato, co obxectivo de comprobar o cumprimento dos requisitos funcionais, 
+técnicos, operativos, de rendemento, accesibilidade, interoperabilidade e 
+seguridade establecidos neste prego. 
+A fase de probas desenvolverase sobre a Aplicación Dixital Val Miñor Cultural e 
+abranguerá, cando menos, os seguintes ámbitos: 
+• Portal web público. 
+• Aplicación móbil para Android. 
+• Aplicación móbil para iOS. 
+• BackOffice de administración. 
+• Módulo de xestión de espazos culturais. 
+• Módulo de reservas e solicitudes de uso. 
+• Axenda Cultural Dixital. 
+• Módulo de usuarios, roles e permisos. 
+• Módulo de comunicacións e notificacións. 
+• Módulo de incidencias, mantemento e calidade. 
+• Módulo de indicadores, transparencia e explotación de datos. 
+• API e mecanismos de interoperabilidade. 
+• Sistemas de seguridade, copias de seguridade, monitorización e rexistro de 
+auditoría. 
+Durante esta fase a empresa adxudicataria deberá realizar, como mínimo, probas 
+funcionais, probas de integración, probas de interoperabilidade, probas de carga e 
+rendemento, probas de accesibilidade, probas de seguridade, validación da carga 
+inicial de información, probas de reserva de espazos, probas de publicación de 
+eventos, probas de notificacións e probas de copias de seguridade e recuperación. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 39 ---
+ 
+Página 39 de 58 
+ 
+  
+A empresa adxudicataria deberá realizar un seguimento exhaustivo do 
+comportamento da plataforma durante a fase de probas, rexistrando e analizando 
+as incidencias detectadas, executando as accións correctoras necesarias e 
+revisando os procedementos operativos, configuracións e prescricións funcionais co 
+fin de optimizar o seu funcionamento. 
+Ao remate do período de probas, a empresa adxudicataria presentará un informe 
+final que recolla as actuacións realizadas, o alcance das probas executadas, as 
+incidencias detectadas, as medidas correctoras aplicadas, os resultados obtidos, a 
+validación da dispoñibilidade bilingüe e as versións revisadas da documentación 
+técnica e funcional. 
+Unha vez finalizada satisfactoriamente a fase de probas e emitidos os 
+correspondentes informes favorables de validación por parte da Deputación de 
+Pontevedra, procederase á recepción provisional da plataforma. 
+11.  PRESCRICIÓNS ESPECÍFICAS NA FASE DE POSTA EN MARCHA 
+A fase de posta en marcha terá unha duración dun (1) mes e iniciarase unha vez 
+producida a recepción provisional da plataforma e acreditada a súa conformidade 
+por parte da Deputación de Pontevedra. 
+Durante esta fase, a empresa adxudicataria deberá prestar o acompañamento 
+técnico e funcional necesario para garantir a correcta entrada en funcionamento da 
+Aplicación Dixital Val Miñor Cultural, tanto para a Deputación de Pontevedra como 
+para os concellos participantes. 
+A fase de posta en marcha comprenderá, cando menos, a activación da plataforma 
+en produción, a verificación do portal web público, das aplicacións móbiles e do 
+BackOffice, a validación da carga inicial de espazos culturais e eventos, o 
+acompañamento ao persoal xestor, o soporte funcional e técnico, os axustes 
+menores de parametrización, a monitorización da dispoñibilidade e a actualización 
+da documentación final. 
+Durante esta fase, e tamén durante o período de garantía posterior, estarán incluídos 
+por conta da empresa adxudicataria os servizos de seguimento, soporte e asistencia 
+técnica necesarios para garantir o correcto funcionamento da plataforma. 
+Estas prestacións comprenderán o soporte técnico e funcional da plataforma 
+software, a administración e supervisión dos sistemas aloxados na nube, o 
+mantemento dos servidores cloud, a xestión de licenzas ou subscricións que formen 
+parte da solución, a resolución de incidencias, a corrección de erros e a 
+implementación de melloras menores necesarias para garantir a continuidade 
+operativa. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 40 ---
+ 
+Página 40 de 58 
+ 
+  
+Ao remate da fase de posta en marcha procederase á recepción definitiva da 
+plataforma, sempre que se verifique o cumprimento dos requisitos técnicos, 
+funcionais, operativos, de seguridade, accesibilidade e interoperabilidade 
+establecidos no contrato. 
+12. PRESCRICIÓNS ESPECÍFICAS PARA O PLAN DE DESENVOLVEMENTO EVOLUTIVO. 
+O Plan de Desenvolvemento Evolutivo deberá contemplar, cando menos, os 
+procedementos, recursos, mecanismos de seguimento e metodoloxías necesarios 
+para garantir a evolución, adaptación, mellora continua e sustentabilidade 
+tecnolóxica da solución ao longo do seu ciclo de vida. 
+A empresa adxudicataria, durante a execución dos traballos, redactara un informe 
+con carácter exclusivamente informativo co obxecto de estimar o custo anual de 
+mantemento da plataforma, desagregando o mantemento correctivo, adaptativo e 
+evolutivo, as licenzas ou subscricións e os servizos cloud. Esta estimación non será 
+obxecto de valoración nin xerará compromiso económico para a Deputación de 
+Pontevedra nin para os concellos participantes, e terá como finalidade servir de 
+referencia para a planificación do mantemento futuro da plataforma. 
+13. DOCUMENTACIÓN E INFORMACIÓN TÉCNICA XERADA 
+Os documentos, informes, desenvolvementos, aplicacións, datos, manuais e demais 
+entregables que resulten da execución deste contrato deberán elaborarse de acordo 
+coas instrucións e criterios que determine en cada momento a persoa Responsable 
+do Contrato designada pola Deputación de Pontevedra. 
+Con carácter supletorio, e naqueles aspectos que non sexan obxecto de instrución 
+específica, serán de aplicación as seguintes prescricións: 
+Idiomas da plataforma e da documentación 
+A interface das aplicacións, sistemas e ferramentas que integren a plataforma 
+deberá estar dispoñible en galego e castelán, permitindo ás persoas usuarias 
+seleccionar libremente o idioma de utilización en calquera momento. 
+A documentación de carácter público, operativo ou divulgativo deberá redactarse 
+en galego e castelán, de conformidade coa normativa vixente en materia de 
+normalización lingüística. 
+Resumos operativos e materiais de divulgación 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 41 ---
+ 
+Página 41 de 58 
+ 
+  
+A empresa adxudicataria deberá elaborar resumos executivos e operativos dos 
+traballos realizados, orientados á súa presentación perante medios de 
+comunicación, entidades colaboradoras e demais colectivos implicados. 
+Estes documentos deberán: 
+• Empregar unha linguaxe clara, accesible e non técnica. 
+• Facilitar a comprensión dos obxectivos, funcionalidades e resultados 
+do proxecto. 
+• Presentarse en formatos adecuados para a súa utilización en reunións, 
+xornadas técnicas, presentacións públicas ou conferencias. 
+Plan de Uso e Operación 
+Xunto coa entrega da plataforma, a empresa adxudicataria deberá proporcionar un 
+Plan de Uso e Operación completo e actualizado, no que se describan 
+detalladamente as funcionalidades, procedementos operativos, criterios de 
+explotación e condicións de utilización da solución. 
+Este documento deberá incorporar, cando menos: 
+• A descrición funcional da plataforma. 
+• Os procedementos de operación e explotación. 
+• Os procedementos de administración e mantemento. 
+• Os protocolos de seguridade e continuidade do servizo. 
+• Os procedementos de xestión de incidencias. 
+• Os procedementos de respaldo e recuperación. 
+Así mesmo, deberá anexarse un Manual de Usuario adaptado aos distintos perfís de 
+utilización da plataforma. 
+Plan de Desenvolvemento Evolutivo 
+A documentación entregada deberá incorporar igualmente un Plan de 
+Desenvolvemento Evolutivo, no que se definan as actuacións necesarias para a 
+evolución funcional e tecnolóxica da solución. 
+Este plan incluirá, cando menos: 
+• Os procedementos de actualización e mellora. 
+• Os criterios de evolución funcional. 
+• As actuacións de mantemento adaptativo e correctivo. 
+• Os mecanismos de resposta fronte a continxencias. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 42 ---
+ 
+Página 42 de 58 
+ 
+  
+• Os procedementos de continuidade e recuperación do servizo. 
+Información xeográfica e compoñente territorial 
+Todas as saídas de información, informes, indicadores, estatísticas ou 
+representacións que incorporen unha compoñente territorial ou xeográfica deberán 
+poder integrarse e visualizarse mediante ferramentas baseadas en software libre de 
+información xeográfica. 
+Para tal fin, a solución deberá permitir a interoperabilidade con servidores QGIS ou 
+con outras plataformas equivalentes baseadas en estándares abertos. 
+Formatos abertos e editables 
+Os documentos, datos e demais entregables xerados no marco do contrato deberán 
+entregarse en formatos abertos, reutilizables e editables. 
+Cando se utilicen aplicacións ou ferramentas suxeitas a licenza propietaria ou 
+formatos protexidos, a empresa adxudicataria deberá facilitar adicionalmente unha 
+copia equivalente en formato aberto e editable que permita a súa consulta, 
+modificación e reutilización por parte da Deputación de Pontevedra. 
+Os formatos concretos que deban empregarse para cada tipo de información serán 
+determinados polo Responsable do Contrato, atendendo á natureza do entregable e 
+aos criterios de interoperabilidade, conservación e reutilización da información 
+pública. 
+14. LICENZAS E SUSTENTABILIDADE TECNOLÓXICA DA PLATAFORMA 
+O desenvolvemento, subministración e implantación da plataforma deberán 
+realizarse empregando, de forma preferente, tecnoloxías e compoñentes baseados 
+en software de código aberto, co fin de garantir a independencia tecnolóxica da 
+Administración, a interoperabilidade da solución, a súa escalabilidade futura e a 
+posibilidade de mantemento e evolución por terceiros. 
+A solución deberá deseñarse de forma que asegure a continuidade operativa da 
+plataforma ao longo do tempo, evitando dependencias tecnolóxicas que poidan 
+limitar a súa explotación futura. 
+No caso de que a solución incorpore compoñentes, servizos, librarías ou aplicacións 
+suxeitas a licenzamento, dereitos de uso ou modelos de pagamento por subscrición, 
+estes deberán identificarse expresamente na oferta presentada pola empresa 
+licitadora. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 43 ---
+ 
+Página 43 de 58 
+ 
+  
+Para cada un destes elementos deberase indicar, cando menos: 
+• A súa descrición funcional. 
+• O fabricante ou provedor correspondente. 
+• O modelo de licenzamento aplicable. 
+• O custo periódico asociado á súa continuidade, renovación ou uso. 
+• As condicións de transferencia, reutilización e mantemento por 
+terceiros. 
+En ningún caso os sistemas de licenzamento poderán limitar ou comprometer o uso 
+da plataforma, a súa escalabilidade, a súa evolución futura ou o seu mantemento 
+por terceiros unha vez finalizadas as obrigas contractuais da empresa 
+adxudicataria. 
+Todas as funcionalidades requiridas nos distintos compoñentes da solución deberán 
+atoparse plenamente operativas no momento da entrega da plataforma. 
+Se para a implantación, configuración ou utilización dalgunha funcionalidade fose 
+necesaria a dispoñibilidade de licenzas específicas, estas deberán estar incluídas na 
+solución ofertada e serán fornecidas pola empresa adxudicataria sen custo 
+adicional para a Deputación de Pontevedra. 
+O software subministrado suxeito a licenzamento poderá ser utilizado de forma 
+indefinida pola Deputación de Pontevedra e polos concellos participantes para os 
+fins propios do contrato, sen custos adicionais nin recorrentes. Requisitos do núcleo 
+tecnolóxico da plataforma 
+Requisitos do núcleo tecnolóxico da plataforma 
+O núcleo da plataforma deberá basearse en tecnoloxías abertas, estables, robustas 
+e amplamente implantadas, contando cunha comunidade activa de 
+desenvolvemento e soporte que garanta a súa continuidade, evolución e viabilidade 
+futura. 
+Co obxecto de asegurar a sustentabilidade tecnolóxica da solución, a 
+documentación final deberá incluír, cando menos: 
+• A descrición detallada da arquitectura técnica da plataforma. 
+• O modelo de datos completo. 
+• A estrutura das bases de datos. 
+• O deseño das API e dos servizos web. 
+• Os diagramas de arquitectura e integración. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 44 ---
+ 
+Página 44 de 58 
+ 
+  
+• Os scripts de creación, configuración e mantemento das bases de 
+datos. 
+• O código fonte completo da solución desenvolvida. 
+• As librarías, dependencias, compoñentes e ficheiros necesarios para 
+a súa recompilación, despregamento e mantemento. 
+• A documentación técnica necesaria para permitir a súa evolución por 
+terceiros. 
+• As prescricións, procedementos e instrucións necesarias para garantir 
+o carácter evolutivo da plataforma. 
+No caso de existiren compoñentes suxeitos a licenza, estes deberán permitir a 
+ampliación funcional da plataforma, a incorporación de novos módulos e a 
+integración de ferramentas adicionais sen limitacións técnicas que comprometan a 
+súa evolución. 
+O Plan de Uso e Operación deberá documentar expresamente os mecanismos de 
+integración e as chamadas necesarias para interactuar con estes compoñentes 
+licenciados. 
+Obrigas durante a posta en marcha e o período de garantía 
+Durante a fase de posta en marcha e durante todo o período de garantía, a empresa 
+adxudicataria será responsable do soporte técnico integral da plataforma. 
+Esta obriga incluirá: 
+• A corrección de incidencias e erros. 
+• A realización dos axustes e melloras necesarios para garantir a plena 
+funcionalidade da solución. 
+• O soporte dos compoñentes suxeitos a licenza. 
+• O pagamento das licenzas, subscricións ou servizos recorrentes 
+necesarios para o funcionamento da plataforma. 
+• Os posibles custos asociados ao pagamento por uso. 
+• O custo do servizo cloud e da infraestrutura de servidores necesaria 
+para o aloxamento da plataforma. 
+Durante este período non se repercutirá á Deputación de Pontevedra ningún custo 
+asociado ao soporte, mantemento, licenzas ou infraestrutura necesaria para o 
+funcionamento da solución. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 45 ---
+ 
+Página 45 de 58 
+ 
+  
+15. PERÍODO DE GARANTÍA 
+Establécese un período de garantía de doce (12) meses, que comezará a contar 
+desde a data de formalización da recepción definitiva da plataforma por parte da 
+Deputación de Pontevedra. 
+Durante este período, a empresa adxudicataria quedará obrigada a prestar o 
+soporte integral da plataforma, garantindo o seu correcto funcionamento, 
+dispoñibilidade, seguridade e continuidade operativa. 
+O servizo de garantía incluirá, cando menos: 
+• O mantemento correctivo necesario para a resolución de incidencias 
+e erros. 
+• O soporte técnico e funcional da plataforma. 
+• A actualización dos compoñentes software que resulten necesarios 
+para garantir a seguridade e estabilidade do sistema. 
+• A asistencia técnica aos usuarios autorizados e aos responsables da 
+explotación da plataforma. 
+• O mantemento da infraestrutura tecnolóxica necesaria para a 
+prestación do servizo. 
+• A monitorización e supervisión dos sistemas. 
+Durante o período de garantía, todos os custos necesarios para o funcionamento da 
+plataforma serán asumidos integramente pola empresa adxudicataria, incluíndo 
+expresamente: 
+• Os custos asociados ás licenzas, subscricións ou dereitos de uso dos 
+compoñentes que integren a solución. 
+• Os posibles custos derivados de modelos de pagamento por uso. 
+• Os custos correspondentes aos servizos cloud de aloxamento. 
+• Os custos asociados á infraestrutura de servidores, almacenamento, 
+comunicacións, copias de seguridade e demais servizos tecnolóxicos 
+necesarios para a operación da plataforma. 
+Durante este período non se repercutirá á Deputación de Pontevedra ningún custo 
+adicional relacionado co soporte, mantemento, licenzamento ou aloxamento da 
+solución. 
+Ao remate do período de garantía, a Deputación de Pontevedra poderá asumir 
+directamente a explotación da plataforma ou encomendar a terceiros o seu 
+mantemento, soporte e evolución, de acordo coas condicións previstas neste prego 
+e coa documentación técnica entregada pola empresa adxudicataria. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 46 ---
+ 
+Página 46 de 58 
+ 
+  
+16. CLASIFICACIÓN E XESTIÓN DE INCIDENCIAS 
+Todas as incidencias notificadas no marco do presente contrato serán clasificadas 
+segundo o seu nivel de prioridade. 
+A prioridade determinarase en función da combinación do impacto que a incidencia 
+produza sobre a prestación do servizo e da urxencia coa que deba ser resolta, de 
+acordo co modelo de clasificación establecido neste prego. 
+O nivel de prioridade asignado a cada incidencia servirá de base para a 
+determinación dos tempos máximos de resposta e resolución esixibles á empresa 
+adxudicataria, así como para a aplicación das correspondentes penalizacións en 
+caso de incumprimento dos niveis de servizo establecidos. 
+A clasificación das incidencias deberá realizarse de forma obxectiva, documentada 
+e trazable, quedando rexistrada no sistema de xestión de incidencias da plataforma 
+e podendo ser revisada ou modificada pola persoa Responsable do Contrato cando 
+concorran circunstancias que así o xustifiquen. 
+Os criterios específicos de impacto, urxencia, prioridade, tempos máximos de 
+resolución e réxime de penalizacións desenvolveranse nos apartados 
+correspondentes do presente prego. 
+16.1. Impacto 
+O impacto reflicte o alcance da degradación do servizo e determinarase  
+inicialmente pola Deputación de Pontevedra, conforme á seguinte táboa: 
+Impacto Guía de valoración 
+1. Global / masivo Non funcionan servizos esenciais da plataforma. Afecta á 
+prestación xeral do servizo en calquera das súas canles  
+2. Significativo / 
+grande 
+Os servizos proporcionados pola plataforma están 
+seriamente degradados ou hai perda parcial de 
+funcionalidades críticas  
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 47 ---
+ 
+Página 47 de 58 
+ 
+  
+Impacto Guía de valoración 
+3. Moderado / 
+limitado 
+Algún servizo ou subsistema está degradado ou con 
+capacidade limitada, sen impedir a prestación xeral do 
+servizo. 
+4. Pequeno / 
+localizado 
+Funcionalidades non críticas non funcionan correctamente 
+ou presentan pequenas degradacións que non afectan á 
+prestación do servizo. 
+ 
+16.2. Urxencia 
+A urxencia reflicte o tempo que a organización pode esperar para a resolución da 
+incidencia e determinarase inicialmente pola Deputación de Pontevedra, conforme 
+á seguinte táboa: 
+Urxencia Guía de valoración 
+1. Crítica A resposta debe ser inmediata, con esforzo sostido e todos 
+os recursos dispoñibles ata a resolución. Invócase o 
+escalado xerárquico. Normalmente impide a operación do 
+servizo sen solución provisional posible. 
+2. Alta O adxudicatario responde de forma inmediata, avalía a 
+situación e pode interromper a resolución de outras 
+incidencias de menor urxencia. Requírese restauración 
+rápida do servizo. 
+3. Media O adxudicatario responde con procedementos estándar 
+dentro das estruturas normais de xestión. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 48 ---
+ 
+Página 48 de 58 
+ 
+  
+Urxencia Guía de valoración 
+4. Baixa O adxudicatario responde con procedementos estándar. 
+Existe solución provisional dispoñible que permite seguir 
+prestando o servizo con normalidade aceptable. 
+ 
+16.3. Modelo de priorización 
+A prioridade calcúlase combinando o impacto e a urxencia asignados conforme á 
+seguinte matriz, sendo "Crítica" o nivel máis alto e "Baixa" o máis baixo: 
+Impacto \ 
+Urxencia 
+1. Crítica 2. Alta 3. Media 4. Baixa 
+1. Global / masivo Crítica Crítica Alta Baixa 
+2. Significativo / 
+grande 
+Crítica Alta Media Baixa 
+3. Moderado / 
+limitado 
+Alta Alta Media Baixa 
+4. Pequeno / 
+localizado 
+Alta Media Media Baixa 
+16.4. Xestión de incidencias 
+A Deputación de Pontevedra porá á disposición da empresa adxudicataria unha 
+ferramenta corporativa de xestión para o rexistro, seguimento e control de todas as 
+incidencias, solicitudes de soporte e actuacións relacionadas coa execución do 
+contrato. 
+A empresa adxudicataria deberá facilitar, cando menos: 
+• Un número de teléfono de contacto para soporte técnico. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 49 ---
+ 
+Página 49 de 58 
+ 
+  
+• Un enderezo de correo electrónico específico para a xestión de 
+incidencias. 
+• Unha matriz de escalado que identifique os distintos niveis de 
+responsabilidade e os contactos asociados para a atención de 
+incidencias críticas ou producidas fóra do horario ordinario de soporte. 
+Todas as incidencias e solicitudes deberán quedar debidamente rexistradas na 
+ferramenta corporativa habilitada para tal fin. 
+Así mesmo, todas as actuacións técnicas realizadas pola empresa adxudicataria 
+para a análise, diagnóstico, seguimento, resolución ou peche das incidencias 
+deberán documentarse na devandita ferramenta, mantendo en todo momento 
+información completa, precisa e actualizada sobre: 
+• O estado da incidencia. 
+• As actuacións realizadas. 
+• Os recursos asignados. 
+• Os tempos de resposta e resolución. 
+• As comunicacións efectuadas. 
+• As medidas correctoras ou preventivas adoptadas. 
+A información rexistrada deberá permitir a trazabilidade completa do ciclo de vida 
+de cada incidencia, desde a súa apertura ata a súa resolución definitiva. 
+Unha vez implantada a solución e validada a corrección da incidencia polo persoal 
+técnico da Deputación de Pontevedra, procederase ao seu peche formal na 
+ferramenta de xestión. 
+O peche dunha incidencia requirirá a correspondente aceptación por parte da 
+Deputación de Pontevedra, sen prexuízo de que poidan abrirse novas incidencias 
+relacionadas se se detectasen posteriormente defectos, reincidencias ou efectos 
+derivados da actuación realizada. 
+17. ACORDOS DE NIVEL DE SERVIZO 
+A continuación defínense os Acordos de Nivel de Servizo (ANS) aplicables ao 
+presente contrato, os cales se establecerán en función dos niveis de prioridade das 
+incidencias definidos no apartado anterior. 
+Os ANS teñen por obxecto garantir a correcta prestación do servizo, establecendo os 
+tempos máximos de resposta, atención, resolución e recuperación que deberá 
+cumprir a empresa adxudicataria para cada categoría de incidencia ou solicitude. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 50 ---
+ 
+Página 50 de 58 
+ 
+  
+O cumprimento destes acordos constituirá unha obriga contractual esencial e, en 
+ningún caso, poderá supoñer un prexuízo económico, técnico ou organizativo para a 
+Deputación de Pontevedra. 
+Todos os medios humanos, técnicos, organizativos e materiais necesarios para 
+garantir o cumprimento dos ANS serán por conta exclusiva da empresa 
+adxudicataria, que asumirá integramente os custos derivados da súa execución, sen 
+que poida reclamar compensación económica adicional por este concepto. 
+O cálculo dos tempos asociados aos ANS realizarase conforme aos criterios 
+establecidos neste prego e quedará debidamente rexistrado nos sistemas de xestión 
+e seguimento de incidencias. 
+O incumprimento dos niveis de servizo comprometidos dará lugar á aplicación das 
+penalizacións, deducións ou demais medidas previstas no Prego de Cláusulas 
+Administrativas Particulares (PCAP), sen prexuízo doutras responsabilidades que 
+poidan derivarse da execución defectuosa do contrato. 
+17.1. Resolución de incidencias de prioridade crítica 
+As incidencias clasificadas como de prioridade crítica deberán resolverse nun prazo 
+máximo de catro (4) horas desde o seu rexistro e validación, prestándose o servizo 
+de atención e soporte en réxime de 24 horas ao día, 7 días á semana e 365 días ao 
+ano (24x7x365). 
+Para os efectos deste acordo de nivel de servizo, considerarase resolución tanto a 
+corrección definitiva da incidencia como a implantación dunha solución provisional 
+ou medida de continxencia que permita restablecer a prestación do servizo e reducir 
+o impacto da incidencia ata un nivel compatible coa súa reclasificación nunha 
+categoría de prioridade inferior. 
+A adopción dunha solución provisional non eximirá á empresa adxudicataria da 
+obriga de resolver definitivamente a incidencia no menor prazo posible. 
+Todos os custos derivados da aplicación de medidas correctoras, solucións 
+provisionais, actuacións de continxencia, recursos extraordinarios ou calquera outra 
+actuación necesaria para o cumprimento deste nivel de servizo serán asumidos 
+integramente pola empresa adxudicataria, sen custo adicional para a Deputación 
+de Pontevedra. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 51 ---
+ 
+Página 51 de 58 
+ 
+  
+17.2. Resolución de incidencias de prioridade alta 
+As incidencias clasificadas como de prioridade alta deberán resolverse nun prazo 
+máximo de oito (8) horas desde o seu rexistro e validación, computándose 
+exclusivamente dentro do horario de soporte establecido para o contrato, 
+comprendido entre as 08:00 e as 15:00 horas e entre as 16:00 e as 20:00 horas, de luns 
+a venres, salvo que se estableza outro calendario específico. 
+Para os efectos deste acordo de nivel de servizo, considerarase resolución tanto a 
+corrección definitiva da incidencia como a implantación dunha solución provisional 
+ou medida alternativa que permita restablecer a funcionalidade afectada e reducir 
+o impacto da incidencia, posibilitando a súa reclasificación a unha categoría de 
+prioridade inferior. 
+A aplicación dunha solución provisional non eximirá á empresa adxudicataria da 
+obriga de acometer a resolución definitiva da incidencia no menor prazo posible. 
+Todos os custos derivados da aplicación de medidas correctoras, actuacións de 
+continxencia, recursos adicionais ou solucións provisionais necesarias para garantir 
+o cumprimento deste nivel de servizo serán asumidos integramente pola empresa 
+adxudicataria, sen que poidan repercutirse á Deputación de Pontevedra. 
+17.3. Resolución de incidencias de prioridade media 
+As incidencias clasificadas como de prioridade media deberán resolverse nun prazo 
+máximo de vinte e catro (24) horas desde o seu rexistro e validación, computándose 
+exclusivamente dentro do horario ordinario de soporte establecido para o contrato. 
+Para os efectos deste acordo de nivel de servizo, considerarase resolución tanto a 
+corrección definitiva da incidencia como a implantación dunha solución provisional, 
+medida alternativa ou actuación de mitigación que permita reducir o seu impacto e 
+posibilite a súa reclasificación a unha categoría de prioridade inferior. 
+A implantación dunha solución provisional non eximirá á empresa adxudicataria da 
+obriga de proceder á resolución definitiva da incidencia, que deberá efectuarse no 
+prazo máis breve posible e de acordo coas condicións técnicas establecidas no 
+contrato. 
+Todas as actuacións realizadas, así como os cambios de clasificación, medidas 
+adoptadas e tempos de resposta e resolución, deberán quedar debidamente 
+rexistrados na ferramenta corporativa de xestión de incidencias posta á disposición 
+pola Deputación de Pontevedra. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 52 ---
+ 
+Página 52 de 58 
+ 
+  
+17.4. Resolución de incidencias de prioridade baixa 
+As incidencias clasificadas como de prioridade baixa deberán resolverse nun prazo 
+máximo de tres (3) días hábiles desde o seu rexistro e validación, computándose 
+exclusivamente dentro do horario ordinario de soporte establecido para o contrato. 
+Terán a consideración de incidencias de prioridade baixa aquelas que non afecten 
+de forma significativa á prestación do servizo, non comprometan a continuidade 
+operativa da plataforma nin impidan o desenvolvemento normal das 
+funcionalidades principais do sistema. 
+A resolución da incidencia poderá consistir na súa corrección definitiva ou na 
+aplicación dunha solución funcional aceptada pola Deputación de Pontevedra que 
+elimine os efectos da incidencia detectada. 
+Todas as actuacións realizadas durante a análise, seguimento e resolución da 
+incidencia deberán quedar debidamente rexistradas na ferramenta corporativa de 
+xestión de incidencias, garantindo a trazabilidade completa do proceso ata o seu 
+peche formal. 
+A incidencia considerarase resolta unha vez validada a solución implantada polo 
+persoal técnico da Deputación de Pontevedra e realizado o correspondente peche 
+no sistema de xestión de incidencias. 
+17.5. Servizo de soporte técnico especializado 
+A atención das consultas técnicas remitidas polo persoal da Deputación de 
+Pontevedra deberá realizarse nun prazo máximo de dous (2) días hábiles desde o 
+seu rexistro na ferramenta de xestión habilitada para tal efecto, computándose 
+exclusivamente dentro do horario ordinario de soporte establecido para o contrato. 
+Para os efectos deste acordo de nivel de servizo, considerarase resposta válida 
+aquela que proporcione información técnica suficiente sobre a cuestión formulada, 
+inclúa as actuacións realizadas ou previstas e permita coñecer o estado da consulta 
+e os pasos necesarios para a súa resolución, se esta requirise actuacións adicionais. 
+Todas as consultas técnicas deberán quedar debidamente rexistradas na 
+ferramenta corporativa de xestión, mantendo a trazabilidade das comunicacións, 
+actuacións e respostas emitidas. 
+A consulta considerarase pechada unha vez proporcionada a resposta 
+correspondente e aceptada polo persoal técnico da Deputación de Pontevedra ou 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 53 ---
+ 
+Página 53 de 58 
+ 
+  
+transcorrido o prazo que se estableza para formular observacións sen que se 
+produzan novas actuacións. 
+17.6. Dispoñibilidade do servizo 
+A empresa adxudicataria deberá garantir unha dispoñibilidade mensual mínima do 
+servizo do 99,5 %, calculada sobre o conxunto dos compoñentes esenciais que 
+integran a plataforma, incluíndo, cando menos: 
+• O backend ou núcleo central da solución. 
+• O portal web público. 
+• As aplicacións móbiles para as persoas usuarias. 
+A dispoñibilidade medirase en réxime de funcionamento 24 horas ao día, 7 días á 
+semana e 365 días ao ano (24x7x365), tomando como referencia o período mensual 
+correspondente. 
+Para o cálculo deste indicador non se computarán os períodos correspondentes ás 
+ventás de mantemento programadas que fosen previamente comunicadas á 
+Deputación de Pontevedra coa antelación e condicións establecidas no Plan de 
+Soporte, sempre que estas actuacións non excedan os límites previstos nin afecten 
+de forma indebida á prestación do servizo. 
+A empresa adxudicataria deberá dispoñer dos mecanismos de monitorización, 
+rexistro e medición necesarios para acreditar o cumprimento deste nivel de servizo, 
+facilitando á Deputación de Pontevedra os informes periódicos que resulten 
+necesarios para a súa verificación. 
+18. TRANSFERENCIA TECNOLÓXICA E DO COÑECEMENTO 
+A empresa adxudicataria deberá garantir unha adecuada transferencia tecnolóxica 
+e de coñecemento á Deputación de Pontevedra durante toda a execución do 
+contrato e, de maneira especial, no momento da súa finalización, con independencia 
+de que resulte ou non adxudicataria de futuros contratos relacionados coa solución 
+obxecto deste prego. 
+A transferencia terá como finalidade garantir a continuidade do servizo, evitar 
+situacións de dependencia tecnolóxica e asegurar que a Deputación de Pontevedra 
+dispoña do coñecemento, documentación e recursos necesarios para a 
+administración, explotación, mantemento e evolución futura da plataforma. 
+Para tal efecto, a empresa adxudicataria deberá: 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 54 ---
+ 
+Página 54 de 58 
+ 
+  
+• Documentar de forma completa, actualizada e estruturada a 
+arquitectura da solución, incluíndo a configuración dos sistemas, os 
+compoñentes que integran a plataforma, as integracións existentes e 
+as dependencias técnicas asociadas. 
+• Entregar toda a documentación funcional e técnica necesaria para a 
+administración, mantemento, soporte, evolución e explotación da 
+plataforma. 
+• Facilitar unha relación detallada das configuracións específicas 
+implantadas na solución, así como dos procedementos operativos 
+asociados ao mantemento, actualización, xestión de incidencias, 
+aplicación de parches, copias de seguridade e recuperación do 
+servizo. 
+• Entregar o código fonte desenvolvido especificamente no marco do 
+contrato, xunto cos scripts de creación, configuración e mantemento 
+das bases de datos, así como todos os ficheiros, librarías, 
+dependencias e elementos necesarios para a súa compilación, 
+despregamento, operación e mantemento por terceiros. 
+• Proporcionar un inventario completo e permanentemente actualizado 
+dos compoñentes da solución, incluíndo versións instaladas, 
+dependencias técnicas, servizos utilizados e licenzas asociadas. 
+Con carácter previo á finalización do contrato, e durante o período que determine a 
+Deputación de Pontevedra, a empresa adxudicataria deberá colaborar activamente 
+no proceso de transición do servizo. 
+Esta colaboración incluirá, cando menos: 
+• A realización de sesións de transferencia de coñecemento dirixidas ao 
+persoal técnico designado pola Deputación de Pontevedra. 
+• A explicación dos procedementos de administración, operación, 
+mantemento e evolución da plataforma. 
+• A resolución das dúbidas técnicas que poidan xurdir en relación coa 
+configuración, explotación e soporte da solución. 
+• A coordinación e colaboración co eventual novo adxudicatario ou co 
+persoal que asuma o mantemento da plataforma, no caso de 
+producirse un cambio de provedor. 
+O proceso de transferencia deberá realizarse de forma ordenada, planificada e 
+documentada, sen custo adicional para a Deputación de Pontevedra e sen afectar á 
+dispoñibilidade, rendemento ou continuidade da prestación do servizo. 
+Transferencia da titularidade aos concellos participantes 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 55 ---
+ 
+Página 55 de 58 
+ 
+  
+De conformidade cos convenios subscritos entre a Deputación de Pontevedra e os 
+concellos de Baiona, Gondomar e Nigrán, estes asumirán a titularidade e o 
+mantemento da Aplicación Dixital Val Miñor Cultural unha vez formalizada a 
+correspondente acta de recepción. Para facilitar este traspaso, a empresa 
+adxudicataria deberá: 
+• Elaborar e entregar, antes da recepción definitiva, un Plan de 
+Transferencia da Titularidade que identifique todos os activos da 
+solución (aplicacións móbiles, contas e credenciais de publicación, 
+dominios, certificados, aloxamento, bases de datos, código fonte e, de 
+ser o caso, licenzas) e o procedemento para o seu traspaso. 
+• Realizar a transferencia das aplicacións móbiles desde as contas de 
+desenvolvedor da Deputación de Pontevedra á conta ou contas que 
+esta determine, conforme aos procedementos de transferencia de 
+Google Play e Apple App Store, conservando o identificador das 
+aplicacións, as persoas usuarias e o historial de versións. 
+• Executar a migración completa da plataforma (aplicacións, bases de 
+datos, ficheiros e configuracións) á infraestrutura que indique a 
+Deputación de Pontevedra, no momento que esta determine e, como 
+máis tarde, ao remate do período de garantía. 
+• Prestar asistencia técnica durante o proceso de traspaso, ata verificar 
+o correcto funcionamento da plataforma no novo contorno. 
+Estas actuacións realizaranse sen custo adicional para a Deputación de Pontevedra 
+nin para os concellos participantes. 
+Toda a documentación, código fonte, configuracións, inventarios, manuais, 
+procedementos e demais información xerada no marco deste contrato terá carácter 
+confidencial e será propiedade exclusiva da Deputación de Pontevedra, sen prexuízo 
+dos dereitos que poidan corresponder a terceiros sobre compoñentes preexistentes 
+ou suxeitos a licenzamento. 
+19. CONFIDENCIALIDADE E PROTECCIÓN DE DATOS 
+A empresa adxudicataria queda expresamente obrigada a manter a máis estrita 
+confidencialidade e reserva respecto de calquera información, dato ou 
+documentación á que teña acceso con ocasión da execución do contrato, 
+especialmente cando se trate de datos de carácter persoal, información sensible, 
+datos operativos ou información de natureza confidencial pertencente á Deputación 
+de Pontevedra, ás entidades participantes ou ás persoas usuarias do servizo. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 56 ---
+ 
+Página 56 de 58 
+ 
+  
+En consecuencia, a empresa adxudicataria non poderá reproducir, copiar, utilizar, 
+divulgar, transmitir ou destinar dita información a finalidades distintas das 
+expresamente previstas no presente contrato, nin cedela ou comunicala a terceiros, 
+nin sequera para efectos de conservación, salvo autorización expresa e por escrito 
+da Deputación de Pontevedra ou nos supostos legalmente previstos. 
+Esta obriga de confidencialidade subsistirá mesmo despois da extinción do contrato, 
+calquera que sexa a súa causa, e manterase vixente mentres a información non 
+adquira carácter público por medios lexítimos ou perda a súa natureza confidencial 
+por causas alleas ao incumprimento das obrigas asumidas por calquera das partes. 
+A empresa adxudicataria deberá cumprir en todo momento coa normativa vixente 
+en materia de protección de datos persoais, e en particular coa seguinte lexislación: 
+• Lei Orgánica 3/2018, do 5 de decembro, de Protección de Datos Persoais e 
+garantía dos dereitos dixitais (LOPDGDD). 
+• Regulamento (UE) 2016/679 do Parlamento Europeo e do Consello, do 27 de 
+abril de 2016, relativo á protección das persoas físicas no que respecta ao 
+tratamento de datos persoais e á libre circulación destes datos (RXPD). 
+• As disposicións regulamentarias e normas de desenvolvemento que se 
+atopen vixentes no momento da adxudicación do contrato ou que entren en 
+vigor durante a súa execución. 
+Para os efectos da normativa de protección de datos, a empresa adxudicataria terá 
+a condición de encargada do tratamento respecto dos datos persoais aos que 
+acceda por razón da execución do contrato. 
+En consecuencia, deberá subscribir o correspondente contrato ou anexo de encargo 
+do tratamento de datos, de conformidade co establecido no artigo 28 do RXPD e nas 
+restantes disposicións aplicables. 
+A empresa adxudicataria comprométese igualmente a gardar segredo profesional 
+sobre toda a información á que teña acceso durante a execución do contrato e a 
+adoptar as medidas necesarias para garantir que esta obriga sexa observada por 
+todo o persoal, colaboradores, subcontratistas ou terceiros que participen na 
+prestación do servizo. 
+Para tal efecto, deberá establecer as medidas organizativas, técnicas e de control 
+necesarias para garantir a confidencialidade, integridade, dispoñibilidade e 
+seguridade da información tratada, respondendo fronte á Deputación de Pontevedra 
+dos incumprimentos que poidan producirse por parte do persoal ao seu cargo. 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 57 ---
+ 
+Página 57 de 58 
+ 
+  
+A finalización do contrato implicará a devolución ou destrución da información e dos 
+datos persoais tratados, nos termos que determine a Deputación de Pontevedra e de 
+conformidade coa normativa aplicable, sen prexuízo das obrigas legais de 
+conservación que poidan resultar esixibles. 
+20. NORMATIVA VIXENTE 
+Para a execución das prestacións obxecto do presente contrato deberán observarse 
+todas as disposicións normativas vixentes que resulten de aplicación en cada 
+momento, tanto no ámbito estatal como autonómico e local. 
+De forma particular, e sen carácter limitativo, a empresa adxudicataria deberá 
+cumprir coa seguinte normativa: 
+• Lei 9/2017, do 8 de novembro, de Contratos do Sector Público (LCSP), pola 
+que se transpoñen ao ordenamento xurídico español as Directivas do 
+Parlamento Europeo e do Consello 2014/23/UE e 2014/24/UE, do 26 de 
+febreiro de 2014. 
+• Real Decreto 311/2022, do 3 de maio, polo que se regula o Esquema 
+Nacional de Seguridade (ENS). 
+• Real Decreto 1112/2018, do 7 de setembro, sobre accesibilidade dos sitios 
+web e aplicacións para dispositivos móbiles do sector público. 
+• Directiva (UE) 2016/2102 do Parlamento Europeo e do Consello, do 26 de 
+outubro de 2016, relativa á accesibilidade dos sitios web e das aplicacións 
+para dispositivos móbiles dos organismos do sector público. 
+• Norma UNE-EN 301 549, relativa aos requisitos de accesibilidade para 
+produtos e servizos das tecnoloxías da información e das comunicacións 
+aplicables á contratación pública en Europa. 
+• Regulamento (UE) 2016/679 do Parlamento Europeo e do Consello, do 27 
+de abril de 2016 (RXPD), relativo á protección das persoas físicas no que 
+respecta ao tratamento de datos persoais e á libre circulación destes 
+datos. 
+• Lei Orgánica 3/2018, do 5 de decembro, de Protección de Datos Persoais 
+e garantía dos dereitos dixitais (LOPDGDD). 
+• Regulamento (UE) 2021/1060 do Parlamento Europeo e do Consello, do 24 
+de xuño de 2021, polo que se establecen disposicións comúns relativas ao 
+Fondo Europeo de Desenvolvemento Rexional (FEDER) e aos demais 
+fondos europeos de xestión compartida. 
+• • Lei 5/1997, do 22 de xullo, de Administración Local de Galicia, 
+especialmente o seu artigo 7 en materia de normalización lingüística. 
+• • A restante normativa estatal, autonómica, europea ou local que resulte 
+de aplicación en materia de contratación pública, administración 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP
+
+--- página 58 ---
+ 
+Página 58 de 58 
+ 
+  
+electrónica, seguridade da información, protección de datos, 
+accesibilidade dixital, interoperabilidade, transparencia, reutilización da 
+información do sector público, telecomunicacións e prestación de 
+servizos dixitais. 
+A empresa adxudicataria deberá adaptarse, durante toda a vixencia do contrato, ás 
+modificacións normativas que poidan producirse e que afecten ao obxecto da 
+contratación, sen que iso supoña unha diminución das obrigas asumidas nin do nivel 
+de servizo comprometido. 
+ 
+ 
+Pode verificar a integridade deste documento no seguinte enderezo:
+https://sede.depo.gal
+Código seguro de verificación:DANW2C9WTHUW8OYP

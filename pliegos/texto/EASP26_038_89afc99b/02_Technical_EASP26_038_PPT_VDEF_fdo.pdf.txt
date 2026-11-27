@@ -1,0 +1,796 @@
+
+
+--- página 1 ---
+ 
+ 
+ 
+Pág. 1 de 15 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+EASP26 038 Contratación del Servicio de consultoría informática para la gestión, el alojamiento, 
+mantenimiento, soporte de incidencias, mejoras y migración de base de datos de la Herramienta 
+online para elaboración de planes de empresas, integrando estándares de accesibilidad. 
+1. Introducción y necesidades de contratación 
+del servicio.  
+Extremadura Avante Servicios Avanzados a Pymes, S.L.U. es una sociedad 
+mercantil que tiene por objeto social el servicio a los empresarios y al resto de 
+agentes económicos que contribuyan al desarrollo económico y social de 
+Extremadura, y el acompañamiento a la Junta de Extremadura para la 
+ejecución de su política empresarial. Para la ejecución de su objeto social, 
+Extremadura Avante Servicios Avanzados a Pymes, S.L.U. acompaña a la Junta 
+de Extremadura en el cumplimiento de las políticas que se generen para el 
+impulso del emprendimiento, el fomento de la comercialización e 
+internacionalización de la economía regional, la promoción de la innovación 
+como herramienta de competitividad empresarial y cualquieras otras que sean 
+necesarias para el apoyo y crecimiento del sector empresarial de la región. 
+El Plan estratégico que aglutina el conjunto de medidas de fomento del 
+emprendimiento y la competitividad empresarial de Extremadura sirve como 
+base para el actual desarrollo de la Red de Puntos de Acompañamiento 
+Empresarial, proyecto de dinamización y gestión de una red de espacios físicos 
+repartidos por la geografía extremeña gestionados a través de Extremadura 
+Avante Servicios Avanzados a Pymes, S.L.U. (Extremadura Avante), donde se 
+ayuda, tutela, asesora y se forma a los emprendedores y empresas extremeñas 
+desde la incentivación de la cultura emprendedora hasta el crecimiento y 
+consolidación de las empresas, acercando los servicios y recursos que la 
+Administración pueda ofrecer para apoyar el tejido empresarial regional.  
+Así desde esta red de Puntos de Acompañamiento Empresarial se ofrecen 
+servicios de orientación , asesoramiento  y acompañamiento integral, 
+elaboración de planes de negocio, realización de trámites de creación de 
+nuevas empresas, apoyo en la búsqueda de financiación tanto pública como 
+privada, así como asesoramiento especializado dirigido a favorecer la 
+consolidación y crecimiento de las micropymes y pymes,  mediante el 
+asesoramiento y mejora de la rentabilidad de sus negocios a través de la 
+utilización de herramientas digitales que permita su desarrollo y crecimiento 
+con la máxima agilidad y eficacia. 
+Uno de los recursos digitales que se ofrece al ecosistema emprendedor-
+empresarial extremeño es la base de datos que da soporte a la herramienta 
+online para elaboración de planes de empresas  
+http://plandeempresaextremaduraempresarial.es. Esta plataforma informática 
+facilita el desarrollo de un proyecto empresarial paso a paso, de una forma real 
+y exhaustiva, garantizando una mayor probabilidad de éxito en su puesta en 
+marcha, desarrollo y consolidación. Su resultado es un documento estratégico 
+que induce a la reflexión y análisis de la viabilidad del proyecto empresarial, la 
+obtención de una visión preliminar de las líneas fundamentales del mismo, su 
+potencial y atractivo, así como los riesgos que se deberán afrontar, sirviendo 
+como hoja de ruta tanto en el momento de inicio de la actividad como en un 
+horizonte temporal futuro. Es una herramienta caracterizada por su sencillez 
+
+--- página 2 ---
+  
+ 
+Pág. 2 de 15 
+ 
+y puesta a disposición de un completo contenido didáctico integrado por 
+plantillas, información de ayuda, notas explicativas y recursos dinámicos, que 
+guían la navegación por la misma y el desarrollo de los diferentes apartados 
+que componen el Plan de Empresa. 
+Además constituye un recurso imprescindible para cumplir con uno de los 
+requisitos obligatorio para ser beneficiario de la subvención de autoempleo de 
+la Comunidad Autónoma, tal como indica el actual Decreto regulador de la 
+Ayuda mencionada (Decreto 39/2024 de 7 de mayo), y anteriores decretos 
+publicado(Decreto 90/2016, Decreto 168/2022),al facilitar dicha herramienta, la 
+comprobación de oficio por parte de la Administración Pública, del documento 
+obligatorio de “Informe de viabilidad” de un proyecto empresarial, firmado y 
+validado en las condiciones reguladas por decreto. 
+Desde la puesta en marcha hasta la actualidad, la base de datos que da soporte 
+a la herramienta online para la elaboración de planes de empresas cuenta con 
+casi 60.000 usuarios/promotores registrados y más de 170.000 planes de 
+empresas creados. Además de los más de 350 técnicos profesionales que 
+componen la red de tutores acreditados, que facilitan el uso y manejo de la 
+herramienta a los promotores, guiándoles, asesorándoles validando y firmando 
+los planes de empresas.  
+Esta plataforma informática se caracteriza especialmente por su carácter 
+dinámico y su capacidad de adaptación a las actualizaciones continuas en 
+materia de normativas contables, fiscales, jurídicas… incorporando 
+actualizaciones, mejoras funcionales de forma continua, garantizando que 
+permanezca acorde con los avances tecnológicos. La continuidad de servicio 
+en el cambio de proveedor y/o infraestructura es un requisito imprescindible 
+ya que la herramienta no puede sufrir corte de servicio en la transición de 
+finales de un ejercicio al inicio del siguiente (cierre de convocatoria de un año 
+e inicio de la siguiente). 
+Se tiene la necesidad de la contratación de servicio consultoría informática 
+para la gestión, el alojamiento, mantenimiento, soporte de incidencias, mejoras 
+y migración de base de datos de la Herramienta online para elaboración de 
+planes de empresas para continuar el uso y funcionamiento de manera 
+continuada de la herramienta por parte de los usuarios de la misma y elaborar 
+sus planes de empresas vinculados a la ayuda de autoempleo de la Junta de 
+Extremadura, que lo exige como uno de los requisitos, además de facilitarles 
+el análisis de su proyecto empresarial, posibilitando la actualización de 
+versiones menores, mayores y de seguridad respetando la compatibilidad con 
+el software instalado a nivel de servidor así como con el software de generación 
+de planes de empresa, optimización de las consultas realizadas a la base de 
+datos analizando el uso y rendimiento de la misma, creación de consultas e 
+informes de acuerdo a las demandas del servicio, gestión de la seguridad de 
+los datos así como prevención de acceso no autorizado a los mismos y copias 
+de seguridad diarias en almacenamiento externo encriptado de los datos de 
+emprendedores y empresarios así como de los proyectos empresariales que 
+elaboran para estudiarlos, analizarlos y desarrollarlos antes de su puesta en 
+marcha. 
+ 
+ 
+
+--- página 3 ---
+  
+ 
+Pág. 3 de 15 
+ 
+2. Trabajos a realizar 
+Extremadura Avante Servicios Avanzados a Pymes, S.L.U. precisa disponer de 
+un servicio continuado de alojamiento, mantenimiento y mejoras en la base de 
+datos/herramienta online para elaboración de planes de empresas  y el servicio 
+específico de migración de datos (en caso necesario), que permita la 
+elaboración de manera ininterrumpida de planes de empresas para aquellas 
+personas que van se dan de alta como autónomo/as y solicitan la ayuda de 
+autoempleo y a las empresas que quieran analizar sus proyectos para potenciar 
+su crecimiento y consolidación permitiéndoles estudiar su viabilidad, y cuenten 
+con una red de técnicos profesionales y servicio técnico que les acompañe y 
+asesora en la elaboración del plan de empresa y  resuelvan las incidencias en 
+un breve intervalo de tiempo. 
+La tecnología en la que está desarrollad la base de datos/ herramienta: 
+Backend en PHP, con los frameworks Laravel y CakePHP (módulo de búsqueda 
+de expedientes) debe mantenerse y además posibilitar la actualización de 
+versiones menores, mayores y de seguridad respetando la compatibilidad con 
+el software instalado a nivel de servidor así como con el software de generación 
+de planes de empresa, optimización de las consultas realizadas a la base de 
+datos analizando el uso y rendimiento de la misma, creación de consultas e 
+informes de acuerdo a las demandas del servicio, gestión de la seguridad de 
+los datos así como prevención de acceso no autorizado a los mismos y copias 
+de seguridad diarias en almacenamiento externo encriptado de los datos de 
+emprendedores y empresarios así como de los proyectos empresariales que 
+elaboran para estudiarlos, analizarlos y desarrollarlos antes de su puesta en 
+marcha.  
+La presente contratación consta de los diferentes trabajos y requisitos que 
+permitan la correcta ejecución del servicio licitado que se expone a 
+continuación, siendo el objeto general, el alojamiento, mantenimiento y 
+mejoras en la base de datos/herramienta online para elaboración de planes de 
+empresas y el servicio específico de migración de los datos actuales en caso 
+necesario asegurando la integridad, trazabilidad y validez de los datos 
+históricos. 
+El licitador que resulte adjudicatario se compromete a mantener la actividad 
+del servicio hasta su completa finalización. 
+Los servicios a realizar incluyen todas las operaciones necesarias que deban 
+implementarse, considerándose todas incluidas en el precio ofertado, aunque 
+no estén explícitamente señaladas.  
+ 
+En los siguientes apartados, se recoge de forma detallada determinados 
+aspectos del alcance de los servicios:  
+A. Alojamiento en servidor dedicado, con las siguientes características:  
+
+--- página 4 ---
+  
+ 
+Pág. 4 de 15 
+ 
+ 
+El almacenamiento del servidor como mínimo de 350 GB debe incluir PDFs 
+exportados y adjuntos de usuarios; se debe prever el crecimiento vegetativo de 
+este volumen. 
+La empresa adjudicataria debe mantener un histórico de 
+cambios/actualizaciones (cuaderno de bitácoras del servidor) que sean 
+necesarias realizar en el servidor para mantener la capacidad y vigencia 
+tecnológica. 
+Se exige un sistema de monitorización externo (fuera de la propia 
+infraestructura alojada) que verifique el estado del servicio de forma continua, 
+con una frecuencia de comprobación de al menos cada 60 segundos por parte 
+del equipo de soporte técnico designado por el adjudicatario, compuesto como 
+mínimo por un responsable principal y un suplente a través de un sistema de 
+tickets o correo electrónico con cobertura horaria 24x7 para alertas de caída 
+total o degradación grave del servicio (severidad crítica); horario laboral 
+ampliado (L-V, 8:00-20:00) para el resto de las severidades, sin perjuicio de la 
+cobertura 24x7 durante el periodo crítico como puede ser apertura y cierre de 
+convocatorias de la subvención de autoempleo. 
+El tiempo de reacción debe ser idéntico a los tiempos de respuesta y resolución 
+ya definidos (1h/4h crítica, 2h/1 día alta, 1 día/3 días media, 2 días/planificación 
+baja), computados desde el disparo automático de la alerta, no desde su 
+lectura manual. 
+Este sistema de monitorización debe cubrir como mínimo: 
+• Disponibilidad del servicio (uptime) y tiempo de respuesta. 
+• Consumo de CPU, memoria y almacenamiento, con alertas ante 
+umbrales críticos. 
+• Rendimiento de consultas a base de datos, para prevenir incidencias 
+como el cuello de botella  
+• Alertado automático al equipo de soporte ante caída o degradación del 
+servicio. 
+Recurso Situación actual Requisito mínimo propuesto 
+Servidor Dedicado Dedicado (no se admite hosting 
+compartido, por volumen de datos y 
+demanda) 
+CPU 16 núcleos / 32 hilos 16 núcleos / 32 hilos como mínimo, con 
+capacidad de escalado vertical 
+RAM 64 GB 64 GB como mínimo, con capacidad de 
+ampliación 
+Almacenamiento 2 discos SSD en RAID de 500 GB c/u 
+(350 GB usados) 
+RAID SSD, con margen mínimo del 40 % 
+sobre el uso actual y plan de crecimiento 
+anual 
+Sistema operativo Ubuntu 20.04 (LTS finalizado / próximo a 
+EOL) 
+Ubuntu 22.04 LTS o superior, con plan de 
+actualización continua 
+Rendimiento Soporta decenas de miles de 
+planes/usuarios simultáneos, sin cuello de 
+botella detectado 
+Mantener el mismo nivel de rendimiento, 
+con pruebas de carga periódicas 
+ 
+
+--- página 5 ---
+  
+ 
+Pág. 5 de 15 
+ 
+• Compromiso de mantener el stack en versiones con soporte activo (sin 
+versiones EOL de PHP, frameworks ni dependencias) para lo que: el 
+adjudicatario designará un interlocutor técnico único (y un suplente), como 
+responsable de recibir y gestionar las alertas de fin de soporte (EOL) de 
+PHP, de los frameworks (Laravel/CakePHP) y de las dependencias críticas 
+gestionadas por Composer. 
+Toda alerta de EOL detectada se comunicará por escrito (correo electrónico    
+o sistema de tickets) al órgano de contratación en un plazo máximo de 5 
+días hábiles desde su detección, incluyendo: componente afectado, fecha 
+de fin de soporte, riesgo asociado y plan de actualización propuesto con 
+fecha estimada. 
+La cobertura de posibles períodos de detención de la herramienta, se 
+detectarán con la monitorización continua y automatizada (p. ej. composer 
+audit periódico, apartado 6), en horario laboral estándar (L-V, 8:00-18:00). 
+Además, si el EOL implica una vulnerabilidad activa (CVE crítico sin 
+parchear), se aplicará el régimen de severidad "Crítica" del SLA (1 hora de 
+respuesta / 4 horas de resolución). 
+Se solicitará un informe periódico trimestral de disponibilidad y rendimiento, 
+entregado al órgano de contratación. 
+Además, el servicio debe incluir copia de seguridad diaria con las siguientes 
+características. 
+Frecuencia: diaria, de base de datos completa y de ficheros/adjuntos. 
+Ubicación: almacenamiento externo, físicamente independiente del servidor de 
+producción. 
+Retención:  un mínimo de 30 días de histórico, con copias semanales 
+conservadas 6 meses. 
+Verificación: prueba de restauración periódica documentada en períodos 
+trimestrales, para garantizar la validez real de las copias. 
+Cifrado de las copias de seguridad, debido al contenido de datos personales y 
+económicos registrados. 
+Debido al carácter sensible de datos que contiene la base de 
+datos/herramienta, la seguridad es, un requisito importante, por lo que la 
+empresa adjudicataria debe cumplir con los siguientes requisitos de seguridad: 
+• Frameworks y librerías actualizadas, sin versiones con vulnerabilidades 
+conocidas (CVE) sin parchear. 
+• Auditoría periódica de dependencias (composer audit o equivalente) y 
+plan de actuación ante vulnerabilidades críticas con un plazo de 72 horas 
+máximo. 
+• Cumplimiento del RGPD y la LOPDGDD en el tratamiento de datos 
+personales, económicos e identificativos. 
+• Cifrado de datos sensibles en tránsito (TLS) y en reposo cuando proceda 
+(DNI, datos económicos). 
+• Gestión de accesos con privilegio mínimo, registro de auditoría (logging) 
+de accesos a datos sensibles. 
+
+--- página 6 ---
+  
+ 
+Pág. 6 de 15 
+ 
+Dado el requisito normativo de continuidad de la herramienta y que no se 
+produzcan cortes de servicio por motivos sobrevenidos, el adjudicatario debe 
+presentar un plan de recuperación ante desastres (DRP) que garantice la 
+continuidad del servicio, con estos elementos mínimos: 
+• Objetivo de tiempo de recuperación (RTO): el adjudicatario debe 
+garantizar un RTO máximo de 4 horas para incidencias críticas. 
+• Objetivo de punto de recuperación (RPO): el adjudicatario debe 
+garantizar un RPO máximo de 24 horas (coherente con la periodicidad diaria 
+del backup). 
+• Procedimiento documentado de recuperación desde copia de seguridad, 
+con responsables y tiempos de actuación definidos. 
+• Simulacro de recuperación periódico anual. 
+• Plan de continuidad específico para periodos críticos  
+La correcta realización del trabajo desarrollado en este servicio debe ser 
+justificado con la presentación de una memoria descriptiva donde se justifique 
+las acciones realizadas, debiendo contener como mínimo: 
+-Identificación de la actividad:  Contrato al que corresponde, período de 
+ejecución y responsable de la actividad. 
+-Descripción de las actuaciones realizadas: tareas ejecutadas, recursos 
+utilizados, fecha ejecución 
+-Resultado obtenido: estado final de la actividad. 
+B. Mantenimiento de la base de datos/ herramienta y soporte de 
+incidencias.  
+Servicio de mantenimiento que incluya corrección de fallos detectados y 
+atención y resolución de toda clase de consultas e incidencias a nivel 
+tecnológico e informático que puedan surgir como consecuencias de caídas del 
+servidor, incluyendo la atención a través de un correo electrónico dedicado en 
+exclusiva a la atención de incidencias, así como su solución y respuesta a los 
+usuarios en el tiempo establecido según el nivel/tipo de la incidencia, 
+establecida de la siguiente manera: 
+Nivel 
+incidencia 
+Tiempo de 
+respuesta 
+Tiempo máximo de 
+resolución de incidencia 
+Crítica 1 hora 4 horas 
+Alta 2 horas 1 día laborable 
+Media 1 día laborable 3 días laborables 
+Baja 2 días laborables Según planificación 
+evolutiva. 
+ 
+• La empresa adjudicataria del servicio tiene que garantizar una 
+disponibilidad objetivo del servicio de al menos 99,5 % mensual 
+(excluyendo ventanas de mantenimiento planificado y notificado), 
+correspondiente a la siguiente fórmula: 
+
+--- página 7 ---
+  
+ 
+Pág. 7 de 15 
+ 
+ 
+Disponibilidad (%) = [ (Minutos totales del mes − Minutos de 
+indisponibilidad no planificada) / Minutos totales del mes ] × 100 
+En caso de incumplimiento de los tiempos establecidos para dar respuesta y 
+resolución de incidencias, Extremadura Avante aplicará el Régimen de 
+penalizaciones por incumplimiento de conforme al modelo habitual de la Ley 
+de Contratos del Sector Público. 
+La correcta realización del trabajo desarrollado en este servicio debe ser 
+justificado con la presentación de una memoria descriptiva donde se justifique 
+las acciones realizadas.   
+C. Mantenimiento evolutivo. Inclusión de mejoras y funcionalidades.  
+Servicio de mantenimiento evolutivo que incluya mejoras y nuevas 
+funcionalidades correspondientes a 300 horas de trabajo que cubrirá el plazo 
+total de ejecución del contrato incluida las prórrogas. 
+La base de datos que da soporte a la herramienta online de realización de 
+planes de empresas es una herramienta viva y actualizada en tiempo real con 
+las nuevas normativas fiscales, laborales y económicas que permite al 
+emprendedor/empresario estar al día de todas las novedades que pueden 
+afectar a su actividad empresarial, para lo cual es necesario el servicio de 
+mantenimiento continuo y actualizaciones de contenido, además de incluir 
+aspectos  y funcionalidades nuevas que marquen las diferentes normativas y 
+aporten valor al emprendedor y al proyecto empresarial, además de darle un 
+valor añadido adaptada a la nueva dimensión tecnológica y de digitalización de 
+procesos y de los proyectos empresariales. 
+La correcta realización del trabajo desarrollado en este servicio debe ser 
+justificado con la presentación de una memoria descriptiva donde se justifique 
+las acciones realizadas.   
+D. Migración de datos de la herramienta actual. 
+En caso necesario por cambio de proveedor). El adjudicatario será responsable 
+de llevar a cabo todas las acciones necesarias para garantizar una migración 
+exitosa. Se deberá garantizar la migración y conversión de datos históricos y 
+operativos (código fuente, base de datos, ficheros, configuración y 
+documentación). Para ello el proveedor actual de servicios facilitará el traspaso 
+documentado del conocimiento ("know-how") adquirido durante la prestación 
+del servicio: decisiones de arquitectura, incidencias históricas relevantes y 
+particularidades normativas incorporadas.  
+El tiempo estimado para la ejecución de este servicio, teniendo en cuenta que 
+no se puede interrumpir el funcionamiento de la herramienta, se establece en 
+un tiempo no superior a 25 horas de trabajo.  
+ 
+A la finalización del contrato, la empresa adjudicataria estará obligada a 
+colaborar activamente en el proceso de reversión del servicio-migración de 
+datos, facilitando en su caso a la nueva empresa adjudicataria toda la 
+información, documentación, configuraciones, metadatos y asistencia técnica 
+necesarios para garantizar la migración íntegra de las bases de datos y del 
+resto de la información gestionada. La migración deberá realizarse sin pérdida, 
+
+--- página 8 ---
+  
+ 
+Pág. 8 de 15 
+ 
+alteración ni degradación de los datos, garantizando su integridad, 
+autenticidad, disponibilidad y trazabilidad, así como la continuidad del servicio 
+durante el periodo de transición. La empresa saliente no podrá obstaculizar el 
+proceso de transferencia y deberá atender las consultas e incidencias 
+relacionadas con la migración durante el periodo de transición que se 
+establezca en el contrato. 
+Para que este trabajo se desarrolle de manera favorable y satisfactoria se 
+seguirá el siguiente protocolo previo, durante y posterior a la migración de 
+datos: 
+• Acta de entrega: el proveedor saliente entregará un Acta de Entrega de 
+Migración que relacione los artefactos traspasados (código fuente, base 
+de datos, ficheros y adjuntos, configuración de servidor, documentación 
+técnica y de know-how), junto con el hash/checksum de cada artefacto y 
+un manual de despliegue del entorno migrado. 
+• Checklist de validación: el órgano de contratación (o el proveedor 
+entrante) dispondrá de un plazo máximo de 10 días hábiles desde la 
+entrega para ejecutar una validación que cubra, como mínimo: arranque 
+correcto del entorno migrado, integridad de los datos (recuento de 
+registros y comparación de hashes de base de datos), funcionamiento de 
+los módulos críticos (gestión de expedientes, exportación de PDFs y 
+adjuntos) y disponibilidad del servicio conforme al SLA vigente. 
+• Criterio de validez: la migración se considerará válida cuando se supere 
+el checklist sin incidencias abiertas de severidad crítica o alta; en ese 
+momento se suscribirá un Acta de Aceptación de la Migración firmada por 
+ambas partes. 
+El proveedor saliente se debe comprometer a dar asistencia al proveedor 
+entrante para cometer posibles subsanaciones si se detectan incidencias 
+críticas o altas, durante un mínimo de 30 días para facilitar la transición de 
+datos y garantizar de manera expresa la continuidad del servicio durante todo 
+el proceso de migración, sin cortes en el funcionamiento de la herramienta. 
+El proveedor saliente dispondrá de un plazo adicional de 5 días hábiles para 
+resolverlas, manteniendo durante ese plazo el periodo de transición asistida 
+mínimo. 
+La empresa adjudicataria promocionará la accesibilidad a todos aquellos 
+servicios de apoyo, asesoramiento y gestión o desarrollo en la ejecución del 
+presente contrato. Serán de preceptivo cumplimiento el Reglamento sobre las 
+condiciones básicas para el acceso de las personas con diversidad funcional a 
+las tecnologías, productos y servicios relacionados con la sociedad de la 
+información y medios de comunicación social, aprobado por Real Decreto 
+1494/2007, de 12 de noviembre, así como los protocolos internacionales de 
+accesibilidad ((W3C y las Web Content Accesibility Guidelines y UNE-EN 301 
+549:2022), que establecen como grado de accesibilidad mínimo obligatorio el 
+nivel “AA”, aplicable a las páginas de Internet de las Administraciones Públicas 
+y sus organismos.  
+ Al finalizar la prestación del servicio, la empresa adjudicataria realizará una 
+declaración de accesibilidad recogida en la normativa de referencia, en 
+concreto en el real decreto 1112/2018, de 7 de septiembre sobre accesibilidad 
+web, que deberá incorporarse a la base de datos online La empresa 
+
+--- página 9 ---
+  
+ 
+Pág. 9 de 15 
+ 
+adjudicataria deberá aplicar los cambios necesarios en la base de datos online, 
+para que cumpla con los criterios de accesibilidad definidos por WCAG 2.1 con 
+un nivel de conformidad AA. Además, realizará una propuesta de DECLARACIÓN 
+DE ACCESIBILIDAD, basada en el modelo europeo de declaración de 
+accesibilidad, que tras la revisión de la organización será publicada en la base 
+de datos online tal y como se indica en la normativa. 
+2.1. Adscripción de medios al contrato. 
+La empresa deberá contar con personal cualificado y profesional que cumpla 
+con el perfil descrito en el apartado 5.1 del CRC y con experiencia en trabajos 
+relacionados con el objeto del contrato que coinciden con los citados perfiles. 
+2.2. Colaboración de personal ajeno. 
+El adjudicatario deberá aportar los medios humanos y técnicos necesarios para 
+la correcta ejecución del contrato. El personal que intervenga en la prestación 
+del servicio dependerá exclusivamente del adjudicatario, sin que exista relación 
+laboral, contractual o administrativa alguna con Extremadura Avante Servicios 
+Avanzados a Pymes, S.L.U. 
+El adjudicatario asumirá íntegramente las obligaciones legales derivadas de su 
+condición de empleador, así como la responsabilidad por los daños o 
+accidentes que puedan sufrir sus empleados o causar a terceros, de 
+conformidad con la normativa vigente. 
+2.3. Obligaciones del contratista. 
+La totalidad de los trabajos, servicios e informes realizados en ejecución del 
+contrato, serán propiedad de Extremadura Avante Servicios Avanzados a 
+Pymes, S.L.U., que podrá solicitar su entrega total o parcial cuando resulte 
+compatible con la correcta ejecución del contrato. 
+Quedarán en propiedad de Extremadura Avante Servicios Avanzados a Pymes, 
+S.L.U., tanto el servicio recibido como los derechos inherentes a los trabajos 
+realizados, su propiedad industrial y comercial, reservándose la sociedad 
+contratante su utilización, no pudiendo ser objeto de comercialización, 
+reproducción u otro uso no autorizado expresamente por Extremadura Avante 
+Servicios Avanzados a Pymes, S.L.U. y ésta, en consecuencia, podrá recabar en 
+cualquier momento la entrega de los documentos o materiales que la integren, 
+con todos sus antecedentes, datos o procedimientos. 
+El contratista tendrá la obligación de proporcionar en soporte informático a la 
+sociedad contratante todos los datos, procesos y procedimientos empleados 
+durante la elaboración de los trabajos. 
+3. Programación y coordinación 
+La sociedad Extremadura Avante Servicios Avanzados a Pymes, S.L.U será la 
+encargada de dirigir, coordinar y supervisar todas las acciones y trabajos a 
+desarrollar por el adjudicatario especificados en este Pliego. 
+Asimismo, Extremadura Avante Servicios Avanzados a Pymes, S.L.U. se reserva 
+el derecho de introducir los cambios necesarios en los requerimientos de estas 
+bases de contratación a la empresa que resulte adjudicataria de la presente 
+
+--- página 10 ---
+  
+ 
+Pág. 10 de 15 
+ 
+licitación, sin alterar el presupuesto ofertado y sin suponer perjuicio económico 
+alguno. Además, el Órgano de Contratación o el responsable del Contrato 
+podrán modificar la ejecución propuesta cuando así lo requiera la buena 
+marcha del servicio, mediante el dictado de órdenes de ejecución, 
+instrucciones de contratación o interpretación que deberán ser acatadas por 
+el contratista, siempre que no afecte al presupuesto de adjudicación. 
+Los gastos que debe satisfacer la empresa adjudicataria serán los derivados de 
+todos los servicios previstos en el presente pliego (incluyendo gastos de 
+teléfono, electricidad, conexión a internet, desplazamientos, manutención…), y 
+todos aquellos necesarios para la correcta ejecución del contrato. 
+Del mismo modo, la empresa adjudicataria estará obligada a satisfacer todos 
+los gastos derivados del presente procedimiento, en su caso, y cualesquiera 
+otros que resulten de aplicación según las especificaciones del presente Pliego, 
+así como del Pliego de Cláusulas Administrativas Particulares. Para la 
+coordinación de todas las actividades mencionadas, la empresa adjudicataria 
+deberá mantener reuniones o contactos periódicos con el organismo 
+contratante, las veces necesarias y formato requerido (presenciales, 
+telemáticas…) para el cumplimiento y correcta ejecución de los servicios 
+requeridos en el presente pliego. 
+4. Presupuesto del contrato 
+4.1. Presupuesto máximo de licitación. 
+El presupuesto máximo de licitación total asciende a CURENTA MIL 
+CUATROCIENTOS SESENTA EUROS (40.460,00 €) IVA excluido, establecido por 
+precios unitarios, siendo éste el importe global máximo de las proposiciones 
+económicas a presentar por los interesados en el presente procedimiento de 
+adjudicación, determinado por la prestación de los servicios conforme a las 
+condiciones expresadas en el presente Pliego de Prescripciones Técnicas y en 
+el resto de los documentos que forman parte de esta licitación, debiendo 
+especificar el precio global del servicio, así como el desglose establecido por 
+precios para los servicios continuados en el período de duración del contrato 
+y el servicio específico, conforme al siguiente detalle: 
+ 
+                SERVICIOS 
+    (cantidades IVA excluido) 
+Unidades 
+máximas  
+ Precio 
+Máximo 
+por unidad  
+Máximo total por 
+tipo de servicio 
+ Alojamiento servidor 
+dedicado con características 
+específicas 
+          4 5.030,00 € 20.120,00 € 
+Mantenimiento herramienta 
+y soporte incidencia 4 2.460,00 € 9.840,00 € 
+Mantenimiento evolutivo, 
+inclusión de mejoras y 
+funcionalidades 
+300 horas 30,00 € 9.000,00 € 
+
+--- página 11 ---
+  
+ 
+Pág. 11 de 15 
+ 
+Migración de datos de la 
+herramienta actual 25 horas 60,00 € 1.500,00 € 
+                   TOTAL IMPORTE   40.460,00 € 
+ 
+En cuanto al desglose, coincide con los detalles que se recogen a continuación: 
+A.- Alojamiento en servidor dedicado: CINCO MIL TREINTA EUROS (5.030,00 €) 
+IVA excluido por anualidad para el período 2027-2030. 
+                      SERVICIO 
+         (cantidades IVA 
+excluido) 
+Unidades 
+máximas anual  
+ Precio 
+Máximo 
+por unidad  
+Máximo total por 
+tipo de servicio 
+ Alojamiento servidor 
+dedicado con características 
+específicas anualidad 2027 
+           1 5.030,00 € 5.030,00 € 
+Alojamiento servidor 
+dedicado con características 
+específicas anualidad 2028 
+1 5.030,00 € 5.030,00 € 
+Alojamiento servidor 
+dedicado con características 
+específicas anualidad 2029 
+1 5.030,00 € 5.030,00 € 
+Alojamiento servidor 
+dedicado con características 
+específicas anualidad 2030 
+1 5.030,00 € 5.030,00 € 
+                                         
+TOTAL UNIDADES  4 5.030,00€ 20.120,00€ 
+ 
+B.- Mantenimiento de base de datos/herramienta y soporte de incidencias 
+http://plandeempresa.extremaduraempresarial.es, importe máximo DOS MIL 
+CUATROCIENTOS SESENTA EUROS (2.460,00 €) IVA excluido, por anualidad 
+para el período 2027-2030. 
+                   SERVICIO 
+      (cantidades IVA 
+excluido) 
+Unidades 
+máximas anual  
+ Precio 
+Máximo 
+por unidad  
+Máximo total por 
+tipo de servicio 
+Mantenimiento herramienta 
+y soporte de incidencias 
+anualidad 2027 
+           1 2.460,00 €                             2.460,00 € 
+Mantenimiento herramienta 
+y soporte de incidencias 
+anualidad 2028 
+1 2.460,00 €                            2.460,00 € 
+Mantenimiento herramienta 
+y soporte de incidencias 
+anualidad 2029 
+1 2.460,00 €                             2.460,00 € 
+
+--- página 12 ---
+  
+ 
+Pág. 12 de 15 
+ 
+Mantenimiento herramienta 
+y soporte de incidencias 
+anualidad 2030 
+1 2.460,00 €  2.460,00 € 
+                                        
+TOTAL UNIDADES  4 2.460,00 € 9.840,00€ 
+ 
+C.- Mantenimiento evolutivo. Inclusión de mejoras y funcionalidades. - 
+Mantenimiento evolutivo, que incluye 300 horas de mejoras y nuevas 
+funcionalidades, importe de licitación SEIS MIL EUROS (9.000,00 €) IVA 
+excluido, coste máximo hora treinta euros la hora (30€/hora). 
+                     SERVICIO 
+          (cantidades IVA 
+excluido) 
+Unidades 
+máximas  
+ Precio 
+Máximo 
+por unidad  
+Máximo total por 
+tipo de servicio 
+ Mantenimiento evolutivo, 
+inclusión de mejoras y 
+funcionalidades 
+                300 30,00 € 9.000,00 € 
+ 
+D.- Migración de datos de la herramienta actual. - traspaso de datos, si fuese 
+necesario, desde el servidor actual donde está alojada la base de datos a otro 
+diferente con las características indicadas en el apartado 2 A, importe máximo 
+de licitación MIL QUINIENTOS EUROS (1.500,00 €) IVA excluido, coste máximo 
+hora sesenta euros la hora (60€/hora)  
+ 
+                          SERVICIO 
+          (cantidades IVA 
+excluido) 
+Unidades 
+máximas  
+ Precio 
+Máximo 
+por unidad  
+Máximo total por 
+tipo de servicio 
+ Migración de datos de la 
+herramienta actual            25 60,00 € 1.500,00 € 
+ 
+4.2. Condiciones para presentar la oferta. 
+ 
+El sistema de determinación del precio está establecido por precios 
+unitarios, se abonarán exclusivamente el número total de unidades que 
+se ejecuten sin llegar a superar el importe total por el que se adjudique 
+el contrato.  
+Por este motivo, los licitadores deberán presentar oferta respetando el 
+importe máximo de licitación y los precios unitarios establecidos para 
+el máximo de unidades previstas conforme al Anexo II – Modelo 
+Propuesta Económica. 
+
+--- página 13 ---
+  
+ 
+Pág. 13 de 15 
+ 
+Por ello, será motivo directo de exclusión: Que las ofertas propuestas 
+superen el importe máximo de licitación o los precios unitarios máximos 
+de licitación 
+2.Que las propuestas no detallen el desglose de precios unitarios salvo 
+que se pueda calcular con una operación aritmética.  
+ 
+1. Que la propuesta no incluya alguno de los precios unitarios (salvo 
+que se pueda determinar con una simple operación aritmética) o bien lo 
+haga a coste cero.  
+Las ofertas económicas de los licitadores incluirán, separada y expresamente, 
+el porcentaje del Impuesto sobre el Valor Añadido (IVA) aplicado y el importe 
+del Impuesto sobre el Valor Añadido (IVA) que sea de aplicación y que proceda 
+por la ejecución de su prestación.  
+A todos los efectos, se entenderá que el importe de adjudicación comprende 
+todos los gastos que los adjudicatarios deban realizar para el normal 
+cumplimiento de las prestaciones contratadas, como son los generales, 
+financieros, beneficios, seguros, transporte y desplazamientos, honorarios, 
+material entregable, tasas, costes de comidas y toda clase de impuestos, tanto 
+municipales, provinciales y estatales, a excepción del Impuesto sobre el Valor 
+Añadido (IVA) que pudiera corresponder. 
+5. Forma de pago y emisión de factura 
+El pago de la prestación objeto de la presente licitación se hará mediante pagos 
+parciales, en función de los servicios efectivamente ejecutados y validados 
+durante la vigencia del contrato. 
+Alojamiento en servidor  
+La facturación de este servicio se realizará con carácter anual, durante el 
+primer trimestre de cada año que dura el contrato (2027-2030), previa entrega 
+y validación del correspondiente informe de actividad que justifique la correcta 
+ejecución de trabajos indicados en el apartado 2 A. 
+El importe a abonar se determinará conforme al precio de adjudicación y al 
+correcto cumplimiento de los servicios en forma y plazo. 
+Mantenimiento herramienta y soporte de incidencias 
+La facturación de este servicio se realizará con carácter anual, durante el 
+segundo trimestre de cada año que dura el contrato (2027-2030), previa 
+entrega y validación del correspondiente informe de actividad que justifique la 
+correcta ejecución de trabajos indicados en el apartado 2 B. 
+El importe a abonar se determinará conforme al precio de adjudicación y al 
+correcto cumplimiento de los servicios en forma y plazo 
+Mantenimiento evolutivo, inclusión de mejoras y funcionalidades 
+La facturación de este servicio se realizará a lo largo del cuarto trimestre de 
+cada año que dura el contrato (2027-2030), en función de las unidades 
+ejecutadas y previa entrega y validación del correspondiente informe de 
+actividad que justifique la correcta ejecución de trabajos indicados en el 
+apartado 2 C. 
+
+--- página 14 ---
+  
+ 
+Pág. 14 de 15 
+ 
+El importe a abonar se determinará conforme al precio de adjudicación y al 
+correcto cumplimiento de los servicios en forma y plazo 
+Migración de datos de la herramienta actual 
+ Este servicio específico se facturará una vez ejecutados y validados, previa 
+entrega de la documentación justificativa correspondiente. El importe a abonar 
+será el establecido en la adjudicación para cada servicio. 
+Casuísticas especiales 
+En caso de que, el servicio de Migración de datos de la herramienta 
+actual, no fuese necesario realizarla por la empresa que resulte 
+adjudicataria de la licitación, este servicio no se abonará. 
+Plazo de pago y presentación de facturas 
+El pago de las facturas se realizará en un plazo máximo de 30 días desde su 
+validación por Extremadura Avante Servicios Avanzados a Pymes, S.L.U., previa 
+emisión de la correspondiente acta de recepción positiva, total o parcial.  
+La empresa adjudicataria deberá remitir la factura a través de la web de 
+Extremadura Avante, www.extremaduraavante.es en el apartado “Zona 
+Empresas” considerándose este momento como fecha de entrada en la 
+sociedad y cuyo documento será validado posteriormente por Extremadura 
+Avante Servicios Avanzados a Pymes, S.L.U. Cada factura será tramitada 
+incluyendo el número de pedido facilitado por el gestor del expediente de 
+contratación. 
+El contratista deberá presentar factura en la que deberá constar, además de 
+lo establecido en la Ley 25/2013, de 27 de diciembre, de impulso de la factura 
+electrónica y creación del registro contable de facturas en el Sector Público, y 
+que deberá reunir los siguientes requisitos: 
+− Número, y en su caso, serie. 
+− Nombre y apellido o denominación social, número de 
+identificación fiscal y domicilio del expedidor. 
+− Órgano que celebra el contrato, con identificación de su dirección 
+y del número de identificación fiscal. 
+− Descripción del objeto del contrato con expresión del servicio al 
+que vaya destinado. 
+− Precio. 
+− Lugar y fecha de su emisión. 
+− Cumplir con los requisitos establecidos en la normativa vigente en 
+materia de facturación y tributación, en particular lo dispuesto en el 
+artículo 6 del Real Decreto 1619/2012, de 30 de noviembre, por el que se 
+regulan las obligaciones de facturación, y en la Ley 37/1992, de 28 de 
+diciembre, del Impuesto sobre el Valor Añadido. En consecuencia, las 
+facturas deberán consignar de forma expresa y desglosada: 
+a) La base imponible de la operación. 
+b) El tipo impositivo del IVA aplicado. 
+c) La cuota tributaria repercutida. 
+
+--- página 15 ---
+  
+ 
+Pág. 15 de 15 
+ 
+d) El importe total. 
+e) En los supuestos de exención, no sujeción o aplicación de 
+tipo impositivo del 0 %, deberá indicarse expresamente la causa 
+que justifica dicho tratamiento fiscal, incluyendo la referencia al 
+precepto legal correspondiente que lo ampara. 
+6. Financiación 
+Extremadura Avante Servicios Avanzados a Pymes, S.L.U. Equivalentes de 
+los Presupuestos Generales de la Comunidad Autónoma de Extremadura 
+de los ejercicios 2027 a 2030 vinculadas al Plan de actuaciones en materia 
+de emprendimiento a través de la gestión y dinamización de la Red PAE 
+en Extremadura, financiado con fondos de la Comunidad Autónoma. 
+Extremadura Avante, S.L.U. Recursos propios de la sociedad. 
+La financiación corresponderá principalmente a Extremadura Avante 
+Servicios Avanzados a Pymes, S.L.U., con cargo a las aplicaciones 
+presupuestarias de 2027 a 2030 equivalentes a la transferencia de 2026 
+destinada a la gestión y dinamización de la Red PAE, financiada con fondos 
+autonómicos. Si esta financiación no estuviera disponible, Extremadura 
+Avante, S.L.U. podrá asumir subsidiariamente, con recursos propios y 
+previa acreditación de financiación suficiente, las obligaciones 
+económicas de la primera anualidad como máximo, sin alterar la entidad 
+impulsora y tramitadora ni las condiciones del contrato. 
+ 
+ 
+En Mérida, a 26 de noviembre de 2026. 
+El Órgano de Contratación de Extremadura Avante Servicios Avanzados a 
+Pymes, S.L.U. 
+P.P.  
+ 
+ 
+Fdo.: Cristina Yárritu Manso   
+ 
+ 

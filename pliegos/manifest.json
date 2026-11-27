@@ -4194,5 +4194,537 @@
   "bytes": 658337,
   "texto": true,
   "carpeta": "2026_00662_311bcfb1"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=M02uqx5ZbcnlVWnPbsTtRwE9xrr/w1/dACXsPftPUaqly/kNyllElr8EWscQiaF3IBbsh9ZoF6sk6dQxatCzFWNPZktnfVm//W14d0imM%2BuHAj0WEJrB5sP7amrh2jBD": {
+  "estado": "ok",
+  "archivo": "01_Legal_07_PPA.pdf",
+  "bytes": 815615,
+  "texto": true,
+  "carpeta": "149_2026_a3f0f982"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=dIWmLuxh0DzEQXvuXYak6XjuPzOuO7bdnMBxgtoU2nYAQTLS1A614YnulNKA7kjnvsQx42KY%2Bsu5HwgEhhHW%2B%2BZ0YffbnipLaUMAGf371Pc//q7NB2iMZvNyf0xrJmjt": {
+  "estado": "ok",
+  "archivo": "02_Technical_06_PPT.pdf",
+  "bytes": 500581,
+  "texto": true,
+  "carpeta": "149_2026_a3f0f982"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=%2BMSrXeo9FCIJhH6IctqxW3TyQovt6xMBIk9B5YS7JYAUQV0suLumzgCFNxLMoWXqJrLlt1oQC%2BtUn3EcIyyIkb1qw/DRV%2Bt%2BLPANm%2BPVCbn3GVhXrFFqN7yFncy7YfRK": {
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP.pdf",
+  "bytes": 317886,
+  "texto": true,
+  "carpeta": "2026000129_SERV_HAC_c360e1a9"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=8yDzkIgCD1zxpnb53qIszWxydg1XyYSqCerj1OdqslZPZ66gOw%2B798pFBRYcZqp941l92h4XYb8DS7PMw5doA5zasE8DXFjLn17kOkTX7Dxt/o8fNevwsujgRzaBbugn": {
+  "estado": "ok",
+  "archivo": "02_Technical_PPT.pdf",
+  "bytes": 352742,
+  "texto": true,
+  "carpeta": "2026000129_SERV_HAC_c360e1a9"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=qfAhUXdnZmfU3kX3pFmG/G2nU0ueqbdZQH921qoB5zmKiK5/f3p5klxJQpUBr4h%2BLW6S8zHx5LBTYEWioO/06ZTDQ%2BRzhIftlBY4IFtNEpXfdyQgZAdTm3EfcUAC7CJ6": {
+  "estado": "ok",
+  "archivo": "03_Additional_Dec_Responsable.doc",
+  "bytes": 36864,
+  "texto": false,
+  "carpeta": "2026000129_SERV_HAC_c360e1a9"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=VQCBwUsben/Sh0D28rh/f%2BvYJKr10Ac0I0n9cfJe4OBVVjHZhPKi3raep3l1tYgispf06XL5CGL44%2BQ7fyMCWryLCeYxh2DvQg7UxQhPj%2Bd45ClyWkoJ44mKM70IFcOu": {
+  "estado": "ok",
+  "archivo": "04_Additional_Anexo_II.doc",
+  "bytes": 54784,
+  "texto": false,
+  "carpeta": "2026000129_SERV_HAC_c360e1a9"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=/XH%2BSt%2BQ%2BC5f%2BzSqLsdAr0QR3sJna0OdwTAAEHoiqxAESZHa82R5erDsRZIPFG1ezQNLJEdZmnHNHfKlPOGC3bj%2BqrmB0DzW%2B5p4tJyhObjfdyQgZAdTm3EfcUAC7CJ6": {
+  "estado": "ok",
+  "archivo": "05_Additional_Mod_Proposicion.doc",
+  "bytes": 35840,
+  "texto": false,
+  "carpeta": "2026000129_SERV_HAC_c360e1a9"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=9ij93qFzN1MsH8CYDV/vBtmzhkFNxegiefi4dEDw4ks5OvH8e1KBhQkAEvDfWND1Z/j5tHAyulilxpSf6Yfhqeqxo2q6HnsI62SplD/L3G6Cx2e6p7hqtlp2aFupgHMr": {
+  "estado": "ok",
+  "archivo": "01_Legal_48684-2026_PCAP.pdf",
+  "bytes": 594916,
+  "texto": true,
+  "carpeta": "48684_2026_f9623c8f"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=eNN0PhsPAwjzdgEptGPkB8vsFrzXo48sEA6SFWijrpHuhGMToSJjOfyQKUYH91hrVB75w%2BBTukHUJVrMqXAHRhYubn8TXmIVsoXLs6X1herDdQD9RyhUmzT4jZ2In4zL": {
+  "estado": "ok",
+  "archivo": "02_Technical_48684-2026_PPT.pdf",
+  "bytes": 482118,
+  "texto": true,
+  "carpeta": "48684_2026_f9623c8f"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=J8D7qk5zynL%2BvMCkO0E/fxl2CVXrJbeTfo9Be0DXMQ/UK4H0b4EhpurX422FGNhiTzC0h2pcBlsxzhwKkU2EazOpio3GiE4RKWWmF5axmNZJOVDbGCDM%2BMigrvuVS7Rv": {
+  "estado": "ok",
+  "archivo": "03_Additional_ANEXO_III_DECLARACION_DE_CONFIDENCIALIDAD.docx",
+  "bytes": 65246,
+  "texto": true,
+  "carpeta": "48684_2026_f9623c8f"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=cYs1OqbINtqw4JpqlbOB6rP4B85nViz6ef9AADFHQoNO941xCk0X/paoSdvQPiDhovSjaRHuDWDPpf3o2G0TdAfi9n2aFNDhCHZZmJ9R18UZyAJWGsSt0OzTSTyw9JAs": {
+  "estado": "ok",
+  "archivo": "04_Additional_ANEXO_I_MODELO_DE_PROPOSICION.docx",
+  "bytes": 94694,
+  "texto": true,
+  "carpeta": "48684_2026_f9623c8f"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=eB23c45uJQDLh0lF/rR571rfhRpsHYT/d/BfizRhTQTBmA6e42PmyO5i6V11O2cpyaCoy0u9zKddbl6eUWdf5Ktw7Jcrd0LH3NVyjeyPWKLVTD3T98KC0nSgQFM0q%2B5s": {
+  "estado": "ok",
+  "archivo": "05_Additional_ANEXO_IV_DECLARACION_RESPONSABLE_DEL_CONTRATISTA_A.docx",
+  "bytes": 95876,
+  "texto": true,
+  "carpeta": "48684_2026_f9623c8f"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=4Hjl2yw0R0Sl3GnrAlugLSoPpegMLjNwLzLhvu/YRQMlWWP5rxhEbjdy/yz3KdcmYvhaR8u4II2ch6W7szS1XAEaA5IO0RQhg0XsfQsGCNr3GVhXrFFqN7yFncy7YfRK": {
+  "estado": "ok",
+  "archivo": "06_Additional_ANEXO_V_-_PROTECCION_DATOS_DE_CARACTER_PERSONAL.docx",
+  "bytes": 63946,
+  "texto": true,
+  "carpeta": "48684_2026_f9623c8f"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=MR6fkUN0vrCkvw%2BMC3FcfUG%2Baf1nWODSUpYkZNkJoKwei8JA04Bf1gnYt1PJu0vKddJf4HRoEU32quADsQurhELY3JYAw4ciE7/CnaNl0eOCx2e6p7hqtlp2aFupgHMr": {
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP.pdf",
+  "bytes": 325564,
+  "texto": true,
+  "carpeta": "2026000131_SERV_HAC_858b66b9"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=RhcrdWB5rBNPafZUJSxsN1e91L9wKq9kSvrIn8I6LcdRtTpM5rG%2B/VeGWIa4pHd6BNCKue0nxH75/B3FUq%2B//WzbbWeYZjPq7olHUZclL7aB0nvVKRzfe4rpHcnlPhSZ": {
+  "estado": "ok",
+  "archivo": "02_Technical_PPT.pdf",
+  "bytes": 234214,
+  "texto": true,
+  "carpeta": "2026000131_SERV_HAC_858b66b9"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=k1dRZT0390aqpLHhgD0L3zf9N/M04sQ2YO1UmzSuX359Zew6xPOSb/d/ghtXB3y1PpS2uP/O1W2W32LEn2A934RvxBNhN2s2VoPieG130/545ClyWkoJ44mKM70IFcOu": {
+  "estado": "ok",
+  "archivo": "03_Additional_Compromiso_de_Adscripcion_de_Medios_Anexo_II.doc",
+  "bytes": 167936,
+  "texto": false,
+  "carpeta": "2026000131_SERV_HAC_858b66b9"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=QtIdRQmJeZszo4XWd4GlSWI3nIoyxo03mJfHzFMkFkYmRoPnhhtMbHPtqryUHtatnrvgbRR0owmAj1MZBfioBA0%2BS3wnOcn3VHI7YGqGSt8C1/zDIE0Kw/PWNnLS0Z0z": {
+  "estado": "ok",
+  "archivo": "04_Additional_MODELO_DE_PROPOSICION.doc",
+  "bytes": 170496,
+  "texto": false,
+  "carpeta": "2026000131_SERV_HAC_858b66b9"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=P%2BxyV4fsHfGGYdWfgEFVj5UetAlq0op1nEevCN36cRZjWjTTp6Js7hQGkVCzkO3RR4A29IeorAx0HzXFgFQn1OMgtw/sIW6od6YgYHdqX/%2BCx2e6p7hqtlp2aFupgHMr": {
+  "estado": "ok",
+  "archivo": "05_Additional_Declaracion_Responsable_Anexo_I.doc",
+  "bytes": 171520,
+  "texto": false,
+  "carpeta": "2026000131_SERV_HAC_858b66b9"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=ArZLwTY/NQ69IWLdnuAnpu13cj1AeuIJ7fXWNLAsB9mmY%2BH56VEZqiwJY%2BRBMDFEBpXZ0tyYKzkTpJ0xoMdgSD5Jwcnn45PDE3sYAKuiHviCx2e6p7hqtlp2aFupgHMr": {
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP_Registro_Horario_Modificado.pdf",
+  "bytes": 231083,
+  "texto": true,
+  "carpeta": "Aplicativo_Registro_Horario_cb65cff8"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=y9If62FQ8FNXn06V/%2B2oS2b47QsCWa5oTAqXhRw3d9IfrqqEVb3UNpcAgo0yAQV8smqw1jFegHqhp64V56HsgauUKvw0w8LvIg4HmeH9JDfDdQD9RyhUmzT4jZ2In4zL": {
+  "estado": "ok",
+  "archivo": "01_Legal_1749064-PliegodeClusulasAdmi-001001PCAT_STD_OE.pdf",
+  "bytes": 566094,
+  "texto": true,
+  "carpeta": "20261026-00383_ec342cc7"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=sDgLau912JMJSOnIyE6DY1Nd37HZrQ9jZrKbRiJv6bFAArK4CafA3BRQB2IC%2Bs2lQf8KFOQ7dM7hR55QEFilH1vXGpRkp9Cqky/MaRqmtcGHAj0WEJrB5sP7amrh2jBD": {
+  "estado": "ok",
+  "archivo": "02_Technical_20261026-00383_Cuadro_de_Caracteristicas.pdf",
+  "bytes": 486619,
+  "texto": true,
+  "carpeta": "20261026-00383_ec342cc7"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=UsIjNinYKdQ9pI2rgZfBtiiPuUlEv9PdMfEEBBSoTmvItmuBDD2ydPSA5BHSkkvjgbOcsmrwCLz0qr%2BIaLEeTS51LnDqmxb06t2Q0twHbxh7QB3HKyQaFUExmUVQCerk": {
+  "estado": "ok",
+  "archivo": "03_Additional_20261026-00383_Anexos.zip",
+  "bytes": 837708,
+  "texto": false,
+  "carpeta": "20261026-00383_ec342cc7"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=HLclx5BXaG01TqQQGvZESCx5O1%2B4pEHA1sYZZGFYaOJPw0kL44nOcR3xyaWuD6o8nx4DrztlyNksvP/OD80CSPC5E78s4prHNHmwDcycMjaB0nvVKRzfe4rpHcnlPhSZ": {
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP.pdf",
+  "bytes": 479260,
+  "texto": true,
+  "carpeta": "2026_6741S_ecf14870"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=sRwPPgY4rinbj5tFRQSubcWm1OLPAZgf8H7Ao4ISxDvAO3yWIrgSDFYNPOCt3tlsUv%2B8dmk/l5PdwEO9nyMtXQqOB18qFEtAehbQ9axOHeOB0nvVKRzfe4rpHcnlPhSZ": {
+  "estado": "ok",
+  "archivo": "02_Technical_PPT.pdf",
+  "bytes": 189864,
+  "texto": true,
+  "carpeta": "2026_6741S_ecf14870"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=sM9WPUzcaVGZBchrLdiFIqDPHViGl5FyDDrrO5o4e4jdVnGE4yN7OcSl/mk1O4fGEDnVtseIdsZonVf6FypvHh1gEI7tLFq52irB1NzTSyw//q7NB2iMZvNyf0xrJmjt": {
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP_definitivo.pdf",
+  "bytes": 2677954,
+  "texto": true,
+  "carpeta": "2026004370_8297a5ab"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=%2BK6C7IZZHNoZdr877lA05tNkgU4tVer2tZnE2IQqbXDCc8s4GwqefKJpIlnMCporcy86Oftdn1/FV1ni1eorPQ9MYRX91O6Rcb9sOHArbYCB0nvVKRzfe4rpHcnlPhSZ": {
+  "estado": "ok",
+  "archivo": "02_Technical_Pliego_tecnico.pdf",
+  "bytes": 1245524,
+  "texto": true,
+  "carpeta": "2026004370_8297a5ab"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=wDGifka96D9aeWeKE/TcQdCEPxnBFc5lglQhlQzXOtyVEw3u/CFto9Xd3TrgbnLbdsgbKqWB3QX7KTDWeFReycKGaIdNLJQfGS7xbAvAhSGB0nvVKRzfe4rpHcnlPhSZ": {
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP_305_2026.pdf",
+  "bytes": 1033452,
+  "texto": true,
+  "carpeta": "305_2026_cf493a39"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Zms5vk8xBxi5Xo%2BVKx7XolViALX8Bds1a7jPVAOayF8KAN5WCT/b5Hd2MMBgFRHC8dKVOZwmfiRY1Qaw8p27Go94KIuXE/dLv2W/JPuVGv6HAj0WEJrB5sP7amrh2jBD": {
+  "estado": "ok",
+  "archivo": "02_Technical_PPT_305_2026.pdf",
+  "bytes": 363363,
+  "texto": true,
+  "carpeta": "305_2026_cf493a39"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=DHtXc%2BjgJI%2BGeEw45/7ax3ClviiPUtmeF0wjk/m/z1a8Ap3aAjFnzvHBk3yWO9WSM04CAPq3qJbV4YXh1hbW1ttYbgGUCHrRWXM4tVRAUHx7QB3HKyQaFUExmUVQCerk": {
+  "estado": "ok",
+  "archivo": "03_Additional_Anexos_305_2026.docx",
+  "bytes": 37442,
+  "texto": true,
+  "carpeta": "305_2026_cf493a39"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=JQ4q8o/7VREF7%2BKMwrljNBzBnYVWzpn%2BEiF4YjE5WQ%2BUQp%2BXfj%2BPQk6kukztaAvW1aUK4kMbqUwT0Bbd%2B9cJRpLFoNxmFH5iMEF9LIJf26YC1/zDIE0Kw/PWNnLS0Z0z": {
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP_ABIERTO_SIMPLIFICADO_SERVICIOS.pdf",
+  "bytes": 1970363,
+  "texto": true,
+  "carpeta": "6256_2025_9cf70e5a"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=a5PfyYXX1X9FUNLPfz2Z16o/8q%2BpsTNpXhDzWjCbsEQmKFUwMbzOISWPrzJGvDEzRw/t5XonJDyP08CGkiDhLgLbF88R0vWAEI9NFJtNsKcC1/zDIE0Kw/PWNnLS0Z0z": {
+  "estado": "ok",
+  "archivo": "02_Technical_PPT_Aplicacion_Policia_Local.pdf",
+  "bytes": 917958,
+  "texto": true,
+  "carpeta": "6256_2025_9cf70e5a"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=coZfQdhEz66dwREjxCsGBcfVlS6ro1uSrHrfLaDqfH4RWTbSyKmT1GkWXcrSqOmXWO9wnR4wIPULQpcwLwaf7eh0k2Rd/Wh63nD7rxc9u5QZyAJWGsSt0OzTSTyw9JAs": {
+  "estado": "ok",
+  "archivo": "03_Additional_ANEXO_I_DECLARACION_RESPONSABLE.docx",
+  "bytes": 111119,
+  "texto": true,
+  "carpeta": "6256_2025_9cf70e5a"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=l3ocH%2BwozFz%2BtdEIa3ymNByqGS7WjBQCvrDKCVCZ73PLehSIhMdRKZ%2BBwoqbRur1bOdIgI3qf2puRe4Phs4GCTNHAb7iJWP0HM4wCOx8QnEZyAJWGsSt0OzTSTyw9JAs": {
+  "estado": "ok",
+  "archivo": "04_Additional_ANEXO_II_OFERTA_ECONOMICA.docx",
+  "bytes": 107514,
+  "texto": true,
+  "carpeta": "6256_2025_9cf70e5a"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=YdBSOwS33s6wI5UtF751IVlaLflgvc0lXkqlDMy0EAbDdgJxBhbaE4j5tZEn/kTQdfo65ywZ%2BilQ2fj0znMpPJTNUN/i4U4o%2BVoJLNs5sCwZyAJWGsSt0OzTSTyw9JAs": {
+  "estado": "ok",
+  "archivo": "05_Additional_ANEXO_III_COMPROMISO_UTE.docx",
+  "bytes": 99227,
+  "texto": true,
+  "carpeta": "6256_2025_9cf70e5a"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=VlZCiyKrvkEbZs%2BN/j4tt4C0nrIwbgaubz7G5%2BCMO44V/dSRQpV6lagCYx3JE4I5DheoRpd6I%2B11MQA5MYLOup9PAElvOZPlG2YYn0MjxOCHAj0WEJrB5sP7amrh2jBD": {
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP.pdf",
+  "bytes": 394275,
+  "texto": true,
+  "carpeta": "2026_142_f90325eb"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=SzmoDhNmuwktbMW9MT9myP4lTuI0UNlJS%2B2Ygy08E1TGb7oo50UYcAeMJEV6g5wKbBhle9w8wcKt5esCdlEs9bvOpXF4KxOiyWuWyE5EbeQZyAJWGsSt0OzTSTyw9JAs": {
+  "estado": "ok",
+  "archivo": "02_Technical_PPT.pdf",
+  "bytes": 190667,
+  "texto": true,
+  "carpeta": "2026_142_f90325eb"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=AB5bKcgKpnmvqKL1dXAS26ML3uLb8dXt0AwHcx4HBwsZKuRvLmlTgVRohbidaJpLoUJamQzHYxy1w2NtIlygduSjyfQbrk/82DL10p1a2pd7QB3HKyQaFUExmUVQCerk": {
+  "estado": "ok",
+  "archivo": "02_Technical_PPT_MANTO_BESPORT_DIAPER_2026_v3.pdf",
+  "bytes": 262828,
+  "texto": true,
+  "carpeta": "2026_ETSAE0921_00001827E_d98fb907"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=ANRPGEb4W1nKAd1LHFxWjiK%2BXa6FDx181pZU4cOg0Tje/bjFj9UWO8gde3h%2BZf0UTJ5Y/0mbQqKbGapP4Mame3kMRp8wJ1MJ%2BAzVcsOu9HT6CYyL7SIrUOBFfNf52ZqA": {
+  "estado": "ok",
+  "archivo": "01_Legal_07_PCAP_FDO_3189.pdf",
+  "bytes": 4376053,
+  "texto": true,
+  "carpeta": "2026_EA15_00003189_8c6e1fc5"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=K2vZNmYnuQFNqD7SPIOrdvHTptbqONEhPKUAF2cdgAnJUPhjdD29VcCnhsi0jukByBXtBTeFqs3HSkg8OXi6SxE3N3pdOZ2TG4F/fgv4c1d45ClyWkoJ44mKM70IFcOu": {
+  "estado": "ok",
+  "archivo": "02_Technical_03_PPT.pdf",
+  "bytes": 559559,
+  "texto": true,
+  "carpeta": "2026_EA15_00003189_8c6e1fc5"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=P58Z26Ns4HsL8qFLSC2g8Tfjm9X025Fx4TfEbAX%2BNiPdQ0i1/ECO5mNfcdDglem81YN3WeXxCeE86rCBPGfKG/R0VOfjzFKMUMXt/8pxRk0ZyAJWGsSt0OzTSTyw9JAs": {
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP.pdf",
+  "bytes": 908677,
+  "texto": true,
+  "carpeta": "LIC_000014_2026_501e0310"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=1JNPi5gbZ6xxK/LDHEBZuG0Ga0g7CZW83ySH9Ao2YAstSegQTE2ilAcKrUjnMPXFr/zTTVPVZ5OkxM1q6wDJYYEpqYIqvwH9ESAUIh/JxpaB0nvVKRzfe4rpHcnlPhSZ": {
+  "estado": "ok",
+  "archivo": "02_Technical_PPT.pdf",
+  "bytes": 490304,
+  "texto": true,
+  "carpeta": "LIC_000014_2026_501e0310"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=J8D7qk5zynL%2BvMCkO0E/f07CaYErTFvcTDmIgiN/HOzK7AV%2BntFYce8vw0QQW6B/GdmVmQeRd2ZFu4cJZI8k0ZzDR91FR2fMtsIi7Jo/u0EC1/zDIE0Kw/PWNnLS0Z0z": {
+  "estado": "ok",
+  "archivo": "03_Additional_LIC_000014_2026.bin",
+  "bytes": 133511,
+  "texto": false,
+  "carpeta": "LIC_000014_2026_501e0310"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=F1/IifTYmuJbAxqccFu5sbEiMuVOLWDVWhJePRvQ/8an4tRxfQqse0yuMqUYYy49kXfpWWD4DaFKXvAqKKiki8s4uNLptkhGxes0UtTQ8qgZyAJWGsSt0OzTSTyw9JAs": {
+  "estado": "ok",
+  "archivo": "04_Additional_ANNEXOS_EDITABLES.docx",
+  "bytes": 6046754,
+  "texto": true,
+  "carpeta": "LIC_000014_2026_501e0310"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=xNWmUPZLzCMYTkuhjZ9hED/qaqx/qg7wXOpEC/FEIJhTXDAhz0qTqQPau4xIjm5BlSio%2BtnuclyYYdRGuHceeEhWknI86PBp5%2B/Pb14JCKf3GVhXrFFqN7yFncy7YfRK": {
+  "estado": "ok",
+  "archivo": "03_Additional_20261124_Correccion_Error_PCA_Servicios_LOPD.pdf",
+  "bytes": 288954,
+  "texto": true,
+  "carpeta": "202600084_4a95d8ce"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=jv3Y2VqEIUGWEpnKi9NX92K5vlg56%2Bej017MZhkfEbuBi4Q2RAKe/k5zVOdEeiPxEdMgE%2BFMm7vbOZc1VhquOVZC7BJxbpFtoFwyNPB6W7fDdQD9RyhUmzT4jZ2In4zL": {
+  "estado": "ok",
+  "archivo": "01_Legal_Pliego_de_clausulas_administrativas.pdf",
+  "bytes": 407952,
+  "texto": true,
+  "carpeta": "2026_13190_44ded8e7"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=5X%2ByJZ0OQcRSFCmacYP9HtE0jDS2%2B5VMr6wGp1sJYvyqO9tG7wsqdtt4G83Blfxe7QhhFvJBQxGiTIVcRw1izBitak6oQQ2JLoNkCNm/Nru1aXEvq3KHa/AEHgtDrQw0": {
+  "estado": "ok",
+  "archivo": "02_Technical_Pliego_de_prescripciones_tecnicas.pdf",
+  "bytes": 162979,
+  "texto": true,
+  "carpeta": "2026_13190_44ded8e7"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=dTFc1c3kMyaQNxv%2BhOC2abpWZakHGMZza34afnNxgltT/KJkeZRsFTwVIvK8sVoHnuUd5/WdW/gD43G5IBPmsKnDKDVaCBmhF7nB9lkBXbf6CYyL7SIrUOBFfNf52ZqA": {
+  "estado": "ok",
+  "archivo": "03_Additional_MODELO_PROPOSICION_ECONOMICA.docx",
+  "bytes": 16132,
+  "texto": true,
+  "carpeta": "2026_13190_44ded8e7"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=pucaekTQP1VM/Me6%2BIdp2MrBw3L8ZokYgThm%2BcIebSRcj7FdiYtWe3xCQvcIkqsBx9PKbNTxU6tqDGRUSnHuoL8Q1KL4idqVWi3oxQfBEgpJOVDbGCDM%2BMigrvuVS7Rv": {
+  "estado": "ok",
+  "archivo": "04_Additional_MODELO_DECLARACION_RESPONSABLE.doc",
+  "bytes": 32256,
+  "texto": false,
+  "carpeta": "2026_13190_44ded8e7"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=yaUP2K1LeMYjlZgwJKGg7PKjHl78DPvJz7kht0aWEwyX8vzEuByhfhQexrl3rP5bopaFKSo7km6wLOBCsX5GUFIegOpmI7FJ2RfOqY7z0qV7QB3HKyQaFUExmUVQCerk": {
+  "estado": "ok",
+  "archivo": "01_Legal_2632537-PliegodeClusulasAdmin-001003PCA_STD_CA.pdf",
+  "bytes": 758855,
+  "texto": true,
+  "carpeta": "SER-26-0382-SIST_e35f88f1"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=O4Z2hSCz1kE6SXcPJ35tb23hkQDCVOWNgn1SMKvlSXJJgHL%2BNa557BTwQVMqBuGGqZASIYCXo%2BkVFarHwE6yZetXgjDWDMODcLxGzMguA0PDdQD9RyhUmzT4jZ2In4zL": {
+  "estado": "ok",
+  "archivo": "02_Technical_2631172-PliegodePrescripcione-001001PPT_STD_CA.pdf",
+  "bytes": 343089,
+  "texto": true,
+  "carpeta": "SER-26-0382-SIST_e35f88f1"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=ErvpfUP2meS4MNMuX3zKtmGJmTmIWKafvMWtMnc1oFrIUnMxw7mokgMyvir/hjVNjlsdgby6gftbwfjN5DL1A6r5A99770Ij8m8hUDnpNI33GVhXrFFqN7yFncy7YfRK": {
+  "estado": "ok",
+  "archivo": "03_Additional_2632105-AnexosPliegos-5Anexos.zip",
+  "bytes": 629139,
+  "texto": false,
+  "carpeta": "SER-26-0382-SIST_e35f88f1"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=aKOU3WH6VbDOtXftsSSqXJp/mPeDrk1TYPF5QWxXCy5gXdBYIrzOW7yIsICsYkwg5tHt13oZz08HGw0vNBR%2BS0/bCTSaJbSfRfqMRngB5SLDdQD9RyhUmzT4jZ2In4zL": {
+  "estado": "ok",
+  "archivo": "01_Legal_PLIEGOCONDGENERALES.pdf",
+  "bytes": 464702,
+  "texto": true,
+  "carpeta": "S-04790-2026_ebfc3a54"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=REzdDAHhlvzeKZliL4xk4YOa2oJnRRZdtMQIZvQlLx09FeLBZ9f4H2i6Lcv81oMmYHauD9RikSIS6EIucJL7eKFCqt1F/4oUnfyJ3S0zz1qHAj0WEJrB5sP7amrh2jBD": {
+  "estado": "ok",
+  "archivo": "02_Technical_PLIEGOTECNICO.pdf",
+  "bytes": 290246,
+  "texto": true,
+  "carpeta": "S-04790-2026_ebfc3a54"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=oCMnlH/PHlEeIfHzkBoPthXJe%2BuLaqhHZocMhb49UZk%2BXdpZ69atOxSC0izi/z5AKYee1yHzPsqRp2qylwvuGgSw/JMEUFX2v2DnjSDf13mCx2e6p7hqtlp2aFupgHMr": {
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP.pdf",
+  "bytes": 751451,
+  "texto": true,
+  "carpeta": "994-1_2026_d9a5bac9"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=davgFVydCe5lNGQf%2Blx3%2BeqTL%2B9TqsDz5aQAjmmkfC17zJ4ewhdZUzvQbBsHr9t/fcajvWtoJktvl9KaEblUepZchLo%2BSO8BqFXDn5WnCdoC1/zDIE0Kw/PWNnLS0Z0z": {
+  "estado": "ok",
+  "archivo": "02_Technical_PPT.pdf",
+  "bytes": 252917,
+  "texto": true,
+  "carpeta": "994-1_2026_d9a5bac9"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=OtfYEHziwXq3Cqtg6mjimWcy8Nqy4TTDuVK2XRKdGMqzD56z6nn5kcs/tp4BZJyJ1lUhFnJXypnj1RmE7ykISxMMCw5s32j//pDaBrHqwtjVTD3T98KC0nSgQFM0q%2B5s": {
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP.pdf",
+  "bytes": 522359,
+  "texto": true,
+  "carpeta": "111023_2026_6216c42c"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=bas8uFS8sjJahylp7qdzcv1DdiscI7/kDUxfv4ulQZvRXxiRrdFxuU6r8qoJTpuxW77aukSj8bRFZ6aF7yxqCxRnL6o7haTMLDkL3/bxmlsC1/zDIE0Kw/PWNnLS0Z0z": {
+  "estado": "ok",
+  "archivo": "02_Technical_PPT.pdf",
+  "bytes": 346022,
+  "texto": true,
+  "carpeta": "111023_2026_6216c42c"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=wjCDoocgJyIn%2Bw/MlXt0NkCTeys%2BE8xGzu5AFmRvBPtIgaN5iAjebva9ZRehbO/zfahEe7EobN//Wf/HjvXgeHat0G2iJAh%2BbT9L7bcVgIFJOVDbGCDM%2BMigrvuVS7Rv": {
+  "estado": "ok",
+  "archivo": "01_Legal_EASP26_038_PCAP_VDEF_fdo.pdf",
+  "bytes": 780274,
+  "texto": true,
+  "carpeta": "EASP26_038_89afc99b"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=2eWBdCZJ3A28f%2B84WMJ4oP9rIlKeldEiGOmeG4AoRP3WKg/21efdydTxBOX1vidCitMEuQqr/LuwAG6EhVfYdsvcvUk5eRMUpynKVABfCxpt/o8fNevwsujgRzaBbugn": {
+  "estado": "ok",
+  "archivo": "02_Technical_EASP26_038_PPT_VDEF_fdo.pdf",
+  "bytes": 517004,
+  "texto": true,
+  "carpeta": "EASP26_038_89afc99b"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=/7MIDU/htOuJjTJr/weaguDstQqJA57kviTmA26jLoroxoIlILsEyDe2BhbZLjv9XvZUCL8tB7FyakmQgnGXS0lF1L/KCzIbwwH136IwrY6HAj0WEJrB5sP7amrh2jBD": {
+  "estado": "ok",
+  "archivo": "03_Additional_EASP26_038_Anexos_VDEF.docx",
+  "bytes": 241626,
+  "texto": true,
+  "carpeta": "EASP26_038_89afc99b"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=f0OkmGnK7nGWYioCSpxMQ1BZSzIrq7UTL0QH86YJd/u/fQbJIk53hXHwAFJ/l6dBSgWSQXSM2jRd7LPZkMj9Qlwz%2B0Y4JZrzxwY4W7fMUG57QB3HKyQaFUExmUVQCerk": {
+  "estado": "ok",
+  "archivo": "04_Additional_EASP26_038_Anexos_VDEF_fdo.pdf",
+  "bytes": 649465,
+  "texto": true,
+  "carpeta": "EASP26_038_89afc99b"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=k/IliMmw4uD7AgnnNe9ZdpFX6jdffEm66wWMigoVG9EUARSFkAOmm4iequHkEmElutW1PDTg0vplKnHuAUBvIbNampiRX9EC2oEWm9%2Brcg/3GVhXrFFqN7yFncy7YfRK": {
+  "estado": "ok",
+  "archivo": "05_Additional_EASP26_038_CRC_VDef_fdo.pdf",
+  "bytes": 717469,
+  "texto": true,
+  "carpeta": "EASP26_038_89afc99b"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=Pn6oaWHrU/GqblQcSi2WCra7e974MVzTvYORJxuN/OGgvoEjrkgf4XrGtB%2BGUEIcy%2B22f5caE9EkYMUcHQTK1gbB4lvOaJVqJ7Ajg80QIJGCx2e6p7hqtlp2aFupgHMr": {
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP.pdf",
+  "bytes": 431419,
+  "texto": true,
+  "carpeta": "21696_2026_f890c1c3"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=R6IY9ty5S87ASKgZpU1t21VLzkAR9AH/rIzYqHsKCYvfTFGQQjXKQO1Pcz/A1u4bjvYGZfBi1kYsZZjvUmlDY3YXY3mmh%2BpK618fAubLcN0C1/zDIE0Kw/PWNnLS0Z0z": {
+  "estado": "ok",
+  "archivo": "02_Technical_PPT.pdf",
+  "bytes": 173273,
+  "texto": true,
+  "carpeta": "21696_2026_f890c1c3"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=AyMjb1NYXNXLKgZgMgs%2B7smBnTAcEc3UucdVSmW5ShgLTLCIp/7hKSPGogopEnbR09tp4G6/sqpEj1eYZeQxT0xqPEoHFAq/Rcttqbxls357QB3HKyQaFUExmUVQCerk": {
+  "estado": "ok",
+  "archivo": "01_Legal_PCAP.pdf",
+  "bytes": 739610,
+  "texto": true,
+  "carpeta": "1562199X_ac2b899f"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=IHZRSVptYXhWXt6KupKJQjkCVlO75QnApT%2BHYS8aFaGFFdGmJ00I6UsvOTuSl6RmtXhn4kmniJVSTpPqvcHocI9Tgki37ef610OpDem/9kqHAj0WEJrB5sP7amrh2jBD": {
+  "estado": "ok",
+  "archivo": "02_Technical_PPT.pdf",
+  "bytes": 398724,
+  "texto": true,
+  "carpeta": "1562199X_ac2b899f"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=nt3rCCTOM3TtdmfIICF8U0NdGlsyZcF2yU0lhVZ9OzY4d2ChUAtP5S3xkvluc4923fTCrApgscDXw7UShQYVFNdZxu8O4VoMGhJcrCkhjeI//q7NB2iMZvNyf0xrJmjt": {
+  "estado": "ok",
+  "archivo": "03_Additional_Annex_oferta_economica.pdf",
+  "bytes": 44106,
+  "texto": true,
+  "carpeta": "1562199X_ac2b899f"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=HZtzec53Z%2BZkg5UdG78%2BrZIpSUioYT9fc5J9EQiZo8Ie01ys5nURMuZ58XHTLz%2BIYOGGmAmKM4Nm3nnEHWjryNFiHBnNMu2oIDGyXJ1Tv1eHAj0WEJrB5sP7amrh2jBD": {
+  "estado": "ok",
+  "archivo": "04_Additional_ANNEX_INTEGRACIO_SOLVENCIA.pdf",
+  "bytes": 59809,
+  "texto": true,
+  "carpeta": "1562199X_ac2b899f"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=l6wnhD9h72raGq/5MZoVoWHBcx7rT4nXddL3QdiJd7a6AlY2K%2BzGEKmW%2BxcPF4AR9vli8Kep6GvxwxhOinBSf36Z7xnJDNNGkn3iWLQ0JR9JOVDbGCDM%2BMigrvuVS7Rv": {
+  "estado": "ok",
+  "archivo": "05_Additional_ANEXO_DR.pdf",
+  "bytes": 140031,
+  "texto": true,
+  "carpeta": "1562199X_ac2b899f"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=zVBuD2aaQEfywhUAA21AZ2V3Ayabp01yrF2PvxtnQwiWFdVWDJWr32y1NjvrthBhnYW9VWK6ygOi23pU5WtdxfvaRe70vNfHG6q2Gpsd7xmB0nvVKRzfe4rpHcnlPhSZ": {
+  "estado": "ok",
+  "archivo": "01_Legal_2230553-PliegodeClusulasAdmin-001001PCA_STD_OE.pdf",
+  "bytes": 2179861,
+  "texto": true,
+  "carpeta": "3097_2026_Jerez_de_los_Caballeros_f3e6b429"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=19ifcb0Vy5UYipHajjyfiE2gWix8OI8NHtL79xFO11ButpMFzFwgHeLWDjSbc6JWy2V6qsFlMDcZ4VpjS%2BIYSEuM7GezLR44rZcr7x1%2B0%2ByCx2e6p7hqtlp2aFupgHMr": {
+  "estado": "ok",
+  "archivo": "02_Technical_2230588-Pli-8-PliegodePrescripcionesTcnicasPPT.pdf",
+  "bytes": 316924,
+  "texto": true,
+  "carpeta": "3097_2026_Jerez_de_los_Caballeros_f3e6b429"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=fCngkDZAcvGHjQMkHiTxd9kTg4dQ255ndamndEGt%2BEeM6d458T7GUe4Zu9koWPzTHDhy0xi5yp4MsY%2BlObi4jdAxynwqLwsJKFSy2tkWBO73GVhXrFFqN7yFncy7YfRK": {
+  "estado": "ok",
+  "archivo": "01_Legal_04_DEMA-2026-053_CCP.pdf",
+  "bytes": 553489,
+  "texto": true,
+  "carpeta": "DEMA-2026-053_637a1e53"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=zk8NOBJSD337FsPvoJzMsVs2SR%2Bm68oZ5iH2fqRUI6KU7ApQeXX2I55Uo8ht4Vexb60fEEgf/crVwe2r7wfJsnu02UF65akIQ5r5SexB5A33GVhXrFFqN7yFncy7YfRK": {
+  "estado": "ok",
+  "archivo": "02_Technical_DEMA-2026-053_PPT.pdf",
+  "bytes": 454046,
+  "texto": true,
+  "carpeta": "DEMA-2026-053_637a1e53"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=SgOqk45u3X7gbC/3bA9JyLUyINx%2BLcWSo8FF0dltjEE9L3ajnJrreGLUmKZhDFUKxua0xPYch0VwRXvZ/t4N3G4vKCbViwfe6LZ7lcEFFMgZyAJWGsSt0OzTSTyw9JAs": {
+  "estado": "ok",
+  "archivo": "03_Additional_Anexo_I_DEMA-2026-053.docx",
+  "bytes": 51304,
+  "texto": true,
+  "carpeta": "DEMA-2026-053_637a1e53"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=lPhEXDTFinZ3YLWWFFGYieHduR9GH/aV4CxMjB9DHCJgPhFrOPbHqMGKwULkqoNTHA0Satf/7q5eoqkiy%2B5dogQDk9OhFb5yRxOYy4XB6iKB0nvVKRzfe4rpHcnlPhSZ": {
+  "estado": "ok",
+  "archivo": "04_Additional_Anexo_II_DEMA-2026-053.docx",
+  "bytes": 39101,
+  "texto": true,
+  "carpeta": "DEMA-2026-053_637a1e53"
+ },
+ "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=/Brt4uPO9POEkPOh1S7xVuYqC5QSpo6ViBwlc8bn3/ZyCqJS/3YfU0h3KMlZ5feUyFCpz4x7uRghh1PRroFKU0dpjYr9f%2Bl%2BO52DJ1v3XgH6CYyL7SIrUOBFfNf52ZqA": {
+  "estado": "ok",
+  "archivo": "05_Additional_DEMA-2026-053_ToR_Final_evaluation_EU4IM.pdf",
+  "bytes": 764103,
+  "texto": true,
+  "carpeta": "DEMA-2026-053_637a1e53"
  }
 }

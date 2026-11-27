@@ -1,0 +1,2008 @@
+
+
+--- página 1 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+1
+Tecnologías de la Información y 
+Comunicaciones
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARTICULARES PARA LA CONTRATACIÓN DEL 
+SERVICIO DE MANTENIMIENTO DEL SISTEMA DE CONTROL DE PRESENCIA Y DE LAS 
+TABLETAS DE FIRMA ELECTRÓNICA BIOMÉTRICA
+1. Introducción y antecedentes ....................................................................................................................5
+2. Objeto del contrato ......................................................................................................................................5
+3. Duración, plazo de ejecución y lugar de prestación.........................................................................6
+4. Lote 1: Mantenimiento del sistema de firma electrónica biométrica Vidsigner.....................6
+4.1. Objeto del lote...................................................................................................................................................6
+4.2. Especificaciones técnicas de la prestación..............................................................................................6
+4.3. Servicio de soporte y canal de comunicación........................................................................................7
+4.4. Acuerdo de nivel de servicio (ANS) del Lote 1 .......................................................................................7
+4.5. Inicio de la prestación.....................................................................................................................................8
+5. Lote 2: Mantenimiento de la aplicación de control de presencia................................................9
+5.1. Objeto del lote...................................................................................................................................................9
+5.2. Detalles del software.......................................................................................................................................9
+5.3. Bolsa de horas de servicio técnico especializado .................................................................................9
+5.4. Especificaciones técnicas de la prestación ...........................................................................................10
+5.4.1. Servicio de ayuda..........................................................................................................10
+5.4.2. Diagnóstico remoto ......................................................................................................11
+5.4.3. Servicio de reparación de software ..............................................................................11
+5.4.4. Mantenimiento preventivo ..........................................................................................11
+5.4.5. Actualizaciones de Software.........................................................................................11
+5.4.6. Copias de seguridad y continuidad..............................................................................12
+5.4.7. Adecuación normativa .................................................................................................12
+5.5. Acuerdos de nivel de servicio (ANS) del Lote 2...................................................................................12
+5.6. Entregables del Lote 2 .................................................................................................................................13
+5.7. Inicio de la prestación ..................................................................................................................................13
+6. Condiciones generales para todos los lotes......................................................................................13
+6.1. Confidencialidad ............................................................................................................................................13
+6.2. Protección de datos ......................................................................................................................................14
+7. Normativa aplicable ...................................................................................................................................16
+
+--- página 2 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+2
+Tecnologías de la Información y 
+Comunicaciones
+7.1. Contratación....................................................................................................................................................16
+7.2. Protección de datos personales ...............................................................................................................16
+7.3. Seguridad de la información .....................................................................................................................17
+7.4. Administración electrónica, firma e interoperabilidad ....................................................................17
+7.5. Accesibilidad ...................................................................................................................................................17
+7.6. Jornada y personal ........................................................................................................................................17
+7.7. Sostenibilidad y economía circular .........................................................................................................17
+7.8. Otras normas ...................................................................................................................................................18
+7.9. Cumplimiento y Actualización Normativa............................................................................................18
+8. Anexo I – Protección de datos................................................................................................................19
+8.1. Relación de tratamientos afectados .......................................................................................................19
+8.2. Reglas comunes a todos los tratamientos ............................................................................................19
+8.3. Ficha T-01 — Firma electrónica biométrica de documentos.........................................................21
+8.3.1. Identificación ................................................................................................................21
+8.3.2. Finalidad........................................................................................................................21
+8.3.3. Base jurídica ..................................................................................................................21
+8.3.4. Categorías de interesados ............................................................................................22
+8.3.5. Categorías de datos ......................................................................................................22
+8.3.6. Operaciones que realiza el encargado .........................................................................23
+8.3.7. Destinatarios y comunicaciones...................................................................................23
+8.3.8. Plazos de conservación.................................................................................................23
+8.3.9. Sistemas y ubicación.....................................................................................................24
+8.3.10. Medidas de seguridad específicas................................................................................25
+8.3.11. Evaluación de impacto .................................................................................................25
+8.4. Ficha T-02 — Control de presencia y registro de jornada...............................................................26
+8.4.1. Identificación ................................................................................................................26
+8.4.2. Finalidad........................................................................................................................26
+8.4.3. Base jurídica ..................................................................................................................26
+8.4.4. Categorías de interesados ............................................................................................26
+8.4.5. Categorías de datos ......................................................................................................27
+8.4.6. Operaciones que realiza el encargado .........................................................................28
+8.4.7. Destinatarios y comunicaciones...................................................................................28
+8.4.8. Sistemas y ubicación.....................................................................................................29
+
+--- página 3 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+3
+Tecnologías de la Información y 
+Comunicaciones
+8.4.9. Plazos de conservación.................................................................................................29
+8.5. Ficha T-03 — Gestión de permisos, vacaciones y ausencias..........................................................31
+8.5.1. Identificación ................................................................................................................31
+8.5.2. Finalidad........................................................................................................................31
+8.5.3. Base jurídica ..................................................................................................................31
+8.5.4. Categorías de interesados ............................................................................................31
+8.5.5. Categorías de datos ......................................................................................................32
+8.5.6. Operaciones que realiza el encargado .........................................................................32
+8.5.7. Destinatarios .................................................................................................................33
+8.5.8. Plazos de conservación.................................................................................................33
+8.5.9. Evaluación de impacto .................................................................................................33
+8.6. Ficha T-04 — Soporte técnico, administración y trazabilidad.......................................................34
+8.6.1. Identificación y finalidad ..............................................................................................34
+8.6.2. Base jurídica y categorías de interesados.....................................................................34
+8.6.3. Categorías de datos ......................................................................................................34
+8.6.4. Operaciones, conservación y ubicación.......................................................................35
+9. Anexo II – Categorización de los sistemas conforme al Esquema Nacional de Seguridad36
+9.1. Alcance de la certificación de conformidad.........................................................................................36
+9.2. Metodología y advertencia previa...........................................................................................................36
+9.3. Lote 1 — Sistema de firma electrónica biométrica ...........................................................................36
+9.3.1. Tipos de información y servicios ..................................................................................36
+9.3.2. Valoración: dos escenarios ...........................................................................................36
+9.3.3. Lectura del resultado ....................................................................................................37
+9.4. Lote 2 — Sistema de control de presencia y gestión de permisos..............................................38
+9.4.1. Tipos de información y servicios ..................................................................................38
+9.4.2. Valoración propuesta....................................................................................................38
+9.4.3. Condiciones que sostienen la categoría media ...........................................................38
+9.4.4. Medidas que deben mantenerse aunque el nivel sea medio......................................39
+9.5. Consecuencias de la categorización establecida ...............................................................................40
+10. Anexo III – Modelos y formularios.........................................................................................................41
+10.1. Relación de subencargados autorizados ..............................................................................................41
+10.2. Declaración de ubicación del tratamiento ...........................................................................................41
+10.3. Registro de categorías de actividades del encargado (artículo 30.2 RGPD).............................42
+
+--- página 4 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+4
+Tecnologías de la Información y 
+Comunicaciones
+10.4. Contenido mínimo de la notificación de brecha................................................................................42
+10.5. Certificado de devolución y supresión ..................................................................................................43
+
+--- página 5 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+5
+Tecnologías de la Información y 
+Comunicaciones
+1. Introducción y antecedentes
+El Ayuntamiento de Burgos dispone de un sistema de firma electrónica biométrica, desplegado 
+sobre tabletas de captura de firma manuscrita digitalizada, empleado en la BAC (Burgos Atención 
+al Contribuyente). Su mantenimiento se encuentra actualmente cubierto por el contrato número 
+2026000258/SERV/TIC/MEN, cuya vigencia finaliza el 31 de octubre de 2026.
+Asimismo, el Ayuntamiento dispone de un sistema de control de presencia y gestión de permisos y 
+vacaciones del personal municipal, cuyo mantenimiento se encuentra cubierto por el contrato 
+número 2025001372/SERV/TIC/MEN, cuya vigencia finaliza el 14 de noviembre de 2026.
+Ambos sistemas se encuentran en explotación y dan soporte a procesos administrativos de 
+carácter continuado, por lo que resulta necesario garantizar la continuidad de su mantenimiento 
+sin solución de continuidad respecto de los contratos vigentes.
+2. Objeto del contrato
+Constituye el objeto del presente contrato la prestación del servicio de mantenimiento, soporte 
+técnico y actualización de los sistemas de firma electrónica biométrica y de control de presencia 
+del Ayuntamiento de Burgos, en los términos y con el alcance que se detallan en los apartados 
+siguientes.
+El contrato comprende, para ambos lotes y con el alcance específico de cada uno, el 
+mantenimiento correctivo, el mantenimiento preventivo, el mantenimiento adaptativo derivado 
+de cambios normativos o del entorno tecnológico, el suministro de nuevas versiones y parches de 
+las licencias mantenidas, y el soporte técnico a las personas usuarias designadas por el 
+Ayuntamiento.
+De conformidad con el artículo 99.3 LCSP, el contrato se divide en los siguientes lotes, atendiendo 
+a que se trata de sistemas independientes entre sí, con fabricantes, tecnologías y canales de 
+soporte distintos, lo que permite una ejecución especializada y favorece la concurrencia:
+Lote Denominación CPV
+1 Mantenimiento del sistema de firma 
+electrónica biométrica VIDsigner 
+(Validated ID)
+72500000-0 Servicios informáticos
+2 Mantenimiento de la aplicación de control 
+de presencia Evalos 8 (Primion-Digitek)
+72200000-7 Servicios de 
+programación de software y de 
+consultoría
+72267000-4 Servicios de 
+mantenimiento y reparación de 
+
+--- página 6 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+6
+Tecnologías de la Información y 
+Comunicaciones
+software
+3. Duración, plazo de ejecución y lugar de prestación
+La duración de cada lote será la indicada en el cuadro siguiente, computada desde la fecha de 
+inicio de la prestación:
+Lote Inicio de la prestación Duración 
+inicial
+Prórrogas
+1 1 de noviembre de 2026 3 años 2 anuales
+2 15 de noviembre de 2026 3 años 2 anuales
+El inicio de la prestación de cada lote se producirá al día siguiente de la finalización del contrato 
+vigente al que sustituye, sin que pueda existir interrupción en la prestación del servicio. A tal 
+efecto, el contratista deberá tener plenamente operativos los canales de soporte y los accesos 
+remotos necesarios en la fecha de inicio.
+Si por causas ajenas al contratista la formalización del contrato se produjera con posterioridad a las 
+fechas indicadas, el inicio de la prestación se computará desde la fecha que se señale en el acta de 
+inicio, que se levantará con la conformidad del responsable del contrato.
+El servicio se prestará con carácter general de forma remota. Cuando resulte necesaria la presencia 
+física, las actuaciones se realizarán en las dependencias municipales donde se ubiquen los sistemas 
+y equipos afectados, en el término municipal de Burgos, previa coordinación con el responsable 
+del contrato.
+4. Lote 1: Mantenimiento del sistema de firma electrónica biométrica Vidsigner
+4.1. Objeto del lote
+Constituye el objeto del presente lote la prestación del servicio de mantenimiento, soporte y 
+actualización de la solución de firma electrónica biométrica VIDsigner, de Validated ID, incluyendo 
+el servicio de firma en la modalidad contratada y el soporte sobre las tabletas de captura de firma 
+manuscrita digitalizada desplegadas en las dependencias municipales.
+4.2. Especificaciones técnicas de la prestación
+El contratista deberá prestar los siguientes servicios:
+• Mantenimiento del servicio de firma electrónica biométrica VIDsigner con un número 
+ilimitado de firmas y hasta un máximo de diez (10) tabletas de firma simultáneamente activas.
+
+--- página 7 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+7
+Tecnologías de la Información y 
+Comunicaciones
+• Suministro y mantenimiento de las licencias de uso necesarias para la prestación del 
+servicio durante toda la vigencia del contrato.
+• Actualización a nuevas versiones del software cliente, de los controladores de las tabletas y 
+de los componentes de integración, incluyendo las adaptaciones necesarias para mantener la 
+compatibilidad con las versiones de los sistemas operativos y navegadores soportados por el 
+Ayuntamiento.
+• Mantenimiento correctivo de las incidencias que afecten al servicio de firma, a la captura 
+biométrica o a la integración con los sistemas de gestión documental y de tramitación electrónica 
+municipales.
+• Soporte técnico a las personas usuarias designadas por el Ayuntamiento.
+• Sustitución o reparación de las tabletas de firma que resulten averiadas por causas no 
+imputables a un uso indebido. Cuando la reparación no sea posible en dicho plazo, se facilitará un 
+equipo de sustitución equivalente.
+El contratista deberá acreditar su condición de fabricante o de distribuidor o partner autorizado 
+para la prestación de servicios de soporte y mantenimiento sobre la solución VIDsigner.
+4.3. Servicio de soporte y canal de comunicación
+El contratista dispondrá de un punto único de contacto para el registro y seguimiento de 
+incidencias y consultas, accesible mediante, al menos, dos de los siguientes canales: plataforma 
+web de tickets, dirección de correo electrónico específica y teléfono de atención.
+El horario de prestación del servicio de soporte será, como mínimo, de lunes a viernes, en días 
+laborables en el municipio de Burgos, de 8:00 a 19:00 horas.
+Toda incidencia registrada recibirá un identificador único y una clasificación de criticidad, y su 
+estado será consultable por el Ayuntamiento en todo momento.
+4.4. Acuerdo de nivel de servicio (ANS) del Lote 1
+Se establecen los siguientes niveles de servicio para el lote 1, medidos sobre períodos mensuales 
+naturales y dentro del horario definido en el apartado 4.3:
+
+--- página 8 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+8
+Tecnologías de la Información y 
+Comunicaciones
+Criticidad Definición Respuesta 
+máx.
+Resolución 
+máx.
+Cumplimiento 
+mínimo
+Crítica Imposibilidad de firmar en la totalidad 
+de los puestos de la oficina de 
+atención; pérdida o corrupción de 
+evidencias de firma; indisponibilidad 
+del servicio de firma en la nube.
+1 h hábil 4 h hábiles 95 %
+Alta Imposibilidad de firmar en más del 30 
+% de los puestos; fallo de la 
+integración con gestión documental o 
+tramitación; error en la generación del 
+documento firmado.
+2 h hábiles 1 día hábil 95 %
+Media Fallo en un puesto o tableta con 
+alternativa disponible; error de 
+visualización o de formato sin afectar 
+a la validez.
+1 día hábil 3 días 
+hábiles
+90 %
+Baja Consultas, altas y bajas de tabletas, 
+peticiones de configuración e 
+información.
+1 día hábil 10 días 
+hábiles
+90 %
+El contratista garantizará una disponibilidad mensual mínima del 99,5 % del servicio de firma 
+electrónica medida sobre la ventana crítica definida como de 7:00 a 19:00 horas de los días 
+laborables. Se excluyen del cómputo las ventanas de mantenimiento programado comunicadas 
+con al menos cinco (5) días hábiles de antelación y aceptadas por el responsable del contrato, que 
+no podrán superar cuatro (4) horas mensuales.
+A los efectos de este pliego se entiende por día hábil el día laborable conforme al calendario 
+laboral publicado anualmente para el municipio, y por hora hábil la comprendida dentro del 
+horario de soporte definido.
+El plazo de respuesta se computará desde el registro de la incidencia en el canal habilitado. El plazo 
+de resolución quedará suspendido durante los períodos en que la incidencia se encuentre 
+pendiente de información o de actuación del Ayuntamiento, con las siguientes garantías: (a) la 
+suspensión deberá solicitarse de forma expresa y motivada a través de la herramienta de gestión, 
+indicando qué información concreta se requiere; (b) surtirá efecto desde la solicitud y no con 
+carácter retroactivo; (c) el tiempo total de suspensión no podrá superar el 30 % del plazo de 
+resolución aplicable sin autorización expresa del responsable del contrato; y (d) el informe mensual 
+detallará todas las suspensiones aplicadas y su duración.
+4.5. Inicio de la prestación
+A partir del 1 de noviembre de 2026, tras la finalización del contrato vigente 
+2026000258/SERV/TIC/MEN.
+
+--- página 9 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+9
+Tecnologías de la Información y 
+Comunicaciones
+5. Lote 2: Mantenimiento de la aplicación de control de presencia
+5.1. Objeto del lote
+Constituye el objeto del presente lote la prestación del servicio de mantenimiento de la aplicación 
+de control de presencia y gestión de permisos y vacaciones Evalos 8, de la empresa Primion-
+Digitek, durante el plazo de duración del contrato, incluyendo el mantenimiento de las licencias, el 
+soporte técnico, el suministro de nuevas versiones y una bolsa de horas de servicio técnico 
+especializado.
+5.2. Detalles del software
+MS8NS01-9999 Mantenimiento - Evalos 8 >3000.
+Mantenimiento del Software de control horario Evalos 8, para base de datos SQL/Oracle.
+Licencia hasta 3.000 usuarios activos.
+• Mantenimiento – Portal del Empleado – 3.000.
+• Mantenimiento – Módulo Servicios Web – 3.000.
+Mantenimiento del Módulo Servicios Web. Licencia hasta 3.000 usuarios activos.
+Pack de 50 horas de servicio técnico especializado.
+El mantenimiento comprenderá la totalidad de los módulos relacionados, así como los 
+componentes de integración con los sistemas municipales de gestión de personal y de directorio 
+corporativo.
+5.3. Bolsa de horas de servicio técnico especializado
+El contrato incluye una bolsa de cincuenta (50) horas anuales de asistencia técnica especializada, 
+prestada de forma remota o presencial, que se regirá por las siguientes reglas:
+1. Las horas se destinarán a trabajos que excedan del mantenimiento correctivo ordinario: 
+parametrizaciones, adaptación de informes, migraciones, formación, apoyo en actualizaciones 
+mayores, integraciones y análisis de rendimiento.
+2. El consumo de horas requerirá autorización previa y expresa del responsable del contrato, 
+previa presentación por el contratista de una estimación del esfuerzo. No se abonarán horas no 
+autorizadas.
+3. Los tiempos de desplazamiento dentro del término municipal se imputarán a la bolsa de 
+horas conforme a lo pactado. Los gastos de desplazamiento en avión, tren o barco, así como los de 
+alojamiento, no están comprendidos en el contrato y requerirán autorización previa y expresa del 
+responsable del contrato para su abono.
+
+--- página 10 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+10
+Tecnologías de la Información y 
+Comunicaciones
+4. El contratista mantendrá un registro actualizado y accesible del consumo de la bolsa, con 
+detalle de fecha, técnico, actuación realizada y horas imputadas, que se incorporará al informe 
+mensual de servicio.
+5. Las horas no consumidas en cada anualidad podrán acumularse a la anualidad siguiente. 
+Las horas no consumidas a la finalización del contrato no serán objeto de abono ni de 
+compensación económica alguna.
+6. El tiempo empleado en la resolución de incidencias imputables a defectos del software o al 
+incumplimiento de los niveles de servicio no se imputará a la bolsa de horas.
+5.4. Especificaciones técnicas de la prestación
+El servicio de mantenimiento incluirá la reparación de las averías que puedan sobrevenir a los 
+componentes objeto de este acuerdo, por razón de su normal funcionamiento y uso durante el 
+siguiente horario:
+De lunes a jueves de 8.30 a 17.30 y los viernes de 8.00 a 15.00, días laborables. Los meses de julio y 
+agosto de lunes a viernes de 8.00 a 15.00, días laborables.
+El servicio básico consistirá en:
+• Servicio de ayuda.
+• Diagnóstico Remoto.
+• Servicio de reparación de software.
+5.4.1. Servicio de ayuda
+El Ayuntamiento tendrá acceso directo a un equipo central de expertos que le proporcionan 
+respuestas a cualquier consulta relacionada con:
+• Aislamiento de problemas y soporte de resolución.
+• Preguntas sobre características/funciones específicas.
+• Preguntas generales relacionadas con el producto.
+El servicio de ayuda se prestará 5 días a la semana durante el horario de trabajo indicado 
+anteriormente.
+Se deberá proporcionar soporte técnico para consultas y solicitudes de asistencia respecto a todos 
+los sistemas contratados y en garantía.
+Al recibir una solicitud de asistencia se deberá abrir una solicitud de servicio, asignando el ID de la 
+incidencia y su gravedad. La respuesta no podrá exceder las 24 horas para al menos el 95% de los 
+casos, dentro del horario anteriormente descrito.
+
+--- página 11 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+11
+Tecnologías de la Información y 
+Comunicaciones
+5.4.2. Diagnóstico remoto
+El servicio de diagnóstico remoto permitirá que un especialista se conecte, mediante conexión 
+remota segura o a través de una VPN facilitada por el Ayuntamiento, a los sistemas municipales, 
+con la finalidad de analizar el problema y acelerar su resolución.
+Los accesos remotos se realizarán exclusivamente a través de los mecanismos autorizados por el 
+Servicio TIC, con identificación nominativa de la persona técnica que accede, autenticación 
+multifactor y registro de la sesión. Queda prohibido el uso de herramientas de acceso remoto no 
+autorizadas expresamente por el Ayuntamiento, así como la extracción de copias de datos fuera de 
+los entornos municipales sin autorización previa.
+5.4.3. Servicio de reparación de software 
+Cuando, tras el análisis, se determine que el software es la causa de un problema que afecta al 
+servicio, el contratista escalará la incidencia para la preparación de un parche correctivo, de una 
+nueva versión puntual en el menor plazo posible o de una solución alternativa que restablezca la 
+operativa.
+Cuando la avería no pueda ser reparada de forma remota, el contratista desplazará personal 
+técnico al lugar donde se encuentre el equipo o sistema afectado.
+La aplicación de parches y nuevas versiones en el entorno de producción requerirá la validación 
+previa en el entorno de pruebas municipal, la aprobación del responsable del contrato y la 
+existencia de un plan de vuelta atrás documentado.
+5.4.4. Mantenimiento preventivo
+Con periodicidad al menos semestral, el contratista realizará una revisión preventiva del sistema 
+que comprenderá, como mínimo: verificación del estado de la base de datos y de los procesos de 
+integridad, revisión de los procesos de cálculo y de cierre, análisis de rendimiento y de crecimiento 
+de la información, revisión del estado de las integraciones y comprobación de la vigencia de las 
+versiones instaladas. De cada revisión se emitirá el correspondiente informe con recomendaciones.
+5.4.5. Actualizaciones de Software
+El contratista suministrará las nuevas versiones del software correspondientes a las licencias Evalos 
+previamente contratadas. Las mejoras de rendimiento, las actualizaciones tecnológicas y las 
+correcciones de errores se suministrarán a medida que estén disponibles, con el fin de mantener el 
+sistema actualizado con los cambios y mejoras introducidos durante el ciclo de vida de los 
+productos.
+Asimismo, el contratista realizará, sin coste adicional y sin imputación a la bolsa de horas, las 
+adaptaciones del software que resulten necesarias como consecuencia de:
+• Modificaciones de la normativa estatal, autonómica o local en materia de jornada, 
+permisos, vacaciones o registro horario del personal al servicio de las Administraciones Públicas.
+
+--- página 12 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+12
+Tecnologías de la Información y 
+Comunicaciones
+• Modificaciones de la normativa en materia de protección de datos personales, seguridad 
+de la información o accesibilidad.
+• Cambios en los acuerdos y convenios colectivos aplicables al personal municipal que 
+afecten a la parametrización estándar del producto, sin perjuicio de que las parametrizaciones 
+específicas puedan imputarse a la bolsa de horas.
+• Cambios en las versiones de los sistemas operativos, gestores de bases de datos y 
+navegadores soportados por el Ayuntamiento, dentro del ciclo de vida soportado por el 
+fabricante.
+5.4.6. Copias de seguridad y continuidad
+El contratista colaborará con el Servicio TIC del Ayuntamiento en la verificación periódica de la 
+restaurabilidad de las copias de seguridad de la aplicación y de su base de datos, participando al 
+menos una vez al año en una prueba de restauración documentada.
+5.4.7. Adecuación normativa
+El sistema garantizará el cumplimiento del artículo 34.9 del Estatuto de los Trabajadores y del Real 
+Decreto-ley 8/2019, así como de la normativa aplicable al personal funcionario. En particular:
+(a) registro diario con hora de inicio y finalización de la jornada de cada persona
+(b) conservación durante cuatro (4) años, con disponibilidad para el personal, la representación 
+legal y la Inspección de Trabajo y Seguridad Social
+(c) inmutabilidad y trazabilidad: toda modificación de un registro dejará traza con identificación de 
+autor, fecha, valor anterior y motivo, sin posibilidad de borrado
+(d) capacidad de exportación íntegra en formato estructurado.
+El contratista adaptará el sistema, sin coste y sin imputación a la bolsa de horas, a los requisitos del 
+real decreto que regule el registro horario digital obligatorio y a sus especificaciones técnicas, 
+incluida la eventual interoperabilidad con la Inspección de Trabajo, dentro del plazo de adaptación 
+que la propia norma establezca.
+5.5. Acuerdos de nivel de servicio (ANS) del Lote 2
+Se establecen los siguientes niveles de servicio, medidos sobre períodos mensuales naturales y 
+dentro del horario definido en el apartado 5.4:
+Criticidad Definición Respuesta 
+máxima
+Resolución 
+máxima
+Cumplimiento 
+mínimo
+Crítica Sistema no operativo, 
+imposibilidad de fichar o de 
+generar el registro de jornada, 
+pérdida o corrupción de datos.
+2 h hábiles 8 h hábiles 95 % de los 
+casos
+
+--- página 13 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+13
+Tecnologías de la Información y 
+Comunicaciones
+Alta Funcionalidad esencial 
+degradada: portal del 
+empleado o servicios web 
+inoperativos, errores en el 
+cálculo de saldos.
+4 h hábiles 2 días 
+hábiles
+95 % de los 
+casos
+Media Fallo funcional con solución 
+alternativa disponible.
+1 día hábil 5 días 
+hábiles
+90 % de los 
+casos
+Baja Consultas, peticiones de 
+información y solicitudes de 
+configuración menores.
+24 h 
+hábiles
+15 días 
+hábiles
+90 % de los 
+casos
+El plazo de respuesta se computará desde el registro de la incidencia por el Ayuntamiento en el 
+canal habilitado. El plazo de resolución quedará suspendido durante los períodos en que la 
+incidencia se encuentre pendiente de información o de actuación por parte del Ayuntamiento, 
+circunstancia que deberá quedar reflejada en la herramienta de gestión de incidencias.
+5.6. Entregables del Lote 2
+• Informe mensual de servicio, con el detalle de incidencias, cumplimiento de ANS y 
+consumo de la bolsa de horas.
+• Informe semestral de mantenimiento preventivo, con recomendaciones de mejora.
+• Notas de versión y plan de despliegue de cada nueva versión suministrada.
+• Informe anual de la prueba de restauración de copias de seguridad.
+• Documentación técnica y funcional actualizada de las parametrizaciones realizadas.
+5.7. Inicio de la prestación
+A partir del 15 de noviembre de 2026, tras la finalización del contrato vigente 
+2025001372/SERV/TIC/MEN.
+6. Condiciones generales para todos los lotes
+6.1. Confidencialidad
+1. Obligación de Confidencialidad:
+o Tanto el adjudicatario como sus colaboradores se comprometen a mantener la más 
+estricta confidencialidad sobre toda la información, documentación, y datos a los 
+que tengan acceso durante la ejecución del contrato.
+o Esto incluye, pero no se limita a:
+￿ Información técnica, estratégica y operativa del Ayuntamiento de Burgos.
+
+--- página 14 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+14
+Tecnologías de la Información y 
+Comunicaciones
+￿ Datos de terceros integrados en los sistemas del Ayuntamiento.
+2.  Gestión de la Información Confidencial:
+o El adjudicatario deberá implementar medidas técnicas y organizativas adecuadas 
+para proteger la información confidencial, de acuerdo con lo establecido en el 
+Reglamento General de Protección de Datos (RGPD) y otras normativas aplicables.
+3. Divulgación Autorizada:
+o Solo se podrá compartir información confidencial con terceros previa autorización 
+expresa y escrita del Ayuntamiento de Burgos.
+4. Incumplimiento de Confidencialidad:
+o En caso de incumplimiento, el adjudicatario será responsable de los daños y 
+perjuicios causados, y el Ayuntamiento podrá aplicar las penalizaciones 
+correspondientes.
+6.2. Protección de datos
+El contratista tiene la condición de encargado del tratamiento respecto de los datos personales a 
+los que acceda por razón del contrato, siendo responsable el Ayuntamiento. El tratamiento se 
+regirá por el artículo 28 del RGPD, la LOPDGDD y las siguientes estipulaciones, que se completan 
+con el Anexo I de este pliego (apartado 8):
+1. Objeto, duración, naturaleza y finalidad: prestación de los servicios de mantenimiento y 
+soporte descritos en este pliego, durante su vigencia y prórrogas, exclusivamente para 
+dicha finalidad.
+2. Instrucciones documentadas: el contratista tratará los datos únicamente conforme a 
+instrucciones documentadas del responsable, incluidas las relativas a transferencias 
+internacionales. Informará de inmediato si, en su opinión, una instrucción infringe la 
+normativa de protección de datos.
+3. Prohibición de uso propio: no utilizará los datos para fines propios, ni para entrenamiento 
+de modelos, ni para estadística, ni los cederá a terceros, ni siquiera en forma anonimizada, 
+sin autorización expresa y escrita.
+4. Confidencialidad del personal: garantizará que las personas autorizadas se hayan 
+comprometido por escrito a la confidencialidad, con carácter indefinido, y hayan recibido 
+formación específica acreditable en protección de datos. Mantendrá una relación 
+nominativa actualizada del personal con acceso, a disposición del responsable.
+5. Medidas de seguridad: aplicará las medidas del artículo 32 del RGPD y las derivadas del 
+Esquema Nacional de Seguridad conforme al Anexo II (apartado 9), incluyendo cifrado en 
+tránsito y en reposo, control de accesos por mínimo privilegio, autenticación multifactor, 
+registro y conservación de trazas y pruebas periódicas de eficacia.
+6. Subencargados: no subcontratará total ni parcialmente el tratamiento sin autorización 
+previa, específica y por escrito. Los subencargados autorizados quedarán sujetos a las 
+mismas obligaciones mediante contrato, respondiendo el contratista plenamente de su 
+actuación. Se acompañará al contrato la relación inicial de subencargados y su ubicación; 
+
+--- página 15 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+15
+Tecnologías de la Información y 
+Comunicaciones
+toda modificación se comunicará con treinta (30) días de antelación, con derecho de 
+oposición motivada del responsable.
+7. Asistencia al responsable: asistirá al Ayuntamiento en la atención de los derechos de los 
+artículos 15 a 22 del RGPD en un plazo máximo de cinco (5) días hábiles desde el traslado 
+de la solicitud; en la realización de evaluaciones de impacto y consultas previas; y en el 
+cumplimiento de los artículos 32 a 36. Trasladará al responsable, en veinticuatro (24) horas, 
+cualquier solicitud de derechos que reciba directamente, sin atenderla por sí mismo.
+8. Brechas de seguridad: notificará al responsable y al delegado de protección de datos sin 
+dilación indebida y, en todo caso, en un plazo máximo de veinticuatro (24) horas desde que 
+tenga conocimiento de una violación de la seguridad de los datos personales, con la 
+información del artículo 33.3 del RGPD disponible en ese momento, completándola 
+progresivamente. Colaborará en la evaluación del riesgo y, en su caso, en la comunicación 
+a los interesados. Este plazo de 24 horas es inferior al de 72 horas del artículo 33.1 porque el 
+cómputo del responsable frente a la autoridad de control se inicia con el conocimiento del 
+encargado.
+9. Registro de actividades: mantendrá el registro de categorías de actividades de tratamiento 
+del artículo 30.2 del RGPD y lo pondrá a disposición del responsable.
+10. Auditoría: pondrá a disposición del responsable toda la información necesaria para 
+demostrar el cumplimiento y permitirá y contribuirá a auditorías e inspecciones, incluidas 
+las realizadas por terceros designados por el Ayuntamiento, con preaviso de diez (10) días 
+hábiles salvo urgencia justificada. Aportará anualmente evidencia de las auditorías propias.
+11. Devolución y supresión: a la finalización del contrato, y a elección del responsable, 
+devolverá o suprimirá de forma segura y certificada la totalidad de los datos y de sus 
+copias, incluidas copias de seguridad, en un plazo máximo de treinta (30) días naturales 
+desde la aceptación del plan de reversibilidad, emitiendo certificado de destrucción con 
+detalle de soportes y método. Podrá conservar los datos bloqueados sólo mientras 
+subsistan responsabilidades legales, identificando la base jurídica y el plazo.
+12. Delegado de protección de datos: designará y comunicará un punto de contacto en 
+materia de protección de datos, y facilitará los datos de su delegado si estuviera obligado a 
+designarlo.
+En el caso del lote 1, se añaden los siguientes puntos adicionales:
+13. El tratamiento se realizará íntegramente en el territorio del Espacio Económico Europeo. El 
+contratista declarará en su oferta la ubicación de los centros de proceso de datos, incluidos 
+los de sus subencargados, y comunicará cualquier cambio con sesenta (60) días de 
+antelación. No se realizarán transferencias internacionales de datos sin autorización 
+expresa y previa del responsable y sin las garantías del capítulo V del RGPD. El soporte 
+remoto se prestará desde el EEE; el acceso desde fuera del EEE queda prohibido salvo 
+autorización expresa, incluso cuando no implique almacenamiento.
+14. La plantilla biométrica se almacenará cifrada y asociada exclusivamente al documento 
+firmado, mediante un esquema que impida su reutilización para identificación o 
+autenticación en cualquier otro contexto. El contratista implementará la posibilidad de 
+revocar el vínculo entre la plantilla y la persona física.
+
+--- página 16 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+16
+Tecnologías de la Información y 
+Comunicaciones
+15. Las claves de descifrado quedarán bajo control exclusivo del Ayuntamiento o de un tercero 
+de confianza designado por él, de modo que no se pueda acceder al contenido biométrico 
+en claro.
+16. Queda prohibido el uso de los datos biométricos para cualquier finalidad distinta de la 
+verificación pericial de la autoría de la firma en caso de impugnación del documento.
+17. El contratista informará por escrito de cualquier cambio en el algoritmo, en la plantilla o en 
+la ubicación del tratamiento con al menos sesenta (60) días de antelación, por requerir 
+revisión de la evaluación de impacto.
+En el caso del lote 2, el sistema de control de presencia no utilizará datos biométricos para el 
+registro de jornada ni para el control de acceso asociado, empleando exclusivamente credenciales, 
+tarjetas u otros identificadores no biométricos. Cualquier funcionalidad biométrica del producto 
+permanecerá desactivada y así se acreditará documentalmente.
+Si alguno de los productos incorporase o llegase a incorporar funcionalidades basadas en 
+inteligencia artificial (incluidos, entre otros, el análisis biométrico automatizado, la detección de 
+patrones de comportamiento laboral o la puntuación de personas), el contratista lo comunicará 
+previamente y por escrito, identificando la clasificación de riesgo conforme al Reglamento (UE) 
+2024/1689 y aportando la documentación técnica exigible. Queda expresamente prohibida la 
+incorporación de sistemas de reconocimiento de emociones en el ámbito laboral y de 
+categorización biométrica, así como cualquier tratamiento automatizado con efectos jurídicos 
+sobre el personal en los términos del artículo 22 del RGPD, sin autorización expresa y previa 
+evaluación.
+7. Normativa aplicable
+El presente contrato estará sujeto al cumplimiento de las normativas legales y reglamentarias 
+vigentes en el ámbito nacional, autonómico y local, así como de las normas técnicas y estándares 
+aplicables al desarrollo e implementación del proyecto.
+7.1. Contratación
+• Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, con especial referencia a 
+los artículos 29 (plazo y prórroga), 62 (responsable del contrato), 99 (división en lotes), 124 
+y siguientes (prescripciones técnicas), 126.6 (referencia a marcas), 145 (criterios de 
+adjudicación), 192 (penalidades), 202 (condiciones especiales de ejecución), 210 
+(cumplimiento) y 215 (subcontratación).
+• Ley 25/2013, de 27 de diciembre, de impulso de la factura electrónica.
+• Ley 3/2004, de 29 de diciembre, de lucha contra la morosidad en operaciones comerciales.
+7.2. Protección de datos personales
+• Reglamento (UE) 2016/679 (RGPD), con especial referencia a los artículos 5, 9, 24, 25, 28, 30, 
+32, 33, 35, 36 y capítulo V.
+• Ley Orgánica 3/2018, de 5 de diciembre (LOPDGDD), en particular sus artículos 28, 33 y 88 y 
+siguientes en materia de derechos digitales en el ámbito laboral.
+• Directrices 5/2022 del Comité Europeo de Protección de Datos sobre reconocimiento facial, y 
+criterios y guías de la AEPD sobre tratamientos biométricos y sobre control de presencia.
+
+--- página 17 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+17
+Tecnologías de la Información y 
+Comunicaciones
+7.3. Seguridad de la información
+• Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad, 
+y guías CCN-STIC de aplicación.
+• Reglamento (UE) 2024/2847, de Ciberresiliencia, en lo que resulte de aplicación a los 
+productos con elementos digitales.
+• Directiva (UE) 2022/2555 (NIS2) y su normativa española de transposición, cuando esta resulte 
+aplicable.
+7.4. Administración electrónica, firma e interoperabilidad
+• Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común, en particular los 
+artículos 9 a 11, 26 y 27.
+• Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+• Reglamento (UE) 910/2014 (eIDAS), en la redacción dada por el Reglamento (UE) 2024/1183.
+• Ley 6/2020, de 11 de noviembre, reguladora de determinados aspectos de los servicios 
+electrónicos de confianza.
+• Real Decreto 4/2010, por el que se regula el Esquema Nacional de Interoperabilidad, y sus 
+Normas Técnicas de Interoperabilidad, en particular las de política de firma, documento 
+electrónico, expediente electrónico y digitalización.
+• Real Decreto 203/2021, por el que se aprueba el Reglamento de actuación y funcionamiento 
+del sector público por medios electrónicos.
+7.5. Accesibilidad
+• Real Decreto 1112/2018, sobre accesibilidad de los sitios web y aplicaciones para dispositivos 
+móviles del sector público.
+• Norma EN 301 549 en su versión vigente y Pautas WCAG, nivel AA.
+• Ley 11/2023, de 8 de mayo, de requisitos de accesibilidad de determinados productos y 
+servicios.
+• Real Decreto Legislativo 1/2013, texto refundido de la Ley General de derechos de las 
+personas con discapacidad.
+7.6. Jornada y personal
+• Real Decreto Legislativo 2/2015, texto refundido del Estatuto de los Trabajadores, artículo 
+34.9.
+• Real Decreto-ley 8/2019, de 8 de marzo, en materia de registro de jornada.
+• Real Decreto Legislativo 5/2015, texto refundido del Estatuto Básico del Empleado Público.
+• Normativa que regule el registro horario digital obligatorio, una vez publicada, y sus 
+especificaciones técnicas.
+• Acuerdos y convenios colectivos aplicables al personal municipal.
+7.7. Sostenibilidad y economía circular
+• Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular.
+• Real Decreto 27/2021, que modifica el Real Decreto 110/2015, sobre residuos de aparatos 
+eléctricos y electrónicos.
+• Plan de Contratación Pública Ecológica de la Administración General del Estado, como 
+referencia orientativa.
+
+--- página 18 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+18
+Tecnologías de la Información y 
+Comunicaciones
+7.8. Otras normas
+• Reglamento (UE) 2024/1689, por el que se establecen normas armonizadas en materia de 
+inteligencia artificial.
+• Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen 
+gobierno, y normativa autonómica de desarrollo.
+• Ley 2/2023, de 20 de febrero, reguladora de la protección de las personas que informen sobre 
+infracciones normativas.
+• Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+7.9. Cumplimiento y Actualización Normativa
+Obligación del Contratista:
+1. El adjudicatario será responsable de garantizar el cumplimiento de toda normativa 
+aplicable durante la ejecución del contrato.
+2. En caso de que se emitan nuevas normativas durante la vigencia del contrato, el 
+adjudicatario deberá adaptarse a las mismas, previa revisión y acuerdo con el 
+Ayuntamiento de Burgos.
+
+--- página 19 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+19
+Tecnologías de la Información y 
+Comunicaciones
+8. Anexo I – Protección de datos
+8.1. Relación de tratamientos afectados
+Código Denominación Lote Sistema Categoría 
+especial
+Riesgo
+T-01 Firma electrónica 
+biométrica de documentos 
+en la oficina de atención al 
+contribuyente
+1 Solución de firma 
+sobre tableta
+Sí (datos 
+biométricos, art. 
+9)
+Alto
+T-02 Control de presencia y 
+registro de jornada
+2 Aplicación de 
+control horario y 
+terminales
+No, al no usarse 
+biometría
+Medio
+T-03 Gestión de permisos, 
+vacaciones y ausencias
+2 Portal del empleado 
+y módulo de gestión
+Sí, de forma 
+indirecta (salud; 
+afiliación sindical)
+Alto
+T-04 Soporte técnico, 
+administración de sistemas 
+y trazabilidad
+1 y 2 Herramienta de 
+tickets, accesos 
+remotos, registros de 
+auditoría
+No Medio
+T-04 se recoge de forma separada porque es un tratamiento real: el encargado trata datos 
+personales de las personas usuarias que abren incidencias, de las personas técnicas que acceden y 
+de las trazas de acceso, con una finalidad distinta de la del tratamiento principal y con plazos de 
+conservación propios.
+8.2. Reglas comunes a todos los tratamientos
+Las siguientes instrucciones son comunes a T-01 a T-04 y no se repiten en cada ficha:
+1. Alcance de la instrucción. El encargado tratará los datos exclusivamente para ejecutar las 
+prestaciones del contrato. Cualquier operación no prevista en la ficha correspondiente 
+requiere instrucción escrita previa del responsable.
+2. Prohibiciones absolutas. Quedan prohibidos, sin excepción y sin posibilidad de 
+autorización tácita: el uso de los datos para fines propios; su uso para entrenamiento, 
+ajuste o evaluación de modelos de inteligencia artificial; la elaboración de estadísticas 
+comerciales o sectoriales, incluso agregadas o anonimizadas; la cesión a terceros; y la 
+conservación de copias más allá de lo previsto en la ficha.
+3. Datos en entornos de prueba. Las pruebas se realizarán con datos sintéticos o 
+anonimizados. El uso de datos reales requiere autorización expresa y motivada, se limitará 
+al tiempo imprescindible y exigirá seudonimización previa y supresión certificada al 
+término.
+4. Minimización del acceso. El acceso se concederá por perfiles, con mínimo privilegio y por 
+el tiempo estrictamente necesario. El encargado mantendrá la relación nominativa 
+actualizada del personal con acceso a cada tratamiento y la revisará trimestralmente.
+
+--- página 20 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+20
+Tecnologías de la Información y 
+Comunicaciones
+5. Subencargados. Ninguna de las operaciones descritas podrá subcontratarse sin 
+autorización previa, específica y por escrito. La relación autorizada figura en el apartado 
+10.1.
+6. Ubicación. Todas las operaciones se realizarán dentro del Espacio Económico Europeo, 
+incluidos el soporte remoto y el almacenamiento de copias de seguridad. La declaración de 
+ubicación figura en el apartado 10.2.
+7. Brechas. Notificación al responsable y al delegado de protección de datos en un plazo 
+máximo de veinticuatro horas desde el conocimiento, con el contenido del apartado 10.4.
+8. Terminación. Devolución o supresión certificada conforme al apartado 10.5, en los plazos 
+de cada ficha.
+
+--- página 21 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+21
+Tecnologías de la Información y 
+Comunicaciones
+8.3. Ficha T-01 — Firma electrónica biométrica de documentos
+8.3.1. Identificación
+Campo Contenido
+Código del 
+tratamiento
+T-01
+Lote 1
+Tratamiento 
+municipal de 
+referencia
+[RAT-Firma]
+Sistema Solución de firma electrónica biométrica sobre tabletas de captura de firma 
+manuscrita digitalizada, desplegada en la oficina de atención al 
+contribuyente e integrada con los sistemas de gestión documental y 
+tramitación electrónica
+Unidad 
+responsable
+UNIDAD: Oficina de atención al contribuyente BAC / OGTyT
+8.3.2. Finalidad
+Formalización mediante firma electrónica de documentos administrativos suscritos 
+presencialmente por las personas interesadas en la oficina de atención al contribuyente: 
+solicitudes, declaraciones, comparecencias, autorizaciones de representación, domiciliaciones, 
+acuses de recibo y notificaciones en papel sustituidas por soporte electrónico.
+Finalidad secundaria y subordinada: acreditación pericial de la autoría de la firma en caso de 
+impugnación del documento. Esta es la única finalidad que justifica la conservación del 
+componente biométrico y debe hacerse constar así.
+8.3.3. Base jurídica
+Del tratamiento en general (artículo 6 RGPD): artículo 6.1.e —cumplimiento de una misión 
+realizada en interés público o en el ejercicio de poderes públicos— en relación con los artículos 9 a 
+11, 26, 27 y 66 de la Ley 39/2015, con el artículo 8 de la LOPDGDD y con la normativa tributaria y de 
+recaudación aplicable.
+Del componente biométrico (artículo 9 RGPD): La captura de firma sobre tableta registra datos 
+dinámicos: presión, velocidad, aceleración, secuencia y puntos de inflexión del trazo que 
+constituyen un patrón biométrico conductual. Conforme a las Directrices 5/2022 del Comité 
+Europeo de Protección de Datos y a la doctrina de la AEPD, cuando esos datos se tratan con la 
+finalidad de identificar o verificar de forma unívoca a una persona física, son categoría especial del 
+artículo 9.1 y su tratamiento está prohibido salvo que concurra una excepción del artículo 9.2. Via 
+utilizada:
+
+--- página 22 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+22
+Tecnologías de la Información y 
+Comunicaciones
+Vía Fundamento Valoración
+A. 
+Consentimiento 
+explícito (art. 
+9.2.a)
+La persona consiente 
+firmar en tableta con 
+captura biométrica, 
+disponiendo de 
+alternativa real
+Exige alternativa efectiva y sin penalización (firma 
+manuscrita en papel, firma con certificado 
+electrónico o asistencia de funcionario habilitado 
+conforme al art. 12 de la Ley 39/2015), información 
+previa reforzada sobre el carácter biométrico y los 
+riesgos, y registro del consentimiento. Si no hay 
+alternativa real, el consentimiento no es libre y esta 
+vía decaería.
+8.3.4. Categorías de interesados
+• Personas físicas contribuyentes y obligados tributarios que comparecen en la oficina.
+• Representantes legales y voluntarios de personas físicas y jurídicas.
+• Personas autorizadas para la presentación o retirada de documentación.
+• Personal municipal que interviene en la diligencia de firma, en su caso.
+8.3.5. Categorías de datos
+Categoría Datos concretos Observaciones
+Identificativos Nombre y apellidos, documento de identidad, 
+firma manuscrita digitalizada (imagen)
+De contacto Domicilio, teléfono, correo electrónico, según 
+el documento firmado
+Proceden del documento, 
+no de la firma
+Biométricos 
+(categoría especial, 
+art. 9)
+Datos dinámicos del trazo: presión, velocidad, 
+aceleración, tiempo, secuencia y puntos de 
+inflexión; plantilla biométrica resultante
+Núcleo del riesgo del 
+tratamiento. Ver apartados 
+8.3.3 y 8.3.8
+Económicos y 
+tributarios
+Los contenidos en el documento firmado: 
+deudas, liquidaciones, domiciliaciones, datos 
+bancarios
+Su tratamiento por el 
+encargado es incidental
+Trazas Identificador de la sesión de firma, fecha y 
+hora, puesto, terminal, identificador del 
+documento
+Ver T-04
+
+--- página 23 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+23
+Tecnologías de la Información y 
+Comunicaciones
+8.3.6. Operaciones que realiza el encargado
+Operación ¿La realiza? Alcance y límites
+Recogida No La recogida la realiza el personal municipal mediante el 
+dispositivo
+Registro y 
+estructuración
+Sí Generación de la evidencia de firma y su vinculación al 
+documento
+Conservación Sí, limitada Sólo durante el tiempo técnicamente necesario para la 
+generación y entrega de la evidencia, y en copias de 
+seguridad conforme al apartado 8.3.8
+Consulta Sí, 
+excepcional
+Únicamente para diagnóstico de incidencias, con 
+autorización previa y registro
+Modificación No Prohibida. La alteración de una evidencia de firma invalida el 
+documento
+Comunicación por 
+transmisión
+Sí Exclusivamente hacia los sistemas municipales de gestión 
+documental y tramitación
+Cotejo o 
+interconexión
+No Prohibida la comparación de plantillas entre sí o contra 
+cualquier base
+Supresión Sí Conforme al apartado 8.3.8 y al plan de reversibilidad
+Copias de 
+seguridad
+Sí Cifradas, dentro del EEE, con el mismo plazo de conservación
+Extracción a 
+entornos propios
+No Prohibida salvo autorización expresa conforme a la regla 
+común 1.3.3
+8.3.7. Destinatarios y comunicaciones
+No se prevén cesiones a terceros derivadas de este tratamiento. Los documentos firmados se 
+incorporan al expediente administrativo y siguen el régimen de comunicaciones propio de este 
+(Administración tributaria, órganos de recaudación, órganos judiciales a requerimiento).
+La plantilla biométrica no se comunicará a ningún tercero, salvo a peritos designados judicialmente 
+o por el propio Ayuntamiento en el marco de un procedimiento de impugnación, y en ese caso 
+mediante entrega documentada.
+8.3.8. Plazos de conservación
+Aquí se produce la decisión más relevante del tratamiento, y conviene separar dos elementos que 
+habitualmente se confunden:
+
+--- página 24 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+24
+Tecnologías de la Información y 
+Comunicaciones
+Elemento Plazo propuesto Fundamento
+Documento 
+firmado y firma 
+visible
+El que corresponda a la serie 
+documental conforme a su 
+calendario y a la normativa de 
+archivos; en su caso, 
+conservación permanente
+El documento es parte del expediente 
+administrativo y no se rige por criterios de 
+minimización biométrica
+Sello de tiempo y 
+registro de 
+auditoría de la 
+firma
+Igual que el documento Sostienen su valor probatorio
+Plantilla 
+biométrica
+Propuesta: seis (6) años desde la 
+firma, con supresión automática 
+posterior
+Es el único elemento de categoría 
+especial. Su finalidad —peritaje ante 
+impugnación— se agota con los plazos 
+de prescripción tributaria y de las 
+acciones civiles ordinarias
+Copias de 
+seguridad
+Máximo treinta (30) días de 
+retención adicional
+Debe verificarse que el ciclo de copias no 
+perpetúe plantillas ya suprimidas
+Datos en poder 
+del encargado
+Supresión inmediata tras la 
+entrega de la evidencia al sistema 
+municipal, salvo copias de 
+seguridad
+El encargado no es depositario de la 
+evidencia
+Por qué importa la separación: conservar la plantilla biométrica durante el mismo plazo que el 
+documento —que puede ser permanente— convierte un tratamiento acotado en un archivo 
+biométrico indefinido de la ciudadanía. La supresión programada de la plantilla, manteniendo el 
+documento y su firma visible, conserva íntegro el valor administrativo del documento y elimina el 
+activo de mayor riesgo. Si el Ayuntamiento opta por un plazo distinto, debe justificarlo en la EIPD.
+8.3.9. Sistemas y ubicación
+Elemento Descripción A completar por el licitador
+Puestos de captura Tabletas de firma en la oficina de 
+atención al contribuyente, máximo 
+diez simultáneamente activas
+—
+Software cliente y 
+controladores
+Instalados en puestos municipales Versión y requisitos
+Servicio de firma Servicio prestado en modalidad de 
+nube
+Ubicación de los centros de 
+proceso de datos, país y 
+proveedor de infraestructura
+Almacenamiento de 
+la plantilla
+[A determinar: en el documento, en el 
+servicio, o en repositorio municipal]
+Descripción del modelo de 
+almacenamiento y del esquema 
+de cifrado
+Custodia de claves 
+de descifrado
+Ayuntamiento o tercero de confianza 
+designado por él
+Mecanismo técnico que lo 
+garantiza
+Soporte remoto Desde el EEE, con MFA, identificación 
+nominativa y grabación de sesión
+Ubicación del centro de soporte
+Copias de seguridad Dentro del EEE, cifradas Ubicación y periodicidad
+
+--- página 25 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+25
+Tecnologías de la Información y 
+Comunicaciones
+Transferencias internacionales: no autorizadas. Cualquier cambio de ubicación exige comunicación 
+con sesenta días de antelación y autorización expresa, conforme al apartado 6.2.
+8.3.10. Medidas de seguridad específicas
+Además de las derivadas de la categorización ENS del Anexo II (apartado 9):
+1. Cifrado de la plantilla biométrica en reposo y en tránsito, con algoritmo y longitud de clave 
+conformes a las guías CCN-STIC aplicables.
+2. Claves de descifrado bajo control exclusivo del Ayuntamiento o de un tercero de confianza 
+designado por él, de modo que el encargado no pueda acceder al contenido biométrico en 
+claro.
+3. Implementación de la capacidad de revocar el vínculo entre la plantilla y la persona física.
+4. Imposibilidad técnica de utilizar la plantilla para identificación uno-a-muchos o para 
+autenticación en cualquier otro contexto.
+5. Registro de toda consulta o extracción de plantillas, con conservación de veinticuatro 
+meses.
+6. Información previa reforzada a la persona firmante, en cartelería y verbalmente, sobre el 
+carácter biométrico de la captura, sobre la existencia de alternativa y sobre el plazo de 
+conservación.
+8.3.11. Evaluación de impacto
+Obligatoria, conforme al artículo 35.3.b del RGPD y a los criterios de la AEPD sobre tratamientos 
+que requieren EIPD. Debe acreditar el triple juicio de idoneidad, necesidad y proporcionalidad, y 
+pronunciarse expresamente sobre:
+• La excepción del artículo 9.2 aplicable y su sostenibilidad.
+• La existencia y efectividad de la alternativa no biométrica.
+• El plazo de conservación de la plantilla.
+• El modelo de custodia de claves.
+• La necesidad, o no, de consulta previa a la AEPD conforme al artículo 36 del RGPD si el 
+riesgo residual siguiera siendo alto.
+
+--- página 26 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+26
+Tecnologías de la Información y 
+Comunicaciones
+8.4. Ficha T-02 — Control de presencia y registro de jornada
+8.4.1. Identificación
+Campo Contenido
+Código del tratamiento T-02
+Lote 2
+Tratamiento municipal de 
+referencia
+[RAT-Presencia]
+Sistema Aplicación de control de presencia, terminales de fichaje, portal del 
+empleado y módulo de servicios web
+Unidad responsable UNIDAD: Servicio de Personal
+8.4.2. Finalidad
+1. Cumplimiento de la obligación legal de registro diario de jornada.
+2. Cómputo de la jornada efectiva, saldos horarios, horas extraordinarias y servicios 
+extraordinarios.
+3. Control de puntualidad, absentismo y cumplimiento del horario, con las garantías del 
+artículo 20.3 del Estatuto de los Trabajadores y de la normativa de función pública.
+4. Soporte al cálculo de conceptos retributivos vinculados a la jornada y a la presencia.
+5. Puesta a disposición del registro a la persona trabajadora, a la representación legal del 
+personal y a la Inspección de Trabajo y Seguridad Social.
+8.4.3. Base jurídica
+Base Norma
+Artículo 6.1.c: cumplimiento 
+de una obligación legal
+Artículo 34.9 del Estatuto de los Trabajadores y Real Decreto-ley 
+8/2019; normativa de jornada aplicable al personal funcionario.
+Artículo 6.1.b: ejecución del 
+contrato de trabajo
+Para el personal laboral
+Artículo 6.1.e: misión en 
+interés público
+Organización de los servicios municipales y gestión del personal 
+al servicio de la Administración
+Artículo 88 LOPDGDD Derecho a la desconexión digital, que condiciona el uso de los 
+datos de fichaje fuera de jornada
+No concurre tratamiento de categorías especiales, siempre que el sistema no emplee biometría. El 
+apartado 6.2 lo prohíbe expresamente.
+8.4.4. Categorías de interesados
+• Personal funcionario de carrera e interino.
+• Personal laboral fijo, indefinido no fijo y temporal.
+• Personal eventual y de confianza, en su caso.
+• Personal en prácticas, becarios y personal en formación.
+• Miembros de la representación legal del personal, en cuanto al crédito horario sindical.
+• Personal de empresas contratistas, únicamente si utiliza el sistema por razones de control 
+de acceso, lo que debe evitarse o, en su caso, documentarse.
+
+--- página 27 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+27
+Tecnologías de la Información y 
+Comunicaciones
+8.4.5. Categorías de datos
+Categoría Datos concretos
+Identificativos y de relación 
+de servicio
+Nombre y apellidos, documento de identidad, número de 
+empleado, puesto, unidad, centro de trabajo, tipo de vínculo, 
+jornada asignada, calendario aplicable
+De credencial Identificador de tarjeta, PIN, usuario, contraseña cifrada, 
+identificador de dispositivo
+De registro de jornada Fecha y hora de inicio y fin de jornada, pausas, incidencias de 
+fichaje, tipo de marcaje, terminal utilizado, modalidad presencial o a 
+distancia
+De cómputo Saldos horarios, horas realizadas, exceso y defecto de jornada, horas 
+extraordinarias, servicios extraordinarios
+De localización, en su caso Terminal o centro desde el que se ficha. Si se emplea fichaje 
+mediante aplicación móvil con geolocalización, este dato exige 
+justificación específica y, muy probablemente, EIPD
+Datos que revelan 
+indirectamente información 
+sensible
+El crédito horario sindical revela afiliación sindical (art. 9.1 RGPD). 
+Determinadas ausencias registradas en este módulo pueden revelar 
+salud. Ver ficha T-03
+Advertencia: el crédito horario sindical se registra en el sistema de presencia, no en el de permisos. 
+Es un dato de categoría especial que revela afiliación sindical y suele pasar inadvertido en los 
+análisis. Su tratamiento se ampara en el artículo 9.2.b del RGPD —cumplimiento de obligaciones en 
+el ámbito del Derecho laboral— pero exige restricción de acceso por perfiles: no debe ser visible 
+para mandos intermedios que no lo necesiten.
+
+--- página 28 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+28
+Tecnologías de la Información y 
+Comunicaciones
+8.4.6. Operaciones que realiza el encargado
+Operación ¿La realiza? Alcance y límites
+Recogida No La realizan las personas trabajadoras mediante terminal o 
+portal
+Registro y 
+estructuración
+Sí A través del funcionamiento ordinario de la aplicación 
+mantenida
+Conservación Sí En la infraestructura donde se aloje la aplicación, conforme 
+al apartado 8.4.9
+Consulta Sí, limitada Para diagnóstico, corrección de errores de cálculo y 
+mantenimiento preventivo, con autorización y registro
+Modificación Sí, 
+excepcional
+Únicamente corrección de datos erróneos por fallo técnico, 
+con autorización expresa, traza completa y comunicación al 
+responsable. Toda modificación deja registro inalterable
+Extracción y 
+generación de 
+informes
+Sí, a petición Sólo a solicitud del responsable y para los fines del contrato
+Migración y 
+actualización de 
+versión
+Sí Con validación previa y plan de vuelta atrás
+Cotejo o 
+interconexión
+No Prohibido cruzar estos datos con cualesquiera otros
+Supresión Sí Conforme al apartado 8.4.9
+Copias de seguridad Sí Cifradas, dentro del EEE
+Instrucción reforzada sobre integridad: El registro de jornada es un medio de prueba frente a la 
+Inspección de Trabajo y en eventuales procedimientos disciplinarios o retributivos. El encargado 
+no podrá alterar un registro sin dejar traza de autor, fecha, valor anterior y motivo, ni suprimir 
+registros bajo ninguna circunstancia. La capacidad técnica de borrado sin traza, si existiera en el 
+producto, deberá deshabilitarse y así acreditarse.
+8.4.7. Destinatarios y comunicaciones
+Destinatario Fundamento
+La propia persona trabajadora Artículo 34.9 ET y artículo 15 RGPD
+Representación legal del personal Artículo 34.9 ET y Disposición adicional tercera 
+del RD-ley 8/2019
+Inspección de Trabajo y Seguridad Social Artículo 34.9 ET; obligación legal
+Tesorería General de la Seguridad Social y 
+Administración tributaria
+En lo que afecte a retribuciones
+Órganos judiciales y Ministerio Fiscal A requerimiento
+Intervención y Tesorería municipales Fiscalización de retribuciones variables
+El encargado no realiza comunicaciones por sí mismo. Si recibiera un requerimiento directo de un 
+tercero, incluida una autoridad, lo trasladará al responsable en veinticuatro horas y no lo atenderá 
+
+--- página 29 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+29
+Tecnologías de la Información y 
+Comunicaciones
+salvo obligación legal que le vincule directamente, en cuyo caso informará previamente al 
+responsable si el Derecho aplicable lo permite.
+8.4.8. Sistemas y ubicación
+Elemento Descripción A completar
+Aplicación y 
+base de datos
+Instalación sobre gestor SQL u 
+Oracle, licencia hasta 3.000 
+usuarios activos
+Modelo de despliegue: instalación en 
+dependencias municipales o alojamiento 
+del contratista
+Portal del 
+empleado
+Aplicación web accesible al 
+personal
+Ubicación y exposición a Internet
+Módulo de 
+servicios web
+Integración con sistemas 
+municipales de personal y 
+directorio corporativo
+Sistemas conectados y datos 
+intercambiados
+Terminales de 
+fichaje
+Dispositivos físicos en centros 
+municipales
+Relación e inventario
+Soporte remoto Desde el EEE, con MFA y 
+grabación de sesión
+Ubicación del centro de soporte
+Copias de 
+seguridad
+Cifradas, dentro del EEE Ubicación, periodicidad y retención
+La aplicación está alojada en dependencias municipales, por lo que el encargado trata datos 
+únicamente cuando accede en remoto, lo que reduce notablemente el riesgo.
+8.4.9. Plazos de conservación
+Elemento Plazo Fundamento
+Registro diario de 
+jornada
+Cuatro (4) años desde cada registro Artículo 34.9 del Estatuto 
+de los Trabajadores
+Saldos y cómputos 
+derivados
+Cuatro (4) años, salvo que sostengan 
+conceptos retributivos en revisión
+Coherencia con el anterior 
+y plazos de prescripción 
+de acciones
+Datos identificativos y 
+de relación de 
+servicio
+Mientras subsista el vínculo y, después, el 
+plazo de prescripción de las acciones 
+derivadas y el que determine la normativa de 
+archivos
+Expediente personal
+Crédito horario 
+sindical
+Cuatro (4) años Régimen del registro de 
+jornada
+Credenciales y 
+tarjetas
+Supresión o desactivación en las 24 horas 
+siguientes a la baja o al cese del acceso
+Minimización
+Datos en poder del 
+encargado
+Ninguna conservación autónoma; supresión 
+al cierre de cada actuación de soporte
+Ver T-04 para trazas
+Copias de seguridad Retención máxima declarada por el 
+contratista, no superior a doce (12) meses
+Debe garantizarse que la 
+supresión se propaga
+Nota sobre el plazo de cuatro años: es un plazo mínimo legal de conservación, no un plazo máximo 
+autorizado indefinidamente. Transcurrido, los registros deben suprimirse o bloquearse salvo que 
+
+--- página 30 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+30
+Tecnologías de la Información y 
+Comunicaciones
+exista un procedimiento abierto que justifique su mantenimiento. La práctica de conservar 
+indefinidamente todo el histórico de fichajes carece de base jurídica y es una de las observaciones 
+más frecuentes en auditorías.
+Advertencia de futuro: El real decreto de registro horario digital en tramitación puede modificar 
+tanto el plazo como los requisitos de formato, inmutabilidad e interoperabilidad. El apartado 5.4.7 
+obliga al contratista a adaptarse sin coste; este anexo deberá actualizarse cuando la norma se 
+publique.
+
+--- página 31 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+31
+Tecnologías de la Información y 
+Comunicaciones
+8.5. Ficha T-03 — Gestión de permisos, vacaciones y ausencias
+8.5.1. Identificación
+Campo Contenido
+Código del tratamiento T-03
+Lote 2
+Tratamiento municipal de 
+referencia
+[RAT-Personal]
+Sistema Módulo de gestión de permisos y vacaciones y portal del 
+empleado
+Unidad responsable UNIDAD: Servicio de Personal
+Se separa de T-02 porque, aunque comparten aplicación, difieren en categorías de datos, base 
+jurídica, régimen de acceso y plazos de conservación. Tratarlos como uno solo es lo que provoca 
+que los datos de salud queden sin análisis específico.
+8.5.2. Finalidad
+Tramitación, autorización, registro y control de las solicitudes de vacaciones, permisos, licencias, 
+reducciones de jornada, flexibilidad horaria y ausencias del personal municipal, así como el control 
+de los saldos y cupos correspondientes.
+8.5.3. Base jurídica
+Base Norma
+Artículo 6.1.c Real Decreto Legislativo 5/2015 (EBEP), artículos 48 a 51; Estatuto de los 
+Trabajadores; Ley Orgánica 3/2007; normativa de conciliación y de 
+prevención de riesgos laborales
+Artículo 6.1.b y 6.1.e Ejecución de la relación de servicio y organización del servicio público
+Artículo 9.2.b para datos 
+que revelan salud o 
+afiliación sindical
+Cumplimiento de obligaciones y ejercicio de derechos específicos en el 
+ámbito del Derecho laboral y de la seguridad y protección social, con las 
+garantías de los convenios, acuerdos y del artículo 9.2 de la LOPDGDD
+8.5.4. Categorías de interesados
+Las mismas de T-02. Se añaden, cuando el tipo de permiso lo requiere:
+• Familiares de la persona empleada: cónyuge o pareja, hijos e hijas, ascendientes y demás 
+parientes hasta el grado que determine la normativa aplicable, en los permisos por 
+nacimiento, cuidado, fallecimiento, enfermedad grave y hospitalización.
+• Personas a cargo en situación de dependencia o discapacidad.
+• Menores en supuestos de acogimiento y adopción.
+Advertencia: Los datos de familiares son datos de terceros que no tienen relación con el 
+Ayuntamiento y que, en muchos casos, revelan su estado de salud. Deben registrarse con el 
+mínimo detalle posible —relación de parentesco y grado, no identidad completa ni diagnóstico— 
+y esa minimización debe estar parametrizada en la aplicación, no confiada al criterio de quien 
+tramita.
+
+--- página 32 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+32
+Tecnologías de la Información y 
+Comunicaciones
+8.5.5. Categorías de datos
+Categoría Datos concretos Sensibilidad
+Identificativos y 
+de relación de 
+servicio
+Los de T-02 Ordinaria
+De solicitud Tipo de permiso o licencia, fecha de solicitud, fechas de 
+disfrute, días consumidos y disponibles, estado de la 
+solicitud, autorización o denegación y motivación
+Ordinaria
+Que revelan salud 
+de forma indirecta
+Incapacidad temporal y su duración; permisos por 
+enfermedad grave, hospitalización o intervención de 
+familiar; ausencias por asistencia a consulta médica; 
+adaptaciones de jornada por motivos de salud; permisos 
+por tratamiento de fertilidad; permisos por violencia de 
+género
+Categoría especial 
+(art. 9.1)
+Que revelan salud 
+de un tercero
+Cuidado de hijo con enfermedad grave, cuidado de 
+familiar dependiente, permiso por discapacidad de 
+familiar
+Categoría especial 
+de un tercero
+Que revelan 
+afiliación sindical
+Crédito horario sindical, permisos por actividad sindical, 
+participación en órganos de representación
+Categoría especial 
+(art. 9.1)
+Que revelan 
+situación familiar
+Nacimiento, adopción, acogimiento, matrimonio o 
+pareja de hecho, familia numerosa, monoparentalidad
+Ordinaria con 
+riesgo elevado
+Especialmente 
+protegidos por su 
+contexto
+Permisos derivados de situaciones de violencia de 
+género o violencia sexual
+Máximo riesgo. 
+Ver advertencia
+Documental Justificantes adjuntos por la persona solicitante Riesgo de 
+sobreexposición
+Advertencia sobre violencia de género: la normativa reconoce permisos, reducciones de jornada y 
+movilidad por esta causa. La existencia de un registro en el sistema revela una circunstancia cuya 
+divulgación puede poner en riesgo la integridad física de la persona. Instrucción obligatoria: estos 
+permisos deben registrarse bajo una categoría genérica que no revele la causa, con acceso 
+restringido a un perfil nominativo mínimo del Servicio de Personal, y quedar excluidos de cualquier 
+informe, listado o exportación estándar. Debe verificarse que la aplicación lo permite; si no lo 
+permite, debe tramitarse fuera del sistema.
+Advertencia sobre justificantes: el portal del empleado admite adjuntar documentos por lo que 
+puede que las personas adjunten partes médicos completos con diagnóstico, informes 
+hospitalarios y documentación judicial. Eso convierte un módulo de gestión de permisos en un 
+repositorio de datos de salud. Instrucciones: limitar los tipos de permiso que admiten adjunto; 
+informar de que no debe aportarse diagnóstico; establecer supresión del adjunto una vez validado, 
+conservando únicamente la constancia de la validación.
+8.5.6. Operaciones que realiza el encargado
+Las mismas de T-02, con los siguientes límites reforzados:
+
+--- página 33 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+33
+Tecnologías de la Información y 
+Comunicaciones
+Operación Límite específico
+Consulta Prohibida la consulta de datos de permisos por motivos de salud, violencia de 
+género o actividad sindical, salvo que la incidencia lo haga estrictamente 
+imprescindible, con autorización nominativa previa del responsable del contrato, 
+presencia de personal municipal durante la sesión y registro completo
+Extracción de 
+informes
+Los informes que solicite el Ayuntamiento no incluirán la causa concreta del 
+permiso cuando esta revele categorías especiales, salvo requerimiento expreso y 
+motivado
+Entornos de 
+prueba
+Prohibido en términos absolutos el uso de datos reales de este módulo en 
+entornos de prueba, incluso seudonimizados
+Migraciones Con cifrado extremo a extremo y verificación de integridad; los ficheros 
+intermedios se suprimen en las 24 horas siguientes a la validación
+8.5.7. Destinatarios
+Los de T-02 y además: entidades gestoras y colaboradoras de la Seguridad Social; servicio de 
+prevención de riesgos laborales, en lo estrictamente necesario; y órganos de representación del 
+personal, exclusivamente en información agregada y no identificativa, salvo competencia legal 
+específica.
+8.5.8. Plazos de conservación
+Elemento Plazo
+Solicitudes y autorizaciones 
+de permisos y vacaciones
+Mientras subsista la relación de servicio y cuatro (4) años más; 
+después, el que determine la normativa de archivos para el 
+expediente personal
+Justificantes con datos de 
+salud
+Supresión en el plazo máximo de tres (3) meses desde la validación, 
+conservando únicamente la constancia de que el permiso fue 
+validado y por qué tipo
+Datos de permisos por 
+violencia de género
+Conservación mínima imprescindible, con bloqueo desde la 
+finalización del permiso y acceso sujeto a autorización nominativa
+Datos de familiares Supresión cuando decaiga la finalidad que justificó su recogida
+Crédito horario sindical Cuatro (4) años
+8.5.9. Evaluación de impacto
+Recomendada. El tratamiento combina categorías especiales, tratamiento a gran escala en el 
+contexto de una relación de subordinación laboral y datos de terceros vulnerables. Conforme a los 
+criterios de la AEPD, la concurrencia de dos o más factores de riesgo activa la obligación del 
+artículo 35. Debe valorarse conjuntamente con la EIPD de T-01 o de forma independiente, a criterio 
+del DPD.
+
+--- página 34 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+34
+Tecnologías de la Información y 
+Comunicaciones
+8.6. Ficha T-04 — Soporte técnico, administración y trazabilidad
+8.6.1. Identificación y finalidad
+Campo Contenido
+Código del 
+tratamiento
+T-04
+Lotes 1 y 2
+Sistema Herramienta de gestión de incidencias del contratista, sistemas de acceso 
+remoto, registros de auditoría de los sistemas municipales
+Finalidad: gestión de las incidencias, consultas y peticiones de servicio; identificación y 
+autenticación del personal técnico que accede a los sistemas; registro de la actividad realizada; y 
+acreditación del cumplimiento de los niveles de servicio y de las obligaciones de seguridad.
+Este tratamiento existe siempre, aunque casi nunca se documenta. Sin él, ni el contratista puede 
+prestar el soporte ni el Ayuntamiento puede auditar lo que ha ocurrido en sus sistemas.
+8.6.2. Base jurídica y categorías de interesados
+Base jurídica: artículo 6.1.e (misión en interés público, en cuanto es instrumental de T-01 a T-03) y 
+artículo 6.1.c en lo relativo a los registros de auditoría exigidos por el ENS y por el artículo 32 del 
+RGPD.
+Interesados: personas usuarias designadas del Ayuntamiento que registran incidencias; personal 
+del Servicio TIC; personal técnico del contratista y de sus subencargados autorizados; y, de forma 
+incidental, cualquier persona cuyos datos aparezcan en la descripción de una incidencia o en una 
+captura de pantalla adjunta.
+8.6.3. Categorías de datos
+Categoría Datos
+Identificativos 
+profesionales
+Nombre, puesto, unidad, correo electrónico y teléfono corporativos
+De la incidencia Descripción, criticidad, sistema afectado, fecha y hora de registro, 
+respuesta y resolución, actuaciones realizadas, tiempo empleado
+De acceso Identificador de la persona técnica, fecha, hora, duración, origen, 
+sistema accedido, acciones ejecutadas, grabación de sesión
+De trazabilidad Registros de auditoría de los sistemas mantenidos
+Incidentales de 
+riesgo
+Datos personales de terceros incluidos en descripciones de 
+incidencias, capturas de pantalla, volcados de memoria, trazas de 
+error o extractos de base de datos
+Instrucción específica sobre datos incidentales: es el punto débil habitual: la persona usuaria 
+adjunta una captura de pantalla con la ficha de un empleado, o el técnico adjunta un volcado con 
+registros reales. Instrucciones obligatorias: la herramienta de tickets no debe usarse para transmitir 
+datos personales; los adjuntos que los contengan se suprimirán al cierre de la incidencia; el 
+
+--- página 35 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+35
+Tecnologías de la Información y 
+Comunicaciones
+intercambio de datos reales necesarios para el diagnóstico se realizará por canal cifrado específico 
+y con supresión certificada al término.
+8.6.4. Operaciones, conservación y ubicación
+Elemento Contenido
+Operaciones Recogida, registro, conservación, consulta, comunicación 
+interna al equipo asignado y supresión
+Tickets e incidencias Conservación de tres (3) años desde el cierre, para 
+acreditar niveles de servicio y sostener reclamaciones
+Registros de acceso remoto y 
+grabaciones de sesión
+Veinticuatro (24) meses, conforme al apartado 5.4.2
+Registros de auditoría de los 
+sistemas
+El que determine la categoría ENS y la política de 
+seguridad municipal; no inferior a veinticuatro meses
+Adjuntos con datos personales Supresión al cierre de la incidencia
+Ubicación Herramienta de tickets y centro de soporte dentro del 
+EEE; declaración en el apartado 10.2
+Acceso del Ayuntamiento De consulta en tiempo real y con exportación de datos 
+crudos
+
+--- página 36 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+36
+Tecnologías de la Información y 
+Comunicaciones
+9. Anexo II – Categorización de los sistemas conforme al Esquema Nacional de Seguridad
+9.1. Alcance de la certificación de conformidad
+Lote 1: El alcance de la certificación de conformidad con el ENS deberá cubrir al menos los sistemas 
+de información que dan soporte a los servicios de firma electrónica multicanal incluyendo la firma 
+manuscrita electrónica. Categoría ALTA.
+Lote 2: El alcance de la certificación deberá cubrir al menos los sistemas de información que 
+soportan los servicios HW y SW de control de accesos y control presencia en la instalación on-
+premise. Categoría MEDIA.
+9.2. Metodología y advertencia previa
+La categorización se realiza conforme al Anexo I del Real Decreto 311/2022, valorando el impacto 
+que tendría sobre la organización un incidente que afectara a cada una de las cinco dimensiones 
+de seguridad —disponibilidad, integridad, confidencialidad, autenticidad y trazabilidad— en los 
+tipos de información tratados y en los servicios prestados. Como apoyo metodológico se utiliza la 
+guía CCN-STIC 803 sobre valoración de sistemas.
+Cada dimensión se valora en tres niveles: bajo, medio y alto. La categoría del sistema es la del nivel 
+más alto alcanzado por cualquiera de sus dimensiones: basta una dimensión en nivel alto para que 
+el sistema sea de categoría alta.
+9.3. Lote 1 — Sistema de firma electrónica biométrica
+9.3.1. Tipos de información y servicios
+Elemento Descripción
+Información 
+tratada
+Documentos administrativos firmados con efectos frente a terceros; 
+evidencias de firma; datos personales de categoría especial (biométricos); 
+datos tributarios
+Servicio 
+prestado
+Formalización de la voluntad de las personas interesadas en la atención 
+presencial, sustituyendo la firma en papel
+9.3.2. Valoración: dos escenarios
+La valoración depende de una decisión de diseño aún abierta —si se almacena o no la plantilla 
+biométrica y bajo qué esquema de claves—.
+Escenario A: se almacena plantilla biométrica accesible en el ámbito del sistema
+
+--- página 37 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+37
+Tecnologías de la Información y 
+Comunicaciones
+Dimensión Nivel Justificación
+Disponibilidad Medio La indisponibilidad impide firmar en la oficina y obliga a recurrir al 
+papel, con perjuicio apreciable en la atención pero con alternativa 
+operativa
+Integridad Alto La alteración de una evidencia de firma invalida el documento y 
+puede causar perjuicio grave a la persona interesada y a la función 
+recaudatoria
+Confidencialidad Alto Se trata información de categoría especial. La revelación de plantillas 
+biométricas causa un perjuicio grave e irreversible: a diferencia de 
+una credencial, un rasgo biométrico no puede sustituirse
+Autenticidad Alto Toda la utilidad del sistema reside en acreditar quién firmó. Su 
+compromiso permitiría atribuir a una persona una declaración que no 
+realizó
+Trazabilidad Alto Sin traza no puede acreditarse la autoría ni defenderse el documento 
+ante impugnación
+Categoría del 
+sistema
+ALTA Determinada por las dimensiones en nivel alto
+Escenario B: no se almacena plantilla, o se almacena cifrada con clave fuera del alcance del 
+sistema y del encargado
+Dimensión Nivel Justificación
+Disponibilidad Medio Igual que en el escenario A
+Integridad Alto Igual que en el escenario A: la evidencia de firma sigue siendo el 
+elemento crítico
+Confidencialidad Medio El compromiso del sistema no expone material biométrico 
+explotable. Persiste la exposición a datos tributarios contenidos en 
+los documentos
+Autenticidad Alto Igual que en el escenario A
+Trazabilidad Alto Igual que en el escenario A
+Categoría del 
+sistema
+ALTA Alta por integridad, autenticidad y trazabilidad
+9.3.3. Lectura del resultado
+El lote 1 es de categoría ALTA:
+Qué cambia según el escenario: aunque la categoría sea alta en los dos casos, el escenario B reduce 
+sustancialmente el riesgo residual, las medidas de protección de la información exigibles y el 
+impacto de una eventual brecha. La decisión sobre el modelo de custodia de claves sigue siendo, 
+por tanto, la más relevante del contrato.
+Qué podría rebajar la categoría: únicamente una decisión de diseño: si se resolviera no capturar el 
+componente biométrico dinámico y, además, la firma se considerase un elemento probatorio de 
+menor exigencia por acompañarse de otros mecanismos de identificación, cabría reconsiderar la 
+autenticidad a nivel medio. Es una valoración que corresponde al responsable de la información y 
+que debe documentarse, no presumirse.
+
+--- página 38 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+38
+Tecnologías de la Información y 
+Comunicaciones
+9.4. Lote 2 — Sistema de control de presencia y gestión de permisos
+9.4.1. Tipos de información y servicios
+Elemento Descripción
+Información 
+tratada
+Registro de jornada con valor probatorio frente a la Inspección de Trabajo; datos 
+de gestión de personal; datos que revelan salud y afiliación sindical de forma 
+indirecta; datos retributivos derivados
+Servicios 
+prestados
+Registro de jornada del personal municipal; tramitación de permisos y 
+vacaciones; soporte al cálculo de retribuciones variables
+Datos 
+biométricos
+No se tratan. El sistema no emplea biometría para el fichaje ni para el control de 
+acceso asociado
+9.4.2. Valoración propuesta
+Dimensión Nivel Justificación
+Disponibilidad Medio La indisponibilidad impide el fichaje de la totalidad de la plantilla y 
+afecta a un servicio con obligación legal, pero existe procedimiento 
+manual alternativo que permite seguir cumpliendo dicha obligación. 
+Perjuicio grave y subsanable
+Integridad Medio La alteración o pérdida de registros produce un perjuicio significativo 
+—errores de cómputo, decisiones retributivas incorrectas, dificultad 
+de acreditación ante la Inspección— pero reparable: los registros se 
+reconstruyen desde copias de seguridad, los cómputos se recalculan 
+y el daño a la persona trabajadora es patrimonial y subsanable. No 
+concurre el supuesto de perjuicio muy grave o de difícil reparación 
+que exigiría el nivel alto
+Confidencialidad Medio No se tratan datos biométricos. Los datos que revelan salud o 
+afiliación sindical lo hacen de forma indirecta y con granularidad 
+limitada —tipo de permiso, no diagnóstico—, siempre que se 
+cumplan las condiciones del apartado 9.4.3. Su revelación causaría 
+perjuicio significativo pero no irreversible
+Autenticidad Medio La suplantación en el fichaje o en una solicitud de permiso produce 
+un perjuicio acotado, detectable mediante los controles ordinarios y 
+corregible. A diferencia del lote 1, el sistema no formaliza 
+declaraciones de voluntad con efectos frente a terceros
+Trazabilidad Medio La pérdida de traza dificulta notablemente la investigación de 
+incidencias y la acreditación de la integridad del registro, pero no 
+impide el cumplimiento de la función ni genera un perjuicio 
+irreparable
+Categoría del 
+sistema
+MEDIA Ninguna dimensión alcanza el nivel alto
+9.4.3. Condiciones que sostienen la categoría media
+La categoría media es defendible, pero no es incondicional. Se apoya en tres premisas que deben 
+verificarse y, sobre todo, documentarse en la valoración: un acta que se limite a afirmar que no hay 
+biometría no sostiene la rebaja, porque la biometría nunca fue el factor determinante de las 
+dimensiones críticas de este sistema.
+
+--- página 39 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+39
+Tecnologías de la Información y 
+Comunicaciones
+# Premisa Verificación Consecuencia si no se cumple
+1 Ausencia efectiva de 
+biometría en terminales y 
+aplicación
+Acreditación documental 
+de que los lectores 
+biométricos, si existen, 
+están desactivados y no se 
+han utilizado
+Reevaluación de confidencialidad 
+y autenticidad; categoría 
+previsiblemente ALTA
+2 El portal del empleado no 
+almacena justificantes con 
+diagnóstico, y los permisos 
+por violencia de género se 
+registran bajo categoría 
+genérica con acceso 
+restringido
+Revisión de la 
+parametrización del 
+módulo de permisos
+Confidencialidad a nivel ALTO y, 
+por tanto, categoría ALTA
+3 El marco normativo del 
+registro de jornada se 
+mantiene en los términos 
+actuales
+Revisión al publicarse el 
+real decreto de registro 
+horario digital
+Si impone inmutabilidad técnica y 
+valor probatorio reforzado con 
+interoperabilidad con la 
+Inspección, deberán revalorarse 
+integridad y trazabilidad, con 
+posible elevación a ALTA
+Sobre la premisa 2: La vía correcta no es asumir el nivel alto de confidencialidad, sino eliminar la 
+causa: parametrizar la aplicación para que esos datos no lleguen a almacenarse, conforme a las 
+instrucciones de la ficha T-03. Es más barato y protege mejor.
+Sobre la premisa 3: El apartado 5.4.7 ya obliga al contratista a adaptarse sin coste a esa norma. Lo 
+que no cubre es la revisión de la categorización, que corresponde al Ayuntamiento y debe 
+programarse.
+9.4.4. Medidas que deben mantenerse aunque el nivel sea medio
+Conviene cerrar el razonamiento: la valoración en nivel medio es defendible porque existen 
+determinados controles. Si esos controles desaparecen, la valoración deja de sostenerse. Deben 
+mantenerse, con independencia de que el nivel medio no los imponga con el mismo grado de 
+refuerzo:
+1. Inmutabilidad del registro de jornada: ninguna modificación sin traza de autor, fecha, valor 
+anterior y motivo; imposibilidad técnica de borrado. Es lo que permite valorar la integridad 
+en medio en lugar de alto.
+2. Conservación de trazas durante veinticuatro meses, conforme al apartado 5.4.2.
+3. Segregación de perfiles de acceso: el crédito horario sindical y los permisos que revelan 
+salud no deben ser visibles para mandos intermedios que no los necesiten.
+4. Cifrado de la base de datos y de las copias de seguridad.
+5. Verificación anual de la restaurabilidad con los RTO y RPO comprometidos, que es lo que 
+sostiene la valoración de disponibilidad en nivel medio.
+
+--- página 40 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+40
+Tecnologías de la Información y 
+Comunicaciones
+9.5. Consecuencias de la categorización establecida
+Aspecto Lote 1 (ALTA) Lote 2 (MEDIA)
+Medidas del Anexo 
+II del Real Decreto 
+311/2022
+Conjunto correspondiente a categoría alta, 
+con refuerzo en control de acceso, cifrado, 
+segregación de funciones, registro de 
+actividad y protección de la información
+Conjunto correspondiente a 
+categoría media, 
+sensiblemente menos exigente 
+en refuerzo de medidas
+Auditoría de 
+conformidad
+Al menos cada dos años Al menos cada dos años
+Acreditación de 
+conformidad
+Certificación por entidad acreditada Certificación por entidad 
+acreditada
+Exigencia al 
+contratista
+Conformidad ENS de categoría igual o 
+superior a ALTA para los servicios 
+prestados
+Conformidad ENS de categoría 
+igual o superior a MEDIA
+Impacto en la 
+concurrencia
+Elevado: pocos operadores acreditan 
+categoría alta
+Moderado: la certificación de 
+categoría media es habitual en 
+el sector
+
+--- página 41 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+41
+Tecnologías de la Información y 
+Comunicaciones
+10. Anexo III – Modelos y formularios
+10.1. Relación de subencargados autorizados
+A cumplimentar por cada adjudicatario antes de la formalización y a mantener actualizada durante 
+toda la vigencia. Cualquier alta, baja o modificación exige comunicación con treinta días de 
+antelación y no surte efecto hasta la autorización expresa del responsable.
+# Denominación 
+y NIF
+Prestación 
+subcontratada
+Tratamientos 
+afectados
+Ubicación 
+del 
+tratamiento
+¿Accede a 
+datos de 
+categoría 
+especial?
+Fecha de 
+autorización
+1
+2
+3
+Casos que suelen omitirse y deben declararse expresamente: proveedor de infraestructura en la 
+nube; proveedor de la herramienta de tickets; proveedor de la herramienta de acceso remoto; 
+servicio de copias de seguridad; centro de soporte deslocalizado; fabricante del producto cuando 
+presta soporte de segundo o tercer nivel; empresas de mantenimiento de terminales.
+El último es especialmente relevante: el soporte escalado al fabricante es una subcontratación del 
+tratamiento y debe estar autorizado.
+10.2. Declaración de ubicación del tratamiento
+A cumplimentar por cada adjudicatario en el caso de servicios SaaS. Forma parte de la oferta y su 
+incumplimiento sobrevenido tiene la consideración de incumplimiento de obligación esencial.
+
+--- página 42 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+42
+Tecnologías de la Información y 
+Comunicaciones
+Elemento Entidad que 
+lo opera
+País y localidad del 
+centro de proceso de 
+datos
+Certificaciones del 
+centro
+Alojamiento de la aplicación 
+o servicio
+Base de datos
+Copias de seguridad
+Herramienta de gestión de 
+incidencias
+Plataforma de acceso 
+remoto
+Centro de soporte de primer 
+nivel
+Centro de soporte de 
+segundo y tercer nivel
+Almacenamiento de 
+grabaciones de sesión
+El abajo firmante declara que la totalidad de las operaciones de tratamiento descritas se realizan dentro 
+del Espacio Económico Europeo, que no se producen transferencias internacionales de datos, ni siquiera 
+de acceso remoto desde terceros países, y que comunicará cualquier modificación con sesenta días de 
+antelación.
+10.3. Registro de categorías de actividades del encargado (artículo 30.2 RGPD)
+Modelo que debe mantener cada adjudicatario:
+Campo Contenido
+Nombre y datos de contacto del encargado
+Nombre y datos de contacto del representante, en su 
+caso
+Datos de contacto del delegado de protección de 
+datos del encargado
+Responsable por cuenta del cual actúa AYUNTAMIENTO DE BURGOS
+Categorías de tratamientos realizados por cuenta del 
+responsable
+Las de las fichas T-01 a T-04 aplicables a su 
+lote
+Transferencias internacionales Ninguna
+Descripción general de las medidas técnicas y 
+organizativas del artículo 32.1
+Referencia a la política de seguridad y a la 
+conformidad ENS
+10.4. Contenido mínimo de la notificación de brecha
+El encargado notificará al responsable y al delegado de protección de datos, por el canal designado 
+y en un plazo máximo de veinticuatro horas desde el conocimiento, con la información disponible 
+en ese momento, completándola después sin dilación:
+1. Fecha y hora del incidente y de su detección, y cómo se detectó.
+2. Descripción de la naturaleza del incidente y de la causa, si se conoce.
+
+--- página 43 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+43
+Tecnologías de la Información y 
+Comunicaciones
+3. Sistemas y tratamientos afectados, identificados por el código de este anexo.
+4. Categorías y número aproximado de interesados afectados.
+5. Categorías y volumen aproximado de registros afectados, indicando expresamente si hay 
+datos de categoría especial.
+6. Dimensiones de seguridad comprometidas: disponibilidad, integridad, confidencialidad, 
+autenticidad, trazabilidad.
+7. Si los datos estaban cifrados y si las claves se han visto comprometidas.
+8. Consecuencias probables para los interesados.
+9. Medidas adoptadas y propuestas, incluidas las de mitigación.
+10. Persona de contacto del encargado para el seguimiento.
+Instrucción expresa: el encargado no notificará por sí mismo a la autoridad de control ni a los 
+interesados. La valoración y, en su caso, la notificación corresponden al responsable. El encargado 
+tampoco realizará comunicaciones públicas sobre el incidente sin autorización.
+Coordinación con el ENS. Si el incidente afecta además a la seguridad de los sistemas, deberá 
+activarse en paralelo el procedimiento de notificación al CCN-CERT. Ambos cauces son compatibles 
+y no se sustituyen.
+10.5. Certificado de devolución y supresión
+Modelo a emitir al término del contrato, una vez ejecutado el plan de reversibilidad:
+“[Denominación del contratista], con NIF [NIF], en su condición de encargado del tratamiento del 
+contrato [expediente], certifica que:
+1. Ha devuelto al AYUNTAMIENTO DE BURGOS la totalidad de los datos personales y documentos 
+tratados por cuenta de este, en los formatos y con la integridad verificados mediante el acta de [fecha].
+2. Ha suprimido de forma segura la totalidad de los datos personales tratados por cuenta del 
+responsable, así como de sus copias, incluidas las existentes en copias de seguridad, entornos de 
+prueba, herramientas de gestión de incidencias, estaciones de trabajo del personal y sistemas de sus 
+subencargados, conforme al siguiente detalle:
+Sistema o soporte Tratamientos afectados Método de supresión Fecha Verificación
+3. No conserva copia alguna de dichos datos, salvo las que se detallan a continuación, con indicación 
+de la obligación legal que ampara su conservación, del plazo y de las medidas de bloqueo aplicadas:
+Datos conservados Base jurídica de la conservación Plazo Medidas de bloqueo
+4. Ha trasladado esta obligación a sus subencargados y dispone de la correspondiente acreditación de 
+su cumplimiento.
+Y para que conste, firma el presente certificado en [lugar y fecha].”
+
+--- página 44 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465601675467570 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+44
+Tecnologías de la Información y 
+Comunicaciones

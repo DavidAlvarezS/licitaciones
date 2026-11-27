@@ -1,0 +1,194 @@
+
+
+--- página 1 ---
+1 
+ 
+Contingut 
+1 Objecte del contracte ............................................................................................................ 1 
+2 Situació actual ....................................................................................................................... 1 
+3 Especificacions de la prestació .............................................................................................. 2 
+3.1 Subscripció Azure CSP .................................................................................................. 2 
+3.2 Borsa d’hores per a assistència tècnica ....................................................................... 2 
+4 Finalització del contracte ...................................................................................................... 3 
+5 Interlocutors del contracte. .................................................................................................. 3 
+6 Seguretat i confidencialitat ................................................................................................... 3 
+ 
+ 
+PLEC DE PRESCRIPCIONS TÈCNIQUES DEL CONTRACTE  DE RENOVACIÓ DE LA 
+SUBSCRIPCIÓ DE MICROSOFT AZURE I SERVEIS ASSOCIATS DE SUPORT ESPECIALITZAT 
+1 Objecte del contracte 
+L'objecte del contracte és la renovació de la subscripció Microsoft Azure del Consell de 
+Mallorca en modalitat Cloud Solution Provider (CSP) de pagament per ús, així com la 
+prestació de serveis de suport tècnic especialitzat relacionats amb arquitectures cloud 
+Microsoft Azure, serveis d'intel·ligència artificial i serveis associats. 
+2 Situació actual 
+Actualment el Consell de Mallorca disposa d'una subscripció Microsoft Azure que dona 
+suport a diversos projectes d'intel·ligència artificial basats en Azure AI Search, Azure OpenAI 
+i serveis d'emmagatzematge. 
+Unitats Descripció Finalització 
+contracte  
+ID Subscripció 
+1 Azure subscription 04/12/2026 5ca49750-aa33-4145-87ac-
+7085b9c2ae5c 
+ 
+El contracte actual es preveu que finalitzi el 4 de desembre de 2026, per la qual cosa és 
+requereix renovar la subscripció a de Microsoft Azure a fi de poder donar continuïtat als 
+projectes que s’han desenvolupat i s’estan desenvolupant utilitzant els serveis que 
+s’ofereixen. 
+Durant la vigència del contracte es preveu l'increment progressiu del nombre de projectes i 
+la posada en funcionament de nous assistents conversacionals tant d'ús intern com 
+d'atenció ciutadana.  
+Modernització Administració
+Expedient 1562199X
+NIF: S0711002F
+Plec 
+de 
+prescripcions 
+tècniques 
+manteniment 
+infraestructura 
+ 
+Azure 
+- 
+SEFYCU 
+4762156
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA JV2T VPPD HUY9 L3C7
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Projectes de 
+Modernització
+BEATRIZ SALVÁ GARAU
+30/9/2026
+Pàg. 1 de 3
+
+--- página 2 ---
+2 
+ 
+3 Especificacions de la prestació 
+3.1 Subscripció Azure CSP 
+L'adjudicatari haurà de mantenir la subscripció actual del Consell de Mallorca sense 
+interrupció del servei. 
+Qualsevol canvi administratiu derivat del canvi d'adjudicatari haurà de garantir la continuïtat 
+dels serveis existents i la conservació íntegra dels recursos desplegats. 
+Els serveis susceptibles de ser utilitzats durant la vigència del contracte inclouen, entre altres: 
+- Azure AI Search 
+- Azure OpenAI 
+- Azure AI Foundry 
+- Azure Blob Storage 
+- Azure Monitor 
+- Azure Log Analytics 
+- Azure Key Vault 
+- Azure Entra ID 
+- Application Insights 
+- Virtual Networks 
+- Private Endpoints 
+- Altres serveis disponibles al catàleg Microsoft Azure 
+Nota: Els noms de referència del fabricant descrits en aquet plec estan subjectes a canvis 
+que pugui realitzar el propi fabricant. 
+3.2 Borsa d’hores per a assistència tècnica 
+La borsa d'hores podrà utilitzar-se per a donar suport tècnic en les següents funcions als 
+tècnics del Consell de Mallorca:  
+- Resolució d'incidències. 
+- Suport avançat de Microsoft Azure. 
+- Suport en Azure AI Foundry. 
+- Suport en Azure AI Search. 
+- Configuració i desplegament de recursos Azure. 
+- Definició d'arquitectures cloud. 
+- Implantació progressiva d'Azure Landing Zone. 
+- Configuració de seguretat. 
+- Optimització de costos. 
+- Formació tècnica puntual. 
+- Revisió d'arquitectures. 
+- Assistència en la posada en producció de nous projectes. 
+La utilització de la borsa d’hores es realitzarà sota demanda del Consell de Mallorca.  
+Les hores consumides hauran de quedar documentades mitjançant una descripció de les 
+tasques executades i validades pel responsable del contracte. 
+Modernització Administració
+Expedient 1562199X
+NIF: S0711002F
+Plec 
+de 
+prescripcions 
+tècniques 
+manteniment 
+infraestructura 
+ 
+Azure 
+- 
+SEFYCU 
+4762156
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA JV2T VPPD HUY9 L3C7
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Projectes de 
+Modernització
+BEATRIZ SALVÁ GARAU
+30/9/2026
+Pàg. 2 de 3
+
+--- página 3 ---
+3 
+ 
+4 Finalització del contracte 
+A la finalització del contracte l’adjudicatari haurà de col·laborar en les tasques de 
+transferència de la subscripció al Consell de Mallorca o al nou adjudicatari que resulti 
+designat. 
+5 Interlocutors del contracte. 
+L’empresa contractista designarà un únic interlocutor tècnic que farà les tasques de 
+coordinació, seguiment i control de la gestió del servei objecte del contracte.  Per part del 
+Consell de Mallorca, el Servei de Projectes de Modernització designarà un coordinador que 
+realitzarà les funcions anàlogues.  
+Serà responsabilitat de d’interlocutor de l’empresa contractista conèixer en profunditat els 
+serveis coberts pel contracte, i assegurar el compliment de tots els aspectes inclosos en el 
+contracte.     
+6 Seguretat i confidencialitat 
+La empresa adjudicatària estarà subjecta al compliment de tota la normativa aplicable en 
+matèria de seguretat de la informació, protecció de dades personals i confidencialitat i, en 
+particular, al Reglament (UE) 2016/679 del Parlament Europeu i del Consell, de 27 d’abril de 
+2016 (RGPD), a la Llei Orgànica 3/2018, de 5 de desembre, de protecció de dades personals 
+i garantia dels drets digitals (LOPDGDD), així com a la resta de normativa que resulti 
+d’aplicació durant la vigència del contracte. 
+L’empresa adjudicatària i tot el personal adscrit a l’execució del contracte guardaran el deure 
+de secret professional respecte de totes les informacions, dades, documents, 
+configuracions, credencials, procediments, sistemes d’informació i qualsevol altre contingut 
+al qual tinguin accés o coneixement amb motiu de l’execució del contracte. 
+Aquesta obligació de confidencialitat es mantindrà durant tota la vigència del contracte i 
+continuarà essent exigible una vegada finalitzat aquest, sense limitació temporal, mentre la 
+informació conservi el seu caràcter confidencial. 
+L’empresa adjudicatària no podrà utilitzar la informació obtinguda amb motiu de l’execució 
+del contracte per a finalitats diferents de les estrictament necessàries per a la correcta 
+prestació dels serveis contractats, ni podrà comunicar-la, cedir-la o posar-la a disposició de 
+tercers sense autorització expressa del Consell de Mallorca. 
+Especialment, no es podran copiar, reproduir, emmagatzemar o tractar dades personals, 
+informació confidencial o documentació corporativa fora dels sistemes i procediments 
+autoritzats pel Consell de Mallorca, excepte quan sigui necessari per a la correcta execució 
+del contracte i amb ple compliment de la normativa aplicable. 
+L’empresa adjudicatària serà responsable de garantir que tot el personal adscrit al contracte 
+conegui i assumeixi aquestes obligacions, adoptant les mesures organitzatives i tècniques 
+necessàries per assegurar-ne el compliment. 
+ 
+Modernització Administració
+Expedient 1562199X
+NIF: S0711002F
+Plec 
+de 
+prescripcions 
+tècniques 
+manteniment 
+infraestructura 
+ 
+Azure 
+- 
+SEFYCU 
+4762156
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA JV2T VPPD HUY9 L3C7
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Projectes de 
+Modernització
+BEATRIZ SALVÁ GARAU
+30/9/2026
+Pàg. 3 de 3

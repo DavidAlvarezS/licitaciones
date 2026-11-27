@@ -1,0 +1,344 @@
+
+
+--- página 1 ---
+Ayuntamiento de Jerez de los Caballeros
+Expediente n.º: 3097/2026
+Pliego de Prescripciones Técnicas
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA CONTRATO DE SERVICIO DE 
+SISTEMA DE CONTROL HORARIO DEL PERSONAL DEL AYUNTAMIENTO DE JEREZ 
+DE LOS CABALLEROS POR PROCEDIMIENTO ABIERTO SIMPLIFICADO SUMARIO 
+(SIN MESA DE CONTRATACIÓN) 
+ 
+CLÁUSULA PRIMERA. Objetivo y Finalidad 
+ 
+El presente Pliego de Prescripciones Técnicas establece las características y condiciones 
+técnicas que regirán la contratación de un sistema integral de control horario y gestión de 
+presencia destinado al personal funcionario y laboral del Ayuntamiento de Jerez de los 
+Caballeros.
+La  contratación  comprende  el  suministro  e  instalación  de  los  equipos  necesarios,  la 
+configuración  y  puesta  en  funcionamiento  de  la  plataforma,  la  migración  de  los  datos 
+existentes, la formación del personal, las licencias de uso, el alojamiento, el mantenimiento, 
+las actualizaciones y el soporte técnico durante toda la vigencia del contrato.
+El sistema deberá permitir el registro y control de la jornada, así como la gestión de fichajes, 
+horarios, permisos, vacaciones, ausencias e incidencias, de conformidad con los artículos 
+47 y 51 del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado 
+por el Real Decreto Legislativo 5/2015, de 30 de octubre; el artículo 34.9 del texto refundido 
+de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, 
+de 23 de octubre; y la restante normativa aplicable.
+La finalidad de la contratación es disponer de una solución tecnológica actualizada, segura y 
+accesible que facilite la gestión de los recursos humanos, reduzca la carga administrativa y 
+permita obtener información fiable y actualizada sobre el cumplimiento de la jornada.
+El sistema se dimensionará tomando como referencia una media estimada de 180 personas 
+usuarias,  sin  perjuicio  de  las  variaciones  derivadas  de  las  altas,  bajas  y  demás 
+modificaciones de la plantilla durante la ejecución del contrato
+CLÁUSULA SEGUNDA. Ámbito y Alcance
+La solución estará dimensionada inicialmente para una media estimada de 180 personas 
+usuarias y deberá permitir la gestión de altas y bajas durante la vigencia del contrato sin 
+necesidad de sustituir la plataforma.
+2.1 Software:
+El sistema deberá permitir registrar los fichajes del personal:
+- Mediante la  página  web  o aplicación  desde ordenadores,  tabletas  o dispositivos 
+móviles
+Ayuntamiento de Jerez de los Caballeros
+PLAZA DE LA ALCAZABA SN, Jerez de los Caballeros. 06380 (Badajoz). Tfno. 924730011. Fax: 924750204
+Cód. Validación: L3F49KMPY6JZ53Y49RS2NLTT6 
+Verificación: https://jerezdeloscaballeros.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 1 de 8 
+
+--- página 2 ---
+Ayuntamiento de Jerez de los Caballeros
+- Los  dispositivos  físicos  utilizados  para  llevar  a  cabo  el  control  horario  serán 
+proporcionados por el Ayuntamiento.
+La plataforma deberá permitir, como mínimo:
+ Gestionar  fichajes,  horarios,  jornadas,  permisos,  vacaciones,  ausencias  e 
+incidencias.
+ Consultar en tiempo real las personas que mantienen un fichaje abierto.
+ Consultar y, por parte del personal autorizado, corregir o validar fichajes anteriores.
+ Calcular los saldos de horas, tanto positivos como negativos.
+ Obtener informes individualizados y agregados.
+ Gestionar las altas, bajas y modificaciones de las personas usuarias.
+ Configurar distintos perfiles y niveles de acceso.
+ Acceder a la información mediante una interfaz web y, en su caso, una aplicación 
+para dispositivos móviles.
+ Exportar los datos e informes en formatos de uso común, al menos PDF y hoja de 
+cálculo.
+ La personalización de la misma, pudiendo incluir el logo del Ayuntamiento, escudo, 
+etc.
+ La firma electrónica avanzada de documentos.
+La plataforma deberá ser compatible con los navegadores web de uso habitual y permitir, 
+cuando resulte técnicamente posible, el intercambio de información con las herramientas 
+corporativas utilizadas por el Ayuntamiento. 
+Todas  las  licencias,  aplicaciones,  componentes  y  actualizaciones  necesarios  para  el 
+funcionamiento del sistema estarán incluidos durante la duración del contrato, sin coste 
+adicional para el Ayuntamiento.
+2.2 Aplicación informática:
+La aplicación deberá disponer, como mínimo, de las siguientes funcionalidades: 
+ Filtros configurables y generación de alertas ante incidencias o superación de los 
+límites establecidos (como el agotamiento de los días de asuntos propios por un 
+usuario). 
+ Motor  de  reglas  configurable  conforme  a  los  horarios,  jornadas  y  criterios 
+determinados por el Ayuntamiento. 
+ Configuración de calendarios, horarios fijos o flexibles, jornadas, descansos y bolsas 
+de horas. 
+ Gestión  de  vacaciones,  permisos,  ausencias,  incidencias  y  compensaciones 
+horarias. 
+ Información actualizada de los fichajes realizados. 
+ Cálculo y gestión de las horas semanales y anuales. 
+ Elaboración de informes personalizados, individuales y agregados. 
+ El intercambio de documentación entre la Administración y los trabajadores.
+Ayuntamiento de Jerez de los Caballeros
+PLAZA DE LA ALCAZABA SN, Jerez de los Caballeros. 06380 (Badajoz). Tfno. 924730011. Fax: 924750204
+Cód. Validación: L3F49KMPY6JZ53Y49RS2NLTT6 
+Verificación: https://jerezdeloscaballeros.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 2 de 8 
+
+--- página 3 ---
+Ayuntamiento de Jerez de los Caballeros
+ Obtención de cuadrantes y planificación del personal. 
+ Configuración  de  márgenes  de  entrada  y  salida,  retrasos,  adelantos  y  otras 
+incidencias de jornada. 
+ Exportación de información en formatos de uso común. 
+ Conservación del historial de cambios y actuaciones realizadas por las personas 
+usuarias y administradoras. 
+Correrán a cargo de la empresa adjudicataria todas las licencias, aplicaciones adicionales y 
+componentes de software necesarios para prestar el servicio conforme a este pliego.
+CLÁUSULA TERCERA. Solución de Gestión y Prestación del Servicio
+ 
+Deberá realizarse el mantenimiento de la plataforma de consulta vía web de la jornada de 
+trabajo a tres niveles:
+- Nivel básico: cada trabajador puede consultar la información relativa al cumplimiento 
+de su horario. 
+- Nivel intermedio: permitirá a cada trabajador que cuente con empleados a su cargo 
+disponer de información relativa al cumplimiento de la jornada permitiendo tanto un 
+estudio  individualizado  como  análisis  agregado  al  absentismo  de  la  unidad  y 
+validando los permisos y/o vacaciones de los mismos. 
+- Nivel avanzado: información relativa al control de presencia en su totalidad de los 
+empleados permitiendo tanto su estudio individualizado como análisis del absentismo 
+del  personal  en  general,  esta  función  será  para  el  departamento  de  Recursos 
+Humanos y Alcaldía.
+El acceso a la información deberá limitarse a los datos necesarios para el ejercicio de las 
+funciones correspondientes a cada nivel. 
+El firmware deberá actualizarse de forma automática o programada, así como permitir la 
+verificación y reparación de datos corruptos. 
+Las actualizaciones deberán realizarse procurando no interrumpir el funcionamiento habitual 
+del sistema. 
+El software deberá integrar el control de tiempos del personal con la gestión informatizada 
+de  permisos,  solicitudes,  licencias  e  incidencias  de  fichaje.  Se  tratará  de  un  programa 
+interactivo al que las personas usuarias podrán acceder desde cualquier ordenador interno o 
+externo autorizado. 
+El programa de gestión de permisos e incidencias deberá ser parametrizable por la empresa 
+adjudicataria durante toda la vigencia del contrato en relación con altas, bajas, jornadas 
+laborales, horarios, cuadrantes de servicios especiales, tipos de permisos e incidencias y 
+restantes configuraciones incluidas en las funcionalidades de la plataforma. Las solicitudes 
+de parametrización, introducción de datos o modificación únicamente podrán realizarse por 
+el personal de Recursos Humanos debidamente autorizado. 
+La  empresa  adjudicataria  deberá  disponer  de  un  servicio  de  soporte  para  atender  al 
+departamento  de  Recursos  Humanos  en  todo  lo  relativo  a  la  parametrización  de  las 
+aplicaciones, el tratamiento de datos y la resolución de incidencias. 
+Ayuntamiento de Jerez de los Caballeros
+PLAZA DE LA ALCAZABA SN, Jerez de los Caballeros. 06380 (Badajoz). Tfno. 924730011. Fax: 924750204
+Cód. Validación: L3F49KMPY6JZ53Y49RS2NLTT6 
+Verificación: https://jerezdeloscaballeros.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 3 de 8 
+
+--- página 4 ---
+Ayuntamiento de Jerez de los Caballeros
+Asimismo,  deberá  facilitar  tutoriales  actualizados  para  las  personas  usuarias  y 
+administradoras, sin perjuicio de la formación inicial destinada al personal encargado de la 
+revisión, supervisión y administración del sistema. 
+La empresa adjudicataria deberá contar con un centro de atención a las personas usuarias, 
+operativo durante al menos ocho horas en días laborables, para atender consultas sobre el 
+uso del portal, incidencias de acceso y restablecimiento de contraseñas.
+ 
+CLÁUSULA CUARTA. Gestión de los fichajes
+El sistema deberá permitir conocer en tiempo real los eventos producidos en cada punto de 
+fichaje, permitiendo un control en línea de las personas usuarias gestionadas por el sistema 
+y facilitando la resolución de incidencias en el menor tiempo posible. 
+El evento deberá contener al menos la siguiente información:
+- Datos del Usuario. Datos del instante del evento (fecha y hora). 
+- Datos que describan el evento (sentido, motivo, ...). 
+- Datos del elemento de identificación usado. 
+- El sistema deberá aportar todos los mecanismos y medios posibles para garantizar 
+que un evento de fichaje no se pierda. Esto implica añadir niveles de redundancia y 
+tolerancia a errores que asegure los eventos de fichaje. 
+El  Sistema deberá  tener  un  mecanismo  de  validación  en  el  cual  puedan  reflejarse  las 
+acciones administrativas que se aplican a la jornada laboral. 
+El Sistema deberá poder distinguir entre motivos de ausencia que se puedan usar para 
+justificar un evento de fichaje y aquellos que estén permitidos para solicitar un periodo de 
+ausencia. 
+La definición de un motivo de ausencia deberá reflejar no solo la definición y el uso del 
+motivo sino también el periodo de tiempo máximo permitido para el motivo. En el caso de 
+que la ausencia superara este periodo de tiempo, el tiempo extra en la ausencia se deberá 
+considerar  no  justificado,  o  podrá  validarse  por  el  superior  jerárquico  o  supervisor.  El 
+sistema  deberá  tener  una  funcionalidad  de  gestión  de  periodos  de  ausencia  de  gran 
+flexibilidad,  ya  que  estas  solicitudes  podrán  realizarse  antes  (asuntos  particulares)  o 
+después (baja médica) de haber empezado dicho periodo. Es decir, las ausencias deberán 
+poder aplicarse a futuro o con carácter retroactivo. 
+El Sistema deberá disponer de un sistema de validación de acciones (ausencias, retrasos y 
+adelantos, incidencias técnicas, solicitud de permisos, ...) que cumpla con las siguientes 
+características: 
+ El proceso de validación deberá ser un proceso ágil y flexible que no genere un 
+"cuello de botella" en los procesos de fichaje o gestión de la jornada laboral. 
+ Las acciones de validación (fichajes o ausencias) deberán ser un reflejo de una 
+acción administrativa o justificada por un procedimiento administrativo, es decir, el 
+sistema debe contar con un apartado de aportación de documentos que permita la 
+justificación de ausencias. 
+ La validación no deberá ser una carga para la persona encargada de realizarla, 
+pudiéndose  incluso  habilitar  alarmas  que  permitan  que  el  administrador  no  esté 
+Ayuntamiento de Jerez de los Caballeros
+PLAZA DE LA ALCAZABA SN, Jerez de los Caballeros. 06380 (Badajoz). Tfno. 924730011. Fax: 924750204
+Cód. Validación: L3F49KMPY6JZ53Y49RS2NLTT6 
+Verificación: https://jerezdeloscaballeros.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 4 de 8 
+
+--- página 5 ---
+Ayuntamiento de Jerez de los Caballeros
+dedicado a dicha tarea. 
+ La validación deberá estar completamente registrada en el sistema, quedando una 
+evidencia permanente de la misma. 
+ La validación no podrá ser rígida, ya que deberá permitir modificaciones  por un 
+administrador superior si fuera necesario. 
+ El proceso de validación deberá afectar directamente al cálculo de la jornada laboral 
+de manera automática.
+ Sistema de notificaciones al personal de la entidad de la concesión o denegación de 
+permisos y/o vacaciones. 
+ Las vacaciones, asuntos propios, permisos por examen, modificaciones de jornada y 
+compensación de horas deben de ser validadas por la persona designada. El resto 
+de  permisos  deberán  ser  añadidos  por el  personal  junto  con  la  justificación  del 
+mismo.
+CLÁUSULA  QUINTA. Módulo del empleado
+ 
+Este módulo permitirá a los usuarios acceder a sus datos de control de horario y gestionar 
+permisos. Deberá permitir realizar las siguientes tareas: solicitud de permisos, consulta de 
+horarios, consulta de fichajes y consulta de tiempo trabajado. 
+Formación para el personal sobre el manejo del sistema de fichaje.
+CLÁUSULA SEXTA. Informes
+ 
+La aplicación informática deberá disponer de un módulo de informes que permita al usuario 
+autorizado, generar modelos de los siguientes informes:
+ Informes de control de la jornada laboral. Estos informes reflejarán el rendimiento de 
+un empleado o grupo durante periodos de tiempo (meses, semanas, etc, ...). Se 
+podrán evaluar horas trabajadas durante el periodo de tiempo, retrasos o adelantos 
+en ese periodo, balances y cumplimientos de la jornada laboral, recuperaciones de la 
+jornada laboral en un intervalo de tiempo (semanal o mensual), etc. 
+ Informes  de  periodos  de  ausencia.  Reflejarán  información  sobre  periodos  de 
+ausencia de un usuario o grupo para cada motivo de ausencia, o cuantos días le 
+quedan por disfrutar, en caso de vacaciones o licencias por asuntos particulares. El 
+adjudicatario  deberá  confeccionar  e  introducir  todos  aquellos  informes  que  se 
+soliciten durante la prestación del servicio.
+CLÁUSULA SÉPTIMA. Gestión de Usuarios y Control de Acceso
+ 
+La configuración de permisos que deba tener cada usuario que accede al sistema será 
+flexible permitiendo tener diferentes roles. Dependiendo de rol, este podrá visualizar cierta 
+información, así como realizar las operaciones a las que tenga permiso. 
+Ayuntamiento de Jerez de los Caballeros
+PLAZA DE LA ALCAZABA SN, Jerez de los Caballeros. 06380 (Badajoz). Tfno. 924730011. Fax: 924750204
+Cód. Validación: L3F49KMPY6JZ53Y49RS2NLTT6 
+Verificación: https://jerezdeloscaballeros.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 5 de 8 
+
+--- página 6 ---
+Ayuntamiento de Jerez de los Caballeros
+La aplicación deberá permitir la clasificación de los usuarios por cargos y roles. El interfaz 
+será adaptable en función del nivel de uso y privilegios del cargo o rol. 
+CLÁUSULA OCTAVA. Accesibilidad, Usabilidad y Manejabilidad del Sistema
+ 
+Se deberán cumplir las pautas de accesibilidad exigidas a las Administraciones Públicas tal 
+y como establece el Real Decreto 1494/2007, de 12 de noviembre, por el que se aprueba el 
+Reglamento sobre las condiciones básicas para el acceso de las personas con discapacidad 
+a las tecnologías, productos y servicios relacionados con la sociedad de la información y 
+medios de comunicación social, así como el Real Decreto 1112/2018, de 7 de septiembre, 
+sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector 
+público.
+CLÁUSULA NOVENA. Centro de Atención de Incidencias
+ 
+El adjudicatario pondrá a disposición del Ayuntamiento de Jerez de los Caballeros un Centro 
+de Atención de Incidencias (en adelante CAI), operativo de lunes a viernes de 8:00 a 14:00 
+horas, destinado a recibir, procesar y coordinar la prestación de servicios definidos en este 
+documento y ser el punto único de comunicación con el mismo. Desde este CAI se atenderá 
+tanto las incidencias correspondientes a averías o mal funcionamiento de los dispositivos de 
+control  y  aplicativos,  como  al  soporte  en  el  uso  del  aplicativo.  A  los  efectos  de  la 
+comunicación de incidencias, el CAI dispondrá de una línea de atención telefónica y una 
+cuenta de correo electrónico, para la recepción o envío de incidencias, documentos, etc. El 
+coste  de  las  líneas  de  enlace  y  equipos  necesarios  (PC,  teléfono,  etc.)  para  prestar 
+correctamente el servicio de atención de incidencias, correrá por cuenta del adjudicatario.
+CLÁUSULA DÉCIMA. Soporte Técnico
+ 
+El soporte técnico prestado a través del CAl tendrá un plazo de respuesta de 3 horas desde 
+la comunicación de la incidencia y/o consulta. Dentro del soporte técnico deberán incluirse, 
+las siguientes necesidades:
+- Realización  de  consultas  sobre  el  uso  de  productos  y  aplicaciones  objeto  del 
+contrato.
+- Solicitud  de  ayuda  sobre  el  funcionamiento  de  las  aplicaciones.  Realización  de 
+cualquier consulta técnica referente a los productos en mantenimiento.
+- Realización del ajuste de parámetros de funcionamiento del software.
+- Información sobre cualquier incidencia técnica acerca del mal funcionamiento de los 
+productos que son objeto del Pliego. Actualización de productos y manuales.
+- El  desarrollo  de  los  trabajos  de  mantenimiento  y  soporte  deberán  realizarse  de 
+acuerdo con el responsable del contrato designado.
+CLÁUSULA UNDÉCIMA. Reparaciones
+ 
+Ayuntamiento de Jerez de los Caballeros
+PLAZA DE LA ALCAZABA SN, Jerez de los Caballeros. 06380 (Badajoz). Tfno. 924730011. Fax: 924750204
+Cód. Validación: L3F49KMPY6JZ53Y49RS2NLTT6 
+Verificación: https://jerezdeloscaballeros.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 6 de 8 
+
+--- página 7 ---
+Ayuntamiento de Jerez de los Caballeros
+Corresponde a la empresa adjudicataria cualquier intervención necesaria para solucionar 
+todas las incidencias o errores de funcionamiento de los elementos ofertados y/o instalados 
+para la correcta prestación de los servicios demandados, incluidas aquellas producidas por 
+actualización de versiones de cualquiera de los elementos de software relacionados con el 
+sistema producto de esta contratación. 
+Las intervenciones de reparación/reinstalación se llevarán a cabo mediante la sustitución de 
+los  aplicativos  (software)  dentro  del  tiempo  de  resolución  establecido.  Este  proceso  se 
+realizará por el personal del adjudicatario, quien se deberá personar en el centro del equipo 
+averiado,  dentro  del  plazo  de  respuesta  estipulado.  Las  reparaciones/reinstalaciones  a 
+efectuar  serán  realizadas  de  forma  que  causen  las  menores  molestias  posibles  a  los 
+usuarios  y  se  minimice  la  posible  discontinuidad  del  servicio  prestado  directamente  o 
+indirectamente por el aplicativo en cuestión. Por ello, se realizarán en el horario y día que se 
+determine por parte del responsable del contrato. 
+De cada reparación/intervención el adjudicatario expedirá un Parte de Incidencia, en el que 
+vendrá reflejado el tiempo empleado en la resolución y el detalle de la avería, así como los 
+materiales utilizados para su resolución. 
+Se incluye la instalación de todas las nuevas versiones y la instalación de actualizaciones y 
+parches que pudieran ser necesarios para corregir o prevenir un funcionamiento anómalo de 
+los  mismos,  así  como  consultas  y  resolución  de  problemas  relacionados  con  el 
+equipamiento. 
+CLÁUSULA DUODÉCIMA. Prevención de riesgos laborales
+ 
+La  empresa  adjudicataria  deberá  cumplir  en  todo  momento  la  Ley  31/1995,  de  8  de 
+noviembre, de Prevención de Riesgos Laborales; el Real Decreto 39/1997, de 17 de enero, 
+por el que se aprueba el Reglamento de los Servicios de Prevención; y la restante normativa 
+aplicable en materia preventiva. De conformidad con el artículo 24 de la Ley 31/1995 y con 
+el Real  Decreto 171/2004,  de  30  de  enero, en materia de coordinación  de actividades 
+empresariales,  el  Ayuntamiento  de  Jerez  de  los  Caballeros,  como  titular  del  centro  de 
+trabajo, podrá exigir a la empresa contratista la documentación necesaria para acreditar el 
+cumplimiento de sus obligaciones preventivas. Cuando el personal de la empresa contratista 
+deba acceder a las dependencias del Ayuntamiento para realizar trabajos de instalación, 
+mantenimiento  o  reparación,  la  empresa  deberá  acreditar,  cuando  sea  requerida,  la 
+evaluación de los riesgos correspondientes, la planificación de la actividad preventiva y el 
+cumplimiento  de  las  obligaciones  de  información  y formación  respecto  de  las  personas 
+trabajadoras que vayan a intervenir.
+CLÁUSULA DECIMOTERCERA. Migración de datos
+La  empresa  deberá  facilitar  a  la  finalización  del  contrato  por  las  causas  previstas  la 
+migración  íntegra  de  los  datos  e  información  de  la  Entidad  que  hayan  sido  objeto  de 
+tratamiento durante la vigencia del contrato. Una vez que se haya finalizado el contrato la 
+empresa deberá comprometerse al borrado y destrucción de los datos una vez realizada la 
+migración de los mismos. 
+ 
+Ayuntamiento de Jerez de los Caballeros
+PLAZA DE LA ALCAZABA SN, Jerez de los Caballeros. 06380 (Badajoz). Tfno. 924730011. Fax: 924750204
+Cód. Validación: L3F49KMPY6JZ53Y49RS2NLTT6 
+Verificación: https://jerezdeloscaballeros.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 7 de 8 
+
+--- página 8 ---
+Ayuntamiento de Jerez de los Caballeros
+Ayuntamiento de Jerez de los Caballeros
+PLAZA DE LA ALCAZABA SN, Jerez de los Caballeros. 06380 (Badajoz). Tfno. 924730011. Fax: 924750204
+Cód. Validación: L3F49KMPY6JZ53Y49RS2NLTT6 
+Verificación: https://jerezdeloscaballeros.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 8 de 8 

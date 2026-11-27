@@ -1,0 +1,703 @@
+
+
+--- página 1 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465657312726306 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+1
+Tecnologías de la Información y 
+Comunicaciones
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA LA CONTRATACIÓN DEL MANTENIMIENTO DE 
+LOS PORTALES WEB DE TURISMO
+1. Introducción y antecedentes
+El Ayuntamiento de Burgos dispone de varios portales web de Turismo gestionados mediante una 
+única instancia de Liferay Community Edition Portal 7.4, configurada en modalidad multiportal. El 
+contrato de mantenimiento vigente (2025001383/SERV/TIC/MEN) finaliza el 10 de noviembre de 
+2026, por lo que se hace necesaria su renovación mediante el presente procedimiento de 
+contratación.
+Los portales incluidos en el alcance de este mantenimiento son los siguientes:
+• https://visitaburgosciudad.es
+• https://burgosgastronomycity.com
+• Portal "Estudia Español"
+2. Objeto del contrato
+El objeto del contrato es la prestación del servicio de mantenimiento correctivo, de seguridad y 
+evolutivo de los portales web de turismo del Ayuntamiento de Burgos, gestionados mediante una 
+instancia de Liferay 7.4 Community Edition en modalidad multiportal, alojada en el Centro de 
+Proceso de Datos (CPD) municipal.
+Códigos CPV:
+• 72267000 — Servicios de mantenimiento y reparación de software
+• 72212780 — Servicios de desarrollo de software de gestión de sistemas, almacenamiento y 
+contenido
+3. Especificaciones técnicas de la prestación
+3.1. Alcance del servicio
+Se debe contemplar la prestación de un servicio integral de mantenimiento, dividido en las 
+siguientes áreas funcionales:
+• Mantenimiento correctivo.
+
+--- página 2 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465657312726306 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+2
+Tecnologías de la Información y 
+Comunicaciones
+• Actualizaciones de seguridad y sistema.
+• Soporte técnico a usuarios internos.
+• Supervisión activa de la plataforma.
+• Mantenimiento evolutivo (bolsa de horas).
+El servicio estará orientado a asegurar la continuidad operativa, disponibilidad, estabilidad y 
+seguridad de la plataforma tecnológica.
+3.2. Mantenimiento correctivo
+Incluye la resolución de errores funcionales, técnicos o de configuración que puedan afectar a la 
+operativa de los portales. Se contemplará, entre otras, la atención a:
+• Incidencias reportadas por usuarios editores o administradores.
+• Análisis y resolución de errores del sistema (errores 500, fallos en navegación o en la carga 
+de contenidos).
+• Revisión de logs y trazas de error del servidor y de la plataforma.
+• Intervenciones sobre componentes de backend (configuración de páginas, portlets, 
+estructuras de contenido, templates, etc.) cuando sea necesario para corregir anomalías.
+3.3. Actualizaciones de seguridad y sistema
+Se deben incluir todas las tareas orientadas a mantener la instancia actualizada y segura, 
+incluyendo:
+• Aplicación de actualizaciones críticas y parches de seguridad publicados por la comunidad 
+Liferay o equivalente.
+• Revisión y gestión de certificados digitales (SSL/TLS) para asegurar la navegación segura 
+por HTTPS.
+• Comprobación del estado del contenedor de aplicaciones (Tomcat o equivalente) y de la 
+base de datos.
+• Validación de versiones de componentes del sistema (Java, librerías dependientes, drivers).
+• Ejecución de backups previos mediante herramienta de respaldo (o equivalente) y pruebas 
+en entorno de validación antes de desplegar actualizaciones críticas.
+
+--- página 3 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465657312726306 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+3
+Tecnologías de la Información y 
+Comunicaciones
+3.4. Mantenimiento evolutivo
+Se incluye una bolsa de horas independiente para cubrir desarrollos y mejoras no contemplados 
+dentro de las tareas correctivas. Se destinará, entre otros, a:
+• Implementación de nuevas funcionalidades o portlets.
+• Mejora de la experiencia de usuario (UX/UI), accesibilidad y rendimiento.
+• Adaptaciones normativas (accesibilidad, protección de datos, cookies).
+• Integraciones con sistemas externos o rediseños parciales.
+• SEO técnico, datos estructurados, semántica DTI y multilingüismo.
+La bolsa mínima de horas evolutivas exigida es de 405 horas. Cada intervención imputable a esta 
+bolsa requerirá la elaboración de un presupuesto específico que deberá ser previamente aprobado 
+por el responsable del contrato designado por el Ayuntamiento. Las horas adicionales ofertadas 
+por encima del mínimo serán valoradas conforme a los criterios establecidos en el Pliego de 
+Cláusulas Administrativas Particulares (PCAP).
+Precio unitario de referencia y unidades estimadas:
+Concepto Régimen Horas estimadas (3 años)
+Mantenimiento correctivo (120 h/año) Tarifa plana 360 h
+Actualizaciones de seguridad y sistema (60 h/año) Tarifa plana 180 h
+Mantenimiento multiportal — tarifa plana (3 años) Tarifa plana —
+Bolsa de horas evolutivas (mínimo exigido) Precio unitario 405 h
+El mantenimiento correctivo, las actualizaciones de seguridad y el soporte técnico se prestan en 
+régimen de tarifa plana incluida en el precio global del contrato. La bolsa de horas evolutivas se 
+facturará a precio unitario por hora efectivamente consumida, con el límite máximo del presupuesto 
+base. El precio máximo unitario por hora de la bolsa evolutiva se establecerá en el Pliego de Cláusulas 
+Administrativas Particulares.
+3.5. Niveles de servicio (SLA)
+El adjudicatario deberá garantizar los siguientes tiempos de respuesta y resolución según la 
+criticidad de la incidencia:
+Nivel Definición Tiempo máximo de 
+respuesta
+Tiempo máximo de 
+resolución
+
+--- página 4 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465657312726306 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+4
+Tecnologías de la Información y 
+Comunicaciones
+Nivel Definición Tiempo máximo de 
+respuesta
+Tiempo máximo de 
+resolución
+Crítica Caída total de uno o varios portales, o 
+fallo de seguridad grave
+1 hora 4 horas
+Alta Funcionalidad principal degradada o 
+inaccesible para usuarios
+4 horas 1 día hábil
+Normal Error menor, cosmético o que no impide 
+el uso del portal
+1 día hábil 5 días hábiles
+La disponibilidad mínima exigida de la plataforma será del 99,5% mensual, excluidos los períodos 
+de mantenimiento programado previamente comunicados al Ayuntamiento.
+El horario ordinario de atención cubrirá al menos: de lunes a jueves, de 8:00 a 18:00 h, y viernes de 
+8:00 a 15:00 h (excepto festivos nacionales y locales). Se deberá disponer de un teléfono de 
+urgencia para la atención de incidencias críticas fuera del horario ordinario.
+3.6. Accesibilidad web
+Al inicio del contrato, el adjudicatario realizará una auditoría de accesibilidad de los portales 
+incluidos en el alcance, conforme a las pautas WCAG 2.1 (o equivalente) y al Real Decreto 
+1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web y aplicaciones para 
+dispositivos móviles del sector público. A partir de los resultados, presentará un plan de corrección 
+de las deficiencias detectadas, con priorización y calendario de resolución, para su aprobación por 
+el responsable del contrato. Cualquier intervención evolutiva posterior no podrá degradar el nivel 
+de accesibilidad existente en el momento de su ejecución. Se encargará también de preparar los 
+informes necesarios para el Observatorio de Accesibilidad.
+3.7. Seguimiento, verificación y aceptación
+El adjudicatario deberá:
+• Informe mensual de actividad: Detalle de incidencias atendidas (clasificadas por nivel de 
+criticidad y estado de resolución), horas consumidas de la bolsa evolutiva y estado de las 
+actualizaciones de seguridad aplicadas.
+• Sistema de gestión de incidencias: El adjudicatario dispondrá de un sistema de ticketing 
+(o equivalente) accesible al Ayuntamiento en todo momento, que permita el seguimiento 
+del estado de cada incidencia.
+• Aceptación de evolutivos: Cada intervención imputable a la bolsa de horas requerirá 
+aceptación formal por parte del responsable del contrato antes de su imputación, 
+mediante validación del presupuesto previo y del resultado entregado.
+
+--- página 5 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465657312726306 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+5
+Tecnologías de la Información y 
+Comunicaciones
+• Reuniones de seguimiento: Se celebrarán reuniones periódicas de seguimiento con una 
+frecuencia mínima mensual entre el adjudicatario y el responsable del contrato designado 
+por el Ayuntamiento.
+3.8. Entregables y documentación técnica
+El adjudicatario deberá producir, mantener actualizada y entregar al Ayuntamiento de Burgos la 
+documentación que se relaciona a continuación. Todos los entregables se presentarán en formato 
+PDF (para la versión de registro) y en formato editable abierto (ODT, DOCX o equivalente), salvo 
+que se indique otra cosa. La entrega se realizará a través del sistema de gestión de incidencias o del 
+canal que designe el responsable del contrato.
+La siguiente tabla resume el conjunto de entregables exigidos, su periodicidad y el plazo máximo 
+de entrega:
+# Entregable Periodicidad Plazo máximo de entrega
+E1 Informe mensual de 
+actividad
+Mensual 5 días hábiles tras el cierre 
+del mes
+E2 Auditoría de accesibilidad 
+inicial
+Única (inicio) 30 días naturales desde el 
+inicio del contrato
+E3 Plan de corrección de 
+accesibilidad
+Única (inicio) 15 días naturales tras la 
+entrega de E2
+E4 Registro de cambios Continuo / actualización tras 
+cada intervención
+Máximo 48 horas tras cada 
+intervención
+E5 Documentación técnica de 
+la plataforma
+Tras cada intervención 
+relevante
+Máximo 5 días hábiles tras la 
+intervención
+E6 Código fuente de desarrollos 
+evolutivos
+Tras cada intervención 
+evolutiva aceptada
+Máximo 5 días hábiles tras la 
+aceptación
+E7 Plan de traspaso Única (fin de contrato) 60 días naturales antes de la 
+finalización
+E8 Informe final de servicio Única (fin de contrato) 15 días naturales antes de la 
+finalización
+E1 — Informe mensual de actividad
+Con carácter mensual, el adjudicatario remitirá un informe de actividad que incluirá, como mínimo:
+• Relación de incidencias atendidas durante el período, clasificadas por nivel de criticidad 
+(crítica, alta, normal) e indicando estado de resolución, tiempo de respuesta y tiempo de 
+resolución efectivo.
+
+--- página 6 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465657312726306 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+6
+Tecnologías de la Información y 
+Comunicaciones
+• Resumen del cumplimiento de los niveles de servicio (SLA) definidos en el apartado 3.5, 
+con indicación de posibles desviaciones y sus causas.
+• Estado de las actualizaciones de seguridad y parches aplicados.
+• Horas consumidas de la bolsa evolutiva en el período y acumulado desde el inicio del 
+contrato.
+• Estado de las intervenciones evolutivas en curso o pendientes de aprobación.
+El informe se entregará en formato PDF, firmado electrónicamente por el interlocutor técnico del 
+adjudicatario, en un plazo máximo de 5 días hábiles tras el cierre de cada mes natural.
+E2 — Auditoría de accesibilidad inicial
+Conforme a lo establecido en el apartado 3.6, el adjudicatario realizará una auditoría de 
+accesibilidad de todos los portales incluidos en el alcance, con arreglo a las pautas WCAG 2.1 nivel 
+AA y al Real Decreto 1112/2018. El informe de auditoría incluirá:
+• Metodología empleada y herramientas utilizadas.
+• Relación detallada de deficiencias detectadas, clasificadas por nivel de impacto y criterio 
+WCAG afectado.
+• Capturas de pantalla o evidencias técnicas de cada deficiencia.
+Formato de entrega: PDF + anexo en formato editable con la relación de deficiencias (hoja de 
+cálculo o equivalente).
+E3 — Plan de corrección de accesibilidad
+A partir de los resultados de la auditoría (E2), el adjudicatario presentará un plan de corrección que 
+incluirá:
+• Priorización de las deficiencias detectadas según su impacto en la experiencia de usuario y 
+en el cumplimiento normativo.
+• Calendario de resolución con hitos y fechas estimadas.
+• Estimación de horas de la bolsa evolutiva necesarias para cada corrección.
+El plan deberá ser aprobado por el responsable del contrato antes de su ejecución.
+E4 — Registro de cambios
+El adjudicatario mantendrá un registro actualizado de todas las intervenciones realizadas sobre la 
+plataforma. Cada entrada del registro incluirá, como mínimo:
+
+--- página 7 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465657312726306 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+7
+Tecnologías de la Información y 
+Comunicaciones
+• Fecha y hora de la intervención.
+• Descripción de la actuación realizada.
+• Componentes o módulos afectados (páginas, portlets, plantillas, configuración de servidor, 
+base de datos, etc.).
+• Identificador del ticket o incidencia asociada.
+• Responsable técnico que ejecutó la intervención.
+• Estado resultante (resuelto, pendiente de validación, en seguimiento).
+El registro se mantendrá en formato editable y accesible al Ayuntamiento en todo momento a 
+través del sistema de gestión de incidencias. Se actualizará en un plazo máximo de 48 horas tras 
+cada intervención.
+E5 — Documentación técnica de la plataforma
+El adjudicatario mantendrá actualizada la documentación técnica de la plataforma y la entregará al 
+Ayuntamiento tras cada intervención que suponga un cambio relevante en la arquitectura, 
+configuración o dependencias del sistema. Esta documentación comprenderá, como mínimo:
+• Diagrama de arquitectura actualizado (servidores, servicios, bases de datos, integraciones).
+• Inventario de componentes y versiones instaladas (Liferay, Tomcat, Java, base de datos, 
+librerías principales).
+• Procedimientos de despliegue, backup y restauración.
+• Credenciales y accesos (entregados de forma segura al responsable del contrato, no 
+incluidos en el documento general).
+• Registro de integraciones con sistemas externos activas en cada momento.
+Formato de entrega: PDF para la versión de registro + formato editable para los diagramas y el 
+inventario de componentes.
+E6 — Código fuente de desarrollos evolutivos
+Todo desarrollo, portlet, plantilla, script o adaptación realizada en el marco de la bolsa de horas 
+evolutivas deberá ser entregado al Ayuntamiento en formato editable y con comentarios 
+suficientes para su comprensión y mantenimiento posterior. La entrega incluirá:
+• Código fuente completo en formato de repositorio (Git o equivalente) o, en su defecto, en 
+archivo comprimido (.zip o .tar.gz).
+• Documentación funcional y técnica del desarrollo (descripción, dependencias, 
+instrucciones de despliegue).
+
+--- página 8 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465657312726306 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+8
+Tecnologías de la Información y 
+Comunicaciones
+• Resultado de las pruebas realizadas antes de la puesta en producción.
+La entrega se realizará en un plazo máximo de 5 días hábiles tras la aceptación formal de cada 
+intervención evolutiva por parte del responsable del contrato. Esta obligación es coherente con lo 
+establecido en el apartado 3.9 sobre propiedad intelectual.
+E7 — Plan de traspaso
+Con una antelación mínima de 60 días naturales antes de la fecha de finalización del contrato, el 
+adjudicatario elaborará y entregará un plan de traspaso del servicio que incluirá, como mínimo:
+• Estado actualizado de todos los entregables de documentación (E4 y E5).
+• Relación de incidencias abiertas o en seguimiento en el momento del traspaso.
+• Inventario completo de accesos, credenciales y configuraciones necesarias para la 
+continuidad del servicio.
+• Calendario del período de solapamiento, con una duración mínima de 30 días naturales, 
+durante el cual el adjudicatario prestará soporte técnico al nuevo adjudicatario o al equipo 
+del Ayuntamiento para garantizar la continuidad del servicio.
+• Identificación de riesgos técnicos del traspaso y medidas de mitigación propuestas.
+El plan deberá ser aprobado por el responsable del contrato antes del inicio del período de 
+solapamiento.
+E8 — Informe final de servicio
+En los 15 días naturales anteriores a la finalización del contrato, el adjudicatario entregará un 
+informe final que recoja:
+• Resumen de la actividad prestada durante toda la vigencia del contrato (incidencias 
+atendidas, horas evolutivas consumidas, actualizaciones aplicadas).
+• Grado de cumplimiento de los SLA a lo largo del contrato.
+• Estado final de la plataforma: versiones instaladas, integraciones activas, incidencias 
+pendientes.
+• Relación de desarrollos evolutivos entregados con referencia a su documentación y código 
+fuente.
+Condiciones generales de aceptación
+El responsable del contrato dispondrá de un plazo de 10 días hábiles desde la recepción de cada 
+entregable para su revisión y aceptación o para solicitar las correcciones que procedan. El 
+
+--- página 9 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465657312726306 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+9
+Tecnologías de la Información y 
+Comunicaciones
+adjudicatario deberá subsanar las deficiencias indicadas en un plazo máximo de 5 días hábiles 
+desde la notificación. La aceptación formal de los entregables es condición necesaria para la 
+imputación de las horas evolutivas correspondientes y para la tramitación de las facturas asociadas 
+al período.
+3.9. Propiedad intelectual
+Todos los desarrollos, adaptaciones, portlets, plantillas y demás elementos creados o modificados 
+en el marco del presente contrato serán propiedad del Ayuntamiento de Burgos. El adjudicatario 
+cederá al Ayuntamiento, con carácter exclusivo y sin limitación temporal ni territorial, todos los 
+derechos de explotación sobre dichos desarrollos, incluyendo los derechos de reproducción, 
+distribución, comunicación pública y transformación. El código fuente de todos los desarrollos 
+deberá ser entregado al Ayuntamiento en formato editable al finalizar el contrato o cuando este lo 
+requiera.
+3.10. Responsable del contrato
+El Ayuntamiento de Burgos designará un responsable técnico del contrato que actuará como 
+interlocutor principal con el adjudicatario. Corresponderá al responsable del contrato, entre otras 
+funciones: aprobar los presupuestos de intervenciones evolutivas, validar los informes mensuales 
+de actividad, convocar las reuniones de seguimiento y verificar el cumplimiento de los niveles de 
+servicio establecidos.
+El adjudicatario designará igualmente un interlocutor técnico único, disponible durante el horario 
+ordinario de atención definido en el apartado 3.5, que será el punto de contacto para todas las 
+comunicaciones con el Ayuntamiento.
+3.11. Plazo de garantía
+El adjudicatario responderá de los defectos o vicios ocultos que pudieran detectarse en las 
+intervenciones realizadas en el marco del presente contrato durante un plazo de garantía mínimo 
+de 6 meses contados desde la aceptación formal de cada entrega por parte del responsable del 
+contrato.
+Durante el período de garantía, el adjudicatario estará obligado a corregir, sin coste adicional para 
+el Ayuntamiento, cualquier defecto o anomalía que traiga causa directa de una intervención 
+previamente ejecutada y aceptada. La corrección de defectos en garantía no consumirá horas de la 
+bolsa evolutiva.
+El plazo de garantía aplicable al conjunto del contrato, así como las condiciones de devolución de 
+la garantía definitiva, se regularán en el Pliego de Cláusulas Administrativas Particulares.
+
+--- página 10 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465657312726306 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+10
+Tecnologías de la Información y 
+Comunicaciones
+3.12. Protección de datos (RGPD, LOPDGDD, LCSP)
+El contratista accede a la base de datos de Liferay (usuarios, formularios, suscripciones, logs con IP), 
+por lo que es encargado del tratamiento:
+• Acuerdo de encargo (art. 28 RGPD y DA 25ª LCSP) como anexo: objeto, duración, tipos de 
+datos, instrucciones, confidencialidad del personal, subencargados con autorización previa, 
+devolución o destrucción de datos al final, auxilio en el ejercicio de derechos y en EIPD.
+• Art. 122.2 LCSP (obligación esencial, causa de resolución): finalidad del tratamiento, 
+declaración de ubicación de servidores y lugar de prestación del servicio, comunicación de 
+cualquier cambio. Debe figurar también en el PCAP.
+• Notificación de brechas al Ayuntamiento sin dilación y como máximo en 24 h, para que 
+este cumpla las 72 h del art. 33 RGPD.
+• Privacidad desde el diseño (art. 25) en evolutivos; entornos de prueba solo con datos 
+anonimizados o ficticios.
+• Cookies y analítica: LSSI art. 22.2 y Guía de cookies de la AEPD. Banner conforme (rechazar 
+tan fácil como aceptar). Analítica preferente sin cookies de terceros o autoalojada, para 
+evitar transferencias internacionales.
+• Formularios: textos informativos de primera capa y enlace a política de privacidad 
+actualizada.
+4. Inicio de la prestación
+El servicio se iniciará a partir del 10 de noviembre de 2026, tras la finalización del contrato vigente 
+2025001383/SERV/TIC/MEN o desde el día siguiente a la formalización, si fuera posterior.
+5. Normativa aplicable
+5.1. Normativa general
+• LCSP: Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público.
+• RGPD: Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 
+2016.
+• LOPDGDD: Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y 
+garantía de los derechos digitales.
+
+--- página 11 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465657312726306 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+11
+Tecnologías de la Información y 
+Comunicaciones
+• RD 1112/2018: Real Decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los 
+sitios web y aplicaciones para dispositivos móviles del sector público.
+5.2. Normativa técnica
+• Esquema Nacional de Seguridad (ENS): Real Decreto 311/2022, de 3 de mayo. El 
+adjudicatario deberá acreditar la conformidad con el Esquema Nacional de Seguridad 
+mediante alguno de los siguientes medios:
+– Certificación de conformidad con el ENS emitida por entidad de certificación 
+acreditada por ENAC, en cualquiera de sus categorías.
+– Declaración de conformidad del adjudicatario acompañada de informe de auditoría 
+técnica realizada por auditor independiente.
+Para más información al respecto consultar el Anexo I - Categorización ENS
+• WCAG 2.1 (o equivalente): Pautas de Accesibilidad para el Contenido Web, nivel AA, 
+como referencia para las intervenciones sobre los portales.
+• UNE 178501, 178502 y 178503 (Destinos Turísticos Inteligentes)
+• Ley 14/2010, de 9 de diciembre, de turismo de Castilla y León. 
+5.3. Cumplimiento y actualización normativa
+El adjudicatario es responsable de garantizar el cumplimiento de la normativa vigente en cada 
+momento y de adaptarse a las nuevas regulaciones que puedan surgir durante la vigencia del 
+contrato que afecten al objeto de la prestación.
+Anexo I - Categorización ENS
+Valoración según el anexo I del RD 311/2022 y la guía CCN-STIC 803. 
+• Criterios:
+• BAJO = perjuicio leve y subsanable;
+• MEDIO = daño importante, aunque subsanable;
+• ALTO = daño grave de difícil reparación.
+En disponibilidad, por tiempo de recuperación (RTO): BAJO 1–5 días, MEDIO 4 h–1 día, ALTO menos 
+de 4 h. “n.a.” = la dimensión no aplica.
+
+--- página 12 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465657312726306 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+12
+Tecnologías de la Información y 
+Comunicaciones
+Premisas de partida 
+• Los portales publican solo información turística sin efectos jurídicos: no forman parte de la 
+sede electrónica ni publican bandos, avisos de emergencia o de protección civil.
+• No hay formularios, suscripciones ni boletines que recojan datos personales de la 
+ciudadanía.
+• Todos los subportales de la instancia multiportal tienen esta misma naturaleza.
+• No hay integraciones con reservas, venta de entradas, pagos ni sistemas municipales de 
+categoría superior.
+• La información está disponible por canales alternativos (oficinas de turismo, redes sociales, 
+otros canales municipales).
+Si cambiara alguna premisa habría que revisar la categorización.
+Información:
+Información C I A T Justificación
+Contenidos turísticos 
+publicados (recursos, agenda, 
+rutas)
+n.a. BAJO BAJO BAJO Información pública sin efectos 
+jurídicos; una alteración se 
+detecta y se revierte desde 
+copia en horas, con perjuicio 
+leve
+Datos personales residuales 
+(cuentas de editores, IP en 
+logs)
+BAJO BAJO BAJO BAJO Identificativos básicos de 
+personal interno y datos 
+técnicos; sin categorías 
+especiales ni datos de la 
+ciudadanía
+Servicios:
+Servicio D A T Justificación
+Portal público de 
+información 
+turística
+BAJO n.a. n.a. Sin trámites ni 
+plazos asociados.
+Una caída de 1–5 
+días tiene 
+impacto leve 
+gracias a los 
+
+--- página 13 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465657312726306 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+13
+Tecnologías de la Información y 
+Comunicaciones
+Servicio D A T Justificación
+canales 
+alternativos.
+Gestión de 
+contenidos 
+(acceso de 
+editores)
+BAJO BAJO BAJO Puede esperar 1–
+5 días.
+Lo publicado es 
+reversible
+Resultado: categoría BÁSICA [C=BAJO, I=BAJO, D=BAJO, A=BAJO, T=BAJO].
+Ninguna dimensión alcanza MEDIO, así que la categoría es BÁSICA.
+
+--- página 14 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465657312726306 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+14
+Tecnologías de la Información y 
+Comunicaciones
+Anexo II - Cuadro de mandos de KPIs
+Para el seguimiento del contrato, el adjudicatario deberá gestionar y supervisar los indicadores de la siguiente tabla. Se deben considerar como una referencia 
+inicial y podrán ampliarse o reducirse de común acuerdo con el Ayuntamiento.
+Las columnas que referencian a las normas de calidad y modelos de excelencia se presentan sólo a título informativo (aquellas marcadas con “●” indican que dicha 
+norma exige o usa directamente el indicador).
+ Se deberán reportar en E1 (mensual) y E10 (anual), con meta, valor, tendencia de 3 periodos y acción a ejecutar si no se cumple.
+# KPI Fórmula / medida Meta Frec. 9001 14001 CAF EFQM 93200 66182
+A Servicio y SLA
+A1 Disponibilidad Minutos en servicio / minutos totales ≥ 99,5 
+%
+Mensual ● ● ● ● ●
+A2 Cumplimiento 
+respuesta
+Incidencias respondidas en plazo / total, 
+por criticidad
+≥ 95 % Mensual ● ● ●
+A3 Cumplimiento 
+resolución
+Resueltas en plazo / total, por criticidad ≥ 95 % 
+(crítica
+s 100 
+%)
+Mensual ● ● ●
+
+--- página 15 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465657312726306 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+15
+Tecnologías de la Información y 
+Comunicaciones
+# KPI Fórmula / medida Meta Frec. 9001 14001 CAF EFQM 93200 66182
+A4 Incidencias 
+recurrentes
+Incidencias repetidas en 90 días / total ≤ 5 % Trimestr ● ● ●
+A5 Reaperturas Tickets reabiertos / cerrados ≤ 3 % Mensual ● ●
+A6 Cambios 
+fallidos
+Despliegues con marcha atrás o incidencia 
+/ total
+≤ 5 % Trimestr ● ● ●
+B Ciudadanía y 
+usuarios
+B1 Satisfacción de 
+visitantes del 
+portal
+Valoración media (escala 1–5) ≥ 4,0 Semestr ● ● ● ● ●
+B2 Satisfacción de 
+editores 
+internos
+Encuesta anual (1–5) ≥ 4,0 Anual ● ● ●
+B3 Quejas sobre el 
+portal 
+respondidas en 
+plazo
+Respondidas ≤ 15 d.h. / total 100 % Trimestr ● ● ● ● ●
+B4 Uso del portal Usuarios únicos y sesiones Tende
+ncia 
+crecie
+nte
+Mensual ● ● ●
+
+--- página 16 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465657312726306 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+16
+Tecnologías de la Información y 
+Comunicaciones
+# KPI Fórmula / medida Meta Frec. 9001 14001 CAF EFQM 93200 66182
+C Accesibilidad e 
+inclusión
+C1 Conformidad 
+WCAG 2.1 AA
+Criterios cumplidos / aplicables (muestra 
+RD 1112/2018)
+100 % Semestr ● ● ● ● ●
+C2 Avance del plan 
+de corrección 
+(E3)
+Deficiencias corregidas / planificadas 100 % 
+en 
+plazo
+Trimestr ● ● ●
+C3 Cobertura 
+lingüística
+Páginas clave en ES/EN/FR / total páginas 
+clave
+100 % Semestr ● ● ● ●
+D Seguridad y 
+protección de 
+datos
+D1 Parches críticos 
+aplicados en 
+plazo
+Aplicados ≤ 7 días (críticos) / publicados 100 % Mensual ● ● ● ●
+D2 Vulnerabilidade
+s altas/críticas 
+abiertas
+N.º abiertas > 30 días (escaneo mensual) 0 Mensual ● ● ●
+D3 Pruebas de 
+restauración
+Restauraciones verificadas con éxito / 
+programadas
+100 % 
+(mín. 
+semes
+Semestr
+al
+● ●
+
+--- página 17 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465657312726306 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+17
+Tecnologías de la Información y 
+Comunicaciones
+# KPI Fórmula / medida Meta Frec. 9001 14001 CAF EFQM 93200 66182
+tral)
+D4 Incidentes de 
+seguridad / 
+brechas 
+notificados en 
+plazo
+Notificados ≤ 24 h al Ayuntamiento / total 100 % Mensual ● ● ●
+D5 Certificado TLS 
+y cabeceras de 
+seguridad
+Calificación en prueba TLS / cabeceras ≥ A Trimestr
+al
+● ●
+E Sostenibilidad 
+ambiental
+E1 Peso medio de 
+página
+MB transferidos (10 páginas más visitadas) ≤ 1,5 
+MB
+Trimestr ● ● ● ●
+E2 Emisiones 
+estimadas
+g CO₂e por visita (metodología declarada) Reduc
+ción 
+10 
+%/año
+Anual ● ● ● ●
+E3 Rendimiento 
+(Core Web 
+Vitals)
+% URLs con LCP ≤ 2,5 s, INP ≤ 200 ms, CLS 
+≤ 0,1
+≥ 75 % Trimestr ● ● ● ● ● ●
+F Gestión del 
+contrato y 
+
+--- página 18 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465657312726306 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+18
+Tecnologías de la Información y 
+Comunicaciones
+# KPI Fórmula / medida Meta Frec. 9001 14001 CAF EFQM 93200 66182
+mejora
+F1 Entregables 
+aceptados en 
+primera 
+revisión
+Aceptados sin correcciones / entregados ≥ 90 % Trimestr ● ● ●
+F2 Acciones de 
+mejora cerradas
+Cerradas en plazo / abiertas ≥ 85 % Trimestr ● ● ● ● ●
+F3 Ejecución de la 
+bolsa evolutiva
+Horas consumidas / horas planificadas al 
+periodo
+90–
+110 %
+Mensual ● ● ●
+Las metas deben considerarse inicialmente como orientativas y se deberá tratar de ir mejorando en aquellas que sea posible.
+Las fuentes deben ser auditables por el Ayuntamiento (ticketing, monitor externo, herramientas de análisis), no solo declaradas por el contratista.
+
+--- página 19 ---
+ 
+Documento firmado electrónicamente. La autenticidad de este documento puede ser comprobada mediante C.S.V: 
+16344465657312726306 en https://sede.aytoburgos.es/ Tel: 947 288 800 •  Plaza Mayor, 1. 09071 Burgos
+19
+Tecnologías de la Información y 
+Comunicaciones

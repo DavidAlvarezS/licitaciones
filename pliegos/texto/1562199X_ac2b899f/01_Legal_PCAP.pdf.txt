@@ -1,0 +1,3647 @@
+
+
+--- página 1 ---
+ANNEX I QUADRE DE CARACTERÍSTIQUES DEL PLEC DE CLÀUSULES ADMINISTRATIVES PARTICULARS 
+CORRESPONENT A LA CONTRACTACIÓ DE LA RENOVACIÓ DE LA SUBSCRIPCIÓ DE MICROSOFT AZURE I SERVEIS 
+ASSOCIATS DE SUPORT ESPECIALITZAT, A ADJUDICAR MITJANÇANT TRAMITACIÓ ORDINÀRIA I PROCEDIMENT 
+SIMPLIFICAT. EXPEDIENT: 1562199X.    
+ 
+Apartat 1 - CONFIGURACIÓ GENERAL DEL CONTRACTE. 
+Definició de l’objecte del contracte: La renovació de la subscripció Microsoft Azure del Consell de Mallorca en 
+modalitat Cloud Solution Provider (CSP) de pagament per ús, així com la 
+prestació de serveis de suport tècnic especialitzat relacionats amb 
+arquitectures cloud Microsoft Azure, serveis d'intel·ligència artificial i 
+serveis associats. 
+Codis CPV: 48000000-8 Paquetes de software y sistemas de información 
+72000000-5 Servicios TI: consultoría, desarrollo de software, Internet y 
+apoyo 
+Necessitats administratives a 
+satisfer mitjançant el contracte:  
+Dotar els recursos necessaris al Consell de Mallorca per donar continuïtat 
+als projectes relacionats amb la Intel·ligència Artificial que ja té 
+implementats, així com permetre i garantir la possibilitat de posar en 
+marxa els que s’estan desenvolupant utilitzant diferents serveis de la 
+infraestructura en el núvol d’Azure. 
+Contracte de serveis complementari 
+d’obres/subministrament: 
+ Sí 
+ No 
+Obligatorietat d’inscripció en el Registre Oficial de 
+Licitadors (art. 159.4 LCSP): 
+ Sí  
+ No, atès que es veuria limitada la concurrència. 
+ 
+Apartat 2 - DIVISIÓ DE L'OBJECTE DEL CONTRACTE EN LOTS. 
+Divisió en lots:  Sí 
+ No 
+Justificació de la NO 
+divisió del contracte en 
+lots: 
+L’objecte del contracte no es divideix en lots perquè constitueix una única unitat 
+funcional i el fet d’independitzar els diferents serveis que el comprenen dificultaria 
+la correcta execució del mateix, en els termes que preveu l’article 99.3.b) de la LCSP. 
+ 
+Apartat 3 - OBLIGACIÓ DE SUBROGACIÓ PER NORMA LEGAL, UN CONVENI COL·LECTIU O UN ACORD DE 
+NEGOCIACIÓ COL·LECTIVA D'EFICÀCIA GENERAL (ARTICLE 130 LCSP). 
+Obligació de subrogació:  Sí. 
+ No. 
+ 
+Apartat 4 - RESERVA DE CONTRACTES CONFORME A LA D.A. 4A LCSP 
+Contracte reservat:  Sí. 
+ No. 
+ 
+Apartat 5 - CESSIÓ I TRACTAMENT DE DADES 
+Contracte que per executar-lo requereix de la cessió de dades per part 
+d’entitats del sector públic al contractista: 
+ Sí.  
+ No. 
+Contracte que per executar-lo requereix el tractament pel contractista de 
+dades personals per compte del responsable del tractament: 
+ Sí.  
+ No. 
+ 
+L'obligació de l'empresa adjudicatària de presentar abans de la formalització 
+del contracte una declaració en què posi de manifest on estaran ubicats els 
+servidors i des d'on es prestaran els serveis associats a aquests, així com 
+l’obligació  de comunicar qualsevol canvi al respecte. 
+ 
+ Sí.  
+ No. 
+Caràcter d’obligació essencial d’acord amb el que preveu l’art. 211.1.f) LCSP:  Sí No 
+Finalitat del tractament: Utilització de serveis Azure per al desenvolupament 
+i funcionament de sistemes d'informació i solucions d'intel·ligència artificial que 
+puguin tractar informació de fonts públiques i dades corporatives o internes de 
+ 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 1 de 48
+
+--- página 2 ---
+l'Administració, amb la finalitat de donar suport als processos de treball, la 
+gestió de la informació, la modernització administrativa i la prestació dels 
+serveis públics. 
+ 
+Apartat 6 - ÒRGANS ADMINISTRATIUS 
+Denominació de l’òrgan de contractació: Conseller executiu d’Hisenda, Innovació i Funció Pública, 
+per delegació del Consell Executiu del Consell de Mallorca 
+(BOIB núm. 69 de 31 de maig de 2025) 
+Adreça postal de l’òrgan de contractació: Carrer del Palau Reial, 1. 07001 Palma 
+Unitat tramitadora: Servei de Contractació de la ST del Departament d’Hisenda, 
+Innovació i Funció Pública. 
+Òrgan destinatari de l’objecte del contracte: Direcció Insular de Modernització, Transparència i 
+Innovació 
+Adreça postal de l’òrgan destinatari del contracte: General Riera, 113, 07010 Palma. 
+ 
+Apartat 7 - ÒRGANS D'ASSISTÈNCIA A L'ÒRGAN DE CONTRACTACIÓ 
+Mesa de Contractació   Sí. 
+ No. 
+Composició: S’indica en la resolució d’aprovació de l’expedient 
+ 
+Apartat 8 - UNITAT ENCARREGADA DEL SEGUIMENT I EXECUCIÓ DEL CONTRACTE I RESPONSABLE DEL CONTRACTE 
+Unitat encarregada del seguiment 
+i de l’execució del contracte: 
+Direcció Insular de Modernització, Transparència i Innovació 
+ 
+Responsable del contracte: Cap de Servei de Projectes de Modernització o la persona en qui delegui 
+ 
+Apartat 9 - VALOR ESTIMAT DEL CONTRACTE (ART. 101 LCSP) 
+Valor estimat del contracte (VEC): 42.467,88 € 
+Import de la licitació (IVA exclòs): 19.303,58 € 
+Import de les modificacions previstes IVA exclòs (20%): 3.860,72 € 
+Import dels premis o primes a pagar als licitadors (IVA 
+exclòs): 
+ 
+Import de les opcions eventuals (IVA exclòs):  
+Import de les pròrrogues (IVA exclòs): 19.303,58 € 
+Contracte subjecte a regulació harmonitzada (SARHA):  Sí 
+ No 
+ 
+Apartat 10 - PRESSUPOST BASE DE LICITACIÓ I CRÈDIT EN QUÈ S'EMPARA 
+Pressupost (IVA exclòs): 19.303,58 € 
+IVA 21 %: 4.053,75 € 
+Pressupost base de licitació (IVA inclòs): 23.357,33 € 
+ 
+Desglossament del pressupost base de licitació: 
+ 
+Costos directes: 10.033,58 € 
+Costos indirectes: 0,00 € 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 2 de 48
+
+--- página 3 ---
+Costos salarials: 9.270,00 € 
+Altres despeses: 4.053,75 € 
+ 
+Cofinançament:  Sí 
+ No 
+ 
+ 
+ 
+ 
+Distribució per anualitats: 
+Anualitat Aplicació pressupostària Import 
+2027 10.92211.20600 12.140,63 € 
+10.92211.22706 11.216,70 € 
+ 
+Forma de determinació del preu: 
+Sistema de determinació del pressupost:  A tant alçat. 
+ Preu referit a unitats d’execució. Els preus aplicats durant 
+l’execució del contracte seran els que resultin de l’oferta de 
+l’adjudicatària. El Consell de Mallorca no té l’obligació d’esgotar la 
+totalitat de la despesa màxima autoritzada. Es tracta d’un 
+contracte de subministrament en funció de les necessitats, dels 
+prevists a la DA 33ª de la LCSP. 
+ Preu referit a unitat de temps 
+ Preu referit a components de la prestació 
+Ampliació a un nombre major d’unitats per 
+la baixa d’adjudicació  
+ Sí     
+ No 
+Possibilitat d’incrementar el nombre 
+d’unitats fins al 10 % del preu del contracte 
+ Sí 
+ No  
+Revisió de preus:  Sí 
+ No 
+ 
+Apartat 11 - RÈGIM DE PAGAMENTS 
+ Pagament únic, previ lliurament i recepció de conformitat de la totalitat del servei. 
+ Es fan pagaments parcials prèvia recepció parcial de les successives parts del servei, segons el calendari de 
+lliuraments del contracte. 
+ S’expediran factures mensuals, com a pagaments a compte. 
+ A petició del contractista, s’autoritza fer valoracions i certificacions parcials per treballs fets abans que se’n 
+produeixi el lliurament, per al pagament del qual aquest ha de prestar la garantia corresponent a l’import de 
+les certificacions parcials 
+Abonament a compte per operacions preparatòries:  Sí  No 
+Condicions de presentació de les factures: 
+ 
+Els proveïdors de les administracions públiques constituïts en persona jurídica (SA, SL, associacions, UTE...), 
+d’acord amb l’art. 4 de la Llei 25/2013, de 27 de desembre, tenen l’obligació de remetre les seves factures en 
+format electrònic, mitjançant el punt d’entrada FACE. 
+ 
+La resta de proveïdors (autònoms/persones físiques) poden presentar factures sense fer servir FACE, i 
+presentar-les mitjançant el Registre Electrònic del Consell de Mallorca. 
+En qualsevol cas, a la factura heu de fer constar les següents dades: 
+Oficina comptable: LA007693 
+Òrgan gestor: LA007640 
+Unitat Tramitadora: LA007693 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 3 de 48
+
+--- página 4 ---
+ 
+Apartat 12 – DURADA I TERMINI D'EXECUCIÓ 
+Durada/Termini total: Un any. Des de l’1 de gener de 2027 – data estimada d’inici -  o des de la data que 
+s’indiqui en el document de formalització del contracte, si fos posterior. 
+Terminis Parcials:   Sí  No  
+Recepcions parcials:  Sí   No 
+Les recepcions parcials donaran dret al contractista per a sol·licitar la cancel·lació de la 
+part proporcional de la garantia definitiva: 
+ Sí 
+No 
+Pròrroga:   Sí No      Possibilitat d’un any de pròrroga 
+ 
+Apartat 13 - PROGRAMA DE TREBALL 
+Obligació de presentar un 
+programa de treball: 
+  Sí.  
+ No. 
+ 
+Apartat 14 – LLOC DE LLIURAMENT DEL SERVEI/SUBMINISTRAMENT  
+Lloc de lliurament del 
+subministrament: 
+A través dels sistemes digitals/telemàticament 
+ 
+Apartat 15 - HABILITACIÓ EMPRESARIAL  
+Habilitació empresarial:  Sí 
+ No    
+ 
+Apartat 16. CONDICIÓ PERSONAL EXIGIDA ALS LICITADORS 
+Condicions personals exigides als licitadors  Sí    Els licitadors hauran d’acreditar la capacitat per 
+comercialitzar, gestionar i facturar serveis Microsoft 
+Azure mitjançant el programa Microsoft Cloud Solution 
+Provider (CSP) vigent o qualsevol altre programa vigent 
+de Mircrosoft que habiliti aquestes funcions.  
+Aquesta capacitat es podrà acreditar mitjançant la 
+designació Microsoft Solutions Partner, mitjançant 
+documentació acreditativa emesa per Microsoft, 
+mitjançant contractes o acords de distribució autoritzats 
+o per qualsevol altre mitjà vàlid en dret que acrediti de 
+manera fefaent aquesta capacitat. 
+ No 
+ 
+Apartat 17 - PÒLISSES D'ASSEGURANCES 
+És procedent:  Sí: 
+ 
+ No 
+Moment de presentació:  
+ 
+Apartat 18 - PROCEDIMENT I CRITERIS D'ADJUDICACIÓ 
+Tramitació despesa anticipada:  Sí 
+ No    
+Tramitació:  Ordinària 
+ Urgent 
+Procediment  Obert 
+      Simplificat 
+      Simplificat abreujat 
+ Restringit 
+ Licitació amb negociació 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 4 de 48
+
+--- página 5 ---
+ Negociat sense publicitat 
+Criteris d’adjudicació:  Un criteri únic 
+ Pluralitat de criteris 
+Criteri: Puntuació 
+Oferta subscripció de Microsoft Azure: Fins a 50 punts 
+Oferta d’hores d’assistència tècnica:  Fins a 50 punts 
+ 
+Forma d’avaluar les proposicions: 
+Subscripció de Microsoft Azure. (fins  a 
+50 punts): 
+Es valorarà el descompte ofert sobre les tarifes oficials de Microsoft 
+AZURE  
+ 
+𝑃𝑖 = 𝑃 ·𝑂𝑖/𝑂 
+On: 
+- Pi = Puntuació de l'oferta i. 
+- P = Puntuació màxima (50 punts). 
+- O = Import del descompte més alt. 
+- Oi = Import del descompte de l’oferta i (l’oferta que es valora) 
+Hores d’assistència tècnica (fins a 50 
+punts) 
+Es valorarà el descompte ofert sobre el preu per hora calculat de la 
+borsa d’hores 
+ 
+𝑃𝑖 = 𝑃 ·𝑂𝑖/𝑂 
+On: 
+- Pi = Puntuació de l'oferta i. 
+- P = Puntuació màxima (50 punts). 
+- O = Import del descompte més alt. 
+- Oi = Import del descompte de l’oferta i (l’oferta que es valora) 
+ 
+De conformitat amb el que es disposa en l’art. 147.2 de la LCSP, l’empat entre diverses ofertes després d’aplicar 
+els criteris d’adjudicació del contracte s’ha de resoldre mitjançant l’aplicació per ordre dels criteris socials 
+següents, referits al moment de finalitzar el termini de presentació d’ofertes:  
+i. Major percentatge de treballadors amb discapacitat o en situació d’exclusió social en la plantilla de cadascuna de les 
+empreses; en cas d’igualtat, ha de prevaldre del nombre més alt de treballadors fixos amb discapacitat en plantilla o el 
+nombre més alt de treballadors en inclusió en la plantilla. 
+ii. Menor percentatge de contractes temporals en la plantilla de cadascuna de les empreses. 
+iii. Major percentatge de dones ocupades en la plantilla de cadascuna de les empreses. 
+iv. El sorteig, en cas que l’aplicació dels criteris anteriors no hagi donat lloc al desempat. 
+ 
+A l’efecte d’aplicar aquests criteris, els licitadors han d’acreditar-los, si escau, mitjançant els contractes de treball 
+corresponents i els documents de cotització a la Seguretat Social, així com qualsevol altre document admès en 
+dret que acrediti els criteris socials anteriorment referits. 
+ 
+La documentació acreditativa dels criteris de desempat a què es refereix el present apartat serà 
+aportada pels licitadors en el moment en què es produeixi l'empat, i no amb caràcter previ. 
+ 
+Apartat 18 - SOLVÈNCIA ECONÒMICA, FINANCERA I TÈCNICA 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 5 de 48
+
+--- página 6 ---
+Obligació d’acreditar la solvència: 
+ 
+ 
+Sí  No 
+Acreditació de la solvència econòmica i financera:   Article 87.1 LCSP 
+Mitjans:  Volum anual de negocis, referit al millor exercici dins dels 
+tres darrers disponibles, que sigui igual o superior a: 
+63.701, 82 €  
+ 
+Criteris de selecció i requisits mínims: S’acreditarà: 
+ 
+- Per mitjà dels seus comptes anuals aprovats i 
+dipositats en el Registre Mercantil, si l'empresari 
+estigués inscrit en el registre, i en cas contrari per les 
+dipositades en el registre oficial en què hagi d'estar 
+inscrit. Els empresaris individuals no inscrits en el 
+Registre Mercantil acreditaran el seu volum anual de 
+negocis mitjançant els seus llibres d’inventaris i 
+comptes anuals legalitzats pel Registre Mercantil, o 
+ 
+-    Per mitjà de qualsevol model oficial declarat davant 
+l’Agència Estatal de l’Administració Tributària en el 
+que quedi reflectit el volum de negoci. 
+ 
+En cas que un licitador resulti classificat en primer lloc per 
+més d’un lot, l’import del volum de negocis haurà de ser igual 
+o superior a la suma de l’import del volum de negocis de 
+cada un dels lots del que hagi estat classificat en primer lloc. 
+Acreditació de la solvència tècnica:  Article 89 LCSP  
+Mitjans: Relació dels principals subministraments realitzats d'igual o 
+similar naturalesa que els que constitueixen l'objecte del 
+contracte en el curs de, com a màxim els tres últims anys, en 
+què s'indiqui l'import, la data i el destinatari, públic o privat 
+dels mateixos. 
+ 
+Quan li sigui requerit pels serveis dependents de l'òrgan de 
+contractació dels subministrament efectuats s'acreditaran 
+mitjançant certificats expedits o visats per l'òrgan 
+competent, quan el destinatari sigui una entitat del sector 
+públic; quan el destinatari sigui un subjecte privat, 
+mitjançant un certificat expedit per aquest o, mancant 
+aquest certificat, mitjançant una declaració de l'empresari 
+acompanyat dels documents que es troben en poder del 
+mateix que acreditin la realització de la prestació. 
+ 
+Per determinar si un subministrament és d’igual o similar 
+naturalesa que el de l’objecte del contracte s’estarà als tres 
+primers dígits del codi CPV. 
+Criteris de selecció i requisits mínims:  L’import anual acumulat en l’any de major execució dels 
+darrers tres anys ha de ser igual o superior a: 14.863,76 € 
+ 
+Empreses de nova creació: Article 89.1 h) LCSP. 
+Mitjans: Declaració sobre la plantilla mitja anual de l’empresa i del 
+número de directius els tres darrers anys. 
+ 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 6 de 48
+
+--- página 7 ---
+Criteris de selecció i requisits mínims:  El licitador haurà de presentar una declaració sobre la plantilla 
+mitja anual de l’empresa i del número de directius els tres 
+darrers anys. 
+ 
+Règim de responsabilitat en cas d'integració de solvència econòmica o financera amb mitjans externs: 
+En atenció a la naturalesa de la prestació quan un licitador recorri a les capacitats d'altres entitats per a l'acreditació 
+de la solvència, aquestes entitats seran solidàriament responsables de l'execució del contracte. 
+ 
+Apartat 19 - CONCRECIÓ DE LES CONDICIONS DE SOLVÈNCIA 
+Compromís d'adscripció a l'execució del contracte de mitjans personals i/o materials:  Sí  No   
+Mitjans a adscriure: El licitador classificat en primer lloc, dins el termini establert a l'article 159.2 de la LCSP, 
+haurà d'acreditar que disposa, com a mínim, dels següents mitjans personals adscrits a 
+l'execució del contracte: 
+ 
+L'empresa licitadora haurà d'adscriure a l'execució del contracte almenys un tècnic 
+especialista en Microsoft Azure. 
+ 
+ Aquest tècnic haurà de disposar d'una experiència mínima de tres anys en administració 
+i explotació de serveis Microsoft Azure i acreditar alguna de les certificacions oficials de 
+Microsoft següents o equivalents:  
+- Microsoft Certified: Azure Administrator Associate (AZ-104) 
+- Microsoft Certified: Azure Security Engineer Associate (AZ-500)  
+- Microsoft Certified: Azure Solutions Architect Expert (AZ-305) 
+ 
+Els licitadors hauran d'incloure els noms i qualificació professional del personal 
+responsable d'executar la prestació objecte del contracte. 
+ 
+Si aquest personal no és encara personal propi del licitador, s´haurà d’adjuntar 
+dins el termini establert a l'article 159.2 de la LCSP un preacord entre la persona 
+física i el licitador en virtut del qual aquell es compromet, en cas de resultar 
+el licitador adjudicatari, a prestar els seus serveis per a executar el present 
+contracte. 
+ 
+ 
+ 
+Sí No 
+ 
+Apartat 20 - GARANTIA PROVISIONAL 
+Procedeix:  Sí No 
+ 
+Apartat 21 - GARANTIA DEFINITIVA 
+Procedeix:  Sí  No 
+Quantia: 5 per cent del pressupost base de licitació, IVA exclòs. 
+Forma de prestar la garantia: En qualsevol de les formes regulades en l’article 108.1 LCSP 
+Constitució mitjançant retenció en el preu:  Sí No 
+ 
+Apartat 22 - GARANTIA COMPLEMENTÀRIA 
+Procedeix:  Sí  No 
+ 
+Apartat 23 - FORMA DE LES PROPOSICIONS 
+ 
+Les proposicions hauran de presentar-se a través de l’eina de preparació i presentació d’ofertes de la Plataforma de 
+Contratación del Sector Público en un únic sobre de declaració responsable i oferta de criteris valorables en xifres 
+o percentatges. 
+ 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 7 de 48
+
+--- página 8 ---
+Quan s'hagi transmès únicament la petjada electrònica “hash” de l'oferta (presentació d'oferta en dues fases), haurà 
+d'enviar-se l'arxiu electrònic que contingui l'oferta, en els termes indicats en la clàusula relativa a la “Presentació de 
+proposicions ” del present plec, en el Registre Electrònic del Consell de Mallorca. 
+ 
+ Sobre 
+Criteri- Documentació  
+ 
+Únic 
+Descompte ofert sobre subscripció de Microsof Azure-
+Model Annex PCAP 
+Descompte ofert sobre preu/hora de les hores 
+d’assistència tècnica 
+Model Annex PCAP 
+ 
+Apartat 24 - OFERTES ANORMALMENT BAIXES. 
+Procedeix:  Sí  No 
+S’entendran anormals o desproporcionades les ofertes que es trobin en algun dels següents supòsits: 
+ 
+1.- Si concorre una única empresa licitadora, es considerarà que la oferta presenta valors anormals o 
+desproporcionats quan es donin els dos següents supòsits: 
+ 
+a.- que la oferta econòmica sigui un 25 % inferior que el pressupost base de licitació i, 
+b.- que la puntuació que el correspongui en la resta de criteris d’adjudicació diferents del preu sigui superior al 90,00 % de 
+la puntuació total establerta per aquests criteris.  
+ 
+2.- Si concorren dues empreses licitadores es considerarà que la oferta presenta valors anormals o 
+desproporcionats quan es donin els dos següents supòsits: 
+ 
+a.- Que l’oferta econòmica sigui inferior en més d’un 20,00 % de l’altra oferta, i 
+b.- que la puntuació que el correspongui en la resta de criteris d’adjudicació diferents del preu sigui superior en més d’un 
+20,00 % a la puntuació més baixa.  
+ 
+3.- Si concorren tres o més empreses licitadores es considerarà que la oferta presenta valors anormals o 
+desproporcionats quan es donin els dos següents supòsits: 
+ 
+a.- Que l’oferta econòmica sigui inferior en més d’un 10,00 % a la mitja aritmètica de totes les ofertes econòmiques 
+presentades i, 
+b.- que la puntuació que correspongui a la resta de criteris d’adjudicació diferents del preu sigui superior en més d’un 10% 
+a la mitja aritmètica de les puntuacions de totes les ofertes. 
+Termini per a la justificació de la anormalitat de 
+l'oferta: 
+Cinc (5) dies hàbils a comptar des del següent al requeriment als 
+licitador/s. 
+ 
+Apartat 25 - ADMISSIBILITAT DE VARIANTS 
+Procedeix:  Sí  No 
+ 
+Apartat 26 - CONDICIÓ ESPECIAL D'EXECUCIÓ 
+Condició especial d'execució, de conformitat 
+amb l'article 202.1 LCSP: 
+L'obligació del contractista de sotmetre's a la normativa nacional 
+i de la Unió Europea en matèria de protecció de dades. 
+Aquesta obligació té el caràcter d'obligació contractual essencial de conformitat 
+amb el que es disposa en la lletra f) de l'apartat 1 de l'article 211 LCSP: 
+ Sí  No 
+Condicions especials d'execució, (previstes en 
+l'article 202.2 LCSP): 
+Les empreses adjudicatàries estan obligades a complir les 
+disposicions vigents en matèria mediambiental, laboral, de 
+seguretat social, de seguretat i salut en la feina, d’integració 
+laboral, en particular: 
+Les entitats adjudicatàries han d’assumir el compromís de 
+com a mínim, complir les condicions salarials dels treballadors 
+conforme al conveni col·lectiu sectorial d’aplicació. 
+Caràcter d’obligació essencial d’acord amb el que preveu l’art. 211.1.f) LCSP:  Sí No 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 8 de 48
+
+--- página 9 ---
+Caràcter d’infracció greu d’acord amb el que estableix l’article 71.2.c) de la 
+LCSP en cas d’incompliment: 
+ Sí  No 
+Els licitadors hauran de presentar una declaració responsable en la que manifestin el compromís de complir 
+les condicions especials d’execució del contracte de conformitat amb l’annex Condicions Especial d’Execució i 
+l’empresa adjudicatària les haurà de mantenir durant tot el temps d’execució del contracte, incloses les 
+pròrrogues. El responsable del contracte vetllarà perquè es compleixin aquests condicions. 
+ 
+Apartat 27 - EXECUCIÓ DEL CONTRACTE 
+En cas d’integració de solvència amb mitjans externs (art. 75 LCSP) s’exigeix executar 
+determinades parts o treballs, en atenció a la seva especial naturalesa, directament pel propi 
+licitador o per un participant en l'UTE. 
+ Sí  No 
+ 
+Apartat 28 - SUBCONTRACTACIÓ 
+Subcontractació (art. 215 LCSP): Sí  No 
+Condicions de la subcontractació: 
+Tasques crítiques que no es poden subcontractar  Sí  No 
+Pagament directe als subcontractistes:  Sí  No 
+Els licitadors hauran d'indicar en l'oferta la part del contracte a subcontractar, el seu import, 
+i el nom o el perfil empresarial dels subcontractistes:  
+ 
+En tot cas, s’exigeix, que després de l’adjudicació del contracte i, a tot tardar, quan s’iniciï 
+l’execució d’aquest, el contractista comuniqui per escrit a l’òrgan de contractació la 
+intenció de celebrar els subcontractes, assenyalant la part de la prestació que es pretén 
+subcontractar i el número d’identificació fiscal, nom o raó social, domicili fiscal, dades de 
+contacte i representant o representants legals del subcontractista, justificant 
+suficientment l’aptitud d’aquest per a executar-la per referència als elements tècnics i 
+humans dels quals disposa i a la seva experiència, i acreditant que el mateix no incorre en 
+prohibició de contractar d’acord amb l’article 71 de la LCSP, tot això en els termes de 
+l’article 215.2.b) de la LCSP. 
+ 
+ Sí  No 
+ 
+De conformitat amb el que es disposa en l'article 122.2 lletra e) LCSP, els licitadors tenen 
+l'obligació d'indicar en la seva oferta, si tenen previst subcontractar els servidors o els serveis 
+associats a aquests, el nom o el perfil empresarial dels subcontractistes als quals es vagi a 
+encomanar la seva realització:  
+ Sí No 
+Aquesta obligació es qualifica d'essencial a l'efecte del que es preveu en la lletra f) de l'apartat 
+1 de l'article 211 LCSP:     
+ Sí  No 
+ 
+Apartat 29 - CESSIÓ DEL CONTRACTE 
+Els drets i obligacions dimanants del contracte 
+podran ser cedits pel contractista a un tercer: 
+ Sí, de conformitat amb el que es disposa en el segon 
+paràgraf de l'article 214.1 LCSP. 
+ No, ja que la cessió no és possible d'acord amb el que 
+s'estableix en el segon paràgraf de l'article 214.1 LCSP  
+ 
+ 
+ 
+Apartat 30 - MODIFICACIONS PREVISTES EN EL PLEC DE CLÀUSULES ADMINISTRATIVES PARTICULARS  
+Es preveuen modificacions del 
+contracte (article 204 LCSP): 
+ Sí.  
+ 
+• Fins al 20% del preu inicial del contracte (d’acord amb els imports unitaris 
+de les prestacions), en el cas que les necessitats reals de l’administració 
+siguin superiors a les inicialment estimades (DA 33ª LCSP). 
+ 
+• A més, el contracte podrà ser modificat per raons d’interès públic i quan es 
+doni alguna de les circumstàncies previstes en l’article 205 LCSP. 
+ 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 9 de 48
+
+--- página 10 ---
+ No.  
+Procediment de modificació:
+  
+L'expedient administratiu de modificació se substanciarà amb caràcter 
+d'urgència amb les següents actuacions: 
+ 
+- Proposta motivada del responsable del contracte. 
+- Resolució d'inici de l'expedient de modificació del contracte. 
+- Audiència al contractista por un termini de cinc dies hàbils. 
+- Informe de la Secretaria General del Consell de Mallorca. 
+- Fiscalització de l'expedient de modificació. 
+- Resolució de l'òrgan de contractació d'aprovació de la modificació del contracte 
+i, en el seu cas, de les despeses complementàries precises. 
+- Formalització de la modificació. 
+ 
+Apartat 31 - SUSPENSIÓ DEL CONTRACTE. 
+Abonament al contractista dels danys i 
+perjudicis per suspensió del contracte: 
+ Sí, de conformitat amb el que es disposa en l'article 208 LCSP. 
+ No 
+ 
+Apartat 32 - PENALITATS. 
+Penalitat per demora:  Sí, de conformitat amb el que s'estableix en l'article 193 de la 
+LCSP.  
+ No 
+Penalitat per incompliment parcial o 
+compliment defectuós: 
+ Sí. Fins al 2,5% de l’import del contracte adjudicat. 
+ No 
+Penalitat per incompliment de les condicions 
+especials d'execució:  
+ Sí. Fins al 2,5% de l’import del contracte adjudicat. 
+ No.  
+Per incompliment dels compromisos 
+d'adscripció de mitjans personals o materials:  
+ Sí. Fins al 2,5% de l’import del contracte adjudicat. 
+ No    
+Per incompliment dels criteris d’adjudicació: Sí. Fins al 2,5% de l’import del contracte adjudicat. 
+ No 
+Per incompliment de les obligacions en matèria 
+mediambiental, social o laboral:  
+Sí. Fins al 2,5% de l’import del contracte adjudicat. 
+ No 
+Per subcontractació: Sí. Fins al 2,5% de l’import del contracte adjudicat. 
+ No 
+Procediment per a la imposició de penalitats: 
+ 
+L'expedient administratiu d'imposició de penalitats se substanciarà amb les següents actuacions: 
+ 
+a) Informi tècnic motivat efectuat pel/ per la responsable del contracte, denunciant i determinant l'incompliment de les 
+obligacions del contractista i sol·licitant la imposició de penalitats. 
+b) Resolució d'inici de l'expedient per imposició de penalitats del contracte por l'òrgan de contractació. 
+c) Audiència del/de la contractista, per termini de deu dies hàbils. 
+d) Informe - Proposta de resolució a l'òrgan de contractació. 
+e) Resolució de l'òrgan de contractació acordant, en el seu cas, la imposició de penalitats. 
+ 
+Les penalitats es faran efectives mitjançant la deducció de les quantitats que, en concepte de pagament total o 
+parcial, hagin d'abonar-se al contractista o sobre la garantia que, en el seu cas, s'hagués constituït, quan no es 
+pugui deduir de les esmentades certificacions. En cas que les penalitats es facin sobre la garantia en el tràmit 
+corresponent es donarà també audiència a l'avalador o entitat asseguradora a efectes d'al·legar i presentar els 
+documents que consideri pertinents. L'acord de l'òrgan de contractació d'imposició de penalitats serà 
+immediatament executiu i podrà incloure la pròrroga del termini d'execució (article 98 RD 1098/2001, de 12 
+d'octubre, RGLCAP) i indemnitzacions por els danys i perjudicis que la demora en l'execució hagin pogut 
+provocar en el Consell de Mallorca, en els termes assenyalats a l'article 99.2 del RGLCAP. 
+ 
+ 
+Apartat 33 - CAUSES DE RESOLUCIÓ DEL CONTRACTE. 
+Causes de resolució:  Per incompliment de les obligacions qualificades com a essencials recollides en les 
+lletres a) a e) de l'article 122.2 LCSP.  
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 10 de 48
+
+--- página 11 ---
+ Per incompliment de la condició especial d'execució de l'article 202.1 LCSP. 
+ Incompliment o compliment defectuós de la prestació que afecta a característiques 
+que s’han tingut en compte per definir els criteris. 
+ Incompliment dels compromisos d’adscripció de mitjans personals o materials.  
+ 
+ 
+Apartat 34 - TERMINI DE GARANTIA. 
+3 mesos 
+ 
+Apartat 35 - DEURE DE CONFIDENCIALITAT. 
+Durada: L’obligació de confidencialitat es mantindrà durant 
+tota la vigència del contracte i continuarà essent 
+exigible una vegada finalitzat aquest, sense 
+limitació temporal, mentre la informació conservi el 
+seu caràcter confidencial. 
+ 
+Apartat 36 - TERMINI DE SOL·LICITUD D'INFORMACIÓ ADDICIONAL O ACLARIMENT SOBRE ELS PLECS. 
+Termini per sol·licitar informació addicional 
+sobre els plecs i altra documentació: 
+ 
+Els interessats en el procediment de licitació hauran de sol·licitar 
+informació addicional sobre els plecs i altra documentació 
+complementària amb una antelació de 6 dies abans de la 
+finalització del termini de presentació de les proposicions. 
+Els interessats podran sol·licitar aclariments 
+al que s'estableix en els plecs o resta de 
+documentació. Les respostes a les 
+consultes tindran caràcter vinculant: 
+ Sí. Per tal de garantir la igualtat i concurrència en el 
+procediment de licitació, les preguntes i respostes s’hauran de fer 
+a través de l’apartat corresponent de la Plataforma de 
+Contratación del Sector Público. 
+ No  
+ 
+Apartat 37 - PERFIL DE CONTRACTANT. 
+L'adreça d'accés al perfil de contractant en l'entitat contractant és la Plataforma de Contratación del Sector 
+Público. 
+ 
+Apartat 38 – OBSERVACIONS 
+El licitadors poden presentar el model de declaració responsable annex a aquest plec o bé presentar el 
+DOCUMENT EUROPEU ÚNIC DE CONTRACTACIÓ (DEUC). Es recomana l’ús del model annex a aquest Plec. El 
+DEUC, es regula al Reglament (UE) núm.. 2016/7 que estableix el formulari normalitzat del DEUC (disponible en 
+la pàgina web). 
+ 
+Per facilitar l'emplenament del model de formulari normalitzat del DEUC, que estableix l'Annex II del Reglament 
+(UE) núm. 2016/7, la Junta Consultiva ha adoptat una Recomanació sobre la utilització del Document Europeu 
+Únic de Contractació que preveu la nova Directiva de contractació pública (Resolució de 6 d'abril de la Direcció 
+General de Patrimoni de l'Estat) publicada en el BOE de 8 de maig de 2016. 
+ 
+Informació que s'ha d'emplenar: 
+ 
+Part I Informació sobre el procediment de contractació i el poder adjudicador (tots els apartats). 
+Part II Informació sobre l'operador econòmic (tots els apartats) 
+Part III Motius d'exclusió (tots els apartats). 
+Part IV Criteris de Selecció. Únicament l’apartat a) Indicació global relativa a tots els criteris de selecció. 
+Part V Declaracions finals. 
+ 
+En el supòsit que el licitador recorri a la solvència i medis d‘altres empreses, ha de presentar el seu propi 
+DEUC i tants de DEUC com entitats a les que recorri. 
+En el cas que es presentin a la licitació diverses empreses que formin / hagin de formar una unió temporal 
+d'empreses (UTE), hauran de complimentar un DEUC cadascuna de les empreses que formin / hagin de formar 
+aquesta unió signats, cada un, pels respectius representants. 
+ 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 11 de 48
+
+--- página 12 ---
+L'òrgan de contractació podrà sol·licitar els licitadors que presentin la totalitat o part dels documents 
+justificatius de les dades facilitades en el DEUC en qualsevol moment del procediment quan sigui necessari per 
+garantir el seu bon desenvolupament. 
+ 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 12 de 48
+
+--- página 13 ---
+PLEC DE CLÀUSULES ADMINISTRATIVES PARTICULARS CORRESPONENT A LA CONTRACTACIÓ DE LA RENOVACIÓ 
+DE LA SUBSCRIPCIÓ DE MICROSOFT AZURE I SERVEIS ASSOCIATS DE SUPORT ESPECIALITZAT, A ADJUDICAR 
+MITJANÇANT TRAMITACIÓ ORDINÀRIA I PROCEDIMENT SIMPLIFICAT. EXPEDIENT: 1562199X. 
+ 
+TÍTOL I DISPOSICIONS GENERALS 
+ 
+CAPÍTOL I RÈGIM JURÍDIC 
+ 
+CLÀUSULA 1 - RÈGIM JURÍDIC. 
+ 
+El contracte actual té caràcter administratiu, de conformitat amb el que es disposa en l'article 25 de la Llei 9/2017, 
+de 8 de novembre, de Contractes del Sector Públic, per la qual es transposen a l'ordenament jurídic espanyol les 
+Directives del Parlament Europeu i del Consell 2014/23/UE i 2014/24/UE, de 26 de febrer de 2014 (d'ara endavant 
+LCSP). Les parts queden sotmeses expressament al que s'estableix en aquest plec i en el corresponent plec de 
+prescripcions tècniques. 
+ 
+El plec de prescripcions tècniques particulars i el plec de clàusules administratives particulars tenen caràcter 
+contractual, per la qual cosa hauran de ser signats, en prova de conformitat per l'entitat adjudicatària, en el mateix 
+acte de formalització del contracte. 
+  
+Per allò no previst en els plecs, el contracte es regirà per la LCSP, pel Reial decret 817/2009, de 8 de maig, pel qual 
+es desenvolupa parcialment la Llei 30/2007, de 30 d'octubre, de Contractes del Sector Públic (RD 817/2009); pel 
+Reglament General de la Llei de Contractes de les Administracions Públiques, aprovat per Reial decret 1098/2001, 
+de 12 d'Octubre (RGLCAP), en tot el que no s'oposi a l'anterior. L'aplicació d'aquestes normes es durà a terme en 
+relació amb tot el que no hagi resultat afectat per la disposició derogatòria de la LCSP. 
+ 
+En tot cas, les normes legals i reglamentàries citades anteriorment seran aplicable en tot el que no s'oposi a la 
+LCSP. 
+ 
+A més, el contracte queda sotmès a la normativa nacional i de la Unió Europea en matèria de protecció de dades. 
+Supletòriament, s'aplicaran les restants normes de dret administratiu i, en defecte d'això, les de dret privat. 
+ 
+CAPÍTOL II DE L'ÒRGAN CONTRACTANT 
+ 
+CLÀUSULA 2 - ÒRGAN DE CONTRACTACIÓ. 
+ 
+De conformitat amb l'article 61 LCSP, la representació de les entitats del sector públic en matèria contractual 
+correspon als òrgans de contractació. 
+ 
+Per al contracte actual l'òrgan de contractació serà el que figuri en l'apartat relatiu als “Òrgans administratius” 
+de l'Annex I quadre de característiques del Plec de Clàusules Administratives Particulars. 
+ 
+CLÀUSULA 3 - RESPONSABLE DEL CONTRACTE. 
+ 
+Al responsable del contracte li correspon, d'acord amb el que es disposa en l'article 62.1 LCSP, supervisar la seva 
+execució i adoptar les decisions i dictar les instruccions necessàries amb la finalitat d'assegurar la correcta 
+realització de la prestació pactada. 
+ 
+En el contracte actual el responsable del contracte serà la que figura en l'apartat relatiu al “Responsable del 
+contracte” de l'Annex I quadre de característiques del Plec de Clàusules Administratives Particulars. 
+ 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 13 de 48
+
+--- página 14 ---
+Són funcions del responsable del contracte, entre altres: 
+ 
+a) empara el Plec de prescripcions tècniques i altres condicions tècniques establertes en el contracte o en disposicions oficials. 
+b) Donar les ordres oportunes per aconseguir els objectius del contracte. 
+c) Expedir, si escau, les certificacions parcials corresponents als serveis fets segons els terminis d’execució i l’abonament que 
+s’han acordat. 
+d) Tramitar quantes incidències sorgeixin durant el desenvolupament del contracte. 
+e) Convocar les reunions que s’estimin pertinents per al bon desenvolupament del contracte i la seva supervisió, a les quals 
+estan obligats a assistir la representació de l’entitat adjudicatària,  amb aquells facultatius, tècnics, lletrats o especialistes de 
+la mateixa que tenen alguna intervenció en l’execució del servei. 
+f) Inspeccionar i de ser informada del procés de fabricació o elaboració del producte que hagi de ser lliurat com a 
+conseqüència del contracte, i podrà ordenar o realitzar per si mateixa anàlisi, assajos i proves dels materials que 
+es vagin a fer servir, establir sistemes de control de qualitat i dictar les disposicions que estimi oportunes per a 
+l'estricte compliment del convingut 
+ 
+ 
+CLÀUSULA 4 - UNITAT ENCARREGADA DE SEGUIMENT I EXECUCIÓ DEL CONTRACTE. 
+ 
+De conformitat amb l'article 62 LCSP, la unitat encarregada del seguiment i execució ordinària d'aquest contracte 
+serà la que s'indica en l'apartat relatiu als “Unitat encarregada del seguiment i execució del contracte” de 
+l'Annex I quadre de característiques del Plec de Clàusules Administratives Particulars. 
+ 
+CAPÍTOL III DEL CONTRACTE 
+ 
+CLÀUSULA 5 - OBJECTE I NECESSITAT DEL CONTRACTE. 
+ 
+L'objecte del contracte al qual es refereix el present plec és l'execució dels serveis descrits en l'apartat relatiu als 
+“Configuració general del contracte” de l'Annex I quadre de característiques del Plec de Clàusules 
+Administratives Particulars i definit en el plec de prescripcions tècniques particulars, en el qual s'especifiquen 
+els factors de tot ordre a tenir en compte. En el mateix apartat es fa referència les necessitats administratives a 
+satisfer mitjançant el contracte actual. 
+ 
+De conformitat amb l’art. 99.3 de la LCSP, l’òrgan de contractació pot no dividir en lots l’objecte del contracte quan 
+existeixen motius vàlids que han de justificar-se degudament. En el contracte actual, la justificació de la no divisió 
+en lots s’indica en l’apartat « Divisió de l’objecte del contracte en lots» de l’annex I del plec. 
+ 
+ 
+CLÀUSULA 6 - VALOR ESTIMAT. 
+ 
+El valor estimat del contracte actual, de conformitat amb el que es disposa en l'article 101 LCSP, ascendeix a la 
+quantitat expressada en l'apartat relatiu al “Valor estimat del contracte” de l'Annex I quadre de 
+característiques del Plec de Clàusules Administratives Particulars. 
+ 
+El mètode de càlcul aplicat per l'òrgan de contractació per a calcular el valor estimat serà el que figura en l'apartat 
+relatiu al “Valor estimat del contracte” de l'Annex I quadre de característiques del Plec de Clàusules 
+Administratives Particulars. 
+ 
+CLÀUSULA 7 - PRESSUPOST BASE DE LICITACIÓ I PREU DEL CONTRACTE. 
+ 
+Els contractes tindran sempre un preu cert, que haurà d'expressar-se en euros. 
+ 
+El pressupost base de licitació del contracte ascendeix a la quantitat expressada en l'apartat relatiu al 
+“pressupost base de licitació i crèdit en què s'empara” de l'Annex I quadre de característiques del Plec de 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 14 de 48
+
+--- página 15 ---
+Clàusules Administratives Particulars, en el qual figura el seu desglossament i la distribució per anualitats 
+previstes.  
+ 
+El pressupost base de licitació ha estat elaborat de conformitat amb el que es disposa en l’art. 100 , l’art. 301 i l’art. 
+309 de la LCSP i el seu càlcul inclou els tributs de qualsevol índole.  
+ 
+ 
+CLÀUSULA 8 - EXISTÈNCIA DE CRÈDIT. 
+ 
+L'execució del contracte està emparada pels crèdits que s'indiquen en l'apartat relatiu al “pressupost base de 
+licitació i crèdit en què s'empara” de l'Annex I quadre de característiques del Plec de Clàusules 
+Administratives Particulars. 
+ 
+CLÀUSULA 9 - TERMINI I LLOC D'EXECUCIÓ. 
+ 
+El termini total i els terminis parcials d'execució dels treballs serà els que  figuren en l'apartat  relatiu al “Durada 
+i termini d'execució” de l'Annex I quadre de característiques del Plec de Clàusules Administratives 
+Particulars o el que es determini en l'adjudicació del contracte, sent els terminis parcials els que es fixin com a 
+tals en l'aprovació del programa de treball, en el seu cas. 
+ 
+Els terminis parcials que es fixin en l'aprovació del programa de treball, amb els efectes que en l'aprovació es 
+determinin, s'entendran integrants del contracte als efectes legals pertinents. 
+ 
+En el cas de contractes de serveis anomenats de “activitat”, en els quals el contractista presta el servei de manera 
+regular i continuada, el termini ha de fixar-se com a termini de durada. Quan s'hagi establert un termini d'execució 
+fix i així s’indiqui expressament en l'apartat  relatiu al “Durada i termini d'execució” de l'Annex I quadre de 
+característiques del Plec de Clàusules Administratives Particulars, el possible retard en el començament de 
+l’execució del contracte respecte d'aquesta data inicialment fixada tindrà com a efectes una reducció del termini 
+d'execució, i en conseqüència, de les prestacions del contractista, donant lloc a una correlativa reducció del preu. 
+ 
+No obstant això, quan s'hagi establert un termini d'execució fix i en l'apartat  relatiu al “Durada i termini 
+d'execució” de l'Annex I quadre de característiques del Plec de Clàusules Administratives Particulars no 
+s’indiqui que el possible retard en el començament de l’execució del contracte respecte d'aquesta data inicialment 
+fixada tindrà com a efectes una reducció del termini d'execució, el contracte mantindrà el termini de durada 
+previst l'apartat  relatiu al “Durada i termini d'execució” de l'Annex I quadre de característiques del Plec de 
+Clàusules Administratives Particulars i el possible retard en el començament de l’execució del contracte 
+respecte d'aquesta data inicialment fixada tindrà com a efectes un reajustament de d’anualitats, sempre que ho 
+permetin els romanents de crèdit aplicables de conformitat amb l’establert en l’article 96 del RD 1098/2001, de 12 
+d’octubre.              
+ 
+El contracte s'executarà en el lloc que s'indica en l'apartat  relatiu al “Lloc de lliurament del 
+servei/subministrament” de l'Annex I quadre de característiques del Plec de Clàusules Administratives 
+Particulars. 
+ 
+CLÀUSULA 10 - PRÒRROGA DEL CONTRACTE. 
+ 
+El contracte podrà prorrogar-se de conformitat amb el que es disposa en l'article 29 LCSP.  
+ 
+La possibilitat de pròrroga del contracte actual està prevista en l'apartat relatiu al “Durada i termini d'execució” 
+de l'Annex I quadre de característiques del Plec de Clàusules Administratives Particulars. 
+ 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 15 de 48
+
+--- página 16 ---
+La pròrroga s'acordarà per l'òrgan de contractació i serà obligatòria per a l'empresari, sempre que el seu preavís 
+es produeixi almenys amb dos mesos d'antelació a la finalització del termini de durada del contracte. Queden 
+exceptuats de l'obligació de preavís els contractes la durada dels quals fos inferior a dos mesos. 
+ 
+En cap cas podrà produir-se la pròrroga pel consentiment tàcit de les parts. 
+ 
+La pròrroga del contracte establerta en l'apartat 2 de l'article 29 LCSP no serà obligatòria per al contractista en els 
+casos en els quals en el contracte es doni la causa de resolució establerta en l'article 198.6 LCSP, per haver-se 
+demorat l'Administració en l'abonament del preu més de sis mesos. 
+ 
+Sense perjudici de l'anterior, de conformitat amb l'article 29.4 LCSP, quan al venciment d'un contracte no s'hagués 
+formalitzat el nou contracte que garanteixi la continuïtat de la prestació a realitzar pel contractista, com a 
+conseqüència d'incidències resultants d'esdeveniments imprevisibles per a l'òrgan de contractació, produïdes en 
+el procediment d'adjudicació i existeixin raons d'interès públic per a no interrompre la prestació, es podrà 
+prorrogar el contracte originari fins que comenci l'execució del nou contracte i en tot cas per un període màxim 
+de nou mesos, sense modificar les restants condicions del contracte, sempre que l'anunci de licitació del nou 
+contracte s'hagi publicat amb una antelació mínima de tres mesos, respecte de la data de finalització del contracte 
+originari. 
+ 
+En aquest cas, en atenció a la naturalesa imprevisible d'aquesta pròrroga, l'aplicació de la qual no deriva de la 
+voluntat de l'òrgan de contractació, la mateixa no es prendrà en consideració a l'efecte de fixar el valor estimat, 
+ni serà aplicable l'obligació de preavís anteriorment referida. 
+ 
+Les pròrrogues s'hauran d'aprovar amb caràcter previ a la finalització del contracte. 
+ 
+CLÀUSULA 11 - CONDICIONS ESPECIALS D'EXECUCIÓ. 
+ 
+Les condicions especials d'execució per a aquest contracte s'estableixen en l'apartat "Condició especial 
+d'execució” de l'Annex I quadre de característiques del Plec de Clàusules Administratives Particulars. 
+ 
+Quan de conformitat amb l'apartat relatiu a la “Cessió i tractament de dades” de l'Annex I quadre de 
+característiques del Plec de Clàusules Administratives Particulars, s'indiqui que es tracta d'un contracte 
+l'execució del qual impliqui la cessió de dades per entitats del sector públic al contractista, la condició especial 
+d'execució obligatòria prevista en l'article 202.1 LCSP indicada en l'apartat "Condició especial d'execució” de 
+l'Annex I quadre de característiques del Plec de Clàusules Administratives Particulars tindrà el caràcter 
+d'obligació contractual essencial, de conformitat amb el que es disposa en la lletra f) de l'apartat 1 de l'article 211 
+LCSP. 
+ 
+Per al cas d'incompliment de la resta de condicions especials d'execució hauran d'establir-se penalitats en 
+l'apartat "Penalitats” de l'Annex I quadre de característiques del Plec de Clàusules Administratives 
+Particulars, o atribuir-los a aquestes condicions el caràcter d'obligacions contractuals essencials, als efectes 
+assenyalats en la lletra f) de l'article 211 LCSP. 
+ 
+Totes les condicions especials d'execució que formin part del contracte seran exigides igualment a tots els sub-
+contractistes que participin en l'execució d'aquest. 
+ 
+CAPÍTOL IV: DEL LICITADOR 
+ 
+CLÀUSULA 12 - DEL LICITADOR. APTITUD PER A CONTRACTAR. 
+ 
+Podran optar a l'adjudicació del contracte actual les persones naturals o jurídiques, espanyoles o estrangeres, a 
+títol individual o en unió temporal d'empresaris, que tinguin plena capacitat d'obrar, que no incorrin en alguna 
+prohibició de contractar i que acreditin la seva solvència econòmica, financera i tècnica, o es trobin degudament 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 16 de 48
+
+--- página 17 ---
+classificades, de conformitat amb el que s'estableix en l'apartat relatiu a la “solvència econòmica, financera i 
+tècnica” de l'Annex I quadre de característiques del Plec de Clàusules Administratives Particulars. 
+ 
+En relació a les Unions Temporals d'Empresaris, l'alteració de la seva composició, així com els supòsits de 
+modificació durant la licitació, s'estarà al que es disposa en l'article 69 apartat 8 i següents LCSP. 
+ 
+En els supòsits de successió del contractista, s'estarà al que es disposa en l'article 98 LCSP. Als efectes anteriors 
+l'empresa haurà de comunicar a l'òrgan de contractació la circumstància que s'hagués produït. 
+ 
+Les persones jurídiques només podran ser adjudicatàries de contractes les prestacions dels quals estiguin 
+compreses dins de les finalitats, objecte o àmbit d'activitat que, a tenor dels seus estatuts o regles fundacionals, 
+els siguin propis. 
+ 
+Els contractistes hauran de comptar així mateix amb l'habilitació empresarial o professional que, en el seu cas, 
+sigui exigible per a la realització de l'activitat o prestació que constitueixi l'objecte del contracte, de conformitat 
+amb el que s'estableix en l'apartat relatiu a la “habilitació empresarial” de l'Annex I quadre de 
+característiques del Plec de Clàusules Administratives Particulars. 
+ 
+En relació amb les empreses comunitàries o d'Estats signataris de l'Acord sobre l'Espai Econòmic Europeu i 
+empreses no comunitàries, serà aplicable el que es disposa en els articles 67 i 68 LCSP. 
+ 
+CLÀUSULA 13 - CLASSIFICACIÓ I SOLVÈNCIA. 
+ 
+Per als contractes de serveis no serà exigible la classificació de l'empresari. En l'apartat relatiu a la “solvència 
+econòmica, financera i tècnica” de l'Annex I quadre de característiques del Plec de Clàusules 
+Administratives Particulars s'establiran els criteris i requisits mínims de solvència econòmica i financera i de 
+solvència tècnica o professional, tant en els termes previstos en els articles 87 i 89 de la Llei, com en termes de 
+grup o subgrup de classificació i de categoria mínima requerida, sempre que l'objecte del contracte estigui inclòs 
+en l'àmbit de classificació d'algun dels grups o subgrups de classificació vigents, atenent per a això al codi CPV del 
+contracte. 
+ 
+Per tant, l'empresari podrà acreditar la seva solvència indistintament mitjançant la seva classificació en el grup o 
+subgrup de classificació i categoria de classificació corresponents al contracte o bé acreditant el compliment dels 
+requisits específics de solvència detallats en l'apartat relatiu a la “solvència econòmica, financera i tècnica” de 
+l'Annex I quadre de característiques del Plec de Clàusules Administratives Particulars. 
+ 
+Quan per qualsevol circumstància una empresa tingués simultàniament classificació atorgada per l'Estat i per una 
+o més Comunitats Autònomes, prevaldrà l'atorgada en data més recent, mancant les altres de valor i efectes en 
+la contractació pública. 
+ 
+Així mateix, l'article 92 LCSP preveu que reglamentàriament es pugui eximir l'exigència d'acreditació de la 
+solvència econòmica i financera o de la solvència tècnica o professional per als contractes l'import dels quals no 
+superi un determinat llindar. En el supòsit de contractes de serveis el valor estimat dels quals sigui igual o inferior 
+a 35.000 euros, en l'apartat relatiu a la “solvència econòmica, financera i tècnica” de l'Annex I quadre de 
+característiques del Plec de Clàusules Administratives Particulars s'indicarà expressament l'exigència o no 
+dels requisits d'acreditació de la solvència, de conformitat amb el que es preveu en l'article 11 del RGLCAP, 
+modificat pel Reial decret 773/2015, de 28 d'agost.     
+ 
+CLÀUSULA 14 - INTEGRACIÓ DE SOLVÈNCIA AMB MITJANS EXTERNS. 
+ 
+Per a acreditar la solvència necessària per a celebrar un contracte determinat, l'empresari podrà basar-se en la 
+solvència i mitjans d'altres entitats, independentment de la naturalesa jurídica dels vincles que tinguin amb elles, 
+sempre que demostri que durant tota la durada de l'execució del contracte disposarà efectivament d'aquesta 
+solvència i mitjans, i l'entitat a la qual recorri no incorri en una prohibició de contractar. 
+ 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 17 de 48
+
+--- página 18 ---
+En les mateixes condicions, els empresaris que concorrin agrupats en les unions temporals a què es refereix 
+l'article 69 LCSP, podran recórrer a les capacitats alienes a la unió temporal. 
+ 
+Per tant, els licitadors podran integrar la classificació o, en el seu cas, els requisits específics de solvència 
+econòmica, financera i tècnica o professional recollits en l'apartat relatiu a la “solvència econòmica, financera i 
+tècnica” de l'Annex I quadre de característiques del Plec de Clàusules Administratives Particulars basant-
+se en la classificació, solvència i mitjans d'altres entitats. 
+ 
+De conformitat amb l'article 75.1 LCSP, respecte als criteris relatius als títols d'estudis i professionals de l'article 
+90.1.e o l'experiència professional requerida, les empreses únicament podran recórrer a les capacitats d'altres 
+entitats si aquestes executaran les prestacions per a les quals són necessàries aquestes capacitats. 
+ 
+En el cas de serveis o treballs de col·locació o instal·lació en el context d'un contracte de subministraments, en 
+aplicació del que es disposa en l'article 75.4 LCSP, es podrà exigir que determinades parts o treballs, en atenció a 
+la seva especial naturalesa, siguin executades directament pel propi licitador o, en el cas d'una oferta presentada 
+per una unió d'empresaris, per un participant en aquesta, sempre que així s'hagi previst en l'apartat relatiu a la 
+“execució del contracte” de l'Annex I quadre de característiques del Plec de Clàusules Administratives 
+Particulars . 
+ 
+ 
+CLÀUSULA 15 - CONCRECIÓ DE LES CONDICIONS DE SOLVÈNCIA. 
+ 
+En els contractes de subministraments que impliquin col·locació o instal·lació, podrà exigir-se a les persones 
+jurídiques que especifiquin els noms i la qualificació professional del personal responsable d'executar la prestació, 
+de conformitat amb l'article 76.1 LCSP.  
+ 
+A més, en virtut de l'apartat 2 de l'artículo76 LCSP, els òrgans de contractació podran exigir als licitadors que a 
+més d'acreditar la seva solvència o, si escau, classificació, es comprometin a dedicar o adscriure a l'execució del 
+contracte els mitjans personals o materials suficients per a això. Aquests compromisos tindran el caràcter 
+d'obligacions contractuals essencials als efectes previstos en l'article 211 LCSP, sempre que així es prevegi en 
+l'apartat relatiu a la “concreció de les condicions de solvència” de l'Annex I quadre de característiques del 
+Plec de Clàusules Administratives Particulars, o s'establiran penalitats, conforme a l'assenyalat en l'article 
+192.2 LCSP, per al cas que s'incompleixin per l'adjudicatari.           
+ 
+L'exigència, en el seu cas, dels noms i la qualificació del personal responsable d'executar el contracte, així com del 
+compromís d'adscripció a l'execució del contracte de mitjans personals i/o materials, s'estableix en l'apartat 
+relatiu a la “concreció de les condicions de solvència” de l'Annex I quadre de característiques del Plec de 
+Clàusules Administratives Particulars. 
+ 
+CLÀUSULA 16 - REGISTRE OFICIAL DE LICITADORS I EMPRESES CLASSIFICADES. 
+ 
+De conformitat amb l'article 159.4 a) i 6 LCSP, els licitadors que es presentin a licitacions realitzades a través del 
+procediment simplificat hauran d'estar inscrits en el corresponent Registre Oficial de Licitadors en la data final de 
+presentació d'ofertes, sempre que amb això no es vegi limitada la concurrència. 
+ 
+En tot cas, també es considerarà admissible la proposició del licitador que acrediti haver presentat la sol·licitud 
+d'inscripció en el corresponent Registre juntament amb la documentació preceptiva per a això, sempre que tal 
+sol·licitud sigui de data anterior a la data final de presentació d'ofertes i declari responsablement no haver rebut 
+requeriment de subsanació. 
+ 
+CAPÍTOL V: DEL PROCEDIMENT D'ADJUDICACIÓ 
+ 
+CLÀUSULA 17 - DEL PROCEDIMENT D'ADJUDICACIÓ. PROCEDIMENT. 
+ 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 18 de 48
+
+--- página 19 ---
+De conformitat amb el que es disposa en l'article 159.1 LCSP, el contracte s'adjudicarà per procediment obert 
+simplificat d'acord amb els establert en l'apartat relatiu al “Procediment i criteris d'adjudicació” de l'Annex I 
+quadre de característiques del Plec de Clàusules Administratives Particulars i es durà a terme atenent una 
+pluralitat de criteris d'adjudicació, segons el que es disposa en l'apartat relatiu als “Procediment i criteris 
+d'adjudicació” de l'Annex I quadre de característiques del Plec de Clàusules Administratives Particulars, i 
+conforme als termes i requisits establerts en aquest text legal, de conformitat amb el que es disposa en els articles 
+145 i 146 LCSP. 
+ 
+CLÀUSULA 18 - PUBLICITAT. 
+L'anunci de licitació per a l'adjudicació de contractes de les Administracions Públiques es publicarà en el perfil de 
+contractant. 
+ 
+En el perfil de contractant que figura en l'apartat relatiu al “perfil de contractant” de l'Annex I quadre de 
+característiques del Plec de Clàusules Administratives Particulars, s'oferirà informació relativa a la 
+convocatòria de la licitació del contracte, incloent els plecs de clàusules administratives particulars i documentació 
+complementària, en el seu cas. 
+ 
+Tota la documentació necessària per a presentar l'oferta estarà disponible per mitjans electrònics des del dia de 
+la publicació de l'anunci en el perfil de contractant. 
+ 
+Els interessats en el procediment de licitació podran sol·licitar informació addicional sobre els plecs i altra 
+documentació complementària amb l'antelació fixada en l'apartat relatiu al “Termini de sol·licitud d'informació 
+addicional o aclariment sobre els plecs” Annex I quadre de característiques del Plec de Clàusules 
+Administratives Particulars.  
+ 
+CLÀUSULA 19 - CRITERIS D'ADJUDICACIÓ. 
+ 
+Els criteris que han de servir de base per a l'adjudicació són els assenyalats en l'apartat relatiu als “Procediment 
+i criteris d'adjudicació” de l'Annex I quadre de característiques del Plec de Clàusules Administratives 
+Particulars, amb la ponderació atribuïda a cadascun d'ells o, quan per raons objectives degudament justificades 
+no sigui possible ponderar els criteris triats, aquests s'enumeraran per ordre decreixent d'importància. 
+ 
+En el cas que el procediment d'adjudicació s'articuli en diverses fases, s'indicarà igualment en quins d'elles 
+s'aniran aplicant els diferents criteris, establint un llindar mínim del 50 per cent de la puntuació en el conjunt dels 
+criteris qualitatius per a continuar amb el procés, havent-se d'indicar en l'apartat relatiu als “Procediment i 
+criteris d'adjudicació” de l'Annex I quadre de característiques del Plec de Clàusules Administratives 
+Particulars. 
+ 
+És aquests casos, la proposició haurà d'incloure tants sobres individualitzats com fases de valoració s'hagin 
+establert. 
+ 
+D'entre els criteris objectius d'adjudicació, en l'apartat relatiu a les “Ofertes anormalment baixes” de l'Annex I 
+quadre de característiques del Plec de Clàusules Administratives Particulars s'assenyalen els paràmetres 
+objectius que hauran de permetre identificar els casos en què una oferta es consideri anormal de conformitat 
+amb el que es disposa en l'article 149.2 LCSP. 
+ 
+CLÀUSULA 20 - GARANTIA DEFINITIVA I COMPLEMENTÀRIA. 
+ 
+El licitador que presenti la millor oferta de conformitat amb el que es disposa en l'article 145 LCSP, haurà de 
+constituir a la disposició de l'òrgan de contractació una garantia definitiva. La seva quantia serà igual al 5 per 100 
+de l'import del preu final ofert pel licitador, exclòs l'Impost sobre el Valor Afegit, o, en el seu cas, del pressupost 
+base de licitació, segons el que es preveu en l'apartat relatiu a la “Garantia definitiva” de l'Annex I quadre de 
+característiques del Plec de Clàusules Administratives Particulars. La constitució d'aquesta garantia haurà 
+de ser acreditada en el termini de set dies hàbils a comptar des de l'enviament de la comunicació.  
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 19 de 48
+
+--- página 20 ---
+ 
+En tot cas, la garantia definitiva respondrà dels conceptes a què es refereix l'article 110 LCSP. 
+ 
+La garantia definitiva es constituirà de conformitat amb el preceptuat en el Capítol I del Títol IV del Llibre I de la  
+LCSP i en qualsevol de les formes que s'estableixen en l'article 108.1 LCSP, ajustant-se, d'acord amb la forma 
+triada, als models que s'estableixen en els Annexos relatius als Models de garanties en els procediments de 
+contractació; model d'aval i model de certificat de caució.    
+ 
+Respecte a la referència del compliment de la validació del poder en el text de l'aval o del certificat d'assegurança 
+de caució (Annexos relatius als Models de garanties en els procediments de contractació; model d'aval i 
+model de certificat de caució), quan el poder s'hagués atorgat per l'entitat avalista o asseguradora per a garantir 
+al licitador en aquest procediment concret, la validació es realitzarà amb caràcter previ. 
+Quan, de conformitat amb el que es preveu en l'apartat relatiu a la “Garantia definitiva” de l'Annex I quadre 
+de característiques del Plec de Clàusules Administratives Particulars, s'habiliti la possibilitat de constituir la 
+garantia en forma de retenció en el preu prevista en l'article 108.2 LCSP, prèvia manifestació expressa del licitador 
+que opta per la retenció en el preu, aquesta es durà a terme en el primer abonament.  
+ 
+Quan com a conseqüència de la modificació del contracte, experimenti variació el preu d'aquest, es reajustarà la 
+garantia en el termini de 15 dies naturals, comptats des de la data en què es notifiqui a l'empresari l'acord de 
+modificació, a l'efecte de que guardi la deguda proporció amb el preu del contracte resultant de la modificació, 
+incorrent, en cas contrari, en causa de resolució contractual. En el mateix termini comptat des de la data en què 
+es facin efectives les penalitats o indemnitzacions l'adjudicatari haurà de reposar o ampliar la garantia en la 
+quantia que correspongui, incorrent, en cas contrari, en causa de resolució.  A aquest efecte, no es consideraran 
+les variacions de preu que es produeixin com a conseqüència d'una revisió de preus conforme a l'assenyalat en 
+el Capítol II del Títol III del Llibre I. 
+ 
+La garantia complementària s'establirà de conformitat amb el que es preveu en l'article 107.2 LCSP, i s'estarà, en 
+el seu cas, al que es disposa en l'apartat relatiu a la “Garantia complementària” de l'Annex I quadre de 
+característiques del Plec de Clàusules Administratives Particulars. 
+ 
+CLÀUSULA 21 - DEVOLUCIÓ I CANCEL·LACIÓ DE LA GARANTIA DEFINITIVA. 
+ 
+Aprovada la liquidació del contracte, si no resultessin responsabilitats que hagin d'exercitar-se sobre la garantia 
+definitiva i transcorregut el termini de garantia determinat en l'apartat relatiu al “termini de garantia” de l'Annex 
+I quadre de característiques del Plec de Clàusules Administratives Particulars, es dictarà acord de devolució 
+d'aquella. 
+ 
+Transcorregut un any des de la data de finalització del contracte i vençut el termini de garantia, o sis mesos en el 
+cas que l'import del contracte sigui inferior a 100.000 euros,  o quan les empreses licitadores reuneixin els 
+requisits de petita o mitjana empresa, definida segons el que s'estableix en el Reglament (UE) núm. 651/2014 de 
+la Comissió de 17 de juny de 2014, pel qual es declaren determinades categories d'ajudes compatibles amb el 
+mercat interior en aplicació dels articles 107 i 108 del Tractat i no estiguin controlades directa o indirectament per 
+una altra empresa que no compleixi tals requisits,  sense que la recepció formal i la liquidació haguessin tingut 
+lloc per causes no imputables al contractista, es procedirà a la devolució o cancel·lació de la garantia, una vegada 
+depurades les responsabilitats a què es refereix l'article 110 LCSP i sense perjudici del que es disposa en l'article 
+65.3 del RGLCAP. 
+ 
+En el cas que s'haguessin establert recepcions parcials, s'estarà a l'indicat en l'apartat relatiu al “Durada i termini 
+d'execució” de l'Annex I quadre de característiques del Plec de Clàusules Administratives Particulars 
+respecte de la cancel·lació parcial de la garantia. 
+ 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 20 de 48
+
+--- página 21 ---
+TÍTOL II LICITACIÓ DEL CONTRACTE. 
+ 
+CAPÍTOL I DE LES PROPOSICIONS. 
+ 
+CLÀUSULA 22 - PRESENTACIÓ DE PROPOSICIONS. 
+ 
+Les proposicions hauran de presentar-se en els termes que figuren en l'anunci de licitació, en aplicació del que es 
+disposa en l'article 159 LCSP. 
+ 
+Cada licitador no podrà presentar més d'una proposició. Tampoc podrà subscriure cap proposició en unió 
+temporal amb altres empresaris si ho ha fet individualment o figurar en més d'una unió temporal. La infracció 
+d'aquestes normes donarà lloc a la no admissió de totes les proposicions per ell subscrites. 
+ 
+La presentació de proposicions suposa l'acceptació incondicional per l'empresari del contingut de la totalitat de 
+les clàusules o condicions previstes en els plecs que regeixen el contracte, sense excepció o cap reserva. 
+ 
+L'enviament per mitjans electrònics de les ofertes haurà de fer-se de manera completa en un sol moment. Quan 
+no pugui completar-se l’enviament per mitjans electrònics perquè la relació entre la mida de l’oferta (MB) i/o la 
+velocitat de pujada o amplada de banda del canal de comunicacions contractat pel licitador no és adequada, de 
+conformitat amb la lletra h) de l’apartat 1 de la Disposició Addicional 16ª LCSP i d’acord amb les indicacions de la 
+Guia de Serveis de Licitació Electrònica per a Empreses de la Plataforma de Contratación del Sector Público (PCSP), 
+l’enviament de les ofertes es podrà fer en dues fases. En la primera es transmetrà  la petjada electrònica “hash” 
+de l'oferta, amb la recepció de la qual es considerarà efectuada la seva presentació amb caràcter general, i en la 
+segona s'haurà de remetre a través de la PCSP l'oferta electrònica pròpiament dita en un termini màxim de 24 
+hores; de no efectuar-se aquesta segona remissió en el termini indicat, es considerarà que l'oferta no ha estat 
+presentada. 
+ 
+S'entén per petjada electrònica “hash” de l'oferta, el conjunt de dades el procés de generació de les quals garanteix 
+que es relacionen de manera inequívoca amb el contingut de l'oferta pròpiament dita i que permeten detectar 
+possibles alteracions del contingut d'aquesta, garantint la seva integritat, atès que permet comprovar que el seu 
+contingut no s'ha alterat des del moment de l'enviament per part de la licitadora. 
+ 
+Si per qualsevol circumstància durant la presentació de l'oferta a través de la PCSP en prémer el botó “enviament 
+documentació”, no és factible completar l’oferta el licitador ha d’emprar l’eina que la PCSP posa a la seva disposició 
+per facilitar el codi “hash” i, en un termini de 24 hores des de la presentació de la petjada (codi “hash”), podrà bé 
+tornar a intentar la presentació de l'oferta a través de la PCSP, si està encara dins del termini de presentació, o bé 
+presentar el contingut de l'arxiu electrònic amb l'oferta associada al codi “hash” en el Registre Electrònic del 
+Consell de Mallorca o un altra registre electrònic autoritzat. Amb aquesta presentació el licitador haurà de 
+justificar la impossibilitat de completar la presentació a través de la PLCSP i indicar el número d'expedient al qual 
+es refereix, juntament amb les dades identificatives del licitador, amb la finalitat que la Mesa de contractació pugui 
+comprovar que aquest arxiu electrònic coincideix amb la petjada de l'oferta presentada. 
+ 
+CLÀUSULA 23 - FORMA I CONTINGUT DE LES PROPOSICIONS. 
+ 
+De conformitat amb l'article 159.4 LCSP, quan en el procediment no es contemplin criteris d'adjudicació la 
+quantificació de la qual depengui d'un judici de valor, l'oferta es presentarà en un únic sobre o arxiu electrònic. 
+En cas contrari, l'oferta es presentarà en dos sobres o arxius electrònics. 
+ 
+Els sobres es presentaran tancats i signats pel licitador o persona que el representi, havent de fer-se constar en 
+cadascun d'ells el número de referència i la denominació del contracte al qual liciten, el nom i cognoms del 
+licitador o raó social de l'empresa i el seu corresponent NIF. Els sobres es dividiran en la forma establerta en 
+l'apartat relatiu a la “forma de les proposicions” de l'Annex I quadre de característiques del Plec de 
+Clàusules Administratives Particulars i en els termes de les clàusules que figuren a continuació. 
+ 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 21 de 48
+
+--- página 22 ---
+Quan l'òrgan de contractació o la Mesa considerin que existeixen dubtes raonables sobre la vigència o fiabilitat 
+de la declaració, podran sol·licitar als licitadors que presentin la totalitat o part dels documents justificatius, 
+sempre que resulti necessari per al bon desenvolupament del procediment i, en tot cas, abans d'adjudicar el 
+contracte. 
+ 
+CLÁUSULA 24 - ÚNIC SOBRE: DECLARACIÓ RESPONSABLE I OFERTA DE CRITERIS VALORABLES EN XIFRES O 
+PERCENTATGES. 
+ 
+En el cas que en el procediment no es contemplin criteris d'adjudicació la quantificació de la qual depengui d'un 
+judici de valor, l'oferta es presentarà en un únic sobre o arxiu electrònic. 
+ 
+Dins d'aquest sobre els licitadors hauran d'incloure: 
+ 
+1.- Declaració responsable realitzada conforme al Model declaració responsable i oferta de criteris valorables 
+en xifres o percentatges annex en el present plec, no acceptant-se aquelles que continguin omissions, errors o 
+ratllades que impedeixin conèixer clarament el que l'Administració estimi fonamental per a considerar l'oferta. Si 
+alguna proposició no guardés concordança amb la documentació examinada i admesa, excedís del pressupost 
+base de licitació, variés substancialment el model establert, comportés error manifest en l'import de la proposició, 
+o existís reconeixement per part del licitador que sofreix d'error o inconsistència que la facin inviable, serà 
+rebutjada per la Mesa de contractació mitjançant resolució motivada, sense que sigui causa bastant per al rebuig 
+el canvi o omissió d'algunes paraules del model si això no altera el seu sentit. 
+ 
+En la proposició s'indicarà com a partida independent l'import de l'Impost sobre el Valor Afegit. 
+ 
+2.- Unions Temporals d'Empresaris. 
+ 
+S'haurà de presentar una única declaració responsable i oferta de criteris valorables en xifres o percentatges 
+conforme al Model declaració responsable i oferta de criteris valorables en xifres o percentatges annex en 
+el present plec, subscrita per totes les entitats que constitueixin l'UTE. 
+ 
+Així mateix, s'haurà d'omplir en el Model de declaració responsable i oferta valorable en xifres o 
+percentatges annex en aquest plec l'apartat corresponent al compromís de constituir la unió temporal per part 
+dels empresaris que siguin part de la mateixa de conformitat amb l'exigit en l'apartat 3 de l'article 69 LCSP, amb 
+una durada que serà coincident, almenys, amb la del contracte fins a la seva extinció. En aquest apartat el 
+document de compromís s'indicarà: els noms i circumstàncies dels quals la constitueixin; la participació de 
+cadascun d'ells, així com l'assumpció del compromís de constituir-se formalment en unió temporal en cas de 
+resultar adjudicataris del contracte. El citat document haurà d'estar signat pels representants de cadascuna de 
+les empreses que componen la unió.. 
+ 
+3.- Empreses vinculades. 
+ 
+Les empreses pertanyents a un mateix grup, entenent-se per tals les que es trobin en algun dels supòsits de 
+l'article 42 del Codi de Comerç i que presentin diferents proposicions per a contribuir individualment a 
+l'adjudicació, hauran de presentar declaració conforme al model Annex  en el present plec en la qual facin constar 
+aquesta condició. 
+També hauran de presentar declaració conforme al model Annex  al present plego aquelles societats que, 
+presentant diferents proposicions, concorrin en algun dels supòsits alternatius establerts en l'article 42 del Codi 
+de Comerç, respecte dels socis que la integren. 
+ 
+4.- Condicions especials d’execució. 
+ 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 22 de 48
+
+--- página 23 ---
+Els licitadors hauran de presentar una declaració responsable en la qual manifestin el compromís de complir les 
+condicions especials d'execució del contracte de conformitat amb l'annex a aquest Plec. L'empresa adjudicatària 
+les haurà de mantenir durant tot el temps d'execució del contracte, incloses les pròrrogues. El responsable del 
+contracte vetllarà perquè es compleixin aquestes condicions. 
+ 
+ 
+CLÀUSULA 25 - QUALIFICACIÓ DE LA DOCUMENTACIÓ PRESENTADA, VALORACIÓ I OBERTURA DE LES 
+PROPOSICIONS. 
+ 
+L'òrgan de contractació estarà assistit per la Mesa de Contractació, la composició de la qual es referencia en 
+l'apartat relatiu als  “Òrgans d'assistència a l'òrgan de contractació” de l'Annex I quadre de característiques 
+del Plec de Clàusules Administratives Particulars. 
+ 
+En aquells casos en els quals el licitador solament hagi de presentar un únic sobre o arxiu electrònic, al no 
+contemplar-se en el procediment criteris d'adjudicació la quantificació de la qual depengui d'un judici de valor, la 
+mesa de contractació en acte públic, excepte quan prevegi que en la licitació s'utilitzin mitjans electrònics de 
+conformitat amb l'article 159.4 f) LCSP en relació amb l'article 157.4 LCSP, procedirà a l'obertura de la proposició 
+i a la seva lectura. 
+ 
+L'òrgan de contractació publicarà, amb la deguda antelació, en el perfil de contractant que figura en l'apartat 
+relatiu al “perfil de contractant” de l'Annex I del plec, la data de celebració de l'acte d'obertura del sobre o 
+arxiu electrònic i lectura dels criteris quantificables mitjançant la mera aplicació de fórmules. 
+ 
+Finalitzat l'acte d'obertura del sobre o arxiu electrònic, en la mateixa sessió, la Mesa procedirà a qualificar la 
+declaració presentada pels licitadors. 
+ 
+Si la Mesa de Contractació observa defectes o omissions esmenables a la declaració responsable o en la resta de 
+la documentació presentada, l'ha de notificar al licitador corresponent, amb la concessió del termini no superior 
+a tres dies naturals perquè faci les esmenes, i deixar constància a l'expedient. En aquest moment el licitador té la 
+condició d'admès provisionalment. En aquest cas, la Mesa no farà pública les ofertes presentades fins que el 
+licitador o licitadors requerits hagin estat admesos definitivament o exclosos de la licitació. 
+ 
+Si fos possible en la mateixa sessió, prèvia exclusió, si és el cas, de les ofertes que no compleixin els requeriments 
+del plec, la taula procedirà a avaluar i classificar les ofertes.  
+ 
+En cas que s'identifiquin ofertes que incorrin en presumpció d'anormalitat, la taula seguirà el procediment previst 
+en l'article 149 LCSP, si bé el termini màxim que pot conferir-se al licitador que hagi obtingut la millor puntuació 
+perquè justifiqui la seva oferta no podrà superar els 5 dies hàbils, des de la data de l'enviament de la corresponent 
+comunicació. 
+ 
+A més, en cas que es produeixi l'empat entre dos o més ofertes, s'haurà d'aplicar el règim de desempat establert 
+en la clàusula denominada “adjudicació del contracte” del present plec. 
+ 
+Posteriorment, la taula realitzarà la proposta d'adjudicació a favor del candidat amb millor puntuació. La taula 
+comprovarà en el Registre Oficial de Licitadors i Empreses Classificades que el licitador proposat com a 
+adjudicatari està degudament constituït, el signant de la proposició té poder suficient per a formular l'oferta, que 
+té la solvència econòmica, financera i tècnica o, si és el cas, la classificació corresponent i no incorre en cap 
+prohibició per a contractar. 
+ 
+ 
+Així mateix, la taula requerirà a l'empresa que ha obtingut la millor puntuació, la documentació necessària per a 
+l'adjudicació i, si cap, qualsevol altra documentació que no estigui inscrita en el Registre de Licitadors, en els 
+termes establerts en la clàusula denominada “adjudicació del contracte” del present plec. 
+ 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 23 de 48
+
+--- página 24 ---
+ 
+Notificada l'adjudicació del contracte i transcorreguts els terminis per a la interposició de recursos sense que 
+s'hagin interposat, la documentació que acompanya a les proposicions quedarà a la disposició dels interessats. Si 
+aquests no retiren la seva documentació en els tres mesos següents a la data en què se'ls notifiqui l'adjudicació, 
+l'Administració no estarà obligada a continuar custodiant-la. 
+ 
+ 
+ 
+CAPÍTOL II DE LA PROPOSTA D'ADJUDICACIÓ, ADJUDICACIÓ I PERFECCIÓ I FORMALITZACIÓ 
+ 
+CLÀUSULA 26 - EFECTES DE LA PROPOSTA D'ADJUDICACIÓ. DECISIÓ DE NO ADJUDICAR O CELEBRAR EL CONTRACTE 
+I DESISTIMENT DEL PROCEDIMENT D'ADJUDICACIÓ PER L'ADMINISTRACIÓ. 
+ 
+La proposta d'adjudicació del contracte no crea cap dret en favor del licitador proposat, que no els adquirirà, 
+enfront de l'Administració, mentre no s'hagi formalitzat el contracte. 
+ 
+De conformitat amb el que es disposa en l'article 152 LCSP la decisió de no adjudicar o celebrar el contracte o el 
+desistiment del procediment podran acordar-se per l'òrgan de contractació abans de la formalització. 
+ 
+Només podrà adoptar-se la decisió de no adjudicar o celebrar el contracte per raons d'interès públic degudament 
+justificades en l'expedient. El desistiment del procediment haurà d'estar fundat en una infracció no corregible de 
+les normes de preparació del contracte o de les reguladores del procediment d'adjudicació, havent de justificar-
+se en l'expedient la concurrència de la causa. 
+ 
+Els licitadors tindran dret a ser compensats únicament per les despeses en què haguessin incorregut en la 
+preparació de les proposicions, prèvia justificació i acreditació. Concretament i amb caràcter exclusiu fins a un 
+import màxim de cent euros (100,00 €). Per a tenir dret a aquesta indemnització serà necessari que els licitadors 
+ho sol·licitin per escrit en l'òrgan de contractació, en un termini màxim d'un (1) mes comptador des de la data en 
+què s'hagués notificat la resolució de renúncia o desistiment. 
+ 
+CLÀUSULA 27 - ADJUDICACIÓ DEL CONTRACTE. 
+ 
+L'adjudicació del contracte correspon a l'òrgan de contractació assenyalat en l'apartat relatiu als “Òrgans 
+administratius” Annex I quadre de característiques del Plec de Clàusules Administratives Particulars. 
+ 
+L'òrgan de contractació adjudicarà el contracte al licitador que hagi presentat la millor oferta, de conformitat amb 
+el que es disposa en l'article 145 LCSP. 
+ 
+La mesa de contractació procedirà a requerir a l'empresa que ha obtingut la millor puntuació, mitjançant 
+comunicació electrònica, perquè, si així s'hagués exigit: constitueixi la garantia definitiva, així com perquè aporti 
+el compromís al qual es refereix l'article 75.2 LCSP conforme al model de l'Annex al plec i la documentació 
+justificativa de què disposa efectivament dels mitjans que s'hagués compromès a dedicar o adscriure a l'execució 
+del contracte conforme a l'article 76.2 LCSP i, en el seu cas, la subscripció de les pòlisses, i tot això en el termini 
+de 7 dies hàbils a comptar des de l'enviament de la comunicació. 
+ 
+Quan l'empresari estigui inscrit en el corresponent Registre Oficial de Licitadors o figuri en una base de dades 
+nacional d'un Estat membre de la Unió Europea, com un expedient virtual de l'empresa, un sistema 
+d'emmagatzematge electrònic de documents o un sistema de pre - qualificació, i aquests siguin accessibles de 
+manera gratuïta per als citats òrgans, no estarà obligat a presentar els documents justificatius o una altra prova 
+documental de les dades inscrites en els referits llocs, sent únicament necessari la manifestació expressa per part 
+del licitador de la seva inscripció en el Registre o base de dades corresponent. 
+ 
+La inscripció en el corresponent Registre Oficial de Licitadors eximirà als licitadors inscrits, d’acord amb allò 
+reflectit en aquell i excepte prova en contra, de la presentació en les convocatòries de contractació de les 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 24 de 48
+
+--- página 25 ---
+condicions d'aptitud de l'empresari quant a la seva personalitat i capacitat d'obrar, representació, habilitació 
+professional o empresarial, solvència econòmica i financera, i classificació, així com de l'acreditació de la no 
+concurrència de les prohibicions de contractar que hagin de constar en aquell. 
+ 
+D'acord amb el que es disposa en l'article 139.1 LCSP, la presentació de les proposicions suposa l'autorització a la 
+mesa de contractació i a l'òrgan de contractació per a consultar les dades recollides en el corresponent Registre 
+Oficial de Licitadors o en les llistes oficials d'operadors econòmics en un Estat membre de la Unió Europea. 
+ 
+A més, en el termini de 7 dies hàbils, haurà de presentar qualsevol altra documentació que no figuri inscrita en el 
+Registre de Licitadors. 
+ 
+Per tant, quan algun de les dades o documents no constessin inscrits o quan el licitador hagués fet ús de la facultat 
+d'acreditar la presentació de la sol·licitud d'inscripció en el corresponent Registre al fet que al·ludeix l'incís final 
+de l'article 159.4 lletra a) LCSP o en aquells casos en els quals no resultés exigible l'obligació de figurar inscrit en 
+el corresponent Registre per limitar la concurrència, la mesa de contractació haurà de requerir a l'empresari que 
+hagi presentat la millor oferta, així com a totes les empreses integrants de la UTE que hagi estat proposada com 
+a adjudicatària, perquè en el termini de 7 dies hàbils a comptar des de l'enviament de la comunicació presentin, 
+en el seu cas, la següent documentació: 
+ 
+1.- Sol·licitud d'inscripció en el corresponent Registre. 
+ 
+Únicament quan el licitador hagi presentat la sol·licitud d'inscripció en el corresponent Registre en els termes de 
+l'article 159.4. lletra a) LCSP i aquesta no hagi estat resolta, l'acreditació d'aquesta circumstància tindrà lloc 
+mitjançant l'aportació del justificant de recepció de la sol·licitud emès pel corresponent Registre, acompanyada 
+d'una declaració responsable d'haver aportat la documentació preceptiva i de no haver rebut requeriment 
+d'esmena. 
+ 
+2.- Capacitat d'obrar. 
+ 
+2.1.- Si l'empresa fos persona jurídica, l'escriptura o document de constitució, els estatuts o acte fundacional en 
+els quals consti les normes per les quals es regula la seva activitat, degudament inscrits, si escau, en el Registre 
+Públic que correspongui segons la mena de persona jurídica de què es tracti, així com el Número d'Identificació 
+Fiscal (NIF). 
+ 
+2.2.- Si es tracta d'empresari individual, el DNI o document que, en el seu cas, li substitueixi reglamentàriament. 
+ 
+2.3.- La capacitat d'obrar dels empresaris no espanyols que siguin nacionals d'Estats membres de la Unió Europea 
+o d'Estats signataris de l'Acord sobre l'Espai Econòmic Europeu, s'acreditarà per la seva inscripció en el registre 
+procedent, d'acord amb la legislació de l'Estat on estiguin establerts o mitjançant la presentació d'una declaració 
+jurada o un certificat d'acord amb les disposicions comunitàries d'aplicació. 
+ 
+2.4.- Quan es tracti d'empreses estrangeres no compreses en el paràgraf anterior, informe de la Missió 
+Diplomàtica Permanent d'Espanya en l'Estat corresponent o de l'Oficina Consular en l'àmbit territorial de la qual 
+radiqui el domicili de l'empresa. 
+ 
+2.5. Sense perjudici de l'aplicació de les obligacions d'Espanya derivades d'acords internacionals, les persones 
+físiques o jurídiques d'Estats no pertanyents a la Unió Europea o d'Estats signataris de l'Acord sobre l'Espai 
+Econòmic Europeu hauran de justificar mitjançant informe que l'Estat de procedència de l'empresa estrangera 
+admet al seu torn la participació d'empreses espanyoles en la contractació amb els ens del sector públic 
+assumibles als enumerats en l'article 3, en forma substancialment anàloga. Aquest informe serà elaborat per la 
+corresponent Oficina Econòmica i Comercial d'Espanya en l'exterior i s'acompanyarà a la documentació que es 
+presenti. 
+ 
+2.6.- Les empreses estrangeres presentaran la seva documentació traduïda de manera oficial al català i/o al 
+castellà. 
+ 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 25 de 48
+
+--- página 26 ---
+3.- Validació de poders. 
+ 
+En el cas que el licitador estigui inscrit en el corresponent Registre Oficial de Licitadors, no serà necessària la 
+presentació de la validació de poder, quan aquesta representació consti degudament inscrita. 
+ 
+En el cas que el licitador no estigui inscrit en aquest Registre, els que  compareguin o signin proposicions en nom 
+d'un altre o representin a una persona jurídica, hauran d'acompanyar escriptures o documentació acreditativa de 
+les facultats del representant degudament validades. Per a l'obtenció de la validació hauran de remetre's  els 
+següents documents: 
+  
+• DNI del representant.  
+• Documentació que acrediti la capacitat de la persona jurídica i de les facultats del representant de l'entitat  
+per a participar en licitacions públiques.  
+• Tret que es tracti de poders especials atorgats per a l'acte concret de la licitació, haurà de constar la 
+inscripció dels poders en el Registre Mercantil, en cas de societats. 
+ 
+4.- Solvència econòmica, financera i tècnica o professional. 
+ 
+4.1. Els licitadors hauran d'acreditar la seva solvència en els termes indicats en l'apartat  relatiu a la “Solvència 
+econòmica, financera i tècnica” de l'Annex I quadre de característiques del Plec de Clàusules Administratives 
+Particulars. 
+ 
+4.2. Els licitadors podran acreditar indistintament la seva solvència mitjançant els requisits específics i en els 
+termes indicats en l'apartat anterior o bé mitjançant la seva classificació en el grup, subgrup i categoria que 
+s'indica en l'apartat relatiu a la “Solvència econòmica, financera i tècnica” de l'Annex I quadre de 
+característiques del Plec de Clàusules Administratives Particulars. 
+ 
+4.3. Si s'opta per acreditar la classificació de l'empresa, podrà realitzar-se mitjançant certificat del corresponent 
+Registre Oficial de Licitadors. 
+ 
+4.4. Els empresaris no espanyols d'Estats membres de la Unió Europea o dels Estats signataris de l'Acord sobre 
+l'Espai Econòmic Europeu, hauran de presentar la documentació acreditativa de la seva solvència econòmica i 
+financera i tècnica o professional en la forma establerta en els articles 87 i 90 de la LCSP, i pels mitjans previstos 
+per l'òrgan de contractació en l'apartat relatiu a la “Solvència econòmica, financera i tècnica” de l'Annex I 
+quadre de característiques del Plec de Clàusules Administratives Particulars. 
+ 
+A aquest efecte els certificats d'inscripció expedits pels òrgans competents de la gestió de les llistes oficials 
+d'empresaris autoritzats per a contractar establertes pels Estats membres de la Unió Europea referits a 
+empresaris establerts en l'Estat membre que expedeix el certificat constituiran una presumpció d'aptitud respecte 
+als requisits de selecció qualitativa que en ells figurin. 
+ 
+Igual valor presumptiu assortiran, respecte dels extrems en ells certificats, les certificacions emeses per 
+organismes de certificació competents que responguin a les normes europees de certificació expedides de 
+conformitat amb la legislació de l'Estat membre en què estigui establert l'empresari. 
+ 
+Els documents a què es refereix l'apartat anterior hauran d'indicar les referències que hagin permès la inscripció 
+de l'empresari en la llista o l'expedició de la certificació, així com la classificació obtinguda. 
+ 
+5.- Habilitació empresarial. 
+ 
+En el cas que el licitador hagi d'acreditar la seva habilitació empresarial de conformitat amb el que es disposa en 
+l'apartat relatiu a la “habilitació empresarial” de l'Annex I quadre de característiques del Plec de Clàusules 
+Administratives Particulars, haurà d'aportar els documents acreditatius d'aquesta. 
+ 
+6.- Unions Temporals d'Empresaris 
+ 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 26 de 48
+
+--- página 27 ---
+La determinació de la solvència econòmica i financera i tècnica o professional de la unió temporal i als seus 
+efectes, s'acumularan les característiques acreditades per a cadascun dels integrants d'aquesta. 
+ 
+A l'efecte de valorar i apreciar la concurrència del requisit de classificació, respecte dels empresaris que concorrin 
+agrupats s'atendrà, en la forma que reglamentàriament es determini, a les característiques acumulades de 
+cadascun d'ells, expressades en les seves respectives classificacions. En tot cas, serà necessari per a procedir a 
+aquesta acumulació que totes les empreses hagin obtingut prèviament la classificació per a aquesta tipologia 
+contractual, sense perjudici del que s'estableix per als empresaris no espanyols d'Estats membres de la Unió 
+Europea i d'Estats signataris de l'Acord sobre l'Espai Econòmic Europeu en l'apartat 4 del present article. 
+ 
+El règim d'acumulació de les classificacions serà l'establert de manera reglamentària. 
+ 
+Per als casos en què sigui exigible la classificació i concorrin en la unió empresaris nacionals, estrangers que no 
+siguin nacionals d'un Estat membre de la Unió Europea ni d'un Estat signatari de l'Acord sobre l'Espai Econòmic 
+Europeu i estrangers que siguin nacionals d'un Estat membre de la Unió Europea o d'un Estat signatari de l'Acord 
+sobre l'Espai Econòmic Europeu, els que pertanyin als dos primers grups hauran d'acreditar la seva classificació, 
+i aquests últims la seva solvència econòmica, financera i tècnica o professional. 
+ 
+En el cas que el contracte s'adjudiqués a una unió temporal d'empresaris, aquesta acreditarà la seva constitució 
+en escriptura pública, així com el NIF assignat a aquesta unió, una vegada efectuada l'adjudicació del contracte al 
+seu favor. La durada de la unió serà, almenys, coincident amb la del contracte fins a la seva extinció. 
+ 
+7.- Obligacions tributàries i amb la Seguretat Social.  
+ 
+i. Obligacions tributàries: 
+ 
+a) Alta en l'impost sobre Activitats Econòmiques en l'epígraf corresponent a l'objecte del contracte, sempre que 
+exerceixi activitats subjectes a aquest impost, en relació amb les quals realitzi a la data de presentació de la seva 
+proposició referida a l'exercici corrent o l'últim rebut, completat amb una declaració responsable de no haver-se 
+donat de baixa en la matrícula del citat impost. 
+ 
+Els subjectes passius que estiguin exempts de l'impost hauran de presentar declaració responsable indicant la 
+causa d'exempció. En el supòsit de trobar-se en alguna de les exempcions establertes en l'article 82.1 apartats b), 
+e) i f) del Reial decret legislatiu 2/2004, de 5 de març, pel qual s'aprova el text refós de la Llei Reguladora de les 
+Hisendes Locals, hauran de presentar així mateix resolució expressa de la concessió de l'exempció de l'Agència 
+Estatal d'Administració Tributària.  
+ 
+Les unions temporals d'empresaris hauran d'acreditar, una vegada formalitzada la seva constitució, l'alta en 
+l'impost, sense perjudici de la tributació que correspongui a les empreses integrants d'aquesta. 
+ 
+b) Certificació positiva expedida per l'Agència Estatal de l'Administració Tributària, en la qual es contingui 
+genèricament el compliment dels requisits establerts en l'article 13 del RGLCAP.  
+ 
+A més, el proposat adjudicatari no haurà de tenir deutes de naturalesa tributària en període executiu de 
+pagament en l'àmbit territorial de l'entitat contractant. El compliment d'aquesta obligació s'efectuarà mitjançant 
+l'acreditació dels dades que consten en la corresponent Tresoreria. 
+ 
+ii. Obligacions amb la Seguretat Social:  
+ 
+Certificació positiva expedida per la Tresoreria de la Seguretat Social, en la qual es contingui genèricament el 
+compliment dels requisits establerts en l'article 14 del RGLCAP.  
+ 
+Els professionals col·legiats que, de conformitat amb la Disposició Addicional Divuitena del text refós de la Llei 
+General de la Seguretat Social, aprovat per Reial decret legislatiu 8/2015, de 30 d'octubre, estiguin exempts de 
+l'obligació d'alta en el règim especial i que optin o haguessin optat per incorporar-se a la Mutualitat de Previsió 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 27 de 48
+
+--- página 28 ---
+Social del corresponent col·legi professional, hauran d'aportar una certificació de la respectiva Mutualitat, 
+acreditativa de la seva pertinença a aquesta. 
+ 
+La presentació d'aquesta certificació no exonera a l'interessat de justificar les restants obligacions que 
+s'assenyalen en el present plec quan tingui treballadors al seu càrrec, devent, en cas contrari, justificar aquesta 
+circumstància mitjançant declaració responsable. 
+ 
+Presentada la documentació i, en els casos en què resulti preceptiva, prèvia fiscalització del compromís de la 
+despesa per la Intervenció, en un termini no superior a 5 dies, es procedirà a adjudicar el contracte a favor del 
+licitador proposat com a adjudicatari, procedint-se, una vegada adjudicat el mateix, a la seva formalització. En cas 
+contrari, s'entendrà que el licitador ha retirat la seva oferta, procedint-se a exigir-li l'import del 3% del pressupost 
+base de licitació, IVA exclòs, en concepte de penalitat, sense perjudici del que s'estableix en la lletra a) de l'apartat 
+2 de l'article 71 LCSP, i s'efectuarà proposta d'adjudicació a favor del següent candidat en puntuació, atorgant-li 
+el termini de 7 dies hàbils per a presentar la documentació que li sigui requerida. 
+ 
+L'adjudicació es notificarà als licitadors, havent de ser publicada en el perfil del contractant en el termini de 15 
+dies. 
+ 
+L'òrgan de contractació podrà declarar deserta la licitació, en el seu cas, a proposta de la mesa de contractació, 
+quan no existeixi cap oferta o proposició que sigui admissible d'acord amb els criteris que figuren en el plec. 
+ 
+CLÀUSULA 28 - PERFECCIÓ I FORMALITZACIÓ. 
+ 
+El contracte es perfeccionarà amb la seva formalització. 
+ 
+El contracte haurà de formalitzar-se en document administratiu que s'ajustarà amb exactitud a les condicions de 
+la licitació i, a més, podrà formalitzar-se en escriptura pública si així ho sol·licita el contractista, corrent al seu 
+càrrec les despeses derivades del seu atorgament. En aquest cas, el contractista haurà de lliurar a l'Administració  
+una còpia legitimada i una simple del citat document en el termini màxim d'un mes des de la seva formalització. 
+ 
+Quan, de conformitat amb l'apartat relatiu a la “Cessió i tractament de dades” de l'Annex I quadre de 
+característiques del Plec de Clàusules Administratives Particulars, s'indiqui que es tracta d'un contracte 
+l'execució del qual requereixi el tractament pel contractista de dades personals per compte del responsable del 
+tractament, a tenor del que es disposa en la lletra c) de l'apartat 2 de l'article 122 LCSP, l'empresa adjudicatària té 
+l'obligació de presentar, abans de la formalització del contracte, una declaració en la qual posi de manifest on 
+estaran situats els servidors i des d'on es prestaran els serveis associats a aquests. 
+ 
+Aquesta obligació recollida en la lletra c) de l'apartat 2 de l'article 122 LCSP és qualificada com a essencial a l'efecte 
+del que es preveu en la lletra f) de l'apartat 1 de l'article 211 LCSP. 
+ 
+Si el contracte és susceptible de recurs especial en matèria de contractació, la formalització no podrà efectuar-se 
+abans que transcorrin els quinze dies hàbils des que es remeti la notificació de l'adjudicació als licitadors o des 
+que es dicti resolució amb l'aixecament de la suspensió de l'acte d'adjudicació. Transcorregut aquest termini, els 
+serveis dependents de l'òrgan de contractació requeriran a l'adjudicatari perquè formalitzi el contracte en termini 
+no superior a cinc dies, comptats des del següent a aquell en què hagués rebut el requeriment.  
+ 
+En els restants contractes, la formalització del contracte haurà d'efectuar-se no més tard dels quinze dies hàbils 
+següents a aquell en què es rebi la notificació de l'adjudicació als licitadors en la forma prevista en l'article 151 
+LCSP. 
+ 
+De conformitat amb el que s'estableix en l'article 153.4 LCSP quan per causes imputables a l'adjudicatari no 
+s'hagués formalitzat el contracte dins del termini indicat se’l exigirà l'import del 3% del pressupost base de licitació, 
+IVA exclòs, en concepte de penalitat, que es farà efectiu en primer lloc contra la garantia definitiva, si s'hagués 
+constituït, sense perjudici del que s'estableix en la lletra b) de l'apartat 2 de l'article 71 LCSP. 
+ 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 28 de 48
+
+--- página 29 ---
+TÍTOL III. EXECUCIÓ DEL CONTRACTE. 
+ 
+CAPÍTOL I DRETS I OBLIGACIONS DEL CONTRACTISTA 
+ 
+CLÀUSULA 29 - VALORACIONS I ABONAMENTS. 
+ 
+El contractista té dret a l'abonament, conformement als preus convinguts, dels serveis que realment executi amb 
+subjecció al contracte atorgat, a les seves modificacions aprovades i a les instruccions donades per l'Administració, 
+sent la forma de pagament i la seva periodicitat les especificades en l'apartat relatiu al “Règim de pagaments” de 
+l'Annex I quadre de característiques del Plec de Clàusules Administratives Particulars. 
+ 
+A aquest efecte, de conformitat amb l'apartat dos de la disposició addicional trentena segona de la LCSP, el 
+contractista haurà de fer constar en cada factura presentada, la identificació tant de l'òrgan administratiu amb 
+competències en matèria de comptabilitat pública, com de l'òrgan de contractació i del destinatari, segons el que 
+es disposa en l'apartat relatiu els “Òrgans administratius” de l'Annex I quadre de característiques del Plec 
+de Clàusules Administratives Particulars. 
+ 
+L'Administració tindrà l'obligació d'abonar el preu dins dels trenta dies següents a la data d'aprovació dels 
+documents que acreditin la conformitat amb el que es disposa en el contracte dels serveis prestats, i si es 
+demorés, haurà d'abonar al contractista, a partir del compliment d'aquest termini de trenta dies els interessos de 
+demora i la indemnització pels costos de cobrament en els termes previstos en la Llei 3/2004, de 29 de desembre, 
+per la qual s'estableixen mesures de lluita contra la morositat en les operacions comercials. 
+ 
+Perquè pertoqui a l'inici del còmput de termini per a la meritació d'interessos, el contractista haurà d'haver 
+complert l'obligació de presentar la factura davant el registre administratiu corresponent en els termes establerts 
+en la normativa vigent sobre factura electrònica, dins del termini i en la forma escaient, en el termini de trenta 
+dies des de la data de lliurament efectiu de les mercaderies o la prestació del servei. 
+ 
+Sense perjudici del que s'estableix en l'apartat 4 de l'article 210 LCSP, l'Administració haurà d'aprovar els 
+documents que acreditin la conformitat amb el que es disposa en el contracte de serveis prestats, dins dels trenta 
+dies següents a la prestació del servei. 
+ 
+En tot cas, si el contractista incomplís el termini de trenta dies per a presentar la factura davant el registre 
+administratiu corresponent en els termes establerts en la normativa vigent sobre factura electrònica, la meritació 
+d'interessos no s'iniciarà fins transcorreguts trenta dies des de la data de la correcta presentació de la factura, 
+sense que l'Administració hagi aprovat la conformitat, si escau, i efectuat el corresponent abonament. 
+ 
+En els contractes de serveis que siguin de tracte successiu, el responsable del contracte, a la vista dels treballs 
+realment executats i dels preus contractats, redactarà les corresponents valoracions ajustades al que es disposa 
+en els articles 199 i següents del RGLCAP. Les valoracions s'efectuaran sempre a l'origen, concretant-se els treballs 
+realitzats en el període de temps de què es tracti, observant-se, quant a l'audiència del contractista, el que es 
+disposa en l'article 149 del RGLCAP. 
+ 
+Les certificacions per a l'abonament dels treballs efectuats s'expediran prenent com a base la valoració 
+corresponent i es tramitaran pel responsable del contracte dins dels deu dies següents al període de temps al fet 
+que corresponguin, no podent ometre's la redacció de la valoració pel fet que, en algun període, la prestació 
+realitzada hagi estat d'escàs volum i fins i tot nul·la, tret que s'hagués acordat la suspensió del contracte. 
+ 
+Quan es prevegi expressament en l'apartat relatiu al “Règim de pagaments” de l'Annex I quadre de 
+característiques del Plec de Clàusules Administratives Particulars, podran realitzar-se valoracions parcials 
+per treballs efectuats abans que es produeixi el lliurament parcial d'aquests, de conformitat amb l'article 200 del 
+RGLCAP, i en aquest cas s'estarà al que es disposa en el referit apartat. 
+ 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 29 de 48
+
+--- página 30 ---
+Si així s'indica en l'apartat relatiu al “Règim de pagaments” de l'Annex I del plec, el contractista, prèvia petició 
+escrita, tindrà dret a percebre a l'inici del contracte fins a un 20 per 100 de l'import total d'aquest, com a 
+abonament a compte per al finançament de les operacions preparatòries per a l'execució d'aquest, com a 
+instal·lacions i adquisició d'equip i mitjans auxiliars. 
+ 
+Els referits pagaments seran assegurats mitjançant la prestació de la garantia que s'especifica en l'apartat relatiu 
+al “Règim de pagaments” de l'Annex I del plec. 
+ 
+Els criteris i la forma de valoració de les operacions preparatòries, així com el pla d'amortització dels abonaments 
+a compte es troben recollits en l'apartat relatiu al “Règim de pagaments” de l'Annex I del plec. 
+ 
+CLÀUSULA 30 - OBLIGACIONS, DESPESES I IMPOSTOS EXIGIBLES AL CONTRACTISTA. 
+ 
+El contracte s'executarà amb subjecció a les clàusules del mateix i d'acord amb les instruccions que per a la seva 
+interpretació donés al contractista l'Administració. 
+ 
+Són de compte del contractista les despeses i impostos, els de formalització del contracte en el supòsit d'elevació 
+a escriptura pública, així com de quantes llicències, autoritzacions i permisos procedeixin amb vista a l'execució 
+del contracte. Així mateix, vindrà obligat a satisfer totes les despeses que l'empresa hagi de realitzar per al 
+compliment del contracte, com són els generals, financers, d'assegurances, transports i desplaçaments, materials, 
+instal·lacions, honoraris del personal al seu càrrec, de comprovació i assaig, taxes i tota classe de tributs, l'IVA i 
+qualssevol altres que poguessin derivar-se de l'execució del contracte durant la vigència d'aquest. 
+ 
+Tant en les ofertes que formulin els licitadors com en les propostes d'adjudicació, s'entendran compresos, amb 
+caràcter general, els tributs de qualsevol índole que gravin els diversos conceptes. 
+ 
+No obstant això, en tot cas, en l'oferta econòmica s'indicarà com a partida independent l'import de l'Impost sobre 
+el Valor Afegit (IVA). 
+ 
+CLÀUSULA 31 - OBLIGACIONS LABORALS, SOCIALS I DE TRANSPARÈNCIA. 
+ 
+El contractista està obligat al compliment de la normativa vigent en matèria laboral i de seguretat social. Així 
+mateix, està obligat al compliment del Reial decret legislatiu 1/2013, de 29 de novembre, pel qual s'aprova el text 
+refós de la Llei General de drets de les persones amb discapacitat i de la seva inclusió social, de la Llei orgànica 
+3/2007, de 22 de març, per a la igualtat efectiva de dones i homes, de la Llei 31/1995, de 8 de novembre, sobre 
+Prevenció de Riscos Laborals, i del Reglament dels Serveis de Prevenció, aprovat per Reial decret 39/1997, de 17 
+de gener, així com de les normes que es promulguin durant l'execució del contracte.  
+ 
+L'empresa contractista està obligada a complir durant tot el període d'execució del contracte les normes i 
+condicions fixades en el conveni col·lectiu d'aplicació.  
+ 
+La relació de l'organisme o organismes on els licitadors podran obtenir informació sobre la fiscalitat, a la protecció 
+del medi ambient, i a les disposicions vigents en matèria de protecció de l'ocupació, igualtat de gènere, condicions 
+de treball i prevenció de riscos laborals i inserció sociolaboral de les persones amb discapacitat, i a l'obligació de 
+contractar a un número o percentatge específic de persones amb discapacitat que seran aplicables als serveis 
+prestats durant l'execució del contracte, seran els assenyalats, en l'Annex relatiu al deure de  informació previst 
+en l'article 129 de la LCSP.   
+ 
+Així mateix, de conformitat amb el que s'estableix en l'article 4 de la Llei 19/2013, de 9 de desembre, de 
+transparència, accés a la informació i bon govern, l'adjudicatari del contracte està obligat a subministrar a l'entitat 
+contractant, previ requeriment i en un termini de 10 dies, tota la informació necessària per al compliment de les 
+obligacions previstes en la citada norma, així com en aquelles normes que es dictin en desenvolupament 
+d'aquesta. 
+ 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 30 de 48
+
+--- página 31 ---
+No existirà cap vinculació laboral entre el personal que es destini a l'execució del contracte i ens, organisme o 
+entitat del sector públic contractant, puix que aquell queda expressament sotmès al poder direccional i 
+d'organització de l'empresa adjudicatària en tot àmbit i ordre legalment establert i sent, per tant, aquesta l'única 
+responsable i obligada al compliment de quantes disposicions legals resultin aplicables al cas, especialment, en 
+matèria de contractació, Seguretat Social, prevenció de riscos laborals i tributària. Sent així, aquest personal en 
+cap cas tindrà vinculació jurídic-laboral amb l'ens, organisme o entitat del sector públic contractant, i això amb 
+independència de les facultats de Control i Inspecció que legal i/o contractualment corresponguin a aquesta. 
+ 
+A l'extinció dels contractes de serveis, no podrà produir-se en cap cas la consolidació de les persones que hagin 
+fet els treballs objecte del contracte com el personal de l'ens, organisme o entitat del sector públic contractant. A 
+tal fi, els empleats o responsables de l'ens, organisme o entitat del sector públic contractant han d'abstenir-se de 
+realitzar actes que impliquin l'exercici de facultats que, com a part de la relació jurídic laboral, li corresponen a 
+l'empresa contractista.  
+ 
+CLÀUSULA 32 - DEURE DE CONFIDENCIALITAT. 
+ 
+En relació amb la confidencialitat serà aplicable el que es disposa en l'article 133 LCSP. 
+ 
+El contractista haurà de respectar el caràcter confidencial d'aquella informació a la qual tingui accés en ocasió de 
+l'execució del contracte a la qual se li hagués atribuït el referit caràcter en els plecs o en el contracte, o que per la 
+seva pròpia naturalesa hagi de ser tractada com a tal. Aquest deure es mantindrà durant el termini establert en 
+l'apartat relatiu al “Deure de confidencialitat” de l'Annex I quadre de característiques del Plec de Clàusules 
+Administratives Particulars. 
+ 
+No es podrà divulgar la informació facilitada pels empresaris que aquests hagin designat com a confidencial, i així 
+hagi estat acordat per l'òrgan de contractació. A aquest efecte, els licitadors hauran d'incorporar en cadascun dels 
+sobres la relació de documentació per als quals proposin aquest caràcter confidencial, fonamentant el motiu de 
+tal caràcter. 
+ 
+CLÀUSULA 33 - PROTECCIÓ DE DADES DE CARÀCTER PERSONAL. 
+ 
+Si el contracte adjudicat implica el tractament de dades de caràcter personal, el contractista haurà de respectar 
+la Llei orgànica 3/2018, de 5 de desembre, de Protecció de Dades Personals i garantia dels drets digitals, el 
+Reglament (UE) 2016/679 del Parlament Europeu i del Consell, de 27 d'abril de 2016, així com les disposicions que 
+en matèria de protecció de dades es trobin en vigor a l'adjudicació del contracte o que puguin estar-lo durant la 
+seva vigència. 
+ 
+En el supòsit en el qual l'entitat adjudicatària tracti dades de caràcter personal per compte propi se li atribuirà la 
+responsabilitat exclusiva de les dades que calgués tractar com a conseqüència de la prestació del servei objecte 
+del contracte, en qualitat de responsable dels mateixos i així constarà en el plec de prescripcions tècniques. 
+ 
+Si el contracte adjudicat implica tractament de dades de caràcter personal dels quals és responsable l'entitat 
+contractant, l'entitat adjudicatària, en qualitat d'encarregada de tractament, estarà al que es disposa en el 
+corresponent Acord per encàrrec de Tractament. 
+ 
+El deure de secret sobre la informació que s'obtingui durant la durada de l'objecte del contracte, pel que respecta 
+al compliment de la normativa en matèria de protecció de dades personals, es mantindrà per temps indefinit. 
+ 
+En contractes l'execució dels quals requereixi de la cessió de dades per part d'entitats del sector públic al 
+contractista, així com en contractes l'execució dels quals requereixi el tractament pel contractista de dades 
+personals per compte del responsable del tractament, s'haurà de tenir en compte el que es disposa en els 
+apartats relatius a la “Cessió i tractament de dades” (en concret, la finalitat de la cessió de dades i les 
+obligacions del contractista), a les “Condicions especials d'execució”, a la “Subcontractació” i a les “Causes de 
+resolució del contracte” de l'Annex I quadre de característiques del Plec de Clàusules Administratives 
+Particulars. 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 31 de 48
+
+--- página 32 ---
+ 
+Als efectes previstos al Reglament (UE) 2016/679 del Parlament Europeu i del Consell de 27 d'abril de 2016 relatiu 
+a la protecció de les persones físiques respecte al tractament de dades personals i a la lliure circulació d'aquestes 
+dades i pel que es deroga la Directiva 95/46/CE Reglament General de Protecció de Dades Europeus i la Llei 
+Orgànica 3/2018, de 5 de desembre, de Protecció de Dades Personals i garantia dels drets digitals, s'informa el 
+licitador que les seves dades personals seran tractades per: 
+ 
+• Identitat. Consell Insular de Mallorca, NIF S0711002F 
+• Adreça postal: Carrer del Palau Reial, 1 (07001) Palma de Mallorca (Espanya) 
+• Telèfon: 971 17 35 00 - Correu Electrònic: dpd@conselldemallorca.net 
+ 
+Li informem, així mateix que disposem d'una Delegada de Protecció de Dades (DPD), que és una figura legalment 
+prevista les funcions principals de la qual són les d'informar i assessorar a l'entitat sobre les obligacions que li 
+afecten en matèria de protecció de dades personals i supervisés el seu compliment. A més, el DPD actua com a 
+punt de contacte amb l'entitat per a qualsevol qüestió relativa al tractament de dades personals. 
+ 
+Les dades de contacte dels seus representants i treballadors tractats en virtut del present concurs, així com els 
+altres intercanviats pel licitador per aportar al contracte, s'utilitzaran amb l'única finalitat del desenvolupament 
+del procés de contractació, sent tractats sobre la base de l'esmentada relació pre - contractual. Per tant, és 
+obligatori que el licitador faciliti les seves dades, ja que, en cas contrari, no podria ser valorada la seva participació. 
+ 
+Les dades dels licitadors admesos i exclosos seran publicades a la Plataforma de Contractació del Sector Públic 
+de l'Estat - Perfil del contractant del Consell Insular de Mallorca. 
+ 
+Les dades seran conservades durant el temps de preparació i adjudicació del contracte, i posteriorment, en el 
+supòsit de resultar elegit contractant, durant el temps en què es mantingui la relació contractual de prestació de 
+serveis, i, encara després, fins que prescriguin les eventuals responsabilitats que es poguessin derivar de la 
+mateixa i durant tot el temps exigit per la normativa aplicable. 
+ 
+El licitador té dret a sol·licitar l'accés a les seves dades personals, la seva rectificació o supressió, així com a la 
+limitació del seu tractament, a oposar-se al mateix i a la seva portabilitat. Davant de qualsevol eventual vulneració 
+dels seus drets, es pot presentar una reclamació davant de l'Agència Espanyola de Protecció de Dades 
+ 
+CLÀUSULA 34 - ASSEGURANCES. 
+ 
+El contractista, estarà obligat a subscriure, al seu càrrec, les pòlisses d'assegurances que s'indiquen en l'apartat 
+relatiu a les “Pòlisses d'assegurances” de l'Annex I quadre de característiques del Plec de Clàusules 
+Administratives Particulars, pels conceptes, quanties, cobertures, durada i condicions que s'estableixen en 
+aquest. 
+ 
+CLÀUSULA 35 - RESPONSABILITAT DEL CONTRACTISTA PER DANYS I PERJUDICIS. 
+ 
+De conformitat amb el que es disposa en l'article 196 LCSP, el contractista serà responsable de tots els danys i 
+perjudicis directes i indirectes que es causin a tercers com a conseqüència de les operacions que requereixi 
+l'execució del contracte. Si els danys i perjudicis ocasionats fossin conseqüència immediata i directa d'una ordre 
+donada per l'Administració , aquesta serà responsable dins dels límits assenyalats en les lleis.  
+ 
+En cas d'incompliment per part del contractista de l'obligació d'indemnitzar els danys i perjudicis ocasionats a 
+tercers com a conseqüència de l'execució de les prestacions objecte del contracte, l'Administració procedirà a la 
+imposició de les penalitats que es determinin en l'apartat relatiu a les “Penalitats” de l'Annex I quadre de 
+característiques del Plec de Clàusules Administratives Particulars. 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 32 de 48
+
+--- página 33 ---
+ 
+CAPÍTOL II DE L'EXECUCIÓ DEL CONTRACTE. 
+ 
+CLÀUSULA 36 - RISC I VENTURA. 
+ 
+L'execució del contracte es realitzarà a risc i ventura del contractista, segons el que es disposa en l'article 197 
+LCSP. 
+ 
+CLÀUSULA 37 - PROGRAMA DE TREBALL. 
+ 
+L'obligació de presentació del programa de treball es determinarà en l'apartat relatiu al “Programa de treball” 
+de l'Annex I quadre de característiques del Plec de Clàusules Administratives Particulars. 
+ 
+El contractista, en el termini que s'indica en l'apartat relatiu al “Programa de treball” de l'Annex I quadre de 
+característiques del Plec de Clàusules Administratives Particulars, comptat a partir de la formalització del 
+contracte, haurà de sotmetre a l'aprovació de l'òrgan de contractació corresponent, el programa per a la seva 
+realització, en el qual constin les tasques que consideri necessari realitzar per a atendre el contingut del servei 
+proposant, si escau, els terminis parcials corresponents a cada tasca. A aquest efecte, s'utilitzaran com a unitats 
+de temps la setmana i el mes, excepte indicació en contra del plec de prescripcions tècniques. El programa de 
+treball respectarà totes les dates o terminis de lliurament fixats en el contracte, i contindrà totes les dades exigides 
+en el plec. 
+ 
+L'òrgan de contractació resoldrà sobre el mateix, podent imposar al programa de treball presentat la introducció 
+de modificacions, ampliacions i el grau de definició que estimi necessari per al compliment del contracte. 
+ 
+Si per al desenvolupament dels serveis es requerís establir per l'adjudicatari contactes amb entitats o organismes 
+públics, necessitarà la prèvia autorització de l'òrgan de contractació. 
+ 
+Cada vegada que es modifiquin les condicions contractuals, el contractista queda obligat a l'actualització i posada 
+al dia d'aquest programa. 
+ 
+CLÀUSULA 38 - TREBALLS DEFECTUOSOS O MAL EXECUTATS. 
+ 
+Fins que tingui lloc la recepció, l'adjudicatari respondrà de la correcta realització dels serveis contractats i dels 
+defectes que en ells hi hagués, sense que sigui eximent, ni doni cap dret, la circumstància que els representants 
+de l'Administració els hagin examinat o reconegut durant la seva elaboració o acceptat en comprovacions, 
+valoracions o certificacions parcials. 
+ 
+Quan el contractista, per causes imputables a aquest, hagués incomplit parcialment l'execució de les prestacions 
+definides en el contracte, l'Administració podrà optar, ateses les circumstàncies del cas, per la seva resolució o 
+per la imposició de les penalitats que, per a tals suposats, es determinin en l'apartat relatiu a les “Penalitats” de 
+l'Annex I quadre de característiques del Plec de Clàusules Administratives Particulars. 
+ 
+CLÀUSULA 39 - COMPLIMENT DEL TERMINI I PENALITATS PER DEMORA. 
+ 
+El contractista està obligat a complir el contracte dins del termini total fixat per a la realització d'aquest, així com 
+dels terminis parcials assenyalats per a la seva execució successiva. 
+ 
+Si sofrissin un retard en la seva execució, i sempre que el mateix no fos imputable al contractista i aquest oferís 
+complir els seus compromisos si se li amplia el termini inicial d'execució, l'òrgan de contractació li ho concedirà, 
+donant-li un termini que serà, almenys, igual al temps perdut, tret que el contractista demanés un altre menor, 
+d'acord amb el que s'estableix en l'article 195.2 LCSP, regulant-se els requisits i tràmits conforme a l'article 100 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 33 de 48
+
+--- página 34 ---
+del RGLCAP. El responsable del contracte emetrà un informe on es determini si el retard va ser produït per motius 
+imputables al contractista. 
+ 
+De conformitat amb el que es disposa en l'article 29.3 LCSP, quan es produeixi demora en l'execució de la 
+prestació per part de l'empresari, l'òrgan de contractació podrà concedir una ampliació del termini d'execució, 
+sense perjudici de les penalitats que si escau procedeixin, resultant aplicable el que es preveu en els articles 192 
+i següents LCSP. 
+Quan el contractista, per causes imputables a aquest, hagués incorregut en demora respecte al compliment del 
+termini total o parcial, per al que s'estarà a l'apartat relatiu al “Durada i termini d'execució” de l'Annex I 
+quadre de característiques del Plec de Clàusules Administratives Particulars, l'Administració podrà optar, 
+ateses les circumstàncies del cas, per la resolució del contracte o per la imposició de penalitats que figuren en 
+l'apartat relatiu a les “Penalitats” de l'Annex I quadre de característiques del Plec de Clàusules 
+Administratives Particulars. 
+ 
+Cada vegada que les penalitats per demora aconsegueixin un múltiple del 5 per 100 del preu del contracte, IVA 
+exclòs, l'òrgan de contractació estarà facultat per a procedir a la resolució del mateix o acordar la continuïtat de 
+la seva execució amb imposició de noves penalitats. En aquest últim supòsit, l'òrgan de contractació concedirà 
+l'ampliació del termini que estimi necessària per a la terminació del contracte.  
+ 
+Així mateix, l'Administració tindrà les mateixes prerrogatives quan la demora en el compliment dels terminis 
+parcials faci presumir raonablement la impossibilitat del compliment del termini total. 
+ 
+L'Administració, en cas d'incompliment dels terminis parcials definits en el contracte per part del contractista, 
+podrà optar per la resolució del contracte o per les penalitats que es determinen en l'apartat relatiu a les 
+“Penalitats” de l'Annex I quadre de característiques del Plec de Clàusules Administratives Particulars. 
+ 
+En els supòsits d'incompliment parcial o compliment defectuós o de demora en l'execució en què no estigui 
+prevista penalitat o en què estant-ho la mateixa no cobrís els danys causats a l'Administració, aquesta s'exigirà al 
+contractista la indemnització per danys i perjudicis. 
+ 
+CLÀUSULA 40 - CESSIÓ DEL CONTRACTE. 
+ 
+Els drets i obligacions dimanants del contracte actual podran ser cedits per l'adjudicatari a un tercer sempre que 
+les qualitats tècniques o personals del cedent no hagin estat raó determinant de l'adjudicació del contracte, es 
+compleixin els supòsits i els requisits establerts en l'article 214.2 LCSP, i de la cessió no resulti una restricció 
+efectiva de la competència en el mercat. Sense perjudici del que s'estableix en l'apartat 2, lletra b) de l'article 214 
+LCSP, no podrà autoritzar-se la cessió a un tercer quan aquesta suposi una alteració substancial de les 
+característiques del contractista, si aquestes constitueixen un element essencial del contracte. 
+ 
+En relació amb la possibilitat de cessió del contracte caldrà estar al que s'estableix en l'apartat relatiu a la “Cessió 
+del contracte” de l'Annex I quadre de característiques del Plec de Clàusules Administratives Particulars. 
+ 
+CLÀUSULA 41 - SUBCONTRACTACIÓ. 
+ 
+El contractista, segons el que es preveu en l'apartat relatiu a la “Subcontractació” de l'Annex I quadre de 
+característiques del Plec de Clàusules Administratives Particulars, podrà concertar amb tercers la realització 
+parcial d'aquest, tret que conforme al que s'estableix en les lletres d) i e) de l'apartat 2n de l'article 215 LCSP, la 
+prestació o part de la mateixa hagi de ser executada directament pel contractista. 
+ 
+La infracció d'aquestes condicions, així com la falta d'acreditació de l'aptitud del subcontractista o de les 
+circumstàncies determinants de la situació d'emergència o de les quals fan urgent la subcontractació, tindrà, entre 
+altres previstes en la LCSP, i en funció de la repercussió en l'execució del contracte, alguna de les següents 
+conseqüències: 
+ 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 34 de 48
+
+--- página 35 ---
+• La imposició al contractista d'una penalitat de fins a un 50% de l'import del subcontracte, segons el que 
+s'estableix en l'apartat relatiu a les “Penalitats” de l'Annex I quadre de característiques del Plec de 
+Clàusules Administratives Particulars.    
+• La resolució del contracte, sempre que es compleixin els requisits establerts en el segon paràgraf de la 
+lletra f) de l'apartat 1 de l'article 211 LCSP. 
+ 
+Així mateix, i quant als pagaments a sub - contractistes i subministradors, quedarà obligat al compliment dels 
+requisits i obligacions establerts en els articles 216 i 217 LCSP.  
+ 
+En tot cas, els sub - contractistes quedaran obligats només davant el contractista principal que assumirà, per tant, 
+la total responsabilitat de l'execució del contracte enfront de l'Administració , amb arranjament estricte als plecs 
+de clàusules administratives particulars, i als termes del contracte, inclòs el compliment de les obligacions en 
+matèria mediambiental, social o laboral a què es refereix l'article 201 LCSP, així com de l'obligació a què fa 
+referència l'últim paràgraf de l'apartat 1 de l'article 202 LCSP referida al sotmetiment a la normativa nacional i de 
+la Unió Europea en matèria de protecció de dades.  
+ 
+Els sub - contractistes no tindran acció directa enfront de l'Administració  contractant per les obligacions contretes 
+amb ells pel contractista com a conseqüència de l'execució del contracte principal i dels subcontractes.  
+ 
+El contractista haurà de comunicar després de l'adjudicació del contracte i, a tot tardar, quan iniciï l'execució 
+d'aquest, a l'òrgan de contractació la seva intenció de celebrar subcontractes, assenyalant la part de la prestació 
+que es pretén subcontractar i la identitat, dades de contacte i representant o representants legals del sub - 
+contractista, i justificant-lo prou l'aptitud d'aquest per a executar-la per referència als elements tècnics i humans 
+de què disposa i a la seva experiència. 
+ 
+Quan de conformitat amb l'apartat relatiu a la “Cessió i tractament de dades” de l'Annex I quadre de 
+característiques del Plec de Clàusules Administratives Particulars, s'indiqui que es tracta d'un contracte 
+l'execució del qual requereixi el tractament pel contractista de dades personals per compte del responsable del 
+tractament, a tenor del que es disposa en l'article 122.2 apartat e) LCSP, els licitadors tenen l'obligació d'indicar 
+en la seva oferta, si tenen previst subcontractar els servidors o els serveis associats a aquests, el nom o el perfil 
+empresarial, definit per referència a les condicions de solvència professional o tècnica, dels subcontractistes als 
+quals es vagi a encomanar la seva realització, segons el que s'estableix en l'apartat relatiu a la “Subcontractació” 
+de l'Annex I quadre de característiques del Plec de Clàusules Administratives Particulars. 
+ 
+Aquesta obligació és qualificada com a essencial a l'efecte del que es preveu en la lletra f) de l'apartat 1 de l'article 
+211 LCSP.     
+ 
+Així mateix, juntament amb el document mitjançant el qual es doni coneixement a l'Administració  del 
+subcontracte a celebrar, el contractista haurà d'acreditar que el sub - contractista no es troba culpable en 
+prohibició de contractar d'acord amb l'article 71 LCSP. Aquesta acreditació podrà fer-se efectiva mitjançant 
+declaració responsable del sub - contractista.  
+ 
+El contractista principal haurà de notificar a l'òrgan de contractació qualsevol modificació que sofreixi aquesta 
+informació durant l'execució del contracte principal, i tota la informació necessària sobre els nous sub - 
+contractistes. 
+ 
+El contractista haurà d'informar els representants dels treballadors de la subcontractació, d'acord amb la 
+legislació laboral.  
+ 
+Si així es requereix en l'apartat relatiu a la “Subcontractació” de l'Annex I quadre de característiques del Plec 
+de Clàusules Administratives Particulars, els licitadors hauran d'indicar en la seva oferta la part del contracte 
+que tinguin previst subcontractar, assenyalant el seu import, i el nom o el perfil empresarial, definit per referència 
+a les condicions de solvència professional o tècnica, dels sub - contractistes als quals vagi a encomanar la seva 
+realització. En aquest cas, si els subcontractes no s'ajusten a l'indicat en l'oferta, no podran celebrar-se fins que 
+transcorrin vint dies des que efectuïn la notificació i aportació de les justificacions referides en el paràgraf anterior, 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 35 de 48
+
+--- página 36 ---
+excepte autorització expressa amb anterioritat per l'Administració  o situació d'emergència justificada, excepte si 
+l'Administració notifica en aquest termini la seva oposició. 
+ 
+De conformitat amb l'article 217.1 LCSP, el contractista haurà de remetre a l'òrgan de contractació, quan aquest 
+el sol·liciti, relació detallada d'aquells sub - contractistes o subministradors que participin en el contracte quan es 
+perfeccioni la seva participació, juntament amb aquelles condicions de subcontractació o subministrament de 
+cadascun d'ells que guardin una relació directa amb el termini de pagament. Així mateix, hauran d'aportar a 
+sol·licitud de l'Administració  justificant del compliment dels pagaments a aquells una vegada acabada la 
+prestació, dins dels terminis de pagament legalment establerts en l'article 216 LCSP i en la Llei 3/2004 de 29 de 
+desembre, per la qual s'estableixen mesures de lluita contra la morositat en les operacions comercials, en el que 
+li sigui aplicable. Aquestes obligacions tindran la consideració de condicions especials d'execució del contracte i 
+el seu incompliment, a més de les conseqüències previstes per l'ordenament jurídic, permetrà la imposició de les 
+penalitats que, en el seu cas, es prevegi en l'apartat relatiu a les “Penalitats” de l'Annex I quadre de 
+característiques del Plec de Clàusules Administratives Particulars. 
+ 
+El contractista haurà d'abonar als sub - contractistes i subministradors les factures en el termini fixat de 
+conformitat amb el que es preveu en l'apartat 2 de l'article 216 LCSP. En cas de demora en el pagament, el sub - 
+contractista o el subministrador tindrà dret al cobrament dels interessos de demora i la indemnització pels costos 
+de cobrament en els termes previstos en la Llei 3/2004, de 29 de desembre, per la qual s'estableixen mesures de 
+lluita contra la morositat en les operacions comercials. 
+ 
+Així mateix, sempre que el contracte superi el llindar econòmic establert per l'article 216.4 LCSP, quan el sub - 
+contractista o subministrador exerciti enfront del contractista principal, en seu judicial o arbitral, accions dirigides 
+a l'abonament de les factures una vegada excedit el termini fixat segons el que es preveu en l'apartat 2 de l'article 
+216 LCSP, l'òrgan de contractació, sense perjudici que continuï desplegant tots els seus efectes, procedirà a la 
+retenció provisional de la garantia definitiva la qual no podrà ser retornada fins al moment en què el contractista 
+acrediti l'íntegra satisfacció dels drets declarats en la resolució judicial o arbitral ferma que posi terme al litigi, i 
+sempre que es compleixin les condicions establertes en l'article 111 LCSP. A aquest efecte, el contractista principal 
+estarà obligat a posar en coneixement de l'òrgan de contractació l'exercici de qualsevol mena d'acció dirigida a 
+l'abonament de les factures pels sub - contractistes o subministradors. 
+ 
+Les actuacions de comprovació i d'imposició de penalitats per l'incompliment previstes en l'apartat 1 de l'article 
+217.2 LCSP, seran obligatòries en els contractes de serveis el valor estimat dels quals superi els 5 milions d'euros, 
+i en els quals l'import de la subcontractació sigui igual o superior al 30% del preu del contracte, en relació als 
+pagaments a sub - contractistes que hagin assumit contractualment amb el contractista principal el compromís 
+de realitzar determinades parts. A tals efectes, el contractista haurà d'aportar en cada factura, certificat dels 
+pagaments als sub - contractistes del contracte. 
+ 
+Sense perjudici del que es preveu en els apartats 1 i 2 de l'article 217 LCSP, de conformitat amb l'article 217.3 
+LCSP procedirà en tot cas la imposició de penalitats al contractista quan, mitjançant resolució judicial o arbitral 
+ferma aportada pel sub - contractista o pel subministrador a l'òrgan de contractació quedés acreditat 
+l'impagament pel contractista a un sub - contractista o subministrador vinculat a l'execució del contracte en els 
+terminis previstos en la Llei 3/2004, de 29 de desembre, i que aquesta demora en el pagament no ve motivada 
+per l'incompliment d'alguna de les obligacions contractuals assumides pel sub - contractista o pel subministrador 
+en l'execució de la prestació. La penalitat que es troba prevista en l'apartat relatiu a les “Penalitats” de l'Annex 
+I quadre de característiques del Plec de Clàusules Administratives Particulars podrà aconseguir fins al cinc 
+per cent del preu del contracte, i podrà reiterar-se cada mes mentre persisteixi l'impagament fins a aconseguir el 
+límit conjunt del 50 per cent d'aquest preu. La garantia definitiva respondrà de les penalitats que s'imposin per 
+aquest motiu. 
+ 
+De conformitat amb el que es disposa en la disposició addicional cinquantena primera, sense perjudici del que es 
+preveu en els articles 216 i 217 LCSP i sempre que es compleixin les condicions establertes en l'article 215 LCSP, 
+l'òrgan de contractació podrà preveure en els plecs de clàusules administratives, es realitzin pagaments directes 
+als sub - contractistes. En el contracte actual s'estarà al que es disposa en l'apartat relatiu a la “Subcontractació” 
+de l'Annex I quadre de característiques del Plec de Clàusules Administratives Particulars. 
+ 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 36 de 48
+
+--- página 37 ---
+De conformitat amb la Disposició addicional cinquantena primera, els pagaments efectuats a favor del sub - 
+contractista s'entendran realitzats per compte del contractista principal, mantenint en relació amb l'Administració 
+contractant la mateixa naturalesa d'abonaments a bon compte que la de les certificacions d'obra. 
+ 
+En cap cas serà imputable a l'Administració el retard en el pagament derivat de la falta de conformitat del 
+contractista principal a la factura presentada pel sub - contractista. 
+ 
+CLÀUSULA 42 - MODIFICACIÓ DEL CONTRACTE. 
+ 
+Els contractes administratius només podran ser modificats per raons d'interès públic en els casos i en la forma 
+prevists en la Subsecció 4 ª de la Secció 3a del Capítol I del Títol I del Llibre Segon de la LCSP, i d'acord amb el 
+procediment regulat en l'article 191 LCSP, amb les particularitats previstes en l'article 207 LCSP. 
+ 
+Els contractes administratius celebrats pels òrgans de contractació només podran modificar-se durant la seva 
+vigència quan es doni algun dels supòsits establerts en l'apartat 2 de l'article 203 LCSP. 
+ 
+Procedirà la modificació del contracte en els termes previstos en el plec de clàusules administratives particulars, 
+quan així s'hagi establert en el apartat relatiu a les “Modificacions previstes en el plec de clàusules 
+administratives particulars” de l'Annex I quadre de característiques del Plec de Clàusules Administratives 
+Particulars, en la forma i amb el contingut assenyalat en l'article 204 de la LCSP.  
+ 
+Les modificacions acordades per l'òrgan de contractació seran obligatòries per als contractistes en els termes 
+establerts en l'article 206 LCSP, havent de formalitzar-se conforme al que es disposa en l'article 153 LCSP i 
+publicar-se d'acord amb el que s'estableix en els articles 207 i 63 de la citada llei. 
+ 
+Pel que concerneix el seu règim s'estarà al que es disposa en la Subsecció 4 ª de la Secció 3a del Capítol I del Títol 
+I del Llibre Segon de la LCSP, i els articles 191 i 203 LCSP, així com al que es disposa reglamentàriament.  
+ 
+De conformitat amb el que es disposa en l'article 309 LCSP, en els casos en què la determinació del preu es realitzi 
+mitjançant unitats d'execució, no tindran la consideració de modificacions, sempre que així s'hagi establert en el 
+plec de clàusules administratives particulars, la variació que durant la correcta execució de la prestació es 
+produeixi exclusivament en el nombre d'unitats realment executades sobre les previstes en el contracte, les quals 
+podran ser recollides en la liquidació, sempre que no representin un increment de la despesa superior al 10 per 
+cent del preu del contracte.  
+ 
+En el contracte actual, la possibilitat d'incrementar el nombre d'unitats fins al 10 per cent del preu del contracte, 
+s'estableix en l'apartat relatiu al “Pressupost base de licitació i crèdit en què s'empara” de l'Annex I quadre de 
+característiques del Plec de Clàusules Administratives Particulars. 
+ 
+CLÀUSULA 43 - SUSPENSIÓ DEL CONTRACTE. 
+ 
+L'Administració, per raons d'interès públic, podrà acordar la suspensió de l'execució del contracte. Igualment, 
+procedirà la suspensió del contracte si es donés la circumstància assenyalada en l'article 198.5 de la LCSP. A 
+l'efecte de la suspensió del contracte s'estarà al que es disposa en l'article 208 de la LCSP, així com en l'article 103 
+del RGLCAP. 
+ 
+De conformitat amb l'article 208 LCSP, si l'Administració acordés la suspensió del contracte o aquella tingués lloc 
+per l'aplicació del que es disposa en l'article 198.5 LCSP, l'Administració abonarà al contractista els danys i 
+perjudicis efectivament soferts per aquest amb subjecció a les regles establertes en l'apartat relatiu a la 
+“Suspensió” de l'Annex I quadre de característiques del Plec de Clàusules Administratives Particulars. 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 37 de 48
+
+--- página 38 ---
+ 
+CAPÍTOL III. EXTINCIÓ DEL CONTRACTE. 
+ 
+CLÀUSULA 44 - RESOLUCIÓ DEL CONTRACTE. 
+Són causes de resolució del contracte les recollides en els articles 211 i 313 de la LCSP, així com les previstes en 
+l'apartat relatiu a les “Causes de resolució del contracte” de l'Annex I quadre de característiques del Plec de 
+Clàusules Administratives Particulars. 
+ 
+De conformitat amb l'article 211.2 LCSP, en els casos en què concorrin diverses causes de resolució del contracte 
+amb diferents efectes quant a les conseqüències econòmiques de l'extinció, haurà d'atendre's a la qual hagi 
+aparegut amb prioritat en el temps. 
+ 
+La resolució del contracte s'acordarà per l'òrgan de contractació de conformitat amb el que es disposa en l'article 
+212.1 LCSP, mitjançant procediment tramitat en la forma reglamentàriament establerta. 
+Quan el contracte es resolgui per incompliment culpable del contractista li serà confiscada la garantia i deurà, a 
+més, indemnitzar a l'Administració els danys i perjudicis ocasionats en el que excedeixin de l'import de la garantia 
+confiscada. La determinació dels danys i perjudicis que hagi d'indemnitzar el contractista es durà a terme per 
+l'òrgan de contractació en decisió motivada prèvia audiència d'aquest, atenent, entre altres factors, al retard que 
+impliqui per a la inversió projectada i a les majors despeses que ocasioni a l'Administració. 
+ 
+Per a l'aplicació de les causes de resolució s'estarà al que es disposa en l'article 212 de la LCSP i per als seus 
+efectes al que es disposa en els articles 213 i 313 de la LCSP, així com, en el seu cas, al que es disposa en el 
+desenvolupament reglamentari. 
+ 
+CLÀUSULA 45 - FORMA DE PRESENTACIÓ. 
+ 
+L'adjudicatari, si escau, queda obligat a presentar els exemplars complets del treball objecte del contracte que es 
+determinen en el Plec de Prescripcions Tècniques Particulars, amb el format i dimensió dels documents i plans, si 
+escau, que es determinen en les especificacions d'aquest plec. 
+ 
+CLÀUSULA 46 - REALITZACIÓ DELS SERVEIS I LLIURAMENT DELS TREBALLS. 
+ 
+El contractista haurà d'haver realitzat l'objecte del contracte dins del termini estipulat, efectuant-se pel 
+responsable del contracte, en el seu cas, un examen de la documentació presentada i si estimés complertes les 
+prescripcions tècniques proposarà que es dugui a terme la recepció. 
+ 
+En el cas que estimés incomplides les prescripcions tècniques del contracte, donarà al contractista les instruccions 
+precises i detallades amb la finalitat de remeiar les faltes o defectes observats, fent constar en aquest document 
+el termini que per a això fixi i les observacions que estimi oportunes. 
+ 
+Si existís reclamació per part del contractista respecte de les observacions formulades pel responsable del 
+contracte, aquest l'elevarà, amb el seu informe, a l'òrgan de contractació, que resoldrà sobre el particular. 
+ 
+Si el contractista no reclamés respecte a les observacions del responsable del contracte, s'entendrà que es troba 
+conforme amb les mateixes i obligat a corregir o remeiar els defectes observats. 
+ 
+CLÀUSULA 47 - RECEPCIÓ I LIQUIDACIÓ. 
+ 
+El contracte s'entendrà compliment pel contractista quan aquest hagi realitzat, d'acord amb els termes d'aquest, 
+i a satisfacció de l'Administració, la totalitat del seu objecte. 
+ 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 38 de 48
+
+--- página 39 ---
+Una vegada complerts els tràmits assenyalats en la clàusula anterior, i a l'efecte del que es preveu en l'article 
+204.3 del RGLCAP, si es considera que la prestació objecte del contracte reuneix les condicions degudes es 
+procedirà a la seva recepció. 
+ 
+L'acte formal i positiu de recepció o conformitat s'efectuarà per part de l'Administració dins del mes següent 
+d'haver-se produït el lliurament o realització de l'objecte del contracte. 
+ 
+Aquest acte serà comunicat a la Intervenció General, a l'efecte de la seva assistència al mateix en l'exercici de les 
+seves funcions d'intervenció de la comprovació material de la inversió. 
+ 
+Fins que tingui lloc la finalització del termini de garantia, l'adjudicatari respondrà de la correcta realització de la 
+prestació objecte del contracte i dels defectes que en ella hi hagués, sense que sigui eximent ni atorgui cap dret 
+la circumstància que els representants de l'Administració els hagin examinat o reconegut durant la seva 
+elaboració, o acceptat en comprovacions, valoracions o certificacions parcials. 
+ 
+Si la prestació del contractista no reunís les condicions necessàries per a procedir a la seva recepció, es dictaran 
+les instruccions oportunes perquè esmeni els defectes observats i compleixi les seves obligacions en el termini 
+que per a això es fixi, no procedint la recepció fins que aquestes instruccions hagin estat emplenades. 
+ 
+Si els treballs efectuats no s'adeqüen a la prestació contractada, com a conseqüència de vicis o defectes 
+imputables al contractista, l'òrgan de contractació podrà rebutjar la mateixa, quedant exempt de l'obligació de 
+pagament o tenint dret, en el seu cas, a la recuperació del preu satisfet. 
+ 
+Dins del termini de trenta dies, a comptar des de la data de recepció o conformitat, haurà d'acordar-se si escau i 
+quan la naturalesa del contracte l'exigeixi i ser notificada al contractista la liquidació corresponent del contracte i 
+abonar-se-li, en el seu cas, el saldo resultant. No obstant això, si es rep la factura amb posterioritat a la data en 
+què té lloc aquesta recepció, aquest termini de trenta dies es comptarà des de la seva correcta presentació pel 
+contractista en el registre corresponent en els termes establerts en la normativa vigent en matèria de factura 
+electrònica. 
+ 
+Si es produís demora en el pagament del saldo de liquidació, el contractista tindrà dret a percebre els interessos 
+de demora i la indemnització pels costos de cobrament en els termes previstos en la Llei 3/ 2004, de 29 de 
+desembre, per la qual s'estableixen mesures de lluita contra la morositat en les operacions comercials. 
+ 
+CLÀUSULA 48 - PROPIETAT DELS TREBALLS. 
+ 
+Tots els estudis i documents elaborats en execució del contracte seran propietat de l'entitat contractant, els qui 
+podran reproduir-los, publicar-los i divulgar-los totalment o parcialment sense que pugui oposar-se a això 
+l'adjudicatari autor dels treballs. 
+ 
+L'adjudicatari no podrà fer cap ús o divulgació dels estudis i documents elaborats amb motiu de l'execució 
+d'aquest contracte, bé sigui en forma total o parcial, directa o extractada, sense autorització expressa de l'òrgan 
+de contractació. 
+ 
+Els contractes de serveis que tinguin per objecte el desenvolupament i la posada a la disposició de productes 
+protegits per un dret de propietat intel·lectual o industrial portaran aparellada la cessió d'aquest a la  entitat 
+contractant. En tot cas, i encara que  s'exclogui la cessió dels drets de propietat intel·lectual, es podrà autoritzar 
+l'ús del corresponent producte als ens, organismes i entitats pertanyents al sector públic a què es refereix l'article 
+3.1 LCSP. 
+ 
+CLÀUSULA 49 - TERMINI DE GARANTIA. 
+ 
+El termini de garantia començarà a comptar des de la data de la recepció o conformitat i serà l'indicat en l'apartat 
+relatiu al “Termini de garantia” de l'Annex I quadre de característiques del Plec de Clàusules 
+Administratives Particulars. 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 39 de 48
+
+--- página 40 ---
+ 
+Durant aquest termini, la garantia definitiva respondrà dels conceptes assenyalats en l'article 110 LCSP, que 
+resultin d'aplicació. 
+ 
+En el cas que hi hagués recepcions parcials, el termini de garantia de les parts rebudes començarà a explicar-se 
+des de les dates de les respectives recepcions parcials. 
+ 
+Si durant el termini de garantia s'acredités l'existència de vicis o defectes dels treballs efectuats, l'òrgan de 
+contractació tindrà dret a reclamar al contractista l'esmena d'aquests . 
+ 
+Acabat el termini de garantia sense que el Consell de Mallorca hagi formalitzat algunes de les objeccions o la 
+denúncia a què es refereix els apartats anteriors, el contractista queda exempt de responsabilitat per raó de la 
+prestació efectuada. 
+ 
+Sense perjudici de l'anterior, quan el contracte de serveis consisteixi en l'elaboració íntegra d'un projecte d'obra i 
+es comprovi l'existència de defectes, insuficiències tècniques, errors o desviacions procedirà la incoació 
+d'expedient d'esmena de conformitat amb el que es disposa en els articles 314 i 315 LCSP. 
+ 
+El contractista tindrà dret a conèixer i ser sentit sobre les observacions que es formulin en relació amb el 
+compliment de la prestació contractada. 
+ 
+CLÀUSULA 50 - PRERROGATIVES I FACULTATS DE L'ADMINISTRACIÓ. 
+ 
+Dins dels límits i amb subjecció als requisits i efectes assenyalats en la LCSP, l'òrgan de contractació ostenta la 
+prerrogativa d'interpretar els contractes administratius, resoldre els dubtes que ofereixi el seu compliment, 
+modificar-los per raons d'interès públic, declarar la responsabilitat imputable al contractista arran de l'execució 
+del contracte, suspendre l'execució del mateix acordar la seva resolució i determinar els efectes d'aquesta.  
+ 
+Igualment, l'òrgan de contractació ostenta les facultats d'inspecció de les activitats desenvolupades pels 
+contractistes durant l'execució del contracte, en els termes i amb els límits establerts en la LCSP per a cada tipus 
+de contracte. En cap cas aquestes facultats d'inspecció podran implicar un dret general de l'òrgan de contractació 
+a inspeccionar les instal·lacions, oficines i altres emplaçaments en els quals el contractista desenvolupi les seves 
+activitats, tret que tals emplaçaments i les seves condicions tècniques siguin determinants per al 
+desenvolupament de les prestacions objecte del contracte, extrems que hauran de quedar justificats de manera 
+expressa i detallada en l'expedient administratiu. 
+ 
+Els procediments per a l'adopció d'acords relatius a les prerrogatives anteriorment referides s'instruiran de 
+conformitat amb el que es disposa en l'article 191 LCSP.  
+ 
+Els acords que adopti l'òrgan de contractació posaran fi a la via administrativa i seran immediatament executius.  
+ 
+CLÀUSULA 51 - RECURSOS. 
+ 
+En els supòsits previstos en l'article 44 de la LCSP, procedirà amb caràcter potestatiu la interposició del recurs 
+administratiu especial en matèria de contractació previ al contenciós-administratiu, en el termini de 15 dies hàbils, 
+en els termes previstos en l'article 50 de la LCSP. 
+  
+L'òrgan competent per a conèixer del recurs serà el Tribunal Administrativo Central de Recursos Contractuales. 
+ 
+Contra les actuacions susceptibles de ser impugnades mitjançant recurs especial, no procedirà la interposició de 
+recursos administratius ordinaris. 
+ 
+Els actes que es dictin en els procediments d'adjudicació de contractes de les Administracions Públiques que no 
+reuneixin els requisits de l'apartat 1 de l'article 44 LCSP podran ser objecte de recurs de conformitat amb el que 
+es disposa en la Llei 4/2022, de 28 de juny, de consells insulars, en la Llei 39/2015, d'1 d'octubre, del Procediment 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 40 de 48
+
+--- página 41 ---
+Administratiu Comú de les Administracions Públiques; així com en la Llei 29/1998, de 13 de juliol, Reguladora de 
+la Jurisdicció contenciosa administrativa. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 41 de 48
+
+--- página 42 ---
+ANNEX MODEL DE DECLARACIÓ RESPONSABLE. 
+ 
+PART 1.- INFORMACIÓ SOBRE L’OPERADOR ECONÒMIC (emplenar sempre) 
+ 
+El Sr./ la Sra. _________________________________________________ amb NIF núm. 
+___________________________________________ en nom propi / en representació de la mercantil 
+_______________________________________________________________________, en qualitat de 
+______________________________________, i segons escriptura pública atorgada davant el Notari/a Sr./Sra. 
+__________________________________, en data _______________________________ i amb número de protocol 
+_____________________________, amb CIF núm. _______________________, domiciliada a 
+________________________________________________ carrer _____________________________________________, núm. 
+______________________, (persona de contacte _______________________________, adreça electrònica “habilitada” per 
+efectuar les notificacions, de conformitat amb el disposat en la Disposició addicional quinzena de la LCSP 
+______________________________,  telèfon núm. ___________________________________, assabentat de les condicions, 
+requisits i obligacions que s’exigeixen opta a la contractació relativa a la RENOVACIÓ DE LA SUBSCRIPCIÓ DE 
+MICROSOFT AZURE I SERVEIS ASSOCIATS DE SUPORT ESPECIALITZAT, davant l’òrgan de contractació del Consell 
+de Mallorca, 
+ 
+DECLARA sota la seva responsabilitat: 
+ 
+1.- Que la persona física es pot presentar a aquesta licitació / que la persona jurídica que represento: 
+ 
+ Estic inscrit /està inscrita en el registre Oficial de Licitadors: (indicar quin). / Estic inscrit /està inscrita en la base 
+de dades nacional de l’estat membre de la Unió Europea següent (indicar estat membre de la UE). 
+ No estic inscrit / no està inscrita en el corresponent registre i fa ús de la facultat d’acreditar la presentació de 
+la sol·licitud d’inscripció. A aquests efectes declara que ha aportat la documentació preceptiva per a la inscripció 
+i no ha rebut requeriment d’esmena. 
+ 
+2.- Que la persona física es pot presentar a aquesta licitació / que la persona jurídica que represento està 
+vàlidament constituïda que compta amb les autoritzacions necessàries per a exercir l'activitat, que conforme al 
+seu objecte social es pot presentar a aquesta licitació i que no incorre en prohibició de contractar alguna. 
+ 
+3.- Que la persona física / que la persona jurídica que represento disposa de la solvència econòmica – financera y 
+tècnica – professional exigides en el Plec de Clàusules Administratives Particulars. 
+ 
+4.- Que el perfil de l’empresa és el següent: 
+ 
+ No és una empresa, en el sentit de l'article 1 de l'annex I del Reglament (UE) núm. 651/2014 de la Comissió, de 
+17 de juny de 2014. 
+ 
+(L'annex I del Reglament (UE) núm. 651/2014 de la Comissió, de 17 de juny de 2014, en el seu article 1 titulat 
+“Empresa” disposa que: “Es considerarà empresa tota entitat, independentment de la seva forma jurídica, que 
+exerceixi una activitat econòmica. En particular, es consideraran empreses les entitats que exerceixin una activitat 
+artesanal o altres activitats a títol individual o familiar, així com les societats de persones i les associacions que 
+exerceixin una activitat econòmica de manera regular.”)  
+ 
+ L'empresa a la qual represento té categoria de PIME i es defineix microempresa, en ocupar a menys de 10 
+persones i tenir un volum de negocis anual o balanç general anual que no supera els 2 milions EUR. (article 2.3. 
+de l'annex I del Reglament (UE) núm. 651/2014 de la Comissió, de 17 de juny de 2014). 
+ 
+ L'empresa a la qual represento té categoria de PIME i es defineix petita empresa, en ocupar a menys de 50 
+persones i tenir un volum de negocis anual o balanç general anual que no supera els 10 milions EUR. (article 2.2. 
+de l'annex I del Reglament (UE) núm. 651/2014 de la Comissió, de 17 de juny de 2014). 
+ 
+ L'empresa a la qual represento té categoria de PIME i es defineix mitjana empresa, en ocupar a menys de 250 
+persones i tenir un volum de negocis anual que no excedeix de 50 milions EUR o balanç general anual que no 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 42 de 48
+
+--- página 43 ---
+excedeix de 43 milions EUR (article 2.1. de l'annex I del Reglament (UE) núm. 651/2014 de la Comissió, de 17 de 
+juny de 2014) 
+ 
+ L'empresa a la qual a la qual represento no té categoria de PIME, en ocupar a 250 persones o més i tenir un 
+volum de negocis anual que excedeix de 50 milions EUR o balanç general anual que excedeix de 43 
+ 
+5.- Que les facultats de representació que ostenta són suficients i vigents (si s’actua per representació). 
+ 
+6.- Que em comprometo / que la persona física/jurídica que represento es compromet, en el cas que la proposta 
+d’adjudicació recaigui al meu favor / a favor de la persona física/jurídica que represento a presentar, prèviament 
+a l’adjudicació del contracte, els documents exigits en la clàusula “Adjudicació del Contracte” d’aquest Plec. 
+ 
+7.- Que reuneixo / que la persona física/jurídica que represento reuneix totes i cadascuna de les condicions 
+establertes legalment als articles 65 a 70 i 74 a 95 de la LCSP i no incorre en cap de les prohibicions per contractar 
+amb l’Administració previstes en l’article 71 de la Llei 9/2017, de 8 de novembre, de Contractes del Sector Públic, 
+per la que es traslladen a l'ordenament jurídic espanyol les Directives del Parlament Europeu i del Consell 
+2014/23/UE i 2014/24/UE, de 26 de febrer de 2014; el Reial decret 1098/2001, de 12 d’octubre, pel qual s’aprova 
+el Reglament general de la Llei de contractes de les administracions públiques, i la Llei 2/1996, de 19 de novembre, 
+d’incompatibilitats dels membres del Govern i dels alts càrrecs de la comunitat autònoma. 
+ 
+8.- Que em trobo / que la persona física/jurídica que represento es troba al corrent del compliment de les 
+obligacions tributàries i amb la Seguretat Social i amb el Consell de Mallorca. 
+ 
+9.- Que disposo / la persona física/jurídica que represento disposa de l’habilitació empresarial o professional 
+exigides en el Plec de Clàusules Administratives Particulars. 
+ 
+10.- Que compleixo / la persona física/jurídica que represento compleix amb tots els deures que en matèria 
+preventiva estableix la Llei 31/1995, de 8 de novembre, de prevenció de riscos laborals i que disposa dels recursos 
+humans i tècnics necessaris per fer front a les obligacions que puguin derivar-se del Reial Decret 171/2004, de 30 
+de gener, pel qual es desenvolupa l’article 24 de la Llei 31/1995, en matèria de coordinació d’activitats 
+empresarials. 
+ 
+11.- Que recorro  la persona física/jurídica que represento recorre a solvència externa, 
+ 
+ No. 
+ Sí, i existeix i compta amb el compromís per escrit de les entitats corresponents per a disposar dels seus 
+recursos i capacitats per a utilitzar-los en l’execució del contracte a què es refereix l'article 75.2 LCSP. (En cas 
+afirmatiu el licitador haurà d’emplenar l’ANNEX MODEL DE COMPROMÍS PER A LA INTEGRACIÓ DE LA SOLVÈNCIA AMB 
+MITJANS EXTERNS). 
+ 
+12.- Que, es tracta d'empresa estrangera: 
+ 
+ NO. 
+ SÍ, i em sotmeto a la jurisdicció dels Jutjats i Tribunals espanyols de qualsevol ordre, per a totes les incidències 
+que de manera directa o indirecte podrien sorgir del contracte, amb renúncia, en el seu cas, a qualsevol altre fur 
+jurisdiccional estranger que pogués correspondre'ls. 
+ 
+13.- Que ocupo / la persona física/jurídica que represento ocupa a (Marqui la casella que correspongui): 
+ 
+ És un centre especial d’ocupació. 
+ Ocupa Menys de 50 treballadors 
+ Ocupa 50 o més treballadors i ( Marqui la casella que correspongui): 
+ 
+ Compleix amb l'obligació de què entre ells, almenys, el 2% siguin treballadors amb discapacitat, establerta pel 
+Real Decret Legislatiu 1/2013, de 29 de novembre, pel qual s’aprova el Text Refós de la Llei General de drets de 
+les persones amb discapacitat i de la seva inclusió social. 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 43 de 48
+
+--- página 44 ---
+ Compleix les mesures alternatives previstes al Reial Decret 364/2005, de 8 d'abril, pel qual es regula el 
+compliment alternatiu amb caràcter excepcional de la quota de reserva a favor de treballadors amb discapacitat. 
+ 
+14.- Que represento / la persona física/jurídica que represento ocupa a (Marqui la casella que correspongui): 
+ 
+ té menys de 50 treballadors i, en aplicació de l'apartat 5 de l'article 45 de la Llei Orgànica 3/2007, de 22 de 
+març, per a la igualtat efectiva de dones i homes, l'empresa no està obligada a l'elaboració i implantació del pla 
+d'igualtat. 
+  té 50 o més treballadors i compta amb un pla d’igualtat conforme a l’establert en l'article 45 de la Llei Orgànica 
+3/2007, de 22 de març, per a la igualtat efectiva de dones i homes, relatiu a l'elaboració i aplicació d'un pla 
+d'igualtat així com (Marqui la casella que correspongui): 
+ 
+ El pla d’igualtat està inscrit en el corresponent registre de convenis col·lectius, acords col·lectius de treball i 
+plans d’igualtat de l’autoritat laboral competent. 
+ ha presentat la sol·licitud d’inscripció del pla d’igualtat juntament amb la documentació preceptiva per a la 
+inscripció i han transcorregut tres mesos sense haver rebut notificació respecte la inscripció, la qual cosa es 
+compromet a acreditar davant l’òrgan de contractació quan se’l requereixi. 
+ 
+15.- Que en cas de resultar adjudicatari compliré / L’empresa que represent, en el cas de resultar adjudicatària, 
+complirà durant tot el termini d’execució del contracte, amb les condicions especials d’execució del contracte i 
+amb les disposicions vigents en matèria mediambiental i laboral, de seguretat social, de seguretat i salut en la 
+feina, d’integració laboral i de protecció de dades de caràcter personal i, en particular: 
+ 
+• Les entitats adjudicatàries han d’assumir el compromís de com a mínim, complir les condicions salarials 
+dels treballadors conforme al conveni col·lectiu sectorial d’aplicació. 
+ 
+16.- Que reuneixo / la persona física/jurídica que represento reuneix algun/s dels criteris de preferència en cas 
+d’igualtat de proposicions previstos al PCAP. 
+ 
+ SÍ 
+ NO   
+ 
+17.- Respecte l’Impost sobre el valor afegit (IVA):  
+ 
+ Estic / la persona física/jurídica que represento està subjecta a l’IVA. 
+ Estic / la persona física/jurídica que represento no subjecte/a o exempt/a de l’IVA i són vigents les 
+circumstàncies que donaren lloc a la no-subjecció o l’exempció. 
+ 
+18.- Respecte l’Impost d’Activitats Econòmiques (IAE) l’empresa: 
+ 
+ Estic / la persona física/jurídica que represento està subjecte a l’IAE i no m’he / s’ha donat de baixa en el padró 
+de l’IAE. 
+ Estic / Estic / la persona física/jurídica que represento està no subjecte/a o exempt/a de l’IAE i són vigents les 
+circumstàncies que donaren lloc a la no-subjecció o l’exempció i no m’he / s’ha donat de baixa en el padró de l’IAE. 
+ 
+19.- Adreça de correu electrònic “habilitada” per a efectuar les notificacions, de conformitat amb el que es disposa 
+en la Disposició addicional quinzena de la LCSP: 
+____________________________________________________________(Aquesta direcció electrònica haurà de ser la mateixa 
+que el licitador consigni en la Plataforma de Contratación del Sector Público). 
+ 
+A més es designa com a persona/es autoritzada/es per a rebre l’avís de les notificacions, comunicacions i 
+requeriments per mitjans electrònics a: 
+ 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 44 de 48
+
+--- página 45 ---
+ 
+  *Camps obligatoris. 
+ 
+Si l’adreça electrònica o el número de telèfon mòbil facilitats a efectes d’avís de notificació, comunicacions i 
+requeriments quedessin en desús, s’haurà de comunicar dita circumstància, per escrit, al Consell de Mallorca per 
+tal de fer la modificació corresponent. 
+ 
+El licitador / contractista declara que ha obtingut el consentiment exprés de les persones a qui autoritza per rebre 
+les notificacions, comunicacions i requeriments derivades d’aquesta contractació, per tal que el Consell de 
+Mallorca pugui facilitar-les a la Plataforma de Contratación del Sector Público i a la Plataforma SECIM1 a aquests 
+efectes. 
+ 
+PART 2.- DECLARACIÓ RESPONSABLE RELATIVA ALS DOCUMENTS I DADES DE CARÀCTER CONFIDENCIAL 
+(Emplenar únicament en cas d’aportar documentació amb caràcter confidencial).  
+ 
+20.- Que (assenyalar el que pertoqui) 
+ 
+ no existeixen documents o dades confidencials en la documentació presentada per a la licitació d’aquest 
+contracte. 
+, als efectes d’allò establert en l’article 133 de la LCSP, els documents i/o dades que s’indiquen, son 
+constitutius/ves de ser considerats/es de caràcter confidencial. 
+ 
+1.- ___________________________________________________________________________________________. 
+2.- ___________________________________________________________________________________________. 
+3.- ___________________________________________________________________________________________. 
+... 
+ 
+PART 3.- UNIO TEMPORAL D’EMPRESES (UTE) 
+ 
+21.- Que (assenyalar el que pertoqui): 
+ 
+ NO tenc intenció Estic / la persona física/jurídica que represento NO té intenció de concórrer en unió temporal 
+d’empreses. 
+ SÍ, tenc intenció Estic / la persona física/jurídica que represento té intenció de concórrer en unió temporal 
+d’empreses, i a aquests efectes: 
+ 
+Empresa 1: (nom i cognoms) .........................................................…..………………....................., amb domicili a 
+.......................................................................... carrer/plaça.......................... 
+..………………………….............................……………….................., districte postal ………………...., amb DNI/NIF núm. 
+............…........., que actuo 
+ 
+  en nom propi 
+ en nom i representació de l’empresa (nom o raó social i CIF) 
+...................................................................................................., 
+ 
+Empresa 2: (nom i cognoms) .......................................................…..………………............................., amb domicili a 
+.......................…………………....... carrer/plaça................................... ..………………………….……………….................., districte 
+postal.........................., amb DNI/NIF núm. ............…........., que actuo 
+ 
+ 
+1 SECIM es una plataforma tecnològica que permet dur una gestió completament digital de tota la activitat administrativa del Consell de 
+Mallorca i resta de entitats vinculades i dependents. 
+Persona / es 
+autoritzada / es *
+NIF* Correu electrònic 
+professional*
+Mòbil professional
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 45 de 48
+
+--- página 46 ---
+  en nom propi 
+  en nom i representació de l’empresa (nom o raó social i CIF)................................................ 
+........................................................................, (nom i cognoms)....................................................... 
+............................................................................................…................, amb domicili a 
+......................................................……….......carrer/plaça.............………….……………................................................, districte 
+postal ………………...., amb DNI/NIF núm. ............…........., que actuu 
+ 
+Ens comprometem 
+ 
+A constituir-nos en unió temporal d’empresaris si resultam adjudicataris de la   contractació  de 
+............................................................., amb la participació següent: 
+..  % per a .................. (empresa) 
+..  % per a .................. (empresa) 
+ 
+PART 4.- SUBCONTRACTACIÓ.  
+ 
+ 
+22.- Que la persona física/jurídica que represento ocupa a (Marqui la casella que correspongui): 
+ 
+ No subcontractarà. 
+ Subcontractaré / la persona física/jurídica subcontractarà: 
+ 
+PARTIDA/ES PERCENTATGE % NOM O PERFIL EMPRESARIAL
+ 
+ 
+ No té previst subcontractar els servidors ni els serveis associats als servidors 
+ Té previst subcontractar els servidors o els serveis associats als servidors amb: 
+ 
+NOM O PERFIL EMPRESARIAL
+ 
+ 
+PART 5.- DECLARACIÓ RELATIVA A LA PERTINENÇA A UN GRUP D'EMPRESES. 
+ 
+23.- Que (assenyalar el que pertoqui): 
+ 
+ Que a l’efecte de l’aplicació dels articles 149 a 151 de la Llei 9/2018, de 8 de novembre, de Contractes del Sector 
+Públic (LCSP) i art 86 RGLCAP per a la determinació de les eventuals ofertes desproporcionades o temeràries, 
+l’empresa ................................, NO es troba inclosa en cap dels supòsits establerts a l’article 42.1 del Codi de 
+Comerç. 
+ Que a l’efecte de l’aplicació dels articles 149 a 151 de la Llei 9/2018, de 8 de novembre, de Contractes del Sector 
+Públic (LCSP) i art 86 RGLCAP per a la determinació de les eventuals ofertes desproporcionades o temeràries, 
+l’empresa ......................................................, pertany al grup d’empreses denominat 
+..............................................................., i es troba en algun dels supòsits establerts a l’article 42.1 del Codi de Comerç. 
+S’adjunta relació complerta d’empreses que pertanyen al mateix grup.  
+ 
+ 
+.................., ...... d ................. de 20... 
+(rúbrica i segell de l’empresa) 
+ 
+ 
+ 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 46 de 48
+
+--- página 47 ---
+ANNEX MODEL DE COMPROMÍS PER A LA INTEGRACIÓ DE LA SOLVÈNCIA AMB MITJANS EXTERNS 2  (L’HEU 
+D’INCLOURE EN EL SOBRE 1, SI S’ESCAU) 
+ 
+Sr. / Sra. ………………………………………………..……………….., amb DNI número.........................en nom i representació de 
+l'entitat ……………………………………………………..………………………………….., amb N.I.F. 
+……………………………………………….……………… a fi de participar en la contractació de la RENOVACIÓ DE LA 
+SUBSCRIPCIÓ DE MICROSOFT AZURE I SERVEIS ASSOCIATS DE SUPORT ESPECIALITZAT convocada pel Consell 
+Insular de Mallorca 
+ 
+I  
+ 
+Sr. / Sra.…………………………………………………….., amb DNI número.........................en nom i representació de l'entitat 
+……………………………………………….., amb N.I.F. ………………  
+Es comprometen, de conformitat amb el que es disposa en l'article 75 de la Llei 9/2017, de 8 de novembre, de 
+Contractes del Sector Públic, a: 
+ 
+1.-  Que la solvència o mitjans que posa a disposició l'entitat ……………………………………............ a favor de l'entitat 
+…………………………………………………….......... són els següents3:  
+- 
+- 
+ 
+ 
+2.- Que durant tota l'execució del contracte disposaran efectivament de la solvència o mitjans que es descriuen 
+en aquest compromís. 
+ 
+3.- Que la disposició efectiva de la solvència o mitjans descrits no està sotmesa a condició o cap limitació. 
+ 
+Data  
+ 
+Signatura del licitador. 
+ 
+Signatura de l'altra entitat.  
+ 
+ 
+2 Si es recorre a la solvència o mitjans de diverses entitats s'haurà d'emplenar una declaració conforme al model, per cadascuna de les 
+entitats que posa a la disposició del licitador la seva solvència o mitjans. 
+3 S'haurà d'indicar la solvència o mitjans concrets. 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 47 de 48
+
+--- página 48 ---
+ANNEX MODEL D’OFERTA DE CRITERIS VALORABLES EN XIFRES O PERCENTATGES 
+ 
+El Sr. / La Sra. ______________________________________________________ amb NIF núm. 
+___________________________________________ en nom propi / en representació de la mercantil 
+_______________________________________________________________________, en qualitat de 
+______________________________________, i segons escriptura pública atorgada davant el notari/ la notària 
+__________________________________, en data _______________________________ i amb número de protocol 
+_____________________________, amb CIF núm. _______________________, amb domicili a 
+__________________________________ carrer ______________________________________________, núm. _____, (persona de 
+contacte ______________________________________, adreça electrònica habilitada per efectuar les notificacions, de 
+conformitat amb la disposició addicional quinzena de la LCSP ______________________________,  telèfon núm. 
+___________________________________, assabentat de les condicions, requisits i obligacions que s’exigeixen opta a la 
+contractació relativa a la RENOVACIÓ DE LA SUBSCRIPCIÓ DE MICROSOFT AZURE I SERVEIS ASSOCIATS DE SUPORT 
+ESPECIALITZAT,  davant l’òrgan de contractació del Consell de Mallorca, 
+ 
+Així mateix, em compromet en nom propi / en nom i representació de la persona física/jurídica (nom o raó social 
+i NIF)__________________________________), a executar-lo amb estricta subjecció als requisits i a les condicions que 
+s’estipulen en els plecs de clàusules administratives particulars i de prescripcions tècniques del contracte pels 
+següents imports: 
+ 
+1.- Descompte ofert sobre subscripció de Microsof Azure: 
+ 
+Concepte Preu màxim 
+(IVA exclòs) 
+Descompte ofert 
+(%)  
+IVA (21%) Preu ofert 
+(IVA inclòs) 
+Descompte ofert sobre les tarifes oficials de 
+Microsoft AZURE 
+ 
+ 
+10.033,58 € 
+   
+ 
+La superació del preu màxim suposarà l’exclusió de la licitació. 
+ 
+2.- Descompte ofert sobre preu/hora de les hores d’assistència tècnica: 
+ 
+ 
+Concepte Preu màxim 
+(IVA exclòs) 
+Descompte ofert 
+(%)  
+IVA (21%) Preu ofert 
+(IVA inclòs) 
+Descompte ofert sobre el preu per hora 
+calculat de la borsa d’hores 
+ 
+ 
+ 
+77,25 € /hora 
+   
+ 
+ 
+3.- Que, d’acord amb el que estableix l’article 129 de la LCSP, he tingut en compte / la persona física/jurídica que 
+represento ha tingut en compte en l’elaboració de l’oferta les obligacions derivades de les disposicions vigents en 
+matèria de fiscalitat, protecció del medi ambient, protecció de l’ocupació, igualtat de gènere, condicions de treball, 
+prevenció de riscs laborals i inserció sociolaboral de les persones amb discapacitat, i l’obligació de contractar un 
+nombre o percentatge específic de persones amb discapacitat. 
+ 
+Tot això d'acord amb el que s'estableix en els plecs de prescripcions tècniques i clàusules administratives 
+particulars que serveixen de base a la convocatòria, el contingut de la qual declara conèixer i accepta plenament. 
+ 
+ 
+.................., ...... d ..................... de 20.... 
+(rúbrica i segell de l’empresa) 
+Contractació General
+Expedient 1562199X
+NIF: S0711002F
+PCAP 
+i 
+annexos 
+V1 
+després 
+correccions 
+intervenció 
+- 
+SEFYCU 
+4855604
+La comprovació de l'autenticitat d'aquest document i resta de la informació està disponible a https://cim.secimallorca.net/
+Codi Segur de Verificació: K7AA KAMV ZUHF 2DN7 3T3D
+CONSELL INSULAR DE MALLORCA
+SIGNAT PER
+El Responsable de Servei de Contractació
+Jorge Bartolomé Amer Bonnín
+18/11/2026
+Pàg. 48 de 48

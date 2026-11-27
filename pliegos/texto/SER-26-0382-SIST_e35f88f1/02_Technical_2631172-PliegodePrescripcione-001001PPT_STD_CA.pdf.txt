@@ -1,0 +1,501 @@
+
+
+--- página 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+ 
+Nº de Expediente SER-26-0382-SIST 
+Título Abreviado 
+Prestación de los servicios de autoridad de registro (RA), sellado de tiempo (TSA), 
+certificado de cifrado para la custodia de claves y certificado de sello electrónico de 
+órgano de umivale Activa 
+Órg. Contratación DIR. DE TECNOLOGÍA 
+Unidad Promotora ARQUITECTURA, SISTEMAS Y SEGURIDAD DEL SI 
+Procedimiento Abierto Simplificado Abreviado Modalidad Contrato Servicios 
+Tipo Tramitación Ordinario Forma Adjudicación Único criterio precio 
+CPV 72222300-0 Servicios de tecnología de la información. 
+ 
+Valor Estimado 25.100,00 € Tipo Impuesto IVA 
+Presupuesto de Licitación 13.300,00 € Tipo Impositivo 21 
+Total (impuestos incluidos) 16.093,00 € 
+Duración 24 meses Prórrogas 1 de 24 Meses 
+  Lotes No 
+ 
+ 
+  
+Firmado por: ROBERTO MARTÍ SOLER
+Cargo: Coord. Servicio
+Fecha: 25-11-2026 16:19:20
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://contratacion.umivale.es/licitacion/verificadorCopiaAutentica.do
+Página: 1 de 12
+Código de verificación  : 6efeaba1d98a0a3fPara la verificación del siguiente código podrá conectarse a la siguiente dirección https://contratacion.umivale.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=6efeaba1d98a0a3f
+
+--- página 2 ---
+  
+ 
+2/12 
+1 Situación actual ................................................................................................... 3 
+2 Objeto ................................................................................................................. 5 
+3 Alcance ................................................................................................................ 6 
+3.1 Servicios incluidos .................................................................................................. 6 
+3.2 Necesidad de continuidad tecnológica .................................................................... 7 
+4 Habilitación profesional. Requisitos técnicos, certificaciones y condiciones de 
+prestación .................................................................................................................. 9 
+4.1 Inclusión de los servicios en la oferta económica y condiciones de prestación ...... 10 
+5 Presupuesto y facturación ................................................................................. 11 
+6 Plazo de ejecución ............................................................................................. 11 
+7 Confidencialidad de la información ................................................................... 11 
+ 
+  
+Firmado por: ROBERTO MARTÍ SOLER
+Cargo: Coord. Servicio
+Fecha: 25-11-2026 16:19:20
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://contratacion.umivale.es/licitacion/verificadorCopiaAutentica.do
+Página: 2 de 12
+Código de verificación  : 6efeaba1d98a0a3fPara la verificación del siguiente código podrá conectarse a la siguiente dirección https://contratacion.umivale.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=6efeaba1d98a0a3f
+
+--- página 3 ---
+  
+ 
+3/12 
+ 
+1 Situación actual 
+umivale Activa, dispone de una infraestructura corporativa de identidad digital basada 
+en certificados electrónicos cualificados que constituye uno de los elementos esenciales 
+para garantizar la autenticidad, integridad, confidencialidad y trazabilidad de las 
+actuaciones electrónicas realizadas tanto por la Mutua (certificado de sello de empresa) 
+como por sus empleados (certificados de pertenencia y representación). 
+La utilización de certificados electrónicos forma parte de numerosos procesos 
+corporativos, siendo un elemento imprescindible para la prestación de servicios 
+digitales, las relaciones electrónicas con otras Administraciones Públicas, la firma de 
+documentación electrónica y la identificación segura de usuarios y sistemas. 
+La infraestructura de certificación constituye, por tanto, un componente transversal cuya 
+disponibilidad resulta crítica para la continuidad de los procesos de negocio de la 
+entidad.  
+Con el objetivo de centralizar la gestión de la identidad digital y garantizar el 
+cumplimiento de la normativa vigente en materia de firma electrónica, umivale Activa 
+tiene implantada una infraestructura de clave pública (Public Key Infrastructure - PKI) 
+soportada por un Prestador Cualificado de Servicios de Confianza. 
+Como parte de dicha infraestructura, umivale Activa actúa como Entidad de Registro 
+Delegada (Registration Authority - RA), gestionando directamente el ciclo de vida de los 
+certificados electrónicos corporativos utilizados por sus empleados y representantes. 
+Esta operativa permite: 
+❑ emitir certificados de pertenencia a empresa y representante 
+❑ renovar certificados electrónicos; 
+❑ revocar certificados cuando resulta necesario; 
+❑ mantener un control centralizado sobre la identidad digital corporativa. 
+Todo ello bajo las políticas de certificación y procedimientos establecidos por el 
+Prestador Cualificado de Servicios de Confianza. 
+Firmado por: ROBERTO MARTÍ SOLER
+Cargo: Coord. Servicio
+Fecha: 25-11-2026 16:19:20
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://contratacion.umivale.es/licitacion/verificadorCopiaAutentica.do
+Página: 3 de 12
+Código de verificación  : 6efeaba1d98a0a3fPara la verificación del siguiente código podrá conectarse a la siguiente dirección https://contratacion.umivale.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=6efeaba1d98a0a3f
+
+--- página 4 ---
+  
+ 
+4/12 
+La infraestructura PKI actualmente desplegada proporciona diversos servicios de 
+confianza utilizados de forma continua por umivale Activa. Los servicios objeto de este 
+contrato son: 
+❑ Servicio de autoridad de registro delegada 
+Permite gestionar el ciclo completo de vida de los certificados corporativos emitidos 
+a empleados y representantes de la entidad. 
+Actualmente todos los certificados emitidos mediante esta operativa quedan 
+integrados automáticamente en el almacén corporativo centralizado de certificados 
+(CKC), desde donde son consumidos por las diferentes aplicaciones de la 
+organización. 
+❑ Servicio de sellado de tiempo 
+Los sistemas corporativos utilizan el servicio de sellado de tiempo para incorporar 
+evidencias temporales verificables a las firmas electrónicas realizadas. 
+Este servicio resulta imprescindible para garantizar la validez temporal de las firmas 
+electrónicas, la generación de evidencias electrónicas y la conservación a largo 
+plazo de documentos firmados. 
+Asimismo, constituye un componente esencial de la plataforma de firma biométrica 
+utilizada por la organización. 
+❑ Certificado de cifrado para custodia de claves 
+La organización dispone de un certificado específico destinado al cifrado del 
+almacén centralizado de certificados y claves. 
+Este certificado permite proteger el material criptográfico almacenado en el 
+repositorio corporativo, garantizando la confidencialidad de las claves privadas 
+gestionadas por la infraestructura PKI. 
+El certificado actualmente en producción deriva de una ceremonia criptográfica 
+realizada específicamente para este fin y que es necesario mantener y renovar. 
+❑ Certificado de sello electrónico 
+Firmado por: ROBERTO MARTÍ SOLER
+Cargo: Coord. Servicio
+Fecha: 25-11-2026 16:19:20
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://contratacion.umivale.es/licitacion/verificadorCopiaAutentica.do
+Página: 4 de 12
+Código de verificación  : 6efeaba1d98a0a3fPara la verificación del siguiente código podrá conectarse a la siguiente dirección https://contratacion.umivale.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=6efeaba1d98a0a3f
+
+--- página 5 ---
+  
+ 
+5/12 
+umivale Activa dispone igualmente de un certificado de sello electrónico utilizado para 
+la firma automatizada de documentos electrónicos y para garantizar la autenticidad e 
+integridad de los documentos emitidos por la organización. 
+Dicho certificado se emplea, entre otros ámbitos, en procedimientos administrativos, 
+comunicaciones electrónicas, intercambio documental, integraciones con organismos 
+públicos y firma automatizada de documentación como respaldo a la firma biométrica. 
+2 Objeto 
+Este pliego define las exigencias técnicas para la continuidad y soporte de la 
+infraestructura corporativa de certificación electrónica y los servicios de confianza 
+asociados, con alcance y condiciones verificables. 
+Tiene por objeto definir las características técnicas que deberán cumplir los servicios 
+necesarios para contratar y garantizar la continuidad de la infraestructura de certificación 
+electrónica utilizada por umivale Activa, incluyendo la prestación de los servicios de 
+confianza asociados a la infraestructura de clave pública (PKI) corporativa. 
+El contrato comprenderá la prestación integral de los siguientes servicios: 
+❑ Servicio de Autoridad de Registro (Registration Authority – RA) delegada. 
+❑ Servicio de Sellado Cualificado de Tiempo (Qualified Time Stamping Authority – 
+TSA). 
+❑ Servicio de certificado de cifrado destinado a la custodia de claves del almacén 
+centralizado de certificados corporativos. 
+❑ Servicio de certificado de sello electrónico de órgano. 
+Asimismo, el contrato comprenderá todas aquellas actuaciones técnicas, 
+administrativas y de soporte necesarias para garantizar la continuidad operativa de 
+dichos servicios durante toda la vigencia del contrato. 
+Con la presente contratación se persigue alcanzar los siguientes objetivos: 
+❑ Garantizar la continuidad de la infraestructura PKI actualmente utilizada por 
+umivale Activa. 
+❑ Evitar la interrupción de los servicios de confianza actualmente implantados. 
+❑ Mantener la operativa de la Entidad de Registro Delegada. 
+❑ Garantizar la continuidad de las relaciones electrónicas con las Administraciones 
+Públicas. 
+❑ Mantener la validez jurídica de las firmas electrónicas realizadas por la 
+organización. 
+❑ Garantizar la disponibilidad del servicio de sellado temporal. 
+Firmado por: ROBERTO MARTÍ SOLER
+Cargo: Coord. Servicio
+Fecha: 25-11-2026 16:19:20
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://contratacion.umivale.es/licitacion/verificadorCopiaAutentica.do
+Página: 5 de 12
+Código de verificación  : 6efeaba1d98a0a3fPara la verificación del siguiente código podrá conectarse a la siguiente dirección https://contratacion.umivale.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=6efeaba1d98a0a3f
+
+--- página 6 ---
+  
+ 
+6/12 
+❑ Mantener el servicio de cifrado utilizado para la protección del almacén 
+centralizado de certificados, manteniendo la clave privada actual y generando 
+una nueva para el siguiente periodo permitiendo y descifrado de los datos 
+❑ Garantizar la renovación ordenada de certificados sin afectar a los servicios en 
+producción. 
+❑ Asegurar el cumplimiento del Reglamento eIDAS, del Esquema Nacional de 
+Seguridad y del resto de normativa aplicable durante toda la vigencia del 
+contrato. 
+3 Alcance 
+El contrato tiene por finalidad asegurar la continuidad de los servicios de certificación 
+electrónica utilizados por umivale Activa, evitando cualquier interrupción que pudiera 
+afectar a: 
+❑ La emisión de certificados corporativos. 
+❑ La renovación de certificados. 
+❑ La revocación de certificados. 
+❑ La firma electrónica avanzada. 
+❑ La firma biométrica. 
+❑ El sellado temporal de evidencias electrónicas. 
+❑ Las relaciones electrónicas con las Administraciones Públicas. 
+❑ Los procesos internos que utilizan certificados digitales. 
+❑ Los sistemas de autenticación basados en certificados. 
+❑ La infraestructura de almacenamiento centralizado de certificados. 
+Con todo ello, se pretende mantener los servicios y la operativa actual de umivale 
+Activa como entidad de registro delegada de Camerfirma, certificado de cifrado y 
+certificado de órgano, sin ninguna interrupción de servicio, ni revocación de los 
+certificados actuales. 
+En la mutua se utilizan múltiples recursos basados en certificados digitales, tales como 
+firma biométrica, firma de documentos y comunicaciones con organismos oficiales, los 
+cuales no deben verse interrumpidos. 
+3.1 Servicios incluidos 
+El adjudicatario deberá prestar, como mínimo, los siguientes servicios: 
+❑ Continuidad del servicio de entidad de registro delegada de Camerfirma  
+Firmado por: ROBERTO MARTÍ SOLER
+Cargo: Coord. Servicio
+Fecha: 25-11-2026 16:19:20
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://contratacion.umivale.es/licitacion/verificadorCopiaAutentica.do
+Página: 6 de 12
+Código de verificación  : 6efeaba1d98a0a3fPara la verificación del siguiente código podrá conectarse a la siguiente dirección https://contratacion.umivale.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=6efeaba1d98a0a3f
+
+--- página 7 ---
+  
+ 
+7/12 
+Permitirá a umivale Activa continuar actuando como Entidad de Registro Delegada 
+de Camerfirma para la emisión, renovación y revocación de certificados electrónicos 
+corporativos. 
+El servicio incluirá todas las herramientas necesarias para la gestión del ciclo de vida 
+de los certificados. 
+❑ Servicio de sellado de tiempo 
+Prestación del servicio de sellado cualificado de tiempo para todas las aplicaciones 
+corporativas que requieran incorporar evidencias temporales verificables conforme 
+al Reglamento eIDAS. 
+❑ Servicio de certificado de cifrado 
+Prestación del servicio asociado al certificado utilizado para el cifrado del almacén 
+centralizado de certificados y claves corporativas, incluyendo la renovación del 
+material criptográfico y manteniendo la clave privada original para permitir el 
+descifrado. 
+❑ Servicio de certificado de sello electrónico 
+Prestación del certificado de sello electrónico de órgano utilizado por umivale 
+Activa para la firma automatizada de documentos electrónicos y para sus relaciones 
+con organismos públicos y otras entidades. 
+Quedan fuera del objeto del contrato: 
+• El suministro de certificados de pertenencia o representación distintos de los 
+gestionados por la Entidad de Registro Delegada de Camerfirma. 
+• El desarrollo de nuevas aplicaciones de firma electrónica. 
+• La modificación funcional de las aplicaciones corporativas consumidoras de 
+certificados. 
+• El suministro de infraestructura distinta a la actual de umivale Activa, salvo 
+aquella expresamente necesaria para la correcta prestación del servicio. 
+3.2 Necesidad de continuidad tecnológica 
+La infraestructura PKI actualmente desplegada en umivale Activa se encuentra 
+soportada e integrada con los servicios de confianza prestados por Camerfirma, 
+constituyendo una plataforma consolidada y plenamente integrada en la arquitectura 
+tecnológica y en los procedimientos corporativos de la entidad. 
+ 
+umivale Activa actúa actualmente como Entidad de Registro Delegada de Camerfirma, 
+disponiendo de procedimientos, certificados, relaciones de confianza, configuraciones 
+Firmado por: ROBERTO MARTÍ SOLER
+Cargo: Coord. Servicio
+Fecha: 25-11-2026 16:19:20
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://contratacion.umivale.es/licitacion/verificadorCopiaAutentica.do
+Página: 7 de 12
+Código de verificación  : 6efeaba1d98a0a3fPara la verificación del siguiente código podrá conectarse a la siguiente dirección https://contratacion.umivale.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=6efeaba1d98a0a3f
+
+--- página 8 ---
+  
+ 
+8/12 
+de seguridad e integraciones con aplicaciones corporativas específicamente 
+establecidos sobre dicha infraestructura. 
+ 
+Asimismo, los certificados emitidos mediante esta operativa se integran 
+automáticamente en el almacén corporativo centralizado de certificados (CKC), desde 
+el que son utilizados por diferentes aplicaciones y procesos corporativos. 
+El objeto del presente contrato no contempla la implantación de una nueva 
+infraestructura PKI, el cambio de Prestador Cualificado de Servicios de Confianza ni la 
+realización de un proyecto de migración de la infraestructura existente, sino la 
+continuidad, renovación, soporte y mantenimiento de los servicios actualmente 
+implantados. 
+Los servicios objeto del presente contrato forman parte de la infraestructura tecnológica 
+y de los procedimientos operativos de la organización. 
+ 
+En consecuencia, los servicios objeto del contrato deberán ser necesariamente servicios 
+de Camerfirma, al objeto de garantizar la continuidad de la infraestructura existente y de 
+la condición de umivale Activa como Entidad de Registro Delegada de Camerfirma. 
+ 
+La utilización de estos servicios se encuentra integrada en los procedimientos de 
+emisión, renovación, revocación y gestión de certificados digitales de la organización, 
+así como en las configuraciones y mecanismos de confianza establecidos para su 
+utilización en los sistemas y aplicaciones corporativas. 
+En este contexto, la continuidad con Camerfirma responde a criterios de compatibilidad 
+tecnológica, continuidad operativa, seguridad y minimización de riesgos, derivados de 
+la necesidad de preservar el funcionamiento de los servicios de certificación actualmente 
+implantado.  
+Además, en 2027 se debe realizar una nueva ceremonia criptográfica y el 
+correspondiente establecimiento de un nuevo periodo de custodia de diez años 
+manteniendo la compatibilidad con la actual clave criptográfica que permita mantener el 
+uso y la vigencia de los certificados expedidos actualmente sin interrupción. 
+ 
+La continuidad del servicio de custodia actual resulta imprescindible, dado que la 
+información cifrada mediante la clave pública original requiere su correspondiente clave 
+privada para su recuperación. 
+ 
+Firmado por: ROBERTO MARTÍ SOLER
+Cargo: Coord. Servicio
+Fecha: 25-11-2026 16:19:20
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://contratacion.umivale.es/licitacion/verificadorCopiaAutentica.do
+Página: 8 de 12
+Código de verificación  : 6efeaba1d98a0a3fPara la verificación del siguiente código podrá conectarse a la siguiente dirección https://contratacion.umivale.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=6efeaba1d98a0a3f
+
+--- página 9 ---
+  
+ 
+9/12 
+Un cambio de entidad certificadora no está justificado desde el punto de vista 
+técnico, operativo y económico. 
+Actualmente, umivale Activa actúa como Autoridad de Registro delegada de la entidad 
+certificadora, lo que permite gestionar directamente la identificación de los solicitantes y 
+la tramitación de certificados digitales, mediante procedimientos y personal ya 
+habilitados para ello. 
+Además, umivale Activa dispone de una bolsa de certificados digitales 
+previamente adquiridos, por lo que un cambio de proveedor compromete el 
+aprovechamiento de esta inversión. 
+Además de las cuestiones de compatibilidad respecto a los certificados existentes, un 
+cambio de entidad certificadora no supone simplemente contratar el mismo servicio con 
+otro proveedor. Implicaría revisar los acuerdos de delegación, adaptar los 
+procedimientos de emisión, formar o habilitar nuevamente al personal y verificar la 
+compatibilidad con los sistemas corporativos, con el consiguiente coste, esfuerzo y, 
+sobre todo, riesgo operativo. 
+En las circunstancias actuales, es necesario garantizar la continuidad del servicio y 
+aprovechar los recursos y las capacidades implantados. 
+ 
+No se admitirán propuestas que incumplan las condiciones objetivas de compatibilidad, 
+seguridad, interoperabilidad y continuidad expresamente justificadas en este pliego. 
+ 
+No se admitirán soluciones basadas en otros Prestadores de Servicios de Confianza 
+que impliquen la sustitución de Camerfirma, la migración de la infraestructura PKI 
+existente, la sustitución o revocación anticipada de certificados vigentes, la modificación 
+de las relaciones de confianza existentes o la adaptación de las aplicaciones 
+corporativas actualmente integradas. 
+Este requisito responde exclusivamente a razones de continuidad, compatibilidad e 
+interoperabilidad técnica con la infraestructura actualmente implantada. 
+La participación de comercializadores o colaboradores distintos del prestador de 
+confianza será admisible cuando tengan capacidad efectiva para suministrar y mantener 
+los servicios exigidos, y acrediten tal circunstancia por medios adecuados. 
+4 Habilitación profesional. Requisitos técnicos, certificaciones 
+y condiciones de prestación 
+Los servicios de confianza objeto del presente contrato deberán ser prestados de tal 
+manera que umivale Activa siga disponiendo de su cualidad de Autoridad de Registro 
+Firmado por: ROBERTO MARTÍ SOLER
+Cargo: Coord. Servicio
+Fecha: 25-11-2026 16:19:20
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://contratacion.umivale.es/licitacion/verificadorCopiaAutentica.do
+Página: 9 de 12
+Código de verificación  : 6efeaba1d98a0a3fPara la verificación del siguiente código podrá conectarse a la siguiente dirección https://contratacion.umivale.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=6efeaba1d98a0a3f
+
+--- página 10 ---
+  
+ 
+10/12 
+Delegada de Camerfirma, en su condición de Prestador Cualificado de Servicios de 
+Confianza, y deberán garantizar la continuidad de los servicios, certificados e 
+infraestructura actualmente implantados en umivale Activa. 
+El licitador deberá disponer de capacidad suficiente para comercializar, suministrar, 
+renovar y prestar los servicios de Camerfirma incluidos en el presente Pliego durante 
+toda la vigencia del contrato. 
+A tal efecto, deberá aportar acreditación vigente emitida por Camerfirma que demuestre 
+su condición de distribuidor, partner, colaborador o entidad habilitada para el suministro 
+de los servicios objeto del contrato o, alternativamente, carta de Camerfirma específica 
+para el presente procedimiento de contratación, en la que se confirme expresamente la 
+capacidad del licitador para suministrar, renovar y mantener los servicios requeridos. 
+No se admitirán servicios equivalentes o alternativos prestados por otros Prestadores 
+de Servicios de Confianza, dado que el objeto del contrato es garantizar la continuidad 
+de la infraestructura PKI y los servicios de Camerfirma actualmente implantados y no su 
+sustitución o migración. 
+4.1 Inclusión de los servicios en la oferta económica y condiciones de 
+prestación 
+Todos los servicios anteriormente descritos en el apartado 3.1 deberán estar 
+íntegramente incluidos en la oferta económica presentada por el adjudicatario. 
+El adjudicatario deberá garantizar la prestación continuada de los servicios, con niveles 
+adecuados de calidad, disponibilidad, seguridad y soporte técnico, asegurando su 
+correcto funcionamiento durante toda la vigencia del contrato. 
+Asimismo, deberá proporcionar todos los medios técnicos, herramientas, licencias, 
+certificados, recursos y actuaciones necesarias para la correcta prestación de los 
+servicios contratados, incluyendo las tareas de mantenimiento, renovación, 
+actualización y resolución de incidencias que resulten necesarias, sin costes adicionales 
+para umivale Activa. 
+En todo caso, deberá garantizarse la continuidad operativa de los servicios, evitando 
+interrupciones que puedan afectar a los procesos corporativos que dependen de ellos. 
+ 
+El prestador de los servicios asegurará una disponibilidad o un SLA mínimo del 99%.  
+ 
+Se establecerá además el protocolo de comunicación que utilizará el adjudicatario para 
+el aviso de incidencias y/o mantenimientos previstos.  
+Firmado por: ROBERTO MARTÍ SOLER
+Cargo: Coord. Servicio
+Fecha: 25-11-2026 16:19:20
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://contratacion.umivale.es/licitacion/verificadorCopiaAutentica.do
+Página: 10 de 12
+Código de verificación  : 6efeaba1d98a0a3fPara la verificación del siguiente código podrá conectarse a la siguiente dirección https://contratacion.umivale.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=6efeaba1d98a0a3f
+
+--- página 11 ---
+  
+ 
+11/12 
+5 Presupuesto y facturación 
+En el precio propuesto estarán incluidos todos los servicios descritos en este pliego, así 
+como cualquier tarea que pueda surgir durante la ejecución del proyecto, en cualquier 
+horario incluido, horario nocturno, fines de semana y festivos. 
+La facturación se realizará en un pago único al inicio de vigencia del contrato.  
+También estarán incluidas las dietas, gastos de desplazamiento y cualquier otro gasto 
+necesario para la realización de los servicios objeto de este proyecto. 
+El presente contrato previene la posibilidad de ejecutar 1 prórroga de 24 meses de 
+duración, siendo únicamente prorrogable el servicio de autoridad de registro delegada, 
+servicio de sellado de tiempo, certificado de cifrado para custodia de claves y certificado 
+de sello electrónico 
+6 Plazo de ejecución 
+El plazo inicial previsto es de 24 meses, con fecha objetivo de inicio 01 de enero de 
+2027. Dada la criticidad del servicio, el adjudicatario deberá prever con antelación la 
+continuidad del servicio entre el momento en que termina el contrato actual (31 de 
+diciembre de 2026) y el nuevo contrato (1 de enero de 2027) sin ningún tipo de 
+interrupción. 
+Además, en 2027 se debe realizar una nueva ceremonia criptográfica y el 
+correspondiente establecimiento de un nuevo periodo de custodia de diez años 
+manteniendo la compatibilidad con la actual clave criptográfica que permita mantener el 
+uso y la vigencia de los certificados expedidos actualmente sin interrupción. 
+7 Confidencialidad de la información 
+umivale Activa entregará la información y documentación que considere necesaria 
+para la realización del presente trabajo, debiendo la empresa adjudicataria 
+comprometerse a: 
+❑ Tratar con absoluta confidencialidad todo el material y la información que reciba 
+como consecuencia de los trabajos realizados objeto de la adjudicación, durante 
+el periodo de tiempo de duración de la misma. 
+❑ No utilizar la misma para otros fines que los recogidos en el presente Pliego de 
+Condiciones Técnicas. 
+❑ No duplicar, copiar, revelar, ceder o vender total o parcialmente la información 
+obtenida, en todo o en parte, a terceros sin autorización escrita de umivale 
+Activa. 
+Firmado por: ROBERTO MARTÍ SOLER
+Cargo: Coord. Servicio
+Fecha: 25-11-2026 16:19:20
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://contratacion.umivale.es/licitacion/verificadorCopiaAutentica.do
+Página: 11 de 12
+Código de verificación  : 6efeaba1d98a0a3fPara la verificación del siguiente código podrá conectarse a la siguiente dirección https://contratacion.umivale.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=6efeaba1d98a0a3f
+
+--- página 12 ---
+  
+ 
+12/12 
+❑ Advertir a sus empleados de sus obligaciones respecto a la confidencialidad de 
+la información, velando por el cumplimiento de la misma. 
+❑ Restringir la utilización de la información obtenida como consecuencia de los 
+trabajos realizados objeto del presente pliego de bases técnicas, exclusivamente 
+para aquellos empleados con necesidad de conocerla y con la finalidad de 
+realizar los trabajos expuestos. 
+❑ Poner todos los medios a su alcance para conservar el carácter confidencial y 
+reservado tanto de la información y documentación recibida de umivale Activa, 
+como de los resultados obtenidos del trabajo realizado. 
+❑ La devolución de toda la información, material y soportes informáticos obtenidos, 
+así como a la descarga de la misma de sus equipos informáticos o (si existieran), 
+una vez finalizado el periodo de contratación correspondiente. 
+Cualquier infracción en este sentido será calificada como grave y será causa de 
+resolución del contrato, sin perjuicio de las responsabilidades penales, o de otro tipo, 
+en que se puedan incurrir. 
+ 
+ 
+ 
+ 
+ 
+Firmado por: ROBERTO MARTÍ SOLER
+Cargo: Coord. Servicio
+Fecha: 25-11-2026 16:19:20
+Este documento es Copia Auténtica según el artículo 30.5 de la Ley 11/2007, de 22 de Junio. Su autenticidad puede ser comprobada en la dirección
+https://contratacion.umivale.es/licitacion/verificadorCopiaAutentica.do
+Página: 12 de 12
+Código de verificación  : 6efeaba1d98a0a3fPara la verificación del siguiente código podrá conectarse a la siguiente dirección https://contratacion.umivale.es/licitacion/verificadorCopiaAutentica.do?codigoVerificacion=6efeaba1d98a0a3f

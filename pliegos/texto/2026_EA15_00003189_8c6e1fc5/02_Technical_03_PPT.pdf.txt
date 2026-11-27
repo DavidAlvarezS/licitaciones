@@ -1,0 +1,929 @@
+
+
+--- página 1 ---
+MINISTERIO      
+DE DEFENSA     
+   
+ 
+EJERCITO DEL AIRE Y DEL ESPACIO  
+  JEFATURA DE SERVICIOS TÉCNICOS Y  
+CIBERESPACIO   
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS (PPT) 
+ 
+ASISTENCIA TÉCNICA PARA EL 
+MANTENIMIENTO DE APLICACIONES 
+OPERATIVAS CRÍTICAS DEL EJÉRCITO DEL 
+AIRE Y DEL ESPACIO 
+ 
+ 
+ 
+ 
+ 
+Elaborado por 
+Capitán del Grupo de Desarrollo 
+Firma: 
+Pablo Luis Marín Cano 
+  
+MARIN 
+CANO 
+PABLO LUIS 
+|49004896S
+Firmado digitalmente por MARIN 
+CANO PABLO LUIS |49004896S 
+Nombre de reconocimiento (DN): 
+c=ES, o=MINISTERIO DE DEFENSA, 
+ou=PERSONAS, ou=CERTIFICADO 
+ELECTRONICO DE EMPLEADO 
+PUBLICO, 
+serialNumber=IDCES-49004896S, 
+sn=MARIN CANO |49004896S, 
+givenName=PABLO LUIS, 
+cn=MARIN CANO PABLO LUIS |
+49004896S 
+Fecha: 2026.10.16 13:33:53 +02'00'
+
+--- página 2 ---
+ EJÉRCITO DEL AIRE JEFATURA DE SERVICIOS TÉCNICOS Y CIBERESPACIO (JSTCIBER) 
+CENTRO DE INFORMÁTICA DE GESTIÓN (CIGES) 
+PPT  
+ 
+ 
+Pág. 2 de 17 
+ 
+ÍNDICE DE CONTENIDOS 
+ 
+1. ORGANISMO DESTINARIO, RESPONSABLE DEL CONTRATO Y DATOS DE CONTACTO .................................................. 3 
+1.1 Organismo destinatario .................................................................................................................................................................................... 3 
+1.2 Responsable del contrato ................................................................................................................................................................................ 3 
+1.3 Datos de contacto ............................................................................................................................................................................................... 3 
+2. CONTRATO ................................................................................................................................................................................ 3 
+2.1 Título del contrato ............................................................................................................................................................................................... 3 
+2.2 Objeto del contrato ............................................................................................................................................................................................. 3 
+2.3 Asistencia técnica ............................................................................................................................................................................................... 3 
+3. DEFINICIÓN Y ALCANCE DE LOS TRABAJOS ....................................................................................................................... 3 
+3.1 Requisitos funcionales ...................................................................................................................................................................................... 4 
+3.2 Requisitos no funcionales ............................................................................................................................................................................... 5 
+3.2.1 Requisitos técnicos ........................................................................................................................................................................................................... 5 
+3.2.2 Metodología ............................................................................................................................................................................................................................ 5 
+3.2.3 Calidad del servicio ........................................................................................................................................................................................................... 5 
+3.2.4 Coordinación del servicio .............................................................................................................................................................................................. 7 
+3.2.5 Datos de carácter personal ........................................................................................................................................................................................... 7 
+3.2.6 Prevención de riesgos laborales ............................................................................................................................................................................... 8 
+4. REQUISITOS DE LOS PERFILES PROFESIONALES ............................................................................................................... 8 
+4.1 Requisitos mínimos de los perfiles profesionales .................................................................................................................................. 9 
+4.1.1 Lote único: .......................................................................................................................................................................................................................................... 9 
+5. ASPECTOS ADICIONALES PARA LA PRESTACIÓN DEL SERVICIO ................................................................................... 10 
+5.1 Lugar de prestación de los servicios ......................................................................................................................................................... 10 
+5.2 Medios materiales ............................................................................................................................................................................................. 11 
+5.3 Horario de trabajo ............................................................................................................................................................................................. 11 
+5.4 Compensación por períodos de ausencia del personal ...................................................................................................................... 11 
+5.5 Sustitución del personal ................................................................................................................................................................................. 11 
+5.6 Definición de bolsa de horas ........................................................................................................................................................................ 12 
+5.7 Cumplimiento del Esquema Nacional de Seguridad............................................................................................................................. 14 
+5.8 Habilitaciones de Seguridad ......................................................................................................................................................................... 15 
+ANEXO I FUNCIONES DE LOS PERFILES PROFESIONALES. ................................................................................................ 16 
+I.1. Analista. ................................................................................................................................................................................................................ 16 
+I.2. Programador senior. ........................................................................................................................................................................................ 16 
+ANEXO II HERRAMIENTAS EN USO .......................................................................................................................................... 17 
+II.1. Herramientas de uso general ........................................................................................................................................................................ 17 
+II.2. Herramientas específicas ............................................................................................................................................................................... 17 
+ 
+
+
+--- página 3 ---
+ EJÉRCITO DEL AIRE JEFATURA DE SERVICIOS TÉCNICOS Y CIBERESPACIO (JSTCIBER) 
+CENTRO DE INFORMÁTICA DE GESTIÓN (CIGES) 
+PPT  
+ 
+ 
+Pág. 3 de 17 
+ 
+1. ORGANISMO DESTINARIO, RESPONSABLE DEL CONTRATO Y DATOS DE CONTACTO 
+1.1 Organismo destinatario 
+Unidad proponente: Centro de Informática de Gestión (CIGES) 
+Centro directivo: Jefatura de Servicios Técnicos y Ciberespacio (EA) 
+Departamento/organismo: Ejército del Aire y del Espacio (Ministerio de Defensa) 
+1.2 Responsable del contrato 
+El Responsable del Contrato, en adelante REC, será el Capitán del Grupo de Desarrollo del CIGES o la 
+persona que designe el órgano de contratación. 
+Le corresponderá supervisar la ejecución, establecer prioridades dentro del alcance contractual, validar los 
+trabajos, emitir la conformidad de las prestaciones e informar de los incumplimientos detectados. 
+Las instrucciones se canalizarán, con carácter general, a través del coordinador designado por el adjudicatario 
+y no podrán modificar las condiciones del contrato. La organización y dirección del personal corresponderán 
+exclusivamente al adjudicatario. 
+1.3 Datos de contacto 
+Dirección Postal: Cuartel General del Ejército Aire y del Espacio. Calle Romero Robledo 8. Madrid 28008 
+Correo electrónico: pmarcan@mde.es 
+Teléfono: 91 503 2356 
+2. CONTRATO 
+2.1 Título del contrato 
+ASISTENCIA TÉCNICA PARA EL MANTENIMIENTO DE APLICACIONES OPERATIVAS CRÍTICAS DEL 
+EJÉRCITO DEL AIRE Y DEL ESPACIO. 
+2.2 Objeto del contrato 
+El expediente tiene por objeto la contratación de un servicio de asistencia técnica para contribuir al 
+cumplimiento de la misión y funciones encomendadas al Centro de Informática de Gestión, en adelante 
+CIGES, definidas en la Instrucción General IG 10-11 y, en particular, a la satisfacción de las necesidades CIS 
+del Ejército del Aire y del Espacio en materia de sistemas de información y redes asociadas, conforme a las 
+instrucciones IG 70-13 e IG 30-8. 
+En concreto, el servicio comprenderá el mantenimiento preventivo, correctivo, evolutivo y adaptativo de las 
+aplicaciones operativas incluidas en el ámbito de responsabilidad del CIGES, con el fin de contribuir a 
+mantener su operatividad, seguridad, calidad y adecuación a los requisitos establecidos. 
+Para la ejecución del servicio, la empresa adjudicataria deberá adscribir los perfiles profesionales y medios 
+exigidos en este PPT, conservando en todo momento la organización, dirección y control de su personal. 
+2.3 Asistencia técnica 
+El expediente se estructura en un lote único.  
+Para la prestación del servicio, la empresa adjudicataria deberá adscribir y mantener durante toda la ejecución 
+del contrato los medios personales establecidos en el apartado 4 del presente PPT.  
+3. DEFINICIÓN Y ALCANCE DE LOS TRABAJOS 
+Los trabajos comprenderán las actuaciones necesarias para el mantenimiento de las aplicaciones incluidas 
+en el ámbito del contrato, conforme a las modalidades definidas en el apartado 2.2. 
+En función de cada actuación, podrán incluir actividades de análisis, diseño, desarrollo, programación, 
+pruebas, documentación, gestión de configuración y apoyo al despliegue, conforme a las condiciones 
+establecidas en este PPT. 
+ 
+ 
+
+--- página 4 ---
+ EJÉRCITO DEL AIRE JEFATURA DE SERVICIOS TÉCNICOS Y CIBERESPACIO (JSTCIBER) 
+CENTRO DE INFORMÁTICA DE GESTIÓN (CIGES) 
+PPT  
+ 
+ 
+Pág. 4 de 17 
+ 
+3.1 Requisitos funcionales 
+En función de las necesidades de mantenimiento de cada aplicación, los trabajos podrán comprender las 
+actividades indicadas en la tabla siguiente. La realización de cada actividad quedará limitada al ámbito del 
+contrato y se ajustará a las prioridades, procedimientos y criterios de aceptación establecidos por el CIGES 
+en el presente PPT. 
+La relación siguiente no implica que todas las actividades deban realizarse en cada actuación, sino 
+únicamente aquellas que resulten necesarias por su naturaleza y alcance: 
+ 
+Requisito Descripción 
+Análisis Identificación y documentación de requisitos, dependencias, impactos y criterios de aceptación. 
+Diseño Definición o actualización de la solución técnica, arquitectura, datos, interfaces y componentes. 
+Desarrollo y 
+codificación 
+Creación o modificación de código, configuraciones y elementos software conforme 
+al diseño aprobado. 
+Pruebas Preparación, ejecución y documentación de las pruebas necesarias, incluida la comprobación de regresiones. 
+Corrección de 
+defectos Diagnóstico, resolución y verificación de errores o comportamientos no conformes. 
+Gestión de 
+configuraciones 
+Control de código, versiones, dependencias, cambios, entregas y elementos de 
+configuración. 
+Documentación Elaboración y actualización de la documentación funcional, técnica, de pruebas y operación. 
+Apoyo al 
+despliegue 
+Preparación de versiones e instrucciones, y soporte durante la implantación y 
+verificación posterior. 
+Mantenimiento 
+preventivo 
+Actuaciones destinadas a reducir riesgos, vulnerabilidades, obsolescencias y 
+posibles fallos. 
+Mantenimiento 
+correctivo Actuaciones destinadas a corregir errores y restablecer el funcionamiento previsto. 
+Mantenimiento 
+evolutivo  
+Incorporación, modificación o eliminación de funcionalidades previamente 
+aprobadas. 
+Mantenimiento 
+adaptativo Adecuación a cambios tecnológicos, normativos, de seguridad o infraestructura. 
+Transferencia de 
+conocimiento 
+Entrega de la información y documentación necesarias para conocer y mantener 
+los trabajos realizados. 
+  
+
+--- página 5 ---
+ EJÉRCITO DEL AIRE JEFATURA DE SERVICIOS TÉCNICOS Y CIBERESPACIO (JSTCIBER) 
+CENTRO DE INFORMÁTICA DE GESTIÓN (CIGES) 
+PPT  
+ 
+ 
+Pág. 5 de 17 
+ 
+3.2 Requisitos no funcionales 
+3.2.1 Requisitos técnicos 
+Los trabajos se ejecutarán conforme al entorno tecnológico y las herramientas recogidas en el Anexo II, así 
+como a las normas técnicas y de seguridad aplicables en el CIGES. 
+La utilización de herramientas, componentes o versiones distintas requerirá la autorización previa del REC y 
+quedará condicionada a su compatibilidad, seguridad, licenciamiento e integración con los sistemas 
+existentes. 
+3.2.2 Metodología 
+Los trabajos se ejecutarán conforme a las metodologías, procedimientos, estándares e instrucciones técnicas 
+aplicables en el CIGES, manteniendo la trazabilidad entre los requisitos, cambios, pruebas, entregas y 
+documentación generada. 
+Las desviaciones detectadas deberán ser corregidas en el plazo establecido por el REC, sin perjuicio de las 
+consecuencias previstas en el PCAP. 
+3.2.3 Calidad del servicio 
+El Ejército del Aire y del Espacio en general, así como el CIGES en particular, consideran la calidad y la 
+seguridad factores clave en la implementación de servicios, por lo que se requiere el adecuado cumplimiento 
+de los requisitos identificados, así como el firme compromiso con la mejora continua, para asegurar la eficacia 
+de su Sistema de Gestión de la Calidad, la Seguridad y los Servicios (SGCS). 
+Para ello, el CIGES tiene establecida la siguiente política: Asegurar la satisfacción de los Mandos, Unidades, 
+Centros y Organismos (UCOs) del Ejército del Aire y del Espacio, así como de sus Destacamentos en zona 
+de operaciones, receptores de servicios de tecnologías de la información y la comunicaciones (STIC) 
+proporcionados por el Centro, aplicando los métodos adecuados de actuación para cumplir los requisitos 
+solicitados, los legales y reglamentarios, e implementando las medidas de seguridad necesarias para 
+garantizar la confidencialidad, integridad y disponibilidad de la información que manejen los Sistemas de 
+Información y Telecomunicaciones. 
+Asimismo, como compromiso con el producto desarrollado, este Centro acentuará los procesos necesarios 
+para llevar a cabo la mejora en la disponibilidad, fiabilidad, funcionalidad, mantenibilidad, seguridad y 
+usabilidad de las soluciones desarrolladas en el Centro. 
+Para hacer realidad esta política, se requiere la participación activa de todos y cada uno de los implicados en 
+los trabajos a realizar. Por ello se requiere formación continua, tanto del propio personal como del personal 
+facilitado por el contratista, así como unos medios técnicos adecuados, pues de otra forma esta política no 
+puede ser entendida, implantada o mantenida a todos los niveles de la organización. 
+Como consecuencia, a nivel organizativo, el Sistema de Gestión hace uso de las mejores prácticas y de la 
+normativa aplicable, para llegar a ofrecer el nivel de servicio demandado por los usuarios. En este sentido, el 
+SGCS implantado por el CIGES, se ha orientado a los servicios TIC requeridos por las UCOs y contempla la 
+totalidad de los procesos relacionados con el ciclo de vida de sus desarrollos, todo ello usando como 
+referencia, entre otros, los siguientes estándares: 
+ 
+ISO 9001 Sistemas de Gestión de la Calidad (SGC) 
+ISO 20000 Gestión de servicios de Tecnologías de la Información (TI) 
+ISO 15504 / 
+ISO 33000 
+Determinación de la capacidad de mejora del proceso de software. 
+ISO 27001 Certificación de los Sistemas de Gestión de Seguridad de la Información (SGSI) 
+ 
+ 
+ 
+ 
+ 
+
+--- página 6 ---
+ EJÉRCITO DEL AIRE JEFATURA DE SERVICIOS TÉCNICOS Y CIBERESPACIO (JSTCIBER) 
+CENTRO DE INFORMÁTICA DE GESTIÓN (CIGES) 
+PPT  
+ 
+ 
+Pág. 6 de 17 
+ 
+Además, son de aplicación en el Centro los siguientes requisitos adicionales del ámbito OTAN incluidos en 
+las Publicaciones Aliadas de Aseguramiento de la Calidad (AQAP), adaptadas al ámbito nacional por las 
+Publicaciones Españolas de Calidad (PECAL) del Ministerio de Defensa: 
+ 
+PECAL/AQAP 
+2110 o EN9100 
+Requisitos OTAN de aseguramiento de la calidad para el diseño, desarrollo y la 
+producción 
+PECAL/AQAP 
+2210 o EN9100 
+Requisitos OTAN de aseguramiento de la calidad del software, suplementarios a la 
+PECAL 2110 
+ 
+Como resultado de la adecuada aplicación de esta normativa, el SGCS del CIGES ha sido auditado y 
+certificado por la Dirección General de Armamento y Material del Ministerio de Defensa (DGAM), para el 
+análisis, diseño, desarrollo, producción, distribución, operación y mantenimiento de software de gestión. 
+Por tanto, el adjudicatario del contrato debe saber que a los perfiles profesionales que presten la 
+asistencia técnica objeto de este expediente se le exigirá: 
+(X) Haber sido formado previamente en el aseguramiento de la calidad, seguridad de la información y buenas 
+prácticas para la mejora de los servicios TIC. 
+(X) Aplicar las normas, procedimientos e instrucciones que resulten exigibles a los trabajos asignados. 
+(X) Compartir y aceptar la política del CIGES. 
+(X) Disponer de la experiencia y conocimientos técnicos para realizar su trabajo eficientemente, cumpliendo 
+los objetivos del CIGES y los niveles de servicio establecidos en los pliegos o aprobados conforme a 
+ellos.  
+Además, el Ejército del Aire y del Espacio está certificado en su totalidad en el ámbito de la gestión ambiental, 
+conforme a los requisitos de la norma UNE-EN ISO 14001. 
+Por ello, se exigirá como garantía de adecuación a los estándares y buenas prácticas mencionados que la 
+empresa adjudicataria aporte, por considerarse de aplicación al objeto del contrato: 
+ 
+X Documentación que acredite que el SGC de la empresa está certificado según norma ISO 9001 con un alcance apropiado para la prestación de los servicios requeridos en el presente documento. 
+X Declaración expresa de cumplimiento de la política, instrucciones y procedimientos ambientales aplicables en el CIGES, conforme a los principios de la norma ISO 14001. 
+X 
+Declaración expresa de la disposición del SGC de la empresa a colaborar con el SGCS del CIGES 
+y de la aceptación de todas las especificaciones relativas a calidad contempladas en el presente 
+documento. 
+X 
+Declaración expresa de aceptación de los términos recogidos en las PECAL 2110 y 2210 o 
+EN9100, acerca de los elementos a proporcionar para poder realizar las evaluaciones 
+contempladas en dicha normativa. 
+ 
+La documentación y declaraciones exigidas en este apartado se incluirán en el Sobre 1, conforme a lo 
+establecido en el PCAP. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 7 ---
+ EJÉRCITO DEL AIRE JEFATURA DE SERVICIOS TÉCNICOS Y CIBERESPACIO (JSTCIBER) 
+CENTRO DE INFORMÁTICA DE GESTIÓN (CIGES) 
+PPT  
+ 
+ 
+Pág. 7 de 17 
+ 
+3.2.4 Coordinación del servicio 
+El Analista adscrito al contrato ejercerá como coordinador del servicio y deberá: 
+• Actuar como interlocutor entre el adjudicatario y el CIGES, garantizando una comunicación fluida y 
+eficaz. 
+• Realizar el control y seguimiento de las actividades del equipo de asistencia técnica, verificando el 
+cumplimiento de los requisitos establecidos en el presente PPT y facilitando, cuando sea requerida, 
+la documentación correspondiente. 
+• Coordinar, en representación del adjudicatario, los aspectos organizativos relacionados con horarios, 
+jornadas realizadas y pendientes, incorporaciones, sustituciones, vacaciones, permisos, bajas y 
+ausencias del personal. 
+• Elaborar y presentar un informe mensual de seguimiento que incluya, como mínimo, las tareas 
+realizadas, el tiempo empleado, las incidencias, las solicitudes de cambio y el grado de cumplimiento 
+del servicio. 
+• Coordinar la gestión de incidencias y solicitudes de cambio, previa aprobación del REC cuando resulte 
+necesaria. 
+• Mantener un registro mensual de asistencia, bajas, permisos, ausencias y vacaciones del personal 
+adscrito. 
+Las instrucciones y comunicaciones relativas a la ejecución del servicio se canalizarán, con carácter general, 
+a través del coordinador. 
+La organización, dirección y control laboral del personal corresponderán exclusivamente al adjudicatario. 
+El coste de estas tareas de coordinación será por cuenta del adjudicatario, sin ningún cargo para el 
+Ministerio de Defensa. 
+ 
+3.2.5 Datos de carácter personal 
+Las tareas de asistencia técnica objeto de este contrato no conllevan, necesariamente, el tratamiento de datos 
+de carácter personal. No obstante, por la naturaleza de los servicios, el personal adscrito podrá acceder a 
+datos personales contenidos en las aplicaciones y sistemas del CIGES. 
+El adjudicatario y su personal únicamente accederán y tratarán dichos datos cuando resulte necesario para 
+la ejecución del servicio y conforme a las instrucciones del responsable del tratamiento, sin utilizarlos para 
+fines propios ni comunicarlos a terceros. 
+Cuando la prestación implique un tratamiento de datos personales por cuenta del responsable, la relación se 
+formalizará conforme a lo establecido en el artículo 28 del Reglamento (UE) 2016/679 y en la normativa 
+nacional aplicable. 
+El adjudicatario garantizará que el personal autorizado está sujeto al deber de confidencialidad y cumple las 
+medidas de seguridad, procedimientos e instrucciones aplicables. Cualquier incidente o acceso no autorizado 
+deberá comunicarse inmediatamente por los canales establecidos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 8 ---
+ EJÉRCITO DEL AIRE JEFATURA DE SERVICIOS TÉCNICOS Y CIBERESPACIO (JSTCIBER) 
+CENTRO DE INFORMÁTICA DE GESTIÓN (CIGES) 
+PPT  
+ 
+ 
+Pág. 8 de 17 
+ 
+3.2.6 Prevención de riesgos laborales 
+La empresa adjudicataria asumirá las responsabilidades que legalmente le correspondan en materia de 
+información, formación, medios, medidas y demás actuaciones preventivas respecto del personal adscrito al 
+contrato que preste sus servicios en las instalaciones del CIGES. 
+- El CIGES facilitará, a través de los responsables designados por la empresa adjudicataria, la información 
+en materia de prevención de riesgos laborales relativa a: 
+o Los riesgos existentes en el centro de trabajo que afecten al personal contratado. 
+o Información sobre las medidas de protección y prevención correspondientes que se aplican en las 
+instalaciones del Centro. 
+o Las actividades de formación ante emergencias que se aplican al personal externo que presta sus 
+servicios habitualmente en las instalaciones del Centro. 
+ 
+- La empresa adjudicataria deberá facilitar al CIGES la información relativa a: 
+o Los riesgos que por la actividad de sus trabajadores contratados para prestar asistencia técnica en 
+instalaciones del CIGES puedan afectar a los trabajadores del CIGES o de otras empresas. 
+o Los riesgos que pueden sufrir sus trabajadores por su labor desarrollada en las instalaciones del 
+CIGES. 
+o La formación en materia PRL por parte de la empresa respecto a sus trabajadores contratados para 
+prestar asistencia técnica en instalaciones del CIGES. 
+o Las medidas adoptadas y los medios empleados por la empresa para prevenir riesgos laborales 
+durante el desarrollo de las labores de sus trabajadores en instalaciones del CIGES. 
+ 
+La empresa adjudicataria deberá cumplir las obligaciones de coordinación de actividades empresariales y 
+aportar la documentación preventiva que resulte exigible antes del inicio de los trabajos y durante la ejecución 
+del contrato. 
+4. REQUISITOS DE LOS PERFILES PROFESIONALES 
+Los profesionales adscritos a la ejecución del contrato deberán cumplir individualmente los requisitos mínimos 
+establecidos en los siguientes apartados según el perfil correspondiente. 
+Los requisitos tendrán carácter obligatorio y deberán mantenerse durante toda la ejecución del contrato y 
+éstos no podrán completarse mediante la suma de titulaciones, certificaciones, experiencias o capacidades 
+de distintos profesionales. 
+El cumplimiento de los requisitos mínimos no será objeto de valoración, sin perjuicio de la valoración de los 
+méritos adicionales prevista en el PCAP. 
+Los requisitos exigidos responden a la naturaleza, complejidad y condiciones técnicas de los trabajos 
+definidos en el presente PPT. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 9 ---
+ EJÉRCITO DEL AIRE JEFATURA DE SERVICIOS TÉCNICOS Y CIBERESPACIO (JSTCIBER) 
+CENTRO DE INFORMÁTICA DE GESTIÓN (CIGES) 
+PPT  
+ 
+ 
+Pág. 9 de 17 
+ 
+4.1 Requisitos mínimos de los perfiles profesionales  
+4.1.1 Lote único:  
+Las titulaciones académicas, certificaciones profesionales y formaciones utilizadas para acreditar requisitos 
+mínimos o méritos adicionales deberán haber sido obtenidas con anterioridad a la fecha de publicación del 
+anuncio de licitación en la Plataforma de Contratación del Sector Público. La documentación acreditativa 
+podrá expedirse posteriormente cuando permita comprobar inequívocamente que el requisito ya se cumplía 
+antes de dicha fecha. 
+La experiencia profesional se acreditará mediante certificado de la empresa empleadora o de la entidad 
+destinataria del servicio, en el que consten el profesional, el proyecto o servicio, las funciones realizadas, las 
+tecnologías empleadas y las fechas de inicio y finalización. El informe de vida laboral tendrá carácter 
+complementario y no será suficiente por sí solo para acreditar las funciones o tecnologías exigidas. 
+Las certificaciones profesionales deberán haber sido expedidas por la entidad titular de la certificación o por 
+una entidad oficialmente autorizada. Los cursos y formaciones valorables deberán proceder de una entidad 
+independiente del licitador, del profesional y de las empresas de su grupo, sin que se admitan certificados o 
+diplomas autoemitidos. No obstante, se admitirán los cursos impartidos o certificados por anteriores 
+empleadores del profesional, siempre que la relación laboral hubiera finalizado antes de la publicación del 
+anuncio de licitación, circunstancia que deberá acreditarse mediante el correspondiente informe de vida 
+laboral. 
+A efectos del presente PPT, se admitirán titulaciones oficiales de nivel MECES 1 o superior pertenecientes a 
+los siguientes ámbitos técnicos: 
+Titulaciones universitarias oficiales inscritas en el RUCT, adscritas a alguno de los siguientes ámbitos del 
+conocimiento del anexo I del Real Decreto 822/2021: 
+- Física y astronomía. 
+- Ingeniería eléctrica, ingeniería electrónica e ingeniería de la telecomunicación. 
+- Ingeniería industrial, ingeniería mecánica, ingeniería automática, ingeniería de la organización industrial 
+e ingeniería de la navegación. 
+- Ingeniería informática y de sistemas. 
+- Matemáticas y estadística. 
+- Títulos oficiales de Técnico Superior de la familia profesional Informática y Comunicaciones. 
+- Titulaciones oficiales anteriores a la ordenación vigente que tengan reconocida la correspondencia, al 
+menos, con el nivel MECES 1 y pertenezcan a alguno de los ámbitos indicados. 
+- Titulaciones extranjeras homologadas o declaradas equivalentes en España al nivel y ámbito exigidos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 10 ---
+ EJÉRCITO DEL AIRE JEFATURA DE SERVICIOS TÉCNICOS Y CIBERESPACIO (JSTCIBER) 
+CENTRO DE INFORMÁTICA DE GESTIÓN (CIGES) 
+PPT  
+ 
+ 
+Pág. 10 de 17 
+ 
+PERFIL 
+TITULACIÓN 
+NIVEL MECES 
+MÍNIMO 
+ (Ámbito Técnico) 
+CERTIFICACIONES EXPERIENCIA 
+ANALISTA (1) MECES 1 
+Deberá disponer de al menos una de las 
+siguientes: 
+ 
+• Oracle Database PL/SQL Developer 
+Certified Professional o superior. 
+• Pm2 Open Project Management 
+Methodology Advanced o superior 
+junto con Pm2 Agile. 
+• Professional Scrum Master I (PSM I) 
+o superior y, adicionalmente, al 
+menos una de las siguientes 
+especializaciones de rol: 
+• Professional Scrum Product 
+Owner I (PSPO I) o superior. 
+• Professional Agile Leadership I 
+(PAL I) o superior. 
+• Professional Scrum Developer 
+(PSD). 
+Obligatoriamente 2 años o más de 
+experiencia en análisis y diseño en 
+proyectos de desarrollo de 
+aplicaciones o software. 
+Además, deberá acreditar al menos 
+uno de los siguientes requisitos: 
+• 2 años de experiencia y uso de 
+Spring Boot y/o Quarkus. 
+• 2 años de experiencia en diseño de 
+bases de datos relacionales y 
+mapeo objeto-relacional en 
+aplicaciones. 
+• 2 años de experiencia en análisis y 
+diseño de UX y accesibilidad para 
+software y aplicaciones. 
+PROGRAMADOR 
+SENIOR (4) MECES 1 • Oracle Certified Professional Java SE 11 o superior • 3 años de experiencia como programador en entornos Java. 
+5. ASPECTOS ADICIONALES PARA LA PRESTACIÓN DEL SERVICIO 
+5.1 Lugar de prestación de los servicios 
+Como norma general, la prestación de servicios se efectuará, con carácter habitual, en las instalaciones del 
+Ministerio de Defensa ubicadas en la Comunidad Autónoma de Madrid, que se detallan a continuación: 
+Centro de Informática de Gestión (CIGES) 
+Cuartel General del Ejército del Aire y del Espacio. 
+C/ Romero Robledo, 8.  
+28008 Madrid 
+En consideración del entorno técnico definido en él ANEXO I, cabe destacar que la prestación no podrá 
+desarrollarse en modalidad remota, salvo de forma puntual, excepcional y acotada, previa autorización del 
+REC y siempre que lo permitan el entorno tecnológico y las condiciones de seguridad. 
+El personal de la empresa contratista ocupará espacios de trabajo diferenciados de los que ocupan los 
+empleados públicos.  
+Cuando resulte necesario para la ejecución del contrato, el REC podrá autorizar la prestación temporal de 
+servicios en otras dependencias del Ministerio de Defensa situadas en la Comunidad de Madrid. Los 
+desplazamientos a otras ubicaciones tendrán el tratamiento que establezca el PCAP. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- página 11 ---
+ EJÉRCITO DEL AIRE JEFATURA DE SERVICIOS TÉCNICOS Y CIBERESPACIO (JSTCIBER) 
+CENTRO DE INFORMÁTICA DE GESTIÓN (CIGES) 
+PPT  
+ 
+ 
+Pág. 11 de 17 
+ 
+5.2 Medios materiales 
+Todos los medios materiales necesarios para la correcta prestación del servicio, correrán a cargo del 
+adjudicatario, sin coste alguno para el Ministerio de Defensa. 
+Justificación reforzada: 
+Las previsiones de medios informáticos y licencias en el Ministerio de Defensa se hacen en base a la plantilla 
+existente. La incorporación de personal de asistencia técnica aumenta dichas necesidades, y en tanto la 
+adquisición de medios y licencias no es inmediata, para garantizar la adecuada incorporación de nuevo 
+personal es necesario que los medios materiales necesarios se encuentren a disposición del personal desde 
+el inicio del contrato. 
+El coste y naturaleza de dichos medios se consideran razonables y proporcionados, por ser herramientas 
+relacionadas con el habitual cometido de las empresas que puedan competir por la presente licitación y no 
+ser específicas para este contrato. 
+Excepciones: 
+No obstante, cuando a criterio del CIGES la prestación del servicio lo requiera, el personal que preste la 
+asistencia técnica deberá utilizar los medios materiales facilitados por el Ministerio de Defensa y cumplir 
+estrictamente todas las normas de uso establecidas por este Ministerio. 
+ 
+5.3 Horario de trabajo 
+Como norma general, la prestación del servicio se realizará en el horario de trabajo del CGEA (Madrid), con 
+una jornada laboral de 7,5 horas dentro del horario estipulado en éste. La distribución concreta del horario 
+será organizada por la empresa adjudicataria, en coordinación con el REC y atendiendo a las necesidades 
+del servicio 
+El personal del contratista se regirá por el calendario laboral de Madrid (Comunidad y Municipio), que es por 
+el que se rige el emplazamiento establecido como lugar de trabajo. A efectos del contrato, los tiempos de 
+desplazamiento de ida y vuelta al lugar de trabajo correrán a cargo del contratista y no se computarán a ningún 
+efecto como concepto facturable. Tampoco podrán cargarse como servicios extraordinarios cuando, por 
+razones operativas justificadas, se trabaje fuera del horario habitual. 
+ 
+5.4 Compensación por períodos de ausencia del personal 
+Las horas correspondientes a períodos de ausencia del personal adscrito no tendrán la consideración de 
+servicio efectivamente prestado, aunque puedan incluirse provisionalmente en la facturación mensual 
+conforme al mecanismo establecido en el apartado 5.6. 
+Su compensación mediante la bolsa de horas o, cuando proceda, su minoración económica, se realizará 
+exclusivamente conforme al régimen establecido en dicho apartado. 
+Cuando la duración o naturaleza de la ausencia requiera la sustitución del profesional, se aplicará lo dispuesto 
+en el apartado 5.5. 
+ 
+5.5 Sustitución del personal 
+La sustitución de cualquiera de los profesionales adscritos podrá producirse a iniciativa de la empresa 
+adjudicataria o a requerimiento del REC. 
+Cuando la sustitución sea propuesta por el adjudicatario, deberá estar justificada y comunicarse al REC con 
+una antelación mínima de 15 días naturales, salvo causa sobrevenida o de fuerza mayor, que se comunicará 
+inmediatamente. 
+El REC podrá requerir motivadamente la sustitución de un profesional cuando concurra alguna de las 
+siguientes circunstancias: 
+- Incumplimiento de los requisitos mínimos establecidos en el apartado 4. 
+- Pérdida, caducidad, revocación o insuficiencia de las habilitaciones o autorizaciones necesarias. 
+
+--- página 12 ---
+ EJÉRCITO DEL AIRE JEFATURA DE SERVICIOS TÉCNICOS Y CIBERESPACIO (JSTCIBER) 
+CENTRO DE INFORMÁTICA DE GESTIÓN (CIGES) 
+PPT  
+ 
+ 
+Pág. 12 de 17 
+ 
+- Incumplimiento reiterado de las funciones, procedimientos, instrucciones técnicas o condiciones de 
+ejecución aplicables. 
+- Rendimiento o calidad manifiestamente insuficientes, debidamente documentados. 
+- Incumplimiento de las obligaciones de seguridad, confidencialidad, protección de datos o acceso a las 
+instalaciones y sistemas. 
+- Conductas que afecten de forma acreditada a la continuidad, seguridad o correcta prestación del servicio. 
+El profesional sustituto deberá: 
+- Cumplir los requisitos mínimos establecidos en el apartado 4 para el perfil correspondiente. 
+- Disponer de las habilitaciones y autorizaciones necesarias. 
+- Mantener una puntuación individual igual o superior a la obtenida por el profesional sustituido en el criterio 
+de experiencia y conocimientos adicionales. 
+La empresa adjudicataria deberá aportar la documentación acreditativa antes de la incorporación del sustituto. 
+Su incorporación quedará condicionada a la comprobación del cumplimiento de los requisitos por el REC, sin 
+que dicha comprobación implique participación del CIGES en la selección o dirección laboral del profesional. 
+En las sustituciones planificadas se realizará un periodo de transferencia de conocimiento de 15 jornadas 
+laborables. Cuando la sustitución sea sobrevenida, el adjudicatario adoptará las medidas alternativas 
+necesarias para garantizar la continuidad del servicio y realizará la transferencia de conocimiento en cuanto 
+resulte posible. Todos los costes derivados de la sustitución, acreditación, incorporación y transferencia de 
+conocimiento serán asumidos por el adjudicatario, sin coste adicional para el Ministerio de Defensa. 
+La sustitución no podrá producir una reducción de la composición, dedicación, capacidad técnica ni 
+puntuación del equipo comprometido. 
+ 
+5.6 Definición de bolsa de horas 
+La bolsa de horas estará constituida por las horas correspondientes a ausencias del personal adscrito al 
+equipo mínimo que, aun incluidas en la facturación mensual, no hayan sido efectivamente prestadas ni 
+cubiertas por otro profesional. 
+Cuando el REC haya acordado la utilización de la bolsa, las horas de ausencia se incorporarán a esta en el 
+mes en que se produzcan y se considerarán abonadas provisionalmente y pendientes de recuperación. Su 
+posterior ejecución no generará facturación adicional 
+Al inicio de la ejecución del contrato, el REC determinará si las horas no prestadas se incorporarán a la bolsa 
+de horas o se minorarán mensualmente de la facturación. Si se opta por la utilización de la bolsa, el REC 
+podrá dejar sin efecto este mecanismo durante la ejecución y proceder a la minoración del saldo acumulado 
+pendiente. La generación, utilización y regularización de la bolsa quedarán sujetas a la decisión y conformidad 
+del REC. 
+No generarán saldo en la bolsa: 
+- Las horas cubiertas por un sustituto que cumpla los requisitos establecidos en el apartado 4 para el perfil 
+correspondiente. 
+- Las horas recuperadas dentro del mismo periodo mensual mediante una redistribución previamente 
+comunicada y aceptada por el REC. 
+ 
+Registro y seguimiento: 
+La empresa adjudicataria llevará un registro mensual de la bolsa de horas, desglosado por perfil profesional, 
+que deberá incluir, al menos: 
+- Saldo inicial. 
+- Horas de ausencia generadas durante el mes. 
+- Profesional y perfil que originan las horas. 
+- Fecha y duración de la ausencia. 
+- Horas recuperadas durante el mes. 
+- Profesional y perfil que realizan la recuperación. 
+- Horas minoradas, cuando proceda. 
+
+--- página 13 ---
+ EJÉRCITO DEL AIRE JEFATURA DE SERVICIOS TÉCNICOS Y CIBERESPACIO (JSTCIBER) 
+CENTRO DE INFORMÁTICA DE GESTIÓN (CIGES) 
+PPT  
+ 
+ 
+Pág. 13 de 17 
+ 
+- Saldo final pendiente. 
+El registro será remitido mensualmente al REC junto con el informe de seguimiento previsto en el apartado 
+3.2.4 y deberá contar con su conformidad. 
+Las horas correspondientes al Analista y a los Programadores sénior se registrarán separadamente. No 
+podrán compensarse entre perfiles a efectos económicos. 
+Utilización de la bolsa: 
+La utilización de la bolsa requerirá solicitud del REC y coordinación previa con la empresa adjudicataria. 
+Como regla general, el REC comunicará la necesidad de utilización con una antelación mínima de diez días 
+hábiles, salvo que ambas partes acuerden un plazo inferior. 
+Las horas se destinarán exclusivamente a la realización de trabajos comprendidos en el apartado 3 del 
+presente PPT y podrán ejecutarse de forma continuada o fraccionada, conforme a las necesidades del 
+servicio. 
+Las horas recuperadas: 
+- No podrán coincidir ni solaparse con horas ordinarias imputadas al contrato. 
+- No podrán ser objeto de nueva facturación. 
+- Se descontarán del saldo del perfil que hubiera originado la ausencia. 
+- Se considerarán realizadas únicamente cuando hayan sido efectivamente prestadas y validadas por el 
+REC. 
+Personal encargado de la recuperación: 
+Las horas de la bolsa serán ejecutadas por personal adicional al equipo mínimo adscrito. 
+El profesional que las realice deberá cumplir los requisitos mínimos establecidos en el apartado 4 para el perfil 
+cuyas horas se recuperan. 
+Excepcionalmente, las horas correspondientes a un Programador sénior podrán ser ejecutadas por el Analista 
+o por otro profesional cuando este cumpla también los requisitos mínimos establecidos para el perfil de 
+Programador sénior. 
+Antes de la incorporación del personal adicional, la empresa adjudicataria deberá aportar la documentación 
+necesaria para acreditar el cumplimiento de los requisitos exigidos. Su incorporación estará condicionada a 
+la comprobación previa por el REC. 
+Regularización y minoración: 
+El saldo de la bolsa se revisará mensualmente y, en todo caso, con una antelación mínima de un mes respecto 
+de la finalización del contrato inicial, de cada prórroga y del contrato. 
+Las horas que no hayan sido recuperadas dentro del periodo correspondiente se minorarán de la facturación 
+pendiente. Si ello no fuera posible, se regularizarán en la liquidación del contrato conforme a lo establecido 
+en el PCAP. 
+La minoración económica se calculará aplicando a cada hora pendiente el precio unitario adjudicado del perfil 
+que originó la ausencia. 
+La existencia de saldo pendiente no otorgará al adjudicatario derecho a exigir su utilización. Corresponderá 
+al REC decidir, en función de las necesidades del servicio, si las horas deben recuperarse o minorarse. 
+En ningún caso podrá finalizar el contrato inicial, una prórroga o el contrato con horas abonadas que no hayan 
+sido efectivamente prestadas o económicamente regularizadas. 
+Ausencias prolongadas: 
+La bolsa de horas no eximirá al adjudicatario de su obligación de garantizar la continuidad del servicio. 
+Cuando la duración prevista de una ausencia haga necesaria la sustitución del profesional, se aplicará lo 
+establecido en el apartado 5.5.  
+Las horas efectivamente cubiertas por el sustituto no se incorporarán a la bolsa. 
+
+--- página 14 ---
+ EJÉRCITO DEL AIRE JEFATURA DE SERVICIOS TÉCNICOS Y CIBERESPACIO (JSTCIBER) 
+CENTRO DE INFORMÁTICA DE GESTIÓN (CIGES) 
+PPT  
+ 
+ 
+Pág. 14 de 17 
+ 
+ 
+5.7 Cumplimiento del Esquema Nacional de Seguridad 
+El presente contrato tiene por objeto la prestación de un servicio que incluye entre sus funciones la 
+implementación de medidas de seguridad en las aplicaciones y la supervisión de su correcta aplicación 
+durante la ejecución de los trabajos. 
+En cumplimiento del artículo 13.5 del Esquema Nacional de Seguridad, el adjudicatario designará una 
+Persona de Contacto, en adelante POC, que canalizará y supervisará el cumplimiento de los requisitos de 
+seguridad y las comunicaciones relativas a la seguridad de la información y a la gestión de los incidentes de 
+seguridad en el ámbito del servicio. La POC formará parte del área de seguridad de la empresa adjudicataria 
+o mantendrá comunicación directa con su responsable de seguridad. 
+El CIGES informará al personal adscrito al contrato de sus deberes, obligaciones y responsabilidades en 
+materia de seguridad respecto de los sistemas de información a los que deba acceder. Esta información se 
+facilitará al inicio de la ejecución y cuando se produzcan cambios relevantes. 
+El adjudicatario deberá supervisar la actuación del personal adscrito para garantizar el cumplimiento de las 
+normas, instrucciones y procedimientos operativos de seguridad aplicables. 
+En aplicación de los requisitos de gestión del personal y profesionalidad establecidos en el Esquema Nacional 
+de Seguridad, el personal adscrito deberá cumplir los requisitos profesionales indicados en el apartado 4. 
+Medidas del Anexo II del RD 311/2022 que son de aplicación al presente contrato: 
+1. Sistemas de categoría BÁSICA:  
+a) El desarrollo de aplicaciones se realizará sobre un sistema diferente y separado del de producción, 
+no debiendo existir herramientas o datos de desarrollo en el entorno de producción, ni datos de 
+producción en el de desarrollo. El organismo destinatario dispone de estos entornos y proporcionará 
+las normas de uso, junto con el resto de información que proporcionará al inicio de la ejecución del 
+contrato. 
+2. Sistemas de categoría MEDIA:  
+a) Las aplicaciones se desarrollarán respetando el principio de mínimo privilegio, accediendo 
+únicamente a los recursos imprescindibles para su función, y con los privilegios que sean 
+indispensables.  
+b) Se aplicará una metodología de desarrollo seguro reconocida que:  
+i) Tendrá en consideración los aspectos de seguridad a lo largo de todo el ciclo de vida. 
+ii) Incluirá normas de programación segura, especialmente: control de asignación y liberación de 
+memoria, desbordamiento de memoria (overflow). 
+iii) Tratará específicamente los datos usados en pruebas. 
+iv) Permitirá la inspección del código fuente. 
+c) Se aplicará el principio de seguridad integral desde el diseño del sistema, especialmente: 
+i) Los mecanismos de identificación y autenticación. 
+ii) Los mecanismos de protección de la información tratada. 
+iii) La generación y tratamiento de pistas de auditoría. 
+d) Las pruebas previas a la implantación o modificación de los sistemas de información no se realizarán 
+con datos reales. En caso de que fuese necesario recurrir a datos reales, el organismo destinatario 
+impartirá las oportunas instrucciones para garantizar el nivel de seguridad correspondiente. Es 
+obligación del adjudicatario asegurarse de que el personal asignado al servicio cumple dichas 
+instrucciones.  
+ 
+El adjudicatario elaborará y mantendrá actualizada una relación formal de los componentes software de 
+terceros empleados en las aplicaciones, incluyendo, como mínimo, su identificación, fabricante o proveedor, 
+versión y finalidad. 
+Asimismo, mantendrá durante la ejecución del contrato un histórico de los componentes utilizados en las 
+diferentes versiones de las aplicaciones. Cuando proceda, esta relación se adaptará a las guías CCN-STIC 
+que determine el CIGES. 
+ 
+ 
+
+--- página 15 ---
+ EJÉRCITO DEL AIRE JEFATURA DE SERVICIOS TÉCNICOS Y CIBERESPACIO (JSTCIBER) 
+CENTRO DE INFORMÁTICA DE GESTIÓN (CIGES) 
+PPT  
+ 
+ 
+Pág. 15 de 17 
+ 
+ 
+5.8 Habilitaciones de Seguridad 
+El CIGES se encuentra acreditado como Zona de Acceso Restringido (ZAR) Clase II de nivel 
+“RESERVADO NACIONAL” + “NATO SECRET” + “EU SECRET”. 
+La empresa adjudicataria deberá disponer de una Habilitación de Seguridad de Empresa, HSEM, vigente y 
+de grado adecuado o superior al requerido, que deberá mantener durante toda la ejecución del contrato. La 
+HSEM deberá encontrarse vigente en la fecha límite de presentación de ofertas y se acreditará mediante la 
+documentación incluida en el Sobre 1. 
+Los profesionales adscritos deberán disponer de una Habilitación Personal de Seguridad, HPS, vigente y de 
+grado adecuado o superior. Podrá admitirse que su tramitación se encuentre iniciada, pero el profesional no 
+podrá acceder a información clasificada, zonas restringidas o sistemas protegidos hasta su concesión. 
+La posesión de las habilitaciones no conferirá, por sí sola, derecho de acceso, que estará condicionado a la 
+correspondiente necesidad de conocer, a la autorización aplicable y al cumplimiento de las normas de 
+seguridad del CIGES. 
+La suspensión, caducidad, revocación, denegación o insuficiencia de una HPS impedirá inmediatamente el 
+acceso del profesional afectado y obligará a su sustitución conforme al apartado 5.5.  
+La pérdida o insuficiencia de la HSEM deberá comunicarse inmediatamente y tendrá las consecuencias 
+previstas en el PCAP cuando impida la ejecución del contrato en las condiciones de seguridad exigidas. 
+Estas obligaciones serán aplicables igualmente a sustitutos, personal adicional y personal encargado de 
+recuperar horas de la bolsa. 
+ 
+  
+
+--- página 16 ---
+ EJÉRCITO DEL AIRE JEFATURA DE SERVICIOS TÉCNICOS Y CIBERESPACIO (JSTCIBER) 
+CENTRO DE INFORMÁTICA DE GESTIÓN (CIGES) 
+PPT  
+ 
+ 
+Pág. 16 de 17 
+ 
+ANEXO I FUNCIONES DE LOS PERFILES PROFESIONALES. 
+En este anexo se describen las funciones correspondientes a los perfiles profesionales adscritos al contrato. 
+Los requisitos mínimos aplicables son los establecidos en el apartado 4.   
+I.1. Analista. 
+Para prestar servicio en el CIGES, el analista deberá contar con los conocimientos, habilidades y experiencia 
+necesarios para contribuir a la calidad y correcta ejecución de los trabajos en todas sus fases.  
+El Analista realizará, entre otras, las siguientes funciones: 
+• Analizar y documentar requisitos funcionales y no funcionales. 
+• Delimitar el alcance de las actuaciones y analizar su viabilidad e impacto. 
+• Definir y mantener el diseño funcional y técnico de las soluciones. 
+• Elaborar modelos, diagramas, prototipos y especificaciones. 
+• Mantener la trazabilidad entre requisitos, diseño, desarrollo y pruebas. 
+• Definir los planes, casos y criterios de aceptación de las pruebas. 
+• Revisar y validar los desarrollos realizados por los Programadores senior. 
+• Coordinar técnicamente los trabajos y realizar su seguimiento. 
+• Gestionar las incidencias, riesgos y solicitudes de cambio. 
+• Elaborar y actualizar la documentación correspondiente. 
+• Realizar tareas de desarrollo cuando resulte necesario. 
+• Ejercer las funciones de coordinación del servicio establecidas en el apartado 3.2.4. 
+I.2. Programador senior. 
+Los Programadores sénior realizarán, entre otras, las siguientes funciones: 
+• Desarrollar y modificar código conforme a los requisitos y diseños aprobados. 
+• Aplicar las normas de codificación, calidad y seguridad establecidas. 
+• Elaborar código mantenible, reutilizable y debidamente documentado. 
+• Desarrollar y ejecutar pruebas unitarias y de integración. 
+• Diagnosticar y corregir errores, vulnerabilidades y defectos. 
+• Participar en las revisiones de código y en la resolución de incidencias. 
+• Mantener actualizados el código fuente, las versiones y la documentación asociada. 
+• Preparar los elementos necesarios para las entregas y despliegues autorizados. 
+• Colaborar en el análisis técnico, las pruebas y la transferencia de conocimiento. 
+• Utilizar las herramientas y procedimientos definidos en los apartados y anexos correspondientes del PPT. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 17 ---
+ EJÉRCITO DEL AIRE JEFATURA DE SERVICIOS TÉCNICOS Y CIBERESPACIO (JSTCIBER) 
+CENTRO DE INFORMÁTICA DE GESTIÓN (CIGES) 
+PPT  
+ 
+ 
+Pág. 17 de 17 
+ 
+ANEXO II HERRAMIENTAS EN USO 
+El presente anexo identifica las principales herramientas y tecnologías utilizadas en el desarrollo y 
+mantenimiento de las aplicaciones incluidas en el ámbito del contrato. 
+La relación tiene carácter descriptivo. No implica la utilización simultánea de todas las herramientas ni que 
+todos los profesionales deban acreditar experiencia individual en la totalidad de ellas. Su utilización dependerá 
+de las necesidades de cada actuación. 
+La utilización de herramientas, componentes, servicios o versiones diferentes requerirá autorización previa 
+del REC y quedará condicionada a su compatibilidad, seguridad, integración y licenciamiento. 
+A continuación, se describen las herramientas que se utilizan para el desarrollo y mantenimiento de software: 
+II.1. Herramientas de uso general 
+• Red de comunicación: 
+o Red Ethernet de propósito general (I3D-BC). 
+• Plataformas y sistemas operativos: 
+o Equipos con sistema operativo Windows 11 / Windows Server. 
+• Navegadores web: 
+o Clientes que utilicen Firefox o Microsoft Edge. 
+• Suites de oficina y lectores: 
+o Microsoft Office, OnlyOffice, LibreOffice y Adobe Acrobat/Reader. 
+ 
+La disponibilidad de estas herramientas básicas es esencial para garantizar un entorno de trabajo homogéneo 
+y seguro. 
+II.2. Herramientas específicas 
+Estas herramientas se utilizan en función de las necesidades particulares de cada proyecto y de acuerdo con 
+las limitaciones de seguridad y licenciamiento establecidas: 
+ 
+CATEGORÍA HERRAMIENTAS Y TECNOLOGÍAS 
+Bases de datos Oracle Database, SQL, PL/SQL 
+Gestión de contenidos y servicios web OpenCMS, Directus, Apache Tomcat y Apache HTTP 
+Server. 
+Análisis y calidad del código SonarQube y Checkstyle. 
+Automatización de despliegues Ansible. 
+Contenedores y orquestación Docker, Kubernetes y OpenShift. 
+Compilación y automatización Maven. 
+Modelado y diagramación Visual Paradigm, Enterprise Architect y draw.io. 
+Documentación técnica JavaDoc, Markdown y Sphinx. 
+Desarrollo y edición de código Eclipse, Visual Studio Code, IntelliJ IDEA y NetBeans. 
+Gestión y seguimiento Jira, Trello, Asana y Microsoft Project. 
+Gestión de artefactos Nexus. 
+Control de versiones Subversion, GitLab y GitHub. 
+Prototipado de interfaces Figma, Adobe XD y Sketch. 
+Pruebas Junit, Selenium y Cypress 
+Integración y entrega continua Jenkins y GitLab CI/CD. 
+La inclusión de una herramienta en este anexo no autoriza por sí sola el almacenamiento, tratamiento o 
+transmisión de código fuente, documentación o información del Ministerio de Defensa mediante servicios 
+externos, repositorios públicos o plataformas no autorizadas. 
+La utilización de dichos servicios requerirá autorización expresa del CIGES y el cumplimiento de las 
+condiciones de seguridad aplicables. 

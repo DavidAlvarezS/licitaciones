@@ -1,0 +1,310 @@
+
+
+--- página 1 ---
+El código de verificación (CSV) permite la verficación de la integridad de una copia de
+este documento electrónico. Este documento incorpora firma electrónica de acuerdo a
+la Ley 59/2003, de 19 de diciembre, de firma electrónica
+https://sede.losalcazares.regiondemurcia.es/validacionDoc/index.jsp?entidad=30902
+AYUNTAMIENTO DE LOS ALCÁZARES
+Documento: Pliego de prescripciones técnicas
+Asunto: Licencias Microsoft 365
+Expediente N.º: 21696/2026
+Servicio: DIGITALIZACIÓN
+Ayuntamiento de Los Alcázares
+Pliego de prescripciones técnicas para la contratación del suministro de licencias 
+Microsoft 365
+u01471cf792917070d007ea18d0b0d1fl
+Documento firmado por: Fecha/hora:Cargo:
+DAMIAN VICO SOLA Informático 23/11/2026 13:34
+
+--- página 2 ---
+El código de verificación (CSV) permite la verficación de la integridad de una copia de
+este documento electrónico. Este documento incorpora firma electrónica de acuerdo a
+la Ley 59/2003, de 19 de diciembre, de firma electrónica
+https://sede.losalcazares.regiondemurcia.es/validacionDoc/index.jsp?entidad=30902
+Página 2 de 8
+Contenido
+1 Objeto ........................................................................................................................3
+2 Requisitos del suministro ..........................................................................................3
+3 Soporte técnico ..........................................................................................................4
+3.1 Alcance..............................................................................................................4
+3.2 Horario, canales y tiempos de respuesta............................................................4
+4 Bolsa de horas para evolutivos..................................................................................5
+5 Plazos.........................................................................................................................5
+6 Duración del contrato ................................................................................................6
+7 Confidencialidad........................................................................................................6
+8 Seguridad y protección de datos................................................................................6
+9 Facturación ................................................................................................................6
+10 Presupuesto de referencia 7
+u01471cf792917070d007ea18d0b0d1fl
+Documento firmado por: Fecha/hora:Cargo:
+DAMIAN VICO SOLA Informático 23/11/2026 13:34
+
+--- página 3 ---
+El código de verificación (CSV) permite la verficación de la integridad de una copia de
+este documento electrónico. Este documento incorpora firma electrónica de acuerdo a
+la Ley 59/2003, de 19 de diciembre, de firma electrónica
+https://sede.losalcazares.regiondemurcia.es/validacionDoc/index.jsp?entidad=30902
+Página 3 de 8
+1 Objeto
+El objeto del contrato es la contratación del suministro de las suscripciones de 
+licencias Microsoft 365 que el Ayuntamiento de Los Alcázares viene usando como 
+solución de colaboración, ofimática y correo electrónico, así como el soporte técnico de 
+las incidencias relacionadas con la plataforma y una bolsa de horas para la realización 
+de evolutivos sobre la misma durante la vigencia del contrato.
+2 Requisitos del suministro
+Los licitadores deben ofertar el suministro de la siguiente cantidad de licencias, 
+especificando en su oferta los precios unitarios para la siguiente cantidad de licencias:
+Licencia Cantidad
+Exchange Online Kiosk 62
+Exchange Online (Plan 1) 8
+Microsoft 365 Business Basic 75
+Microsoft 365 Business Standard 131
+Microsoft Entra ID P1 1
+Visio Plan 2 1
+Microsoft 365 Copilot 20
+Total 298
+La tabla anterior indica una previsión del licenciamiento. Al inicio del contrato se 
+especificará con exactitud el licenciamiento inicial a suministrar, que como mínimo 
+serán de 281 licencias, al que se le aplicarán los precios unitarios ofertados.
+Si al inicio del contrato no se solicitara la totalidad de las licencias especificadas en la 
+tabla anterior, durante el periodo de duración del contrato se podrán modificar o adquirir 
+licencias adicionales a las solicitadas al inicio del contrato debido a la variación de 
+necesidades (como altas de nuevos empleados, upgrade de licenciamiento, …). Estas 
+adquisiciones/modificaciones se podrán realizar mientras no se supere el importe total 
+ofertado de las 298 licencias.
+El suministro de las licencias se realizará en modalidad de compromiso anual, pago 
+mensual.
+Todas las licencias suministradas durante la duración del contrato se realizarán en 
+formato cotérmino, de tal forma que todas las licencias tengan la misma fecha de 
+finalización, tanto las solicitadas al inicio del contrato como las solicitadas durante la 
+vigencia del contrato.
+Dichas licencias se suministrarán en formato CSP (Cloud Solution Provider) y se 
+facturarán mensualmente las licencias que estén activas.
+u01471cf792917070d007ea18d0b0d1fl
+Documento firmado por: Fecha/hora:Cargo:
+DAMIAN VICO SOLA Informático 23/11/2026 13:34
+
+--- página 4 ---
+El código de verificación (CSV) permite la verficación de la integridad de una copia de
+este documento electrónico. Este documento incorpora firma electrónica de acuerdo a
+la Ley 59/2003, de 19 de diciembre, de firma electrónica
+https://sede.losalcazares.regiondemurcia.es/validacionDoc/index.jsp?entidad=30902
+Página 4 de 8
+El adjudicatario deberá poner a disposición del Ayuntamiento un portal web de 
+autogestión del conjunto de licenciamiento Microsoft 365, con las siguientes 
+funcionalidades que faciliten el día a día de los administradores IT:
+• Aumentar el número de licencias contratadas de un tipo determinado.
+• Contratar nuevos tipos de licencias Microsoft 365
+• Upgrade de licencias contratadas a licencias de mayor categoría.
+• Ver el historial de pedidos.
+• Para las licencias Microsoft 365 Copilot, el adjudicatario deberá impartir una 
+formación online dirigida a los usuarios designados por el Ayuntamiento y entregar 
+un manual de usuario en formato electrónico. La formación y el manual estarán 
+incluidos en el precio de las licencias y no supondrán coste adicional para el 
+Ayuntamiento.
+3 Soporte técnico
+3.1 Alcance
+El adjudicatario prestará soporte técnico para la resolución de las incidencias 
+relacionadas con la plataforma Microsoft 365 del Ayuntamiento durante toda la 
+vigencia del contrato, sin coste adicional sobre el precio de las licencias. Se entiende por 
+incidencia relacionada con la plataforma cualquier interrupción, degradación o 
+funcionamiento anómalo de los servicios incluidos en las licencias suministradas, entre 
+otros:
+• Correo electrónico y calendario (Exchange Online).
+• Microsoft Teams.
+• SharePoint Online y OneDrive.
+• Identidad, acceso y autenticación (Microsoft Entra ID).
+• Aplicaciones de Microsoft 365.
+• Microsoft 365 Copilot.
+• Asignación, activación y gestión de las licencias.
+El soporte se prestará al personal técnico del Ayuntamiento designado por el 
+responsable del contrato, que actuará como primer nivel frente a los usuarios finales.
+Cuando la resolución de una incidencia requiera la intervención del fabricante, el 
+adjudicatario abrirá y gestionará el caso de soporte con Microsoft, realizará su 
+seguimiento hasta el cierre e informará al Ayuntamiento de su evolución.
+Quedan excluidos del soporte el hardware, los puestos de trabajo y dispositivos, las 
+redes y comunicaciones locales, las aplicaciones de terceros y cualquier actuación que 
+no tenga su origen en una incidencia de la plataforma. Las peticiones de cambio, 
+configuración o mejora se tramitarán como evolutivos con cargo a la bolsa de horas.
+u01471cf792917070d007ea18d0b0d1fl
+Documento firmado por: Fecha/hora:Cargo:
+DAMIAN VICO SOLA Informático 23/11/2026 13:34
+
+--- página 5 ---
+El código de verificación (CSV) permite la verficación de la integridad de una copia de
+este documento electrónico. Este documento incorpora firma electrónica de acuerdo a
+la Ley 59/2003, de 19 de diciembre, de firma electrónica
+https://sede.losalcazares.regiondemurcia.es/validacionDoc/index.jsp?entidad=30902
+Página 5 de 8
+3.2 Horario, canales y tiempos de respuesta
+El soporte se prestará en días laborables de lunes a viernes, de 8:00 a 15:00 horas, a 
+través de, al menos, una herramienta o portal de registro de incidencias, correo 
+electrónico y teléfono. Todas las incidencias quedarán registradas con su fecha y hora 
+de apertura, prioridad, actuaciones realizadas y fecha y hora de cierre.
+Se establecen los siguientes tiempos máximos de respuesta, computados en horario 
+de servicio desde la comunicación de la incidencia hasta el inicio efectivo de su 
+tratamiento por un técnico del adjudicatario:
+Prioridad Definición Tiempo máximo 
+de respuesta
+Crítica Servicio no disponible o gravemente 
+degradado para la mayoría de los usuarios.
+2 horas
+Alta Servicio no disponible para un colectivo o un 
+servicio relevante degradado.
+4 horas
+Media Incidencia que afecta a usuarios concretos con 
+alternativa de trabajo.
+8 horas
+Baja Incidencia leve o consulta sin impacto en el 
+servicio.
+16 horas
+El adjudicatario remitirá mensualmente al responsable del contrato un informe con las 
+incidencias registradas, su prioridad, el cumplimiento de los tiempos de respuesta y el 
+estado de los casos abiertos con el fabricante.
+4 Bolsa de horas para evolutivos
+Se establece una bolsa de 15 horas para la realización de evolutivos sobre la 
+plataforma Microsoft 365 del Ayuntamiento. Se entiende por evolutivo cualquier 
+actuación de configuración, mejora, adecuación o implantación de nuevas 
+funcionalidades que no tenga su origen en una incidencia, entre otras:
+• Cambios y mejoras en la configuración de los servicios de la plataforma.
+• Adecuación de la configuración a requisitos de seguridad y normativos, 
+incluido el Esquema Nacional de Seguridad.
+• Optimización y adecuación del licenciamiento a los perfiles de uso.
+• Implantación de nuevas funcionalidades, automatizaciones y herramientas de 
+la plataforma.
+• Configuración y gobierno de Microsoft 365 Copilot (preparación de 
+permisos y datos, políticas de uso y seguimiento de la adopción) y desarrollo 
+de agentes sobre la plataforma.
+• Acciones de formación y transferencia de conocimiento sobre la plataforma.
+Las horas se consumirán a petición del responsable del contrato conforme al 
+siguiente procedimiento:
+u01471cf792917070d007ea18d0b0d1fl
+Documento firmado por: Fecha/hora:Cargo:
+DAMIAN VICO SOLA Informático 23/11/2026 13:34
+
+--- página 6 ---
+El código de verificación (CSV) permite la verficación de la integridad de una copia de
+este documento electrónico. Este documento incorpora firma electrónica de acuerdo a
+la Ley 59/2003, de 19 de diciembre, de firma electrónica
+https://sede.losalcazares.regiondemurcia.es/validacionDoc/index.jsp?entidad=30902
+Página 6 de 8
+1. Solicitud del evolutivo por el responsable del contrato.
+2. Estimación por el adjudicatario, en un plazo máximo de 5 días hábiles, de las 
+horas necesarias, el plazo de ejecución y los entregables.
+3. Aprobación expresa de la estimación por el responsable del contrato.
+4. Ejecución del evolutivo y entrega de un parte de trabajo con las actuaciones 
+realizadas y las horas consumidas, que deberá ser validado por el responsable 
+del contrato.
+Las horas se computarán en fracciones de media hora. Los trabajos se prestarán 
+preferentemente en remoto y, cuando el Ayuntamiento lo requiera, de forma presencial 
+en sus dependencias. Las horas no consumidas a la finalización del contrato no serán 
+facturadas, sin que exista compromiso de consumo mínimo por parte del Ayuntamiento.
+Las horas adicionales sin coste ofertadas por el adjudicatario se sumarán a la bolsa y se 
+consumirán con el mismo procedimiento una vez agotadas las 15 horas.
+5 Plazos
+Las licencias deberán estar suministradas y activas el 1 de enero de 2027. El soporte 
+técnico y la bolsa de horas estarán disponibles desde la fecha de inicio del contrato.
+6 Duración del contrato
+La duración del contrato será de un año, sin posibilidad de prórroga, a contar desde 
+el 1 de enero de 2027. El soporte técnico y la bolsa de horas para evolutivos estarán 
+disponibles desde esa misma fecha y durante toda la vigencia del contrato.
+7 Confidencialidad
+Tanto los licitadores como los adjudicatarios se comprometerán a dar un trato 
+reservado y confidencial a toda la información que las empresas licitadoras o 
+adjudicatarias pudieran obtener de esta administración, a procurar su custodia y a no 
+divulgarla por el personal a su cargo, salvo que medie la autorización por escrito por 
+parte de esta administración.
+El adjudicatario garantizará la seguridad y la confidencialidad de toda la 
+documentación e información de que disponga sobre la red corporativa del 
+Ayuntamiento de Los Alcázares, así como de toda la información que circule por la red 
+soporte del servicio que presta.
+Se prohíbe terminantemente la difusión y/o distribución a terceros de los datos y 
+documentos proporcionados por el Ayuntamiento de Los Alcázares al adjudicatario, 
+cuando estas actividades no respondan a necesidades exigidas para la realización del 
+presente concurso.
+u01471cf792917070d007ea18d0b0d1fl
+Documento firmado por: Fecha/hora:Cargo:
+DAMIAN VICO SOLA Informático 23/11/2026 13:34
+
+--- página 7 ---
+El código de verificación (CSV) permite la verficación de la integridad de una copia de
+este documento electrónico. Este documento incorpora firma electrónica de acuerdo a
+la Ley 59/2003, de 19 de diciembre, de firma electrónica
+https://sede.losalcazares.regiondemurcia.es/validacionDoc/index.jsp?entidad=30902
+Página 7 de 8
+De igual forma, se prohíbe la distribución, utilización o copia del contenido de dicha 
+información, por parte del adjudicatario, para otro fin que no corresponda a la 
+elaboración de ofertas para el Ayuntamiento de Los Alcázares. El Ayuntamiento de Los 
+Alcázares obtendrá la propiedad de toda la información contenida en los informes y 
+documentos del presente concurso, reservándose el derecho a la utilización, difusión y/o 
+copia de los mismos.
+8 Seguridad y protección de datos
+En la prestación del soporte y de los evolutivos el adjudicatario cumplirá las 
+medidas de seguridad del Esquema Nacional de Seguridad (Real Decreto 311/2022, de 
+3 de mayo) que resulten de aplicación y, en particular:
+• Accederá a la plataforma únicamente con cuentas nominativas, protegidas 
+con autenticación multifactor y con los privilegios mínimos necesarios para 
+cada actuación.
+• No accederá a los contenidos de los usuarios salvo en la medida 
+estrictamente necesaria para la resolución de una incidencia o la ejecución de 
+un evolutivo aprobado.
+• Registrará las actuaciones realizadas sobre la plataforma y aplicará los 
+cambios de forma controlada y con posibilidad de vuelta atrás.
+• Cumplirá las obligaciones de encargado del tratamiento establecidas en el 
+Pliego de Cláusulas Administrativas Particulares.
+9 Facturación
+El adjudicatario emitirá facturas mensuales por importe de las licencias activas en 
+cada mes. La factura debe emitirse a mes vencido y detallar los conceptos facturados, 
+detallando la cantidad de licencias de cada tipo facturadas. Se emitirá la primera factura 
+el mes posterior a la fecha inicial del suministro de licencias. El soporte técnico está 
+incluido en el precio de las licencias y no será objeto de facturación independiente.
+Las horas de evolutivos consumidas se facturarán a mes vencido, al precio/hora 
+ofertado, conforme a los partes de trabajo validados por el responsable del contrato.
+10 Presupuesto de referencia
+Los importes unitarios anuales de referencia, IVA excluido, y su valoración para las 
+cantidades previstas son los siguientes:
+Concepto Cantidad Unitario anual Base Base + IVA
+Exchange 62 27,99 € 1.735,38 € 2.099,81 €
+u01471cf792917070d007ea18d0b0d1fl
+Documento firmado por: Fecha/hora:Cargo:
+DAMIAN VICO SOLA Informático 23/11/2026 13:34
+
+--- página 8 ---
+El código de verificación (CSV) permite la verficación de la integridad de una copia de
+este documento electrónico. Este documento incorpora firma electrónica de acuerdo a
+la Ley 59/2003, de 19 de diciembre, de firma electrónica
+https://sede.losalcazares.regiondemurcia.es/validacionDoc/index.jsp?entidad=30902
+Página 8 de 8
+Online Kiosk
+Exchange 
+Online (Plan 1)
+8
+52,55 € 420,40 € 508,68 €
+Business Basic 75 90,97 € 6.822,75 € 8.255,53 €
+Business 
+Standard
+131
+181,92 € 23.831,52 € 28.836,14 €
+Microsoft 
+Entra ID P1
+1
+91,54 € 91,54 € 110,76 €
+Visio Plan 2 1 194,92 € 194,92 € 235,85 €
+Microsoft 365 
+Copilot
+20
+421,41 € 8.428,20 € 10.198,12 €
+Bolsa de horas 
+evolutivos
+15 h 47,60 € 714,00 € 863,94 €
+Total 42.238,71 € 51.108,84 €
+El presupuesto de ejecución asciende a 42.238,71 €, aplicados los gastos 
+generales del 13 % y el beneficio industrial del 6 %. El IVA asciende a 8.870,13 € y el 
+coste total a 51.108,84 €.
+El Valor Estimado del Contrato ascienden a 42.238,71 €, IVA excluido. 
+En Los Alcázares (Murcia), a fecha al pie
+DOCUMENTO FIRMADO DIGITALMENTE
+u01471cf792917070d007ea18d0b0d1fl
+Documento firmado por: Fecha/hora:Cargo:
+DAMIAN VICO SOLA Informático 23/11/2026 13:34

@@ -1,0 +1,1125 @@
+
+
+--- página 1 ---
+ 
+ 
+Pº de La Habana, 138 
+28036 Madrid, España 
+T +34 914 521 200 
+F +34 914 521 300 
+www.ineco.com 
+ 
+ 
+ 
+ 
+SERVICIOS DE APOYO A LA 
+ADMINISTRACIÓN E INTEGRACIÓN DE 
+SERVICE MANAGER 
+Expediente nº 20261026-00383 
+Cuadro de Características 
+ 
+ 
+ 
+
+--- página 2 ---
+ 
+ 
+ 
+Cuadro de Características Página 2  30 
+ 
+ 
+CONTENIDO 
+1. OBJETO DEL CONTRATO ....................................................................................................................................... 4 
+2. NECESIDADES A SATISFACER .............................................................................................................................. 4 
+3. ALCANCE ................................................................................................................................................................ 5 
+3.1. SERVICIO DE GESTIÓN, SOPORTE Y MANTENIMIENTO DE LA HERRAMIENTA SERVICE MANAGER
+ ................................................................................................................................................................ 5 
+3.2. SERVICIO DE DESARROLLO DE NUEVAS FUNCIONALIDADES E INTEGRACIÓN DE LA 
+HERRAMIENTA SERVICE MANAGER .................................................................................................... 5 
+3.3. ESQUEMA NACIONAL DE SEGURIDAD (ENS) ..................................................................................... 6 
+4. PLAZO Y LUGAR DE EJECUCIÓN DEL CONTRATO ............................................................................................... 8 
+4.1. PLAZO DE DURACIÓN ........................................................................................................................... 8 
+4.2. LUGAR DE EJECUCIÓN ......................................................................................................................... 8 
+5. PRESUPUESTO MÁXIMO DE LICITACIÓN ............................................................................................................. 9 
+5.1. PRESUPUESTO MÁXIMO DE LICITACIÓN ............................................................................................ 9 
+5.2. DESGLOSE DEL PRESUPUESTO ............................................................................................................. 9 
+5.2.1. Costes directos e indirectos .................................................................................................................................................... 9 
+5.2.2. Costes de los salarios ................................................................................................................................................................ 10 
+5.2.3. Otros costes directos e indirectos ........................................................................................................................................ 11 
+5.2.4. IVA /CÁNON ......................................................................................................................................................................................... 11 
+7. VALOR ESTIMADO ................................................................................................................................................ 12 
+7.1. IMPORTE DEL VALOR ESTIMADO DEL CONTRATO ............................................................................ 12 
+7.2. MÉTODO DE CÁLCULO DEL VALOR ESTIMADO ................................................................................. 12 
+8. DIVISIÓN EN LOTES ............................................................................................................................................... 12 
+9. DOCUMENTOS QUE REVISTEN CARÁCTER CONTRACTUAL ............................................................................. 12 
+10. CAPACIDAD Y SOLVENCIA .................................................................................................................................. 13 
+10.1. REQUISITOS DE SOLVENCIA ............................................................................................................... 13 
+10.1.1. Solvencia económica y financiera .....................................................................................................................................13 
+10.1.2. Solvencia técnica o profesional .......................................................................................................................................... 14 
+10.2. DOCUMENTACIÓN Y CLASIFICACIÓN ............................................................................................. 20 
+10.3. INTEGRACIÓN DE LA SOLVENCIA ...................................................................................................... 20 
+10.4. HABILITACIÓN EMPRESARIAL EXIGIBLE PARA REALIZAR LA PRESTACIÓN ................................... 21 
+11. GARANTÍAS Y PLAZOS ......................................................................................................................................... 21 
+11.1. GARANTÍA PROVISIONAL ................................................................................................................... 21 
+11.2. GARANTÍA DEFINITIVA ........................................................................................................................ 21 
+12. CRITERIOS DE ADJUDICACIÓN DEL CONTRATO .............................................................................................. 22 
+
+--- página 3 ---
+ 
+ 
+ 
+Cuadro de Características Página 3  30 
+ 
+12.1. PREPONDERANCIA DE CRITERIOS .................................................................................................... 22 
+12.1.1. Proporción entre criterios que dependen de un juicio de valor y criterios evaluables mediante 
+fórmulas .......................................................................................................................................................................................... 22 
+12.1.2. Comprobación de la proporción entre criterios relacionados con la calidad y criterios 
+relacionados con el precio.................................................................................................................................................. 23 
+13. PUNTUACION DE LOS CRITERIOS CUALITATIVOS QUE DEPENDEN DE UN JUICIO DE VALOR ...................... 23 
+14. PUNTUACION DE LOS CRITERIOS EVALUABLES MEDIANTE FÓRMULAS ......................................................... 23 
+14.1. VALORACIÓN ECONÓMICA (PEMAX) .............................................................................................. 23 
+14.2. VALORACIÓN DE CALIDAD ................................................................................................................ 23 
+14.2.1. VALORACIÓN TÉCNICA ............................................................................................................................................................... 23 
+14.2.2. CRITERIOS SOCIALES Y MEDIOAMBIENTALES ................................................................................................................... 24 
+15. REVISIÓN DE PRECIOS ......................................................................................................................................... 25 
+16. SEGUROS .............................................................................................................................................................. 26 
+16.1. SEGURO DE RESPONSABILIDAD CIVIL GENERAL / EXPLOTACIÓN ................................................. 26 
+17. CONFIDENCIALIDAD ........................................................................................................................................... 26 
+18. PENALIDADES ....................................................................................................................................................... 27 
+18.1. POR INCUMPLIMIENTO DE LOS TRABAJOS OBJETO DEL CONTRATO ........................................... 27 
+18.2. POR EJECUCIÓN DEFECTUOSA ......................................................................................................... 27 
+18.3. POR INCUMPLIR LOS CRITERIOS DE ADJUDICACIÓN ..................................................................... 27 
+18.4. MORA EN LA ENTREGA DE LOS TRABAJOS ....................................................................................... 28 
+18.5. POR INCUMPLIR LA NORMATIVA EN MATERIA DE PROTECCIÓN DE DATOS DE CARÁCTER 
+PERSONAL ........................................................................................................................................... 28 
+18.6. OTRAS PENALIDADES ......................................................................................................................... 28 
+18.6.1. Por incumplir las condiciones para la subcontratación .................................................................................... 28 
+18.6.2. Por incumplir las obligaciones de información sobre las condiciones de subrogación en 
+contratos de trabajo ............................................................................................................................................................... 29 
+19. MODIFICACIÓN DEL CONTRATO ....................................................................................................................... 29 
+20. SUBCONTRATACIÓN .......................................................................................................................................... 29 
+21. OBLIGACIONES LABORALES SOBRE SUBROGACIÓN EN CONTRATOS DE TRABAJO .................................... 30 
+22. EJECUCIÓN DE LOS TRABAJOS EN LAS DEPENDENCIAS DE INECO ................................................................ 30 
+ 
+
+--- página 4 ---
+ 
+ 
+ 
+Cuadro de Características Página 4  30 
+ 
+El presente documento contiene el Cuadro de Características de los servicios a contratar. 
+De conformidad con las Instrucciones que regulan el procedimiento de contratación de Ineco: 
+• Procedimiento abierto. 
+• Varios criterios de adjudicación. 
+En relación con el cómputo de plazo se indica que: 
+☐  El expediente no viene derivado de encargo o de contrato de empresa asociada en aplicación de las 
+Instrucciones de INECO. 
+☒  El expediente viene derivado de encargo o de contrato de empresa asociada en aplicación de lo 
+dispuesto en el apartado 3 de las Instrucciones de INECO. 
+CUADRO DE CARACTERÍSTICAS 
+1. OBJETO DEL CONTRATO 
+El objeto del contrato consiste en la prestación de los servicios de apoyo a la implementación y 
+administración de nuevas funcionalidades del aplicativo ITSM Service Manager de OpenText y su 
+integración con otros módulos y sistemas, por parte de una (1) empresa especializada. 
+2. NECESIDADES A SATISFACER 
+Dentro de las actividades de Ineco se precisa contratar el servicio para el apoyo del sistema de gestión 
+Service Manager, el desarrollo de nuevas funcionalidades del aplicativo, tanto correctivos como 
+evolutivos y su integración con otros módulo y sistemas. 
+Si bien los servicios objeto de contratación tienen encaje en el alcance del Lote 7 “Servicios de soporte 
+a la actividad de administración de sistemas TIC” del Acuerdo Marco de Servicios de Transformación 
+Digital y Tecnologías de la Información (Expediente 20230329-00220), las consultas efectuadas a todos 
+los adjudicatarios del citado lote han puesto de manifiesto la imposibilidad de contar con ofertas 
+válidas para atender la necesidad planteada, debido fundamentalmente a la corta duración prevista 
+del servicio, estimada en dos meses. Por ello, al no poder garantizarse la concurrencia efectiva ni la 
+cobertura de la necesidad mediante los mecanismos previstos en el Acuerdo Marco, resulta necesario 
+acudir a un procedimiento abierto que permita la selección de un contratista y la ejecución de los 
+servicios requeridos en los plazos necesarios. 
+Expediente número: 20261026-00383 
+ 
+
+--- página 5 ---
+ 
+ 
+ 
+Cuadro de Características Página 5  30 
+ 
+3. ALCANCE 
+3.1. SERVICIO DE GESTIÓN, SOPORTE Y MANTENIMIENTO DE LA HERRAMIENTA SERVICE MANAGER 
+El contratista será responsable de la gestión, configuración y administración de la aplicación Service 
+Manager. 
+Deberá prestar un servicio de mantenimiento evolutivo, así como de atención a las incidencias propias 
+de la aplicación. Con carácter general, se consideran todas aquellas actividades orientadas a la 
+atención, respuesta, diagnóstico, restauración y resolución de incidencias en los 
+desarrollos/configuraciones realizadas durante el período de prestación del servicio. 
+Asimismo, el adjudicatario deberá encargarse de los trabajos de renovación de certificados 
+electrónicos de tipo servidor y cliente para la securización y la instalación de parches de fabricación 
+de Service Manager en los diferentes entornos de trabajo, tanto en integración como en producción, si 
+así se requiere por parte de Ineco o porque expire la fecha de validez. 
+Del mismo modo, elaborará la documentación técnica pertinente de las tareas mencionadas, cada 
+vez que se finalice uno de los entregables o trabajos encomendados. 
+3.2. SERVICIO DE DESARROLLO DE NUEVAS FUNCIONALIDADES E INTEGRACIÓN DE LA HERRAMIENTA 
+SERVICE MANAGER 
+El contratista asume la responsabilidad de analizar, definir, diseñar y desarrollar nuevas 
+funcionalidades para la herramienta Service Manager. A su vez, se encargará de todas las acciones 
+necesarias para integrarla con otras herramientas existentes en el entorno de INECO. 
+La empresa adjudicataria se compromete a atender las solicitudes de INECO, respondiendo a 
+peticiones de información, realizando ajustes o modificaciones en la herramienta Service Manager 
+según sea necesario y colaborando estrechamente con el equipo de INECO. Asimismo, se 
+responsabiliza de completar todas las tareas iniciadas dentro del plazo acordado y de acuerdo con los 
+estándares de calidad establecidos, incluyendo la realización de todas las actividades necesarias para 
+cumplir con los objetivos establecidos en el contrato. 
+INECO presentará las solicitudes de nuevas funcionalidades o integración con otras herramientas a la 
+empresa adjudicataria por escrito mediante correo electrónico. El contratista analizará las solicitudes 
+recibidas y presentará una propuesta detallada que incluya el alcance y plazos para la aprobación 
+por parte de INECO. Una vez aprobada la propuesta, la empresa adjudicataria llevará a cabo los 
+servicios requeridos. Durante la ejecución de éstos, el contratista mantendrá un seguimiento continuo, 
+reportando avances, identificando posibles desviaciones en plazos o alcance, y proponiendo 
+
+--- página 6 ---
+ 
+ 
+ 
+Cuadro de Características Página 6  30 
+ 
+soluciones para su aprobación por parte de INECO. Una vez completadas las tareas, la empresa 
+adjudicataria entregará los resultados a INECO para su validación, asegurando que cumplan con los 
+requisitos acordados. Finalmente, se procederá al cierre de la solicitud, incluyendo la formalización de 
+la aceptación por parte de INECO. 
+3.3. ESQUEMA NACIONAL DE SEGURIDAD (ENS) 
+En relación con el cumplimiento del Esquema Nacional de Seguridad (ENS), los licitadores asumirán en 
+cada una de las siguientes fases lo establecido a continuación: 
+Fase de presentación de oferta: Ver apartado 9.1.2 Solvencia técnica del Cuadro de Características. 
+Fase de adjudicación: 
+En caso de resultar adjudicatario del contrato, antes de la formalización del mismo el licitador deberá 
+presentar a Ineco: 
+• Formulario de persona de contacto: el adjudicatario de forma previa a la formalización del 
+contrato, en cumplimiento del artículo 13.5 del Real Decreto 311/2022 por el que se regula el 
+Esquema Nacional de Seguridad (ENS), deberá designar formalmente una Persona de 
+Contacto (PoC) en materia de seguridad de la información, así como un suplente de ésta en 
+caso de ausencia o indisponibilidad del POC principal. Con la adjudicación del contrato, INECO 
+facilitará al adjudicatario la plantilla de formulario indicada en este apartado. El formulario 
+deberá presentarse tanto en formato Excel como PDF. El formulario deberá venir firmado por el 
+representante legal de la empresa. 
+• Si el licitador hubiera presentado la declaración responsable de cumplimiento del ENS, deberá 
+acreditar el cumplimiento de las medidas de seguridad del Anexo II del ENS en los términos que 
+Ineco indique en la comunicación de adjudicación. 
+La falta de veracidad de la declaración responsable anterior para la prestación de los servicios 
+que constituyen el objeto del contrato será motivo de nulidad de la adjudicación. 
+Se entenderá, en todo caso, que la documentación acreditativa que presente el licitador no 
+garantiza el cumplimiento de las establecidas en el Anexo II del ENS cuando: 
+o No explique de forma detallada las medidas de seguridad citadas, 
+o Sea incompleta o se fundamente en hipótesis, afirmaciones generalistas o, 
+o Supongan prácticas inadecuadas desde el punto de vista de la seguridad. 
+ 
+
+--- página 7 ---
+ 
+ 
+ 
+Cuadro de Características Página 7  30 
+ 
+ 
+Fase de ejecución: 
+El PoC designado actuará como interlocutor principal con INECO en los siguientes ámbitos: 
+• Notificación y gestión de incidentes de seguridad que afecten al servicio o a los datos tratados. 
+• Coordinación de las medidas de seguridad exigidas por el ENS durante la vigencia del contrato. 
+• Recepción y tramitación interna de auditorías, requerimientos y comunicaciones en materia 
+de seguridad. 
+• Colaboración en los planes de continuidad y recuperación ante desastres. 
+• Punto de contacto durante ejercicios de respuesta a incidentes o pruebas de resiliencia. 
+El contratista se compromete a: 
+• Mantener actualizada esta información del PoC ante cualquier cambio, notificándolo en un 
+plazo máximo de CINCO (5) DÍAS HÁBILES. 
+• Garantizar la disponibilidad y accesibilidad del PoC durante la vigencia del contrato. 
+• Asegurar que el PoC designado dispone de la autoridad y conocimiento necesarios para 
+gestionar incidentes de seguridad. 
+El cumplimiento de todos los requisitos necesarios para asegurar la conformidad con el ENS se deberá 
+mantener durante toda la vigencia del contrato y tendrá consideración de condición especial de 
+ejecución. Dichas medidas de seguridad deberán ser cumplidas tanto por el contratista como por 
+todos los subcontratistas de éste en los términos establecidos en el Anexo II del ENS. 
+Asimismo, durante la ejecución del contrato Ineco podrá realizar auditorías periódicas en las que se 
+verifique el cumplimiento de las medidas de seguridad establecidas en el Anexo II del ENS. 
+En el caso de estar en posesión de la certificación de conformidad con el ENS, el licitador deberá 
+mantener la certificación para la categoría requerida durante toda la vigencia del contrato, así como 
+informar a Ineco de su actualización. Si durante la ejecución del contrato, el licitador perdiera la 
+certificación de conformidad con el ENS deberá informar inmediatamente a Ineco de tal circunstancia, 
+quién considerará el impacto en el contrato, pudiendo Ineco optar por resolver el contrato si no se 
+pudiera revertir la situación o garantizar el cumplimiento de las medidas del Anexo II del ENS para la 
+categoría requerida. 
+
+--- página 8 ---
+ 
+ 
+ 
+Cuadro de Características Página 8  30 
+ 
+Si durante la ejecución del contrato se observasen incumplimientos de las medidas de seguridad, 
+Ineco podrá proceder a imponer las penalidades establecidas al efecto, resolviendo anticipadamente 
+el contrato en su caso, así como pudiendo reclamar al contratista los daños y perjuicios ocasionados 
+por éste 
+La declaración responsable referida al cumplimiento de este apartado se debe realizar 
+cumplimentando debidamente el documento que se proporciona al efecto denominado como 
+“Anexo DR General” (Declaración responsable por parte del licitador en el marco de la presentación 
+de oferta al expediente de contratación de Ineco). El licitador deberá remitirlo firmado e incluirlo en 
+su apartado correspondiente dentro del Sobre “Documentación administrativa y solvencia”. 
+4. PLAZO Y LUGAR DE EJECUCIÓN DEL CONTRATO 
+4.1. PLAZO DE DURACIÓN 
+La duración del contrato será de DOCE (12) MESES Y DOS (2) DÍAS. El día de inicio y fin de dicho plazo se 
+establecerá en el contrato. La finalización del presupuesto supondrá también la finalización del 
+contrato. 
+El plazo máximo de ejecución del contrato finalizará el 04/05/2027, fecha de finalización del encargo, sin 
+que en ningún caso pueda extenderse más allá de dicha fecha. 
+Prórrogas: 
+☐ No se prevé. 
+☒ Sí se prevé, por un plazo adicional máximo de VEINTICUATRO (24) MESES. Ineco podrá 
+realizar una o varias prórrogas dentro del plazo máximo adicional de prórrogas previsto sin 
+necesidad de agotar el mismo. 
+4.2. LUGAR DE EJECUCIÓN 
+El lugar de ejecución de los servicios será en la sede del adjudicatario. En caso de que las necesidades 
+del servicio así lo requieran, se podrá requerir la presencia del adjudicatario en las dependencias de 
+Ineco o donde éste designe en la Comunidad de Madrid. Las reuniones presenciales que sean 
+necesarias se realizarán en las dependencias de Ineco o donde éste designe. 
+ 
+
+--- página 9 ---
+ 
+ 
+ 
+Cuadro de Características Página 9  30 
+ 
+5. PRESUPUESTO MÁXIMO DE LICITACIÓN 
+5.1. PRESUPUESTO MÁXIMO DE LICITACIÓN 
+A efectos de determinación del presupuesto máximo de licitación, éste se ha calculado a tanto alzado. 
+Ineco en ningún caso se compromete a agotar la totalidad de unidades ni a agotar la totalidad del 
+importe de adjudicación. 
+Presupuesto máximo de licitación Importe 
+Importe de los trabajos, presupuesto máximo de licitación (IVA no incluido) 18.128,80 € 
+IVA (21 %) 3.807,05 € 
+Presupuesto base de licitación (IVA incluido) 21.935,85 € 
+5.2. DESGLOSE DEL PRESUPUESTO 
+5.2.1. COSTES DIRECTOS E INDIRECTOS 
+☐ No procede. 
+☒ Sí procede.  
+El desglose de costes del presente expediente se ha realizado según las siguientes premisas: 
+• 79,05 % de costes directos, los cuales se componen del coste de: 
+o Medios humanos distribuidos entre: 
+ Costes de personal según el Convenio correspondientes a los costes de personal 
+estimados teóricos derivados de los trabajos requeridos según la información de 
+las tablas salariales del Convenio colectivo seleccionado por Ineco, incluyéndose 
+los costes estimados del 33% de Seguridad social a cargo del empresario. 
+ Actualización de los costes de personal a precios de mercado para los perfiles 
+requeridos, correspondientes a la estimación de actualización de costes de 
+personal, tomando como referencia de mercado otras licitaciones y 
+adjudicaciones de similar naturaleza a la presente. 
+o Medios materiales correspondientes a los costes materiales directos asociados a la 
+ejecución del contrato. 
+
+--- página 10 ---
+ 
+ 
+ 
+Cuadro de Características Página 10  30 
+ 
+• 11,86 % de costes indirectos/gastos generales, correspondiente con los costes estimados de 
+gastos generales de estructura. 
+• 9,09 % beneficio industrial estimado. 
+  
+5.2.2. COSTES DE LOS SALARIOS 
+☐ No procede el desglose, puesto que el coste de los salarios no forma parte del precio total del 
+contrato. Se aplicará esta regla cuando el importe de los costes salariales sea inferior al 50 % del 
+presupuesto máximo de licitación o cuando no se aplique el mismo convenio colectivo sectorial a más 
+del 50 % del personal necesario para ejecutar el contrato. 
+☒ Procede este desglose: 
+ 
+a) Por género: 
+☒ No consta que exista diferencia por razón de género, según el convenio colectivo aplicable. 
+☐ Existe diferencia de costes salariales por razón de género, conforme al siguiente detalle. 
+b) Por categoría profesional. El Convenio colectivo seleccionado por Ineco como referencia es la 
+Resolución de 3 de abril de 2025, de la Dirección General de Trabajo, por la que se registra y publica 
+el XIX Convenio colectivo estatal de empresas de consultoría, tecnologías de la información y 
+estudios de mercado y de la opinión pública. 
+79,05%                               14.331,07 € 
+11,86% 2.149,66 €                           
+9,09%                                1.648,07 € 
+18.128,80 €                         
+21% 3.807,05 €                          
+21.935,85 €                        
+Representatividad de cada partida de coste 
+respecto del presupuesto máximo de licitación
+Prespuesto base de licitación 
+(IVA incluido)
+Costes indirectos  
+IVA
+Costes directos 
+Beneficio industrial  
+Presupuesto máximo de licitación 
+(IVA no incluido)
+Medios humanos
+Número de 
+recursos para el 
+perfil
+Categoría o nivel 
+escogido según 
+Convenio
+Salario anual conforme 
+al Convenio colectivo
+(todas las pagas)
+Otros conceptos
+Seguridad Social a cargo 
+del empresario
+ (estimación 33%)
+Coste anual por 
+recurso
+Horas de dedicación 
+por recurso al 
+expediente
+Horas según 
+Convenio 
+colectivo del 
+expediente
+Porcentaje de 
+dedicación por recurso 
+al expediente
+Coste salarial de los recursos para el 
+perfil conforme al Convenio 
+colectivo según dedicación 
+estimada al expediente
+Coodinador 1 Área 4. Grupo A1 28.486,27 € 2.534,97 € 10.237,01 €                          41.258,25 €                    15 horas 5% 354,13 €
+Consultor Senior en Service Manager y CMDB 1 Área 4. Grupo B2 26.954,84 € 2.994,99 € 9.883,44 €                          39.833,27 €                   155 horas 50% 3.419,02 €                                               
+TOTAL 2 55.441,11 €                            5.529,96 €                 20.120,45 €                               81.091,52 €                         170 horas 3.773,16 €                                                              
+309 horas
+Costes directos
+Importe 
+(IVA no incluido)
+Medios materiales 1.000,00 €                      
+TOTAL 14.331,07 €                          
+Costes salariales de los medios humanos 
+conforme al Convenio colectivo aplicado
+3.773,16 €                       
+Actualización a precios de mercado del 
+servicio en referencia a servicios similares
+9.557,91 €                       
+
+--- página 11 ---
+ 
+ 
+ 
+Cuadro de Características Página 11  30 
+ 
+Los costes salariales se desglosan de acuerdo con el C onvenio colectivo seleccionado por Ineco 
+como referencia conforme a las tablas de remuneración mínima bruta anual prevista en dicho 
+Convenio. 
+El Convenio colectivo indicado ha sido seleccionado por Ineco como referencia únicamente para 
+el cálculo de los costes salariales que forman parte del presupuesto base de licitación, sin que sea 
+vinculante para el licitador su utilización ni deba ser éste el Convenio colectivo por el que se rija el 
+licitador para poder presentarse a la licitación. El desglose de costes del presupuesto base de 
+licitación debe servir al licitador para conocer como Ineco ha calculado el presupuesto de la 
+licitación, cuáles son los costes principales estimados que intervienen en la mismo y como 
+herramienta de análisis ante la presentación de ofertas anormalmente bajas. 
+5.2.3. OTROS COSTES DIRECTOS E INDIRECTOS 
+☒ No procede. Todos los costes vienen reflejados en el apartado 5.2.1. del presente Cuadro de 
+Características. 
+Dentro del contrato se encuentran incluidos todos los gastos accesorios o complementarios necesarios 
+para la correcta realización del objeto contrato tales como transporte, gastos de desplazamiento, 
+dietas, seguros, tributos, gastos de aduana y cualquier otro coste que se estime necesario para la 
+correcta ejecución del objeto del presente expediente, los cuales serán a cargo de la empresa 
+adjudicataria. 
+☐ Sí procede. 
+5.2.4. IVA /CÁNON 
+☒ IVA. Porcentaje: 21 %. 
+☐ CANON.  
+ 
+
+--- página 12 ---
+ 
+ 
+ 
+Cuadro de Características Página 12  30 
+ 
+7. VALOR ESTIMADO  
+7.1. IMPORTE DEL VALOR ESTIMADO DEL CONTRATO 
+ 
+Valor estimado Importe 
+Importe de los trabajos (presupuesto máximo de licitación), IVA no incluido 18.128,80 € 
+Importe máximo por modificaciones previstas, IVA no incluido 0,00 € 
+Importe máximo de las eventuales prórrogas, IVA no incluido 210.528,00 € 
+Total del valor estimado, (IVA no incluido) 228.656,80 € 
+7.2. MÉTODO DE CÁLCULO DEL VALOR ESTIMADO  
+Para calcular el valor estimado, se ha tenido en cuenta lo establecido en el apartado 7.1.4 de las 
+Instrucciones que regulan el procedimiento de contratación de Ineco. 
+8. DIVISIÓN EN LOTES  
+☒  No es posible. Justificación: 
+☒ La naturaleza o el objeto del contrato no lo permiten. 
+☐ Otra causa. 
+☐ Sí es posible. 
+☐ Sí, es posible, pero no se divide. 
+9. DOCUMENTOS QUE REVISTEN CARÁCTER CONTRACTUAL 
+Revisten carácter contractual, en orden de prelación, los siguientes documentos: 
+ El presente Cuadro de Características y el Clausulado, en adelante, los Pliegos. 
+ El documento de formalización (Contrato). 
+ La oferta presentada por el licitador, en todo lo que no se oponga a lo anterior. 
+ 
+
+--- página 13 ---
+ 
+ 
+ 
+Cuadro de Características Página 13  30 
+ 
+10. CAPACIDAD Y SOLVENCIA 
+10.1. REQUISITOS DE SOLVENCIA 
+El adjudicatario podrá optar entre acreditar su solvencia económica y financiera y técnica o profesional 
+en los términos establecidos en los apartados siguientes de este Pliego, o mediante el correspondiente 
+certificado de clasificación. A tal efecto, los grupos de clasificación que se correspondan con el objeto 
+del contrato son los siguientes: 
+☐ Grupos de clasificación. 
+☒ No hay grupos de clasificación disponibles para el objeto del pliego. 
+10.1.1. SOLVENCIA ECONÓMICA Y FINANCIERA 
+Para acreditar su solvencia económica y financiera el licitador podrá acreditarla mediante los 
+siguientes medios: 
+A elección del licitador, éste podrá elegir presentar alguno o algunos de los siguientes medios: 
+☒ El volumen anual de negocios de los tres (3) últimos ejercicios de los cuales, al menos, uno deberá 
+ser por importe igual o superior a 157.896,00 €, IVA no incluido. 
+Se podrá indicar las cifras de volumen de negocios cumplimentando debidamente el documento que 
+se proporciona al efecto denominado como “Anexo DR General”. En caso de adjudicación, se deberá 
+acreditar las cifras de volumen de negocios declaradas mediante la presentación de las cuentas 
+anuales aprobadas y debidamente depositadas en el Registro Mercantil en el plazo indicado en el 
+apartado 9.2 del Cuadro de Características. 
+☐ El patrimonio neto de la empresa o bien ratio entre activos y pasivos, al cierre del último ejercicio 
+económico para el que esté vencida la obligación de aprobación de cuentas anuales. 
+ ☒ Informe de instituciones financieras donde se hayan mantenidos posiciones de activo o de pasivo 
+significativas en los tres (3) últimos ejercicios que indique, al menos, los siguientes extremos: 
+cumplimiento de compromisos de reembolso de operaciones de crédito; evaluación global de la 
+entidad.  
+De forma obligatoria deberá presentar los siguientes medios: 
+☒ Seguro de Responsabilidad Civil que cubra los posibles siniestros asociados a las actividades a 
+desarrollar, de importe igual o superior al precio estimado del contrato, cuyos requerimientos y límites 
+se detallan en el apartado 15 del Cuadro de Características. 
+
+--- página 14 ---
+ 
+ 
+ 
+Cuadro de Características Página 14  30 
+ 
+Asimismo, obsérvese si procede cumplimentar lo indicado en relación con los seguros en el Anexo DR 
+General”. En caso afirmativo, se debe cumplimentar debidamente dicho apartado recogido en el 
+documento facilitado al efecto denominado como “Anexo DR General”. 
+☐ Acreditación de que el periodo medio de pago a proveedores no supera el límite que a estos efectos 
+se establezca por Orden del Ministerio de Hacienda y Función Pública. 
+En la cláusula 11 del Clausulado se indican todos los requisitos de participación requeridos en la 
+licitación, así como los distintos medios para acreditarlos. Toda la documentación de este apartado 
+deberá incluirse dentro del Sobre “Documentación administrativa y solvencia”. 
+10.1.2. SOLVENCIA TÉCNICA O PROFESIONAL 
+☒ Relación de servicios realizados de igual o similar naturaleza que los que constituyen el objeto del 
+contrato (servicios de apoyo a la implementación y administración de nuevas funcionalidades del 
+aplicativo ITSM Service Manager de OpenText y su integración con otros módulos y sistemas) 
+realizados en el curso de los últimos tres (3) años (desde noviembre de 2023 hasta la actualidad) que 
+incluyan una descripción del proyecto, importe, fechas y beneficiarios públicos o privados de los 
+mismos. Para el cumplimiento de este requisito se proporciona una plantilla al efecto denominada 
+como “Anexo Trabajos realizados”. 
+• De entre los servicios declarados en la anterior relación, se presentarán, al menos, TRES (3) 
+certificados de buena ejecución, pudiéndose presentar un número mayor de certificados de 
+buena ejecución. De entre todos los certificados de buena ejecución presentados, al menos, 
+TRES (3) de ellos deberán ser de importe acumulado igual o superior al 70% de la anualidad 
+media del contrato, es decir, SETENTA Y TRES MIL SEISCIENTOS OCHENTA Y CUATRO EUROS CON 
+OCHENTA CÉNTIMOS (73.684,80 €), firmados por el cliente que haya recibido las prestaciones 
+objeto del contrato a favor de la empresa, donde se especificará:  
+➢ Dónde se ejecutó el servicio. 
+➢ Cuándo se empezó y acabó. 
+➢ Qué importe, sin impuestos, tuvo el contrato. 
+➢ Y si los trabajos se ejecutaron satisfactoriamente. 
+Asimismo, se considerarán válidos a efectos de certificados de buena ejecución de 
+beneficiarios privados los documentos expedidos por el personal del cliente privado que 
+
+--- página 15 ---
+ 
+ 
+ 
+Cuadro de Características Página 15  30 
+ 
+acrediten de forma fehaciente la correcta ejecución y satisfacción con los trabajos 
+realizados. 
+☐ Medidas de Gestión medioambiental que se podrán aplicar al ejecutar el contrato, como mínimo la 
+certificación frente a la norma UNE-EN ISO 14001.  
+☐ Declaración responsable del representante de la empresa indicando el personal técnico u organismo 
+técnico, estén o no integrados en la empresa, de los que esta disponga para la ejecución del contrato 
+acompañado de los documentos acreditativos correspondientes.  
+☒ Curricula Vitarum del personal propuesto por el licitador para la ejecución del contrato. El licitador 
+entregará relación de la estructura de la organización, el equipo y su responsable.  
+Para el cumplimiento de este requisito se proporciona una plantilla al efecto denominada como “Anexo 
+Curriculum vitae”. 
+El licitador deberá entregar una relación de los responsables de los trabajos, así como de los técnicos 
+encargados directamente de su ejecución.  
+A continuación, se enumeran los perfiles mínimos requeridos por cada una de las actividades y se 
+enumeran según necesidades, si bien el licitador podrá especificar un número mayor. 
+10.1.2.1. MEDIOS HUMANOS: 
+Los licitadores deberán aportar los medios humanos necesarios para la correcta ejecución del servicio. 
+El equipo del adjudicatario deberá estar formado por personal especializado y con experiencia en 
+trabajos relacionados con el objeto del contrato. 
+Se deberá acreditar la experiencia de cada una de las personas que formen parte del contrato 
+mediante la entrega de los correspondientes currícula vitarum (CV).  
+Los medios humanos mínimos adscritos a la ejecución del contrato serán aquellos cuyo CV se 
+hubieran presentado para el cumplimiento de los requisitos del presente apartado 9.1.2.1. MEDIOS 
+HUMANOS. 
+En el caso de que un licitador presente CVs para un número de recursos por perfil superior al número 
+mínimo de recursos por perfil establecido, todos ellos serán adscritos al servicio si bien únicamente 
+aquellos recursos que mejor cumplan con el perfil requerido (mejor CV), satisfaciendo el mínimo de 
+recursos requeridos, serán sobre los que se realice la valoración del criterio “Experiencia en la 
+Administración General del Estado” del Cuadro de Características. 
+
+--- página 16 ---
+ 
+ 
+ 
+Cuadro de Características Página 16  30 
+ 
+10.1.2.1.1. Dimensionamiento mínimo de los medios humanos: 
+El adjudicatario prestará los servicios con los siguientes recursos:  
+La tabla anterior define el equipo mínimo de medios humanos que se requiere para la ejecución del 
+contrato. Si bien, el adjudicatario dentro de su capacidad de autoorganización puede incorporar a 
+todos aquellos recursos que considere necesarios para los servicios. 
+10.1.2.1.2. Descripción de los perfiles: 
+A continuación, se enumeran los requisitos base que deberán tener los perfiles tipo que intervengan 
+en el servicio por cada una de las actividades y se enumeran según necesidades: 
+Perfil 
+N.º 
+recursos 
+por perfil 
+Porcentaje de 
+dedicación al 
+contrato (%) 
+Descripción del perfil 
+Jefe de Proyecto 1 5% 
+Experiencia mínima: 
+Al menos 5 años liderando servicios de gestión 
+de peticiones e incidencias.  
+ 
+Perfil 
+N.º 
+recursos 
+por perfil 
+Porcentaje de 
+dedicación al 
+contrato (%) 
+Descripción del perfil 
+Consultor Senior en 
+Service Manager y 
+CMDB 
+1 50% 
+Experiencia mínima: 
+Al menos 5 años en proyectos TI 
+desempeñando labores de consultoría 
+tecnológica, análisis, diseño, desarrollo e 
+implantación de sistemas de gestión de 
+peticiones e incidencias.  
+Durante la ejecución del contrato, en caso de no conformidad con el personal asignado al servicio, ya 
+sea por incapacidad o comportamiento incorrecto, Ineco se reserva el derecho de poder recusarlo, 
+estando obligada la entidad adjudicataria a su sustitución de forma inmediata, garantizando en todo 
+momento la continuidad del servicio.  
+Perfiles Número de recursos 
+Jefe de Proyecto 1 
+Consultor Senior en Service Manager y CMDB 1 
+Total 2 
+
+--- página 17 ---
+ 
+ 
+ 
+Cuadro de Características Página 17  30 
+ 
+El Órgano de Contratación o, la persona en que este delegue podrá realizar controles sobre la capacidad 
+técnica del empresario y, si fuese necesario, sobre los medios de los que dispone el licitador para realizar 
+los trabajos del contrato. 
+☐ Declaración indicando el equipo técnico del que dispondrá para la ejecución del contrato. 
+Para acreditar este extremo el licitador deberá presentar una relación del personal técnico que 
+intervendrá en los trabajos del contrato al que se presente, que deberá estar firmada por el 
+representante legal de la empresa y deberá ir acompañada de los documentos acreditativos 
+correspondientes.  
+☐ La plantilla media anual de la empresa durante los tres (3) últimos años no será inferior a ___.  Para 
+acreditar este extremo deberá presentarse una declaración jurada del representante legal de la 
+empresa en la que se exprese el valor de la plantilla media anual de los últimos tres (3) años. 
+☒ Declaración indicando los medios materiales del que se dispondrá para la ejecución de los trabajos, 
+a la que se adjuntará la documentación acreditativa de disponer de los mismos al tiempo de la 
+presentación de las ofertas, cuando le sea requerido por los servicios dependientes del Órgano de 
+Contratación. Para el cumplimiento de este requisito se proporciona una plantilla al efecto denominada 
+como “Anexo DR General”. 
+10.1.2.2. MEDIOS MATERIALES Y TÉCNICOS: 
+El adjudicatario deberá aportar todos los medios y equipos necesarios para la correcta ejecución de 
+los trabajos. 
+El adjudicatario pondrá a disposición de los contratos como mínimo los siguientes medios materiales: 
+• Dirección de correo electrónico con dominio identificativo de su empresa y con acceso web. 
+• Ordenador fijo o portátil y hardware asociado (monitor, teclado, ratón y auriculares), 
+cumpliendo los requisitos de seguridad establecidos para conectividad a la VPN de INECO. 
+• Software original: sistema operativo, herramientas ofimáticas compatibles con Microsoft Office 
+para trabajar adecuadamente con Microsoft Word, Excel, Powerpoint y otras herramientas de la 
+suite, herramientas de análisis y diseño para desarrollo software, clientes para conexión a bases 
+de datos remotas, clientes para conexión a servidores remotos, entornos de desarrollo y, con 
+carácter general, toda herramienta requerida para el desarrollo de software y elaboración de 
+la documentación asociada. 
+
+--- página 18 ---
+ 
+ 
+ 
+Cuadro de Características Página 18  30 
+ 
+• Conexión a Internet con ancho de banda suficiente sobre la que se puedan establecer túneles 
+IPsec con los sistemas de Ineco. 
+Se exigirá a los licitadores declaración indicando el material del que se dispondrá para la ejecución de 
+los trabajos, a la que se adjuntará la documentación acreditativa de disponer de los mismos al tiempo 
+de la presentación de las ofertas cuando le sea requerido por los servicios dependientes del Órgano de 
+Contratación.  
+☒Medidas que garanticen que se dispone de un sistema de gestión de la calidad: certificación 
+conforme a la norma UNE-EN ISO 9001 vigente o equivalente, en relación con actividades vinculadas 
+al objeto del contrato. 
+La acreditación se realizará mediante la aportación del correspondiente certificado en vigor, expedido 
+por una entidad de certificación acreditada, debiendo estar comprendido el objeto del contrato dentro 
+del alcance del certificado. 
+Se admitirán igualmente otras pruebas de medidas equivalentes de gestión de la calidad, siempre que 
+acrediten el cumplimiento de los requisitos exigidos por la citada norma y garanticen un nivel de 
+calidad equivalente. 
+☒ Medidas que garanticen que se dispone de un sistema de gestión de la seguridad de la 
+información: certificación conforme a la norma UNE-EN ISO/IEC 27001 vigente o equivalente en 
+relación con actividades vinculadas al objeto del contrato. 
+La acreditación se realizará mediante la aportación del correspondiente certificado en vigor expedido 
+por entidad de certificación acreditada, debiendo estar comprendido el objeto del contrato dentro del 
+alcance del certificado. 
+Se admitirán igualmente otras pruebas de medidas equivalentes de garantía de la seguridad de la 
+información, siempre y cuando éstas acrediten que cumplen con los estándares exigidos por la citada 
+norma y acrediten un nivel equivalente de seguridad de la información. 
+ 
+ 
+ 
+ 
+
+--- página 19 ---
+ 
+ 
+ 
+Cuadro de Características Página 19  30 
+ 
+☒ Cumplimiento del Esquema Nacional de Seguridad: Contar con la certificación en el ENS o 
+cumplimiento de medidas equivalentes. 
+Los sistemas de información utilizados en la prestación del servicio deberán cumplir con lo establecido 
+en el Real Decreto 311/2022, de 3 de mayo, que regula el Esquema Nacional de Seguridad (ENS) y sus 
+futuras actualizaciones. 
+Analizados los riesgos de la prestación del servicio, el cumplimiento del ENS se realizará: 
+• Si el licitador cuenta con la certificación de conformidad con el ENS, mediante la presentación 
+de dicho certificado en vigor de CATEGORÍA MEDIA o superior expedido por una entidad de 
+certificación acreditada por la Entidad Nacional de Acreditación (ENAC), cuyo alcance 
+comprenda el objeto de la prestación del servicio. 
+• Si el licitador no cuenta con la certificación anterior, mediante la presentación de una 
+declaración responsable dónde declare el cumplimiento de las medidas de seguridad 
+establecidas en el Anexo II del ENS, así como que durante la prestación de los servicios se 
+aplicarán dichas medidas. 
+La falta de vigencia o el alcance insuficiente de la certificación será motivo de exclusión del licitador. Sin 
+perjuicio de lo anterior, INECO podrá comprobar los términos de la certificación a través de la información 
+pública disponible. 
+En caso de presentación en UTE, en aras de verificar que la prestación se desarrolla por el contratista 
+bajo el cumplimiento de todos los requisitos necesarios para asegurar la conformidad con el ENS, todos 
+los integrantes de la UTE deberán estar en posesión bien de la certificación de conformidad con el ENS o 
+bien estar en condiciones de cumplir con dichos requisitos para la categoría requerida. 
+Dichas medidas de seguridad deberán ser también cumplidas por todos los subcontratistas del 
+contratista en los términos establecidos en el Anexo II del ENS. 
+Para la acreditación de la solvencia técnica o profesional determinada en este apartado de las 
+empresas de nueva creación será de aplicación lo dispuesto al respecto en el artículo 90 de la Ley 
+9/2017, de 8 de noviembre, de Contratos del Sector Público. 
+En la cláusula 11 del Clausulado se indican todos los requisitos de participación requeridos en la 
+licitación, así como los distintos medios para acreditarlos. Toda la documentación de este apartado 
+deberá incluirse dentro del Sobre “Documentación administrativa y solvencia”. 
+ 
+
+--- página 20 ---
+ 
+ 
+ 
+Cuadro de Características Página 20  30 
+ 
+10.2. DOCUMENTACIÓN Y CLASIFICACIÓN 
+☒ Será posible presentar el formulario del DEUC, cumplimentado según el formato que se adjunta 
+como “Anexo DEUC (zip)”. 
+☒ Será posible la clasificación en el ROLECE. 
+☒ Será posible presentar junto con la oferta la documentación administrativa, así como la exigida 
+para demostrar la solvencia técnica y económica y financiera, establecida en el presente 
+documento. 
+Asimismo, en lugar de la documentación administrativa será posible presentar en su lugar el “Anexo 
+Capacidad de obrar” facilitado por Ineco. Si bien, en cualquier caso, en caso de resultar adjudicatario 
+se deberá presentar la correspondiente documentación acreditativa. 
+En caso de acreditación mediante DEUC y/o ROLECE, la documentación administrativa, así como la 
+documentación solicitada para acreditar la solvencia, tanto técnica como económica y financiera, 
+deberá aportarse, una vez notificada la adjudicación del contrato, en un plazo máximo de: 
+• QUINCE (15) DÍAS HÁBILES, si el expediente viene derivado de encargo o de contrato de empresa 
+asociada en aplicación de lo dispuesto en el apartado 3 de las Instrucciones de INECO. 
+En caso de optar por presentar el formulario DEUC adjunto como “Anexo DEUC (zip)”, deberán desglosar 
+e indicar toda la información solicitada en el apartado 9.1 del presente documento de solvencia 
+técnica y económica en dicho documento para posteriormente aportar la documentación acreditativa 
+en caso de resultar adjudicatarios dentro del plazo máximo establecido. 
+En este caso, se deberá subir el DEUC en cada apartado / criterio de la Plataforma que se quiera 
+acreditar dentro del Sobre “Documentación administrativa y solvencia”. Si no se acredita ningún criterio 
+mediante el DEUC se ha de indicar expresamente. 
+10.3. INTEGRACIÓN DE LA SOLVENCIA 
+☒ Sí, se permite integrar solvencia. 
+Si el licitador se basa en la solvencia y medios de otras entidades para acreditar su solvencia, se 
+establece la responsabilidad solidaria de todos ellos.  
+En caso de integrar solvencia, el licitador deberá presentar la declaración responsable que se 
+proporciona como “Anexo DR General” cumplimentando el apartado de integración de solvencia, donde 
+deberá declarar: 
+
+--- página 21 ---
+ 
+ 
+ 
+Cuadro de Características Página 21  30 
+ 
+• Entidad/es con la que integra solvencia. 
+• Aspectos de solvencia que integra el licitador. 
+•  Compromiso de la/s entidad/es con las que integra solvencia de conformidad con el artículo 
+75 de la LCSP.  
+A través del licitador, la/s entidad/es con la que integra solvencia o medios deberá presentar la 
+documentación de solvencia o medios que se pretenda integrar de conformidad con lo dispuesto en 
+este pliego o bien el DEUC correctamente cumplimentado. 
+☐ No, no se permite integrar solvencia. 
+En caso de no integrar solvencia, el licitador deberá cumplimentar la declaración responsable del 
+documento que se proporciona como “Anexo DR General” indicando la no integración. 
+10.4. HABILITACIÓN EMPRESARIAL EXIGIBLE PARA REALIZAR LA PRESTACIÓN  
+☒ No se requiere habilitación empresarial. 
+☐ Se requiere habilitación empresarial: 
+11. GARANTÍAS Y PLAZOS 
+Se constituirán a disposición de Ineco con NIF: A-28220168. 
+11.1. GARANTÍA PROVISIONAL  
+☒ No se exige. 
+☐ Sí se exige. 
+11.2. GARANTÍA DEFINITIVA  
+☐ No se exige. 
+☒ Sí se exige. Importe: CINCO POR CIENTO (5 %) del importe de adjudicación, IVA no incluido. 
+La garantía definitiva deberá constituirse a favor de Ingeniería y Economía del Transporte, S.M.E, M.P., S.A. 
+(CIF: A28220168) y será depositada ante la Caja General de Depósitos de la Secretaría General del 
+Tesoro y Política Financiera o en sus sucursales encuadradas en las Delegaciones de Economía y 
+Hacienda, según lo establecido en la cláusula 17 del Clausulado. 
+
+--- página 22 ---
+ 
+ 
+ 
+Cuadro de Características Página 22  30 
+ 
+El licitador deberá presentar el resguardo acreditativo de haber depositado la garantía definitiva de 
+forma previa a la firma del contrato y dentro de los siguientes plazos contados desde el día siguiente 
+de la fecha de comunicación de la adjudicación: 
+• QUINCE (15) DÍAS NATURALES, si el expediente no viene derivado de encargo o de contrato de 
+empresa asociada en aplicación de las Instrucciones de INECO. 
+• QUINCE (15) DÍAS HÁBILES, si el expediente viene derivado de encargo o de contrato de empresa 
+asociada en aplicación de lo dispuesto en el apartado 3 de las Instrucciones de INECO. 
+El licitador deberá presentar declaración responsable de cumplir con este requisito previo a la firma del 
+contrato, de acuerdo con la plantilla a tal efecto “Anexo DR general”. 
+Plazo de garantía adicional: la garantía se extenderá por un plazo de DOS (2) MESES contados a partir 
+de la finalización del contrato. 
+12. CRITERIOS DE ADJUDICACIÓN DEL CONTRATO 
+Criterios Puntuación máxima 
+CRITERIOS DE JUICIO DE VALOR (Valoración de calidad) No procede 
+CRITERIOS CUANTIFICABLES 
+AUTOMÁTICAMENTE 
+Valoración económica 45 puntos 
+Valoración de calidad Valoración técnica 55 puntos 
+TOTAL 100 puntos 
+ 
+☒Se tiene en consideración lo establecido en el artículo 145.4 de la LCSP para la adjudicación del 
+presente contrato. 
+12.1. PREPONDERANCIA DE CRITERIOS  
+12.1.1. PROPORCIÓN ENTRE CRITERIOS QUE DEPENDEN DE UN JUICIO DE VALOR Y CRITERIOS EVALUABLES 
+MEDIANTE FÓRMULAS 
+• Ponderación de los criterios que dependen de un juicio de valor (POT) (< 50 %): 0 %. 
+• Ponderación de los criterios evaluables mediante fórmulas (POF) (> 50 %): 100 %. 
+ 
+
+--- página 23 ---
+ 
+ 
+ 
+Cuadro de Características Página 23  30 
+ 
+12.1.2. COMPROBACIÓN DE LA PROPORCIÓN ENTRE CRITERIOS RELACIONADOS CON LA CALIDAD Y 
+CRITERIOS RELACIONADOS CON EL PRECIO 
+• Criterios cualitativos (son todos aquellos criterios distintos de la proposición económica de los 
+puntos 13.2): 55 % (≥ 51% en los casos del artículo 145.4 de la LCSP). 
+• Criterios relacionados con el precio (proposición económica del punto 13.1): 45 %. 
+13. PUNTUACION DE LOS CRITERIOS CUALITATIVOS QUE DEPENDEN DE UN JUICIO DE VALOR 
+☒ No resulta de aplicación. 
+14. PUNTUACION DE LOS CRITERIOS EVALUABLES MEDIANTE FÓRMULAS 
+Puntuación máxima obtenible: CIEN (100) PUNTOS. 
+14.1. VALORACIÓN ECONÓMICA (PEMAX) 
+Criterio cuantificable 
+automáticamente 
+(valoración 
+económica) 
+Precio (PEMAX) Puntación máxima 45 puntos 
+ 
+La fórmula utilizada para la valoración económica del contrato será la establecida en la cláusula 11 del 
+Clausulado con la puntuación asignada en la columna puntuación máxima.  
+Si una oferta económica, resulta incursa en presunción de anormalidad por su bajo importe será de 
+aplicación lo establecido en la cláusula 11 del Clausulado, a fin de que Ineco puede determinar si la 
+oferta debe ser rechazada o si, por el contrario, la oferta no resulta anormalmente baja y, por ello, debe 
+ser tomada en consideración para adjudicar el contrato.  
+Medio de acreditación: para la presentación de la oferta económica se facilita al efecto el “Anexo Oferta 
+económica”. 
+14.2. VALORACIÓN DE CALIDAD 
+14.2.1. VALORACIÓN TÉCNICA 
+Criterio cuantificable 
+automáticamente 
+(criterios de calidad) 
+Certificado ITIL® Foundation in IT Service 
+Management 
+Puntación 
+máxima 15 puntos 
+ 
+Se valorará con 15 puntos que el consultor senior en Service Manager y CMD disponga de certificado 
+ITIL® Foundation in IT Service Management (mínimo versión 3). 
+Medio de acreditación: Se deberá aportar certificado en vigor. 
+ 
+
+--- página 24 ---
+ 
+ 
+ 
+Cuadro de Características Página 24  30 
+ 
+Criterio cuantificable 
+automáticamente 
+(criterios de calidad) 
+Experiencia en la Administración 
+General del Estado 
+Puntación 
+máxima 10 puntos 
+ 
+Se valorará con 10 puntos que el consultor senior en Service Manager y CMD disponga de experiencia 
+superior a 3 años trabajando con la Administración General del Estado. 
+Medio de acreditación: Se deberá aportar Anexo CV para la acreditación del criterio. 
+ 
+Criterio cuantificable 
+automáticamente 
+(criterios de calidad) 
+Experiencia adicional en puesto similar Puntación máxima 20 puntos 
+Definición del criterio y términos de asignación de la puntuación 
+Medio de acreditación: documentación a presentar para la asignación de puntos 
+Se valorará el incremento de hasta 15 años de experiencia en puesto similar del consultor senior en 
+Service Manager y CMDB. Se otorgarán 20 puntos al mayor número de años de experiencia adicionales 
+propuestos. Para el resto de las ofertas la puntuación se calculará mediante la siguiente fórmula. 
+ 
+P= Puntuación 
+Mo= mejora oferta 
+O= Valor cuantitativo de la oferta que se valora 
+Pm= puntuación máxima a otorgar 
+Medio de acreditación: Se deberá aportar Anexo CV para la acreditación del criterio. 
+ 
+14.2.2. CRITERIOS SOCIALES Y MEDIOAMBIENTALES 
+Criterio cuantificable 
+automáticamente 
+(criterios de calidad) 
+formación adicional del equipo adscrito 
+a la ejecución del servicio 
+Puntación 
+máxima 5 puntos 
+ 
+Se valorará el compromiso de impartir al Consultor Senior en Service Manager y CMDB formación 
+adicional relacionada con el objeto del contrato (Service Manager, ITIL, integración de sistemas u otras 
+materias vinculadas al servicio): 
+• 40 horas o más: 5 puntos 
+• Entre 20 y 39 horas por persona y año: 2 puntos 
+• Menos de 20 horas: 0 puntos 
+Medio de Acreditación: declaración responsable del compromiso de formación adicional. Durante la 
+ejecución del contrato, se requerirá al adjudicatario la presentación de los certificados de asistencia o 
+aprovechamiento. 
+ 
+P = (mo / O) * pm 
+
+--- página 25 ---
+ 
+ 
+ 
+Cuadro de Características Página 25  30 
+ 
+Criterio cuantificable 
+automáticamente 
+(criterios de calidad) 
+Huella de carbono registrada Puntación máxima 5 puntos 
+ 
+Se valorará que el licitador tenga inscrita su huella de carbono en el Registro de huella de carbono, 
+compensación y proyectos de absorción de dióxido de carbono del Ministerio para la Transición 
+Ecológica y el Reto Demográfico: 
+• Sello “Calculo y Reduzco” o superior: 5 puntos 
+• Sello “Calculo”: 2 puntos 
+• Sin inscripción: 0 puntos 
+Medio de acreditación: certificado de inscripción en el registro, en vigor. 
+ 
+Toda la documentación especificada en este punto 13.2 de “Valoración de calidad” deberá incluirse en 
+el Sobre “Documentación técnica y relativa a los criterios evaluables mediante fórmulas”. 
+Toda la documentación especificada en este punto 13.1 de “Valoración económica” deberá incluirse en 
+el Sobre “Oferta económica”. 
+El incumplimiento de los compromisos llevará aparejada las penalizaciones establecidas en el 
+apartado 17, reservándose Ineco además el derecho de resolver el contrato. 
+15. REVISIÓN DE PRECIOS 
+☒ No procede revisión de precios.  
+☐ Sí procede revisión de precios, en las contrataciones relacionadas con proyectos internacionales. Se 
+atenderá a la legislación del país en que haya de ejecutarse el contrato y a sus circunstancias 
+socioeconómicas. 
+ 
+
+--- página 26 ---
+ 
+ 
+ 
+Cuadro de Características Página 26  30 
+ 
+16. SEGUROS 
+16.1. SEGURO DE RESPONSABILIDAD CIVIL GENERAL / EXPLOTACIÓN  
+Se exige: 
+☒ Sí 
+☐ No 
+En caso afirmativo: 
+- Suma asegurada: ☒ 300.000 € por siniestro y anualidad de seguro.  
+- Descripción del seguro: la licitadora deberá tener suscrita y en vigor, durante todo el periodo 
+de duración contractual, una póliza de Responsabilidad Civil General / Explotación en 
+cobertura de los daños personales y materiales causados involuntariamente a terceros con 
+motivo de la explotación en el desarrollo de su actividad. 
+Una vez finalizado el contrato, la póliza deberá cubrir los períodos de responsabilidad posteriores a la 
+ejecución de los trabajos, según los períodos de prescripción de responsabilidad señalados por las 
+leyes que fueren de aplicación. 
+Respecto a los seguros requeridos en los epígrafes anteriores, en caso de que la licitadora presente 
+límites indemnizatorios, alcances o coberturas inferiores a los exigidos en este pliego, para dar prueba 
+de cumplimiento, es necesario presentar compromiso de contratación por parte de la empresa 
+licitadora y/o certificado de la compañía de seguros o corredor de seguros en el que se indique que se 
+emitiría en los términos requeridos en caso de resultar adjudicatarios y siempre con carácter previo al 
+inicio de los trabajos adjudicados. 
+El cumplimiento de los seguros requeridos anteriormente no limitará las responsabilidades de la 
+licitadora, directivos, empleados, agentes y subcontratistas, debiendo responder totalmente de los 
+daños y perjuicios causados a Ineco o a terceros. 
+Ineco podrá requerir, después de la adjudicación y antes del inicio de los servicios, un certificado de 
+seguro para comprobar su validez.  
+17. CONFIDENCIALIDAD 
+Se exige: 
+☒ Sí. Clausula 19 Clausulado. 
+ 
+
+--- página 27 ---
+ 
+ 
+ 
+Cuadro de Características Página 27  30 
+ 
+18. PENALIDADES  
+Según lo establecido en la Cláusula 24 del Clausulado: 
+18.1. POR INCUMPLIMIENTO DE LOS TRABAJOS OBJETO DEL CONTRATO 
+☒ Sí. En caso afirmativo: 5 %. 
+☐ No. 
+Se aplicará una penalidad correspondiente al CINCO (5 %) del importe de adjudicación, IVA no incluido, 
+por el incumplimiento de cualquiera de las tareas descritas en el Cuadro de Características. 
+Las penalidades por incumplimiento de los trabajos, en caso de alcanzar el DIEZ POR CIENTO (10%) del 
+importe de adjudicación, IVA no incluido, habilitarán a Ineco para proceder a la resolución anticipada 
+del contrato. 
+18.2. POR EJECUCIÓN DEFECTUOSA 
+☒ Sí. En caso afirmativo: 5 %. 
+☐ No. 
+Se aplicará una penalidad del CINCO POR CIENTO (5%) del importe de adjudicación, IVA no incluido, por 
+la ejecución defectuosa de los trabajos, de conformidad con lo previsto en la Cláusula 24.3 del 
+Clausulado. 
+Las penalidades por ejecución defectuosa, en caso de alcanzar DIEZ POR CIENTO (10%) del importe de 
+adjudicación, IVA no incluido, habilitarán a Ineco para proceder a la resolución anticipada del contrato. 
+18.3. POR INCUMPLIR LOS CRITERIOS DE ADJUDICACIÓN 
+☒ Sí. En caso afirmativo: 1 %. 
+☒Cualquiera de los criterios de adjudicación. 
+☐El criterio o criterios que se especifican a continuación:  
+☐ No. 
+Se aplicará una penalidad del UNO POR CIENTO (1 %) del importe de adjudicación, IVA no incluido, por 
+incumplimiento de los criterios de adjudicación. 
+
+--- página 28 ---
+ 
+ 
+ 
+Cuadro de Características Página 28  30 
+ 
+Las penalidades por incumplimiento de los criterios de adjudicación, en caso de alcanzar DIEZ POR 
+CIENTO (10%) del importe de adjudicación, IVA no incluido, habilitarán a Ineco para proceder a la 
+resolución anticipada del contrato. 
+18.4. MORA EN LA ENTREGA DE LOS TRABAJOS 
+☒ Sí. En caso afirmativo: 5 %. 
+☒ Por incumplimiento de plazo. 
+☐ No. 
+Se aplicará una penalidad del CINCO POR CIENTO (5 %) del importe de adjudicación, IVA no incluido, 
+cuando se produzca, por causas imputables a la empresa adjudicataria, un retraso en la entrega de los 
+trabajos en base a las fechas consensuadas inicialmente. 
+Las penalidades por retraso en la entrega, en caso de alcanzar DIEZ POR CIENTO (10%) del importe de 
+adjudicación, IVA no incluido, habilitarán a Ineco para proceder a la resolución anticipada del contrato. 
+18.5. POR INCUMPLIR LA NORMATIVA EN MATERIA DE PROTECCIÓN DE DATOS DE CARÁCTER PERSONAL 
+☒ Sí. En caso afirmativo: 10 %. 
+☐ No. 
+Se aplicará una penalidad del DIEZ POR CIENTO (10 %) del importe de adjudicación, IVA no incluido, por 
+incumplir la normativa en materia de protección de datos de carácter personal. 
+Sin perjuicio de lo anterior, se atenderá a lo previsto en la Cláusula 24.5 del Clausulado. 
+18.6. OTRAS PENALIDADES 
+18.6.1. POR INCUMPLIR LAS CONDICIONES PARA LA SUBCONTRATACIÓN 
+☒ Sí. En caso afirmativo: 3 %. 
+☐ No. 
+Se aplicará una penalidad del TRES POR CIENTO (3 %) del importe de adjudicación, IVA no incluido, por 
+incumplir las condiciones para la subcontratación. 
+Las penalidades por incumplimiento de las condiciones para la subcontratación, en caso de alcanzar 
+DIEZ POR CIENTO (10%) del importe de adjudicación, IVA no incluido, habilitarán a Ineco para proceder a 
+la resolución anticipada del contrato. 
+
+--- página 29 ---
+ 
+ 
+ 
+Cuadro de Características Página 29  30 
+ 
+18.6.2. POR INCUMPLIR LAS OBLIGACIONES DE INFORMACIÓN SOBRE LAS CONDICIONES DE SUBROGACIÓN 
+EN CONTRATOS DE TRABAJO 
+☐ Sí.  
+☒ No. 
+19.  MODIFICACIÓN DEL CONTRATO 
+20. SUBCONTRATACIÓN  
+☒ Sí, podrán subcontratarse todos aquellos trabajos en los que no se haya establecido expresamente 
+la prohibición de subcontratar.  
+Si bien, se prohíbe la subcontratación de los siguientes trabajos los cuales deberán ser ejecutados 
+directamente por el adjudicatario: 
+• Tareas de coordinación y seguimiento del servicio. 
+En caso de subcontratación, el licitador deberá presentar declaración responsable del documento que 
+se proporciona como “Anexo DR General” cumplimentando el apartado de subcontratación, 
+indicándose el nombre del/los subcontratistas, el importe y los trabajos que va a subcontratar.  
+Adicionalmente, el licitador deberá acreditar responsablemente la capacidad y aptitud del/los 
+subcontratistas a los que se pretende encomendar los trabajos indicando a Ineco: 
+• Identidad, datos de contacto y representación legal del subcontratista. 
+• Acreditación de que el subcontratista no está incurso en prohibiciones de contratar de acuerdo 
+con el artículo 71 LCSP. 
+• Solvencia técnica o profesional de los trabajos que se le pretende asignar, los cuales deberán 
+cumplir con lo dispuesto en este pliego. Se deberá indicar una relación, con al menos tres 
+trabajos similares a los que pretende subcontratar, así como el detalle de los medios humanos, 
+técnicos o materiales que aporta la empresa subcontratista.  
+Se prevén: 
+☐ Sí. 
+☒ No. 
+
+--- página 30 ---
+ 
+ 
+ 
+Cuadro de Características Página 30  30 
+ 
+En caso de no optar por la subcontratación, el licitador deberá cumplimentar la declaración 
+responsable del documento que se proporciona como “Anexo DR General” indicando la no 
+subcontratación. 
+☐ No. 
+21. OBLIGACIONES LABORALES SOBRE SUBROGACIÓN EN CONTRATOS DE TRABAJO 
+☒ No procede, al no estar impuesta en una norma legal, un convenio colectivo o un acuerdo de 
+negociación colectiva de eficacia general. 
+☐ Sí procede. 
+22. EJECUCIÓN DE LOS TRABAJOS EN LAS DEPENDENCIAS DE INECO 
+☐ No procede. 
+☒ Sí procede. 
+En caso de que las necesidades del servicio así lo requieran, se podrá requerir la presencia del 
+adjudicatario en las dependencias de Ineco o donde éste designe en la Comunidad de Madrid.  
+Las reuniones presenciales que sean necesarias se realizarán en las dependencias de Ineco o donde 
+éste designe. 
+ 
