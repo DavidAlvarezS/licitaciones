@@ -3,7 +3,7 @@
 - Órgano: Dirección del Centro Asociado de la UNED en Pontevedra - C
 - Expediente: 2026-SER-004
 - Importe sin IVA: 28886.16 €
-- Fin de plazo: 2026-11-28 23:59:00
+- Fin de plazo: 2026-11-30 23:59:00
 - CPV: 32250000,32420000,32552100,64200000,64210000,64212000,64215000,72400000
 - Desarrollo (clasificación automática): no
 - Ficha en la plataforma: https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=R5ha5j85Jj56nTs9LZ9RhQ%3D%3D

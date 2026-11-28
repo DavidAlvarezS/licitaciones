@@ -1,0 +1,210 @@
+
+
+--- página 1 ---
+ 
+ 
+DOCUMENTO EXTERNO (PÚBLICO) 
+ 
+ 
+Centro Nacional de Investigaciones Cardiovasculares Carlos III (F.S.P.)                                  1 de 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS DEL SERVICIO DE SOPORTE Y 
+MANTENIMIENTO DEL SISTEMA DE ALMACENAMIENTO SAN 
+ 
+ 
+ 
+Expediente: 2026/ES/0044 
+ 
+
+--- página 2 ---
+ 
+ 
+DOCUMENTO EXTERNO (PÚBLICO) 
+ 
+ 
+Centro Nacional de Investigaciones Cardiovasculares Carlos III (F.S.P.)                                  2 de 7 
+ 
+ 
+ÍNDICE 
+ 
+1 OBJETO DEL CONTRATO ........................................................................... 3 
+2 CONSIDERACIONES GENERALES ............................................................... 3 
+3 OBJETO DEL SERVICIO ............................................................................ 3 
+4 EJECUCIÓN DEL SERVICIO CONTRATADO ................................................... 5 
+5 SEGURO DE RESPONSABILIDAD CIVIL ....................................................... 6 
+ 
+ 
+ 
+ 
+
+--- página 3 ---
+ 
+ 
+DOCUMENTO EXTERNO (PÚBLICO) 
+ 
+ 
+Centro Nacional de Investigaciones Cardiovasculares Carlos III (F.S.P.)                                  3 de 7 
+ 
+1 OBJETO DEL CONTRATO 
+El presente Pliego de Prescripciones Técnicas tiene por objeto definir las condiciones 
+técnicas mínimas que han de regir para la contratación de los servicios de soporte y 
+mantenimiento del sistema de almacenamiento SAN del CNIC, que actualmente está 
+compuesto por una cabina del fabricante NetApp que se especifica en los apartados 
+siguientes. 
+2 CONSIDERACIONES GENERALES 
+Es imprescindible para el CNIC disponer de un contrato de mantenimiento y soporte 
+del sistema de almacenamiento SAN del Centro, que asegure la resolución de 
+cualquier incidencia para mantener la disponibilidad de los diferentes servicios 
+ofrecidos. 
+3 OBJETO DEL SERVICIO 
+El adjudicatario debe proporcionar el servicio de mantenimiento, actualización y 
+asistencia 24x7 ON SITE al equipamiento físico y lógico del sistema de 
+almacenamiento SAN del CNIC que tiene las siguientes características y 
+prescripciones: 
+Marca: NetApp 
+Modelo: AFF-A300A 
+Serial Num:211923000037,211923000038 
+- 2xAFF A300,HA,Controller,-C 
+- 912xOS SW,Per-0.1TB, FlashBundle3,Ultra-Perf 
+- 2xSW,Trusted Platform Module Enabled,A300A,-C 
+- 912xSW,Per-0.1TB,Flash,PREM3 SW,Ultra-Perf,0P 
+- 912xSW,Per-0.1TB,Flash,PREM PROTOCOL3,U-Per 
+- 2xSW,Data at Rest Encryption Enabled,A300A,-C 
+- 1xSSD Shelf,12G,12x7.6TB,-C 
+
+--- página 4 ---
+ 
+ 
+DOCUMENTO EXTERNO (PÚBLICO) 
+ 
+ 
+Centro Nacional de Investigaciones Cardiovasculares Carlos III (F.S.P.)                                  4 de 7 
+ 
+El licitador debe mantener tanto el hardware como las licencias de software asociadas 
+al servicio prestado durante la ejecución del contrato. 
+En el apartado del software, el licitador realizará todas las gestiones necesarias con 
+el fabricante para poder tener todas las licencias dentro de soporte, así como la 
+gestión de los cambios que pueda sufrir la plataforma. También está incluido en el 
+alcance económico del contrato, informar y entregar las nuevas mejoras y 
+actualizaciones de productos en mantenimiento que tengan cabida durante la 
+ejecución del contrato. 
+Y en la parte de hardware, el licitador gestionará cualquier incidencia relacionada con 
+el hardware del sistema de almacenamiento de una manera transparente, y al mismo 
+tiempo se encargará de organizar y preparar las intervenciones necesarias en la 
+plataforma. 
+Se exigirá además que el adjudicatario cuente con las certificaciones necesarias para 
+llevar a cabo toda la operativa destinada a la resolución de incidencias relacionadas 
+con el fabricante NetApp, proporcionar soporte directo en castellano, hacer análisis y 
+valoración de la incidencia y realizar la asistencia para el cambio de piezas, en caso 
+de que se determine necesario por parte del CNIC. Así se requiere que el licitador 
+cumpla necesariamente con los siguientes requisitos: 
+ Partner PRESTIGE de NetApp 
+ Lifecycle Services Certified (LSC) 
+ Sistema de Calidad en los Procesos: ISO 9001:2015, o equivalentes 
+ ENS Medio o superior 
+A fin de verificar el cumplimiento de las características técnicas indicadas 
+anteriormente, los licitadores deberán aportar junto al sobre de su oferta un 
+documento “Declaración de Cumplimiento Técnico” acompañado de los 
+certificados expedidos por entidades de acreditación homologadas o certificados 
+equivalentes expedidos por organismos establecidos en cualquier Estado miembro de 
+la Unión Europea u otras pruebas de medidas equivalentes, en donde se detalle el 
+cumplimiento de los requisitos mínimos exigidos en este apartado. Dicha 
+documentación, junto con la declaración responsable de cumplimiento técnico no será 
+objeto de valoración, pero sí de revisión y conformidad por la Unidad encargada 
+
+--- página 5 ---
+ 
+ 
+DOCUMENTO EXTERNO (PÚBLICO) 
+ 
+ 
+Centro Nacional de Investigaciones Cardiovasculares Carlos III (F.S.P.)                                  5 de 7 
+ 
+correspondiente y por el Órgano de Asistencia y el Órgano de Contratación, con 
+objeto de verificar el cumplimiento de los requisitos técnicos mínimos exigidos para 
+la correcta ejecución de los trabajos. 
+4 EJECUCIÓN DEL SERVICIO CONTRATADO 
+El servicio contratado se realizará mediante la atención telefónica con asistencia ON 
+SITE por parte de técnicos cualificados para realizar la resolución de: 
+ Problemas del producto adquirido: Incidencias, dudas de funcionalidad, 
+actualización del Sistema e información de errores conocidos. 
+ Problemas del sistema: Asesoramiento en parametrización, comprobación 
+de logs y sugerencias de administración. 
+El adjudicatario realizará, dentro del alcance del servicio contratado, las actuaciones 
+de administración regular de la instalación necesarias para asegurar la estabilidad de 
+las soluciones y su adaptación a las necesidades del CNIC. 
+Características del servicio: 
+- Formas de realizar la asistencia contratada:  
+o Evaluación de las incidencias telefónicamente. 
+o Posibilidad de dar asistencia por acceso remoto si fuese posible o 
+dependiendo del tipo de incidente para reducir el tiempo de resolución. 
+o Intervenciones técnicas en la sede del CNIC. En caso de algún problema 
+de hardware o funcionamiento defectuoso, este servicio incluye la 
+reparación o reemplazo, si fuese necesario, de los componentes afectados 
+por dicha avería o mal funcionamiento y el desplazamiento de un técnico 
+a las instalaciones del CNIC para la sustitución del componente averiado. 
+El adjudicatario deberá garantizar la confidencialidad de la información a 
+la que pudiera acceder y la destrucción segura de los componentes 
+sustituidos que contengan información confidencial, conforme a las 
+instrucciones del CNIC. 
+o Gestión de las incidencias y escalado de aquellas que lo requieran al 
+fabricante responsable del mantenimiento del software/hardware. 
+
+--- página 6 ---
+ 
+ 
+DOCUMENTO EXTERNO (PÚBLICO) 
+ 
+ 
+Centro Nacional de Investigaciones Cardiovasculares Carlos III (F.S.P.)                                  6 de 7 
+ 
+o El adjudicatario facilitará y mantendrá actualizada, cuando el CNIC lo 
+solicite, la relación de personas de contacto autorizadas para prestar el 
+servicio, garantizando que disponen de la formación y capacitación técnica 
+necesarias. El CNIC podrá requerir durante la ejecución las certificaciones 
+del fabricante que acrediten dicha capacitación. 
+- Disponibilidad del servicio: Cobertura 24x7, es decir, las 24 horas del día, 
+los 7 días de la semana, los 365 días del año. 
+- Tiempo de respuesta: Máximo de 4 horas: 
+o Telefónica: 4 horas. 
+o Onsite: Next Business Day (24 horas) 
+En este sentido, se entenderá por tiempo de respuesta, el periodo transcurrido 
+desde el momento de recepción de la llamada hasta que se inician las 
+actuaciones de resolución. 
+- Acceso y mantenimiento de actualizaciones: El adjudicatario deberá 
+garantizar el acceso a las actualizaciones del software y velar por que el 
+sistema se mantenga en versiones soportadas por el fabricante, gestionando, 
+en coordinación con el CNIC, las actualizaciones de seguridad y correcciones 
+necesarias para evitar que la cabina pase a la modalidad «Self-Service 
+Support. 
+Para la correcta prestación del servicio, el CNIC facilitará al adjudicatario, cuando 
+resulte necesario y conforme a sus procedimientos internos de seguridad, el acceso 
+a las instalaciones y sistemas afectados, la colaboración de los administradores 
+correspondientes y la información y documentación necesarias para la resolución de 
+las incidencias y la adecuada ejecución del servicio. 
+5 SEGURO DE RESPONSABILIDAD CIVIL  
+Se pone de manifiesto la necesidad de disponer el adjudicatario de una Póliza de 
+Seguros vigente desde la fecha de presentación de su oferta y que deberá mantener 
+durante el plazo de ejecución del contrato con un capital mínimo asegurado de 
+100.000,00 € que deberá presentar junto con la documentación justificativa del 
+cumplimiento de los requisitos previos en el Sobre Único de la licitación. 
+
+--- página 7 ---
+ 
+ 
+DOCUMENTO EXTERNO (PÚBLICO) 
+ 
+ 
+Centro Nacional de Investigaciones Cardiovasculares Carlos III (F.S.P.)                                  7 de 7 
+ 
+Por el CNIC, 
+Jefe del Departamento de Informática y Sistemas – Jesús Molina Carretero 
+Director Gerente – Alberto Sanz Belmar 

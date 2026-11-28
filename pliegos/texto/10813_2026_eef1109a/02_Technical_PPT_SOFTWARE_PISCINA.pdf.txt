@@ -1,0 +1,550 @@
+
+
+--- página 1 ---
+Procedimiento Abierto Simplificado Sumario 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS. 
+ 
+Expediente: 10813/2026 
+ 
+ 
+ 
+ 
+ 
+Expediente: 10813/2026. 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS. 
+Procedimiento: Abierto simplificado sumario de servicios. 
+Objeto: CONTRATO DE SERVICIO DE DESARROLLO DE SOFTWARE DE 
+INTEROPERABILIDAD CON EL SISTEMA DE CONTROL DE ACCESOS EXISTENTE EN 
+EL RECINTO DE LA PISCINA CUBIERTA MUNICIPAL. 
+ 
+ 
+ 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS. 
+ 
+ 
+ 
+ 
+PLIEGO DE CONDICIONES TÉCNICAS PARA LA CONTRATACIÓN 
+DEL SERVICIO DE DESARROLLO DE SOFTWARE DE 
+INTEROPERABILIDAD CON EL SISTEMA DE CONTROL DE 
+ACCESOS EXISTENTE EN EL RECINTO DE LA PISCINA CUBIERTA 
+MUNICIPAL. 
+ 
+ 
+ 
+ 
+1.- OBJETO Y FINALIDAD. 
+ 
+El presente Pliego técnico establece las condiciones técnicas mínimas de interoperabilidad, 
+comunicación, funcionamiento, seguridad, continuidad y mantenimiento que deberá cumplir 
+la solución de venta y gestión de entradas propuesta por la empresa adjudicataria. 
+ 
+El objeto de contratación es un servicio informático de comercialización y gestión online de 
+entradas que deberá integrarse con el sistema físico de control de accesos ya instalado en 
+el recinto. La integración permitirá que las credenciales emitidas por la plataforma sean 
+verificadas mediante los lectores y tornos existentes, y que los eventos operativos derivados 
+de su utilización se gestionen de forma coherente.  
+ 
+La contratación no tiene por objeto la adquisición, sustitución o renovación de los tornos ni 
+de sus controladores, salvo actuaciones previamente autorizadas y expresamente 
+contempladas en el contrato. 
+ 
+ 
+2.- INFRAESTRUCTURA TECNOLÓGICA EXISTENTE. 
+ 
+Las instalaciones disponen de tornos automáticos equipados con controladores electrónicos 
+QRD_Board, adquiridos e implantados con anterioridad a la presente licitación. Dichos 
+dispositivos gestionan la interacción entre los lectores de credenciales, los elementos físicos 
+de paso y los sistemas informáticos externos.  
+ 
+Cód. Validación: 6RKLDA2AKZ4QKKF5TNGSCZ4Q6 
+Verificación: https://loradelrio.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 1 de 9 
+
+--- página 2 ---
+Procedimiento Abierto Simplificado Sumario 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS. 
+ 
+Expediente: 10813/2026 
+ 
+ 
+ 
+ 
+Los controladores incorporan medios de comunicación para la interacción con los 
+componentes del torno, incluidos enlaces industriales de campo, así como una interfaz de 
+integración con los sistemas de gestión externos. Las características técnicas de esta 
+integración se recogen en la documentación de referencia del sistema.  
+ 
+Las empresas licitadoras deberán proponer soluciones compatibles con la infraestructura 
+existente, sin condicionar la prestación del servicio a la sustitución de los controladores o a 
+modificaciones no autorizadas de su firmware, configuración o instalación física.  
+ 
+La existencia de comunicaciones RS485 en los equipos de campo no supondrá la obligación 
+de disponer de interfaces RS485 en los servidores o aplicaciones del adjudicatario. La 
+integración se efectuará mediante la interfaz de comunicación habilitada y documentada 
+para tal fin. 
+ 
+ 
+3.- COMPATIBILIDAD CON EL SISTEMA Y SU PROTOCOLO DE INTEGRACIÓN. 
+ 
+La solución ofertada deberá interoperar con la API del sistema QRD_Board, conforme a la 
+versión y al alcance de la especificación técnica establecidos contractualmente. El 
+adjudicatario será responsable de implantar y mantener los servicios informáticos, 
+procedimientos de intercambio de información y mecanismos de tratamiento de respuestas 
+necesarios para dicha interoperabilidad. 
+ 
+La plataforma deberá atender las comunicaciones iniciadas por los controladores, interpretar 
+adecuadamente las solicitudes recibidas, devolver las decisiones que correspondan y 
+registrar los eventos que formen parte de la integración prevista. El intercambio deberá ser 
+coherente con las reglas de identificación, autorización, estados y recuperación descritas en 
+la documentación contractual.  
+ 
+La documentación detallada de integración deberá ponerse a disposición de todos los 
+licitadores en condiciones de igualdad y con las medidas de confidencialidad y seguridad 
+que resulten justificadas. El presente anexo describe obligaciones funcionales generales, sin 
+reproducir el detalle del protocolo.  
+ 
+Las eventuales ampliaciones o cambios de versión deberán acordarse con el órgano de 
+contratación y someterse a verificación de compatibilidad antes de su implantación. 
+ 
+ 
+4.- COMPATIBILIDAD CON EL SISTEMA Y SU PROTOCOLO DE INTEGRACIÓN. 
+ 
+La plataforma deberá gestionar la comercialización, emisión y ciclo de vida de entradas 
+electrónicas identificables mediante códigos QR u otros formatos expresamente admitidos 
+por el sistema existente. Cada credencial deberá asociarse a una operación de venta, 
+reserva, invitación o autorización válida, conforme a las reglas del servicio.  
+ 
+La integración deberá permitir, en función de las condiciones de cada producto o 
+modalidad de acceso:  
+ 
+• Comprobar la existencia, vigencia y autorización de las credenciales presentadas.  
+• Aplicar restricciones por fecha, franja horaria, modalidad de entrada, sentido de paso y 
+número de usos permitidos, cuando proceda.  
+Cód. Validación: 6RKLDA2AKZ4QKKF5TNGSCZ4Q6 
+Verificación: https://loradelrio.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 2 de 9 
+
+--- página 3 ---
+Procedimiento Abierto Simplificado Sumario 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS. 
+ 
+Expediente: 10813/2026 
+ 
+ 
+ 
+ 
+• Distinguir credenciales válidas, no autorizadas, caducadas, anuladas o previamente 
+consumidas.  
+• Autorizar o denegar las solicitudes de acceso de forma coherente con las condiciones 
+contratadas.  
+• Registrar el resultado de las validaciones y mantener su trazabilidad.  
+ 
+La plataforma distinguirá expresamente entre la autorización lógica de una entrada y la 
+confirmación de que se ha producido el paso físico de una persona. La mera lectura o 
+validación favorable de la credencial no podrá considerarse, por sí sola, un acceso 
+realizado.  
+ 
+ 
+5.- COMUNICACIÓN OPERATIVA CON LOS TORNOS. 
+  
+La plataforma adjudicataria deberá prestar los servicios de comunicación necesarios para el 
+funcionamiento ordinario de los tornos, de acuerdo con las capacidades efectivamente 
+disponibles en la versión del sistema instalada y homologada.  
+ 
+De forma general, la integración comprenderá las siguientes funciones:  
+ 
+• Identificación e incorporación del terminal al servicio de comunicación.  
+• Recepción periódica de información de disponibilidad y estado operativo del 
+controlador.  
+• Atención de solicitudes de validación de entradas y devolución de la decisión 
+correspondiente.  
+• Recepción de confirmaciones de paso, operaciones no completadas y demás eventos 
+de acceso soportados.  
+• Recepción y tratamiento de avisos de fallo, alarma o diagnóstico cuya entrega efectiva 
+haya sido verificada.  
+• Gestión de las instrucciones operativas autorizadas que, en su caso, se habiliten 
+expresamente para el servicio.  
+ 
+Las funciones de control remoto de elementos físicos, cuando existan, se considerarán 
+operaciones restringidas. Su utilización requerirá autorización expresa, controles de acceso 
+y verificación previa de seguridad. La obligación principal del adjudicatario será garantizar la 
+integración necesaria para la venta y validación de entradas, sin presumir que toda función 
+de mantenimiento de los tornos forma parte del servicio de ticketing. 
+ 
+ 
+6.- CONTROL DE UTILIZACIÓN, AFORO Y PREVENCIÓN DE DUPLICIDADES. 
+ 
+La solución deberá aplicar controles que eviten el uso indebido o repetido de credenciales 
+en contra de sus condiciones de utilización. Las validaciones concurrentes, los reintentos y 
+los posibles retrasos de comunicación deberán tratarse de manera que no provoquen 
+autorizaciones o contabilizaciones incorrectas.  
+ 
+Cuando el contrato incluya control de aforo, la plataforma deberá mantener un registro 
+coherente de entradas y salidas efectivas, distinguiendo entre operaciones autorizadas y 
+pasos realmente confirmados por los equipos. Las reglas de cómputo del aforo y los criterios 
+de conciliación se definirán con el órgano de contratación.  
+ 
+Cód. Validación: 6RKLDA2AKZ4QKKF5TNGSCZ4Q6 
+Verificación: https://loradelrio.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 3 de 9 
+
+--- página 4 ---
+Procedimiento Abierto Simplificado Sumario 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS. 
+ 
+Expediente: 10813/2026 
+ 
+ 
+ 
+ 
+Las anulaciones, devoluciones y modificaciones de entradas realizadas en la plataforma 
+deberán reflejarse en su estado de autorización con arreglo a las condiciones del servicio. 
+La propagación de esos cambios a modalidades de funcionamiento sin conexión se exigirá 
+únicamente cuando esté prevista y soportada por la integración homologada. 
+ 
+ 
+7.- SUPERVISIÓN, DIAGNÓSTICO Y GESTIÓN DE INCIDENCIAS. 
+ 
+El adjudicatario deberá recibir, procesar y registrar la información operativa que los 
+controladores comuniquen a través de la interfaz contractual, sin alterar el significado de los 
+estados de funcionamiento ni de los avisos de fallo.  
+ 
+La supervisión deberá permitir, en la medida en que dichos datos sean proporcionados por 
+los equipos y su recepción esté homologada:  
+ 
+• Identificar los terminales y su disponibilidad de comunicación.  
+• Conocer el estado general de funcionamiento y las incidencias de validación.  
+• Registrar alarmas e incidencias de los elementos físicos comunicadas por los 
+controladores.  
+• Diferenciar accesos autorizados, denegados, completados y no completados.  
+• Consultar históricos de eventos y facilitar su análisis por personal autorizado.  
+ 
+Las incidencias deberán poder asociarse, siempre que la información disponible lo permita, 
+al terminal correspondiente, al momento de detección, al tipo de evento y a su tratamiento.  
+ 
+El adjudicatario establecerá un mecanismo de comunicación y escalado hacia el 
+responsable de mantenimiento cuando la naturaleza de la incidencia corresponda al 
+hardware o al firmware del torno.  
+ 
+No se considerará acreditada una función de aviso automático hasta que su generación, 
+envío, recepción y tratamiento se hayan verificado en una prueba de integración de extremo 
+a extremo. 
+ 
+ 
+8.-  CONTINUIDAD DEL SERVICIO Y RECUPERACIÓN DE COMUNICACIONES. 
+ 
+La plataforma deberá tratar las pérdidas temporales de conectividad, los tiempos de espera 
+y la recuperación posterior sin comprometer la validez de las autorizaciones, la integridad de 
+los registros ni el funcionamiento seguro de los dispositivos físicos.  
+ 
+La propuesta técnica del licitador describirá, al menos, las medidas para:  
+ 
+• Detectar y registrar interrupciones de comunicación y respuestas no disponibles.  
+• Evitar que un error de transporte se interprete automáticamente como acceso 
+autorizado.  
+• Gestionar reintentos y eventos repetidos sin duplicar efectos físicos ni anotaciones 
+contables.  
+• Restablecer el servicio y conciliar los eventos pendientes cuando la infraestructura 
+instalada lo permita.  
+• Determinar las actuaciones de soporte y el procedimiento de escalado ante una 
+indisponibilidad prolongada.  
+Cód. Validación: 6RKLDA2AKZ4QKKF5TNGSCZ4Q6 
+Verificación: https://loradelrio.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 4 de 9 
+
+--- página 5 ---
+Procedimiento Abierto Simplificado Sumario 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS. 
+ 
+Expediente: 10813/2026 
+ 
+ 
+ 
+ 
+ 
+Cualquier funcionamiento local o sin conexión deberá limitarse a los modos habilitados en el 
+equipamiento y a las políticas expresamente autorizadas por el órgano de contratación. Este 
+anexo no presupone que todas las funciones de sincronización o almacenamiento local 
+estén disponibles en la versión instalada. 
+ 
+ 
+9.- SEGURIDAD Y PROTECCIÓN DE LA INFORMACIÓN. 
+ 
+El adjudicatario deberá aplicar las medidas técnicas y organizativas exigidas por el contrato 
+y la normativa aplicable para proteger las comunicaciones, las credenciales de acceso, los 
+registros operativos y los sistemas de gestión.  
+ 
+Se exigirá que la arquitectura contemple autenticación de los sistemas autorizados, 
+controles de acceso por funciones, protección de los intercambios cuando corresponda al 
+entorno de despliegue, trazabilidad de actuaciones administrativas y protección de la 
+información frente a accesos no autorizados, pérdida o alteración.  
+ 
+Las funcionalidades que puedan provocar maniobras físicas, cambios de funcionamiento o 
+actuaciones de administración sobre los tornos estarán sometidas a autorización expresa y 
+a medidas reforzadas de registro y supervisión. El adjudicatario no podrá ejecutar cambios 
+sobre el controlador fuera del alcance autorizado.  
+ 
+Los datos personales vinculados a la venta y utilización de entradas deberán tratarse según 
+los instrumentos y responsabilidades de protección de datos que se establezcan en el 
+contrato. 
+ 
+ 
+10.- PRUEBAS DE COMPATIBILIDAD Y ACEPTACIÓN. 
+ 
+Antes de la entrada en producción, el adjudicatario deberá acreditar mediante pruebas 
+funcionales que su plataforma es compatible con los equipos existentes y que la integración 
+cumple las condiciones del servicio contratado.  
+ 
+Como mínimo, el procedimiento de aceptación incluirá:  
+ 
+1. Emisión de una entrada electrónica y lectura satisfactoria mediante un torno 
+existente.  
+2. Autorización de una credencial válida conforme a sus condiciones de utilización.  
+3. Denegación de una credencial inexistente, no autorizada, anulada o ya utilizada, 
+según proceda.  
+4. Comprobación del tratamiento de entradas con varios usos o varias personas, 
+cuando sean aplicables.  
+5. Registro de un paso físico confirmado y de una operación autorizada sin paso 
+efectivo.  
+6. Comprobación de la recepción de estados de terminal y de incidencias homologadas.  
+7. Simulación de pérdida y restablecimiento de las comunicaciones.  
+8. Verificación de la ausencia de duplicidades ante reintentos y solicitudes repetidas.  
+9. Comprobación de coherencia entre registros de venta, validación y acceso efectivo.  
+10. Verificación de que la integración no exige sustituciones ni altera el funcionamiento 
+de los tornos.  
+Cód. Validación: 6RKLDA2AKZ4QKKF5TNGSCZ4Q6 
+Verificación: https://loradelrio.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 5 de 9 
+
+--- página 6 ---
+Procedimiento Abierto Simplificado Sumario 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS. 
+ 
+Expediente: 10813/2026 
+ 
+ 
+ 
+ 
+ 
+Las pruebas que impliquen movimientos del torno o cambios de configuración se realizarán 
+en condiciones controladas, con participación del responsable técnico designado y con las 
+protecciones físicas correspondientes.  
+ 
+Los resultados, evidencias, incidencias y correcciones se incorporarán a un acta de 
+aceptación técnica. La puesta en producción quedará condicionada a la conformidad del 
+órgano de contratación. 
+ 
+ 
+11.- DOCUMENTACIÓN, MANTENIMIENTO Y EVOLUCIÓN DE LA INTEGRACIÓN. 
+ 
+El adjudicatario deberá mantener documentación técnica suficiente para permitir la 
+operación, supervisión, diagnóstico y transición del servicio durante toda la vigencia 
+contractual. Deberá describir la arquitectura de integración, los flujos operativos a nivel 
+funcional, el tratamiento de errores, los mecanismos de recuperación y el procedimiento de 
+soporte.  
+ 
+La empresa adjudicataria deberá comunicar y someter a prueba las actualizaciones de su 
+plataforma que puedan afectar a la interoperabilidad. No podrá introducir unilateralmente 
+modificaciones que hagan incompatible el servicio con los controladores existentes o exijan 
+cambios no autorizados en los mismos.  
+ 
+En caso de sustitución del prestador, deberá facilitar la continuidad operativa, la 
+transferencia de la documentación contractual y la entrega de los registros y configuraciones 
+cuya cesión resulte procedente, evitando dependencias técnicas innecesarias. 
+ 
+ 
+12.- OBLIGACIONES DE LAS PARTES. 
+ 
+Parte  Responsabilidades principales  
+Órgano de contratación / titular  Aportar o habilitar el acceso igualitario a la 
+especificación contractual y a los medios de prueba; 
+definir las reglas de acceso, aforo y autorización; 
+designar responsables técnicos; aprobar cambios y 
+aceptar la puesta en servicio.  
+Adjudicatario de venta online  Operar la plataforma y su integración; gestionar las 
+credenciales y decisiones de validación; recibir y 
+conservar los eventos contratados; monitorizar su 
+servicio; corregir fallos propios y escalar incidencias 
+externas con evidencias.  
+Responsable de mantenimiento de 
+los tornos  
+Mantener los controladores, el firmware y los 
+elementos físicos incluidos en su contrato; 
+comprobar fallos de equipos y buses de campo; 
+realizar intervenciones autorizadas; colaborar en las 
+pruebas que afecten al funcionamiento físico.  
+ 
+ 
+ 
+Cód. Validación: 6RKLDA2AKZ4QKKF5TNGSCZ4Q6 
+Verificación: https://loradelrio.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 6 de 9 
+
+--- página 7 ---
+Procedimiento Abierto Simplificado Sumario 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS. 
+ 
+Expediente: 10813/2026 
+ 
+ 
+ 
+ 
+ 
+La responsabilidad sobre redes, conectividad y equipos de comunicaciones de terceros se 
+concretará atendiendo a su titularidad y al alcance del contrato. Ante cualquier incidencia, la 
+parte que la detecte deberá aportar información suficiente para su diagnóstico y remitirla al 
+responsable competente. 
+ 
+ 
+ 
+13.- COMPATIBILIDAD CON EL SISTEMA ACTUAL. 
+ 
+La exigencia de interoperabilidad con QRD_Board responde a la necesidad de conservar y 
+aprovechar el sistema de control de accesos previamente adquirido e instalado. No implica 
+que los licitadores deban adquirir equipos de dicha marca ni desarrollar su solución sobre 
+hardware del mismo fabricante.  
+ 
+Se admitirán las soluciones informáticas que acrediten el cumplimiento efectivo de los 
+requisitos funcionales y de integración establecidos, conforme a pruebas objetivas, criterios 
+de igualdad de trato y documentación técnica puesta a disposición de los licitadores. 
+ 
+ 
+  
+14.- DURACION DEL CONTRATO. 
+ 
+La duración del contrato será de un año natural a contar desde la formalización del mismo, 
+con la previsión de inicio del 01 de enero de 2027. 
+ 
+El tiempo de prestación del contrato será de un año con posibilidad de prórrogas anuales 
+hasta un máximo de dos prórrogas y, por tanto, una duración máxima prevista del contrato 
+de tres años.  
+ 
+En caso de incumplimiento del contrato se podrá rescindir antes de la fecha concretada. 
+ 
+ 
+ 
+15.- PRESUPUESTO DE LICITACIÓN. 
+ 
+El precio del contrato se fija en el importe anual de 4.500,00 € (IVA no incluido) y de 
+5.445,01 € (IVA incluido). 
+ 
+No se prevén modificaciones previstas del contrato. 
+ 
+Como se ha indicado, sí se prevé la posibilidad de prórroga del contrato con posibilidad de 
+prórrogas anuales hasta un máximo de dos prórrogas y, por tanto, una duración máxima 
+prevista del contrato de tres años.  
+ 
+Considerando ambas circunstancias, el valor estimado máximo del contrato es de 
+13.500,00 €. 
+ 
+ 
+ 
+ 
+Cód. Validación: 6RKLDA2AKZ4QKKF5TNGSCZ4Q6 
+Verificación: https://loradelrio.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 7 de 9 
+
+--- página 8 ---
+Procedimiento Abierto Simplificado Sumario 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS. 
+ 
+Expediente: 10813/2026 
+ 
+ 
+ 
+ 
+ 
+16.- SEGURIDAD Y CONFIDENCIALIDAD DE LA INFORMACIÓN.  
+ 
+Las empresas licitadoras manifestaran su compromiso a tratar de forma confidencial y 
+reservada la información recibida, así́ como, en el caso de resultar adjudicatarias, la 
+derivada de la ejecución del contrato, que no podrá́  ser objeto de difusión, publicación o de 
+utilización para fines distintos de los establecidos en este pliego. 
+ 
+En particular, el adjudicatario queda expresamente obligado a mantener absoluta 
+confidencialidad y reserva sobre cualquier dato que pudiera conocer con ocasión del 
+cumplimiento del contrato, especialmente los de carácter personal, que no podrá́  copiar o 
+utilizar con fin distinto al que figura en este pliego, ni tampoco ceder a otros ni siquiera a 
+efectos de conservación. 
+ 
+Para garantizar la confidencialidad de los datos de carácter personal, las firmas licitadoras 
+se comprometerán a prestar sus servicios con absoluto respeto a la Ley Orgánica de 
+Protección de Datos de Carácter Personal y a su normativa de desarrollo. 
+ 
+De conformidad con lo dispuesto en el art. 122.2 de la LCSP, los contratos que impliquen el 
+tratamiento de datos de carácter personal deberán respetar en su integridad la normativa 
+vigente en materia de protección de datos. En caso de que la contratación implique el 
+acceso a datos de carácter personal, y del tratamiento sea responsable este Ayuntamiento, 
+por parte del contratista, éste tendrá la consideración de encargado del tratamiento.  
+ 
+Finalizada la prestación del contrato, los datos de carácter personal se destruirán o 
+devolverán al Ayuntamiento, o al encargado del tratamiento que se designe. El tercero 
+encargado del tratamiento conservará debidamente bloqueados los datos en tanto que 
+puedan derivarse responsabilidades de su relación con el Ayuntamiento. 
+ 
+En caso de que un tercero trate los datos personales por cuenta del adjudicatario, el 
+encargado del tratamiento deberá cumplir con los siguientes requisitos: 
+ 
+• Que este tratamiento esté especificado y autorizado por el órgano contratante. 
+• Que el tratamiento de los datos de carácter personal se ajuste a las instrucciones del 
+responsable del tratamiento. 
+• Que el contratista encargado del tratamiento y el tercero formalicen el contrato en los 
+términos previstos en la normativa de protección de datos. 
+• Que el adjudicatario informe a este Ayuntamiento. 
+ 
+En estos casos el tercero tendrá también la consideración de encargado de tratamiento. El 
+adjudicatario adoptará las medidas necesarias para garantizar la seguridad de los datos. 
+Adicionalmente vigilará y adoptará los medios necesarios para controlar la difusión indebida 
+de los datos personales que se produzcan como consecuencia de una negligente 
+implantación de las medidas de seguridad por parte del encargado del tratamiento y tendrá 
+la obligación de notificar a este Ayuntamiento cualquier incidente de seguridad que detecte 
+para ser anotado en el registro de incidencias. 
+ 
+El contratista está obligado a guardar secreto respecto a los datos o antecedentes que, no 
+siendo públicos o notorios, estén relacionados con el objeto del contrato, de los que tenga 
+conocimiento con ocasión de este, durante la vigencia del contrato, el plazo de garantía y los 
+cinco años posteriores en los términos establecidos en la LCSP. En cuanto a los datos de 
+Cód. Validación: 6RKLDA2AKZ4QKKF5TNGSCZ4Q6 
+Verificación: https://loradelrio.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 8 de 9 
+
+--- página 9 ---
+Procedimiento Abierto Simplificado Sumario 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS. 
+ 
+Expediente: 10813/2026 
+ 
+ 
+ 
+ 
+carácter personal, el deber de guardar secreto subsistirá incluso después de finalizar la 
+relación contractual. 
+ 
+ 
+17.- RESPONSABLE DEL CONTRATO.  
+ 
+El Ayuntamiento ha designado como responsable del contrato al concejal/a delegado/a del 
+Área de Deportes, a quien corresponderá supervisar su ejecución y adoptar las decisiones y 
+dictar las instrucciones necesarias con el fin de asegurar la correcta realización de la 
+prestación pactada, dentro del ámbito de facultades que aquellos le atribuyan. 
+ 
+Del mismo modo, por parte del adjudicatario se deberá́  designar un gestor, el cual será́  el 
+punto de contacto con el Ayuntamiento con el fin de canalizar todas las gestiones 
+comerciales, de facturación y de administración del servicio. 
+ 
+ 
+ 
+Cód. Validación: 6RKLDA2AKZ4QKKF5TNGSCZ4Q6 
+Verificación: https://loradelrio.sedelectronica.es/ 
+Documento firmado electrónicamente desde la plataforma esPublico Gestiona | Página 9 de 9 

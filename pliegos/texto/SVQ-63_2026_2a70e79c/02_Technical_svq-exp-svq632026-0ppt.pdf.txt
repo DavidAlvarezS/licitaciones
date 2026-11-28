@@ -1,0 +1,2259 @@
+
+
+--- página 1 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mantenimiento de Aplicativo GTA en el Aeropuerto de 
+Sevilla 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 2 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 2 
+  
+ 
+ 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARTICULARES 
+ 
+ 
+TÍTULO: Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 
+ 
+ 
+ 
+ 
+Autor del Expediente: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+D. José Antonio Moreno Rubio 
+Técnico Analista de Sistemas Sevilla, 12 de Noviembre de 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+DESCRIPCIÓN DE LA SOLICITUD DEL EXPEDIENTE 
+Documento firmado el día 20 de noviembre de 2026
+a las 11:29 horas
+Por Jose Antonio Moreno Rubio
+Clave de verificación: 1795170576347o
+
+--- página 3 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 3 
+  
+ 
+ÍNDICE 
+1. OBJETO Y DURACIÓN DEL SERVICIO. 5 
+2. DESCRIPCIÓN DEL SISTEMA. 6 
+2.1 Base de Datos Oracle .................................................................................... 7 
+2.2 Capa de Acceso a Datos ............................................................................. 7 
+2.3 Servidor Formado por un Servidor de Datos y un Agente .......................... 7 
+2.4 Consola de Administración ........................................................................... 7 
+2.5 Cliente GTA.  Capa de Negocio y de Presentación. .................................. 7 
+3. REQUISITOS PARA EL INICIO DEL SERVICIO. 7 
+4. PROGRAMA DE PRESTACIÓN DE SERVICIOS. 9 
+4.1 Mantenimiento Preventivo. ......................................................................... 12 
+4.2 Mantenimiento Correctivo. ......................................................................... 12 
+4.3 Mantenimiento Evolutivo. ............................................................................ 14 
+4.3.1 Funcionalidades Propuestas para el Visor Web. ................................................... 15 
+4.3.2 Acceso Web Para Administración del Sistema. ..................................................... 15 
+4.3.3 Interfaz IA. ............................................................................................................. 15 
+4.3.4 Interfaz de Acceso REST a los Servicios de GTA..................................................... 16 
+5 INTERPRETACIÓN DEL PLIEGO DE PRESCRIPCIONES. 17 
+6. SEGUIMIENTO DE LA PRESTACIÓN DE LOS SERVICIOS. 17 
+7. NIVEL DE CALIDAD EN EL SERVICIO. 20 
+7.1. Calidad en Formación. ................................................................................ 20 
+7.2 Calidad en Mantenimiento. ........................................................................ 20 
+7.2.1 Criterios de Calidad Aceptable. ............................................................................. 20 
+7.2.2 Reducción de Certificación por Falta de Calidad. .................................................. 21 
+7.2.3 Procedimiento Sancionador y Recursos. ............................................................... 22 
+8. NORMATIVA DE APLICACIÓN. 23 
+9. MEDIDAS DE SEGURIDAD LABORAL. 24 
+10. SISTEMA DE ABONO. 26 
+11. PENALIZACIONES. 26 
+11.1 Clasificación de las Faltas. ...................................................................... 26 
+11.1.1 Faltas LEVES. .......................................................................................................... 26 
+11.1.2 Faltas GRAVES. ....................................................................................................... 26 
+11.1.3 Faltas MUY GRAVES: .............................................................................................. 27 
+11.2 Penalizaciones. ......................................................................................... 27 
+11.3 Procedimiento Sancionador y Recursos. ............................................... 28 
+12 CLÁUSULAS. 28 
+12.1 DIVERSIDAD Y CULTURA AEROPORTUARIA. ............................................... 28 
+13 NORMA DE ACCESO A LA RED DE DATOS Y USO DE ACTIVOS INFORMÁTICOS. 30 
+13.1 INTRODUCCIÓN. ....................................................................................... 30 
+13.2 OBJETO Y ÁMBITO DE APLICACIÓN ........................................................ 30 
+13.3 CONDICIONES DE USO DE LOS RECURSOS INFORMÁTICOS 
+EMPRESARIALES. ........................................................................................ 31 
+
+--- página 4 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 4 
+  
+ 
+13.3.1 Condiciones para el Acceso a la Red de Datos. ..................................................... 31 
+13.3.2 Condiciones Generales de Uso de Activos Informáticos. ...................................... 31 
+13.3.2.1 Información de Carácter Particular Permitido en los Activos Informáticos. ......... 32 
+13.3.2.2 Propiedad, Integridad y Uso Profesional de la Información Almacenada en los 
+Sistemas de Red Empresariales. ............................................................................ 33 
+13.3.2.3 Restricciones en Cuanto a la Naturaleza de los Datos. ......................................... 34 
+13.3.2.4 Control Empresarial de los Activos Informáticos. ................................................. 34 
+13.3.2.5 Reserva de Derecho. .............................................................................................. 34 
+13.3.2.6 Fuga de información .............................................................................................. 35 
+13.3.3  Uso de los Recursos de Red Empresariales. .......................................................... 35 
+13.3.3.1 Uso de las Carpetas en Red y Repositorios en Nube. ............................................ 35 
+13.3.3.2 Uso de los Gestores Documentales. ...................................................................... 37 
+13.3.3.3 Uso de los Servicios de Impresión y Digitalización en Red. ................................... 37 
+13.3.4 Uso de los Activos Informáticos Físicos. ................................................................... 38 
+13.4 INCUMPLIMIENTO DE LA PRESENTE NORMA ........................................... 38 
+ANEXOS 39 
+ANEXO I.  CUADRO DE PRECIOS UNITARIOS. 40 
+ANEXO II. ESTUDIO ECONÓMICO. 41 
+ANEXO III. IMPRESOS NORMALIZADOS. 41 
+ 
+ 
+ 
+ 
+
+--- página 5 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 5 
+  
+ 
+1. OBJETO Y DURACIÓN DEL SERVICIO. 
+El objeto de este Pliego es la enumeración y descripción de las prestaciones que debe llevar a cabo 
+la empresa adjudicataria dentro del presente Contrato, estableciendo las condiciones y criterios 
+técnicos que han de servir de base para la realización del “Mantenimiento de Aplicativo GTA en el 
+Aeropuerto de Sevilla” consistente en garantizar el correcto funcionamiento de los distintos 
+sistemas así como la evolución de los mismos, de acuerdo con las necesidades de las distintas 
+divisiones que trabajan con ellas. 
+ 
+Para ello, se dispondrá de una empresa especializada en este tipo de servicios, en las áreas más 
+abajo descritas en el presente Pliego. 
+ 
+La realización de los servicios relacionados con el desarrollo, mantenimiento, evolución y soporte 
+de aplicaciones y soluciones encargadas por la Dirección del Expediente son los siguientes: 
+• La gestión de la operativa necesaria para proporcionar esos trabajos y servicios.  
+• El cumplimiento de los estándares de desarrollo y soporte especificados por la Dirección 
+del Expediente o persona en quien delegue para los servicios encomendados.  
+• El control, evaluación y la mejora permanente en los niveles de calidad proporcionados en 
+la prestación de dichos servicios.  
+• La puesta a disposición de la Dirección del Expediente, o persona en quien delegue, de toda 
+la información necesaria para que ésta realice el seguimiento, tanto del nivel de servicio 
+proporcionado, como del cumplimiento de los estándares operativos que se describen en 
+este PPT.  
+• La custodia y buena conservación de todas las instalaciones, equipos y documentación 
+propiedad de AENA que sea objeto de los servicios aquí descritos o que le haya sido confiada 
+para la realización de éstos.  
+• El cumplimiento de todas las normas de seguridad, medioambientales, de indumentaria, 
+laborales, legales y cualesquiera otras que sean aplicables.  
+• La realización de otros servicios solicitados por la Dirección del Expediente o persona en 
+quien delegue y que estén directamente relacionados con la mejora del servicio descrito en 
+este PPT.  
+ 
+Quedando como actividades reservadas a AENA las siguientes:  
+• Coordinación y seguimiento de las actividades especificadas en el presente PPT.  
+• El seguimiento final, tanto del nivel de servicio proporcionado, como del cumplimiento de 
+los estándares operativos que se describen en este PPT  
+ 
+En el supuesto de que, por error u omisión, se produzca contradicción entre los documentos del 
+proyecto, el orden de prioridad que debe prevalecer es: 
+ 
+1º Pliego. 
+2º Presupuesto. 
+ 
+
+--- página 6 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 6 
+  
+ 
+LA DURACIÓN DEL SERVICIO SERÁ DE UN 3 AÑOS A PARTIR DE LA FECHA INDICADA EN EL 
+CONTRATO, PRORROGABLE HASTA UN MÁXIMO DE  2 ANUALIDADES ADICIONALES. Las prórrogas 
+se acordarán por escrito por el órgano de contratación correspondiente, y serán obligatorias para 
+el contratista, siempre que hayan sido previstas en los pliegos y su preaviso se produzca al menos 
+con dos (2) meses de antelación a la finalización del plazo de duración del contrato. En ningún caso, 
+la prórroga podrá producirse por consentimiento tácito. 
+ 
+2. DESCRIPCIÓN DEL SISTEMA. 
+La aplicación GTA automatiza lo máximo posible todo lo relacionado con los calendarios laborales de 
+las personas que trabajan a turnos.  
+ 
+El cuadrante de turno es el calendario laboral, por meses, donde se puede ver de forma gráfica los 
+horarios de trabajo de todos los componentes del turno en un mes. Cada una de las situaciones en las 
+que se puede encontrar un empleado se colorea de forma única en el gráfico del cuadrante. 
+ 
+Además, los cuadrantes disponen de totales de horas mensuales y horas anuales de los siguientes 
+conceptos: 
+• Turno 
+• Bolsa de horas 
+• Adicional a cobrar 
+• Adicional a librar 
+• Adicional a cobrar o librar 
+• Formación a cobrar 
+• Formación a librar 
+• Los gestores de cuadrantes pueden asignar a un trabajador/día un servicio o 
+cualquiera de los permisos que se definen en el convenio colectivo de AENA, así 
+como bajas médicas, cambios de turno. 
+ 
+También se dispone de un espacio con el detalle del servicio donde se pueden introducir sus 
+particularidades. 
+No se dispone del código fuente de este aplicativo. 
+ 
+GTA es una aplicación distribuida desarrollada bajo la plataforma .NET de Microsoft. 
+El sistema consta de dos capas físicas, una localizada en un servidor central que se encarga de la 
+comunicación con Oracle y otra localizada en los PCs cliente. 
+Oracle puede estar instalado en la misma máquina donde se encuentra el servidor, o en una máquina 
+distinta (típicamente funcionando baja alguna versión de UNIX). 
+La comunicación entre las 2 capas se realiza mediante un mecanismo denominado Remoting, propio de 
+la plataforma .NET de Microsoft y que permite a los distintos componentes de la aplicación trabajar 
+
+--- página 7 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 7 
+  
+ 
+conjuntamente de forma transparente independientemente de donde se encuentren físicamente 
+instalados. Los componentes del sistema son: 
+ 
+2.1 Base de Datos Oracle 
+Es el componente que almacena físicamente todos los datos del sistema en tablas relacionales. 
+Así mismo, contiene los “procedimientos almacenados” utilizados para facilitar la manipulación 
+de los datos e interactuar con la capa de acceso a datos. 
+ 
+2.2 Capa de Acceso a Datos 
+Esta capa encapsula una serie de clases y métodos que son los encargados de la lectura y 
+mantenimiento de los datos almacenados en la base de datos. 
+ 
+2.3 Servidor Formado por un Servidor de Datos y un Agente 
+Realiza la labor de puente de comunicación entre los clientes y los datos que se encuentran 
+almacenados en Oracle. Los clientes se conectan a él mediante el mecanismo de Remoting de 
+.NET, se autentifican y a partir de ese momento tienen acceso a los datos. 
+El servidor se instala como un servicio más de Windows, y en un entorno de GTA normal sería 
+configurado para ser arrancado manualmente, labor que realizaría el agente GTA. 
+El Agente GTA es el encargado de iniciar el sistema y comunicarse con la consola, que puede 
+estar instalada en la misma máquina o en cualquier otra de la red. 
+ 
+2.4 Consola de Administración 
+Se utiliza fundamentalmente para realizar las tareas de monitorización y mantenimiento del 
+sistema. 
+Desde ella es posible iniciar y parar el servidor de datos de GTA, realizar el mantenimiento de 
+los usuarios de la aplicación y, mediante macros definidas a tal fin, actualizar la BBDD de GTA. 
+ 
+2.5 Cliente GTA.  Capa de Negocio y de Presentación. 
+Es la aplicación con la que interactúan los usuarios del sistema. Podrá haber en ejecución una 
+o más instancias por cada máquina donde se haya instalado. 
+Es una aplicación Windows estándar, que al arrancar solicitará un nombre de usuario y 
+contraseña, así como el colectivo con el que se vaya a trabajar. Cada usuario del sistema tiene 
+una serie de permisos asignados, en función del rol que desempeñe en el aplicativo, y por 
+tanto tendrá una vista más o menos completa de la funcionalidad del sistema. 
+ 
+3. REQUISITOS PARA EL INICIO DEL SERVICIO. 
+A los efectos de garantizar el nivel de calidad exigido en el presente expediente, las empresas 
+licitadoras tendrán en cuenta la siguiente documentación: 
+A) Programa del servicio a prestar, consistente en la relación de actividades de mantenimiento, 
+conteniendo para cada una de las actividades: 
+ 
+ Denominación de la actividad. 
+
+--- página 8 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 8 
+  
+ 
+ Breve descripción del procedimiento. 
+ Periodicidad. 
+ Útiles y herramientas para realizar la actividad. 
+ Tiempo para la ejecución de la actividad. 
+ 
+ En este programa habrán de recogerse, como mínimo, los servicios contemplados en el 
+capítulo 4 “PROGRAMA DE PRESTACIÓN DE SERVICIOS” del presente P.P.T., así como las 
+actividades de obligado cumplimiento incluidas en los vigentes Reglamentos que sean de 
+aplicación. 
+ 
+ Se completará la planificación de mantenimiento con grado de definición hasta el mes, 
+adecuándolos a la cantidad y cualidad de instalaciones reales del expediente. 
+ 
+B) Descripción de la organización de la presencia en los servicios cumpliendo la legalidad 
+vigente, así como las necesidades reales del servicio que tiene el Aeropuerto. 
+ 
+C) Sistema de aviso frente averías. Implantación geográfica de la empresa con indicación de la 
+delegación que gestionará directamente el presente servicio de mantenimiento. Existencia 
+de soporte técnico administrativo en Sevilla o sus proximidades con objeto de garantizar el 
+tiempo de respuesta en las intervenciones. 
+ 
+D) Plan para minimizar el impacto de las averías sobre la operatividad del Aeropuerto. 
+Flexibilidad del horario para acometer actividades correctivas fuera del horario operativo 
+del aeropuerto o del horario ordinario de servicio. 
+ 
+E) Sistemas de calidad certificados. Plan de calidad de la empresa aplicable al servicio objeto 
+del expediente. 
+ 
+F) Sistema de gestión medioambiental certificado. 
+ 
+G) Mejoras adicionales al presente expediente que proponga el licitador a su cargo. 
+ 
+H) Preferible. Certificado de reconocimiento de las instalaciones, expedido por el por el 
+director del Expediente o persona en quien delegue, acreditando que la empresa ha 
+comprobado el estado de las instalaciones antes de emitir su oferta. 
+ 
+I) Certificación de la empresa de que su precio lo ha elaborado conforme a la evaluación del 
+estado de las instalaciones y, consecuentemente, a la dedicación exigida para su 
+mantenimiento. 
+ 
+La Empresa adjudicataria, una vez efectuada la adjudicación, y en todo caso antes del inicio de la 
+prestación del servicio, deberá: 
+
+--- página 9 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 9 
+  
+ 
+A) Elaboración de un Informe Inicial del estado de las instalaciones. 
+B) Recopilación de los manuales, instrucciones, esquemas y planos en poder del Aeropuerto para 
+su estudio. 
+C) Presentación de una relación nominal de personas y vehículos destinados a la prestación del 
+presente servicio, a fin de expedir las correspondientes tarjetas de identificación y permisos 
+de acceso. 
+D) Definición, mediante escrito al Director del Expediente, del Coordinador o Delegado de la 
+Adjudicataria, que el Director del Expediente considera que para que se cumplan los niveles 
+de calidad exigidos en el Pliego, al menos deberá poseer una de las siguientes  titulaciones y 
+al menos 5 años de experiencia en mantenimiento de aplicación GTA o servicios similares: 
+ Formación Universitaria: Licenciatura, Diplomatura o Grado en la rama: Ingeniería y 
+Arquitectura. 
+ FP: Técnico Superior en alguna de las siguientes especialidades: 
+o  Informática y Comunicaciones. 
+ Certificado de buena ejecución de servicios relacionados con instalación y 
+mantenimiento de aplicaciones de gestión de turnos, control de horarios y 
+planificación de cuadrantes de personal, en empresas similares en tamaño y 
+organización.  
+E) Atenerse a las propuestas realizadas en la oferta presentada objeto de la adjudicación que, en 
+función de las necesidades del servicio, supongan un beneficio para el correcto desarrollo del 
+mismo. 
+F) Partiendo del protocolo de prestación de Servicios definitivamente aprobado, desarrollar 
+con la precisión necesaria (al menos semana a semana) y entregar un planning en el que se 
+distribuya la prestación de servicios en el tiempo: plan de preventivos. 
+La empresa adjudicataria, dentro de los primeros 15 días de servicio, deberá: 
+A) Devolución al Aeropuerto la documentación técnica sobre las instalaciones que previamente 
+le haya sido entregada e informar sobre la documentación que falte y modo de conseguirla, 
+así como la prestación de servicios necesarios para corregir los defectos observados. 
+4. PROGRAMA DE PRESTACIÓN DE SERVICIOS. 
+El Adjudicatario del servicio de mantenimiento de estas instalaciones se compromete a realizar un 
+mantenimiento preventivo, correctivo, de mejora y legal de acuerdo con las especificaciones que se 
+describen, destinando a la prestación del servicio los medios humanos  y materiales para la prestación 
+del servicio con el nivel de calidad exigido.  
+
+--- página 10 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 10 
+  
+ 
+ 
+Seguidamente se especifican los parámetros y niveles de calidad de servicio de mantenimiento de los 
+equipos objeto de este P.P.T., los cuales se han establecido en base a criterios de tiempos de respuesta 
+dependiendo del grado de importancia de los problemas o incidencias que se originen en los mismos. 
+Se definen tres tipos de prioridades de acuerdo a las siguientes condiciones: 
+ 
+• Prioridad C (CRÍTICA): Implica pérdida del Servicio. El Tiempo de resolución para estas 
+incidencias debe ser como máximo 2 horas en el 90% de las incidencias. 
+ 
+• Prioridad B (URGENTE): Implica degradación del Servicio, como son fallos en la configuración 
+de los turnos, obtención de la bolsa de horas, etc. El Tiempo de resolución para estas incidencias 
+debe ser como máximo  2 horas en el 90% de las incidencias. 
+ 
+• Prioridad A (NORMAL): Cualquier otra incidencia de orden menor no descrita en los conceptos 
+anteriores. El Tiempo de resolución para estas incidencias debe ser como máximo 4 horas en 
+el 90% de las incidencias. 
+ 
+En caso de duda a la hora de clasificar la prioridad de una incidencia, será el Director del Expediente o 
+persona en quien delegue quien establezca este nivel, prevaleciendo sobre cualquier otro criterio o 
+interpretación del presente P.P.T. 
+ 
+El servicio de mantenimiento se prestará de 9:00 a 18:00 horas (8 horas) en horario regular de lunes a 
+viernes laborables. Este horario podrá ajustarse de común acuerdo, si se estima necesario.  
+ 
+El horario de prestación del servicio será ampliado por el Adjudicatario si la prestación de servicios de 
+mantenimientos correctivos urgentes lo requiere. El adjudicatario se compromete a destinar a la 
+prestación del servicio los medios humanos necesarios, adoptando las medidas oportunas para cubrir 
+bajas y ausencias al servicio que se produzcan por las diferentes causas que prevea la legislación laboral 
+vigente. 
+El adjudicatario facilitará un número de teléfono y una dirección de correo de incidencias, donde se 
+comunicarán las solicitudes de servicio. Asimismo, deberá nombrar un Coordinador que actuará como 
+interlocutor con el Director del Expediente, cuya función principal será la de responder de la correcta 
+realización del servicio contratado, responsabilizándose del nivel de calidad deseado en los resultados. 
+Dicho Coordinador, deberá estar permanentemente localizado durante el horario de prestación del 
+mismo, y además se comprometerá a contestar, o devolver las llamadas recibidas en un plazo no 
+superior a 15 minutos. Fuera del horario de servicio, este plazo no será superior a 1 hora. 
+Atendiendo a los requerimientos operativos, se entenderá por tiempo de respuesta el tiempo que 
+transcurre desde la comunicación de la incidencia a la Empresa Adjudicataria hasta que la Empresa 
+Adjudicataria se pone en disposición de resolverla. 
+ 
+Así mismo, se considerará tiempo de resolución el tiempo que transcurre desde que la Empresa 
+Adjudicataria comienza a resolver la anormalidad hasta que el equipo adquiere nuevamente las 
+condiciones normales de funcionamiento. 
+
+--- página 11 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 11 
+  
+ 
+Tanto el tiempo de respuesta como el de resolución se contarán dentro del periodo de cobertura del 
+servicio de mantenimiento contratado. 
+ 
+A continuación, se detalla la tabla con la clasificación de incidencias y los tiempos asignados para 
+respuesta y resolución de cada una de ellas: 
+ 
+ 
+ 
+Grado de 
+Prioridad Área de Servicio Respuesta Telefónica Intervención Remota Tiempo Máximo de Resolución 
+CRÍTICA 
+Base de datos inaccesible. 
+No se puede conectar con 
+el servidor GTA 
+Inmediata de 9:00 
+a 18:00 horas de 
+Lunes a Viernes 
+Inmediata de 
+9:00 a 18:00 
+horas de Lunes 
+a Viernes 
+2 horas 90% de 
+las incidencias 
+4 horas 10% de 
+las incidencias 
+URGENTE Aplicación GTA inaccesible 
+30 minutos de 
+9:00 a 18:00 horas 
+de Lunes a Viernes 
+30 minutos de 
+9:00 a 18:00 
+horas de Lunes 
+a Viernes 
+2 horas 90% de 
+las incidencias 
+12 horas 10% 
+de las 
+incidencias 
+NORMAL 
+Mensaje de error: Login no válido 
+o mensaje de error de la 
+aplicación. 
+No pueden generarse cuadrantes. 
+Otras incidencias  
+60 minutos de 
+9:00 a 18:00 horas 
+de Lunes a Viernes 
+60 minutos de 
+9:00 a 18:00 
+horas de Lunes 
+a Viernes 
+4 horas 90% de 
+las incidencias 
+24 horas 10% 
+de las 
+incidencias 
+ 
+El mantenimiento tiene como objetivo prevenir, diagnosticar, y corregir incidencias tanto detectadas 
+como notificadas, a fin de garantizar el funcionamiento óptimo de la aplicación GTA, así como el 
+cumplimiento de toda la Legislación, Normativa y Reglamentación aplicable a este tipo de aplicación y 
+al conjunto de las actividades de mantenimiento. De este modo, se conseguirá reducir los costes 
+ocasionados por incidencias, evitar la pérdida de la operatividad del Aeropuerto y dar una mejor calidad 
+en el servicio que prestamos a nuestros clientes.  
+ 
+El Adjudicatario está obligado a actuar en cualquier momento del día contra posibles emergencias 
+que puedan producirse y que afecten, de algún modo, a la operatividad del Aeropuerto para 
+garantizar la calidad del servicio. 
+ 
+La Empresa Mantenedora presentará junto con su oferta, una planificación de la prestación del servicio 
+a realizar sobre las instalaciones objeto de este expediente, con indicación de las actividades de 
+mantenimiento, incluyendo breve descripción de servicios, periodicidades, horas/prestación de 
+servicio y medios humanos y materiales asignados a la prestación del servicio. 
+ 
+La Empresa Mantenedora realizará una planificación de la prestación del servicio de mantenimiento 
+teniendo en cuenta las horas punta de utilización de las instalaciones, para realizar aquellos en los días 
+
+--- página 12 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 12 
+  
+ 
+y horas que menos incidencia tengan sobre el servicio prestado, sea en horario diurno o nocturno. 
+Dicha planificación deberá contar con la aprobación del Director del Expediente a los efectos de 
+comprobar que se dan los niveles de calidad exigidos en este pliego. 
+ 
+De modo expreso, la Empresa Adjudicataria se compromete a incluir en su Plan de Mantenimiento 
+todos los requisitos de inspección, verificación y mantenimiento exigidos por la normativa legal vigente. 
+ 
+La frecuencia y los servicios de mantenimiento, en ningún caso serán inferiores a las exigidas en la 
+Normativa Legal existente al respecto. 
+ 
+Las actividades de la prestación del servicio de mantenimiento preventivo que deben contemplar las 
+empresas licitadoras son las detalladas en el punto 5.1 Mantenimiento Preventivo, las cuales se 
+planificarán para desarrollar a lo largo de un año tipo mediante el plan de preventivos con periodicidad 
+mensual. Las incidencias se registrará´n según se indica en el capítulo  7  “Seguimiento de la Prestación 
+del Servicio” del presente P.P.T. Del resultado de dichas revisiones se iniciará la prestación de los 
+servicios necesarios para solucionar todas las anomalías detectadas. 
+ 
+4.1 Mantenimiento Preventivo. 
+Se realizará un seguimiento periódico del funcionamiento de la aplicación y sus servicios, para detectar 
+cualquier tipo de problema por caída del servicio, perdida de conexión con la base de datos, bajada del 
+rendimiento, etc. Este servicio incluirá, al menos, las siguientes actividades: 
+ Periodicidad: Mensual  
+o Revisión del estado de la infraestructura que da soporte a la aplicación: base de datos y 
+agente GTA. 
+ 
+o Cambios o actualizaciones en el sistema operativo en el que se ejecutan el cliente o el 
+servidor pueden requerir pequeños cambios, actualizaciones o correcciones en el 
+código de la aplicación cliente o del propio servidor. 
+ 
+o Actualizaciones en la versión del motor de base de datos de Oracle pueden requerir 
+modificaciones en el servidor de GTA, particularmente, en la definición de tablas y 
+paquetes relacionados. 
+Por otro lado, Oracle actualiza periódicamente sus drivers de conexión con mejoras 
+de rendimiento y correcciones de errores, que deberán ser también incorporadas en 
+actualizaciones del servicio de GTA. 
+4.2 Mantenimiento Correctivo. 
+La Empresa Adjudicataria asumirá el mantenimiento correctivo de la infraestructura GTA, tanto en la 
+parte cliente como en la de servidores, que consistirá en el desempeño de las actividades necesarias 
+para resolver las incidencias que se notifiquen o se detecten en el mantenimiento preventivo. 
+ 
+Dependiendo de la causa del error, pueden desarrollarse soluciones como las siguientes: 
+
+--- página 13 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 13 
+  
+ 
+o Modificaciones en la base de datos, solucionando datos corruptos, incompletos, problemas con 
+los índices, etc. 
+ 
+o Modificaciones en el cliente, mediante la instalación de un parche en el servidor que actualiza 
+automáticamente los clientes al conectarse. 
+ 
+o De forma muy ocasional, modificaciones en el servidor, que requieran una actualización 
+completa del mismo.  
+ 
+o Obtención de datos que no se ajustan a ninguno de los informes existentes en formato Excel. 
+Si estos informes se consideran necesarios para utilizarlos , se incorporarán al aplicativo GTA: 
+ 
+Para la notificación de incidencias y solicitudes de servicio, será el Director del Expediente o alguna de 
+las personas que haya autorizado éste, quien dé el aviso de avería al Coordinador o Delegado de la 
+Adjudicataria, y a partir de este momento la Adjudicataria dispondrá de un tiempo dependiendo de 
+grado de criticidad establecido anteriormente para atender a la misma.  
+ 
+Transcurrido dicho tiempo sin haber acudido la empresa Adjudicataria, se procederá a una segunda 
+llamada y a partir de dicho momento se aplicarán las sanciones que estuvieran previstas.  
+ 
+El adjudicatario destinará a la prestación del servicio los medios humanos y materiales necesarios para 
+la ejecución de los servicios contratados, considerándose incluidos en los precios del Anexo II.  
+ 
+Para los desplazamientos a los distintos puntos de actuación, el adjudicatario deberá disponer de 
+vehículo debidamente autorizado, considerándose como un medio material, y por lo tanto su coste 
+está incluido en los precios del Anexo II. 
+ 
+Finalizada la prestación del servicio, deberá confeccionar un Parte en el cual se reflejarán la descripción 
+de la avería, diagnóstico, acciones realizadas, tiempo invertido en la reparación, número de personas 
+y materiales empleados. 
+ 
+Asimismo, deberá indicar expresamente todos aquellos servicios llevados a cabo y que, por su premura, 
+falta de tiempo o cualquier otra circunstancia, requiera una posterior actuación, así como aquellas 
+deficiencias que, si bien en un principio no requirieron actuación, sí sea aconsejable prever. 
+ 
+Las tareas de mantenimiento del aplicativo GTA  podrán realizarse de manera remota a través de los 
+servicios de acceso VPN autorizados por Aena. Puntualmente, el Coordinador o Delegado de la 
+Adjudicataria, puede ser convocado por el Director del Expediente para reuniones de supervisión y 
+coordinación del servicio,  en el Aeropuerto de Sevilla de manera presencial. 
+ 
+En el caso de que sea necesaria la conectividad con la red de Aena, S.M.E. S.A.  para acceso a 
+servicios informáticos de Aena, S.M.E. S.A., normalmente acceso a RMS y/o telefonía, la Empresa 
+
+--- página 14 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 14 
+  
+ 
+Adjudicataria, deberá enviar la solicitud al Director del Expediente, que gestionará la petición de la 
+misma. Los costes de conexión serán asumidos por la Empresa Adjudicataria. 
+ 
+La Empresa Adjudicataria se compromete a realizar un buen uso de los accesos a RMS y/o telefonía, 
+manteniendo las políticas y procedimientos de seguridad de Aena, S.M.E. S.A. El no cumplimiento 
+de este requisito llevará consigo, entre otras sanciones, la cancelación inmediata del citado acceso. 
+ 
+Los medios informáticos serán aportados por la empresa adjudicataria. En el caso de que se 
+considere inviable por parte de la Dirección de Sistemas de Información del uso de los ordenadores 
+de la empresa adjudicataria en las oficinas de Aena, S.M.E. S.A. (cuando así lo exija la naturaleza del 
+servicio), debido a la imposibilidad de adaptar la infraestructura a las configuraciones de las distintas 
+asistencias, Aena, S.M.E. S.A. podrá facilitar los medios informáticos, cuyo coste mensual de alquiler 
+de los mismos está, publicado en las tasas fijadas por Aena, S.M.E. S.A.  
+ 
+En dicho coste está incluido el soporte técnico, así como las licencias de software de base, etc. El 
+coste del alquiler de los equipos, será deducido del importe total del expediente. 
+ 
+La Dirección del Expediente podrá establecer las medidas de seguimiento que requieran las 
+necesidades del servicio para asegurar el correcto cumplimiento de los términos del contrato, así como 
+comprobar el nivel técnico de los servicios efectuados. 
+ 
+4.3 Mantenimiento Evolutivo. 
+El acceso a GTA por parte de los empleados para realizar consultas sobre sus servicios, cambios, 
+permisos y demás información operativa se realiza actualmente mediante la propia aplicación de 
+escritorio, limitando las funcionalidades disponibles para adecuarlas al perfil de usuario con rol VISOR.  
+Este enfoque garantiza el acceso a la información necesaria, pero obliga a disponer de un cliente GTA 
+instalado y configurado en cualquier puesto desde el que el empleado necesite realizar consultas. 
+Como consecuencia, el acceso queda condicionado a la disponibilidad de dicho entorno y a los procesos 
+de instalación, actualización y mantenimiento asociados.  
+ 
+Se propone la creación de una interfaz web para usuarios VISOR, integrada en el ecosistema de GTA y 
+accesible mediante un navegador web corporativo. La interfaz web se desarrollará bajo criterios de 
+simplicidad y facilidad de uso, orientada a las tareas más habituales realizadas por los distintos perfiles 
+de usuarios. 
+ 
+La aplicación accesible mediante web, deberá disponer de una interfaz adaptable (Responsive Design) 
+que garantice su correcta visualización, funcionamiento y usabilidad en diferentes dispositivos y 
+resoluciones de pantalla. 
+ 
+Esta evolución permitirá acceder a la información y servicios más demandados desde cualquier puesto 
+autorizado de la red corporativa, así como desde ubicaciones remotas mediante los mecanismos de 
+acceso seguro que se determinen. 
+ 
+
+--- página 15 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 15 
+  
+ 
+4.3.1 Funcionalidades Propuestas para el Visor Web. 
+El mantenimiento evolutivo incluirá como mínimo las siguientes opciones que actualmente se 
+encuentran disponibles para los usuarios con perfil VISOR, entre las que se encuentran: 
+ 
+• Vista del cuadrante mensual. 
+• Consulta de servicios asignados. 
+• Solicitud de cambios de servicio. 
+• Solicitud de permisos, bajas o libranzas. 
+• Consultas al diario de servicios. 
+• Consultas al listado de nombramientos COS. 
+ 
+Sobre esta base podrían incorporarse progresivamente nuevas capacidades, respondiendo a 
+necesidades operativas identificadas durante el uso de la plataforma. Algunos ejemplos de evolución 
+futura podrían incluir: 
+ 
+• Informes personalizados 
+• Interfaz IA (ver siguiente sección) 
+• Notificaciones 
+• Vista de cuadrantes personalizados 
+• Seguimiento del estado de solicitudes realizadas. 
+• Visualización de estadísticas personales: totalizadores, bolsas, etc. 
+ 
+4.3.2 Acceso Web Para Administración del Sistema. 
+El adjudicatario desarrollará e implantará una interfaz web de administración del sistema que 
+reunirá en un único entorno la gestión de usuarios, roles, permisos, ámbitos organizativos, 
+parámetros de configuración, etc. 
+ 
+Esta evolución trasladará progresivamente las capacidades que actualmente se encuentran en la 
+aplicación separada Consola de Administración,  ofreciendo a los administradores una experiencia 
+más accesible, coherente y alineada con la modernización del conjunto de la plataforma. 
+ 
+4.3.3 Interfaz IA. 
+El mantenimiento evolutivo contemplará el conjunto de actuaciones técnicas y funcionales 
+destinadas a mejorar, ampliar y adaptar las capacidades de la aplicación GTA. 
+ 
+Dentro de este ámbito, se contempla específicamente el análisis, diseño, desarrollo e implantación 
+de un interfaz IA que permita mejorar la interacción con los usuarios mediante el uso de lenguaje 
+natural escrito. 
+ 
+Esta evolución no sustituirá, ni alterará las funcionalidades ya existentes, sino que ofrecerá una 
+experiencia más ágil y cercana al usuario, preservando  al mismo tiempo toda la capacidad funcional 
+y el conocimiento de negocio acumulado por el sistema a lo largo de los años. 
+
+--- página 16 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 16 
+  
+ 
+ 
+La interfaz de IA abarcará, de manera gradual y controlada, entre otros, los siguientes escenarios: 
+ 
+• Consulta de cuadrantes, servicios asignados, cambios, permisos, bajas, libranzas y 
+nombramientos. 
+• Preparación de solicitudes de cambios o permisos, mediante una conversación paso a paso, 
+validando los datos obligatorios. 
+• Acceso asistido a información histórica, con filtros expresados en lenguaje natural. 
+ 
+4.3.4 Interfaz de Acceso REST a los Servicios de GTA 
+El adjudicatario implementará una interfaz REST de servicios que exponga de forma controlada las 
+capacidades y datos de GTA mediante APIs modernas y estandarizadas. 
+ 
+Actualmente, el acceso a la lógica de negocio de GTA está estrechamente ligado a los clientes 
+Windows existentes y a los servicios internos desarrollados específicamente para ellos. 
+ 
+La creación de una interfaz REST supone un paso estratégico en la evolución arquitectónica de GTA, 
+desacoplando la lógica de negocio de las aplicaciones cliente y permitiendo que cualquier solución 
+autorizada pueda interactuar con el sistema mediante protocolos estándar ampliamente adoptados 
+en la industria. 
+ 
+La interfaz REST actúa como una capa intermedia entre los clientes y los componentes internos del 
+sistema. Las aplicaciones consumidoras no acceden directamente a la base de datos ni implementan 
+reglas de negocio propias. Todas las operaciones se canalizarían a través de servicios controlados 
+que aplican las validaciones, comprobaciones de permisos y reglas operativas definidas en GTA.  Esta 
+arquitectura aporta numerosas ventajas: 
+ 
+• Desacoplamiento entre negocio y presentación. 
+• Reutilización de servicios comunes. 
+• Menor complejidad de mantenimiento. 
+• Mayor facilidad para evolucionar interfaces de usuario. 
+• Reducción del riesgo de inconsistencias funcionales. 
+• Incorporación más rápida de nuevas tecnologías. 
+ 
+Asimismo, permite que distintos tipos de clientes convivan simultáneamente, compartiendo una 
+única fuente de datos y un único conjunto de reglas de negocio. 
+ 
+El objetivo es convertir GTA en una plataforma abierta y preparada para evolucionar de forma 
+sostenible, preservando toda la inversión funcional realizada hasta la fecha. 
+ 
+La interfaz REST implementará , de forma gradual y controlada, las operaciones más relevantes de 
+GTA, respetando en todo momento los mecanismos de validación y seguridad existentes. 
+A modo de ejemplo, se citan las siguientes y se priorizarán según las necesidades del servicio: 
+
+--- página 17 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 17 
+  
+ 
+ 
+• Consulta de cuadrantes y planificación de servicios. 
+• Gestión de permisos, libranzas y bajas. 
+• Solicitud y seguimiento de cambios de servicio. 
+• Consulta de nombramientos y asignaciones. 
+• Acceso a información histórica. 
+• Gestión de usuarios, perfiles y permisos. 
+• Obtención de datos para informes y cuadros de mando. 
+ 
+Cada operación estará respaldada por las mismas reglas de negocio que actualmente aplica GTA, 
+garantizando la coherencia independientemente del cliente que consuma los servicios. 
+ 
+5 INTERPRETACIÓN DEL PLIEGO DE PRESCRIPCIONES. 
+El adjudicatario dispondrá en el lugar la prestación del servicio de una copia completa del Expediente 
+a disposición para consulta del Director del Expediente. 
+ 
+En general, en caso de duda (por indefinición) o contradicción, la interpretación de los pliegos 
+corresponde al Órgano de Contratación de AENA, S.M.E. S.A. y por delegación al Director del 
+Expediente. 
+ 
+El Adjudicatario deberá poner de manifiesto todas las dudas, errores u omisiones que advierta en 
+los Pliegos en el más breve plazo posible y siempre antes de que se ejecute la unidad 
+correspondiente. 
+ 
+Cualquier dato expresado en el Pliego de Prescripciones Técnicas que no conste en el resto de 
+documentos, o viceversa, tendrá los mismos efectos que si estuviese en ambos. En caso de 
+contradicción, prevalecerá el criterio del Director del Expediente. 
+Las omisiones o descripciones erróneas de los detalles de ejecución que resulten manifiestamente 
+indispensables para llevar a cabo el espíritu e intención expuesto en los Pliegos, no sólo no eximen 
+de su realización al Adjudicatario, sino que además deberá proceder en su ejecución como si hubiera 
+sido completa y correctamente especificado en ambos documentos. 
+ 
+6. SEGUIMIENTO DE LA PRESTACIÓN DE LOS SERVICIOS. 
+Para el seguimiento de los servicios prestados se tendrán en cuenta los siguientes puntos: 
+1. Tanto el Director del Expediente, como la Empresa Adjudicataria se comprometen a designar 
+representantes. 
+ 
+Durante el desarrollo de la prestación de los servicios, todas las relaciones  referentes al contrato 
+se establecerán a través del Director del Expediente o persona en quien delegue. 
+El Director del Expediente establecerá los criterios y líneas generales para la actuación en relación 
+con el servicio contratado para el cumplimiento de los fines del mismo. 
+ 
+
+--- página 18 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 18 
+  
+ 
+Por otra parte, la Empresa Adjudicataria deberá nombrar, de entre los medios humanos 
+asignados a este expediente, un Coordinador o Delegado cuya función principal será la de 
+responder de la correcta realización del servicio contratado, responsabilizándose del nivel de 
+calidad deseado en los resultados. Dicho Coordinador deberá estar presente en el lugar de 
+prestación del servicio, al menos, durante el horario de prestación del mismo, y, en todo caso, 
+permanentemente localizado. 
+ 
+2. La empresa adjudicataria hará entrega, tras cada actuación de mantenimiento preventivo o 
+correctivo, de un "INFORME DE PRESTACIÓN DEL SERVICIO REALIZADO". Para la organización de 
+la prestación del servicio de mantenimiento, se empleará una "SOLICITUD DE PRESTACIÓN DEL 
+SERVICIO". Las anomalías detectadas en las instalaciones durante las labores de mantenimiento 
+y que no puedan ser solventadas durante las mismas, se registrarán en un "INFORME DE 
+DISCREPANCIAS". Las necesidades de material que el mantenedor necesite para la consecución 
+de la prestación del servicio se solicitarán a la Dirección del Expediente a través del impreso 
+“SOLICITUD DE MATERIAL”. Los modelos propuestos de impreso figuran en el Anexo III. 
+ 
+La Empresa Mantenedora realizará un informe tras cada intervención de mantenimiento 
+preventivo y aquellas correctivas que se solicite, que deberá remitir al Director del Expediente, 
+que exprese: 
+ Preventivos y correctivos realizados. 
+ Diagnóstico (si procede). 
+ Acciones Realizadas 
+ Tiempo invertido. 
+ Número de personas y cargo que desempeña. 
+ Materiales empleados. 
+ Todas aquellas sugerencias que se estimen convenientes para mejorar el estado y 
+funcionamiento de las instalaciones. 
+ 
+3. Con el fin de llevar a cabo una mejor gestión del mantenimiento, la empresa adjudicataria se 
+compromete a la comunicación de las solicitudes de prestación del servicio, tanto preventivas 
+como correctivas, para que sean incluidos en Venus. Estos documentos son: hojas de 
+especificaciones de elemento o conjuntos, plan de revisiones, fichas de repuestos, libros de 
+seguimiento, etc. 
+4. Gestión del Mantenimiento. Organización del Servicio y Registro de la Información. 
+ Para el desarrollo de la Gestión del Mantenimiento, preventivo/programado y correctivo, se 
+debe utilizar exclusivamente la herramienta que AENA, S.M.E. S.A. ha adoptado como 
+corporativa para esta función: Venus. El Adjudicatario está obligado a comunicar todas las 
+incidencias y servicios realizados con el objeto de ser incluidos en la base de datos de Venus por 
+parte de personal de Informática. 
+A) Equipos (Hardware): 
+ Los puestos cliente de explotación y todo el equipamiento cliente serán por cuenta del 
+adjudicatario. A este efecto y por motivos de seguridad el adjudicatario vendrá obligado a 
+
+--- página 19 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 19 
+  
+ 
+concertar con el Aeropuerto el número de equipos (hardware) indicado en el apartado 
+anterior, a los precios que en cada momento se hallen vigentes.  
+ Debido a la inviabilidad del uso de los ordenadores de la empresa adjudicataria en las 
+oficinas de AENA, S.M.E. S.A. por la imposibilidad de adaptar la infraestructura a las 
+configuraciones de las distintas asistencias, AENA, S.M.E. S.A. facilitará los medios 
+informáticos, siendo el coste de alquiler mensual de los mismos, el siguiente: 
+ Puesto con PC normal: 155€ (aprox.). 
+ Puesto con PC portátil: 168€ (aprox.). 
+ Puesto con PC gráfico (monitor de 20’’): 163€ (aprox.).  
+ Dichos importes incluyen el soporte técnico, así como licencias de software base, etc. 
+ 
+En cualquier caso, el importe actualizado de estos costes de alquiler, deberá ser consultado 
+con la Dirección de Infraestructuras y Tecnologías. 
+ El coste del alquiler de los equipos, será deducido del importe total del expediente.  
+ Los servidores de explotación los suministrará AENA, S.M.E. S.A. Como requisito para que 
+AENA, S.M.E. S.A. aporte estos servidores, el adjudicatario deberá presentar una 
+planificación de la carga de datos que sea necesaria en cada caso.  
+ 
+5. La Empresa Mantenedora acordará los procedimientos establecidos por el Director del 
+Expediente para la notificación de incidencias, avisos, emergencias, etc. 
+ La Dirección del Expediente podrá establecer las medidas de seguimiento que estime necesarias 
+para asegurar el correcto cumplimiento de los términos del contrato, así como para comprobar 
+el nivel técnico de la prestación de servicios efectuada. Para ello realizará inspecciones aleatorias 
+encaminadas a comprobar la veracidad de los datos presentados en los informes de prestación 
+del servicio realizados y la adecuación de los éstos a los términos del contrato. El adjudicatario 
+prestará el servicio necesario para la realización de estas inspecciones. 
+ 
+6. Si en alguna revisión efectuada por el Director del Expediente o persona delegada se detectase 
+que se ha puenteado alguna protección, elemento de seguridad de cualquier equipo o alterado 
+el funcionamiento original de las instalaciones, se anotará la incidencia quedando a cargo del 
+adjudicatario la posible sustitución de la maquinaria afectada, sin perjuicio de las 
+responsabilidades derivadas de tal actuación, calificándose la falta de acuerdo con lo indicado en 
+el capítulo “Sanciones”. 
+ 
+7. Debido a la naturaleza de las instalaciones a mantener y al lugar en que la prestación del servicio 
+se desarrolla, toda la información proporcionada a la Empresa Adjudicataria para permitir la 
+prestación de los servicios será considerada confidencial y será utilizada exclusivamente para la 
+ejecución de las funciones asignadas en este Pliego. Para su eventual utilización y/o divulgación 
+deberá contarse con el consentimiento expreso y por escrito de AENA, S.M.E. S.A. El adjudicatario 
+deberá extremar la restricción en la difusión de todo tipo de documentación a terceros. La 
+transgresión de esta directriz podrá ser considerada falta muy grave. 
+ 
+
+--- página 20 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 20 
+  
+ 
+7. NIVEL DE CALIDAD EN EL SERVICIO. 
+7.1. Calidad en Formación. 
+Los medios humanos de la Empresa Adjudicataria asignado a la prestación del servicio estarán 
+formados en el mantenimiento de las instalaciones propias del Aeropuerto. 
+ 
+• Formación técnica: Una vez firmado el Contrato, el Aeropuerto entregará al adjudicatario 
+la documentación técnica complementaria descriptiva del manejo de las instalaciones, 
+debiendo la Empresa Adjudicataria instruir adecuadamente a sus medios humanos en el 
+mantenimiento específico de las instalaciones propias del Aeropuerto. 
+ 
+• Formación operativa: Dentro de la formación operativa, el Adjudicatario a petición de el 
+Director del Expediente, destinará a sus medios humanos al aprendizaje de cursos y 
+seminarios cuando éstos se organicen, responsabilizándose en todo caso de instruirlos en 
+estos aspectos: 
+ Seguridad (safety) en plataforma. 
+ Seguridad (security) en recintos aeroportuarios. 
+ Otros hasta una duración máxima de 20 horas por persona y año (calidad, 
+medioambiente, etc.). 
+ 
+En consonancia con la certificación de gestión medioambiental que mantiene el Aeropuerto 
+de Sevilla UNE-EN ISO 14001 art. 4.4.2., la empresa adjudicataria debe asegurarse que 
+cualquier persona que realice servicios para ella o en su nombre, que potencialmente pueda 
+causar uno o varios impactos ambientales significativos identificados por AENA, S.M.E. S.A., 
+sea competente, tomando como base una educación, formación o experiencia adecuados 
+y debe mantener los registros asociados. 
+ 
+Se considerará una (1) falta de calidad el desconocimiento en los diversos aspectos o 
+ausencia de la acreditación pertinente por cada medio humano y mes en que se constate 
+dicha circunstancia. Los muestreos se podrán realizar transcurrido el primer mes. 
+ 
+7.2 Calidad en Mantenimiento. 
+7.2.1 Criterios de Calidad Aceptable. 
+Para definir criterios de CALIDAD ACEPTABLE en el mantenimiento de las instalaciones, se tomarán 
+como características a calificar los motivos siguientes: 
+• Faltas LEVES. 
+o Carecer de los medios materiales necesarios durante dos días o intervenciones 
+consecutivas. 
+o No atender incidencias clasificadas como NORMALES en el tiempo de respuesta 
+especificado en el presente P.P.T. 
+o No ejecutar el servicio según lo descrito en el capítulo 4 “PROGRAMA DE PRESTACIÓN DE 
+SERVICIOS” del P.P.T., cuando no suponga consecuencias para el servicio. 
+o No ajustar la prestación del servicio a las necesidades que surjan en cada momento para 
+garantizar la calidad del mismo, conforme a los niveles establecidos en el Pliego. 
+
+--- página 21 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 21 
+  
+ 
+o No iniciar injustificadamente una acción correctora en el período máximo admisible de 
+atención de avisos referido en el capítulo 4 “PROGRAMA DE PRESTACIÓN DE SERVICIOS”, 
+desde la comunicación de la avería, cuando no suponga consecuencias para el servicio. 
+o Demorar la entrega de partes (hasta tres días desde la finalización de la intervención) de 
+servicio o informes (hasta 15 días desde la finalización del mes). 
+ 
+• Faltas GRAVES. 
+o Cometer TRES faltas leves al mes. 
+o No atender incidencias clasificadas como URGENTES en el tiempo de respuesta 
+especificado en el presente P.P.T. 
+o No ejecutar el servicio según lo descrito en el capítulo 4 “PROGRAMA DE PRESTACIÓN DE 
+SERVICIOS” de este P.P.T., cuando suponga consecuencias para el servicio. 
+o No iniciar injustificadamente una acción correctora en el período máximo admisible de 
+atención de avisos referido en el capítulo 4 “PROGRAMA DE PRESTACIÓN DE SERVICIOS”, 
+desde la comunicación de la avería, cuando suponga consecuencias para el servicio. 
+• Faltas MUY GRAVES. 
+o Cometer TRES faltas graves al mes. 
+o No atender incidencias clasificadas como CRÍTICAS en el tiempo de respuesta especificado 
+en el presente P.P.T. 
+o El incumplimiento de las obligaciones del pliego relativas a la normativa general del servicio 
+a prestar, establecida por el Director del Expediente, marcando pautas de actuación y 
+señalando niveles mínimos de calidad y aceptación del servicio prestado. 
+o No iniciar injustificadamente una acción correctora en el período máximo admisible de 
+fuera de servicio referido en el capítulo 4 “PROGRAMA DE PRESTACIÓN DE SERVICIOS”, 
+desde la comunicación de la avería, cuando suponga graves consecuencias para el servicio, 
+como trastorno de la operatividad aeroportuaria. 
+o Consignar conscientemente datos falsos en los informes o partes de prestación de servicio. 
+o Vulnerar conscientemente protecciones o medidas de seguridad. 
+o Acumular demorados más de tres partes o informes. 
+ 
+7.2.2 Reducción de Certificación por Falta de Calidad.  
+A los conceptos de certificación fija mensual se aplicará un coeficiente reductor por falta de calidad, 
+según el baremo que a continuación se expresa. Los conceptos que constituyen la certificación variable 
+no serán objeto de reducción. 
+ 
+Calificación Valor 
+Leve 1% de la certificación mensual por cada falta 
+Grave/Muy grave 5% de la certificación mensual por cada falta 
+ 
+
+--- página 22 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 22 
+  
+ 
+El valor límite de la reducción a aplicar será un 10% de la certificación mensual, tramitándose como 
+sanción si se rebasa este valor. 
+ 
+La comisión de TRES FALTAS MUY GRAVES al año podrá dar lugar a la rescisión del Contrato. 
+ 
+7.2.3  Procedimiento Sancionador y Recursos. 
+En el supuesto de que el Director del Expediente adopte la resolución de proponer la sanción a la 
+Empresa Adjudicataria, deberá hacerlo por escrito indicando los motivos por los que la Empresa 
+Adjudicataria ha incurrido en falta sancionable, de acuerdo con el presente Pliego. 
+  
+El citado escrito deberá ser firmado por el Coordinador o Delegado de la Empresa Adjudicataria bajo 
+fecha, a los solos efectos de notificación, incluyendo el DNI del firmante. En caso de negativa a su 
+recepción y firma, irá firmado por dos testigos que acrediten su entrega. 
+ 
+Dentro del plazo de DIEZ días hábiles, contados a partir de la fecha de recepción del escrito, la Empresa 
+Adjudicataria podrá recurrir la sanción, presentando por escrito ante el Director del Expediente (con 
+copia al Director del Aeropuerto), las alegaciones que estime conveniente efectuar. 
+ 
+De la resolución final, adoptada por el Órgano de Contratación, se dará cuenta por escrito a la Empresa 
+Adjudicataria del Servicio. 
+
+--- página 23 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 23 
+  
+ 
+8. NORMATIVA DE APLICACIÓN. 
+La normativa de aplicación se rige por los siguientes puntos: 
+ 
+1. La Empresa Mantenedora será la encargada y responsable de hacer cumplir a sus medios 
+humanos toda la normativa referida en este apartado. 
+ 
+2. Ley de Prevención de Riesgos Laborales (Ley 31/1995 de 8 de noviembre) y Reglamento de los 
+Servicios de Prevención (R.D. 39/1997 de 17 de enero). 
+ 
+3. Normativa de Seguridad en Plataforma, Normativa de Seguridad en Recintos Aeroportuarios, 
+Norma General de contratación y otras normas y procedimientos de régimen interior de 
+AENA, S.M.E. S.A. 
+ 
+4. Cualquier otra reglamentación de obligado cumplimiento que durante el período del servicio 
+esté vigente o inicie su vigencia y sea de aplicación. 
+ 
+ 
+ 
+
+--- página 24 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 24 
+  
+ 
+9. MEDIDAS DE SEGURIDAD LABORAL. 
+Las medidas de seguridad laboral se rigen por los siguientes puntos: 
+ 
+1. La Dirección del Expediente, en caso de tener conocimiento de alguna infracción de las normas 
+referidas en materia de seguridad, o el comportamiento de los trabajadores, estado de policía 
+o uniformidad no fuese el adecuado, lo pondrá en conocimiento del Adjudicatario, quien 
+deberá resolver el incumplimiento, o en caso contrario, dicha Dirección podrá denegar el 
+acceso a la zona de servicio a los infractores. 
+ 
+2. Aunque no se hace necesario el Estudio de Seguridad y Salud, por no cumplirse los requisitos 
+establecidos en el Real Decreto 1627/1997 del 24 de octubre publicado en el BOE de 25/10/97, 
+se quiere, no obstante, dictar unas normas básicas que el adjudicatario observará respecto de 
+sus trabajadores en materia de seguridad y salud: 
+ 
+ Todos los servicios y programas se ajustarán a la reglamentación legal de obligado 
+cumplimiento que durante el período de ejecución esté vigente o inicie su vigencia y sea de 
+aplicación. En especial, toda la reglamentación vigente en materia de seguridad y salud laboral 
+en lo referente a este tipo de servicios. Se dotará al personal con los equipos de seguridad que 
+en cada caso correspondan. 
+ 
+ En general, se prevén los siguientes riesgos inherentes a las características de los servicios, 
+para los que el adjudicatario queda obligado a tomar las medidas de seguridad que se sugieren 
+complementariamente a las que reglamentariamente se establezcan: 
+ 
+1. Al personal se le dotará de vestuario y calzado adecuado para trabajar a la intemperie, 
+así como de protecciones en ojos, cabeza y manos en función de los servicios 
+desarrollada (proyección de partículas, polvo, ruido, etc.). Los servicios en altura 
+deberán realizarse con el equipo de sujeción y elevación que reglamentariamente 
+corresponda en cada caso. 
+ 
+2. La zona de servicio deberá estar perfectamente señalizada conforme se indica en el 
+capítulo 4 “PROGRAMA DE PRESTACIÓN DE SERVICIOS” de este P.P.T. 
+ 
+3. El estado de limpieza de la zona de servicio debe ser mantenido permanentemente, 
+evitando la acumulación innecesaria de residuos, escombros, u otros materiales que 
+pudieran causar daño sobre las personas. 
+ 
+4. Antes de realizar cualquier actividad en elemento sometido a tensión, se asegurará 
+que la corriente eléctrica de alimentación o mando al equipo está cortada con absoluta 
+garantía de que ésta no podrá ser activada mientras dura la actividad, ni siquiera 
+accidentalmente. 
+ 
+ Como primordial medida de seguridad, todos los elementos metálicos integrados en la 
+
+--- página 25 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 25 
+  
+ 
+instalación, que no deban hallarse bajo tensión, estarán conectados a tierra. 
+ 
+5. Limitar los puntos de consumo eléctrico evitando poner en marcha demasiadas 
+herramientas con alimentación eléctrica en una misma toma de corriente durante los 
+servicios de montaje. No se conectarán a la instalación eléctrica derivaciones 
+destinadas a otros usos distintos a los que fueron concebidas. En particular, el 
+adjudicatario deberá disponer de un cuadro portátil de obra con protecciones 
+(interruptores diferenciales y magnetotérmicos) de sensibilidad adecuada (25 A - 0,03 
+mA) en donde conectará los equipos eléctricos de servicio. 
+ 
+6. Antes de intervenir en cualquier circuito o equipo, éste deberá aislarse. 
+ 
+7. Cuando se realice cualquier actividad donde se manipulen sustancias tóxicas o 
+inflamables, se deberá prestar especial cuidado y asegurarse de que el lugar donde se 
+realice la actividad se encuentra adecuadamente ventilado y quedando absolutamente 
+prohibido fumar o producir llama, usando protecciones adecuadas en cara y manos. 
+ 
+8. El contratista delimitará la zona de servicio por medio de elementos adecuados al 
+servicio a prestar. En general, se emplearán dos tipos de cerramiento, uno en el que el 
+cierre será estanco, preferentemente por medio de plásticos, lonas, cuando por los 
+servicios puedan producirse polvo u otras sustancias nocivas; o cuando por seguridad 
+para el objeto de los servicios requiera preservarse de la intemperie. Y otro cierre 
+normal, constituido por valla normalizada de obra. Estos modelos de cerramiento se 
+adaptarán según las circunstancias. 
+ 
+9. Se deberán tener en cuenta todas las precauciones y normas que se dan en este 
+documento, letreros, rótulos de equipos y todas las demás precauciones pertinentes, 
+debiendo tenerse especial cuidado en aquellos equipos que funcionan a tensión, bajo 
+presiones altas u ocupan posiciones elevadas. 
+ 
+10. Antes de realizar servicios en máquinas con partes móviles (como cámaras de 
+acondicionamiento de aire) se deberá asegurar que dichas partes se encuentren 
+paradas, afianzadas o sin posibilidad alguna de ponerse en movimiento. 
+ 
+11. Cuando por la naturaleza del servicio o la consideración de sus circunstancias, se pueda 
+derivar para la salud del trabajador algún perjuicio motivado por la ejecución de la 
+actividad en solitario, ésta deberá realizarse acompañado, ayudado o a la vista de otra 
+persona según sea necesario. 
+ 
+ 
+ 
+
+--- página 26 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 26 
+  
+ 
+10. SISTEMA DE ABONO. 
+Cada uno de los conceptos de servicio expresados quedará afectado por la baja de adjudicación, siendo 
+su forma de pago como sigue: 
+• Certificación Fija. 
+• Certificación variable, en función de las horas de desarrollo. 
+Se abonarán mensualmente según relación valorada mensual. Si hubiese que practicar 
+redondeo, se practicará en la última mensualidad. 
+ 
+Ante la ausencia de servicio por causas ajenas a AENA, S.M.E. S.A., como en el caso de huelga sin 
+servicios mínimos, u otros, AENA, S.M.E. S.A. se reserva el derecho de no abonar al adjudicatario la 
+parte proporcional del importe total correspondiente al período de tiempo en que las instalaciones 
+hayan estado sin asistencia. 
+ 
+11. PENALIZACIONES. 
+El incumplimiento del presente Pliego de Prescripciones Técnicas por parte del Adjudicatario tendrá la 
+consideración FALTA LEVE, GRAVE O MUY GRAVE, según la infracción cometida, siendo penalizada de 
+acuerdo con este apartado. 
+ 
+Todos aquellos daños que, por la mala actividad, negligencia o impericia, como consecuencia de la 
+prestación del servicio, se causen en las instalaciones irán a cargo del adjudicatario, sin perjuicio de sus 
+responsabilidades. 
+ 
+11.1 Clasificación de las Faltas. 
+A título enunciativo, se consideran FALTAS las siguientes: 
+ 
+11.1.1 Faltas LEVES. 
+• Carecer de los medios materiales necesarios durante dos días o intervenciones consecutivas. 
+• No prestar el servicio según lo descrito en el capítulo 4 “PROGRAMA DE PRESTACIÓN DE 
+SERVICIOS” del P.P.T., cuando no suponga consecuencias para el servicio. 
+• No alcanzar el nivel de calidad exigido en este P.P.T. en UNO de los criterios definidos en el 
+apartado “Niveles de calidad de servicio” del mismo, a lo largo de una intervención.  
+• No aportar de su plantilla general, en cada momento, personal suficiente para la correcta 
+prestación y ejecución del servicio contratado, conforme a las necesidades que surjan en la 
+prestación del mismo, siempre y cuando el servicio se vea afectado. 
+ 
+11.1.2 Faltas GRAVES. 
+• Cometer TRES faltas leves al mes. 
+• No prestar el servicio según lo descrito en el capítulo 4 “PROGRAMA DE PRESTACIÓN DE 
+SERVICIOS” de este P.P.T., cuando suponga consecuencias para el Servicio. 
+• No alcanzar el nivel de calidad exigido en el P.P.T. en DOS o más de los criterios definidos en el 
+apartado “Niveles de calidad del servicio” del mismo, a lo largo de un día. Para su valoración se 
+admitirá como válido lo indicado para el caso de faltas leves. 
+
+--- página 27 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 27 
+  
+ 
+• No aportar de su plantilla general, en cada momento, personal suficiente para la correcta 
+prestación y ejecución del servicio contratado, conforme a las necesidades que surjan en la 
+prestación del mismo, siempre y cuando el servicio se vea afectado. 
+• No iniciar injustificadamente una acción correctora en el período máximo admisible de 
+atención de avisos referido en el capítulo 4 “PROGRAMA DE PRESTACIÓN DE SERVICIOS”, 
+desde la comunicación de la avería, cuando suponga consecuencias para el Servicio. 
+ 
+11.1.3 Faltas MUY GRAVES: 
+• Cometer TRES faltas graves al mes. 
+• El incumplimiento de las obligaciones del pliego relativas a la normativa general del servicio a 
+prestar, establecida por el Director del Expediente, marcando pautas de actuación y señalando 
+niveles mínimos de calidad y aceptación del servicio realizado. No iniciar injustificadamente una 
+acción correctora en el período máximo admisible de fuera de servicio referido en el capítulo  
+“PROGRAMA DE PRESTACIÓN DE SERVICIOS”, desde la comunicación de la avería, cuando 
+suponga consecuencias para el Servicio. 
+• Consignar conscientemente datos falsos en los informes o partes de prestación de servicio. 
+• Vulnerar conscientemente protecciones, o medidas de seguridad. 
+• Acumular demorados más de tres informes. 
+ 
+11.2 Penalizaciones. 
+De existir anomalías en el cumplimiento del Servicio, se impondrán sanciones económicas a la Empresa 
+Adjudicataria, siendo la sanción máxima del 20% del importe mensual de la contratación, importe que 
+será deducido del primer abono a realizar después de que la sanción sea firme. 
+ 
+Las sanciones a imponer, en función de la gravedad de la falta según lo dispuesto en los apartados 
+anteriores, serán las siguientes: 
+ 
+ 
+ 
+Calificación Sanción 
+Leve Escrito de reprobación 
+Grave 
+Hasta un 10% del importe mensual 
+de la contratación, excluido 
+repuestos 
+Muy Grave 
+Hasta un 20% del importe mensual 
+de la contratación, excluido 
+repuestos 
+ 
+La comisión de TRES FALTAS MUY GRAVES al año podrá dar lugar a la rescisión del Contrato. 
+ 
+
+--- página 28 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 28 
+  
+ 
+La cuantía exacta del importe variable de la sanción a proponer para su aprobación por el Órgano de 
+Contratación de AENA, S.M.E. S.A., en las faltas Graves y Muy Graves será acordado previamente con 
+el Director del Expediente, que tendrá en consideración, dentro de la gravedad de la infracción, las 
+posibles reclamaciones de Compañías (especialmente con consecuencias económicas), la pérdida de 
+imagen del Aeropuerto, reiteración de sanciones o amonestaciones anteriores sobre la misma causa 
+sin corregir, y cuantas circunstancias sirvan para apreciar la gravedad de la falta. 
+ 
+El Director del Expediente podrá determinar la gravedad de otras posibles faltas no incluidas 
+expresamente en las relaciones anteriores, y su correspondiente sanción, tomando en consideración 
+para ello las circunstancias expresadas en el párrafo anterior. 
+ 
+11.3 Procedimiento Sancionador y Recursos. 
+En el supuesto de que el Director del Expediente adopte la resolución de proponer la sanción a la 
+Empresa Adjudicataria, deberá hacerlo por escrito indicando los motivos por los que la Empresa ha 
+incurrido en falta sancionable, de acuerdo con el presente Pliego. 
+ 
+El citado escrito deberá ser firmado por el Coordinador o Delegado de la empresa adjudicataria bajo 
+fecha, a los solos efectos de notificación, incluyendo el DNI del firmante. En caso de negativa a su 
+recepción y firma, irá firmado por dos testigos que acrediten su entrega. 
+ 
+Dentro del plazo de DIEZ días hábiles, contados a partir de la fecha de recepción del escrito, la Empresa 
+Adjudicataria podrá recurrir la sanción, presentando por escrito ante el Director del Expediente (con 
+copia al Director del Aeropuerto), las alegaciones que estime conveniente efectuar. 
+ 
+De la resolución final, adoptada por el Órgano de Contratación, se dará cuenta por escrito a la 
+Empresa Adjudicataria del Servicio. 
+ 
+12 CLÁUSULAS. 
+12.1 DIVERSIDAD Y CULTURA AEROPORTUARIA. 
+El adjudicatario se obliga expresamente a impartir a su personal adscrito a la actividad objeto de 
+este pliego, previamente a su incorporación al servicio y actualizada con una periodicidad de 5 años, 
+un curso de formación de la duración que se estime conveniente, con el objetivo de sensibilizar y 
+educar sobre los siguientes temas, que serán de aplicación en todo momento en su trato con los 
+pasajeros de cualquier aeropuerto de Aena: 
+1) Cultura Aeroportuaria. Este módulo de formación se desarrollará a partir del material que 
+proporcione Aena al adjudicatario al respecto y tendrá como objetivo dar a conocer una cultura de 
+excelencia en la experiencia del pasajero, que deberá fomentarse entre todo el personal adscrito al 
+servicio y que, por tanto, forme parte de la comunidad aeroportuaria. El contenido de este curso se 
+dividirá en tres bloques tal y como se muestra a continuación: 
+Bloque I: Cultura aeroportuaria (Airport Culture) y comunidad 
+
+--- página 29 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 29 
+  
+ 
+Concepto de comunidad aeroportuaria y la importancia de todos sus miembros en la 
+experiencia del pasajero. Los elementos clave del concepto Airport Culture (formación y 
+acceso a la información, buena actitud, entorno agradable). Valores fundamentales. Formas 
+de medir la satisfacción del pasajero. 
+ 
+Bloque II: El pasajero como centro de todo 
+Análisis de las repercusiones de este enfoque en todas las actividades aeroportuarias y de 
+los tres pilares fundamentales de la experiencia del pasajero (instalaciones, procesos y 
+personas). Entender las expectativas del pasajero en todas las etapas de su viaje. 
+ 
+Bloque III: Experiencia del pasajero 
+Introducción al concepto de experiencia del pasajero, sensibilizar sobre las cambiantes 
+necesidades de los pasajeros y sus emociones en el aeropuerto, así como entender el 
+impacto positivo que tiene en los resultados económicos una buena experiencia. 
+ 
+Bloque IV: Accesibilidad universal 
+Concepto de accesibilidad universal en el transporte aéreo. Descripción de tipos de 
+discapacidad, así como ayuda a prestar ante cualquier proceso aeroportuario. La base para 
+esta formación será el Manual de atención a personas con discapacidad o movilidad reducida 
+y el Material de sensibilización en relación a pasajeros con discapacidades invisibles de Aena.  
+ 
+ 2) Diversidad. Deberán cubrirse todos los temas que se consideren necesarios para trabajar en el 
+entorno aeroportuario, multicultural y diverso. Se tratarán en particular aspectos relativos a la 
+interacción con personas de otras nacionalidades, etnias y culturas, con especial atención a la 
+comunicación. Se promoverán en todo momento las relaciones basadas en el respeto, igualdad y 
+colaboración propiciando una comunicación respetuosa y positiva con todos los miembros de la 
+comunidad aeroportuaria.  
+3) Igualdad. Se tratarán aspectos relativos a la igualdad entre personas, y se alentará un 
+comportamiento respetuoso, inclusivo, tolerante e igualmente correcto con todos los miembros de 
+la comunidad aeroportuaria. Además de la igualdad entre hombres y mujeres, se deberán abordar 
+explícitamente temas como la discriminación por orientación sexual, por temas de edad, identidad 
+de género, o por cualquier característica física (tatuajes, marcas de nacimiento, defectos de la piel 
+etc.) 
+En todo caso, deberá fomentarse una cultura de tolerancia cero ante cualquier comportamiento 
+racista o discriminatorio, y alentar la detección y notificación entre el propio personal de este tipo 
+de comportamientos hacia cualquier persona de la comunidad aeroportuaria. La empresa está 
+obligada a informar a sus trabajadores que cualquier persona que conozca la existencia de una 
+conducta ilegal, contraria a las políticas y procedimientos de Aena y/o que impliquen el 
+incumplimiento de las normas establecidas en el Código de Conducta, podrá formular denuncia a 
+través del canal de denuncias de Aena en su página web, aportando, en su caso, su identidad 
+mediante su DNI o documento equivalente. La identidad no será un requisito para formular la 
+
+--- página 30 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 30 
+  
+ 
+denuncia, por lo que también serán admitidas por este canal denuncias realizadas de forma 
+anónima.  
+13 NORMA DE ACCESO A LA RED DE DATOS Y USO DE ACTIVOS INFORMÁTICOS.  
+13.1 INTRODUCCIÓN.  
+El uso de los equipos informáticos, incluyendo las aplicaciones ofimáticas y herramientas en 
+ellos instalados, así como la manera de acceder a la red de datos y sus servicios asociados 
+(almacenamiento de datos e impresión de los mismos) exige definir unas normas sobre su 
+utilización y sobre el control a ejercer por parte del Director del Expediente, de modo que se 
+garantice el uso adecuado de dichos recursos y se limiten los riesgos que dicha utilización 
+comporta para los propios activos informáticos y para la información propiedad de Aena.  
+ 
+Esta Norma debe dar respuesta a las siguientes necesidades:  
+a) Garantizar que solo el personal autorizado accede a la red de datos.  
+b) Protección de los sistemas informáticos de las empresas.  
+c) Prevención de responsabilidades administrativas, civiles y penales que pudieran 
+derivarse para la empresa por el uso ilícito de los activos informáticos.  
+d) Preservación de la integridad, disponibilidad y confidencialidad de la información 
+propiedad de cada empresa.  
+ 
+Esta Norma complementa a las ya existentes referidas al uso del correo electrónico 
+corporativo y al acceso a internet y filtrado de contenidos. 
+ 
+13.2 OBJETO Y ÁMBITO DE APLICACIÓN  
+Este documento tiene como objeto definir las obligaciones de los usuarios respecto al acceso 
+a la red corporativa de datos de Aena y a las medidas de seguridad a aplicar en el uso de los 
+recursos y activos informáticos corporativos, así como establecer las directrices para el buen 
+uso de dichos recursos.  
+ 
+Esta Norma aplica a todo el personal, tanto interno como externo, que preste sus servicios a 
+cualquiera de los centros gestionados directamente por Aena, utilizando para ello la red 
+corporativa empresarial.  
+Uno de los objetivos de esta Norma es el de evitar prácticas que supongan una utilización 
+incorrecta o inadecuada de los recursos aquí indicados, así como establecer las reglas y 
+criterios de uso que podrán ser controlados y auditados por la empresa.  
+ 
+En los casos en los que sea el usuario quién decida donde almacenar la información, él será 
+responsable de almacenar la información en los recursos de almacenamiento de información 
+puestos a su disposición (carpetas de red, gestores documentales o almacenamientos 
+corporativos en nube) de forma que se garantice la confidencialidad de la misma. La 
+información contenida en los sistemas corporativos (SAP, SIGA, SCENA, etc.) se regirá por 
+normas y procedimientos específicos para dichos sistemas.  
+
+--- página 31 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 31 
+  
+ 
+Será responsabilidad del área de tecnologías de información (TIC) de cada centro, el ofrecer 
+a los usuarios los medios necesarios para garantizar la confidencialidad y el acceso a los 
+datos.  
+ 
+Igualmente velarán, y auditarán si fuese necesario, que el uso y acceso a la información solo 
+es realizado por personal autorizado, comunicando al usuario cualquier violación que se 
+conozca sobre las reglas de acceso establecidas.  
+ 
+Será responsabilidad de la Dirección de TIC y Ciberseguridad el desarrollo de los 
+procedimientos que se desprendan de la aplicación de esta norma. 
+ 
+ 
+13.3 CONDICIONES DE USO DE LOS RECURSOS INFORMÁTICOS EMPRESARIALES.  
+13.3.1 Condiciones para el Acceso a la Red de Datos.  
+El acceso a la red de datos de Aena se concederá directamente a todo empleado que lo 
+requiera para el desempeño de su actividad y a todo personal externo que lo requiera y sea 
+solicitado por su director de expediente o responsable directo. Para solicitar el acceso a la 
+red de datos al personal externo, se pondrá a disposición de los usuarios los procedimientos 
+correspondientes que permitan recoger los datos necesarios para identificar y autorizar 
+dicho acceso.  
+ 
+Será responsabilidad del director de expediente o responsable directo, la petición de 
+derechos de acceso sobre los recursos de red, cambios en los derechos de acceso (por 
+cambio de funciones u ocupación) y la comunicación del cese de actividad del personal 
+externo, con el objeto de revocar la autorización concedida y dar de baja al usuario 
+autorizado.  
+ 
+Aena entregará algún mecanismo de identificación (nombre de usuario y contraseña, tarjeta, 
+token o similar) que permitirá el acceso a la red de datos de Aena y a los servicios 
+empresariales.  
+ 
+Será responsabilidad de cada usuario, mantener la confidencialidad del mecanismo de 
+identificación, así como controlar todas las actividades que se lleven a cabo en su nombre. 
+Así mismo deberá notificar inmediatamente a Aena cualquier uso no autorizado de su 
+cuenta, o cualquier otra infracción de seguridad, para tomar las medidas correspondientes. 
+ 
+13.3.2 Condiciones Generales de Uso de Activos Informáticos.  
+Los activos informáticos puestos a disposición de los usuarios de Aena (incluyendo 
+empleados y asistencias técnicas), son de titularidad de la empresa, y cumplen con la 
+finalidad principal de asegurar la prestación de servicios por parte de dichos usuarios. Por 
+este motivo, los activos informáticos serán utilizados por los usuarios para fines 
+estrictamente profesionales, con las excepciones contempladas en el presente documento.  
+ 
+
+--- página 32 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 32 
+  
+ 
+Los usuarios no podrán, en ningún caso, alterar en todo o en parte, cualquiera de los activos 
+informáticos, instalar programas informáticos por su cuenta y riesgo, especialmente si no 
+están aprobados por parte de la Dirección de TIC y Ciberseguridad. Cualquier necesidad de 
+instalación de programas debe ser remitida a los responsables de informática del Centro que 
+evaluarán si es posible o no su instalación.  
+ 
+La conexión de dispositivos necesarios para el desempeño de las actividades de los usuarios 
+se realizará solo si previamente ha sido aprobada por los responsables de Sistemas TIC del 
+centro asociado, a través de sus servicios de “helpdesk” o soporte.  
+ 
+Los programas informáticos instalados en los activos informáticos titularidad de Aena son 
+propiedad de la empresa, estando prohibida su copia y/o reproducción no autorizada.  
+La Dirección de TIC y Ciberseguridad, con el consenso de las áreas TIC de los centros, 
+determinará los estándares de seguridad que se deben aplicar sobre los activos informáticos, 
+como por ejemplo: antivirus, seguridad del sistema operativo, parches de seguridad, etc.  
+ 
+13.3.2.1 Información de Carácter Particular Permitido en los Activos Informáticos.  
+Siempre y cuando no vaya en detrimento de sus obligaciones laborales, ni represente 
+incumplimiento de su jornada laboral, ni afecte a la operatividad de los sistemas informáticos 
+de Aena, el usuario podrá hacer uso, excepcional y moderadamente, para fines personales 
+de los activos informáticos puestos a su disposición por la empresa. Aena se reserva la 
+posibilidad de limitar dicho uso, suspenderlo temporalmente o prohibirlo. En ningún caso se 
+podrán utilizar dichos activos para fines profesionales particulares en actividades 
+incompatibles o concurrentes con el servicio del usuario en Aena. 
+ El usuario podrá por tanto almacenar de modo razonablemente limitado, ficheros y correos 
+electrónicos de carácter particular, exclusiva y obligatoriamente, en el ordenador personal 
+que tenga asignado, y nunca en sistemas y recursos de la red empresarial. Dichos datos de 
+carácter particular quedarán almacenados en una ubicación lógica (carpeta) definida para 
+tal uso en su ordenador personal asignado (en la configuración actual con equipos cliente 
+Windows, la carpeta es C:\Usuarios\[login_de_usuario]\Personal).  
+Será por tanto dicho repositorio de acceso exclusivo por parte del usuario, asegurándose la 
+confidencialidad de su contenido. No obstante dichos datos se verán en todo momento 
+supeditados a las siguientes pautas:  
+• Las contempladas en el punto 3.2.3 del presente documento.  
+• No serán objeto de salvaguarda (copia de seguridad) por parte de las áreas de 
+soporte TIC.  
+• No se garantiza la recuperación de dichos datos en casos de borrado o degradación 
+de los mismos.  
+• No se asegurará en ningún caso la disponibilidad de los mismos en el caso de que 
+el usuario finalice su relación laboral o actividad en Aena.  
+• Se reservará la posibilidad por parte de Aena a limitar el volumen de 
+almacenamiento particular, incluyendo la suspensión o prohibición de su uso.  
+ 
+
+--- página 33 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 33 
+  
+ 
+En los equipos que sean compartidos por varios usuarios y siempre que sea posible, se 
+aplicarán las medidas de seguridad necesarias para que un usuario no pueda acceder a la 
+información particular de otro. En los casos en los que no sea posible establecer esas 
+medidas de seguridad, se deberá comunicar a cada uno de los usuarios de dichos equipos.  
+ 
+Será por tanto responsabilidad del propio usuario la diferenciación y separación de la 
+información relativa al ámbito laboral, de la información meramente particular. Dado que la 
+recepción de correos se realiza en una única ubicación, cada usuario deberá almacenar los 
+correos de carácter particular en un contenedor diferente al que contiene los correos 
+laborales.  
+ 
+13.3.2.2 Propiedad, Integridad y Uso Profesional de la Información Almacenada en los Sistemas 
+de Red Empresariales.  
+La información relacionada con la actividad laboral de Aena, deberá ser obligatoriamente 
+almacenada en los sistemas de red puestos a disposición de los usuarios (carpetas de red 
+para el almacenamiento de datos departamentales e individuales, gestores documentales, 
+así como espacios de trabajo en red). Dado que se trata de información profesional, Aena 
+podrá tener acceso a la misma respetando en cualquier caso la legalidad vigente, quedando 
+excluido el acceso a los buzones de correo electrónico (salvo las situaciones contempladas 
+en el punto 3.2.4. del presente documento).  
+ 
+La mencionada información tendrá como mínimo la categoría de restringida. En ningún caso 
+podrá ser objeto de comunicación a terceros cuando la remisión no quede justificada por 
+motivos profesionales.  
+ 
+El usuario quedará por tanto obligado a cumplir con las medidas de seguridad, para preservar 
+la confidencialidad y el correcto uso de la información y los activos informáticos, que en cada 
+caso establezca la empresa. En caso contrario, Aena podrá tomar las medidas necesarias 
+para sancionar dicho uso inadecuado.  
+En los casos en los que se requiera una mayor confidencialidad, los usuarios podrán cifrar el 
+contenido de sus documentos de servicio. Para ello, las áreas TIC correspondientes pondrán 
+a su disposición las herramientas normalizadas para proceder al cifrado. El cifrado de la 
+información debe permitir que solo las personas que conozcan las claves de cifrado puedan 
+descifrar la información.  
+ 
+Los usuarios guardarán especial diligencia en relación a la confidencialidad de aquellos 
+ficheros que contengan datos cuya naturaleza este afectada por las Leyes de Protección de 
+Datos vigentes en cada momento. Aquellos usuarios que tengan acceso a dichos ficheros 
+deberán respetar, en todo momento, las medidas de seguridad establecidas para cada caso 
+y extremarán las precauciones a fin de evitar la exposición de información y preservar su 
+confidencialidad frente a terceros no autorizados.  
+ 
+
+--- página 34 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 34 
+  
+ 
+Toda la información almacenada en los sistemas de red empresariales se verá en todo 
+momento supeditada a las pautas establecidas del punto 3.2.3 del presente documento. 
+ 
+13.3.2.3 Restricciones en Cuanto a la Naturaleza de los Datos.  
+Tanto para información de carácter laboral como para ficheros de carácter particular, en 
+ningún caso se admitirá el almacenamiento de:  
+• Archivos con contenidos de naturaleza ofensiva, intimidatoria u hostil en relación 
+con la raza, sexo, religión, nacionalidad, orientación sexual, discapacidad o cualquiera 
+otra condición de la persona amparada por la Constitución Española, así como los 
+que realicen proselitismo religioso, político o de cualquier otro carácter.  
+• Archivos de contenido protegido por las normas de la propiedad intelectual tales 
+como música, imágenes, vídeos, juegos, programas informáticos no autorizados, etc.  
+ 
+13.3.2.4 Control Empresarial de los Activos Informáticos.  
+Los activos informáticos objeto de control serán los que la empresa haya puesto a disposición 
+de cada usuario para el desempeño de sus funciones laborales, dichos activos son propiedad 
+de Aena . La empresa se reservará el derecho de implantar herramientas que faciliten el 
+cumplimiento de las normas y políticas aprobadas, así como verificar y auditar la correcta 
+implantación y ejecución de dichas normas mediante el uso de herramientas de análisis 
+forense. En cualquier caso, estas medidas serán siempre complementarias a la 
+obligatoriedad del cumplimiento de esta normativa por parte de los usuarios que presten 
+sus servicios en la empresa.  
+Para no vulnerar el derecho a la intimidad de las personas y el secreto de las comunicaciones, 
+se advierte a los usuarios del eventual control de los activos informáticos por parte de la 
+empresa.  
+En dichos controles se respetará la intimidad de los usuarios, salvo que:  
+• Se tenga la autorización expresa por parte del usuario para el acceso a su contenido.  
+• Se trate de datos generados y/o almacenados por personal que ya no preste sus 
+servicios laborales en Aena, y que en su momento no hubiere eliminado dichos datos.  
+• Se tengan sospechas fundadas de realización de actos fraudulentos, desleales y/o 
+ilícitos, que se justifiquen por parte de un responsable inmediato del usuario 
+(Director), o por el propietario del recurso o activo informático, siendo recomendable 
+la presencia del propio trabajador y/o algún representante.  
+• A requerimiento de autoridades administrativas y/o judiciales.  
+ 
+13.3.2.5 Reserva de Derecho.  
+En ningún caso, lo dispuesto en el presente documento otorgará al usuario un derecho 
+adquirido sobre el uso de los activos informáticos. La empresa se reservará el derecho de 
+establecer limitaciones y/o restricciones totales o parciales al uso profesional y/o particular 
+de estos activos informáticos en función de las necesidades organizativas y del sistema, 
+previa comunicación al usuario. 
+ La empresa se reservará igualmente el derecho de archivar y examinar los historiales de 
+accesos a contenidos almacenados en los sistemas de red empresariales. 
+
+--- página 35 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 35 
+  
+ 
+ 
+13.3.2.6 Fuga de información  
+Queda prohibida la salida de información almacenada en los sistemas de red empresarial de 
+los mismos a través de cualquier medio (dispositivos portátiles, hojas impresas, correos 
+electrónicos, etc.) salvo que se realice con el fin de su posterior tratamiento en el desempeño 
+de los servicios exclusivamente laborales y bajo las condiciones de confidencialidad 
+especificadas en el punto 3.2.2 de esta norma. 
+ 
+13.3.3  Uso de los Recursos de Red Empresariales.  
+Los sistemas de red empresariales instalados por Aena ofrecen a los usuarios autorizados el 
+acceso a diferentes aplicaciones y documentos, así como el acceso a los siguientes recursos, 
+cuyas condiciones de uso se especifican a continuación:  
+• Carpetas en red y repositorios en nubes corporativas para el almacenamiento de 
+ficheros.  
+• Gestores documentales y repositorios de datos para aplicaciones informáticas.  
+• Servicios de impresión en red.  
+ 
+13.3.3.1 Uso de las Carpetas en Red y Repositorios en Nube.  
+Los servicios de almacenamiento en red aportan una herramienta imprescindible para el 
+alojamiento de archivos informáticos de cualquier tipo en los servidores corporativos de Aena.  
+ 
+Se debe usar los recursos de servidores de red y los alojamientos en nube contratados por Aena 
+para almacenar la información de negocio o toda aquella que se considere importante para el 
+desempeño de las funciones del servicio de mantenimiento, evitando el uso de los discos duros 
+locales para el almacenamiento de esta información con objeto de evitar la pérdida 
+irremediable de datos.  
+ 
+Sobre estos recursos se aplican directivas de seguridad, que avalan la confidencialidad de los 
+datos, y se realizan copias de seguridad periódicas, con lo que queda garantizada la existencia 
+y recuperación de los datos, a diferencia de la información almacenada en los recursos 
+informáticos locales (PCs), recursos que pueden ser afectados por averías y otros incidentes. 
+  
+En el caso de documentos con contenidos especialmente sensibles o con contenidos sujetos a 
+requerimientos legales, el propietario de los mismos comunicará al coordinador OCPD de su 
+centro, y/o a la Oficina Central de Protección de Datos (ocpd@aena.es) esta circunstancia, con 
+el objeto de aplicar las medidas necesarias o impuestas por las leyes o normas de aplicación a 
+dicha información.  
+Se definen los siguientes tipos de carpetas, que en ningún caso podrán utilizarse para el 
+almacenamiento de contenidos de carácter “extralaboral”:  
+a) Carpetas de usuario  
+Este tipo de recurso permite asignar a cada usuario de la red un almacenamiento de 
+tamaño estándar para el uso exclusivo del usuario en cuestión. Se pretende que sea 
+
+--- página 36 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 36 
+  
+ 
+utilizado para almacenar aquella información que no tiene que ser expresamente 
+compartida con otros usuarios de la red.  
+ 
+b) Carpetas departamentales  
+Este tipo de recurso permite asignar almacenamiento para el uso de grupos de personas 
+de la organización. Se pretende que sea utilizado para almacenar aquella información 
+que tiene que ser compartida entre varios usuarios de la red e inaccesible para el resto 
+de la organización. Se garantizará que ningún otro usuario de la red, además de los 
+miembros contenidos en los mencionados grupos. Estas carpetas se organizarán 
+siguiendo lo más fielmente posible la estructura organizativa de la unidad que las ha 
+solicitado, siendo en última instancia el jefe de la unidad solicitante responsable de 
+autorizar los permisos de acceso.  
+Este tipo de carpetas deberá tener un propietario el cual será el encargado de solicitar 
+o aprobar las peticiones de acceso a las mismas.  
+ 
+c) Carpetas de intercambio de ficheros (Buzones)  
+Este tipo de recurso permite disponer de un amplio volumen de almacenamiento en red 
+con objeto de facilitar el intercambio de archivos de red sin recurrir a otras herramientas 
+más limitadas en cuanto al volumen, tales como el correo electrónico. El acceso a este 
+tipo de carpetas es libre para todos los usuarios de la red corporativa y permite el 
+intercambio de archivos tanto entre usuarios del mismo centro como entre usuarios de 
+distintos centros.  
+Esta característica particular de acceso libre impone algunas consideraciones especiales 
+en estas carpetas, como que queda terminantemente prohibido copiar en ellas 
+información de alguna manera sensible o que tenga que mantenerse oculta y con 
+acceso limitado a personas concretas, así como insistir en las limitaciones recogidas en 
+el punto 3.2.3. del presente documento. Asimismo, estas carpetas se conciben como 
+elementos de intercambio y no de almacenamiento permanente, siendo obligación de 
+los usuarios el borrado de su información una vez trasferida a los destinatarios. Dado 
+que estas carpetas mantienen meras copias de información, no se realizará ninguna 
+salvaguarda de la misma, y sus contenidos serán borrados periódicamente por parte de 
+las áreas de soporte TIC.  
+ 
+d) Carpetas de Aplicación  
+Este tipo de recurso permite asignar almacenamiento a aplicaciones que requieren del 
+uso de carpetas de red para albergar información propia de la aplicación, En dichas 
+carpetas esta terminantemente prohibido la copia de cualquier otro archivo que no sea 
+para el uso exclusivo de la aplicación.  
+Las Divisiones y Departamentos TIC periódicamente pondrán a disposición de los 
+usuarios, a través de sus Direcciones asociadas, el espacio ocupado en las carpetas de 
+red cuya titularidad ostenten.  
+ 
+
+--- página 37 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 37 
+  
+ 
+13.3.3.2 Uso de los Gestores Documentales.  
+Los servicios de gestión documental aportan una herramienta que va más allá del mero 
+almacenamiento de ficheros en red para proporcionar valor añadido, como control del ciclo de 
+vida de los documentos, versionado, notificación de cambios, etc. Los documentos 
+almacenados en gestores documentales están sujetos a las mismas restricciones que en las 
+carpetas de red, siendo finalmente el propietario de los mismos el responsable de asegurarse 
+que son almacenados. 
+ 
+13.3.3.3 Uso de los Servicios de Impresión y Digitalización en Red.  
+Para asegurar el mejor aprovechamiento de los servicios de impresión y digitalización en red, 
+se hace necesario establecer unas normas de uso que garanticen el uso racional de dichos 
+dispositivos y la contención en el gasto de los consumibles necesarios para la operación de 
+este servicio. 
+  
+Se potenciará la compartición de las impresoras basadas en servidor (en red), que darán 
+servicio a un conjunto de usuarios. Las impresoras que se instalen, deben tender a garantizar 
+la confidencialidad de las impresiones o digitalizaciones, así como la autoría de las 
+impresiones realizadas.  
+ 
+No se instalarán impresoras locales salvo a directivos o responsables, que por la naturaleza de 
+su actividad, necesiten imprimir documentos de carácter confidencial. Dichas impresoras solo 
+se instalarán en ubicaciones de acceso restringido, y solo con la autorización del Director 
+inmediato jerárquico.  
+ 
+En caso de ser necesario que el dispositivo imprima en color, la solicitud deberá expresar 
+claramente la justificación de esta necesidad y su dotación siempre estará sujeta al resultado 
+del estudio realizado por los responsables TIC. Las impresoras que actualmente no están en 
+red se declaran a extinguir, no procediéndose a su reposición en caso de avería irreparable o 
+haber finalizado el periodo de amortización de la misma.  
+ 
+En aras de conseguir un ahorro energético y económico, las impresoras o dispositivos 
+multifunción que se doten a la empresa deberán poseer una serie de características o seguir 
+ciertas pautas como: optimizar el uso de papel (doble página por hoja o doble cara), 
+dispositivos con la misma funcionalidad (por ejemplo impresoras de B/N) no deben ubicarse a 
+menos de 20 metros de distancia unas de otras, potenciar la compra de productos con 
+etiqueta Energy Star o similar, pasar a inactividad o consumo reducido cuando no tengan 
+actividad y deben apagarse físicamente fuera del horario operativo.  
+ 
+Quedará bajo la responsabilidad de los usuarios cualquier dato impreso obtenido a través de 
+los sistemas de impresión en red, y es su obligación evitar que quede al alcance de personas no 
+autorizadas a acceder a esa información, así como retirar los documentos originales escaneados 
+en los sistemas de digitalización  
+
+--- página 38 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 38 
+  
+ 
+Así mismo, las áreas TIC pondrán a disposición de los usuarios, a través de sus Direcciones 
+asociadas, informes periódicos informando del uso y consumo de los recursos de impresión y 
+digitalización. 
+ 
+13.3.4 Uso de los Activos Informáticos Físicos. 
+Se entienden como activos informáticos físicos a todos aquellos activos informáticos que, por 
+su naturaleza, requieren disponer de una fuente de energía eléctrica para su adecuada 
+utilización y que disponen de funcionalidad en sí mismos como por ejemplo un ordenador 
+personal de sobremesa, un ordenador personal portátil, un dispositivo móvil, una impresora, 
+etc.  
+ 
+En función de las necesidades laborales de los usuarios, se definirán perfiles asociados a dichas 
+necesidades. Dicho perfil definirá los activos físicos a dotar, siguiendo los criterios del 
+correspondiente responsable TIC. Estos perfiles constituyen unos mínimos recomendables, de 
+forma que cada petición será adecuada por el responsable TIC tras un estudio de las 
+aplicaciones a utilizar (prestaciones requeridas por éstas, necesidades de almacenamiento, 
+etc.).  
+Aena dotará de equipamiento a los usuarios para el desempeño de su actividad, siguiendo 
+directrices de eficiencia tanto técnica como económica, asegurando en todo momento que el 
+usuario pueda realizar correctamente su servicio. 
+ 
+13.4 INCUMPLIMIENTO DE LA PRESENTE NORMA  
+El incumplimiento de estas normas determinará la utilización por parte de Aena de las 
+restricciones que considere oportunas y, en su caso, la aplicación del régimen disciplinario.  
+ 
+En caso de dudas o sugerencia respecto a la aplicación de esta norma, pueden dirigir su petición 
+a través del DIGITAL WORKPLACE VENUS: https://aena-dwp.onbmc.com/dwp/app, o a los 
+responsables TIC de su centro de trabajo. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 39 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 39 
+  
+ 
+ 
+ANEXOS
+
+--- página 40 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 40 
+  
+ 
+ANEXO I.  CUADRO DE PRECIOS UNITARIOS. 
+ 
+Pos Descripción Euros total (€) 
+1 Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 24.000€ 
+ 
+El importe máximo previsto para el presente expediente SUMA la cantidad de VEINTICUATRO MIL 
+EUROS (24.000 Euros) excluido IVA. 
+ 
+ 
+ 
+
+--- página 41 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 41 
+  
+ 
+ANEXO II. ESTUDIO ECONÓMICO. 
+ 
+Pos Descripción Euros total (€) 
+1 Mantenimiento en Estado Operativo de Aplicación GTA 17.700€ 
+2 Bolsa de 70 horas – Evolutivo GTA. 30€/hora 6.300€ 
+ TOTAL 24.000€ 
+ 
+ANEXO III. IMPRESOS NORMALIZADOS.  
+A continuación, se exponen a título orientativo formatos normalizados a cumplimentar por la 
+empresa adjudicataria en la ejecución de su servicio de mantenimiento. 
+ 
+1. INFORME DE SERVICIOS REALIZADOS. 
+2. INFORME DE DISCREPANCIA. 
+3. SOLICITUDES DE SERVICIO. 
+4. SOLICITUD DE MATERIAL. 
+5. RELACIÓN VALORADA. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- página 42 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 42 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INFORME DE SERVICIOS REALIZADOS 
+Nº Parte 
+ 
+ 
+Fecha Servicio 
+ 
+ESTADO DE OPERATIVIDAD DE LAS INSTALACIONES 
+Tipo 
+(Marcha/Paro) Fecha / Hora Equipo Descripción de la avería 
+    
+    
+    
+    
+    
+    
+    
+DESCRIPCIÓN DE LA PRESTACIÓN DEL SERVICIO: Síntomas encontrados/Causas del fallo/ 
+prestaciones de servicios practicadas 
+ 
+ 
+ 
+ 
+ 
+RESUMEN DE MEDIOS EMPLEADOS 
+Código Descripción Inicio Fin 
+    
+    
+    
+    
+RESUMEN DE MEDIOS MATERIALES EMPLEADOS (Repuestos/Herramientas) 
+Código Descripción Cantidad 
+   
+   
+   
+La Empresa Mantenedora 
+ 
+ 
+ 
+
+
+--- página 43 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 43 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INFORME DE DISCREPANCIA 
+   
+Nº Parte 
+ 
+ 
+Fecha Código 
+equipo 
+Localización Servicio Solicitud de 
+servicio 
+asociada nº 
+Síntoma y estado encontrado 
+ 
+ 
+ 
+ 
+ 
+ 
+Causas del fallo 
+ 
+ 
+ 
+ 
+ 
+Sugerencia de prestación de servicios 
+ 
+ 
+ 
+ 
+ 
+ 
+Estado operativo  En servicio  Fuera de servicio 
+Responsable del grupo de prestación de servicios 
+ 
+ 
+ 
+ 
+Firma 
+Acción correctora adoptada 
+ 
+ 
+ 
+La Empresa Mantenedora 
+ 
+ 
+ 
+Firma 
+
+
+--- página 44 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 44 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SOLICITUD DE SERVICIOS 
+Nº Parte 
+ 
+ 
+Fecha Código 
+equipo 
+Localización Servicio Tipo de 
+servicio 
+Fechas de prestación de servicios COMUNICACIONES 
+Con Jefe de Área  Si  No 
+Con TWR    Si  No  
+Con CECOA    Si  No  
+Con CEMANT    Si  No  
+Terminar antes de 
+Necesita parada      Si  No 
+Necesita autocontrol  Si  No 
+Necesita transporte  Si  No 
+Descripción de la solicitud 
+ 
+ 
+ 
+ 
+Instrucciones y precauciones 
+ 
+ 
+ 
+ 
+ 
+Previsión de medios  
+ 
+ 
+ 
+ 
+Medios Material necesarios para la prestación del servicio 
+ 
+ 
+ 
+ 
+Documentación de referencia 
+ 
+ 
+ 
+ 
+ 
+La Empresa Mantenedora 
+ 
+ 
+Firma 
+
+
+--- página 45 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 45 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SOLICITUD DE MATERIAL 
+EXPTE Nº  
+TÍTULO  
+Pos Denominación Marca Modelo Ud . P. Unitario P. Total Cargo Destino 
+1         
+2         
+3         
+4         
+5         
+6         
+7         
+8         
+OBSERVACIONES: 
+ 
+CONFORME: 
+EL DIRECTOR DEL EXPEDIENTE 
+CONFORME: 
+LA EMPRESA MANTENEDORA 
+  
+FECHA: FECHA: 
+  
+
+
+--- página 46 ---
+ 
+ 
+ 
+ 
+   
+Mantenimiento de Aplicativo GTA en el Aeropuerto de Sevilla 46 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RELACIÓN VALORADA 
+CORRESPONDIENTE AL MES DE 
+__________ 
+EXPTE Nº  
+TÍTULO  
+Pos Concepto Importe 
+   
+   
+   
+ SUMA (excluido IVA)  
+ 
+ 
+Importa la presente relación valorada la cantidad de (en letra) 
+______________________________                              
+ 
+________________________________________________________________
+___€ excluido IVA. 
+Por AENA, S.M.E. S.A. – Aeropuerto de 
+Sevilla 
+EL DIRECTOR DEL EXPEDIENTE 
+Por la Empresa Adjudicataria 
+ 
+  
+FECHA: FECHA: 
+ 
+ 
+ 
+  
+  
+ 

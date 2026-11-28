@@ -1,0 +1,605 @@
+
+
+--- página 1 ---
+ 
+ 
+ 
+ 
+ 
+PLIEGO DE PRESCRIPCIONES TÉCNICAS 
+ 
+_________________________________________________________ 
+Título: CONTRATACIÓN DE LICENCIAS 
+PARA LA VISUALIZACIÓN Y ANÁLISIS DE 
+DATOS DEL BIG DATA TOURIST COSTA DEL 
+SOL 
+TURISMO Y PLANIFICACIÓN COSTA DEL SOL, S.L.U. 
+Expediente: SLU-2026-PASS-INT-0001 
+_________________________________________________________ 
+ 
+ 
+ 
+Hash: a58afc3110c197e1f768793d865d7910260b6d586b1be0acc8976eadbbfacb15cf7f88def592fd95f613ad5945bd03e32a7059a218a4e7d3c2585c8ac25dfdd3 | PÁG. 1 DE 13
+FIRMANTE NIF/CIF FECHA Y HORA
+RAFAEL FUENTES GARCIA (DIRECTOR ÁREA DE INTELIGENCIA TURÍSTICA) ****651** 18/11/2026 09:53:21 CET
+CÓDIGO CSV URL DE VALIDACIÓN
+e7dad2454eaccb10518666fefe57f7297f3bda95 https://sede.malaga.es
+Hash: a7690be7307afbfa36517c872978982d9b67493148a6006ddaff851753606bcc1429fbb93ac08bd204af5afd405e449c4e9ab6638818df7a6574dbf26680c6ee | PÁG. 1 DE 14
+FIRMANTE NIF/CIF FECHA Y HORA
+MARIA ESPERANZA GONZALEZ PAZO (CONSEJERA DELEGADA) ****546** 23/11/2026 16:23:50 CET
+CÓDIGO CSV URL DE VALIDACIÓN
+208343e9a175adb93ee7db55d0ca0c8293ba7c86 https://sede.malaga.es
+
+--- página 2 ---
+ 
+ 
+   
+ 
+ÍNDICE 
+1. INTRODUCCIÓN ..................................................................................................................... 1 
+2. ANTECEDENTES ..................................................................................................................... 1 
+3. OBJETO ................................................................................................................................. 2 
+4. REQUISITOS TÉCNICOS .......................................................................................................... 2 
+4.1 PLATAFORMA DE ANÁLISIS EN LA NUBE .................................................................................... 2 
+4.2 INTEGRACIÓN CON EL ENTORNO CORPORATIVO DE IDENTIDAD Y PRODUCTIVIDAD ............... 2 
+4.3 CONECTIVIDAD AVANZADA CON FUENTES DE DATOS ............................................................... 3 
+4.4 GOBERNANZA, SEGURIDAD Y ADMINISTRACIÓN CENTRALIZADA ............................................. 3 
+4.5 CAPACIDADES DE VISUALIZACIÓN Y ANÁLISIS ............................................................................ 4 
+4.6 COLABORACIÓN EN TIEMPO REAL ............................................................................................. 4 
+4.7 ESCALABILIDAD, CONTINUIDAD Y SOPORTE .............................................................................. 5 
+4.8 REQUISITOS EN CASO DE SOLUCIÓN ALTERNATIVA ................................................................... 5 
+4.9 REVERSIBILIDAD Y PORTABILIDAD .............................................................................................. 5 
+5. OBLIGACIONES DEL ADJUDICATARIO ..................................................................................... 6 
+5.1 REQUISITOS FORMALES .............................................................................................................. 6 
+5.2 DISPONIBILIDAD DE MEDIOS ...................................................................................................... 6 
+5.3 DISPONIBILIDAD DE SERVICIOS .................................................................................................. 6 
+5.4 RESPONSABILIDAD DEL SERVICIO............................................................................................... 7 
+5.5 PROTECCIÓN DE DATOS Y UBICACIÓN DE LOS SERVIDORES ...................................................... 7 
+6. CONDICIONES DEL PROYECTO ................................................................................................ 8 
+6.1 ASPECTOS GENERALES ............................................................................................................... 8 
+6.2 SEGUIMIENTO Y EVALUACIÓN .................................................................................................... 8 
+7. CONDICIONES DEL CONTRATO ............................................................................................... 9 
+7.1 PRESUPUESTO ............................................................................................................................ 9 
+7.2 FORMA DE PAGO ........................................................................................................................ 9 
+7.3 PLAZOS ....................................................................................................................................... 9 
+ 
+Hash: a58afc3110c197e1f768793d865d7910260b6d586b1be0acc8976eadbbfacb15cf7f88def592fd95f613ad5945bd03e32a7059a218a4e7d3c2585c8ac25dfdd3 | PÁG. 2 DE 13
+FIRMANTE NIF/CIF FECHA Y HORA
+RAFAEL FUENTES GARCIA (DIRECTOR ÁREA DE INTELIGENCIA TURÍSTICA) ****651** 18/11/2026 09:53:21 CET
+CÓDIGO CSV URL DE VALIDACIÓN
+e7dad2454eaccb10518666fefe57f7297f3bda95 https://sede.malaga.es
+Hash: a7690be7307afbfa36517c872978982d9b67493148a6006ddaff851753606bcc1429fbb93ac08bd204af5afd405e449c4e9ab6638818df7a6574dbf26680c6ee | PÁG. 2 DE 14
+FIRMANTE NIF/CIF FECHA Y HORA
+MARIA ESPERANZA GONZALEZ PAZO (CONSEJERA DELEGADA) ****546** 23/11/2026 16:23:50 CET
+CÓDIGO CSV URL DE VALIDACIÓN
+208343e9a175adb93ee7db55d0ca0c8293ba7c86 https://sede.malaga.es
+
+--- página 3 ---
+ 
+ 
+  1 
+1. INTRODUCCIÓN  
+Con el presente pliego se establece el conjunto de condiciones técnicas que han de regir la 
+contratación de 14 licencias de uso de una herramienta de análisis y visualización de datos, con el 
+objetivo de fortalecer las capacidades internas en materia de inteligencia turística y gestión basada en 
+datos. 
+Esta contratación se enmarca en la estrategia de transformación digital impulsada por Turismo y 
+Planificación Costa del Sol S.L.U., en adelante TyPCdS, que persigue optimizar la toma de decisiones a 
+través de soluciones tecnológicas avanzadas que faciliten el acceso, interpretación y aprovechamiento 
+del conocimiento generado por los sistemas de información existentes. 
+2. ANTECEDENTES 
+Desde el año 2021, TyPCdS ha venido desarrollando el proyecto Big Data Tourist Costa del Sol, una 
+iniciativa estratégica orientada a dotar al destino de capacidades avanzadas de análisis y explotación 
+de datos turísticos. Esta plataforma de inteligencia de datos permite recopilar, estructurar y analizar 
+información procedente de múltiples fuentes. Para la explotación, análisis y visualización de esta 
+información, TyPCdS dispone actualmente de licencias Power BI Pro. Desde entonces, TyPCdS ha 
+desarrollado sobre dicha herramienta un conjunto de informes, modelos de datos, medidas calculadas 
+y procesos de actualización que constituyen un activo cuya continuidad debe preservarse. La mención 
+de la herramienta actualmente implantada tiene carácter meramente descriptivo del entorno 
+existente y no constituye una exigencia de marca: se admitirán soluciones equivalentes que cumplan 
+las prescripciones de este pliego, en los términos del artículo 126.6 de la Ley 9/2017, de 8 de 
+noviembre, de Contratos del Sector Público (LCSP). 
+El sistema desarrollado ha supuesto un salto cualitativo en la forma de entender y gestionar la 
+información turística, al proporcionar herramientas que apoyan la toma de decisiones tanto en el 
+ámbito público como en el privado. Gracias a esta infraestructura, el destino cuenta hoy con una base 
+sólida para la planificación estratégica, el seguimiento de indicadores clave y el diseño de acciones 
+más eficientes. 
+Para asegurar un uso eficaz de esta arquitectura de datos y facilitar el acceso a la información por 
+parte de los distintos perfiles profesionales que intervienen en la gestión turística, resulta 
+imprescindible continuar disponiendo de una solución de análisis y visualización, interactiva y 
+colaborativa. 
+En este contexto, se plantea la necesidad de adquirir las licencias que permitan gestionar y presentar 
+la información procesada de forma accesible, atractiva y comprensible para que se garantice la 
+continuidad del servicio ofrecido. 
+Hash: a58afc3110c197e1f768793d865d7910260b6d586b1be0acc8976eadbbfacb15cf7f88def592fd95f613ad5945bd03e32a7059a218a4e7d3c2585c8ac25dfdd3 | PÁG. 3 DE 13
+FIRMANTE NIF/CIF FECHA Y HORA
+RAFAEL FUENTES GARCIA (DIRECTOR ÁREA DE INTELIGENCIA TURÍSTICA) ****651** 18/11/2026 09:53:21 CET
+CÓDIGO CSV URL DE VALIDACIÓN
+e7dad2454eaccb10518666fefe57f7297f3bda95 https://sede.malaga.es
+Hash: a7690be7307afbfa36517c872978982d9b67493148a6006ddaff851753606bcc1429fbb93ac08bd204af5afd405e449c4e9ab6638818df7a6574dbf26680c6ee | PÁG. 3 DE 14
+FIRMANTE NIF/CIF FECHA Y HORA
+MARIA ESPERANZA GONZALEZ PAZO (CONSEJERA DELEGADA) ****546** 23/11/2026 16:23:50 CET
+CÓDIGO CSV URL DE VALIDACIÓN
+208343e9a175adb93ee7db55d0ca0c8293ba7c86 https://sede.malaga.es
+
+--- página 4 ---
+ 
+ 
+  2 
+3. OBJETO 
+El objeto del presente contrato es el suministro de 14 licencias individuales de una solución de análisis 
+y visualización de datos, para su utilización en el marco del proyecto Big Data Tourist Costa del Sol, en 
+modalidad de suscripción (cesión del derecho de uso de programas de ordenador estándar, artículo 
+16.3.b) LCSP). 
+Las licencias deberán ser plenamente operativas con independencia de la suite ofimática, de 
+colaboración o de gestión de identidades que TyPCdS tenga contratada en cada momento, de modo 
+que la eventual sustitución de dichos sistemas durante la vigencia del contrato no afecte a su 
+continuidad ni a su funcionamiento normal (apartado 4.2). 
+4. REQUISITOS TÉCNICOS 
+Con objeto de asegurar la continuidad y el correcto funcionamiento del sistema analítico implantado 
+en el marco del proyecto Big Data Tourist Costa del Sol, se requiere la contratación de 14 licencias de 
+una solución de análisis y visualización de datos que cumpla, como mínimo, los siguientes requisitos 
+funcionales, técnicos y de integración: 
+4.1 PLATAFORMA DE ANÁLISIS EN LA NUBE 
+La herramienta deberá ser una solución de análisis y visualización de datos basada en la nube, que 
+permita el acceso seguro, centralizado y multiplataforma a informes interactivos, cuadros de mando 
+y conjuntos de datos desde cualquier ubicación y dispositivo, sin necesidad de infraestructura local. 
+• La solución debe operar sobre una infraestructura en la nube pública con centros de datos 
+ubicados en el Espacio Económico Europeo, y acreditar la conformidad con el Esquema 
+Nacional de Seguridad (Real Decreto 311/2022, de 3 de mayo), al menos en categoría MEDIA 
+o en la que resulte de la categorización del sistema por TyPCdS, así como las certificaciones 
+ISO/IEC 27001 e ISO/IEC 27018 o equivalentes. 
+• Deberá permitir la creación, edición y publicación de informes desde el entorno web sin 
+necesidad de instalación local, así como la disponibilidad de una versión de escritorio para el 
+diseño avanzado de paneles. 
+4.2 INTEGRACIÓN CON EL ENTORNO CORPORATIVO DE IDENTIDAD Y PRODUCTIVIDAD 
+TyPCdS dispone actualmente de un tenant corporativo de Microsoft 365, en el que se centraliza la 
+gestión de usuarios, licencias, políticas de seguridad y configuración de servicios. Dado que el contrato 
+de dicho entorno tiene una vigencia distinta de la del presente contrato y podrá ser sustituido como 
+resultado de una futura licitación, la solución ofertada deberá cumplir los siguientes requisitos de 
+interoperabilidad, que se exigen con independencia del fabricante del entorno corporativo vigente en 
+cada momento: 
+Hash: a58afc3110c197e1f768793d865d7910260b6d586b1be0acc8976eadbbfacb15cf7f88def592fd95f613ad5945bd03e32a7059a218a4e7d3c2585c8ac25dfdd3 | PÁG. 4 DE 13
+FIRMANTE NIF/CIF FECHA Y HORA
+RAFAEL FUENTES GARCIA (DIRECTOR ÁREA DE INTELIGENCIA TURÍSTICA) ****651** 18/11/2026 09:53:21 CET
+CÓDIGO CSV URL DE VALIDACIÓN
+e7dad2454eaccb10518666fefe57f7297f3bda95 https://sede.malaga.es
+Hash: a7690be7307afbfa36517c872978982d9b67493148a6006ddaff851753606bcc1429fbb93ac08bd204af5afd405e449c4e9ab6638818df7a6574dbf26680c6ee | PÁG. 4 DE 14
+FIRMANTE NIF/CIF FECHA Y HORA
+MARIA ESPERANZA GONZALEZ PAZO (CONSEJERA DELEGADA) ****546** 23/11/2026 16:23:50 CET
+CÓDIGO CSV URL DE VALIDACIÓN
+208343e9a175adb93ee7db55d0ca0c8293ba7c86 https://sede.malaga.es
+
+--- página 5 ---
+ 
+ 
+  3 
+• Identidad y acceso. Integrarse con el servicio de directorio y gestión de identidades 
+corporativo vigente (actualmente, Microsoft Entra ID) mediante estándares abiertos de 
+federación y aprovisionamiento (SAML 2.0 u OpenID Connect, y SCIM 2.0 o mecanismo 
+equivalente), con inicio de sesión único y aplicación de las políticas corporativas de acceso y 
+de autenticación multifactor, sin duplicar manualmente cuentas ni credenciales. 
+• Herramientas ofimáticas. Permitir la conexión directa desde la herramienta de hojas de 
+cálculo corporativa (actualmente, Microsoft Excel) a los modelos de datos publicados, con 
+consultas en tiempo real, así como la exportación a formatos abiertos o de uso generalizado 
+(.xlsx, .csv) y el acceso mediante interfaces estándar documentadas (ODBC/JDBC, XMLA o API 
+REST). 
+• Independencia contractual. Las licencias no podrán estar condicionadas a la vigencia, 
+modalidad o fabricante de la suscripción ofimática o de colaboración de TyPCdS, ni ofertarse 
+como parte de un paquete de dicha suscripción. La gestión de identidades, licencias y políticas 
+de seguridad permanecerá en todo momento bajo el control de TyPCdS. 
+• Cambio del entorno corporativo. Si durante la vigencia del contrato TyPCdS sustituye su 
+entorno de identidad o de productividad, el adjudicatario prestará, sin coste adicional, la 
+asistencia técnica necesaria para reconfigurar la federación de identidades y las conexiones 
+descritas en los párrafos anteriores, en un plazo máximo de 30 días naturales desde la 
+comunicación de TyPCdS, garantizando la continuidad del servicio sin pérdida de informes, 
+modelos de datos, permisos ni datos históricos. 
+Los requisitos anteriores deberán cumplirse mediante funcionalidades estándar de la solución, sin 
+desarrollos a medida a cargo de TyPCdS. 
+4.3 CONECTIVIDAD AVANZADA CON FUENTES DE DATOS 
+La solución deberá contar con conectores nativos o soportados oficialmente por el fabricante que 
+permitan la integración automática y segura con múltiples orígenes de datos, incluyendo, al menos: 
+• Bases de datos SQL Server (alojadas en AWS). 
+• Hojas de cálculo de Excel (almacenadas en S3). 
+• Servicios web mediante APIs. 
+Será obligatorio que los conectores permitan programar actualizaciones automáticas sin intervención 
+manual, según frecuencia configurable. 
+4.4 GOBERNANZA, SEGURIDAD Y ADMINISTRACIÓN CENTRALIZADA 
+La herramienta deberá ofrecer un entorno de administración unificado, accesible desde el navegador, 
+que permita: 
+• Gestión y asignación de licencias. 
+• Configuración de políticas de acceso a datos por rol, grupo o usuario. 
+Hash: a58afc3110c197e1f768793d865d7910260b6d586b1be0acc8976eadbbfacb15cf7f88def592fd95f613ad5945bd03e32a7059a218a4e7d3c2585c8ac25dfdd3 | PÁG. 5 DE 13
+FIRMANTE NIF/CIF FECHA Y HORA
+RAFAEL FUENTES GARCIA (DIRECTOR ÁREA DE INTELIGENCIA TURÍSTICA) ****651** 18/11/2026 09:53:21 CET
+CÓDIGO CSV URL DE VALIDACIÓN
+e7dad2454eaccb10518666fefe57f7297f3bda95 https://sede.malaga.es
+Hash: a7690be7307afbfa36517c872978982d9b67493148a6006ddaff851753606bcc1429fbb93ac08bd204af5afd405e449c4e9ab6638818df7a6574dbf26680c6ee | PÁG. 5 DE 14
+FIRMANTE NIF/CIF FECHA Y HORA
+MARIA ESPERANZA GONZALEZ PAZO (CONSEJERA DELEGADA) ****546** 23/11/2026 16:23:50 CET
+CÓDIGO CSV URL DE VALIDACIÓN
+208343e9a175adb93ee7db55d0ca0c8293ba7c86 https://sede.malaga.es
+
+--- página 6 ---
+ 
+ 
+  4 
+• Auditoría y trazabilidad del uso de informes y paneles. 
+• Definición de entornos de trabajo diferenciados (por área, departamento o proyecto). 
+Además, deberá cumplir con las normativas de protección de datos (Reglamento (UE) 2016/679, 
+General de Protección de Datos, y Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos 
+Personales y garantía de los derechos digitales) y ofrecer mecanismos de control de seguridad como: 
+• Acceso mediante autenticación multifactor (MFA). 
+• Cifrado de datos en tránsito y en reposo. 
+• Control de publicación y compartición externa de informes. 
+La solución deberá disponer, asimismo, de herramientas para la gestión del ciclo de vida de los 
+contenidos analíticos, permitiendo gestionar de forma controlada su despliegue entre diferentes 
+entornos de desarrollo, prueba y producción. 
+4.5 CAPACIDADES DE VISUALIZACIÓN Y ANÁLISIS 
+La solución deberá permitir el diseño de informes interactivos y cuadros de mando personalizados con 
+una experiencia visual rica y dinámica, incluyendo: 
+• Amplio catálogo de visualizaciones: gráficos de barras, mapas, matrices, KPI, segmentadores, 
+tarjetas, líneas temporales, etc. 
+• Posibilidad de crear relaciones entre tablas, medidas calculadas y columnas derivadas 
+mediante un lenguaje de expresiones o fórmulas de cálculo. 
+• Navegación jerárquica (drill down/up), filtros cruzados, vistas personalizadas y 
+segmentaciones múltiples. 
+• Incorporación de filtros globales, paneles sincronizados, marcadores y acciones 
+personalizadas. 
+ 
+Será imprescindible que los informes se adapten automáticamente al tamaño de pantalla del 
+dispositivo y que exista una versión móvil oficial optimizada, tanto para iOS como Android. 
+4.6 COLABORACIÓN EN TIEMPO REAL 
+La herramienta deberá permitir que varios usuarios puedan: 
+• Acceder de forma simultánea a los mismos informes y datasets. 
+• Comentar y anotar directamente en paneles publicados. 
+• Compartir informes mediante enlaces seguros, incrustaciones o espacios colaborativos 
+internos. 
+• Gestionar notificaciones automáticas ante cambios de datos o actualización de informes. 
+Hash: a58afc3110c197e1f768793d865d7910260b6d586b1be0acc8976eadbbfacb15cf7f88def592fd95f613ad5945bd03e32a7059a218a4e7d3c2585c8ac25dfdd3 | PÁG. 6 DE 13
+FIRMANTE NIF/CIF FECHA Y HORA
+RAFAEL FUENTES GARCIA (DIRECTOR ÁREA DE INTELIGENCIA TURÍSTICA) ****651** 18/11/2026 09:53:21 CET
+CÓDIGO CSV URL DE VALIDACIÓN
+e7dad2454eaccb10518666fefe57f7297f3bda95 https://sede.malaga.es
+Hash: a7690be7307afbfa36517c872978982d9b67493148a6006ddaff851753606bcc1429fbb93ac08bd204af5afd405e449c4e9ab6638818df7a6574dbf26680c6ee | PÁG. 6 DE 14
+FIRMANTE NIF/CIF FECHA Y HORA
+MARIA ESPERANZA GONZALEZ PAZO (CONSEJERA DELEGADA) ****546** 23/11/2026 16:23:50 CET
+CÓDIGO CSV URL DE VALIDACIÓN
+208343e9a175adb93ee7db55d0ca0c8293ba7c86 https://sede.malaga.es
+
+--- página 7 ---
+ 
+ 
+  5 
+Estas capacidades deberán estar disponibles sin necesidad de desarrollo adicional y ser accesibles 
+desde navegador web y desde el entorno de trabajo corporativo vigente en cada momento. 
+4.7 ESCALABILIDAD, CONTINUIDAD Y SOPORTE 
+• La solución deberá garantizar un crecimiento sin migraciones, permitiendo ampliar el número 
+de usuarios o el volumen de datos sin impacto operativo. 
+• Será necesario contar con soporte técnico oficial por parte del fabricante o proveedor 
+autorizado, así como con acceso a documentación, recursos formativos y actualizaciones 
+periódicas. 
+• El servicio deberá estar operativo con una disponibilidad garantizada (SLA) igual o superior al 
+99,9 % en cómputo mensual. 
+4.8 REQUISITOS EN CASO DE SOLUCIÓN ALTERNATIVA 
+En caso de que la empresa adjudicataria proponga una solución tecnológica diferente de la 
+actualmente implantada, deberá garantizar una transición completa, sin interrupciones y con plena 
+continuidad de la operativa actual. 
+La solución alternativa deberá cumplir íntegramente los requisitos de interoperabilidad del apartado 
+4.2, sin implicar la externalización de la gestión de identidades, licencias o políticas de seguridad, que 
+permanecerá bajo el control de TyPCdS. 
+A tal efecto, la empresa adjudicataria deberá presentar un plan de migración estructurado que se 
+presentará junto con la oferta y contemplará, al menos: el inventario de informes, modelos de datos, 
+medidas calculadas, conexiones, permisos y programaciones de actualización existentes; el calendario 
+de migración; las pruebas de aceptación; y el procedimiento de vuelta atrás. La migración será a cargo 
+del adjudicatario, se entenderá incluida en el precio ofertado y deberá completarse antes del 
+vencimiento de las licencias actualmente en uso, de modo que el Big Data Tourist Costa del Sol 
+funcione sin interrupción y con las mismas prestaciones que con la solución actual. 
+4.9 REVERSIBILIDAD Y PORTABILIDAD 
+Al término del contrato, por cualquier causa, el adjudicatario garantizará que TyPCdS pueda exportar, 
+sin coste adicional y en formatos abiertos o de uso generalizado, la totalidad de los datos, modelos de 
+datos, definiciones de medidas e informes generados, y prestará la colaboración necesaria para su 
+transferencia a la solución que, en su caso, se contrate posteriormente. Una vez confirmada la 
+transferencia por TyPCdS, el adjudicatario certificará la supresión de los datos conforme al artículo 
+28.3.g) del Reglamento (UE) 2016/679. 
+Hash: a58afc3110c197e1f768793d865d7910260b6d586b1be0acc8976eadbbfacb15cf7f88def592fd95f613ad5945bd03e32a7059a218a4e7d3c2585c8ac25dfdd3 | PÁG. 7 DE 13
+FIRMANTE NIF/CIF FECHA Y HORA
+RAFAEL FUENTES GARCIA (DIRECTOR ÁREA DE INTELIGENCIA TURÍSTICA) ****651** 18/11/2026 09:53:21 CET
+CÓDIGO CSV URL DE VALIDACIÓN
+e7dad2454eaccb10518666fefe57f7297f3bda95 https://sede.malaga.es
+Hash: a7690be7307afbfa36517c872978982d9b67493148a6006ddaff851753606bcc1429fbb93ac08bd204af5afd405e449c4e9ab6638818df7a6574dbf26680c6ee | PÁG. 7 DE 14
+FIRMANTE NIF/CIF FECHA Y HORA
+MARIA ESPERANZA GONZALEZ PAZO (CONSEJERA DELEGADA) ****546** 23/11/2026 16:23:50 CET
+CÓDIGO CSV URL DE VALIDACIÓN
+208343e9a175adb93ee7db55d0ca0c8293ba7c86 https://sede.malaga.es
+
+--- página 8 ---
+ 
+ 
+  6 
+5. OBLIGACIONES DEL ADJUDICATARIO 
+5.1 REQUISITOS FORMALES 
+El adjudicatario deberá estar en posesión de todas las acreditaciones, autorizaciones, licencias y 
+permisos exigidos por la legislación vigente para la prestación de los servicios y el suministro de los 
+productos ofertados. Asimismo, deberá garantizar que toda la documentación legal y administrativa 
+requerida esté actualizada y en regla durante toda la vigencia del contrato, asumiendo la obligación 
+de renovar y aportar cualquier certificación adicional que sea requerida por la normativa aplicable o 
+por TyPCdS. 
+La presentación de la oferta implicará la aceptación expresa e incondicionada del contenido de los 
+pliegos que rigen la presente contratación (artículo 139.1 LCSP) y de las órdenes de pedido que se 
+generen, adquiriendo estas últimas carácter contractual. Dichas órdenes de pedido deberán ser 
+formalizadas mediante la firma del adjudicatario una vez comunicada la adjudicación, lo que implicará 
+su plena conformidad con los términos y condiciones del contrato. 
+El adjudicatario garantizará que todos los productos y servicios suministrados cumplen con las 
+normativas técnicas y de seguridad aplicables, así como con los estándares de calidad exigidos en el 
+presente contrato. 
+5.2 DISPONIBILIDAD DE MEDIOS 
+El adjudicatario deberá disponer, desde el inicio de la ejecución del contrato, de los recursos humanos, 
+técnicos y materiales necesarios para garantizar el soporte técnico, la operatividad y la correcta 
+prestación de los servicios. 
+Dichos medios deberán estar permanentemente disponibles para atender cualquier incidencia, 
+consulta o requerimiento técnico formulado por TyPCdS en el marco del contrato. El adjudicatario 
+deberá, asimismo, contar con un equipo técnico especializado capaz de responder de manera eficiente 
+a las necesidades que puedan surgir durante la ejecución del contrato. 
+El adjudicatario se compromete a mantener actualizados sus medios tecnológicos y a adoptar aquellas 
+mejoras técnicas que permitan optimizar la calidad del servicio, siempre que no supongan un coste 
+adicional para TyPCdS. 
+5.3 DISPONIBILIDAD DE SERVICIOS 
+El adjudicatario garantizará la disponibilidad y continuidad de los productos y servicios contratados 
+durante toda la vigencia del contrato, asegurando que estos se presten en las condiciones acordadas 
+y con los niveles de servicio establecidos. 
+En caso de que la evolución tecnológica implique un cambio en la denominación de los productos o 
+servicios contratados, el adjudicatario deberá garantizar que las nuevas versiones mantengan, al 
+menos, las mismas funcionalidades, capacidades y niveles de rendimiento, o que aporten mejoras 
+Hash: a58afc3110c197e1f768793d865d7910260b6d586b1be0acc8976eadbbfacb15cf7f88def592fd95f613ad5945bd03e32a7059a218a4e7d3c2585c8ac25dfdd3 | PÁG. 8 DE 13
+FIRMANTE NIF/CIF FECHA Y HORA
+RAFAEL FUENTES GARCIA (DIRECTOR ÁREA DE INTELIGENCIA TURÍSTICA) ****651** 18/11/2026 09:53:21 CET
+CÓDIGO CSV URL DE VALIDACIÓN
+e7dad2454eaccb10518666fefe57f7297f3bda95 https://sede.malaga.es
+Hash: a7690be7307afbfa36517c872978982d9b67493148a6006ddaff851753606bcc1429fbb93ac08bd204af5afd405e449c4e9ab6638818df7a6574dbf26680c6ee | PÁG. 8 DE 14
+FIRMANTE NIF/CIF FECHA Y HORA
+MARIA ESPERANZA GONZALEZ PAZO (CONSEJERA DELEGADA) ****546** 23/11/2026 16:23:50 CET
+CÓDIGO CSV URL DE VALIDACIÓN
+208343e9a175adb93ee7db55d0ca0c8293ba7c86 https://sede.malaga.es
+
+--- página 9 ---
+ 
+ 
+  7 
+sustanciales sin que ello suponga un coste adicional para TyPCdS. Lo anterior será igualmente aplicable 
+a los cambios de edición o de modelo de licenciamiento introducidos por el fabricante. 
+Cualquier actualización, modificación o sustitución de productos o servicios deberá ser notificada 
+previamente a TyPCdS, detallando las características y beneficios de la nueva solución propuesta, así 
+como asegurando su compatibilidad con los sistemas y procesos ya implantados. 
+5.4 RESPONSABILIDAD DEL SERVICIO 
+El adjudicatario deberá designar un responsable del suministro que actuará como interlocutor directo 
+ante TyPCdS. Este responsable deberá estar en contacto permanente con el personal designado por 
+TyPCdS para la gestión y supervisión del contrato, garantizando una comunicación fluida y una rápida 
+respuesta ante cualquier incidencia o solicitud. 
+Las funciones del responsable del servicio incluirán, entre otras, las siguientes: 
+• Gestión del catálogo de productos y servicios. Mantener actualizada y disponible una relación 
+completa de los productos y servicios suministrados, incluyendo el nivel de soporte y los 
+acuerdos de nivel de servicio (SLA) establecidos en el contrato. 
+• Coordinación y supervisión de las solicitudes. Actuar como punto de contacto para la 
+recepción, gestión y resolución de las peticiones de servicio e información formuladas por 
+TyPCdS, asegurando su adecuada tramitación dentro de los plazos acordados. 
+• Información y asesoramiento tecnológico. Proporcionar a TyPCdS información actualizada 
+sobre las fuentes de documentación técnica disponibles, la evolución de las tecnologías 
+contratadas y las posibles mejoras o innovaciones que puedan implementarse en beneficio 
+del servicio. 
+• Supervisión del cumplimiento del contrato. Garantizar que todos los compromisos 
+adquiridos en materia de calidad, disponibilidad y soporte sean cumplidos en los términos 
+establecidos, informando a TyPCdS de cualquier posible desviación o incidencia relevante. 
+El incumplimiento total o parcial de estas obligaciones, ya sea por deficiencias en la prestación del 
+servicio, por falta de actualización de la información requerida o por incumplimiento de los 
+compromisos contractuales, facultará a TyPCdS para instar la resolución del contrato conforme a la 
+normativa aplicable. 
+Adicionalmente, en caso de incumplimientos reiterados o de especial gravedad, TyPCdS podrá 
+imponer las penalidades previstas en el pliego de cláusulas administrativas particulares o adoptar 
+medidas correctivas destinadas a garantizar la correcta ejecución del contrato. 
+5.5 PROTECCIÓN DE DATOS Y UBICACIÓN DE LOS SERVIDORES 
+Si la ejecución del contrato implica el tratamiento de datos personales por cuenta de TyPCdS, el 
+adjudicatario tendrá la condición de encargado del tratamiento y deberá: (i) cumplir el Reglamento 
+(UE) 2016/679 y la Ley Orgánica 3/2018, de 5 de diciembre; (ii) presentar, antes de la formalización 
+del contrato, una declaración en la que indique dónde van a estar ubicados los servidores y desde 
+Hash: a58afc3110c197e1f768793d865d7910260b6d586b1be0acc8976eadbbfacb15cf7f88def592fd95f613ad5945bd03e32a7059a218a4e7d3c2585c8ac25dfdd3 | PÁG. 9 DE 13
+FIRMANTE NIF/CIF FECHA Y HORA
+RAFAEL FUENTES GARCIA (DIRECTOR ÁREA DE INTELIGENCIA TURÍSTICA) ****651** 18/11/2026 09:53:21 CET
+CÓDIGO CSV URL DE VALIDACIÓN
+e7dad2454eaccb10518666fefe57f7297f3bda95 https://sede.malaga.es
+Hash: a7690be7307afbfa36517c872978982d9b67493148a6006ddaff851753606bcc1429fbb93ac08bd204af5afd405e449c4e9ab6638818df7a6574dbf26680c6ee | PÁG. 9 DE 14
+FIRMANTE NIF/CIF FECHA Y HORA
+MARIA ESPERANZA GONZALEZ PAZO (CONSEJERA DELEGADA) ****546** 23/11/2026 16:23:50 CET
+CÓDIGO CSV URL DE VALIDACIÓN
+208343e9a175adb93ee7db55d0ca0c8293ba7c86 https://sede.malaga.es
+
+--- página 10 ---
+ 
+ 
+  8 
+dónde se van a prestar los servicios asociados, y comunicar cualquier cambio durante la vigencia del 
+contrato; (iii) indicar, en su caso, los subcontratistas o subencargados a los que se encomiende la 
+prestación de los servicios de alojamiento; y (iv) no realizar transferencias internacionales de datos 
+fuera de los supuestos permitidos por el capítulo V del Reglamento (UE) 2016/679. Estas obligaciones 
+tienen el carácter de obligaciones contractuales esenciales a efectos del artículo 211.1.f) LCSP y se 
+desarrollarán en el pliego de cláusulas administrativas particulares y en el correspondiente acuerdo 
+de encargo del tratamiento (artículo 122.2 LCSP). 
+6. CONDICIONES DEL PROYECTO 
+6.1 ASPECTOS GENERALES 
+El adjudicatario asumirá las siguientes obligaciones para garantizar el correcto desarrollo y 
+cumplimiento de los objetivos del proyecto. 
+• Cumplimiento del pliego de prescripciones técnicas. Ejecutar todas las tareas y servicios 
+especificados, garantizando que la solución cumpla con los requisitos funcionales, de calidad 
+y normativos establecidos. 
+• Garantía de calidad. Garantizar que la solución funcione conforme a los estándares de calidad 
+y requisitos técnicos. Realizar las pruebas necesarias para validar el funcionamiento antes de 
+la entrega final. 
+• Responsabilidad en la ejecución. Asumir plena responsabilidad por cualquier error, omisión 
+o incumplimiento, y subsanar cualquier defecto que afecte al funcionamiento de los servicios 
+contratados. 
+6.2 SEGUIMIENTO Y EVALUACIÓN 
+La prestación de servicios solicitados en el presente pliego precisa de un estrecho seguimiento en su 
+desarrollo por parte de TyPCdS, con objeto de garantizar la correcta ejecución de estos. 
+De cara a alcanzar el objetivo marcado, TyPCdS se encargará del seguimiento de la evolución del 
+contrato y la mejora de la ejecución de este y de velar porque la estrategia y objetivos de la 
+contratación de servicios estén alineados de manera que se pueda controlar y garantizar que todas 
+las decisiones y operaciones se ajustan a dicha estrategia. 
+El seguimiento consistirá en: 
+• Monitorizar el avance global del contrato. 
+• Cualquier otro asunto relacionado con el contrato que se considere de interés. 
+TyPCdS podrá convocar reuniones extraordinarias por la existencia de circunstancias que lo hagan 
+necesario. 
+Hash: a58afc3110c197e1f768793d865d7910260b6d586b1be0acc8976eadbbfacb15cf7f88def592fd95f613ad5945bd03e32a7059a218a4e7d3c2585c8ac25dfdd3 | PÁG. 10 DE 13
+FIRMANTE NIF/CIF FECHA Y HORA
+RAFAEL FUENTES GARCIA (DIRECTOR ÁREA DE INTELIGENCIA TURÍSTICA) ****651** 18/11/2026 09:53:21 CET
+CÓDIGO CSV URL DE VALIDACIÓN
+e7dad2454eaccb10518666fefe57f7297f3bda95 https://sede.malaga.es
+Hash: a7690be7307afbfa36517c872978982d9b67493148a6006ddaff851753606bcc1429fbb93ac08bd204af5afd405e449c4e9ab6638818df7a6574dbf26680c6ee | PÁG. 10 DE 14
+FIRMANTE NIF/CIF FECHA Y HORA
+MARIA ESPERANZA GONZALEZ PAZO (CONSEJERA DELEGADA) ****546** 23/11/2026 16:23:50 CET
+CÓDIGO CSV URL DE VALIDACIÓN
+208343e9a175adb93ee7db55d0ca0c8293ba7c86 https://sede.malaga.es
+
+--- página 11 ---
+ 
+ 
+  9 
+7. CONDICIONES DEL CONTRATO 
+7.1 PRESUPUESTO 
+El presupuesto base de licitación para el presente contrato se establece en 5.082,00 € (IVA incluido). 
+Dicho importe se desglosa en 4.200,00 € de base imponible y 882,00 € de IVA (21 %) y corresponde a 
+una anualidad. El valor estimado del contrato, incluida la eventual prórroga, asciende a 8.400,00 € 
+(IVA excluido), conforme al artículo 101 LCSP. 
+En relación con el análisis de costes fijos y variables realizados para poder calcular adecuadamente el 
+presupuesto base de licitación de este expediente se han tenido en cuenta los siguientes elementos: 
+• Costes directos. Entendidos estos por los costes de contratación del servicio, la puesta en 
+marcha de esta y el servicio post venta según las condiciones del pliego técnico del 
+expediente, así como los costes de los elementos del inmovilizado tanto material como 
+inmaterial para poder prestar el servicio. 
+• Costes indirectos. Entendidos estos como los costes de servicios exteriores de la empresa, de 
+mantenimiento de la infraestructura del licitador y el beneficio industrial que se le atribuye al 
+proyecto. 
+En base a los elementos expuestos, los cálculos se han realizado en términos porcentuales al ser 
+prácticamente imposible hacerlo en términos reales dada la compleja realidad del sector de las 
+empresas de servicios tecnológicos y las diferencias tan grandes que existen entre las compañías que 
+tienen muchas sucursales y las que sólo tienen una en cuanto a sus costes y posibles beneficios por 
+volumen de servicios contratados.  
+En los cálculos realizados se ha concluido que el porcentaje de costes indirectos de este proyecto 
+puede rondar aproximadamente un 30 % de los que un 20 % serían los costes de mantenimiento y un 
+10 % el beneficio industrial del procedimiento lo cual se considera adecuado para las circunstancias 
+actuales del mercado. 
+El restante 70% del presupuesto se dedica a lo que es realmente la contratación de los servicios que 
+se demandan y es el porcentaje que consideramos que pertenece a los costes directos. 
+7.2 FORMA DE PAGO 
+El pago de cada anualidad se realizará en un único pago, cuando las licencias estén funcionando, tras 
+la presentación de la factura correspondiente, que deberá emitirse en euros. 
+La presentación de la factura deberá realizarse en el Registro de Facturas de la entidad y será necesario 
+que sea previamente conformada por los responsables del proyecto por parte de TyPCdS. 
+7.3 PLAZOS 
+El plazo de ejecución del presente contrato será de 1 año, con posibilidad de prórroga por otro año 
+más, que será acordada por TyPCdS y obligatoria para el adjudicatario siempre que se le preavise con 
+Hash: a58afc3110c197e1f768793d865d7910260b6d586b1be0acc8976eadbbfacb15cf7f88def592fd95f613ad5945bd03e32a7059a218a4e7d3c2585c8ac25dfdd3 | PÁG. 11 DE 13
+FIRMANTE NIF/CIF FECHA Y HORA
+RAFAEL FUENTES GARCIA (DIRECTOR ÁREA DE INTELIGENCIA TURÍSTICA) ****651** 18/11/2026 09:53:21 CET
+CÓDIGO CSV URL DE VALIDACIÓN
+e7dad2454eaccb10518666fefe57f7297f3bda95 https://sede.malaga.es
+Hash: a7690be7307afbfa36517c872978982d9b67493148a6006ddaff851753606bcc1429fbb93ac08bd204af5afd405e449c4e9ab6638818df7a6574dbf26680c6ee | PÁG. 11 DE 14
+FIRMANTE NIF/CIF FECHA Y HORA
+MARIA ESPERANZA GONZALEZ PAZO (CONSEJERA DELEGADA) ****546** 23/11/2026 16:23:50 CET
+CÓDIGO CSV URL DE VALIDACIÓN
+208343e9a175adb93ee7db55d0ca0c8293ba7c86 https://sede.malaga.es
+
+--- página 12 ---
+ 
+ 
+  10 
+al menos dos meses de antelación a la finalización del contrato (artículo 29.2 LCSP). El plazo se 
+computará desde la activación de las licencias. 
+ 
+Hash: a58afc3110c197e1f768793d865d7910260b6d586b1be0acc8976eadbbfacb15cf7f88def592fd95f613ad5945bd03e32a7059a218a4e7d3c2585c8ac25dfdd3 | PÁG. 12 DE 13
+FIRMANTE NIF/CIF FECHA Y HORA
+RAFAEL FUENTES GARCIA (DIRECTOR ÁREA DE INTELIGENCIA TURÍSTICA) ****651** 18/11/2026 09:53:21 CET
+CÓDIGO CSV URL DE VALIDACIÓN
+e7dad2454eaccb10518666fefe57f7297f3bda95 https://sede.malaga.es
+Hash: a7690be7307afbfa36517c872978982d9b67493148a6006ddaff851753606bcc1429fbb93ac08bd204af5afd405e449c4e9ab6638818df7a6574dbf26680c6ee | PÁG. 12 DE 14
+FIRMANTE NIF/CIF FECHA Y HORA
+MARIA ESPERANZA GONZALEZ PAZO (CONSEJERA DELEGADA) ****546** 23/11/2026 16:23:50 CET
+CÓDIGO CSV URL DE VALIDACIÓN
+208343e9a175adb93ee7db55d0ca0c8293ba7c86 https://sede.malaga.es
+
+--- página 13 ---
+DOCUMENTO ELECTRÓNICO
+CÓDIGO DE VERIFICACIÓN DEL DOCUMENTO ELECTRÓNICO
+e7dad2454eaccb10518666fefe57f7297f3bda95
+Dirección de verificación del documento: https://sede.malaga.es
+Hash del documento: a58afc3110c197e1f768793d865d7910260b6d586b1be0acc8976eadbbfacb15cf7f88def592fd95f613a
+d5945bd03e32a7059a218a4e7d3c2585c8ac25dfdd3
+Version NTI: http://administracionelectronica.gob.es/ENI/XSD/v1.0/documento-e
+Identificador: ES_LA0009191_2026_000000000000000000000027688354
+Órgano: LA0009191
+Fecha de captura: 17/11/2026 12:08:31
+Origen: Administración
+Estado elaboración: Original
+Formato: PDF
+Tipo Documental: Otros
+Tipo Firma: XAdES internally detached signature
+Valor CSV: e7dad2454eaccb10518666fefe57f7297f3bda95
+Regulación CSV: Decreto 3628/2017 de 20-12-2017
+METADATOS ENI DEL DOCUMENTO:
+Código QR para validación en sede
+Código EAN-128 para validación en sede
+Ordenanza reguladora del uso de medios electrónicos en el ámbito de la Diputación Provincial de Málaga:
+https://sede.malaga.es/normativa/ordenanza_reguladora_uso_medios_electronicos.pdf
+Política de firma electrónica y de certificados de la Diputación Provincial de Málaga y del marco preferencial para el sector
+público provincial (texto consolidado):
+https://sede.malaga.es/politica_de_firma_AGE_2012_Anexo_1.pdf
+Procedimiento de creación y utilización del sello electrónico de órgano de la Hacienda Electrónica Provincial:
+https://sede.malaga.es/normativa/procedimiento_creacion_utilizacion_sello_electronico.pdf
+Acuerdo de adhesión de la Excma. Diputación Provincial de Málaga al convenio de colaboración entre la Administración General del
+Estado (MINHAP) y la Comunidad Autónoma de Andalucía para la prestación mutua de soluciones básicas de Administración Electrónica
+de fecha 11 de mayo de 2016:
+https://sede.malaga.es/normativa/ae_convenio_j_andalucia_MINHAP_soluciones_basicas.pdf
+Aplicación del sistema de Código Seguro de Verificación (CSV) en el ámbito de la Diputación Provincial de Málaga:
+https://sede.malaga.es/normativa/decreto_CSV.pdf
+Documento ENI utilizando la herramienta tecnológica INSIDE perteneciente al Ministerio de Hacienda y Función Pública (repositorio CTT)  | PÁG. 13 DE 13
+Hash: a7690be7307afbfa36517c872978982d9b67493148a6006ddaff851753606bcc1429fbb93ac08bd204af5afd405e449c4e9ab6638818df7a6574dbf26680c6ee | PÁG. 13 DE 14
+FIRMANTE NIF/CIF FECHA Y HORA
+MARIA ESPERANZA GONZALEZ PAZO (CONSEJERA DELEGADA) ****546** 23/11/2026 16:23:50 CET
+CÓDIGO CSV URL DE VALIDACIÓN
+208343e9a175adb93ee7db55d0ca0c8293ba7c86 https://sede.malaga.es
+
+--- página 14 ---
+DOCUMENTO ELECTRÓNICO
+CÓDIGO DE VERIFICACIÓN DEL DOCUMENTO ELECTRÓNICO
+208343e9a175adb93ee7db55d0ca0c8293ba7c86
+Dirección de verificación del documento: https://sede.malaga.es
+Hash del documento: a7690be7307afbfa36517c872978982d9b67493148a6006ddaff851753606bcc1429fbb93ac08bd204af5
+afd405e449c4e9ab6638818df7a6574dbf26680c6ee
+Version NTI: http://administracionelectronica.gob.es/ENI/XSD/v1.0/documento-e
+Identificador: ES_LA0009191_2026_000000000000000000000027726328
+Órgano: LA0009191
+Fecha de captura: 23/11/2026 14:37:51
+Origen: Administración
+Estado elaboración: Original
+Formato: PDF
+Tipo Documental: Contrato
+Tipo Firma: XAdES internally detached signature
+Valor CSV: 208343e9a175adb93ee7db55d0ca0c8293ba7c86
+Regulación CSV: Decreto 3628/2017 de 20-12-2017
+METADATOS ENI DEL DOCUMENTO:
+Código QR para validación en sede
+Código EAN-128 para validación en sede
+Ordenanza reguladora del uso de medios electrónicos en el ámbito de la Diputación Provincial de Málaga:
+https://sede.malaga.es/normativa/ordenanza_reguladora_uso_medios_electronicos.pdf
+Política de firma electrónica y de certificados de la Diputación Provincial de Málaga y del marco preferencial para el sector
+público provincial (texto consolidado):
+https://sede.malaga.es/politica_de_firma_AGE_2012_Anexo_1.pdf
+Procedimiento de creación y utilización del sello electrónico de órgano de la Hacienda Electrónica Provincial:
+https://sede.malaga.es/normativa/procedimiento_creacion_utilizacion_sello_electronico.pdf
+Acuerdo de adhesión de la Excma. Diputación Provincial de Málaga al convenio de colaboración entre la Administración General del
+Estado (MINHAP) y la Comunidad Autónoma de Andalucía para la prestación mutua de soluciones básicas de Administración Electrónica
+de fecha 11 de mayo de 2016:
+https://sede.malaga.es/normativa/ae_convenio_j_andalucia_MINHAP_soluciones_basicas.pdf
+Aplicación del sistema de Código Seguro de Verificación (CSV) en el ámbito de la Diputación Provincial de Málaga:
+https://sede.malaga.es/normativa/decreto_CSV.pdf
+Documento ENI utilizando la herramienta tecnológica INSIDE perteneciente al Ministerio de Hacienda y Función Pública (repositorio CTT)  | PÁG. 14 DE 14

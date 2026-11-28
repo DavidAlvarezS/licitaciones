@@ -1,0 +1,171 @@
+PLIEGO DE PRESCRIPCIONES TÉCNICAS PARA LA CONTRATACIÓN DEL SERVICIO DE SOPORTE, MANTENIMIENTO, ACTUALIZACIONES DE LA APLICACIÓN INFORMÁTICA Q-SIGE DE SISTEMA INTELIGENTE DE GESTIÓN DE ESPERAS Y CITA PREVIA, ASÍ COMO DE SU HARDWARE ASOCIADO PARA EL AYUNTAMIENTO DE TARIFA
+
+
+ÍNDICE
+
+1.Introducción2
+2.Descripción de la situación actual y necesidad del contrato2
+3.Alcance de la contratación3
+4.Análisis Técnico4
+5.Formación y Capacitación técnica6
+6.Oferta económica.7
+7.Requisitos de la prestación del servicio y Acuerdos de Nivel de Servicio (SLA).7
+8.Facturación.8
+9.Documento de Propuesta/Oferta Económica9
+
+
+
+Introducción
+
+La Administración Pública se encuentra inmersa en un proceso de transformación continua en sus relaciones con la ciudadanía, modernizando la prestación de los servicios públicos mediante el uso intensivo de la Administración Electrónica, con el objetivo primordial de optimizar recursos, ordenar los flujos presenciales, suprimir tiempos de espera innecesarios y alcanzar cotas superiores de eficiencia y agilidad administrativa.
+Dentro de esta estrategia de modernización, la atención ciudadana en la Oficina de Atención a la Ciudadanía (OAC) y demás dependencias municipales constituye la primera línea de interacción entre la Administración y el administrado. Por ello, resulta indispensable garantizar la disponibilidad continua, la seguridad técnica, el soporte correctivo y el mantenimiento evolutivo del Sistema Inteligente de Gestión de Esperas y Cita Previa (Q-sige).
+Habiendo finalizado la vigencia del contrato inicial formalizado mediante el Expediente 2021/7559 para el suministro e implantación de dicho sistema, y concurriendo razones técnicas ineludibles y de protección de derechos de propiedad intelectual exclusivos que impiden acudir a una licitación abierta, desde el Área de Administración Digital se manifiesta la necesidad de incoar un nuevo expediente para contratar por un periodo de cuatro (4) años los servicios de soporte técnico, mantenimiento integral, licenciamiento SaaS y actualización de la plataforma Q-sige, así como del equipamiento hardware asociado e integrado en la sede municipal.
+
+Descripción de la situación actual y necesidad del contrato
+
+En virtud del citado expediente 2021/7559, el Ayuntamiento de Tarifa adjudicó a la mercantil IDM Sistemas de Comunicación S.L. la implantación de la solución integral Q-sige. A lo largo de los últimos cuatro años, la corporación municipal ha consolidado plenamente esta plataforma tanto en el plano operativo como en el de atención a los vecinos. El parque de equipamiento y componentes actualmente operativos y en producción comprende:
+Puestos de Atención: 6 puestos operativos dotados del aplicativo Teclado Virtual Web, mediante el cual los gestores administran los turnos, atienden, derivan ciudadanos y expiden justificantes de comparecencia.
+Dispensador de Tickets (Zona de Recepción): 1 Quiosco PRIA Multimedia integrado por pantalla táctil interactiva, impresora térmica rápida de tickets con autocutter y lector de códigos QR para confirmación de citas sin contacto físico.
+Zona de Espera: 1 Pantalla informativa de gran formato y 1 Mini PC multimedia integrado detrás de la pantalla para la orquestación visual de colas en cascada, avisos en tiempo real y megafonía con voz digitalizada.
+Infraestructura Cloud (SaaS): Plataforma web Q-sige alojada en la nube del fabricante, operando bajo comunicaciones cifradas unidireccionales salientes (sin apertura de puertos en la red municipal), con certificación de conformidad con el Esquema Nacional de Seguridad (ENS) en categoría Media e integración de doble factor de autenticación (MFA/SSO).
+
+Necesidad del contrato:
+La necesidad de este nuevo contrato radica en asegurar la continuidad operativa ininterrumpida de los servicios de cita previa y gestión de turnos de la Oficina de Atención al Ciudadano. La interrupción del soporte técnico o la falta de mantenimiento correctivo y adaptativo provocaría la caída inmediata del servicio de turnos presenciales y de la sede de reserva de citas telemáticas. Asimismo, resulta crítico dotar al Ayuntamiento del soporte preventivo y correctivo sobre los dispositivos físicos (quiosco multimedia táctil, impresora, lector QR y mini PC), así como de las actualizaciones periódicas del kernel del software, parches de ciberseguridad, mejoras legales y la activación progresiva de capacidades avanzadas (videollamadas, atención telefónica integrada, módulos de satisfacción Rating y tramitación mediante tickets virtuales).
+
+Alcance de la contratación
+
+El objeto de la presente contratación consiste en la prestación de un servicio integral de soporte técnico especializado, mantenimiento preventivo, correctivo y evolutivo, así como la suscripción de licenciamiento bajo modalidad Software as a Service (SaaS) de la plataforma Q-sige y el mantenimiento del hardware asociado propiedad del Ayuntamiento de Tarifa.
+
+El alcance material del contrato se estructura en los siguientes bloques prestacionales:
+Licenciamiento y Alojamiento Cloud (SaaS) Q-sige: Suscripción continua a la plataforma centralizada con todos sus módulos operativos (Monitor Central, Teclado Virtual de puesto, Cita Previa Web responsive, Gestión de Citas de Gestores/Técnicos, Cita Telefónica/Call Center, Gestor de Contenidos y Megafonía, Dashboard Estadístico y APIs REST).
+Mantenimiento y Actualización de Software (Mantenimiento Correctivo y Evolutivo): Entrega e instalación de todas las actualizaciones de versión, parches de seguridad, adaptaciones normativas y evolutivas que libere el fabricante durante la vida del contrato.
+Mantenimiento Integral del Hardware Asociado: Soporte preventivo y correctivo in situ sobre los elementos físicos instalados: mueble expendedor quiosco táctil multimedia PRIA (pantalla táctil, impresora térmica de tickets, lector de códigos QR) y Mini PC multimedia reproductor de la sala de espera. Incluye sustitución de piezas, mano de obra y desplazamientos.
+Soporte Técnico y Asistencia Multicanal: Disponibilidad de un servicio de atención técnica especializada vía telefónica y plataforma de telediagnóstico remoto para la resolución de incidencias en software y hardware bajo estrictos acuerdos de nivel de servicio (SLA).
+Transferencia de Conocimiento y Formación Continua: Formación y capacitación al personal técnico municipal y a los gestores de atención a la ciudadanía ante modificaciones, nuevas versiones o funcionalidades añadidas de la plataforma.
+
+El contrato tendrá una duración de cuatro (4) años (48 meses).
+
+Análisis Técnico
+
+
+
+
+
+Características generales de la arquitectura
+Modalidad Cloud / SaaS: Todo el sistema opera bajo modelo de Software as a Service, alojado en infraestructura de alta disponibilidad del proveedor, eliminando tareas de administración y alojamiento en servidores internos municipales.
+Conectividad Segura Unidireccional: La comunicación entre las dependencias municipales y el servidor SaaS se realiza de forma estrictamente unidireccional y cifrada (HTTPS/TLS) saliente desde la red corporativa, sin requerir la apertura de puertos de entrada en el cortafuegos municipal, minimizando la superficie de exposición.
+Interoperabilidad y APIs REST: Exposición total de la lógica de negocio mediante servicios web REST FULL (JSON) en arquitectura Java, permitiendo futuras integraciones con la sede electrónica, sistemas de tramitación o registros corporativos.
+Cumplimiento del ENS: Cumplimiento de las directrices del Esquema Nacional de Seguridad (Real Decreto 311/2022) en categoría Media, garantizando la confidencialidad, trazabilidad, disponibilidad e integridad de los datos de la ciudadanía.
+Autenticación Segura: Control de acceso mediante protocolo Single Sign-On (SSO) y soporte para Doble Factor de Autenticación (MFA) para perfiles administradores y operadores.
+Módulos y funcionalidades del Sistema: 
+Administrador Central y Consola de Configuración
+Consola web unificada para la monitorización en tiempo real de oficinas, salas de espera, tiempos de atención, ocupación de puestos y alarmas de servicio.
+Configuración granular de roles con al menos 5 niveles de privilegios (Superusuario, Administrador de Centro, Administrador de Departamento, Monitor y Estadísticas).
+Parametrización ágil de departamentos, grupos, series alfanuméricas, tiempos de llamada, límites diarios de tiques y horarios de atención.
+Teclado Virtual Web (Terminal de Puesto)
+Interfaz web responsiva ejecutable desde cualquier navegador en los puestos de trabajo, sin requerir software cliente local.
+Funcionalidades operativas: llamada consecutiva, rellamada, pausa/cierre de puesto, derivación de turnos entre mesas o servicios, generación de tickets ficticios de urgencia y tipificación codificada de tareas presenciales.
+Emisión e impresión directa de justificantes de asistencia en formato PDF con firma/validación horaria.
+Capacidad de adaptación dinámica de perfiles: el gestor puede asumir distintas colas y prioridades en tiempo real según la afluencia de público.
+Cita Previa Web Omnicanal y Canales Digitales
+Portal web responsive para reservas de cita por la ciudadanía mediante DNI/NIE o Pasaporte, con confirmación inmediata, envío de resguardo por e-mail y código PIN de consulta/cancelación.
+Confirmación Digital mediante QR y Link: Envío de resguardo con código QR para escaneo en el quiosco multimedia PRIA y enlace directo (link) que permite confirmar la llegada a través del smartphone emitiendo un ticket virtual, posibilitando una experiencia 100% libre de contacto y sin consumo de papel.
+Módulo de Cita para el Mismo Día: Optimización de huecos libres en jornada corriente con reserva admitida hasta 2 horas antes de la atención.
+Agendas de Gestores / Técnicos: Gestión de calendarios personalizados para técnicos municipales con asignación horaria y mecanismos de sustitución de roles ante ausencias.
+Módulo Call Center: Interfaz para la gestión telefónica asistida de citas previas con asignación automática de turnos.
+Atención Telemática y Omnicanal: Capacidades evolutivas para atención mediante videollamada interactiva (con sala de espera virtual que reproduce el turno corporativo y herramientas de chat/pantalla compartida), avisos emergentes (pop-ups) para atención telefónica programada y preparación para bot conversacional de citas vía mensajería instantánea.
+Módulo de Evaluación de Calidad (Rating)
+Herramienta integrada para la valoración ciudadana del servicio recibido mediante encuestas de satisfacción configurables (vía terminal/tablet presencial o enlace remitido tras la atención).
+Volcado automático de métricas a los paneles analíticos de calidad municipal para auditoría del servicio.
+Explotación Estadística y Cuadros de Mando
+Generación de informes en tiempo real sobre tiempos medios de espera, tiempos de atención, número de atenciones por intervalo horario, tasas de absentismo y colas atendidas.
+Exportación de informes en formatos estándar (Excel y PDF) y programación de envíos automatizados a direcciones de correo corporativas.
+Equipamiento Hardware Asociado y Mantenimiento Técnico
+El mantenimiento preventivo y correctivo comprenderá íntegramente los siguientes elementos físicos:
+Quiosco Multimedia PRIA de Recepción:
+
+Mueble terminal autoservicio con pantalla táctil interactiva de 15 pulgadas o superior.
+Impresora térmica estándar de alta velocidad con dispositivo de corte automático (autocutter).
+Lector de códigos de barras bidimensionales (códigos QR) para identificación ágil a la llegada a la sede municipal.
+
+Sistema de Cartelería y Visualización en Sala de Espera:
+
+Mini PC multimedia de reproducción de contenidos conectado a la red local y a la pantalla de sala.
+Reproductor de colas en cascada y cartelería dinámica digital.
+Sistema de megafonía digital integrada para llamada de turnos por voz sintetizada en múltiples idiomas.
+
+Formación y Capacitación técnica
+
+El contratista estará obligado a impartir las sesiones formativas necesarias dirigidas tanto a los técnicos del Área de Administración Digital como a los empleados públicos responsables de la atención a la ciudadanía.
+La capacitación se estructurará en dos niveles:
+Nivel Administrador (Técnicos TIC): Formación en parametrización de colas, gestión de roles y usuarios, auditoría de logs, seguridad, enlace con APIs REST y resolución de incidencias de primer nivel.
+
+Nivel Operador / Gestor: Manejo del Teclado Virtual Web, gestión de agendas, tramitación de derivaciones de colas, atención telefónica/videollamada y extracción de estadísticas básicas.
+Dicha formación se desarrollará de forma telemática e interactiva, facilitando el adjudicatario los manuales de usuario y de administración técnica debidamente actualizados en formato electrónico.
+
+Oferta económica.
+
+Al tramitarse mediante el procedimiento negociado sin publicidad con el fabricante y titular exclusivo de la solución, el licitador deberá presentar su oferta económica desglosando la cuota anual del servicio, la cual incluirá de forma indivisible:
+Canon de suscripción SaaS y licenciamiento anual de la plataforma corporativa Q-sige (incluyendo todas las funcionalidades omnicanal y módulos avanzados).
+Mantenimiento preventivo, correctivo y soporte técnico del hardware municipal asociado (quiosco multimedia PRIA, impresora, lector QR y mini PC).
+Actualizaciones evolutivas de software, parches de seguridad y adecuación a directrices normativas y del ENS.
+
+La oferta presentada no podrá rebasar en ningún caso el presupuesto máximo anual ni el valor estimado total fijado para el contrato.
+
+Requisitos de la prestación del servicio y Acuerdos de Nivel de Servicio (SLA).
+
+
+
+Responsable de la Prestación del Servicio (Service Delivery Manager)
+El adjudicatario designará a un gestor de servicio que actuará como interlocutor técnico único con el Responsable del Contrato del Ayuntamiento. Se mantendrá una comunicación periódica y se emitirá un informe anual de rendimiento técnico en el que se reflejará el volumen de citas tramitadas, el cómputo de incidencias atendidas, el estado del equipamiento físico y las actualizaciones desplegadas.
+Servicio de Soporte y Atención Telefónica
+Se pondrá a disposición del Ayuntamiento un canal de atención telefónica directa atendido por personal técnico cualificado en la herramienta, con disponibilidad mínima de lunes a viernes de 08:00 a 15:00 horas en días laborables.
+Asistencia Remota
+El adjudicatario dispondrá de una plataforma segura de teleasistencia y diagnóstico en remoto que permita la intervención directa de sus ingenieros de soporte sobre las consolas de gestión o los equipos terminales vinculados a la red, garantizando intervenciones ágiles sin demoras por desplazamiento.
+Tiempos de Respuesta y Resolución (SLA)
+Los niveles de servicio y plazos máximos exigibles serán los siguientes:
+Nivel de Gravedad
+Descripción del Escenario
+Tiempo Máximo de Respuesta
+Tiempo Máximo de Resolución (Software)
+Tiempo Máximo de Resolución (Hardware)
+Tipo 1: Muy Grave
+Parada total del sistema que impida expedir tiques, inoperatividad completa del servidor SaaS, fallo generalizado en los puestos de atención o caída del sistema de turnos.
+≤ 1 hora
+≤ 3 horas
+≤ 8 horas
+Tipo 2: Grave
+Caída de megafonía, fallo de cartelería en pantalla, anomalía en el portal de reserva web o fallo parcial que ralentice el servicio, pero permita seguir atendiendo.
+≤ 2 horas
+≤ 6 horas
+≤ 12 horas
+Tipo 3: Leve
+Consultas operativas, incidencias cosméticas o fallos funcionales menores sin impacto en la atención ciudadana.
+≤ 4 horas
+≤ 12 horas
+≤ 24 horas
+Tiempo de respuesta: Intervalo comprendido entre la notificación de la incidencia (vía teléfono, correo o tique) y el comienzo efectivo de las tareas de análisis y diagnóstico técnico.
+Tiempo de resolución: Intervalo entre la comunicación del incidente y su subsanación completa con restablecimiento operativo de las prestaciones.
+
+Mantenimiento del Hardware y Sustitución de Componentes
+El mantenimiento del equipamiento hardware (quiosco multimedia táctil, impresora de tiques, lector QR y mini PC) cubre la reposición y sustitución de piezas averiadas por componentes originales o de prestaciones técnicas iguales o superiores. Si un componente requiriese reparación externa o quedase inutilizado, el adjudicatario suministrará un elemento de sustitución para garantizar que el tiempo de inoperatividad no supere los límites del SLA.
+
+Facturación.
+
+El pago del precio se estructurará mediante facturación anual vencida o facturación trimestral/mensual prorrateada, emitiéndose las correspondientes facturas tras la conformidad técnica del Responsable del Contrato:
+Canal de presentación: Presentación preceptiva en formato electrónico a través del Punto General de Entrada de Facturas Electrónicas de la Administración General del Estado (FACe).
+Códigos identificativos del Ayuntamiento de Tarifa:
+Código DIR3: L01110355 (Excmo. Ayuntamiento de Tarifa).
+
+Cada factura deberá desglosar con claridad el periodo temporal certificado y los conceptos facturados (licenciamiento SaaS, soporte técnico y mantenimiento de hardware).
+
+Documento de Propuesta/Oferta Económica
+
+El operador económico invitado deberá formalizar su proposición ajustándose al modelo oficial de propuesta económica, detallando:
+El precio anual ofertado (base imponible, importe de IVA desglosado al 21% y total anual con impuestos).
+El importe acumulado correspondiente a los 4 años de ejecución del contrato.
+El compromiso expreso de cumplimiento de la totalidad de prescripciones técnicas y niveles de servicio establecidos en el pliego de condiciones técnicas.
+
+En Tarifa, a la fecha indicada en la firma electrónica.
+EL TÉCNICO TIC
+

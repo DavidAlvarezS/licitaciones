@@ -1,4 +1,4 @@
-== Prueba de conexión 2026-11-27T16:44:12Z ==
+== Prueba de conexión 2026-11-28T15:36:49Z ==
 HTTP/1.1 200 OK
 Cache-Control: no-store, must-revalidate, no-cache
 Pragma: no-cache
@@ -9,153 +9,87 @@ X-Frame-Options: SAMEORIGIN
 X-XSS-Protection: 1; mode=block
 X-Content-Type-Options: nosniff
 
-Historial previo: 2072 licitaciones. Modo incremental: se recorre el feed hasta 2026-11-22 20:17.
+Historial previo: 2230 licitaciones. Modo incremental: se recorre el feed hasta 2026-11-25 20:28.
 Descargando página 1 ...
-  página 1: 4270 KB en 14.4s, 141 entradas, fecha más antigua 2026-11-26 16:05
+  página 1: 17784 KB en 26.4s, 511 entradas, fecha más antigua 2026-11-27 13:58
 Descargando página 2 ...
-  página 2: 16360 KB en 50.0s, 641 entradas, fecha más antigua 2026-11-26 13:59
+  página 2: 14254 KB en 25.2s, 1009 entradas, fecha más antigua 2026-11-27 12:54
 Descargando página 3 ...
-  página 3: 16383 KB en 48.2s, 1140 entradas, fecha más antigua 2026-11-26 12:45
+  página 3: 14470 KB en 20.6s, 1508 entradas, fecha más antigua 2026-11-27 11:32
 Descargando página 4 ...
-  página 4: 15267 KB en 48.1s, 1640 entradas, fecha más antigua 2026-11-26 11:10
+  página 4: 13848 KB en 18.9s, 2008 entradas, fecha más antigua 2026-11-27 10:13
 Descargando página 5 ...
-  página 5: 15067 KB en 43.4s, 2140 entradas, fecha más antigua 2026-11-26 09:47
+  página 5: 16587 KB en 27.5s, 2508 entradas, fecha más antigua 2026-11-27 09:00
 Descargando página 6 ...
-  página 6: 16917 KB en 61.2s, 2639 entradas, fecha más antigua 2026-11-26 08:15
+  página 6: 15032 KB en 20.7s, 2999 entradas, fecha más antigua 2026-11-26 16:05
 Descargando página 7 ...
-  página 7: 13676 KB en 40.5s, 3137 entradas, fecha más antigua 2026-11-25 14:43
+  página 7: 16363 KB en 22.1s, 3450 entradas, fecha más antigua 2026-11-26 13:59
 Descargando página 8 ...
-  página 8: 14716 KB en 26.8s, 3635 entradas, fecha más antigua 2026-11-25 13:07
+  página 8: 16383 KB en 23.8s, 3907 entradas, fecha más antigua 2026-11-26 12:45
 Descargando página 9 ...
-  página 9: 13813 KB en 52.6s, 4134 entradas, fecha más antigua 2026-11-25 11:35
+  página 9: 15267 KB en 24.8s, 4365 entradas, fecha más antigua 2026-11-26 11:10
 Descargando página 10 ...
-  página 10: 13665 KB en 44.5s, 4634 entradas, fecha más antigua 2026-11-25 09:58
+  página 10: 15067 KB en 22.8s, 4824 entradas, fecha más antigua 2026-11-26 09:47
 Descargando página 11 ...
-  página 11: 16471 KB en 55.2s, 5133 entradas, fecha más antigua 2026-11-25 08:40
+  página 11: 16917 KB en 26.5s, 5271 entradas, fecha más antigua 2026-11-26 08:15
 Descargando página 12 ...
-  página 12: 14313 KB en 42.5s, 5631 entradas, fecha más antigua 2026-11-24 15:20
-Descargando página 13 ...
-  página 13: 17309 KB en 61.7s, 6129 entradas, fecha más antigua 2026-11-24 13:38
-Descargando página 14 ...
-  página 14: 14306 KB en 34.8s, 6628 entradas, fecha más antigua 2026-11-24 12:09
-Descargando página 15 ...
-  página 15: 13468 KB en 36.7s, 7127 entradas, fecha más antigua 2026-11-24 10:30
-Descargando página 16 ...
-  página 16: 15178 KB en 40.4s, 7626 entradas, fecha más antigua 2026-11-24 09:08
-Descargando página 17 ...
-  página 17: 15186 KB en 35.0s, 8109 entradas, fecha más antigua 2026-11-23 17:09
-Descargando página 18 ...
-  página 18: 15228 KB en 44.3s, 8510 entradas, fecha más antigua 2026-11-23 14:06
-Descargando página 19 ...
-  página 19: 14188 KB en 22.9s, 8888 entradas, fecha más antigua 2026-11-23 12:48
-Descargando página 20 ...
-  página 20: 14245 KB en 34.5s, 9295 entradas, fecha más antigua 2026-11-23 11:22
-Descargando página 21 ...
-  página 21: 13983 KB en 43.1s, 9708 entradas, fecha más antigua 2026-11-23 09:57
-Descargando página 22 ...
-  página 22: 16520 KB en 45.0s, 10106 entradas, fecha más antigua 2026-11-23 09:00
-Descargando página 23 ...
-  página 23: 13754 KB en 66.4s, 10492 entradas, fecha más antigua 2026-11-22 13:56
+  página 12: 13676 KB en 18.9s, 5736 entradas, fecha más antigua 2026-11-25 14:43
 Se alcanzó la fecha objetivo.
-Historial guardado: 2230 licitaciones. Cobertura desde 2026-10-21T10:33:44.716000+02:00.
-Entradas leídas: 10492
+Historial guardado: 2278 licitaciones. Cobertura desde 2026-10-21T10:33:44.716000+02:00.
+Entradas leídas: 5736
 --- Diagnóstico ---
-Fechas 'updated': de 2026-11-22T14:43:09.535+01:00 a 2026-11-26T20:28:06.459+01:00
-Por estado: {'PUB': 2259, 'EV': 2759, 'ADJ': 1866, 'RES': 3555, 'PRE': 41, 'ANUL': 12}
-Sin CPV: 52 | Sin NUTS: 23 | Sin importe: 0 | Sin fin de plazo: 809
-CPV ['72']: 540 | NUTS []: 0 | ambos: 0
-Ejemplos de NUTS: [('ES300', 1738), ('ES523', 686), ('ES618', 533), ('ES617', 387), ('ES521', 367), ('ES', 364), ('ES120', 317), ('ES612', 292)]
-Entradas con documentos: 9488 de 10492; ejemplo: [{'tipo': 'Legal', 'nombre': 'pliego_administrativo_contrato_abierto_4743_232787.pdf', 'uri': 'https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=9MbfdbwjbiYGZn6AhkGJbwGsBR5/Gt1OzUdvO8gEnbjJHi5Kx6yC8g4UC2O//raKun69PZQAq0HNNF4Dop3gjf6KQfLkzchI9Xv1u%2BLzHhU//q7NB2iMZvNyf0xrJmjt'}, {'tipo': 'Technical', 'nombre': 'pliego_tecnico_contrato_abierto_4743_232786.pdf', 'uri': 'https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=i3tqmlzZc/nNCxAuBS23r7A22/r3as69Jcs4nmsviUsb6agM34NM65JpH7ZTHaqTZ1l8sLer0E17kCQsYLhgrqM%2B7gt%2Bu6VW4FMBOCrHJmj3GVhXrFFqN7yFncy7YfRK'}]
-Ejemplos de fin_plazo: ['2026-12-16 13:00:59', '2026-12-16 23:59:00', '2026-11-23 14:00:00', '2026-03-23 23:59:00']
-Ejemplo de entrada: {'expediente': '2.2026', 'estado': 'PUB', 'cpv': '45000000', 'lugar_nuts': 'ES', 'importe_sin_iva': '74897.67', 'fin_plazo': '2026-12-16 13:00:59'}
+Fechas 'updated': de 2026-11-25T14:43:14.772+01:00 a 2026-11-27T20:11:12.457+01:00
+Por estado: {'EV': 1511, 'ADJ': 1051, 'PUB': 1327, 'RES': 1822, 'ANUL': 3, 'PRE': 22}
+Sin CPV: 34 | Sin NUTS: 8 | Sin importe: 0 | Sin fin de plazo: 362
+CPV ['72']: 295 | NUTS []: 0 | ambos: 0
+Ejemplos de NUTS: [('ES300', 1029), ('ES523', 374), ('ES618', 262), ('ES', 250), ('ES521', 232), ('ES617', 218), ('ES120', 190), ('ES620', 152)]
+Entradas con documentos: 5240 de 5736; ejemplo: [{'tipo': 'Legal', 'nombre': 'PCAP.pdf', 'uri': 'https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=4I/XwMwvR2ZChyB1HBX308AQ%2BYmjNB86f8pkhP7NydQ5Ewcp3MEmoKDYjUBHrx6bwsE53KnhQ3V54MTLtqaN2SRxwxBc/9GMrVcv6TDh63QZyAJWGsSt0OzTSTyw9JAs'}, {'tipo': 'Technical', 'nombre': 'PPT.pdf', 'uri': 'https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=0puRMggI9avRfrSawYtLD0qz0W1bUZhATLARnxX7Gs8AQRD0J6e8Y58krA2qXUb5q5FVTDIxfu4704K%2BFFYqnEU0ZSxcH8DPovf%2B00wBJ176CYyL7SIrUOBFfNf52ZqA'}]
+Ejemplos de fin_plazo: ['2026-11-18 00:00:00', '2026-09-14 12:00:00', '2026-12-12 23:59:00', '2026-11-05 23:59:00']
+Ejemplo de entrada: {'expediente': '4376/2026', 'estado': 'EV', 'cpv': '31527200,31527260,45316100', 'lugar_nuts': 'ES611', 'importe_sin_iva': '27390', 'fin_plazo': '2026-11-18 00:00:00'}
 Muestra guardada en muestra_entradas.csv
-Licitaciones que cumplen los filtros: 94 -> licitaciones_filtradas.csv
-[menores] primera página: 280 entradas
-[menores] fin: 5 páginas, 2268 entradas, 60 TIC nuevas/actualizadas, enlazado=True
-[cpm] primera página: 498 entradas
-[cpm] fin: 1 páginas, 498 entradas, 61 TIC nuevas/actualizadas, enlazado=True
-[agregadas] primera página: 459 entradas
-[agregadas] fin: 3 páginas, 1386 entradas, 140 TIC nuevas/actualizadas, enlazado=True
-  contratos_menores_software.csv: 2032 filas
+Licitaciones que cumplen los filtros: 101 -> licitaciones_filtradas.csv
+[menores] primera página: 93 entradas
+[menores] fin: 5 páginas, 2090 entradas, 64 TIC nuevas/actualizadas, enlazado=True
+[cpm] primera página: 501 entradas
+[cpm] fin: 1 páginas, 501 entradas, 62 TIC nuevas/actualizadas, enlazado=True
+[agregadas] primera página: 59 entradas
+[agregadas] fin: 4 páginas, 1556 entradas, 156 TIC nuevas/actualizadas, enlazado=True
+  contratos_menores_software.csv: 2083 filas
   ranking_menores_galicia.csv: 22 filas
-  consultas_preliminares_tic.csv: 61 filas
-  licitaciones_autonomicas.csv: 68 filas
-Licitaciones a procesar: 94
+  consultas_preliminares_tic.csv: 62 filas
+  licitaciones_autonomicas.csv: 69 filas
+Licitaciones a procesar: 101
 Sesión iniciada, cookies: ['JSESSIONID', 'TS0177f194']
-  OK  149/2026                  01_Legal_07_PPA.pdf (796 KB)
-  OK  149/2026                  02_Technical_06_PPT.pdf (488 KB)
-  OK  2026000129/SERV/HAC       01_Legal_PCAP.pdf (310 KB)
-  OK  2026000129/SERV/HAC       02_Technical_PPT.pdf (344 KB)
-  OK  2026000129/SERV/HAC       03_Additional_Dec_Responsable.doc (36 KB, sin texto)
-  OK  2026000129/SERV/HAC       04_Additional_Anexo_II.doc (53 KB, sin texto)
-  OK  2026000129/SERV/HAC       05_Additional_Mod_Proposicion.doc (35 KB, sin texto)
-  OK  48684/2026                01_Legal_48684-2026_PCAP.pdf (580 KB)
-  OK  48684/2026                02_Technical_48684-2026_PPT.pdf (470 KB)
-  OK  48684/2026                03_Additional_ANEXO_III_DECLARACION_DE_CONFIDENCIALIDAD.docx (63 KB)
-  OK  48684/2026                04_Additional_ANEXO_I_MODELO_DE_PROPOSICION.docx (92 KB)
-  OK  48684/2026                05_Additional_ANEXO_IV_DECLARACION_RESPONSABLE_DEL_CONTRATISTA_A.docx (93 KB)
-  OK  48684/2026                06_Additional_ANEXO_V_-_PROTECCION_DATOS_DE_CARACTER_PERSONAL.docx (62 KB)
-  OK  2026000131/SERV/HAC       01_Legal_PCAP.pdf (317 KB)
-  OK  2026000131/SERV/HAC       02_Technical_PPT.pdf (228 KB)
-  OK  2026000131/SERV/HAC       03_Additional_Compromiso_de_Adscripcion_de_Medios_Anexo_II.doc (164 KB, sin texto)
-  OK  2026000131/SERV/HAC       04_Additional_MODELO_DE_PROPOSICION.doc (166 KB, sin texto)
-  OK  2026000131/SERV/HAC       05_Additional_Declaracion_Responsable_Anexo_I.doc (167 KB, sin texto)
-  OK  Aplicativo Registro Horar 01_Legal_PCAP_Registro_Horario_Modificado.pdf (225 KB)
-  OK  20261026-00383            01_Legal_1749064-PliegodeClusulasAdmi-001001PCAT_STD_OE.pdf (552 KB)
-  OK  20261026-00383            02_Technical_20261026-00383_Cuadro_de_Caracteristicas.pdf (475 KB)
-  OK  20261026-00383            03_Additional_20261026-00383_Anexos.zip (818 KB, sin texto)
-  OK  2026/6741S                01_Legal_PCAP.pdf (468 KB)
-  OK  2026/6741S                02_Technical_PPT.pdf (185 KB)
-  OK  2026004370                01_Legal_PCAP_definitivo.pdf (2615 KB)
-  OK  2026004370                02_Technical_Pliego_tecnico.pdf (1216 KB)
-  OK  305/2026                  01_Legal_PCAP_305_2026.pdf (1009 KB)
-  OK  305/2026                  02_Technical_PPT_305_2026.pdf (354 KB)
-  OK  305/2026                  03_Additional_Anexos_305_2026.docx (36 KB)
-  OK  6256/2025                 01_Legal_PCAP_ABIERTO_SIMPLIFICADO_SERVICIOS.pdf (1924 KB)
-  OK  6256/2025                 02_Technical_PPT_Aplicacion_Policia_Local.pdf (896 KB)
-  OK  6256/2025                 03_Additional_ANEXO_I_DECLARACION_RESPONSABLE.docx (108 KB)
-  OK  6256/2025                 04_Additional_ANEXO_II_OFERTA_ECONOMICA.docx (104 KB)
-  OK  6256/2025                 05_Additional_ANEXO_III_COMPROMISO_UTE.docx (96 KB)
-  OK  2026/142                  01_Legal_PCAP.pdf (385 KB)
-  OK  2026/142                  02_Technical_PPT.pdf (186 KB)
-  OK  2026/ETSAE0921/00001827E  02_Technical_PPT_MANTO_BESPORT_DIAPER_2026_v3.pdf (256 KB)
-  OK  2026/EA15/00003189        01_Legal_07_PCAP_FDO_3189.pdf (4273 KB)
-  OK  2026/EA15/00003189        02_Technical_03_PPT.pdf (546 KB)
-  OK  LIC_000014/2026           01_Legal_PCAP.pdf (887 KB)
-  OK  LIC_000014/2026           02_Technical_PPT.pdf (478 KB)
-  OK  LIC_000014/2026           03_Additional_LIC_000014_2026.bin (130 KB, sin texto)
-  OK  LIC_000014/2026           04_Additional_ANNEXOS_EDITABLES.docx (5905 KB)
-  OK  202600084                 03_Additional_20261124_Correccion_Error_PCA_Servicios_LOPD.pdf (282 KB)
-  OK  2026/13190                01_Legal_Pliego_de_clausulas_administrativas.pdf (398 KB)
-  OK  2026/13190                02_Technical_Pliego_de_prescripciones_tecnicas.pdf (159 KB)
-  OK  2026/13190                03_Additional_MODELO_PROPOSICION_ECONOMICA.docx (15 KB)
-  OK  2026/13190                04_Additional_MODELO_DECLARACION_RESPONSABLE.doc (31 KB, sin texto)
-  OK  SER-26-0382-SIST          01_Legal_2632537-PliegodeClusulasAdmin-001003PCA_STD_CA.pdf (741 KB)
-  OK  SER-26-0382-SIST          02_Technical_2631172-PliegodePrescripcione-001001PPT_STD_CA.pdf (335 KB)
-  OK  SER-26-0382-SIST          03_Additional_2632105-AnexosPliegos-5Anexos.zip (614 KB, sin texto)
-  OK  S-04790-2026              01_Legal_PLIEGOCONDGENERALES.pdf (453 KB)
-  OK  S-04790-2026              02_Technical_PLIEGOTECNICO.pdf (283 KB)
-  OK  994-1/2026                01_Legal_PCAP.pdf (733 KB)
-  OK  994-1/2026                02_Technical_PPT.pdf (246 KB)
-  OK  111023/2026               01_Legal_PCAP.pdf (510 KB)
-  OK  111023/2026               02_Technical_PPT.pdf (337 KB)
-  OK  EASP26 038                01_Legal_EASP26_038_PCAP_VDEF_fdo.pdf (761 KB)
-  OK  EASP26 038                02_Technical_EASP26_038_PPT_VDEF_fdo.pdf (504 KB)
-  OK  EASP26 038                03_Additional_EASP26_038_Anexos_VDEF.docx (235 KB)
-  OK  EASP26 038                04_Additional_EASP26_038_Anexos_VDEF_fdo.pdf (634 KB)
-  OK  EASP26 038                05_Additional_EASP26_038_CRC_VDef_fdo.pdf (700 KB)
-  OK  21696/2026                01_Legal_PCAP.pdf (421 KB)
-  OK  21696/2026                02_Technical_PPT.pdf (169 KB)
-  OK  1562199X                  01_Legal_PCAP.pdf (722 KB)
-  OK  1562199X                  02_Technical_PPT.pdf (389 KB)
-  OK  1562199X                  03_Additional_Annex_oferta_economica.pdf (43 KB)
-  OK  1562199X                  04_Additional_ANNEX_INTEGRACIO_SOLVENCIA.pdf (58 KB)
-  OK  1562199X                  05_Additional_ANEXO_DR.pdf (136 KB)
-  OK  3097/2026 Jerez de los Ca 01_Legal_2230553-PliegodeClusulasAdmin-001001PCA_STD_OE.pdf (2128 KB)
-  OK  3097/2026 Jerez de los Ca 02_Technical_2230588-Pli-8-PliegodePrescripcionesTcnicasPPT.pdf (309 KB)
-  OK  DEMA-2026-053             01_Legal_04_DEMA-2026-053_CCP.pdf (540 KB)
-  OK  DEMA-2026-053             02_Technical_DEMA-2026-053_PPT.pdf (443 KB)
-  OK  DEMA-2026-053             03_Additional_Anexo_I_DEMA-2026-053.docx (50 KB)
-  OK  DEMA-2026-053             04_Additional_Anexo_II_DEMA-2026-053.docx (38 KB)
-  OK  DEMA-2026-053             05_Additional_DEMA-2026-053_ToR_Final_evaluation_EU4IM.pdf (746 KB)
-Documentos descargados: 76 | con error: 0 | licitaciones sin documentos en el feed: 0
+  OK  10813/2026                01_Legal_PCAP_SOFTWARE_PISCINA.pdf (887 KB)
+  OK  10813/2026                02_Technical_PPT_SOFTWARE_PISCINA.pdf (361 KB)
+  OK  SLU-2026-PASS-INT-0001    01_Legal_11296_PCAP_LICENCIAS_BIG_DATA.pdf (682 KB)
+  OK  SLU-2026-PASS-INT-0001    02_Technical_11296_PPT.pdf (528 KB)
+Ignoring wrong pointing object 324 0 (offset 0)
+  OK  CC2026/368                01_Legal_CC2026368_PCAP.pdf (1013 KB)
+  OK  CC2026/368                02_Technical_CC2026368_PPT.pdf (263 KB)
+  OK  CC2026/368                03_Additional_CC2026368_MEMORIA.pdf (371 KB)
+  OK  CC2026/368                04_Additional_CC2026368_CERTIFICADO.pdf (330 KB)
+  OK  SVQ-63/2026               01_Legal_svq-exp-svq632026-0pca.pdf (1197 KB)
+  OK  SVQ-63/2026               02_Technical_svq-exp-svq632026-0ppt.pdf (633 KB)
+  OK  SVQ-63/2026               03_Additional_Memoria_Justificativa_de_Inicio_de_Expediente.pdf (130 KB)
+  OK  SVQ-63/2026               04_Additional_DEUC-SVQ-632026.pdf (107 KB)
+  OK  2026/7991                 01_Legal_Pliego_de_clausulas_administrativas_citas.docx (109 KB)
+  OK  2026/7991                 02_Technical_PPT_gestion_de_esperas_y_cita_previa.docx (72 KB)
+  OK  06/2026                   01_Legal_03_PCAP_Mantenimiento_instalaciones_2026.pdf (343 KB)
+  OK  06/2026                   02_Technical_04_PPT_Mantenimiento_instalaciones_2026.pdf (180 KB)
+  OK  06/2026                   03_Additional_Anexos.doc (77 KB, sin texto)
+  OK  2026050000333             01_Legal_PLIEGO_TIPO.pdf (437 KB)
+  OK  2026050000333             02_Technical_PPT.pdf (261 KB)
+  OK  2026050000333             03_Additional_ANEXO_V.docx (30 KB)
+  OK  2026050000333             04_Additional_ANEXO_I.docx (20 KB)
+  OK  2026050000333             05_Additional_CC.pdf (793 KB)
+  OK  2026050000333             06_Additional_PRESUPUESTO.pdf (169 KB)
+  OK  2026/8620                 01_Legal_Pliego_de_clausulas_administrativas_8620.docx (114 KB)
+  OK  2026/8620                 02_Technical_PPT_sistema_firma_electronica_biometrica.docx (67 KB)
+  OK  2026/ES/0044              01_Legal_1007_PCAP2026ES0044ED02.pdf (1352 KB)
+  OK  2026/ES/0044              02_Technical_1008_PPT2026ES0044ED04.pdf (826 KB)
+  OK  2026/ES/0044              03_Additional_1018_Formulario_I_2026ES0044.zip (91 KB, sin texto)
+  OK  2026-01624                01_Legal_2026-01624PCAP_signed.pdf (2745 KB)
+  OK  2026-01624                02_Technical_2026-01624PPT_signed.pdf (1945 KB)
+  OK  2026-01624                03_Additional_Deuc2026-01624.zip (83 KB, sin texto)
+Documentos descargados: 31 | con error: 0 | licitaciones sin documentos en el feed: 0

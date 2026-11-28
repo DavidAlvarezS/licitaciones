@@ -1,0 +1,224 @@
+
+PLIEGO DE PRESCRIPCIONES TÉCNICAS DEL CONTRATO DE SERVICIO DE FIRMA ELECTRÓNICA BIOMÉTRICA
+
+
+ÍNDICE
+
+1.Introducción2
+2.Descripción de la situación actual y necesidad del contrato2
+3.Objeto y alcance de la contratación3
+4.Análisis Técnico4
+5.Formación y Capacitación técnica8
+6.Oferta económica.9
+7.Facturación.9
+8.Documento de Propuesta/Oferta Económica10
+
+
+
+Introducción
+
+La Administración Pública se encuentra inmersa en un proceso continuo de transformación digital de sus relaciones con la ciudadanía, mediante la modernización de los servicios públicos y la implantación de procedimientos electrónicos que permitan optimizar los recursos disponibles, reducir el uso de papel y mejorar la eficiencia y calidad de los servicios prestados.
+Dentro de este proceso de transformación digital, la identidad digital, la firma electrónica y la generación y conservación de evidencias electrónicas constituyen elementos fundamentales para garantizar la validez, integridad y trazabilidad de las transacciones y procedimientos realizados por medios electrónicos.
+El Excmo. Ayuntamiento de Tarifa dispone actualmente de un sistema de firma electrónica biométrica destinado principalmente a la atención a la ciudadanía, que permite la firma manuscrita de documentos electrónicos mediante la captura de los parámetros biométricos de la firma y su incorporación como evidencia electrónica al documento firmado.
+El contrato actualmente vigente, cuya duración ha sido de cuatro años, finaliza, por lo que resulta necesario proceder a una nueva contratación que permita garantizar la continuidad del servicio, evitando interrupciones en los procedimientos de atención a la ciudadanía que actualmente utilizan este sistema.
+La presente contratación tiene por objeto, por tanto, la prestación del servicio de firma electrónica biométrica en modalidad SaaS, durante un periodo de cuatro años, incluyendo el mantenimiento, soporte y actualización del servicio, así como la utilización del entorno de gestión necesario para su funcionamiento.
+A diferencia del contrato anterior, en el que se contemplaba el suministro de los dispositivos físicos utilizados para la captura de las firmas, el nuevo contrato se limita a la prestación del servicio, dado que el Ayuntamiento dispone actualmente de los dispositivos necesarios y no resulta necesario realizar un nuevo suministro de hardware.
+
+Descripción de la situación actual y necesidad del contrato
+
+El Ayuntamiento de Tarifa dispone actualmente de un sistema de firma electrónica manuscrita biométrica implantado para facilitar la tramitación electrónica de documentos en la atención a la ciudadanía.
+La utilización de este sistema permite evitar la impresión de documentos para su posterior firma manuscrita y escaneo, posibilitando que el ciudadano pueda visualizar y firmar directamente el documento electrónico en el dispositivo habilitado para ello.
+El sistema permite, asimismo, capturar determinados parámetros biométricos asociados a la firma manuscrita, tales como la velocidad de la traza, presión, inclinación y coordenadas de la misma, generando las evidencias electrónicas necesarias para garantizar la vinculación entre el documento firmado y la firma realizada.
+La solución se encuentra integrada con los sistemas de gestión utilizados por el Ayuntamiento para la gestión del registro y de los expedientes administrativos, permitiendo el envío de documentos al sistema de firma y la incorporación posterior del documento firmado al correspondiente procedimiento administrativo.
+La continuidad de este servicio resulta necesaria para mantener los procedimientos electrónicos actualmente implantados y evitar que las unidades municipales que utilizan la firma biométrica tengan que volver a recurrir a procedimientos basados en la impresión, firma manuscrita y posterior digitalización de documentos.
+La necesidad de la contratación se justifica, por tanto, en los siguientes objetivos:
+Garantizar la continuidad del servicio de firma electrónica biométrica actualmente implantado.
+Mantener la tramitación electrónica de los documentos que requieren firma manuscrita por parte de la ciudadanía.
+Evitar la impresión y posterior digitalización de documentos.
+Mantener la integridad, autenticidad y trazabilidad de los documentos firmados.
+Mantener las evidencias biométricas asociadas a las firmas realizadas.
+Garantizar la disponibilidad del servicio durante toda la vigencia del contrato.
+Mantener la integración con los sistemas municipales existentes.
+Disponer de soporte técnico y mantenimiento del servicio.
+Mantener actualizada la plataforma tecnológica y de seguridad sobre la que se presta el servicio.
+
+Objeto y alcance de la contratación
+
+El objeto del presente contrato es la prestación de un servicio de firma electrónica biométrica en modalidad SaaS, destinado a la firma manuscrita de documentos electrónicos por parte de la ciudadanía y otros firmantes en los procedimientos administrativos municipales que lo requieran.
+El servicio deberá permitir la realización de firmas biométricas con valor probatorio y deberá incorporar las evidencias necesarias para garantizar la integridad del documento firmado y su vinculación con la firma realizada.
+El alcance de la contratación comprende:
+Prestación del servicio de firma electrónica biométrica en modalidad SaaS.
+Uso del entorno de gestión de la plataforma de firma.
+Número ilimitado de firmas durante la vigencia del contrato, dentro de las condiciones establecidas para el servicio contratado.
+Soporte para los dispositivos de firma actualmente disponibles en el Ayuntamiento, hasta el número máximo contemplado en la oferta adjudicada.
+Mantenimiento correctivo y evolutivo de la plataforma.
+Actualización del software y aplicación de parches de seguridad.
+Soporte técnico durante toda la vigencia del contrato.
+Resolución de incidencias relacionadas con el servicio.
+Mantenimiento de las integraciones existentes con los sistemas municipales.
+Conservación y gestión de las evidencias electrónicas asociadas a las firmas.
+Garantía de disponibilidad del servicio conforme a los niveles establecidos en el contrato.
+No forma parte del objeto del presente contrato el suministro de nuevas tablets, dispositivos de firma, soportes, accesorios u otro equipamiento hardware, al disponer actualmente el Ayuntamiento de los dispositivos necesarios para la prestación del servicio.
+Tampoco se contempla una nueva fase de implantación hardware, salvo aquellas actuaciones de configuración o actualización de software que resulten necesarias para garantizar la continuidad del servicio.
+La duración prevista del servicio será de cuatro años.
+
+Análisis Técnico
+
+
+
+
+
+Características generales
+El sistema de firma electrónica biométrica deberá permitir la realización de firmas manuscritas electrónicas mediante dispositivos táctiles y la generación de evidencias biométricas asociadas a dichas firmas.
+La solución deberá prestarse en modalidad Software as a Service (SaaS) y deberá garantizar la seguridad, disponibilidad e integridad de la información gestionada.
+El servicio deberá permitir, como mínimo:
+El servicio dará cobertura a un mínimo de 6 tablets.
+Número ilimitado de firmas biométricas durante la vigencia del contrato.
+Visualizar el documento que se va a firmar.
+Garantizar que el documento mostrado al ciudadano coincide con el documento que finalmente se firma.
+Realizar la firma manuscrita sobre el dispositivo táctil.
+Capturar los parámetros biométricos de la firma.
+Generar las evidencias electrónicas correspondientes.
+Vincular de forma segura las evidencias con el documento firmado.
+Generar una firma electrónica avanzada sobre el documento y sus metadatos.
+Permitir la intervención de uno o varios firmantes.
+Devolver el documento firmado al sistema solicitante.
+Permitir, cuando corresponda, el envío del documento firmado a los firmantes.
+Mantener la trazabilidad de las operaciones realizadas.
+Disponer de mecanismos adecuados de seguridad y cifrado.
+
+Consideraciones técnicas y requerimientos 
+El servicio deberá cumplir, como mínimo, los siguientes requisitos:
+
+Modalidad SaaS: El servicio deberá ser prestado en modalidad SaaS por un prestador de servicios que garantice la seguridad y disponibilidad de la plataforma.
+El Ayuntamiento no deberá asumir la instalación ni mantenimiento de la infraestructura tecnológica necesaria para la prestación del servicio.
+
+Seguridad y cumplimiento normativo: El servicio deberá disponer de las correspondientes medidas de seguridad exigibles a los sistemas que prestan servicios a una Administración Pública y deberá cumplir las condiciones establecidas en el Esquema Nacional de Seguridad que resulten de aplicación.
+El licitador deberá aportar la documentación acreditativa correspondiente a las certificaciones o declaraciones de conformidad exigibles a la solución ofertada.
+La solución deberá cumplir igualmente con la normativa aplicable a los servicios de confianza y firma electrónica, incluyendo el Reglamento (UE) 910/2014, relativo a la identificación electrónica y los servicios de confianza para las transacciones electrónicas (eIDAS), en los términos que resulten de aplicación.
+
+Sello de tiempo: Las firmas realizadas deberán incorporar un sello de tiempo cualificado cuando resulte necesario para garantizar la validez y trazabilidad temporal de la firma, estando incluido su coste dentro del precio del servicio.
+
+Captura de datos biométricos: La solución deberá permitir la captura de los parámetros biométricos necesarios para la valoración de la firma manuscrita, incluyendo, al menos, información relativa a:
+Coordenadas X e Y.
+Velocidad de la traza.
+Presión.
+Inclinación, cuando el dispositivo utilizado permita su captura.
+
+Los datos biométricos deberán gestionarse de forma segura y deberán incorporarse a las evidencias electrónicas asociadas al documento firmado.
+
+Garantía de correspondencia entre documento y firma: La solución deberá garantizar el principio WYSIWYS ("What You See Is What You Sign"), de forma que el documento que el ciudadano visualiza antes de proceder a su firma sea exactamente el documento sobre el que se genera la firma electrónica.
+
+Canal seguro: Las evidencias generadas por los dispositivos deberán transmitirse mediante canales seguros hasta la plataforma de prestación del servicio.
+
+Integridad del documento: La solución deberá garantizar la integridad del documento firmado mediante la aplicación de mecanismos de firma electrónica sobre el documento y las evidencias asociadas.
+
+Estándares biométricos: La solución deberá utilizar mecanismos de captura y codificación de los datos biométricos que permitan su posterior valoración pericial y deberán cumplir, cuando resulte aplicable, los estándares ISO correspondientes a la captura y codificación de datos biométricos de firma manuscrita.
+
+Firmas múltiples: La solución deberá permitir la intervención de varios firmantes sobre un mismo documento y gestionar correctamente el flujo de firma correspondiente.
+
+Disponibilidad: El servicio deberá garantizar una disponibilidad mínima adecuada para asegurar la continuidad de los procedimientos municipales que dependen de la plataforma.
+Como mínimo, se mantendrá el nivel de disponibilidad establecido en el contrato anterior, que fijaba un objetivo mínimo del 99,75 %.
+
+Integraciones:
+La solución deberá mantener las integraciones actualmente disponibles con los sistemas corporativos del Ayuntamiento.
+En particular, deberá permitir su integración de manera nativa con:
+El sistema de registro de entrada y salida implantado y operativo en el Ayuntamiento.
+El software de gestión de expedientes corporativo.
+
+Se requiere disponer de la posibilidad de poder enviar un documento al dispositivo bajo demanda y de manera independiente a la integración pedida.
+El adjudicatario deberá garantizar la continuidad de las integraciones existentes durante toda la vigencia del contrato.
+Cualquier modificación de los sistemas municipales o de la plataforma de firma que pueda afectar a dichas integraciones deberá ser comunicada al Ayuntamiento con antelación suficiente.
+Asimismo, cuando una actualización de la plataforma requiera modificaciones técnicas para mantener las integraciones existentes, estas actuaciones estarán incluidas dentro del servicio contratado, sin que puedan suponer un coste adicional para el Ayuntamiento cuando sean necesarias para mantener la funcionalidad contratada.
+
+Mantenimiento y actualización del servicio:
+El servicio deberá mantenerse actualizado durante toda la vigencia del contrato.
+El mantenimiento deberá incluir, como mínimo:
+Corrección de errores.
+Actualizaciones de seguridad.
+Actualizaciones menores.
+Nuevas versiones de la plataforma.
+Mejoras funcionales incorporadas por el fabricante o proveedor.
+Adaptaciones necesarias para garantizar la compatibilidad con los sistemas municipales soportados.
+Mantenimiento de las integraciones existentes.
+
+El adjudicatario deberá garantizar que las actualizaciones no provoquen una pérdida de funcionalidad respecto de las prestaciones inicialmente contratadas.
+Cuando una actualización afecte a funcionalidades utilizadas por el Ayuntamiento, deberá facilitarse la documentación necesaria y, cuando proceda, las instrucciones de configuración correspondientes.
+
+Soporte técnico y Acuerdos de Nivel de Servicio (SLA):
+El adjudicatario deberá proporcionar durante toda la vigencia del contrato un servicio de soporte técnico destinado a resolver las incidencias que puedan producirse en la utilización de la plataforma.
+El servicio deberá incluir:
+Servicio de atención: Se deberá proporcionar un canal de atención que permita al Ayuntamiento comunicar incidencias y solicitar asistencia técnica.
+Como mínimo, se mantendrá un servicio de atención telefónica de lunes a viernes, al menos en horario de 8:00 a 15:00 horas.
+Asistencia remota: El adjudicatario deberá disponer de mecanismos de asistencia remota que permitan diagnosticar y resolver incidencias relacionadas con la plataforma y sus integraciones.
+Tiempo de respuesta: Se establecen como niveles mínimos de servicio:
+Tipo
+Gravedad
+Tiempo máximo de respuesta
+Tiempo máximo de resolución
+1
+Muy grave
+1 hora
+4 horas
+2
+Grave
+1 hora
+16 horas
+3
+Leve
+1 hora
+48 horas
+
+Se entenderá por:
+Tiempo de respuesta: tiempo transcurrido desde la comunicación de la incidencia hasta el inicio de las actuaciones encaminadas a su resolución.
+Tiempo de resolución: tiempo transcurrido desde la comunicación de la incidencia hasta la solución de la misma o la aplicación de una solución alternativa que permita recuperar la funcionalidad afectada.
+Se considerará incidencia de gravedad:
+Tipo 1 – Muy grave: incidencia que provoque la indisponibilidad generalizada del servicio de firma o impida la realización de los procedimientos municipales que dependan del sistema.
+Tipo 2 – Grave: incidencia que afecte parcialmente al servicio o a un conjunto significativo de usuarios o funcionalidades.
+Tipo 3 – Leve: incidencia que afecte a una funcionalidad no crítica y no impida el funcionamiento general del servicio.
+
+Seguridad, confidencialidad y protección de datos
+El adjudicatario deberá cumplir toda la normativa vigente en materia de protección de datos de carácter personal, seguridad de la información y servicios de confianza.
+Dado que el servicio puede implicar el tratamiento de datos personales y datos asociados a la firma manuscrita de los ciudadanos, el adjudicatario deberá garantizar las medidas técnicas y organizativas necesarias para preservar la confidencialidad, integridad, disponibilidad y trazabilidad de la información.
+Los datos únicamente podrán utilizarse para las finalidades relacionadas con la prestación del servicio contratado.
+El adjudicatario deberá mantener la información protegida frente a accesos no autorizados, pérdida, alteración o destrucción.
+Asimismo, deberá garantizar que el acceso a los sistemas y datos por parte de su personal se encuentre limitado a las necesidades estrictamente necesarias para la prestación del servicio.
+
+
+Formación y Capacitación técnica
+
+Al tratarse de un servicio ya implantado, no será necesaria una nueva fase de formación general ni una implantación inicial del sistema.
+No obstante, el adjudicatario deberá facilitar la documentación electrónica actualizada necesaria para la correcta utilización y administración del servicio.
+Cuando se produzcan cambios relevantes en la plataforma que afecten a los usuarios o administradores municipales, el adjudicatario deberá facilitar las correspondientes instrucciones o documentación de actualización.
+En caso de que el Ayuntamiento lo solicite, el adjudicatario deberá proporcionar asistencia técnica o sesiones de formación relacionadas con nuevas funcionalidades relevantes introducidas durante la vigencia del contrato.
+
+Oferta económica.
+
+Los licitadores deberán presentar una oferta económica en la que se indique claramente:
+Importe anual del servicio de firma electrónica biométrica.
+Importe anual correspondiente al entorno de gestión de la plataforma.
+Importe total anual ofertado.
+Importe total correspondiente a los 48 meses de duración del contrato.
+Impuestos aplicables.
+La oferta deberá incluir todos los costes necesarios para la correcta prestación del servicio durante toda la vigencia del contrato.
+No podrán repercutirse al Ayuntamiento costes adicionales derivados del mantenimiento ordinario, actualizaciones, soporte técnico o conservación de las funcionalidades contratadas.
+
+Facturación.
+
+El servicio se facturará con periodicidad anual.
+Se realizarán cuatro facturas, correspondientes a cada una de las anualidades de prestación del servicio.
+Cada factura comprenderá la cuota correspondiente al servicio de firma electrónica biométrica y al entorno de gestión contratado.
+La primera factura corresponderá al periodo inicial de prestación del servicio y las siguientes a cada una de las anualidades sucesivas.
+Las facturas deberán presentarse electrónicamente a través de la plataforma FACe, utilizando los códigos DIR3 (L01110355) correspondientes al Excmo. Ayuntamiento de Tarifa.
+
+
+Documento de Propuesta/Oferta Económica
+
+Los licitadores deberán presentar un documento de propuesta económica en el que se indiquen de forma clara los importes correspondientes a las prestaciones objeto del contrato.
+La propuesta deberá incluir todos los costes asociados a la prestación del servicio, incluyendo licencias, mantenimiento, soporte técnico, actualizaciones, utilización de la plataforma y cualquier otro concepto necesario para garantizar la correcta ejecución del contrato.
+
+En Tarifa, a la fecha indicada en la firma electrónica.
+EL TÉCNICO TIC
+
+
+
